@@ -41,19 +41,14 @@ def save_json(filepath, data):
     with open(filepath, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2)
 
-# Global index to maintain round-robin rotation across batches
 api_key_index = 0
 
 def evaluate_batch(prompt, api_keys, expected_count):
     global api_key_index
     
-    # Iterate through models in fallback order
     for model_name in MODELS_TO_TRY:
-        # Try up to the number of available API keys for the current model
         for _ in range(len(api_keys)):
             current_key = api_keys[api_key_index]
-            
-            # Advance the global index for the next request
             api_key_index = (api_key_index + 1) % len(api_keys)
             
             client = genai.Client(api_key=current_key)
@@ -71,7 +66,6 @@ def evaluate_batch(prompt, api_keys, expected_count):
                     return response.parsed.results
             except Exception as e:
                 error_msg = str(e).lower()
-                # Intercept rate/quota limits
                 if "429" in error_msg or "quota" in error_msg or "resource exhausted" in error_msg:
                     print(f"Rate limit hit on {model_name} with key ending in ...{current_key[-4:]}. Rotating key.")
                     continue
@@ -90,7 +84,6 @@ def main():
     with open(INTERESTS_FILE, 'r', encoding='utf-8') as f:
         interests = f.read()
         
-    # Load and clean the comma-separated list of API keys
     keys_env = os.environ.get("GEMINI_API_KEYS", "")
     api_keys = [k.strip() for k in keys_env.split(',') if k.strip()]
     
@@ -100,7 +93,6 @@ def main():
     archive = load_json(ARCHIVE_FILE, [])
     proxy_db = load_json(PROXY_DB_FILE, {})
     
-    # 1. Extract feeds from OPML
     feeds = []
     tree = ET.parse(OPML_FILE)
     for outline in tree.getroot().iter('outline'):
@@ -112,13 +104,26 @@ def main():
     now = datetime.now(timezone.utc)
     time_threshold = now - timedelta(hours=24)
     
-    # 2. Process feeds
     for feed_info in feeds:
         url = feed_info['url']
-        if url not in proxy_db:
-            proxy_db[url] = {"title": feed_info['title'], "articles": []}
-            
         parsed = feedparser.parse(url)
+        
+        orig_title = parsed.feed.get('title', feed_info['title'])
+        orig_link = parsed.feed.get('link', url)
+        orig_desc = parsed.feed.get('description', parsed.feed.get('subtitle', orig_title))
+        
+        if url not in proxy_db:
+            proxy_db[url] = {
+                "title": orig_title,
+                "link": orig_link,
+                "description": orig_desc,
+                "articles": []
+            }
+        else:
+            proxy_db[url]['title'] = orig_title
+            proxy_db[url]['link'] = orig_link
+            proxy_db[url]['description'] = orig_desc
+            
         to_process = []
         
         for entry in parsed.entries:
@@ -139,7 +144,6 @@ def main():
             
             to_process.append(entry)
             
-        # 3. Batch and evaluate with rotation and fallback
         for i in range(0, len(to_process), BATCH_SIZE):
             batch = to_process[i:i+BATCH_SIZE]
             
@@ -154,7 +158,6 @@ def main():
                     art = batch[idx]
                     art_id = art.get('id', art.get('link'))
                     
-                    # Log to archive regardless of outcome to prevent reprocessing
                     archive.append(art_id)
                     
                     if eval_result.is_interesting:
@@ -166,13 +169,10 @@ def main():
                             'published': art.get('published', art.get('updated', ''))
                         })
             
-            # Brief pause to smooth out requests across the current key
             time.sleep(1)
             
-        # Keep only the 50 most recent matched articles to prevent infinite database growth
         proxy_db[url]['articles'] = proxy_db[url]['articles'][-50:]
 
-    # Save state files for the next run
     save_json(ARCHIVE_FILE, archive)
     save_json(PROXY_DB_FILE, proxy_db)
     
@@ -183,9 +183,9 @@ def main():
             
         fg = FeedGenerator()
         fg.id(url)
-        fg.title(f"Proxy - {data['title']}")
-        fg.link(href=url, rel='alternate')
-        fg.description(f"AI Filtered Feed for: {data['title']}")
+        fg.title(data['title']) 
+        fg.link(href=data['link'], rel='alternate')
+        fg.description(data['description']) 
         
         for art in data['articles']:
             fe = fg.add_entry()
@@ -204,6 +204,36 @@ def main():
                 
         safe_title = "".join([c if c.isalnum() else "_" for c in data['title']])
         fg.rss_file(f"{OUTPUT_DIR}/{safe_title}.xml")
+
+    # 5. Generate OPML file for importing to FreshRSS
+    gh_pages_url = os.environ.get("GH_PAGES_URL", "").rstrip('/')
+    if not gh_pages_url:
+        print("Warning: GH_PAGES_URL environment variable not set. Using placeholder in OPML.")
+        gh_pages_url = "https://YOUR_USERNAME.github.io/YOUR_REPO_NAME"
+
+    opml = ET.Element("opml", version="2.0")
+    head = ET.SubElement(opml, "head")
+    ET.SubElement(head, "title").text = "AI Filtered Proxy Feeds"
+    body = ET.SubElement(opml, "body")
+    
+    for url, data in proxy_db.items():
+        if not data['articles']:
+            continue
+            
+        safe_title = "".join([c if c.isalnum() else "_" for c in data['title']])
+        proxy_xml_url = f"{gh_pages_url}/{safe_title}.xml"
+        
+        ET.SubElement(body, "outline", {
+            "type": "rss",
+            "text": data['title'],
+            "title": data['title'],
+            "xmlUrl": proxy_xml_url,
+            "htmlUrl": data['link']
+        })
+        
+    tree = ET.ElementTree(opml)
+    ET.indent(tree, space="  ", level=0)
+    tree.write("proxy_feeds.opml", encoding="utf-8", xml_declaration=True)
 
 if __name__ == "__main__":
     main()
