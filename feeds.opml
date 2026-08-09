@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>Fresh RSS</title>
+    <dateCreated>Sun, 09 Aug 2026 18:13:32 +0200</dateCreated>
+  </head>
+  <body>
+    <outline text="BBC News">
+      <outline text="BBC News | Astronomy" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/topics/c77jz3md44wt/rss.xml" htmlUrl="https://www.bbc.co.uk/news/topics/c77jz3md44wt" description="BBC News - Astronomy"/>
+      <outline text="BBC News | Culture" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml" htmlUrl="https://www.bbc.co.uk/news/entertainment_and_arts" description="BBC News - Culture"/>
+      <outline text="BBC News | Family &amp; Education" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/education/rss.xml" htmlUrl="https://www.bbc.co.uk/news/education" description="BBC News - Family &amp; Education"/>
+      <outline text="BBC News | Headlines" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/rss.xml?edition=uk" htmlUrl="https://www.bbc.co.uk/news" description="BBC News - News Front Page"/>
+      <outline text="BBC News | Health" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/health/rss.xml" htmlUrl="https://www.bbc.co.uk/news/health" description="BBC News - Health"/>
+      <outline text="BBC News | InDepth" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/bbcindepth/rss.xml" htmlUrl="https://www.bbc.co.uk/news/bbcindepth" description="BBC News - BBC InDepth"/>
+      <outline text="BBC News | Running" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/topics/c55lx863094t/rss.xml" htmlUrl="https://www.bbc.co.uk/news/topics/c55lx863094t" description="BBC News - Running"/>
+      <outline text="BBC News | Science" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/science_and_environment/rss.xml" htmlUrl="https://www.bbc.co.uk/news/science_and_environment" description="BBC News - Science &amp; Environment"/>
+      <outline text="BBC News | Scotland" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/scotland/rss.xml#force_feed" htmlUrl="http://www.bbc.co.uk/news/scotland" description="BBC News - Scotland"/>
+      <outline text="BBC News | Space" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/topics/cml9e982d1dt/rss.xml" htmlUrl="https://www.bbc.co.uk/news/topics/cml9e982d1dt" description="BBC News - Space"/>
+      <outline text="BBC News | Technology" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/technology/rss.xml" htmlUrl="https://www.bbc.co.uk/news/technology" description="BBC News - Technology"/>
+      <outline text="BBC News | World" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl="https://www.bbc.co.uk/news/world" description="BBC News - World"/>
+      <outline text="BBC Sport | Athletics" type="rss" xmlUrl="https://feeds.bbci.co.uk/sport/athletics/rss.xml" htmlUrl="https://www.bbc.co.uk/sport/athletics" description="BBC Sport - Athletics"/>
+    </outline>
+    <outline text="Entertainment">
+      <outline text="Film" type="rss" xmlUrl="https://deadline.com/v/film/feed/" htmlUrl="https://deadline.com/" description="Hollywood Entertainment Breaking News"/>
+      <outline text="TV" type="rss" xmlUrl="https://deadline.com/v/tv/feed/" htmlUrl="https://deadline.com/" description="Hollywood Entertainment Breaking News"/>
+    </outline>
+    <outline text="Glasgow Newsletter">
+      <outline text="BBC News | Glasgow" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/scotland/glasgow_and_west/rss.xml" htmlUrl="https://www.bbc.co.uk/news/scotland/glasgow_and_west" description="BBC News - Glasgow &amp; West Scotland"/>
+      <outline text="East Dunbartonshire Council" type="rss" xmlUrl="https://fetchrss.com/feed/1teVDZDLhGVW1vZPso48j3Bi.rss" htmlUrl="https://www.facebook.com/edunbartonshirecouncil" description="The official page for East Dunbartonshire Council. We welcome your comments and will try to reply. Please follow our Social Media House Rules to keep our channels informative and safe for all - www.eastdunbarton.gov.uk/social-media-house-rules"/>
+      <outline text="Glasgow Live" type="rss" xmlUrl="https://www.glasgowlive.co.uk/?service=rss" htmlUrl="https://www.glasgowlive.co.uk/" description="RSS feed from GlasgowLive"/>
+      <outline text="GlasgowLive - Home" type="rss" xmlUrl="https://glasgow-live-rss-proxy.daniel-went.workers.dev/" htmlUrl="https://www.glasgowlive.co.uk/" description="RSS feed from GlasgowLive"/>
+      <outline text="Glasgow Times | News" type="rss" xmlUrl="https://www.glasgowtimes.co.uk/news/rss/" htmlUrl="https://www.glasgowtimes.co.uk/news/" description="Glasgow Times News"/>
+      <outline text="Glasgow Times | What's On Glasgow" type="rss" xmlUrl="https://www.glasgowtimes.co.uk/entertainment/rss/" htmlUrl="https://www.glasgowtimes.co.uk/entertainment/" description="Glasgow Times What's On Glasgow"/>
+      <outline text="GlasgowWorld Bearsden" type="rss" xmlUrl="https://www.glasgowworld.com/topic/bearsden/rss" htmlUrl="https://www.glasgowworld.com/topic/bearsden/rss" description="Visit now for the latest news direct from GlasgowWorld Bearsden and updated throughout the day"/>
+      <outline text="Glasgow | The Scottish Sun" type="rss" xmlUrl="https://www.thescottishsun.co.uk/where/glasgow/feed/" htmlUrl="https://www.thescottishsun.co.uk/" description="Latest news, sports, showbiz, and celebrities"/>
+      <outline text="Latest Glasgow &amp; West News | STV News" type="rss" xmlUrl="https://news.stv.tv/section/west-central/feed" htmlUrl="https://news.stv.tv/section/west-central"/>
+      <outline text="Milngavie.co.uk" type="rss" xmlUrl="https://milngavie.co.uk/feed/" htmlUrl="https://milngavie.co.uk/" description="the official guide to Milngavie near Glasgow"/>
+      <outline text="runABC Scotland Newsdesk" type="rss" xmlUrl="https://runabc.co.uk/feeds/scotland-news" htmlUrl="https://runabc.co.uk/news" description="All the latest local, national and international running news and events from the UK"/>
+      <outline text="The Bell" type="rss" xmlUrl="https://www.glasgowbell.co.uk/rss/" htmlUrl="https://www.glasgowbell.co.uk/" description="Glasgow's new quality newspaper, publishing unmissable stories about the city. Join our free mailing list."/>
+      <outline text="The Herald" type="rss" xmlUrl="https://www.heraldscotland.com/news/homenews/rss/" htmlUrl="https://www.heraldscotland.com/news/homenews/" description="The Herald News"/>
+      <outline text="What's On | EDLC" type="rss" xmlUrl="https://fetchrss.com/feed/1teVDZDLhGVW1wsoyW0RF6ny.rss" htmlUrl="https://www.edlc.co.uk/whats-on/" description="Discover upcoming events and club activities. Stay updated with what's happening around you."/>
+    </outline>
+    <outline text="Hobbies">
+      <outline text="Google Scholar" type="rss" xmlUrl="https://outputs.lighthouseapp.io/rss-feeds/walker_heidenreich30@free-mail.liamel.com.xml" htmlUrl="https://scholar.google.com/" description="RSS feed for https://scholar.google.com/ generated by Lighthouse"/>
+      <outline text="Information is Beautiful" type="rss" xmlUrl="https://feeds.feedburner.com/InformationIsBeautiful" htmlUrl="https://informationisbeautiful.net/" description="Distilling the world's data, information &amp; knowledge into beautiful infographics &amp; visualizations"/>
+      <outline text="Lp(a) Forum" type="rss" xmlUrl="https://lpaforum.org/feed/" htmlUrl="https://lpaforum.org/"/>
+      <outline text="Post Factum" type="rss" xmlUrl="https://outputs.lighthouseapp.io/rss-feeds/ila.wiegand1@free-mail.liamel.com.xml" htmlUrl="https://outputs.lighthouseapp.io/rss-feeds/ila.wiegand1@free-mail.liamel.com.xml" description="RSS feed for 2025-12-26 12:48:51&#9;A feed could not be found at `https://www.deeplearning.ai/the-batch/`; the status code is `200` and content-type is `text/html; charset=utf-8` [https://www.deeplearning.ai/the-batch/] generated by Lighthouse"/>
+      <outline text="The High School of Glasgow" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGAlcnvVM7QPwo8Xr1GnNxw" htmlUrl="https://www.youtube.com/channel/UCGAlcnvVM7QPwo8Xr1GnNxw" frss:CURLOPT_USERAGENT="Mozilla/5.0"/>
+    </outline>
+    <outline text="Local News">
+      <outline text="Glasgow &amp; Bearsden Digest Feed" type="rss" xmlUrl="https://lincoln149.alwaysdata.net/glasgownewsletter-rss.xml" htmlUrl="https://lincoln149.alwaysdata.net/glasgownewsletter-rss.xml" description="Automated email-to-RSS feed for Glasgow &amp; Bearsden local news digests"/>
+      <outline text="Glasgow Live" type="rss" xmlUrl="https://www.glasgowlive.co.uk/all-about/bearsden?service=rss" htmlUrl="https://www.glasgowlive.co.uk/" description="RSS feed from GlasgowLive"/>
+      <outline text="UK Met Office" type="rss" xmlUrl="https://www.metoffice.gov.uk/public/data/PWSCache/WarningsRSS/Region/st" htmlUrl="https://www.metoffice.gov.uk/weather/warnings-and-advice/uk-warnings" description="Weather warnings of severe and extreme weather from the Met Office"/>
+    </outline>
+    <outline text="Running">
+      <outline text="DC Rainmaker" type="rss" xmlUrl="https://www.dcrainmaker.com/feed" htmlUrl="https://www.dcrainmaker.com/"/>
+      <outline text="Let's Run" type="rss" xmlUrl="https://outputs.lighthouseapp.io/rss-feeds/telly81@free-mail.liamel.com.xml" htmlUrl="https://www.letsrun.com/" description="RSS feed for https://www.letsrun.com generated by Lighthouse"/>
+    </outline>
+  </body>
+</opml>
