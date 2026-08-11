@@ -17,6 +17,7 @@ ARCHIVE_FILE = "archive.json"
 PROXY_DB_FILE = "proxy_db.json"
 OUTPUT_DIR = "public"
 BATCH_SIZE = 5
+SINGLE_FEED_ID = "bbc_news_ai_filtered"
 
 # Fallback sequence
 MODELS_TO_TRY = [
@@ -93,6 +94,15 @@ def main():
     archive = load_json(ARCHIVE_FILE, [])
     proxy_db = load_json(PROXY_DB_FILE, {})
     
+    # Initialize the single feed structure if it doesn't exist
+    if SINGLE_FEED_ID not in proxy_db:
+        proxy_db[SINGLE_FEED_ID] = {
+            "title": "BBC News AI Filtered",
+            "link": "https://www.bbc.co.uk/news",
+            "description": "AI Filtered Articles combined into a single feed.",
+            "articles": []
+        }
+    
     feeds = []
     tree = ET.parse(OPML_FILE)
     for outline in tree.getroot().iter('outline'):
@@ -108,22 +118,6 @@ def main():
         url = feed_info['url']
         parsed = feedparser.parse(url)
         
-        orig_title = parsed.feed.get('title', feed_info['title'])
-        orig_link = parsed.feed.get('link', url)
-        orig_desc = parsed.feed.get('description', parsed.feed.get('subtitle', orig_title))
-        
-        if url not in proxy_db:
-            proxy_db[url] = {
-                "title": orig_title,
-                "link": orig_link,
-                "description": orig_desc,
-                "articles": []
-            }
-        else:
-            proxy_db[url]['title'] = orig_title
-            proxy_db[url]['link'] = orig_link
-            proxy_db[url]['description'] = orig_desc
-            
         to_process = []
         
         for entry in parsed.entries:
@@ -147,7 +141,9 @@ def main():
         for i in range(0, len(to_process), BATCH_SIZE):
             batch = to_process[i:i+BATCH_SIZE]
             
-            prompt = f"User interests:\n{interests}\n\nEvaluate if these {len(batch)} articles align with the user's interests. Return exactly {len(batch)} boolean values in the exact order of the articles provided.\n\n"
+            # Updated prompt to explicitly enforce NON-INTERESTS
+            prompt = f"User filtering criteria:\n{interests}\n\nEvaluate if these {len(batch)} articles align with the user's interests. An article MUST be rejected (marked false) if it matches any of the NON-INTERESTS. Return exactly {len(batch)} boolean values in the exact order of the articles provided.\n\n"
+            
             for idx, art in enumerate(batch):
                 prompt += f"--- Article {idx+1} ---\nTitle: {art.get('title')}\nSummary: {art.get('summary', '')[:600]}\n\n"
                 
@@ -161,7 +157,7 @@ def main():
                     archive.append(art_id)
                     
                     if eval_result.is_interesting:
-                        proxy_db[url]['articles'].append({
+                        proxy_db[SINGLE_FEED_ID]['articles'].append({
                             'id': art_id,
                             'title': art.get('title', 'No Title'),
                             'link': art.get('link', ''),
@@ -171,23 +167,35 @@ def main():
             
             time.sleep(1)
             
-        proxy_db[url]['articles'] = proxy_db[url]['articles'][-50:]
+    # Sort articles by publication date (newest first) and keep the 100 most recent
+    def get_pub_time(article):
+        pub_str = article.get('published', '')
+        if pub_str:
+            try:
+                dt = date_parser.parse(pub_str)
+                if dt.tzinfo is None:
+                    dt = dt.replace(tzinfo=timezone.utc)
+                return dt
+            except Exception:
+                pass
+        return datetime.min.replace(tzinfo=timezone.utc)
+
+    proxy_db[SINGLE_FEED_ID]['articles'].sort(key=get_pub_time, reverse=True)
+    proxy_db[SINGLE_FEED_ID]['articles'] = proxy_db[SINGLE_FEED_ID]['articles'][:100]
 
     save_json(ARCHIVE_FILE, archive)
     save_json(PROXY_DB_FILE, proxy_db)
     
-    # 4. Generate Proxy RSS Feeds
-    for url, data in proxy_db.items():
-        if not data['articles']:
-            continue
-            
+    # Generate the single Proxy RSS Feed
+    feed_data = proxy_db[SINGLE_FEED_ID]
+    if feed_data['articles']:
         fg = FeedGenerator()
-        fg.id(url)
-        fg.title(data['title']) 
-        fg.link(href=data['link'], rel='alternate')
-        fg.description(data['description']) 
+        fg.id(feed_data['link'])
+        fg.title(feed_data['title']) 
+        fg.link(href=feed_data['link'], rel='alternate')
+        fg.description(feed_data['description']) 
         
-        for art in data['articles']:
+        for art in feed_data['articles']:
             fe = fg.add_entry()
             fe.id(art['id'])
             fe.title(art['title'])
@@ -202,38 +210,7 @@ def main():
                 except Exception:
                     pass
                 
-        safe_title = "".join([c if c.isalnum() else "_" for c in data['title']])
-        fg.rss_file(f"{OUTPUT_DIR}/{safe_title}.xml")
-
-    # 5. Generate OPML file for importing to FreshRSS
-    gh_pages_url = os.environ.get("GH_PAGES_URL", "").rstrip('/')
-    if not gh_pages_url:
-        print("Warning: GH_PAGES_URL environment variable not set. Using placeholder in OPML.")
-        gh_pages_url = "https://YOUR_USERNAME.github.io/YOUR_REPO_NAME"
-
-    opml = ET.Element("opml", version="2.0")
-    head = ET.SubElement(opml, "head")
-    ET.SubElement(head, "title").text = "AI Filtered Proxy Feeds"
-    body = ET.SubElement(opml, "body")
-    
-    for url, data in proxy_db.items():
-        if not data['articles']:
-            continue
-            
-        safe_title = "".join([c if c.isalnum() else "_" for c in data['title']])
-        proxy_xml_url = f"{gh_pages_url}/{safe_title}.xml"
-        
-        ET.SubElement(body, "outline", {
-            "type": "rss",
-            "text": data['title'],
-            "title": data['title'],
-            "xmlUrl": proxy_xml_url,
-            "htmlUrl": data['link']
-        })
-        
-    tree = ET.ElementTree(opml)
-    ET.indent(tree, space="  ", level=0)
-    tree.write("proxy_feeds.opml", encoding="utf-8", xml_declaration=True)
+        fg.rss_file(f"{OUTPUT_DIR}/BBC_News_AI_Filtered.xml")
 
 if __name__ == "__main__":
     main()
