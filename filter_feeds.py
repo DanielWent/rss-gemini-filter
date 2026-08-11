@@ -1,7 +1,12 @@
+import sys
+print("[BOOT] Starting script execution...", flush=True)
+
 import os
 import json
 import time
 import math
+import socket
+import urllib.request
 from datetime import datetime, timedelta, timezone
 from dateutil import parser as date_parser
 import feedparser
@@ -9,6 +14,11 @@ from feedgen.feed import FeedGenerator
 from google import genai
 from google.genai import types
 from pydantic import BaseModel
+
+print("[BOOT] All modules imported successfully.", flush=True)
+
+# Prevent any underlying socket from hanging infinitely
+socket.setdefaulttimeout(30)
 
 # Configuration
 INTERESTS_FILE = "interests.txt"
@@ -125,7 +135,7 @@ def execute_with_retry(model, prompt_text, expected_count):
             raise Exception("ALL_KEYS_EXHAUSTED")
             
         if wait_time > 0:
-            print(f"[Rate Limit Pause] Local limits reached for model {model}. Pausing for {int(wait_time/1000)}s...")
+            print(f"[Rate Limit Pause] Local limits reached for model {model}. Pausing for {int(wait_time/1000)}s...", flush=True)
             time.sleep(wait_time / 1000.0)
             continue
             
@@ -157,23 +167,23 @@ def execute_with_retry(model, prompt_text, expected_count):
             
             if "404" in error_msg or "not_found" in error_msg:
                 state['status'] = 'exhausted'
-                print(f"[Model Unavailable] 404 error. Key permanently disabled for model {model}.")
+                print(f"[Model Unavailable] 404 error. Key permanently disabled for model {model}.", flush=True)
                 continue
                 
             if "429" in error_msg or "quota" in error_msg or "resource exhausted" in error_msg:
                 if "perday" in error_msg or ("freetier" in error_msg and "day" in error_msg):
                     state['status'] = 'exhausted'
-                    print(f"[Quota Exhausted] Daily limit reached. Key permanently disabled for model {model}.")
+                    print(f"[Quota Exhausted] Daily limit reached. Key permanently disabled for model {model}.", flush=True)
                     continue
                 elif "perminute" in error_msg or "rpm" in error_msg:
                     state['cooldown_until'] = now_ms + 2000
-                    print(f"[Rate Limit] RPM exceeded. Cooldown for 2s on key for model {model}.")
+                    print(f"[Rate Limit] RPM exceeded. Cooldown for 2s on key for model {model}.", flush=True)
                     continue
                 else:
                     state['consecutive_generic_429s'] += 1
                     cooldown_ms = min(60000 * state['consecutive_generic_429s'], 300000)
                     state['cooldown_until'] = now_ms + cooldown_ms
-                    print(f"[Rate Limit Hit] Generic 429 on key for model {model}. Cooldown set for {cooldown_ms/1000}s.")
+                    print(f"[Rate Limit Hit] Generic 429 on key for model {model}. Cooldown set for {cooldown_ms/1000}s.", flush=True)
                     time.sleep(5)
                     continue
 
@@ -189,28 +199,26 @@ def evaluate_batch(prompt, expected_count):
         
         while attempts < max_attempts:
             try:
-                # Execution returns the results if successful
                 results = execute_with_retry(model, prompt, expected_count)
-                # Return both the results and the model that successfully processed them
                 return results, model 
             except Exception as err:
                 err_msg = str(err)
                 
                 if err_msg == "ALL_KEYS_EXHAUSTED":
-                    print(f"[Fallback] Model {model} is out of quota on all keys. Pivoting to next model.")
+                    print(f"[Fallback] Model {model} is out of quota on all keys. Pivoting to next model.", flush=True)
                     break 
                     
                 if "API_SERVER_ERROR" in err_msg or "API_EMPTY_RESPONSE" in err_msg:
                     attempts += 1
                     if attempts < max_attempts:
                         wait_time = 2000 * (2 ** attempts)
-                        print(f"[Retry] Model {model} returned transient error. Backing off {wait_time}ms...")
+                        print(f"[Retry] Model {model} returned transient error. Backing off {wait_time}ms...", flush=True)
                         time.sleep(wait_time / 1000.0)
                 else:
-                    print(f"[Fatal] Model {model} returned unrecoverable error: {err_msg}. Skipping model.")
+                    print(f"[Fatal] Model {model} returned unrecoverable error: {err_msg}. Skipping model.", flush=True)
                     break
                     
-    print("All models and keys exhausted for this batch.")
+    print("All models and keys exhausted for this batch.", flush=True)
     return None, None
 
 def main():
@@ -240,16 +248,33 @@ def main():
     now = datetime.now(timezone.utc)
     time_threshold = now - timedelta(hours=24)
     
-    print("--- Starting Feed Fetch ---")
-    parsed = feedparser.parse(FEED_URL)
+    print("--- Starting Feed Fetch ---", flush=True)
+    
+    try:
+        req = urllib.request.Request(
+            FEED_URL, 
+            headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36'}
+        )
+        print("Sending network request to FreshRSS...", flush=True)
+        with urllib.request.urlopen(req, timeout=15) as response:
+            raw_rss_data = response.read()
+            
+        print("Data received. Parsing XML...", flush=True)
+        parsed = feedparser.parse(raw_rss_data)
+        
+    except Exception as e:
+        print(f"CRITICAL ERROR: Failed to fetch or parse RSS feed. {e}", flush=True)
+        return
+        
     to_process = []
     skipped_count = 0
     
     for entry in parsed.entries:
         entry_id = entry.get('id', entry.get('link', str(time.time())))
+        entry_title = entry.get('title', '').strip()
         
-        # Memory Check: Skip if already evaluated
-        if entry_id in archive:
+        # Memory Check: Skip if ID OR Title is already evaluated
+        if entry_id in archive or entry_title in archive:
             skipped_count += 1
             continue
             
@@ -259,7 +284,6 @@ def main():
                 dt = date_parser.parse(pub_date)
                 if dt.tzinfo is None:
                     dt = dt.replace(tzinfo=timezone.utc)
-                # 24-Hour Check: Skip if older than time_threshold
                 if dt < time_threshold:
                     skipped_count += 1
                     continue
@@ -268,10 +292,15 @@ def main():
         
         to_process.append(entry)
         
-    print(f"Total articles fetched: {len(parsed.entries)}")
-    print(f"Articles skipped (old or already evaluated): {skipped_count}")
-    print(f"Articles queued for AI evaluation: {len(to_process)}")
-    print("--- Starting AI Filtering ---")
+    print(f"Total articles fetched: {len(parsed.entries)}", flush=True)
+    print(f"Articles skipped (old or already evaluated): {skipped_count}", flush=True)
+    print(f"Articles queued for AI evaluation: {len(to_process)}", flush=True)
+    
+    if not to_process:
+         print("No new articles to process. Exiting.", flush=True)
+         return
+         
+    print("--- Starting AI Filtering ---", flush=True)
         
     total_batches = math.ceil(len(to_process) / BATCH_SIZE)
         
@@ -291,9 +320,13 @@ def main():
             for idx, eval_result in enumerate(evaluations):
                 art = batch[idx]
                 art_id = art.get('id', art.get('link'))
+                art_title = art.get('title', '').strip()
                 
-                # Append to memory immediately after successful API evaluation
-                archive.append(art_id)
+                # Append both the ID and the Title to memory to catch future duplicates
+                if art_id not in archive:
+                    archive.append(art_id)
+                if art_title and art_title not in archive:
+                    archive.append(art_title)
                 
                 if eval_result.is_interesting:
                     included_count += 1
@@ -304,11 +337,11 @@ def main():
                         'description': art.get('summary', ''),
                         'published': art.get('published', art.get('updated', ''))
                     })
-            print(f"[Batch {batch_number}/{total_batches}] Successfully processed via {used_model}. Selected {included_count}/{len(batch)} articles.")
+            print(f"[Batch {batch_number}/{total_batches}] Successfully processed via {used_model}. Selected {included_count}/{len(batch)} articles.", flush=True)
         else:
-            print(f"[Batch {batch_number}/{total_batches}] FAILED to process after exhausting all models and keys.")
+            print(f"[Batch {batch_number}/{total_batches}] FAILED to process after exhausting all models and keys.", flush=True)
             
-    print("--- Sorting & Pruning Database ---")
+    print("--- Sorting & Pruning Database ---", flush=True)
     def get_pub_time(article):
         pub_str = article.get('published', '')
         if pub_str:
@@ -327,7 +360,7 @@ def main():
     save_json(ARCHIVE_FILE, archive)
     save_json(PROXY_DB_FILE, proxy_db)
     
-    print("--- Generating Final RSS File ---")
+    print("--- Generating Final RSS File ---", flush=True)
     feed_data = proxy_db[SINGLE_FEED_ID]
     if feed_data['articles']:
         fg = FeedGenerator()
@@ -353,7 +386,7 @@ def main():
                 
         fg.rss_file(f"{OUTPUT_DIR}/BBC_News_AI_Filtered.xml")
         
-    print(f"Run complete. Filtered RSS feed updated with {len(feed_data['articles'])} total stored articles.")
+    print(f"Run complete. Filtered RSS feed updated with {len(feed_data['articles'])} total stored articles.", flush=True)
 
 if __name__ == "__main__":
     main()
