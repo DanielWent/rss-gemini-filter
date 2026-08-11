@@ -5,6 +5,14 @@
     "description": "AI Filtered Articles combined into a single feed.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/weather/articles/c23592z7gppo#1",
+        "title": "Weather forecast - where will the best view be?",
+        "link": "https://www.bbc.co.uk/weather/articles/c23592z7gppo?at_medium=RSS&at_campaign=rss",
+        "description": "Look to the skies on Wednesday because one of the most spectacular solar eclipses for decades is coming the UK's way with likely optimum viewing conditions for many.",
+        "published": "Tue, 11 Aug 2026 15:02:33 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be4e/live/613f7de0-9596-11f1-af19-5b895ed53d0f.jpg"
+      },
+      {
         "id": "1786450815063874",
         "title": "AI agent hacks gym to get its owner spot in pilates class",
         "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
