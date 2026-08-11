@@ -84,21 +84,17 @@ def save_json(filepath, data):
         json.dump(data, f, indent=2)
 
 def is_valid_article_item(entry):
-    """LAYER 1: Deterministic filter to strip out non-article media and podcasts."""
     link = entry.get('link', '').lower()
     title = entry.get('title', '').lower().strip()
     
-    # Block media URLs
     if any(media in link for media in ['/sounds/play/', '/videos/', '/iplayer/']):
         return False
-    # Block media-centric headlines
     if title.startswith(('watch:', 'video:', 'podcast:', 'audio:')):
         return False
         
     return True
 
 def fetch_full_text(url):
-    """Scrapes the article URL, strips HTML junk, and extracts the core text."""
     try:
         req = urllib.request.Request(
             url, 
@@ -108,8 +104,6 @@ def fetch_full_text(url):
             html = response.read()
             
         soup = BeautifulSoup(html, 'html.parser')
-        
-        # Strip out non-content elements
         for tag in soup(['script', 'style', 'header', 'footer', 'nav', 'aside', 'form', 'figure', 'picture', 'svg']):
             tag.decompose()
             
@@ -329,7 +323,6 @@ def main():
     if not api_keys_list:
         raise ValueError("No API keys found in the GEMINI_API_KEY environment variable.")
         
-    # Support dual-archive structure for backward compatibility
     raw_archive = load_json(ARCHIVE_FILE, {"strict": [], "lenient": []})
     if isinstance(raw_archive, list):
         archive_data = {"strict": raw_archive, "lenient": []}
@@ -358,7 +351,7 @@ def main():
     
     for feed in FEEDS:
         mode = feed['mode']
-        print(f"Fetching {mode.UPPER() if hasattr(mode, 'UPPER') else mode.upper()} feed: {feed['url']}", flush=True)
+        print(f"Fetching {mode.upper()} feed: {feed['url']}", flush=True)
         try:
             req = urllib.request.Request(
                 feed['url'], 
@@ -381,19 +374,15 @@ def main():
             entry_id = str(entry.get('id', entry.get('link', str(time.time()))))
             entry_title = entry.get('title', '').strip()
             
-            # Prevent double-processing in the exact same execution run
             if entry_title in seen_titles_this_run:
                 skipped_count += 1
                 continue
             
-            # Archive checks based on mode
             if mode == 'lenient':
-                # Lenient only skips if previously evaluated under lenient rules
                 if entry_id in archive_data['lenient'] or entry_title in archive_data['lenient']:
                     skipped_count += 1
                     continue
             else:
-                # Strict skips if evaluated under EITHER mode
                 if (entry_id in archive_data['strict'] or entry_title in archive_data['strict'] or
                     entry_id in archive_data['lenient'] or entry_title in archive_data['lenient']):
                     skipped_count += 1
@@ -427,25 +416,25 @@ USER CRITERIA:
 
 INSTRUCTIONS FOR TWO-PASS EVALUATION (STRICT MODE):
 For each article, you must perform a 2-pass check.
-Pass 1 (primary_subject_match): Does the CORE SUBJECT of the article explicitly match one of the CORE DOMAINS? Write your reasoning, then output a boolean.
-Pass 2 (triggers_exclusion): Does the article trigger any EXJECT rule within that domain, or any STRICT MACRO-EXCLUSION? Write your reasoning, then output a boolean.
+Pass 1 (primary_subject_match): Does the CORE SUBJECT of the article satisfy at least ONE of the explicit "INCLUDE" criteria? Output a boolean. In your reasoning (match_reason), you MUST explicitly quote the exact INCLUDE category and rule that was matched. If no INCLUDE criteria were matched, state "None".
+Pass 2 (triggers_exclusion): Does the article trigger ANY of the "REJECT" rules (either within the specific category OR within the ALWAYS REJECT / MACRO-EXCLUSIONS list)? Output a boolean (true if a reject rule is triggered). In your reasoning (exclusion_reason), you MUST explicitly quote the exact REJECT rule that was matched. If no REJECT criteria were matched, state "None".
 Final Decision (is_interesting): This MUST be true ONLY IF (primary_subject_match is true) AND (triggers_exclusion is false).
 
 Return exactly {batch_len} evaluations in the exact order of the articles provided.
 
 """
 
-    lenient_prompt_template = """You are an expert content curator. Review the following articles from a trusted main news feed against the user's broad interests.
+    lenient_prompt_template = """You are an expert content curator. Review the following articles from a trusted main news feed against the user's criteria.
 
-USER'S BROAD INTERESTS:
+USER CRITERIA:
 {interests_text}
 
 INSTRUCTIONS FOR TWO-PASS EVALUATION (LENIENT MODE):
-Mainstream news outlets often report on scientific, environmental, technological, and lifestyle domains through everyday lenses—such as consumer demand, public event preparation, safety logistics, or retail trends, rather than purely technical terms.
+Mainstream news outlets often report on scientific, environmental, technological, and lifestyle domains through everyday lenses (such as consumer demand, public event preparation, safety logistics, or retail trends). Look at the underlying event.
 
-Pass 1 (primary_subject_match): Does the core subject or underlying news event of the article concern any of the broad domains listed above (e.g., an upcoming astronomical event, an outdoor adventure trend, a technological shift, or local infrastructure), REGARDLESS of whether it is framed through a consumer, retail, or human-interest angle? Write your reasoning, then output a boolean.
-Pass 2 (triggers_exclusion): Is the article overwhelmingly focused on topics clearly outside the user's broad interests (e.g., purely domestic political point-scoring, celebrity gossip, corporate finance, or routine crime)? Write your reasoning, then output a boolean.
-Final Decision (is_interesting): This MUST be true if Pass 1 is true and Pass 2 is false.
+Pass 1 (primary_subject_match): Does the underlying event or core subject satisfy at least ONE of the explicit "INCLUDE" criteria? Output a boolean. In your reasoning (match_reason), you MUST explicitly quote the exact INCLUDE category and rule that was matched. If no INCLUDE criteria were matched, state "None".
+Pass 2 (triggers_exclusion): Does the article trigger ANY of the "REJECT" rules (either within the specific category OR within the ALWAYS REJECT / MACRO-EXCLUSIONS list)? Output a boolean (true if a reject rule is triggered). In your reasoning (exclusion_reason), you MUST explicitly quote the exact REJECT rule that was matched. If no REJECT criteria were matched, state "None".
+Final Decision (is_interesting): This MUST be true ONLY IF (primary_subject_match is true) AND (triggers_exclusion is false).
 
 Return exactly {batch_len} evaluations in the exact order of the articles provided.
 
@@ -509,10 +498,13 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
                     if art_title and art_title not in archive_data[archive_key]:
                         archive_data[archive_key].append(art_title)
 
+                    # Determine Accepted/Rejected label
+                    decision_str = "Accepted" if eval_result.is_interesting else "Rejected"
+
                     print(f"  -> Title: {art_title}", flush=True)
-                    print(f"     Pass 1 (Match): {eval_result.primary_subject_match} | Reason: {eval_result.match_reason}", flush=True)
-                    print(f"     Pass 2 (Exclude): {eval_result.triggers_exclusion} | Reason: {eval_result.exclusion_reason}", flush=True)
-                    print(f"     Final Decision: {eval_result.is_interesting}\n", flush=True)
+                    print(f"     Pass 1 (Include Match): {eval_result.primary_subject_match} | Matched Rule: {eval_result.match_reason}", flush=True)
+                    print(f"     Pass 2 (Reject Match):  {eval_result.triggers_exclusion} | Matched Rule: {eval_result.exclusion_reason}", flush=True)
+                    print(f"     Final Decision: {decision_str}\n", flush=True)
                     
                     if eval_result.is_interesting:
                         included_count += 1
