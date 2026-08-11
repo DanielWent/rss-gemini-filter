@@ -491,12 +491,26 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
                     
                     if eval_result.is_interesting:
                         included_count += 1
+                        
+                        # Extract Image URL
+                        image_url = ""
+                        if 'media_thumbnail' in art and art.media_thumbnail:
+                            image_url = art.media_thumbnail[0].get('url', '')
+                        elif 'media_content' in art and art.media_content:
+                            image_url = art.media_content[0].get('url', '')
+                        elif 'links' in art:
+                            for link in art.links:
+                                if link.get('rel') == 'enclosure' and 'image' in link.get('type', ''):
+                                    image_url = link.get('href', '')
+                                    break
+                        
                         proxy_db[SINGLE_FEED_ID]['articles'].append({
                             'id': str(art_id),
                             'title': art.get('title', 'No Title'),
                             'link': art.get('link', ''),
-                            'description': art.get('summary', ''),
-                            'published': art.get('published', art.get('updated', ''))
+                            'description': art.get('summary', art.get('description', '')),
+                            'published': art.get('published', art.get('updated', '')),
+                            'image_url': image_url
                         })
                 print(f"[Batch {batch_number}/{total_batches}] Successfully processed via {used_model}. Selected {included_count}/{len(batch)} articles.", flush=True)
             else:
@@ -548,6 +562,11 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
             fe.title(art['title'])
             fe.link(href=art['link'])
             fe.description(art['description'])
+            
+            # Attach thumbnail image as an enclosure if it exists
+            if art.get('image_url'):
+                fe.enclosure(url=art['image_url'], length='0', type='image/jpeg')
+            
             if art['published']:
                 try:
                     dt = date_parser.parse(art['published'])
