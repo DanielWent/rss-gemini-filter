@@ -273,7 +273,6 @@ def main():
         entry_id = entry.get('id', entry.get('link', str(time.time())))
         entry_title = entry.get('title', '').strip()
         
-        # Memory Check: Skip if ID OR Title is already evaluated
         if entry_id in archive or entry_title in archive:
             skipped_count += 1
             continue
@@ -295,53 +294,62 @@ def main():
     print(f"Total articles fetched: {len(parsed.entries)}", flush=True)
     print(f"Articles skipped (old or already evaluated): {skipped_count}", flush=True)
     print(f"Articles queued for AI evaluation: {len(to_process)}", flush=True)
-    
-    if not to_process:
-         print("No new articles to process. Exiting.", flush=True)
-         return
          
-    print("--- Starting AI Filtering ---", flush=True)
-        
-    total_batches = math.ceil(len(to_process) / BATCH_SIZE)
-        
-    for i in range(0, len(to_process), BATCH_SIZE):
-        batch = to_process[i:i+BATCH_SIZE]
-        batch_number = (i // BATCH_SIZE) + 1
-        
-        prompt = f"User filtering criteria:\n{interests}\n\nEvaluate if these {len(batch)} articles align with the user's interests. An article MUST be rejected (marked false) if it matches any of the NON-INTERESTS. Return exactly {len(batch)} boolean values in the exact order of the articles provided.\n\n"
-        
-        for idx, art in enumerate(batch):
-            prompt += f"--- Article {idx+1} ---\nTitle: {art.get('title')}\nSummary: {art.get('summary', '')}\n\n"
+    if to_process:
+        print("--- Starting AI Filtering ---", flush=True)
             
-        evaluations, used_model = evaluate_batch(prompt, len(batch))
-        
-        if evaluations:
-            included_count = 0
-            for idx, eval_result in enumerate(evaluations):
-                art = batch[idx]
-                art_id = art.get('id', art.get('link'))
-                art_title = art.get('title', '').strip()
+        total_batches = math.ceil(len(to_process) / BATCH_SIZE)
+            
+        for i in range(0, len(to_process), BATCH_SIZE):
+            batch = to_process[i:i+BATCH_SIZE]
+            batch_number = (i // BATCH_SIZE) + 1
+            
+            prompt = f"User filtering criteria:\n{interests}\n\nEvaluate if these {len(batch)} articles align with the user's interests. An article MUST be rejected (marked false) if it matches any of the NON-INTERESTS. Return exactly {len(batch)} boolean values in the exact order of the articles provided.\n\n"
+            
+            for idx, art in enumerate(batch):
+                prompt += f"--- Article {idx+1} ---\nTitle: {art.get('title')}\nSummary: {art.get('summary', '')}\n\n"
                 
-                # Append both the ID and the Title to memory to catch future duplicates
-                if art_id not in archive:
-                    archive.append(art_id)
-                if art_title and art_title not in archive:
-                    archive.append(art_title)
-                
-                if eval_result.is_interesting:
-                    included_count += 1
-                    proxy_db[SINGLE_FEED_ID]['articles'].append({
-                        'id': art_id,
-                        'title': art.get('title', 'No Title'),
-                        'link': art.get('link', ''),
-                        'description': art.get('summary', ''),
-                        'published': art.get('published', art.get('updated', ''))
-                    })
-            print(f"[Batch {batch_number}/{total_batches}] Successfully processed via {used_model}. Selected {included_count}/{len(batch)} articles.", flush=True)
-        else:
-            print(f"[Batch {batch_number}/{total_batches}] FAILED to process after exhausting all models and keys.", flush=True)
+            evaluations, used_model = evaluate_batch(prompt, len(batch))
+            
+            if evaluations:
+                included_count = 0
+                for idx, eval_result in enumerate(evaluations):
+                    art = batch[idx]
+                    art_id = art.get('id', art.get('link'))
+                    art_title = art.get('title', '').strip()
+                    
+                    if art_id not in archive:
+                        archive.append(art_id)
+                    if art_title and art_title not in archive:
+                        archive.append(art_title)
+                    
+                    if eval_result.is_interesting:
+                        included_count += 1
+                        proxy_db[SINGLE_FEED_ID]['articles'].append({
+                            'id': art_id,
+                            'title': art.get('title', 'No Title'),
+                            'link': art.get('link', ''),
+                            'description': art.get('summary', ''),
+                            'published': art.get('published', art.get('updated', ''))
+                        })
+                print(f"[Batch {batch_number}/{total_batches}] Successfully processed via {used_model}. Selected {included_count}/{len(batch)} articles.", flush=True)
+            else:
+                print(f"[Batch {batch_number}/{total_batches}] FAILED to process after exhausting all models and keys.", flush=True)
+    else:
+        print("No new articles to evaluate.", flush=True)
             
     print("--- Sorting & Pruning Database ---", flush=True)
+    
+    # NEW DEDUPLICATION BLOCK
+    unique_articles = []
+    seen_titles = set()
+    for art in proxy_db[SINGLE_FEED_ID]['articles']:
+        title = art.get('title', '').strip()
+        if title not in seen_titles:
+            seen_titles.add(title)
+            unique_articles.append(art)
+    proxy_db[SINGLE_FEED_ID]['articles'] = unique_articles
+
     def get_pub_time(article):
         pub_str = article.get('published', '')
         if pub_str:
@@ -386,7 +394,7 @@ def main():
                 
         fg.rss_file(f"{OUTPUT_DIR}/BBC_News_AI_Filtered.xml")
         
-    print(f"Run complete. Filtered RSS feed updated with {len(feed_data['articles'])} total stored articles.", flush=True)
+    print(f"Run complete. Filtered RSS feed updated with {len(feed_data['articles'])} total unique articles.", flush=True)
 
 if __name__ == "__main__":
     main()
