@@ -30,5 +30,5 @@ MACRO-EXCLUSIONS (Always Reject):
 REJECT: Celebrity gossip or reality television.
 REJECT: General athletics or sports articles UNLESS the article has a clear and single focus on the specific sport of running or a running-only event.
 REJECT: High-brow art and literature.
-REJECT: Articles that are clearly written for the sole and explicit attention of people living in one specific regional area outside of Scotland. For example, reject articles discussing the best way to view an eclipse from Yorkshire, London, Cornwall, or the Isle of Wight. Do not reject articles discussing events in one specific regional area if those events might be of broad interest to those living in other areas as well.
+REJECT: Reject articles would only be of interest to the residents of a single specific town, county, or region (e.g., a local road closure in Cornwall, a localized council dispute in Yorkshire, or tips on how to spot a rare bird in Newcastle). 
 REJECT: Articles containing general weather forecasts UNLESS they are primarily about the metrological mechanism (e.g. Jet Stream) driving that forecast.
