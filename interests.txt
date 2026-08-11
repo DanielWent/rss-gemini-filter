@@ -1,3 +1,5 @@
+SYSTEM INSTRUCTION: DEFAULT TO REJECT. If an article does not explicitly and undeniably match at least one of the "APPROVED TOPICS", you MUST mark it false. 
+
 APPROVED TOPICS (MUST MATCH AT LEAST ONE):
 - Technical capabilities of generative artificial intelligence and smart home automation platforms (like Home Assistant).
 - Policies and regulations related to artificial intelligence.
@@ -15,6 +17,8 @@ APPROVED TOPICS (MUST MATCH AT LEAST ONE):
 - Classic science fiction television (e.g., Star Trek, Stargate, Sliders, Quantum Leap) and disaster movies.
 
 STRICT VETOES (REJECT THE ARTICLE IMMEDIATELY IF IT MATCHES ANY OF THESE):
+- REJECT any articles about war, geopolitics, international conflict, military operations, crime, or terrorism. 
+- REJECT any UK-based fires, floods, or weather events taking place outside of Scotland, unless they are national emergencies.
 - REJECT any administrative, bureaucratic, broadcasting, TV scheduling, or bidding news regarding sporting events or athletic governing bodies.
 - REJECT any practical viewing guides for astronomical events (eclipses, meteors, etc.) located outside of Scotland (e.g., Isle of Man, England, Wales, or global).
 - REJECT hyper-local, isolated incidents or "viral video" clips during a natural disaster (e.g., a single vehicle accident, a single lorry turning over, a single tree falling, or minor property damage) unless the article explicitly details a massive escalation in the disaster's overall scale or death toll.
