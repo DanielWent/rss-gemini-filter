@@ -84,11 +84,12 @@ def main():
     with open(INTERESTS_FILE, 'r', encoding='utf-8') as f:
         interests = f.read()
         
-    keys_env = os.environ.get("GEMINI_API_KEYS", "")
+    # Updated to look for GEMINI_API_KEY
+    keys_env = os.environ.get("GEMINI_API_KEY", "")
     api_keys = [k.strip() for k in keys_env.split(',') if k.strip()]
     
     if not api_keys:
-        raise ValueError("No API keys found in the GEMINI_API_KEYS environment variable.")
+        raise ValueError("No API keys found in the GEMINI_API_KEY environment variable.")
         
     archive = load_json(ARCHIVE_FILE, [])
     proxy_db = load_json(PROXY_DB_FILE, {})
@@ -130,11 +131,10 @@ def main():
     for i in range(0, len(to_process), BATCH_SIZE):
         batch = to_process[i:i+BATCH_SIZE]
         
-        # Updated prompt to explicitly enforce NON-INTERESTS
         prompt = f"User filtering criteria:\n{interests}\n\nEvaluate if these {len(batch)} articles align with the user's interests. An article MUST be rejected (marked false) if it matches any of the NON-INTERESTS. Return exactly {len(batch)} boolean values in the exact order of the articles provided.\n\n"
         
         for idx, art in enumerate(batch):
-            prompt += f"--- Article {idx+1} ---\nTitle: {art.get('title')}\nSummary: {art.get('summary', '')[:600]}\n\n"
+            prompt += f"--- Article {idx+1} ---\nTitle: {art.get('title')}\nSummary: {art.get('summary', '')}\n\n"
             
         evaluations = evaluate_batch(prompt, api_keys, len(batch))
         
