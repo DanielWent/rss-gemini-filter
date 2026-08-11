@@ -1,7 +1,6 @@
 import os
 import json
 import time
-import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from dateutil import parser as date_parser
 import feedparser
@@ -11,13 +10,13 @@ from google.genai import types
 from pydantic import BaseModel
 
 # Configuration
-OPML_FILE = "feeds.opml"
 INTERESTS_FILE = "interests.txt"
 ARCHIVE_FILE = "archive.json"
 PROXY_DB_FILE = "proxy_db.json"
 OUTPUT_DIR = "public"
 BATCH_SIZE = 5
 SINGLE_FEED_ID = "bbc_news_ai_filtered"
+FEED_URL = "https://lincoln149.alwaysdata.net/freshrss/api/query.php?user=lincoln149&t=3yPwwxjIWkQrUzb9j75NA3&f=rss"
 
 # Fallback sequence
 MODELS_TO_TRY = [
@@ -102,70 +101,60 @@ def main():
             "description": "AI Filtered Articles combined into a single feed.",
             "articles": []
         }
-    
-    feeds = []
-    tree = ET.parse(OPML_FILE)
-    for outline in tree.getroot().iter('outline'):
-        xml_url = outline.attrib.get('xmlUrl')
-        if xml_url:
-            title = outline.attrib.get('title') or outline.attrib.get('text') or "Unknown Feed"
-            feeds.append({'title': title, 'url': xml_url})
             
     now = datetime.now(timezone.utc)
     time_threshold = now - timedelta(hours=24)
     
-    for feed_info in feeds:
-        url = feed_info['url']
-        parsed = feedparser.parse(url)
+    # Parse the specific FreshRSS URL
+    parsed = feedparser.parse(FEED_URL)
+    to_process = []
+    
+    for entry in parsed.entries:
+        entry_id = entry.get('id', entry.get('link', str(time.time())))
+        if entry_id in archive:
+            continue
+            
+        pub_date = entry.get('published') or entry.get('updated')
+        if pub_date:
+            try:
+                dt = date_parser.parse(pub_date)
+                if dt.tzinfo is None:
+                    dt = dt.replace(tzinfo=timezone.utc)
+                if dt < time_threshold:
+                    continue
+            except Exception:
+                pass
         
-        to_process = []
+        to_process.append(entry)
         
-        for entry in parsed.entries:
-            entry_id = entry.get('id', entry.get('link', str(time.time())))
-            if entry_id in archive:
-                continue
+    for i in range(0, len(to_process), BATCH_SIZE):
+        batch = to_process[i:i+BATCH_SIZE]
+        
+        # Updated prompt to explicitly enforce NON-INTERESTS
+        prompt = f"User filtering criteria:\n{interests}\n\nEvaluate if these {len(batch)} articles align with the user's interests. An article MUST be rejected (marked false) if it matches any of the NON-INTERESTS. Return exactly {len(batch)} boolean values in the exact order of the articles provided.\n\n"
+        
+        for idx, art in enumerate(batch):
+            prompt += f"--- Article {idx+1} ---\nTitle: {art.get('title')}\nSummary: {art.get('summary', '')[:600]}\n\n"
+            
+        evaluations = evaluate_batch(prompt, api_keys, len(batch))
+        
+        if evaluations:
+            for idx, eval_result in enumerate(evaluations):
+                art = batch[idx]
+                art_id = art.get('id', art.get('link'))
                 
-            pub_date = entry.get('published') or entry.get('updated')
-            if pub_date:
-                try:
-                    dt = date_parser.parse(pub_date)
-                    if dt.tzinfo is None:
-                        dt = dt.replace(tzinfo=timezone.utc)
-                    if dt < time_threshold:
-                        continue
-                except Exception:
-                    pass
-            
-            to_process.append(entry)
-            
-        for i in range(0, len(to_process), BATCH_SIZE):
-            batch = to_process[i:i+BATCH_SIZE]
-            
-            # Updated prompt to explicitly enforce NON-INTERESTS
-            prompt = f"User filtering criteria:\n{interests}\n\nEvaluate if these {len(batch)} articles align with the user's interests. An article MUST be rejected (marked false) if it matches any of the NON-INTERESTS. Return exactly {len(batch)} boolean values in the exact order of the articles provided.\n\n"
-            
-            for idx, art in enumerate(batch):
-                prompt += f"--- Article {idx+1} ---\nTitle: {art.get('title')}\nSummary: {art.get('summary', '')[:600]}\n\n"
+                archive.append(art_id)
                 
-            evaluations = evaluate_batch(prompt, api_keys, len(batch))
-            
-            if evaluations:
-                for idx, eval_result in enumerate(evaluations):
-                    art = batch[idx]
-                    art_id = art.get('id', art.get('link'))
-                    
-                    archive.append(art_id)
-                    
-                    if eval_result.is_interesting:
-                        proxy_db[SINGLE_FEED_ID]['articles'].append({
-                            'id': art_id,
-                            'title': art.get('title', 'No Title'),
-                            'link': art.get('link', ''),
-                            'description': art.get('summary', ''),
-                            'published': art.get('published', art.get('updated', ''))
-                        })
-            
-            time.sleep(1)
+                if eval_result.is_interesting:
+                    proxy_db[SINGLE_FEED_ID]['articles'].append({
+                        'id': art_id,
+                        'title': art.get('title', 'No Title'),
+                        'link': art.get('link', ''),
+                        'description': art.get('summary', ''),
+                        'published': art.get('published', art.get('updated', ''))
+                    })
+        
+        time.sleep(1)
             
     # Sort articles by publication date (newest first) and keep the 100 most recent
     def get_pub_time(article):
