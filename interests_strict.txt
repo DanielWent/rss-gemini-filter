@@ -23,6 +23,7 @@ An article must ONLY be approved if it simultaneously satisfies at least ONE of 
    REJECT: Articles related to sports governance, bidding for events, broadcasting schedules, or charity fundraising 
    REJECT: Articles primarily about individual members of the public, including celebrities, sharing their "running story".
    REJECT: Articles about the long jump, high jump, discus, javelin, shot-put, pole volt, decathlon, heptathlon or pentathlon.
+   REJECT: Articles about cricket, baseball, or any other sport where "runs" are merely a method of scoring.
 
 4. SMART HOME & GENERATIVE AI
    INCLUDE: Articles related to the technical capabilities of Generative AI platforms, LLMs, or commercial smart home automation systems (e.g., Home Assistant).
