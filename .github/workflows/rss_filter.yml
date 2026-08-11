@@ -2,7 +2,7 @@ name: AI RSS Filter
 
 on:
   schedule:
-    - cron: '0 */0.5 * * *' 
+    - cron: '*/30 * * * *' 
   workflow_dispatch:      # Allows you to trigger the run manually
 
 permissions:
@@ -35,7 +35,7 @@ jobs:
       - name: Run Filter Script
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python filter_feeds.py
+        run: python -u filter_feeds.py
 
       - name: Commit Database Updates
         uses: stefanzweifel/git-auto-commit-action@v5
