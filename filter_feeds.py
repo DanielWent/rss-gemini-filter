@@ -47,8 +47,12 @@ key_states = {}
 current_key_index = 0
 api_keys_list = []
 
-# Structured Output Schemas
+# --- UPDATED 2-PASS SCHEMA ---
 class ArticleEvaluation(BaseModel):
+    matches_interest: bool
+    interest_reason: str
+    violates_veto: bool
+    veto_reason: str
     is_interesting: bool
 
 class BatchEvaluation(BaseModel):
@@ -368,10 +372,23 @@ def main():
             batch = to_process[i:i+BATCH_SIZE]
             batch_number = (i // BATCH_SIZE) + 1
             
-            prompt = f"User filtering criteria:\n{interests}\n\nEvaluate if these {len(batch)} articles align with the user's interests. An article MUST be rejected (marked false) if it matches any of the NON-INTERESTS. Return exactly {len(batch)} boolean values in the exact order of the articles provided.\n\n"
+            # --- UPDATED TWO-PASS PROMPT ---
+            prompt = f"""You are a strict RSS filtering assistant. Review the following articles against the user's criteria.
+
+USER CRITERIA:
+{interests}
+
+INSTRUCTIONS FOR TWO-PASS EVALUATION:
+For each article, you must perform a 2-pass check.
+Pass 1 (matches_interest): Does the core subject of this article explicitly match at least one of the APPROVED TOPICS? Write your reasoning, then output a boolean.
+Pass 2 (violates_veto): Does the article trigger ANY of the STRICT VETOES? Write your reasoning, then output a boolean.
+Final Decision (is_interesting): This MUST be true ONLY IF (matches_interest is true) AND (violates_veto is false). If it violates a veto, the final decision must be false, no matter how interesting the topic is.
+
+Return exactly {len(batch)} evaluations in the exact order of the articles provided.
+
+"""
             
             for idx, art in enumerate(batch):
-                # Retrieve the full text from the BBC URL
                 link = art.get('link', '')
                 full_text = fetch_full_text(link) if link else ""
                 content = full_text if full_text else art.get('summary', '')
@@ -409,7 +426,6 @@ def main():
             
     print("--- Sorting & Pruning Database ---", flush=True)
     
-    # Pre-deduplication exact title scrub
     unique_articles = []
     seen_titles = set()
     for art in proxy_db[SINGLE_FEED_ID]['articles']:
@@ -418,7 +434,6 @@ def main():
             seen_titles.add(title)
             unique_articles.append(art)
             
-    # Run Semantic AI Deduplication to catch fuzzy headline variations
     deduped_articles = semantic_deduplication(unique_articles)
     proxy_db[SINGLE_FEED_ID]['articles'] = deduped_articles
 
