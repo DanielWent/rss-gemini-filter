@@ -59,12 +59,12 @@ key_states = {}
 current_key_index = 0
 api_keys_list = []
 
-# --- LAYER-2 SCHEMA ---
+# --- UPDATED LAYER-2 SCHEMA (Rejections evaluated FIRST) ---
 class ArticleEvaluation(BaseModel):
-    primary_subject_match: bool
-    match_reason: str
     triggers_exclusion: bool
     exclusion_reason: str
+    primary_subject_match: bool
+    match_reason: str
     is_interesting: bool
 
 class BatchEvaluation(BaseModel):
@@ -409,16 +409,17 @@ def main():
                 
     print(f"Articles skipped (old, evaluated, or media links): {skipped_count}", flush=True)
     
+    # --- UPDATED PROMPT TEMPLATES (Pass 1 = Exclusions, Pass 2 = Inclusions, strictly objective) ---
     strict_prompt_template = """You are an expert content curator. Review the following articles against the user's criteria.
 
 USER CRITERIA:
 {interests_text}
 
 INSTRUCTIONS FOR TWO-PASS EVALUATION (STRICT MODE):
-For each article, you must perform a 2-pass check.
-Pass 1 (primary_subject_match): Does the CORE SUBJECT of the article satisfy at least ONE of the explicit "INCLUDE" criteria? Output a boolean. In your reasoning (match_reason), you MUST explicitly quote the exact INCLUDE category and rule that was matched. If no INCLUDE criteria were matched, state "None".
-Pass 2 (triggers_exclusion): Does the article trigger ANY of the "REJECT" rules (either within the specific category OR within the ALWAYS REJECT / MACRO-EXCLUSIONS list)? Output a boolean (true if a reject rule is triggered). In your reasoning (exclusion_reason), you MUST explicitly quote the exact REJECT rule that was matched. If no REJECT criteria were matched, state "None".
-Final Decision (is_interesting): This MUST be true ONLY IF (primary_subject_match is true) AND (triggers_exclusion is false).
+For each article, you must perform a 2-pass check IN THIS EXACT ORDER.
+Pass 1 (triggers_exclusion): Be strictly objective. Does the article trigger ANY of the "REJECT" rules (either within a specific category OR within the ALWAYS REJECT / MACRO-EXCLUSIONS list)? Output a boolean (true if a reject rule is triggered). In your reasoning (exclusion_reason), explicitly quote the exact REJECT rule matched. If no REJECT criteria were matched, state "None".
+Pass 2 (primary_subject_match): Does the CORE SUBJECT of the article satisfy at least ONE of the explicit "INCLUDE" criteria? Output a boolean. In your reasoning (match_reason), explicitly quote the exact INCLUDE category and rule matched. If no INCLUDE criteria were matched, state "None".
+Final Decision (is_interesting): This MUST be true ONLY IF (triggers_exclusion is false) AND (primary_subject_match is true).
 
 Return exactly {batch_len} evaluations in the exact order of the articles provided.
 
@@ -432,9 +433,10 @@ USER CRITERIA:
 INSTRUCTIONS FOR TWO-PASS EVALUATION (LENIENT MODE):
 Mainstream news outlets often report on scientific, environmental, technological, and lifestyle domains through everyday lenses (such as consumer demand, public event preparation, safety logistics, or retail trends). Look at the underlying event.
 
-Pass 1 (primary_subject_match): Does the underlying event or core subject satisfy at least ONE of the explicit "INCLUDE" criteria? Output a boolean. In your reasoning (match_reason), you MUST explicitly quote the exact INCLUDE category and rule that was matched. If no INCLUDE criteria were matched, state "None".
-Pass 2 (triggers_exclusion): Does the article trigger ANY of the "REJECT" rules (either within the specific category OR within the ALWAYS REJECT / MACRO-EXCLUSIONS list)? Output a boolean (true if a reject rule is triggered). In your reasoning (exclusion_reason), you MUST explicitly quote the exact REJECT rule that was matched. If no REJECT criteria were matched, state "None".
-Final Decision (is_interesting): This MUST be true ONLY IF (primary_subject_match is true) AND (triggers_exclusion is false).
+For each article, you must perform a 2-pass check IN THIS EXACT ORDER.
+Pass 1 (triggers_exclusion): Be strictly objective. Does the article trigger ANY of the "REJECT" rules (either within a specific category OR within the ALWAYS REJECT / MACRO-EXCLUSIONS list)? Output a boolean (true if a reject rule is triggered). In your reasoning (exclusion_reason), explicitly quote the exact REJECT rule matched. If no REJECT criteria were matched, state "None".
+Pass 2 (primary_subject_match): Does the underlying event or core subject satisfy at least ONE of the explicit "INCLUDE" criteria? Output a boolean. In your reasoning (match_reason), explicitly quote the exact INCLUDE category and rule matched. If no INCLUDE criteria were matched, state "None".
+Final Decision (is_interesting): This MUST be true ONLY IF (triggers_exclusion is false) AND (primary_subject_match is true).
 
 Return exactly {batch_len} evaluations in the exact order of the articles provided.
 
@@ -482,7 +484,8 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
                 full_text = fetch_full_text(link) if link else ""
                 content = full_text if full_text else art.get('summary', '')
                 
-                prompt += f"--- Article {idx+1} ---\nTitle: {art.get('title')}\nContent: {content}\n\n"
+                # Appending the Published timestamp so the AI can evaluate time-based rules
+                prompt += f"--- Article {idx+1} ---\nTitle: {art.get('title')}\nPublished: {art.get('published', 'Unknown')}\nContent: {content}\n\n"
                 
             evaluations, used_model = evaluate_batch(prompt, len(batch))
             
@@ -498,12 +501,12 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
                     if art_title and art_title not in archive_data[archive_key]:
                         archive_data[archive_key].append(art_title)
 
-                    # Determine Accepted/Rejected label
                     decision_str = "Accepted" if eval_result.is_interesting else "Rejected"
 
+                    # Log output flipped to show Rejections (Pass 1) before Inclusions (Pass 2)
                     print(f"  -> Title: {art_title}", flush=True)
-                    print(f"     Pass 1 (Include Match): {eval_result.primary_subject_match} | Matched Rule: {eval_result.match_reason}", flush=True)
-                    print(f"     Pass 2 (Reject Match):  {eval_result.triggers_exclusion} | Matched Rule: {eval_result.exclusion_reason}", flush=True)
+                    print(f"     Pass 1 (Reject Match):  {eval_result.triggers_exclusion} | Matched Rule: {eval_result.exclusion_reason}", flush=True)
+                    print(f"     Pass 2 (Include Match): {eval_result.primary_subject_match} | Matched Rule: {eval_result.match_reason}", flush=True)
                     print(f"     Final Decision: {decision_str}\n", flush=True)
                     
                     if eval_result.is_interesting:
