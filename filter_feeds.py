@@ -11,6 +11,7 @@ from datetime import datetime, timedelta, timezone
 from dateutil import parser as date_parser
 import feedparser
 from feedgen.feed import FeedGenerator
+from bs4 import BeautifulSoup
 from google import genai
 from google.genai import types
 from pydantic import BaseModel
@@ -46,11 +47,15 @@ key_states = {}
 current_key_index = 0
 api_keys_list = []
 
+# Structured Output Schemas
 class ArticleEvaluation(BaseModel):
     is_interesting: bool
 
 class BatchEvaluation(BaseModel):
     results: list[ArticleEvaluation]
+    
+class DeduplicationResult(BaseModel):
+    unique_ids: list[str]
 
 def load_json(filepath, default):
     if os.path.exists(filepath):
@@ -61,6 +66,34 @@ def load_json(filepath, default):
 def save_json(filepath, data):
     with open(filepath, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2)
+
+def fetch_full_text(url):
+    """Scrapes the article URL, strips HTML junk, and extracts the core text."""
+    try:
+        req = urllib.request.Request(
+            url, 
+            headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
+        )
+        with urllib.request.urlopen(req, timeout=10) as response:
+            html = response.read()
+            
+        soup = BeautifulSoup(html, 'html.parser')
+        
+        # Strip out non-content elements
+        for tag in soup(['script', 'style', 'header', 'footer', 'nav', 'aside', 'form', 'figure', 'picture', 'svg']):
+            tag.decompose()
+            
+        # Attempt to find the main article container
+        main_content = soup.find('article') or soup.find('main') or soup.find('body')
+        if not main_content:
+            return ""
+            
+        text = main_content.get_text(separator=' ', strip=True)
+        # Return a maximum of 3000 characters to prevent API token limits from being breached
+        return text[:3000] 
+    except Exception as e:
+        print(f"Failed to fetch full text for {url}: {e}", flush=True)
+        return ""
 
 def get_available_key(model, estimated_tokens):
     global current_key_index, key_states, api_keys_list
@@ -125,7 +158,7 @@ def get_available_key(model, estimated_tokens):
         
     return None, None, max(1000.0, min_wait_time)
 
-def execute_with_retry(model, prompt_text, expected_count):
+def execute_with_retry(model, prompt_text, schema_class):
     estimated_tokens = int(len(prompt_text) / 4) + 1024
     
     while True:
@@ -150,14 +183,14 @@ def execute_with_retry(model, prompt_text, expected_count):
                 contents=prompt_text,
                 config=types.GenerateContentConfig(
                     response_mime_type="application/json",
-                    response_schema=BatchEvaluation,
+                    response_schema=schema_class,
                     temperature=0.1
                 )
             )
             
-            if response.parsed and len(response.parsed.results) == expected_count:
+            if response.parsed:
                 state['consecutive_generic_429s'] = 0
-                return response.parsed.results
+                return response.parsed
             else:
                 raise Exception("API_EMPTY_RESPONSE")
                 
@@ -199,8 +232,11 @@ def evaluate_batch(prompt, expected_count):
         
         while attempts < max_attempts:
             try:
-                results = execute_with_retry(model, prompt, expected_count)
-                return results, model 
+                results = execute_with_retry(model, prompt, BatchEvaluation)
+                if len(results.results) == expected_count:
+                    return results.results, model 
+                else:
+                    raise Exception(f"API returned {len(results.results)} results, expected {expected_count}")
             except Exception as err:
                 err_msg = str(err)
                 
@@ -220,6 +256,31 @@ def evaluate_batch(prompt, expected_count):
                     
     print("All models and keys exhausted for this batch.", flush=True)
     return None, None
+
+def semantic_deduplication(articles):
+    if len(articles) <= 1:
+        return articles
+        
+    print(f"--- Running Semantic Deduplication on {len(articles)} articles ---", flush=True)
+    
+    prompt = "You are a strict editor. Review the following news articles. Group articles that cover the EXACT SAME news event or story. If multiple articles cover the same event (even if they have different headlines), select ONLY ONE ID to keep. Return a JSON list containing only the unique IDs.\n\n"
+    
+    for art in articles:
+        prompt += f"[ID: {art['id']}] Title: {art['title']}\nSnippet: {art['description'][:500]}\n\n"
+        
+    for model in MODELS_TO_TRY:
+        try:
+            result = execute_with_retry(model, prompt, DeduplicationResult)
+            if result and hasattr(result, 'unique_ids'):
+                unique_ids = set(result.unique_ids)
+                deduped = [a for a in articles if str(a['id']) in unique_ids]
+                print(f"[Deduplication] Reduced from {len(articles)} to {len(deduped)} articles using {model}.", flush=True)
+                return deduped if deduped else articles
+        except Exception as e:
+            print(f"[Deduplication] Model {model} failed: {e}. Trying next...", flush=True)
+            
+    print("[Deduplication] All models failed. Returning original list.", flush=True)
+    return articles
 
 def main():
     global api_keys_list
@@ -253,7 +314,7 @@ def main():
     try:
         req = urllib.request.Request(
             FEED_URL, 
-            headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0 Safari/537.36'}
+            headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
         )
         print("Sending network request to FreshRSS...", flush=True)
         with urllib.request.urlopen(req, timeout=15) as response:
@@ -274,7 +335,6 @@ def main():
         entry_id = entry.get('id', entry.get('link', str(time.time())))
         entry_title = entry.get('title', '').strip()
         
-        # PRE-API DEDUPLICATION: Skip if ID/Title is in archive OR if we've already queued this title in the current run
         if entry_id in archive or entry_title in archive or entry_title in seen_titles_this_run:
             skipped_count += 1
             continue
@@ -300,7 +360,7 @@ def main():
     print(f"Articles queued for AI evaluation: {len(to_process)}", flush=True)
          
     if to_process:
-        print("--- Starting AI Filtering ---", flush=True)
+        print("--- Fetching Full Text & Starting AI Filtering ---", flush=True)
             
         total_batches = math.ceil(len(to_process) / BATCH_SIZE)
             
@@ -311,7 +371,12 @@ def main():
             prompt = f"User filtering criteria:\n{interests}\n\nEvaluate if these {len(batch)} articles align with the user's interests. An article MUST be rejected (marked false) if it matches any of the NON-INTERESTS. Return exactly {len(batch)} boolean values in the exact order of the articles provided.\n\n"
             
             for idx, art in enumerate(batch):
-                prompt += f"--- Article {idx+1} ---\nTitle: {art.get('title')}\nSummary: {art.get('summary', '')}\n\n"
+                # Retrieve the full text from the BBC URL
+                link = art.get('link', '')
+                full_text = fetch_full_text(link) if link else ""
+                content = full_text if full_text else art.get('summary', '')
+                
+                prompt += f"--- Article {idx+1} ---\nTitle: {art.get('title')}\nContent: {content}\n\n"
                 
             evaluations, used_model = evaluate_batch(prompt, len(batch))
             
@@ -330,7 +395,7 @@ def main():
                     if eval_result.is_interesting:
                         included_count += 1
                         proxy_db[SINGLE_FEED_ID]['articles'].append({
-                            'id': art_id,
+                            'id': str(art_id),
                             'title': art.get('title', 'No Title'),
                             'link': art.get('link', ''),
                             'description': art.get('summary', ''),
@@ -344,6 +409,7 @@ def main():
             
     print("--- Sorting & Pruning Database ---", flush=True)
     
+    # Pre-deduplication exact title scrub
     unique_articles = []
     seen_titles = set()
     for art in proxy_db[SINGLE_FEED_ID]['articles']:
@@ -351,7 +417,10 @@ def main():
         if title not in seen_titles:
             seen_titles.add(title)
             unique_articles.append(art)
-    proxy_db[SINGLE_FEED_ID]['articles'] = unique_articles
+            
+    # Run Semantic AI Deduplication to catch fuzzy headline variations
+    deduped_articles = semantic_deduplication(unique_articles)
+    proxy_db[SINGLE_FEED_ID]['articles'] = deduped_articles
 
     def get_pub_time(article):
         pub_str = article.get('published', '')
