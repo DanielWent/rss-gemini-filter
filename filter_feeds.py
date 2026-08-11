@@ -425,8 +425,10 @@ USER'S BROAD INTERESTS:
 {interests_text}
 
 INSTRUCTIONS FOR TWO-PASS EVALUATION (LENIENT MODE):
-Pass 1 (primary_subject_match): Does the article generally relate to ANY of the broad interests listed above? Write your reasoning, then output a boolean.
-Pass 2 (triggers_exclusion): Is the article overwhelmingly focused on topics clearly outside the user's broad interests (e.g., purely geopolitics, war, celebrity gossip)? Write your reasoning, then output a boolean.
+Mainstream news outlets often report on scientific, environmental, technological, and lifestyle domains through everyday lenses—such as consumer demand, public event preparation, safety logistics, or retail trends, rather than purely technical terms.
+
+Pass 1 (primary_subject_match): Does the core subject or underlying news event of the article concern any of the broad domains listed above (e.g., an upcoming astronomical event, an outdoor adventure trend, a technological shift, or local infrastructure), REGARDLESS of whether it is framed through a consumer, retail, or human-interest angle? Write your reasoning, then output a boolean.
+Pass 2 (triggers_exclusion): Is the article overwhelmingly focused on topics clearly outside the user's broad interests (e.g., purely domestic political point-scoring, celebrity gossip, corporate finance, or routine crime)? Write your reasoning, then output a boolean.
 Final Decision (is_interesting): This MUST be true if Pass 1 is true and Pass 2 is false.
 
 Return exactly {batch_len} evaluations in the exact order of the articles provided.
@@ -488,6 +490,12 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
                         archive.append(art_id)
                     if art_title and art_title not in archive:
                         archive.append(art_title)
+
+                    # --- DIAGNOSTIC LOGGING ---
+                    print(f"  -> Title: {art_title}", flush=True)
+                    print(f"     Pass 1 (Match): {eval_result.primary_subject_match} | Reason: {eval_result.match_reason}", flush=True)
+                    print(f"     Pass 2 (Exclude): {eval_result.triggers_exclusion} | Reason: {eval_result.exclusion_reason}", flush=True)
+                    print(f"     Final Decision: {eval_result.is_interesting}\n", flush=True)
                     
                     if eval_result.is_interesting:
                         included_count += 1
