@@ -5,6 +5,13 @@
     "description": "AI Filtered Articles combined into a single feed.",
     "articles": [
       {
+        "id": "1786443316847474",
+        "title": "Potentially deadly bluetongue livestock virus found in Scotland for first time",
+        "link": "https://www.bbc.co.uk/news/articles/c0qv93dyqzeo?at_medium=RSS&at_campaign=rss",
+        "description": "A single case of bluetongue is found in an animal on a farm in Dumfries and Galloway.",
+        "published": "Tue, 11 Aug 2026 11:52:56 +0200"
+      },
+      {
         "id": "1786427113541583",
         "title": "Isle of Man 'very well placed' for solar eclipse",
         "link": "https://www.bbc.co.uk/news/articles/c89n5lxp84wo?at_medium=RSS&at_campaign=rss",
@@ -47,20 +54,6 @@
         "published": "Tue, 11 Aug 2026 00:51:36 +0200"
       },
       {
-        "id": "1786437605939847",
-        "title": "GB's Hunt comes of age with European 100m gold",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/c629lxdx88wo?at_medium=RSS&at_campaign=rss",
-        "description": "Britain's Amy Hunt has her \"coming of age\" moment as she storms to 100m glory at the European Athletics Championships in Birmingham.",
-        "published": "Tue, 11 Aug 2026 00:51:36 +0200"
-      },
-      {
-        "id": "1786437605939846",
-        "title": "Britain's Hunt sprints to European 100m gold",
-        "link": "https://www.bbc.co.uk/sport/athletics/videos/cn8nd4w0wl7o?at_medium=RSS&at_campaign=rss",
-        "description": "Great Britain's Amy Hunt wins her first major gold medal with victory in the 100m at the European Athletics Championships in Birmingham.",
-        "published": "Tue, 11 Aug 2026 00:30:30 +0200"
-      },
-      {
         "id": "1786400712051455",
         "title": "Ingebrigtsen returns from 'lowest of lows' to clinch 5,000m gold",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/cx2d4jxrgd7o?at_medium=RSS&at_campaign=rss",
@@ -75,13 +68,6 @@
         "published": "Mon, 10 Aug 2026 23:55:28 +0200"
       },
       {
-        "id": "1786397717253496",
-        "title": "'I knew I was going to win' - Ingebrigtsen on gold medal victory",
-        "link": "https://www.bbc.co.uk/sport/athletics/videos/c89n5pw59ypo?at_medium=RSS&at_campaign=rss",
-        "description": "Norway's Jakob Ingebrigtsen says he knew he would win the men's 5000m gold medal \"with 600m to go\" at the European Athletics Championships in Birmingham.  Ingebrigtsen successfully returned from the sidelines after Achilles surgery earlier in the year.",
-        "published": "Mon, 10 Aug 2026 23:11:38 +0200"
-      },
-      {
         "id": "1786397717253495",
         "title": "Great Britain win mixed 4x400m relay silver",
         "link": "https://www.bbc.co.uk/sport/athletics/videos/c9347yl27jpo?at_medium=RSS&at_campaign=rss",
@@ -94,13 +80,6 @@
         "link": "https://www.bbc.co.uk/news/videos/cz6473llqpwo?at_medium=RSS&at_campaign=rss",
         "description": "At least 111 people have been killed and dozens more injured after the 7.4 temblor hit the western part of the country, according to local officials.",
         "published": "Mon, 10 Aug 2026 22:55:34 +0200"
-      },
-      {
-        "id": "1786397717253494",
-        "title": "'Genius' Ingebrigtsen surges late to win European 5,000m gold after injury",
-        "link": "https://www.bbc.co.uk/sport/athletics/videos/c5yw9pz5pzdo?at_medium=RSS&at_campaign=rss",
-        "description": "Norway's Jakob Ingebrigtsen completes a sensational injury comeback with a late burst of pace to win men's 5,000m gold in Birmingham.",
-        "published": "Mon, 10 Aug 2026 22:22:11 +0200"
       },
       {
         "id": "1786416913503923",
@@ -142,13 +121,6 @@
         "title": "Best places to see partial solar eclipse across England",
         "link": "https://www.bbc.co.uk/news/articles/cdx7kzv5e3qo?at_medium=RSS&at_campaign=rss",
         "description": "Some parts of England could see up to 96 per cent of the moon covering the sun on 12 August.",
-        "published": "Mon, 10 Aug 2026 17:21:47 +0200"
-      },
-      {
-        "id": "1786376714721806",
-        "title": "Where to see partial solar eclipse across England",
-        "link": "https://www.bbc.co.uk/news/articles/cdx7kzv5e3qo?at_medium=RSS&at_campaign=rss",
-        "description": "The partial solar eclipse will take place on August 12 with many parts of England seeing up to 96 per cent of the moon covering the sun",
         "published": "Mon, 10 Aug 2026 17:21:47 +0200"
       },
       {
