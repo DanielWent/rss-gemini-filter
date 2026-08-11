@@ -30,15 +30,15 @@ OUTPUT_DIR = "public"
 BATCH_SIZE = 5
 SINGLE_FEED_ID = "bbc_news_ai_filtered"
 
-# Feed Definitions
+# Feed Definitions (Lenient feed is processed FIRST)
 FEEDS = [
-    {
-        "url": "https://lincoln149.alwaysdata.net/freshrss/api/query.php?user=lincoln149&t=3yPwwxjIWkQrUzb9j75NA3&f=rss",
-        "mode": "strict"
-    },
     {
         "url": "https://feeds.bbci.co.uk/news/rss.xml",
         "mode": "lenient"
+    },
+    {
+        "url": "https://lincoln149.alwaysdata.net/freshrss/api/query.php?user=lincoln149&t=3yPwwxjIWkQrUzb9j75NA3&f=rss",
+        "mode": "strict"
     }
 ]
 
@@ -59,7 +59,7 @@ key_states = {}
 current_key_index = 0
 api_keys_list = []
 
-# --- UPDATED LAYER-2 SCHEMA ---
+# --- LAYER-2 SCHEMA ---
 class ArticleEvaluation(BaseModel):
     primary_subject_match: bool
     match_reason: str
@@ -113,13 +113,11 @@ def fetch_full_text(url):
         for tag in soup(['script', 'style', 'header', 'footer', 'nav', 'aside', 'form', 'figure', 'picture', 'svg']):
             tag.decompose()
             
-        # Attempt to find the main article container
         main_content = soup.find('article') or soup.find('main') or soup.find('body')
         if not main_content:
             return ""
             
         text = main_content.get_text(separator=' ', strip=True)
-        # Return a maximum of 3000 characters to prevent API token limits from being breached
         return text[:3000] 
     except Exception as e:
         print(f"Failed to fetch full text for {url}: {e}", flush=True)
@@ -316,7 +314,6 @@ def main():
     global api_keys_list
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     
-    # Load both interest files
     try:
         with open(STRICT_INTERESTS_FILE, 'r', encoding='utf-8') as f:
             strict_interests = f.read()
@@ -332,7 +329,13 @@ def main():
     if not api_keys_list:
         raise ValueError("No API keys found in the GEMINI_API_KEY environment variable.")
         
-    archive = load_json(ARCHIVE_FILE, [])
+    # Support dual-archive structure for backward compatibility
+    raw_archive = load_json(ARCHIVE_FILE, {"strict": [], "lenient": []})
+    if isinstance(raw_archive, list):
+        archive_data = {"strict": raw_archive, "lenient": []}
+    else:
+        archive_data = raw_archive
+
     proxy_db = load_json(PROXY_DB_FILE, {})
     
     if SINGLE_FEED_ID not in proxy_db:
@@ -353,9 +356,9 @@ def main():
 
     print("--- Starting Feed Fetch ---", flush=True)
     
-    # Process configured feeds
     for feed in FEEDS:
-        print(f"Fetching {feed['mode'].upper()} feed: {feed['url']}", flush=True)
+        mode = feed['mode']
+        print(f"Fetching {mode.UPPER() if hasattr(mode, 'UPPER') else mode.upper()} feed: {feed['url']}", flush=True)
         try:
             req = urllib.request.Request(
                 feed['url'], 
@@ -375,12 +378,26 @@ def main():
                 skipped_count += 1
                 continue
                 
-            entry_id = entry.get('id', entry.get('link', str(time.time())))
+            entry_id = str(entry.get('id', entry.get('link', str(time.time()))))
             entry_title = entry.get('title', '').strip()
             
-            if entry_id in archive or entry_title in archive or entry_title in seen_titles_this_run:
+            # Prevent double-processing in the exact same execution run
+            if entry_title in seen_titles_this_run:
                 skipped_count += 1
                 continue
+            
+            # Archive checks based on mode
+            if mode == 'lenient':
+                # Lenient only skips if previously evaluated under lenient rules
+                if entry_id in archive_data['lenient'] or entry_title in archive_data['lenient']:
+                    skipped_count += 1
+                    continue
+            else:
+                # Strict skips if evaluated under EITHER mode
+                if (entry_id in archive_data['strict'] or entry_title in archive_data['strict'] or
+                    entry_id in archive_data['lenient'] or entry_title in archive_data['lenient']):
+                    skipped_count += 1
+                    continue
                 
             seen_titles_this_run.add(entry_title)
                 
@@ -396,14 +413,13 @@ def main():
                 except Exception:
                     pass
             
-            if feed['mode'] == 'strict':
+            if mode == 'strict':
                 to_process_strict.append(entry)
             else:
                 to_process_lenient.append(entry)
                 
     print(f"Articles skipped (old, evaluated, or media links): {skipped_count}", flush=True)
     
-    # Define Prompts
     strict_prompt_template = """You are an expert content curator. Review the following articles against the user's criteria.
 
 USER CRITERIA:
@@ -437,22 +453,24 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
 
     queues_to_process = [
         {
-            "name": "Strict Queue", 
-            "data": to_process_strict, 
-            "template": strict_prompt_template,
-            "interests_text": strict_interests
-        },
-        {
             "name": "Lenient Queue", 
             "data": to_process_lenient, 
             "template": lenient_prompt_template,
-            "interests_text": lenient_interests
+            "interests_text": lenient_interests,
+            "archive_key": "lenient"
+        },
+        {
+            "name": "Strict Queue", 
+            "data": to_process_strict, 
+            "template": strict_prompt_template,
+            "interests_text": strict_interests,
+            "archive_key": "strict"
         }
     ]
 
-    # Process Queues
     for queue in queues_to_process:
         to_process = queue["data"]
+        archive_key = queue["archive_key"]
         
         if not to_process:
             print(f"--- No new articles for {queue['name']} ---", flush=True)
@@ -483,15 +501,14 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
                 included_count = 0
                 for idx, eval_result in enumerate(evaluations):
                     art = batch[idx]
-                    art_id = art.get('id', art.get('link'))
+                    art_id = str(art.get('id', art.get('link')))
                     art_title = art.get('title', '').strip()
                     
-                    if art_id not in archive:
-                        archive.append(art_id)
-                    if art_title and art_title not in archive:
-                        archive.append(art_title)
+                    if art_id not in archive_data[archive_key]:
+                        archive_data[archive_key].append(art_id)
+                    if art_title and art_title not in archive_data[archive_key]:
+                        archive_data[archive_key].append(art_title)
 
-                    # --- DIAGNOSTIC LOGGING ---
                     print(f"  -> Title: {art_title}", flush=True)
                     print(f"     Pass 1 (Match): {eval_result.primary_subject_match} | Reason: {eval_result.match_reason}", flush=True)
                     print(f"     Pass 2 (Exclude): {eval_result.triggers_exclusion} | Reason: {eval_result.exclusion_reason}", flush=True)
@@ -500,7 +517,6 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
                     if eval_result.is_interesting:
                         included_count += 1
                         
-                        # Extract Image URL
                         image_url = ""
                         if 'media_thumbnail' in art and art.media_thumbnail:
                             image_url = art.media_thumbnail[0].get('url', '')
@@ -513,7 +529,7 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
                                     break
                         
                         proxy_db[SINGLE_FEED_ID]['articles'].append({
-                            'id': str(art_id),
+                            'id': art_id,
                             'title': art.get('title', 'No Title'),
                             'link': art.get('link', ''),
                             'description': art.get('summary', art.get('description', '')),
@@ -552,7 +568,7 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
     proxy_db[SINGLE_FEED_ID]['articles'].sort(key=get_pub_time, reverse=True)
     proxy_db[SINGLE_FEED_ID]['articles'] = proxy_db[SINGLE_FEED_ID]['articles'][:100]
 
-    save_json(ARCHIVE_FILE, archive)
+    save_json(ARCHIVE_FILE, archive_data)
     save_json(PROXY_DB_FILE, proxy_db)
     
     print("--- Generating Final RSS File ---", flush=True)
@@ -571,7 +587,6 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
             fe.link(href=art['link'])
             fe.description(art['description'])
             
-            # Attach thumbnail image as an enclosure if it exists
             if art.get('image_url'):
                 fe.enclosure(url=art['image_url'], length='0', type='image/jpeg')
             
