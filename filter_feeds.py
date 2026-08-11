@@ -1,6 +1,7 @@
 import os
 import json
 import time
+import math
 from datetime import datetime, timedelta, timezone
 from dateutil import parser as date_parser
 import feedparser
@@ -188,7 +189,10 @@ def evaluate_batch(prompt, expected_count):
         
         while attempts < max_attempts:
             try:
-                return execute_with_retry(model, prompt, expected_count)
+                # Execution returns the results if successful
+                results = execute_with_retry(model, prompt, expected_count)
+                # Return both the results and the model that successfully processed them
+                return results, model 
             except Exception as err:
                 err_msg = str(err)
                 
@@ -207,7 +211,7 @@ def evaluate_batch(prompt, expected_count):
                     break
                     
     print("All models and keys exhausted for this batch.")
-    return None
+    return None, None
 
 def main():
     global api_keys_list
@@ -236,14 +240,17 @@ def main():
     now = datetime.now(timezone.utc)
     time_threshold = now - timedelta(hours=24)
     
+    print("--- Starting Feed Fetch ---")
     parsed = feedparser.parse(FEED_URL)
     to_process = []
+    skipped_count = 0
     
     for entry in parsed.entries:
         entry_id = entry.get('id', entry.get('link', str(time.time())))
         
         # Memory Check: Skip if already evaluated
         if entry_id in archive:
+            skipped_count += 1
             continue
             
         pub_date = entry.get('published') or entry.get('updated')
@@ -254,23 +261,33 @@ def main():
                     dt = dt.replace(tzinfo=timezone.utc)
                 # 24-Hour Check: Skip if older than time_threshold
                 if dt < time_threshold:
+                    skipped_count += 1
                     continue
             except Exception:
                 pass
         
         to_process.append(entry)
         
+    print(f"Total articles fetched: {len(parsed.entries)}")
+    print(f"Articles skipped (old or already evaluated): {skipped_count}")
+    print(f"Articles queued for AI evaluation: {len(to_process)}")
+    print("--- Starting AI Filtering ---")
+        
+    total_batches = math.ceil(len(to_process) / BATCH_SIZE)
+        
     for i in range(0, len(to_process), BATCH_SIZE):
         batch = to_process[i:i+BATCH_SIZE]
+        batch_number = (i // BATCH_SIZE) + 1
         
         prompt = f"User filtering criteria:\n{interests}\n\nEvaluate if these {len(batch)} articles align with the user's interests. An article MUST be rejected (marked false) if it matches any of the NON-INTERESTS. Return exactly {len(batch)} boolean values in the exact order of the articles provided.\n\n"
         
         for idx, art in enumerate(batch):
             prompt += f"--- Article {idx+1} ---\nTitle: {art.get('title')}\nSummary: {art.get('summary', '')}\n\n"
             
-        evaluations = evaluate_batch(prompt, len(batch))
+        evaluations, used_model = evaluate_batch(prompt, len(batch))
         
         if evaluations:
+            included_count = 0
             for idx, eval_result in enumerate(evaluations):
                 art = batch[idx]
                 art_id = art.get('id', art.get('link'))
@@ -279,6 +296,7 @@ def main():
                 archive.append(art_id)
                 
                 if eval_result.is_interesting:
+                    included_count += 1
                     proxy_db[SINGLE_FEED_ID]['articles'].append({
                         'id': art_id,
                         'title': art.get('title', 'No Title'),
@@ -286,7 +304,11 @@ def main():
                         'description': art.get('summary', ''),
                         'published': art.get('published', art.get('updated', ''))
                     })
+            print(f"[Batch {batch_number}/{total_batches}] Successfully processed via {used_model}. Selected {included_count}/{len(batch)} articles.")
+        else:
+            print(f"[Batch {batch_number}/{total_batches}] FAILED to process after exhausting all models and keys.")
             
+    print("--- Sorting & Pruning Database ---")
     def get_pub_time(article):
         pub_str = article.get('published', '')
         if pub_str:
@@ -305,6 +327,7 @@ def main():
     save_json(ARCHIVE_FILE, archive)
     save_json(PROXY_DB_FILE, proxy_db)
     
+    print("--- Generating Final RSS File ---")
     feed_data = proxy_db[SINGLE_FEED_ID]
     if feed_data['articles']:
         fg = FeedGenerator()
@@ -329,6 +352,8 @@ def main():
                     pass
                 
         fg.rss_file(f"{OUTPUT_DIR}/BBC_News_AI_Filtered.xml")
+        
+    print(f"Run complete. Filtered RSS feed updated with {len(feed_data['articles'])} total stored articles.")
 
 if __name__ == "__main__":
     main()
