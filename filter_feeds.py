@@ -22,14 +22,15 @@ print("[BOOT] All modules imported successfully.", flush=True)
 socket.setdefaulttimeout(30)
 
 # Configuration
-INTERESTS_FILE = "interests.txt"
+STRICT_INTERESTS_FILE = "interests_strict.txt"
+LENIENT_INTERESTS_FILE = "interests_lenient.txt"
 ARCHIVE_FILE = "archive.json"
 PROXY_DB_FILE = "proxy_db.json"
 OUTPUT_DIR = "public"
 BATCH_SIZE = 5
 SINGLE_FEED_ID = "bbc_news_ai_filtered"
 
-# Replace single FEED_URL with a list of feeds and their evaluation mode
+# Feed Definitions
 FEEDS = [
     {
         "url": "https://lincoln149.alwaysdata.net/freshrss/api/query.php?user=lincoln149&t=3yPwwxjIWkQrUzb9j75NA3&f=rss",
@@ -315,8 +316,15 @@ def main():
     global api_keys_list
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     
-    with open(INTERESTS_FILE, 'r', encoding='utf-8') as f:
-        interests = f.read()
+    # Load both interest files
+    try:
+        with open(STRICT_INTERESTS_FILE, 'r', encoding='utf-8') as f:
+            strict_interests = f.read()
+        with open(LENIENT_INTERESTS_FILE, 'r', encoding='utf-8') as f:
+            lenient_interests = f.read()
+    except FileNotFoundError as e:
+        print(f"CRITICAL ERROR: Could not find interests file. {e}")
+        return
         
     keys_env = os.environ.get("GEMINI_API_KEY", "")
     api_keys_list = [k.strip() for k in keys_env.split(',') if k.strip()]
@@ -345,7 +353,7 @@ def main():
 
     print("--- Starting Feed Fetch ---", flush=True)
     
-    # Loop over all configured feeds
+    # Process configured feeds
     for feed in FEEDS:
         print(f"Fetching {feed['mode'].upper()} feed: {feed['url']}", flush=True)
         try:
@@ -395,7 +403,7 @@ def main():
                 
     print(f"Articles skipped (old, evaluated, or media links): {skipped_count}", flush=True)
     
-    # Define Prompt Templates
+    # Define Prompts
     strict_prompt_template = """You are an expert content curator. Review the following articles against the user's criteria.
 
 USER CRITERIA:
@@ -411,26 +419,36 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
 
 """
 
-    lenient_prompt_template = """You are an expert content curator. Review the following articles against the user's broad interests.
+    lenient_prompt_template = """You are an expert content curator. Review the following articles from a trusted main news feed against the user's broad interests.
 
-USER CRITERIA:
+USER'S BROAD INTERESTS:
 {interests_text}
 
 INSTRUCTIONS FOR TWO-PASS EVALUATION (LENIENT MODE):
-These articles come from a highly trusted main news feed. Apply a RELAXED interpretation of the criteria.
-Pass 1 (primary_subject_match): Does the article generally relate to ANY of the CORE DOMAINS (e.g., general astronomy, general earth science, technology, running)? It does NOT need to be strictly about primary scientific research or massive disasters. Write your reasoning, then output a boolean.
-Pass 2 (triggers_exclusion): Is the article overwhelmingly focused on a STRICT MACRO-EXCLUSION (e.g., purely geopolitics, war, celebrity gossip)? Write your reasoning, then output a boolean.
-Final Decision (is_interesting): This MUST be true if the article has ANY broad relevance to the user's interests (primary_subject_match is true) and is not entirely composed of macro-exclusions (triggers_exclusion is false).
+Pass 1 (primary_subject_match): Does the article generally relate to ANY of the broad interests listed above? Write your reasoning, then output a boolean.
+Pass 2 (triggers_exclusion): Is the article overwhelmingly focused on topics clearly outside the user's broad interests (e.g., purely geopolitics, war, celebrity gossip)? Write your reasoning, then output a boolean.
+Final Decision (is_interesting): This MUST be true if Pass 1 is true and Pass 2 is false.
 
 Return exactly {batch_len} evaluations in the exact order of the articles provided.
 
 """
 
     queues_to_process = [
-        {"name": "Strict Queue", "data": to_process_strict, "template": strict_prompt_template},
-        {"name": "Lenient Queue", "data": to_process_lenient, "template": lenient_prompt_template}
+        {
+            "name": "Strict Queue", 
+            "data": to_process_strict, 
+            "template": strict_prompt_template,
+            "interests_text": strict_interests
+        },
+        {
+            "name": "Lenient Queue", 
+            "data": to_process_lenient, 
+            "template": lenient_prompt_template,
+            "interests_text": lenient_interests
+        }
     ]
 
+    # Process Queues
     for queue in queues_to_process:
         to_process = queue["data"]
         
@@ -445,7 +463,10 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
             batch = to_process[i:i+BATCH_SIZE]
             batch_number = (i // BATCH_SIZE) + 1
             
-            prompt = queue["template"].format(batch_len=len(batch), interests_text=interests)
+            prompt = queue["template"].format(
+                batch_len=len(batch), 
+                interests_text=queue["interests_text"]
+            )
             
             for idx, art in enumerate(batch):
                 link = art.get('link', '')
