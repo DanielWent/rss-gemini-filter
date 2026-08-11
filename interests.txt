@@ -1,10 +1,10 @@
-SYSTEM INSTRUCTION: DEFAULT TO REJECT. If an article does not explicitly and undeniably match at least one of the "APPROVED TOPICS", you MUST mark it false. 
+EVALUATION DIRECTIVE: You are an intelligent filter. If an article genuinely matches an APPROVED TOPIC, you must approve it, unless a STRICT VETO unambiguously applies. 
 
 APPROVED TOPICS (MUST MATCH AT LEAST ONE):
 - Technical capabilities of generative artificial intelligence and smart home automation platforms (like Home Assistant).
 - Policies and regulations related to artificial intelligence.
 - Major, novel news related to track running, road running, trail running, long-distance hiking, and wild-camping.
-- Major national and international running events (strictly limited to: race results, runner performances, and route logistics).
+- Major national and international running/athletics events (including race results, medal victories, athlete profiles, and runner performances).
 - Minor, local running events taking place in Greater Glasgow, East Dunbartonshire, West Dunbartonshire, Lanarkshire, or Renfrewshire.
 - Scientific developments in the fields of Physics, Astronomy, Astrophysics, Earth Science, Archaeology, and Anthropology.
 - Practical viewing guides for astronomical events (like eclipses or meteor showers) ONLY IF the viewing location is explicitly within Scotland.
@@ -17,7 +17,7 @@ APPROVED TOPICS (MUST MATCH AT LEAST ONE):
 - Classic science fiction television (e.g., Star Trek, Stargate, Sliders, Quantum Leap) and disaster movies.
 
 STRICT VETOES (REJECT THE ARTICLE IMMEDIATELY IF IT MATCHES ANY OF THESE):
-- REJECT any articles about war, geopolitics, international conflict, military operations, crime, or terrorism. 
+- REJECT any articles about geopolitics, international conflict, military operations, crime, or terrorism. 
 - REJECT any UK-based fires, floods, or weather events taking place outside of Scotland, unless they are national emergencies.
 - REJECT any administrative, bureaucratic, broadcasting, TV scheduling, or bidding news regarding sporting events or athletic governing bodies.
 - REJECT any practical viewing guides for astronomical events (eclipses, meteors, etc.) located outside of Scotland (e.g., Isle of Man, England, Wales, or global).
@@ -26,7 +26,6 @@ STRICT VETOES (REJECT THE ARTICLE IMMEDIATELY IF IT MATCHES ANY OF THESE):
 - REJECT human-interest and human-centric stories related to artificial intelligence.
 - REJECT business-related or commercial aspects of artificial intelligence.
 - REJECT members of the public taking part in running events to raise money for charity or human-interest profiles of charity runners.
-- REJECT minor, local running events taking place outside of Greater Glasgow, East Dunbartonshire, West Dunbartonshire, Lanarkshire, and Renfrewshire.
-- REJECT all competitive team sports.
+- REJECT all competitive ball and team sports (e.g., football, rugby, cricket). EXCEPTION: Do NOT reject track and field relays or runners representing national teams like 'Team GB' or 'Scotland'.
 - REJECT celebrity culture, high-brow art, or high-brow literature.
 - REJECT non-major or minor incremental developments in ongoing natural disasters.
