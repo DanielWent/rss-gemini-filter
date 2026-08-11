@@ -47,12 +47,12 @@ key_states = {}
 current_key_index = 0
 api_keys_list = []
 
-# --- UPDATED 2-PASS SCHEMA ---
+# --- UPDATED LAYER-2 SCHEMA ---
 class ArticleEvaluation(BaseModel):
-    matches_interest: bool
-    interest_reason: str
-    violates_veto: bool
-    veto_reason: str
+    primary_subject_match: bool
+    match_reason: str
+    triggers_exclusion: bool
+    exclusion_reason: str
     is_interesting: bool
 
 class BatchEvaluation(BaseModel):
@@ -70,6 +70,20 @@ def load_json(filepath, default):
 def save_json(filepath, data):
     with open(filepath, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2)
+
+def is_valid_article_item(entry):
+    """LAYER 1: Deterministic filter to strip out non-article media and podcasts."""
+    link = entry.get('link', '').lower()
+    title = entry.get('title', '').lower().strip()
+    
+    # Block media URLs
+    if any(media in link for media in ['/sounds/play/', '/videos/', '/iplayer/']):
+        return False
+    # Block media-centric headlines
+    if title.startswith(('watch:', 'video:', 'podcast:', 'audio:')):
+        return False
+        
+    return True
 
 def fetch_full_text(url):
     """Scrapes the article URL, strips HTML junk, and extracts the core text."""
@@ -336,6 +350,11 @@ def main():
     seen_titles_this_run = set()
     
     for entry in parsed.entries:
+        # LAYER 1: Code-based Pre-Filter
+        if not is_valid_article_item(entry):
+            skipped_count += 1
+            continue
+            
         entry_id = entry.get('id', entry.get('link', str(time.time())))
         entry_title = entry.get('title', '').strip()
         
@@ -360,7 +379,7 @@ def main():
         to_process.append(entry)
         
     print(f"Total articles fetched: {len(parsed.entries)}", flush=True)
-    print(f"Articles skipped (old or already evaluated): {skipped_count}", flush=True)
+    print(f"Articles skipped (old, evaluated, or media links): {skipped_count}", flush=True)
     print(f"Articles queued for AI evaluation: {len(to_process)}", flush=True)
          
     if to_process:
@@ -372,17 +391,16 @@ def main():
             batch = to_process[i:i+BATCH_SIZE]
             batch_number = (i // BATCH_SIZE) + 1
             
-            # --- UPDATED TWO-PASS PROMPT ---
-            prompt = f"""You are a strict RSS filtering assistant. Review the following articles against the user's criteria.
+            prompt = f"""You are an expert content curator. Review the following articles against the user's criteria.
 
 USER CRITERIA:
 {interests}
 
 INSTRUCTIONS FOR TWO-PASS EVALUATION:
 For each article, you must perform a 2-pass check.
-Pass 1 (matches_interest): Does the core subject of this article explicitly match at least one of the APPROVED TOPICS? Write your reasoning, then output a boolean.
-Pass 2 (violates_veto): Does the article trigger ANY of the STRICT VETOES? Write your reasoning, then output a boolean.
-Final Decision (is_interesting): This MUST be true ONLY IF (matches_interest is true) AND (violates_veto is false). If it violates a veto, the final decision must be false, no matter how interesting the topic is.
+Pass 1 (primary_subject_match): Does the CORE SUBJECT of the article explicitly match one of the CORE DOMAINS? Write your reasoning, then output a boolean.
+Pass 2 (triggers_exclusion): Does the article trigger any EXJECT rule within that domain, or any STRICT MACRO-EXCLUSION? Write your reasoning, then output a boolean.
+Final Decision (is_interesting): This MUST be true ONLY IF (primary_subject_match is true) AND (triggers_exclusion is false).
 
 Return exactly {len(batch)} evaluations in the exact order of the articles provided.
 
