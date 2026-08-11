@@ -23,9 +23,14 @@ BROAD DOMAINS FOR APPROVAL:
    INCLUDE: Articles relating specifically to independent secondary schools in Scotland.
 
 8. NATURAL DISASTERS
-   INCLUDE: Articles reporting the immediate occurrence of a new major natural disaster (e.g., earthquakes, tsunamis, hurricanes).
-   REJECT: "Day two" or aftermath coverage. Reject articles focusing on rescue operations, incremental casualty updates, survivor accounts, humanitarian aid, or economic rebuilding UNLESS the article is primarily reporting on the initial, breaking occurrence of the disaster itself.
+   INCLUDE: Articles reporting on a major natural disaster (e.g., earthquake, tsunami, hurricane, volcanic eruption) where the main reported event occurred WITHIN THE LAST 24 HOURS.
+   REJECT: Any disaster coverage where the main reported event occurred MORE THAN 24 HOURS AGO.
+   REJECT: Articles reporting on man-made disasters such as wars, terrorist attacks or military strikes. 
+   REJECT: Articles reporting on famines or droughts.
 
+   HOW TO DETERMINE EVENT AGE:
+   - Check the text for temporal markers relative to the 'Published' timestamp (e.g., references like "yesterday", "two days ago", "earlier this week", "following [past day]'s quake", or a date >24h prior).
+   - If the main disaster event happened over 24 hours ago, you MUST REJECT the article, regardless of whether it discusses ongoing rescue efforts, rising death tolls, or official statements.
 MACRO-EXCLUSIONS (Always Reject):
 REJECT: Celebrity gossip or reality television.
 REJECT: General coverage of "Athletics" championships or multi-discipline sports events (e.g., overall tournament news, stadium attendance, or medal tables) UNLESS the article is a dedicated race report focusing exclusively on a specific running, sprinting, or marathon event.
