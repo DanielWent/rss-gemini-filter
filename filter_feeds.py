@@ -28,7 +28,18 @@ PROXY_DB_FILE = "proxy_db.json"
 OUTPUT_DIR = "public"
 BATCH_SIZE = 5
 SINGLE_FEED_ID = "bbc_news_ai_filtered"
-FEED_URL = "https://lincoln149.alwaysdata.net/freshrss/api/query.php?user=lincoln149&t=3yPwwxjIWkQrUzb9j75NA3&f=rss"
+
+# Replace single FEED_URL with a list of feeds and their evaluation mode
+FEEDS = [
+    {
+        "url": "https://lincoln149.alwaysdata.net/freshrss/api/query.php?user=lincoln149&t=3yPwwxjIWkQrUzb9j75NA3&f=rss",
+        "mode": "strict"
+    },
+    {
+        "url": "https://feeds.bbci.co.uk/news/rss.xml",
+        "mode": "lenient"
+    }
+]
 
 # Rate Limiting & Quota Management State
 MODELS_TO_TRY = [
@@ -327,84 +338,114 @@ def main():
     now = datetime.now(timezone.utc)
     time_threshold = now - timedelta(hours=24)
     
-    print("--- Starting Feed Fetch ---", flush=True)
-    
-    try:
-        req = urllib.request.Request(
-            FEED_URL, 
-            headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
-        )
-        print("Sending network request to FreshRSS...", flush=True)
-        with urllib.request.urlopen(req, timeout=15) as response:
-            raw_rss_data = response.read()
-            
-        print("Data received. Parsing XML...", flush=True)
-        parsed = feedparser.parse(raw_rss_data)
-        
-    except Exception as e:
-        print(f"CRITICAL ERROR: Failed to fetch or parse RSS feed. {e}", flush=True)
-        return
-        
-    to_process = []
+    to_process_strict = []
+    to_process_lenient = []
     skipped_count = 0
     seen_titles_this_run = set()
+
+    print("--- Starting Feed Fetch ---", flush=True)
     
-    for entry in parsed.entries:
-        # LAYER 1: Code-based Pre-Filter
-        if not is_valid_article_item(entry):
-            skipped_count += 1
+    # Loop over all configured feeds
+    for feed in FEEDS:
+        print(f"Fetching {feed['mode'].upper()} feed: {feed['url']}", flush=True)
+        try:
+            req = urllib.request.Request(
+                feed['url'], 
+                headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
+            )
+            with urllib.request.urlopen(req, timeout=15) as response:
+                raw_rss_data = response.read()
+                
+            parsed = feedparser.parse(raw_rss_data)
+            
+        except Exception as e:
+            print(f"ERROR: Failed to fetch or parse RSS feed {feed['url']}. {e}", flush=True)
             continue
             
-        entry_id = entry.get('id', entry.get('link', str(time.time())))
-        entry_title = entry.get('title', '').strip()
-        
-        if entry_id in archive or entry_title in archive or entry_title in seen_titles_this_run:
-            skipped_count += 1
-            continue
+        for entry in parsed.entries:
+            if not is_valid_article_item(entry):
+                skipped_count += 1
+                continue
+                
+            entry_id = entry.get('id', entry.get('link', str(time.time())))
+            entry_title = entry.get('title', '').strip()
             
-        seen_titles_this_run.add(entry_title)
+            if entry_id in archive or entry_title in archive or entry_title in seen_titles_this_run:
+                skipped_count += 1
+                continue
+                
+            seen_titles_this_run.add(entry_title)
+                
+            pub_date = entry.get('published') or entry.get('updated')
+            if pub_date:
+                try:
+                    dt = date_parser.parse(pub_date)
+                    if dt.tzinfo is None:
+                        dt = dt.replace(tzinfo=timezone.utc)
+                    if dt < time_threshold:
+                        skipped_count += 1
+                        continue
+                except Exception:
+                    pass
             
-        pub_date = entry.get('published') or entry.get('updated')
-        if pub_date:
-            try:
-                dt = date_parser.parse(pub_date)
-                if dt.tzinfo is None:
-                    dt = dt.replace(tzinfo=timezone.utc)
-                if dt < time_threshold:
-                    skipped_count += 1
-                    continue
-            except Exception:
-                pass
-        
-        to_process.append(entry)
-        
-    print(f"Total articles fetched: {len(parsed.entries)}", flush=True)
+            if feed['mode'] == 'strict':
+                to_process_strict.append(entry)
+            else:
+                to_process_lenient.append(entry)
+                
     print(f"Articles skipped (old, evaluated, or media links): {skipped_count}", flush=True)
-    print(f"Articles queued for AI evaluation: {len(to_process)}", flush=True)
-         
-    if to_process:
-        print("--- Fetching Full Text & Starting AI Filtering ---", flush=True)
-            
-        total_batches = math.ceil(len(to_process) / BATCH_SIZE)
-            
-        for i in range(0, len(to_process), BATCH_SIZE):
-            batch = to_process[i:i+BATCH_SIZE]
-            batch_number = (i // BATCH_SIZE) + 1
-            
-            prompt = f"""You are an expert content curator. Review the following articles against the user's criteria.
+    
+    # Define Prompt Templates
+    strict_prompt_template = """You are an expert content curator. Review the following articles against the user's criteria.
 
 USER CRITERIA:
-{interests}
+{interests_text}
 
-INSTRUCTIONS FOR TWO-PASS EVALUATION:
+INSTRUCTIONS FOR TWO-PASS EVALUATION (STRICT MODE):
 For each article, you must perform a 2-pass check.
 Pass 1 (primary_subject_match): Does the CORE SUBJECT of the article explicitly match one of the CORE DOMAINS? Write your reasoning, then output a boolean.
 Pass 2 (triggers_exclusion): Does the article trigger any EXJECT rule within that domain, or any STRICT MACRO-EXCLUSION? Write your reasoning, then output a boolean.
 Final Decision (is_interesting): This MUST be true ONLY IF (primary_subject_match is true) AND (triggers_exclusion is false).
 
-Return exactly {len(batch)} evaluations in the exact order of the articles provided.
+Return exactly {batch_len} evaluations in the exact order of the articles provided.
 
 """
+
+    lenient_prompt_template = """You are an expert content curator. Review the following articles against the user's broad interests.
+
+USER CRITERIA:
+{interests_text}
+
+INSTRUCTIONS FOR TWO-PASS EVALUATION (LENIENT MODE):
+These articles come from a highly trusted main news feed. Apply a RELAXED interpretation of the criteria.
+Pass 1 (primary_subject_match): Does the article generally relate to ANY of the CORE DOMAINS (e.g., general astronomy, general earth science, technology, running)? It does NOT need to be strictly about primary scientific research or massive disasters. Write your reasoning, then output a boolean.
+Pass 2 (triggers_exclusion): Is the article overwhelmingly focused on a STRICT MACRO-EXCLUSION (e.g., purely geopolitics, war, celebrity gossip)? Write your reasoning, then output a boolean.
+Final Decision (is_interesting): This MUST be true if the article has ANY broad relevance to the user's interests (primary_subject_match is true) and is not entirely composed of macro-exclusions (triggers_exclusion is false).
+
+Return exactly {batch_len} evaluations in the exact order of the articles provided.
+
+"""
+
+    queues_to_process = [
+        {"name": "Strict Queue", "data": to_process_strict, "template": strict_prompt_template},
+        {"name": "Lenient Queue", "data": to_process_lenient, "template": lenient_prompt_template}
+    ]
+
+    for queue in queues_to_process:
+        to_process = queue["data"]
+        
+        if not to_process:
+            print(f"--- No new articles for {queue['name']} ---", flush=True)
+            continue
+            
+        print(f"--- Processing {queue['name']} ({len(to_process)} articles) ---", flush=True)
+        total_batches = math.ceil(len(to_process) / BATCH_SIZE)
+        
+        for i in range(0, len(to_process), BATCH_SIZE):
+            batch = to_process[i:i+BATCH_SIZE]
+            batch_number = (i // BATCH_SIZE) + 1
+            
+            prompt = queue["template"].format(batch_len=len(batch), interests_text=interests)
             
             for idx, art in enumerate(batch):
                 link = art.get('link', '')
@@ -439,8 +480,6 @@ Return exactly {len(batch)} evaluations in the exact order of the articles provi
                 print(f"[Batch {batch_number}/{total_batches}] Successfully processed via {used_model}. Selected {included_count}/{len(batch)} articles.", flush=True)
             else:
                 print(f"[Batch {batch_number}/{total_batches}] FAILED to process after exhausting all models and keys.", flush=True)
-    else:
-        print("No new articles to evaluate.", flush=True)
             
     print("--- Sorting & Pruning Database ---", flush=True)
     
