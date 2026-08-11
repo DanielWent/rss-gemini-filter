@@ -268,14 +268,18 @@ def main():
         
     to_process = []
     skipped_count = 0
+    seen_titles_this_run = set()
     
     for entry in parsed.entries:
         entry_id = entry.get('id', entry.get('link', str(time.time())))
         entry_title = entry.get('title', '').strip()
         
-        if entry_id in archive or entry_title in archive:
+        # PRE-API DEDUPLICATION: Skip if ID/Title is in archive OR if we've already queued this title in the current run
+        if entry_id in archive or entry_title in archive or entry_title in seen_titles_this_run:
             skipped_count += 1
             continue
+            
+        seen_titles_this_run.add(entry_title)
             
         pub_date = entry.get('published') or entry.get('updated')
         if pub_date:
@@ -340,7 +344,6 @@ def main():
             
     print("--- Sorting & Pruning Database ---", flush=True)
     
-    # NEW DEDUPLICATION BLOCK
     unique_articles = []
     seen_titles = set()
     for art in proxy_db[SINGLE_FEED_ID]['articles']:
