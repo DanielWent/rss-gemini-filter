@@ -5,6 +5,14 @@
     "description": "AI Filtered Articles combined into a single feed.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/sport/athletics/articles/cgr7lk1kndro#9",
+        "title": "Why is the women's 800m record so tough to break?",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cgr7lk1kndro?at_medium=RSS&at_campaign=rss",
+        "description": "The world record for the women's 800m is the longest-standing in athletics. No-one has managed to break it for 43 years. Why?",
+        "published": "Wed, 12 Aug 2026 06:13:39 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ec3/live/293f3860-9599-11f1-863d-591d6d16ad3c.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o#0",
         "title": "More weather records as UK heat set to spike again",
         "link": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss",
@@ -27,14 +35,6 @@
         "description": "Great Britain's Romell Glave and Jeremiah Azu claim a sensational European 100m one-two for the hosts in Birmingham.",
         "published": "Tue, 11 Aug 2026 22:03:51 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/301e/live/16e70f90-95ca-11f1-856f-555b0683e2ba.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do#0",
-        "title": "Three ways to watch the solar eclipse safely without glasses",
-        "link": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss",
-        "description": "With some shops running out of stock, it may be too late to buy eclipse glasses - but you can still safely watch the spectacle using some household items.",
-        "published": "Tue, 11 Aug 2026 16:29:28 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71cf/live/72e94700-95a1-11f1-a036-eb7cd99c5268.jpg"
       },
       {
         "id": "1786452331063911",
