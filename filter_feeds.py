@@ -21,7 +21,9 @@ print("[BOOT] All modules imported successfully.", flush=True)
 # Prevent any underlying socket from hanging infinitely
 socket.setdefaulttimeout(30)
 
-# Configuration
+# =========================================================================
+# CONFIGURATION
+# =========================================================================
 BROAD_INTERESTS_FILE = "interests_broad.txt"
 STRICT_INTERESTS_FILE = "interests_strict.txt"
 LENIENT_INTERESTS_FILE = "interests_lenient.txt"
@@ -35,6 +37,10 @@ GOOGLE_FEED_ID = "google_blog_ai_filtered"
 GOOGLE_SPORTS_FEED_ID = "google_blog_sports_filtered"
 DCRAINMAKER_FEED_ID = "dcrainmaker_ai_filtered"
 THE5KRUNNER_FEED_ID = "the5krunner_ai_filtered"
+
+# =========================================================================
+# PROMPTS & FILTER CRITERIA (EASY EDITING SECTION)
+# =========================================================================
 
 # Google Blog Primary Criteria
 GOOGLE_BLOG_INTERESTS = """
@@ -70,6 +76,56 @@ INCLUDE CRITERIA:
 REJECT CRITERIA:
 - ALWAYS REJECT articles that do not explicitly match at least one of the exact INCLUDE criteria above.
 """
+
+# Base AI Prompt Templates
+BROAD_PROMPT_TEMPLATE = """You are a first-pass content filter. Review the following articles against the user's broad interests.
+
+USER'S BROAD INTERESTS:
+{broad_interests_text}
+
+INSTRUCTIONS FOR STAGE 1 EVALUATION:
+For each article, determine if it has ANY potential relevance to the broad interests. If the article is even tangentially related, or if you are unsure, default to true (matches_broad_interest) to allow it through to the next stage.
+Output a boolean (matches_broad_interest) and a brief justification (reason).
+
+Return exactly {batch_len} evaluations in the exact order of the articles provided.
+
+"""
+
+STRICT_PROMPT_TEMPLATE = """You are an expert content curator. Review the following articles against the user's criteria.
+
+USER CRITERIA:
+{interests_text}
+
+INSTRUCTIONS FOR TWO-PASS EVALUATION (STRICT MODE):
+For each article, you must perform a 2-pass check IN THIS EXACT ORDER.
+Pass 1 (triggers_exclusion): Be strictly objective. Does the article trigger ANY of the "REJECT" rules (either within a specific category OR within the ALWAYS REJECT / MACRO-EXCLUSIONS list)? Output a boolean (true if a reject rule is triggered). In your reasoning (exclusion_reason), explicitly quote the exact REJECT rule matched. If no REJECT criteria were matched, state "None".
+Pass 2 (primary_subject_match): Does the CORE SUBJECT of the article satisfy at least ONE of the explicit "INCLUDE" criteria? Output a boolean. In your reasoning (match_reason), explicitly quote the exact INCLUDE category and rule matched. If no INCLUDE criteria were matched, state "None".
+Final Decision (is_interesting): This MUST be true ONLY IF (triggers_exclusion is false) AND (primary_subject_match is true).
+
+Return exactly {batch_len} evaluations in the exact order of the articles provided.
+
+"""
+
+LENIENT_PROMPT_TEMPLATE = """You are an expert content curator. Review the following articles from a trusted main news feed against the user's criteria.
+
+USER CRITERIA:
+{interests_text}
+
+INSTRUCTIONS FOR TWO-PASS EVALUATION (LENIENT MODE):
+Mainstream news outlets often report on scientific, environmental, technological, and lifestyle domains through everyday lenses (such as consumer demand, public event preparation, safety logistics, or retail trends). Look at the underlying event.
+
+For each article, you must perform a 2-pass check IN THIS EXACT ORDER.
+Pass 1 (triggers_exclusion): Be strictly objective. Does the article trigger ANY of the "REJECT" rules (either within a specific category OR within the ALWAYS REJECT / MACRO-EXCLUSIONS list)? Output a boolean (true if a reject rule is triggered). In your reasoning (exclusion_reason), explicitly quote the exact REJECT rule matched. If no REJECT criteria were matched, state "None".
+Pass 2 (primary_subject_match): Does the underlying event or core subject satisfy at least ONE of the explicit "INCLUDE" criteria? Output a boolean. In your reasoning (match_reason), explicitly quote the exact INCLUDE category and rule matched. If no INCLUDE criteria were matched, state "None".
+Final Decision (is_interesting): This MUST be true ONLY IF (triggers_exclusion is false) AND (primary_subject_match is true).
+
+Return exactly {batch_len} evaluations in the exact order of the articles provided.
+
+"""
+
+# =========================================================================
+# SYSTEM CONFIGURATION & DEFINITIONS
+# =========================================================================
 
 # Feed Definitions
 FEEDS = [
@@ -519,57 +575,11 @@ def main():
                 
     print(f"Articles skipped (old, evaluated, or media links): {skipped_count}", flush=True)
     
-    # --- PROMPT TEMPLATES ---
-    broad_prompt_template = """You are a first-pass content filter. Review the following articles against the user's broad interests.
-
-USER'S BROAD INTERESTS:
-{broad_interests_text}
-
-INSTRUCTIONS FOR STAGE 1 EVALUATION:
-For each article, determine if it has ANY potential relevance to the broad interests. If the article is even tangentially related, or if you are unsure, default to true (matches_broad_interest) to allow it through to the next stage.
-Output a boolean (matches_broad_interest) and a brief justification (reason).
-
-Return exactly {batch_len} evaluations in the exact order of the articles provided.
-
-"""
-
-    strict_prompt_template = """You are an expert content curator. Review the following articles against the user's criteria.
-
-USER CRITERIA:
-{interests_text}
-
-INSTRUCTIONS FOR TWO-PASS EVALUATION (STRICT MODE):
-For each article, you must perform a 2-pass check IN THIS EXACT ORDER.
-Pass 1 (triggers_exclusion): Be strictly objective. Does the article trigger ANY of the "REJECT" rules (either within a specific category OR within the ALWAYS REJECT / MACRO-EXCLUSIONS list)? Output a boolean (true if a reject rule is triggered). In your reasoning (exclusion_reason), explicitly quote the exact REJECT rule matched. If no REJECT criteria were matched, state "None".
-Pass 2 (primary_subject_match): Does the CORE SUBJECT of the article satisfy at least ONE of the explicit "INCLUDE" criteria? Output a boolean. In your reasoning (match_reason), explicitly quote the exact INCLUDE category and rule matched. If no INCLUDE criteria were matched, state "None".
-Final Decision (is_interesting): This MUST be true ONLY IF (triggers_exclusion is false) AND (primary_subject_match is true).
-
-Return exactly {batch_len} evaluations in the exact order of the articles provided.
-
-"""
-
-    lenient_prompt_template = """You are an expert content curator. Review the following articles from a trusted main news feed against the user's criteria.
-
-USER CRITERIA:
-{interests_text}
-
-INSTRUCTIONS FOR TWO-PASS EVALUATION (LENIENT MODE):
-Mainstream news outlets often report on scientific, environmental, technological, and lifestyle domains through everyday lenses (such as consumer demand, public event preparation, safety logistics, or retail trends). Look at the underlying event.
-
-For each article, you must perform a 2-pass check IN THIS EXACT ORDER.
-Pass 1 (triggers_exclusion): Be strictly objective. Does the article trigger ANY of the "REJECT" rules (either within a specific category OR within the ALWAYS REJECT / MACRO-EXCLUSIONS list)? Output a boolean (true if a reject rule is triggered). In your reasoning (exclusion_reason), explicitly quote the exact REJECT rule matched. If no REJECT criteria were matched, state "None".
-Pass 2 (primary_subject_match): Does the underlying event or core subject satisfy at least ONE of the explicit "INCLUDE" criteria? Output a boolean. In your reasoning (match_reason), explicitly quote the exact INCLUDE category and rule matched. If no INCLUDE criteria were matched, state "None".
-Final Decision (is_interesting): This MUST be true ONLY IF (triggers_exclusion is false) AND (primary_subject_match is true).
-
-Return exactly {batch_len} evaluations in the exact order of the articles provided.
-
-"""
-
     queues_to_process = [
         {
             "name": "Lenient Queue", 
             "data": to_process_lenient, 
-            "template": lenient_prompt_template,
+            "template": LENIENT_PROMPT_TEMPLATE,
             "interests_text": lenient_interests,
             "archive_key": "lenient",
             "feed_id": SINGLE_FEED_ID,
@@ -579,7 +589,7 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
         {
             "name": "Strict Queue", 
             "data": to_process_strict, 
-            "template": strict_prompt_template,
+            "template": STRICT_PROMPT_TEMPLATE,
             "interests_text": strict_interests,
             "archive_key": "strict",
             "feed_id": SINGLE_FEED_ID,
@@ -589,7 +599,7 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
         {
             "name": "Google Blog Queue",
             "data": to_process_google,
-            "template": strict_prompt_template,
+            "template": STRICT_PROMPT_TEMPLATE,
             "interests_text": GOOGLE_BLOG_INTERESTS,
             "archive_key": "google",
             "feed_id": GOOGLE_FEED_ID,
@@ -599,7 +609,7 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
         {
             "name": "Google Blog Sports Queue",
             "data": to_process_google_sports,
-            "template": strict_prompt_template,
+            "template": STRICT_PROMPT_TEMPLATE,
             "interests_text": SPORTS_HEALTH_INTERESTS,
             "archive_key": "google_sports",
             "feed_id": GOOGLE_SPORTS_FEED_ID,
@@ -609,7 +619,7 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
         {
             "name": "DC Rainmaker Queue",
             "data": to_process_dcrainmaker,
-            "template": strict_prompt_template,
+            "template": STRICT_PROMPT_TEMPLATE,
             "interests_text": SPORTS_HEALTH_INTERESTS,
             "archive_key": "dcrainmaker",
             "feed_id": DCRAINMAKER_FEED_ID,
@@ -619,7 +629,7 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
         {
             "name": "The 5k Runner Queue",
             "data": to_process_the5krunner,
-            "template": strict_prompt_template,
+            "template": STRICT_PROMPT_TEMPLATE,
             "interests_text": SPORTS_HEALTH_INTERESTS,
             "archive_key": "the5krunner",
             "feed_id": THE5KRUNNER_FEED_ID,
@@ -648,7 +658,7 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
                 batch = to_process[i:i+BATCH_SIZE]
                 batch_number = (i // BATCH_SIZE) + 1
                 
-                prompt = broad_prompt_template.format(
+                prompt = BROAD_PROMPT_TEMPLATE.format(
                     batch_len=len(batch), 
                     broad_interests_text=broad_interests
                 )
@@ -806,14 +816,16 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
 
     for feed_id, output_filename in file_mappings.items():
         feed_data = proxy_db.get(feed_id, {})
-        if feed_data and feed_data.get('articles'):
+        # Modified so that it ALWAYS creates an RSS file, even if 0 articles
+        if feed_data:
             fg = FeedGenerator()
             fg.id(feed_data['link'])
             fg.title(feed_data['title']) 
             fg.link(href=feed_data['link'], rel='alternate')
             fg.description(feed_data['description']) 
             
-            for art in feed_data['articles']:
+            articles = feed_data.get('articles', [])
+            for art in articles:
                 fe = fg.add_entry()
                 fe.id(art['id'])
                 fe.title(art['title'])
@@ -823,7 +835,7 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
                 if art.get('image_url'):
                     fe.enclosure(url=art['image_url'], length='0', type='image/jpeg')
                 
-                if art['published']:
+                if art.get('published'):
                     try:
                         dt = date_parser.parse(art['published'])
                         if dt.tzinfo is None:
@@ -832,11 +844,11 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
                     except Exception:
                         pass
             
+            # This generates the file and averts the 404 error
             fg.rss_file(f"{OUTPUT_DIR}/{output_filename}")
-            print(f"Generated {output_filename} with {len(feed_data['articles'])} articles.", flush=True)
+            print(f"Generated {output_filename} with {len(articles)} articles.", flush=True)
         
     print("Run complete.", flush=True)
 
 if __name__ == "__main__":
     main()
-
