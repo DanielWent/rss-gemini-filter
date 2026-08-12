@@ -29,9 +29,31 @@ ARCHIVE_FILE = "archive.json"
 PROXY_DB_FILE = "proxy_db.json"
 OUTPUT_DIR = "public"
 BATCH_SIZE = 5
-SINGLE_FEED_ID = "bbc_news_ai_filtered"
 
-# Feed Definitions (Lenient feed is processed FIRST)
+SINGLE_FEED_ID = "bbc_news_ai_filtered"
+GOOGLE_FEED_ID = "google_blog_ai_filtered"
+
+# Google Blog Specific Filtering Criteria
+GOOGLE_BLOG_INTERESTS = """
+INCLUDE CRITERIA:
+1. New software releases (play store updates, android OS updates, pixel feature drops) that are specifically relevant to the Pixel 9a phone.
+2. New Google Nest / Google Home product releases.
+3. Google Nest / Google Home product updates.
+4. Updates to the consumer Android Gemini App.
+5. Updates to the consumer Gemini subscription plans.
+6. Updates to the consumer "Google One" subscription plans.
+7. Updates to the consumer "Google Home" subscription plans.
+8. New Gemini model releases.
+9. Changes to consumer Gemini AI Studio API plans and rate limits.
+10. Technological and product updates on consumer biosensors.
+11. Google product updates that only impact UK consumers.
+12. Policy updates (e.g. support lifespans) for the Pixel 9a phone.
+
+REJECT CRITERIA:
+- ALWAYS REJECT articles that do not explicitly match at least one of the exact INCLUDE criteria above.
+"""
+
+# Feed Definitions
 FEEDS = [
     {
         "url": "https://feeds.bbci.co.uk/news/rss.xml",
@@ -40,6 +62,30 @@ FEEDS = [
     {
         "url": "https://lincoln149.alwaysdata.net/freshrss/api/query.php?user=lincoln149&t=3yPwwxjIWkQrUzb9j75NA3&f=rss",
         "mode": "strict"
+    },
+    {
+        "url": "https://blog.google/products-and-platforms/products/google-health/rss/",
+        "mode": "google"
+    },
+    {
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/rss/",
+        "mode": "google"
+    },
+    {
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/rss/",
+        "mode": "google"
+    },
+    {
+        "url": "https://blog.google/products-and-platforms/platforms/android/rss/",
+        "mode": "google"
+    },
+    {
+        "url": "https://blog.google/products-and-platforms/devices/pixel/rss/",
+        "mode": "google"
+    },
+    {
+        "url": "https://blog.google/products-and-platforms/devices/google-nest/rss/",
+        "mode": "google"
     }
 ]
 
@@ -297,7 +343,7 @@ def evaluate_batch(prompt, expected_count, models_to_try, schema_class):
     print("All models and keys exhausted for this batch.", flush=True)
     return None, None
 
-def semantic_deduplication(articles):
+def semantic_deduplication(articles, eval_models):
     if len(articles) <= 1:
         return articles
         
@@ -308,7 +354,7 @@ def semantic_deduplication(articles):
     for art in articles:
         prompt += f"[ID: {art['id']}] Title: {art['title']}\nSnippet: {art['description'][:500]}\n\n"
         
-    for model in STAGE2_MODELS:
+    for model in eval_models:
         try:
             result = execute_with_retry(model, prompt, DeduplicationResult)
             if result and hasattr(result, 'unique_ids'):
@@ -343,11 +389,13 @@ def main():
     if not api_keys_list:
         raise ValueError("No API keys found in the GEMINI_API_KEY environment variable.")
         
-    raw_archive = load_json(ARCHIVE_FILE, {"strict": [], "lenient": []})
+    raw_archive = load_json(ARCHIVE_FILE, {"strict": [], "lenient": [], "google": []})
     if isinstance(raw_archive, list):
-        archive_data = {"strict": raw_archive, "lenient": []}
+        archive_data = {"strict": raw_archive, "lenient": [], "google": []}
     else:
         archive_data = raw_archive
+        if "google" not in archive_data:
+            archive_data["google"] = []
 
     proxy_db = load_json(PROXY_DB_FILE, {})
     
@@ -358,12 +406,21 @@ def main():
             "description": "AI Filtered Articles combined into a single feed.",
             "articles": []
         }
+        
+    if GOOGLE_FEED_ID not in proxy_db:
+        proxy_db[GOOGLE_FEED_ID] = {
+            "title": "Google Blog AI Filtered",
+            "link": "https://blog.google",
+            "description": "AI Filtered Google Blog Updates.",
+            "articles": []
+        }
             
     now = datetime.now(timezone.utc)
     time_threshold = now - timedelta(hours=24)
     
     to_process_strict = []
     to_process_lenient = []
+    to_process_google = []
     skipped_count = 0
     seen_titles_this_run = set()
 
@@ -402,9 +459,13 @@ def main():
                 if entry_id in archive_data['lenient'] or entry_title in archive_data['lenient']:
                     skipped_count += 1
                     continue
-            else:
+            elif mode == 'strict':
                 if (entry_id in archive_data['strict'] or entry_title in archive_data['strict'] or
                     entry_id in archive_data['lenient'] or entry_title in archive_data['lenient']):
+                    skipped_count += 1
+                    continue
+            elif mode == 'google':
+                if entry_id in archive_data['google'] or entry_title in archive_data['google']:
                     skipped_count += 1
                     continue
                 
@@ -424,8 +485,10 @@ def main():
             
             if mode == 'strict':
                 to_process_strict.append(entry)
-            else:
+            elif mode == 'lenient':
                 to_process_lenient.append(entry)
+            elif mode == 'google':
+                to_process_google.append(entry)
                 
     print(f"Articles skipped (old, evaluated, or media links): {skipped_count}", flush=True)
     
@@ -481,70 +544,98 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
             "data": to_process_lenient, 
             "template": lenient_prompt_template,
             "interests_text": lenient_interests,
-            "archive_key": "lenient"
+            "archive_key": "lenient",
+            "feed_id": SINGLE_FEED_ID,
+            "requires_stage1": True,
+            "stage2_models": STAGE2_MODELS
         },
         {
             "name": "Strict Queue", 
             "data": to_process_strict, 
             "template": strict_prompt_template,
             "interests_text": strict_interests,
-            "archive_key": "strict"
+            "archive_key": "strict",
+            "feed_id": SINGLE_FEED_ID,
+            "requires_stage1": True,
+            "stage2_models": STAGE2_MODELS
+        },
+        {
+            "name": "Google Blog Queue",
+            "data": to_process_google,
+            "template": strict_prompt_template,
+            "interests_text": GOOGLE_BLOG_INTERESTS,
+            "archive_key": "google",
+            "feed_id": GOOGLE_FEED_ID,
+            "requires_stage1": False, # Skip broad evaluation for hyper-specific feeds
+            "stage2_models": STAGE1_MODELS # Run filtering using Flash Lite limits as requested
         }
     ]
 
     for queue in queues_to_process:
         to_process = queue["data"]
         archive_key = queue["archive_key"]
+        feed_id = queue["feed_id"]
+        stage2_models = queue["stage2_models"]
         
         if not to_process:
             print(f"--- No new articles for {queue['name']} ---", flush=True)
             continue
             
-        print(f"--- STAGE 1: Pre-filtering {queue['name']} ({len(to_process)} articles) ---", flush=True)
         passed_stage1 = []
-        total_s1_batches = math.ceil(len(to_process) / BATCH_SIZE)
         
-        for i in range(0, len(to_process), BATCH_SIZE):
-            batch = to_process[i:i+BATCH_SIZE]
-            batch_number = (i // BATCH_SIZE) + 1
+        if queue.get("requires_stage1", True):
+            print(f"--- STAGE 1: Pre-filtering {queue['name']} ({len(to_process)} articles) ---", flush=True)
+            total_s1_batches = math.ceil(len(to_process) / BATCH_SIZE)
             
-            prompt = broad_prompt_template.format(
-                batch_len=len(batch), 
-                broad_interests_text=broad_interests
-            )
-            
-            for idx, art in enumerate(batch):
+            for i in range(0, len(to_process), BATCH_SIZE):
+                batch = to_process[i:i+BATCH_SIZE]
+                batch_number = (i // BATCH_SIZE) + 1
+                
+                prompt = broad_prompt_template.format(
+                    batch_len=len(batch), 
+                    broad_interests_text=broad_interests
+                )
+                
+                for idx, art in enumerate(batch):
+                    link = art.get('link', '')
+                    if 'cached_full_text' not in art:
+                        full_text = fetch_full_text(link) if link else ""
+                        art['cached_full_text'] = full_text
+                    else:
+                        full_text = art['cached_full_text']
+                        
+                    content = full_text if full_text else art.get('summary', '')
+                    prompt += f"--- Article {idx+1} ---\nTitle: {art.get('title')}\nPublished: {art.get('published', 'Unknown')}\nContent: {content}\n\n"
+                    
+                evaluations, used_model = evaluate_batch(prompt, len(batch), STAGE1_MODELS, BroadBatchEvaluation)
+                
+                if evaluations:
+                    for idx, eval_result in enumerate(evaluations):
+                        art = batch[idx]
+                        art_title = art.get('title', '').strip()
+                        
+                        if eval_result.matches_broad_interest:
+                            passed_stage1.append(art)
+                            print(f"  -> [S1 PASS] Title: {art_title} | Reason: {eval_result.reason}", flush=True)
+                        else:
+                            print(f"  -> [S1 REJECT] Title: {art_title} | Reason: {eval_result.reason}", flush=True)
+                            art_id = str(art.get('id', art.get('link')))
+                            if art_id not in archive_data[archive_key]:
+                                archive_data[archive_key].append(art_id)
+                            if art_title and art_title not in archive_data[archive_key]:
+                                archive_data[archive_key].append(art_title)
+                    print(f"[Stage 1 - Batch {batch_number}/{total_s1_batches}] Processed via {used_model}.", flush=True)
+                else:
+                    print(f"[Stage 1 - Batch {batch_number}/{total_s1_batches}] FAILED. Articles will be skipped and retried next run.", flush=True)
+        else:
+            # Bypass Stage 1
+            passed_stage1 = to_process
+            for art in passed_stage1:
                 link = art.get('link', '')
                 if 'cached_full_text' not in art:
                     full_text = fetch_full_text(link) if link else ""
                     art['cached_full_text'] = full_text
-                else:
-                    full_text = art['cached_full_text']
-                    
-                content = full_text if full_text else art.get('summary', '')
-                prompt += f"--- Article {idx+1} ---\nTitle: {art.get('title')}\nPublished: {art.get('published', 'Unknown')}\nContent: {content}\n\n"
-                
-            evaluations, used_model = evaluate_batch(prompt, len(batch), STAGE1_MODELS, BroadBatchEvaluation)
-            
-            if evaluations:
-                for idx, eval_result in enumerate(evaluations):
-                    art = batch[idx]
-                    art_title = art.get('title', '').strip()
-                    
-                    if eval_result.matches_broad_interest:
-                        passed_stage1.append(art)
-                        print(f"  -> [S1 PASS] Title: {art_title} | Reason: {eval_result.reason}", flush=True)
-                    else:
-                        print(f"  -> [S1 REJECT] Title: {art_title} | Reason: {eval_result.reason}", flush=True)
-                        art_id = str(art.get('id', art.get('link')))
-                        if art_id not in archive_data[archive_key]:
-                            archive_data[archive_key].append(art_id)
-                        if art_title and art_title not in archive_data[archive_key]:
-                            archive_data[archive_key].append(art_title)
-                print(f"[Stage 1 - Batch {batch_number}/{total_s1_batches}] Processed via {used_model}.", flush=True)
-            else:
-                print(f"[Stage 1 - Batch {batch_number}/{total_s1_batches}] FAILED. Articles will be skipped and retried next run.", flush=True)
-                
+
         if not passed_stage1:
             print(f"--- All articles filtered out in Stage 1 for {queue['name']} ---", flush=True)
             continue
@@ -566,7 +657,7 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
                 content = full_text if full_text else art.get('summary', '')
                 prompt += f"--- Article {idx+1} ---\nTitle: {art.get('title')}\nPublished: {art.get('published', 'Unknown')}\nContent: {content}\n\n"
                 
-            evaluations, used_model = evaluate_batch(prompt, len(batch), STAGE2_MODELS, BatchEvaluation)
+            evaluations, used_model = evaluate_batch(prompt, len(batch), stage2_models, BatchEvaluation)
             
             if evaluations:
                 included_count = 0
@@ -601,7 +692,7 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
                                     image_url = link.get('href', '')
                                     break
                         
-                        proxy_db[SINGLE_FEED_ID]['articles'].append({
+                        proxy_db[feed_id]['articles'].append({
                             'id': art_id,
                             'title': art.get('title', 'No Title'),
                             'link': art.get('link', ''),
@@ -615,17 +706,6 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
             
     print("--- Sorting & Pruning Database ---", flush=True)
     
-    unique_articles = []
-    seen_titles = set()
-    for art in proxy_db[SINGLE_FEED_ID]['articles']:
-        title = art.get('title', '').strip()
-        if title not in seen_titles:
-            seen_titles.add(title)
-            unique_articles.append(art)
-            
-    deduped_articles = semantic_deduplication(unique_articles)
-    proxy_db[SINGLE_FEED_ID]['articles'] = deduped_articles
-
     def get_pub_time(article):
         pub_str = article.get('published', '')
         if pub_str:
@@ -638,43 +718,60 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
                 pass
         return datetime.min.replace(tzinfo=timezone.utc)
 
-    proxy_db[SINGLE_FEED_ID]['articles'].sort(key=get_pub_time, reverse=True)
-    proxy_db[SINGLE_FEED_ID]['articles'] = proxy_db[SINGLE_FEED_ID]['articles'][:100]
+    for feed_id, feed_data in proxy_db.items():
+        unique_articles = []
+        seen_titles = set()
+        for art in feed_data['articles']:
+            title = art.get('title', '').strip()
+            if title not in seen_titles:
+                seen_titles.add(title)
+                unique_articles.append(art)
+                
+        # Use Flash Lite explicitly for deduplicating Google feeds; otherwise Stage 2 models
+        dedup_models = STAGE1_MODELS if feed_id == GOOGLE_FEED_ID else STAGE2_MODELS
+        deduped_articles = semantic_deduplication(unique_articles, dedup_models)
+        
+        feed_data['articles'] = deduped_articles
+        feed_data['articles'].sort(key=get_pub_time, reverse=True)
+        feed_data['articles'] = feed_data['articles'][:100]
 
     save_json(ARCHIVE_FILE, archive_data)
     save_json(PROXY_DB_FILE, proxy_db)
     
-    print("--- Generating Final RSS File ---", flush=True)
-    feed_data = proxy_db[SINGLE_FEED_ID]
-    if feed_data['articles']:
-        fg = FeedGenerator()
-        fg.id(feed_data['link'])
-        fg.title(feed_data['title']) 
-        fg.link(href=feed_data['link'], rel='alternate')
-        fg.description(feed_data['description']) 
-        
-        for art in feed_data['articles']:
-            fe = fg.add_entry()
-            fe.id(art['id'])
-            fe.title(art['title'])
-            fe.link(href=art['link'])
-            fe.description(art['description'])
+    print("--- Generating Final RSS Files ---", flush=True)
+    
+    for feed_id, feed_data in proxy_db.items():
+        if feed_data['articles']:
+            fg = FeedGenerator()
+            fg.id(feed_data['link'])
+            fg.title(feed_data['title']) 
+            fg.link(href=feed_data['link'], rel='alternate')
+            fg.description(feed_data['description']) 
             
-            if art.get('image_url'):
-                fe.enclosure(url=art['image_url'], length='0', type='image/jpeg')
-            
-            if art['published']:
-                try:
-                    dt = date_parser.parse(art['published'])
-                    if dt.tzinfo is None:
-                        dt = dt.replace(tzinfo=timezone.utc)
-                    fe.pubDate(dt)
-                except Exception:
-                    pass
+            for art in feed_data['articles']:
+                fe = fg.add_entry()
+                fe.id(art['id'])
+                fe.title(art['title'])
+                fe.link(href=art['link'])
+                fe.description(art['description'])
                 
-        fg.rss_file(f"{OUTPUT_DIR}/BBC_News_AI_Filtered.xml")
+                if art.get('image_url'):
+                    fe.enclosure(url=art['image_url'], length='0', type='image/jpeg')
+                
+                if art['published']:
+                    try:
+                        dt = date_parser.parse(art['published'])
+                        if dt.tzinfo is None:
+                            dt = dt.replace(tzinfo=timezone.utc)
+                        fe.pubDate(dt)
+                    except Exception:
+                        pass
+            
+            output_filename = "BBC_News_AI_Filtered.xml" if feed_id == SINGLE_FEED_ID else "Google_Blog_AI_Filtered.xml"
+            fg.rss_file(f"{OUTPUT_DIR}/{output_filename}")
+            print(f"Generated {output_filename} with {len(feed_data['articles'])} articles.", flush=True)
         
-    print(f"Run complete. Filtered RSS feed updated with {len(feed_data['articles'])} total unique articles.", flush=True)
+    print("Run complete.", flush=True)
 
 if __name__ == "__main__":
     main()
