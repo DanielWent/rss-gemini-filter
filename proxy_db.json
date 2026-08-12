@@ -5,6 +5,14 @@
     "description": "AI Filtered Articles combined into a single feed.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o#0",
+        "title": "More weather records as UK heat set to spike again",
+        "link": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss",
+        "description": "Summer's record-breaking streak continues as the tally for days above 30C in the UK is broken.",
+        "published": "Tue, 11 Aug 2026 23:37:43 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89e8/live/eccb4a70-95ae-11f1-969e-eb6036cb8925.jpg"
+      },
+      {
         "id": "1786491311114769",
         "title": "UK to get best eclipse since 1999 as Moon blocks out Sun across Europe",
         "link": "https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&at_campaign=rss",
@@ -21,30 +29,6 @@
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/301e/live/16e70f90-95ca-11f1-856f-555b0683e2ba.jpg"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/clyqxx27620o#0",
-        "title": "Eclipse chasers scramble for glasses as stocks run low",
-        "link": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
-        "description": "Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.",
-        "published": "Tue, 11 Aug 2026 16:31:43 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/432b/live/d0752bb0-9578-11f1-bfbd-3fe7d55dcf7b.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do#1",
-        "title": "Three ways to watch safely without glasses",
-        "link": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss",
-        "description": "With some shops running out of stock, it may be too late to buy eclipse glasses - but you can still safely watch the spectacle using some household items.",
-        "published": "Tue, 11 Aug 2026 16:29:28 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71cf/live/72e94700-95a1-11f1-a036-eb7cd99c5268.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/weather/articles/c23592z7gppo#1",
-        "title": "Weather forecast - where will the best view be?",
-        "link": "https://www.bbc.co.uk/weather/articles/c23592z7gppo?at_medium=RSS&at_campaign=rss",
-        "description": "Look to the skies on Wednesday because one of the most spectacular solar eclipses for decades is coming the UK's way with likely optimum viewing conditions for many.",
-        "published": "Tue, 11 Aug 2026 15:02:33 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be4e/live/613f7de0-9596-11f1-af19-5b895ed53d0f.jpg"
-      },
-      {
         "id": "1786452331063911",
         "title": "Rangers' Chermiti out for 'significant period' with ACL injury",
         "link": "https://www.bbc.co.uk/sport/football/articles/cwyrkkk1kzqo?at_medium=RSS&at_campaign=rss",
@@ -59,30 +43,6 @@
         "description": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
         "published": "Tue, 11 Aug 2026 14:09:26 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b16/live/38886b20-9576-11f1-bfbd-3fe7d55dcf7b.png"
-      },
-      {
-        "id": "1786471825551057",
-        "title": "When and where to see the solar eclipse in Scotland",
-        "link": "https://www.bbc.co.uk/news/articles/cwyrk522pxro?at_medium=RSS&at_campaign=rss",
-        "description": "Up to 95% of the Sun will slowly disappear behind the Moon in the most dramatic eclipse visible from the UK since August 1999.",
-        "published": "Tue, 11 Aug 2026 13:17:16 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5175/live/e90a9c00-94c9-11f1-8dc4-8907761852f3.jpg"
-      },
-      {
-        "id": "1786447818190824",
-        "title": "Warning from man whose eyes were damaged by eclipse",
-        "link": "https://www.bbc.co.uk/news/articles/cy5d19q9kngo?at_medium=RSS&at_campaign=rss",
-        "description": "Peter Smith damaged his eyes by watching the 1999 eclipse without suitable glasses.",
-        "published": "Tue, 11 Aug 2026 12:42:42 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1f4/live/109fc7c0-955d-11f1-b96f-3d43158251d5.jpg"
-      },
-      {
-        "id": "1786427113541583",
-        "title": "Isle of Man 'very well placed' for solar eclipse",
-        "link": "https://www.bbc.co.uk/news/articles/c89n5lxp84wo?at_medium=RSS&at_campaign=rss",
-        "description": "The island is particularly well placed to see the celestial spectacle, sitting just outside the path of totality.",
-        "published": "Tue, 11 Aug 2026 07:13:46 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ba4/live/0155afe0-94aa-11f1-a4b1-4525e6527cc2.jpg"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/c4g3kn216yzo#5",
