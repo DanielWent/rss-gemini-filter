@@ -22,6 +22,7 @@ print("[BOOT] All modules imported successfully.", flush=True)
 socket.setdefaulttimeout(30)
 
 # Configuration
+BROAD_INTERESTS_FILE = "interests_broad.txt"
 STRICT_INTERESTS_FILE = "interests_strict.txt"
 LENIENT_INTERESTS_FILE = "interests_lenient.txt"
 ARCHIVE_FILE = "archive.json"
@@ -43,23 +44,40 @@ FEEDS = [
 ]
 
 # Rate Limiting & Quota Management State
-MODELS_TO_TRY = [
+STAGE1_MODELS = [
     "gemini-3.5-flash-lite", 
     "gemini-3.1-flash-lite", 
     "gemini-2.5-flash-lite"
 ]
 
+STAGE2_MODELS = [
+    "gemini-3.5-flash", 
+    "gemini-2.5-flash", 
+    "gemini-1.5-flash"
+]
+
 MODEL_LIMITS = {
     "gemini-3.5-flash-lite": {"rpm": 14, "tpm": 240000},
     "gemini-3.1-flash-lite": {"rpm": 14, "tpm": 240000},
-    "gemini-2.5-flash-lite": {"rpm": 14, "tpm": 240000}
+    "gemini-2.5-flash-lite": {"rpm": 14, "tpm": 240000},
+    "gemini-3.5-flash": {"rpm": 14, "tpm": 240000},
+    "gemini-2.5-flash": {"rpm": 14, "tpm": 240000},
+    "gemini-1.5-flash": {"rpm": 14, "tpm": 240000}
 }
 
 key_states = {}
 current_key_index = 0
 api_keys_list = []
 
-# --- UPDATED LAYER-2 SCHEMA (Rejections evaluated FIRST) ---
+# --- SCHEMA DEFINITIONS ---
+
+class BroadArticleEvaluation(BaseModel):
+    matches_broad_interest: bool
+    reason: str
+
+class BroadBatchEvaluation(BaseModel):
+    results: list[BroadArticleEvaluation]
+
 class ArticleEvaluation(BaseModel):
     triggers_exclusion: bool
     exclusion_reason: str
@@ -247,14 +265,14 @@ def execute_with_retry(model, prompt_text, schema_class):
 
             raise e
 
-def evaluate_batch(prompt, expected_count):
-    for model in MODELS_TO_TRY:
+def evaluate_batch(prompt, expected_count, models_to_try, schema_class):
+    for model in models_to_try:
         attempts = 0
         max_attempts = 3
         
         while attempts < max_attempts:
             try:
-                results = execute_with_retry(model, prompt, BatchEvaluation)
+                results = execute_with_retry(model, prompt, schema_class)
                 if len(results.results) == expected_count:
                     return results.results, model 
                 else:
@@ -290,7 +308,7 @@ def semantic_deduplication(articles):
     for art in articles:
         prompt += f"[ID: {art['id']}] Title: {art['title']}\nSnippet: {art['description'][:500]}\n\n"
         
-    for model in MODELS_TO_TRY:
+    for model in STAGE2_MODELS:
         try:
             result = execute_with_retry(model, prompt, DeduplicationResult)
             if result and hasattr(result, 'unique_ids'):
@@ -313,8 +331,10 @@ def main():
             strict_interests = f.read()
         with open(LENIENT_INTERESTS_FILE, 'r', encoding='utf-8') as f:
             lenient_interests = f.read()
+        with open(BROAD_INTERESTS_FILE, 'r', encoding='utf-8') as f:
+            broad_interests = f.read()
     except FileNotFoundError as e:
-        print(f"CRITICAL ERROR: Could not find interests file. {e}")
+        print(f"CRITICAL ERROR: Could not find required interests file. {e}")
         return
         
     keys_env = os.environ.get("GEMINI_API_KEY", "")
@@ -409,7 +429,20 @@ def main():
                 
     print(f"Articles skipped (old, evaluated, or media links): {skipped_count}", flush=True)
     
-    # --- UPDATED PROMPT TEMPLATES (Pass 1 = Exclusions, Pass 2 = Inclusions, strictly objective) ---
+    # --- PROMPT TEMPLATES ---
+    broad_prompt_template = """You are a first-pass content filter. Review the following articles against the user's broad interests.
+
+USER'S BROAD INTERESTS:
+{broad_interests_text}
+
+INSTRUCTIONS FOR STAGE 1 EVALUATION:
+For each article, determine if it has ANY potential relevance to the broad interests. If the article is even tangentially related, or if you are unsure, default to true (matches_broad_interest) to allow it through to the next stage.
+Output a boolean (matches_broad_interest) and a brief justification (reason).
+
+Return exactly {batch_len} evaluations in the exact order of the articles provided.
+
+"""
+
     strict_prompt_template = """You are an expert content curator. Review the following articles against the user's criteria.
 
 USER CRITERIA:
@@ -467,11 +500,60 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
             print(f"--- No new articles for {queue['name']} ---", flush=True)
             continue
             
-        print(f"--- Processing {queue['name']} ({len(to_process)} articles) ---", flush=True)
-        total_batches = math.ceil(len(to_process) / BATCH_SIZE)
+        print(f"--- STAGE 1: Pre-filtering {queue['name']} ({len(to_process)} articles) ---", flush=True)
+        passed_stage1 = []
+        total_s1_batches = math.ceil(len(to_process) / BATCH_SIZE)
         
         for i in range(0, len(to_process), BATCH_SIZE):
             batch = to_process[i:i+BATCH_SIZE]
+            batch_number = (i // BATCH_SIZE) + 1
+            
+            prompt = broad_prompt_template.format(
+                batch_len=len(batch), 
+                broad_interests_text=broad_interests
+            )
+            
+            for idx, art in enumerate(batch):
+                link = art.get('link', '')
+                if 'cached_full_text' not in art:
+                    full_text = fetch_full_text(link) if link else ""
+                    art['cached_full_text'] = full_text
+                else:
+                    full_text = art['cached_full_text']
+                    
+                content = full_text if full_text else art.get('summary', '')
+                prompt += f"--- Article {idx+1} ---\nTitle: {art.get('title')}\nPublished: {art.get('published', 'Unknown')}\nContent: {content}\n\n"
+                
+            evaluations, used_model = evaluate_batch(prompt, len(batch), STAGE1_MODELS, BroadBatchEvaluation)
+            
+            if evaluations:
+                for idx, eval_result in enumerate(evaluations):
+                    art = batch[idx]
+                    art_title = art.get('title', '').strip()
+                    
+                    if eval_result.matches_broad_interest:
+                        passed_stage1.append(art)
+                        print(f"  -> [S1 PASS] Title: {art_title} | Reason: {eval_result.reason}", flush=True)
+                    else:
+                        print(f"  -> [S1 REJECT] Title: {art_title} | Reason: {eval_result.reason}", flush=True)
+                        art_id = str(art.get('id', art.get('link')))
+                        if art_id not in archive_data[archive_key]:
+                            archive_data[archive_key].append(art_id)
+                        if art_title and art_title not in archive_data[archive_key]:
+                            archive_data[archive_key].append(art_title)
+                print(f"[Stage 1 - Batch {batch_number}/{total_s1_batches}] Processed via {used_model}.", flush=True)
+            else:
+                print(f"[Stage 1 - Batch {batch_number}/{total_s1_batches}] FAILED. Articles will be skipped and retried next run.", flush=True)
+                
+        if not passed_stage1:
+            print(f"--- All articles filtered out in Stage 1 for {queue['name']} ---", flush=True)
+            continue
+            
+        print(f"--- STAGE 2: Evaluating {queue['name']} ({len(passed_stage1)} articles) ---", flush=True)
+        total_s2_batches = math.ceil(len(passed_stage1) / BATCH_SIZE)
+        
+        for i in range(0, len(passed_stage1), BATCH_SIZE):
+            batch = passed_stage1[i:i+BATCH_SIZE]
             batch_number = (i // BATCH_SIZE) + 1
             
             prompt = queue["template"].format(
@@ -480,14 +562,11 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
             )
             
             for idx, art in enumerate(batch):
-                link = art.get('link', '')
-                full_text = fetch_full_text(link) if link else ""
+                full_text = art.get('cached_full_text', '')
                 content = full_text if full_text else art.get('summary', '')
-                
-                # Appending the Published timestamp so the AI can evaluate time-based rules
                 prompt += f"--- Article {idx+1} ---\nTitle: {art.get('title')}\nPublished: {art.get('published', 'Unknown')}\nContent: {content}\n\n"
                 
-            evaluations, used_model = evaluate_batch(prompt, len(batch))
+            evaluations, used_model = evaluate_batch(prompt, len(batch), STAGE2_MODELS, BatchEvaluation)
             
             if evaluations:
                 included_count = 0
@@ -503,7 +582,6 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
 
                     decision_str = "Accepted" if eval_result.is_interesting else "Rejected"
 
-                    # Log output flipped to show Rejections (Pass 1) before Inclusions (Pass 2)
                     print(f"  -> Title: {art_title}", flush=True)
                     print(f"     Pass 1 (Reject Match):  {eval_result.triggers_exclusion} | Matched Rule: {eval_result.exclusion_reason}", flush=True)
                     print(f"     Pass 2 (Include Match): {eval_result.primary_subject_match} | Matched Rule: {eval_result.match_reason}", flush=True)
@@ -531,9 +609,9 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
                             'published': art.get('published', art.get('updated', '')),
                             'image_url': image_url
                         })
-                print(f"[Batch {batch_number}/{total_batches}] Successfully processed via {used_model}. Selected {included_count}/{len(batch)} articles.", flush=True)
+                print(f"[Stage 2 - Batch {batch_number}/{total_s2_batches}] Successfully processed via {used_model}. Selected {included_count}/{len(batch)} articles.", flush=True)
             else:
-                print(f"[Batch {batch_number}/{total_batches}] FAILED to process after exhausting all models and keys.", flush=True)
+                print(f"[Stage 2 - Batch {batch_number}/{total_s2_batches}] FAILED to process after exhausting all models and keys.", flush=True)
             
     print("--- Sorting & Pruning Database ---", flush=True)
     
