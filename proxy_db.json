@@ -69,5 +69,28 @@
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f734/live/888bb1a0-9598-11f1-a7ab-8b30adf0800a.jpg"
       }
     ]
+  },
+  "google_blog_ai_filtered": {
+    "title": "Google Blog AI Filtered",
+    "link": "https://blog.google",
+    "description": "AI Filtered Google Blog Updates.",
+    "articles": [
+      {
+        "id": "https://blog.google/products-and-platforms/products/google-health/pixel-watch-health-guardian/",
+        "title": "Track subtle changes in your body with Health Guardian features on Pixel and Fitbit",
+        "link": "https://blog.google/products-and-platforms/products/google-health/pixel-watch-health-guardian/",
+        "description": "The video shows Health Guardian features on a phone.",
+        "published": "Wed, 12 Aug 2026 14:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HealthGuardian_social.max-600x600.format-webp.webp"
+      },
+      {
+        "id": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/",
+        "title": "Now you can connect even more of your favorite apps and services to Gemini.",
+        "link": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_V4.max-600x600.format-webp.webp\" />Connect your favorite services directly to Gemini to help you plan trips, manage projects and tackle your daily to-do list.",
+        "published": "Wed, 12 Aug 2026 14:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_V4.max-600x600.format-webp.webp"
+      }
+    ]
   }
 }

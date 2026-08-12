@@ -329,7 +329,11 @@
     "1786547482429985",
     "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
     "1786545920047173",
-    "England scrap midnight curfew after seven months"
+    "England scrap midnight curfew after seven months",
+    "1786550424613903",
+    "Eurovision Song Contest changes rules for countries at war",
+    "1786550424613898",
+    "Why are British athletes wearing three different kits in Birmingham?"
   ],
   "lenient": [
     "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo#0",
@@ -466,5 +470,37 @@
     "Arsenal reignite interest in Aston Villa's Konsa",
     "https://www.bbc.co.uk/news/articles/cze9w9xnprno#3",
     "Your heatwave tips on how to cope in extreme temperatures"
+  ],
+  "google": [
+    "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-breathing-emergency-detection/",
+    "How your Pixel Watch steps in if you stop breathing",
+    "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
+    "Pixel Watch 5: Proactive assistance and advanced health tracking on your wrist",
+    "https://blog.google/products-and-platforms/products/google-health/pixel-watch-health-guardian/",
+    "Track subtle changes in your body with Health Guardian features on Pixel and Fitbit",
+    "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+    "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+    "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/",
+    "Now you can connect even more of your favorite apps and services to Gemini.",
+    "https://blog.google/products-and-platforms/platforms/android/tap-to-share-android/",
+    "Sharing between Pixel devices is now just a tap away.",
+    "https://blog.google/products-and-platforms/devices/pixel/new-pixel-devices-2026/",
+    "Here\u2019s your first look at the newest Pixel devices.",
+    "https://blog.google/products-and-platforms/devices/pixel/new-pixelsnap-accessories-cases-ring-stand/",
+    "New accessories for Pixel 11 phones are here.",
+    "https://blog.google/products-and-platforms/devices/pixel/google-pixel-buds-mbg-2026/",
+    "Here\u2019s what\u2019s new with Pixel Buds Pro 2 and Pixel Buds 2a.",
+    "https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/",
+    "Keep tabs on your valuables with Google Pixel Tag",
+    "https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/",
+    "The Pixel 11 series: Your most personal Pixel yet",
+    "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/",
+    "7 can\u2019t-miss updates from our Pixel 11 launch",
+    "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/",
+    "How we built the new GPS on Pixel Watch 5",
+    "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/",
+    "Google\u2019s most sophisticated foldable: Pixel 11 Pro Fold",
+    "https://blog.google/products-and-platforms/devices/pixel/made-by-google-2026/",
+    "Made by Google 2026"
   ]
 }
