@@ -5,6 +5,14 @@
     "description": "AI Filtered Articles combined into a single feed.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo#0",
+        "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+        "link": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
+        "description": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.",
+        "published": "Wed, 12 Aug 2026 21:53:45 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/548e/live/e3a91030-9694-11f1-870d-5d08c49babb2.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go#10",
         "title": "GB's Hudson-Smith wins historic 400m gold on home track",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss",
