@@ -57,6 +57,8 @@ INCLUDE CRITERIA:
 10. Technological and product updates on consumer biosensors.
 11. Google product updates that only impact UK consumers.
 12. Policy updates (e.g. support lifespans) for the Pixel 9a phone.
+13. New product release announcements for Pixel A series phones.
+14. New product release announcmements regarding Pixel Tablets.
 
 REJECT CRITERIA:
 - ALWAYS REJECT articles that do not explicitly match at least one of the exact INCLUDE criteria above.
@@ -65,13 +67,18 @@ REJECT CRITERIA:
 # Sports, Fitness & Wearables Criteria
 SPORTS_HEALTH_INTERESTS = """
 INCLUDE CRITERIA:
-1. About the Forerunner series of sports watches.
-2. About Garmin company updates.
-3. About Strava company updates.
-4. About the Garmin Elevate Sensor.
-5. About biosensor technology in general.
-6. About running data metrics in general.
-7. About health data metrics in general.
+1. Articles about the Forerunner series of sports watches.
+2. Articles containing updates on Garmin as a company.
+3. Articles containing updates on Strava as a company.
+4. Articles about the Garmin Elevate Sensor.
+5. Articles about biosensor technology in general.
+6. Articles about running data metrics in general.
+7. Articles about health data metrics in general.
+8. Articles about updates to the Garmin Connect platform.
+9. Articles about updates to the Strava app or website.
+10. Articles about updates to the Garmin app or website.
+11. Articles contaning updates on Garmin subscriptions.
+12. Articles containing updates on Strava subscriptions.
 
 REJECT CRITERIA:
 - ALWAYS REJECT articles that do not explicitly match at least one of the exact INCLUDE criteria above.
