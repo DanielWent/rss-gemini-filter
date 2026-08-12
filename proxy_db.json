@@ -5,6 +5,14 @@
     "description": "AI Filtered Articles combined into a single feed.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go#10",
+        "title": "GB's Hudson-Smith wins historic 400m gold on home track",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss",
+        "description": "Great Britain's Matthew Hudson-Smith makes history as the joint-most decorated man of all-time at European Championships by claiming 400m gold in Birmingham.",
+        "published": "Wed, 12 Aug 2026 20:04:08 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo#5",
         "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
         "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
