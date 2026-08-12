@@ -1,0 +1,65 @@
+{
+  "bbc_news_ai_filtered": {
+    "title": "BBC News AI Filtered",
+    "link": "https://www.bbc.co.uk/news",
+    "description": "AI Filtered Articles combined into a single feed.",
+    "articles": [
+      {
+        "id": "https://www.bbc.co.uk/sport/athletics/articles/cgr7lk1kndro#9",
+        "title": "Why is the women's 800m record so tough to break?",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cgr7lk1kndro?at_medium=RSS&at_campaign=rss",
+        "description": "The world record for the women's 800m is the longest standing in athletics. No-one has managed to break it for 43 years. Why is it such a tough task?",
+        "published": "Wed, 12 Aug 2026 06:13:39 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ec3/live/293f3860-9599-11f1-863d-591d6d16ad3c.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/sport/athletics/articles/cvg70y30x5go#9",
+        "title": "'Total domination' - GB's Glave & Azu claim European 100m one-two",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cvg70y30x5go?at_medium=RSS&at_campaign=rss",
+        "description": "Great Britain's Romell Glave and Jeremiah Azu claim a sensational European 100m one-two for the hosts in Birmingham.",
+        "published": "Tue, 11 Aug 2026 22:03:51 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/301e/live/16e70f90-95ca-11f1-856f-555b0683e2ba.jpg"
+      },
+      {
+        "id": "1786468817827917",
+        "title": "Grand Slam Track athletes deny Johnson claim they have been paid",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cy8e1e94deqo?at_medium=RSS&at_campaign=rss",
+        "description": "Athletes promised thousands of pounds in payments for participating in Grand Slam Track events are still waiting for their money.",
+        "published": "Tue, 11 Aug 2026 18:59:12 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a650/live/c1361170-95a3-11f1-8315-25a75e37f071.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/clyqxx27620o#1",
+        "title": "Eclipse chasers scramble for glasses as stocks run low",
+        "link": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
+        "description": "Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.",
+        "published": "Tue, 11 Aug 2026 16:31:43 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/432b/live/d0752bb0-9578-11f1-bfbd-3fe7d55dcf7b.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do#0",
+        "title": "Three ways to watch the solar eclipse safely without glasses",
+        "link": "https://www.bbc.co.uk/news/articles/c4gdxyjnz3do?at_medium=RSS&at_campaign=rss",
+        "description": "With some shops running out of stock, it may be too late to buy eclipse glasses - but you can still safely watch the spectacle using some household items.",
+        "published": "Tue, 11 Aug 2026 16:29:28 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ed8/live/1a228ae0-961f-11f1-b2ab-0dd01740f9f6.png"
+      },
+      {
+        "id": "1786458318676402",
+        "title": "Summer 2026 on course to be UK's hottest on record, says Met Office",
+        "link": "https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o?at_medium=RSS&at_campaign=rss",
+        "description": "Only average conditions are needed for the remainder of August to break the record, which was set just last year.",
+        "published": "Tue, 11 Aug 2026 16:23:52 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40a4/live/f357c920-958d-11f1-b8bb-1b597db1ad66.jpg"
+      },
+      {
+        "id": "1786464322040217",
+        "title": "Hodgkinson and gold medal rivals progress at Europeans",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cwy4ww1k49eo?at_medium=RSS&at_campaign=rss",
+        "description": "Keely Hodgkinson and gold medal rivals Audrey Werro and Femke Broeders-Bol progress to remain on course for a tantalising European 800m showdown.",
+        "published": "Tue, 11 Aug 2026 14:32:56 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f734/live/888bb1a0-9598-11f1-a7ab-8b30adf0800a.jpg"
+      }
+    ]
+  }
+}
