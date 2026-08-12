@@ -34,6 +34,7 @@ SINGLE_FEED_ID = "bbc_news_ai_filtered"
 GOOGLE_FEED_ID = "google_blog_ai_filtered"
 GOOGLE_SPORTS_FEED_ID = "google_blog_sports_filtered"
 DCRAINMAKER_FEED_ID = "dcrainmaker_ai_filtered"
+THE5KRUNNER_FEED_ID = "the5krunner_ai_filtered"
 
 # Google Blog Primary Criteria
 GOOGLE_BLOG_INTERESTS = """
@@ -55,7 +56,7 @@ REJECT CRITERIA:
 - ALWAYS REJECT articles that do not explicitly match at least one of the exact INCLUDE criteria above.
 """
 
-# Sports, Fitness & Wearables Criteria (For Google Blog Sports & DC Rainmaker)
+# Sports, Fitness & Wearables Criteria
 SPORTS_HEALTH_INTERESTS = """
 INCLUDE CRITERIA:
 1. About the Forerunner series of sports watches.
@@ -111,6 +112,10 @@ FEEDS = [
     {
         "url": "https://www.dcrainmaker.com/feed",
         "mode": "dcrainmaker"
+    },
+    {
+        "url": "https://the5krunner.com/feed/",
+        "mode": "the5krunner"
     }
 ]
 
@@ -414,12 +419,12 @@ def main():
     if not api_keys_list:
         raise ValueError("No API keys found in the GEMINI_API_KEY environment variable.")
         
-    raw_archive = load_json(ARCHIVE_FILE, {"strict": [], "lenient": [], "google": [], "google_sports": [], "dcrainmaker": []})
+    raw_archive = load_json(ARCHIVE_FILE, {"strict": [], "lenient": [], "google": [], "google_sports": [], "dcrainmaker": [], "the5krunner": []})
     if isinstance(raw_archive, list):
-        archive_data = {"strict": raw_archive, "lenient": [], "google": [], "google_sports": [], "dcrainmaker": []}
+        archive_data = {"strict": raw_archive, "lenient": [], "google": [], "google_sports": [], "dcrainmaker": [], "the5krunner": []}
     else:
         archive_data = raw_archive
-        for key in ["google", "google_sports", "dcrainmaker"]:
+        for key in ["google", "google_sports", "dcrainmaker", "the5krunner"]:
             if key not in archive_data:
                 archive_data[key] = []
 
@@ -430,7 +435,8 @@ def main():
         SINGLE_FEED_ID: {"title": "BBC News AI Filtered", "link": "https://www.bbc.co.uk/news", "description": "AI Filtered Articles combined into a single feed."},
         GOOGLE_FEED_ID: {"title": "Google Blog AI Filtered", "link": "https://blog.google", "description": "AI Filtered Google Blog Updates."},
         GOOGLE_SPORTS_FEED_ID: {"title": "Google Blog Sports & Health AI Filtered", "link": "https://danielwent.github.io/rss-gemini-filter/Google_Blog_AI_Filtered.xml", "description": "AI Filtered Google Blog Sports, Wearables & Health Metrics."},
-        DCRAINMAKER_FEED_ID: {"title": "DC Rainmaker AI Filtered", "link": "https://www.dcrainmaker.com", "description": "AI Filtered DC Rainmaker Sports Tech & Wearable Updates."}
+        DCRAINMAKER_FEED_ID: {"title": "DC Rainmaker AI Filtered", "link": "https://www.dcrainmaker.com", "description": "AI Filtered DC Rainmaker Sports Tech & Wearable Updates."},
+        THE5KRUNNER_FEED_ID: {"title": "The 5k Runner AI Filtered", "link": "https://the5krunner.com", "description": "AI Filtered The 5k Runner Sports Tech Updates."}
     }
     
     for feed_key, meta in default_feeds.items():
@@ -445,6 +451,7 @@ def main():
     to_process_google = []
     to_process_google_sports = []
     to_process_dcrainmaker = []
+    to_process_the5krunner = []
     skipped_count = 0
     seen_titles_this_run = set()
 
@@ -507,6 +514,8 @@ def main():
                 to_process_google_sports.append(entry)
             elif mode == 'dcrainmaker':
                 to_process_dcrainmaker.append(entry)
+            elif mode == 'the5krunner':
+                to_process_the5krunner.append(entry)
                 
     print(f"Articles skipped (old, evaluated, or media links): {skipped_count}", flush=True)
     
@@ -604,6 +613,16 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
             "interests_text": SPORTS_HEALTH_INTERESTS,
             "archive_key": "dcrainmaker",
             "feed_id": DCRAINMAKER_FEED_ID,
+            "requires_stage1": False,
+            "stage2_models": STAGE1_MODELS
+        },
+        {
+            "name": "The 5k Runner Queue",
+            "data": to_process_the5krunner,
+            "template": strict_prompt_template,
+            "interests_text": SPORTS_HEALTH_INTERESTS,
+            "archive_key": "the5krunner",
+            "feed_id": THE5KRUNNER_FEED_ID,
             "requires_stage1": False,
             "stage2_models": STAGE1_MODELS
         }
@@ -765,7 +784,7 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
                 seen_titles.add(title)
                 unique_articles.append(art)
                 
-        dedup_models = STAGE1_MODELS if feed_id in [GOOGLE_FEED_ID, GOOGLE_SPORTS_FEED_ID, DCRAINMAKER_FEED_ID] else STAGE2_MODELS
+        dedup_models = STAGE1_MODELS if feed_id in [GOOGLE_FEED_ID, GOOGLE_SPORTS_FEED_ID, DCRAINMAKER_FEED_ID, THE5KRUNNER_FEED_ID] else STAGE2_MODELS
         deduped_articles = semantic_deduplication(unique_articles, dedup_models)
         
         feed_data['articles'] = deduped_articles
@@ -781,7 +800,8 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
         SINGLE_FEED_ID: "BBC_News_AI_Filtered.xml",
         GOOGLE_FEED_ID: "Google_Blog_AI_Filtered.xml",
         GOOGLE_SPORTS_FEED_ID: "Google_Blog_Sports_Filtered.xml",
-        DCRAINMAKER_FEED_ID: "DCRainmaker_AI_Filtered.xml"
+        DCRAINMAKER_FEED_ID: "DCRainmaker_AI_Filtered.xml",
+        THE5KRUNNER_FEED_ID: "The5KRunner_AI_Filtered.xml"
     }
 
     for feed_id, output_filename in file_mappings.items():
@@ -819,3 +839,4 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
 
 if __name__ == "__main__":
     main()
+
