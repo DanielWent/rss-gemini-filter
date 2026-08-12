@@ -92,5 +92,32 @@
         "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_V4.max-600x600.format-webp.webp"
       }
     ]
+  },
+  "google_blog_sports_filtered": {
+    "title": "Google Blog Sports & Health AI Filtered",
+    "link": "https://danielwent.github.io/rss-gemini-filter/Google_Blog_AI_Filtered.xml",
+    "description": "AI Filtered Google Blog Sports, Wearables & Health Metrics.",
+    "articles": [
+      {
+        "id": "https://blog.google/products-and-platforms/products/google-health/pixel-watch-health-guardian/",
+        "title": "Track subtle changes in your body with Health Guardian features on Pixel and Fitbit",
+        "link": "https://blog.google/products-and-platforms/products/google-health/pixel-watch-health-guardian/",
+        "description": "The video shows Health Guardian features on a phone.",
+        "published": "Wed, 12 Aug 2026 14:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HealthGuardian_social.max-600x600.format-webp.webp"
+      }
+    ]
+  },
+  "dcrainmaker_ai_filtered": {
+    "title": "DC Rainmaker AI Filtered",
+    "link": "https://www.dcrainmaker.com",
+    "description": "AI Filtered DC Rainmaker Sports Tech & Wearable Updates.",
+    "articles": []
+  },
+  "the5krunner_ai_filtered": {
+    "title": "The 5k Runner AI Filtered",
+    "link": "https://the5krunner.com",
+    "description": "AI Filtered The 5k Runner Sports Tech Updates.",
+    "articles": []
   }
 }
