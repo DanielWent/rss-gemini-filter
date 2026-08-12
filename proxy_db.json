@@ -5,6 +5,22 @@
     "description": "AI Filtered Articles combined into a single feed.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo#5",
+        "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
+        "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
+        "description": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies.",
+        "published": "Wed, 12 Aug 2026 11:28:05 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde6/live/0ce8a9c0-963a-11f1-b809-7db91972344e.png"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cvgxzmgejd5o#0",
+        "title": "Spotify to add label for AI-generated artists and remove them from recommendations",
+        "link": "https://www.bbc.co.uk/news/articles/cvgxzmgejd5o?at_medium=RSS&at_campaign=rss",
+        "description": "The new feature, starting from mid-September, will tell listeners if an artist is AI-generated.",
+        "published": "Wed, 12 Aug 2026 10:53:54 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/865d/live/9d0547e0-9638-11f1-b809-7db91972344e.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/sport/athletics/articles/cgr7lk1kndro#9",
         "title": "Why is the women's 800m record so tough to break?",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/cgr7lk1kndro?at_medium=RSS&at_campaign=rss",
