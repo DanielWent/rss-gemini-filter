@@ -32,8 +32,10 @@ BATCH_SIZE = 5
 
 SINGLE_FEED_ID = "bbc_news_ai_filtered"
 GOOGLE_FEED_ID = "google_blog_ai_filtered"
+GOOGLE_SPORTS_FEED_ID = "google_blog_sports_filtered"
+DCRAINMAKER_FEED_ID = "dcrainmaker_ai_filtered"
 
-# Google Blog Specific Filtering Criteria
+# Google Blog Primary Criteria
 GOOGLE_BLOG_INTERESTS = """
 INCLUDE CRITERIA:
 1. New software releases (play store updates, android OS updates, pixel feature drops) that are specifically relevant to the Pixel 9a phone.
@@ -48,6 +50,21 @@ INCLUDE CRITERIA:
 10. Technological and product updates on consumer biosensors.
 11. Google product updates that only impact UK consumers.
 12. Policy updates (e.g. support lifespans) for the Pixel 9a phone.
+
+REJECT CRITERIA:
+- ALWAYS REJECT articles that do not explicitly match at least one of the exact INCLUDE criteria above.
+"""
+
+# Sports, Fitness & Wearables Criteria (For Google Blog Sports & DC Rainmaker)
+SPORTS_HEALTH_INTERESTS = """
+INCLUDE CRITERIA:
+1. About the Forerunner series of sports watches.
+2. About Garmin company updates.
+3. About Strava company updates.
+4. About the Garmin Elevate Sensor.
+5. About biosensor technology in general.
+6. About running data metrics in general.
+7. About health data metrics in general.
 
 REJECT CRITERIA:
 - ALWAYS REJECT articles that do not explicitly match at least one of the exact INCLUDE criteria above.
@@ -86,6 +103,14 @@ FEEDS = [
     {
         "url": "https://blog.google/products-and-platforms/devices/google-nest/rss/",
         "mode": "google"
+    },
+    {
+        "url": "https://danielwent.github.io/rss-gemini-filter/Google_Blog_AI_Filtered.xml",
+        "mode": "google_sports"
+    },
+    {
+        "url": "https://www.dcrainmaker.com/feed",
+        "mode": "dcrainmaker"
     }
 ]
 
@@ -389,38 +414,37 @@ def main():
     if not api_keys_list:
         raise ValueError("No API keys found in the GEMINI_API_KEY environment variable.")
         
-    raw_archive = load_json(ARCHIVE_FILE, {"strict": [], "lenient": [], "google": []})
+    raw_archive = load_json(ARCHIVE_FILE, {"strict": [], "lenient": [], "google": [], "google_sports": [], "dcrainmaker": []})
     if isinstance(raw_archive, list):
-        archive_data = {"strict": raw_archive, "lenient": [], "google": []}
+        archive_data = {"strict": raw_archive, "lenient": [], "google": [], "google_sports": [], "dcrainmaker": []}
     else:
         archive_data = raw_archive
-        if "google" not in archive_data:
-            archive_data["google"] = []
+        for key in ["google", "google_sports", "dcrainmaker"]:
+            if key not in archive_data:
+                archive_data[key] = []
 
     proxy_db = load_json(PROXY_DB_FILE, {})
     
-    if SINGLE_FEED_ID not in proxy_db:
-        proxy_db[SINGLE_FEED_ID] = {
-            "title": "BBC News AI Filtered",
-            "link": "https://www.bbc.co.uk/news",
-            "description": "AI Filtered Articles combined into a single feed.",
-            "articles": []
-        }
-        
-    if GOOGLE_FEED_ID not in proxy_db:
-        proxy_db[GOOGLE_FEED_ID] = {
-            "title": "Google Blog AI Filtered",
-            "link": "https://blog.google",
-            "description": "AI Filtered Google Blog Updates.",
-            "articles": []
-        }
-            
+    # Initialize DB structural objects
+    default_feeds = {
+        SINGLE_FEED_ID: {"title": "BBC News AI Filtered", "link": "https://www.bbc.co.uk/news", "description": "AI Filtered Articles combined into a single feed."},
+        GOOGLE_FEED_ID: {"title": "Google Blog AI Filtered", "link": "https://blog.google", "description": "AI Filtered Google Blog Updates."},
+        GOOGLE_SPORTS_FEED_ID: {"title": "Google Blog Sports & Health AI Filtered", "link": "https://danielwent.github.io/rss-gemini-filter/Google_Blog_AI_Filtered.xml", "description": "AI Filtered Google Blog Sports, Wearables & Health Metrics."},
+        DCRAINMAKER_FEED_ID: {"title": "DC Rainmaker AI Filtered", "link": "https://www.dcrainmaker.com", "description": "AI Filtered DC Rainmaker Sports Tech & Wearable Updates."}
+    }
+    
+    for feed_key, meta in default_feeds.items():
+        if feed_key not in proxy_db:
+            proxy_db[feed_key] = {**meta, "articles": []}
+
     now = datetime.now(timezone.utc)
     time_threshold = now - timedelta(hours=24)
     
     to_process_strict = []
     to_process_lenient = []
     to_process_google = []
+    to_process_google_sports = []
+    to_process_dcrainmaker = []
     skipped_count = 0
     seen_titles_this_run = set()
 
@@ -455,19 +479,9 @@ def main():
                 skipped_count += 1
                 continue
             
-            if mode == 'lenient':
-                if entry_id in archive_data['lenient'] or entry_title in archive_data['lenient']:
-                    skipped_count += 1
-                    continue
-            elif mode == 'strict':
-                if (entry_id in archive_data['strict'] or entry_title in archive_data['strict'] or
-                    entry_id in archive_data['lenient'] or entry_title in archive_data['lenient']):
-                    skipped_count += 1
-                    continue
-            elif mode == 'google':
-                if entry_id in archive_data['google'] or entry_title in archive_data['google']:
-                    skipped_count += 1
-                    continue
+            if mode in archive_data and (entry_id in archive_data[mode] or entry_title in archive_data[mode]):
+                skipped_count += 1
+                continue
                 
             seen_titles_this_run.add(entry_title)
                 
@@ -489,6 +503,10 @@ def main():
                 to_process_lenient.append(entry)
             elif mode == 'google':
                 to_process_google.append(entry)
+            elif mode == 'google_sports':
+                to_process_google_sports.append(entry)
+            elif mode == 'dcrainmaker':
+                to_process_dcrainmaker.append(entry)
                 
     print(f"Articles skipped (old, evaluated, or media links): {skipped_count}", flush=True)
     
@@ -566,8 +584,28 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
             "interests_text": GOOGLE_BLOG_INTERESTS,
             "archive_key": "google",
             "feed_id": GOOGLE_FEED_ID,
-            "requires_stage1": False, # Skip broad evaluation for hyper-specific feeds
-            "stage2_models": STAGE1_MODELS # Run filtering using Flash Lite limits as requested
+            "requires_stage1": False,
+            "stage2_models": STAGE1_MODELS
+        },
+        {
+            "name": "Google Blog Sports Queue",
+            "data": to_process_google_sports,
+            "template": strict_prompt_template,
+            "interests_text": SPORTS_HEALTH_INTERESTS,
+            "archive_key": "google_sports",
+            "feed_id": GOOGLE_SPORTS_FEED_ID,
+            "requires_stage1": False,
+            "stage2_models": STAGE1_MODELS
+        },
+        {
+            "name": "DC Rainmaker Queue",
+            "data": to_process_dcrainmaker,
+            "template": strict_prompt_template,
+            "interests_text": SPORTS_HEALTH_INTERESTS,
+            "archive_key": "dcrainmaker",
+            "feed_id": DCRAINMAKER_FEED_ID,
+            "requires_stage1": False,
+            "stage2_models": STAGE1_MODELS
         }
     ]
 
@@ -727,8 +765,7 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
                 seen_titles.add(title)
                 unique_articles.append(art)
                 
-        # Use Flash Lite explicitly for deduplicating Google feeds; otherwise Stage 2 models
-        dedup_models = STAGE1_MODELS if feed_id == GOOGLE_FEED_ID else STAGE2_MODELS
+        dedup_models = STAGE1_MODELS if feed_id in [GOOGLE_FEED_ID, GOOGLE_SPORTS_FEED_ID, DCRAINMAKER_FEED_ID] else STAGE2_MODELS
         deduped_articles = semantic_deduplication(unique_articles, dedup_models)
         
         feed_data['articles'] = deduped_articles
@@ -740,8 +777,16 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
     
     print("--- Generating Final RSS Files ---", flush=True)
     
-    for feed_id, feed_data in proxy_db.items():
-        if feed_data['articles']:
+    file_mappings = {
+        SINGLE_FEED_ID: "BBC_News_AI_Filtered.xml",
+        GOOGLE_FEED_ID: "Google_Blog_AI_Filtered.xml",
+        GOOGLE_SPORTS_FEED_ID: "Google_Blog_Sports_Filtered.xml",
+        DCRAINMAKER_FEED_ID: "DCRainmaker_AI_Filtered.xml"
+    }
+
+    for feed_id, output_filename in file_mappings.items():
+        feed_data = proxy_db.get(feed_id, {})
+        if feed_data and feed_data.get('articles'):
             fg = FeedGenerator()
             fg.id(feed_data['link'])
             fg.title(feed_data['title']) 
@@ -767,7 +812,6 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
                     except Exception:
                         pass
             
-            output_filename = "BBC_News_AI_Filtered.xml" if feed_id == SINGLE_FEED_ID else "Google_Blog_AI_Filtered.xml"
             fg.rss_file(f"{OUTPUT_DIR}/{output_filename}")
             print(f"Generated {output_filename} with {len(feed_data['articles'])} articles.", flush=True)
         
