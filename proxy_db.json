@@ -5,6 +5,14 @@
     "description": "AI Filtered Articles combined into a single feed.",
     "articles": [
       {
+        "id": "1786648217509596",
+        "title": "Kerr's Europeans absence ruining the sport - Ingebrigtsen",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cewrp0np7ppo?at_medium=RSS&at_campaign=rss",
+        "description": "Jakob Ingebrigtsen says he is \"very\" disappointed by British rival Josh Kerr's decision to miss the European Championships in Birmingham.",
+        "published": "Thu, 13 Aug 2026 20:39:26 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edf5/live/8d5f6dd0-9669-11f1-a6eb-474cf36e6c34.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c75g9g50y9eo#0",
         "title": "Bonnie Tyler's classic hit spiked in streams during solar eclipse",
         "link": "https://www.bbc.co.uk/news/articles/c75g9g50y9eo?at_medium=RSS&at_campaign=rss",
