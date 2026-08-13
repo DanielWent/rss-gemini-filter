@@ -2,7 +2,7 @@ name: AI RSS Filter
 
 on:
   schedule:
-    - cron: '*/30 * * * *' 
+     - cron: '14,44 * * * *'
   workflow_dispatch:      # Allows you to trigger the run manually
 
 permissions:
