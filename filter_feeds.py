@@ -74,9 +74,9 @@ INCLUDE CRITERIA:
 5. Articles about updates to the Garmin app or website.
 6. Articles contaning updates on the Garmin Connect Plus subscription.
 7. Articles containing updates on Strava subscriptions.
-8. Articles on non wrist-based Garmin hardware 
+8. Articles on non wrist-based Garmin hardware.
 9. Articles containing rumours or theories about new GPS technology, HR monitors, biosensors or health / running data metrics.
-10. Articles reviewing developments in GPS technology, biosensors, health / running data metrics.
+10. Articles reviewing developments in GPS technology, biosensors or health / running data metrics.
 
 REJECT CRITERIA:
 - ALWAYS REJECT articles that do not explicitly match at least one of the exact INCLUDE criteria above.
