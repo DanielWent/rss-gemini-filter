@@ -99,14 +99,6 @@
         "description": "Only average conditions are needed for the remainder of August to break the record, which was set just last year.",
         "published": "Tue, 11 Aug 2026 16:23:52 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40a4/live/f357c920-958d-11f1-b8bb-1b597db1ad66.jpg"
-      },
-      {
-        "id": "1786464322040217",
-        "title": "Hodgkinson and gold medal rivals progress at Europeans",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/cwy4ww1k49eo?at_medium=RSS&at_campaign=rss",
-        "description": "Keely Hodgkinson and gold medal rivals Audrey Werro and Femke Broeders-Bol progress to remain on course for a tantalising European 800m showdown.",
-        "published": "Tue, 11 Aug 2026 14:32:56 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f734/live/888bb1a0-9598-11f1-a7ab-8b30adf0800a.jpg"
       }
     ]
   },
@@ -115,6 +107,14 @@
     "link": "https://blog.google",
     "description": "AI Filtered Google Blog Updates.",
     "articles": [
+      {
+        "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable/",
+        "title": "Omni experts share what excites them most about the model.",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable/",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_experts_social.max-600x600.format-webp.webp\" />We interviewed some of the experts behind Gemini Omni to hear what excites them most about the model.",
+        "published": "Thu, 13 Aug 2026 13:30:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_experts_social.max-600x600.format-webp.webp"
+      },
       {
         "id": "https://blog.google/products-and-platforms/products/google-health/pixel-watch-health-guardian/",
         "title": "Track subtle changes in your body with Health Guardian features on Pixel and Fitbit",
