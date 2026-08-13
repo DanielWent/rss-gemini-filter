@@ -5,6 +5,14 @@
     "description": "AI Filtered Articles combined into a single feed.",
     "articles": [
       {
+        "id": "1786593609750011",
+        "title": "Twitch users can now block Amazon from using their content to train AI",
+        "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+        "description": "The streaming platform's users criticised the move to allow the use of channel content for AI training.",
+        "published": "Thu, 13 Aug 2026 04:46:04 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19c0/live/3a5d4e80-96b0-11f1-a357-f9f53ca5007d.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo#0",
         "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
         "link": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
