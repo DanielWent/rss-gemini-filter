@@ -5,6 +5,14 @@
     "description": "AI Filtered Articles combined into a single feed.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c75g9g50y9eo#0",
+        "title": "Bonnie Tyler's classic hit spiked in streams during solar eclipse",
+        "link": "https://www.bbc.co.uk/news/articles/c75g9g50y9eo?at_medium=RSS&at_campaign=rss",
+        "description": "Bonnie Tyler's friend Mal Pope heard Total Eclipse of the Heart playing throughout Mumbles in Swansea.",
+        "published": "Thu, 13 Aug 2026 17:07:42 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51d3/live/eba5e8b0-972c-11f1-bbb3-ebc49f706d46.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/sport/athletics/articles/cgq5pd4n0y5o#9",
         "title": "Hodgkinson into 800m final after dramatic Werro fall",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/cgq5pd4n0y5o?at_medium=RSS&at_campaign=rss",
@@ -107,6 +115,14 @@
     "link": "https://blog.google",
     "description": "AI Filtered Google Blog Updates.",
     "articles": [
+      {
+        "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+        "title": "Introducing Gemini 3.7 Flash",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+        "description": "Spark icon next to the text \"Gemini 3.7 Flash\", all on a light blue backgorund",
+        "published": "Thu, 13 Aug 2026 17:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-7-flash.max-600x600.format-webp.webp"
+      },
       {
         "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable/",
         "title": "Omni experts share what excites them most about the model.",
