@@ -52,7 +52,7 @@ INCLUDE CRITERIA:
 5. Updates to the consumer Gemini subscription plans.
 6. Updates to the consumer "Google One" subscription plans.
 7. Updates to the consumer "Google Home" subscription plans.
-8. New Gemini model releases.
+8. New Gemini model releases and developments.
 9. Changes to consumer Gemini AI Studio API plans and rate limits.
 10. Technological and product updates on consumer biosensors.
 11. Google product updates that only impact UK consumers.
