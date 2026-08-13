@@ -266,8 +266,8 @@ def fetch_full_text(url):
         if not main_content:
             return ""
             
-        text = main_content.get_text(separator=' ', strip=True)
-        return text[:3000] 
+        text = main_content.get_text(separator='\n\n', strip=True)
+        return text 
     except Exception as e:
         print(f"Failed to fetch full text for {url}: {e}", flush=True)
         return ""
@@ -505,7 +505,8 @@ def main():
             proxy_db[feed_key] = {**meta, "articles": []}
 
     now = datetime.now(timezone.utc)
-    time_threshold = now - timedelta(hours=48)
+    default_threshold = now - timedelta(hours=24)
+    extended_threshold = now - timedelta(days=7)
     
     to_process_strict = []
     to_process_lenient = []
@@ -520,7 +521,13 @@ def main():
     
     for feed in FEEDS:
         mode = feed['mode']
-        print(f"Fetching {mode.upper()} feed: {feed['url']}", flush=True)
+        
+        if mode in ['dcrainmaker', 'the5krunner']:
+            time_threshold = extended_threshold
+        else:
+            time_threshold = default_threshold
+            
+        print(f"Fetching {mode.upper()} feed (Lookback: {7 if mode in ['dcrainmaker', 'the5krunner'] else 1}d): {feed['url']}", flush=True)
         try:
             req = urllib.request.Request(
                 feed['url'], 
@@ -764,11 +771,19 @@ def main():
                                     image_url = link.get('href', '')
                                     break
                         
+                        final_description = art.get('summary', art.get('description', ''))
+                        
+                        if feed_id == SINGLE_FEED_ID and 'cached_full_text' in art and art['cached_full_text']:
+                            paras = [p.strip() for p in art['cached_full_text'].split('\n\n') if p.strip()]
+                            if paras:
+                                paras[0] = f"<b>{paras[0]}</b>"
+                                final_description = "<br><br>".join(paras)
+
                         proxy_db[feed_id]['articles'].append({
                             'id': art_id,
                             'title': art.get('title', 'No Title'),
                             'link': art.get('link', ''),
-                            'description': art.get('summary', art.get('description', '')),
+                            'description': final_description,
                             'published': art.get('published', art.get('updated', '')),
                             'image_url': image_url
                         })
