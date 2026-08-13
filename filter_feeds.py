@@ -79,9 +79,12 @@ INCLUDE CRITERIA:
 10. Articles about updates to the Garmin app or website.
 11. Articles contaning updates on Garmin subscriptions.
 12. Articles containing updates on Strava subscriptions.
+13. Articles about novel hardware and software releases and updates
+14. Articles on non wrist-based Garmin hardware 
 
 REJECT CRITERIA:
 - ALWAYS REJECT articles that do not explicitly match at least one of the exact INCLUDE criteria above.
+- ALWAYS REJECT articles that are primarily about Apple software or hardware
 """
 
 # Base AI Prompt Templates
