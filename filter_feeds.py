@@ -82,11 +82,10 @@ INCLUDE CRITERIA:
 13. Articles about novel hardware and software releases and updates
 14. Articles on non wrist-based Garmin hardware 
 15. Articles containing rumours or theories about new GPS chips, HR monitors, biosensors or data metrics.
-16. Articles covering developments in GPS technology, biosensors, health data metrics or running data metrics.
+16. Articles about new GPS chips, biosensors, health data metrics or running data metrics.
 
 REJECT CRITERIA:
 - ALWAYS REJECT articles that do not explicitly match at least one of the exact INCLUDE criteria above.
-- ALWAYS REJECT articles that are primarily about Apple software or hardware
 """
 
 # Base AI Prompt Templates
