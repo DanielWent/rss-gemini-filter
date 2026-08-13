@@ -5,6 +5,22 @@
     "description": "AI Filtered Articles combined into a single feed.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/sport/athletics/articles/cgq5pd4n0y5o#9",
+        "title": "Hodgkinson into 800m final after dramatic Werro fall",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cgq5pd4n0y5o?at_medium=RSS&at_campaign=rss",
+        "description": "Keely Hodgkinson reaches the women's 800m final at the European Championships - moments after rival Audrey Werro suffers a dramatic fall that put her place in doubt.",
+        "published": "Thu, 13 Aug 2026 12:39:52 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caeb/live/7c4307a0-970e-11f1-aa4b-17d3155b04cf.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o#0",
+        "title": "The key signs you may have damaged your eyes by looking at the eclipse",
+        "link": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss",
+        "description": "Symptoms after looking at the sun without eclipse glasses can include blurred vision",
+        "published": "Thu, 13 Aug 2026 11:57:28 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad44/live/68ec8ad0-9701-11f1-b72c-211ea4e0afc4.jpg"
+      },
+      {
         "id": "1786593609750011",
         "title": "Twitch users can now block Amazon from using their content to train AI",
         "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
