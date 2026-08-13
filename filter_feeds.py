@@ -512,7 +512,7 @@ def main():
             proxy_db[feed_key] = {**meta, "articles": []}
 
     now = datetime.now(timezone.utc)
-    time_threshold = now - timedelta(hours=24)
+    time_threshold = now - timedelta(hours=48)
     
     to_process_strict = []
     to_process_lenient = []
