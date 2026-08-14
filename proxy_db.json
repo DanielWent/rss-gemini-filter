@@ -5,6 +5,14 @@
     "description": "AI Filtered Articles combined into a single feed.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cq561gpen8lo#0",
+        "title": "'Unprecedented' rains in Japan kill six people",
+        "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+        "description": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+        "published": "Fri, 14 Aug 2026 07:00:56 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fc8/live/6099c440-9794-11f1-8c8f-61df390540c2.jpg"
+      },
+      {
         "id": "1786675210515437",
         "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
         "link": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
@@ -215,6 +223,14 @@
     "link": "https://the5krunner.com",
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
+      {
+        "id": "https://the5krunner.com/?p=126427",
+        "title": "#11 The Deep Dive Fix Files: Week Ending 14 August 2026",
+        "link": "https://the5krunner.com/2026/08/14/11-the-deep-dive-fix-files-week-ending-14-august-2026/",
+        "description": "<p><img alt=\"#11 The Deep Dive Fix Files: Week Ending 14 August 2026\" class=\"attachment-large size-large\" height=\"583\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2010/06/Deep-dive-Fix-Files-Asset-2The-Deep-Dive-Fix-files.png/w=1110,h=583\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Issue 11 covers Suunto Vertical 2 and Race 2 power meter reconnection, heart rate broadcast to Wahoo head units and the Coros armband conflict with a Stages power meter, alongside Suunto Race S battery drain and Intervals.icu fetch errors. The Garmin entries cover Edge 840 Connect IQ data fields and elevation profile redraw, Edge 1050 and 840 reversed compass, Edge 1050 Varia 820 false connection, Edge recognition failure after beta 32.10, Forerunner 570 menu stutter, Forerunner 955 Solar sensor hub failure, Fenix 8 Pro Messenger notifications, Instinct 3 button freezes and intensity minutes undercounting. Wahoo entries cover Roam 3 Strava Live Segments, Bolt V3 FIT file access and Kickr resistance in Zwift.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/08/14/11-the-deep-dive-fix-files-week-ending-14-august-2026/\">#11 The Deep Dive Fix Files: Week Ending 14 August 2026</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
+        "published": "Fri, 14 Aug 2026 08:31:48 +0000",
+        "image_url": ""
+      },
       {
         "id": "https://the5krunner.com/?p=126410",
         "title": "Pixel Watch 5 best ever GPS: what\u2019s the point of postprocessing accuracy?",
