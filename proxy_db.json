@@ -5,6 +5,14 @@
     "description": "AI Filtered Articles combined into a single feed.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cd9wp32dgxxo#0",
+        "title": "'Glam helps mentality' says sprinter Amy Hunt, but can it give you that winning edge?",
+        "link": "https://www.bbc.co.uk/news/articles/cd9wp32dgxxo?at_medium=RSS&at_campaign=rss",
+        "description": "Sprinter Amy Hunt has been showing off her nails at the European Athletics Championships in Birmingham.",
+        "published": "Fri, 14 Aug 2026 11:49:09 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8410/live/4318a6c0-9721-11f1-bb91-6bb44c42ed47.jpg"
+      },
+      {
         "id": "1786707917791731",
         "title": "Archaeologists uncover Iron Age woman in 'beautifully made' grave",
         "link": "https://www.bbc.co.uk/news/articles/c3v0yd7e62yo?at_medium=RSS&at_campaign=rss",
