@@ -5,6 +5,14 @@
     "description": "AI Filtered Articles combined into a single feed.",
     "articles": [
       {
+        "id": "1786707917791731",
+        "title": "Archaeologists uncover Iron Age woman in 'beautifully made' grave",
+        "link": "https://www.bbc.co.uk/news/articles/c3v0yd7e62yo?at_medium=RSS&at_campaign=rss",
+        "description": "The discovery was made ahead of a planned expansion of a Highland quarry.",
+        "published": "Fri, 14 Aug 2026 13:21:40 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7abc/live/6bf6ce70-97ce-11f1-a927-0dfab640b8c9.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cq561gpen8lo#0",
         "title": "'Unprecedented' rains in Japan kill six people",
         "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
