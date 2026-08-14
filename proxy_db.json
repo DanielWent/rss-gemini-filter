@@ -5,6 +5,14 @@
     "description": "AI Filtered Articles combined into a single feed.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/sport/athletics/articles/cyvl05g8g4lo#8",
+        "title": "Hodgkinson beaten to European gold by rival Werro",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cyvl05g8g4lo?at_medium=RSS&at_campaign=rss",
+        "description": "Keely Hodgkinson is forced to settle for European silver as Switzerland's Audrey Werro denies the Briton a third consecutive title in a thrilling 800m final.",
+        "published": "Fri, 14 Aug 2026 21:38:37 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29dc/live/9201f610-9825-11f1-a44b-45599586ea50.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cd9wp32dgxxo#0",
         "title": "'Glam helps mentality' says sprinter Amy Hunt, but can it give you that winning edge?",
         "link": "https://www.bbc.co.uk/news/articles/cd9wp32dgxxo?at_medium=RSS&at_campaign=rss",
