@@ -188,12 +188,14 @@ STAGE1_MODELS = [
 ]
 
 STAGE2_MODELS = [
+    "gemini-3.6-flash",
     "gemini-3.5-flash", 
     "gemini-2.5-flash", 
     "gemini-1.5-flash"
 ]
 
 MODEL_LIMITS = {
+    "gemini-3.6-flash": {"rpm": 14, "tpm": 240000},
     "gemini-3.5-flash-lite": {"rpm": 14, "tpm": 240000},
     "gemini-3.1-flash-lite": {"rpm": 14, "tpm": 240000},
     "gemini-2.5-flash-lite": {"rpm": 14, "tpm": 240000},
@@ -773,12 +775,6 @@ def main():
                         
                         final_description = art.get('summary', art.get('description', ''))
                         
-                        if feed_id == SINGLE_FEED_ID and 'cached_full_text' in art and art['cached_full_text']:
-                            paras = [p.strip() for p in art['cached_full_text'].split('\n\n') if p.strip()]
-                            if paras:
-                                paras[0] = f"<b>{paras[0]}</b>"
-                                final_description = "<br><br>".join(paras)
-
                         proxy_db[feed_id]['articles'].append({
                             'id': art_id,
                             'title': art.get('title', 'No Title'),
