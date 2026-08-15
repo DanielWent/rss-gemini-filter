@@ -5,6 +5,14 @@
     "description": "AI Filtered Articles combined into a single feed.",
     "articles": [
       {
+        "id": "1786770910687498",
+        "title": "Europe's scorched landscapes seen from space after summer heatwaves",
+        "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
+        "description": "BBC Verify examines the impact of drought and extreme heat on western European rivers, fields and mountains.",
+        "published": "Sat, 15 Aug 2026 07:01:13 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b95/live/1efcbb90-97f4-11f1-870d-5d08c49babb2.png"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c5y0zz63gero#0",
         "title": "One dead after 7.7 magnitude earthquake strikes Indonesia",
         "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
