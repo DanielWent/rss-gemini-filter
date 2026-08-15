@@ -5,6 +5,14 @@
     "description": "AI Filtered Articles combined into a single feed.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o#8",
+        "title": "Hunt wins third gold as Asher-Smith makes history",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss",
+        "description": "Amy Hunt claims the third gold medal of her bid for a historic quadruple and Dina Asher-Smith makes history as Great Britain win two relay golds at the European Athletics Championships.",
+        "published": "Sat, 15 Aug 2026 21:13:17 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/297d/live/d940b150-98ee-11f1-94a7-b9e415195b83.jpg"
+      },
+      {
         "id": "1786825816650588",
         "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
         "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
@@ -334,6 +342,45 @@
         "description": "<p><img alt=\"CIRQA vs WHOOP vs LOOP vs Fitbit Air vs Helio Strap Pro\" class=\"attachment-large size-large\" height=\"521\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/08/IMG_4767.jpeg/w=1110,h=521\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Five screenless trackers now compete for the same wrist. This comparison ranks Garmin CIRQA, Polar LOOP, WHOOP, Amazfit Helio Strap and Fitbit Air on cost, app quality, battery life and buyer fit.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/08/06/cirqa-vs-whoop-comparison/\">CIRQA vs WHOOP vs LOOP vs Fitbit Air vs Helio Strap Pro</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
         "published": "Thu, 06 Aug 2026 22:11:18 +0000",
         "image_url": ""
+      }
+    ]
+  },
+  "grassroots_running_ai_filtered": {
+    "title": "Grassroots & Niche Running AI Filtered",
+    "link": "https://danielwent.github.io/rss-gemini-filter/Grassroots_Running_AI_Filtered.xml",
+    "description": "AI Filtered Niche, Grassroots, Ultra, and Non-Mainstream Distance Running News.",
+    "articles": [
+      {
+        "id": "1786828803406232",
+        "title": "Michael Roeger Holds a Marathon World Record. At 38, He Is Taking On the Hardest Major",
+        "link": "https://www.therunningweek.com/post/michael-roeger-holds-a-marathon-world-record-at-38-he-is-taking-on-the-hardest-major",
+        "description": "<p>Michael Roeger holds the T46 marathon world record and lines up at the 2026 TCS Sydney Marathon on August 30. Here is the road that brought him there.</p>",
+        "published": "Sat, 15 Aug 2026 23:20:03 +0200",
+        "image_url": "https://cdn.prod.website-files.com/667e874f45b06e6a2960bd2e/6a7ee5633c24848d4a02c689_5a5a9c6251d6da55f83758fcf9f31ecfe3a71833b39e5195637f286d7d2864b5bc4d290bc07a2287ecfa8dd4f039343d93eeeb346ecd8eb9ec49383a6f2bc384e49171acf69d5bc68a2866c7e47071acab71bf773b15644bc5418eb6f8c398c62a115bee.jpeg"
+      },
+      {
+        "id": "1786828803406230",
+        "title": "At 4:17 With a Baby in Tow, Stephen Biebelhausen Just Rewrote the Stroller Mile",
+        "link": "https://www.therunningweek.com/post/at-4-17-with-a-baby-in-tow-stephen-biebelhausen-just-rewrote-the-stroller-mile",
+        "description": "<p>Former college miler Stephen Biebelhausen ran 4:17 with a baby stroller at the 2026 Guardian Mile in Cleveland, blowing past the previous mark of 4:26.29 and reopening a heated ratification debate.</p>",
+        "published": "Sat, 15 Aug 2026 23:20:03 +0200",
+        "image_url": "https://cdn.prod.website-files.com/667e874f45b06e6a2960bd2e/6a78bd1068f02665f028d243_9b6135ecb47acc46ddfe00e2e8641e1a9b2cdc995a34794a4880f6407ccc985fd0b0df95876fc174af1653f847cb9fd1e815921b39e5e364b3a638813d14f86f021f7e64800e5be7e6bcbbdcee2dbd76a2809bc3b9f51e5288f4667a5dae0282cba3fe0e.jpeg"
+      },
+      {
+        "id": "1786828803406229",
+        "title": "A Former Rugby Pro Is Running 100 Ultramarathons in 100 Days. He Is About to Reach Bournemouth",
+        "link": "https://www.therunningweek.com/post/a-former-rugby-pro-is-running-100-ultramarathons-in-100-days-he-is-about-to-reach-bournemouth",
+        "description": "<p>David \"Jacko\" Jackson, 44, a former Nottingham RFC winger whose career ended with a brain injury, is running 100 ultramarathons in 100 days. Bournemouth is his next stop.</p>",
+        "published": "Sat, 15 Aug 2026 23:20:03 +0200",
+        "image_url": "https://cdn.prod.website-files.com/667e874f45b06e6a2960bd2e/6a759e18158facb17ad9ccdf_15eefdd29a2b33e792c2fc28a62f1408078b9e1eb5d01e1c977134bc693641cb87f78e3fbca48ddb7738f854abf21c62902c6337af2e188fcbc2cf498b8f061c3ce9006ddac69ad2e8ede59aaa312c35c769e8dd6ca81be8ef8b46fe51b359da74459cf8.jpeg"
+      },
+      {
+        "id": "1786828803406225",
+        "title": "At 34, Max Jolliffe Just Ran Badwater 135 Faster Than Anyone in History",
+        "link": "https://www.therunningweek.com/post/at-34-max-jolliffe-just-ran-badwater-135-faster-than-anyone-in-history",
+        "description": "<p>On Tuesday evening, at the trailhead below Mount Whitney, a 34-year-old runner from Costa Mesa, California, did something that had never been done in the nearly 40-year history of the Badwater 135.</p>",
+        "published": "Sat, 15 Aug 2026 23:20:03 +0200",
+        "image_url": "https://cdn.prod.website-files.com/667e874f45b06e6a2960bd2e/6a6a26cb539fafe75318ca42_c641329bb2daf4f7f1a381d8a8b13270f45c2bf8d74a34a747a609f6a86395ffdbd15edcfdc242068782793e5849c33393d62e699ba03882a27533ae891fa30c55494f3cb19207e29d6b4d9ec40d61cfbbaf4669ce444de7453d14db48e03d9fa70bbe2c.jpeg"
       }
     ]
   }
