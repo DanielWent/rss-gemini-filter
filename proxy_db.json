@@ -5,6 +5,14 @@
     "description": "AI Filtered Articles combined into a single feed.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o#2",
+        "title": "Secondhand book sales are booming. Is it because of AI?",
+        "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+        "description": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.",
+        "published": "Sat, 15 Aug 2026 11:25:32 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feb2/live/91ecfb30-97e8-11f1-a76b-f1c27c51f3da.jpg"
+      },
+      {
         "id": "1786770910687498",
         "title": "Europe's scorched landscapes seen from space after summer heatwaves",
         "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
