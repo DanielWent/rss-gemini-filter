@@ -5,6 +5,14 @@
     "description": "AI Filtered Articles combined into a single feed.",
     "articles": [
       {
+        "id": "1786825816650588",
+        "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+        "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+        "description": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
+        "published": "Sat, 15 Aug 2026 22:28:30 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd3/live/455f2ee0-98e3-11f1-b2ab-0dd01740f9f6.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o#2",
         "title": "Secondhand book sales are booming. Is it because of AI?",
         "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
