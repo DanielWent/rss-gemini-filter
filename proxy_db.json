@@ -5,6 +5,14 @@
     "description": "AI Filtered Articles combined into a single feed.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c5y0zz63gero#0",
+        "title": "One dead after 7.7 magnitude earthquake strikes Indonesia",
+        "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+        "description": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
+        "published": "Sat, 15 Aug 2026 02:51:19 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae3/live/73539fc0-984d-11f1-92c4-9d3840de4561.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/sport/athletics/articles/cyvl05g8g4lo#8",
         "title": "Hodgkinson beaten to European gold by rival Werro",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/cyvl05g8g4lo?at_medium=RSS&at_campaign=rss",
