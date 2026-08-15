@@ -37,10 +37,26 @@ GOOGLE_FEED_ID = "google_blog_ai_filtered"
 GOOGLE_SPORTS_FEED_ID = "google_blog_sports_filtered"
 DCRAINMAKER_FEED_ID = "dcrainmaker_ai_filtered"
 THE5KRUNNER_FEED_ID = "the5krunner_ai_filtered"
+GRASSROOTS_RUNNING_FEED_ID = "grassroots_running_ai_filtered"
 
 # =========================================================================
 # PROMPTS & FILTER CRITERIA (EASY EDITING SECTION)
 # =========================================================================
+
+# Grassroots & Niche Running Criteria
+GRASSROOTS_RUNNING_INTERESTS = """
+INCLUDE CRITERIA:
+1. Niche & Novelty Records: Verified records involving unusual conditions (such as stroller, treadmill, costume), single-year age categories, masters divisions, or adaptive/para runners in non-Paralympic events.
+2. Ultra, Trail & FKT Feats: Notable completions, course records, or Fastest Known Times (FKTs) on major trail routes and multi-day ultra challenges.
+3. Unusual Firsts & Human Endurance Feats: Groundbreaking personal firsts in extreme, multi-day, or non-mainstream distance running events.
+4. Technical & Grassroots Regulations: Updates to domestic, trail, or marathon rules, shoe compliance rulings, or race safety policies.
+
+REJECT CRITERIA:
+1. Mainstream track and field coverage (Olympics, Diamond League, World Championships).
+2. General winners or elite podium coverage of top-tier World Marathon Majors (London, Boston, Berlin, NYC, Chicago, Tokyo).
+3. Generic training, nutrition advice, injury prevention, running shoe reviews, gear guides, or listicles.
+4. ALWAYS REJECT articles that do not explicitly match at least one of the exact INCLUDE criteria above.
+"""
 
 # Google Blog Primary Criteria
 GOOGLE_BLOG_INTERESTS = """
@@ -141,6 +157,10 @@ FEEDS = [
     {
         "url": "https://lincoln149.alwaysdata.net/freshrss/api/query.php?user=lincoln149&t=3yPwwxjIWkQrUzb9j75NA3&f=rss",
         "mode": "strict"
+    },
+    {
+        "url": "https://lincoln149.alwaysdata.net/freshrss/api/query.php?user=lincoln149&t=6N05CNtrbYfKjurK1amToT&f=rss",
+        "mode": "grassroots_running"
     },
     {
         "url": "https://blog.google/products-and-platforms/products/google-health/rss/",
@@ -482,12 +502,12 @@ def main():
     if not api_keys_list:
         raise ValueError("No API keys found in the GEMINI_API_KEY environment variable.")
         
-    raw_archive = load_json(ARCHIVE_FILE, {"strict": [], "lenient": [], "google": [], "google_sports": [], "dcrainmaker": [], "the5krunner": []})
+    raw_archive = load_json(ARCHIVE_FILE, {"strict": [], "lenient": [], "google": [], "google_sports": [], "dcrainmaker": [], "the5krunner": [], "grassroots_running": []})
     if isinstance(raw_archive, list):
-        archive_data = {"strict": raw_archive, "lenient": [], "google": [], "google_sports": [], "dcrainmaker": [], "the5krunner": []}
+        archive_data = {"strict": raw_archive, "lenient": [], "google": [], "google_sports": [], "dcrainmaker": [], "the5krunner": [], "grassroots_running": []}
     else:
         archive_data = raw_archive
-        for key in ["google", "google_sports", "dcrainmaker", "the5krunner"]:
+        for key in ["google", "google_sports", "dcrainmaker", "the5krunner", "grassroots_running"]:
             if key not in archive_data:
                 archive_data[key] = []
 
@@ -499,7 +519,8 @@ def main():
         GOOGLE_FEED_ID: {"title": "Google Blog AI Filtered", "link": "https://blog.google", "description": "AI Filtered Google Blog Updates."},
         GOOGLE_SPORTS_FEED_ID: {"title": "Google Blog Sports & Health AI Filtered", "link": "https://danielwent.github.io/rss-gemini-filter/Google_Blog_AI_Filtered.xml", "description": "AI Filtered Google Blog Sports, Wearables & Health Metrics."},
         DCRAINMAKER_FEED_ID: {"title": "DC Rainmaker AI Filtered", "link": "https://www.dcrainmaker.com", "description": "AI Filtered DC Rainmaker Sports Tech & Wearable Updates."},
-        THE5KRUNNER_FEED_ID: {"title": "The 5k Runner AI Filtered", "link": "https://the5krunner.com", "description": "AI Filtered The 5k Runner Sports Tech Updates."}
+        THE5KRUNNER_FEED_ID: {"title": "The 5k Runner AI Filtered", "link": "https://the5krunner.com", "description": "AI Filtered The 5k Runner Sports Tech Updates."},
+        GRASSROOTS_RUNNING_FEED_ID: {"title": "Grassroots & Niche Running AI Filtered", "link": "https://danielwent.github.io/rss-gemini-filter/Grassroots_Running_AI_Filtered.xml", "description": "AI Filtered Niche, Grassroots, Ultra, and Non-Mainstream Distance Running News."}
     }
     
     for feed_key, meta in default_feeds.items():
@@ -512,6 +533,7 @@ def main():
     
     to_process_strict = []
     to_process_lenient = []
+    to_process_grassroots = []
     to_process_google = []
     to_process_google_sports = []
     to_process_dcrainmaker = []
@@ -578,6 +600,8 @@ def main():
                 to_process_strict.append(entry)
             elif mode == 'lenient':
                 to_process_lenient.append(entry)
+            elif mode == 'grassroots_running':
+                to_process_grassroots.append(entry)
             elif mode == 'google':
                 to_process_google.append(entry)
             elif mode == 'google_sports':
@@ -609,6 +633,16 @@ def main():
             "feed_id": SINGLE_FEED_ID,
             "requires_stage1": True,
             "stage2_models": STAGE2_MODELS
+        },
+        {
+            "name": "Grassroots Running Queue",
+            "data": to_process_grassroots,
+            "template": STRICT_PROMPT_TEMPLATE,
+            "interests_text": GRASSROOTS_RUNNING_INTERESTS,
+            "archive_key": "grassroots_running",
+            "feed_id": GRASSROOTS_RUNNING_FEED_ID,
+            "requires_stage1": False,
+            "stage2_models": STAGE1_MODELS
         },
         {
             "name": "Google Blog Queue",
@@ -709,7 +743,6 @@ def main():
                 else:
                     print(f"[Stage 1 - Batch {batch_number}/{total_s1_batches}] FAILED. Articles will be skipped and retried next run.", flush=True)
         else:
-            # Bypass Stage 1
             passed_stage1 = to_process
             for art in passed_stage1:
                 link = art.get('link', '')
@@ -810,7 +843,7 @@ def main():
                 seen_titles.add(title)
                 unique_articles.append(art)
                 
-        dedup_models = STAGE1_MODELS if feed_id in [GOOGLE_FEED_ID, GOOGLE_SPORTS_FEED_ID, DCRAINMAKER_FEED_ID, THE5KRUNNER_FEED_ID] else STAGE2_MODELS
+        dedup_models = STAGE1_MODELS if feed_id in [GOOGLE_FEED_ID, GOOGLE_SPORTS_FEED_ID, DCRAINMAKER_FEED_ID, THE5KRUNNER_FEED_ID, GRASSROOTS_RUNNING_FEED_ID] else STAGE2_MODELS
         deduped_articles = semantic_deduplication(unique_articles, dedup_models)
         
         feed_data['articles'] = deduped_articles
@@ -827,12 +860,12 @@ def main():
         GOOGLE_FEED_ID: "Google_Blog_AI_Filtered.xml",
         GOOGLE_SPORTS_FEED_ID: "Google_Blog_Sports_Filtered.xml",
         DCRAINMAKER_FEED_ID: "DCRainmaker_AI_Filtered.xml",
-        THE5KRUNNER_FEED_ID: "The5KRunner_AI_Filtered.xml"
+        THE5KRUNNER_FEED_ID: "The5KRunner_AI_Filtered.xml",
+        GRASSROOTS_RUNNING_FEED_ID: "Grassroots_Running_AI_Filtered.xml"
     }
 
     for feed_id, output_filename in file_mappings.items():
         feed_data = proxy_db.get(feed_id, {})
-        # Modified so that it ALWAYS creates an RSS file, even if 0 articles
         if feed_data:
             fg = FeedGenerator()
             fg.id(feed_data['link'])
@@ -860,7 +893,6 @@ def main():
                     except Exception:
                         pass
             
-            # This generates the file and averts the 404 error
             fg.rss_file(f"{OUTPUT_DIR}/{output_filename}")
             print(f"Generated {output_filename} with {len(articles)} articles.", flush=True)
         
