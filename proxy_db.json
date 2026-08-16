@@ -5,6 +5,14 @@
     "description": "AI Filtered Articles combined into a single feed.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/sport/athletics/articles/cjejjzg4vqwo#8",
+        "title": "Donnelly wins GB's first women's marathon medal at Europeans",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cjejjzg4vqwo?at_medium=RSS&at_campaign=rss",
+        "description": "Abbie Donnelly became the first British woman to win a marathon medal at the European Championships as she claimed bronze in Birmingham on Sunday.",
+        "published": "Sun, 16 Aug 2026 11:40:30 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb26/live/5141af60-9962-11f1-9712-2936f8c80214.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o#8",
         "title": "Hunt wins third gold as Asher-Smith makes history",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjxxd0j844o?at_medium=RSS&at_campaign=rss",
