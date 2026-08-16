@@ -1,0 +1,10 @@
+INCLUDE CRITERIA:
+1. Article or event announcement relates to a running event, race, athletics fixture, or running story physically situated within any of the following Council Areas:
+   - Argyll and Bute, East Dunbartonshire, East Renfrewshire, Falkirk, Glasgow City, Inverclyde, North Ayrshire, North Lanarkshire, Renfrewshire, South Lanarkshire, Stirling, West Dunbartonshire.
+2. Article or event announcement relates to a running event, race, or story situated in or around any of the following towns, villages, or their immediate local landmarks/parks:
+   - Aberfoyle, Airdrie, Alexandria, Balfron, Balloch, Balmaha, Banknock, Bannockburn, Barrhead, Beith, Bellshill, Bishopbriggs, Bishopton, Blanefield, Blantyre, Bonhill, Bonnybridge, Bothwell, Bowling, Bridge of Weir, Buchlyvie, Busby, Cambuslang, Cardross, Chryston, Clarkston, Clydebank, Coatbridge, Croftamie, Cumbernauld, Denny, Drymen, Dumbarton, Duntocher, Eaglesham, East Kilbride, Elderslie, Erskine, Faifley, Falkirk, Fintry, Garelochhead, Gargunnock, Giffnock, Glasgow, Gourock, Greenock, Haggs, Hamilton, Hardgate, Helensburgh, Houston, Inchinnan, Inverkip, Jamestown, Johnstone, Kilbarchan, Kilbirnie, Killearn, Kilmacolm, Kilsyth, Kippen, Kirkintilloch, Langbank, Larbert, Lennoxtown, Lenzie, Linwood, Lochwinnoch, Luss, Milngavie, Milton of Campsie, Moodiesburn, Motherwell, Neilston, Newton Mearns, Old Kilpatrick, Paisley, Port Glasgow, Renfrew, Renton, Rhu, Rutherglen, Shandon, Stepps, Stenhousemuir, Stirling, Strathaven, Strathblane, Tarbet, Thornliebank, Torrance, Twechar, Uddingston, Uplawmoor, Viewpark, Wishaw.
+
+REJECT CRITERIA:
+1. Events, races, or news taking place entirely outside the specified council areas, towns, and villages (e.g. Edinburgh, Lothians, Fife, Tayside, Aberdeen/Aberdeenshire, Highlands, Scottish Borders, Dumfries & Galloway).
+2. Generic UK-wide gear reviews, nutrition listicles, or training tips without a specific local event focus.
+3. ALWAYS REJECT articles that do not explicitly match at least one of the exact INCLUDE criteria above.
