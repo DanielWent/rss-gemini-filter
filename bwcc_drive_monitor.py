@@ -1,6 +1,8 @@
 import os
 import re
 import json
+import time
+import tempfile
 import datetime
 from datetime import timezone
 from typing import List, Dict, Any, Literal
@@ -42,7 +44,11 @@ def get_genai_client() -> genai.Client:
     )
     if not api_key:
         raise ValueError("Missing GEMINI_API_KEY or GOOGLE_API_KEY in environment.")
-    return genai.Client(api_key=api_key)
+    
+    return genai.Client(
+        api_key=api_key,
+        http_options=types.HttpOptions(api_version="v1beta"),
+    )
 
 
 def load_archive() -> Dict[str, Any]:
@@ -151,8 +157,22 @@ def download_public_drive_pdf(file_id: str) -> bytes:
 
 
 def summarize_pdf_with_gemini(client: genai.Client, pdf_bytes: bytes, filename: str) -> DocumentSummary:
-    """Analyze PDF content using Google GenAI SDK with structured Pydantic schema."""
-    prompt = f"""
+    """Upload PDF to Gemini Files API and analyze with structured Pydantic schema."""
+    with tempfile.NamedTemporaryFile(suffix=".pdf", delete=False) as tmp:
+        tmp.write(pdf_bytes)
+        tmp_path = tmp.name
+
+    uploaded_file = None
+    try:
+        uploaded_file = client.files.upload(
+            file=tmp_path,
+            config=types.UploadFileConfig(
+                display_name=filename,
+                mime_type="application/pdf"
+            )
+        )
+
+        prompt = f"""
 You are analyzing a public document from the Bearsden West Community Council ("{filename}").
 
 STRICT TITLE CONVENTIONS:
@@ -167,22 +187,25 @@ CONTENT SUMMARY REQUIREMENTS:
 - Detail key discussions, decisions, planning applications, local council updates, police reports, and financial expenditures.
 """
 
-    response = client.models.generate_content(
-        model="gemini-2.5-flash",
-        contents=[
-            types.Part.from_bytes(
-                data=pdf_bytes,
-                mime_type="application/pdf",
+        response = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=[uploaded_file, prompt],
+            config=types.GenerateContentConfig(
+                response_mime_type="application/json",
+                response_schema=DocumentSummary,
             ),
-            prompt,
-        ],
-        config=types.GenerateContentConfig(
-            response_mime_type="application/json",
-            response_schema=DocumentSummary,
-        ),
-    )
+        )
 
-    return response.parsed
+        return response.parsed
+
+    finally:
+        if os.path.exists(tmp_path):
+            os.remove(tmp_path)
+        if uploaded_file:
+            try:
+                client.files.delete(name=uploaded_file.name)
+            except Exception:
+                pass
 
 
 def update_rss_feed(archive: Dict[str, Any]) -> None:
@@ -249,11 +272,12 @@ def main():
             }
             new_count += 1
             print(f"Added: {parsed_summary.title}")
+            
+            # Persist archive incrementally after each successful item
+            save_archive(archive)
+            time.sleep(1)  # Modest delay between consecutive calls
         except Exception as e:
             print(f"Failed to process {filename}: {e}")
-
-    if new_count > 0 or not os.path.exists(ARCHIVE_FILE):
-        save_archive(archive)
 
     if new_count > 0 or not os.path.exists(FEED_FILE):
         update_rss_feed(archive)
