@@ -7,6 +7,7 @@ import time
 import math
 import socket
 import hashlib
+import html as html_lib
 import urllib.request
 import urllib.parse
 from datetime import datetime, timedelta, timezone
@@ -511,42 +512,36 @@ def extract_image_from_entry(entry):
     """Extracts thumbnail or featured image from standard RSS/Atom tags or embedded HTML."""
     if 'media_thumbnail' in entry and entry.media_thumbnail:
         for thumb in entry.media_thumbnail:
-            if isinstance(thumb, dict) and thumb.get('url'):
-                return thumb.get('url')
+            if isinstance(thumb, dict) and (thumb.get('url') or thumb.get('href')):
+                return thumb.get('url') or thumb.get('href')
 
     if 'media_content' in entry and entry.media_content:
         for media in entry.media_content:
-            if isinstance(media, dict) and media.get('url'):
-                if media.get('medium') == 'image' or 'image' in media.get('type', ''):
-                    return media.get('url')
-                if any(ext in media.get('url', '').lower() for ext in ['.jpg', '.jpeg', '.png', '.webp', '.gif']):
-                    return media.get('url')
-        if isinstance(entry.media_content[0], dict) and entry.media_content[0].get('url'):
-            return entry.media_content[0].get('url')
+            if isinstance(media, dict):
+                url = media.get('url') or media.get('href')
+                if url:
+                    return url
 
     if 'enclosures' in entry and entry.enclosures:
         for enc in entry.enclosures:
             if isinstance(enc, dict):
-                url = enc.get('href') or enc.get('url', '')
-                enc_type = enc.get('type', '').lower()
-                if 'image' in enc_type or any(ext in url.lower() for ext in ['.jpg', '.jpeg', '.png', '.webp', '.gif']):
+                url = enc.get('href') or enc.get('url')
+                if url:
                     return url
 
     if 'links' in entry and entry.links:
         for lk in entry.links:
             if isinstance(lk, dict):
-                url = lk.get('href', '')
-                lk_type = lk.get('type', '').lower()
+                url = lk.get('href') or lk.get('url')
                 rel = lk.get('rel', '').lower()
-                if (rel == 'enclosure' and 'image' in lk_type) or ('image' in lk_type):
-                    return url
-                if rel == 'enclosure' and any(ext in url.lower() for ext in ['.jpg', '.jpeg', '.png', '.webp', '.gif']):
+                lk_type = lk.get('type', '').lower()
+                if url and (rel == 'enclosure' or 'image' in lk_type or any(ext in url.lower() for ext in ['.jpg', '.jpeg', '.png', '.webp', '.gif'])):
                     return url
 
     if 'image' in entry:
         img = entry.get('image')
-        if isinstance(img, dict) and img.get('href'):
-            return img.get('href')
+        if isinstance(img, dict) and (img.get('href') or img.get('url')):
+            return img.get('href') or img.get('url')
         elif isinstance(img, str) and img.startswith('http'):
             return img
 
@@ -560,9 +555,10 @@ def extract_image_from_entry(entry):
             else:
                 raw_html = str(raw_val)
 
-            if '<img' in raw_html.lower():
+            unescaped = html_lib.unescape(raw_html)
+            if '<img' in unescaped.lower():
                 try:
-                    soup = BeautifulSoup(raw_html, 'html.parser')
+                    soup = BeautifulSoup(unescaped, 'html.parser')
                     img_tag = soup.find('img')
                     if img_tag:
                         src = img_tag.get('src') or img_tag.get('data-src') or img_tag.get('data-original')
@@ -575,15 +571,17 @@ def extract_image_from_entry(entry):
 
 def fetch_article_details(url):
     """Fetches clean article text and extracts OpenGraph/Twitter thumbnail from the webpage."""
+    if not url:
+        return "", ""
     try:
         req = urllib.request.Request(
             url, 
             headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
         )
         with urllib.request.urlopen(req, timeout=10) as response:
-            html = response.read()
+            html_bytes = response.read()
             
-        soup = BeautifulSoup(html, 'html.parser')
+        soup = BeautifulSoup(html_bytes, 'html.parser')
 
         # Extract OpenGraph / Twitter metadata images
         page_image = ""
@@ -600,6 +598,16 @@ def fetch_article_details(url):
             link_img = soup.find('link', rel='image_src')
             if link_img and link_img.get('href'):
                 page_image = link_img.get('href').strip()
+
+        if not page_image:
+            for img in soup.find_all('img'):
+                src = img.get('src') or img.get('data-src')
+                if src and not any(skip in src.lower() for skip in ['logo', 'icon', 'spinner', 'avatar', 'ad']):
+                    page_image = src.strip()
+                    break
+
+        if page_image:
+            page_image = urllib.parse.urljoin(url, page_image)
 
         for tag in soup(['script', 'style', 'header', 'footer', 'nav', 'aside', 'form', 'figure', 'picture', 'svg']):
             tag.decompose()
@@ -849,6 +857,19 @@ def main():
             for prop in ["title", "link", "description", "image_url", "icon_url"]:
                 if prop in meta:
                     proxy_db[feed_id][prop] = meta[prop]
+
+    # Backfill missing thumbnails in existing proxy_db articles
+    print("--- Checking & Repairing Existing Feed Thumbnails ---", flush=True)
+    for feed_id, feed_data in proxy_db.items():
+        articles = feed_data.get('articles', [])
+        for art in articles:
+            if not art.get('image_url'):
+                art_link = art.get('clean_link') or art.get('link', '')
+                if art_link:
+                    _, page_img = fetch_article_details(art_link)
+                    if page_img:
+                        art['image_url'] = page_img
+                        print(f"[Backfilled Thumbnail] [{feed_id}] -> {art.get('title')}", flush=True)
 
     now_utc = datetime.now(timezone.utc)
     now_ts = time.time()
@@ -1201,6 +1222,12 @@ def main():
         output_filename = meta["output_file"]
         
         fg = FeedGenerator()
+        # Enable Media RSS Extension for FreshRSS/SimplePie compatibility
+        try:
+            fg.load_extension('media', atom=True, rss=True)
+        except Exception as e:
+            print(f"[Warning] Could not load media extension for FeedGenerator: {e}", flush=True)
+
         fg.id(feed_data.get('link', meta['link']))
         fg.title(feed_data.get('title', meta['title']))
         fg.link(href=feed_data.get('link', meta['link']), rel='alternate')
@@ -1237,8 +1264,18 @@ def main():
                 elif '.gif' in img_url.lower():
                     mime_type = 'image/gif'
 
-                fe.enclosure(url=img_url, length='0', type=mime_type)
+                # 1. Standard RSS Enclosure
+                fe.enclosure(url=img_url, length=0, type=mime_type)
 
+                # 2. Media RSS tags (media:thumbnail and media:content for FreshRSS)
+                if hasattr(fe, 'media'):
+                    try:
+                        fe.media.content(url=img_url, medium='image', type=mime_type)
+                        fe.media.thumbnail(url=img_url)
+                    except Exception:
+                        pass
+
+                # 3. HTML <img> inside description
                 if '<img' not in desc.lower():
                     fe.description(f'<p><img src="{img_url}" alt="thumbnail" /></p>' + desc)
                 else:
