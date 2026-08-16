@@ -7,6 +7,7 @@ import time
 import math
 import socket
 import urllib.request
+import urllib.parse
 from datetime import datetime, timedelta, timezone
 from dateutil import parser as date_parser
 import feedparser
@@ -18,277 +19,20 @@ from pydantic import BaseModel
 
 print("[BOOT] All modules imported successfully.", flush=True)
 
-# Prevent any underlying socket from hanging infinitely
 socket.setdefaulttimeout(30)
 
 # =========================================================================
-# CONFIGURATION
+# SYSTEM CONFIGURATION
 # =========================================================================
-BROAD_INTERESTS_FILE = "interests_broad.txt"
-STRICT_INTERESTS_FILE = "interests_strict.txt"
-LENIENT_INTERESTS_FILE = "interests_lenient.txt"
+CRITERIA_DIR = "criteria"
+BROAD_CRITERIA_FILE = os.path.join(CRITERIA_DIR, "bbc_interests_broad.txt")
 ARCHIVE_FILE = "archive.json"
 PROXY_DB_FILE = "proxy_db.json"
 OUTPUT_DIR = "public"
 BATCH_SIZE = 5
+ARCHIVE_TTL_SECONDS = 60 * 86400  # 60 Days Rolling Retention
 
-SINGLE_FEED_ID = "bbc_news_ai_filtered"
-GOOGLE_FEED_ID = "google_blog_ai_filtered"
-GOOGLE_SPORTS_FEED_ID = "google_blog_sports_filtered"
-DCRAINMAKER_FEED_ID = "dcrainmaker_ai_filtered"
-THE5KRUNNER_FEED_ID = "the5krunner_ai_filtered"
-GRASSROOTS_RUNNING_FEED_ID = "grassroots_running_ai_filtered"
-GLASGOW_TIMES_FEED_ID = "glasgow_times_ai_filtered"
-RUNABC_SCOTLAND_FEED_ID = "runabc_scotland_ai_filtered"
-
-# =========================================================================
-# PROMPTS & FILTER CRITERIA (EASY EDITING SECTION)
-# =========================================================================
-
-# RunABC Scotland Local Events Criteria
-RUNABC_SCOTLAND_INTERESTS = """
-INCLUDE CRITERIA:
-1. Article or event announcement relates to a running event, race, athletics fixture, or running story physically situated within any of the following Council Areas:
-   - Argyll and Bute, East Dunbartonshire, East Renfrewshire, Falkirk, Glasgow City, Inverclyde, North Ayrshire, North Lanarkshire, Renfrewshire, South Lanarkshire, Stirling, West Dunbartonshire.
-2. Article or event announcement relates to a running event, race, or story situated in or around any of the following towns, villages, or their immediate local landmarks/parks:
-   - Aberfoyle, Airdrie, Alexandria, Balfron, Balloch, Balmaha, Banknock, Bannockburn, Barrhead, Beith, Bellshill, Bishopbriggs, Bishopton, Blanefield, Blantyre, Bonhill, Bonnybridge, Bothwell, Bowling, Bridge of Weir, Buchlyvie, Busby, Cambuslang, Cardross, Chryston, Clarkston, Clydebank, Coatbridge, Croftamie, Cumbernauld, Denny, Drymen, Dumbarton, Duntocher, Eaglesham, East Kilbride, Elderslie, Erskine, Faifley, Falkirk, Fintry, Garelochhead, Gargunnock, Giffnock, Glasgow, Gourock, Greenock, Haggs, Hamilton, Hardgate, Helensburgh, Houston, Inchinnan, Inverkip, Jamestown, Johnstone, Kilbarchan, Kilbirnie, Killearn, Kilmacolm, Kilsyth, Kippen, Kirkintilloch, Langbank, Larbert, Lennoxtown, Lenzie, Linwood, Lochwinnoch, Luss, Milngavie, Milton of Campsie, Moodiesburn, Motherwell, Neilston, Newton Mearns, Old Kilpatrick, Paisley, Port Glasgow, Renfrew, Renton, Rhu, Rutherglen, Shandon, Stepps, Stenhousemuir, Stirling, Strathaven, Strathblane, Tarbet, Thornliebank, Torrance, Twechar, Uddingston, Uplawmoor, Viewpark, Wishaw.
-
-REJECT CRITERIA:
-1. Events, races, or news taking place entirely outside the specified council areas, towns, and villages (e.g. Edinburgh, Lothians, Fife, Tayside, Aberdeen/Aberdeenshire, Highlands, Scottish Borders, Dumfries & Galloway).
-2. Generic UK-wide gear reviews, nutrition listicles, or training tips without a specific local event focus.
-3. ALWAYS REJECT articles that do not explicitly match at least one of the exact INCLUDE criteria above.
-"""
-
-# Glasgow Times Local & Topic Criteria
-GLASGOW_TIMES_INTERESTS = """
-INCLUDE CRITERIA:
-1. Article directly relates to a story situated in Westerton or Bearsden.
-2. Article directly relates to the sport of running.
-3. Article directly relates to an Independent Secondary School.
-4. Article directly relates to East Dunbartonshire Council.
-5. Article directly relates to "The High School of Glasgow".
-6. Article directly relates to Astronomy.
-7. Article directly relates to Physics.
-
-REJECT CRITERIA:
-- ALWAYS REJECT articles that do not explicitly match at least one of the exact INCLUDE criteria above.
-"""
-
-# Grassroots & Niche Running Criteria
-GRASSROOTS_RUNNING_INTERESTS = """
-INCLUDE CRITERIA:
-1. Niche & Novelty Records: Verified records involving unusual conditions (such as stroller, treadmill, costume), single-year age categories, masters divisions, or adaptive/para runners in non-Paralympic events.
-2. Ultra, Trail & FKT Feats: Notable completions, course records, or Fastest Known Times (FKTs) on major trail routes and multi-day ultra challenges.
-3. Unusual Firsts & Human Endurance Feats: Groundbreaking personal firsts in extreme, multi-day, or non-mainstream distance running events.
-4. Technical & Grassroots Regulations: Updates to domestic, trail, or marathon rules, shoe compliance rulings, or race safety policies.
-
-REJECT CRITERIA:
-1. Mainstream track and field coverage (Olympics, Diamond League, World Championships).
-2. General winners or elite podium coverage of top-tier World Marathon Majors (London, Boston, Berlin, NYC, Chicago, Tokyo).
-3. Generic training, nutrition advice, injury prevention, running shoe reviews, gear guides, or listicles.
-4. ALWAYS REJECT articles that do not explicitly match at least one of the exact INCLUDE criteria above.
-"""
-
-# Google Blog Primary Criteria
-GOOGLE_BLOG_INTERESTS = """
-INCLUDE CRITERIA:
-1. New software releases (play store updates, android OS updates, pixel feature drops) that are specifically relevant to the Pixel 9a phone.
-2. New Google Nest / Google Home product releases.
-3. Google Nest / Google Home product updates.
-4. Updates to the consumer Android Gemini App.
-5. Updates to the consumer Gemini subscription plans.
-6. Updates to the consumer "Google One" subscription plans.
-7. Updates to the consumer "Google Home" subscription plans.
-8. New Gemini model releases and developments.
-9. Changes to consumer Gemini AI Studio API plans and rate limits.
-10. Technological and product updates on consumer biosensors.
-11. Google product updates that only impact UK consumers.
-12. Policy updates (e.g. support lifespans) for the Pixel 9a phone.
-13. New product release announcements for Pixel A series phones.
-14. New product release announcmements regarding Pixel Tablets.
-
-REJECT CRITERIA:
-- ALWAYS REJECT articles that do not explicitly match at least one of the exact INCLUDE criteria above.
-"""
-
-# Sports, Fitness & Wearables Criteria
-SPORTS_HEALTH_INTERESTS = """
-INCLUDE CRITERIA:
-1. Articles about the Forerunner series of sports watches.
-2. Articles about the Garmin Elevate Sensor family.
-3. Articles about updates to the Garmin Connect platform.
-4. Articles about updates to the Strava app or website.
-5. Articles about updates to the Garmin app or website.
-6. Articles contaning updates on the Garmin Connect Plus subscription.
-7. Articles containing updates on Strava subscriptions.
-8. Articles on non wrist-based Garmin hardware.
-9. Articles containing rumours or theories about new GPS technology, HR monitors, biosensors or health / running data metrics.
-10. Articles reviewing developments in GPS technology, biosensors or health / running data metrics.
-
-REJECT CRITERIA:
-- ALWAYS REJECT articles that do not explicitly match at least one of the exact INCLUDE criteria above.
-"""
-
-# Base AI Prompt Templates
-BROAD_PROMPT_TEMPLATE = """You are a first-pass content filter. Review the following articles against the user's broad interests.
-
-USER'S BROAD INTERESTS:
-{broad_interests_text}
-
-INSTRUCTIONS FOR STAGE 1 EVALUATION:
-For each article, determine if it has ANY potential relevance to the broad interests. If the article is even tangentially related, or if you are unsure, default to true (matches_broad_interest) to allow it through to the next stage.
-Output a boolean (matches_broad_interest) and a brief justification (reason).
-
-Return exactly {batch_len} evaluations in the exact order of the articles provided.
-
-"""
-
-STRICT_PROMPT_TEMPLATE = """You are an expert content curator. Review the following articles against the user's criteria.
-
-USER CRITERIA:
-{interests_text}
-
-INSTRUCTIONS FOR TWO-PASS EVALUATION (STRICT MODE):
-For each article, you must perform a 2-pass check IN THIS EXACT ORDER.
-Pass 1 (triggers_exclusion): Be strictly objective. Does the article trigger ANY of the "REJECT" rules (either within a specific category OR within the ALWAYS REJECT / MACRO-EXCLUSIONS list)? Output a boolean (true if a reject rule is triggered). In your reasoning (exclusion_reason), explicitly quote the exact REJECT rule matched. If no REJECT criteria were matched, state "None".
-Pass 2 (primary_subject_match): Does the CORE SUBJECT of the article satisfy at least ONE of the explicit "INCLUDE" criteria? Output a boolean. In your reasoning (match_reason), explicitly quote the exact INCLUDE category and rule matched. If no INCLUDE criteria were matched, state "None".
-Final Decision (is_interesting): This MUST be true ONLY IF (triggers_exclusion is false) AND (primary_subject_match is true).
-
-Return exactly {batch_len} evaluations in the exact order of the articles provided.
-
-"""
-
-LENIENT_PROMPT_TEMPLATE = """You are an expert content curator. Review the following articles from a trusted main news feed against the user's criteria.
-
-USER CRITERIA:
-{interests_text}
-
-INSTRUCTIONS FOR TWO-PASS EVALUATION (LENIENT MODE):
-Mainstream news outlets often report on scientific, environmental, technological, and lifestyle domains through everyday lenses (such as consumer demand, public event preparation, safety logistics, or retail trends). Look at the underlying event.
-
-For each article, you must perform a 2-pass check IN THIS EXACT ORDER.
-Pass 1 (triggers_exclusion): Be strictly objective. Does the article trigger ANY of the "REJECT" rules (either within a specific category OR within the ALWAYS REJECT / MACRO-EXCLUSIONS list)? Output a boolean (true if a reject rule is triggered). In your reasoning (exclusion_reason), explicitly quote the exact REJECT rule matched. If no REJECT criteria were matched, state "None".
-Pass 2 (primary_subject_match): Does the underlying event or core subject satisfy at least ONE of the explicit "INCLUDE" criteria? Output a boolean. In your reasoning (match_reason), explicitly quote the exact INCLUDE category and rule matched. If no INCLUDE criteria were matched, state "None".
-Final Decision (is_interesting): This MUST be true ONLY IF (triggers_exclusion is false) AND (primary_subject_match is true).
-
-Return exactly {batch_len} evaluations in the exact order of the articles provided.
-
-"""
-
-# =========================================================================
-# SYSTEM CONFIGURATION & DEFINITIONS
-# =========================================================================
-
-# Feed Definitions
-FEEDS = [
-    {
-        "url": "https://feeds.bbci.co.uk/news/rss.xml",
-        "mode": "lenient",
-        "feed_id": SINGLE_FEED_ID
-    },
-    {
-        "url": "https://lincoln149.alwaysdata.net/freshrss/api/query.php?user=lincoln149&t=3yPwwxjIWkQrUzb9j75NA3&f=rss",
-        "mode": "strict",
-        "feed_id": SINGLE_FEED_ID
-    },
-    {
-        "url": "https://lincoln149.alwaysdata.net/freshrss/api/query.php?user=lincoln149&t=6N05CNtrbYfKjurK1amToT&f=rss",
-        "mode": "grassroots_running",
-        "feed_id": GRASSROOTS_RUNNING_FEED_ID
-    },
-    {
-        "url": "https://www.glasgowtimes.co.uk/news/rss/",
-        "mode": "glasgow_times",
-        "feed_id": GLASGOW_TIMES_FEED_ID
-    },
-    {
-        "url": "https://www.glasgowtimes.co.uk/news/council/rss/",
-        "mode": "glasgow_times",
-        "feed_id": GLASGOW_TIMES_FEED_ID
-    },
-    {
-        "url": "https://www.glasgowtimes.co.uk/news/planning-development/rss/",
-        "mode": "glasgow_times",
-        "feed_id": GLASGOW_TIMES_FEED_ID
-    },
-    {
-        "url": "https://www.glasgowtimes.co.uk/news/schools-education/rss/",
-        "mode": "glasgow_times",
-        "feed_id": GLASGOW_TIMES_FEED_ID
-    },
-    {
-        "url": "https://www.glasgowtimes.co.uk/news/councils-politics/rss/",
-        "mode": "glasgow_times",
-        "feed_id": GLASGOW_TIMES_FEED_ID
-    },
-    {
-        "url": "https://www.glasgowtimes.co.uk/news/traffic-and-travel/rss/",
-        "mode": "glasgow_times",
-        "feed_id": GLASGOW_TIMES_FEED_ID
-    },
-    {
-        "url": "https://www.glasgowtimes.co.uk/news/glasgow-crime/rss/",
-        "mode": "glasgow_times",
-        "feed_id": GLASGOW_TIMES_FEED_ID
-    },
-    {
-        "url": "https://www.glasgowtimes.co.uk/your-area/rss/",
-        "mode": "glasgow_times",
-        "feed_id": GLASGOW_TIMES_FEED_ID
-    },
-    {
-        "url": "https://blog.google/products-and-platforms/products/google-health/rss/",
-        "mode": "google",
-        "feed_id": GOOGLE_FEED_ID
-    },
-    {
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/rss/",
-        "mode": "google",
-        "feed_id": GOOGLE_FEED_ID
-    },
-    {
-        "url": "https://blog.google/innovation-and-ai/products/gemini-app/rss/",
-        "mode": "google",
-        "feed_id": GOOGLE_FEED_ID
-    },
-    {
-        "url": "https://blog.google/products-and-platforms/platforms/android/rss/",
-        "mode": "google",
-        "feed_id": GOOGLE_FEED_ID
-    },
-    {
-        "url": "https://blog.google/products-and-platforms/devices/pixel/rss/",
-        "mode": "google",
-        "feed_id": GOOGLE_FEED_ID
-    },
-    {
-        "url": "https://blog.google/products-and-platforms/devices/google-nest/rss/",
-        "mode": "google",
-        "feed_id": GOOGLE_FEED_ID
-    },
-    {
-        "url": "https://danielwent.github.io/rss-gemini-filter/Google_Blog_AI_Filtered.xml",
-        "mode": "google_sports",
-        "feed_id": GOOGLE_SPORTS_FEED_ID
-    },
-    {
-        "url": "https://www.dcrainmaker.com/feed",
-        "mode": "dcrainmaker",
-        "feed_id": DCRAINMAKER_FEED_ID
-    },
-    {
-        "url": "https://the5krunner.com/feed/",
-        "mode": "the5krunner",
-        "feed_id": THE5KRUNNER_FEED_ID
-    },
-    {
-        "url": "https://runabc.co.uk/feeds/scotland-news",
-        "mode": "runabc_scotland",
-        "feed_id": RUNABC_SCOTLAND_FEED_ID
-    }
-]
-
-# Rate Limiting & Quota Management State
+# Rate Limiting & Quota Management Models
 STAGE1_MODELS = [
     "gemini-3.5-flash-lite", 
     "gemini-3.1-flash-lite", 
@@ -312,9 +56,233 @@ MODEL_LIMITS = {
     "gemini-1.5-flash": {"rpm": 14, "tpm": 240000}
 }
 
-key_states = {}
-current_key_index = 0
-api_keys_list = []
+# =========================================================================
+# PROMPT TEMPLATES
+# =========================================================================
+BROAD_PROMPT_TEMPLATE = """You are a first-pass content filter. Review the following articles against the user's broad interests.
+
+USER'S BROAD INTERESTS:
+{broad_interests_text}
+
+INSTRUCTIONS FOR STAGE 1 EVALUATION:
+For each article, determine if it has ANY potential relevance to the broad interests. If the article is even tangentially related, or if you are unsure, default to true (matches_broad_interest) to allow it through to the next stage.
+Output a boolean (matches_broad_interest) and a brief justification (reason).
+
+Return exactly {batch_len} evaluations in the exact order of the articles provided.
+"""
+
+STRICT_PROMPT_TEMPLATE = """You are an expert content curator. Review the following articles against the user's criteria.
+
+USER CRITERIA:
+{interests_text}
+
+INSTRUCTIONS FOR TWO-PASS EVALUATION (STRICT MODE):
+For each article, you must perform a 2-pass check IN THIS EXACT ORDER.
+Pass 1 (triggers_exclusion): Be strictly objective. Does the article trigger ANY of the "REJECT" rules (either within a specific category OR within the ALWAYS REJECT / MACRO-EXCLUSIONS list)? Output a boolean (true if a reject rule is triggered). In your reasoning (exclusion_reason), explicitly quote the exact REJECT rule matched. If no REJECT criteria were matched, state "None".
+Pass 2 (primary_subject_match): Does the CORE SUBJECT of the article satisfy at least ONE of the explicit "INCLUDE" criteria? Output a boolean. In your reasoning (match_reason), explicitly quote the exact INCLUDE category and rule matched. If no INCLUDE criteria were matched, state "None".
+Final Decision (is_interesting): This MUST be true ONLY IF (triggers_exclusion is false) AND (primary_subject_match is true).
+
+Return exactly {batch_len} evaluations in the exact order of the articles provided.
+"""
+
+LENIENT_PROMPT_TEMPLATE = """You are an expert content curator. Review the following articles from a trusted main news feed against the user's criteria.
+
+USER CRITERIA:
+{interests_text}
+
+INSTRUCTIONS FOR TWO-PASS EVALUATION (LENIENT MODE):
+Mainstream news outlets often report on scientific, environmental, technological, and lifestyle domains through everyday lenses (such as consumer demand, public event preparation, safety logistics, or retail trends). Look at the underlying event.
+
+For each article, you must perform a 2-pass check IN THIS EXACT ORDER.
+Pass 1 (triggers_exclusion): Be strictly objective. Does the article trigger ANY of the "REJECT" rules (either within a specific category OR within the ALWAYS REJECT / MACRO-EXCLUSIONS list)? Output a boolean (true if a reject rule is triggered). In your reasoning (exclusion_reason), explicitly quote the exact REJECT rule matched. If no REJECT criteria were matched, state "None".
+Pass 2 (primary_subject_match): Does the underlying event or core subject satisfy at least ONE of the explicit "INCLUDE" criteria? Output a boolean. In your reasoning (match_reason), explicitly quote the exact INCLUDE category and rule matched. If no INCLUDE criteria were matched, state "None".
+Final Decision (is_interesting): This MUST be true ONLY IF (triggers_exclusion is false) AND (primary_subject_match is true).
+
+Return exactly {batch_len} evaluations in the exact order of the articles provided.
+"""
+
+# =========================================================================
+# UNIFIED OUTPUT FEEDS & CONFIGURATION REGISTRY
+# =========================================================================
+OUTPUT_FEEDS = {
+    "bbc_news_ai_filtered": {
+        "title": "BBC News",
+        "link": "https://www.bbc.co.uk/news",
+        "description": "AI Filtered BBC News.",
+        "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+        "icon_url": "https://www.bbc.co.uk/favicon.ico",
+        "output_file": "BBC_News_AI_Filtered.xml"
+    },
+    "google_blog_ai_filtered": {
+        "title": "The Keyword | Google",
+        "link": "https://blog.google",
+        "description": "AI Filtered Google Blog Updates.",
+        "image_url": "https://blog.google/static/blogv2/images/google-logo.png",
+        "icon_url": "https://blog.google/favicon.ico",
+        "output_file": "Google_Blog_AI_Filtered.xml"
+    },
+    "google_blog_sports_filtered": {
+        "title": "The Keyword | Google Sports & Health",
+        "link": "https://blog.google",
+        "description": "AI Filtered Google Blog Sports, Wearables & Health Metrics.",
+        "image_url": "https://blog.google/static/blogv2/images/google-logo.png",
+        "icon_url": "https://blog.google/favicon.ico",
+        "output_file": "Google_Blog_Sports_Filtered.xml"
+    },
+    "dcrainmaker_ai_filtered": {
+        "title": "DC Rainmaker",
+        "link": "https://www.dcrainmaker.com",
+        "description": "AI Filtered DC Rainmaker Sports Tech & Wearable Updates.",
+        "icon_url": "https://www.dcrainmaker.com/favicon.ico",
+        "output_file": "DCRainmaker_AI_Filtered.xml"
+    },
+    "the5krunner_ai_filtered": {
+        "title": "the5krunner",
+        "link": "https://the5krunner.com",
+        "description": "AI Filtered The 5k Runner Sports Tech Updates.",
+        "icon_url": "https://the5krunner.com/favicon.ico",
+        "output_file": "The5KRunner_AI_Filtered.xml"
+    },
+    "grassroots_running_ai_filtered": {
+        "title": "Grassroots & Niche Running",
+        "link": "https://lincoln149.alwaysdata.net/freshrss/",
+        "description": "AI Filtered Niche, Grassroots, Ultra, and Non-Mainstream Distance Running News.",
+        "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
+        "output_file": "Grassroots_Running_AI_Filtered.xml"
+    },
+    "glasgow_times_ai_filtered": {
+        "title": "Glasgow Times",
+        "link": "https://www.glasgowtimes.co.uk",
+        "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
+        "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
+        "output_file": "Glasgow_Times_AI_Filtered.xml"
+    },
+    "runabc_scotland_ai_filtered": {
+        "title": "runABC Scotland News",
+        "link": "https://runabc.co.uk",
+        "description": "AI Filtered RunABC Scotland Local Events & Regional Athletics News.",
+        "icon_url": "https://runabc.co.uk/favicon.ico",
+        "output_file": "RunABC_Scotland_AI_Filtered.xml"
+    }
+}
+
+PIPELINES = [
+    {
+        "name": "Lenient Mainstream Queue",
+        "archive_key": "lenient",
+        "target_feed_id": "bbc_news_ai_filtered",
+        "urls": ["https://feeds.bbci.co.uk/news/rss.xml"],
+        "criteria_file": os.path.join(CRITERIA_DIR, "bbc_interests_lenient.txt"),
+        "template": LENIENT_PROMPT_TEMPLATE,
+        "requires_stage1": True,
+        "lookback_days": 1,
+        "stage2_models": STAGE2_MODELS
+    },
+    {
+        "name": "Strict Private Feed Queue",
+        "archive_key": "strict",
+        "target_feed_id": "bbc_news_ai_filtered",
+        "urls": ["https://lincoln149.alwaysdata.net/freshrss/api/query.php?user=lincoln149&t=3yPwwxjIWkQrUzb9j75NA3&f=rss"],
+        "criteria_file": os.path.join(CRITERIA_DIR, "bbc_interests_strict.txt"),
+        "template": STRICT_PROMPT_TEMPLATE,
+        "requires_stage1": True,
+        "lookback_days": 1,
+        "stage2_models": STAGE2_MODELS
+    },
+    {
+        "name": "Grassroots Running Queue",
+        "archive_key": "grassroots_running",
+        "target_feed_id": "grassroots_running_ai_filtered",
+        "urls": ["https://lincoln149.alwaysdata.net/freshrss/api/query.php?user=lincoln149&t=6N05CNtrbYfKjurK1amToT&f=rss"],
+        "criteria_file": os.path.join(CRITERIA_DIR, "therunningweek.txt"),
+        "template": STRICT_PROMPT_TEMPLATE,
+        "requires_stage1": False,
+        "lookback_days": 1,
+        "stage2_models": STAGE1_MODELS
+    },
+    {
+        "name": "Glasgow Times Queue",
+        "archive_key": "glasgow_times",
+        "target_feed_id": "glasgow_times_ai_filtered",
+        "urls": [
+            "https://www.glasgowtimes.co.uk/news/rss/",
+            "https://www.glasgowtimes.co.uk/news/council/rss/",
+            "https://www.glasgowtimes.co.uk/news/planning-development/rss/",
+            "https://www.glasgowtimes.co.uk/news/schools-education/rss/",
+            "https://www.glasgowtimes.co.uk/news/councils-politics/rss/",
+            "https://www.glasgowtimes.co.uk/news/traffic-and-travel/rss/",
+            "https://www.glasgowtimes.co.uk/news/glasgow-crime/rss/",
+            "https://www.glasgowtimes.co.uk/your-area/rss/"
+        ],
+        "criteria_file": os.path.join(CRITERIA_DIR, "glasgow_times.txt"),
+        "template": STRICT_PROMPT_TEMPLATE,
+        "requires_stage1": False,
+        "lookback_days": 1,
+        "stage2_models": STAGE1_MODELS
+    },
+    {
+        "name": "RunABC Scotland Queue",
+        "archive_key": "runabc_scotland",
+        "target_feed_id": "runabc_scotland_ai_filtered",
+        "urls": ["https://runabc.co.uk/feeds/scotland-news"],
+        "criteria_file": os.path.join(CRITERIA_DIR, "runabc_scotland.txt"),
+        "template": STRICT_PROMPT_TEMPLATE,
+        "requires_stage1": False,
+        "lookback_days": 1,
+        "stage2_models": STAGE1_MODELS
+    },
+    {
+        "name": "Google Blog Primary Queue",
+        "archive_key": "google",
+        "target_feed_id": "google_blog_ai_filtered",
+        "urls": [
+            "https://blog.google/products-and-platforms/products/google-health/rss/",
+            "https://blog.google/innovation-and-ai/models-and-research/gemini-models/rss/",
+            "https://blog.google/innovation-and-ai/products/gemini-app/rss/",
+            "https://blog.google/products-and-platforms/platforms/android/rss/",
+            "https://blog.google/products-and-platforms/devices/pixel/rss/",
+            "https://blog.google/products-and-platforms/devices/google-nest/rss/"
+        ],
+        "criteria_file": os.path.join(CRITERIA_DIR, "google_blog.txt"),
+        "template": STRICT_PROMPT_TEMPLATE,
+        "requires_stage1": False,
+        "lookback_days": 1,
+        "stage2_models": STAGE1_MODELS
+    },
+    {
+        "name": "Google Blog Sports Queue",
+        "archive_key": "google_sports",
+        "target_feed_id": "google_blog_sports_filtered",
+        "urls": ["https://danielwent.github.io/rss-gemini-filter/Google_Blog_AI_Filtered.xml"],
+        "criteria_file": os.path.join(CRITERIA_DIR, "sports_tech.txt"),
+        "template": STRICT_PROMPT_TEMPLATE,
+        "requires_stage1": False,
+        "lookback_days": 1,
+        "stage2_models": STAGE1_MODELS
+    },
+    {
+        "name": "DC Rainmaker Queue",
+        "archive_key": "dcrainmaker",
+        "target_feed_id": "dcrainmaker_ai_filtered",
+        "urls": ["https://www.dcrainmaker.com/feed"],
+        "criteria_file": os.path.join(CRITERIA_DIR, "sports_tech.txt"),
+        "template": STRICT_PROMPT_TEMPLATE,
+        "requires_stage1": False,
+        "lookback_days": 7,
+        "stage2_models": STAGE1_MODELS
+    },
+    {
+        "name": "The 5k Runner Queue",
+        "archive_key": "the5krunner",
+        "target_feed_id": "the5krunner_ai_filtered",
+        "urls": ["https://the5krunner.com/feed/"],
+        "criteria_file": os.path.join(CRITERIA_DIR, "sports_tech.txt"),
+        "template": STRICT_PROMPT_TEMPLATE,
+        "requires_stage1": False,
+        "lookback_days": 7,
+        "stage2_models": STAGE1_MODELS
+    }
+]
 
 # --- SCHEMA DEFINITIONS ---
 
@@ -338,6 +306,14 @@ class BatchEvaluation(BaseModel):
 class DeduplicationResult(BaseModel):
     unique_ids: list[str]
 
+# =========================================================================
+# UTILITIES & PERSISTENCE
+# =========================================================================
+
+key_states = {}
+current_key_index = 0
+api_keys_list = []
+
 def load_json(filepath, default):
     if os.path.exists(filepath):
         with open(filepath, 'r', encoding='utf-8') as f:
@@ -347,6 +323,53 @@ def load_json(filepath, default):
 def save_json(filepath, data):
     with open(filepath, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2)
+
+def load_text(filepath):
+    if not os.path.exists(filepath):
+        raise FileNotFoundError(f"Missing required criteria file: {filepath}")
+    with open(filepath, 'r', encoding='utf-8') as f:
+        return f.read()
+
+def clean_article_url(url: str) -> str:
+    """Strips query-level tracking parameters (UTM, Facebook, Google click IDs) to prevent duplicate evaluations."""
+    if not url:
+        return ""
+    parsed = urllib.parse.urlparse(url)
+    query_params = urllib.parse.parse_qsl(parsed.query)
+    filtered = [
+        (k, v) for k, v in query_params 
+        if not k.lower().startswith("utm_") and k.lower() not in {"fbclid", "gclid", "ref", "mc_cid", "mc_eid"}
+    ]
+    clean_query = urllib.parse.urlencode(filtered)
+    return urllib.parse.urlunparse((parsed.scheme, parsed.netloc, parsed.path, parsed.params, clean_query, ''))
+
+def load_and_migrate_archive(filepath):
+    """Loads archive and automatically migrates legacy array format to timestamped dictionary."""
+    raw = load_json(filepath, {})
+    migrated = {}
+    now_ts = time.time()
+    
+    if isinstance(raw, list):
+        migrated["default"] = {k: now_ts for k in raw}
+    elif isinstance(raw, dict):
+        for k, v in raw.items():
+            if isinstance(v, list):
+                migrated[k] = {item: now_ts for item in v}
+            elif isinstance(v, dict):
+                migrated[k] = v
+            else:
+                migrated[k] = {}
+    return migrated
+
+def save_and_prune_archive(filepath, archive_data):
+    """Prunes entries older than ARCHIVE_TTL_SECONDS (60 days) to keep archive.json permanently bounded."""
+    cutoff_ts = time.time() - ARCHIVE_TTL_SECONDS
+    pruned = {}
+    for feed_key, items in archive_data.items():
+        pruned[feed_key] = {
+            item_id: ts for item_id, ts in items.items() if ts > cutoff_ts
+        }
+    save_json(filepath, pruned)
 
 def is_valid_article_item(entry):
     link = entry.get('link', '').lower()
@@ -381,6 +404,10 @@ def fetch_full_text(url):
     except Exception as e:
         print(f"Failed to fetch full text for {url}: {e}", flush=True)
         return ""
+
+# =========================================================================
+# GEMINI API EXECUTION ENGINE
+# =========================================================================
 
 def get_available_key(model, estimated_tokens):
     global current_key_index, key_states, api_keys_list
@@ -569,426 +596,199 @@ def semantic_deduplication(articles, eval_models):
     print("[Deduplication] All models failed. Returning original list.", flush=True)
     return articles
 
+# =========================================================================
+# MAIN EXECUTION PIPELINE
+# =========================================================================
+
 def main():
     global api_keys_list
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     
-    try:
-        with open(STRICT_INTERESTS_FILE, 'r', encoding='utf-8') as f:
-            strict_interests = f.read()
-        with open(LENIENT_INTERESTS_FILE, 'r', encoding='utf-8') as f:
-            lenient_interests = f.read()
-        with open(BROAD_INTERESTS_FILE, 'r', encoding='utf-8') as f:
-            broad_interests = f.read()
-    except FileNotFoundError as e:
-        print(f"CRITICAL ERROR: Could not find required interests file. {e}")
-        return
-        
+    broad_interests_text = load_text(BROAD_CRITERIA_FILE)
+    
     keys_env = os.environ.get("GEMINI_API_KEY", "")
     api_keys_list = [k.strip() for k in keys_env.split(',') if k.strip()]
-    
     if not api_keys_list:
         raise ValueError("No API keys found in the GEMINI_API_KEY environment variable.")
         
-    raw_archive = load_json(ARCHIVE_FILE, {
-        "strict": [], 
-        "lenient": [], 
-        "google": [], 
-        "google_sports": [], 
-        "dcrainmaker": [], 
-        "the5krunner": [], 
-        "grassroots_running": [], 
-        "glasgow_times": [],
-        "runabc_scotland": []
-    })
-    if isinstance(raw_archive, list):
-        archive_data = {
-            "strict": raw_archive, 
-            "lenient": [], 
-            "google": [], 
-            "google_sports": [], 
-            "dcrainmaker": [], 
-            "the5krunner": [], 
-            "grassroots_running": [], 
-            "glasgow_times": [],
-            "runabc_scotland": []
-        }
-    else:
-        archive_data = raw_archive
-        for key in ["google", "google_sports", "dcrainmaker", "the5krunner", "grassroots_running", "glasgow_times", "runabc_scotland"]:
-            if key not in archive_data:
-                archive_data[key] = []
-
+    archive_data = load_and_migrate_archive(ARCHIVE_FILE)
     proxy_db = load_json(PROXY_DB_FILE, {})
     
-    # Master Metadata Mapping: Maintains original feed titles, links, and favicons
-    default_feeds = {
-        SINGLE_FEED_ID: {
-            "title": "BBC News", 
-            "link": "https://www.bbc.co.uk/news", 
-            "description": "AI Filtered BBC News.",
-            "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
-            "icon_url": "https://www.bbc.co.uk/favicon.ico"
-        },
-        GOOGLE_FEED_ID: {
-            "title": "The Keyword | Google", 
-            "link": "https://blog.google", 
-            "description": "AI Filtered Google Blog Updates.",
-            "image_url": "https://blog.google/static/blogv2/images/google-logo.png",
-            "icon_url": "https://blog.google/favicon.ico"
-        },
-        GOOGLE_SPORTS_FEED_ID: {
-            "title": "The Keyword | Google Sports & Health", 
-            "link": "https://blog.google", 
-            "description": "AI Filtered Google Blog Sports, Wearables & Health Metrics.",
-            "image_url": "https://blog.google/static/blogv2/images/google-logo.png",
-            "icon_url": "https://blog.google/favicon.ico"
-        },
-        DCRAINMAKER_FEED_ID: {
-            "title": "DC Rainmaker", 
-            "link": "https://www.dcrainmaker.com", 
-            "description": "AI Filtered DC Rainmaker Sports Tech & Wearable Updates.",
-            "icon_url": "https://www.dcrainmaker.com/favicon.ico"
-        },
-        THE5KRUNNER_FEED_ID: {
-            "title": "the5krunner", 
-            "link": "https://the5krunner.com", 
-            "description": "AI Filtered The 5k Runner Sports Tech Updates.",
-            "icon_url": "https://the5krunner.com/favicon.ico"
-        },
-        GRASSROOTS_RUNNING_FEED_ID: {
-            "title": "Grassroots & Niche Running", 
-            "link": "https://lincoln149.alwaysdata.net/freshrss/", 
-            "description": "AI Filtered Niche, Grassroots, Ultra, and Non-Mainstream Distance Running News.",
-            "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico"
-        },
-        GLASGOW_TIMES_FEED_ID: {
-            "title": "Glasgow Times", 
-            "link": "https://www.glasgowtimes.co.uk", 
-            "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
-            "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico"
-        },
-        RUNABC_SCOTLAND_FEED_ID: {
-            "title": "runABC Scotland News", 
-            "link": "https://runabc.co.uk", 
-            "description": "AI Filtered RunABC Scotland Local Events & Regional Athletics News.",
-            "icon_url": "https://runabc.co.uk/favicon.ico"
-        }
-    }
-    
-    for feed_key, meta in default_feeds.items():
-        if feed_key not in proxy_db:
-            proxy_db[feed_key] = {**meta, "articles": []}
+    # Initialize Proxy DB structure and refresh feed metadata
+    for feed_id, meta in OUTPUT_FEEDS.items():
+        if feed_id not in proxy_db:
+            proxy_db[feed_id] = {**meta, "articles": []}
         else:
-            # Refresh feed metadata to preserve original branding
             for prop in ["title", "link", "description", "image_url", "icon_url"]:
                 if prop in meta:
-                    proxy_db[feed_key][prop] = meta[prop]
+                    proxy_db[feed_id][prop] = meta[prop]
 
-    now = datetime.now(timezone.utc)
-    default_threshold = now - timedelta(hours=24)
-    extended_threshold = now - timedelta(days=7)
-    
-    to_process_strict = []
-    to_process_lenient = []
-    to_process_grassroots = []
-    to_process_glasgow_times = []
-    to_process_google = []
-    to_process_google_sports = []
-    to_process_dcrainmaker = []
-    to_process_the5krunner = []
-    to_process_runabc = []
-    skipped_count = 0
-    seen_titles_this_run = set()
+    now_utc = datetime.now(timezone.utc)
+    now_ts = time.time()
+    new_articles_per_feed = {feed_id: 0 for feed_id in OUTPUT_FEEDS}
 
-    print("--- Starting Feed Fetch ---", flush=True)
-    
-    for feed in FEEDS:
-        mode = feed['mode']
-        feed_target_id = feed.get('feed_id')
+    print("--- Starting Pipeline Ingestion & Filtering ---", flush=True)
+
+    for pipeline in PIPELINES:
+        archive_key = pipeline["archive_key"]
+        target_feed_id = pipeline["target_feed_id"]
+        if archive_key not in archive_data:
+            archive_data[archive_key] = {}
+        archive_set = archive_data[archive_key]
+
+        interests_text = load_text(pipeline["criteria_file"])
+        lookback_cutoff = now_utc - timedelta(days=pipeline["lookback_days"])
         
-        if mode in ['dcrainmaker', 'the5krunner']:
-            time_threshold = extended_threshold
-        else:
-            time_threshold = default_threshold
-            
-        print(f"Fetching {mode.upper()} feed (Lookback: {7 if mode in ['dcrainmaker', 'the5krunner'] else 1}d): {feed['url']}", flush=True)
-        try:
-            req = urllib.request.Request(
-                feed['url'], 
-                headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
-            )
-            with urllib.request.urlopen(req, timeout=15) as response:
-                raw_rss_data = response.read()
-                
-            parsed = feedparser.parse(raw_rss_data)
-            
-            # Dynamic upstream logo/icon discovery
-            if feed_target_id and feed_target_id in proxy_db:
-                if hasattr(parsed, 'feed'):
+        to_process = []
+        seen_titles_pipeline = set()
+        
+        for url in pipeline["urls"]:
+            print(f"Fetching [{pipeline['name']}]: {url}", flush=True)
+            try:
+                req = urllib.request.Request(
+                    url, 
+                    headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
+                )
+                with urllib.request.urlopen(req, timeout=15) as response:
+                    parsed = feedparser.parse(response.read())
+
+                if hasattr(parsed, 'feed') and target_feed_id in proxy_db:
                     if 'image' in parsed.feed and isinstance(parsed.feed.image, dict) and parsed.feed.image.get('href'):
-                        proxy_db[feed_target_id]['image_url'] = parsed.feed.image.href
+                        proxy_db[target_feed_id]['image_url'] = parsed.feed.image.href
                     elif 'icon' in parsed.feed:
-                        proxy_db[feed_target_id]['icon_url'] = parsed.feed.icon
-                    elif 'logo' in parsed.feed:
-                        proxy_db[feed_target_id]['image_url'] = parsed.feed.logo
-            
-        except Exception as e:
-            print(f"ERROR: Failed to fetch or parse RSS feed {feed['url']}. {e}", flush=True)
-            continue
-            
-        for entry in parsed.entries:
-            if not is_valid_article_item(entry):
-                skipped_count += 1
-                continue
-                
-            entry_id = str(entry.get('id', entry.get('link', str(time.time()))))
-            entry_title = entry.get('title', '').strip()
-            
-            if entry_title in seen_titles_this_run:
-                skipped_count += 1
-                continue
-            
-            if mode in archive_data and (entry_id in archive_data[mode] or entry_title in archive_data[mode]):
-                skipped_count += 1
-                continue
-                
-            seen_titles_this_run.add(entry_title)
-                
-            pub_date = entry.get('published') or entry.get('updated')
-            if pub_date:
-                try:
-                    dt = date_parser.parse(pub_date)
-                    if dt.tzinfo is None:
-                        dt = dt.replace(tzinfo=timezone.utc)
-                    if dt < time_threshold:
-                        skipped_count += 1
-                        continue
-                except Exception:
-                    pass
-            
-            if mode == 'strict':
-                to_process_strict.append(entry)
-            elif mode == 'lenient':
-                to_process_lenient.append(entry)
-            elif mode == 'grassroots_running':
-                to_process_grassroots.append(entry)
-            elif mode == 'glasgow_times':
-                to_process_glasgow_times.append(entry)
-            elif mode == 'google':
-                to_process_google.append(entry)
-            elif mode == 'google_sports':
-                to_process_google_sports.append(entry)
-            elif mode == 'dcrainmaker':
-                to_process_dcrainmaker.append(entry)
-            elif mode == 'the5krunner':
-                to_process_the5krunner.append(entry)
-            elif mode == 'runabc_scotland':
-                to_process_runabc.append(entry)
-                
-    print(f"Articles skipped (old, evaluated, or media links): {skipped_count}", flush=True)
-    
-    queues_to_process = [
-        {
-            "name": "Lenient Queue", 
-            "data": to_process_lenient, 
-            "template": LENIENT_PROMPT_TEMPLATE,
-            "interests_text": lenient_interests,
-            "archive_key": "lenient",
-            "feed_id": SINGLE_FEED_ID,
-            "requires_stage1": True,
-            "stage2_models": STAGE2_MODELS
-        },
-        {
-            "name": "Strict Queue", 
-            "data": to_process_strict, 
-            "template": STRICT_PROMPT_TEMPLATE,
-            "interests_text": strict_interests,
-            "archive_key": "strict",
-            "feed_id": SINGLE_FEED_ID,
-            "requires_stage1": True,
-            "stage2_models": STAGE2_MODELS
-        },
-        {
-            "name": "Grassroots Running Queue",
-            "data": to_process_grassroots,
-            "template": STRICT_PROMPT_TEMPLATE,
-            "interests_text": GRASSROOTS_RUNNING_INTERESTS,
-            "archive_key": "grassroots_running",
-            "feed_id": GRASSROOTS_RUNNING_FEED_ID,
-            "requires_stage1": False,
-            "stage2_models": STAGE1_MODELS
-        },
-        {
-            "name": "Glasgow Times Queue",
-            "data": to_process_glasgow_times,
-            "template": STRICT_PROMPT_TEMPLATE,
-            "interests_text": GLASGOW_TIMES_INTERESTS,
-            "archive_key": "glasgow_times",
-            "feed_id": GLASGOW_TIMES_FEED_ID,
-            "requires_stage1": False,
-            "stage2_models": STAGE1_MODELS
-        },
-        {
-            "name": "RunABC Scotland Queue",
-            "data": to_process_runabc,
-            "template": STRICT_PROMPT_TEMPLATE,
-            "interests_text": RUNABC_SCOTLAND_INTERESTS,
-            "archive_key": "runabc_scotland",
-            "feed_id": RUNABC_SCOTLAND_FEED_ID,
-            "requires_stage1": False,
-            "stage2_models": STAGE1_MODELS
-        },
-        {
-            "name": "Google Blog Queue",
-            "data": to_process_google,
-            "template": STRICT_PROMPT_TEMPLATE,
-            "interests_text": GOOGLE_BLOG_INTERESTS,
-            "archive_key": "google",
-            "feed_id": GOOGLE_FEED_ID,
-            "requires_stage1": False,
-            "stage2_models": STAGE1_MODELS
-        },
-        {
-            "name": "Google Blog Sports Queue",
-            "data": to_process_google_sports,
-            "template": STRICT_PROMPT_TEMPLATE,
-            "interests_text": SPORTS_HEALTH_INTERESTS,
-            "archive_key": "google_sports",
-            "feed_id": GOOGLE_SPORTS_FEED_ID,
-            "requires_stage1": False,
-            "stage2_models": STAGE1_MODELS
-        },
-        {
-            "name": "DC Rainmaker Queue",
-            "data": to_process_dcrainmaker,
-            "template": STRICT_PROMPT_TEMPLATE,
-            "interests_text": SPORTS_HEALTH_INTERESTS,
-            "archive_key": "dcrainmaker",
-            "feed_id": DCRAINMAKER_FEED_ID,
-            "requires_stage1": False,
-            "stage2_models": STAGE1_MODELS
-        },
-        {
-            "name": "The 5k Runner Queue",
-            "data": to_process_the5krunner,
-            "template": STRICT_PROMPT_TEMPLATE,
-            "interests_text": SPORTS_HEALTH_INTERESTS,
-            "archive_key": "the5krunner",
-            "feed_id": THE5KRUNNER_FEED_ID,
-            "requires_stage1": False,
-            "stage2_models": STAGE1_MODELS
-        }
-    ]
+                        proxy_db[target_feed_id]['icon_url'] = parsed.feed.icon
 
-    for queue in queues_to_process:
-        to_process = queue["data"]
-        archive_key = queue["archive_key"]
-        feed_id = queue["feed_id"]
-        stage2_models = queue["stage2_models"]
-        
+            except Exception as e:
+                print(f"ERROR: Failed to fetch {url}. {e}", flush=True)
+                continue
+
+            for entry in parsed.entries:
+                if not is_valid_article_item(entry):
+                    continue
+
+                raw_link = entry.get('link', '')
+                clean_link = clean_article_url(raw_link)
+                entry_id = str(entry.get('id', clean_link or str(time.time())))
+                entry_title = entry.get('title', '').strip()
+
+                if entry_title in seen_titles_pipeline:
+                    continue
+                if clean_link and clean_link in archive_set:
+                    continue
+                if entry_id in archive_set or entry_title in archive_set:
+                    continue
+
+                seen_titles_pipeline.add(entry_title)
+
+                pub_date = entry.get('published') or entry.get('updated')
+                if pub_date:
+                    try:
+                        dt = date_parser.parse(pub_date)
+                        if dt.tzinfo is None:
+                            dt = dt.replace(tzinfo=timezone.utc)
+                        if dt < lookback_cutoff:
+                            continue
+                    except Exception:
+                        pass
+
+                entry['clean_link'] = clean_link
+                to_process.append(entry)
+
         if not to_process:
-            print(f"--- No new articles for {queue['name']} ---", flush=True)
+            print(f"--- No new candidate articles for {pipeline['name']} ---", flush=True)
             continue
-            
+
+        print(f"--- Processing {len(to_process)} articles for {pipeline['name']} ---", flush=True)
+
+        # Stage 1 Pre-filtering (Broad Recall)
         passed_stage1 = []
-        
-        if queue.get("requires_stage1", True):
-            print(f"--- STAGE 1: Pre-filtering {queue['name']} ({len(to_process)} articles) ---", flush=True)
+        if pipeline["requires_stage1"]:
             total_s1_batches = math.ceil(len(to_process) / BATCH_SIZE)
-            
             for i in range(0, len(to_process), BATCH_SIZE):
                 batch = to_process[i:i+BATCH_SIZE]
                 batch_number = (i // BATCH_SIZE) + 1
-                
+
                 prompt = BROAD_PROMPT_TEMPLATE.format(
                     batch_len=len(batch), 
-                    broad_interests_text=broad_interests
+                    broad_interests_text=broad_interests_text
                 )
-                
+
                 for idx, art in enumerate(batch):
-                    link = art.get('link', '')
+                    link = art.get('clean_link') or art.get('link', '')
                     if 'cached_full_text' not in art:
-                        full_text = fetch_full_text(link) if link else ""
-                        art['cached_full_text'] = full_text
-                    else:
-                        full_text = art['cached_full_text']
-                        
-                    content = full_text if full_text else art.get('summary', '')
+                        art['cached_full_text'] = fetch_full_text(link) if link else ""
+                    content = art['cached_full_text'] if art['cached_full_text'] else art.get('summary', '')
                     prompt += f"--- Article {idx+1} ---\nTitle: {art.get('title')}\nPublished: {art.get('published', 'Unknown')}\nContent: {content}\n\n"
-                    
+
                 evaluations, used_model = evaluate_batch(prompt, len(batch), STAGE1_MODELS, BroadBatchEvaluation)
-                
                 if evaluations:
                     for idx, eval_result in enumerate(evaluations):
                         art = batch[idx]
                         art_title = art.get('title', '').strip()
-                        
+                        art_id = str(art.get('id', art.get('clean_link', art.get('link'))))
+
                         if eval_result.matches_broad_interest:
                             passed_stage1.append(art)
-                            print(f"  -> [S1 PASS] Title: {art_title} | Reason: {eval_result.reason}", flush=True)
+                            print(f"  -> [S1 PASS] {art_title} | {eval_result.reason}", flush=True)
                         else:
-                            print(f"  -> [S1 REJECT] Title: {art_title} | Reason: {eval_result.reason}", flush=True)
-                            art_id = str(art.get('id', art.get('link')))
-                            if art_id not in archive_data[archive_key]:
-                                archive_data[archive_key].append(art_id)
-                            if art_title and art_title not in archive_data[archive_key]:
-                                archive_data[archive_key].append(art_title)
-                    print(f"[Stage 1 - Batch {batch_number}/{total_s1_batches}] Processed via {used_model}.", flush=True)
+                            print(f"  -> [S1 REJECT] {art_title} | {eval_result.reason}", flush=True)
+                            archive_set[art_id] = now_ts
+                            if art.get('clean_link'):
+                                archive_set[art['clean_link']] = now_ts
+                            if art_title:
+                                archive_set[art_title] = now_ts
+                    print(f"[Stage 1 - Batch {batch_number}/{total_s1_batches}] Complete via {used_model}.", flush=True)
                 else:
-                    print(f"[Stage 1 - Batch {batch_number}/{total_s1_batches}] FAILED. Articles will be skipped and retried next run.", flush=True)
+                    print(f"[Stage 1 - Batch {batch_number}/{total_s1_batches}] FAILED. Retrying next run.", flush=True)
         else:
             passed_stage1 = to_process
             for art in passed_stage1:
-                link = art.get('link', '')
+                link = art.get('clean_link') or art.get('link', '')
                 if 'cached_full_text' not in art:
-                    full_text = fetch_full_text(link) if link else ""
-                    art['cached_full_text'] = full_text
+                    art['cached_full_text'] = fetch_full_text(link) if link else ""
 
         if not passed_stage1:
-            print(f"--- All articles filtered out in Stage 1 for {queue['name']} ---", flush=True)
+            print(f"--- All candidate articles rejected in Stage 1 for {pipeline['name']} ---", flush=True)
             continue
-            
-        print(f"--- STAGE 2: Evaluating {queue['name']} ({len(passed_stage1)} articles) ---", flush=True)
+
+        # Stage 2 Evaluation (Precision Matching)
         total_s2_batches = math.ceil(len(passed_stage1) / BATCH_SIZE)
-        
         for i in range(0, len(passed_stage1), BATCH_SIZE):
             batch = passed_stage1[i:i+BATCH_SIZE]
             batch_number = (i // BATCH_SIZE) + 1
-            
-            prompt = queue["template"].format(
+
+            prompt = pipeline["template"].format(
                 batch_len=len(batch), 
-                interests_text=queue["interests_text"]
+                interests_text=interests_text
             )
-            
+
             for idx, art in enumerate(batch):
-                full_text = art.get('cached_full_text', '')
-                content = full_text if full_text else art.get('summary', '')
+                content = art.get('cached_full_text') or art.get('summary', '')
                 prompt += f"--- Article {idx+1} ---\nTitle: {art.get('title')}\nPublished: {art.get('published', 'Unknown')}\nContent: {content}\n\n"
-                
-            evaluations, used_model = evaluate_batch(prompt, len(batch), stage2_models, BatchEvaluation)
-            
+
+            evaluations, used_model = evaluate_batch(prompt, len(batch), pipeline["stage2_models"], BatchEvaluation)
             if evaluations:
                 included_count = 0
                 for idx, eval_result in enumerate(evaluations):
                     art = batch[idx]
-                    art_id = str(art.get('id', art.get('link')))
                     art_title = art.get('title', '').strip()
-                    
-                    if art_id not in archive_data[archive_key]:
-                        archive_data[archive_key].append(art_id)
-                    if art_title and art_title not in archive_data[archive_key]:
-                        archive_data[archive_key].append(art_title)
+                    art_id = str(art.get('id', art.get('clean_link', art.get('link'))))
+
+                    archive_set[art_id] = now_ts
+                    if art.get('clean_link'):
+                        archive_set[art['clean_link']] = now_ts
+                    if art_title:
+                        archive_set[art_title] = now_ts
 
                     decision_str = "Accepted" if eval_result.is_interesting else "Rejected"
-
                     print(f"  -> Title: {art_title}", flush=True)
-                    print(f"     Pass 1 (Reject Match):  {eval_result.triggers_exclusion} | Matched Rule: {eval_result.exclusion_reason}", flush=True)
-                    print(f"     Pass 2 (Include Match): {eval_result.primary_subject_match} | Matched Rule: {eval_result.match_reason}", flush=True)
+                    print(f"     Pass 1 (Reject Match):  {eval_result.triggers_exclusion} | {eval_result.exclusion_reason}", flush=True)
+                    print(f"     Pass 2 (Include Match): {eval_result.primary_subject_match} | {eval_result.match_reason}", flush=True)
                     print(f"     Final Decision: {decision_str}\n", flush=True)
-                    
+
                     if eval_result.is_interesting:
                         included_count += 1
+                        new_articles_per_feed[target_feed_id] += 1
                         
                         image_url = ""
                         if 'media_thumbnail' in art and art.media_thumbnail:
@@ -996,27 +796,28 @@ def main():
                         elif 'media_content' in art and art.media_content:
                             image_url = art.media_content[0].get('url', '')
                         elif 'links' in art:
-                            for link in art.links:
-                                if link.get('rel') == 'enclosure' and 'image' in link.get('type', ''):
-                                    image_url = link.get('href', '')
+                            for lk in art.links:
+                                if lk.get('rel') == 'enclosure' and 'image' in lk.get('type', ''):
+                                    image_url = lk.get('href', '')
                                     break
-                        
-                        final_description = art.get('summary', art.get('description', ''))
-                        
-                        proxy_db[feed_id]['articles'].append({
+
+                        proxy_db[target_feed_id]['articles'].append({
                             'id': art_id,
                             'title': art.get('title', 'No Title'),
-                            'link': art.get('link', ''),
-                            'description': final_description,
+                            'link': art.get('clean_link') or art.get('link', ''),
+                            'description': art.get('summary', art.get('description', '')),
                             'published': art.get('published', art.get('updated', '')),
                             'image_url': image_url
                         })
-                print(f"[Stage 2 - Batch {batch_number}/{total_s2_batches}] Successfully processed via {used_model}. Selected {included_count}/{len(batch)} articles.", flush=True)
+                print(f"[Stage 2 - Batch {batch_number}/{total_s2_batches}] Complete via {used_model}. Accepted {included_count}/{len(batch)}.", flush=True)
             else:
-                print(f"[Stage 2 - Batch {batch_number}/{total_s2_batches}] FAILED to process after exhausting all models and keys.", flush=True)
-            
-    print("--- Sorting & Pruning Database ---", flush=True)
-    
+                print(f"[Stage 2 - Batch {batch_number}/{total_s2_batches}] FAILED. Articles will retry next run.", flush=True)
+
+    # =========================================================================
+    # SORTING, CONDITIONAL DEDUPLICATION & PRUNING
+    # =========================================================================
+    print("--- Running Database Maintenance & Conditional Deduplication ---", flush=True)
+
     def get_pub_time(article):
         pub_str = article.get('published', '')
         if pub_str:
@@ -1037,75 +838,71 @@ def main():
             if title not in seen_titles:
                 seen_titles.add(title)
                 unique_articles.append(art)
-                
-        dedup_models = STAGE1_MODELS if feed_id in [GOOGLE_FEED_ID, GOOGLE_SPORTS_FEED_ID, DCRAINMAKER_FEED_ID, THE5KRUNNER_FEED_ID, GRASSROOTS_RUNNING_FEED_ID, GLASGOW_TIMES_FEED_ID, RUNABC_SCOTLAND_FEED_ID] else STAGE2_MODELS
-        deduped_articles = semantic_deduplication(unique_articles, dedup_models)
-        
-        feed_data['articles'] = deduped_articles
+
+        # Zero API calls if no new articles were accepted for this feed
+        if new_articles_per_feed.get(feed_id, 0) > 0 and len(unique_articles) > 1:
+            dedup_models = STAGE1_MODELS if feed_id != "bbc_news_ai_filtered" else STAGE2_MODELS
+            deduped_articles = semantic_deduplication(unique_articles, dedup_models)
+            feed_data['articles'] = deduped_articles
+        else:
+            feed_data['articles'] = unique_articles
+
         feed_data['articles'].sort(key=get_pub_time, reverse=True)
         feed_data['articles'] = feed_data['articles'][:100]
 
-    save_json(ARCHIVE_FILE, archive_data)
+    save_and_prune_archive(ARCHIVE_FILE, archive_data)
     save_json(PROXY_DB_FILE, proxy_db)
-    
-    print("--- Generating Final RSS Files ---", flush=True)
-    
-    file_mappings = {
-        SINGLE_FEED_ID: "BBC_News_AI_Filtered.xml",
-        GOOGLE_FEED_ID: "Google_Blog_AI_Filtered.xml",
-        GOOGLE_SPORTS_FEED_ID: "Google_Blog_Sports_Filtered.xml",
-        DCRAINMAKER_FEED_ID: "DCRainmaker_AI_Filtered.xml",
-        THE5KRUNNER_FEED_ID: "The5KRunner_AI_Filtered.xml",
-        GRASSROOTS_RUNNING_FEED_ID: "Grassroots_Running_AI_Filtered.xml",
-        GLASGOW_TIMES_FEED_ID: "Glasgow_Times_AI_Filtered.xml",
-        RUNABC_SCOTLAND_FEED_ID: "RunABC_Scotland_AI_Filtered.xml"
-    }
 
-    for feed_id, output_filename in file_mappings.items():
+    # =========================================================================
+    # RSS GENERATION
+    # =========================================================================
+    print("--- Generating Output RSS XML Files ---", flush=True)
+
+    for feed_id, meta in OUTPUT_FEEDS.items():
         feed_data = proxy_db.get(feed_id, {})
-        if feed_data:
-            fg = FeedGenerator()
-            fg.id(feed_data['link'])
-            fg.title(feed_data['title']) 
-            fg.link(href=feed_data['link'], rel='alternate')
-            fg.description(feed_data['description']) 
-            
-            # Embed feed brand icons/images for FreshRSS
-            if feed_data.get('image_url'):
-                try:
-                    fg.image(url=feed_data['image_url'], title=feed_data['title'], link=feed_data['link'])
-                    fg.logo(feed_data['image_url'])
-                except Exception:
-                    pass
-            if feed_data.get('icon_url'):
-                try:
-                    fg.icon(feed_data['icon_url'])
-                except Exception:
-                    pass
-            
-            articles = feed_data.get('articles', [])
-            for art in articles:
-                fe = fg.add_entry()
-                fe.id(art['id'])
-                fe.title(art['title'])
-                fe.link(href=art['link'])
-                fe.description(art['description'])
-                
-                if art.get('image_url'):
-                    fe.enclosure(url=art['image_url'], length='0', type='image/jpeg')
-                
-                if art.get('published'):
-                    try:
-                        dt = date_parser.parse(art['published'])
-                        if dt.tzinfo is None:
-                            dt = dt.replace(tzinfo=timezone.utc)
-                        fe.pubDate(dt)
-                    except Exception:
-                        pass
-            
-            fg.rss_file(f"{OUTPUT_DIR}/{output_filename}")
-            print(f"Generated {output_filename} with {len(articles)} articles.", flush=True)
+        output_filename = meta["output_file"]
         
+        fg = FeedGenerator()
+        fg.id(feed_data.get('link', meta['link']))
+        fg.title(feed_data.get('title', meta['title']))
+        fg.link(href=feed_data.get('link', meta['link']), rel='alternate')
+        fg.description(feed_data.get('description', meta['description']))
+
+        if feed_data.get('image_url'):
+            try:
+                fg.image(url=feed_data['image_url'], title=feed_data['title'], link=feed_data['link'])
+                fg.logo(feed_data['image_url'])
+            except Exception:
+                pass
+        if feed_data.get('icon_url'):
+            try:
+                fg.icon(feed_data['icon_url'])
+            except Exception:
+                pass
+
+        articles = feed_data.get('articles', [])
+        for art in articles:
+            fe = fg.add_entry()
+            fe.id(art['id'])
+            fe.title(art['title'])
+            fe.link(href=art['link'])
+            fe.description(art['description'])
+
+            if art.get('image_url'):
+                fe.enclosure(url=art['image_url'], length='0', type='image/jpeg')
+
+            if art.get('published'):
+                try:
+                    dt = date_parser.parse(art['published'])
+                    if dt.tzinfo is None:
+                        dt = dt.replace(tzinfo=timezone.utc)
+                    fe.pubDate(dt)
+                except Exception:
+                    pass
+
+        fg.rss_file(os.path.join(OUTPUT_DIR, output_filename))
+        print(f"Generated {output_filename} with {len(articles)} articles.", flush=True)
+
     print("Run complete.", flush=True)
 
 if __name__ == "__main__":
