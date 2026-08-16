@@ -1,9 +1,11 @@
 import os
+import re
 import json
 import datetime
 from datetime import timezone
 from typing import List, Dict, Any, Literal
 import requests
+from bs4 import BeautifulSoup
 from pydantic import BaseModel, Field
 from google import genai
 from google.genai import types
@@ -22,7 +24,6 @@ FEED_LINK = "https://drive.google.com/drive/folders/1bxY6FSjJMrfPEGxAiq6fRhC3DGu
 FEED_DESCRIPTION = "Automated AI summaries of Bearsden West Community Council minutes, budgets, and public documents."
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
-DRIVE_API_KEY = os.environ.get("DRIVE_API_KEY") or GEMINI_API_KEY
 
 
 class DocumentSummary(BaseModel):
@@ -52,36 +53,58 @@ def save_archive(archive: Dict[str, Any]) -> None:
         json.dump(archive, f, indent=2, ensure_ascii=False)
 
 
-def list_drive_folder(folder_id: str, api_key: str) -> List[Dict[str, Any]]:
-    """List all immediate items within a Google Drive folder."""
+def scrape_public_drive_folder(folder_id: str) -> List[Dict[str, Any]]:
+    """Scrape item listings from a public Google Drive embedded folder view."""
+    url = f"https://drive.google.com/embeddedfolderview?id={folder_id}#list"
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+    
+    resp = requests.get(url, headers=headers)
+    resp.raise_for_status()
+
+    soup = BeautifulSoup(resp.text, "html.parser")
     items = []
-    page_token = None
-    base_url = "https://www.googleapis.com/drive/v3/files"
 
-    while True:
-        params = {
-            "q": f"'{folder_id}' in parents and trashed = false",
-            "fields": "nextPageToken, files(id, name, mimeType, modifiedTime, webViewLink)",
-            "pageSize": 100,
-            "key": api_key,
-        }
-        if page_token:
-            params["pageToken"] = page_token
+    # Parse list entry rows
+    entries = soup.find_all("div", class_=re.compile(r"flip-entry"))
+    if not entries:
+        entries = soup.find_all("tr", class_=re.compile(r"flip-entry"))
 
-        resp = requests.get(base_url, params=params)
-        resp.raise_for_status()
-        data = resp.json()
+    for entry in entries:
+        link_elem = entry.find("a", href=True)
+        if not link_elem:
+            continue
 
-        items.extend(data.get("files", []))
-        page_token = data.get("nextPageToken")
-        if not page_token:
-            break
+        href = link_elem["href"]
+        name = link_elem.get_text(strip=True)
+
+        # Detect folders
+        folder_match = re.search(r"folders/([a-zA-Z0-9_-]+)", href) or re.search(r"id=([a-zA-Z0-9_-]+)", href)
+        is_folder = "folder" in href or "folder" in entry.get("class", [])
+
+        # Detect files
+        file_match = re.search(r"file/d/([a-zA-Z0-9_-]+)", href) or re.search(r"id=([a-zA-Z0-9_-]+)", href)
+
+        if is_folder and folder_match:
+            items.append({
+                "id": folder_match.group(1),
+                "name": name,
+                "is_folder": True,
+            })
+        elif file_match:
+            items.append({
+                "id": file_match.group(1),
+                "name": name,
+                "is_folder": False,
+                "webViewLink": f"https://drive.google.com/file/d/{file_match.group(1)}/view",
+            })
 
     return items
 
 
-def scan_drive_folders_recursively(folder_ids: List[str], api_key: str) -> List[Dict[str, Any]]:
-    """Recursively search for all PDF files in given Google Drive folders and subfolders."""
+def scan_drive_folders_recursively(folder_ids: List[str]) -> List[Dict[str, Any]]:
+    """Recursively traverse public Google Drive folders and gather all PDF files."""
     discovered_pdfs = []
     folders_to_scan = list(folder_ids)
     scanned_folders = set()
@@ -93,32 +116,35 @@ def scan_drive_folders_recursively(folder_ids: List[str], api_key: str) -> List[
         scanned_folders.add(current_folder)
 
         try:
-            children = list_drive_folder(current_folder, api_key)
-            for child in children:
-                mime_type = child.get("mimeType", "")
-                name = child.get("name", "")
-
-                if mime_type == "application/vnd.google-apps.folder":
-                    folders_to_scan.append(child["id"])
-                elif mime_type == "application/pdf" or name.lower().endswith(".pdf"):
-                    discovered_pdfs.append(child)
+            items = scrape_public_drive_folder(current_folder)
+            for item in items:
+                if item["is_folder"]:
+                    folders_to_scan.append(item["id"])
+                elif item["name"].lower().endswith(".pdf"):
+                    discovered_pdfs.append(item)
         except Exception as e:
-            print(f"Error scanning folder {current_folder}: {e}")
+            print(f"Error scraping folder {current_folder}: {e}")
 
     return discovered_pdfs
 
 
-def download_drive_file(file_id: str, api_key: str) -> bytes:
-    """Download binary content of a Google Drive file."""
-    url = f"https://www.googleapis.com/drive/v3/files/{file_id}?alt=media&key={api_key}"
-    resp = requests.get(url)
-    if resp.status_code == 200:
-        return resp.content
+def download_public_drive_pdf(file_id: str) -> bytes:
+    """Download binary content of a publicly shared Google Drive file."""
+    url = f"https://drive.google.com/uc?export=download&id={file_id}"
+    session = requests.Session()
+    resp = session.get(url, allow_redirects=True)
+    resp.raise_for_status()
 
-    fallback_url = f"https://drive.google.com/uc?export=download&id={file_id}"
-    resp_fallback = requests.get(fallback_url)
-    resp_fallback.raise_for_status()
-    return resp_fallback.content
+    # Handle confirmation page for larger files
+    if "confirm=" not in resp.url and "Google Drive - Virus scan warning" in resp.text:
+        match = re.search(r'confirm=([0-9A-Za-z_]+)', resp.text)
+        if match:
+            confirm_code = match.group(1)
+            confirm_url = f"{url}&confirm={confirm_code}"
+            resp = session.get(confirm_url, allow_redirects=True)
+            resp.raise_for_status()
+
+    return resp.content
 
 
 def summarize_pdf_with_gemini(pdf_bytes: bytes, filename: str) -> DocumentSummary:
@@ -195,8 +221,8 @@ def main():
     archive = load_archive()
     print(f"Archive loaded: {len(archive)} items previously processed.")
 
-    print("Querying Google Drive folders recursively...")
-    all_pdfs = scan_drive_folders_recursively(ROOT_FOLDER_IDS, DRIVE_API_KEY)
+    print("Querying Google Drive folders recursively via public view...")
+    all_pdfs = scan_drive_folders_recursively(ROOT_FOLDER_IDS)
     print(f"Found {len(all_pdfs)} total PDFs across target directories.")
 
     new_count = 0
@@ -210,7 +236,7 @@ def main():
 
         print(f"Processing new file: {filename} ({file_id})")
         try:
-            pdf_bytes = download_drive_file(file_id, DRIVE_API_KEY)
+            pdf_bytes = download_public_drive_pdf(file_id)
             parsed_summary: DocumentSummary = summarize_pdf_with_gemini(pdf_bytes, filename)
 
             archive[file_id] = {
@@ -220,7 +246,6 @@ def main():
                 "doc_type": parsed_summary.doc_type,
                 "summary_html": parsed_summary.summary_html,
                 "webViewLink": pdf.get("webViewLink", f"https://drive.google.com/file/d/{file_id}/view"),
-                "modifiedTime": pdf.get("modifiedTime"),
                 "processed_at": datetime.datetime.now(timezone.utc).isoformat(),
             }
             new_count += 1
@@ -228,7 +253,7 @@ def main():
         except Exception as e:
             print(f"Failed to process {filename}: {e}")
 
-    # Always ensure the archive and feed files exist on disk for Git tracking
+    # Ensure archive and feed files are updated and saved
     if new_count > 0 or not os.path.exists(ARCHIVE_FILE):
         save_archive(archive)
 
