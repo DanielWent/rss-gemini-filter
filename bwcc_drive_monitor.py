@@ -22,8 +22,6 @@ FEED_TITLE = "Bearsden West Community Council"
 FEED_LINK = "https://drive.google.com/drive/folders/1bxY6FSjJMrfPEGxAiq6fRhC3DGun9Ni5"
 FEED_DESCRIPTION = "Automated AI summaries of Bearsden West Community Council minutes, budgets, and public documents."
 
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
-
 
 class DocumentSummary(BaseModel):
     doc_type: Literal["minutes", "budget", "other"] = Field(
@@ -35,6 +33,33 @@ class DocumentSummary(BaseModel):
     summary_html: str = Field(
         description="Comprehensive summary formatted in clean HTML (using <h3>, <p>, <ul>, <li>, <strong>)."
     )
+
+
+class KeyManager:
+    """Manages rotation across multiple comma-separated Gemini API keys."""
+
+    def __init__(self):
+        raw_env = (
+            os.environ.get("GEMINI_API_KEY")
+            or os.environ.get("GOOGLE_API_KEY")
+            or ""
+        )
+        # Parse comma-separated keys, stripping whitespace and surrounding quotes
+        self.keys = [
+            k.strip().strip("'").strip('"')
+            for k in raw_env.split(",")
+            if k.strip().strip("'").strip('"')
+        ]
+        if not self.keys:
+            raise ValueError("No valid API keys found in GEMINI_API_KEY / GOOGLE_API_KEY.")
+        self.current_index = 0
+
+    def get_current_key(self) -> str:
+        return self.keys[self.current_index]
+
+    def rotate_key(self) -> str:
+        self.current_index = (self.current_index + 1) % len(self.keys)
+        return self.get_current_key()
 
 
 def load_archive() -> Dict[str, Any]:
@@ -58,7 +83,7 @@ def scrape_public_drive_folder(folder_id: str) -> List[Dict[str, Any]]:
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
-    
+
     resp = requests.get(url, headers=headers)
     resp.raise_for_status()
 
@@ -142,13 +167,8 @@ def download_public_drive_pdf(file_id: str) -> bytes:
     return resp.content
 
 
-def summarize_pdf_with_gemini_direct(pdf_bytes: bytes, filename: str) -> DocumentSummary:
-    """Process PDF binary directly via Gemini REST endpoint with structured JSON output."""
-    if not GEMINI_API_KEY:
-        raise ValueError("Missing GEMINI_API_KEY environment variable.")
-
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
-    
+def summarize_pdf_with_gemini(km: KeyManager, pdf_bytes: bytes, filename: str) -> DocumentSummary:
+    """Process PDF binary with automatic key rotation on rate limits or errors."""
     prompt = f"""
 You are analyzing a public document from the Bearsden West Community Council ("{filename}").
 
@@ -204,14 +224,38 @@ CONTENT SUMMARY REQUIREMENTS:
     }
 
     headers = {"Content-Type": "application/json"}
-    resp = requests.post(url, headers=headers, json=payload)
-    resp.raise_for_status()
+    attempts = 0
+    max_attempts = len(km.keys) * 2
 
-    result_json = resp.json()
-    raw_text = result_json["candidates"][0]["content"]["parts"][0]["text"]
-    parsed_dict = json.loads(raw_text)
+    while attempts < max_attempts:
+        current_key = km.get_current_key()
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={current_key}"
+        
+        try:
+            resp = requests.post(url, headers=headers, json=payload, timeout=60)
+            if resp.status_code == 200:
+                result_json = resp.json()
+                raw_text = result_json["candidates"][0]["content"]["parts"][0]["text"]
+                parsed_dict = json.loads(raw_text)
+                return DocumentSummary(**parsed_dict)
 
-    return DocumentSummary(**parsed_dict)
+            # Rotate key on Rate Limit (429) or Auth error (401/403)
+            if resp.status_code in [429, 401, 403]:
+                print(f"Key #{km.current_index + 1} hit HTTP {resp.status_code}. Rotating to next key...")
+                km.rotate_key()
+                time.sleep(1)
+            else:
+                print(f"Gemini API returned status {resp.status_code}: {resp.text[:200]}")
+                km.rotate_key()
+
+        except requests.exceptions.RequestException as e:
+            print(f"Request error with key #{km.current_index + 1}: {e}. Rotating key...")
+            km.rotate_key()
+
+        attempts += 1
+        time.sleep(1)
+
+    raise RuntimeError("Exhausted all available Gemini API keys without success.")
 
 
 def update_rss_feed(archive: Dict[str, Any]) -> None:
@@ -245,8 +289,8 @@ def update_rss_feed(archive: Dict[str, Any]) -> None:
 
 
 def main():
-    if not GEMINI_API_KEY:
-        raise ValueError("GEMINI_API_KEY or GOOGLE_API_KEY is not configured.")
+    km = KeyManager()
+    print(f"Loaded {len(km.keys)} Gemini API keys into key pool.")
 
     archive = load_archive()
     print(f"Archive loaded: {len(archive)} items previously processed.")
@@ -267,7 +311,7 @@ def main():
         print(f"Processing new file: {filename} ({file_id})")
         try:
             pdf_bytes = download_public_drive_pdf(file_id)
-            parsed_summary = summarize_pdf_with_gemini_direct(pdf_bytes, filename)
+            parsed_summary = summarize_pdf_with_gemini(km, pdf_bytes, filename)
 
             archive[file_id] = {
                 "id": file_id,
@@ -280,9 +324,11 @@ def main():
             }
             new_count += 1
             print(f"Added: {parsed_summary.title}")
-            
+
             save_archive(archive)
-            time.sleep(2)  # Respect API quota between document batches
+            # Cycle to the next key for the next document to distribute load evenly
+            km.rotate_key()
+            time.sleep(1)
         except Exception as e:
             print(f"Failed to process {filename}: {e}")
 
