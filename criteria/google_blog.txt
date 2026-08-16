@@ -1,0 +1,18 @@
+INCLUDE CRITERIA:
+1. New software releases (play store updates, android OS updates, pixel feature drops) that are specifically relevant to the Pixel 9a phone.
+2. New Google Nest / Google Home product releases.
+3. Google Nest / Google Home product updates.
+4. Updates to the consumer Android Gemini App.
+5. Updates to the consumer Gemini subscription plans.
+6. Updates to the consumer "Google One" subscription plans.
+7. Updates to the consumer "Google Home" subscription plans.
+8. New Gemini model releases and developments.
+9. Changes to consumer Gemini AI Studio API plans and rate limits.
+10. Technological and product updates on consumer biosensors.
+11. Google product updates that only impact UK consumers.
+12. Policy updates (e.g. support lifespans) for the Pixel 9a phone.
+13. New product release announcements for Pixel A series phones.
+14. New product release announcmements regarding Pixel Tablets.
+
+REJECT CRITERIA:
+- ALWAYS REJECT articles that do not explicitly match at least one of the exact INCLUDE criteria above.
