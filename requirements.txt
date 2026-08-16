@@ -4,3 +4,4 @@ google-genai
 pydantic
 python-dateutil
 beautifulsoup4
+requests
