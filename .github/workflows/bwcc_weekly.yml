@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -29,17 +31,19 @@ jobs:
       - name: Run BWCC Drive Monitor
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PYTHONUNBUFFERED: "1"
         run: |
-          python bwcc_drive_monitor.py
+          python -u bwcc_drive_monitor.py
 
       - name: Commit and Push Updated Feed & Archive
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add bwcc_archive.json bwcc_feed.xml
+          git add --ignore-missing bwcc_archive.json bwcc_feed.xml
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
             git commit -m "Update BWCC RSS feed and archive [skip ci]"
-            git push
+            git pull --rebase origin main
+            git push origin main
           fi
