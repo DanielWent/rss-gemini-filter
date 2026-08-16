@@ -1,4 +1,5 @@
 import os
+import sys
 import re
 import json
 import time
@@ -11,9 +12,19 @@ from bs4 import BeautifulSoup
 from pydantic import BaseModel, Field
 from feedgen.feed import FeedGenerator
 
+# Ensure unbuffered output in CI/CD runners
+sys.stdout.reconfigure(line_buffering=True)
+
 ROOT_FOLDER_IDS = [
     "1bxY6FSjJMrfPEGxAiq6fRhC3DGun9Ni5",
     "1Wycq7k8Wsh4bzZLociKkc_tMJmiIGsEX",
+]
+
+# Prioritize flash-lite for free-tier TPM headroom, with active 3.x fallbacks
+MODELS = [
+    "gemini-3.5-flash-lite",
+    "gemini-3.7-flash",
+    "gemini-3.6-flash",
 ]
 
 ARCHIVE_FILE = "bwcc_archive.json"
@@ -25,18 +36,18 @@ FEED_DESCRIPTION = "Automated AI summaries of Bearsden West Community Council mi
 
 class DocumentSummary(BaseModel):
     doc_type: Literal["minutes", "budget", "other"] = Field(
-        description="The classification of the document."
+        description="Classification of the document."
     )
     title: str = Field(
-        description="Strictly formatted title adhering to naming rules."
+        description="Strictly formatted title adhering to project rules."
     )
     summary_html: str = Field(
-        description="Comprehensive summary formatted in clean HTML (using <h3>, <p>, <ul>, <li>, <strong>)."
+        description="Detailed summary in clean HTML (using <h3>, <p>, <ul>, <li>, <strong>)."
     )
 
 
 class KeyManager:
-    """Manages rotation across multiple comma-separated Gemini API keys."""
+    """Manages rotation across comma-separated Gemini API keys."""
 
     def __init__(self):
         raw_env = (
@@ -59,35 +70,6 @@ class KeyManager:
     def rotate_key(self) -> str:
         self.current_index = (self.current_index + 1) % len(self.keys)
         return self.get_current_key()
-
-
-def discover_available_flash_models(api_key: str) -> List[str]:
-    """Query the models endpoint to find all active flash models for the key."""
-    url = f"https://generativelanguage.googleapis.com/v1beta/models?key={api_key}"
-    try:
-        resp = requests.get(url, timeout=15)
-        if resp.status_code == 200:
-            models_data = resp.json().get("models", [])
-            flash_models = [
-                m["name"].replace("models/", "")
-                for m in models_data
-                if "flash" in m.get("name", "").lower()
-                and "generateContent" in m.get("supportedGenerationMethods", [])
-            ]
-            if flash_models:
-                # Reverse sort so latest versions (3.7, 3.6, 3.5) come first
-                flash_models.sort(reverse=True)
-                return flash_models
-    except Exception as e:
-        print(f"Warning: Failed to discover models dynamically: {e}")
-
-    # Fallback to current standard lineup
-    return [
-        "gemini-3.7-flash",
-        "gemini-3.6-flash",
-        "gemini-3.5-flash-lite",
-        "gemini-3-flash",
-    ]
 
 
 def load_archive() -> Dict[str, Any]:
@@ -195,8 +177,8 @@ def download_public_drive_pdf(file_id: str) -> bytes:
     return resp.content
 
 
-def summarize_pdf_with_gemini(km: KeyManager, models: List[str], pdf_bytes: bytes, filename: str) -> DocumentSummary:
-    """Process PDF binary with automatic model selection and key rotation."""
+def summarize_pdf_with_gemini(km: KeyManager, pdf_bytes: bytes, filename: str) -> DocumentSummary:
+    """Send PDF payload to Gemini using structured JSON schema with rotation on rate limits."""
     prompt = f"""
 You are analyzing a public document from the Bearsden West Community Council ("{filename}").
 
@@ -252,41 +234,48 @@ CONTENT SUMMARY REQUIREMENTS:
     }
 
     headers = {"Content-Type": "application/json"}
-    attempts = 0
-    max_attempts = len(km.keys) * len(models)
+    max_rounds = 3
 
-    while attempts < max_attempts:
-        current_key = km.get_current_key()
+    for round_idx in range(max_rounds):
+        for _ in range(len(km.keys)):
+            current_key = km.get_current_key()
 
-        for model_name in models:
-            url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={current_key}"
-            try:
-                resp = requests.post(url, headers=headers, json=payload, timeout=60)
-                if resp.status_code == 200:
-                    result_json = resp.json()
-                    raw_text = result_json["candidates"][0]["content"]["parts"][0]["text"]
-                    parsed_dict = json.loads(raw_text)
-                    return DocumentSummary(**parsed_dict)
+            for model_name in MODELS:
+                url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={current_key}"
+                try:
+                    resp = requests.post(url, headers=headers, json=payload, timeout=60)
+                    if resp.status_code == 200:
+                        result_json = resp.json()
+                        raw_text = result_json["candidates"][0]["content"]["parts"][0]["text"]
+                        parsed_dict = json.loads(raw_text)
+                        return DocumentSummary(**parsed_dict)
 
-                if resp.status_code in [429, 401, 403]:
-                    print(f"Key #{km.current_index + 1} returned {resp.status_code}. Rotating key...")
+                    if resp.status_code == 429:
+                        print(f"Key #{km.current_index + 1} hit 429 on {model_name}. Rotating key...")
+                        km.rotate_key()
+                        time.sleep(1)
+                        break  # Try next key
+                    elif resp.status_code in [401, 403]:
+                        print(f"Key #{km.current_index + 1} auth error {resp.status_code}. Rotating key...")
+                        km.rotate_key()
+                        time.sleep(1)
+                        break
+                    elif resp.status_code == 404:
+                        continue  # Try next model in list
+                    else:
+                        print(f"HTTP {resp.status_code} ({model_name}): {resp.text[:120]}")
+                        km.rotate_key()
+                        break
+
+                except requests.exceptions.RequestException as e:
+                    print(f"Request error: {e}. Rotating key...")
                     km.rotate_key()
-                    time.sleep(1)
                     break
-                elif resp.status_code == 404:
-                    continue
-                else:
-                    print(f"API HTTP {resp.status_code} on {model_name}: {resp.text[:140]}")
 
-            except requests.exceptions.RequestException as e:
-                print(f"Network error: {e}. Rotating key...")
-                km.rotate_key()
-                break
+        print(f"All keys temporarily throttled. Backing off for 12 seconds (Round {round_idx + 1}/{max_rounds})...")
+        time.sleep(12)
 
-        attempts += 1
-        time.sleep(1)
-
-    raise RuntimeError("Exhausted all Gemini models and API keys without success.")
+    raise RuntimeError(f"Failed to process {filename} after full rotation across all models and keys.")
 
 
 def update_rss_feed(archive: Dict[str, Any]) -> None:
@@ -322,14 +311,12 @@ def update_rss_feed(archive: Dict[str, Any]) -> None:
 def main():
     km = KeyManager()
     print(f"Loaded {len(km.keys)} Gemini API keys into key pool.")
-
-    available_models = discover_available_flash_models(km.get_current_key())
-    print(f"Discovered active Flash models: {available_models}")
+    print(f"Model priority: {MODELS}")
 
     archive = load_archive()
     print(f"Archive loaded: {len(archive)} items previously processed.")
 
-    print("Querying Google Drive folders recursively via public view...")
+    print("Querying Google Drive folders recursively...")
     all_pdfs = scan_drive_folders_recursively(ROOT_FOLDER_IDS)
     print(f"Found {len(all_pdfs)} unique PDF files across target directories.")
 
@@ -345,7 +332,7 @@ def main():
         print(f"Processing new file: {filename} ({file_id})")
         try:
             pdf_bytes = download_public_drive_pdf(file_id)
-            parsed_summary = summarize_pdf_with_gemini(km, available_models, pdf_bytes, filename)
+            parsed_summary = summarize_pdf_with_gemini(km, pdf_bytes, filename)
 
             archive[file_id] = {
                 "id": file_id,
@@ -359,9 +346,10 @@ def main():
             new_count += 1
             print(f"Added: {parsed_summary.title}")
 
+            # Save state incrementally
             save_archive(archive)
             km.rotate_key()
-            time.sleep(1)
+            time.sleep(1.5)
         except Exception as e:
             print(f"Failed to process {filename}: {e}")
 
