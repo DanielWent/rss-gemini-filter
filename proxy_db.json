@@ -443,5 +443,239 @@
         "image_url": ""
       }
     ]
+  },
+  "glasgow_newsletter_candidates": {
+    "title": "Glasgow Newsletter Candidates",
+    "link": "https://lincoln149.alwaysdata.net/freshrss/",
+    "description": "Candidate articles scoring > 3.0 in Categories A, B, C, or D for the Glasgow weekly digest.",
+    "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
+    "output_file": "Glasgow_Newsletter_Candidates.xml",
+    "articles": [
+      {
+        "id": "https://www.bbc.co.uk/sport/football/articles/clyjjp0k5rdo#0",
+        "title": "Rangers host Celtic in League Cup quarter-finals",
+        "link": "https://www.bbc.co.uk/sport/football/articles/clyjjp0k5rdo?at_medium=RSS&at_campaign=rss",
+        "description": "Rangers will host Celtic in the Premier Sports Cup quarter-finals with Kilmarnock v Aberdeen the other all top-flight tie.",
+        "published": "Sun, 16 Aug 2026 17:13:35 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d3c/live/1ffb4410-999a-11f1-ac5b-b961ed109b19.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c98vvp619ero#0",
+        "title": "Hospital concerns ignored for 15 years, scientist tells inquiry",
+        "link": "https://www.bbc.co.uk/news/articles/c98vvp619ero?at_medium=RSS&at_campaign=rss",
+        "description": "Dr Michael Bradnam said recurring patient safety issues at the Queen Elizabeth University Hospital were ignored.",
+        "published": "Sun, 16 Aug 2026 15:42:29 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6717/live/10407650-9966-11f1-9712-2936f8c80214.jpg"
+      },
+      {
+        "id": "0bf59fe07944ef232da895051c3f8d48",
+        "title": "Band forced to cancel Glasgow show due to volcanic ash grounding flight",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26468907.band-forced-miss-glasgow-gig-due-mount-etna-volcanic-ash/",
+        "description": "A band due to play in Glasgow was forced to cancel its appearance after volcanic ash trapped them, cancelling their flight.",
+        "published": "Sun, 16 Aug 2026 16:40:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21326511/?type=app&htype=0"
+      },
+      {
+        "id": "43f32cfb6c6ffdd6c1339708137e75c0",
+        "title": "Major disruption to busy ScotRail line as trains 'unable to run'",
+        "link": "https://www.heraldscotland.com/news/26468774.glasgow-scotrail-line-disrupted-trains-unable-run/",
+        "description": "Train travellers are facing disruption as a busy line has been left with ScotRail trains \"unable to run\".",
+        "published": "Sun, 16 Aug 2026 14:46:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19077961/?type=app&htype=0"
+      },
+      {
+        "id": "af3cad4321b3db9f14525dd1e23083a1",
+        "title": "Commuters warned of disruption on busy Glasgow railway line",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26468773.trains-disrupted-glasgow-railway-line-fault/",
+        "description": "Commuters are being warned of disruption on a busy Glasgow railway line this afternoon.",
+        "published": "Sun, 16 Aug 2026 14:35:27 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17589442/?type=app&htype=0"
+      },
+      {
+        "id": "1a67bf7593dd6bc1f3e16c2e1acb4509",
+        "title": "Construction of two major new jails 'could cost more than \u00a31m per prisoner'",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26468755.claims-barlinnie-replacement-could-cost-1m-per-prisoner/",
+        "description": "The construction of two major new Scottish prisons could cost taxpayers more than \u00a31 million per prisoner, it has been claimed.",
+        "published": "Sun, 16 Aug 2026 14:23:01 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21064616/?type=app&htype=0"
+      },
+      {
+        "id": "ba569f03a9a77ed1c1f40a92d77327cb",
+        "title": "Hundreds of homes without electricity for hours after fault causes power cut",
+        "link": "https://www.heraldscotland.com/news/26468714.hundreds-scottish-highlands-homes-without-electricity/",
+        "description": "Hundreds of homes in the Highlands have been left without power following a fault on the electricity network.",
+        "published": "Sun, 16 Aug 2026 14:10:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21150424/?type=app&htype=0"
+      },
+      {
+        "id": "efbaf9a44ed269fc3a2541f0570f0dcf",
+        "title": "World-famous Scottish resort expands golf offering",
+        "link": "https://www.heraldscotland.com/news/26466465.ayrshires-trump-turnberry-opens-new-12-hole-golf-course/",
+        "description": "The new layout has been designed to test short-game skills while remaining accessible to beginners, families and junior golfers",
+        "published": "Sun, 16 Aug 2026 13:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21322705/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cqx77qenx0ro#0",
+        "title": "Canadian pipe band crowned world champions after 'thrilling' contest",
+        "link": "https://www.bbc.co.uk/news/articles/cqx77qenx0ro?at_medium=RSS&at_campaign=rss",
+        "description": "Simon Fraser University Pipe Band from Canada took the coveted title following the two-day event at Glasgow Green, in which 211 bands competed.",
+        "published": "Sun, 16 Aug 2026 11:14:57 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d768/live/95d39800-9958-11f1-bb2a-85a90aa76778.jpg"
+      },
+      {
+        "id": "c34561637d1c8727cc9df54d64917761",
+        "title": "Cyclist checked over by paramedics after being pushed off bike in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26468552.cyclist-pushed-off-bike-street-north-glasgow/",
+        "description": "A cyclist had to be checked over by paramedics after being pushed off his bike on a street in North Glasgow.",
+        "published": "Sun, 16 Aug 2026 12:10:50 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20811900/?type=app&htype=0"
+      },
+      {
+        "id": "2252d3c1c221036b1deb868da132566e",
+        "title": "Why is the Glasgow Subway completely closed today?",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26468520.glasgow-subway-completely-closed-today/",
+        "description": "Glasgow\u2019s Subway is completely closed today as a series of tests continue to get underway on the system.",
+        "published": "Sun, 16 Aug 2026 11:55:28 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19117137/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=525208",
+        "title": "Tetraplegic taking on 79-mile Great Glen Way in off-road wheelchair",
+        "link": "https://news.stv.tv/west-central/tetraplegic-taking-on-79-mile-great-glen-way-in-off-road-wheelchair",
+        "description": "Danny Mavor, 41, said he wants to prove life goes on and can still be \u2018extraordinary\u2019.",
+        "published": "Sun, 16 Aug 2026 09:45:13 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/9a99eeb7b4700ad6383c73bb06256ddc-1786871836-1080x720.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=522747",
+        "title": "Lilias: Could a new approach to women\u2019s prisons help ease Scotland\u2019s overcrowding crisis?",
+        "link": "https://news.stv.tv/west-central/lilias-could-a-new-approach-to-womens-prisons-help-ease-scotlands-overcrowding-crisis",
+        "description": "The Lilias community custody unit is designed for women who require lower levels of supervision.",
+        "published": "Sun, 16 Aug 2026 09:01:07 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/7f9c2c78233b92dc43fda6adfd403138-1786612717-1280x720.jpeg"
+      },
+      {
+        "id": "a6c5d2d0eac82ba1caae552db8d17fab",
+        "title": "Edinburgh visitor levy cash must be spent in city centre, New Town chief demands",
+        "link": "https://www.heraldscotland.com/news/26462787.jury-out-tourist-tax-says-edinburgh-business-chief/",
+        "description": "The local authority\u2019s estimated \u00a350m windfall from the tax must make a tangible difference in the places tourists frequent, Mr Smith went on to suggest.",
+        "published": "Sun, 16 Aug 2026 10:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/9004213/?type=app&htype=0"
+      },
+      {
+        "id": "acf1994b273ce05e536b079c3cfcce38",
+        "title": "Scots charity opens its first operating theatre for West Bank children",
+        "link": "https://www.heraldscotland.com/news/26468199.scots-charity-opens-childrens-operating-theatre-west-bank/",
+        "description": "A Scottish charity has opened its first paediatric operating theatres in the Palestinian territory of the West Bank",
+        "published": "Sun, 16 Aug 2026 08:43:09 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21325515/?type=app&htype=0"
+      },
+      {
+        "id": "e4203b24bd238e118ba214ef0cd14650",
+        "title": "'I don't buy overtourism debate': Business chief on future of Edinburgh city centre",
+        "link": "https://www.heraldscotland.com/news/26462682.edinburgh-business-chief-denies-city-issue-overtourism/",
+        "description": "It is the second week of the festivals and Roddy Smith is holding court in Essential Edinburgh\u2019s office on the third floor of a building on George Street.",
+        "published": "Sun, 16 Aug 2026 08:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21316427/?type=app&htype=0"
+      },
+      {
+        "id": "1c9846d1a32cd4385b0acd523a8fe9b1",
+        "title": "Scotland's castle revival: meet the owners saving historic homes",
+        "link": "https://www.heraldscotland.com/news/26459765.castles-scotland-sale-owners-bringing-back-life/",
+        "description": "When the North Sea tide comes in and the sun rises or sets, Dr Betsee Parker can stand at the window of her 500-year-old castle and take in a dramatic view that has endured for generations.",
+        "published": "Sun, 16 Aug 2026 08:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21309558/?type=app&htype=0"
+      },
+      {
+        "id": "7985fffe50e56a6826b00002007c930e",
+        "title": "Rates crisis threatens to sink Scottish hydro energy",
+        "link": "https://www.heraldscotland.com/news/26466360.scotlands-hydro-sector-faces-perfect-storm-taxes/",
+        "description": "Scotland\u2019s small hydro operators, which helped put the country at the forefront of the renewable energy revolution, are being put at risk by a business rates and payments regime which could also threaten billions of pounds of investment in the next generation of...",
+        "published": "Sun, 16 Aug 2026 06:31:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21322409/?type=app&htype=0"
+      },
+      {
+        "id": "e29038795fd4199777e30c2feb0c1f4b",
+        "title": "Concerns raised after false alarm prompts evacuation of Edinburgh's Usher Hall",
+        "link": "https://www.heraldscotland.com/news/26458259.false-alarm-prompts-evacuation-edinburghs-usher-hall/",
+        "description": "The alarm is understood to have been triggered accidentally when a performer came into contact with an alarm while leaving the stage, prompting an emergency evacuation.",
+        "published": "Sun, 16 Aug 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20241296/?type=app&htype=0"
+      },
+      {
+        "id": "e145a6b817df748c4e0f91a2fd3e3769",
+        "title": "Drumchapel man jailed for posting intimate video of woman on social media",
+        "link": "https://www.glasgowtimes.co.uk/news/26465186.drumchapel-man-jailed-posting-intimate-video-woman/",
+        "description": "A man who posted an intimate video of a woman on social media has been locked up.",
+        "published": "Sun, 16 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21006269/?type=app&htype=0"
+      },
+      {
+        "id": "ef1f23e7b1378755fe06c7e160028dd1",
+        "title": "Callous thug found in McDonald's after leaving man unconscious on the street",
+        "link": "https://www.glasgowtimes.co.uk/news/26464770.thug-found-mcdonalds-leaving-man-unconscious-glasgow/",
+        "description": "A callous thug laughed after he left a man unconscious on the street.",
+        "published": "Sun, 16 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13083406/?type=app&htype=0"
+      },
+      {
+        "id": "813cde9a02a183579b668bf23724ab19",
+        "title": "Waverley crew urge passengers to support Clyde icon ahead of 80th anniversary",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26464162.waverley-inside-clydes-world-famous-paddle-steamer/",
+        "description": "\u201cYou\u2019ll never see corners of the Clyde again if it wasn\u2019t for the Waverley,\u201d Iain Quinn says as the 80-year-old paddle steamer makes her way back to Glasgow along the Clyde.",
+        "published": "Sun, 16 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21318968/?type=app&htype=0"
+      },
+      {
+        "id": "1ed6c2dbc0f68384da738730260b8377",
+        "title": "Pupils return to Cumbernauld school found to contain RAAC after \u00a34m refurbishment",
+        "link": "https://www.glasgowtimes.co.uk/news/26465723.cumbernauld-primary-school-reopens-4m-refurbishment/",
+        "description": "Pupils have returned to Ravenswood Primary School in Cumbernauld following a \u00a34 million improvement scheme.",
+        "published": "Sun, 16 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21321469/?type=app&htype=0"
+      },
+      {
+        "id": "684e22672905a104c903bd7611899fa4",
+        "title": "Glasgow stroke patients 'failed' as four in 10 miss out on necessary care",
+        "link": "https://www.glasgowtimes.co.uk/news/26466055.scottish-government-criticised-stroke-patient-care-glasgow/",
+        "description": "Chest, Heart and Stroke Scotland (CHSS) has criticised the Scottish Government.",
+        "published": "Sun, 16 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21321885/?type=app&htype=0"
+      },
+      {
+        "id": "b4bd1cea9801542949b18556f8b66872",
+        "title": "The reality of policing in Scotland amid warning streets are becoming 'no-go' zones",
+        "link": "https://www.heraldscotland.com/news/26467127.policing-scotland-communities-becoming-less-safe/",
+        "description": "The lack of community policing in Scotland is creating 'no-go zones' for the public, senior police officers have warned.",
+        "published": "Sun, 16 Aug 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21323823/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c0rd2e804jko#0",
+        "title": "Pole position? These women are set to scale a 25ft greasy pole - to win a prize ham",
+        "link": "https://www.bbc.co.uk/news/articles/c0rd2e804jko?at_medium=RSS&at_campaign=rss",
+        "description": "The five women will try to scale a 25ft wooden pole covered in grease and claim the prize at the top - a ham.",
+        "published": "Sat, 15 Aug 2026 23:46:40 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f0c/live/295455a0-971b-11f1-bb91-6bb44c42ed47.png"
+      },
+      {
+        "id": "7bdfb9c14bb0b61db1012fdd27e12d89",
+        "title": "Update on busy Glasgow street after emergency closure for subsidence",
+        "link": "https://www.glasgowtimes.co.uk/news/26468046.update-glasgows-sauchiehall-street-emergency-closure/",
+        "description": "A section of Sauchiehall Street has been reopened after a report of subsidence forced it's closure",
+        "published": "Sat, 15 Aug 2026 20:06:31 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19342883/?type=app&htype=0"
+      },
+      {
+        "id": "2262333fbc9358c2bdfb39f318b7be7e",
+        "title": "Firecrews rush to blaze at substation affects power to 64 postcodes",
+        "link": "https://www.glasgowtimes.co.uk/news/26468029.fire-bellshill-substation-affected-power-64-postcodes/",
+        "description": "A small fire at an electrical substation in Bellshill has affected more than 60 postcodes",
+        "published": "Sat, 15 Aug 2026 19:41:27 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19942821/?type=app&htype=0"
+      }
+    ],
+    "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
   }
 }
