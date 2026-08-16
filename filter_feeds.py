@@ -39,23 +39,36 @@ DCRAINMAKER_FEED_ID = "dcrainmaker_ai_filtered"
 THE5KRUNNER_FEED_ID = "the5krunner_ai_filtered"
 GRASSROOTS_RUNNING_FEED_ID = "grassroots_running_ai_filtered"
 GLASGOW_TIMES_FEED_ID = "glasgow_times_ai_filtered"
+RUNABC_SCOTLAND_FEED_ID = "runabc_scotland_ai_filtered"
 
 # =========================================================================
 # PROMPTS & FILTER CRITERIA (EASY EDITING SECTION)
 # =========================================================================
 
+# RunABC Scotland Local Events Criteria
+RUNABC_SCOTLAND_INTERESTS = """
+INCLUDE CRITERIA:
+1. Article or event announcement relates to a running event, race, athletics fixture, or running story physically situated within any of the following Council Areas:
+   - Argyll and Bute, East Dunbartonshire, East Renfrewshire, Falkirk, Glasgow City, Inverclyde, North Ayrshire, North Lanarkshire, Renfrewshire, South Lanarkshire, Stirling, West Dunbartonshire.
+2. Article or event announcement relates to a running event, race, or story situated in or around any of the following towns, villages, or their immediate local landmarks/parks:
+   - Aberfoyle, Airdrie, Alexandria, Balfron, Balloch, Balmaha, Banknock, Bannockburn, Barrhead, Beith, Bellshill, Bishopbriggs, Bishopton, Blanefield, Blantyre, Bonhill, Bonnybridge, Bothwell, Bowling, Bridge of Weir, Buchlyvie, Busby, Cambuslang, Cardross, Chryston, Clarkston, Clydebank, Coatbridge, Croftamie, Cumbernauld, Denny, Drymen, Dumbarton, Duntocher, Eaglesham, East Kilbride, Elderslie, Erskine, Faifley, Falkirk, Fintry, Garelochhead, Gargunnock, Giffnock, Glasgow, Gourock, Greenock, Haggs, Hamilton, Hardgate, Helensburgh, Houston, Inchinnan, Inverkip, Jamestown, Johnstone, Kilbarchan, Kilbirnie, Killearn, Kilmacolm, Kilsyth, Kippen, Kirkintilloch, Langbank, Larbert, Lennoxtown, Lenzie, Linwood, Lochwinnoch, Luss, Milngavie, Milton of Campsie, Moodiesburn, Motherwell, Neilston, Newton Mearns, Old Kilpatrick, Paisley, Port Glasgow, Renfrew, Renton, Rhu, Rutherglen, Shandon, Stepps, Stenhousemuir, Stirling, Strathaven, Strathblane, Tarbet, Thornliebank, Torrance, Twechar, Uddingston, Uplawmoor, Viewpark, Wishaw.
+
+REJECT CRITERIA:
+1. Events, races, or news taking place entirely outside the specified council areas, towns, and villages (e.g. Edinburgh, Lothians, Fife, Tayside, Aberdeen/Aberdeenshire, Highlands, Scottish Borders, Dumfries & Galloway).
+2. Generic UK-wide gear reviews, nutrition listicles, or training tips without a specific local event focus.
+3. ALWAYS REJECT articles that do not explicitly match at least one of the exact INCLUDE criteria above.
+"""
+
 # Glasgow Times Local & Topic Criteria
 GLASGOW_TIMES_INTERESTS = """
 INCLUDE CRITERIA:
-1. Article directly relates to a story situated in Bearsden.
-2. Article directly relates to a story situated in Westerton, Anniesland, Temple, Dawsholm, Netherton or Blairdardie.
-3. Article directly relates to the sport of running.
-4. Article directly relates to an Independent Secondary School.
-5. Article directly relates to East Dunbartonshire Council.
-6. Article directly relates to "The High School of Glasgow".
-7. Article directly relates to Astronomy.
-8. Article directly relates to Physics.
-9. Article directly relates to a road, trail or track race.
+1. Article directly relates to a story situated in Westerton or Bearsden.
+2. Article directly relates to the sport of running.
+3. Article directly relates to an Independent Secondary School.
+4. Article directly relates to East Dunbartonshire Council.
+5. Article directly relates to "The High School of Glasgow".
+6. Article directly relates to Astronomy.
+7. Article directly relates to Physics.
 
 REJECT CRITERIA:
 - ALWAYS REJECT articles that do not explicitly match at least one of the exact INCLUDE criteria above.
@@ -170,83 +183,108 @@ Return exactly {batch_len} evaluations in the exact order of the articles provid
 FEEDS = [
     {
         "url": "https://feeds.bbci.co.uk/news/rss.xml",
-        "mode": "lenient"
+        "mode": "lenient",
+        "feed_id": SINGLE_FEED_ID
     },
     {
         "url": "https://lincoln149.alwaysdata.net/freshrss/api/query.php?user=lincoln149&t=3yPwwxjIWkQrUzb9j75NA3&f=rss",
-        "mode": "strict"
+        "mode": "strict",
+        "feed_id": SINGLE_FEED_ID
     },
     {
         "url": "https://lincoln149.alwaysdata.net/freshrss/api/query.php?user=lincoln149&t=6N05CNtrbYfKjurK1amToT&f=rss",
-        "mode": "grassroots_running"
+        "mode": "grassroots_running",
+        "feed_id": GRASSROOTS_RUNNING_FEED_ID
     },
     {
         "url": "https://www.glasgowtimes.co.uk/news/rss/",
-        "mode": "glasgow_times"
+        "mode": "glasgow_times",
+        "feed_id": GLASGOW_TIMES_FEED_ID
     },
     {
         "url": "https://www.glasgowtimes.co.uk/news/council/rss/",
-        "mode": "glasgow_times"
+        "mode": "glasgow_times",
+        "feed_id": GLASGOW_TIMES_FEED_ID
     },
     {
         "url": "https://www.glasgowtimes.co.uk/news/planning-development/rss/",
-        "mode": "glasgow_times"
+        "mode": "glasgow_times",
+        "feed_id": GLASGOW_TIMES_FEED_ID
     },
     {
         "url": "https://www.glasgowtimes.co.uk/news/schools-education/rss/",
-        "mode": "glasgow_times"
+        "mode": "glasgow_times",
+        "feed_id": GLASGOW_TIMES_FEED_ID
     },
     {
         "url": "https://www.glasgowtimes.co.uk/news/councils-politics/rss/",
-        "mode": "glasgow_times"
+        "mode": "glasgow_times",
+        "feed_id": GLASGOW_TIMES_FEED_ID
     },
     {
         "url": "https://www.glasgowtimes.co.uk/news/traffic-and-travel/rss/",
-        "mode": "glasgow_times"
+        "mode": "glasgow_times",
+        "feed_id": GLASGOW_TIMES_FEED_ID
     },
     {
         "url": "https://www.glasgowtimes.co.uk/news/glasgow-crime/rss/",
-        "mode": "glasgow_times"
+        "mode": "glasgow_times",
+        "feed_id": GLASGOW_TIMES_FEED_ID
     },
     {
         "url": "https://www.glasgowtimes.co.uk/your-area/rss/",
-        "mode": "glasgow_times"
+        "mode": "glasgow_times",
+        "feed_id": GLASGOW_TIMES_FEED_ID
     },
     {
         "url": "https://blog.google/products-and-platforms/products/google-health/rss/",
-        "mode": "google"
+        "mode": "google",
+        "feed_id": GOOGLE_FEED_ID
     },
     {
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/rss/",
-        "mode": "google"
+        "mode": "google",
+        "feed_id": GOOGLE_FEED_ID
     },
     {
         "url": "https://blog.google/innovation-and-ai/products/gemini-app/rss/",
-        "mode": "google"
+        "mode": "google",
+        "feed_id": GOOGLE_FEED_ID
     },
     {
         "url": "https://blog.google/products-and-platforms/platforms/android/rss/",
-        "mode": "google"
+        "mode": "google",
+        "feed_id": GOOGLE_FEED_ID
     },
     {
         "url": "https://blog.google/products-and-platforms/devices/pixel/rss/",
-        "mode": "google"
+        "mode": "google",
+        "feed_id": GOOGLE_FEED_ID
     },
     {
         "url": "https://blog.google/products-and-platforms/devices/google-nest/rss/",
-        "mode": "google"
+        "mode": "google",
+        "feed_id": GOOGLE_FEED_ID
     },
     {
         "url": "https://danielwent.github.io/rss-gemini-filter/Google_Blog_AI_Filtered.xml",
-        "mode": "google_sports"
+        "mode": "google_sports",
+        "feed_id": GOOGLE_SPORTS_FEED_ID
     },
     {
         "url": "https://www.dcrainmaker.com/feed",
-        "mode": "dcrainmaker"
+        "mode": "dcrainmaker",
+        "feed_id": DCRAINMAKER_FEED_ID
     },
     {
         "url": "https://the5krunner.com/feed/",
-        "mode": "the5krunner"
+        "mode": "the5krunner",
+        "feed_id": THE5KRUNNER_FEED_ID
+    },
+    {
+        "url": "https://runabc.co.uk/feeds/scotland-news",
+        "mode": "runabc_scotland",
+        "feed_id": RUNABC_SCOTLAND_FEED_ID
     }
 ]
 
@@ -552,31 +590,100 @@ def main():
     if not api_keys_list:
         raise ValueError("No API keys found in the GEMINI_API_KEY environment variable.")
         
-    raw_archive = load_json(ARCHIVE_FILE, {"strict": [], "lenient": [], "google": [], "google_sports": [], "dcrainmaker": [], "the5krunner": [], "grassroots_running": [], "glasgow_times": []})
+    raw_archive = load_json(ARCHIVE_FILE, {
+        "strict": [], 
+        "lenient": [], 
+        "google": [], 
+        "google_sports": [], 
+        "dcrainmaker": [], 
+        "the5krunner": [], 
+        "grassroots_running": [], 
+        "glasgow_times": [],
+        "runabc_scotland": []
+    })
     if isinstance(raw_archive, list):
-        archive_data = {"strict": raw_archive, "lenient": [], "google": [], "google_sports": [], "dcrainmaker": [], "the5krunner": [], "grassroots_running": [], "glasgow_times": []}
+        archive_data = {
+            "strict": raw_archive, 
+            "lenient": [], 
+            "google": [], 
+            "google_sports": [], 
+            "dcrainmaker": [], 
+            "the5krunner": [], 
+            "grassroots_running": [], 
+            "glasgow_times": [],
+            "runabc_scotland": []
+        }
     else:
         archive_data = raw_archive
-        for key in ["google", "google_sports", "dcrainmaker", "the5krunner", "grassroots_running", "glasgow_times"]:
+        for key in ["google", "google_sports", "dcrainmaker", "the5krunner", "grassroots_running", "glasgow_times", "runabc_scotland"]:
             if key not in archive_data:
                 archive_data[key] = []
 
     proxy_db = load_json(PROXY_DB_FILE, {})
     
-    # Initialize DB structural objects
+    # Master Metadata Mapping: Maintains original feed titles, links, and favicons
     default_feeds = {
-        SINGLE_FEED_ID: {"title": "BBC News AI Filtered", "link": "https://www.bbc.co.uk/news", "description": "AI Filtered Articles combined into a single feed."},
-        GOOGLE_FEED_ID: {"title": "Google Blog AI Filtered", "link": "https://blog.google", "description": "AI Filtered Google Blog Updates."},
-        GOOGLE_SPORTS_FEED_ID: {"title": "Google Blog Sports & Health AI Filtered", "link": "https://danielwent.github.io/rss-gemini-filter/Google_Blog_AI_Filtered.xml", "description": "AI Filtered Google Blog Sports, Wearables & Health Metrics."},
-        DCRAINMAKER_FEED_ID: {"title": "DC Rainmaker AI Filtered", "link": "https://www.dcrainmaker.com", "description": "AI Filtered DC Rainmaker Sports Tech & Wearable Updates."},
-        THE5KRUNNER_FEED_ID: {"title": "The 5k Runner AI Filtered", "link": "https://the5krunner.com", "description": "AI Filtered The 5k Runner Sports Tech Updates."},
-        GRASSROOTS_RUNNING_FEED_ID: {"title": "Grassroots & Niche Running AI Filtered", "link": "https://danielwent.github.io/rss-gemini-filter/Grassroots_Running_AI_Filtered.xml", "description": "AI Filtered Niche, Grassroots, Ultra, and Non-Mainstream Distance Running News."},
-        GLASGOW_TIMES_FEED_ID: {"title": "Glasgow Times", "link": "https://danielwent.github.io/rss-gemini-filter/Glasgow_Times_AI_Filtered.xml", "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science."}
+        SINGLE_FEED_ID: {
+            "title": "BBC News", 
+            "link": "https://www.bbc.co.uk/news", 
+            "description": "AI Filtered BBC News.",
+            "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+            "icon_url": "https://www.bbc.co.uk/favicon.ico"
+        },
+        GOOGLE_FEED_ID: {
+            "title": "The Keyword | Google", 
+            "link": "https://blog.google", 
+            "description": "AI Filtered Google Blog Updates.",
+            "image_url": "https://blog.google/static/blogv2/images/google-logo.png",
+            "icon_url": "https://blog.google/favicon.ico"
+        },
+        GOOGLE_SPORTS_FEED_ID: {
+            "title": "The Keyword | Google Sports & Health", 
+            "link": "https://blog.google", 
+            "description": "AI Filtered Google Blog Sports, Wearables & Health Metrics.",
+            "image_url": "https://blog.google/static/blogv2/images/google-logo.png",
+            "icon_url": "https://blog.google/favicon.ico"
+        },
+        DCRAINMAKER_FEED_ID: {
+            "title": "DC Rainmaker", 
+            "link": "https://www.dcrainmaker.com", 
+            "description": "AI Filtered DC Rainmaker Sports Tech & Wearable Updates.",
+            "icon_url": "https://www.dcrainmaker.com/favicon.ico"
+        },
+        THE5KRUNNER_FEED_ID: {
+            "title": "the5krunner", 
+            "link": "https://the5krunner.com", 
+            "description": "AI Filtered The 5k Runner Sports Tech Updates.",
+            "icon_url": "https://the5krunner.com/favicon.ico"
+        },
+        GRASSROOTS_RUNNING_FEED_ID: {
+            "title": "Grassroots & Niche Running", 
+            "link": "https://lincoln149.alwaysdata.net/freshrss/", 
+            "description": "AI Filtered Niche, Grassroots, Ultra, and Non-Mainstream Distance Running News.",
+            "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico"
+        },
+        GLASGOW_TIMES_FEED_ID: {
+            "title": "Glasgow Times", 
+            "link": "https://www.glasgowtimes.co.uk", 
+            "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
+            "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico"
+        },
+        RUNABC_SCOTLAND_FEED_ID: {
+            "title": "runABC Scotland News", 
+            "link": "https://runabc.co.uk", 
+            "description": "AI Filtered RunABC Scotland Local Events & Regional Athletics News.",
+            "icon_url": "https://runabc.co.uk/favicon.ico"
+        }
     }
     
     for feed_key, meta in default_feeds.items():
         if feed_key not in proxy_db:
             proxy_db[feed_key] = {**meta, "articles": []}
+        else:
+            # Refresh feed metadata to preserve original branding
+            for prop in ["title", "link", "description", "image_url", "icon_url"]:
+                if prop in meta:
+                    proxy_db[feed_key][prop] = meta[prop]
 
     now = datetime.now(timezone.utc)
     default_threshold = now - timedelta(hours=24)
@@ -590,6 +697,7 @@ def main():
     to_process_google_sports = []
     to_process_dcrainmaker = []
     to_process_the5krunner = []
+    to_process_runabc = []
     skipped_count = 0
     seen_titles_this_run = set()
 
@@ -597,6 +705,7 @@ def main():
     
     for feed in FEEDS:
         mode = feed['mode']
+        feed_target_id = feed.get('feed_id')
         
         if mode in ['dcrainmaker', 'the5krunner']:
             time_threshold = extended_threshold
@@ -613,6 +722,16 @@ def main():
                 raw_rss_data = response.read()
                 
             parsed = feedparser.parse(raw_rss_data)
+            
+            # Dynamic upstream logo/icon discovery
+            if feed_target_id and feed_target_id in proxy_db:
+                if hasattr(parsed, 'feed'):
+                    if 'image' in parsed.feed and isinstance(parsed.feed.image, dict) and parsed.feed.image.get('href'):
+                        proxy_db[feed_target_id]['image_url'] = parsed.feed.image.href
+                    elif 'icon' in parsed.feed:
+                        proxy_db[feed_target_id]['icon_url'] = parsed.feed.icon
+                    elif 'logo' in parsed.feed:
+                        proxy_db[feed_target_id]['image_url'] = parsed.feed.logo
             
         except Exception as e:
             print(f"ERROR: Failed to fetch or parse RSS feed {feed['url']}. {e}", flush=True)
@@ -664,6 +783,8 @@ def main():
                 to_process_dcrainmaker.append(entry)
             elif mode == 'the5krunner':
                 to_process_the5krunner.append(entry)
+            elif mode == 'runabc_scotland':
+                to_process_runabc.append(entry)
                 
     print(f"Articles skipped (old, evaluated, or media links): {skipped_count}", flush=True)
     
@@ -705,6 +826,16 @@ def main():
             "interests_text": GLASGOW_TIMES_INTERESTS,
             "archive_key": "glasgow_times",
             "feed_id": GLASGOW_TIMES_FEED_ID,
+            "requires_stage1": False,
+            "stage2_models": STAGE1_MODELS
+        },
+        {
+            "name": "RunABC Scotland Queue",
+            "data": to_process_runabc,
+            "template": STRICT_PROMPT_TEMPLATE,
+            "interests_text": RUNABC_SCOTLAND_INTERESTS,
+            "archive_key": "runabc_scotland",
+            "feed_id": RUNABC_SCOTLAND_FEED_ID,
             "requires_stage1": False,
             "stage2_models": STAGE1_MODELS
         },
@@ -907,7 +1038,7 @@ def main():
                 seen_titles.add(title)
                 unique_articles.append(art)
                 
-        dedup_models = STAGE1_MODELS if feed_id in [GOOGLE_FEED_ID, GOOGLE_SPORTS_FEED_ID, DCRAINMAKER_FEED_ID, THE5KRUNNER_FEED_ID, GRASSROOTS_RUNNING_FEED_ID, GLASGOW_TIMES_FEED_ID] else STAGE2_MODELS
+        dedup_models = STAGE1_MODELS if feed_id in [GOOGLE_FEED_ID, GOOGLE_SPORTS_FEED_ID, DCRAINMAKER_FEED_ID, THE5KRUNNER_FEED_ID, GRASSROOTS_RUNNING_FEED_ID, GLASGOW_TIMES_FEED_ID, RUNABC_SCOTLAND_FEED_ID] else STAGE2_MODELS
         deduped_articles = semantic_deduplication(unique_articles, dedup_models)
         
         feed_data['articles'] = deduped_articles
@@ -926,7 +1057,8 @@ def main():
         DCRAINMAKER_FEED_ID: "DCRainmaker_AI_Filtered.xml",
         THE5KRUNNER_FEED_ID: "The5KRunner_AI_Filtered.xml",
         GRASSROOTS_RUNNING_FEED_ID: "Grassroots_Running_AI_Filtered.xml",
-        GLASGOW_TIMES_FEED_ID: "Glasgow_Times_AI_Filtered.xml"
+        GLASGOW_TIMES_FEED_ID: "Glasgow_Times_AI_Filtered.xml",
+        RUNABC_SCOTLAND_FEED_ID: "RunABC_Scotland_AI_Filtered.xml"
     }
 
     for feed_id, output_filename in file_mappings.items():
@@ -937,6 +1069,19 @@ def main():
             fg.title(feed_data['title']) 
             fg.link(href=feed_data['link'], rel='alternate')
             fg.description(feed_data['description']) 
+            
+            # Embed feed brand icons/images for FreshRSS
+            if feed_data.get('image_url'):
+                try:
+                    fg.image(url=feed_data['image_url'], title=feed_data['title'], link=feed_data['link'])
+                    fg.logo(feed_data['image_url'])
+                except Exception:
+                    pass
+            if feed_data.get('icon_url'):
+                try:
+                    fg.icon(feed_data['icon_url'])
+                except Exception:
+                    pass
             
             articles = feed_data.get('articles', [])
             for art in articles:
