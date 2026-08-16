@@ -1,8 +1,8 @@
 {
   "bbc_news_ai_filtered": {
-    "title": "BBC News AI Filtered",
+    "title": "BBC News",
     "link": "https://www.bbc.co.uk/news",
-    "description": "AI Filtered Articles combined into a single feed.",
+    "description": "AI Filtered BBC News.",
     "articles": [
       {
         "id": "https://www.bbc.co.uk/sport/athletics/articles/cjejjzg4vqwo#8",
@@ -228,10 +228,12 @@
         "published": "Tue, 11 Aug 2026 16:23:52 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40a4/live/f357c920-958d-11f1-b8bb-1b597db1ad66.jpg"
       }
-    ]
+    ],
+    "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
+    "icon_url": "https://www.bbc.co.uk/favicon.ico"
   },
   "google_blog_ai_filtered": {
-    "title": "Google Blog AI Filtered",
+    "title": "The Keyword | Google",
     "link": "https://blog.google",
     "description": "AI Filtered Google Blog Updates.",
     "articles": [
@@ -267,11 +269,13 @@
         "published": "Wed, 12 Aug 2026 14:00:00 +0000",
         "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_V4.max-600x600.format-webp.webp"
       }
-    ]
+    ],
+    "image_url": "https://blog.google/products-and-platforms/devices/google-nest/static/blogv2/images/google.png",
+    "icon_url": "https://blog.google/favicon.ico"
   },
   "google_blog_sports_filtered": {
-    "title": "Google Blog Sports & Health AI Filtered",
-    "link": "https://danielwent.github.io/rss-gemini-filter/Google_Blog_AI_Filtered.xml",
+    "title": "The Keyword | Google Sports & Health",
+    "link": "https://blog.google",
     "description": "AI Filtered Google Blog Sports, Wearables & Health Metrics.",
     "articles": [
       {
@@ -282,16 +286,20 @@
         "published": "Wed, 12 Aug 2026 14:00:00 +0000",
         "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HealthGuardian_social.max-600x600.format-webp.webp"
       }
-    ]
+    ],
+    "image_url": "https://blog.google/static/blogv2/images/google-logo.png",
+    "icon_url": "https://blog.google/favicon.ico"
   },
   "dcrainmaker_ai_filtered": {
-    "title": "DC Rainmaker AI Filtered",
+    "title": "DC Rainmaker",
     "link": "https://www.dcrainmaker.com",
     "description": "AI Filtered DC Rainmaker Sports Tech & Wearable Updates.",
-    "articles": []
+    "articles": [],
+    "icon_url": "https://www.dcrainmaker.com/favicon.ico",
+    "image_url": "https://www.dcrainmaker.com/images/2017/03/dcrainmaker-dc-logo-square-40x40.png"
   },
   "the5krunner_ai_filtered": {
-    "title": "The 5k Runner AI Filtered",
+    "title": "the5krunner",
     "link": "https://the5krunner.com",
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
@@ -351,11 +359,13 @@
         "published": "Thu, 06 Aug 2026 22:11:18 +0000",
         "image_url": ""
       }
-    ]
+    ],
+    "icon_url": "https://the5krunner.com/favicon.ico",
+    "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2025/08/favicon.png/w=32,h=32,fit=crop"
   },
   "grassroots_running_ai_filtered": {
-    "title": "Grassroots & Niche Running AI Filtered",
-    "link": "https://danielwent.github.io/rss-gemini-filter/Grassroots_Running_AI_Filtered.xml",
+    "title": "Grassroots & Niche Running",
+    "link": "https://lincoln149.alwaysdata.net/freshrss/",
     "description": "AI Filtered Niche, Grassroots, Ultra, and Non-Mainstream Distance Running News.",
     "articles": [
       {
@@ -390,11 +400,12 @@
         "published": "Sat, 15 Aug 2026 23:20:03 +0200",
         "image_url": "https://cdn.prod.website-files.com/667e874f45b06e6a2960bd2e/6a6a26cb539fafe75318ca42_c641329bb2daf4f7f1a381d8a8b13270f45c2bf8d74a34a747a609f6a86395ffdbd15edcfdc242068782793e5849c33393d62e699ba03882a27533ae891fa30c55494f3cb19207e29d6b4d9ec40d61cfbbaf4669ce444de7453d14db48e03d9fa70bbe2c.jpeg"
       }
-    ]
+    ],
+    "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico"
   },
   "glasgow_times_ai_filtered": {
     "title": "Glasgow Times",
-    "link": "https://danielwent.github.io/rss-gemini-filter/Glasgow_Times_AI_Filtered.xml",
+    "link": "https://www.glasgowtimes.co.uk",
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
@@ -404,6 +415,24 @@
         "description": "Cops in East Dunbartonshire say they are continuing to target drug sales and supply in the area amid a recent crackdown",
         "published": "Sat, 15 Aug 2026 13:26:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21244705/?type=app&htype=0"
+      }
+    ],
+    "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
+    "image_url": "https://www.glasgowtimes.co.uk/resources/images/sitelogoalt/?type=rsslogo"
+  },
+  "runabc_scotland_ai_filtered": {
+    "title": "runABC Scotland News",
+    "link": "https://runabc.co.uk",
+    "description": "AI Filtered RunABC Scotland Local Events & Regional Athletics News.",
+    "icon_url": "https://runabc.co.uk/favicon.ico",
+    "articles": [
+      {
+        "id": "https://runabc.co.uk/new-stirling-half-marathon-announced-for-may-2027",
+        "title": "New Stirling Half Marathon Announced For May 2027",
+        "link": "https://runabc.co.uk/new-stirling-half-marathon-announced-for-may-2027",
+        "description": "<p><img alt=\"Stirling Half Marathon 2027\" src=\"https://runabc.co.uk/images/2026/08/stirling-half-marathon-2027-824373.jpg\" /></p>\n\t\t\t\t<p>A new Stirling Half Marathon targeting 5,000 to 7,000 runners will launch in May 2027 through a partnership involving London Marathon Events...</p>",
+        "published": "Sat, 15 Aug 2026 21:06:28 +0100",
+        "image_url": ""
       }
     ]
   }
