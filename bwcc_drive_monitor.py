@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 from pydantic import BaseModel, Field
 from feedgen.feed import FeedGenerator
 
-# Ensure unbuffered output in CI/CD runners
+# Force unbuffered output for live GitHub Actions logs
 sys.stdout.reconfigure(line_buffering=True)
 
 ROOT_FOLDER_IDS = [
@@ -20,7 +20,6 @@ ROOT_FOLDER_IDS = [
     "1Wycq7k8Wsh4bzZLociKkc_tMJmiIGsEX",
 ]
 
-# Prioritize flash-lite for free-tier TPM headroom, with active 3.x fallbacks
 MODELS = [
     "gemini-3.5-flash-lite",
     "gemini-3.7-flash",
@@ -47,7 +46,7 @@ class DocumentSummary(BaseModel):
 
 
 class KeyManager:
-    """Manages rotation across comma-separated Gemini API keys."""
+    """Manages rotation and cooldown state across multiple Gemini API keys."""
 
     def __init__(self):
         raw_env = (
@@ -62,14 +61,39 @@ class KeyManager:
         ]
         if not self.keys:
             raise ValueError("No valid API keys found in GEMINI_API_KEY / GOOGLE_API_KEY.")
+
         self.current_index = 0
+        # Track when each key was rate-limited
+        self.cooldowns: Dict[int, float] = {i: 0.0 for i in range(len(self.keys))}
 
     def get_current_key(self) -> str:
         return self.keys[self.current_index]
 
-    def rotate_key(self) -> str:
-        self.current_index = (self.current_index + 1) % len(self.keys)
-        return self.get_current_key()
+    def mark_rate_limited(self) -> None:
+        """Mark the active key as throttled for 60 seconds."""
+        self.cooldowns[self.current_index] = time.time() + 60.0
+
+    def rotate_to_next_available(self) -> None:
+        """Rotate to the next key that is not currently in a cooldown window."""
+        now = time.time()
+        for i in range(1, len(self.keys) + 1):
+            idx = (self.current_index + i) % len(self.keys)
+            if self.cooldowns[idx] <= now:
+                self.current_index = idx
+                return
+
+        # If all keys are in cooldown, pick the one closest to expiring
+        earliest_idx = min(self.cooldowns, key=self.cooldowns.get)
+        self.current_index = earliest_idx
+
+    def get_pool_wait_time(self) -> float:
+        """Return the seconds remaining until at least one key leaves cooldown."""
+        now = time.time()
+        ready_keys = [idx for idx, expiry in self.cooldowns.items() if expiry <= now]
+        if ready_keys:
+            return 0.0
+        earliest_expiry = min(self.cooldowns.values())
+        return max(0.0, earliest_expiry - now)
 
 
 def load_archive() -> Dict[str, Any]:
@@ -178,7 +202,7 @@ def download_public_drive_pdf(file_id: str) -> bytes:
 
 
 def summarize_pdf_with_gemini(km: KeyManager, pdf_bytes: bytes, filename: str) -> DocumentSummary:
-    """Send PDF payload to Gemini using structured JSON schema with rotation on rate limits."""
+    """Process PDF binary with persistent rate-limit waiting, never dropping documents on 429s."""
     prompt = f"""
 You are analyzing a public document from the Bearsden West Community Council ("{filename}").
 
@@ -234,48 +258,53 @@ CONTENT SUMMARY REQUIREMENTS:
     }
 
     headers = {"Content-Type": "application/json"}
-    max_rounds = 3
 
-    for round_idx in range(max_rounds):
-        for _ in range(len(km.keys)):
-            current_key = km.get_current_key()
+    # Loop indefinitely on 429 rate limits until the file succeeds
+    while True:
+        wait_needed = km.get_pool_wait_time()
+        if wait_needed > 0:
+            print(f"All keys throttled. Pausing {int(wait_needed) + 2}s for rolling window reset...")
+            time.sleep(wait_needed + 2.0)
 
-            for model_name in MODELS:
-                url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={current_key}"
-                try:
-                    resp = requests.post(url, headers=headers, json=payload, timeout=60)
-                    if resp.status_code == 200:
-                        result_json = resp.json()
-                        raw_text = result_json["candidates"][0]["content"]["parts"][0]["text"]
-                        parsed_dict = json.loads(raw_text)
-                        return DocumentSummary(**parsed_dict)
+        current_key = km.get_current_key()
+        key_num = km.current_index + 1
 
-                    if resp.status_code == 429:
-                        print(f"Key #{km.current_index + 1} hit 429 on {model_name}. Rotating key...")
-                        km.rotate_key()
-                        time.sleep(1)
-                        break  # Try next key
-                    elif resp.status_code in [401, 403]:
-                        print(f"Key #{km.current_index + 1} auth error {resp.status_code}. Rotating key...")
-                        km.rotate_key()
-                        time.sleep(1)
-                        break
-                    elif resp.status_code == 404:
-                        continue  # Try next model in list
-                    else:
-                        print(f"HTTP {resp.status_code} ({model_name}): {resp.text[:120]}")
-                        km.rotate_key()
-                        break
+        for model_name in MODELS:
+            url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={current_key}"
+            try:
+                resp = requests.post(url, headers=headers, json=payload, timeout=60)
+                if resp.status_code == 200:
+                    result_json = resp.json()
+                    raw_text = result_json["candidates"][0]["content"]["parts"][0]["text"]
+                    parsed_dict = json.loads(raw_text)
+                    return DocumentSummary(**parsed_dict)
 
-                except requests.exceptions.RequestException as e:
-                    print(f"Request error: {e}. Rotating key...")
-                    km.rotate_key()
+                if resp.status_code == 429:
+                    print(f"Key #{key_num} hit 429 on {model_name}. Rotating...")
+                    km.mark_rate_limited()
+                    km.rotate_to_next_available()
+                    time.sleep(1)
+                    break  # Break model loop, try next key
+
+                elif resp.status_code in [401, 403]:
+                    print(f"Key #{key_num} auth error {resp.status_code}. Rotating...")
+                    km.rotate_to_next_available()
+                    time.sleep(1)
                     break
 
-        print(f"All keys temporarily throttled. Backing off for 12 seconds (Round {round_idx + 1}/{max_rounds})...")
-        time.sleep(12)
+                elif resp.status_code == 404:
+                    continue  # Try next model in list
 
-    raise RuntimeError(f"Failed to process {filename} after full rotation across all models and keys.")
+                else:
+                    # Non-recoverable client error (e.g. 400 Bad Request / corrupted PDF)
+                    print(f"Permanent HTTP {resp.status_code} on {model_name}: {resp.text[:120]}")
+                    raise RuntimeError(f"Unrecoverable API error {resp.status_code}: {resp.text[:100]}")
+
+            except requests.exceptions.RequestException as e:
+                print(f"Network exception on key #{key_num}: {e}. Rotating...")
+                km.rotate_to_next_available()
+                time.sleep(1)
+                break
 
 
 def update_rss_feed(archive: Dict[str, Any]) -> None:
@@ -311,7 +340,7 @@ def update_rss_feed(archive: Dict[str, Any]) -> None:
 def main():
     km = KeyManager()
     print(f"Loaded {len(km.keys)} Gemini API keys into key pool.")
-    print(f"Model priority: {MODELS}")
+    print(f"Active model hierarchy: {MODELS}")
 
     archive = load_archive()
     print(f"Archive loaded: {len(archive)} items previously processed.")
@@ -346,12 +375,16 @@ def main():
             new_count += 1
             print(f"Added: {parsed_summary.title}")
 
-            # Save state incrementally
+            # Persist progress to disk after every single file
             save_archive(archive)
-            km.rotate_key()
-            time.sleep(1.5)
+            
+            # Step to next key and add brief delay to smooth out TPM usage
+            km.rotate_to_next_available()
+            time.sleep(2.5)
+
         except Exception as e:
-            print(f"Failed to process {filename}: {e}")
+            # Only genuinely unrecoverable file errors (corrupted binary, 400 Bad Request) land here
+            print(f"Permanently skipping unparseable file {filename}: {e}")
 
     if new_count > 0 or not os.path.exists(ARCHIVE_FILE):
         save_archive(archive)
