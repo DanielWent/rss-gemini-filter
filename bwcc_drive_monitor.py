@@ -44,7 +44,6 @@ class KeyManager:
             or os.environ.get("GOOGLE_API_KEY")
             or ""
         )
-        # Parse comma-separated keys, stripping whitespace and surrounding quotes
         self.keys = [
             k.strip().strip("'").strip('"')
             for k in raw_env.split(",")
@@ -60,6 +59,35 @@ class KeyManager:
     def rotate_key(self) -> str:
         self.current_index = (self.current_index + 1) % len(self.keys)
         return self.get_current_key()
+
+
+def discover_available_flash_models(api_key: str) -> List[str]:
+    """Query the models endpoint to find all active flash models for the key."""
+    url = f"https://generativelanguage.googleapis.com/v1beta/models?key={api_key}"
+    try:
+        resp = requests.get(url, timeout=15)
+        if resp.status_code == 200:
+            models_data = resp.json().get("models", [])
+            flash_models = [
+                m["name"].replace("models/", "")
+                for m in models_data
+                if "flash" in m.get("name", "").lower()
+                and "generateContent" in m.get("supportedGenerationMethods", [])
+            ]
+            if flash_models:
+                # Reverse sort so latest versions (3.7, 3.6, 3.5) come first
+                flash_models.sort(reverse=True)
+                return flash_models
+    except Exception as e:
+        print(f"Warning: Failed to discover models dynamically: {e}")
+
+    # Fallback to current standard lineup
+    return [
+        "gemini-3.7-flash",
+        "gemini-3.6-flash",
+        "gemini-3.5-flash-lite",
+        "gemini-3-flash",
+    ]
 
 
 def load_archive() -> Dict[str, Any]:
@@ -167,8 +195,8 @@ def download_public_drive_pdf(file_id: str) -> bytes:
     return resp.content
 
 
-def summarize_pdf_with_gemini(km: KeyManager, pdf_bytes: bytes, filename: str) -> DocumentSummary:
-    """Process PDF binary with automatic key rotation on rate limits or errors."""
+def summarize_pdf_with_gemini(km: KeyManager, models: List[str], pdf_bytes: bytes, filename: str) -> DocumentSummary:
+    """Process PDF binary with automatic model selection and key rotation."""
     prompt = f"""
 You are analyzing a public document from the Bearsden West Community Council ("{filename}").
 
@@ -225,37 +253,40 @@ CONTENT SUMMARY REQUIREMENTS:
 
     headers = {"Content-Type": "application/json"}
     attempts = 0
-    max_attempts = len(km.keys) * 2
+    max_attempts = len(km.keys) * len(models)
 
     while attempts < max_attempts:
         current_key = km.get_current_key()
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={current_key}"
-        
-        try:
-            resp = requests.post(url, headers=headers, json=payload, timeout=60)
-            if resp.status_code == 200:
-                result_json = resp.json()
-                raw_text = result_json["candidates"][0]["content"]["parts"][0]["text"]
-                parsed_dict = json.loads(raw_text)
-                return DocumentSummary(**parsed_dict)
 
-            # Rotate key on Rate Limit (429) or Auth error (401/403)
-            if resp.status_code in [429, 401, 403]:
-                print(f"Key #{km.current_index + 1} hit HTTP {resp.status_code}. Rotating to next key...")
-                km.rotate_key()
-                time.sleep(1)
-            else:
-                print(f"Gemini API returned status {resp.status_code}: {resp.text[:200]}")
-                km.rotate_key()
+        for model_name in models:
+            url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={current_key}"
+            try:
+                resp = requests.post(url, headers=headers, json=payload, timeout=60)
+                if resp.status_code == 200:
+                    result_json = resp.json()
+                    raw_text = result_json["candidates"][0]["content"]["parts"][0]["text"]
+                    parsed_dict = json.loads(raw_text)
+                    return DocumentSummary(**parsed_dict)
 
-        except requests.exceptions.RequestException as e:
-            print(f"Request error with key #{km.current_index + 1}: {e}. Rotating key...")
-            km.rotate_key()
+                if resp.status_code in [429, 401, 403]:
+                    print(f"Key #{km.current_index + 1} returned {resp.status_code}. Rotating key...")
+                    km.rotate_key()
+                    time.sleep(1)
+                    break
+                elif resp.status_code == 404:
+                    continue
+                else:
+                    print(f"API HTTP {resp.status_code} on {model_name}: {resp.text[:140]}")
+
+            except requests.exceptions.RequestException as e:
+                print(f"Network error: {e}. Rotating key...")
+                km.rotate_key()
+                break
 
         attempts += 1
         time.sleep(1)
 
-    raise RuntimeError("Exhausted all available Gemini API keys without success.")
+    raise RuntimeError("Exhausted all Gemini models and API keys without success.")
 
 
 def update_rss_feed(archive: Dict[str, Any]) -> None:
@@ -292,6 +323,9 @@ def main():
     km = KeyManager()
     print(f"Loaded {len(km.keys)} Gemini API keys into key pool.")
 
+    available_models = discover_available_flash_models(km.get_current_key())
+    print(f"Discovered active Flash models: {available_models}")
+
     archive = load_archive()
     print(f"Archive loaded: {len(archive)} items previously processed.")
 
@@ -311,7 +345,7 @@ def main():
         print(f"Processing new file: {filename} ({file_id})")
         try:
             pdf_bytes = download_public_drive_pdf(file_id)
-            parsed_summary = summarize_pdf_with_gemini(km, pdf_bytes, filename)
+            parsed_summary = summarize_pdf_with_gemini(km, available_models, pdf_bytes, filename)
 
             archive[file_id] = {
                 "id": file_id,
@@ -326,7 +360,6 @@ def main():
             print(f"Added: {parsed_summary.title}")
 
             save_archive(archive)
-            # Cycle to the next key for the next document to distribute load evenly
             km.rotate_key()
             time.sleep(1)
         except Exception as e:
