@@ -101,6 +101,20 @@ Final Decision (is_interesting): This MUST be true ONLY IF (triggers_exclusion i
 Return exactly {batch_len} evaluations in the exact order of the articles provided.
 """
 
+CATEGORY_SCORING_PROMPT_TEMPLATE = """You are an objective news scoring engine evaluating articles for a Glasgow & Bearsden weekly digest.
+Evaluate each article against the provided editorial rubric for CATEGORY {category_label}.
+
+EDITORIAL RUBRIC:
+{rubric_text}
+
+INSTRUCTIONS:
+Evaluate each article independently. Assign a numeric score between 0.0 and 10.0 based strictly on the rubric.
+Return evaluations for all {batch_len} articles in exact order.
+
+ARTICLES:
+{articles_payload}
+"""
+
 # =========================================================================
 # UNIFIED OUTPUT FEEDS & CONFIGURATION REGISTRY
 # =========================================================================
@@ -163,12 +177,20 @@ OUTPUT_FEEDS = {
         "description": "AI Filtered RunABC Scotland Local Events & Regional Athletics News.",
         "icon_url": "https://runabc.co.uk/favicon.ico",
         "output_file": "RunABC_Scotland_AI_Filtered.xml"
+    },
+    "glasgow_newsletter_candidates": {
+        "title": "Glasgow Newsletter Candidates",
+        "link": "https://lincoln149.alwaysdata.net/freshrss/",
+        "description": "Candidate articles scoring > 3.0 in Categories A, B, C, or D for the Glasgow weekly digest.",
+        "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
+        "output_file": "Glasgow_Newsletter_Candidates.xml"
     }
 }
 
 PIPELINES = [
     {
         "name": "Lenient Mainstream Queue",
+        "type": "two_pass",
         "archive_key": "lenient",
         "target_feed_id": "bbc_news_ai_filtered",
         "urls": ["https://feeds.bbci.co.uk/news/rss.xml"],
@@ -180,6 +202,7 @@ PIPELINES = [
     },
     {
         "name": "Strict Private Feed Queue",
+        "type": "two_pass",
         "archive_key": "strict",
         "target_feed_id": "bbc_news_ai_filtered",
         "urls": ["https://lincoln149.alwaysdata.net/freshrss/api/query.php?user=lincoln149&t=3yPwwxjIWkQrUzb9j75NA3&f=rss"],
@@ -191,6 +214,7 @@ PIPELINES = [
     },
     {
         "name": "Grassroots Running Queue",
+        "type": "two_pass",
         "archive_key": "grassroots_running",
         "target_feed_id": "grassroots_running_ai_filtered",
         "urls": ["https://lincoln149.alwaysdata.net/freshrss/api/query.php?user=lincoln149&t=6N05CNtrbYfKjurK1amToT&f=rss"],
@@ -202,6 +226,7 @@ PIPELINES = [
     },
     {
         "name": "Glasgow Times Queue",
+        "type": "two_pass",
         "archive_key": "glasgow_times",
         "target_feed_id": "glasgow_times_ai_filtered",
         "urls": [
@@ -222,6 +247,7 @@ PIPELINES = [
     },
     {
         "name": "RunABC Scotland Queue",
+        "type": "two_pass",
         "archive_key": "runabc_scotland",
         "target_feed_id": "runabc_scotland_ai_filtered",
         "urls": ["https://runabc.co.uk/feeds/scotland-news"],
@@ -233,6 +259,7 @@ PIPELINES = [
     },
     {
         "name": "Google Blog Primary Queue",
+        "type": "two_pass",
         "archive_key": "google",
         "target_feed_id": "google_blog_ai_filtered",
         "urls": [
@@ -251,6 +278,7 @@ PIPELINES = [
     },
     {
         "name": "Google Blog Sports Queue",
+        "type": "two_pass",
         "archive_key": "google_sports",
         "target_feed_id": "google_blog_sports_filtered",
         "urls": ["https://danielwent.github.io/rss-gemini-filter/Google_Blog_AI_Filtered.xml"],
@@ -262,6 +290,7 @@ PIPELINES = [
     },
     {
         "name": "DC Rainmaker Queue",
+        "type": "two_pass",
         "archive_key": "dcrainmaker",
         "target_feed_id": "dcrainmaker_ai_filtered",
         "urls": ["https://www.dcrainmaker.com/feed"],
@@ -273,6 +302,7 @@ PIPELINES = [
     },
     {
         "name": "The 5k Runner Queue",
+        "type": "two_pass",
         "archive_key": "the5krunner",
         "target_feed_id": "the5krunner_ai_filtered",
         "urls": ["https://the5krunner.com/feed/"],
@@ -281,6 +311,31 @@ PIPELINES = [
         "requires_stage1": False,
         "lookback_days": 7,
         "stage2_models": STAGE1_MODELS
+    },
+    {
+        "name": "Glasgow Newsletter Candidates Queue",
+        "type": "scoring",
+        "archive_key": "newsletter_candidates",
+        "target_feed_id": "glasgow_newsletter_candidates",
+        "urls": [
+            "https://www.glasgowlive.co.uk/?service=rss",
+            "https://www.glasgowtimes.co.uk/news/rss/",
+            "https://www.thescottishsun.co.uk/where/glasgow/feed/",
+            "https://news.stv.tv/section/west-central/feed",
+            "https://feeds.bbci.co.uk/news/scotland/glasgow_and_west/rss.xml",
+            "https://www.glasgowtimes.co.uk/entertainment/rss/",
+            "https://www.heraldscotland.com/news/homenews/rss/"
+        ],
+        "category_files": {
+            "A": os.path.join(CRITERIA_DIR, "newsletter_cat_a.txt"),
+            "B": os.path.join(CRITERIA_DIR, "newsletter_cat_b.txt"),
+            "C": os.path.join(CRITERIA_DIR, "newsletter_cat_c.txt"),
+            "D": os.path.join(CRITERIA_DIR, "newsletter_cat_d.txt")
+        },
+        "score_threshold": 3.0,
+        "batch_size": 3,
+        "lookback_days": 1,
+        "models": STAGE1_MODELS
     }
 ]
 
@@ -302,6 +357,13 @@ class ArticleEvaluation(BaseModel):
 
 class BatchEvaluation(BaseModel):
     results: list[ArticleEvaluation]
+
+class ArticleScore(BaseModel):
+    score: float
+    rationale: str
+
+class CategoryBatchScore(BaseModel):
+    results: list[ArticleScore]
     
 class DeduplicationResult(BaseModel):
     unique_ids: list[str]
@@ -331,7 +393,7 @@ def load_text(filepath):
         return f.read()
 
 def clean_article_url(url: str) -> str:
-    """Strips query-level tracking parameters (UTM, Facebook, Google click IDs) to prevent duplicate evaluations."""
+    """Strips tracking parameters (UTM, Facebook, Google click IDs) to prevent duplicate evaluations."""
     if not url:
         return ""
     parsed = urllib.parse.urlparse(url)
@@ -344,7 +406,7 @@ def clean_article_url(url: str) -> str:
     return urllib.parse.urlunparse((parsed.scheme, parsed.netloc, parsed.path, parsed.params, clean_query, ''))
 
 def load_and_migrate_archive(filepath):
-    """Loads archive and automatically migrates legacy array format to timestamped dictionary."""
+    """Loads archive and migrates legacy array format to timestamped dictionary."""
     raw = load_json(filepath, {})
     migrated = {}
     now_ts = time.time()
@@ -362,7 +424,7 @@ def load_and_migrate_archive(filepath):
     return migrated
 
 def save_and_prune_archive(filepath, archive_data):
-    """Prunes entries older than ARCHIVE_TTL_SECONDS (60 days) to keep archive.json permanently bounded."""
+    """Prunes entries older than ARCHIVE_TTL_SECONDS (60 days) to keep archive.json bounded."""
     cutoff_ts = time.time() - ARCHIVE_TTL_SECONDS
     pruned = {}
     for feed_key, items in archive_data.items():
@@ -632,13 +694,13 @@ def main():
     for pipeline in PIPELINES:
         archive_key = pipeline["archive_key"]
         target_feed_id = pipeline["target_feed_id"]
+        pipeline_type = pipeline.get("type", "two_pass")
+
         if archive_key not in archive_data:
             archive_data[archive_key] = {}
         archive_set = archive_data[archive_key]
 
-        interests_text = load_text(pipeline["criteria_file"])
         lookback_cutoff = now_utc - timedelta(days=pipeline["lookback_days"])
-        
         to_process = []
         seen_titles_pipeline = set()
         
@@ -700,9 +762,113 @@ def main():
 
         print(f"--- Processing {len(to_process)} articles for {pipeline['name']} ---", flush=True)
 
-        # Stage 1 Pre-filtering (Broad Recall)
+        # =========================================================================
+        # EXECUTION PATH A: FOUR-CATEGORY SCORING PIPELINE (BATCH SIZE 3)
+        # =========================================================================
+        if pipeline_type == "scoring":
+            categories_rubrics = {
+                cat: load_text(path) for cat, path in pipeline["category_files"].items()
+            }
+            batch_size = pipeline.get("batch_size", 3)
+            threshold = pipeline.get("score_threshold", 3.0)
+            scoring_models = pipeline.get("models", STAGE1_MODELS)
+            total_batches = math.ceil(len(to_process) / batch_size)
+
+            for i in range(0, len(to_process), batch_size):
+                batch = to_process[i:i+batch_size]
+                batch_number = (i // batch_size) + 1
+
+                # Extract full text for accurate scoring
+                for art in batch:
+                    link = art.get('clean_link') or art.get('link', '')
+                    if 'cached_full_text' not in art:
+                        art['cached_full_text'] = fetch_full_text(link) if link else ""
+
+                articles_payload = ""
+                for idx, art in enumerate(batch):
+                    content = art.get('cached_full_text') or art.get('summary', '')
+                    articles_payload += f"--- Article {idx+1} ---\nTitle: {art.get('title')}\nPublished: {art.get('published', 'Unknown')}\nContent: {content}\n\n"
+
+                batch_scores = {idx: {} for idx in range(len(batch))}
+                batch_failed = False
+
+                for cat_label, rubric in categories_rubrics.items():
+                    prompt = CATEGORY_SCORING_PROMPT_TEMPLATE.format(
+                        category_label=cat_label,
+                        rubric_text=rubric,
+                        batch_len=len(batch),
+                        articles_payload=articles_payload
+                    )
+                    evaluations, used_model = evaluate_batch(prompt, len(batch), scoring_models, CategoryBatchScore)
+                    if evaluations:
+                        for idx, eval_result in enumerate(evaluations):
+                            batch_scores[idx][cat_label] = {
+                                "score": eval_result.score,
+                                "rationale": eval_result.rationale
+                            }
+                    else:
+                        batch_failed = True
+                        print(f"[Scoring - Batch {batch_number}/{total_batches}] FAILED on Category {cat_label}.", flush=True)
+                        break
+
+                if not batch_failed:
+                    for idx, art in enumerate(batch):
+                        art_id = str(art.get('id', art.get('clean_link', art.get('link'))))
+                        art_title = art.get('title', '').strip()
+
+                        # Record in archive to prevent re-evaluation
+                        archive_set[art_id] = now_ts
+                        if art.get('clean_link'):
+                            archive_set[art['clean_link']] = now_ts
+                        if art_title:
+                            archive_set[art_title] = now_ts
+
+                        scores = batch_scores[idx]
+                        max_score = max(scores[c]["score"] for c in scores) if scores else 0.0
+                        score_summary = ", ".join([f"{c}: {scores[c]['score']:.1f}" for c in sorted(scores.keys())])
+
+                        print(f"  -> Title: {art_title}", flush=True)
+                        print(f"     Scores: [{score_summary}] | Max: {max_score:.1f}", flush=True)
+
+                        if max_score > threshold:
+                            new_articles_per_feed[target_feed_id] += 1
+                            print(f"     Decision: Candidate Accepted (> {threshold})\n", flush=True)
+
+                            image_url = ""
+                            if 'media_thumbnail' in art and art.media_thumbnail:
+                                image_url = art.media_thumbnail[0].get('url', '')
+                            elif 'media_content' in art and art.media_content:
+                                image_url = art.media_content[0].get('url', '')
+                            elif 'links' in art:
+                                for lk in art.links:
+                                    if lk.get('rel') == 'enclosure' and 'image' in lk.get('type', ''):
+                                        image_url = lk.get('href', '')
+                                        break
+
+                            proxy_db[target_feed_id]['articles'].append({
+                                'id': art_id,
+                                'title': art.get('title', 'No Title'),
+                                'link': art.get('clean_link') or art.get('link', ''),
+                                'description': art.get('summary', art.get('description', '')),
+                                'published': art.get('published', art.get('updated', '')),
+                                'image_url': image_url
+                            })
+                        else:
+                            print(f"     Decision: Rejected (<= {threshold})\n", flush=True)
+
+                    print(f"[Scoring - Batch {batch_number}/{total_batches}] Processed successfully.", flush=True)
+                else:
+                    print(f"[Scoring - Batch {batch_number}/{total_batches}] Batch skipped due to API failure. Will retry next run.", flush=True)
+            continue
+
+        # =========================================================================
+        # EXECUTION PATH B: STANDARD TWO-PASS FILTERING PIPELINES
+        # =========================================================================
+        interests_text = load_text(pipeline["criteria_file"])
         passed_stage1 = []
-        if pipeline["requires_stage1"]:
+
+        # Stage 1 Pre-filtering (Broad Recall)
+        if pipeline.get("requires_stage1", False):
             total_s1_batches = math.ceil(len(to_process) / BATCH_SIZE)
             for i in range(0, len(to_process), BATCH_SIZE):
                 batch = to_process[i:i+BATCH_SIZE]
@@ -839,7 +1005,7 @@ def main():
                 seen_titles.add(title)
                 unique_articles.append(art)
 
-        # Zero API calls if no new articles were accepted for this feed
+        # Run deduplication only when new articles were added and more than 1 article exists
         if new_articles_per_feed.get(feed_id, 0) > 0 and len(unique_articles) > 1:
             dedup_models = STAGE1_MODELS if feed_id != "bbc_news_ai_filtered" else STAGE2_MODELS
             deduped_articles = semantic_deduplication(unique_articles, dedup_models)
