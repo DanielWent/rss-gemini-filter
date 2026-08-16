@@ -331,7 +331,9 @@ PIPELINES = [
             "https://news.stv.tv/section/west-central/feed",
             "https://feeds.bbci.co.uk/news/scotland/glasgow_and_west/rss.xml",
             "https://www.glasgowtimes.co.uk/entertainment/rss/",
-            "https://www.heraldscotland.com/news/homenews/rss/"
+            "https://www.heraldscotland.com/news/homenews/rss/",
+            "https://glasgow-live-rss-proxy.daniel-went.workers.dev/",
+            "https://runabc.co.uk/feeds/scotland-news"
         ],
         "category_files": {
             "A": os.path.join(CRITERIA_DIR, "newsletter_cat_a.txt"),
@@ -505,7 +507,74 @@ def is_valid_article_item(entry):
         
     return True
 
-def fetch_full_text(url):
+def extract_image_from_entry(entry):
+    """Extracts thumbnail or featured image from standard RSS/Atom tags or embedded HTML."""
+    if 'media_thumbnail' in entry and entry.media_thumbnail:
+        for thumb in entry.media_thumbnail:
+            if isinstance(thumb, dict) and thumb.get('url'):
+                return thumb.get('url')
+
+    if 'media_content' in entry and entry.media_content:
+        for media in entry.media_content:
+            if isinstance(media, dict) and media.get('url'):
+                if media.get('medium') == 'image' or 'image' in media.get('type', ''):
+                    return media.get('url')
+                if any(ext in media.get('url', '').lower() for ext in ['.jpg', '.jpeg', '.png', '.webp', '.gif']):
+                    return media.get('url')
+        if isinstance(entry.media_content[0], dict) and entry.media_content[0].get('url'):
+            return entry.media_content[0].get('url')
+
+    if 'enclosures' in entry and entry.enclosures:
+        for enc in entry.enclosures:
+            if isinstance(enc, dict):
+                url = enc.get('href') or enc.get('url', '')
+                enc_type = enc.get('type', '').lower()
+                if 'image' in enc_type or any(ext in url.lower() for ext in ['.jpg', '.jpeg', '.png', '.webp', '.gif']):
+                    return url
+
+    if 'links' in entry and entry.links:
+        for lk in entry.links:
+            if isinstance(lk, dict):
+                url = lk.get('href', '')
+                lk_type = lk.get('type', '').lower()
+                rel = lk.get('rel', '').lower()
+                if (rel == 'enclosure' and 'image' in lk_type) or ('image' in lk_type):
+                    return url
+                if rel == 'enclosure' and any(ext in url.lower() for ext in ['.jpg', '.jpeg', '.png', '.webp', '.gif']):
+                    return url
+
+    if 'image' in entry:
+        img = entry.get('image')
+        if isinstance(img, dict) and img.get('href'):
+            return img.get('href')
+        elif isinstance(img, str) and img.startswith('http'):
+            return img
+
+    for field in ['summary', 'description', 'content']:
+        raw_val = entry.get(field)
+        if raw_val:
+            if isinstance(raw_val, list):
+                raw_html = "".join([c.get('value', '') if isinstance(c, dict) else str(c) for c in raw_val])
+            elif isinstance(raw_val, dict):
+                raw_html = raw_val.get('value', '')
+            else:
+                raw_html = str(raw_val)
+
+            if '<img' in raw_html.lower():
+                try:
+                    soup = BeautifulSoup(raw_html, 'html.parser')
+                    img_tag = soup.find('img')
+                    if img_tag:
+                        src = img_tag.get('src') or img_tag.get('data-src') or img_tag.get('data-original')
+                        if src and src.startswith('http'):
+                            return src
+                except Exception:
+                    pass
+
+    return ""
+
+def fetch_article_details(url):
+    """Fetches clean article text and extracts OpenGraph/Twitter thumbnail from the webpage."""
     try:
         req = urllib.request.Request(
             url, 
@@ -515,18 +584,35 @@ def fetch_full_text(url):
             html = response.read()
             
         soup = BeautifulSoup(html, 'html.parser')
+
+        # Extract OpenGraph / Twitter metadata images
+        page_image = ""
+        og_img = soup.find('meta', property='og:image') or soup.find('meta', attrs={'name': 'og:image'})
+        if og_img and og_img.get('content'):
+            page_image = og_img.get('content').strip()
+
+        if not page_image:
+            tw_img = soup.find('meta', attrs={'name': 'twitter:image'}) or soup.find('meta', property='twitter:image')
+            if tw_img and tw_img.get('content'):
+                page_image = tw_img.get('content').strip()
+
+        if not page_image:
+            link_img = soup.find('link', rel='image_src')
+            if link_img and link_img.get('href'):
+                page_image = link_img.get('href').strip()
+
         for tag in soup(['script', 'style', 'header', 'footer', 'nav', 'aside', 'form', 'figure', 'picture', 'svg']):
             tag.decompose()
             
         main_content = soup.find('article') or soup.find('main') or soup.find('body')
-        if not main_content:
-            return ""
-            
-        text = main_content.get_text(separator='\n\n', strip=True)
-        return text 
+        text = ""
+        if main_content:
+            text = main_content.get_text(separator='\n\n', strip=True)
+
+        return text, page_image
     except Exception as e:
-        print(f"Failed to fetch full text for {url}: {e}", flush=True)
-        return ""
+        print(f"Failed to fetch article details for {url}: {e}", flush=True)
+        return "", ""
 
 # =========================================================================
 # GEMINI API EXECUTION ENGINE (PER-MODEL INDEPENDENT POOL)
@@ -833,6 +919,7 @@ def main():
                         pass
 
                 entry['clean_link'] = clean_link
+                entry['image_url'] = extract_image_from_entry(entry)
                 to_process.append(entry)
 
         if not to_process:
@@ -865,7 +952,10 @@ def main():
                 for art in batch:
                     link = art.get('clean_link') or art.get('link', '')
                     if 'cached_full_text' not in art:
-                        art['cached_full_text'] = fetch_full_text(link) if link else ""
+                        text, page_img = fetch_article_details(link) if link else ("", "")
+                        art['cached_full_text'] = text
+                        if page_img and not art.get('image_url'):
+                            art['image_url'] = page_img
 
                 articles_payload = ""
                 for idx, art in enumerate(batch):
@@ -925,16 +1015,10 @@ def main():
                             passed_str = ", ".join(qualifying_categories)
                             print(f"     Decision: Candidate Accepted (Met threshold in Cat: {passed_str})\n", flush=True)
 
-                            image_url = ""
-                            if 'media_thumbnail' in art and art.media_thumbnail:
-                                image_url = art.media_thumbnail[0].get('url', '')
-                            elif 'media_content' in art and art.media_content:
-                                image_url = art.media_content[0].get('url', '')
-                            elif 'links' in art:
-                                for lk in art.links:
-                                    if lk.get('rel') == 'enclosure' and 'image' in lk.get('type', ''):
-                                        image_url = lk.get('href', '')
-                                        break
+                            final_image_url = art.get('image_url') or extract_image_from_entry(art)
+                            if not final_image_url and (art.get('clean_link') or art.get('link')):
+                                _, scraped_img = fetch_article_details(art.get('clean_link') or art.get('link'))
+                                final_image_url = scraped_img
 
                             proxy_db[target_feed_id]['articles'].append({
                                 'id': art_id,
@@ -942,7 +1026,7 @@ def main():
                                 'link': art.get('clean_link') or art.get('link', ''),
                                 'description': art.get('summary', art.get('description', '')),
                                 'published': art.get('published', art.get('updated', '')),
-                                'image_url': image_url
+                                'image_url': final_image_url
                             })
                         else:
                             print("     Decision: Rejected (Did not meet threshold in any category)\n", flush=True)
@@ -972,7 +1056,10 @@ def main():
                 for idx, art in enumerate(batch):
                     link = art.get('clean_link') or art.get('link', '')
                     if 'cached_full_text' not in art:
-                        art['cached_full_text'] = fetch_full_text(link) if link else ""
+                        text, page_img = fetch_article_details(link) if link else ("", "")
+                        art['cached_full_text'] = text
+                        if page_img and not art.get('image_url'):
+                            art['image_url'] = page_img
                     content = art['cached_full_text'] if art['cached_full_text'] else art.get('summary', '')
                     prompt += f"--- Article {idx+1} ---\nTitle: {art.get('title')}\nPublished: {art.get('published', 'Unknown')}\nContent: {content}\n\n"
 
@@ -1001,7 +1088,10 @@ def main():
             for art in passed_stage1:
                 link = art.get('clean_link') or art.get('link', '')
                 if 'cached_full_text' not in art:
-                    art['cached_full_text'] = fetch_full_text(link) if link else ""
+                    text, page_img = fetch_article_details(link) if link else ("", "")
+                    art['cached_full_text'] = text
+                    if page_img and not art.get('image_url'):
+                        art['image_url'] = page_img
 
         if not passed_stage1:
             print(f"--- All candidate articles rejected in Stage 1 for {pipeline['name']} ---", flush=True)
@@ -1045,16 +1135,10 @@ def main():
                         included_count += 1
                         new_articles_per_feed[target_feed_id] += 1
                         
-                        image_url = ""
-                        if 'media_thumbnail' in art and art.media_thumbnail:
-                            image_url = art.media_thumbnail[0].get('url', '')
-                        elif 'media_content' in art and art.media_content:
-                            image_url = art.media_content[0].get('url', '')
-                        elif 'links' in art:
-                            for lk in art.links:
-                                if lk.get('rel') == 'enclosure' and 'image' in lk.get('type', ''):
-                                    image_url = lk.get('href', '')
-                                    break
+                        final_image_url = art.get('image_url') or extract_image_from_entry(art)
+                        if not final_image_url and (art.get('clean_link') or art.get('link')):
+                            _, scraped_img = fetch_article_details(art.get('clean_link') or art.get('link'))
+                            final_image_url = scraped_img
 
                         proxy_db[target_feed_id]['articles'].append({
                             'id': art_id,
@@ -1062,7 +1146,7 @@ def main():
                             'link': art.get('clean_link') or art.get('link', ''),
                             'description': art.get('summary', art.get('description', '')),
                             'published': art.get('published', art.get('updated', '')),
-                            'image_url': image_url
+                            'image_url': final_image_url
                         })
                 print(f"[Stage 2 - Batch {batch_number}/{total_s2_batches}] Complete via {used_model}. Accepted {included_count}/{len(batch)}.", flush=True)
             else:
@@ -1140,10 +1224,27 @@ def main():
             fe.id(art['id'])
             fe.title(art['title'])
             fe.link(href=art['link'])
-            fe.description(art['description'])
 
-            if art.get('image_url'):
-                fe.enclosure(url=art['image_url'], length='0', type='image/jpeg')
+            desc = art.get('description', '')
+            img_url = art.get('image_url', '')
+
+            if img_url:
+                mime_type = 'image/jpeg'
+                if '.png' in img_url.lower():
+                    mime_type = 'image/png'
+                elif '.webp' in img_url.lower():
+                    mime_type = 'image/webp'
+                elif '.gif' in img_url.lower():
+                    mime_type = 'image/gif'
+
+                fe.enclosure(url=img_url, length='0', type=mime_type)
+
+                if '<img' not in desc.lower():
+                    fe.description(f'<p><img src="{img_url}" alt="thumbnail" /></p>' + desc)
+                else:
+                    fe.description(desc)
+            else:
+                fe.description(desc)
 
             if art.get('published'):
                 try:
