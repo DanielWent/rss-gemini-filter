@@ -9,6 +9,7 @@ from google import genai
 from google.genai import types
 from feedgen.feed import FeedGenerator
 
+# Google Drive Target Folders
 ROOT_FOLDER_IDS = [
     "1bxY6FSjJMrfPEGxAiq6fRhC3DGun9Ni5",
     "1Wycq7k8Wsh4bzZLociKkc_tMJmiIGsEX",
@@ -227,14 +228,17 @@ def main():
         except Exception as e:
             print(f"Failed to process {filename}: {e}")
 
-    if new_count > 0:
+    # Always ensure the archive and feed files exist on disk for Git tracking
+    if new_count > 0 or not os.path.exists(ARCHIVE_FILE):
         save_archive(archive)
+
+    if new_count > 0 or not os.path.exists(FEED_FILE):
         update_rss_feed(archive)
+
+    if new_count > 0:
         print(f"Successfully processed {new_count} new document(s) and refreshed {FEED_FILE}.")
     else:
-        if not os.path.exists(FEED_FILE) and archive:
-            update_rss_feed(archive)
-        print("No new documents detected. Feed is current.")
+        print("No new documents detected. State and feed files are up to date.")
 
 
 if __name__ == "__main__":
