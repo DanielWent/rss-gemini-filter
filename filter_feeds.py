@@ -47,13 +47,15 @@ GLASGOW_TIMES_FEED_ID = "glasgow_times_ai_filtered"
 # Glasgow Times Local & Topic Criteria
 GLASGOW_TIMES_INTERESTS = """
 INCLUDE CRITERIA:
-1. Article directly relates to a story situated in Westerton or Bearsden.
-2. Article directly relates to the sport of running.
-3. Article directly relates to an Independent Secondary School.
-4. Article directly relates to East Dunbartonshire Council.
-5. Article directly relates to "The High School of Glasgow".
-6. Article directly relates to Astronomy.
-7. Article directly relates to Physics.
+1. Article directly relates to a story situated in Bearsden.
+2. Article directly relates to a story situated in Westerton, Anniesland, Temple, Dawsholm, Netherton or Blairdardie.
+3. Article directly relates to the sport of running.
+4. Article directly relates to an Independent Secondary School.
+5. Article directly relates to East Dunbartonshire Council.
+6. Article directly relates to "The High School of Glasgow".
+7. Article directly relates to Astronomy.
+8. Article directly relates to Physics.
+9. Article directly relates to a road, trail or track race.
 
 REJECT CRITERIA:
 - ALWAYS REJECT articles that do not explicitly match at least one of the exact INCLUDE criteria above.
