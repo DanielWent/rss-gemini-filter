@@ -1,14 +1,15 @@
 import os
 import re
 import json
+import io
 import time
-import tempfile
 import datetime
 from datetime import timezone
 from typing import List, Dict, Any, Literal
 import requests
 from bs4 import BeautifulSoup
 from pydantic import BaseModel, Field
+from pypdf import PdfReader
 from google import genai
 from google.genai import types
 from feedgen.feed import FeedGenerator
@@ -45,6 +46,7 @@ def get_genai_client() -> genai.Client:
     if not api_key:
         raise ValueError("Missing GEMINI_API_KEY or GOOGLE_API_KEY in environment.")
     
+    # Initialize explicitly targeting Google AI Studio v1beta
     return genai.Client(
         api_key=api_key,
         http_options=types.HttpOptions(api_version="v1beta"),
@@ -156,24 +158,27 @@ def download_public_drive_pdf(file_id: str) -> bytes:
     return resp.content
 
 
-def summarize_pdf_with_gemini(client: genai.Client, pdf_bytes: bytes, filename: str) -> DocumentSummary:
-    """Upload PDF to Gemini Files API and analyze with structured Pydantic schema."""
-    with tempfile.NamedTemporaryFile(suffix=".pdf", delete=False) as tmp:
-        tmp.write(pdf_bytes)
-        tmp_path = tmp.name
+def extract_text_from_pdf(pdf_bytes: bytes) -> str:
+    """Extract plain text from PDF bytes using pypdf."""
+    reader = PdfReader(io.BytesIO(pdf_bytes))
+    extracted = []
+    for page in reader.pages:
+        text = page.extract_text()
+        if text:
+            extracted.append(text)
+    return "\n\n".join(extracted).strip()
 
-    uploaded_file = None
-    try:
-        uploaded_file = client.files.upload(
-            file=tmp_path,
-            config=types.UploadFileConfig(
-                display_name=filename,
-                mime_type="application/pdf"
-            )
-        )
 
-        prompt = f"""
-You are analyzing a public document from the Bearsden West Community Council ("{filename}").
+def summarize_text_with_gemini(client: genai.Client, doc_text: str, filename: str) -> DocumentSummary:
+    """Analyze extracted document text with structured Pydantic output."""
+    prompt = f"""
+You are analyzing a public document from the Bearsden West Community Council.
+Filename: "{filename}"
+
+DOCUMENT CONTENT:
+\"\"\"
+{doc_text[:30000]}
+\"\"\"
 
 STRICT TITLE CONVENTIONS:
 1. Meeting Minutes: MUST be formatted exactly as: "Bearsden West CC Minutes - <Month YYYY>"
@@ -187,25 +192,16 @@ CONTENT SUMMARY REQUIREMENTS:
 - Detail key discussions, decisions, planning applications, local council updates, police reports, and financial expenditures.
 """
 
-        response = client.models.generate_content(
-            model="gemini-2.5-flash",
-            contents=[uploaded_file, prompt],
-            config=types.GenerateContentConfig(
-                response_mime_type="application/json",
-                response_schema=DocumentSummary,
-            ),
-        )
+    response = client.models.generate_content(
+        model="gemini-2.5-flash",
+        contents=prompt,
+        config=types.GenerateContentConfig(
+            response_mime_type="application/json",
+            response_schema=DocumentSummary,
+        ),
+    )
 
-        return response.parsed
-
-    finally:
-        if os.path.exists(tmp_path):
-            os.remove(tmp_path)
-        if uploaded_file:
-            try:
-                client.files.delete(name=uploaded_file.name)
-            except Exception:
-                pass
+    return response.parsed
 
 
 def update_rss_feed(archive: Dict[str, Any]) -> None:
@@ -259,7 +255,13 @@ def main():
         print(f"Processing new file: {filename} ({file_id})")
         try:
             pdf_bytes = download_public_drive_pdf(file_id)
-            parsed_summary: DocumentSummary = summarize_pdf_with_gemini(client, pdf_bytes, filename)
+            doc_text = extract_text_from_pdf(pdf_bytes)
+
+            if not doc_text:
+                print(f"Skipping {filename}: No extractable text found.")
+                continue
+
+            parsed_summary: DocumentSummary = summarize_text_with_gemini(client, doc_text, filename)
 
             archive[file_id] = {
                 "id": file_id,
@@ -273,9 +275,9 @@ def main():
             new_count += 1
             print(f"Added: {parsed_summary.title}")
             
-            # Persist archive incrementally after each successful item
+            # Incrementally save state
             save_archive(archive)
-            time.sleep(1)  # Modest delay between consecutive calls
+            time.sleep(1)
         except Exception as e:
             print(f"Failed to process {filename}: {e}")
 
