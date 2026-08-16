@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  update-feed:
+  update-bwcc-feed:
     runs-on: ubuntu-latest
 
     steps:
@@ -40,6 +40,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Update Bearsden West CC RSS feed and archive [skip ci]"
+            git commit -m "Update BWCC RSS feed and archive [skip ci]"
             git push
           fi
