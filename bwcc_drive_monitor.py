@@ -1,17 +1,14 @@
 import os
 import re
 import json
-import io
 import time
+import base64
 import datetime
 from datetime import timezone
 from typing import List, Dict, Any, Literal
 import requests
 from bs4 import BeautifulSoup
 from pydantic import BaseModel, Field
-from pypdf import PdfReader
-from google import genai
-from google.genai import types
 from feedgen.feed import FeedGenerator
 
 ROOT_FOLDER_IDS = [
@@ -25,6 +22,8 @@ FEED_TITLE = "Bearsden West Community Council"
 FEED_LINK = "https://drive.google.com/drive/folders/1bxY6FSjJMrfPEGxAiq6fRhC3DGun9Ni5"
 FEED_DESCRIPTION = "Automated AI summaries of Bearsden West Community Council minutes, budgets, and public documents."
 
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
+
 
 class DocumentSummary(BaseModel):
     doc_type: Literal["minutes", "budget", "other"] = Field(
@@ -35,21 +34,6 @@ class DocumentSummary(BaseModel):
     )
     summary_html: str = Field(
         description="Comprehensive summary formatted in clean HTML (using <h3>, <p>, <ul>, <li>, <strong>)."
-    )
-
-
-def get_genai_client() -> genai.Client:
-    api_key = (
-        os.environ.get("GEMINI_API_KEY")
-        or os.environ.get("GOOGLE_API_KEY")
-    )
-    if not api_key:
-        raise ValueError("Missing GEMINI_API_KEY or GOOGLE_API_KEY in environment.")
-    
-    # Initialize explicitly targeting Google AI Studio v1beta
-    return genai.Client(
-        api_key=api_key,
-        http_options=types.HttpOptions(api_version="v1beta"),
     )
 
 
@@ -158,27 +142,15 @@ def download_public_drive_pdf(file_id: str) -> bytes:
     return resp.content
 
 
-def extract_text_from_pdf(pdf_bytes: bytes) -> str:
-    """Extract plain text from PDF bytes using pypdf."""
-    reader = PdfReader(io.BytesIO(pdf_bytes))
-    extracted = []
-    for page in reader.pages:
-        text = page.extract_text()
-        if text:
-            extracted.append(text)
-    return "\n\n".join(extracted).strip()
+def summarize_pdf_with_gemini_direct(pdf_bytes: bytes, filename: str) -> DocumentSummary:
+    """Process PDF binary directly via Gemini REST endpoint with structured JSON output."""
+    if not GEMINI_API_KEY:
+        raise ValueError("Missing GEMINI_API_KEY environment variable.")
 
-
-def summarize_text_with_gemini(client: genai.Client, doc_text: str, filename: str) -> DocumentSummary:
-    """Analyze extracted document text with structured Pydantic output."""
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={GEMINI_API_KEY}"
+    
     prompt = f"""
-You are analyzing a public document from the Bearsden West Community Council.
-Filename: "{filename}"
-
-DOCUMENT CONTENT:
-\"\"\"
-{doc_text[:30000]}
-\"\"\"
+You are analyzing a public document from the Bearsden West Community Council ("{filename}").
 
 STRICT TITLE CONVENTIONS:
 1. Meeting Minutes: MUST be formatted exactly as: "Bearsden West CC Minutes - <Month YYYY>"
@@ -192,16 +164,54 @@ CONTENT SUMMARY REQUIREMENTS:
 - Detail key discussions, decisions, planning applications, local council updates, police reports, and financial expenditures.
 """
 
-    response = client.models.generate_content(
-        model="gemini-2.5-flash",
-        contents=prompt,
-        config=types.GenerateContentConfig(
-            response_mime_type="application/json",
-            response_schema=DocumentSummary,
-        ),
-    )
+    b64_pdf = base64.b64encode(pdf_bytes).decode("utf-8")
 
-    return response.parsed
+    payload = {
+        "contents": [
+            {
+                "parts": [
+                    {
+                        "inline_data": {
+                            "mime_type": "application/pdf",
+                            "data": b64_pdf
+                        }
+                    },
+                    {
+                        "text": prompt
+                    }
+                ]
+            }
+        ],
+        "generationConfig": {
+            "responseMimeType": "application/json",
+            "responseSchema": {
+                "type": "OBJECT",
+                "properties": {
+                    "doc_type": {
+                        "type": "STRING",
+                        "enum": ["minutes", "budget", "other"]
+                    },
+                    "title": {
+                        "type": "STRING"
+                    },
+                    "summary_html": {
+                        "type": "STRING"
+                    }
+                },
+                "required": ["doc_type", "title", "summary_html"]
+            }
+        }
+    }
+
+    headers = {"Content-Type": "application/json"}
+    resp = requests.post(url, headers=headers, json=payload)
+    resp.raise_for_status()
+
+    result_json = resp.json()
+    raw_text = result_json["candidates"][0]["content"]["parts"][0]["text"]
+    parsed_dict = json.loads(raw_text)
+
+    return DocumentSummary(**parsed_dict)
 
 
 def update_rss_feed(archive: Dict[str, Any]) -> None:
@@ -235,7 +245,9 @@ def update_rss_feed(archive: Dict[str, Any]) -> None:
 
 
 def main():
-    client = get_genai_client()
+    if not GEMINI_API_KEY:
+        raise ValueError("GEMINI_API_KEY or GOOGLE_API_KEY is not configured.")
+
     archive = load_archive()
     print(f"Archive loaded: {len(archive)} items previously processed.")
 
@@ -255,13 +267,7 @@ def main():
         print(f"Processing new file: {filename} ({file_id})")
         try:
             pdf_bytes = download_public_drive_pdf(file_id)
-            doc_text = extract_text_from_pdf(pdf_bytes)
-
-            if not doc_text:
-                print(f"Skipping {filename}: No extractable text found.")
-                continue
-
-            parsed_summary: DocumentSummary = summarize_text_with_gemini(client, doc_text, filename)
+            parsed_summary = summarize_pdf_with_gemini_direct(pdf_bytes, filename)
 
             archive[file_id] = {
                 "id": file_id,
@@ -275,11 +281,13 @@ def main():
             new_count += 1
             print(f"Added: {parsed_summary.title}")
             
-            # Incrementally save state
             save_archive(archive)
-            time.sleep(1)
+            time.sleep(2)  # Respect API quota between document batches
         except Exception as e:
             print(f"Failed to process {filename}: {e}")
+
+    if new_count > 0 or not os.path.exists(ARCHIVE_FILE):
+        save_archive(archive)
 
     if new_count > 0 or not os.path.exists(FEED_FILE):
         update_rss_feed(archive)
