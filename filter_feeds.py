@@ -1,5 +1,5 @@
 import sys
-print("[BOOT] Starting script execution...", flush=True)
+print("[BOOT] Starting script execution...", flush=True)[cite: 1]
 
 import os
 import json
@@ -16,32 +16,48 @@ from google import genai
 from google.genai import types
 from pydantic import BaseModel
 
-print("[BOOT] All modules imported successfully.", flush=True)
+print("[BOOT] All modules imported successfully.", flush=True)[cite: 1]
 
 # Prevent any underlying socket from hanging infinitely
-socket.setdefaulttimeout(30)
+socket.setdefaulttimeout(30)[cite: 1]
 
 # =========================================================================
 # CONFIGURATION
 # =========================================================================
-BROAD_INTERESTS_FILE = "interests_broad.txt"
-STRICT_INTERESTS_FILE = "interests_strict.txt"
-LENIENT_INTERESTS_FILE = "interests_lenient.txt"
-ARCHIVE_FILE = "archive.json"
-PROXY_DB_FILE = "proxy_db.json"
-OUTPUT_DIR = "public"
-BATCH_SIZE = 5
+BROAD_INTERESTS_FILE = "interests_broad.txt"[cite: 1]
+STRICT_INTERESTS_FILE = "interests_strict.txt"[cite: 1]
+LENIENT_INTERESTS_FILE = "interests_lenient.txt"[cite: 1]
+ARCHIVE_FILE = "archive.json"[cite: 1]
+PROXY_DB_FILE = "proxy_db.json"[cite: 1]
+OUTPUT_DIR = "public"[cite: 1]
+BATCH_SIZE = 5[cite: 1]
 
-SINGLE_FEED_ID = "bbc_news_ai_filtered"
-GOOGLE_FEED_ID = "google_blog_ai_filtered"
-GOOGLE_SPORTS_FEED_ID = "google_blog_sports_filtered"
-DCRAINMAKER_FEED_ID = "dcrainmaker_ai_filtered"
-THE5KRUNNER_FEED_ID = "the5krunner_ai_filtered"
+SINGLE_FEED_ID = "bbc_news_ai_filtered"[cite: 1]
+GOOGLE_FEED_ID = "google_blog_ai_filtered"[cite: 1]
+GOOGLE_SPORTS_FEED_ID = "google_blog_sports_filtered"[cite: 1]
+DCRAINMAKER_FEED_ID = "dcrainmaker_ai_filtered"[cite: 1]
+THE5KRUNNER_FEED_ID = "the5krunner_ai_filtered"[cite: 1]
 GRASSROOTS_RUNNING_FEED_ID = "grassroots_running_ai_filtered"
+GLASGOW_TIMES_FEED_ID = "glasgow_times_ai_filtered"
 
 # =========================================================================
 # PROMPTS & FILTER CRITERIA (EASY EDITING SECTION)
 # =========================================================================
+
+# Glasgow Times Local & Topic Criteria
+GLASGOW_TIMES_INTERESTS = """
+INCLUDE CRITERIA:
+1. Article directly relates to a story situated in Westerton or Bearsden.
+2. Article directly relates to the sport of running.
+3. Article directly relates to an Independent Secondary School.
+4. Article directly relates to East Dunbartonshire Council.
+5. Article directly relates to "The High School of Glasgow".
+6. Article directly relates to Astronomy.
+7. Article directly relates to Physics.
+
+REJECT CRITERIA:
+- ALWAYS REJECT articles that do not explicitly match at least one of the exact INCLUDE criteria above.
+"""
 
 # Grassroots & Niche Running Criteria
 GRASSROOTS_RUNNING_INTERESTS = """
@@ -78,7 +94,7 @@ INCLUDE CRITERIA:
 
 REJECT CRITERIA:
 - ALWAYS REJECT articles that do not explicitly match at least one of the exact INCLUDE criteria above.
-"""
+"""[cite: 1]
 
 # Sports, Fitness & Wearables Criteria
 SPORTS_HEALTH_INTERESTS = """
@@ -96,7 +112,7 @@ INCLUDE CRITERIA:
 
 REJECT CRITERIA:
 - ALWAYS REJECT articles that do not explicitly match at least one of the exact INCLUDE criteria above.
-"""
+"""[cite: 1]
 
 # Base AI Prompt Templates
 BROAD_PROMPT_TEMPLATE = """You are a first-pass content filter. Review the following articles against the user's broad interests.
@@ -110,7 +126,7 @@ Output a boolean (matches_broad_interest) and a brief justification (reason).
 
 Return exactly {batch_len} evaluations in the exact order of the articles provided.
 
-"""
+"""[cite: 1]
 
 STRICT_PROMPT_TEMPLATE = """You are an expert content curator. Review the following articles against the user's criteria.
 
@@ -125,7 +141,7 @@ Final Decision (is_interesting): This MUST be true ONLY IF (triggers_exclusion i
 
 Return exactly {batch_len} evaluations in the exact order of the articles provided.
 
-"""
+"""[cite: 1]
 
 LENIENT_PROMPT_TEMPLATE = """You are an expert content curator. Review the following articles from a trusted main news feed against the user's criteria.
 
@@ -142,7 +158,7 @@ Final Decision (is_interesting): This MUST be true ONLY IF (triggers_exclusion i
 
 Return exactly {batch_len} evaluations in the exact order of the articles provided.
 
-"""
+"""[cite: 1]
 
 # =========================================================================
 # SYSTEM CONFIGURATION & DEFINITIONS
@@ -161,6 +177,38 @@ FEEDS = [
     {
         "url": "https://lincoln149.alwaysdata.net/freshrss/api/query.php?user=lincoln149&t=6N05CNtrbYfKjurK1amToT&f=rss",
         "mode": "grassroots_running"
+    },
+    {
+        "url": "https://www.glasgowtimes.co.uk/news/rss/",
+        "mode": "glasgow_times"
+    },
+    {
+        "url": "https://www.glasgowtimes.co.uk/news/council/rss/",
+        "mode": "glasgow_times"
+    },
+    {
+        "url": "https://www.glasgowtimes.co.uk/news/planning-development/rss/",
+        "mode": "glasgow_times"
+    },
+    {
+        "url": "https://www.glasgowtimes.co.uk/news/schools-education/rss/",
+        "mode": "glasgow_times"
+    },
+    {
+        "url": "https://www.glasgowtimes.co.uk/news/councils-politics/rss/",
+        "mode": "glasgow_times"
+    },
+    {
+        "url": "https://www.glasgowtimes.co.uk/news/traffic-and-travel/rss/",
+        "mode": "glasgow_times"
+    },
+    {
+        "url": "https://www.glasgowtimes.co.uk/news/glasgow-crime/rss/",
+        "mode": "glasgow_times"
+    },
+    {
+        "url": "https://www.glasgowtimes.co.uk/your-area/rss/",
+        "mode": "glasgow_times"
     },
     {
         "url": "https://blog.google/products-and-platforms/products/google-health/rss/",
@@ -198,21 +246,21 @@ FEEDS = [
         "url": "https://the5krunner.com/feed/",
         "mode": "the5krunner"
     }
-]
+][cite: 1]
 
 # Rate Limiting & Quota Management State
 STAGE1_MODELS = [
     "gemini-3.5-flash-lite", 
     "gemini-3.1-flash-lite", 
     "gemini-2.5-flash-lite"
-]
+][cite: 1]
 
 STAGE2_MODELS = [
     "gemini-3.6-flash",
     "gemini-3.5-flash", 
     "gemini-2.5-flash", 
     "gemini-1.5-flash"
-]
+][cite: 1]
 
 MODEL_LIMITS = {
     "gemini-3.6-flash": {"rpm": 14, "tpm": 240000},
@@ -222,43 +270,43 @@ MODEL_LIMITS = {
     "gemini-3.5-flash": {"rpm": 14, "tpm": 240000},
     "gemini-2.5-flash": {"rpm": 14, "tpm": 240000},
     "gemini-1.5-flash": {"rpm": 14, "tpm": 240000}
-}
+}[cite: 1]
 
-key_states = {}
-current_key_index = 0
-api_keys_list = []
+key_states = {}[cite: 1]
+current_key_index = 0[cite: 1]
+api_keys_list = [][cite: 1]
 
 # --- SCHEMA DEFINITIONS ---
 
 class BroadArticleEvaluation(BaseModel):
     matches_broad_interest: bool
-    reason: str
+    reason: str[cite: 1]
 
 class BroadBatchEvaluation(BaseModel):
-    results: list[BroadArticleEvaluation]
+    results: list[BroadArticleEvaluation][cite: 1]
 
 class ArticleEvaluation(BaseModel):
     triggers_exclusion: bool
     exclusion_reason: str
     primary_subject_match: bool
     match_reason: str
-    is_interesting: bool
+    is_interesting: bool[cite: 1]
 
 class BatchEvaluation(BaseModel):
-    results: list[ArticleEvaluation]
+    results: list[ArticleEvaluation][cite: 1]
     
 class DeduplicationResult(BaseModel):
-    unique_ids: list[str]
+    unique_ids: list[str][cite: 1]
 
 def load_json(filepath, default):
     if os.path.exists(filepath):
         with open(filepath, 'r', encoding='utf-8') as f:
             return json.load(f)
-    return default
+    return default[cite: 1]
 
 def save_json(filepath, data):
     with open(filepath, 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=2)
+        json.dump(data, f, indent=2)[cite: 1]
 
 def is_valid_article_item(entry):
     link = entry.get('link', '').lower()
@@ -269,7 +317,7 @@ def is_valid_article_item(entry):
     if title.startswith(('watch:', 'video:', 'podcast:', 'audio:')):
         return False
         
-    return True
+    return True[cite: 1]
 
 def fetch_full_text(url):
     try:
@@ -292,7 +340,7 @@ def fetch_full_text(url):
         return text 
     except Exception as e:
         print(f"Failed to fetch full text for {url}: {e}", flush=True)
-        return ""
+        return ""[cite: 1]
 
 def get_available_key(model, estimated_tokens):
     global current_key_index, key_states, api_keys_list
@@ -355,7 +403,7 @@ def get_available_key(model, estimated_tokens):
     if all_exhausted:
         return None, None, -1
         
-    return None, None, max(1000.0, min_wait_time)
+    return None, None, max(1000.0, min_wait_time)[cite: 1]
 
 def execute_with_retry(model, prompt_text, schema_class):
     estimated_tokens = int(len(prompt_text) / 4) + 1024
@@ -422,7 +470,7 @@ def execute_with_retry(model, prompt_text, schema_class):
             if any(code in error_msg for code in ["500", "502", "503", "504"]):
                 raise Exception("API_SERVER_ERROR")
 
-            raise e
+            raise e[cite: 1]
 
 def evaluate_batch(prompt, expected_count, models_to_try, schema_class):
     for model in models_to_try:
@@ -454,18 +502,18 @@ def evaluate_batch(prompt, expected_count, models_to_try, schema_class):
                     break
                     
     print("All models and keys exhausted for this batch.", flush=True)
-    return None, None
+    return None, None[cite: 1]
 
 def semantic_deduplication(articles, eval_models):
     if len(articles) <= 1:
         return articles
         
-    print(f"--- Running Semantic Deduplication on {len(articles)} articles ---", flush=True)
+    print(f"--- Running Semantic Deduplication on {len(articles)} articles ---", flush=True)[cite: 1]
     
-    prompt = "You are a strict editor. Review the following news articles. Group articles that cover the EXACT SAME news event or story. If multiple articles cover the same event (even if they have different headlines), select ONLY ONE ID to keep. Return a JSON list containing only the unique IDs.\n\n"
+    prompt = "You are a strict editor. Review the following news articles. Group articles that cover the EXACT SAME news event or story. If multiple articles cover the same event (even if they have different headlines), select ONLY ONE ID to keep. Return a JSON list containing only the unique IDs.\n\n"[cite: 1]
     
     for art in articles:
-        prompt += f"[ID: {art['id']}] Title: {art['title']}\nSnippet: {art['description'][:500]}\n\n"
+        prompt += f"[ID: {art['id']}] Title: {art['title']}\nSnippet: {art['description'][:500]}\n\n"[cite: 1]
         
     for model in eval_models:
         try:
@@ -476,42 +524,42 @@ def semantic_deduplication(articles, eval_models):
                 print(f"[Deduplication] Reduced from {len(articles)} to {len(deduped)} articles using {model}.", flush=True)
                 return deduped if deduped else articles
         except Exception as e:
-            print(f"[Deduplication] Model {model} failed: {e}. Trying next...", flush=True)
+            print(f"[Deduplication] Model {model} failed: {e}. Trying next...", flush=True)[cite: 1]
             
-    print("[Deduplication] All models failed. Returning original list.", flush=True)
-    return articles
+    print("[Deduplication] All models failed. Returning original list.", flush=True)[cite: 1]
+    return articles[cite: 1]
 
 def main():
     global api_keys_list
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    os.makedirs(OUTPUT_DIR, exist_ok=True)[cite: 1]
     
     try:
         with open(STRICT_INTERESTS_FILE, 'r', encoding='utf-8') as f:
-            strict_interests = f.read()
+            strict_interests = f.read()[cite: 1]
         with open(LENIENT_INTERESTS_FILE, 'r', encoding='utf-8') as f:
-            lenient_interests = f.read()
+            lenient_interests = f.read()[cite: 1]
         with open(BROAD_INTERESTS_FILE, 'r', encoding='utf-8') as f:
-            broad_interests = f.read()
+            broad_interests = f.read()[cite: 1]
     except FileNotFoundError as e:
-        print(f"CRITICAL ERROR: Could not find required interests file. {e}")
+        print(f"CRITICAL ERROR: Could not find required interests file. {e}")[cite: 1]
         return
         
-    keys_env = os.environ.get("GEMINI_API_KEY", "")
-    api_keys_list = [k.strip() for k in keys_env.split(',') if k.strip()]
+    keys_env = os.environ.get("GEMINI_API_KEY", "")[cite: 1]
+    api_keys_list = [k.strip() for k in keys_env.split(',') if k.strip()][cite: 1]
     
     if not api_keys_list:
-        raise ValueError("No API keys found in the GEMINI_API_KEY environment variable.")
+        raise ValueError("No API keys found in the GEMINI_API_KEY environment variable.")[cite: 1]
         
-    raw_archive = load_json(ARCHIVE_FILE, {"strict": [], "lenient": [], "google": [], "google_sports": [], "dcrainmaker": [], "the5krunner": [], "grassroots_running": []})
+    raw_archive = load_json(ARCHIVE_FILE, {"strict": [], "lenient": [], "google": [], "google_sports": [], "dcrainmaker": [], "the5krunner": [], "grassroots_running": [], "glasgow_times": []})
     if isinstance(raw_archive, list):
-        archive_data = {"strict": raw_archive, "lenient": [], "google": [], "google_sports": [], "dcrainmaker": [], "the5krunner": [], "grassroots_running": []}
+        archive_data = {"strict": raw_archive, "lenient": [], "google": [], "google_sports": [], "dcrainmaker": [], "the5krunner": [], "grassroots_running": [], "glasgow_times": []}
     else:
         archive_data = raw_archive
-        for key in ["google", "google_sports", "dcrainmaker", "the5krunner", "grassroots_running"]:
+        for key in ["google", "google_sports", "dcrainmaker", "the5krunner", "grassroots_running", "glasgow_times"]:
             if key not in archive_data:
                 archive_data[key] = []
 
-    proxy_db = load_json(PROXY_DB_FILE, {})
+    proxy_db = load_json(PROXY_DB_FILE, {})[cite: 1]
     
     # Initialize DB structural objects
     default_feeds = {
@@ -520,98 +568,102 @@ def main():
         GOOGLE_SPORTS_FEED_ID: {"title": "Google Blog Sports & Health AI Filtered", "link": "https://danielwent.github.io/rss-gemini-filter/Google_Blog_AI_Filtered.xml", "description": "AI Filtered Google Blog Sports, Wearables & Health Metrics."},
         DCRAINMAKER_FEED_ID: {"title": "DC Rainmaker AI Filtered", "link": "https://www.dcrainmaker.com", "description": "AI Filtered DC Rainmaker Sports Tech & Wearable Updates."},
         THE5KRUNNER_FEED_ID: {"title": "The 5k Runner AI Filtered", "link": "https://the5krunner.com", "description": "AI Filtered The 5k Runner Sports Tech Updates."},
-        GRASSROOTS_RUNNING_FEED_ID: {"title": "Grassroots & Niche Running AI Filtered", "link": "https://danielwent.github.io/rss-gemini-filter/Grassroots_Running_AI_Filtered.xml", "description": "AI Filtered Niche, Grassroots, Ultra, and Non-Mainstream Distance Running News."}
-    }
+        GRASSROOTS_RUNNING_FEED_ID: {"title": "Grassroots & Niche Running AI Filtered", "link": "https://danielwent.github.io/rss-gemini-filter/Grassroots_Running_AI_Filtered.xml", "description": "AI Filtered Niche, Grassroots, Ultra, and Non-Mainstream Distance Running News."},
+        GLASGOW_TIMES_FEED_ID: {"title": "Glasgow Times", "link": "https://danielwent.github.io/rss-gemini-filter/Glasgow_Times_AI_Filtered.xml", "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science."}
+    }[cite: 1]
     
     for feed_key, meta in default_feeds.items():
         if feed_key not in proxy_db:
-            proxy_db[feed_key] = {**meta, "articles": []}
+            proxy_db[feed_key] = {**meta, "articles": []}[cite: 1]
 
-    now = datetime.now(timezone.utc)
-    default_threshold = now - timedelta(hours=24)
-    extended_threshold = now - timedelta(days=7)
+    now = datetime.now(timezone.utc)[cite: 1]
+    default_threshold = now - timedelta(hours=24)[cite: 1]
+    extended_threshold = now - timedelta(days=7)[cite: 1]
     
-    to_process_strict = []
-    to_process_lenient = []
+    to_process_strict = [][cite: 1]
+    to_process_lenient = [][cite: 1]
     to_process_grassroots = []
-    to_process_google = []
-    to_process_google_sports = []
-    to_process_dcrainmaker = []
-    to_process_the5krunner = []
-    skipped_count = 0
-    seen_titles_this_run = set()
+    to_process_glasgow_times = []
+    to_process_google = [][cite: 1]
+    to_process_google_sports = [][cite: 1]
+    to_process_dcrainmaker = [][cite: 1]
+    to_process_the5krunner = [][cite: 1]
+    skipped_count = 0[cite: 1]
+    seen_titles_this_run = set()[cite: 1]
 
-    print("--- Starting Feed Fetch ---", flush=True)
+    print("--- Starting Feed Fetch ---", flush=True)[cite: 1]
     
     for feed in FEEDS:
         mode = feed['mode']
         
         if mode in ['dcrainmaker', 'the5krunner']:
-            time_threshold = extended_threshold
+            time_threshold = extended_threshold[cite: 1]
         else:
-            time_threshold = default_threshold
+            time_threshold = default_threshold[cite: 1]
             
-        print(f"Fetching {mode.upper()} feed (Lookback: {7 if mode in ['dcrainmaker', 'the5krunner'] else 1}d): {feed['url']}", flush=True)
+        print(f"Fetching {mode.upper()} feed (Lookback: {7 if mode in ['dcrainmaker', 'the5krunner'] else 1}d): {feed['url']}", flush=True)[cite: 1]
         try:
             req = urllib.request.Request(
                 feed['url'], 
                 headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
-            )
+            )[cite: 1]
             with urllib.request.urlopen(req, timeout=15) as response:
-                raw_rss_data = response.read()
+                raw_rss_data = response.read()[cite: 1]
                 
-            parsed = feedparser.parse(raw_rss_data)
+            parsed = feedparser.parse(raw_rss_data)[cite: 1]
             
         except Exception as e:
-            print(f"ERROR: Failed to fetch or parse RSS feed {feed['url']}. {e}", flush=True)
+            print(f"ERROR: Failed to fetch or parse RSS feed {feed['url']}. {e}", flush=True)[cite: 1]
             continue
             
         for entry in parsed.entries:
             if not is_valid_article_item(entry):
-                skipped_count += 1
+                skipped_count += 1[cite: 1]
                 continue
                 
-            entry_id = str(entry.get('id', entry.get('link', str(time.time()))))
-            entry_title = entry.get('title', '').strip()
+            entry_id = str(entry.get('id', entry.get('link', str(time.time()))))[cite: 1]
+            entry_title = entry.get('title', '').strip()[cite: 1]
             
             if entry_title in seen_titles_this_run:
-                skipped_count += 1
+                skipped_count += 1[cite: 1]
                 continue
             
             if mode in archive_data and (entry_id in archive_data[mode] or entry_title in archive_data[mode]):
-                skipped_count += 1
+                skipped_count += 1[cite: 1]
                 continue
                 
-            seen_titles_this_run.add(entry_title)
+            seen_titles_this_run.add(entry_title)[cite: 1]
                 
-            pub_date = entry.get('published') or entry.get('updated')
+            pub_date = entry.get('published') or entry.get('updated')[cite: 1]
             if pub_date:
                 try:
-                    dt = date_parser.parse(pub_date)
+                    dt = date_parser.parse(pub_date)[cite: 1]
                     if dt.tzinfo is None:
-                        dt = dt.replace(tzinfo=timezone.utc)
+                        dt = dt.replace(tzinfo=timezone.utc)[cite: 1]
                     if dt < time_threshold:
-                        skipped_count += 1
+                        skipped_count += 1[cite: 1]
                         continue
                 except Exception:
                     pass
             
             if mode == 'strict':
-                to_process_strict.append(entry)
+                to_process_strict.append(entry)[cite: 1]
             elif mode == 'lenient':
-                to_process_lenient.append(entry)
+                to_process_lenient.append(entry)[cite: 1]
             elif mode == 'grassroots_running':
                 to_process_grassroots.append(entry)
+            elif mode == 'glasgow_times':
+                to_process_glasgow_times.append(entry)
             elif mode == 'google':
-                to_process_google.append(entry)
+                to_process_google.append(entry)[cite: 1]
             elif mode == 'google_sports':
-                to_process_google_sports.append(entry)
+                to_process_google_sports.append(entry)[cite: 1]
             elif mode == 'dcrainmaker':
-                to_process_dcrainmaker.append(entry)
+                to_process_dcrainmaker.append(entry)[cite: 1]
             elif mode == 'the5krunner':
-                to_process_the5krunner.append(entry)
+                to_process_the5krunner.append(entry)[cite: 1]
                 
-    print(f"Articles skipped (old, evaluated, or media links): {skipped_count}", flush=True)
+    print(f"Articles skipped (old, evaluated, or media links): {skipped_count}", flush=True)[cite: 1]
     
     queues_to_process = [
         {
@@ -641,6 +693,16 @@ def main():
             "interests_text": GRASSROOTS_RUNNING_INTERESTS,
             "archive_key": "grassroots_running",
             "feed_id": GRASSROOTS_RUNNING_FEED_ID,
+            "requires_stage1": False,
+            "stage2_models": STAGE1_MODELS
+        },
+        {
+            "name": "Glasgow Times Queue",
+            "data": to_process_glasgow_times,
+            "template": STRICT_PROMPT_TEMPLATE,
+            "interests_text": GLASGOW_TIMES_INTERESTS,
+            "archive_key": "glasgow_times",
+            "feed_id": GLASGOW_TIMES_FEED_ID,
             "requires_stage1": False,
             "stage2_models": STAGE1_MODELS
         },
@@ -684,129 +746,129 @@ def main():
             "requires_stage1": False,
             "stage2_models": STAGE1_MODELS
         }
-    ]
+    ][cite: 1]
 
     for queue in queues_to_process:
-        to_process = queue["data"]
-        archive_key = queue["archive_key"]
-        feed_id = queue["feed_id"]
-        stage2_models = queue["stage2_models"]
+        to_process = queue["data"][cite: 1]
+        archive_key = queue["archive_key"][cite: 1]
+        feed_id = queue["feed_id"][cite: 1]
+        stage2_models = queue["stage2_models"][cite: 1]
         
         if not to_process:
-            print(f"--- No new articles for {queue['name']} ---", flush=True)
+            print(f"--- No new articles for {queue['name']} ---", flush=True)[cite: 1]
             continue
             
-        passed_stage1 = []
+        passed_stage1 = [][cite: 1]
         
         if queue.get("requires_stage1", True):
-            print(f"--- STAGE 1: Pre-filtering {queue['name']} ({len(to_process)} articles) ---", flush=True)
-            total_s1_batches = math.ceil(len(to_process) / BATCH_SIZE)
+            print(f"--- STAGE 1: Pre-filtering {queue['name']} ({len(to_process)} articles) ---", flush=True)[cite: 1]
+            total_s1_batches = math.ceil(len(to_process) / BATCH_SIZE)[cite: 1]
             
             for i in range(0, len(to_process), BATCH_SIZE):
-                batch = to_process[i:i+BATCH_SIZE]
-                batch_number = (i // BATCH_SIZE) + 1
+                batch = to_process[i:i+BATCH_SIZE][cite: 1]
+                batch_number = (i // BATCH_SIZE) + 1[cite: 1]
                 
                 prompt = BROAD_PROMPT_TEMPLATE.format(
                     batch_len=len(batch), 
                     broad_interests_text=broad_interests
-                )
+                )[cite: 1]
                 
                 for idx, art in enumerate(batch):
-                    link = art.get('link', '')
+                    link = art.get('link', '')[cite: 1]
                     if 'cached_full_text' not in art:
-                        full_text = fetch_full_text(link) if link else ""
-                        art['cached_full_text'] = full_text
+                        full_text = fetch_full_text(link) if link else ""[cite: 1]
+                        art['cached_full_text'] = full_text[cite: 1]
                     else:
-                        full_text = art['cached_full_text']
+                        full_text = art['cached_full_text'][cite: 1]
                         
-                    content = full_text if full_text else art.get('summary', '')
-                    prompt += f"--- Article {idx+1} ---\nTitle: {art.get('title')}\nPublished: {art.get('published', 'Unknown')}\nContent: {content}\n\n"
+                    content = full_text if full_text else art.get('summary', '')[cite: 1]
+                    prompt += f"--- Article {idx+1} ---\nTitle: {art.get('title')}\nPublished: {art.get('published', 'Unknown')}\nContent: {content}\n\n"[cite: 1]
                     
-                evaluations, used_model = evaluate_batch(prompt, len(batch), STAGE1_MODELS, BroadBatchEvaluation)
+                evaluations, used_model = evaluate_batch(prompt, len(batch), STAGE1_MODELS, BroadBatchEvaluation)[cite: 1]
                 
                 if evaluations:
                     for idx, eval_result in enumerate(evaluations):
-                        art = batch[idx]
-                        art_title = art.get('title', '').strip()
+                        art = batch[idx][cite: 1]
+                        art_title = art.get('title', '').strip()[cite: 1]
                         
                         if eval_result.matches_broad_interest:
-                            passed_stage1.append(art)
-                            print(f"  -> [S1 PASS] Title: {art_title} | Reason: {eval_result.reason}", flush=True)
+                            passed_stage1.append(art)[cite: 1]
+                            print(f"  -> [S1 PASS] Title: {art_title} | Reason: {eval_result.reason}", flush=True)[cite: 1]
                         else:
-                            print(f"  -> [S1 REJECT] Title: {art_title} | Reason: {eval_result.reason}", flush=True)
-                            art_id = str(art.get('id', art.get('link')))
+                            print(f"  -> [S1 REJECT] Title: {art_title} | Reason: {eval_result.reason}", flush=True)[cite: 1]
+                            art_id = str(art.get('id', art.get('link')))[cite: 1]
                             if art_id not in archive_data[archive_key]:
-                                archive_data[archive_key].append(art_id)
+                                archive_data[archive_key].append(art_id)[cite: 1]
                             if art_title and art_title not in archive_data[archive_key]:
-                                archive_data[archive_key].append(art_title)
-                    print(f"[Stage 1 - Batch {batch_number}/{total_s1_batches}] Processed via {used_model}.", flush=True)
+                                archive_data[archive_key].append(art_title)[cite: 1]
+                    print(f"[Stage 1 - Batch {batch_number}/{total_s1_batches}] Processed via {used_model}.", flush=True)[cite: 1]
                 else:
-                    print(f"[Stage 1 - Batch {batch_number}/{total_s1_batches}] FAILED. Articles will be skipped and retried next run.", flush=True)
+                    print(f"[Stage 1 - Batch {batch_number}/{total_s1_batches}] FAILED. Articles will be skipped and retried next run.", flush=True)[cite: 1]
         else:
             passed_stage1 = to_process
             for art in passed_stage1:
-                link = art.get('link', '')
+                link = art.get('link', '')[cite: 1]
                 if 'cached_full_text' not in art:
-                    full_text = fetch_full_text(link) if link else ""
-                    art['cached_full_text'] = full_text
+                    full_text = fetch_full_text(link) if link else ""[cite: 1]
+                    art['cached_full_text'] = full_text[cite: 1]
 
         if not passed_stage1:
-            print(f"--- All articles filtered out in Stage 1 for {queue['name']} ---", flush=True)
+            print(f"--- All articles filtered out in Stage 1 for {queue['name']} ---", flush=True)[cite: 1]
             continue
             
-        print(f"--- STAGE 2: Evaluating {queue['name']} ({len(passed_stage1)} articles) ---", flush=True)
-        total_s2_batches = math.ceil(len(passed_stage1) / BATCH_SIZE)
+        print(f"--- STAGE 2: Evaluating {queue['name']} ({len(passed_stage1)} articles) ---", flush=True)[cite: 1]
+        total_s2_batches = math.ceil(len(passed_stage1) / BATCH_SIZE)[cite: 1]
         
         for i in range(0, len(passed_stage1), BATCH_SIZE):
-            batch = passed_stage1[i:i+BATCH_SIZE]
-            batch_number = (i // BATCH_SIZE) + 1
+            batch = passed_stage1[i:i+BATCH_SIZE][cite: 1]
+            batch_number = (i // BATCH_SIZE) + 1[cite: 1]
             
             prompt = queue["template"].format(
                 batch_len=len(batch), 
                 interests_text=queue["interests_text"]
-            )
+            )[cite: 1]
             
             for idx, art in enumerate(batch):
-                full_text = art.get('cached_full_text', '')
-                content = full_text if full_text else art.get('summary', '')
-                prompt += f"--- Article {idx+1} ---\nTitle: {art.get('title')}\nPublished: {art.get('published', 'Unknown')}\nContent: {content}\n\n"
+                full_text = art.get('cached_full_text', '')[cite: 1]
+                content = full_text if full_text else art.get('summary', '')[cite: 1]
+                prompt += f"--- Article {idx+1} ---\nTitle: {art.get('title')}\nPublished: {art.get('published', 'Unknown')}\nContent: {content}\n\n"[cite: 1]
                 
-            evaluations, used_model = evaluate_batch(prompt, len(batch), stage2_models, BatchEvaluation)
+            evaluations, used_model = evaluate_batch(prompt, len(batch), stage2_models, BatchEvaluation)[cite: 1]
             
             if evaluations:
-                included_count = 0
+                included_count = 0[cite: 1]
                 for idx, eval_result in enumerate(evaluations):
-                    art = batch[idx]
-                    art_id = str(art.get('id', art.get('link')))
-                    art_title = art.get('title', '').strip()
+                    art = batch[idx][cite: 1]
+                    art_id = str(art.get('id', art.get('link')))[cite: 1]
+                    art_title = art.get('title', '').strip()[cite: 1]
                     
                     if art_id not in archive_data[archive_key]:
-                        archive_data[archive_key].append(art_id)
+                        archive_data[archive_key].append(art_id)[cite: 1]
                     if art_title and art_title not in archive_data[archive_key]:
-                        archive_data[archive_key].append(art_title)
+                        archive_data[archive_key].append(art_title)[cite: 1]
 
-                    decision_str = "Accepted" if eval_result.is_interesting else "Rejected"
+                    decision_str = "Accepted" if eval_result.is_interesting else "Rejected"[cite: 1]
 
-                    print(f"  -> Title: {art_title}", flush=True)
-                    print(f"     Pass 1 (Reject Match):  {eval_result.triggers_exclusion} | Matched Rule: {eval_result.exclusion_reason}", flush=True)
-                    print(f"     Pass 2 (Include Match): {eval_result.primary_subject_match} | Matched Rule: {eval_result.match_reason}", flush=True)
-                    print(f"     Final Decision: {decision_str}\n", flush=True)
+                    print(f"  -> Title: {art_title}", flush=True)[cite: 1]
+                    print(f"     Pass 1 (Reject Match):  {eval_result.triggers_exclusion} | Matched Rule: {eval_result.exclusion_reason}", flush=True)[cite: 1]
+                    print(f"     Pass 2 (Include Match): {eval_result.primary_subject_match} | Matched Rule: {eval_result.match_reason}", flush=True)[cite: 1]
+                    print(f"     Final Decision: {decision_str}\n", flush=True)[cite: 1]
                     
                     if eval_result.is_interesting:
-                        included_count += 1
+                        included_count += 1[cite: 1]
                         
-                        image_url = ""
+                        image_url = ""[cite: 1]
                         if 'media_thumbnail' in art and art.media_thumbnail:
-                            image_url = art.media_thumbnail[0].get('url', '')
+                            image_url = art.media_thumbnail[0].get('url', '')[cite: 1]
                         elif 'media_content' in art and art.media_content:
-                            image_url = art.media_content[0].get('url', '')
+                            image_url = art.media_content[0].get('url', '')[cite: 1]
                         elif 'links' in art:
                             for link in art.links:
                                 if link.get('rel') == 'enclosure' and 'image' in link.get('type', ''):
-                                    image_url = link.get('href', '')
+                                    image_url = link.get('href', '')[cite: 1]
                                     break
                         
-                        final_description = art.get('summary', art.get('description', ''))
+                        final_description = art.get('summary', art.get('description', ''))[cite: 1]
                         
                         proxy_db[feed_id]['articles'].append({
                             'id': art_id,
@@ -815,45 +877,45 @@ def main():
                             'description': final_description,
                             'published': art.get('published', art.get('updated', '')),
                             'image_url': image_url
-                        })
-                print(f"[Stage 2 - Batch {batch_number}/{total_s2_batches}] Successfully processed via {used_model}. Selected {included_count}/{len(batch)} articles.", flush=True)
+                        })[cite: 1]
+                print(f"[Stage 2 - Batch {batch_number}/{total_s2_batches}] Successfully processed via {used_model}. Selected {included_count}/{len(batch)} articles.", flush=True)[cite: 1]
             else:
-                print(f"[Stage 2 - Batch {batch_number}/{total_s2_batches}] FAILED to process after exhausting all models and keys.", flush=True)
+                print(f"[Stage 2 - Batch {batch_number}/{total_s2_batches}] FAILED to process after exhausting all models and keys.", flush=True)[cite: 1]
             
-    print("--- Sorting & Pruning Database ---", flush=True)
+    print("--- Sorting & Pruning Database ---", flush=True)[cite: 1]
     
     def get_pub_time(article):
-        pub_str = article.get('published', '')
+        pub_str = article.get('published', '')[cite: 1]
         if pub_str:
             try:
-                dt = date_parser.parse(pub_str)
+                dt = date_parser.parse(pub_str)[cite: 1]
                 if dt.tzinfo is None:
-                    dt = dt.replace(tzinfo=timezone.utc)
+                    dt = dt.replace(tzinfo=timezone.utc)[cite: 1]
                 return dt
             except Exception:
                 pass
-        return datetime.min.replace(tzinfo=timezone.utc)
+        return datetime.min.replace(tzinfo=timezone.utc)[cite: 1]
 
     for feed_id, feed_data in proxy_db.items():
-        unique_articles = []
-        seen_titles = set()
+        unique_articles = [][cite: 1]
+        seen_titles = set()[cite: 1]
         for art in feed_data['articles']:
-            title = art.get('title', '').strip()
+            title = art.get('title', '').strip()[cite: 1]
             if title not in seen_titles:
-                seen_titles.add(title)
-                unique_articles.append(art)
+                seen_titles.add(title)[cite: 1]
+                unique_articles.append(art)[cite: 1]
                 
-        dedup_models = STAGE1_MODELS if feed_id in [GOOGLE_FEED_ID, GOOGLE_SPORTS_FEED_ID, DCRAINMAKER_FEED_ID, THE5KRUNNER_FEED_ID, GRASSROOTS_RUNNING_FEED_ID] else STAGE2_MODELS
-        deduped_articles = semantic_deduplication(unique_articles, dedup_models)
+        dedup_models = STAGE1_MODELS if feed_id in [GOOGLE_FEED_ID, GOOGLE_SPORTS_FEED_ID, DCRAINMAKER_FEED_ID, THE5KRUNNER_FEED_ID, GRASSROOTS_RUNNING_FEED_ID, GLASGOW_TIMES_FEED_ID] else STAGE2_MODELS
+        deduped_articles = semantic_deduplication(unique_articles, dedup_models)[cite: 1]
         
-        feed_data['articles'] = deduped_articles
-        feed_data['articles'].sort(key=get_pub_time, reverse=True)
-        feed_data['articles'] = feed_data['articles'][:100]
+        feed_data['articles'] = deduped_articles[cite: 1]
+        feed_data['articles'].sort(key=get_pub_time, reverse=True)[cite: 1]
+        feed_data['articles'] = feed_data['articles'][:100][cite: 1]
 
-    save_json(ARCHIVE_FILE, archive_data)
-    save_json(PROXY_DB_FILE, proxy_db)
+    save_json(ARCHIVE_FILE, archive_data)[cite: 1]
+    save_json(PROXY_DB_FILE, proxy_db)[cite: 1]
     
-    print("--- Generating Final RSS Files ---", flush=True)
+    print("--- Generating Final RSS Files ---", flush=True)[cite: 1]
     
     file_mappings = {
         SINGLE_FEED_ID: "BBC_News_AI_Filtered.xml",
@@ -861,42 +923,43 @@ def main():
         GOOGLE_SPORTS_FEED_ID: "Google_Blog_Sports_Filtered.xml",
         DCRAINMAKER_FEED_ID: "DCRainmaker_AI_Filtered.xml",
         THE5KRUNNER_FEED_ID: "The5KRunner_AI_Filtered.xml",
-        GRASSROOTS_RUNNING_FEED_ID: "Grassroots_Running_AI_Filtered.xml"
-    }
+        GRASSROOTS_RUNNING_FEED_ID: "Grassroots_Running_AI_Filtered.xml",
+        GLASGOW_TIMES_FEED_ID: "Glasgow_Times_AI_Filtered.xml"
+    }[cite: 1]
 
     for feed_id, output_filename in file_mappings.items():
-        feed_data = proxy_db.get(feed_id, {})
+        feed_data = proxy_db.get(feed_id, {})[cite: 1]
         if feed_data:
-            fg = FeedGenerator()
-            fg.id(feed_data['link'])
-            fg.title(feed_data['title']) 
-            fg.link(href=feed_data['link'], rel='alternate')
-            fg.description(feed_data['description']) 
+            fg = FeedGenerator()[cite: 1]
+            fg.id(feed_data['link'])[cite: 1]
+            fg.title(feed_data['title'])[cite: 1]
+            fg.link(href=feed_data['link'], rel='alternate')[cite: 1]
+            fg.description(feed_data['description'])[cite: 1]
             
-            articles = feed_data.get('articles', [])
+            articles = feed_data.get('articles', [])[cite: 1]
             for art in articles:
-                fe = fg.add_entry()
-                fe.id(art['id'])
-                fe.title(art['title'])
-                fe.link(href=art['link'])
-                fe.description(art['description'])
+                fe = fg.add_entry()[cite: 1]
+                fe.id(art['id'])[cite: 1]
+                fe.title(art['title'])[cite: 1]
+                fe.link(href=art['link'])[cite: 1]
+                fe.description(art['description'])[cite: 1]
                 
                 if art.get('image_url'):
-                    fe.enclosure(url=art['image_url'], length='0', type='image/jpeg')
+                    fe.enclosure(url=art['image_url'], length='0', type='image/jpeg')[cite: 1]
                 
                 if art.get('published'):
                     try:
-                        dt = date_parser.parse(art['published'])
+                        dt = date_parser.parse(art['published'])[cite: 1]
                         if dt.tzinfo is None:
-                            dt = dt.replace(tzinfo=timezone.utc)
-                        fe.pubDate(dt)
+                            dt = dt.replace(tzinfo=timezone.utc)[cite: 1]
+                        fe.pubDate(dt)[cite: 1]
                     except Exception:
                         pass
             
-            fg.rss_file(f"{OUTPUT_DIR}/{output_filename}")
-            print(f"Generated {output_filename} with {len(articles)} articles.", flush=True)
+            fg.rss_file(f"{OUTPUT_DIR}/{output_filename}")[cite: 1]
+            print(f"Generated {output_filename} with {len(articles)} articles.", flush=True)[cite: 1]
         
-    print("Run complete.", flush=True)
+    print("Run complete.", flush=True)[cite: 1]
 
 if __name__ == "__main__":
-    main()
+    main()[cite: 1]
