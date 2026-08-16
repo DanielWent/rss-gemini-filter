@@ -2,8 +2,13 @@ name: AI RSS Filter
 
 on:
   schedule:
-     - cron: '14,44 * * * *'
-  workflow_dispatch:      # Allows you to trigger the run manually
+    # Runs every 15 minutes. 
+    # Using an off-peak offset (e.g. 3, 18, 33, 48) rather than 0, 15, 30, 45 
+    # significantly reduces delays caused by high runner contention across GitHub.
+    - cron: '3,18,33,48 * * * *'
+  workflow_dispatch:      # Allows manual execution and external API triggers
+  repository_dispatch:    # Allows triggering from external webhooks
+    types: [rss_filter_trigger]
 
 permissions:
   contents: write
@@ -28,6 +33,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+          cache: 'pip' # Speeds up execution by caching installed wheels
 
       - name: Install Dependencies
         run: pip install -r requirements.txt
