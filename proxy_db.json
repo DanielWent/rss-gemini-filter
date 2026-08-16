@@ -383,5 +383,20 @@
         "image_url": "https://cdn.prod.website-files.com/667e874f45b06e6a2960bd2e/6a6a26cb539fafe75318ca42_c641329bb2daf4f7f1a381d8a8b13270f45c2bf8d74a34a747a609f6a86395ffdbd15edcfdc242068782793e5849c33393d62e699ba03882a27533ae891fa30c55494f3cb19207e29d6b4d9ec40d61cfbbaf4669ce444de7453d14db48e03d9fa70bbe2c.jpeg"
       }
     ]
+  },
+  "glasgow_times_ai_filtered": {
+    "title": "Glasgow Times",
+    "link": "https://danielwent.github.io/rss-gemini-filter/Glasgow_Times_AI_Filtered.xml",
+    "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
+    "articles": [
+      {
+        "id": "3f9b63be1da7259c9d56f593cb8015a7",
+        "title": "Police warn drug dealers in THIS area - 'you should expect a visit'",
+        "link": "https://www.glasgowtimes.co.uk/news/26467611.police-cracking-drug-dealing-east-dunbartonshire/?ref=rss",
+        "description": "Cops in East Dunbartonshire say they are continuing to target drug sales and supply in the area amid a recent crackdown",
+        "published": "Sat, 15 Aug 2026 13:26:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21244705/?type=app&htype=0"
+      }
+    ]
   }
 }
