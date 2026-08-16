@@ -9,6 +9,11 @@ import socket
 import urllib.request
 import urllib.parse
 from datetime import datetime, timedelta, timezone
+try:
+    from zoneinfo import ZoneInfo
+except ImportError:
+    ZoneInfo = None
+
 from dateutil import parser as date_parser
 import feedparser
 from feedgen.feed import FeedGenerator
@@ -28,6 +33,7 @@ CRITERIA_DIR = "criteria"
 BROAD_CRITERIA_FILE = os.path.join(CRITERIA_DIR, "bbc_interests_broad.txt")
 ARCHIVE_FILE = "archive.json"
 PROXY_DB_FILE = "proxy_db.json"
+KEY_USAGE_FILE = "key_usage.json"
 OUTPUT_DIR = "public"
 BATCH_SIZE = 5
 ARCHIVE_TTL_SECONDS = 60 * 86400  # 60 Days Rolling Retention
@@ -181,7 +187,7 @@ OUTPUT_FEEDS = {
     "glasgow_newsletter_candidates": {
         "title": "Glasgow Newsletter Candidates",
         "link": "https://lincoln149.alwaysdata.net/freshrss/",
-        "description": "Candidate articles scoring > 3.0 in Categories A, B, C, or D for the Glasgow weekly digest.",
+        "description": "Candidate articles scoring > 5.0 in Cat A/D or > 3.0 in Cat B/C for the Glasgow weekly digest.",
         "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
         "output_file": "Glasgow_Newsletter_Candidates.xml"
     }
@@ -332,7 +338,12 @@ PIPELINES = [
             "C": os.path.join(CRITERIA_DIR, "newsletter_cat_c.txt"),
             "D": os.path.join(CRITERIA_DIR, "newsletter_cat_d.txt")
         },
-        "score_threshold": 3.0,
+        "category_thresholds": {
+            "A": 5.0,
+            "B": 3.0,
+            "C": 3.0,
+            "D": 5.0
+        },
         "batch_size": 3,
         "lookback_days": 1,
         "models": STAGE1_MODELS
@@ -373,8 +384,17 @@ class DeduplicationResult(BaseModel):
 # =========================================================================
 
 key_states = {}
-current_key_index = 0
 api_keys_list = []
+persistent_key_usage = {}
+
+def get_pacific_date() -> str:
+    """Returns the current date formatted as YYYY-MM-DD in America/Los_Angeles."""
+    if ZoneInfo is not None:
+        try:
+            return datetime.now(ZoneInfo("America/Los_Angeles")).strftime("%Y-%m-%d")
+        except Exception:
+            pass
+    return datetime.now(timezone(timedelta(hours=-7))).strftime("%Y-%m-%d")
 
 def load_json(filepath, default):
     if os.path.exists(filepath):
@@ -393,7 +413,6 @@ def load_text(filepath):
         return f.read()
 
 def clean_article_url(url: str) -> str:
-    """Strips tracking parameters (UTM, Facebook, Google click IDs) to prevent duplicate evaluations."""
     if not url:
         return ""
     parsed = urllib.parse.urlparse(url)
@@ -406,7 +425,6 @@ def clean_article_url(url: str) -> str:
     return urllib.parse.urlunparse((parsed.scheme, parsed.netloc, parsed.path, parsed.params, clean_query, ''))
 
 def load_and_migrate_archive(filepath):
-    """Loads archive and migrates legacy array format to timestamped dictionary."""
     raw = load_json(filepath, {})
     migrated = {}
     now_ts = time.time()
@@ -424,7 +442,6 @@ def load_and_migrate_archive(filepath):
     return migrated
 
 def save_and_prune_archive(filepath, archive_data):
-    """Prunes entries older than ARCHIVE_TTL_SECONDS (60 days) to keep archive.json bounded."""
     cutoff_ts = time.time() - ARCHIVE_TTL_SECONDS
     pruned = {}
     for feed_key, items in archive_data.items():
@@ -432,6 +449,43 @@ def save_and_prune_archive(filepath, archive_data):
             item_id: ts for item_id, ts in items.items() if ts > cutoff_ts
         }
     save_json(filepath, pruned)
+
+def init_key_usage_tracker():
+    """Loads historical key usage from disk and resets records if a new Pacific day has started."""
+    global persistent_key_usage
+    today_pt = get_pacific_date()
+    raw = load_json(KEY_USAGE_FILE, {"date": today_pt, "keys": {}})
+    
+    if raw.get("date") != today_pt:
+        print(f"[Quota Tracker] New Pacific day detected ({today_pt}). Resetting daily RPD counters.", flush=True)
+        persistent_key_usage = {"date": today_pt, "keys": {}}
+        save_json(KEY_USAGE_FILE, persistent_key_usage)
+    else:
+        persistent_key_usage = raw
+
+def record_key_success(key: str, model: str):
+    """Increments the persistent daily counter specifically for this key and model pair."""
+    global persistent_key_usage
+    today_pt = get_pacific_date()
+    if persistent_key_usage.get("date") != today_pt:
+        persistent_key_usage = {"date": today_pt, "keys": {}}
+
+    k_data = persistent_key_usage["keys"].setdefault(key, {})
+    m_data = k_data.setdefault(model, {"daily_requests": 0, "exhausted": False})
+    m_data["daily_requests"] += 1
+    save_json(KEY_USAGE_FILE, persistent_key_usage)
+
+def mark_key_daily_exhausted(key: str, model: str):
+    """Marks key as exhausted ONLY for this specific model on the current Pacific day."""
+    global persistent_key_usage
+    today_pt = get_pacific_date()
+    if persistent_key_usage.get("date") != today_pt:
+        persistent_key_usage = {"date": today_pt, "keys": {}}
+
+    k_data = persistent_key_usage["keys"].setdefault(key, {})
+    m_data = k_data.setdefault(model, {"daily_requests": 0, "exhausted": False})
+    m_data["exhausted"] = True
+    save_json(KEY_USAGE_FILE, persistent_key_usage)
 
 def is_valid_article_item(entry):
     link = entry.get('link', '').lower()
@@ -468,35 +522,50 @@ def fetch_full_text(url):
         return ""
 
 # =========================================================================
-# GEMINI API EXECUTION ENGINE
+# GEMINI API EXECUTION ENGINE (PER-MODEL INDEPENDENT POOL)
 # =========================================================================
 
 def get_available_key(model, estimated_tokens):
-    global current_key_index, key_states, api_keys_list
+    """Picks the least-used non-exhausted key for this specific model."""
+    global key_states, api_keys_list, persistent_key_usage
     limits = MODEL_LIMITS.get(model, {"rpm": 14, "tpm": 240000})
     now = time.time() * 1000 
     minute_ago = now - 60000
 
-    min_wait_time = float('inf')
-    all_exhausted = True
-    num_keys = len(api_keys_list)
-
-    if num_keys == 0:
+    if not api_keys_list:
         return None, None, -1
 
-    for i in range(num_keys):
-        key_idx = (current_key_index + i) % num_keys
-        key = api_keys_list[key_idx]
+    # Populate isolated state dictionary per model-key combination
+    for key in api_keys_list:
         state_id = f"{model}_{key}"
-        
         if state_id not in key_states:
+            persisted_meta = persistent_key_usage.get("keys", {}).get(key, {}).get(model, {})
+            is_exhausted = persisted_meta.get("exhausted", False)
+            daily_reqs = persisted_meta.get("daily_requests", 0)
+            
             key_states[state_id] = {
                 'requests': [], 
                 'tokens': [], 
-                'status': 'active', 
+                'status': 'exhausted' if is_exhausted else 'active', 
                 'cooldown_until': 0, 
-                'consecutive_generic_429s': 0
+                'consecutive_generic_429s': 0,
+                'daily_requests': daily_reqs
             }
+
+    # Sort candidate keys by least daily requests for this model specifically
+    sorted_keys = sorted(
+        api_keys_list,
+        key=lambda k: (
+            key_states[f"{model}_{k}"]['status'] == 'exhausted',
+            key_states[f"{model}_{k}"]['daily_requests']
+        )
+    )
+
+    min_wait_time = float('inf')
+    all_exhausted = True
+
+    for key in sorted_keys:
+        state_id = f"{model}_{key}"
         state = key_states[state_id]
 
         if state['status'] == 'exhausted':
@@ -517,7 +586,6 @@ def get_available_key(model, estimated_tokens):
         current_tpm = sum(t['count'] for t in state['tokens'])
 
         if current_rpm < limits['rpm'] and (current_tpm + estimated_tokens) < limits['tpm']:
-            current_key_index = (key_idx + 1) % num_keys
             return key, state, 0
         else:
             wait = 60000
@@ -566,6 +634,8 @@ def execute_with_retry(model, prompt_text, schema_class):
             
             if response.parsed:
                 state['consecutive_generic_429s'] = 0
+                state['daily_requests'] += 1
+                record_key_success(key, model)
                 return response.parsed
             else:
                 raise Exception("API_EMPTY_RESPONSE")
@@ -573,26 +643,29 @@ def execute_with_retry(model, prompt_text, schema_class):
         except Exception as e:
             error_msg = str(e).lower()
             now_ms = time.time() * 1000
+            key_tag = f"...{key[-4:]}" if len(key) >= 4 else "key"
             
             if "404" in error_msg or "not_found" in error_msg:
                 state['status'] = 'exhausted'
-                print(f"[Model Unavailable] 404 error. Key permanently disabled for model {model}.", flush=True)
+                mark_key_daily_exhausted(key, model)
+                print(f"[Model Unavailable] 404 on model {model} (Key {key_tag}). Disabled for this model only.", flush=True)
                 continue
                 
             if "429" in error_msg or "quota" in error_msg or "resource exhausted" in error_msg:
                 if "perday" in error_msg or ("freetier" in error_msg and "day" in error_msg):
                     state['status'] = 'exhausted'
-                    print(f"[Quota Exhausted] Daily limit reached. Key permanently disabled for model {model}.", flush=True)
+                    mark_key_daily_exhausted(key, model)
+                    print(f"[Quota Exhausted] Daily RPD limit reached for model {model} (Key {key_tag}). Disabled for this model only.", flush=True)
                     continue
                 elif "perminute" in error_msg or "rpm" in error_msg:
                     state['cooldown_until'] = now_ms + 2000
-                    print(f"[Rate Limit] RPM exceeded. Cooldown for 2s on key for model {model}.", flush=True)
+                    print(f"[Rate Limit] RPM exceeded on model {model} (Key {key_tag}). Cooldown 2s.", flush=True)
                     continue
                 else:
                     state['consecutive_generic_429s'] += 1
                     cooldown_ms = min(60000 * state['consecutive_generic_429s'], 300000)
                     state['cooldown_until'] = now_ms + cooldown_ms
-                    print(f"[Rate Limit Hit] Generic 429 on key for model {model}. Cooldown set for {cooldown_ms/1000}s.", flush=True)
+                    print(f"[Rate Limit Hit] Generic 429 on model {model} (Key {key_tag}). Cooldown set for {cooldown_ms/1000}s.", flush=True)
                     time.sleep(5)
                     continue
 
@@ -617,7 +690,7 @@ def evaluate_batch(prompt, expected_count, models_to_try, schema_class):
                 err_msg = str(err)
                 
                 if err_msg == "ALL_KEYS_EXHAUSTED":
-                    print(f"[Fallback] Model {model} is out of quota on all keys. Pivoting to next model.", flush=True)
+                    print(f"[Fallback] All keys exhausted for model {model}. Pivoting to next model in pipeline.", flush=True)
                     break 
                     
                 if "API_SERVER_ERROR" in err_msg or "API_EMPTY_RESPONSE" in err_msg:
@@ -673,10 +746,10 @@ def main():
     if not api_keys_list:
         raise ValueError("No API keys found in the GEMINI_API_KEY environment variable.")
         
+    init_key_usage_tracker()
     archive_data = load_and_migrate_archive(ARCHIVE_FILE)
     proxy_db = load_json(PROXY_DB_FILE, {})
     
-    # Initialize Proxy DB structure and refresh feed metadata
     for feed_id, meta in OUTPUT_FEEDS.items():
         if feed_id not in proxy_db:
             proxy_db[feed_id] = {**meta, "articles": []}
@@ -770,7 +843,12 @@ def main():
                 cat: load_text(path) for cat, path in pipeline["category_files"].items()
             }
             batch_size = pipeline.get("batch_size", 3)
-            threshold = pipeline.get("score_threshold", 3.0)
+            category_thresholds = pipeline.get("category_thresholds", {
+                "A": 5.0,
+                "B": 3.0,
+                "C": 3.0,
+                "D": 5.0
+            })
             scoring_models = pipeline.get("models", STAGE1_MODELS)
             total_batches = math.ceil(len(to_process) / batch_size)
 
@@ -778,7 +856,6 @@ def main():
                 batch = to_process[i:i+batch_size]
                 batch_number = (i // batch_size) + 1
 
-                # Extract full text for accurate scoring
                 for art in batch:
                     link = art.get('clean_link') or art.get('link', '')
                     if 'cached_full_text' not in art:
@@ -816,7 +893,6 @@ def main():
                         art_id = str(art.get('id', art.get('clean_link', art.get('link'))))
                         art_title = art.get('title', '').strip()
 
-                        # Record in archive to prevent re-evaluation
                         archive_set[art_id] = now_ts
                         if art.get('clean_link'):
                             archive_set[art['clean_link']] = now_ts
@@ -824,15 +900,24 @@ def main():
                             archive_set[art_title] = now_ts
 
                         scores = batch_scores[idx]
-                        max_score = max(scores[c]["score"] for c in scores) if scores else 0.0
-                        score_summary = ", ".join([f"{c}: {scores[c]['score']:.1f}" for c in sorted(scores.keys())])
+                        score_summary = ", ".join([
+                            f"{c}: {scores[c]['score']:.1f} (req > {category_thresholds.get(c, 3.0):.1f})" 
+                            for c in sorted(scores.keys())
+                        ])
+
+                        qualifying_categories = [
+                            c for c, data in scores.items()
+                            if data["score"] > category_thresholds.get(c, 3.0)
+                        ]
+                        is_candidate = len(qualifying_categories) > 0
 
                         print(f"  -> Title: {art_title}", flush=True)
-                        print(f"     Scores: [{score_summary}] | Max: {max_score:.1f}", flush=True)
+                        print(f"     Scores: [{score_summary}]", flush=True)
 
-                        if max_score > threshold:
+                        if is_candidate:
                             new_articles_per_feed[target_feed_id] += 1
-                            print(f"     Decision: Candidate Accepted (> {threshold})\n", flush=True)
+                            passed_str = ", ".join(qualifying_categories)
+                            print(f"     Decision: Candidate Accepted (Met threshold in Cat: {passed_str})\n", flush=True)
 
                             image_url = ""
                             if 'media_thumbnail' in art and art.media_thumbnail:
@@ -854,7 +939,7 @@ def main():
                                 'image_url': image_url
                             })
                         else:
-                            print(f"     Decision: Rejected (<= {threshold})\n", flush=True)
+                            print("     Decision: Rejected (Did not meet threshold in any category)\n", flush=True)
 
                     print(f"[Scoring - Batch {batch_number}/{total_batches}] Processed successfully.", flush=True)
                 else:
@@ -1005,7 +1090,6 @@ def main():
                 seen_titles.add(title)
                 unique_articles.append(art)
 
-        # Run deduplication only when new articles were added and more than 1 article exists
         if new_articles_per_feed.get(feed_id, 0) > 0 and len(unique_articles) > 1:
             dedup_models = STAGE1_MODELS if feed_id != "bbc_news_ai_filtered" else STAGE2_MODELS
             deduped_articles = semantic_deduplication(unique_articles, dedup_models)
