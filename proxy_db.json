@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no#0",
+        "title": "Two dead and evacuation under way as fires break out on Greek island",
+        "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+        "description": "Nearly 200 firefighters are trying to keep the two fires on Salamina apart, Greek media report.",
+        "published": "Sun, 16 Aug 2026 16:14:26 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bdc/live/0a2927a0-9987-11f1-a4eb-59b79ff5ff4f.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/sport/athletics/articles/cjejjzg4vqwo#8",
         "title": "Donnelly wins GB's first women's marathon medal at Europeans",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/cjejjzg4vqwo?at_medium=RSS&at_campaign=rss",
