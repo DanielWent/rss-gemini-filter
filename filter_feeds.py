@@ -6,6 +6,7 @@ import json
 import time
 import math
 import socket
+import hashlib
 import urllib.request
 import urllib.parse
 from datetime import datetime, timedelta, timezone
@@ -387,6 +388,10 @@ key_states = {}
 api_keys_list = []
 persistent_key_usage = {}
 
+def get_key_fingerprint(key: str) -> str:
+    """Returns a deterministic 16-character SHA-256 hash to prevent raw secrets from persisting to git."""
+    return hashlib.sha256(key.strip().encode("utf-8")).hexdigest()[:16]
+
 def get_pacific_date() -> str:
     """Returns the current date formatted as YYYY-MM-DD in America/Los_Angeles."""
     if ZoneInfo is not None:
@@ -464,25 +469,27 @@ def init_key_usage_tracker():
         persistent_key_usage = raw
 
 def record_key_success(key: str, model: str):
-    """Increments the persistent daily counter specifically for this key and model pair."""
+    """Increments the persistent daily counter specifically for this key and model pair using hashed fingerprint."""
     global persistent_key_usage
     today_pt = get_pacific_date()
     if persistent_key_usage.get("date") != today_pt:
         persistent_key_usage = {"date": today_pt, "keys": {}}
 
-    k_data = persistent_key_usage["keys"].setdefault(key, {})
+    key_fp = get_key_fingerprint(key)
+    k_data = persistent_key_usage["keys"].setdefault(key_fp, {})
     m_data = k_data.setdefault(model, {"daily_requests": 0, "exhausted": False})
     m_data["daily_requests"] += 1
     save_json(KEY_USAGE_FILE, persistent_key_usage)
 
 def mark_key_daily_exhausted(key: str, model: str):
-    """Marks key as exhausted ONLY for this specific model on the current Pacific day."""
+    """Marks key as exhausted ONLY for this specific model on the current Pacific day using hashed fingerprint."""
     global persistent_key_usage
     today_pt = get_pacific_date()
     if persistent_key_usage.get("date") != today_pt:
         persistent_key_usage = {"date": today_pt, "keys": {}}
 
-    k_data = persistent_key_usage["keys"].setdefault(key, {})
+    key_fp = get_key_fingerprint(key)
+    k_data = persistent_key_usage["keys"].setdefault(key_fp, {})
     m_data = k_data.setdefault(model, {"daily_requests": 0, "exhausted": False})
     m_data["exhausted"] = True
     save_json(KEY_USAGE_FILE, persistent_key_usage)
@@ -526,7 +533,7 @@ def fetch_full_text(url):
 # =========================================================================
 
 def get_available_key(model, estimated_tokens):
-    """Picks the least-used non-exhausted key for this specific model."""
+    """Picks the least-used non-exhausted key for this specific model using hashed fingerprints."""
     global key_states, api_keys_list, persistent_key_usage
     limits = MODEL_LIMITS.get(model, {"rpm": 14, "tpm": 240000})
     now = time.time() * 1000 
@@ -535,11 +542,11 @@ def get_available_key(model, estimated_tokens):
     if not api_keys_list:
         return None, None, -1
 
-    # Populate isolated state dictionary per model-key combination
     for key in api_keys_list:
         state_id = f"{model}_{key}"
         if state_id not in key_states:
-            persisted_meta = persistent_key_usage.get("keys", {}).get(key, {}).get(model, {})
+            key_fp = get_key_fingerprint(key)
+            persisted_meta = persistent_key_usage.get("keys", {}).get(key_fp, {}).get(model, {})
             is_exhausted = persisted_meta.get("exhausted", False)
             daily_reqs = persisted_meta.get("daily_requests", 0)
             
@@ -552,7 +559,6 @@ def get_available_key(model, estimated_tokens):
                 'daily_requests': daily_reqs
             }
 
-    # Sort candidate keys by least daily requests for this model specifically
     sorted_keys = sorted(
         api_keys_list,
         key=lambda k: (
@@ -643,29 +649,29 @@ def execute_with_retry(model, prompt_text, schema_class):
         except Exception as e:
             error_msg = str(e).lower()
             now_ms = time.time() * 1000
-            key_tag = f"...{key[-4:]}" if len(key) >= 4 else "key"
+            key_fp = get_key_fingerprint(key)[:8]
             
             if "404" in error_msg or "not_found" in error_msg:
                 state['status'] = 'exhausted'
                 mark_key_daily_exhausted(key, model)
-                print(f"[Model Unavailable] 404 on model {model} (Key {key_tag}). Disabled for this model only.", flush=True)
+                print(f"[Model Unavailable] 404 on model {model} (Key {key_fp}). Disabled for this model only.", flush=True)
                 continue
                 
             if "429" in error_msg or "quota" in error_msg or "resource exhausted" in error_msg:
                 if "perday" in error_msg or ("freetier" in error_msg and "day" in error_msg):
                     state['status'] = 'exhausted'
                     mark_key_daily_exhausted(key, model)
-                    print(f"[Quota Exhausted] Daily RPD limit reached for model {model} (Key {key_tag}). Disabled for this model only.", flush=True)
+                    print(f"[Quota Exhausted] Daily RPD limit reached for model {model} (Key {key_fp}). Disabled for this model only.", flush=True)
                     continue
                 elif "perminute" in error_msg or "rpm" in error_msg:
                     state['cooldown_until'] = now_ms + 2000
-                    print(f"[Rate Limit] RPM exceeded on model {model} (Key {key_tag}). Cooldown 2s.", flush=True)
+                    print(f"[Rate Limit] RPM exceeded on model {model} (Key {key_fp}). Cooldown 2s.", flush=True)
                     continue
                 else:
                     state['consecutive_generic_429s'] += 1
                     cooldown_ms = min(60000 * state['consecutive_generic_429s'], 300000)
                     state['cooldown_until'] = now_ms + cooldown_ms
-                    print(f"[Rate Limit Hit] Generic 429 on model {model} (Key {key_tag}). Cooldown set for {cooldown_ms/1000}s.", flush=True)
+                    print(f"[Rate Limit Hit] Generic 429 on model {model} (Key {key_fp}). Cooldown set for {cooldown_ms/1000}s.", flush=True)
                     time.sleep(5)
                     continue
 
@@ -952,7 +958,6 @@ def main():
         interests_text = load_text(pipeline["criteria_file"])
         passed_stage1 = []
 
-        # Stage 1 Pre-filtering (Broad Recall)
         if pipeline.get("requires_stage1", False):
             total_s1_batches = math.ceil(len(to_process) / BATCH_SIZE)
             for i in range(0, len(to_process), BATCH_SIZE):
@@ -1002,7 +1007,6 @@ def main():
             print(f"--- All candidate articles rejected in Stage 1 for {pipeline['name']} ---", flush=True)
             continue
 
-        # Stage 2 Evaluation (Precision Matching)
         total_s2_batches = math.ceil(len(passed_stage1) / BATCH_SIZE)
         for i in range(0, len(passed_stage1), BATCH_SIZE):
             batch = passed_stage1[i:i+BATCH_SIZE]
