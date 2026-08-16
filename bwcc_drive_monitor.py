@@ -11,7 +11,6 @@ from google import genai
 from google.genai import types
 from feedgen.feed import FeedGenerator
 
-# Google Drive Target Folders
 ROOT_FOLDER_IDS = [
     "1bxY6FSjJMrfPEGxAiq6fRhC3DGun9Ni5",
     "1Wycq7k8Wsh4bzZLociKkc_tMJmiIGsEX",
@@ -22,8 +21,6 @@ FEED_FILE = "bwcc_feed.xml"
 FEED_TITLE = "Bearsden West Community Council"
 FEED_LINK = "https://drive.google.com/drive/folders/1bxY6FSjJMrfPEGxAiq6fRhC3DGun9Ni5"
 FEED_DESCRIPTION = "Automated AI summaries of Bearsden West Community Council minutes, budgets, and public documents."
-
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
 
 
 class DocumentSummary(BaseModel):
@@ -36,6 +33,16 @@ class DocumentSummary(BaseModel):
     summary_html: str = Field(
         description="Comprehensive summary formatted in clean HTML (using <h3>, <p>, <ul>, <li>, <strong>)."
     )
+
+
+def get_genai_client() -> genai.Client:
+    api_key = (
+        os.environ.get("GEMINI_API_KEY")
+        or os.environ.get("GOOGLE_API_KEY")
+    )
+    if not api_key:
+        raise ValueError("Missing GEMINI_API_KEY or GOOGLE_API_KEY in environment.")
+    return genai.Client(api_key=api_key)
 
 
 def load_archive() -> Dict[str, Any]:
@@ -66,7 +73,6 @@ def scrape_public_drive_folder(folder_id: str) -> List[Dict[str, Any]]:
     soup = BeautifulSoup(resp.text, "html.parser")
     items = []
 
-    # Parse list entry rows
     entries = soup.find_all("div", class_=re.compile(r"flip-entry"))
     if not entries:
         entries = soup.find_all("tr", class_=re.compile(r"flip-entry"))
@@ -79,11 +85,8 @@ def scrape_public_drive_folder(folder_id: str) -> List[Dict[str, Any]]:
         href = link_elem["href"]
         name = link_elem.get_text(strip=True)
 
-        # Detect folders
         folder_match = re.search(r"folders/([a-zA-Z0-9_-]+)", href) or re.search(r"id=([a-zA-Z0-9_-]+)", href)
         is_folder = "folder" in href or "folder" in entry.get("class", [])
-
-        # Detect files
         file_match = re.search(r"file/d/([a-zA-Z0-9_-]+)", href) or re.search(r"id=([a-zA-Z0-9_-]+)", href)
 
         if is_folder and folder_match:
@@ -104,8 +107,8 @@ def scrape_public_drive_folder(folder_id: str) -> List[Dict[str, Any]]:
 
 
 def scan_drive_folders_recursively(folder_ids: List[str]) -> List[Dict[str, Any]]:
-    """Recursively traverse public Google Drive folders and gather all PDF files."""
-    discovered_pdfs = []
+    """Recursively traverse public Google Drive folders and gather all unique PDF files."""
+    discovered_pdfs = {}
     folders_to_scan = list(folder_ids)
     scanned_folders = set()
 
@@ -119,13 +122,14 @@ def scan_drive_folders_recursively(folder_ids: List[str]) -> List[Dict[str, Any]
             items = scrape_public_drive_folder(current_folder)
             for item in items:
                 if item["is_folder"]:
-                    folders_to_scan.append(item["id"])
+                    if item["id"] not in scanned_folders:
+                        folders_to_scan.append(item["id"])
                 elif item["name"].lower().endswith(".pdf"):
-                    discovered_pdfs.append(item)
+                    discovered_pdfs[item["id"]] = item
         except Exception as e:
             print(f"Error scraping folder {current_folder}: {e}")
 
-    return discovered_pdfs
+    return list(discovered_pdfs.values())
 
 
 def download_public_drive_pdf(file_id: str) -> bytes:
@@ -135,7 +139,6 @@ def download_public_drive_pdf(file_id: str) -> bytes:
     resp = session.get(url, allow_redirects=True)
     resp.raise_for_status()
 
-    # Handle confirmation page for larger files
     if "confirm=" not in resp.url and "Google Drive - Virus scan warning" in resp.text:
         match = re.search(r'confirm=([0-9A-Za-z_]+)', resp.text)
         if match:
@@ -147,10 +150,8 @@ def download_public_drive_pdf(file_id: str) -> bytes:
     return resp.content
 
 
-def summarize_pdf_with_gemini(pdf_bytes: bytes, filename: str) -> DocumentSummary:
+def summarize_pdf_with_gemini(client: genai.Client, pdf_bytes: bytes, filename: str) -> DocumentSummary:
     """Analyze PDF content using Google GenAI SDK with structured Pydantic schema."""
-    client = genai.Client(api_key=GEMINI_API_KEY)
-
     prompt = f"""
 You are analyzing a public document from the Bearsden West Community Council ("{filename}").
 
@@ -215,15 +216,13 @@ def update_rss_feed(archive: Dict[str, Any]) -> None:
 
 
 def main():
-    if not GEMINI_API_KEY:
-        raise ValueError("GEMINI_API_KEY or GOOGLE_API_KEY is not configured.")
-
+    client = get_genai_client()
     archive = load_archive()
     print(f"Archive loaded: {len(archive)} items previously processed.")
 
     print("Querying Google Drive folders recursively via public view...")
     all_pdfs = scan_drive_folders_recursively(ROOT_FOLDER_IDS)
-    print(f"Found {len(all_pdfs)} total PDFs across target directories.")
+    print(f"Found {len(all_pdfs)} unique PDF files across target directories.")
 
     new_count = 0
 
@@ -237,7 +236,7 @@ def main():
         print(f"Processing new file: {filename} ({file_id})")
         try:
             pdf_bytes = download_public_drive_pdf(file_id)
-            parsed_summary: DocumentSummary = summarize_pdf_with_gemini(pdf_bytes, filename)
+            parsed_summary: DocumentSummary = summarize_pdf_with_gemini(client, pdf_bytes, filename)
 
             archive[file_id] = {
                 "id": file_id,
@@ -253,7 +252,6 @@ def main():
         except Exception as e:
             print(f"Failed to process {filename}: {e}")
 
-    # Ensure archive and feed files are updated and saved
     if new_count > 0 or not os.path.exists(ARCHIVE_FILE):
         save_archive(archive)
 
