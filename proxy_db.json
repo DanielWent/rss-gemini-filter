@@ -447,10 +447,18 @@
   "glasgow_newsletter_candidates": {
     "title": "Glasgow Newsletter Candidates",
     "link": "https://lincoln149.alwaysdata.net/freshrss/",
-    "description": "Candidate articles scoring > 3.0 in Categories A, B, C, or D for the Glasgow weekly digest.",
+    "description": "Candidate articles scoring > 5.0 in Cat A/D or > 3.0 in Cat B/C for the Glasgow weekly digest.",
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "85a2287dbbafbab69b5a78184de27784",
+        "title": "More than 10,000 attend Govanhill International Festival\u2019s landmark 10th year",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26469099.10-000-attend-govanhill-international-festivals-10th-year/",
+        "description": "More than 10,000 people attended this year\u2019s Govanhill International Festival and Carnival, with 70 events held across 27 venues in Glasgow\u2019s southside.",
+        "published": "Sun, 16 Aug 2026 19:24:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21327200/?type=app&htype=0"
+      },
       {
         "id": "https://www.bbc.co.uk/sport/football/articles/clyjjp0k5rdo#0",
         "title": "Rangers host Celtic in League Cup quarter-finals",
@@ -482,14 +490,6 @@
         "description": "Train travellers are facing disruption as a busy line has been left with ScotRail trains \"unable to run\".",
         "published": "Sun, 16 Aug 2026 14:46:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/19077961/?type=app&htype=0"
-      },
-      {
-        "id": "af3cad4321b3db9f14525dd1e23083a1",
-        "title": "Commuters warned of disruption on busy Glasgow railway line",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26468773.trains-disrupted-glasgow-railway-line-fault/",
-        "description": "Commuters are being warned of disruption on a busy Glasgow railway line this afternoon.",
-        "published": "Sun, 16 Aug 2026 14:35:27 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17589442/?type=app&htype=0"
       },
       {
         "id": "1a67bf7593dd6bc1f3e16c2e1acb4509",
