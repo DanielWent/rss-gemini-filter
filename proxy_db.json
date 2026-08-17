@@ -468,6 +468,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-anti-racism-festival-commemorates-34468170",
+        "title": "Glasgow anti-racism festival commemorates 'Battle of Calder Street' with Pineapple Trophy",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-anti-racism-festival-commemorates-34468170",
+        "description": "The two-week southside festival was in its tenth year and celebrated the 2001 protests which saved the Govanhill Baths",
+        "published": "Mon, 17 Aug 2026 08:34:25 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34468155.ece/ALTERNATES/s98/0_Govanhill-Street-Music-Festival-photo-by-Eoin-Carey-2jpeg.jpg"
+      },
+      {
+        "id": "a3a5426401c6f42bec371b40428a7afb",
+        "title": "Citizens Advice Scotland awarded over \u00a32m funding boost to tackle child poverty",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26469426.citizens-advice-scotland-awarded-2-7m-funding-support-families/",
+        "description": "Citizens Advice Scotland has been awarded \u00a32.7 million in new funding to support vulnerable families and tackle child poverty across the country.",
+        "published": "Mon, 17 Aug 2026 09:06:40 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20936477/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=525264",
         "title": "Girl, 10, in life-threatening condition and two women seriously injured after South Lanarkshire crash",
         "link": "https://news.stv.tv/west-central/girl-10-in-life-threatening-condition-and-two-women-seriously-injured-after-south-lanarkshire-crash",
