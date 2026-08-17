@@ -476,6 +476,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "80f55f0da65a370cd07f8e435eb2162a",
+        "title": "Armed cops race to shop after staff 'threatened with blade'",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26472398.armed-cops-called-robbery-east-kilbride-store/",
+        "description": "Armed cops raced to a shop in East Kilbride after workers were threatened with a bladed weapon.",
+        "published": "Mon, 17 Aug 2026 18:59:25 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18931384/?type=app&htype=0"
+      },
+      {
         "id": "35f08b2a2bb486e5a845c8341fa7bcea",
         "title": "Man rushed to hospital after 'disturbance' in Glasgow's East End",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26472363.man-rushed-hospital-disturbance-glasgow/",
