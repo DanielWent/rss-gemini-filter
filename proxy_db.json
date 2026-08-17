@@ -476,6 +476,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "2836b5a8def74a5d2bad3b2403b9bae4",
+        "title": "Satellite technology brings broadband to remote Scottish railway route",
+        "link": "https://www.heraldscotland.com/news/26472354.satellite-technology-brings-broadband-remote-scottish-railway-route/",
+        "description": "Passengers travelling on one of Scotland\u2019s most scenic and remote rail routes are set to\u00a0benefit\u00a0from reliable broadband connectivity\u00a0thanks to a new\u00a0satellite\u00a0communications trial backed by the UK Government.",
+        "published": "Tue, 18 Aug 2026 00:03:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20169677/?type=app&htype=0"
+      },
+      {
+        "id": "0b6eee88a538d6daac56894780ea79f9",
+        "title": "'Tone deaf': Fringe chief brands city council 'farcical' over new funding snub",
+        "link": "https://www.heraldscotland.com/news/26471053.fringe-chief-attacks-farcical-council-visitor-levy-funding-snub/",
+        "description": "Tony Lankester has suggested a 'loophole' was used to shut down a debate on future support for Edinburgh's festivals.",
+        "published": "Tue, 18 Aug 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19375175/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c98v031640vo#0",
         "title": "Erin survived cancer aged 21 - now it's a race against time for a chance of a baby",
         "link": "https://www.bbc.co.uk/news/articles/c98v031640vo?at_medium=RSS&at_campaign=rss",
