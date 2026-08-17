@@ -468,20 +468,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "803e41826a6d1c57eb68e1a3f09081bd",
+        "title": "Man dies at scene of early morning crash as police close off road",
+        "link": "https://www.glasgowtimes.co.uk/news/26470718.driver-dies-scene-crash-road-strathaven-closed/",
+        "description": "A man has been pronounced dead at the scene of a one-car crash on the A726",
+        "published": "Mon, 17 Aug 2026 12:54:10 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19544682/?type=app&htype=0"
+      },
+      {
+        "id": "9214784f4b91125d7e9c38247bb3b3b5",
+        "title": "New guide launched as beaver populations grow and spread across Scotland",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26470678.scottish-communities-urged-learn-growing-beaver-population/",
+        "description": "Communities across Scotland are being encouraged to learn more about beavers as the population continues to grow.",
+        "published": "Mon, 17 Aug 2026 12:46:57 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21329800/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c3ekq3dkd9yo#0",
         "title": "Police investigating deaths of two men found injured in Glasgow",
         "link": "https://www.bbc.co.uk/news/articles/c3ekq3dkd9yo?at_medium=RSS&at_campaign=rss",
         "description": "The men were pronounced dead at the scene in Partick and their deaths are being treated as unexplained.",
         "published": "Mon, 17 Aug 2026 11:34:44 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b338/live/c669ed80-9a2e-11f1-90d9-9d833c0912f2.jpg"
-      },
-      {
-        "id": "9c60f735da3a7eb4ba5ecc045731b7d8",
-        "title": "LIVE updates after two men found dead in Glasgow home as scene locked down",
-        "link": "https://www.glasgowtimes.co.uk/news/26470434.live-two-dead-home-glasgows-chancellor-street/",
-        "description": "A major investigation has been launched after two men have died in a home in Glasgow after being found seriously injured.",
-        "published": "Mon, 17 Aug 2026 12:00:34 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18736630/?type=app&htype=0"
       },
       {
         "id": "c0159c6ffc8c4b1b3bfc2adc4d41c8b7",
