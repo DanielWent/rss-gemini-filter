@@ -460,6 +460,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-hit-run-cases-treble-34468649",
+        "title": "Glasgow hit and run cases treble in four years amid worrying surge",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-hit-run-cases-treble-34468649",
+        "description": "&quot;Its a perfect storm here.&quot;",
+        "published": "Mon, 17 Aug 2026 06:42:23 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34468646.ece/ALTERNATES/s98/0_JS413638200.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/urgent-search-paisley-teen-who-34468558",
+        "title": "Urgent search for Paisley teen who vanished last week as concern grows",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/urgent-search-paisley-teen-who-34468558",
+        "description": "Thomas Smith was last seen in the Fountain Gardens area of Paisley around 1.30pm on Saturday, August 15.",
+        "published": "Mon, 17 Aug 2026 06:14:21 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34468560.ece/ALTERNATES/s98/0_967f6496-799d-41b0-bab4-f0b2c333461c.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-says-damp-mouldy-34467942",
         "title": "Glasgow mum says damp and mouldy flat forced her to move son out for his health",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-says-damp-mouldy-34467942",
@@ -474,6 +490,38 @@
         "description": "Road marking improvements on the M80 near Glasgow will result in the road closing for ten nights, starting later this month.",
         "published": "Mon, 17 Aug 2026 05:27:37 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34467169.ece/ALTERNATES/s98/0_Screenshot-2026-08-16-142820.png"
+      },
+      {
+        "id": "3f4275ee14375f7f198ef11bcec9d13f",
+        "title": "Man torched truck with driver sleeping inside",
+        "link": "https://www.glasgowtimes.co.uk/news/26466078.man-torched-truck-driver-sleeping-inside/",
+        "description": "A man who torched a car transporter with the driver sleeping in the truck has been jailed for more than five years.",
+        "published": "Mon, 17 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21143062/?type=app&htype=0"
+      },
+      {
+        "id": "00f9083982479a4c371239c32ca1b607",
+        "title": "Business supporting hundreds of Scottish artists might just be Glasgow's Favourite",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26466490.scottish-design-exchange-running-glasgows-favourite-business/",
+        "description": "A social enterprise that supports hundreds of Scottish artists and designers is up for a top award.",
+        "published": "Mon, 17 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21322633/?type=app&htype=0"
+      },
+      {
+        "id": "f766e936b80f1a0f008546ce92d40ef5",
+        "title": "\u2018I felt gutted\u2019- How can Peter Murrell get legal aid and I can't?",
+        "link": "https://www.glasgowtimes.co.uk/news/26465166.peter-murrell-got-legal-aid-cant-afford-bill/",
+        "description": "A man who is struggling to pay a four-figure sum lawyers bill is outraged that Peter Murrell was granted legal aid.",
+        "published": "Mon, 17 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21320652/?type=app&htype=0"
+      },
+      {
+        "id": "d1237fc300231e43f8664d944430b9e6",
+        "title": "Locals left 'petrified' over string of violent attacks in city centre",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26465901.locals-frightened-go-out-sauchiehall-street-attacks/",
+        "description": "Locals have been left \"petrified\" following a string of violent attacks on a Glasgow city centre street.",
+        "published": "Mon, 17 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20069194/?type=app&htype=0"
       },
       {
         "id": "d594a76298f8004496f1f90f6bc0d428",
