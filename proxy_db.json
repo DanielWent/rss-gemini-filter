@@ -476,6 +476,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "35f08b2a2bb486e5a845c8341fa7bcea",
+        "title": "Man rushed to hospital after 'disturbance' in Glasgow's East End",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26472363.man-rushed-hospital-disturbance-glasgow/",
+        "description": "A man was rushed to hospital following a \u2018disturbance\u2019 in the East End of Glasgow.",
+        "published": "Mon, 17 Aug 2026 18:10:30 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17424835/?type=app&htype=0"
+      },
+      {
         "id": "b909ae341438307b0b1b7e070b584b14",
         "title": "Hit TV show's festive specials filmed in Glasgow CANCELLED",
         "link": "https://www.glasgowtimes.co.uk/entertainment/tv_radio/26472309.mrs-browns-boys-christmas-new-years-specials-cancelled/",
