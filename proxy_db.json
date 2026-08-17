@@ -468,6 +468,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "2555be22eb0e391c1c0954bf4233cc40",
+        "title": "Update on Lewis Capaldi's plans to upgrade mansion near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26470208.update-lewis-capaldis-plans-upgrade-east-renfrewshire-mansion/",
+        "description": "An update has been issued on Lewis Capaldi's plans to upgrade his East Renfrewshire mansion.",
+        "published": "Mon, 17 Aug 2026 11:27:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21329024/?type=app&htype=0"
+      },
+      {
+        "id": "07cbf2ee906505cc711bd53a5b68e828",
+        "title": "Over 36,000 people flock to Glasgow construction event aimed at inspiring youngsters",
+        "link": "https://www.glasgowtimes.co.uk/news/26470156.thousands-families-attended-construction-event-glasgow/",
+        "description": "More than 36,000 people attended a family construction event at Glasgow\u2019s Riverside Museum.",
+        "published": "Mon, 17 Aug 2026 11:19:11 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21328987/?type=app&htype=0"
+      },
+      {
         "id": "41d674f62776b0047ecb40a5e06f72f2",
         "title": "Gas works to impact busy town centre road for THREE months",
         "link": "https://www.glasgowtimes.co.uk/news/26469847.gas-works-impact-wellhall-road-hamilton-3months/",
@@ -524,14 +540,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21328385/?type=app&htype=0"
       },
       {
-        "id": "a7c7348049516c21cb913e359917f751",
-        "title": "\u201cFor some it won\u2019t be good news\u201d Big pay and grading shake-up for Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/26469616.huge-shake-up-glasgow-city-council-staff-pay-new-deal/",
-        "description": "A new pay and grading structure to bring closure to the equal pay issue that has plagued Glasgow City Council is being put forward this week.",
-        "published": "Mon, 17 Aug 2026 09:46:37 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17142593/?type=app&htype=0"
-      },
-      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-anti-racism-festival-commemorates-34468170",
         "title": "Glasgow anti-racism festival commemorates 'Battle of Calder Street' with Pineapple Trophy",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-anti-racism-festival-commemorates-34468170",
@@ -554,14 +562,6 @@
         "description": "Citizens Advice Scotland has been awarded \u00a32.7 million in new funding to support vulnerable families and tackle child poverty across the country.",
         "published": "Mon, 17 Aug 2026 09:06:40 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20936477/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=525264",
-        "title": "Girl, 10, in life-threatening condition and two women seriously injured after South Lanarkshire crash",
-        "link": "https://news.stv.tv/west-central/girl-10-in-life-threatening-condition-and-two-women-seriously-injured-after-south-lanarkshire-crash",
-        "description": "Emergency services were called after reports of a collision involving a Volkswagen Golf on the A721 in Carnwarth",
-        "published": "Mon, 17 Aug 2026 07:23:31 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2022/08/4ee67454c1e8ba47d2b9a86be7c3525e-1659730715.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-dad-taking-legal-action-34468201",
@@ -594,14 +594,6 @@
         "description": "Thomas Smith was last seen in the Fountain Gardens area of Paisley around 1.30pm on Saturday, August 15.",
         "published": "Mon, 17 Aug 2026 06:14:21 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34468560.ece/ALTERNATES/s98/0_967f6496-799d-41b0-bab4-f0b2c333461c.jpg"
-      },
-      {
-        "id": "12feeab5a76f9f2a6be1af82162ec9ac",
-        "title": "Nominations close in contest to be Scottish Labour\u2019s new leader",
-        "link": "https://www.heraldscotland.com/news/26469228.nominations-close-contest-scottish-labours-new-leader/",
-        "description": "The contest was called after Anas Sarwar stepped down last month",
-        "published": "Mon, 17 Aug 2026 07:03:26 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21327469/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-says-damp-mouldy-34467942",
@@ -682,14 +674,6 @@
         "description": "The former Monaco head coach was described by the SFA as &quot;one of Europe's brightest and most sought-after coaches&quot;.",
         "published": "Sun, 16 Aug 2026 18:28:04 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34468113.ece/ALTERNATES/s98/0_Screenshot-2026-08-16-at-191056.png"
-      },
-      {
-        "id": "85a2287dbbafbab69b5a78184de27784",
-        "title": "More than 10,000 attend Govanhill International Festival\u2019s landmark 10th year",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26469099.10-000-attend-govanhill-international-festivals-10th-year/",
-        "description": "More than 10,000 people attended this year\u2019s Govanhill International Festival and Carnival, with 70 events held across 27 venues in Glasgow\u2019s southside.",
-        "published": "Sun, 16 Aug 2026 19:24:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21327200/?type=app&htype=0"
       },
       {
         "id": "https://www.bbc.co.uk/sport/football/articles/clyjjp0k5rdo#0",
