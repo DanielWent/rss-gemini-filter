@@ -468,6 +468,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/much-loved-glasgow-bar-reopens-34471213",
+        "title": "Much-loved Glasgow bar reopens with new look after short closure",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/much-loved-glasgow-bar-reopens-34471213",
+        "description": "The team at the Deoch an Dorus in Partick say they are excited for people to see the changes.",
+        "published": "Mon, 17 Aug 2026 12:02:13 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34471189.ece/ALTERNATES/s98/0_Deoch.png"
+      },
+      {
         "id": "803e41826a6d1c57eb68e1a3f09081bd",
         "title": "Man dies at scene of early morning crash as police close off road",
         "link": "https://www.glasgowtimes.co.uk/news/26470718.driver-dies-scene-crash-road-strathaven-closed/",
@@ -498,6 +506,14 @@
         "description": "A woman has been arrested as the hunt continues for the suspect in the attempted murder of two police officers in Larkhall.",
         "published": "Mon, 17 Aug 2026 11:33:44 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19544682/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/ckgdej0xxgyo#0",
+        "title": "Drugs, violence and racism: A week in Glasgow city centre",
+        "link": "https://www.bbc.co.uk/news/articles/ckgdej0xxgyo?at_medium=RSS&at_campaign=rss",
+        "description": "A BBC investigation captures people openly dealing and taking drugs, as well as thefts, arrests, and violence.",
+        "published": "Mon, 17 Aug 2026 05:03:50 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/427a/live/d941ff40-99fe-11f1-870d-5d08c49babb2.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
