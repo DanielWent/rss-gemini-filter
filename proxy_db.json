@@ -468,12 +468,52 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "41d674f62776b0047ecb40a5e06f72f2",
+        "title": "Gas works to impact busy town centre road for THREE months",
+        "link": "https://www.glasgowtimes.co.uk/news/26469847.gas-works-impact-wellhall-road-hamilton-3months/",
+        "description": "Gas works are set to impact traffic on a busy town centre road for three months",
+        "published": "Mon, 17 Aug 2026 10:27:07 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13951087/?type=app&htype=0"
+      },
+      {
+        "id": "646cc5915f5525e5db466ee53801f0f8",
+        "title": "Cumbernauld mum 'fighting for life' backs new kidney transplant scheme",
+        "link": "https://www.glasgowtimes.co.uk/news/26469845.cumbernauld-mum-backing-new-uk-wide-blood-matching-programme/",
+        "description": "A Cumbernauld mum is highlighting a new UK-wide blood matching programme which could reduce transplant waiting times.",
+        "published": "Mon, 17 Aug 2026 10:26:39 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21328580/?type=app&htype=0"
+      },
+      {
+        "id": "b957a24d86120729bdd3b87e612e7540",
+        "title": "Scotstoun driver smashed into motorcyclist and left him with broken back",
+        "link": "https://www.glasgowtimes.co.uk/news/26469844.sctostoun-driver-left-motorcyclist-broken-back-crash/",
+        "description": "A woman who put a man in hospital after crashing into his motorbike has been fined \u00a31040.",
+        "published": "Mon, 17 Aug 2026 10:26:38 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21328558/?type=app&htype=0"
+      },
+      {
+        "id": "c41b679a6a20b12fcd3d06f9fd7cc647",
+        "title": "Monica Lennon fails to secure nominations for Scottish Labour leadership contest",
+        "link": "https://www.heraldscotland.com/news/26469627.monica-lennon-scottish-labour-leadership-contest/",
+        "description": "Monica Lennon has failed to secure the nominations for Scottish Labour leader, leaving a two-way contest between Michael Marra and Joe Fagan.",
+        "published": "Mon, 17 Aug 2026 10:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21310048/?type=app&htype=0"
+      },
+      {
         "id": "802468aeaa8da88d1ffe4936fa943bb4",
         "title": "Soft play centre in Glasgow closes as it teases 'exciting transformation'",
         "link": "https://www.glasgowtimes.co.uk/news/26469680.glasgow-soft-play-closes-teases-exciting-plans/",
         "description": "A soft play centre in Glasgow has closed its doors as owners tease an 'exciting transformation' ahead",
         "published": "Mon, 17 Aug 2026 09:56:33 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19820975/?type=app&htype=0"
+      },
+      {
+        "id": "b65cc5d4d7e0940d2e38183d349e8f79",
+        "title": "Thousands of Glasgow City Council staff face pay cut under new equal pay deal",
+        "link": "https://www.heraldscotland.com/news/26469669.glasgow-city-council-equal-pay-deal-1-000-staff-face-wage-cut/",
+        "description": "Glasgow City Council's long-awaited equal pay settlement will see 63% of staff gain, but more than 1,000 workers face wage cuts from October 2027.",
+        "published": "Mon, 17 Aug 2026 09:54:07 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/8854109/?type=app&htype=0"
       },
       {
         "id": "2709a2f8f3f59f83be911f63cbbfcede",
@@ -498,6 +538,14 @@
         "description": "The two-week southside festival was in its tenth year and celebrated the 2001 protests which saved the Govanhill Baths",
         "published": "Mon, 17 Aug 2026 08:34:25 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34468155.ece/ALTERNATES/s98/0_Govanhill-Street-Music-Festival-photo-by-Eoin-Carey-2jpeg.jpg"
+      },
+      {
+        "id": "78e0a83b334e9a9da9ca813069822438",
+        "title": "10-year-old airlifted to hospital with life-threatening injuries after crash",
+        "link": "https://www.heraldscotland.com/news/26469546.10-year-old-airlifted-hospital-carnwath-crash/",
+        "description": "The 10-year-old girl, who was a back-seat passenger, was flown by air ambulance to the Queen Elizabeth University Hospital",
+        "published": "Mon, 17 Aug 2026 09:31:59 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/16428914/?type=app&htype=0"
       },
       {
         "id": "a3a5426401c6f42bec371b40428a7afb",
