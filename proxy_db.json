@@ -476,6 +476,54 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "b909ae341438307b0b1b7e070b584b14",
+        "title": "Hit TV show's festive specials filmed in Glasgow CANCELLED",
+        "link": "https://www.glasgowtimes.co.uk/entertainment/tv_radio/26472309.mrs-browns-boys-christmas-new-years-specials-cancelled/",
+        "description": "Mrs Brown\u2019s Boys Christmas and New Year\u2019s specials CANCELLED",
+        "published": "Mon, 17 Aug 2026 17:36:07 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21332492/?type=app&htype=0"
+      },
+      {
+        "id": "3974f43bfffacbb5d9ad97eb795bd537",
+        "title": "Glasgow firm falls into administration with all jobs at risk",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26472193.dj-mackay-partners-llp-glasgow-falls-administration/",
+        "description": "DJ Mackay &amp; Partners LLP in Glasgow falls into administration",
+        "published": "Mon, 17 Aug 2026 17:08:17 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21332401/?type=app&htype=0"
+      },
+      {
+        "id": "f4d36454f82cec19c585ae73d9e5bb00",
+        "title": "Over 36,000 flock to Glasgow construction event aimed at inspiring next generation",
+        "link": "https://www.heraldscotland.com/news/26472068.construction-event-attracts-36-000-visitors-glasgow/",
+        "description": "More than 36,000 people attended a hands-on construction event at Glasgow's Riverside Museum designed to inspire future careers.",
+        "published": "Mon, 17 Aug 2026 17:08:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21332234/?type=app&htype=0"
+      },
+      {
+        "id": "7de5bff35358c25fd01af410a0cd0d90",
+        "title": "New Greenock port facility to strengthen Scotland's agricultural supply chain",
+        "link": "https://www.heraldscotland.com/news/26471897.new-greenock-port-facility-set-boost-scottish-agriculture/",
+        "description": "Agricultural supply chain giant ADM is expanding in Scotland with new storage and berthing capacity at the Port of Greenock.",
+        "published": "Mon, 17 Aug 2026 16:29:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21331885/?type=app&htype=0"
+      },
+      {
+        "id": "1c7840ad3b0ef31d3e1e13f86810a71c",
+        "title": "New William Wallace hip hop musical will come close to 'making him a baddie'",
+        "link": "https://www.heraldscotland.com/news/26471962.william-wallace-musical-go-very-close-tearing-down/",
+        "description": "Forthcoming production is billed as a show which 'rips into Scotland\u2019s most famous legend'",
+        "published": "Mon, 17 Aug 2026 16:27:07 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21332022/?type=app&htype=0"
+      },
+      {
+        "id": "431b548a6ba26bbe20f76f20c6fee5cb",
+        "title": "Councillors strike down proposal requiring authorisation for protests in capital",
+        "link": "https://www.heraldscotland.com/news/26471684.edinburgh-councillors-vote-plan-regulate-public-protests/",
+        "description": "Councillors on the Culture and Communities Committee voted to strike out the provisions relating to \u201cunauthorised political activities\u201d and \u201cbegging\u201d.",
+        "published": "Mon, 17 Aug 2026 16:15:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20032757/?type=app&htype=0"
+      },
+      {
         "id": "055e94cd92934cc457e3ba7862462b2b",
         "title": "Man dies after being found 'seriously injured' under bridge in Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26471830.man-dies-found-seriously-injured-glasgow/",
