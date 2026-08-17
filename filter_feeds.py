@@ -179,6 +179,20 @@ OUTPUT_FEEDS = {
         "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
         "output_file": "Glasgow_Times_AI_Filtered.xml"
     },
+    "glasgow_live_ai_filtered": {
+        "title": "Glasgow Live",
+        "link": "https://www.glasgowlive.co.uk",
+        "description": "AI Filtered Glasgow Live Local News, Running, Education, and Science.",
+        "icon_url": "https://www.glasgowlive.co.uk/favicon.ico",
+        "output_file": "Glasgow_Live_AI_Filtered.xml"
+    },
+    "glasgow_world_ai_filtered": {
+        "title": "Glasgow World",
+        "link": "https://www.glasgowworld.com",
+        "description": "AI Filtered Glasgow World Local News, Running, Education, and Science.",
+        "icon_url": "https://www.glasgowworld.com/favicon.ico",
+        "output_file": "Glasgow_World_AI_Filtered.xml"
+    },
     "runabc_scotland_ai_filtered": {
         "title": "runABC Scotland News",
         "link": "https://runabc.co.uk",
@@ -247,10 +261,40 @@ PIPELINES = [
             "https://www.glasgowtimes.co.uk/news/glasgow-crime/rss/",
             "https://www.glasgowtimes.co.uk/your-area/rss/"
         ],
-        "criteria_file": os.path.join(CRITERIA_DIR, "glasgow_times.txt"),
+        "criteria_file": os.path.join(CRITERIA_DIR, "local_news.txt"),
         "template": STRICT_PROMPT_TEMPLATE,
         "requires_stage1": False,
         "lookback_days": 1,
+        "stage2_models": STAGE1_MODELS
+    },
+    {
+        "name": "Glasgow Live Queue",
+        "type": "two_pass",
+        "archive_key": "glasgow_live",
+        "target_feed_id": "glasgow_live_ai_filtered",
+        "urls": [
+            "https://www.glasgowlive.co.uk/news/?service=rss"
+        ],
+        "criteria_file": os.path.join(CRITERIA_DIR, "local_news.txt"),
+        "template": STRICT_PROMPT_TEMPLATE,
+        "requires_stage1": False,
+        "lookback_days": 1,
+        "batch_size": 3,
+        "stage2_models": STAGE1_MODELS
+    },
+    {
+        "name": "Glasgow World Queue",
+        "type": "two_pass",
+        "archive_key": "glasgow_world",
+        "target_feed_id": "glasgow_world_ai_filtered",
+        "urls": [
+            "https://www.glasgowworld.com/rss"
+        ],
+        "criteria_file": os.path.join(CRITERIA_DIR, "local_news.txt"),
+        "template": STRICT_PROMPT_TEMPLATE,
+        "requires_stage1": False,
+        "lookback_days": 1,
+        "batch_size": 3,
         "stage2_models": STAGE1_MODELS
     },
     {
@@ -334,7 +378,8 @@ PIPELINES = [
             "https://www.glasgowtimes.co.uk/entertainment/rss/",
             "https://www.heraldscotland.com/news/homenews/rss/",
             "https://glasgow-live-rss-proxy.daniel-went.workers.dev/",
-            "https://runabc.co.uk/feeds/scotland-news"
+            "https://runabc.co.uk/feeds/scotland-news",
+            "https://www.glasgowworld.com/rss"
         ],
         "category_files": {
             "A": os.path.join(CRITERIA_DIR, "newsletter_cat_a.txt"),
@@ -1061,13 +1106,14 @@ def main():
         # EXECUTION PATH B: STANDARD TWO-PASS FILTERING PIPELINES
         # =========================================================================
         interests_text = load_text(pipeline["criteria_file"])
+        batch_size = pipeline.get("batch_size", BATCH_SIZE)
         passed_stage1 = []
 
         if pipeline.get("requires_stage1", False):
-            total_s1_batches = math.ceil(len(to_process) / BATCH_SIZE)
-            for i in range(0, len(to_process), BATCH_SIZE):
-                batch = to_process[i:i+BATCH_SIZE]
-                batch_number = (i // BATCH_SIZE) + 1
+            total_s1_batches = math.ceil(len(to_process) / batch_size)
+            for i in range(0, len(to_process), batch_size):
+                batch = to_process[i:i+batch_size]
+                batch_number = (i // batch_size) + 1
 
                 prompt = BROAD_PROMPT_TEMPLATE.format(
                     batch_len=len(batch), 
@@ -1118,10 +1164,10 @@ def main():
             print(f"--- All candidate articles rejected in Stage 1 for {pipeline['name']} ---", flush=True)
             continue
 
-        total_s2_batches = math.ceil(len(passed_stage1) / BATCH_SIZE)
-        for i in range(0, len(passed_stage1), BATCH_SIZE):
-            batch = passed_stage1[i:i+BATCH_SIZE]
-            batch_number = (i // BATCH_SIZE) + 1
+        total_s2_batches = math.ceil(len(passed_stage1) / batch_size)
+        for i in range(0, len(passed_stage1), batch_size):
+            batch = passed_stage1[i:i+batch_size]
+            batch_number = (i // batch_size) + 1
 
             prompt = pipeline["template"].format(
                 batch_len=len(batch), 
