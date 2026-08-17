@@ -468,6 +468,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "802468aeaa8da88d1ffe4936fa943bb4",
+        "title": "Soft play centre in Glasgow closes as it teases 'exciting transformation'",
+        "link": "https://www.glasgowtimes.co.uk/news/26469680.glasgow-soft-play-closes-teases-exciting-plans/",
+        "description": "A soft play centre in Glasgow has closed its doors as owners tease an 'exciting transformation' ahead",
+        "published": "Mon, 17 Aug 2026 09:56:33 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19820975/?type=app&htype=0"
+      },
+      {
+        "id": "2709a2f8f3f59f83be911f63cbbfcede",
+        "title": "Mum says children 'lucky to be alive' after thug torched cars outside home",
+        "link": "https://www.glasgowtimes.co.uk/news/26469625.children-lucky-alive-thug-torched-cars-chapelhall/",
+        "description": "A traumatised mum who was the victim of four separate car fire attacks says her children are lucky to be alive.",
+        "published": "Mon, 17 Aug 2026 09:48:05 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21328385/?type=app&htype=0"
+      },
+      {
+        "id": "a7c7348049516c21cb913e359917f751",
+        "title": "\u201cFor some it won\u2019t be good news\u201d Big pay and grading shake-up for Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26469616.huge-shake-up-glasgow-city-council-staff-pay-new-deal/",
+        "description": "A new pay and grading structure to bring closure to the equal pay issue that has plagued Glasgow City Council is being put forward this week.",
+        "published": "Mon, 17 Aug 2026 09:46:37 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17142593/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-anti-racism-festival-commemorates-34468170",
         "title": "Glasgow anti-racism festival commemorates 'Battle of Calder Street' with Pineapple Trophy",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-anti-racism-festival-commemorates-34468170",
