@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo#7",
+        "title": "'Are you not entertained?' - Hunt enters stardom with iconic quadruple",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo?at_medium=RSS&at_campaign=rss",
+        "description": "Amy Hunt asserts herself as Great Britain's new track sensation after winning an unprecedented four gold medals at the European Athletics Championships.",
+        "published": "Mon, 17 Aug 2026 07:02:43 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04d5/live/a5895050-99c6-11f1-b604-2bfb19ba7385.jpg"
+      },
+      {
         "id": "1786942512400778",
         "title": "Landslide in South Korea kills one as record rain lashes south",
         "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
@@ -460,6 +468,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=525264",
+        "title": "Girl, 10, in life-threatening condition and two women seriously injured after South Lanarkshire crash",
+        "link": "https://news.stv.tv/west-central/girl-10-in-life-threatening-condition-and-two-women-seriously-injured-after-south-lanarkshire-crash",
+        "description": "Emergency services were called after reports of a collision involving a Volkswagen Golf on the A721 in Carnwarth",
+        "published": "Mon, 17 Aug 2026 07:23:31 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2022/08/4ee67454c1e8ba47d2b9a86be7c3525e-1659730715.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-dad-taking-legal-action-34468201",
+        "title": "Glasgow dad taking legal action against far-right activist Tommy Robinson",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-dad-taking-legal-action-34468201",
+        "description": "Quroum Beg said he intends to \u201chold Tommy Robinson to account\u201d after the Glasgow-born father was labelled 'an invader' on social media.",
+        "published": "Mon, 17 Aug 2026 07:10:54 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34308258.ece/ALTERNATES/s98/2_Quroum.jpg"
+      },
+      {
+        "id": "de390ce1810b1318933fe7f4efd633d0",
+        "title": "Search for Scotland\u2019s lost king: Perth dig seeks to solve 600-year-old royal mystery",
+        "link": "https://www.heraldscotland.com/news/26463297.600-year-old-royal-mystery-hidden-beneath-streets-perth/",
+        "description": "He was a king whose turbulent reign would be marked by feuds, deceit, and end in bloody murder.",
+        "published": "Mon, 17 Aug 2026 08:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21317593/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-hit-run-cases-treble-34468649",
         "title": "Glasgow hit and run cases treble in four years amid worrying surge",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-hit-run-cases-treble-34468649",
@@ -474,6 +506,14 @@
         "description": "Thomas Smith was last seen in the Fountain Gardens area of Paisley around 1.30pm on Saturday, August 15.",
         "published": "Mon, 17 Aug 2026 06:14:21 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34468560.ece/ALTERNATES/s98/0_967f6496-799d-41b0-bab4-f0b2c333461c.jpg"
+      },
+      {
+        "id": "12feeab5a76f9f2a6be1af82162ec9ac",
+        "title": "Nominations close in contest to be Scottish Labour\u2019s new leader",
+        "link": "https://www.heraldscotland.com/news/26469228.nominations-close-contest-scottish-labours-new-leader/",
+        "description": "The contest was called after Anas Sarwar stepped down last month",
+        "published": "Mon, 17 Aug 2026 07:03:26 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21327469/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-says-damp-mouldy-34467942",
@@ -522,6 +562,14 @@
         "description": "Locals have been left \"petrified\" following a string of violent attacks on a Glasgow city centre street.",
         "published": "Mon, 17 Aug 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20069194/?type=app&htype=0"
+      },
+      {
+        "id": "abefbbc26f2be6276ca97314b2994abe",
+        "title": "Most firms have already deployed AI, so why are so few training staff how to use it?",
+        "link": "https://www.heraldscotland.com/opinion/26464069.scottish-firms-embracing-ai-despite-training-gap/",
+        "description": "Most firms have already deployed AI in one form or another, but too few are training staff how to use it",
+        "published": "Mon, 17 Aug 2026 04:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21319356/?type=app&htype=0"
       },
       {
         "id": "d594a76298f8004496f1f90f6bc0d428",
