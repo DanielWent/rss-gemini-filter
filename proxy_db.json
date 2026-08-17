@@ -460,6 +460,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-says-damp-mouldy-34467942",
+        "title": "Glasgow mum says damp and mouldy flat forced her to move son out for his health",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-says-damp-mouldy-34467942",
+        "description": "Dana admitted she had been trying to keep herself and her son out the flat in Cheapside Street for as long as possible during the day, and had now moved out.",
+        "published": "Mon, 17 Aug 2026 05:30:47 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34467911.ece/ALTERNATES/s98/0_Screenshot-2026-08-16-at-172705.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/m80-motorists-face-10-overnight-34467131",
+        "title": "M80 motorists face 10 overnight closures due to works near Glasgow",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/m80-motorists-face-10-overnight-34467131",
+        "description": "Road marking improvements on the M80 near Glasgow will result in the road closing for ten nights, starting later this month.",
+        "published": "Mon, 17 Aug 2026 05:27:37 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34467169.ece/ALTERNATES/s98/0_Screenshot-2026-08-16-142820.png"
+      },
+      {
         "id": "d594a76298f8004496f1f90f6bc0d428",
         "title": "Scottish construction tech firm Kenoteq secures \u00a3900k to scale recycled production",
         "link": "https://www.heraldscotland.com/news/26466246.scottish-green-construction-firm-secures-900k-investment/",
