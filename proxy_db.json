@@ -476,6 +476,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "055e94cd92934cc457e3ba7862462b2b",
+        "title": "Man dies after being found 'seriously injured' under bridge in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26471830.man-dies-found-seriously-injured-glasgow/",
+        "description": "A man has died after being found \u2018seriously injured\u2019 under a bridge in Glasgow city centre this afternoon.",
+        "published": "Mon, 17 Aug 2026 16:08:13 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21331768/?type=app&htype=0"
+      },
+      {
+        "id": "dcef69911c216ea7bb9981a6799fe75b",
+        "title": "1000 new homes planned for old football pitches in North Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26471782.1000-new-homes-planned-empty-land-north-glasgow/",
+        "description": "Ambitious plans to create 1000 homes in a decades-old derelict land site in Glasgow are set to be approved this week.",
+        "published": "Mon, 17 Aug 2026 16:01:52 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21331717/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=525363",
         "title": "First cow tests positive for potentially deadly livestock bluetongue virus in Scotland",
         "link": "https://news.stv.tv/west-central/first-cow-tests-positive-for-potentially-deadly-livestock-bluetongue-virus-in-scotland",
@@ -484,12 +500,28 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2025/06/083963ae2225ca1d8176fbe029c670fa-1749130161-1280x720.jpeg"
       },
       {
+        "id": "15de8fedd49062364d9d0c6221698b34",
+        "title": "Everything we know after two found dead in Glasgow home as area locked down",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26471700.everything-know-two-dead-chancellor-street/",
+        "description": "Two men were found dead inside a home on Chancellor Street in Glasgow's Partick.",
+        "published": "Mon, 17 Aug 2026 15:49:51 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21329664/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/brand-new-coffee-spot-phils-34471544",
         "title": "Brand new coffee spot Phil's teases west end location with new menu",
         "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/brand-new-coffee-spot-phils-34471544",
         "description": "The exciting new venture could be coming to the Botanics with an expansive menu for coffee and matcha fans.",
         "published": "Mon, 17 Aug 2026 14:45:04 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34472100.ece/ALTERNATES/s98/0_JS414868793.jpg"
+      },
+      {
+        "id": "1f54609654120761be6a9204e6071cb8",
+        "title": "Armed gang burst into Glasgow home as three children cowered in fear",
+        "link": "https://www.glasgowtimes.co.uk/news/26471546.armed-gang-burst-glasgow-home-three-children-cowered-fear/",
+        "description": "A gang war foot soldier has avoided extra time behind bars for his role in a frightening armed raid on a woman's home.",
+        "published": "Mon, 17 Aug 2026 15:26:36 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21331670/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-statues-sword-definitely-not-34472598",
@@ -506,6 +538,14 @@
         "description": "Three Glasgow schools have been recognised for their outstanding commitment to STEM education.",
         "published": "Mon, 17 Aug 2026 15:24:16 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21331264/?type=app&htype=0"
+      },
+      {
+        "id": "5ca1919f2d8d77e56171135561f01690",
+        "title": "Scottish Ballet announces return to Scotland this autumn with new show",
+        "link": "https://www.heraldscotland.com/news/26471392.scottish-ballet-announces-autumn-tour-new-double-bill/",
+        "description": "Scottish Ballet will tour Scotland this autumn with Crystal Pite's Emergence and the world premiere of Julia Cheng's Entress.",
+        "published": "Mon, 17 Aug 2026 15:17:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21331129/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/vital-glasgow-taxi-rank-retained-34472610",
@@ -618,14 +658,6 @@
         "description": "Communities across Scotland are being encouraged to learn more about beavers as the population continues to grow.",
         "published": "Mon, 17 Aug 2026 12:46:57 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21329800/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c3ekq3dkd9yo#0",
-        "title": "Police investigating deaths of two men found injured in Glasgow",
-        "link": "https://www.bbc.co.uk/news/articles/c3ekq3dkd9yo?at_medium=RSS&at_campaign=rss",
-        "description": "The men were pronounced dead at the scene in Partick and their deaths are being treated as unexplained.",
-        "published": "Mon, 17 Aug 2026 11:34:44 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b338/live/c669ed80-9a2e-11f1-90d9-9d833c0912f2.jpg"
       },
       {
         "id": "eb825231132df8d2986622421b570038",
