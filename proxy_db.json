@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1786942512400778",
+        "title": "Landslide in South Korea kills one as record rain lashes south",
+        "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
+        "description": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain.",
+        "published": "Mon, 17 Aug 2026 06:34:09 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b96/live/e2371780-99f3-11f1-8ffd-896dfa12c5fd.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no#0",
         "title": "Two dead and evacuation under way as fires break out on Greek island",
         "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
@@ -451,6 +459,22 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "d594a76298f8004496f1f90f6bc0d428",
+        "title": "Scottish construction tech firm Kenoteq secures \u00a3900k to scale recycled production",
+        "link": "https://www.heraldscotland.com/news/26466246.scottish-green-construction-firm-secures-900k-investment/",
+        "description": "Scottish sustainable construction firm Kenoteq has raised nearly \u00a3900,000 to scale production of its recycled K-Briq and deliver major projects.",
+        "published": "Mon, 17 Aug 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21158849/?type=app&htype=0"
+      },
+      {
+        "id": "ee6538f1480c8edbb8f748b56de89997",
+        "title": "Scottish Government 'actively considering'  data on NHS corridor care",
+        "link": "https://www.heraldscotland.com/news/26469063.scottish-government-considering-nhs-corridor-care-datav/",
+        "description": "The Scottish Government is \u201cactively considering the feasibility\u201d of collecting data on the number of NHS patients treated in hospital corridors, Health Secretary Angela Constance said.",
+        "published": "Mon, 17 Aug 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20391983/?type=app&htype=0"
+      },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-scotland-boss-pocognoli-excited-34468130",
         "title": "New Scotland boss Pocognoli 'excited' by the 'honour' of taking over national team",
