@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o#3",
+        "title": "US hiker dies after being struck by lightning on Mount Etna",
+        "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
+        "description": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report.",
+        "published": "Mon, 17 Aug 2026 12:23:26 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e58/live/50b3c630-9a31-11f1-a291-b542ee92de7c.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo#7",
         "title": "'Are you not entertained?' - Hunt enters stardom with iconic quadruple",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo?at_medium=RSS&at_campaign=rss",
@@ -467,6 +475,30 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://news.stv.tv/?p=525363",
+        "title": "First cow tests positive for potentially deadly livestock bluetongue virus in Scotland",
+        "link": "https://news.stv.tv/west-central/first-cow-tests-positive-for-potentially-deadly-livestock-bluetongue-virus-in-scotland",
+        "description": "It's the fifth animal in Scotland to test positive for the virus",
+        "published": "Mon, 17 Aug 2026 14:51:20 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2025/06/083963ae2225ca1d8176fbe029c670fa-1749130161-1280x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/brand-new-coffee-spot-phils-34471544",
+        "title": "Brand new coffee spot Phil's teases west end location with new menu",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/brand-new-coffee-spot-phils-34471544",
+        "description": "The exciting new venture could be coming to the Botanics with an expansive menu for coffee and matcha fans.",
+        "published": "Mon, 17 Aug 2026 14:45:04 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34472100.ece/ALTERNATES/s98/0_JS414868793.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-statues-sword-definitely-not-34472598",
+        "title": "Glasgow statue's sword will definitely not be returned, council confirms",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-statues-sword-definitely-not-34472598",
+        "description": "The statue of Sir John Moore, who fought to ensure slavery continued on a Caribbean island, can be found at George Square.",
+        "published": "Mon, 17 Aug 2026 14:25:24 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article18399142.ece/ALTERNATES/s98/0_Screen-Shot-2020-06-10-at-232033.png"
+      },
       {
         "id": "e0521fc2fd6b7c4b117b628ed0af9ad8",
         "title": "Three Glasgow schools recognised for 'vital' commitment to STEM education",
