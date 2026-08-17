@@ -239,7 +239,7 @@ PIPELINES = [
         "type": "two_pass",
         "archive_key": "grassroots_running",
         "target_feed_id": "grassroots_running_ai_filtered",
-        "urls": ["https://lincoln149.alwaysdata.net/freshrss/api/query.php?user=lincoln149&t=6N05CNtrbYfKjurK1amToT&f=rss"],
+        "urls": ["https://lincoln149.alwaysdata.net/freshrss/api/query.php?user=lincoln149&t=6TrLU045QITQgoovjyIbJW&f=rss"],
         "criteria_file": os.path.join(CRITERIA_DIR, "therunningweek.txt"),
         "template": STRICT_PROMPT_TEMPLATE,
         "requires_stage1": False,
