@@ -468,6 +468,54 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=525315",
+        "title": "Two men die after being found seriously injured in property in Partick",
+        "link": "https://news.stv.tv/west-central/two-men-die-after-being-found-seriously-injured-in-property-in-partick",
+        "description": "Police are currently treating the deaths as unexplained",
+        "published": "Mon, 17 Aug 2026 11:02:03 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/5efd816baad8776e06f60b258df03abf-1786964381.jpg"
+      },
+      {
+        "id": "9c60f735da3a7eb4ba5ecc045731b7d8",
+        "title": "LIVE updates after two men found dead in Glasgow home as scene locked down",
+        "link": "https://www.glasgowtimes.co.uk/news/26470434.live-two-dead-home-glasgows-chancellor-street/",
+        "description": "A major investigation has been launched after two men have died in a home in Glasgow after being found seriously injured.",
+        "published": "Mon, 17 Aug 2026 12:00:34 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18736630/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/incoming/glasgow-killer-who-stabbed-good-34470281",
+        "title": "Glasgow killer who stabbed good Samaritan at shopping centre dies behind bars",
+        "link": "https://www.glasgowlive.co.uk/incoming/glasgow-killer-who-stabbed-good-34470281",
+        "description": "The death of the 42-year-old, who passed on August 11 at HMP Addiewell, is set to be probed.",
+        "published": "Mon, 17 Aug 2026 10:51:36 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34470355.ece/ALTERNATES/s98/0_JS209550516.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/incoming/woman-charged-attempting-pervert-course-34470517",
+        "title": "Woman charged with 'attempting to pervert course of justice' over Larkhall police attempted murder",
+        "link": "https://www.glasgowlive.co.uk/incoming/woman-charged-attempting-pervert-course-34470517",
+        "description": "Detectives are still hunting for a man and more than 80 properties have been searched after a van was deliberately driven at two cops.",
+        "published": "Mon, 17 Aug 2026 10:49:07 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34468646.ece/ALTERNATES/s98/0_JS413638200.jpg"
+      },
+      {
+        "id": "c0159c6ffc8c4b1b3bfc2adc4d41c8b7",
+        "title": "Woman arrested as hunt continues for suspect in 'attempted murder' of cops",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26470256.woman-arrested-attempted-murder-cops-larkhall/",
+        "description": "A woman has been arrested as the hunt continues for the suspect in the attempted murder of two police officers in Larkhall.",
+        "published": "Mon, 17 Aug 2026 11:33:44 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19544682/?type=app&htype=0"
+      },
+      {
+        "id": "65ea53c9ac6a3482c3316ad86ecbef21",
+        "title": "'We must not allow Scottish Government to dilute its Fair Work First policy'",
+        "link": "https://www.heraldscotland.com/news/education/26466896.scottish-government-must-give-fair-work-teeth-review/",
+        "description": "The results are out and it\u2019s not just Scotland\u2019s school pupils noting their exam marks. The Scottish Government\u2019s approach to Fair Work has been evaluated and Scotland\u2019s workers are keen for levels to improve, writes Roz Foyer.",
+        "published": "Mon, 17 Aug 2026 11:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21323244/?type=app&htype=0"
+      },
+      {
         "id": "2555be22eb0e391c1c0954bf4233cc40",
         "title": "Update on Lewis Capaldi's plans to upgrade mansion near Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26470208.update-lewis-capaldis-plans-upgrade-east-renfrewshire-mansion/",
@@ -482,6 +530,14 @@
         "description": "More than 36,000 people attended a family construction event at Glasgow\u2019s Riverside Museum.",
         "published": "Mon, 17 Aug 2026 11:19:11 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21328987/?type=app&htype=0"
+      },
+      {
+        "id": "67ceede23ba8367dc357e35805009532",
+        "title": "Edinburgh tuition firm launches new studio for pupils needing an alternative school",
+        "link": "https://www.heraldscotland.com/news/26470006.edinburgh-tuition-studio-launches-new-learning-approach/",
+        "description": "Edinburgh-based LS Tuition has launched The Accessing Excellence Studio for homeschooled pupils and children with additional support needs.",
+        "published": "Mon, 17 Aug 2026 11:05:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21328794/?type=app&htype=0"
       },
       {
         "id": "41d674f62776b0047ecb40a5e06f72f2",
