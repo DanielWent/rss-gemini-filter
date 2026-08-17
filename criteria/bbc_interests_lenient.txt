@@ -27,6 +27,7 @@ BROAD DOMAINS FOR APPROVAL:
    REJECT: Any disaster coverage where the main reported event occurred MORE THAN 24 HOURS AGO.
    REJECT: Articles reporting on man-made disasters such as wars, terrorist attacks or military strikes. 
    REJECT: Articles reporting on famines or droughts.
+   REJECT: Minor natural disasters that are unlikely to be mentioned on the UK 10 O'Clock News.
 
    HOW TO DETERMINE EVENT AGE:
    - Check the text for temporal markers relative to the 'Published' timestamp (e.g., references like "yesterday", "two days ago", "earlier this week", "following [past day]'s quake", or a date >24h prior).
