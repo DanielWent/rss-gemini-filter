@@ -468,12 +468,60 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "e0521fc2fd6b7c4b117b628ed0af9ad8",
+        "title": "Three Glasgow schools recognised for 'vital' commitment to STEM education",
+        "link": "https://www.glasgowtimes.co.uk/news/26471528.glasgow-schools-recognised-stem-learning-success/",
+        "description": "Three Glasgow schools have been recognised for their outstanding commitment to STEM education.",
+        "published": "Mon, 17 Aug 2026 15:24:16 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21331264/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/vital-glasgow-taxi-rank-retained-34472610",
+        "title": "'Vital' Glasgow taxi rank retained after backlash over 'dangerous' complaint",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/vital-glasgow-taxi-rank-retained-34472610",
+        "description": "A neighbour wanted the west end taxi rank to be revoked but taxi drivers argued it should be retained.",
+        "published": "Mon, 17 Aug 2026 14:12:48 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34472596.ece/ALTERNATES/s98/0_qmdtaxirank.png"
+      },
+      {
+        "id": "fa4a75730d518b9661d2911094267469",
+        "title": "Unions reject new council pay plan that could see thousands facing wage cut",
+        "link": "https://www.glasgowtimes.co.uk/news/26471443.unions-protest-glasgow-city-council-equal-pay-plan/",
+        "description": "Union leaders are urging councillors to reject the new pay and grading system at Glasgow City Council.",
+        "published": "Mon, 17 Aug 2026 15:11:21 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21331106/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c3v04pn9rwpo#0",
+        "title": "Revamp of Glasgow's Hielanman's Umbrella landmark put on hold",
+        "link": "https://www.bbc.co.uk/news/articles/c3v04pn9rwpo?at_medium=RSS&at_campaign=rss",
+        "description": "Multi-coloured shops and neon lights had been proposed for the area, at Central Station.",
+        "published": "Mon, 17 Aug 2026 14:00:15 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7117/live/c3f9fdf0-9a39-11f1-b792-a710e56a11dc.jpg"
+      },
+      {
+        "id": "571db9b19562b8db501e14c77c86e6d3",
+        "title": "Huge Glasgow clothing store could close as chocolate chain eyes city debut",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26471315.lindt-looks-take-fat-face-glasgows-buchanan-street/",
+        "description": "Lindt looks to take over Fat Face on Glasgow's Buchanan Street.",
+        "published": "Mon, 17 Aug 2026 14:49:54 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21331259/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=525365",
         "title": "Batmobile arrives in Glasgow ahead of filming for The Batman sequel starring Robert Pattinson",
         "link": "https://news.stv.tv/west-central/batmobile-arrives-in-glasgow-ahead-of-filming-for-the-batman-sequel-starring-robert-pattinson",
         "description": "Scotland's largest city is set to return to the screen as Gotham after playing a key role in The Batman starring Robert Pattinson.",
         "published": "Mon, 17 Aug 2026 13:43:40 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/ac1bd248a378ac7b8b3e22c91ea31fd0-1786973483-1280x720.jpeg"
+      },
+      {
+        "id": "965c799bae4bc12adf8daf3224acaf4f",
+        "title": "Fringe venue accepts it discriminated against Jewish comedian when it pulled show",
+        "link": "https://www.heraldscotland.com/news/26471248.edinburgh-fringe-venue-accepts-discriminated-jewish-comic/",
+        "description": "A venue has accepted that it discriminated against a Jewish comedian when it cancelled his show at last year\u2019s Edinburgh Festival Fringe.",
+        "published": "Mon, 17 Aug 2026 14:39:21 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19761719/?type=app&htype=0"
       },
       {
         "id": "e3e4d55613374cea4e2721c9d88fed1a",
