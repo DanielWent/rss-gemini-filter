@@ -476,6 +476,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c98v031640vo#0",
+        "title": "Erin survived cancer aged 21 - now it's a race against time for a chance of a baby",
+        "link": "https://www.bbc.co.uk/news/articles/c98v031640vo?at_medium=RSS&at_campaign=rss",
+        "description": "Having life-saving cancer treatment at 21 would be hard enough for anyone, but Erin Lavery was told she may never be able to have children too.",
+        "published": "Mon, 17 Aug 2026 21:58:18 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e6f/live/a9a90390-9a3b-11f1-a86b-519b4d19bbee.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/rangers-could-offer-celtic-just-34474341",
         "title": "Rangers 'could offer Celtic just 50 tickets' for cup clash at Ibrox",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/rangers-could-offer-celtic-just-34474341",
