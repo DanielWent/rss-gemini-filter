@@ -39,7 +39,8 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add --ignore-missing bwcc_archive.json bwcc_feed.xml
+          [ -f bwcc_archive.json ] && git add bwcc_archive.json
+          [ -f bwcc_feed.xml ] && git add bwcc_feed.xml
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
