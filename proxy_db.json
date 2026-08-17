@@ -468,6 +468,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-parents-scotland-warned-over-34471849",
+        "title": "New parents in Scotland warned over strict 21-day legal rule that differs from rest of UK",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/new-parents-scotland-warned-over-34471849",
+        "description": "New parents in Scotland are treated differently to elsewhere in the UK which means they are facing a tougher deadline",
+        "published": "Mon, 17 Aug 2026 13:19:53 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/article34472140.ece/ALTERNATES/s98/0_GettyImages-2176920677.jpg"
+      },
+      {
+        "id": "f113dab48de404487dc98fa1bb274f84",
+        "title": "Winter Wonderland to return to Glasgow this Christmas - here's the details",
+        "link": "https://www.glasgowtimes.co.uk/news/26470802.winter-wonderland-return-glasgow-christmas/",
+        "description": "Winter Wonderland is set to return to Glasgow city centre this Christmas - here's the details",
+        "published": "Mon, 17 Aug 2026 13:11:34 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20234648/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/much-loved-glasgow-bar-reopens-34471213",
         "title": "Much-loved Glasgow bar reopens with new look after short closure",
         "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/much-loved-glasgow-bar-reopens-34471213",
