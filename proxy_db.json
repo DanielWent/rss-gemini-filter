@@ -492,6 +492,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "c0bbfe3a094e56a19f1f37cd54763d89",
+        "title": "EasyJet flight to Glasgow declares midair emergency over passenger incident",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26473935.london-glasgow-easyjet-flight-declares-midair-emergency/",
+        "description": "An easyJet flight from London Gatwick to Glasgow Airport declared a medical emergency shortly before landing after a passenger fell ill.",
+        "published": "Tue, 18 Aug 2026 12:02:41 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19646375/?type=app&htype=0"
+      },
+      {
+        "id": "a508831585150a8d952c3139320b2de6",
+        "title": "Rail upgrade work to disrupt Newcastle to Scotland train services for three weekends",
+        "link": "https://www.heraldscotland.com/news/26473776.7-1m-rail-upgrade-disrupt-newcastle-scotland-trains/",
+        "description": "Rail passengers travelling between Newcastle and Scotland face diversions and replacement buses as \u00a37.1m of upgrades take place.",
+        "published": "Tue, 18 Aug 2026 11:52:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21334564/?type=app&htype=0"
+      },
+      {
+        "id": "1a3fe120198da503cfb459b4cda4af77",
+        "title": "Tributes paid following death of \"wonderful\" former South Lanarkshire councillor",
+        "link": "https://www.glasgowtimes.co.uk/news/26473822.tributes-paid-former-south-lanarkshire-councillor/",
+        "description": "She served as a Councillor for the Cambuslang East ward for a decade between 2007 and 2017.",
+        "published": "Tue, 18 Aug 2026 11:45:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21334578/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=525343",
         "title": "Drug-smuggling social media influencer pictured at Scots music festival four months after being jailed",
         "link": "https://news.stv.tv/west-central/drug-smuggling-social-media-influencer-pictured-at-glasgow-music-festival-four-months-after-being-jailed",
@@ -530,6 +554,14 @@
         "description": "Tram-trains, which are used in a number of European cities, are sturdier and capable of going at higher speeds than normal trams.",
         "published": "Tue, 18 Aug 2026 11:15:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/19027928/?type=app&htype=0"
+      },
+      {
+        "id": "5d8ad232a650c16a04ff5938af3c8ea1",
+        "title": "Residents in this area of Glasgow warned of disruption to water supply",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26473555.milton-burst-water-main-hits-supplies-ashgill-road-glasgow/",
+        "description": "Scottish Water is repairing a burst water main on Ashgill Road in Milton, north Glasgow, causing supply disruption and traffic delays today.",
+        "published": "Tue, 18 Aug 2026 11:09:08 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17119543/?type=app&htype=0"
       },
       {
         "id": "aa27a4439d9419c860ad81353c4e66c9",
