@@ -500,6 +500,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/scottish-airport-left-no-more-34478655",
+        "title": "Scottish airport left with no more scheduled flights as Loganair axes routes",
+        "link": "https://www.glasgowlive.co.uk/whats-on/scottish-airport-left-no-more-34478655",
+        "description": "Loganair has confirmed it is ending all operations at the airport this autumn due to it being &quot;financial unsustainable&quot;, leaving the hub with no scheduled commercial passenger services",
+        "published": "Tue, 18 Aug 2026 14:46:04 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/whats-on/article34478654.ece/ALTERNATES/s98/0_Aerial-views-across-Britain-25-Mar-2016.jpg"
+      },
+      {
+        "id": "fdc95f117311c149501d77d40a578385",
+        "title": "Glasgow rape crisis explains why it rejected Scottish Citizens Army fundraiser",
+        "link": "https://www.glasgowtimes.co.uk/news/26475200.glasgow-rape-crisis-rejects-scottish-citizens-army-fundraising/",
+        "description": "Glasgow &amp; Clyde Rape Crisis has defended rejecting Scottish Citizens Army fundraising amid a growing row over immigration-linked comments.",
+        "published": "Tue, 18 Aug 2026 15:38:02 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17595946/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/ex-snooker-champion-graeme-dott-34478824",
+        "title": "Ex-snooker champion Graeme Dott asked child if sexual abuse 'felt nice', court told",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/ex-snooker-champion-graeme-dott-34478824",
+        "description": "Dott, 49 is on trial accused of lewd, indecent and libidinous behaviour towards two primary school age children. He denies the charges.",
+        "published": "Tue, 18 Aug 2026 14:35:34 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34478780.ece/ALTERNATES/s98/0_ee2dedee-222d-4174-9624-580fc6b58ed5jpeg.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/signs-go-up-reardons-former-34477514",
         "title": "Signs go up at Reardon's as former Shawlands snooker hall gets set for big change",
         "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/signs-go-up-reardons-former-34477514",
@@ -514,6 +538,46 @@
         "description": "Councillors will be asked to approve a proposed new pay and grading structure on Thursday but opposition groups have concerns over the plan.",
         "published": "Tue, 18 Aug 2026 14:04:10 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article30914130.ece/ALTERNATES/s98/6_GettyImages-1238047663.jpg"
+      },
+      {
+        "id": "ee47d312e7adfe511ed0a24554f3eb3d",
+        "title": "One dead and hundreds fall ill in UK-wide Salmonella outbreak",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26474937.one-dead-hundreds-fall-ill-uk-salmonella-outbreak/",
+        "description": "A person has died, and hundreds have fallen ill amid a reported outbreak of salmonella food poisoning in the UK.",
+        "published": "Tue, 18 Aug 2026 14:58:25 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21336363/?type=app&htype=0"
+      },
+      {
+        "id": "2698ad7be8b84051bcf50fed38538fbf",
+        "title": "SNP ministers take GFG Alliance to court over 'unauthorised' Lochaber transactions",
+        "link": "https://www.heraldscotland.com/news/26474769.scottish-ministers-take-gfg-alliance-court-smelter/",
+        "description": "Scottish ministers are taking Sanjeev Gupta's under-pressure GFG Alliance to court after discovering \"unauthorised transactions\" at its Lochaber aluminium smelter, The Herald can reveal.",
+        "published": "Tue, 18 Aug 2026 14:35:53 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20576236/?type=app&htype=0"
+      },
+      {
+        "id": "27437a7047c021ff7c20a0be81859e7d",
+        "title": "A-listed Edinburgh church near Calton Hill put up for sale for more than \u00a31,000,000",
+        "link": "https://www.heraldscotland.com/news/26474648.edinburgh-church-linked-robert-louis-stevenson-market-1m/",
+        "description": "Greenside Parish Church, located at the base of Calton Hill on Royal Terrace, closed in 2024 following a merger with other local congregations.",
+        "published": "Tue, 18 Aug 2026 14:27:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21335872/?type=app&htype=0"
+      },
+      {
+        "id": "a0c7d55a20313338b988b53ef16c9dfe",
+        "title": "Chef's hammer rampage at Glasgow restaurant amid dispute over wages",
+        "link": "https://www.glasgowtimes.co.uk/news/26474663.chefs-hammer-rampage-glasgow-restuarant-amid-dispute-wages/",
+        "description": "A chef who brandished a hammer at his former manager amid a dispute over wages was locked up today.",
+        "published": "Tue, 18 Aug 2026 14:20:04 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16885149/?type=app&htype=0"
+      },
+      {
+        "id": "82c667d0e08436841e0ac24d6b481fcf",
+        "title": "The Green Welly Stop in Tyndrum put up for sale after 61 years of family ownership",
+        "link": "https://www.heraldscotland.com/news/26474503.green-welly-stop-tyndrum-put-sale-61-years/",
+        "description": "The Green Welly Stop in Tyndrum has gone on the market after 61 years of family ownership, with the business continuing to trade as normal.",
+        "published": "Tue, 18 Aug 2026 14:04:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21335667/?type=app&htype=0"
       },
       {
         "id": "8927225",
@@ -538,14 +602,6 @@
         "description": "Detectives believe the suspect is travelling through Scotland with the help of 'associates'",
         "published": "Tue, 18 Aug 2026 12:34:12 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/07/abb220d4ab14f30456caeedc9e80e401-1785072558-1280x720.jpeg"
-      },
-      {
-        "id": "bc81160438a147bab9fbf5cab8d26b49",
-        "title": "How did Scotland's state-owned shipyard reach the point of cutting 70 jobs?",
-        "link": "https://www.heraldscotland.com/news/26474243.ferguson-marine-job-cuts-happened-scotlands-shipyard/",
-        "description": "As Ferguson Marine prepares to cut almost 70 jobs, we look at how Scotland's state-owned shipyard reached this point and what happens next.",
-        "published": "Tue, 18 Aug 2026 13:32:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20460038/?type=app&htype=0"
       },
       {
         "id": "921bff2e63cf6ddf787e590bf318d721",
@@ -1242,62 +1298,6 @@
         "description": "The team at the Deoch an Dorus in Partick say they are excited for people to see the changes.",
         "published": "Mon, 17 Aug 2026 12:02:13 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34471189.ece/ALTERNATES/s98/0_Deoch.png"
-      },
-      {
-        "id": "8924242",
-        "title": "Celtic face increased transfer competition to land five-goal international target as parent club send mixed signals",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-increased-transfer-competition-five-goal-international-target-parent-club-mixed-signals-8924242",
-        "description": "<p>Celtic joined by EPL transfer rival amid ongoing search to land Arne Engels replacement </p>",
-        "published": "Mon, 17 Aug 2026 12:00:25 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/17/9/26/GettyImages-2255594566.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "803e41826a6d1c57eb68e1a3f09081bd",
-        "title": "Man dies at scene of early morning crash as police close off road",
-        "link": "https://www.glasgowtimes.co.uk/news/26470718.driver-dies-scene-crash-road-strathaven-closed/",
-        "description": "A man has been pronounced dead at the scene of a one-car crash on the A726",
-        "published": "Mon, 17 Aug 2026 12:54:10 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19544682/?type=app&htype=0"
-      },
-      {
-        "id": "9214784f4b91125d7e9c38247bb3b3b5",
-        "title": "New guide launched as beaver populations grow and spread across Scotland",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26470678.scottish-communities-urged-learn-growing-beaver-population/",
-        "description": "Communities across Scotland are being encouraged to learn more about beavers as the population continues to grow.",
-        "published": "Mon, 17 Aug 2026 12:46:57 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21329800/?type=app&htype=0"
-      },
-      {
-        "id": "eb825231132df8d2986622421b570038",
-        "title": "\u2018Extremely difficult decision\u2019: Scottish law firm placed into administration",
-        "link": "https://www.heraldscotland.com/news/26470380.jobs-risk-legal-firm-collapses-administration/",
-        "description": "A Scottish law company has been placed into administration.",
-        "published": "Mon, 17 Aug 2026 11:52:12 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21330367/?type=app&htype=0"
-      },
-      {
-        "id": "8924640",
-        "title": "20 busiest railway stations in North Lanarkshire ranked by passenger numbers",
-        "link": "https://www.glasgowworld.com/news/20-busiest-railway-stations-in-north-lanarkshire-ranked-by-passenger-numbers-8924640",
-        "description": "<p>These are the busiest railway stations in North Lanarkshire right now. </p>",
-        "published": "Mon, 17 Aug 2026 10:44:46 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2024/12/09/10/05/Croy-train-station.JPG?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "c0159c6ffc8c4b1b3bfc2adc4d41c8b7",
-        "title": "Woman arrested as hunt continues for suspect in 'attempted murder' of cops",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26470256.woman-arrested-attempted-murder-cops-larkhall/",
-        "description": "A woman has been arrested as the hunt continues for the suspect in the attempted murder of two police officers in Larkhall.",
-        "published": "Mon, 17 Aug 2026 11:33:44 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19544682/?type=app&htype=0"
-      },
-      {
-        "id": "8924595",
-        "title": "Queens Park glasshouse set to stay open as council pledges consultation and funding to restore landmark",
-        "link": "https://www.glasgowworld.com/news/queens-park-glasshouse-set-to-stay-open-as-council-pledges-consultation-and-funding-to-restore-landmark-8924595",
-        "description": "<p>Efforts will be made to ensure the much-loved Queens Park glasshouse stays open to the public and cash is found to bring it back to an \u201cexcellent standard\u201d and restore the dome, a meeting heard.  </p>",
-        "published": "Mon, 17 Aug 2026 10:06:29 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/06/09/13/24/RUxNODgzMzE5NDA.jpg?width=1200&auto=webp&trim=133%2C0%2C0%2C0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
