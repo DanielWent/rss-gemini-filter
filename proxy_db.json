@@ -476,6 +476,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/hmrc-cracks-down-dodgy-vape-34471266",
+        "title": "HMRC cracks down on dodgy vape shops and barbers 'blighting' Glasgow streets",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/hmrc-cracks-down-dodgy-vape-34471266",
+        "description": "\u201cToo many high streets have been blighted by dodgy shops that harm local communities and undercuts honest businesses.&quot;",
+        "published": "Tue, 18 Aug 2026 06:09:13 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34471443.ece/ALTERNATES/s98/0_JS412755229.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-mum-says-children-lucky-34474114",
+        "title": "Lanarkshire mum says children lucky to be alive after four car fire attacks",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-mum-says-children-lucky-34474114",
+        "description": "The brave mum had to drag her kids from her house in one terrifying incident after the fire spread.",
+        "published": "Tue, 18 Aug 2026 05:50:16 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34474089.ece/ALTERNATES/s98/0_aa202ebd-9afd-489e-adb8-7ecab7897151jpeg.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/hatred-extremism-racism-no-place-34474284",
         "title": "'Hatred, extremism and racism have no place in Scotland', says John Swinney",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/hatred-extremism-racism-no-place-34474284",
