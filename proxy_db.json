@@ -508,6 +508,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8928345",
+        "title": "Martin O'Neill assesses Celtic transfer chances before Champions League decider amid 'disappointing' departure",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/martin-oneill-assesses-celtic-transfer-chances-before-champions-league-decider-amid-disappointing-departure-8928345",
+        "description": "<p>Celtic boss spoke ahead of the first leg of the Champions League play-off</p>",
+        "published": "Tue, 18 Aug 2026 17:21:25 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/18/17/22/GettyImages-2288943143.jpeg?width=1200&auto=webp&trim=0%2C18%2C0%2C17"
+      },
+      {
+        "id": "96fd385802951cf5cc30961d3494ccf9",
+        "title": "Opposition councillors call on government to foot bill of Glasgow equal pay overhaul",
+        "link": "https://www.heraldscotland.com/news/26475909.glasgow-equal-pay-opposition-call-government-money/",
+        "description": "Glasgow City Council faces a pivotal vote on a \u00a3120m equal pay framework covering nearly 24,000 staff, with 2,600 workers set to see wages cut and opposition parties demanding the Scottish Government help foot the bill.",
+        "published": "Tue, 18 Aug 2026 18:02:13 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/8852423/?type=app&htype=0"
+      },
+      {
+        "id": "8926515",
+        "title": "Insider Rangers target's 'crazy' Ibrox trip as VIP treatment and private jet deployed before transfer collapse",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/insider-rangers-targets-crazy-ibrox-trip-as-vip-treatment-and-private-jet-deployed-before-transfer-collapse-8926515",
+        "description": "<p>The player spent a \u2018crazy 48 hours in Scotland\u2019 before the move collapsed</p>",
+        "published": "Tue, 18 Aug 2026 17:00:01 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/18/8/18/GettyImages-2273671893.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "a91c42fb8833b21d0f24390247dda3a5",
+        "title": "Tommy Robinson responds after Glasgow dad's court fundraiser reaches \u00a335k in days",
+        "link": "https://www.glasgowtimes.co.uk/news/26475898.tommy-robinson-responds-glasgow-dad-legal-fundraiser-reaches-35k/",
+        "description": "FAR-right agitator Tommy Robinson has responded after a Glasgow dad\u2019s fundraiser to take him to court raised more than \u00a335,000 in less than a week.",
+        "published": "Tue, 18 Aug 2026 17:53:53 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21194844/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-born-actress-phyllida-law-34479901",
+        "title": "Glasgow-born actress Phyllida Law, mother of Emma Thompson, dies aged 94",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-born-actress-phyllida-law-34479901",
+        "description": "New of her death was shared by her granddaughter.",
+        "published": "Tue, 18 Aug 2026 16:51:47 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34479880.ece/ALTERNATES/s98/0_Screenshot-2026-08-18-at-171854.png"
+      },
+      {
         "id": "0bb008b7e328c5d248931286891eea41",
         "title": "Green light given for student flats at site of former newspaper office in Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26475827.renfield-street-student-flats-co-living-plan-approved/",
@@ -522,6 +562,14 @@
         "description": "A woman has appeared in court as the investigation into the alleged \u2018attempted murder\u2019 of two police officers in Larkhall continues.",
         "published": "Tue, 18 Aug 2026 17:13:37 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20653934/?type=app&htype=0"
+      },
+      {
+        "id": "a2d56efe7602c26ed4fd9b02021d4558",
+        "title": "Edinburgh festivals join forces to replace TV industry summit set to quit city",
+        "link": "https://www.heraldscotland.com/news/26475712.edinburgh-festivals-unite-create-alternative-tv-industry-summit/",
+        "description": "The new initiative is aimed at ensuring talent-spotters and executives continue to flock to Edinburgh in August.",
+        "published": "Tue, 18 Aug 2026 17:05:40 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/15257606/?type=app&htype=0"
       },
       {
         "id": "642574cba03f8cd56bafaf5d70d59c81",
@@ -698,14 +746,6 @@
         "description": "The streets of Glasgow's city centre are being prepared for the shooting of Matt Reeves' The Batman Part 2.",
         "published": "Tue, 18 Aug 2026 14:19:21 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21335941/?type=app&htype=0"
-      },
-      {
-        "id": "82c667d0e08436841e0ac24d6b481fcf",
-        "title": "The Green Welly Stop in Tyndrum put up for sale after 61 years of family ownership",
-        "link": "https://www.heraldscotland.com/news/26474503.green-welly-stop-tyndrum-put-sale-61-years/",
-        "description": "The Green Welly Stop in Tyndrum has gone on the market after 61 years of family ownership, with the business continuing to trade as normal.",
-        "published": "Tue, 18 Aug 2026 14:04:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21335667/?type=app&htype=0"
       },
       {
         "id": "8927225",
@@ -1266,46 +1306,6 @@
         "description": "<p> World Cup hero Craig Ferguson has hailed the fantastic experience of starting - and running - in this year\u2019s Paisley 10k. </p>",
         "published": "Mon, 17 Aug 2026 14:28:38 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/17/14/51/unnamed.jpeg?width=1200&auto=webp&trim=202%2C0%2C202%2C0"
-      },
-      {
-        "id": "1f54609654120761be6a9204e6071cb8",
-        "title": "Armed gang burst into Glasgow home as three children cowered in fear",
-        "link": "https://www.glasgowtimes.co.uk/news/26471546.armed-gang-burst-glasgow-home-three-children-cowered-fear/",
-        "description": "A gang war foot soldier has avoided extra time behind bars for his role in a frightening armed raid on a woman's home.",
-        "published": "Mon, 17 Aug 2026 15:26:36 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21331670/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-statues-sword-definitely-not-34472598",
-        "title": "Glasgow statue's sword will definitely not be returned, council confirms",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-statues-sword-definitely-not-34472598",
-        "description": "The statue of Sir John Moore, who fought to ensure slavery continued on a Caribbean island, can be found at George Square.",
-        "published": "Mon, 17 Aug 2026 14:25:24 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article18399142.ece/ALTERNATES/s98/0_Screen-Shot-2020-06-10-at-232033.png"
-      },
-      {
-        "id": "e0521fc2fd6b7c4b117b628ed0af9ad8",
-        "title": "Three Glasgow schools recognised for 'vital' commitment to STEM education",
-        "link": "https://www.glasgowtimes.co.uk/news/26471528.glasgow-schools-recognised-stem-learning-success/",
-        "description": "Three Glasgow schools have been recognised for their outstanding commitment to STEM education.",
-        "published": "Mon, 17 Aug 2026 15:24:16 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21331264/?type=app&htype=0"
-      },
-      {
-        "id": "5ca1919f2d8d77e56171135561f01690",
-        "title": "Scottish Ballet announces return to Scotland this autumn with new show",
-        "link": "https://www.heraldscotland.com/news/26471392.scottish-ballet-announces-autumn-tour-new-double-bill/",
-        "description": "Scottish Ballet will tour Scotland this autumn with Crystal Pite's Emergence and the world premiere of Julia Cheng's Entress.",
-        "published": "Mon, 17 Aug 2026 15:17:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21331129/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/vital-glasgow-taxi-rank-retained-34472610",
-        "title": "'Vital' Glasgow taxi rank retained after backlash over 'dangerous' complaint",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/vital-glasgow-taxi-rank-retained-34472610",
-        "description": "A neighbour wanted the west end taxi rank to be revoked but taxi drivers argued it should be retained.",
-        "published": "Mon, 17 Aug 2026 14:12:48 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34472596.ece/ALTERNATES/s98/0_qmdtaxirank.png"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
