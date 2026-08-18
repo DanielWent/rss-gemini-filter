@@ -508,6 +508,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "5d6fb1c57d1d1fc88ecd1364602f3028",
+        "title": "Woman appears in court following 'attempted murder' of two cops",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26475761.woman-court-following-attempted-murder-cops-larkhall/",
+        "description": "A woman has appeared in court as the investigation into the alleged \u2018attempted murder\u2019 of two police officers in Larkhall continues.",
+        "published": "Tue, 18 Aug 2026 17:13:37 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20653934/?type=app&htype=0"
+      },
+      {
+        "id": "642574cba03f8cd56bafaf5d70d59c81",
+        "title": "Glasgow drug dealing filmed using hire bikes in shocking BBC documentary",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26475702.glasgow-drug-dealing-filmed-using-hire-bikes-bbc-documentary/",
+        "description": "Drug dealers have been filmed allegedly using hire bikes to carry out transactions in Glasgow city centre, according to a new BBC documentary examining crime and anti-social behaviour in the city.",
+        "published": "Tue, 18 Aug 2026 17:03:51 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21125550/?type=app&htype=0"
+      },
+      {
+        "id": "9e9fb8eb86a77538f5983f898b307145",
+        "title": "Government won't call in decision to demolish historic Glasgow church",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26474039.decision-demolish-historic-glasgow-church-will-go-ahead/",
+        "description": "The decision to\u00a0demolish a historic West End\u00a0church despite hundreds of objections will not be called in by the Scottish Government.",
+        "published": "Tue, 18 Aug 2026 17:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21056429/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-opinion/every-glaswegian-should-board-waverley-34473513",
         "title": "'Every Glaswegian should board the Waverley and go doon the watter at least once'",
         "link": "https://www.glasgowlive.co.uk/whats-on/whats-on-opinion/every-glaswegian-should-board-waverley-34473513",
@@ -1212,14 +1236,6 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34472100.ece/ALTERNATES/s98/0_JS414868793.jpg"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/cvgxym2kjy3o#0",
-        "title": "Hundreds of council workers face wages cut in end to equal pay row",
-        "link": "https://www.bbc.co.uk/news/articles/cvgxym2kjy3o?at_medium=RSS&at_campaign=rss",
-        "description": "Proposals would see new terms and conditions for Glasgow City Council staff introduced on a phased basis from April next year.",
-        "published": "Mon, 17 Aug 2026 14:41:40 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4643/live/6b9a6020-9a4b-11f1-a86b-519b4d19bbee.jpg"
-      },
-      {
         "id": "8925506",
         "title": "Thousands enjoy Paisley 10k and Fun Run over the weekend",
         "link": "https://www.glasgowworld.com/news/thousands-enjoy-paisley-10k-and-fun-run-over-the-weekend-8925506",
@@ -1276,14 +1292,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21331106/?type=app&htype=0"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/c3v04pn9rwpo#0",
-        "title": "Revamp of Glasgow's Hielanman's Umbrella landmark put on hold",
-        "link": "https://www.bbc.co.uk/news/articles/c3v04pn9rwpo?at_medium=RSS&at_campaign=rss",
-        "description": "Multi-coloured shops and neon lights had been proposed for the area, at Central Station.",
-        "published": "Mon, 17 Aug 2026 14:00:15 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7117/live/c3f9fdf0-9a39-11f1-b792-a710e56a11dc.jpg"
-      },
-      {
         "id": "8925418",
         "title": "18 nostalgic photos that show Glasgow\u2019s West End as it once was",
         "link": "https://www.glasgowworld.com/retro/18-nostalgic-photos-that-show-glasgows-west-end-as-it-once-was-8925418",
@@ -1298,14 +1306,6 @@
         "description": "Lindt looks to take over Fat Face on Glasgow's Buchanan Street.",
         "published": "Mon, 17 Aug 2026 14:49:54 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21331259/?type=app&htype=0"
-      },
-      {
-        "id": "965c799bae4bc12adf8daf3224acaf4f",
-        "title": "Fringe venue accepts it discriminated against Jewish comedian when it pulled show",
-        "link": "https://www.heraldscotland.com/news/26471248.edinburgh-fringe-venue-accepts-discriminated-jewish-comic/",
-        "description": "A venue has accepted that it discriminated against a Jewish comedian when it cancelled his show at last year\u2019s Edinburgh Festival Fringe.",
-        "published": "Mon, 17 Aug 2026 14:39:21 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19761719/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
