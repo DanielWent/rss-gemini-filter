@@ -508,6 +508,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "0bb008b7e328c5d248931286891eea41",
+        "title": "Green light given for student flats at site of former newspaper office in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26475827.renfield-street-student-flats-co-living-plan-approved/",
+        "description": "Old newspaper offices in Glasgow city centre can be demolished to make way for a 20-storey student accommodation block and co-living homes.",
+        "published": "Tue, 18 Aug 2026 17:30:31 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20585732/?type=app&htype=0"
+      },
+      {
         "id": "5d6fb1c57d1d1fc88ecd1364602f3028",
         "title": "Woman appears in court following 'attempted murder' of two cops",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26475761.woman-court-following-attempted-murder-cops-larkhall/",
@@ -530,6 +538,30 @@
         "description": "The decision to\u00a0demolish a historic West End\u00a0church despite hundreds of objections will not be called in by the Scottish Government.",
         "published": "Tue, 18 Aug 2026 17:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21056429/?type=app&htype=0"
+      },
+      {
+        "id": "7f64cc2272a2c0027520404c02a64acc",
+        "title": "Hamas' political arm should be de-proscribed, says council by-election candidate",
+        "link": "https://www.heraldscotland.com/news/26474762.hamas-political-arm-de-proscribed-edinburgh-candidate-says/",
+        "description": "Mr Gregson has launched a petition urging the Home Secretary to remove Hamas\u2019 political wing from the UK\u2019s proscribed list of terrorist groups.",
+        "published": "Tue, 18 Aug 2026 17:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21336156/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-injured-cherry-picker-struck-34479630",
+        "title": "Man injured as cherry picker struck by bus on busy Glasgow road",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-injured-cherry-picker-struck-34479630",
+        "description": "A worker is believed to have been in the cherry picker when it was struck by a double decker bus.",
+        "published": "Tue, 18 Aug 2026 15:52:41 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34479635.ece/ALTERNATES/s98/0_unnamed-8.jpg"
+      },
+      {
+        "id": "9318b09f87b687500ab225fb996b6463",
+        "title": "Shipwreck with treasure 'worth millions' may have been found in Firth of Forth",
+        "link": "https://www.heraldscotland.com/news/26475522.royal-shipwreck-forth-worth-millions-pounds-may-found/",
+        "description": "A decades-long search for a 17th-century ship that sank in the Forth during a violent storm may be over",
+        "published": "Tue, 18 Aug 2026 16:29:07 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21337402/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-opinion/every-glaswegian-should-board-waverley-34473513",
@@ -626,6 +658,14 @@
         "description": "A major site in Dundee city centre is facing an uncertain future \u2013 after developers suffered another blow in their bid to build student flats.",
         "published": "Tue, 18 Aug 2026 14:45:07 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/13796941/?type=app&htype=0"
+      },
+      {
+        "id": "867c878c352e6b777f9833678fd1738a",
+        "title": "To the new owners of The Green Welly Stop:  'Don't mess with the lentil soup'",
+        "link": "https://www.heraldscotland.com/life_style/26474807.new-owners-green-welly-stop-dont-mess-soup/",
+        "description": "The owners of the famous Green Welly Stop have announced they are to sell the A82 roadside service that last year marked its 60th birthday.",
+        "published": "Tue, 18 Aug 2026 14:39:46 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21336549/?type=app&htype=0"
       },
       {
         "id": "2698ad7be8b84051bcf50fed38538fbf",
@@ -746,14 +786,6 @@
         "description": "New Public Health Scotland figures show people in the most deprived communities are 216% more likely to develop lung cancer than those in the least deprived. The gap that has grown over the past decade even as overall rates fall.",
         "published": "Tue, 18 Aug 2026 12:40:47 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/18148768/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/football/articles/c74gey82yxwo#0",
-        "title": "Sunday date for Old Firm in League Cup quarter-finals",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c74gey82yxwo?at_medium=RSS&at_campaign=rss",
-        "description": "Rangers are to host Celtic at noon on Sunday 13 September in the last of the Premier Sports Cup quarter finals, while there is a Friday night kick-off for Stenhousemuir v Hearts.",
-        "published": "Tue, 18 Aug 2026 11:22:06 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb95/live/a250b7e0-9af5-11f1-930b-57cfba7235f9.jpg"
       },
       {
         "id": "c0bbfe3a094e56a19f1f37cd54763d89",
@@ -938,14 +970,6 @@
         "description": "\u201cToo many high streets have been blighted by dodgy shops that harm local communities and undercuts honest businesses.&quot;",
         "published": "Tue, 18 Aug 2026 06:09:13 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34471443.ece/ALTERNATES/s98/0_JS412755229.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-mum-says-children-lucky-34474114",
-        "title": "Lanarkshire mum says children lucky to be alive after four car fire attacks",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-mum-says-children-lucky-34474114",
-        "description": "The brave mum had to drag her kids from her house in one terrifying incident after the fire spread.",
-        "published": "Tue, 18 Aug 2026 05:50:16 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34474089.ece/ALTERNATES/s98/0_aa202ebd-9afd-489e-adb8-7ecab7897151jpeg.jpg"
       },
       {
         "id": "1ec46827ceb1743a65cfa355c81922fb",
@@ -1282,30 +1306,6 @@
         "description": "A neighbour wanted the west end taxi rank to be revoked but taxi drivers argued it should be retained.",
         "published": "Mon, 17 Aug 2026 14:12:48 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34472596.ece/ALTERNATES/s98/0_qmdtaxirank.png"
-      },
-      {
-        "id": "fa4a75730d518b9661d2911094267469",
-        "title": "Unions reject new council pay plan that could see thousands facing wage cut",
-        "link": "https://www.glasgowtimes.co.uk/news/26471443.unions-protest-glasgow-city-council-equal-pay-plan/",
-        "description": "Union leaders are urging councillors to reject the new pay and grading system at Glasgow City Council.",
-        "published": "Mon, 17 Aug 2026 15:11:21 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21331106/?type=app&htype=0"
-      },
-      {
-        "id": "8925418",
-        "title": "18 nostalgic photos that show Glasgow\u2019s West End as it once was",
-        "link": "https://www.glasgowworld.com/retro/18-nostalgic-photos-that-show-glasgows-west-end-as-it-once-was-8925418",
-        "description": "<p>Glasgow\u2019s West End has had many shops, pubs and restaurants over the decades that have become part of local memory.  </p>",
-        "published": "Mon, 17 Aug 2026 13:56:54 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/12/16/11/12/487509501_1077704724391325_8784226936106518345_n.jpg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "571db9b19562b8db501e14c77c86e6d3",
-        "title": "Huge Glasgow clothing store could close as chocolate chain eyes city debut",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26471315.lindt-looks-take-fat-face-glasgows-buchanan-street/",
-        "description": "Lindt looks to take over Fat Face on Glasgow's Buchanan Street.",
-        "published": "Mon, 17 Aug 2026 14:49:54 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21331259/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
