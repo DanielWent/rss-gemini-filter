@@ -476,6 +476,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c4g3qmygey4o#0",
+        "title": "Second data centre planned for Lanarkshire as regulations tightened",
+        "link": "https://www.bbc.co.uk/news/articles/c4g3qmygey4o?at_medium=RSS&at_campaign=rss",
+        "description": "Tech company DataVita intend to expand their current site in Airdrie and construct a second centre in the area, previously designated as an AI growth zone.",
+        "published": "Tue, 18 Aug 2026 05:18:49 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fe3/live/f2de4660-fc4d-11f0-8ee8-9f8ad0c97346.jpg"
+      },
+      {
         "id": "2836b5a8def74a5d2bad3b2403b9bae4",
         "title": "Satellite technology brings broadband to remote Scottish railway route",
         "link": "https://www.heraldscotland.com/news/26472354.satellite-technology-brings-broadband-remote-scottish-railway-route/",
@@ -762,14 +770,6 @@
         "description": "Lindt looks to take over Fat Face on Glasgow's Buchanan Street.",
         "published": "Mon, 17 Aug 2026 14:49:54 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21331259/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=525365",
-        "title": "Batmobile arrives in Glasgow ahead of filming for The Batman sequel starring Robert Pattinson",
-        "link": "https://news.stv.tv/west-central/batmobile-arrives-in-glasgow-ahead-of-filming-for-the-batman-sequel-starring-robert-pattinson",
-        "description": "Scotland's largest city is set to return to the screen as Gotham after playing a key role in The Batman starring Robert Pattinson.",
-        "published": "Mon, 17 Aug 2026 13:43:40 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/ac1bd248a378ac7b8b3e22c91ea31fd0-1786973483-1280x720.jpeg"
       },
       {
         "id": "965c799bae4bc12adf8daf3224acaf4f",
