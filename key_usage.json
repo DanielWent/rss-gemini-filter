@@ -3,11 +3,11 @@
   "keys": {
     "ff8b60d30e0f970d": {
       "gemini-3.5-flash-lite": {
-        "daily_requests": 37,
+        "daily_requests": 38,
         "exhausted": false
       },
       "gemini-3.6-flash": {
-        "daily_requests": 2,
+        "daily_requests": 3,
         "exhausted": false
       }
     },
@@ -103,11 +103,11 @@
     },
     "6f6441973fb58689": {
       "gemini-3.5-flash-lite": {
-        "daily_requests": 36,
+        "daily_requests": 37,
         "exhausted": false
       },
       "gemini-3.6-flash": {
-        "daily_requests": 1,
+        "daily_requests": 2,
         "exhausted": false
       }
     }
