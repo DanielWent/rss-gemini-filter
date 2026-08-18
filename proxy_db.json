@@ -500,6 +500,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/signs-go-up-reardons-former-34477514",
+        "title": "Signs go up at Reardon's as former Shawlands snooker hall gets set for big change",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/signs-go-up-reardons-former-34477514",
+        "description": "Set to launch this week, the new Langside Social will take over from Reardon's Southside, which has closed after 21 years.",
+        "published": "Tue, 18 Aug 2026 14:05:11 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34477463.ece/ALTERNATES/s98/0_Screenshot-2026-08-18-at-10946PM.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/concerns-raised-over-glasgow-equal-34478548",
+        "title": "Concerns raised over Glasgow equal pay plan as councillors call for Government help",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/concerns-raised-over-glasgow-equal-34478548",
+        "description": "Councillors will be asked to approve a proposed new pay and grading structure on Thursday but opposition groups have concerns over the plan.",
+        "published": "Tue, 18 Aug 2026 14:04:10 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article30914130.ece/ALTERNATES/s98/6_GettyImages-1238047663.jpg"
+      },
+      {
+        "id": "8927225",
+        "title": "Rangers vs Celtic Premier Sports Cup quarter-final date, kick-off time and TV schedule confirmed",
+        "link": "https://www.glasgowworld.com/sport/football/rangers-celtic-premier-sports-cup-quarter-final-date-kick-off-time-tv-schedule-confirmed-8927225",
+        "description": "<p>The Glasgow giants are set for back-to-back showdowns inside a week</p>",
+        "published": "Tue, 18 Aug 2026 13:01:00 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/18/11/56/21628286.jpeg?width=1200&auto=webp&trim=37%2C0%2C37%2C0"
+      },
+      {
         "id": "e32649ca44b0d7a2ef263dac5cdbe29f",
         "title": "New \u00a31m fund launched to help protect Scotland\u2019s historic places of worship",
         "link": "https://www.glasgowtimes.co.uk/news/26474534.new-1m-fund-launched-support-scotlands-places-worship/",
@@ -516,6 +540,22 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/07/abb220d4ab14f30456caeedc9e80e401-1785072558-1280x720.jpeg"
       },
       {
+        "id": "bc81160438a147bab9fbf5cab8d26b49",
+        "title": "How did Scotland's state-owned shipyard reach the point of cutting 70 jobs?",
+        "link": "https://www.heraldscotland.com/news/26474243.ferguson-marine-job-cuts-happened-scotlands-shipyard/",
+        "description": "As Ferguson Marine prepares to cut almost 70 jobs, we look at how Scotland's state-owned shipyard reached this point and what happens next.",
+        "published": "Tue, 18 Aug 2026 13:32:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20460038/?type=app&htype=0"
+      },
+      {
+        "id": "921bff2e63cf6ddf787e590bf318d721",
+        "title": "Armed robber foiled by taxi driver he shot with a gun in Falkirk",
+        "link": "https://www.heraldscotland.com/news/26474366.robber-armed-gun-foiled-cabbie-shot-falkirk/",
+        "description": "An armed robber was bravely foiled by the taxi driver who he shot with a gun.",
+        "published": "Tue, 18 Aug 2026 13:24:03 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19141757/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-subway-stations-upgraded-more-34477469",
         "title": "Glasgow Subway stations upgraded with more plans for modernisation ahead",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-subway-stations-upgraded-more-34477469",
@@ -524,12 +564,52 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article31938701.ece/ALTERNATES/s98/4_GettyImages-1036060382.jpg"
       },
       {
+        "id": "6de0c487243db8c1f766ac191132e85f",
+        "title": "Chef locked up after wielding hammer at ex-boss at Glasgow fine-dining restaurant",
+        "link": "https://www.heraldscotland.com/news/26474277.chef-locked-wielding-hammer-ex-boss-glasgow-restaurant/",
+        "description": "A chef who brandished a hammer at his former manager at a Glasgow restaurant amid a dispute over wages was locked up today.",
+        "published": "Tue, 18 Aug 2026 13:04:44 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/5282569/?type=app&htype=0"
+      },
+      {
+        "id": "ec2fc3233d639c430946182e22812a99",
+        "title": "Empty civil service buildings - isn't that such a waste of money?",
+        "link": "https://www.heraldscotland.com/news/26474056.empty-civil-service-buildings---waste-money/",
+        "description": "Empty desks, echoing corridors and locked meeting rooms. That is the reality of taxpayer-funded office buildings that used to house thousands of civil servants.",
+        "published": "Tue, 18 Aug 2026 13:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21335176/?type=app&htype=0"
+      },
+      {
+        "id": "441ee576febde16f64f4446acac02222",
+        "title": "Scottish civil service working from home: Our in-depth coverage in one place",
+        "link": "https://www.heraldscotland.com/news/26472508.scottish-civil-service-working-home-everything-need-know/",
+        "description": "Read all of The Herald's coverage of Scottish civil service working from home, from office attendance and costs to unions, policy and staff reaction.",
+        "published": "Tue, 18 Aug 2026 13:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/17717035/?type=app&htype=0"
+      },
+      {
+        "id": "5298c731e3e935b20b6d429b5e65cdbb",
+        "title": "Luxury student accommodation opens on former Lorne Hotel site in Glasgow city centre",
+        "link": "https://www.heraldscotland.com/news/26474180.luxury-student-accommodation-opens-former-glasgow-hotel/",
+        "description": "A new 151-room luxury student accommodation scheme has opened on Sauchiehall Street at the former Lorne Hotel site in Glasgow.",
+        "published": "Tue, 18 Aug 2026 13:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21335234/?type=app&htype=0"
+      },
+      {
         "id": "8927407",
         "title": "Plans to create new outdoor wellbeing space in Coatbridge",
         "link": "https://www.glasgowworld.com/news/plans-to-create-new-outdoor-wellbeing-space-in-coatbridge-8927407",
         "description": "<p>Mental health campaign organisation Rural Rest is celebrating a major milestone after successfully securing a Community Asset Transfer from the council, paving the way for an ambitious new outdoor wellbeing space for local people.  </p>",
         "published": "Tue, 18 Aug 2026 11:58:23 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/18/11/13/Screenshot-2026-08-18-125553.jpeg?width=1200&auto=webp&trim=0%2C4%2C0%2C3"
+      },
+      {
+        "id": "c90753b18c86513b8189291b0550719f",
+        "title": "Poorest Scots 216 per cent more likely to get lung cancer than wealthiest",
+        "link": "https://www.heraldscotland.com/news/26474145.scotland-lung-cancer-deprivation-gap-widens-figures-show/",
+        "description": "New Public Health Scotland figures show people in the most deprived communities are 216% more likely to develop lung cancer than those in the least deprived. The gap that has grown over the past decade even as overall rates fall.",
+        "published": "Tue, 18 Aug 2026 12:40:47 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18148768/?type=app&htype=0"
       },
       {
         "id": "ef7913aa86c205777bb4f6640254a843",
@@ -642,6 +722,14 @@
         "description": "A brute with convictions for rape and abduction left his terrified mum \"a prisoner in her own home\".",
         "published": "Tue, 18 Aug 2026 10:22:02 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21334993/?type=app&htype=0"
+      },
+      {
+        "id": "4fc9d0340f3f36073b5eeb0bca1f8ce2",
+        "title": "Popular American singer announces HUGE tour with Glasgow date",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26473032.lucy-bedroque-perform-art-school-glasgow/",
+        "description": "Lucy Bedroque is set to perform at The Art School in Glasgow.",
+        "published": "Tue, 18 Aug 2026 09:51:54 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21333900/?type=app&htype=0"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/c20e2qe1lqpo#0",
@@ -1210,30 +1298,6 @@
         "description": "<p>Efforts will be made to ensure the much-loved Queens Park glasshouse stays open to the public and cash is found to bring it back to an \u201cexcellent standard\u201d and restore the dome, a meeting heard.  </p>",
         "published": "Mon, 17 Aug 2026 10:06:29 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/06/09/13/24/RUxNODgzMzE5NDA.jpg?width=1200&auto=webp&trim=133%2C0%2C0%2C0"
-      },
-      {
-        "id": "8924245",
-        "title": "Rangers outline transfer plans amid 'premium' claim as positive injury update issued ahead of European clash",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-outline-future-transfer-plans-amid-premium-claim-as-positive-injury-update-given-ahead-of-european-clash-8924245",
-        "description": "<p>Light Blues gaffer claims work is still needing to be done in the window</p>",
-        "published": "Mon, 17 Aug 2026 09:58:22 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/17/9/16/GettyImages-2290772140.jpeg?width=1200&auto=webp&trim=5%2C0%2C7%2C0"
-      },
-      {
-        "id": "8924410",
-        "title": "The 8 East Dunbartonshire high schools among Scotland's top performers in 2026 - as new school year begins",
-        "link": "https://www.glasgowworld.com/education/the-8-east-dunbartonshire-high-schools-among-scotlands-top-performers-in-2026-as-new-school-year-begins-8924410",
-        "description": "<p>These East Dunbartonshire secondary schools have maintained consistently high levels of student achievement.  </p>",
-        "published": "Mon, 17 Aug 2026 09:43:35 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/10/27/13/12/Screenshot-2025-10-27-132924.jpeg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/ckgdej0xxgyo#0",
-        "title": "Drugs, violence and racism: A week in Glasgow city centre",
-        "link": "https://www.bbc.co.uk/news/articles/ckgdej0xxgyo?at_medium=RSS&at_campaign=rss",
-        "description": "A BBC investigation captures people openly dealing and taking drugs, as well as thefts, arrests, and violence.",
-        "published": "Mon, 17 Aug 2026 05:03:50 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/427a/live/d941ff40-99fe-11f1-870d-5d08c49babb2.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
