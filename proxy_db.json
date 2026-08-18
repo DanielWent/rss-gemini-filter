@@ -441,6 +441,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "79694052c48144213523fec109a44857",
+        "title": "Meet the Milton of Campsie runner who raised nearly \u00a3800 for Breast Cancer UK",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26472817.trail-runner-raised-nearly-800-breast-cancer-uk/",
+        "description": "A fundraiser who took on a gruelling 26.5-mile trail run has raised almost \u00a3800 for Breast Cancer UK.",
+        "published": "Tue, 18 Aug 2026 09:10:21 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21333344/?type=app&htype=0"
+      },
+      {
         "id": "3f9b63be1da7259c9d56f593cb8015a7",
         "title": "Police warn drug dealers in THIS area - 'you should expect a visit'",
         "link": "https://www.glasgowtimes.co.uk/news/26467611.police-cracking-drug-dealing-east-dunbartonshire/?ref=rss",
@@ -475,6 +483,22 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c20e2qe1lqpo#0",
+        "title": "Ferguson shipyard to cut a quarter of its workforce",
+        "link": "https://www.bbc.co.uk/news/articles/c20e2qe1lqpo?at_medium=RSS&at_campaign=rss",
+        "description": "Work on the second of two long-delayed CalMac ferries is drawing to a close at the state-owned yard in Port Glasgow.",
+        "published": "Tue, 18 Aug 2026 08:39:57 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7127/live/f9c38180-9adf-11f1-b792-a710e56a11dc.jpg"
+      },
+      {
+        "id": "26ddbb43e37989507e26890a59af42e9",
+        "title": "Giant teacake and unicorn heads from Glasgow Commonwealth Games to go under hammer",
+        "link": "https://www.glasgowtimes.co.uk/news/26472892.giant-teacake-go-hammer-glasgow-auction/",
+        "description": "A giant teacake, unicorn heads and gold medal netballs are among the items set to go under the hammers in a Glasgow public auction",
+        "published": "Tue, 18 Aug 2026 09:28:04 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21333476/?type=app&htype=0"
+      },
       {
         "id": "cddde4cddc4c79444aae8c68d77cfcf5",
         "title": "More than 30,000 people gathered in Glasgow for festival of cultural and sound",
@@ -842,6 +866,14 @@
         "description": "The exciting new venture could be coming to the Botanics with an expansive menu for coffee and matcha fans.",
         "published": "Mon, 17 Aug 2026 14:45:04 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34472100.ece/ALTERNATES/s98/0_JS414868793.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cvgxym2kjy3o#0",
+        "title": "Hundreds of council workers face wages cut in end to equal pay row",
+        "link": "https://www.bbc.co.uk/news/articles/cvgxym2kjy3o?at_medium=RSS&at_campaign=rss",
+        "description": "Proposals would see new terms and conditions for Glasgow City Council staff introduced on a phased basis from April next year.",
+        "published": "Mon, 17 Aug 2026 14:41:40 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4643/live/6b9a6020-9a4b-11f1-a86b-519b4d19bbee.jpg"
       },
       {
         "id": "8925506",
