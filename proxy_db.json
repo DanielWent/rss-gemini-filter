@@ -294,6 +294,14 @@
     "description": "AI Filtered Google Blog Updates.",
     "articles": [
       {
+        "id": "https://blog.google/products-and-platforms/products/chrome/gemini-in-chrome-android-auto-browse/",
+        "title": "Tap into the power of Gemini in Chrome on Android.",
+        "link": "https://blog.google/products-and-platforms/products/chrome/gemini-in-chrome-android-auto-browse/",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Chewy_Bowl_Static_1.2.max-600x600.format-webp.webp\" />Gemini in Chrome is now available to all Android users in the U.S.",
+        "published": "Tue, 18 Aug 2026 19:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Chewy_Bowl_Static_1.2.max-600x600.format-webp.webp"
+      },
+      {
         "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
         "title": "Introducing Gemini 3.7 Flash",
         "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
@@ -516,6 +524,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8926691",
+        "title": "Club chief details Celtic transfer delay after Hoops finally get their man after lengthy pursuit",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/club-chief-details-celtic-transfer-delay-after-hoops-finally-get-their-man-after-lengthy-pursuit-8926691",
+        "description": "<p>Everything fell \u2018into place\u2019 eventually for the \u00a37m man</p>",
+        "published": "Tue, 18 Aug 2026 19:01:45 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/18/9/58/GettyImages-2243497033.jpeg?width=1200&auto=webp&trim=3%2C0%2C4%2C0"
+      },
+      {
+        "id": "8927629",
+        "title": "Rangers and Celtic accept defeat in transfer pursuit of in-demand \u00a38.5m winger bound for Ligue 1",
+        "link": "https://www.glasgowworld.com/sport/football/rangers-celtic-accept-defeat-transfer-pursuit-in-demand-ps85m-winger-ligue-1-8927629",
+        "description": "<p>The Glasgow giants are no longer pursuing a deal for the Algeria international </p>",
+        "published": "Tue, 18 Aug 2026 19:00:20 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/08/11/46/GettyImages-2271915322.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
         "id": "8927334",
         "title": "Celtic enter 'race' for star as key Parkhead exit opens up possible transfer chance for in-demand ace",
         "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-enter-race-for-star-as-key-parkhead-exit-opens-up-possible-transfer-chance-for-in-demand-ace-8927334",
@@ -586,14 +610,6 @@
         "description": "New of her death was shared by her granddaughter.",
         "published": "Tue, 18 Aug 2026 16:51:47 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34479880.ece/ALTERNATES/s98/0_Screenshot-2026-08-18-at-171854.png"
-      },
-      {
-        "id": "0bb008b7e328c5d248931286891eea41",
-        "title": "Green light given for student flats at site of former newspaper office in Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26475827.renfield-street-student-flats-co-living-plan-approved/",
-        "description": "Old newspaper offices in Glasgow city centre can be demolished to make way for a 20-storey student accommodation block and co-living homes.",
-        "published": "Tue, 18 Aug 2026 17:30:31 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20585732/?type=app&htype=0"
       },
       {
         "id": "5d6fb1c57d1d1fc88ecd1364602f3028",
@@ -796,14 +812,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21335703/?type=app&htype=0"
       },
       {
-        "id": "https://news.stv.tv/?p=525564",
-        "title": "Woman charged with attempting to pervert course of justice after police officers driven at in murder bid",
-        "link": "https://news.stv.tv/west-central/woman-charged-with-attempting-to-pervert-course-of-justice-after-police-officers-driven-at-in-murder-bid",
-        "description": "Detectives believe the suspect is travelling through Scotland with the help of 'associates'",
-        "published": "Tue, 18 Aug 2026 12:34:12 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/07/abb220d4ab14f30456caeedc9e80e401-1785072558-1280x720.jpeg"
-      },
-      {
         "id": "921bff2e63cf6ddf787e590bf318d721",
         "title": "Armed robber foiled by taxi driver he shot with a gun in Falkirk",
         "link": "https://www.heraldscotland.com/news/26474366.robber-armed-gun-foiled-cabbie-shot-falkirk/",
@@ -826,14 +834,6 @@
         "description": "Empty desks, echoing corridors and locked meeting rooms. That is the reality of taxpayer-funded office buildings that used to house thousands of civil servants.",
         "published": "Tue, 18 Aug 2026 13:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21335176/?type=app&htype=0"
-      },
-      {
-        "id": "441ee576febde16f64f4446acac02222",
-        "title": "Scottish civil service working from home: Our in-depth coverage in one place",
-        "link": "https://www.heraldscotland.com/news/26472508.scottish-civil-service-working-home-everything-need-know/",
-        "description": "Read all of The Herald's coverage of Scottish civil service working from home, from office attendance and costs to unions, policy and staff reaction.",
-        "published": "Tue, 18 Aug 2026 13:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/17717035/?type=app&htype=0"
       },
       {
         "id": "5298c731e3e935b20b6d429b5e65cdbb",
