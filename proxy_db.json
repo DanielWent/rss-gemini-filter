@@ -476,6 +476,54 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8925604",
+        "title": "How to watch Celtic v LASK Linz: TV channel, live stream, team news, referee and VAR for Champions League bout",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/how-to-watch-celtic-vs-lask-linz-tv-channel-live-stream-team-news-referee-and-var-for-champions-league-play-off-8925604",
+        "description": "<p>Everything you need to know about how to watch the champions in Europe</p>",
+        "published": "Tue, 18 Aug 2026 07:00:57 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/17/15/52/GettyImages-2258307938-(1).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "a9128a9dd6700633d3c95bb0d0ed5412",
+        "title": "Long delays on busy motorway outside Glasgow as crash closes lanes",
+        "link": "https://www.heraldscotland.com/news/26472629.long-delays-m8-outside-glasgow-crash-closes-lanes/",
+        "description": "Emergency services ar at the scene",
+        "published": "Tue, 18 Aug 2026 07:55:33 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21333105/?type=app&htype=0"
+      },
+      {
+        "id": "https://runabc.co.uk/mens-10k-edinburgh-running-builds-stronger-communities",
+        "title": "Men's 10K Edinburgh: Running Builds Stronger Communities",
+        "link": "https://runabc.co.uk/mens-10k-edinburgh-running-builds-stronger-communities",
+        "description": "<p><img alt=\"Edinburgh Men's 10K 2026\" src=\"https://runabc.co.uk/images/2026/08/edinburgh-mens-10k-2026-612338.jpg\" /></p>\n\t\t\t\t<p>Men's 10K Edinburgh shows how a shared running challenge can bring people together, creating connections that can continue beyond race day....</p>",
+        "published": "Tue, 18 Aug 2026 07:55:00 +0100",
+        "image_url": "https://runabc.co.uk/images/2026/08/edinburgh-mens-10k-2026-612338.jpg"
+      },
+      {
+        "id": "bde195637e0740de8bded2aec0a65ea8",
+        "title": "\u00a3300 million investment into AI will create thousands of jobs in Lanarkshire",
+        "link": "https://www.glasgowtimes.co.uk/news/26472624.thousands-jobs-coming-lanarkshire-ai-investment/",
+        "description": "The new roles in technology, engineering, construction and AI are part of a \u00a3300 million investment package for the region\u2019s AI Growth Zone.",
+        "published": "Tue, 18 Aug 2026 07:53:01 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20475441/?type=app&htype=0"
+      },
+      {
+        "id": "8926376",
+        "title": "Rangers to raid Aston Villa with 'obligation' agreed as chiefs ponder splashing 'significant fee' on winger",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-raid-aston-villa-obligation-agreed-chiefs-ponder-splashing-significant-fee-winger-8926376",
+        "description": "<p>Aston Villa are set to allow a star\u2019s Rangers move while the Ibrox side seek a winger.</p>",
+        "published": "Tue, 18 Aug 2026 06:52:43 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/02/03/9/53/GettyImages-2180307002.jpeg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "1301d504fb51dd522223895a61fcc2b9",
+        "title": "Central Belt town revealed as UK's fastest-moving property hotspot",
+        "link": "https://www.heraldscotland.com/news/26472598.falkirk-revealed-uks-fastest-moving-property-hotspot/",
+        "description": "Scotland takes all spots in the quickest-selling table - Here's why things different up here",
+        "published": "Tue, 18 Aug 2026 07:24:15 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/12239503/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/hmrc-cracks-down-dodgy-vape-34471266",
         "title": "HMRC cracks down on dodgy vape shops and barbers 'blighting' Glasgow streets",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/hmrc-cracks-down-dodgy-vape-34471266",
@@ -492,6 +540,14 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34474089.ece/ALTERNATES/s98/0_aa202ebd-9afd-489e-adb8-7ecab7897151jpeg.jpg"
       },
       {
+        "id": "1ec46827ceb1743a65cfa355c81922fb",
+        "title": "\u2018Free\u2019 childcare postcode lottery in Scotland as nursery rates vary by 62 per cent",
+        "link": "https://www.heraldscotland.com/news/26472249.free-childcare-postcode-lottery-nursery-rates-vary-62/",
+        "description": "Scotland\u2019s \u201cfree\u201d childcare scheme has become a stark postcode lottery, with taxpayers funding rates for the same place that vary by 62 per cent between council areas.",
+        "published": "Tue, 18 Aug 2026 06:33:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19975391/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/hatred-extremism-racism-no-place-34474284",
         "title": "'Hatred, extremism and racism have no place in Scotland', says John Swinney",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/hatred-extremism-racism-no-place-34474284",
@@ -500,12 +556,76 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article33519431.ece/ALTERNATES/s98/0_Scottish-Daily-Politics-2026.jpg"
       },
       {
+        "id": "fa469be4dcfded86e6713d0cb162dd35",
+        "title": "Anger as council response to EHRC code 'overwhelmingly framed around trans inclusion'",
+        "link": "https://www.heraldscotland.com/news/26472174.edinburghs-ehrc-response-criticised-trans-inclusive-framing/",
+        "description": "In June, city councillors voted to condemn the updated guidance from the EHRC as \u201cdiscriminatory against trans people\u201d.",
+        "published": "Tue, 18 Aug 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20183082/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c4g3qmygey4o#0",
         "title": "Second data centre planned for Lanarkshire as regulations tightened",
         "link": "https://www.bbc.co.uk/news/articles/c4g3qmygey4o?at_medium=RSS&at_campaign=rss",
         "description": "Tech company DataVita intend to expand their current site in Airdrie and construct a second centre in the area, previously designated as an AI growth zone.",
         "published": "Tue, 18 Aug 2026 05:18:49 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fe3/live/f2de4660-fc4d-11f0-8ee8-9f8ad0c97346.jpg"
+      },
+      {
+        "id": "9f78c37ac542f2549bdaf5f626a88afc",
+        "title": "'Wee but mighty' animal rescue opening adoption to more people",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26472252.glasgow-pet-collective-works-open-adoption-people/",
+        "description": "A pet rehoming charity in Glasgow is working to open up adoption to more potential owners.",
+        "published": "Tue, 18 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21332402/?type=app&htype=0"
+      },
+      {
+        "id": "36de2ca58bd30c69386f71e1305ea62c",
+        "title": "The real story behind new Glasgow Central Station mural which reinvents lost artwork",
+        "link": "https://www.glasgowtimes.co.uk/news/26471944.real-story-behind-new-glasgow-central-station-umbrella-artwork/",
+        "description": "A new ceramic mural at Glasgow Central Station revives the Drooko umbrella poster created by Glasgow Girls artists Margaret and Frances Macdonald. The work of Make It Glasgow and commissioned by Network Rail, it uses handmade tiles and a unique smog-glaze made from station dust.",
+        "published": "Tue, 18 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21332031/?type=app&htype=0"
+      },
+      {
+        "id": "2a786ab0cc68319175fc86fdef2530c4",
+        "title": "Archaeologists hope to solve mystery of ancient Glasgow earthwork with new dig",
+        "link": "https://www.heraldscotland.com/news/26471254.queens-park-dig-uncover-secrets-ancient-earthwork/",
+        "description": "A new dig hopes to solve a mystery that has endured for more than 100 years",
+        "published": "Tue, 18 Aug 2026 05:45:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21330852/?type=app&htype=0"
+      },
+      {
+        "id": "2a35ae11cf7af54622d38aaab8c64d6d",
+        "title": "Inside Scotland\u2019s civil service union row that forced a hybrid working rethink",
+        "link": "https://www.heraldscotland.com/news/26472115.civil-service-unions-forced-scots-hybrid-working-rethink/",
+        "description": "Civil service bosses in Scotland stepped in to stop penalising staff over hybrid working attendance following trade union concerns.",
+        "published": "Tue, 18 Aug 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20555113/?type=app&htype=0"
+      },
+      {
+        "id": "ef820df00c8c212c7c8ad6d08715b698",
+        "title": "Who approved Edinburgh Napier course branded \u2018unacceptable for Scotland\u2019?",
+        "link": "https://www.heraldscotland.com/news/26470352.neonatal-nursing-group-raised-concerns-edinburgh-napier-course/",
+        "description": "Scotland\u2019s neonatal nursing group raised concerns over Edinburgh Napier\u2019s QIS course, as fresh questions emerge over how the programme was approved.",
+        "published": "Tue, 18 Aug 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/14831837/?type=app&htype=0"
+      },
+      {
+        "id": "8cd94bd49a8e7350b2fa11e763d0c897",
+        "title": "Glasgow 'real momentum' as two Scottish cities outperform but supply warning",
+        "link": "https://www.heraldscotland.com/news/26471818.glasgow-edinburgh-office-markets-outperform-supply-warning/",
+        "description": "Glasgow's office market is showing 'real momentum' as figures reveal two Scottish cities outperforming but supply warning",
+        "published": "Tue, 18 Aug 2026 04:40:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/10487320/?type=app&htype=0"
+      },
+      {
+        "id": "cbdea5ecf986b6c781c589b8ab9119f7",
+        "title": "Why are Scottish businesses hiring for a recovery that has yet to arrive?",
+        "link": "https://www.heraldscotland.com/news/26470431.scotlands-jobs-market-defying-weak-economy/",
+        "description": "On the face of it, Scotland's economy should not be creating jobs, yet that is precisely what private sector employers are doing",
+        "published": "Tue, 18 Aug 2026 04:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21029957/?type=app&htype=0"
       },
       {
         "id": "2836b5a8def74a5d2bad3b2403b9bae4",
