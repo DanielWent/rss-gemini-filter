@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o#0",
+        "title": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
+        "link": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
+        "description": "OpenAI insisted this was not in response to a particular issue with children believing ChatGPT to be alive.",
+        "published": "Tue, 18 Aug 2026 11:26:26 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a091/live/d1a80e80-9aeb-11f1-930b-57cfba7235f9.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo#0",
         "title": "AI to help planes avoid climate-warming 'sky graffiti'",
         "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
@@ -492,6 +500,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=525564",
+        "title": "Woman charged with attempting to pervert course of justice after police officers driven at in murder bid",
+        "link": "https://news.stv.tv/west-central/woman-charged-with-attempting-to-pervert-course-of-justice-after-police-officers-driven-at-in-murder-bid",
+        "description": "Detectives believe the suspect is travelling through Scotland with the help of 'associates'",
+        "published": "Tue, 18 Aug 2026 12:34:12 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/07/abb220d4ab14f30456caeedc9e80e401-1785072558-1280x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-subway-stations-upgraded-more-34477469",
+        "title": "Glasgow Subway stations upgraded with more plans for modernisation ahead",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-subway-stations-upgraded-more-34477469",
+        "description": "15 stations - also including Queen Street Train Station and Partick Transport Interchange Hub - have been modernised for the third time since the Subway, which is the third oldest in the world, opened 1896.",
+        "published": "Tue, 18 Aug 2026 12:20:11 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article31938701.ece/ALTERNATES/s98/4_GettyImages-1036060382.jpg"
+      },
+      {
+        "id": "8927407",
+        "title": "Plans to create new outdoor wellbeing space in Coatbridge",
+        "link": "https://www.glasgowworld.com/news/plans-to-create-new-outdoor-wellbeing-space-in-coatbridge-8927407",
+        "description": "<p>Mental health campaign organisation Rural Rest is celebrating a major milestone after successfully securing a Community Asset Transfer from the council, paving the way for an ambitious new outdoor wellbeing space for local people.  </p>",
+        "published": "Tue, 18 Aug 2026 11:58:23 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/18/11/13/Screenshot-2026-08-18-125553.jpeg?width=1200&auto=webp&trim=0%2C4%2C0%2C3"
+      },
+      {
         "id": "ef7913aa86c205777bb4f6640254a843",
         "title": "Former Glasgow snooker champion appears in court accused of child sex abuse",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26474078.graeme-dott-child-sex-abuse-trial-begins-glasgow-high-court/",
@@ -594,6 +626,14 @@
         "description": "The suspects, who were all wearing black balaclavas, made off from the scene in a grey SUV.",
         "published": "Tue, 18 Aug 2026 09:30:14 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34475919.ece/ALTERNATES/s98/0_Screenshot-2026-08-18-102514.jpg"
+      },
+      {
+        "id": "596b0a48f2bb28de0073320905eb2a41",
+        "title": "'I thought he was going to kill me' - Mum's terror of rapist son amid curry sauce row",
+        "link": "https://www.glasgowtimes.co.uk/news/26473230.coatbridge-rapist-threw-fork-mum-row-spilt-curry-sauce/",
+        "description": "A brute with convictions for rape and abduction left his terrified mum \"a prisoner in her own home\".",
+        "published": "Tue, 18 Aug 2026 10:22:02 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21334993/?type=app&htype=0"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/c20e2qe1lqpo#0",
