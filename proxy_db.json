@@ -492,12 +492,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=525343",
+        "title": "Drug-smuggling social media influencer pictured at Scots music festival four months after being jailed",
+        "link": "https://news.stv.tv/west-central/drug-smuggling-social-media-influencer-pictured-at-glasgow-music-festival-four-months-after-being-jailed",
+        "description": "Ellie Crampsie was found to have over 17kg of cannabis stashed in her luggage as she travelled home from a holiday",
+        "published": "Tue, 18 Aug 2026 10:30:21 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/22a899460ecb801d51c0e0cbeaa990e9-1786970284.jpg"
+      },
+      {
+        "id": "61e6bee40185afcf0bf990f47ac3eb28",
+        "title": "We must take urgent action to help the Mitchell Library shine again",
+        "link": "https://www.heraldscotland.com/opinion/26472270.must-take-urgent-action-help-mitchell-library-shine/",
+        "description": "For many years the Mitchell Library has slid to near life-support",
+        "published": "Tue, 18 Aug 2026 11:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/5584147/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-rape-crisis-rejects-donations-34474397",
+        "title": "Glasgow Rape Crisis rejects donations from anti-immigration group over 'concerning' posts",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-rape-crisis-rejects-donations-34474397",
+        "description": "The charity were criticised online for turning away help, but insisted they needed to keep the trust of the community.",
+        "published": "Tue, 18 Aug 2026 10:23:06 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34215510.ece/ALTERNATES/s98/0_JS409427560.jpg"
+      },
+      {
         "id": "8926658",
         "title": "Rangers agree contract for player with 'big future' as he's set lofty Ibrox challenge by Derek McInnes",
         "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-agree-contract-player-big-future-ibrox-challenge-derek-mcinnes-8926658",
         "description": "<p>Teenage goalkeeping prospect tipped for a bright future continues to earn rave reviews</p>",
         "published": "Tue, 18 Aug 2026 10:20:31 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/18/9/29/21351292.jpeg?width=1200&auto=webp&trim=0%2C42%2C0%2C43"
+      },
+      {
+        "id": "8baf72ae71344b433b7496e817ef1b64",
+        "title": "Plans to use South Sub for tram-trains take step forward as feasibility study begins",
+        "link": "https://www.heraldscotland.com/news/26473491.excitement-tram-train-plans-edinburgh-one-step-closer-reality/",
+        "description": "Tram-trains, which are used in a number of European cities, are sturdier and capable of going at higher speeds than normal trams.",
+        "published": "Tue, 18 Aug 2026 11:15:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19027928/?type=app&htype=0"
       },
       {
         "id": "aa27a4439d9419c860ad81353c4e66c9",
