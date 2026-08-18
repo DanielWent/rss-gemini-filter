@@ -476,6 +476,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/hatred-extremism-racism-no-place-34474284",
+        "title": "'Hatred, extremism and racism have no place in Scotland', says John Swinney",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/hatred-extremism-racism-no-place-34474284",
+        "description": "The First Minister will meet anti-racism campaigners today.",
+        "published": "Tue, 18 Aug 2026 05:31:18 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article33519431.ece/ALTERNATES/s98/0_Scottish-Daily-Politics-2026.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c4g3qmygey4o#0",
         "title": "Second data centre planned for Lanarkshire as regulations tightened",
         "link": "https://www.bbc.co.uk/news/articles/c4g3qmygey4o?at_medium=RSS&at_campaign=rss",
