@@ -497,6 +497,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "81e005989e1261f8b16c4468bdff32b6",
+        "title": "Emergency response after cyclist struck by vehicle in busy town centre",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26475918.cyclist-struck-vehicle-park-road-milngavie/",
+        "description": "A cyclist was checked over by paramedics after being struck by a car in a busy town centre.",
+        "published": "Tue, 18 Aug 2026 18:05:52 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18555865/?type=app&htype=0"
+      },
+      {
         "id": "79694052c48144213523fec109a44857",
         "title": "Meet the Milton of Campsie runner who raised nearly \u00a3800 for Breast Cancer UK",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26472817.trail-runner-raised-nearly-800-breast-cancer-uk/",
