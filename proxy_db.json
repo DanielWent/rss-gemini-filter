@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo#0",
+        "title": "AI to help planes avoid climate-warming 'sky graffiti'",
+        "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
+        "description": "A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.",
+        "published": "Tue, 18 Aug 2026 09:26:41 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/975e/live/208c6990-9ae4-11f1-b2f7-5d1639b20e22.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o#3",
         "title": "US hiker dies after being struck by lightning on Mount Etna",
         "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
@@ -483,6 +491,14 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/armed-wishaw-gang-attack-man-34475811",
+        "title": "Armed Wishaw gang attack man in violent 'targeted' murder bid in broad daylight",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/armed-wishaw-gang-attack-man-34475811",
+        "description": "The suspects, who were all wearing black balaclavas, made off from the scene in a grey SUV.",
+        "published": "Tue, 18 Aug 2026 09:30:14 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34475919.ece/ALTERNATES/s98/0_Screenshot-2026-08-18-102514.jpg"
+      },
       {
         "id": "https://www.bbc.co.uk/news/articles/c20e2qe1lqpo#0",
         "title": "Ferguson shipyard to cut a quarter of its workforce",
@@ -970,14 +986,6 @@
         "description": "Construction on a new luxury care home is well underway, with the facility beginning to take shape.",
         "published": "Mon, 17 Aug 2026 14:29:53 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21330770/?type=app&htype=0"
-      },
-      {
-        "id": "4d483112d266ea679edda0b876f256ae",
-        "title": "Giant teacake and unicorn heads among Glasgow 2026 Games memorabilia up for auction",
-        "link": "https://www.heraldscotland.com/news/26471107.glasgow-2026-commonwealth-games-memorabilia-goes-auction/",
-        "description": "A giant teacake, illuminated unicorn heads and sporting memorabilia from Glasgow 2026 will go under the hammer at an official auction.",
-        "published": "Mon, 17 Aug 2026 14:25:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21330579/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-parents-scotland-warned-over-34471849",
