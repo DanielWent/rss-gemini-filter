@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1787077817834005",
+        "title": "Earthquake rocks Spain's historic Granada, injuring three",
+        "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
+        "description": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has closed temporarily.",
+        "published": "Tue, 18 Aug 2026 19:15:39 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f93/live/6bc5d050-9b24-11f1-9a2c-6d6ac3827d20.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o#0",
         "title": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
         "link": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
@@ -507,6 +515,30 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "8927334",
+        "title": "Celtic enter 'race' for star as key Parkhead exit opens up possible transfer chance for in-demand ace",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-enter-race-for-star-as-key-parkhead-exit-opens-up-possible-transfer-chance-for-in-demand-ace-8927334",
+        "description": "<p>Another midfield transfer target has come to light for the Hoops</p>",
+        "published": "Tue, 18 Aug 2026 18:00:42 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/18/12/54/GettyImages-2259108899.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "10ecac8569414bccf25581d6c192fe41",
+        "title": "20-storey student block approved for site of old newspaper offices",
+        "link": "https://www.heraldscotland.com/news/26475962.20-storey-student-block-approved-glasgow-city-centre-site/",
+        "description": "Old newspaper offices in Glasgow city centre can be demolished to make way for a 20-storey student accommodation block and co-living homes.",
+        "published": "Tue, 18 Aug 2026 18:33:56 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21338027/?type=app&htype=0"
+      },
+      {
+        "id": "fb8d5289a9e95c8f46fe098f1f74056e",
+        "title": "'I have been totally cleared': Sturgeon says she was not considered for prosecution",
+        "link": "https://www.heraldscotland.com/news/26475952.i-not-even-considered-prosecution--says-sturgeon/",
+        "description": "Nicola Sturgeon told the Edinburgh Book Festival she had been fully cleared of wrongdoing in the SNP finances investigation.",
+        "published": "Tue, 18 Aug 2026 18:29:55 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21338019/?type=app&htype=0"
+      },
       {
         "id": "8928345",
         "title": "Martin O'Neill assesses Celtic transfer chances before Champions League decider amid 'disappointing' departure",
@@ -1282,30 +1314,6 @@
         "description": "It's the fifth animal in Scotland to test positive for the virus",
         "published": "Mon, 17 Aug 2026 14:51:20 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2025/06/083963ae2225ca1d8176fbe029c670fa-1749130161-1280x720.jpeg"
-      },
-      {
-        "id": "15de8fedd49062364d9d0c6221698b34",
-        "title": "Everything we know after two found dead in Glasgow home as area locked down",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26471700.everything-know-two-dead-chancellor-street/",
-        "description": "Two men were found dead inside a home on Chancellor Street in Glasgow's Partick.",
-        "published": "Mon, 17 Aug 2026 15:49:51 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21329664/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/brand-new-coffee-spot-phils-34471544",
-        "title": "Brand new coffee spot Phil's teases west end location with new menu",
-        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/brand-new-coffee-spot-phils-34471544",
-        "description": "The exciting new venture could be coming to the Botanics with an expansive menu for coffee and matcha fans.",
-        "published": "Mon, 17 Aug 2026 14:45:04 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34472100.ece/ALTERNATES/s98/0_JS414868793.jpg"
-      },
-      {
-        "id": "8925506",
-        "title": "Thousands enjoy Paisley 10k and Fun Run over the weekend",
-        "link": "https://www.glasgowworld.com/news/thousands-enjoy-paisley-10k-and-fun-run-over-the-weekend-8925506",
-        "description": "<p> World Cup hero Craig Ferguson has hailed the fantastic experience of starting - and running - in this year\u2019s Paisley 10k. </p>",
-        "published": "Mon, 17 Aug 2026 14:28:38 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/17/14/51/unnamed.jpeg?width=1200&auto=webp&trim=202%2C0%2C202%2C0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
