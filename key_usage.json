@@ -25,7 +25,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 32,
+        "daily_requests": 33,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -39,7 +39,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 32,
+        "daily_requests": 33,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -53,7 +53,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 32,
+        "daily_requests": 33,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -67,7 +67,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 32,
+        "daily_requests": 33,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -81,7 +81,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 32,
+        "daily_requests": 33,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -95,7 +95,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 32,
+        "daily_requests": 33,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -137,7 +137,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 31,
+        "daily_requests": 32,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -151,7 +151,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 31,
+        "daily_requests": 32,
         "exhausted": false
       },
       "gemini-3.6-flash": {

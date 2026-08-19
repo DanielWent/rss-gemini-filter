@@ -612,14 +612,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21343904/?type=app&htype=0"
       },
       {
-        "id": "d1726479b6a1a444ec206fb692a29623",
-        "title": "Iconic Batmobile arrives in Glasgow as city prepares to double as Gotham City again",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26479429.batmobile-arrives-glasgow-shooting-batman-part-2/",
-        "description": "The iconic Batmobile has officially arrived on the streets of Glasgow, which will once again double as Gotham City in an upcoming Hollywood blockbuster.",
-        "published": "Wed, 19 Aug 2026 17:29:42 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21343910/?type=app&htype=0"
-      },
-      {
         "id": "a25ccddb28d205cbad2d4da7b7b001a4",
         "title": "Section of busy Glasgow road undergoing layout changes to close for weeks",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26479391.provanmill-road-closure-roadworks-last-two-weeks/",
@@ -658,6 +650,14 @@
         "description": "Questions on how the city council will implement Awaab\u2019s law to ensure complaints of damp and mouldy properties are dealt with have been raised by a local councillor",
         "published": "Wed, 19 Aug 2026 16:58:23 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20082863/?type=app&htype=0"
+      },
+      {
+        "id": "04e10666e22e505f4516f5dd8da23703",
+        "title": "Edinburgh book festival boss urges visitor levy rethink over proposed \u00a32500 share",
+        "link": "https://www.heraldscotland.com/news/26479279.edinburgh-book-festival-urges-tourist-tax-rethink-2500-share/",
+        "description": "Director Jenny Niven said the event has been hit with a \u00a310,000 increase in its accommodation costs as a result of the new charge.",
+        "published": "Wed, 19 Aug 2026 16:57:31 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21258985/?type=app&htype=0"
       },
       {
         "id": "155424a3bc62ca004c10d3bf51706822",
@@ -764,14 +764,6 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34484204.ece/ALTERNATES/s98/0_Screenshot-2026-08-19-at-21610PM.png"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/awaabs-law-create-10-3-34483844",
-        "title": "Awaab's Law to create '10-3-5 rule' for Glasgow landlords of damp and mouldy properties",
-        "link": "https://www.glasgowlive.co.uk/news/awaabs-law-create-10-3-34483844",
-        "description": "The council was asked to clarify how the new law, coming into force on October 6, would be implemented in the city.",
-        "published": "Wed, 19 Aug 2026 14:02:17 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article31222980.ece/ALTERNATES/s98/0_JS317081369.jpg"
-      },
-      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/plans-build-1000-homes-glasgow-34484256",
         "title": "Plans to build 1,000 homes on Glasgow wasteland empty for three decades",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/plans-build-1000-homes-glasgow-34484256",
@@ -866,14 +858,6 @@
         "description": "Young performers are being invited to audition for a festive pantomime set to take to the stage in Glasgow.",
         "published": "Wed, 19 Aug 2026 13:05:07 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21341436/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/partick-murder-victims-pictured-police-34483282",
-        "title": "Partick murder victims pictured as police appeal for help \u2018to get answers\u2019 for grieving families",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/partick-murder-victims-pictured-police-34483282",
-        "description": "&quot;Please do not assume that the police already know the information you have.&quot;",
-        "published": "Wed, 19 Aug 2026 12:00:06 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34483290.ece/ALTERNATES/s98/1_Screenshot-2026-08-19-at-124719.png"
       },
       {
         "id": "6969d424435f40131c9d0aa75b51f253",
@@ -1098,14 +1082,6 @@
         "description": "George Anderson died while working in Brodick.",
         "published": "Wed, 19 Aug 2026 07:33:13 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34480996.ece/ALTERNATES/s98/0_JS198085046.jpg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=525677",
-        "title": "Lorry bursts into flames at site of Glasgow road works",
-        "link": "https://news.stv.tv/west-central/lorry-bursts-into-flames-at-site-of-glasgow-road-works",
-        "description": "Emergency services were called to New City Road, near Phoenix Road, which has been the site of planned M8 viaduct works since March 2021,",
-        "published": "Wed, 19 Aug 2026 07:28:39 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/9d3bae0816153ae3812a8917609e27cf-1787124457-1280x720.jpeg"
       },
       {
         "id": "7fa7eb28a8e0824d145982090aabf9cf",
@@ -1362,14 +1338,6 @@
         "description": "New of her death was shared by her granddaughter.",
         "published": "Tue, 18 Aug 2026 16:51:47 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34479880.ece/ALTERNATES/s98/0_Screenshot-2026-08-18-at-171854.png"
-      },
-      {
-        "id": "https://news.stv.tv/?p=525642",
-        "title": "Man taken to hospital after First bus crashes into cherry picker in Glasgow",
-        "link": "https://news.stv.tv/west-central/man-taken-to-hospital-after-bus-crashes-into-cherry-picker",
-        "description": "A worker operating the cherry picker's elevated platform was taken to hospital",
-        "published": "Tue, 18 Aug 2026 16:15:18 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/03/6694c16f987691dc965a38dd6609abf1-1772544631-1280x720.jpeg"
       },
       {
         "id": "5d6fb1c57d1d1fc88ecd1364602f3028",
