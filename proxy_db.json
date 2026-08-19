@@ -588,12 +588,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "7a27dbc19f7096b491fe09b5469dd047",
+        "title": "Van driver set to stand trial accused of killing woman and ponies",
+        "link": "https://www.glasgowtimes.co.uk/news/26479120.van-driver-set-stand-trial-accused-killing-woman-howwood/",
+        "description": "A van driver is to stand trial charged with killing a woman in head-on crash in Howwood.",
+        "published": "Wed, 19 Aug 2026 16:32:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21343165/?type=app&htype=0"
+      },
+      {
         "id": "f9f6cf1d47b7e0f4ae2151954c29b4ef",
         "title": "UK company with Glasgow offices officially named Great Place to Work",
         "link": "https://www.glasgowtimes.co.uk/news/26478820.uk-firm-vital-energi-officially-named-great-place-work/",
         "description": "Vital Energi, which has offices in Glasgow has been officially certified as a Great Place to Work.",
         "published": "Wed, 19 Aug 2026 15:46:48 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21342821/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=525774",
+        "title": "Case of \u2018mad cow disease\u2019 confirmed on Dumfries and Galloway farm",
+        "link": "https://news.stv.tv/west-central/case-of-mad-cow-disease-confirmed-on-dumfries-and-galloway-farm",
+        "description": "The Scottish Government confirmed that the BSE case, which is an always fatal neurodegenerative disease, was found during routine surveillance",
+        "published": "Wed, 19 Aug 2026 14:46:43 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2022/11/b33746f670588389d5388d146ec8f450-1668867184.jpg"
       },
       {
         "id": "bb80359b8f60adc0908c02b2189eea12",
@@ -676,6 +692,14 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21342134/?type=app&htype=0"
       },
       {
+        "id": "4b329b9fd12cbaa092e194567d090ed6",
+        "title": "Community lobbies MPs and MSPs over \u2018ludicrous' law endangering historic ferry route",
+        "link": "https://www.heraldscotland.com/news/26478378.community-lobbies-politicians-threat-skye-ferry-route/",
+        "description": "Campaigners have called on politicians to step in to help a tiny West Coast community which has to pay thousands of pounds each year to an \"absentee landowner\" to operate a historic ferry route.",
+        "published": "Wed, 19 Aug 2026 14:33:27 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21342362/?type=app&htype=0"
+      },
+      {
         "id": "57adfa29d4d5ce2dfdcd75f57a03e768",
         "title": "Court hears Graeme Dott told boy to 'stay out of room' while he abused young girl",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26478293.graeme-dott-told-boy-stay-room-girl-high-court-hears/",
@@ -706,6 +730,14 @@
         "description": "BBC documentary around St Enoch Square in Glasgow reveals troubling scenes, yet dodges the bigger questions concern government policy, policing and urban decline",
         "published": "Wed, 19 Aug 2026 13:30:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21337721/?type=app&htype=0"
+      },
+      {
+        "id": "9c3d6ec9a4c2cd8957665138573d786b",
+        "title": "Further road works set to slow down already plagued Glasgow road",
+        "link": "https://www.glasgowtimes.co.uk/news/26478067.maryhill-road-works-extend-even-street/",
+        "description": "Works have cleared at the junction of Maryhill Road and Bilsland Drive but will progress west bound down the former, all the way up to its junction with Garrioch Road.",
+        "published": "Wed, 19 Aug 2026 13:28:57 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19036953/?type=app&htype=0"
       },
       {
         "id": "ad749a265853206a163d77d0f3d16a0c",
@@ -1354,38 +1386,6 @@
         "description": "The owners of the famous Green Welly Stop have announced they are to sell the A82 roadside service that last year marked its 60th birthday.",
         "published": "Tue, 18 Aug 2026 14:39:46 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21336549/?type=app&htype=0"
-      },
-      {
-        "id": "2698ad7be8b84051bcf50fed38538fbf",
-        "title": "SNP ministers take GFG Alliance to court over 'unauthorised' Lochaber transactions",
-        "link": "https://www.heraldscotland.com/news/26474769.scottish-ministers-take-gfg-alliance-court-smelter/",
-        "description": "Scottish ministers are taking Sanjeev Gupta's under-pressure GFG Alliance to court after discovering \"unauthorised transactions\" at its Lochaber aluminium smelter, The Herald can reveal.",
-        "published": "Tue, 18 Aug 2026 14:35:53 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20576236/?type=app&htype=0"
-      },
-      {
-        "id": "27437a7047c021ff7c20a0be81859e7d",
-        "title": "A-listed Edinburgh church near Calton Hill put up for sale for more than \u00a31,000,000",
-        "link": "https://www.heraldscotland.com/news/26474648.edinburgh-church-linked-robert-louis-stevenson-market-1m/",
-        "description": "Greenside Parish Church, located at the base of Calton Hill on Royal Terrace, closed in 2024 following a merger with other local congregations.",
-        "published": "Tue, 18 Aug 2026 14:27:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21335872/?type=app&htype=0"
-      },
-      {
-        "id": "a0c7d55a20313338b988b53ef16c9dfe",
-        "title": "Chef's hammer rampage at Glasgow restaurant amid dispute over wages",
-        "link": "https://www.glasgowtimes.co.uk/news/26474663.chefs-hammer-rampage-glasgow-restuarant-amid-dispute-wages/",
-        "description": "A chef who brandished a hammer at his former manager amid a dispute over wages was locked up today.",
-        "published": "Tue, 18 Aug 2026 14:20:04 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16885149/?type=app&htype=0"
-      },
-      {
-        "id": "b39761ead6fe3561af1cb968a8df9a3c",
-        "title": "Glasgow becomes a Gotham winter wonderland as new photos from Batman shoot emerge",
-        "link": "https://www.glasgowtimes.co.uk/news/26474658.batman-part-2-sets-begin-construction-glasgow/",
-        "description": "The streets of Glasgow's city centre are being prepared for the shooting of Matt Reeves' The Batman Part 2.",
-        "published": "Tue, 18 Aug 2026 14:19:21 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21335941/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
