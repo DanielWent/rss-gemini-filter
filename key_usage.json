@@ -3,7 +3,7 @@
   "keys": {
     "ff8b60d30e0f970d": {
       "gemini-3.5-flash-lite": {
-        "daily_requests": 3,
+        "daily_requests": 5,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -21,7 +21,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 3,
+        "daily_requests": 5,
         "exhausted": false
       }
     },
@@ -31,7 +31,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 3,
+        "daily_requests": 4,
         "exhausted": false
       }
     },
@@ -41,7 +41,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 2,
+        "daily_requests": 4,
         "exhausted": false
       }
     },
@@ -51,7 +51,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 2,
+        "daily_requests": 4,
         "exhausted": false
       }
     },
@@ -61,7 +61,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 2,
+        "daily_requests": 4,
         "exhausted": false
       }
     },
@@ -71,7 +71,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 2,
+        "daily_requests": 4,
         "exhausted": false
       }
     },
@@ -81,7 +81,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 2,
+        "daily_requests": 4,
         "exhausted": false
       }
     },
@@ -91,7 +91,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 2,
+        "daily_requests": 4,
         "exhausted": false
       }
     },
@@ -101,7 +101,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 2,
+        "daily_requests": 4,
         "exhausted": false
       }
     },
@@ -111,7 +111,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 2,
+        "daily_requests": 4,
         "exhausted": false
       }
     }

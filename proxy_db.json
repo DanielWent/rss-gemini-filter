@@ -564,6 +564,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8928736",
+        "title": "Celtic in 'advanced negotiations' over next summer transfer as they're set to raid former Hoops boss for star",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-advanced-negotiations-next-summer-transfer-raid-former-hoops-boss-8928736",
+        "description": "<p>Celtic are looking for a new goalkeeper in the summer transfer window.</p>",
+        "published": "Wed, 19 Aug 2026 08:00:22 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/19/7/36/GettyImages-2267692568.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "8928713",
+        "title": "Aston Villa player 'on the verge' of Rangers transfer as medical completed and fee agreed on one condition",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/aston-villa-player-on-verge-rangers-transfer-medical-completed-fee-agreed-8928713",
+        "description": "<p>The Aston Villa player looks set to swap the Premier League for a Rangers transfer chance.</p>",
+        "published": "Wed, 19 Aug 2026 08:00:15 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/18/7/40/GettyImages-2213314578.jpg?width=1200&auto=webp&trim=144%2C0%2C144%2C0"
+      },
+      {
+        "id": "8928591",
+        "title": "Three-bedroom Glasgow house with mature gardens and driveway for \u00a3330,000 (aff)",
+        "link": "https://www.glasgowworld.com/lifestyle/homes-and-gardens/glasgow-house-jordanhill-drive-family-8928591",
+        "description": "<p>  This well-presented semi-detached villa offers three bedrooms, a dining kitchen, generous gardens and useful attic storage in the popular Jordanhill area  </p>",
+        "published": "Wed, 19 Aug 2026 07:58:47 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/18/22/36/hw8iy9yctrl5ywt2nz5c.jpeg?width=1200&auto=webp&trim=0%2C4%2C0%2C4"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-man-46-electrocuted-work-34480970",
+        "title": "Lanarkshire man, 46, electrocuted at work as inquiry to probe tragic death",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-man-46-electrocuted-work-34480970",
+        "description": "George Anderson died while working in Brodick.",
+        "published": "Wed, 19 Aug 2026 07:33:13 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34480996.ece/ALTERNATES/s98/0_JS198085046.jpg"
+      },
+      {
+        "id": "04dd4558218ba80bd640dcd279cb5645",
+        "title": "'Really dangerous' Glasgow taxi rank to remain in use despite locals' removal bid",
+        "link": "https://www.glasgowtimes.co.uk/news/26476334.glasgow-taxi-rank-remain-use-removal-bid/",
+        "description": "Glasgow City Council was asked to revoke the rank on Queen Margaret Drive \u2014 between Ruskin Lane and Great Western Road.",
+        "published": "Wed, 19 Aug 2026 08:19:17 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21331699/?type=app&htype=0"
+      },
+      {
         "id": "8927509",
         "title": "Celtic predicted XI vs LASK Linz as surprise suspension makes room for Parkhead debut in Champions League",
         "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-predicted-xi-vs-lask-linz-as-surprise-suspension-makes-room-for-parkhead-debut-in-champions-league-play-off-8927509",
@@ -586,6 +626,14 @@
         "description": "<p><img alt=\"Great Scottish Run 2026 preview 1\" src=\"https://runabc.co.uk/images/2026/08/great-scottish-run-2026-729232.jpg\" /></p>\n\t\t\t\t<p>Our five-week AJ Bell Great Scottish Run countdown begins as Glasgow turns an unforgettable summer of sport into its next big running challenge....</p>",
         "published": "Wed, 19 Aug 2026 07:55:00 +0100",
         "image_url": "https://runabc.co.uk/images/2026/08/great-scottish-run-2026-729232.jpg"
+      },
+      {
+        "id": "c1dc920606baf5cbe77e57aa1fb1080b",
+        "title": "George Square statue to remain without its sword after report citing slavery links",
+        "link": "https://www.glasgowtimes.co.uk/news/26476288.george-square-statue-will-stay-swordless-amid-slavery-links/",
+        "description": "The sword went missing in 1980 and has been absent since. Recent conservation work to refurbish the\u00a0 Glasgow statue included the recreation of the sword.",
+        "published": "Wed, 19 Aug 2026 07:48:13 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21338984/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mums-brain-tumour-dismissed-34480779",
@@ -706,14 +754,6 @@
         "description": "The head of the company in Scotland said it is 'incredibly proud' of the \u00a3200m milestone",
         "published": "Wed, 19 Aug 2026 04:35:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21335623/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-explosion-emergency-services-rush-34480622",
-        "title": "Glasgow 'explosion' as emergency services rush to battle huge van fire near M8",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-explosion-emergency-services-rush-34480622",
-        "description": "A van is said to have 'exploded twice' and 'caught fire' while parked on a street in the Cowcaddens area of Glasgow",
-        "published": "Wed, 19 Aug 2026 00:27:12 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34480621.ece/ALTERNATES/s98/0_Screenshot-2026-08-19-at-093322.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-luxury-student-flats-featuring-34480483",
@@ -1322,46 +1362,6 @@
         "description": "Civil service bosses in Scotland stepped in to stop penalising staff over hybrid working attendance following trade union concerns.",
         "published": "Tue, 18 Aug 2026 05:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20555113/?type=app&htype=0"
-      },
-      {
-        "id": "ef820df00c8c212c7c8ad6d08715b698",
-        "title": "Who approved Edinburgh Napier course branded \u2018unacceptable for Scotland\u2019?",
-        "link": "https://www.heraldscotland.com/news/26470352.neonatal-nursing-group-raised-concerns-edinburgh-napier-course/",
-        "description": "Scotland\u2019s neonatal nursing group raised concerns over Edinburgh Napier\u2019s QIS course, as fresh questions emerge over how the programme was approved.",
-        "published": "Tue, 18 Aug 2026 05:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/14831837/?type=app&htype=0"
-      },
-      {
-        "id": "8cd94bd49a8e7350b2fa11e763d0c897",
-        "title": "Glasgow 'real momentum' as two Scottish cities outperform but supply warning",
-        "link": "https://www.heraldscotland.com/news/26471818.glasgow-edinburgh-office-markets-outperform-supply-warning/",
-        "description": "Glasgow's office market is showing 'real momentum' as figures reveal two Scottish cities outperforming but supply warning",
-        "published": "Tue, 18 Aug 2026 04:40:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/10487320/?type=app&htype=0"
-      },
-      {
-        "id": "cbdea5ecf986b6c781c589b8ab9119f7",
-        "title": "Why are Scottish businesses hiring for a recovery that has yet to arrive?",
-        "link": "https://www.heraldscotland.com/news/26470431.scotlands-jobs-market-defying-weak-economy/",
-        "description": "On the face of it, Scotland's economy should not be creating jobs, yet that is precisely what private sector employers are doing",
-        "published": "Tue, 18 Aug 2026 04:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21029957/?type=app&htype=0"
-      },
-      {
-        "id": "2836b5a8def74a5d2bad3b2403b9bae4",
-        "title": "Satellite technology brings broadband to remote Scottish railway route",
-        "link": "https://www.heraldscotland.com/news/26472354.satellite-technology-brings-broadband-remote-scottish-railway-route/",
-        "description": "Passengers travelling on one of Scotland\u2019s most scenic and remote rail routes are set to\u00a0benefit\u00a0from reliable broadband connectivity\u00a0thanks to a new\u00a0satellite\u00a0communications trial backed by the UK Government.",
-        "published": "Tue, 18 Aug 2026 00:03:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20169677/?type=app&htype=0"
-      },
-      {
-        "id": "0b6eee88a538d6daac56894780ea79f9",
-        "title": "'Tone deaf': Fringe chief brands city council 'farcical' over new funding snub",
-        "link": "https://www.heraldscotland.com/news/26471053.fringe-chief-attacks-farcical-council-visitor-levy-funding-snub/",
-        "description": "Tony Lankester has suggested a 'loophole' was used to shut down a debate on future support for Edinburgh's festivals.",
-        "published": "Tue, 18 Aug 2026 00:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19375175/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
