@@ -310,6 +310,14 @@
     "description": "AI Filtered Google Blog Updates.",
     "articles": [
       {
+        "id": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
+        "title": "Start the semester with one year of Gemini, on us",
+        "link": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
+        "description": "Text reading: \"Google Gemini\" and \"Claim your student plan for 1 year at no cost\"",
+        "published": "Wed, 19 Aug 2026 19:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_gemini_hero_withcopy.max-600x600.format-webp.webp"
+      },
+      {
         "id": "https://blog.google/products-and-platforms/products/chrome/gemini-in-chrome-android-auto-browse/",
         "title": "Tap into the power of Gemini in Chrome on Android.",
         "link": "https://blog.google/products-and-platforms/products/chrome/gemini-in-chrome-android-auto-browse/",
@@ -596,12 +604,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "ff99f5ae79fdf17889a09a5da4b62171",
+        "title": "City centre street taped off by emergency services amid incident",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26479538.glasgows-elmbank-street-taped-off-amid-incident/",
+        "description": "Emergency services have taped off part of a street in Glasgow city centre this evening amid an incident.",
+        "published": "Wed, 19 Aug 2026 18:35:33 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21344050/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/glasgow-becomes-gotham-once-more-34486327",
         "title": "Glasgow becomes Gotham once more as Batman sequel begins filming",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/glasgow-becomes-gotham-once-more-34486327",
         "description": "Fans have been sending in the latest pictures from around the city as the Batman film crew take over.",
         "published": "Wed, 19 Aug 2026 17:01:16 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34485804.ece/ALTERNATES/s98/0_distanceJPG.jpg"
+      },
+      {
+        "id": "940e71213a6fbce067c385b7cc06d659",
+        "title": "Marra's vow to 'end offshoring of good jobs in Scotland' with public contract change",
+        "link": "https://www.heraldscotland.com/news/26479398.michael-marra-pledges-scottish-jobs-guarantee-contracts/",
+        "description": "Michael Marra has pledged to embed a jobs guarantee in public contracts if he becomes the next First Minister of Scotland.",
+        "published": "Wed, 19 Aug 2026 18:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20741434/?type=app&htype=0"
       },
       {
         "id": "a5e7777330bb2c77f93d481daa0238ad",
