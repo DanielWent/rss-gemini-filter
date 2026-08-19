@@ -580,6 +580,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "f6624cf14cb559b7ea207b7d1a8d7d44",
+        "title": "Masked gangs, drugs and disorder: what the BBC got wrong about Glasgow",
+        "link": "https://www.heraldscotland.com/politics/viewpoint/26478023.bbc-scotlands-disclosure-documentary-glasgow-predictable/",
+        "description": "BBC documentary around St Enoch Square in Glasgow reveals troubling scenes, yet dodges the bigger questions concern government policy, policing and urban decline",
+        "published": "Wed, 19 Aug 2026 13:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21337721/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgows-last-landfill-close-expansion-34482783",
         "title": "Glasgow's last landfill to close as expansion appeal rejected amid ongoing neighbour complaints",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgows-last-landfill-close-expansion-34482783",
@@ -618,14 +626,6 @@
         "description": "Fire crews were called to the scene near the Chinatown Restaurant around 11.20pm on Tuesday, August 18.",
         "published": "Wed, 19 Aug 2026 12:52:40 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21341406/?type=app&htype=0"
-      },
-      {
-        "id": "836a91ba902960193e3d05ac8d81155a",
-        "title": "Murder investigation launched following deaths of two men in Partick",
-        "link": "https://www.heraldscotland.com/news/26477828.murder-investigation-following-deaths-two-men-partick/",
-        "description": "Police have launched a murder investigation after two men were found dead in a flat in Glasgow.",
-        "published": "Wed, 19 Aug 2026 12:49:06 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20245070/?type=app&htype=0"
       },
       {
         "id": "8929551",
@@ -690,14 +690,6 @@
         "description": "The Herald has reported how 950 members of staff at the university have been made redundant since senior managers launched the savings drive last year.",
         "published": "Wed, 19 Aug 2026 12:17:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21033937/?type=app&htype=0"
-      },
-      {
-        "id": "4697558e87b31616a8e20dcdc00dbfe6",
-        "title": "Public Health Scotland urging students to get menB vaccine before start of new term",
-        "link": "https://www.heraldscotland.com/news/26477593.scottish-students-urged-get-menb-vaccine-start-new-term/",
-        "description": "Young people are being urged to ensure they have their second dose of vaccination against potentially deadly meningitis B (menB) to help protect them before starting college or university.",
-        "published": "Wed, 19 Aug 2026 12:08:43 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21340906/?type=app&htype=0"
       },
       {
         "id": "abd3c1ac71b201df95b7360a1231bea3",
@@ -780,14 +772,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21340542/?type=app&htype=0"
       },
       {
-        "id": "8929161",
-        "title": "Rudy\u2019s Pizza Napoletana announces first Scottish pizzeria in Glasgow",
-        "link": "https://www.glasgowworld.com/lifestyle/food-and-drink/rudys-pizza-napoletana-announces-first-scottish-pizzeria-in-glasgow-8929161",
-        "description": "<p>Rudy\u2019s is coming to Glasgow this Autumn, marking its first ever Scottish pizzeria and 42nd across the UK confirmed for Glasgow city centre.</p>",
-        "published": "Wed, 19 Aug 2026 10:10:20 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/19/10/36/Screenshot-2026-08-19-110809.jpeg?width=1200&auto=webp&trim=12%2C0%2C13%2C0"
-      },
-      {
         "id": "https://www.glasgowlive.co.uk/whats-on/asda-confirms-major-change-91-34481877",
         "title": "Asda confirms major change at 91 stores in Scotland \u2014 starting October",
         "link": "https://www.glasgowlive.co.uk/whats-on/asda-confirms-major-change-91-34481877",
@@ -810,14 +794,6 @@
         "description": "The United States Air\u00a0National Guard\u00a0are set to appear at The International Ayr Show\u00a0- Festival of Flight next month.",
         "published": "Wed, 19 Aug 2026 10:16:22 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20856941/?type=app&htype=0"
-      },
-      {
-        "id": "04662d7ed1aa2dd1cba907f938226196",
-        "title": "Glasgow bars and pubs shortlisted for major Scottish hospitality awards",
-        "link": "https://www.glasgowtimes.co.uk/news/26476751.glasgow-bars-shortlisted-scottish-bar-pub-awards/",
-        "description": "Glasgow\u2019s hospitality scene is set to take centre stage at the Scottish Bar &amp; Pub Awards.",
-        "published": "Wed, 19 Aug 2026 09:54:57 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21339482/?type=app&htype=0"
       },
       {
         "id": "f393bd580d6024de974fbc508a721110",
@@ -962,14 +938,6 @@
         "description": "The police insist nobody is being told not to arrest. But you don't need to issue an order when you can make arresting people increasingly difficult, writes Calum Steele",
         "published": "Wed, 19 Aug 2026 06:30:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21336231/?type=app&htype=0"
-      },
-      {
-        "id": "00961b83788b685deffdb8ea598637f9",
-        "title": "Update on future of 'horrific' smelling Glasgow landfill which forced kids indoors",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26474203.update-future-patersons-greenoakhill-landfill-glasgow/",
-        "description": "An update on the future of Patersons' Greenoakhill landfill in Glasgow's East End.",
-        "published": "Wed, 19 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21273338/?type=app&htype=0"
       },
       {
         "id": "fd9eda4b9f77dafa69c1d62ebd00281d",
@@ -1154,14 +1122,6 @@
         "description": "The new initiative is aimed at ensuring talent-spotters and executives continue to flock to Edinburgh in August.",
         "published": "Tue, 18 Aug 2026 17:05:40 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/15257606/?type=app&htype=0"
-      },
-      {
-        "id": "642574cba03f8cd56bafaf5d70d59c81",
-        "title": "Glasgow drug dealing filmed using hire bikes in shocking BBC documentary",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26475702.glasgow-drug-dealing-filmed-using-hire-bikes-bbc-documentary/",
-        "description": "Drug dealers have been filmed allegedly using hire bikes to carry out transactions in Glasgow city centre, according to a new BBC documentary examining crime and anti-social behaviour in the city.",
-        "published": "Tue, 18 Aug 2026 17:03:51 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21125550/?type=app&htype=0"
       },
       {
         "id": "9e9fb8eb86a77538f5983f898b307145",
