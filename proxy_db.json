@@ -564,6 +564,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/theatre-news/tony-roper-celebrates-85th-birthday-34481550",
+        "title": "Tony Roper celebrates 85th birthday in rehearsals for his final Steamie tour",
+        "link": "https://www.glasgowlive.co.uk/whats-on/theatre-news/tony-roper-celebrates-85th-birthday-34481550",
+        "description": "Scottish TV star and theatre legend is marking his milestone birthday as he prepares for his last outing directing his much-loved classic.",
+        "published": "Wed, 19 Aug 2026 09:25:50 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34481526.ece/ALTERNATES/s98/0_TheSteamieREH_157WEBChristopherBowen.jpg"
+      },
+      {
+        "id": "04662d7ed1aa2dd1cba907f938226196",
+        "title": "Glasgow bars and pubs shortlisted for major Scottish hospitality awards",
+        "link": "https://www.glasgowtimes.co.uk/news/26476751.glasgow-bars-shortlisted-scottish-bar-pub-awards/",
+        "description": "Glasgow\u2019s hospitality scene is set to take centre stage at the Scottish Bar &amp; Pub Awards.",
+        "published": "Wed, 19 Aug 2026 09:54:57 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21339482/?type=app&htype=0"
+      },
+      {
         "id": "8928736",
         "title": "Celtic in 'advanced negotiations' over next summer transfer as they're set to raid former Hoops boss for star",
         "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-advanced-negotiations-next-summer-transfer-raid-former-hoops-boss-8928736",
@@ -602,6 +618,14 @@
         "description": "Emergency services were called to New City Road, near Phoenix Road, which has been the site of planned M8 viaduct works since March 2021,",
         "published": "Wed, 19 Aug 2026 07:28:39 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/9d3bae0816153ae3812a8917609e27cf-1787124457-1280x720.jpeg"
+      },
+      {
+        "id": "7fa7eb28a8e0824d145982090aabf9cf",
+        "title": "Surging energy prices push inflation up to highest level since March",
+        "link": "https://www.heraldscotland.com/news/26476350.inflation-hits-highest-level-since-march-amid-rising-energy-prices/",
+        "description": "The Office for National Statistics (ONS) said Consumer Prices Index (CPI) inflation stats are out",
+        "published": "Wed, 19 Aug 2026 08:24:53 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21339040/?type=app&htype=0"
       },
       {
         "id": "04dd4558218ba80bd640dcd279cb5645",
@@ -930,14 +954,6 @@
         "description": "Mr Gregson has launched a petition urging the Home Secretary to remove Hamas\u2019 political wing from the UK\u2019s proscribed list of terrorist groups.",
         "published": "Tue, 18 Aug 2026 17:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21336156/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-injured-cherry-picker-struck-34479630",
-        "title": "Man injured as cherry picker struck by bus on busy Glasgow road",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-injured-cherry-picker-struck-34479630",
-        "description": "A worker is believed to have been in the cherry picker when it was struck by a double decker bus.",
-        "published": "Tue, 18 Aug 2026 15:52:41 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34479635.ece/ALTERNATES/s98/0_unnamed-8.jpg"
       },
       {
         "id": "9318b09f87b687500ab225fb996b6463",
@@ -1346,22 +1362,6 @@
         "description": "In June, city councillors voted to condemn the updated guidance from the EHRC as \u201cdiscriminatory against trans people\u201d.",
         "published": "Tue, 18 Aug 2026 06:30:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20183082/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c4g3qmygey4o#0",
-        "title": "Second data centre planned for Lanarkshire as regulations tightened",
-        "link": "https://www.bbc.co.uk/news/articles/c4g3qmygey4o?at_medium=RSS&at_campaign=rss",
-        "description": "Tech company DataVita intend to expand their current site in Airdrie and construct a second centre in the area, previously designated as an AI growth zone.",
-        "published": "Tue, 18 Aug 2026 05:18:49 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fe3/live/f2de4660-fc4d-11f0-8ee8-9f8ad0c97346.jpg"
-      },
-      {
-        "id": "9f78c37ac542f2549bdaf5f626a88afc",
-        "title": "'Wee but mighty' animal rescue opening adoption to more people",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26472252.glasgow-pet-collective-works-open-adoption-people/",
-        "description": "A pet rehoming charity in Glasgow is working to open up adoption to more potential owners.",
-        "published": "Tue, 18 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21332402/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
