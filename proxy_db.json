@@ -564,6 +564,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/first-images-river-citys-final-34480275",
+        "title": "First images of River City's final episode released ahead of dramatic end",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/first-images-river-citys-final-34480275",
+        "description": "The images suggest the long-running Glasgow soap will come to a very dramatic end later this month",
+        "published": "Wed, 19 Aug 2026 11:00:00 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34480254.ece/ALTERNATES/s98/0_image001.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/health/six-scottish-salmonella-cases-confirmed-34482702",
+        "title": "Six Scottish salmonella cases confirmed as one dead and 200 ill amid UK outbreak",
+        "link": "https://www.glasgowlive.co.uk/news/health/six-scottish-salmonella-cases-confirmed-34482702",
+        "description": "The outbreak that may be linked to imported eggs, the UK Health Security Agency has said.",
+        "published": "Wed, 19 Aug 2026 10:56:52 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/health/article34482701.ece/ALTERNATES/s98/0_The-outbreak-may-be-linked-to-eggs-imported-from-outside-of-the-UK.jpg"
+      },
+      {
+        "id": "e197b1f222e57a989aa41aef3045b2fc",
+        "title": "Design competition launched to rebuild two fire-ravaged Southside sites",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26477469.design-contest-launched-rebuild-fire-hit-albert-cross-site/",
+        "description": "A design competition has been launched to help restore a key part of Glasgow.",
+        "published": "Wed, 19 Aug 2026 11:49:28 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21340611/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/sadistic-hunter-linked-far-right-34482130",
+        "title": "Sadistic hunter linked to far-right Northern Ireland group behind race hate in Glasgow",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/sadistic-hunter-linked-far-right-34482130",
+        "description": "WARNING: Distressing images below. Neil Pinkerton was among a band of Northern Irish men to travel to Scotland on July 25 to join an anti-immigration event that was badged &quot;Protect Our Women and Children&quot;",
+        "published": "Wed, 19 Aug 2026 10:34:53 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34482123.ece/ALTERNATES/s98/0_NeilPinkerton_Belfast005.jpg"
+      },
+      {
+        "id": "49696df720efa1caadd1df5f525fddfb",
+        "title": "More than 10,000 illegal tobacco products seized amid major operation in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26477355.10-000-illicit-cigarettes-seized-glasgow-west-end-crackdown/",
+        "description": "Police and Trading Standards seized more than 10,000 illicit cigarettes and counterfeit goods from West End shops.",
+        "published": "Wed, 19 Aug 2026 11:31:03 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21340456/?type=app&htype=0"
+      },
+      {
         "id": "8929161",
         "title": "Rudy\u2019s Pizza Napoletana announces first Scottish pizzeria in Glasgow",
         "link": "https://www.glasgowworld.com/lifestyle/food-and-drink/rudys-pizza-napoletana-announces-first-scottish-pizzeria-in-glasgow-8929161",
@@ -1322,46 +1362,6 @@
         "description": "A giant teacake, unicorn heads and gold medal netballs are among the items set to go under the hammers in a Glasgow public auction",
         "published": "Tue, 18 Aug 2026 09:28:04 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21333476/?type=app&htype=0"
-      },
-      {
-        "id": "cddde4cddc4c79444aae8c68d77cfcf5",
-        "title": "More than 30,000 people gathered in Glasgow for festival of cultural and sound",
-        "link": "https://www.glasgowtimes.co.uk/news/26472724.30-000-fans-gathered-glasgow-piping-live/",
-        "description": "More than 30,000 music fans gathered in Glasgow for nine days of piping.",
-        "published": "Tue, 18 Aug 2026 08:41:55 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21333204/?type=app&htype=0"
-      },
-      {
-        "id": "8925604",
-        "title": "How to watch Celtic v LASK Linz: TV channel, live stream, team news, referee and VAR for Champions League bout",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/how-to-watch-celtic-vs-lask-linz-tv-channel-live-stream-team-news-referee-and-var-for-champions-league-play-off-8925604",
-        "description": "<p>Everything you need to know about how to watch the champions in Europe</p>",
-        "published": "Tue, 18 Aug 2026 07:00:57 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/17/15/52/GettyImages-2258307938-(1).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "a9128a9dd6700633d3c95bb0d0ed5412",
-        "title": "Long delays on busy motorway outside Glasgow as crash closes lanes",
-        "link": "https://www.heraldscotland.com/news/26472629.long-delays-m8-outside-glasgow-crash-closes-lanes/",
-        "description": "Emergency services ar at the scene",
-        "published": "Tue, 18 Aug 2026 07:55:33 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21333105/?type=app&htype=0"
-      },
-      {
-        "id": "https://runabc.co.uk/mens-10k-edinburgh-running-builds-stronger-communities",
-        "title": "Men's 10K Edinburgh: Running Builds Stronger Communities",
-        "link": "https://runabc.co.uk/mens-10k-edinburgh-running-builds-stronger-communities",
-        "description": "<p><img alt=\"Edinburgh Men's 10K 2026\" src=\"https://runabc.co.uk/images/2026/08/edinburgh-mens-10k-2026-612338.jpg\" /></p>\n\t\t\t\t<p>Men's 10K Edinburgh shows how a shared running challenge can bring people together, creating connections that can continue beyond race day....</p>",
-        "published": "Tue, 18 Aug 2026 07:55:00 +0100",
-        "image_url": "https://runabc.co.uk/images/2026/08/edinburgh-mens-10k-2026-612338.jpg"
-      },
-      {
-        "id": "bde195637e0740de8bded2aec0a65ea8",
-        "title": "\u00a3300 million investment into AI will create thousands of jobs in Lanarkshire",
-        "link": "https://www.glasgowtimes.co.uk/news/26472624.thousands-jobs-coming-lanarkshire-ai-investment/",
-        "description": "The new roles in technology, engineering, construction and AI are part of a \u00a3300 million investment package for the region\u2019s AI Growth Zone.",
-        "published": "Tue, 18 Aug 2026 07:53:01 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20475441/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
