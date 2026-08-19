@@ -596,6 +596,14 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34480996.ece/ALTERNATES/s98/0_JS198085046.jpg"
       },
       {
+        "id": "https://news.stv.tv/?p=525677",
+        "title": "Lorry bursts into flames at site of Glasgow road works",
+        "link": "https://news.stv.tv/west-central/lorry-bursts-into-flames-at-site-of-glasgow-road-works",
+        "description": "Emergency services were called to New City Road, near Phoenix Road, which has been the site of planned M8 viaduct works since March 2021,",
+        "published": "Wed, 19 Aug 2026 07:28:39 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/9d3bae0816153ae3812a8917609e27cf-1787124457-1280x720.jpeg"
+      },
+      {
         "id": "04dd4558218ba80bd640dcd279cb5645",
         "title": "'Really dangerous' Glasgow taxi rank to remain in use despite locals' removal bid",
         "link": "https://www.glasgowtimes.co.uk/news/26476334.glasgow-taxi-rank-remain-use-removal-bid/",
@@ -658,6 +666,14 @@
         "description": "South Lanarkshire trains are in disaray this morning after a train broke down on the Larkhall branch.",
         "published": "Wed, 19 Aug 2026 07:25:33 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21173123/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=525500",
+        "title": "Family of Stobhill Hospital patient given unprescribed opiates demands answers",
+        "link": "https://news.stv.tv/west-central/family-of-stobhill-hospital-patient-given-unprescribed-opiates-demands-answers",
+        "description": "The family of 92-year-old George Maguire is pursuing legal action after he was given unprescribed drugs while at Stobhill",
+        "published": "Wed, 19 Aug 2026 06:12:31 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/77ab6838790ccb84310f8175e083f2a4-1787045533.jpg"
       },
       {
         "id": "8926855",
@@ -866,6 +882,14 @@
         "description": "New of her death was shared by her granddaughter.",
         "published": "Tue, 18 Aug 2026 16:51:47 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34479880.ece/ALTERNATES/s98/0_Screenshot-2026-08-18-at-171854.png"
+      },
+      {
+        "id": "https://news.stv.tv/?p=525642",
+        "title": "Man taken to hospital after First bus crashes into cherry picker in Glasgow",
+        "link": "https://news.stv.tv/west-central/man-taken-to-hospital-after-bus-crashes-into-cherry-picker",
+        "description": "A worker operating the cherry picker's elevated platform was taken to hospital",
+        "published": "Tue, 18 Aug 2026 16:15:18 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/03/6694c16f987691dc965a38dd6609abf1-1772544631-1280x720.jpeg"
       },
       {
         "id": "5d6fb1c57d1d1fc88ecd1364602f3028",
@@ -1338,30 +1362,6 @@
         "description": "A pet rehoming charity in Glasgow is working to open up adoption to more potential owners.",
         "published": "Tue, 18 Aug 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21332402/?type=app&htype=0"
-      },
-      {
-        "id": "36de2ca58bd30c69386f71e1305ea62c",
-        "title": "The real story behind new Glasgow Central Station mural which reinvents lost artwork",
-        "link": "https://www.glasgowtimes.co.uk/news/26471944.real-story-behind-new-glasgow-central-station-umbrella-artwork/",
-        "description": "A new ceramic mural at Glasgow Central Station revives the Drooko umbrella poster created by Glasgow Girls artists Margaret and Frances Macdonald. The work of Make It Glasgow and commissioned by Network Rail, it uses handmade tiles and a unique smog-glaze made from station dust.",
-        "published": "Tue, 18 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21332031/?type=app&htype=0"
-      },
-      {
-        "id": "2a786ab0cc68319175fc86fdef2530c4",
-        "title": "Archaeologists hope to solve mystery of ancient Glasgow earthwork with new dig",
-        "link": "https://www.heraldscotland.com/news/26471254.queens-park-dig-uncover-secrets-ancient-earthwork/",
-        "description": "A new dig hopes to solve a mystery that has endured for more than 100 years",
-        "published": "Tue, 18 Aug 2026 05:45:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21330852/?type=app&htype=0"
-      },
-      {
-        "id": "2a35ae11cf7af54622d38aaab8c64d6d",
-        "title": "Inside Scotland\u2019s civil service union row that forced a hybrid working rethink",
-        "link": "https://www.heraldscotland.com/news/26472115.civil-service-unions-forced-scots-hybrid-working-rethink/",
-        "description": "Civil service bosses in Scotland stepped in to stop penalising staff over hybrid working attendance following trade union concerns.",
-        "published": "Tue, 18 Aug 2026 05:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20555113/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
