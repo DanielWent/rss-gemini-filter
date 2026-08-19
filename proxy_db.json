@@ -529,6 +529,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "155424a3bc62ca004c10d3bf51706822",
+        "title": "Glasgow City Council reveals huge budget gap for next two years",
+        "link": "https://www.glasgowtimes.co.uk/news/26479263.glasgow-city-council-huge-budget-gap-next-two-years/",
+        "description": "A rise in homelessness and a new pay and grading system is leading to a huge spending gap for Glasgow City Council.",
+        "published": "Wed, 19 Aug 2026 16:54:07 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/5993712/?type=app&htype=0"
+      },
+      {
         "id": "81e005989e1261f8b16c4468bdff32b6",
         "title": "Emergency response after cyclist struck by vehicle in busy town centre",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26475918.cyclist-struck-vehicle-park-road-milngavie/",
@@ -588,6 +596,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=525773",
+        "title": "Hunt for suspect after staff threatened with bladed weapon during robbery in East Kilbride",
+        "link": "https://news.stv.tv/west-central/hunt-for-suspect-after-staff-threatened-with-bladed-weapon-during-robbery-in-east-kilbride",
+        "description": "The incident happened at a premises on Alloway Road on Monday",
+        "published": "Wed, 19 Aug 2026 16:09:51 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2021/09/9ee77606a050a1228ac916a03d9c7636-1078x720.jpg"
+      },
+      {
+        "id": "8930184",
+        "title": "Rangers transfer 'priority' made clear as two positions targeted in areas that carry 'the biggest price tag'",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-transfer-priority-made-clear-two-positions-targeted-8930184",
+        "description": "<p>Rangers are looking to make transfer moves in forward areas before the end of the window.</p>",
+        "published": "Wed, 19 Aug 2026 16:00:15 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/19/14/23/GettyImages-2290772139.jpg?width=1200&auto=webp&trim=47%2C97%2C561%2C96"
+      },
+      {
+        "id": "784c8610dcca8b2a0b70e76a0dae3401",
+        "title": "Question raised on how council deal with compliants of damp and mould in homes",
+        "link": "https://www.glasgowtimes.co.uk/news/26479288.questions-raised-council-will-implement-awaabs-law/",
+        "description": "Questions on how the city council will implement Awaab\u2019s law to ensure complaints of damp and mouldy properties are dealt with have been raised by a local councillor",
+        "published": "Wed, 19 Aug 2026 16:58:23 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20082863/?type=app&htype=0"
+      },
+      {
+        "id": "155424a3bc62ca004c10d3bf51706822",
+        "title": "Glasgow City Council reveals huge budget gap for next two years",
+        "link": "https://www.glasgowtimes.co.uk/news/26479263.glasgow-city-council-huge-budget-gap-next-two-years/",
+        "description": "A rise in homelessness and a new pay and grading system is leading to a huge spending gap for Glasgow City Council.",
+        "published": "Wed, 19 Aug 2026 16:54:07 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/5993712/?type=app&htype=0"
+      },
+      {
+        "id": "3c18093bda0aef66e77f1c910a989720",
+        "title": "\u201cI was scared\u201d: the student who took a chance on opening her own caf\u00e9",
+        "link": "https://www.glasgowtimes.co.uk/news/26479243.inspiring-story-behind-one-renfrews-most-loved-caf-s/",
+        "description": "Oseva Hani decided to coincide her busy university studies with launching her own caf\u00e9 \u2013 despite not having any formal training or experience",
+        "published": "Wed, 19 Aug 2026 16:50:49 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21343536/?type=app&htype=0"
+      },
+      {
         "id": "7a27dbc19f7096b491fe09b5469dd047",
         "title": "Van driver set to stand trial accused of killing woman and ponies",
         "link": "https://www.glasgowtimes.co.uk/news/26479120.van-driver-set-stand-trial-accused-killing-woman-howwood/",
@@ -610,6 +658,14 @@
         "description": "The Scottish Government confirmed that the BSE case, which is an always fatal neurodegenerative disease, was found during routine surveillance",
         "published": "Wed, 19 Aug 2026 14:46:43 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2022/11/b33746f670588389d5388d146ec8f450-1668867184.jpg"
+      },
+      {
+        "id": "415831b099f45600719a208f7dbaa036",
+        "title": "GlasGLOW hiring 100 zombie handlers for new Zombie Zoo in Glasgow",
+        "link": "https://www.heraldscotland.com/news/26478756.glasglow-hiring-100-zombie-handlers-new-attraction/",
+        "description": "GlasGLOW is recruiting 100 zombie handlers for its new Zombie Zoo experience at Glasgow Botanic Gardens this Halloween.",
+        "published": "Wed, 19 Aug 2026 15:45:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21342688/?type=app&htype=0"
       },
       {
         "id": "bb80359b8f60adc0908c02b2189eea12",
@@ -1338,54 +1394,6 @@
         "description": "Ongoing Dumbreck Road and St Andrews Drive works face engineering delays, with Glasgow City Council saying completion is unknown.",
         "published": "Tue, 18 Aug 2026 15:44:49 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20025777/?type=app&htype=0"
-      },
-      {
-        "id": "fdc95f117311c149501d77d40a578385",
-        "title": "Glasgow rape crisis explains why it rejected Scottish Citizens Army fundraiser",
-        "link": "https://www.glasgowtimes.co.uk/news/26475200.glasgow-rape-crisis-rejects-scottish-citizens-army-fundraising/",
-        "description": "Glasgow &amp; Clyde Rape Crisis has defended rejecting Scottish Citizens Army fundraising amid a growing row over immigration-linked comments.",
-        "published": "Tue, 18 Aug 2026 15:38:02 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17595946/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/ex-snooker-champion-graeme-dott-34478824",
-        "title": "Ex-snooker champion Graeme Dott asked child if sexual abuse 'felt nice', court told",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/ex-snooker-champion-graeme-dott-34478824",
-        "description": "Dott, 49 is on trial accused of lewd, indecent and libidinous behaviour towards two primary school age children. He denies the charges.",
-        "published": "Tue, 18 Aug 2026 14:35:34 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34478780.ece/ALTERNATES/s98/0_ee2dedee-222d-4174-9624-580fc6b58ed5jpeg.jpg"
-      },
-      {
-        "id": "21b0af726df035080f6980585f12dc21",
-        "title": "Mystery Boston man pays for Glasgow diners' meals after Tartan Army won city's hearts",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26474984.boston-man-pays-glasgow-diners-meals-cafe-gandolfi/",
-        "description": "Mystery Boston man pays for Glasgow diners' meals at Cafe Gandolfini after Tartan Army won city's hearts.",
-        "published": "Tue, 18 Aug 2026 15:06:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21244561/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/signs-go-up-reardons-former-34477514",
-        "title": "Signs go up at Reardon's as former Shawlands snooker hall gets set for big change",
-        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/signs-go-up-reardons-former-34477514",
-        "description": "Set to launch this week, the new Langside Social will take over from Reardon's Southside, which has closed after 21 years.",
-        "published": "Tue, 18 Aug 2026 14:05:11 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34477463.ece/ALTERNATES/s98/0_Screenshot-2026-08-18-at-10946PM.png"
-      },
-      {
-        "id": "24ebe64474cfb92bc47f932c7bf8cae5",
-        "title": "Major city centre site faces uncertain future after fresh student flats planning blow",
-        "link": "https://www.heraldscotland.com/news/26474840.dundee-site-faces-uncertain-future-student-flats-planning-blow/",
-        "description": "A major site in Dundee city centre is facing an uncertain future \u2013 after developers suffered another blow in their bid to build student flats.",
-        "published": "Tue, 18 Aug 2026 14:45:07 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/13796941/?type=app&htype=0"
-      },
-      {
-        "id": "867c878c352e6b777f9833678fd1738a",
-        "title": "To the new owners of The Green Welly Stop:  'Don't mess with the lentil soup'",
-        "link": "https://www.heraldscotland.com/life_style/26474807.new-owners-green-welly-stop-dont-mess-soup/",
-        "description": "The owners of the famous Green Welly Stop have announced they are to sell the A82 roadside service that last year marked its 60th birthday.",
-        "published": "Tue, 18 Aug 2026 14:39:46 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21336549/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
