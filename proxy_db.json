@@ -580,6 +580,54 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgows-last-landfill-close-expansion-34482783",
+        "title": "Glasgow's last landfill to close as expansion appeal rejected amid ongoing neighbour complaints",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgows-last-landfill-close-expansion-34482783",
+        "description": "The news has been welcomed by neighbours who complained their homes are being 'shaken apart' as over 100 HGVs thunder past every hour.",
+        "published": "Wed, 19 Aug 2026 12:17:29 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article26499423.ece/ALTERNATES/s98/3_image_6483441-3JPG.jpg"
+      },
+      {
+        "id": "91c284a792ec2f771df604a31475b697",
+        "title": "Young performers invited to audition  for upcoming festive pantomime in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26477923.young-performers-invited-pantomime-audition-glasgow/",
+        "description": "Young performers are being invited to audition for a festive pantomime set to take to the stage in Glasgow.",
+        "published": "Wed, 19 Aug 2026 13:05:07 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21341436/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/partick-murder-victims-pictured-police-34483282",
+        "title": "Partick murder victims pictured as police appeal for help \u2018to get answers\u2019 for grieving families",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/partick-murder-victims-pictured-police-34483282",
+        "description": "&quot;Please do not assume that the police already know the information you have.&quot;",
+        "published": "Wed, 19 Aug 2026 12:00:06 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34483290.ece/ALTERNATES/s98/1_Screenshot-2026-08-19-at-124719.png"
+      },
+      {
+        "id": "6969d424435f40131c9d0aa75b51f253",
+        "title": "Rudy\u2019s Pizza to open first Scottish restaurant at Glasgow city centre site",
+        "link": "https://www.heraldscotland.com/news/26477786.rudys-pizza-open-first-scottish-restaurant-glasgow/",
+        "description": "Rudy\u2019s Pizza Napoletana will open its first Scottish restaurant on Gordon Street in Glasgow this autumn, creating jobs and 135 seats.",
+        "published": "Wed, 19 Aug 2026 12:54:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21341354/?type=app&htype=0"
+      },
+      {
+        "id": "8c38a5ee634b89fe4b6316b2eb1524ea",
+        "title": "New pictures show the aftermath of the car that exploded in Glasgow last night",
+        "link": "https://www.glasgowtimes.co.uk/news/26477860.new-pictured-car-exploded-glasgow-last-night/",
+        "description": "Fire crews were called to the scene near the Chinatown Restaurant around 11.20pm on Tuesday, August 18.",
+        "published": "Wed, 19 Aug 2026 12:52:40 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21341406/?type=app&htype=0"
+      },
+      {
+        "id": "836a91ba902960193e3d05ac8d81155a",
+        "title": "Murder investigation launched following deaths of two men in Partick",
+        "link": "https://www.heraldscotland.com/news/26477828.murder-investigation-following-deaths-two-men-partick/",
+        "description": "Police have launched a murder investigation after two men were found dead in a flat in Glasgow.",
+        "published": "Wed, 19 Aug 2026 12:49:06 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20245070/?type=app&htype=0"
+      },
+      {
         "id": "8929551",
         "title": "Tony Roper celebrates 85th birthday in rehearsals for final Steamie tour",
         "link": "https://www.glasgowworld.com/best-in/tony-roper-celebrates-85th-birthday-in-rehearsals-for-final-steamie-tour-8929551",
@@ -612,12 +660,52 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20724220/?type=app&htype=27"
       },
       {
+        "id": "72320c275363936256cb8c4628e5e0c6",
+        "title": "Celtic Boys Club paedo waves stick and shouts at protesters as cops removes from home",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26477691.protesters-gather-outside-motherwell-home-linked-frank-cairney/",
+        "description": "Police attended after a group gathered outside a Motherwell property linked to convicted Celtic Boys Club abuser Frank Cairney.",
+        "published": "Wed, 19 Aug 2026 12:23:07 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21341036/?type=app&htype=0"
+      },
+      {
+        "id": "c8d39f9997d574ef6e7a2506ebb8455e",
+        "title": "Rapist caught shortly before he boarded one-way flight out of UK jailed",
+        "link": "https://www.heraldscotland.com/news/26477690.rapist-caught-boarding-flight-manchester-airport-jailed/",
+        "description": "A rapist caught shortly before he boarded a one-way flight out of the UK was jailed today for five years and two months.",
+        "published": "Wed, 19 Aug 2026 12:22:55 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18904310/?type=app&htype=0"
+      },
+      {
         "id": "21748861f35d9bf4a9bbfe7c299adfdf",
         "title": "Rangers legend Ally McCoist 'heartbroken' after Glasgow city centre documentary",
         "link": "https://www.glasgowtimes.co.uk/news/26477586.rangers-hero-mccoist-left-heartbroken-glasgow-documentary/",
         "description": "A BBC documentary highlighting crime in Glasgow's city centre has sparked shock and criticism from Rangers legend Ally McCoist.",
         "published": "Wed, 19 Aug 2026 12:20:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21340966/?type=app&htype=0"
+      },
+      {
+        "id": "1ebb5581f53b2c6b8474da8e02660435",
+        "title": "Emergency rally called over \u00a3140m cuts at Edinburgh festivals' largest venue owner",
+        "link": "https://www.heraldscotland.com/news/26477596.emergency-rally-organised-opposition-edinburgh-university-cuts/",
+        "description": "The Herald has reported how 950 members of staff at the university have been made redundant since senior managers launched the savings drive last year.",
+        "published": "Wed, 19 Aug 2026 12:17:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21033937/?type=app&htype=0"
+      },
+      {
+        "id": "4697558e87b31616a8e20dcdc00dbfe6",
+        "title": "Public Health Scotland urging students to get menB vaccine before start of new term",
+        "link": "https://www.heraldscotland.com/news/26477593.scottish-students-urged-get-menb-vaccine-start-new-term/",
+        "description": "Young people are being urged to ensure they have their second dose of vaccination against potentially deadly meningitis B (menB) to help protect them before starting college or university.",
+        "published": "Wed, 19 Aug 2026 12:08:43 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21340906/?type=app&htype=0"
+      },
+      {
+        "id": "abd3c1ac71b201df95b7360a1231bea3",
+        "title": "Part of M8 near Glasgow to shut for whole weekend amid ongoing works",
+        "link": "https://www.heraldscotland.com/news/26477545.m8-st-james-viaduct-shut-weekend-maintenance/",
+        "description": "Weekend disruption alert",
+        "published": "Wed, 19 Aug 2026 12:01:46 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21340845/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/first-images-river-citys-final-34480275",
@@ -644,6 +732,22 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21340611/?type=app&htype=0"
       },
       {
+        "id": "faaae46b9193c2cf33d560f2d41dfdc2",
+        "title": "Waverley return 'could be worth hundreds of thousands to Helensburgh'",
+        "link": "https://www.heraldscotland.com/news/26477453.helensburgh-pier-group-hopes-waverley-return-town/",
+        "description": "A return to Helensburgh for the PS Waverley could potentially bring over \u00a3450,000 to the town per year, a charity aiming to reopen the town\u2019s pier has claimed.",
+        "published": "Wed, 19 Aug 2026 11:47:53 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/13897429/?type=app&htype=0"
+      },
+      {
+        "id": "75e70f17bb10725d092a29210af3b708",
+        "title": "MSPs back UNESCO bid for Scotland's 'iconic' morning roll",
+        "link": "https://www.heraldscotland.com/news/26477430.scottish-greens-back-unesco-bid-morning-roll-recognition/",
+        "description": "A Holyrood motion backed by 12 MSPs, including Greens co-leader Ross Greer, supports a campaign to have the morning roll recognised by UNESCO as living heritage.",
+        "published": "Wed, 19 Aug 2026 11:43:16 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19113727/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/sadistic-hunter-linked-far-right-34482130",
         "title": "Sadistic hunter linked to far-right Northern Ireland group behind race hate in Glasgow",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/sadistic-hunter-linked-far-right-34482130",
@@ -652,12 +756,28 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34482123.ece/ALTERNATES/s98/0_NeilPinkerton_Belfast005.jpg"
       },
       {
+        "id": "8557a0bc3585662ca681c75b78cf4f32",
+        "title": "M\u00e0iri McAllan intervenes on CCA building to demand return of 'vibrant cultural hub'",
+        "link": "https://www.heraldscotland.com/news/26477363.m-irimcallan-demands-reopening-cca-venue-vibrant-cultural-hub/",
+        "description": "The culture secretary says she wants to see the building reopen to serve 'artists, audiences and communities in Glasgow'.",
+        "published": "Wed, 19 Aug 2026 11:32:10 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21277955/?type=app&htype=0"
+      },
+      {
         "id": "49696df720efa1caadd1df5f525fddfb",
         "title": "More than 10,000 illegal tobacco products seized amid major operation in Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26477355.10-000-illicit-cigarettes-seized-glasgow-west-end-crackdown/",
         "description": "Police and Trading Standards seized more than 10,000 illicit cigarettes and counterfeit goods from West End shops.",
         "published": "Wed, 19 Aug 2026 11:31:03 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21340456/?type=app&htype=0"
+      },
+      {
+        "id": "1bb0ad99d2ea8ea458b9613d1df7303d",
+        "title": "Five Scottish venues in the running for 2026 'Pub of the Year' award",
+        "link": "https://www.heraldscotland.com/news/26477344.scotlands-2026-pub-year-award-finalists-revealed/",
+        "description": "The finalists for the 2026 Scottish Bar &amp; Pub Awards have been announced this week. Find out who is in the running to win here.",
+        "published": "Wed, 19 Aug 2026 11:29:52 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21340542/?type=app&htype=0"
       },
       {
         "id": "8929161",
@@ -796,14 +916,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21338984/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mums-brain-tumour-dismissed-34480779",
-        "title": "Glasgow mum's brain tumour dismissed as Covid and menopause after Depo jag",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mums-brain-tumour-dismissed-34480779",
-        "description": "&quot;If I had been told, I would never have taken it.&quot;",
-        "published": "Wed, 19 Aug 2026 06:36:48 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34480777.ece/ALTERNATES/s98/0_IMG_2647jpeg.jpg"
-      },
-      {
         "id": "ff132c2d512935b9646a923a168a95bc",
         "title": "Almost \u00a322m in Scottish public sector fraud and error identified",
         "link": "https://www.heraldscotland.com/news/26476265.almost-22m-scottish-public-sector-fraud-error-identified/",
@@ -922,14 +1034,6 @@
         "description": "The Bonnie is the first development in Scotland by luxury student accommodation brand Iconinc.",
         "published": "Tue, 18 Aug 2026 20:43:50 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34480466.ece/ALTERNATES/s98/0_The-Bonnie.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/news-opinion/bbc-documentary-glasgow-city-centre-34476072",
-        "title": "'BBC documentary on Glasgow city centre shows what locals already know \u2013 but still misses the point'",
-        "link": "https://www.glasgowlive.co.uk/news/news-opinion/bbc-documentary-glasgow-city-centre-34476072",
-        "description": "&quot;Glasgow has never been a safe city \u2013 but describing the city centre as a \u2018no-go area\u2019 misses the point,&quot; says Jordan Shepherd.",
-        "published": "Tue, 18 Aug 2026 19:51:39 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34478126.ece/ALTERNATES/s98/1_Screenshot-20.png"
       },
       {
         "id": "8926691",
@@ -1274,110 +1378,6 @@
         "description": "An easyJet flight from London Gatwick to Glasgow Airport declared a medical emergency shortly before landing after a passenger fell ill.",
         "published": "Tue, 18 Aug 2026 12:02:41 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19646375/?type=app&htype=0"
-      },
-      {
-        "id": "a508831585150a8d952c3139320b2de6",
-        "title": "Rail upgrade work to disrupt Newcastle to Scotland train services for three weekends",
-        "link": "https://www.heraldscotland.com/news/26473776.7-1m-rail-upgrade-disrupt-newcastle-scotland-trains/",
-        "description": "Rail passengers travelling between Newcastle and Scotland face diversions and replacement buses as \u00a37.1m of upgrades take place.",
-        "published": "Tue, 18 Aug 2026 11:52:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21334564/?type=app&htype=0"
-      },
-      {
-        "id": "1a3fe120198da503cfb459b4cda4af77",
-        "title": "Tributes paid following death of \"wonderful\" former South Lanarkshire councillor",
-        "link": "https://www.glasgowtimes.co.uk/news/26473822.tributes-paid-former-south-lanarkshire-councillor/",
-        "description": "She served as a Councillor for the Cambuslang East ward for a decade between 2007 and 2017.",
-        "published": "Tue, 18 Aug 2026 11:45:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21334578/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=525343",
-        "title": "Drug-smuggling social media influencer pictured at Scots music festival four months after being jailed",
-        "link": "https://news.stv.tv/west-central/drug-smuggling-social-media-influencer-pictured-at-glasgow-music-festival-four-months-after-being-jailed",
-        "description": "Ellie Crampsie was found to have over 17kg of cannabis stashed in her luggage as she travelled home from a holiday",
-        "published": "Tue, 18 Aug 2026 10:30:21 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/22a899460ecb801d51c0e0cbeaa990e9-1786970284.jpg"
-      },
-      {
-        "id": "61e6bee40185afcf0bf990f47ac3eb28",
-        "title": "We must take urgent action to help the Mitchell Library shine again",
-        "link": "https://www.heraldscotland.com/opinion/26472270.must-take-urgent-action-help-mitchell-library-shine/",
-        "description": "For many years the Mitchell Library has slid to near life-support",
-        "published": "Tue, 18 Aug 2026 11:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/5584147/?type=app&htype=0"
-      },
-      {
-        "id": "8926658",
-        "title": "Rangers agree contract for player with 'big future' as he's set lofty Ibrox challenge by Derek McInnes",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-agree-contract-player-big-future-ibrox-challenge-derek-mcinnes-8926658",
-        "description": "<p>Teenage goalkeeping prospect tipped for a bright future continues to earn rave reviews</p>",
-        "published": "Tue, 18 Aug 2026 10:20:31 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/18/9/29/21351292.jpeg?width=1200&auto=webp&trim=0%2C42%2C0%2C43"
-      },
-      {
-        "id": "8baf72ae71344b433b7496e817ef1b64",
-        "title": "Plans to use South Sub for tram-trains take step forward as feasibility study begins",
-        "link": "https://www.heraldscotland.com/news/26473491.excitement-tram-train-plans-edinburgh-one-step-closer-reality/",
-        "description": "Tram-trains, which are used in a number of European cities, are sturdier and capable of going at higher speeds than normal trams.",
-        "published": "Tue, 18 Aug 2026 11:15:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19027928/?type=app&htype=0"
-      },
-      {
-        "id": "5d8ad232a650c16a04ff5938af3c8ea1",
-        "title": "Residents in this area of Glasgow warned of disruption to water supply",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26473555.milton-burst-water-main-hits-supplies-ashgill-road-glasgow/",
-        "description": "Scottish Water is repairing a burst water main on Ashgill Road in Milton, north Glasgow, causing supply disruption and traffic delays today.",
-        "published": "Tue, 18 Aug 2026 11:09:08 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17119543/?type=app&htype=0"
-      },
-      {
-        "id": "789254f812b6ecf5804756e774661a84",
-        "title": "Here is why parents will strike in the city centre of Glasgow next week",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26473531.glasgow-parents-strike-royal-exchange-square/",
-        "description": "Parents across Glasgow are set to strike next week in a demand for stronger paternity leave and flexible working rights.",
-        "published": "Tue, 18 Aug 2026 11:04:54 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21335055/?type=app&htype=0"
-      },
-      {
-        "id": "aa27a4439d9419c860ad81353c4e66c9",
-        "title": "Cafe announces shock closure just three months after opening",
-        "link": "https://www.glasgowtimes.co.uk/news/26473356.glasgow-art-cafe-close-permanently-just-three-months-opening/",
-        "description": "A city centre food spot has announced its shock closure just three months after it first opened.",
-        "published": "Tue, 18 Aug 2026 10:34:57 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20474985/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/armed-wishaw-gang-attack-man-34475811",
-        "title": "Armed Wishaw gang attack man in violent 'targeted' murder bid in broad daylight",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/armed-wishaw-gang-attack-man-34475811",
-        "description": "The suspects, who were all wearing black balaclavas, made off from the scene in a grey SUV.",
-        "published": "Tue, 18 Aug 2026 09:30:14 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34475919.ece/ALTERNATES/s98/0_Screenshot-2026-08-18-102514.jpg"
-      },
-      {
-        "id": "596b0a48f2bb28de0073320905eb2a41",
-        "title": "'I thought he was going to kill me' - Mum's terror of rapist son amid curry sauce row",
-        "link": "https://www.glasgowtimes.co.uk/news/26473230.coatbridge-rapist-threw-fork-mum-row-spilt-curry-sauce/",
-        "description": "A brute with convictions for rape and abduction left his terrified mum \"a prisoner in her own home\".",
-        "published": "Tue, 18 Aug 2026 10:22:02 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21334993/?type=app&htype=0"
-      },
-      {
-        "id": "4fc9d0340f3f36073b5eeb0bca1f8ce2",
-        "title": "Popular American singer announces HUGE tour with Glasgow date",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26473032.lucy-bedroque-perform-art-school-glasgow/",
-        "description": "Lucy Bedroque is set to perform at The Art School in Glasgow.",
-        "published": "Tue, 18 Aug 2026 09:51:54 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21333900/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c20e2qe1lqpo#0",
-        "title": "Ferguson shipyard to cut a quarter of its workforce",
-        "link": "https://www.bbc.co.uk/news/articles/c20e2qe1lqpo?at_medium=RSS&at_campaign=rss",
-        "description": "Work on the second of two long-delayed CalMac ferries is drawing to a close at the state-owned yard in Port Glasgow.",
-        "published": "Tue, 18 Aug 2026 08:39:57 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7127/live/f9c38180-9adf-11f1-b792-a710e56a11dc.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
