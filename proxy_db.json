@@ -596,12 +596,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8b52f57ebfeec2312165e37b591227aa",
+        "title": "Major motorway near Glasgow closed during rush hour amid emergency incident",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26479465.part-m80-near-stepps-closed-due-road-traffic-collision/",
+        "description": "Part of a major motorway near Glasgow was closed following a road traffic collision during rush hour.",
+        "published": "Wed, 19 Aug 2026 17:41:49 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21343904/?type=app&htype=0"
+      },
+      {
+        "id": "d1726479b6a1a444ec206fb692a29623",
+        "title": "Iconic Batmobile arrives in Glasgow as city prepares to double as Gotham City again",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26479429.batmobile-arrives-glasgow-shooting-batman-part-2/",
+        "description": "The iconic Batmobile has officially arrived on the streets of Glasgow, which will once again double as Gotham City in an upcoming Hollywood blockbuster.",
+        "published": "Wed, 19 Aug 2026 17:29:42 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21343910/?type=app&htype=0"
+      },
+      {
+        "id": "a25ccddb28d205cbad2d4da7b7b001a4",
+        "title": "Section of busy Glasgow road undergoing layout changes to close for weeks",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26479391.provanmill-road-closure-roadworks-last-two-weeks/",
+        "description": "Provanmill Road will be closed until September 3 for roadworks including drainage improvements and new bus stops.",
+        "published": "Wed, 19 Aug 2026 17:20:25 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20211497/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=525773",
         "title": "Hunt for suspect after staff threatened with bladed weapon during robbery in East Kilbride",
         "link": "https://news.stv.tv/west-central/hunt-for-suspect-after-staff-threatened-with-bladed-weapon-during-robbery-in-east-kilbride",
         "description": "The incident happened at a premises on Alloway Road on Monday",
         "published": "Wed, 19 Aug 2026 16:09:51 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2021/09/9ee77606a050a1228ac916a03d9c7636-1078x720.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/ce3qxjllnk1o#0",
+        "title": "Architecture contest launched to redesign fire-damaged buildings",
+        "link": "https://www.bbc.co.uk/news/articles/ce3qxjllnk1o?at_medium=RSS&at_campaign=rss",
+        "description": "Two B-listed tenement buildings were destroyed in Pollokshields in November 2019 and April 2020.",
+        "published": "Wed, 19 Aug 2026 16:04:44 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7e3/live/a1957670-c3d6-11f0-ae46-bd64331f0fd4.jpg"
       },
       {
         "id": "8930184",
@@ -980,6 +1012,14 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21340542/?type=app&htype=0"
       },
       {
+        "id": "https://www.bbc.co.uk/news/articles/c5ywnpgzj75o#0",
+        "title": "Firefighters tackle late night blaze after lorry bursts into flames",
+        "link": "https://www.bbc.co.uk/news/articles/c5ywnpgzj75o?at_medium=RSS&at_campaign=rss",
+        "description": "Social media posts described hearing \"a very loud bang/explosion\" near the city centre, followed by huge plumes of smoke being visible.",
+        "published": "Wed, 19 Aug 2026 10:12:41 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fe5/live/7877db30-9bb6-11f1-aed2-8d6da8d75094.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/asda-confirms-major-change-91-34481877",
         "title": "Asda confirms major change at 91 stores in Scotland \u2014 starting October",
         "link": "https://www.glasgowlive.co.uk/whats-on/asda-confirms-major-change-91-34481877",
@@ -1354,46 +1394,6 @@
         "description": "A decades-long search for a 17th-century ship that sank in the Forth during a violent storm may be over",
         "published": "Tue, 18 Aug 2026 16:29:07 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21337402/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-opinion/every-glaswegian-should-board-waverley-34473513",
-        "title": "'Every Glaswegian should board the Waverley and go doon the watter at least once'",
-        "link": "https://www.glasgowlive.co.uk/whats-on/whats-on-opinion/every-glaswegian-should-board-waverley-34473513",
-        "description": "&quot;Isn't she pretty? That ship called Waverley&quot;",
-        "published": "Tue, 18 Aug 2026 15:24:39 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34476676.ece/ALTERNATES/s98/1_Screenshot-2026-07-31-at-120151PM.png"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/contractors-revamp-empty-east-renfrewshire-34478426",
-        "title": "Contractors to revamp empty East Renfrewshire council homes due to backlog",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/contractors-revamp-empty-east-renfrewshire-34478426",
-        "description": "A \u00a3300,000 plan is expected to reduce the number of empty homes, which have been hampering efforts to meet housing demand.",
-        "published": "Tue, 18 Aug 2026 15:22:49 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33575114.ece/ALTERNATES/s98/0_ERcouncil.png"
-      },
-      {
-        "id": "9fe8fe21137237aa4699467c3dd085e9",
-        "title": "Scotland faces shortfall of mental health officers despite staff rise",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26475450.scotland-faces-shortfall-mental-health-officers/",
-        "description": "A new report has found that Scotland faces a continuing shortfall in mental health officer (MHO) provision.",
-        "published": "Tue, 18 Aug 2026 16:16:39 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20373057/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/scottish-airport-left-no-more-34478655",
-        "title": "Scottish airport left with no more scheduled flights as Loganair axes routes",
-        "link": "https://www.glasgowlive.co.uk/whats-on/scottish-airport-left-no-more-34478655",
-        "description": "Loganair has confirmed it is ending all operations at the airport this autumn due to it being &quot;financial unsustainable&quot;, leaving the hub with no scheduled commercial passenger services",
-        "published": "Tue, 18 Aug 2026 14:46:04 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/whats-on/article34478654.ece/ALTERNATES/s98/0_Aerial-views-across-Britain-25-Mar-2016.jpg"
-      },
-      {
-        "id": "62b3414b1af2aefb30d99f2f0027bf51",
-        "title": "Roadworks on major Glasgow road delayed with no completion date in sight",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26475248.glasgow-dumbreck-roadworks-hit-delays-no-finish-date-set/",
-        "description": "Ongoing Dumbreck Road and St Andrews Drive works face engineering delays, with Glasgow City Council saying completion is unknown.",
-        "published": "Tue, 18 Aug 2026 15:44:49 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20025777/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
