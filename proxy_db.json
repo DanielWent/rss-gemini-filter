@@ -556,6 +556,54 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "00961b83788b685deffdb8ea598637f9",
+        "title": "Update on future of 'horrific' smelling Glasgow landfill which forced kids indoors",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26474203.update-future-patersons-greenoakhill-landfill-glasgow/",
+        "description": "An update on the future of Patersons' Greenoakhill landfill in Glasgow's East End.",
+        "published": "Wed, 19 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21273338/?type=app&htype=0"
+      },
+      {
+        "id": "fd9eda4b9f77dafa69c1d62ebd00281d",
+        "title": "'We need a solution' - Locals call for action amid sewage issue",
+        "link": "https://www.glasgowtimes.co.uk/news/26474859.we-need-solution---locals-call-action-paisley-sewage/",
+        "description": "Calls have been made for Scottish Water to take action over \"issues with sewage\" at a site in Paisley.",
+        "published": "Wed, 19 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21334667/?type=app&htype=0"
+      },
+      {
+        "id": "bca5e907c9374e43520b0b9facbe8e64",
+        "title": "Anger as 250-year-old 'local landmark' faces demolition for four homes",
+        "link": "https://www.glasgowtimes.co.uk/news/26475255.plans-demolish-listed-farmhouse-barrhead-new-homes/",
+        "description": "Residents have hit out at plans to knock down a historic local landmark which they say represents \"an important surviving connection with Barrhead\u2019s agricultural history\u201d.",
+        "published": "Wed, 19 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21335641/?type=app&htype=0"
+      },
+      {
+        "id": "f81e0e0710517bd32b2b0d66f7c22577",
+        "title": "Child domestic abuse referrals rise by more than a quarter in Scotland",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26474612.child-domestic-abuse-referrals-rise-27-scotland/",
+        "description": "Domestic abuse referrals involving children rose by more than a quarter in Scotland.",
+        "published": "Wed, 19 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21335840/?type=app&htype=0"
+      },
+      {
+        "id": "2b49a27e4ee5e230bc941d5f72a53abb",
+        "title": "Why hundreds are heading to the pub to learn about politics, music and climate change",
+        "link": "https://www.glasgowtimes.co.uk/news/26475089.viral-pints-knowledge-pub-talks-return-glasgow/",
+        "description": "Pioneered by a Glaswegian, the viral Pints of Knowledge returns to Glasgow, bringing together pub goers and experts to explore politics, climate change, music over a pint.",
+        "published": "Wed, 19 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21336677/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-explosion-emergency-services-rush-34480622",
+        "title": "Glasgow 'explosion' as emergency services rush to battle huge van fire near M8",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-explosion-emergency-services-rush-34480622",
+        "description": "A van is said to have 'exploded twice' and 'caught fire' while parked on a street in the Cowcaddens area of Glasgow",
+        "published": "Wed, 19 Aug 2026 00:27:12 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34480621.ece/ALTERNATES/s98/0_Screenshot-2026-08-19-at-093322.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-luxury-student-flats-featuring-34480483",
         "title": "New luxury student flats featuring spa and cinema opens in Glasgow city centre",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/new-luxury-student-flats-featuring-34480483",
@@ -1306,54 +1354,6 @@
         "description": "More than 36,000 people attended a hands-on construction event at Glasgow's Riverside Museum designed to inspire future careers.",
         "published": "Mon, 17 Aug 2026 17:08:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21332234/?type=app&htype=0"
-      },
-      {
-        "id": "7de5bff35358c25fd01af410a0cd0d90",
-        "title": "New Greenock port facility to strengthen Scotland's agricultural supply chain",
-        "link": "https://www.heraldscotland.com/news/26471897.new-greenock-port-facility-set-boost-scottish-agriculture/",
-        "description": "Agricultural supply chain giant ADM is expanding in Scotland with new storage and berthing capacity at the Port of Greenock.",
-        "published": "Mon, 17 Aug 2026 16:29:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21331885/?type=app&htype=0"
-      },
-      {
-        "id": "1c7840ad3b0ef31d3e1e13f86810a71c",
-        "title": "New William Wallace hip hop musical will come close to 'making him a baddie'",
-        "link": "https://www.heraldscotland.com/news/26471962.william-wallace-musical-go-very-close-tearing-down/",
-        "description": "Forthcoming production is billed as a show which 'rips into Scotland\u2019s most famous legend'",
-        "published": "Mon, 17 Aug 2026 16:27:07 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21332022/?type=app&htype=0"
-      },
-      {
-        "id": "431b548a6ba26bbe20f76f20c6fee5cb",
-        "title": "Councillors strike down proposal requiring authorisation for protests in capital",
-        "link": "https://www.heraldscotland.com/news/26471684.edinburgh-councillors-vote-plan-regulate-public-protests/",
-        "description": "Councillors on the Culture and Communities Committee voted to strike out the provisions relating to \u201cunauthorised political activities\u201d and \u201cbegging\u201d.",
-        "published": "Mon, 17 Aug 2026 16:15:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20032757/?type=app&htype=0"
-      },
-      {
-        "id": "055e94cd92934cc457e3ba7862462b2b",
-        "title": "Man dies after being found 'seriously injured' under bridge in Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26471830.man-dies-found-seriously-injured-glasgow/",
-        "description": "A man has died after being found \u2018seriously injured\u2019 under a bridge in Glasgow city centre this afternoon.",
-        "published": "Mon, 17 Aug 2026 16:08:13 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21331768/?type=app&htype=0"
-      },
-      {
-        "id": "dcef69911c216ea7bb9981a6799fe75b",
-        "title": "1000 new homes planned for old football pitches in North Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/26471782.1000-new-homes-planned-empty-land-north-glasgow/",
-        "description": "Ambitious plans to create 1000 homes in a decades-old derelict land site in Glasgow are set to be approved this week.",
-        "published": "Mon, 17 Aug 2026 16:01:52 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21331717/?type=app&htype=0"
-      },
-      {
-        "id": "8924026",
-        "title": "Date and time of blood Moon partial lunar eclipse - why Moon will appear red and how to see it",
-        "link": "https://www.glasgowworld.com/news/partial-lunar-eclipse-blood-moon-date-8924026",
-        "description": "<p><strong>A partial lunar eclipse - making the Moon appear red - will occur towards the end of August.</strong></p>",
-        "published": "Mon, 17 Aug 2026 15:00:16 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/17/0/10/GettyImages-2233647073.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
