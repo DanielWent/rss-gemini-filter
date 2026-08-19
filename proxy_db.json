@@ -604,12 +604,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "10a56ce2d5bf554e569490b1b32e8dae",
+        "title": "'Continuity Starmerism': Scottish Labour leadership rivals clash in fiery TV debate",
+        "link": "https://www.heraldscotland.com/news/26479670.scottish-labour-leadership-rivals-clash-fiery-tv-debate/",
+        "description": "Scottish Labour leadership candidates Michael Marra and Joe Fagan faced off in a fiery STV debate.",
+        "published": "Wed, 19 Aug 2026 22:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21344497/?type=app&htype=504"
+      },
+      {
         "id": "8930766",
         "title": "Celtic player ratings vs LASK as new signing lights up Champions League clash, 8/10 aces and recruits assessed",
         "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-player-ratings-vs-lask-new-signing-lights-up-champions-league-clash-8930766",
         "description": "<p>Here\u2019s how our Celtic player ratings vs LASK in their Champions League play-off first leg.</p>",
         "published": "Wed, 19 Aug 2026 20:51:40 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/19/20/38/GettyImages-2291183808.jpg?width=1200&auto=webp&trim=18%2C0%2C19%2C0"
+      },
+      {
+        "id": "ad6b4af857306ead7c46898e6461cffc",
+        "title": "First Minister and officials rack up \u00a398,000 bill watching Scotland at the World Cup",
+        "link": "https://www.heraldscotland.com/news/26479660.john-swinney-world-cup-trip-cost-taxpayers-98-442/",
+        "description": "John Swinney's trip to watch Scotland at the World Cup in the United States has left taxpayers with a bill of \u00a398,442.",
+        "published": "Wed, 19 Aug 2026 21:10:32 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21038136/?type=app&htype=0"
       },
       {
         "id": "4590fda551a92f6cbfacc7e8cafcbafa",
@@ -1386,22 +1402,6 @@
         "description": "FAR-right agitator Tommy Robinson has responded after a Glasgow dad\u2019s fundraiser to take him to court raised more than \u00a335,000 in less than a week.",
         "published": "Tue, 18 Aug 2026 17:53:53 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21194844/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-born-actress-phyllida-law-34479901",
-        "title": "Glasgow-born actress Phyllida Law, mother of Emma Thompson, dies aged 94",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-born-actress-phyllida-law-34479901",
-        "description": "New of her death was shared by her granddaughter.",
-        "published": "Tue, 18 Aug 2026 16:51:47 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34479880.ece/ALTERNATES/s98/0_Screenshot-2026-08-18-at-171854.png"
-      },
-      {
-        "id": "5d6fb1c57d1d1fc88ecd1364602f3028",
-        "title": "Woman appears in court following 'attempted murder' of two cops",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26475761.woman-court-following-attempted-murder-cops-larkhall/",
-        "description": "A woman has appeared in court as the investigation into the alleged \u2018attempted murder\u2019 of two police officers in Larkhall continues.",
-        "published": "Tue, 18 Aug 2026 17:13:37 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20653934/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
