@@ -556,6 +556,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "b2adc34b6471059f46228cdd0ae9eda1",
+        "title": "South Lanarkshire trains in disarray amid ongoing disruption",
+        "link": "https://www.glasgowtimes.co.uk/news/26476262.larkhall-trains-delayed-changed-amid-ongoing-disruption/",
+        "description": "South Lanarkshire trains are in disaray this morning after a train broke down on the Larkhall branch.",
+        "published": "Wed, 19 Aug 2026 07:25:33 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21173123/?type=app&htype=0"
+      },
+      {
+        "id": "8926855",
+        "title": "Rangers make shrewd transfer move for star as pundit \u2018surprised\u2019 Celtic didn\u2019t fancy ace",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-make-shrewd-transfer-move-for-star-as-pundit-surprised-celtic-didnt-fancy-ace-8926855",
+        "description": "<p>Ibrox hero reckons defender should\u2019ve been snapped up by Old Firm club a year ago</p>",
+        "published": "Wed, 19 Aug 2026 06:00:21 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/18/9/38/GettyImages-2248188749.jpeg?width=1200&auto=webp&trim=1%2C0%2C2%2C0"
+      },
+      {
+        "id": "4335975e7c23e48f52c94da4bfdc3dfc",
+        "title": "Three fire engines rush to to 'explosion' as smoke billows near Glasgow's M8",
+        "link": "https://www.glasgowtimes.co.uk/news/26476239.glasgow-explosion-rocks-road-near-m8-smoke-billows/",
+        "description": "A vehicle was found on fire as fire crews arrived at an area near Dundas Court in the Cowcaddens area around 11.20pm last night.",
+        "published": "Wed, 19 Aug 2026 06:51:34 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21338957/?type=app&htype=0"
+      },
+      {
         "id": "00961b83788b685deffdb8ea598637f9",
         "title": "Update on future of 'horrific' smelling Glasgow landfill which forced kids indoors",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26474203.update-future-patersons-greenoakhill-landfill-glasgow/",
@@ -650,6 +674,14 @@
         "description": "Old newspaper offices in Glasgow city centre can be demolished to make way for a 20-storey student accommodation block and co-living homes.",
         "published": "Tue, 18 Aug 2026 18:33:56 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21338027/?type=app&htype=0"
+      },
+      {
+        "id": "910dca0f4ad364731f62c5f1537c5fb5",
+        "title": "'No evidence' of graffiti clean-up despite extra spending, Glasgow residents say",
+        "link": "https://www.glasgowtimes.co.uk/news/26475960.glasgow-residents-say-no-evidence-graffiti-clean-up-despite-extra-spend/",
+        "description": "Glasgow residents have said they saw \"no evidence\" of extra graffiti removal during the Commonwealth Games despite organisers funding hundreds of hours of additional work ...",
+        "published": "Tue, 18 Aug 2026 18:33:18 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21336453/?type=app&htype=0"
       },
       {
         "id": "fb8d5289a9e95c8f46fe098f1f74056e",
@@ -1322,38 +1354,6 @@
         "description": "There was \u201cno malicious intent\u201d in the destruction of documents relating to disgraced neurosurgeon Sam Eljamel, an independent report has found.",
         "published": "Mon, 17 Aug 2026 17:39:36 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/17651348/?type=app&htype=0"
-      },
-      {
-        "id": "b909ae341438307b0b1b7e070b584b14",
-        "title": "Hit TV show's festive specials filmed in Glasgow CANCELLED",
-        "link": "https://www.glasgowtimes.co.uk/entertainment/tv_radio/26472309.mrs-browns-boys-christmas-new-years-specials-cancelled/",
-        "description": "Mrs Brown\u2019s Boys Christmas and New Year\u2019s specials CANCELLED",
-        "published": "Mon, 17 Aug 2026 17:36:07 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21332492/?type=app&htype=0"
-      },
-      {
-        "id": "535348db08e3c25a9b8332a8d9318300",
-        "title": "Scottish Labour has four weeks to pick a leader and a much bigger problem to solve",
-        "link": "https://www.heraldscotland.com/news/26472296.labours-leadership-contest-now-two-man-race/",
-        "description": "Monica Lennon is out, leaving Michael Marra and Joe Fagan to contest the Scottish Labour leadership. But with the party underperforming its own potential by 30 points, the harder question is whether a new leader alone can fix that.",
-        "published": "Mon, 17 Aug 2026 17:30:29 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21332431/?type=app&htype=0"
-      },
-      {
-        "id": "3974f43bfffacbb5d9ad97eb795bd537",
-        "title": "Glasgow firm falls into administration with all jobs at risk",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26472193.dj-mackay-partners-llp-glasgow-falls-administration/",
-        "description": "DJ Mackay &amp; Partners LLP in Glasgow falls into administration",
-        "published": "Mon, 17 Aug 2026 17:08:17 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21332401/?type=app&htype=0"
-      },
-      {
-        "id": "f4d36454f82cec19c585ae73d9e5bb00",
-        "title": "Over 36,000 flock to Glasgow construction event aimed at inspiring next generation",
-        "link": "https://www.heraldscotland.com/news/26472068.construction-event-attracts-36-000-visitors-glasgow/",
-        "description": "More than 36,000 people attended a hands-on construction event at Glasgow's Riverside Museum designed to inspire future careers.",
-        "published": "Mon, 17 Aug 2026 17:08:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21332234/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
