@@ -392,6 +392,14 @@
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
       {
+        "id": "https://the5krunner.com/?p=126585",
+        "title": "Garmin CIRQA Band Review",
+        "link": "https://the5krunner.com/2026/08/19/garmin-cirqa-band-review/",
+        "description": "<p><img alt=\"Garmin CIRQA Band Review\" class=\"attachment-large size-large\" height=\"685\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/07/Garmin-CIRQA-vs-Amazfit-Helio-Whoop-MG-Fitbit-Air-top-view-1.jpg/w=1110,h=685\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Garmin CIRQA nails heart rate almost everywhere it's tested, gym, yoga, cycling, biceps intervals, but fails specifically on the wrist in open water swimming and fast running intervals. At $199.99 with no subscription, it's the cheapest way into Garmin's recovery ecosystem.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/08/19/garmin-cirqa-band-review/\">Garmin CIRQA Band Review</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
+        "published": "Wed, 19 Aug 2026 11:37:05 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/07/Garmin-CIRQA-vs-Amazfit-Helio-Whoop-MG-Fitbit-Air-top-view-1.jpg/w=1110,h=685"
+      },
+      {
         "id": "https://the5krunner.com/?p=126574",
         "title": "Tacx NEO 2T with Zwift Cog and Click Priced at $1,099.99",
         "link": "https://the5krunner.com/2026/08/18/tacx-2t-zwift-cog-click/",
@@ -572,12 +580,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8929551",
+        "title": "Tony Roper celebrates 85th birthday in rehearsals for final Steamie tour",
+        "link": "https://www.glasgowworld.com/best-in/tony-roper-celebrates-85th-birthday-in-rehearsals-for-final-steamie-tour-8929551",
+        "description": "<p>Renowned Scottish actor, writer and director Tony Roper celebrates his 85th birthday today in rehearsals for The Steamie, as the company prepares to take his much-loved Scottish classic on tour later this month. </p>",
+        "published": "Wed, 19 Aug 2026 11:44:03 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/19/11/08/TheSteamieREH_031WEBChristopherBowen.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
         "id": "https://news.stv.tv/?p=525708",
         "title": "Double murder investigation launched after two men found dead in Glasgow flat",
         "link": "https://news.stv.tv/west-central/double-murder-investigation-launched-after-two-men-found-dead-in-glasgow-flat",
         "description": "The men, aged 50 and 54, were found at a property on Chancellor Street around 4.40pm on Sunday and pronounced dead at the scene.",
         "published": "Wed, 19 Aug 2026 11:27:27 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/bbf264d8e4a2a28c0eedfd571ba3b5ac-1787134721.jpg"
+      },
+      {
+        "id": "8929263",
+        "title": "Wolves 'interested' in Rangers target as competition rises over Premier League player after \u00a37.5m bid rejected",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/wolves-interested-rangers-target-light-blues-face-competition-premier-league-player-8929263",
+        "description": "<p>Wolves are the latest club to show interest in the star eyed by Rangers this transfer window.</p>",
+        "published": "Wed, 19 Aug 2026 11:26:09 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/18/11/35/GettyImages-2163451430-(7).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       },
       {
         "id": "77369c7d4a6b861d2b5684ad6cac8a6a",
@@ -658,14 +682,6 @@
         "description": "City leaders have agreed to develop a new proposal that could transform public services.",
         "published": "Wed, 19 Aug 2026 10:34:37 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21339842/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/theatre-news/tony-roper-celebrates-85th-birthday-34481550",
-        "title": "Tony Roper celebrates 85th birthday in rehearsals for his final Steamie tour",
-        "link": "https://www.glasgowlive.co.uk/whats-on/theatre-news/tony-roper-celebrates-85th-birthday-34481550",
-        "description": "Scottish TV star and theatre legend is marking his milestone birthday as he prepares for his last outing directing his much-loved classic.",
-        "published": "Wed, 19 Aug 2026 09:25:50 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34481526.ece/ALTERNATES/s98/0_TheSteamieREH_157WEBChristopherBowen.jpg"
       },
       {
         "id": "507b416aa38a6f859b6af7acbe83537f",
@@ -1362,14 +1378,6 @@
         "description": "Work on the second of two long-delayed CalMac ferries is drawing to a close at the state-owned yard in Port Glasgow.",
         "published": "Tue, 18 Aug 2026 08:39:57 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7127/live/f9c38180-9adf-11f1-b792-a710e56a11dc.jpg"
-      },
-      {
-        "id": "26ddbb43e37989507e26890a59af42e9",
-        "title": "Giant teacake and unicorn heads from Glasgow Commonwealth Games to go under hammer",
-        "link": "https://www.glasgowtimes.co.uk/news/26472892.giant-teacake-go-hammer-glasgow-auction/",
-        "description": "A giant teacake, unicorn heads and gold medal netballs are among the items set to go under the hammers in a Glasgow public auction",
-        "published": "Tue, 18 Aug 2026 09:28:04 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21333476/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
