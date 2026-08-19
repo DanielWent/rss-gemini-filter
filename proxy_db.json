@@ -604,6 +604,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "96c8f4708363f21a1fd04ef7811e570a",
+        "title": "Patient with liver cancer was treated in corridor of Ayrshire hospital",
+        "link": "https://www.heraldscotland.com/news/26479557.terminal-cancer-patient-treated-ayrshire-hospital-corridor/",
+        "description": "A patient dying from cancer had their diagnosis delayed and was treated in the corridor of a hospital, a complaint against the health board has found",
+        "published": "Wed, 19 Aug 2026 19:09:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/14833952/?type=app&htype=0"
+      },
+      {
         "id": "ff99f5ae79fdf17889a09a5da4b62171",
         "title": "City centre street taped off by emergency services amid incident",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26479538.glasgows-elmbank-street-taped-off-amid-incident/",
