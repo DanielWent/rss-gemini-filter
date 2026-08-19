@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1787139028558167",
+        "title": "OpenAI slows down training after its AI carried out hack",
+        "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
+        "description": "The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.",
+        "published": "Wed, 19 Aug 2026 13:19:12 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc62/live/f7f452d0-9bbb-11f1-9cab-ed9e722cbe4c.jpg"
+      },
+      {
         "id": "1787077817834005",
         "title": "Earthquake rocks Spain's historic Granada, injuring three",
         "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
@@ -564,6 +572,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=525708",
+        "title": "Double murder investigation launched after two men found dead in Glasgow flat",
+        "link": "https://news.stv.tv/west-central/double-murder-investigation-launched-after-two-men-found-dead-in-glasgow-flat",
+        "description": "The men, aged 50 and 54, were found at a property on Chancellor Street around 4.40pm on Sunday and pronounced dead at the scene.",
+        "published": "Wed, 19 Aug 2026 11:27:27 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/bbf264d8e4a2a28c0eedfd571ba3b5ac-1787134721.jpg"
+      },
+      {
+        "id": "77369c7d4a6b861d2b5684ad6cac8a6a",
+        "title": "NHSGGC meningitis vaccine clinics expanded as students urged to get protected",
+        "link": "https://www.glasgowtimes.co.uk/news/26477707.nhsggc-meningitis-vaccine-drop-in-clinics-expanded/",
+        "description": "NHS Greater Glasgow and Clyde (NHSGGC) has increased access to the MenB vaccine,",
+        "published": "Wed, 19 Aug 2026 12:26:06 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20724220/?type=app&htype=27"
+      },
+      {
+        "id": "21748861f35d9bf4a9bbfe7c299adfdf",
+        "title": "Rangers legend Ally McCoist 'heartbroken' after Glasgow city centre documentary",
+        "link": "https://www.glasgowtimes.co.uk/news/26477586.rangers-hero-mccoist-left-heartbroken-glasgow-documentary/",
+        "description": "A BBC documentary highlighting crime in Glasgow's city centre has sparked shock and criticism from Rangers legend Ally McCoist.",
+        "published": "Wed, 19 Aug 2026 12:20:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21340966/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/first-images-river-citys-final-34480275",
         "title": "First images of River City's final episode released ahead of dramatic end",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/first-images-river-citys-final-34480275",
@@ -634,14 +666,6 @@
         "description": "Scottish TV star and theatre legend is marking his milestone birthday as he prepares for his last outing directing his much-loved classic.",
         "published": "Wed, 19 Aug 2026 09:25:50 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34481526.ece/ALTERNATES/s98/0_TheSteamieREH_157WEBChristopherBowen.jpg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=525684",
-        "title": "Competition to redesign Glasgow sites destroyed in two major fires",
-        "link": "https://news.stv.tv/west-central/competition-to-redesign-glasgow-sites-destroyed-in-two-major-fires",
-        "description": "Albert Cross in Glasgow's Pollokshields was destroyed in two separate fires in 2019 and 2020",
-        "published": "Wed, 19 Aug 2026 09:24:41 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/c05534a21e5942fb7c18e096b27bfbeb-1787130379.jpg"
       },
       {
         "id": "507b416aa38a6f859b6af7acbe83537f",
@@ -794,14 +818,6 @@
         "description": "<p>Ibrox hero reckons defender should\u2019ve been snapped up by Old Firm club a year ago</p>",
         "published": "Wed, 19 Aug 2026 06:00:21 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/18/9/38/GettyImages-2248188749.jpeg?width=1200&auto=webp&trim=1%2C0%2C2%2C0"
-      },
-      {
-        "id": "4335975e7c23e48f52c94da4bfdc3dfc",
-        "title": "Three fire engines rush to to 'explosion' as smoke billows near Glasgow's M8",
-        "link": "https://www.glasgowtimes.co.uk/news/26476239.glasgow-explosion-rocks-road-near-m8-smoke-billows/",
-        "description": "A vehicle was found on fire as fire crews arrived at an area near Dundas Court in the Cowcaddens area around 11.20pm last night.",
-        "published": "Wed, 19 Aug 2026 06:51:34 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21338957/?type=app&htype=0"
       },
       {
         "id": "d8a29f30b8e50b5c96b1ee918f2a0c8a",
@@ -1122,14 +1138,6 @@
         "description": "Set to launch this week, the new Langside Social will take over from Reardon's Southside, which has closed after 21 years.",
         "published": "Tue, 18 Aug 2026 14:05:11 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34477463.ece/ALTERNATES/s98/0_Screenshot-2026-08-18-at-10946PM.png"
-      },
-      {
-        "id": "ee47d312e7adfe511ed0a24554f3eb3d",
-        "title": "One dead and hundreds fall ill in UK-wide Salmonella outbreak",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26474937.one-dead-hundreds-fall-ill-uk-salmonella-outbreak/",
-        "description": "A person has died, and hundreds have fallen ill amid a reported outbreak of salmonella food poisoning in the UK.",
-        "published": "Tue, 18 Aug 2026 14:58:25 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21336363/?type=app&htype=0"
       },
       {
         "id": "24ebe64474cfb92bc47f932c7bf8cae5",
