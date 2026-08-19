@@ -588,6 +588,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "f9f6cf1d47b7e0f4ae2151954c29b4ef",
+        "title": "UK company with Glasgow offices officially named Great Place to Work",
+        "link": "https://www.glasgowtimes.co.uk/news/26478820.uk-firm-vital-energi-officially-named-great-place-work/",
+        "description": "Vital Energi, which has offices in Glasgow has been officially certified as a Great Place to Work.",
+        "published": "Wed, 19 Aug 2026 15:46:48 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21342821/?type=app&htype=0"
+      },
+      {
+        "id": "d23fa7fdf337762961c1915421f401c9",
+        "title": "Dozens of new energy-efficient homes handed over at North Lanarkshire development",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26478718.royale-meadows-welcomes-26-new-homes-muirhead-north-lanarkshire/",
+        "description": "Persimmon Homes has handed over 44 new homes at Royale Meadows in Muirhead to Sanctuary Scotland.",
+        "published": "Wed, 19 Aug 2026 15:30:11 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21342754/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/knife-used-glasgow-double-death-34484201",
+        "title": "Knife used in Glasgow double death as police 'keeping open mind' in hunt for suspect",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/knife-used-glasgow-double-death-34484201",
+        "description": "A murder probe has been launched after Paul Lafferty, 50, and Gary Beaton, 54, were found dead in a Partick flat.",
+        "published": "Wed, 19 Aug 2026 14:27:55 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34484805.ece/ALTERNATES/s98/1_Screenshot-2026-08-19-at-151043.png"
+      },
+      {
+        "id": "7da49b2305257076efddea7aa386f9e3",
+        "title": "Minister backs calls for better support for people with cerebral palsy",
+        "link": "https://www.glasgowtimes.co.uk/news/26478643.minister-community-care-visited-cerebral-palsy-scotland/",
+        "description": "Alison Thewliss, Minister for Community Care has backed calls to improve specialist support for people with cerebral palsy.",
+        "published": "Wed, 19 Aug 2026 15:16:43 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21342495/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/filming-glasgow-brings-166m-revenue-34484624",
+        "title": "Filming in Glasgow brings in \u00a3166m revenue for local economy",
+        "link": "https://www.glasgowlive.co.uk/news/filming-glasgow-brings-166m-revenue-34484624",
+        "description": "Those big budget Hollywood blockbusters brought in this much revenue for Glasgow in the last five years, recent figures show.",
+        "published": "Wed, 19 Aug 2026 14:07:05 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article27111660.ece/ALTERNATES/s98/1_bat7JPG.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/iro-sushi-set-open-first-34484220",
         "title": "IRO Sushi set to open first Scottish restaurant in Glasgow",
         "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/iro-sushi-set-open-first-34484220",
@@ -620,12 +660,36 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21342278/?type=app&htype=0"
       },
       {
+        "id": "308bb5d771feb96a2de56151ef758e8e",
+        "title": "\u00a311m Glasgow innovation hub launched to support high-growth technology businesses",
+        "link": "https://www.heraldscotland.com/news/26478329.11m-glasgow-innovation-hub-set-create-workspace/",
+        "description": "A new \u00a311 million innovation hub in Dalmarnock is set to provide up to 45,000 sq ft of workspace for high-growth businesses.",
+        "published": "Wed, 19 Aug 2026 14:38:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21342134/?type=app&htype=0"
+      },
+      {
+        "id": "6482594c45402836595f8bd0b0662e84",
+        "title": "New work by Turner Prize winner opens to mark GoMA\u2019s 30th anniversary",
+        "link": "https://www.heraldscotland.com/news/26478204.new-work-turner-prize-winner-opens-mark-gomas-30th-anniversary/",
+        "description": "The Gallery of Modern Art (GoMA) has announced an \"ambitious\" new commission by Turner Prize winner (2014) Duncan Campbell.",
+        "published": "Wed, 19 Aug 2026 14:01:01 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21341907/?type=app&htype=0"
+      },
+      {
         "id": "f6624cf14cb559b7ea207b7d1a8d7d44",
         "title": "Masked gangs, drugs and disorder: what the BBC got wrong about Glasgow",
         "link": "https://www.heraldscotland.com/politics/viewpoint/26478023.bbc-scotlands-disclosure-documentary-glasgow-predictable/",
         "description": "BBC documentary around St Enoch Square in Glasgow reveals troubling scenes, yet dodges the bigger questions concern government policy, policing and urban decline",
         "published": "Wed, 19 Aug 2026 13:30:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21337721/?type=app&htype=0"
+      },
+      {
+        "id": "ad749a265853206a163d77d0f3d16a0c",
+        "title": "Parents 'not rushing to move near state schools' after VAT hike on private fees",
+        "link": "https://www.heraldscotland.com/news/26478026.edinburgh-parents-not-moving-near-state-schools-vat-hike/",
+        "description": "Experts expected an impact on the property market, but here's what really happened",
+        "published": "Wed, 19 Aug 2026 13:21:55 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/17840456/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgows-last-landfill-close-expansion-34482783",
@@ -690,14 +754,6 @@
         "description": "NHS Greater Glasgow and Clyde (NHSGGC) has increased access to the MenB vaccine,",
         "published": "Wed, 19 Aug 2026 12:26:06 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20724220/?type=app&htype=27"
-      },
-      {
-        "id": "b810cefc2d600eadcec072cf28ae242f",
-        "title": "Sushi restaurant reveals plans to open first Scottish location in Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26477700.iro-sushi-open-restaurant-glasgows-sauchiehall-street/",
-        "description": "A fast-growing sushi restaurant is set to open its first Scottish location in Glasgow.",
-        "published": "Wed, 19 Aug 2026 12:25:12 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21341033/?type=app&htype=0"
       },
       {
         "id": "72320c275363936256cb8c4628e5e0c6",
@@ -1330,54 +1386,6 @@
         "description": "An armed robber was bravely foiled by the taxi driver who he shot with a gun.",
         "published": "Tue, 18 Aug 2026 13:24:03 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/19141757/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-subway-stations-upgraded-more-34477469",
-        "title": "Glasgow Subway stations upgraded with more plans for modernisation ahead",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-subway-stations-upgraded-more-34477469",
-        "description": "15 stations - also including Queen Street Train Station and Partick Transport Interchange Hub - have been modernised for the third time since the Subway, which is the third oldest in the world, opened 1896.",
-        "published": "Tue, 18 Aug 2026 12:20:11 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article31938701.ece/ALTERNATES/s98/4_GettyImages-1036060382.jpg"
-      },
-      {
-        "id": "ec2fc3233d639c430946182e22812a99",
-        "title": "Empty civil service buildings - isn't that such a waste of money?",
-        "link": "https://www.heraldscotland.com/news/26474056.empty-civil-service-buildings---waste-money/",
-        "description": "Empty desks, echoing corridors and locked meeting rooms. That is the reality of taxpayer-funded office buildings that used to house thousands of civil servants.",
-        "published": "Tue, 18 Aug 2026 13:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21335176/?type=app&htype=0"
-      },
-      {
-        "id": "5298c731e3e935b20b6d429b5e65cdbb",
-        "title": "Luxury student accommodation opens on former Lorne Hotel site in Glasgow city centre",
-        "link": "https://www.heraldscotland.com/news/26474180.luxury-student-accommodation-opens-former-glasgow-hotel/",
-        "description": "A new 151-room luxury student accommodation scheme has opened on Sauchiehall Street at the former Lorne Hotel site in Glasgow.",
-        "published": "Tue, 18 Aug 2026 13:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21335234/?type=app&htype=0"
-      },
-      {
-        "id": "8927407",
-        "title": "Plans to create new outdoor wellbeing space in Coatbridge",
-        "link": "https://www.glasgowworld.com/news/plans-to-create-new-outdoor-wellbeing-space-in-coatbridge-8927407",
-        "description": "<p>Mental health campaign organisation Rural Rest is celebrating a major milestone after successfully securing a Community Asset Transfer from the council, paving the way for an ambitious new outdoor wellbeing space for local people.  </p>",
-        "published": "Tue, 18 Aug 2026 11:58:23 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/18/11/13/Screenshot-2026-08-18-125553.jpeg?width=1200&auto=webp&trim=0%2C4%2C0%2C3"
-      },
-      {
-        "id": "c90753b18c86513b8189291b0550719f",
-        "title": "Poorest Scots 216 per cent more likely to get lung cancer than wealthiest",
-        "link": "https://www.heraldscotland.com/news/26474145.scotland-lung-cancer-deprivation-gap-widens-figures-show/",
-        "description": "New Public Health Scotland figures show people in the most deprived communities are 216% more likely to develop lung cancer than those in the least deprived. The gap that has grown over the past decade even as overall rates fall.",
-        "published": "Tue, 18 Aug 2026 12:40:47 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/18148768/?type=app&htype=0"
-      },
-      {
-        "id": "c0bbfe3a094e56a19f1f37cd54763d89",
-        "title": "EasyJet flight to Glasgow declares midair emergency over passenger incident",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26473935.london-glasgow-easyjet-flight-declares-midair-emergency/",
-        "description": "An easyJet flight from London Gatwick to Glasgow Airport declared a medical emergency shortly before landing after a passenger fell ill.",
-        "published": "Tue, 18 Aug 2026 12:02:41 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19646375/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
