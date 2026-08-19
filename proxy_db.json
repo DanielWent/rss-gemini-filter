@@ -596,6 +596,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/glasgow-becomes-gotham-once-more-34486327",
+        "title": "Glasgow becomes Gotham once more as Batman sequel begins filming",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/glasgow-becomes-gotham-once-more-34486327",
+        "description": "Fans have been sending in the latest pictures from around the city as the Batman film crew take over.",
+        "published": "Wed, 19 Aug 2026 17:01:16 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34485804.ece/ALTERNATES/s98/0_distanceJPG.jpg"
+      },
+      {
         "id": "8b52f57ebfeec2312165e37b591227aa",
         "title": "Major motorway near Glasgow closed during rush hour amid emergency incident",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26479465.part-m80-near-stepps-closed-due-road-traffic-collision/",
@@ -674,6 +682,14 @@
         "description": "A van driver is to stand trial charged with killing a woman in head-on crash in Howwood.",
         "published": "Wed, 19 Aug 2026 16:32:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21343165/?type=app&htype=0"
+      },
+      {
+        "id": "b27e96c69416989f8c1c93ab8da7f8b2",
+        "title": "GMB: Glasgow's equal pay deal leaves 'too many risks unassessed'",
+        "link": "https://www.heraldscotland.com/news/26479123.too-many-questions-gmbs-verdict-glasgow-pay-deal/",
+        "description": "GMB Scotland has warned that Glasgow City Council's equal pay settlement leaves too many questions unanswered ahead of a crunch vote on Thursday.",
+        "published": "Wed, 19 Aug 2026 16:31:46 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/7294620/?type=app&htype=0"
       },
       {
         "id": "f9f6cf1d47b7e0f4ae2151954c29b4ef",
@@ -1378,22 +1394,6 @@
         "description": "The decision to\u00a0demolish a historic West End\u00a0church despite hundreds of objections will not be called in by the Scottish Government.",
         "published": "Tue, 18 Aug 2026 17:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21056429/?type=app&htype=0"
-      },
-      {
-        "id": "7f64cc2272a2c0027520404c02a64acc",
-        "title": "Hamas' political arm should be de-proscribed, says council by-election candidate",
-        "link": "https://www.heraldscotland.com/news/26474762.hamas-political-arm-de-proscribed-edinburgh-candidate-says/",
-        "description": "Mr Gregson has launched a petition urging the Home Secretary to remove Hamas\u2019 political wing from the UK\u2019s proscribed list of terrorist groups.",
-        "published": "Tue, 18 Aug 2026 17:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21336156/?type=app&htype=0"
-      },
-      {
-        "id": "9318b09f87b687500ab225fb996b6463",
-        "title": "Shipwreck with treasure 'worth millions' may have been found in Firth of Forth",
-        "link": "https://www.heraldscotland.com/news/26475522.royal-shipwreck-forth-worth-millions-pounds-may-found/",
-        "description": "A decades-long search for a 17th-century ship that sank in the Forth during a violent storm may be over",
-        "published": "Tue, 18 Aug 2026 16:29:07 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21337402/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
