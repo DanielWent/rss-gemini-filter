@@ -604,6 +604,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "4590fda551a92f6cbfacc7e8cafcbafa",
+        "title": "Concerns grow for teenager missing from town in North Lanarkshire",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26479651.concerns-grow-missing-wishaw-teenager/",
+        "description": "Concerns are growing for a teenager who has disappeared from a town in North Lanarkshire.",
+        "published": "Wed, 19 Aug 2026 20:51:36 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21344477/?type=app&htype=0"
+      },
+      {
+        "id": "730c8f8aec7174c7b1e5cd2c4f436b48",
+        "title": "Rangers pub in Glasgow's East End to shut for good",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26479643.original-louden-tavern-shut-good-glasgow/",
+        "description": "Bosses at a pub in Glasgow\u2019s East End say it is to close for good this month.",
+        "published": "Wed, 19 Aug 2026 20:26:58 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16245375/?type=app&htype=0"
+      },
+      {
         "id": "96c8f4708363f21a1fd04ef7811e570a",
         "title": "Patient with liver cancer was treated in corridor of Ayrshire hospital",
         "link": "https://www.heraldscotland.com/news/26479557.terminal-cancer-patient-treated-ayrshire-hospital-corridor/",
@@ -786,14 +802,6 @@
         "description": "Alison Thewliss, Minister for Community Care has backed calls to improve specialist support for people with cerebral palsy.",
         "published": "Wed, 19 Aug 2026 15:16:43 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21342495/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/filming-glasgow-brings-166m-revenue-34484624",
-        "title": "Filming in Glasgow brings in \u00a3166m revenue for local economy",
-        "link": "https://www.glasgowlive.co.uk/news/filming-glasgow-brings-166m-revenue-34484624",
-        "description": "Those big budget Hollywood blockbusters brought in this much revenue for Glasgow in the last five years, recent figures show.",
-        "published": "Wed, 19 Aug 2026 14:07:05 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article27111660.ece/ALTERNATES/s98/1_bat7JPG.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/iro-sushi-set-open-first-34484220",
@@ -1394,14 +1402,6 @@
         "description": "The new initiative is aimed at ensuring talent-spotters and executives continue to flock to Edinburgh in August.",
         "published": "Tue, 18 Aug 2026 17:05:40 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/15257606/?type=app&htype=0"
-      },
-      {
-        "id": "9e9fb8eb86a77538f5983f898b307145",
-        "title": "Government won't call in decision to demolish historic Glasgow church",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26474039.decision-demolish-historic-glasgow-church-will-go-ahead/",
-        "description": "The decision to\u00a0demolish a historic West End\u00a0church despite hundreds of objections will not be called in by the Scottish Government.",
-        "published": "Tue, 18 Aug 2026 17:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21056429/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
