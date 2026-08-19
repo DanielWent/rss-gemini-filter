@@ -596,6 +596,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21342821/?type=app&htype=0"
       },
       {
+        "id": "bb80359b8f60adc0908c02b2189eea12",
+        "title": "Firework control zones to be introduced  in four areas of Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26478787.four-glasgow-areas-see-firework-control-zones-introduced/",
+        "description": "Firework control zones will be introduced in four areas of Glasgow this year.",
+        "published": "Wed, 19 Aug 2026 15:40:42 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17374951/?type=app&htype=0"
+      },
+      {
         "id": "d23fa7fdf337762961c1915421f401c9",
         "title": "Dozens of new energy-efficient homes handed over at North Lanarkshire development",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26478718.royale-meadows-welcomes-26-new-homes-muirhead-north-lanarkshire/",
@@ -668,12 +676,28 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21342134/?type=app&htype=0"
       },
       {
+        "id": "57adfa29d4d5ce2dfdcd75f57a03e768",
+        "title": "Court hears Graeme Dott told boy to 'stay out of room' while he abused young girl",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26478293.graeme-dott-told-boy-stay-room-girl-high-court-hears/",
+        "description": "A former world snooker champion allegedly told a young boy to stay out of a room while he was with a girl he is accused of abusing, a jury has heard.",
+        "published": "Wed, 19 Aug 2026 14:16:26 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13033913/?type=app&htype=0"
+      },
+      {
         "id": "6482594c45402836595f8bd0b0662e84",
         "title": "New work by Turner Prize winner opens to mark GoMA\u2019s 30th anniversary",
         "link": "https://www.heraldscotland.com/news/26478204.new-work-turner-prize-winner-opens-mark-gomas-30th-anniversary/",
         "description": "The Gallery of Modern Art (GoMA) has announced an \"ambitious\" new commission by Turner Prize winner (2014) Duncan Campbell.",
         "published": "Wed, 19 Aug 2026 14:01:01 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21341907/?type=app&htype=0"
+      },
+      {
+        "id": "6066c35d3c8371bba0c45392160821cc",
+        "title": "Busy Glasgow road closed to all traffic amid ongoing emergency works",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26478123.old-castle-road-closed-emergency-scottish-water-works/",
+        "description": "A section of Old Castle Road will close while Scottish Water carries out emergency works, with delays expected.",
+        "published": "Wed, 19 Aug 2026 13:42:08 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20023077/?type=app&htype=0"
       },
       {
         "id": "f6624cf14cb559b7ea207b7d1a8d7d44",
@@ -1362,30 +1386,6 @@
         "description": "The streets of Glasgow's city centre are being prepared for the shooting of Matt Reeves' The Batman Part 2.",
         "published": "Tue, 18 Aug 2026 14:19:21 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21335941/?type=app&htype=0"
-      },
-      {
-        "id": "8927225",
-        "title": "Rangers vs Celtic Premier Sports Cup quarter-final date, kick-off time and TV schedule confirmed",
-        "link": "https://www.glasgowworld.com/sport/football/rangers-celtic-premier-sports-cup-quarter-final-date-kick-off-time-tv-schedule-confirmed-8927225",
-        "description": "<p>The Glasgow giants are set for back-to-back showdowns inside a week</p>",
-        "published": "Tue, 18 Aug 2026 13:01:00 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/18/11/56/21628286.jpeg?width=1200&auto=webp&trim=37%2C0%2C37%2C0"
-      },
-      {
-        "id": "e32649ca44b0d7a2ef263dac5cdbe29f",
-        "title": "New \u00a31m fund launched to help protect Scotland\u2019s historic places of worship",
-        "link": "https://www.glasgowtimes.co.uk/news/26474534.new-1m-fund-launched-support-scotlands-places-worship/",
-        "description": "Historic Environment Scotland (HES) has announced the Scotland\u2019s Places of Worship Fund.",
-        "published": "Tue, 18 Aug 2026 13:55:40 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21335703/?type=app&htype=0"
-      },
-      {
-        "id": "921bff2e63cf6ddf787e590bf318d721",
-        "title": "Armed robber foiled by taxi driver he shot with a gun in Falkirk",
-        "link": "https://www.heraldscotland.com/news/26474366.robber-armed-gun-foiled-cabbie-shot-falkirk/",
-        "description": "An armed robber was bravely foiled by the taxi driver who he shot with a gun.",
-        "published": "Tue, 18 Aug 2026 13:24:03 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19141757/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
