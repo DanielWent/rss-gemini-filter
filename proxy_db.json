@@ -564,6 +564,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "b2b9d23c64f05dc30f6b94496f924d8c",
+        "title": "City leaders agree new devolution plan to transform public services",
+        "link": "https://www.glasgowtimes.co.uk/news/26476995.city-leaders-agreed-new-devolution-proposal/",
+        "description": "City leaders have agreed to develop a new proposal that could transform public services.",
+        "published": "Wed, 19 Aug 2026 10:34:37 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21339842/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/theatre-news/tony-roper-celebrates-85th-birthday-34481550",
         "title": "Tony Roper celebrates 85th birthday in rehearsals for his final Steamie tour",
         "link": "https://www.glasgowlive.co.uk/whats-on/theatre-news/tony-roper-celebrates-85th-birthday-34481550",
@@ -572,12 +580,36 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34481526.ece/ALTERNATES/s98/0_TheSteamieREH_157WEBChristopherBowen.jpg"
       },
       {
+        "id": "https://news.stv.tv/?p=525684",
+        "title": "Competition to redesign Glasgow sites destroyed in two major fires",
+        "link": "https://news.stv.tv/west-central/competition-to-redesign-glasgow-sites-destroyed-in-two-major-fires",
+        "description": "Albert Cross in Glasgow's Pollokshields was destroyed in two separate fires in 2019 and 2020",
+        "published": "Wed, 19 Aug 2026 09:24:41 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/c05534a21e5942fb7c18e096b27bfbeb-1787130379.jpg"
+      },
+      {
+        "id": "507b416aa38a6f859b6af7acbe83537f",
+        "title": "United States Air National Guard flypast confirmed for airshow",
+        "link": "https://www.heraldscotland.com/news/26476888.united-states-air-national-guard-flypast-confirmed-airshow/",
+        "description": "The United States Air\u00a0National Guard\u00a0are set to appear at The International Ayr Show\u00a0- Festival of Flight next month.",
+        "published": "Wed, 19 Aug 2026 10:16:22 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20856941/?type=app&htype=0"
+      },
+      {
         "id": "04662d7ed1aa2dd1cba907f938226196",
         "title": "Glasgow bars and pubs shortlisted for major Scottish hospitality awards",
         "link": "https://www.glasgowtimes.co.uk/news/26476751.glasgow-bars-shortlisted-scottish-bar-pub-awards/",
         "description": "Glasgow\u2019s hospitality scene is set to take centre stage at the Scottish Bar &amp; Pub Awards.",
         "published": "Wed, 19 Aug 2026 09:54:57 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21339482/?type=app&htype=0"
+      },
+      {
+        "id": "f393bd580d6024de974fbc508a721110",
+        "title": "Gregor Fisher reveals BBC chiefs have pulled the plug on sitcom Only Child",
+        "link": "https://www.heraldscotland.com/news/26476634.i-couldnt-believe-it-gregor-fisher-reveals-bbc-axed-child/",
+        "description": "Actor says he was told of the cancellation minutes just before he was about to go on stage at the Fringe.",
+        "published": "Wed, 19 Aug 2026 09:35:37 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18791947/?type=app&htype=0"
       },
       {
         "id": "8928736",
@@ -1330,38 +1362,6 @@
         "description": "Scotland takes all spots in the quickest-selling table - Here's why things different up here",
         "published": "Tue, 18 Aug 2026 07:24:15 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/12239503/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/hmrc-cracks-down-dodgy-vape-34471266",
-        "title": "HMRC cracks down on dodgy vape shops and barbers 'blighting' Glasgow streets",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/hmrc-cracks-down-dodgy-vape-34471266",
-        "description": "\u201cToo many high streets have been blighted by dodgy shops that harm local communities and undercuts honest businesses.&quot;",
-        "published": "Tue, 18 Aug 2026 06:09:13 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34471443.ece/ALTERNATES/s98/0_JS412755229.jpg"
-      },
-      {
-        "id": "1ec46827ceb1743a65cfa355c81922fb",
-        "title": "\u2018Free\u2019 childcare postcode lottery in Scotland as nursery rates vary by 62 per cent",
-        "link": "https://www.heraldscotland.com/news/26472249.free-childcare-postcode-lottery-nursery-rates-vary-62/",
-        "description": "Scotland\u2019s \u201cfree\u201d childcare scheme has become a stark postcode lottery, with taxpayers funding rates for the same place that vary by 62 per cent between council areas.",
-        "published": "Tue, 18 Aug 2026 06:33:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19975391/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/hatred-extremism-racism-no-place-34474284",
-        "title": "'Hatred, extremism and racism have no place in Scotland', says John Swinney",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/hatred-extremism-racism-no-place-34474284",
-        "description": "The First Minister will meet anti-racism campaigners today.",
-        "published": "Tue, 18 Aug 2026 05:31:18 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article33519431.ece/ALTERNATES/s98/0_Scottish-Daily-Politics-2026.jpg"
-      },
-      {
-        "id": "fa469be4dcfded86e6713d0cb162dd35",
-        "title": "Anger as council response to EHRC code 'overwhelmingly framed around trans inclusion'",
-        "link": "https://www.heraldscotland.com/news/26472174.edinburghs-ehrc-response-criticised-trans-inclusive-framing/",
-        "description": "In June, city councillors voted to condemn the updated guidance from the EHRC as \u201cdiscriminatory against trans people\u201d.",
-        "published": "Tue, 18 Aug 2026 06:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20183082/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
