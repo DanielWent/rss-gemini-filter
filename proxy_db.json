@@ -636,6 +636,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "aecd348183b3f90af8533b25455be7a7",
+        "title": "Draft article: Beth Oliver 2026-08-20 16:45",
+        "link": "https://www.glasgowtimes.co.uk/news/26482673.draft-article-beth-oliver-2026-08-20-16-45/",
+        "description": "Young activists campaigning for dedicated youth spaces in Govanhill met with Jeremy Corbyn during his recent visit to Glasgow.",
+        "published": "Thu, 20 Aug 2026 16:45:26 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21351569/?type=app&htype=0"
+      },
+      {
+        "id": "478f007b6535c56052e7e10cf05cfdac",
+        "title": "The Steamie creator celebrates 85th birthday as rehearsals begin for final tour",
+        "link": "https://www.glasgowtimes.co.uk/news/26482488.steamie-return-glasgow-kings-theatre-final-tour/",
+        "description": "A much-loved Scottish classic is set to return to the stage this autumn under the direction of its original creator.",
+        "published": "Thu, 20 Aug 2026 16:14:26 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21351243/?type=app&htype=0"
+      },
+      {
         "id": "033b217cd2775809cc08026bb265b770",
         "title": "Commuters warned of train disruption as overnight repairs confirmed",
         "link": "https://www.glasgowtimes.co.uk/news/26482466.renfrewshire-commuters-warned-train-disruption-glasgow/",
@@ -724,44 +740,12 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21345318/?type=app&htype=0"
       },
       {
-        "id": "8f953254c26558795b07dc9096438e96",
-        "title": "Malcolm Offord diagnosed with cancer hours before being elected to Holyrood",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26482088.reform-uk-msp-malcolm-offord-reveals-prostate-cancer-diagnosis/",
-        "description": "Reform UK's Scottish leader Malcolm Offord has revealed he was diagnosed with prostate cancer just hours before being elected to Holyrood earlier this year.",
-        "published": "Thu, 20 Aug 2026 15:15:20 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20287290/?type=app&htype=0"
-      },
-      {
-        "id": "6d97bfa41526c76801bff46a40b3b0ce",
-        "title": "LIVE: Rail disruption after vehicle strikes bridge and overhead lines damaged",
-        "link": "https://www.heraldscotland.com/news/26481908.live-disruption-vehicle-hits-bridge-wires-damaged/",
-        "description": "Trains serving Glasgow Central station have suffered disruption due to two separate incidents, one involving a vehicle striking a bridge and the other involving damage to overhead wires.",
-        "published": "Thu, 20 Aug 2026 14:49:40 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/14304339/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/drivers-dodge-giant-cable-spools-34491479",
-        "title": "Drivers dodge giant cable spools on busy Glasgow route after dramatic lorry crash",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/drivers-dodge-giant-cable-spools-34491479",
-        "description": "Police said the road was likely to be closed for some time due to the challenging nature of clearing the scene.",
-        "published": "Thu, 20 Aug 2026 13:40:22 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34491292.ece/ALTERNATES/s98/0_Screenshot-2026-08-20-at-141634.png"
-      },
-      {
         "id": "647bbf93c6d467fe38b2614d15abb3c6",
         "title": "Controversial town parking charges bring in \u00a3111,000 in first two months",
         "link": "https://www.heraldscotland.com/news/26481799.north-berwick-parking-charges-bring-111-000-two-months/",
         "description": "A controversial parking charge scheme in the East Lothian town of North Berwick brought in\u00a0 \u00a3111,000 in its first two months, a new report has revealed.",
         "published": "Thu, 20 Aug 2026 14:33:55 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21051451/?type=app&htype=0"
-      },
-      {
-        "id": "d548d4186b7c3fd90829b379c6493a91",
-        "title": "Flight with hundreds of passengers lands at Glasgow Airport due to mid-air emergency",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26481740.lufthansa-flight-makes-emergency-landing-glasgow-airport/",
-        "description": "A Lufthansa flight from Frankfurt to Chicago diverted to Glasgow Airport after a passenger became ill on board.",
-        "published": "Thu, 20 Aug 2026 14:22:55 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21035647/?type=app&htype=0"
       },
       {
         "id": "406712cbdcbc00754e9cb1bf63370788",
@@ -1300,14 +1284,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21343165/?type=app&htype=0"
       },
       {
-        "id": "b27e96c69416989f8c1c93ab8da7f8b2",
-        "title": "GMB: Glasgow's equal pay deal leaves 'too many risks unassessed'",
-        "link": "https://www.heraldscotland.com/news/26479123.too-many-questions-gmbs-verdict-glasgow-pay-deal/",
-        "description": "GMB Scotland has warned that Glasgow City Council's equal pay settlement leaves too many questions unanswered ahead of a crunch vote on Thursday.",
-        "published": "Wed, 19 Aug 2026 16:31:46 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/7294620/?type=app&htype=0"
-      },
-      {
         "id": "f9f6cf1d47b7e0f4ae2151954c29b4ef",
         "title": "UK company with Glasgow offices officially named Great Place to Work",
         "link": "https://www.glasgowtimes.co.uk/news/26478820.uk-firm-vital-energi-officially-named-great-place-work/",
@@ -1322,14 +1298,6 @@
         "description": "GlasGLOW is recruiting 100 zombie handlers for its new Zombie Zoo experience at Glasgow Botanic Gardens this Halloween.",
         "published": "Wed, 19 Aug 2026 15:45:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21342688/?type=app&htype=0"
-      },
-      {
-        "id": "bb80359b8f60adc0908c02b2189eea12",
-        "title": "Firework control zones to be introduced  in four areas of Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26478787.four-glasgow-areas-see-firework-control-zones-introduced/",
-        "description": "Firework control zones will be introduced in four areas of Glasgow this year.",
-        "published": "Wed, 19 Aug 2026 15:40:42 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17374951/?type=app&htype=0"
       },
       {
         "id": "d23fa7fdf337762961c1915421f401c9",
