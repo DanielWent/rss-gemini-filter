@@ -628,6 +628,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "cc1e3da31e6409a2c38b9ef3d8f45480",
+        "title": "Turner Prize winner to display work at GOMA as gallery marks 30th anniversary",
+        "link": "https://www.glasgowtimes.co.uk/news/26480130.turner-prize-winner-display-work-glasgows-goma/",
+        "description": "Duncan Campbell\u2019s work, titled A New No, will be on display at Glasgow\u2019s Gallery of Modern Art (GoMA) as part of the venue\u2019s 30th anniversary programme.",
+        "published": "Thu, 20 Aug 2026 09:39:28 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21345197/?type=app&htype=0"
+      },
+      {
+        "id": "6b0afd5f44b691783ff7b15681a53240",
+        "title": "LIVE updates as unions to protest over equal pay plan",
+        "link": "https://www.glasgowtimes.co.uk/news/26480129.live-updates-unions-protest-glasgow-equal-pay-plan/",
+        "description": "Union leaders are mounting a last-ditch bid to stop Glasgow City Council's controversial new pay and grading deal, warning it could leave thousands of workers worse off and spark future equal pay claims. Councillors are due to vote on the \u00a3235 million package today as unions stage a protest outside the City Chambers, arguing the proposals fail to deliver a fair outcome for staff despite eight years of negotiations.",
+        "published": "Thu, 20 Aug 2026 09:39:25 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21345186/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/tragedy-celtic-fan-dies-after-34487559",
+        "title": "Tragedy as Celtic fan dies after 'taking unwell' during Champions League match",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/tragedy-celtic-fan-dies-after-34487559",
+        "description": "The man was taken to Glasgow Royal Infirmary where he sadly died a short time later.",
+        "published": "Thu, 20 Aug 2026 08:37:31 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34487668.ece/ALTERNATES/s98/0_JS415282463.jpg"
+      },
+      {
         "id": "8930959",
         "title": "Newcastle United ace set to leave club and 'walking away' from lucrative contract amid Celtic transfer rumours",
         "link": "https://www.glasgowworld.com/sport/football/celtic/newcastle-united-ace-walking-away-lucrative-contract-celtic-transfer-rumours-8930959",
@@ -754,14 +778,6 @@
         "description": "The local authority has been slammed after it emerged that the equivalent of 30 double decker buses (540 tonnes) are being buried at the Patterson's Greenoakhill landfill site in Broomhouse.",
         "published": "Thu, 20 Aug 2026 05:16:07 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34414733.ece/ALTERNATES/s98/0_IMG_2968-1-1jpeg.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c1l138rgz83o#0",
-        "title": "Police watchdog calls for live facial recognition to tackle football disorder",
-        "link": "https://www.bbc.co.uk/news/articles/c1l138rgz83o?at_medium=RSS&at_campaign=rss",
-        "description": "The head of the Scottish police watchdog is calling for the introduction of new technology to stop disorder on and off the pitch.",
-        "published": "Thu, 20 Aug 2026 05:14:18 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d7e/live/82c5fdb0-9c01-11f1-b109-879e35c24276.jpg"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/czxelyzrxr4o#0",
@@ -1410,22 +1426,6 @@
         "description": "South Lanarkshire trains are in disaray this morning after a train broke down on the Larkhall branch.",
         "published": "Wed, 19 Aug 2026 07:25:33 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21173123/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=525500",
-        "title": "Family of Stobhill Hospital patient given unprescribed opiates demands answers",
-        "link": "https://news.stv.tv/west-central/family-of-stobhill-hospital-patient-given-unprescribed-opiates-demands-answers",
-        "description": "The family of 92-year-old George Maguire is pursuing legal action after he was given unprescribed drugs while at Stobhill",
-        "published": "Wed, 19 Aug 2026 06:12:31 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/77ab6838790ccb84310f8175e083f2a4-1787045533.jpg"
-      },
-      {
-        "id": "8926855",
-        "title": "Rangers make shrewd transfer move for star as pundit \u2018surprised\u2019 Celtic didn\u2019t fancy ace",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-make-shrewd-transfer-move-for-star-as-pundit-surprised-celtic-didnt-fancy-ace-8926855",
-        "description": "<p>Ibrox hero reckons defender should\u2019ve been snapped up by Old Firm club a year ago</p>",
-        "published": "Wed, 19 Aug 2026 06:00:21 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/18/9/38/GettyImages-2248188749.jpeg?width=1200&auto=webp&trim=1%2C0%2C2%2C0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
