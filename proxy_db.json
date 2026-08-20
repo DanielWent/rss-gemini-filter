@@ -612,6 +612,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=525729",
+        "title": "Ministers urged to set Scotland\u2019s private jet tax \u2018punishingly high\u2019",
+        "link": "https://news.stv.tv/west-central/ministers-urged-to-set-scotlands-private-jet-tax-punishingly-high",
+        "description": "Campaigners said if the tax is brought in in April 2027  and set at a high enough level, it could raise almost \u00a3400m by 2031.",
+        "published": "Thu, 20 Aug 2026 06:37:51 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/c2111c5b7f2a8a6d3eaa706f3e519b20-1787138479-1280x720.jpeg"
+      },
+      {
+        "id": "127af5cf2228fd752a10f45071d16cbe",
+        "title": "Workers on River Clyde could strike after company failed to keep two-year-old promise",
+        "link": "https://www.glasgowtimes.co.uk/news/26479730.river-clyde-workers-strike-amid-ongoing-pay-dispute/",
+        "description": "The clash involves Clydeport staff who are members of Unite the union, based at King George V Dock in Govan as well as\u00a0Greenock Ocean Terminal.",
+        "published": "Thu, 20 Aug 2026 06:43:45 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20641277/?type=app&htype=0"
+      },
+      {
+        "id": "f2d80f8997d5d6fa71930ca5e703a49a",
+        "title": "Why are UK ministers being urged to protect face-to-face banking for Scots?",
+        "link": "https://www.heraldscotland.com/news/26479306.70-scots-fear-people-will-left-behind-banks-pull-back/",
+        "description": "70% of Scots fear people will be left behind as banks pull back from face-to-face banking, the Post Office warns.",
+        "published": "Thu, 20 Aug 2026 06:32:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/16149804/?type=app&htype=0"
+      },
+      {
+        "id": "c224dd48baa58eee4bcaac6cda804d7c",
+        "title": "No criminal charges against capital's alleged business rates dodgers since 2024",
+        "link": "https://www.heraldscotland.com/news/26479405.no-edinburgh-business-rates-avoiders-prosecuted-three-years/",
+        "description": "Without clear evidence of deceptive and deliberate non-compliance, authorities are prevented from bringing criminal charges against tax dodgers.",
+        "published": "Thu, 20 Aug 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21163345/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/anger-pavement-parking-enforcement-local-34467184",
         "title": "Anger at pavement parking enforcement as local measures 'too narrow' street",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/anger-pavement-parking-enforcement-local-34467184",
@@ -642,6 +674,38 @@
         "description": "Facial recognition could be used to stop banned football fans attending matches in Scotland after Old Firm disorder.",
         "published": "Thu, 20 Aug 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20996085/?type=app&htype=0"
+      },
+      {
+        "id": "7e891137524c7437fd082787aa4293a3",
+        "title": "SNP depute cleared of breaching MSPs' rules in Bridge over Atlantic traffic light row",
+        "link": "https://www.heraldscotland.com/news/26479549.keith-brown-cleared-clachan-bridge-code-conduct-row/",
+        "description": "Keith Brown, the SNP's depute leader, has been cleared of breaching Holyrood's code of conduct after lobbying Argyll and Bute Council on behalf of a constituent over traffic light plans for the 233-year-old Clachan Bridge.",
+        "published": "Thu, 20 Aug 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20735876/?type=app&htype=0"
+      },
+      {
+        "id": "6c50c5cffed10d20933f42a35885d71b",
+        "title": "Whistleblower doctor warns NHS Scotland still puts reputation before patient safety",
+        "link": "https://www.heraldscotland.com/news/26477942.nhs-puts-reputation-patient-safety-warns-bma-chief/",
+        "description": "Outgoing BMA Scotland chair Dr Iain Kennedy says NHS boards put reputation management ahead of patient safety and warns whistleblowers still face bullying.",
+        "published": "Thu, 20 Aug 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/16891310/?type=app&htype=0"
+      },
+      {
+        "id": "79f6aa8d7a7cafaeca25185617b751cc",
+        "title": "Major artificial intelligence impacts revealed by Scottish businesses",
+        "link": "https://www.heraldscotland.com/news/26478499.scottish-businesses-reveal-major-artificial-intelligence-effects/",
+        "description": "Major effects from artificial intelligence have been revealed by Scottish businesses",
+        "published": "Thu, 20 Aug 2026 04:40:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21342372/?type=app&htype=0"
+      },
+      {
+        "id": "af5e16f6cff94cae30e74644df160e45",
+        "title": "Record number of entries announced as Royal National M\u00f2d returns to Glasgow",
+        "link": "https://www.heraldscotland.com/news/26477450.record-entries-royal-national-m-d-return-glasgow/",
+        "description": "More than 2,100 entries have been submitted for the Royal National M\u00f2d, which returns to Glasgow from October 9 to 17.",
+        "published": "Thu, 20 Aug 2026 00:05:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21340641/?type=app&htype=0"
       },
       {
         "id": "10a56ce2d5bf554e569490b1b32e8dae",
@@ -1346,70 +1410,6 @@
         "description": "The head of the company in Scotland said it is 'incredibly proud' of the \u00a3200m milestone",
         "published": "Wed, 19 Aug 2026 04:35:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21335623/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-luxury-student-flats-featuring-34480483",
-        "title": "New luxury student flats featuring spa and cinema opens in Glasgow city centre",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/new-luxury-student-flats-featuring-34480483",
-        "description": "The Bonnie is the first development in Scotland by luxury student accommodation brand Iconinc.",
-        "published": "Tue, 18 Aug 2026 20:43:50 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34480466.ece/ALTERNATES/s98/0_The-Bonnie.jpg"
-      },
-      {
-        "id": "8926691",
-        "title": "Club chief details Celtic transfer delay after Hoops finally get their man after lengthy pursuit",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/club-chief-details-celtic-transfer-delay-after-hoops-finally-get-their-man-after-lengthy-pursuit-8926691",
-        "description": "<p>Everything fell \u2018into place\u2019 eventually for the \u00a37m man</p>",
-        "published": "Tue, 18 Aug 2026 19:01:45 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/18/9/58/GettyImages-2243497033.jpeg?width=1200&auto=webp&trim=3%2C0%2C4%2C0"
-      },
-      {
-        "id": "8927629",
-        "title": "Rangers and Celtic accept defeat in transfer pursuit of in-demand \u00a38.5m winger bound for Ligue 1",
-        "link": "https://www.glasgowworld.com/sport/football/rangers-celtic-accept-defeat-transfer-pursuit-in-demand-ps85m-winger-ligue-1-8927629",
-        "description": "<p>The Glasgow giants are no longer pursuing a deal for the Algeria international </p>",
-        "published": "Tue, 18 Aug 2026 19:00:20 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/08/11/46/GettyImages-2271915322.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "8927334",
-        "title": "Celtic enter 'race' for star as key Parkhead exit opens up possible transfer chance for in-demand ace",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-enter-race-for-star-as-key-parkhead-exit-opens-up-possible-transfer-chance-for-in-demand-ace-8927334",
-        "description": "<p>Another midfield transfer target has come to light for the Hoops</p>",
-        "published": "Tue, 18 Aug 2026 18:00:42 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/18/12/54/GettyImages-2259108899.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "10ecac8569414bccf25581d6c192fe41",
-        "title": "20-storey student block approved for site of old newspaper offices",
-        "link": "https://www.heraldscotland.com/news/26475962.20-storey-student-block-approved-glasgow-city-centre-site/",
-        "description": "Old newspaper offices in Glasgow city centre can be demolished to make way for a 20-storey student accommodation block and co-living homes.",
-        "published": "Tue, 18 Aug 2026 18:33:56 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21338027/?type=app&htype=0"
-      },
-      {
-        "id": "910dca0f4ad364731f62c5f1537c5fb5",
-        "title": "'No evidence' of graffiti clean-up despite extra spending, Glasgow residents say",
-        "link": "https://www.glasgowtimes.co.uk/news/26475960.glasgow-residents-say-no-evidence-graffiti-clean-up-despite-extra-spend/",
-        "description": "Glasgow residents have said they saw \"no evidence\" of extra graffiti removal during the Commonwealth Games despite organisers funding hundreds of hours of additional work ...",
-        "published": "Tue, 18 Aug 2026 18:33:18 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21336453/?type=app&htype=0"
-      },
-      {
-        "id": "fb8d5289a9e95c8f46fe098f1f74056e",
-        "title": "'I have been totally cleared': Sturgeon says she was not considered for prosecution",
-        "link": "https://www.heraldscotland.com/news/26475952.i-not-even-considered-prosecution--says-sturgeon/",
-        "description": "Nicola Sturgeon told the Edinburgh Book Festival she had been fully cleared of wrongdoing in the SNP finances investigation.",
-        "published": "Tue, 18 Aug 2026 18:29:55 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21338019/?type=app&htype=0"
-      },
-      {
-        "id": "8928345",
-        "title": "Martin O'Neill assesses Celtic transfer chances before Champions League decider amid 'disappointing' departure",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/martin-oneill-assesses-celtic-transfer-chances-before-champions-league-decider-amid-disappointing-departure-8928345",
-        "description": "<p>Celtic boss spoke ahead of the first leg of the Champions League play-off</p>",
-        "published": "Tue, 18 Aug 2026 17:21:25 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/18/17/22/GettyImages-2288943143.jpeg?width=1200&auto=webp&trim=0%2C18%2C0%2C17"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
