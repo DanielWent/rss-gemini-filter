@@ -553,6 +553,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "60f425f0e0b9569fec3441790306855d",
+        "title": "Bearsden cyclist with lifelong brain condition to tackle 3600km charity challenge",
+        "link": "https://www.glasgowtimes.co.uk/news/26480545.bearsden-cyclist-takes-3-600km-charity-challenge/",
+        "description": "A cyclist who discovered he had a lifelong brain condition after a serious bike accident is now riding 3600km for SBH Scotland",
+        "published": "Thu, 20 Aug 2026 10:54:47 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21346238/?type=app&htype=0"
+      },
+      {
         "id": "155424a3bc62ca004c10d3bf51706822",
         "title": "Glasgow City Council reveals huge budget gap for next two years",
         "link": "https://www.glasgowtimes.co.uk/news/26479263.glasgow-city-council-huge-budget-gap-next-two-years/",
@@ -628,6 +636,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "bf80da091d2c5acce2d57e0d1de04a4d",
+        "title": "Drivers to face major delays amid emergency repairs at Braehead Shopping Centre",
+        "link": "https://www.glasgowtimes.co.uk/news/26480785.drivers-face-major-delays-amid-emergency-repairs-braehead/",
+        "description": "An emergency sewer repair is causing disruption outside Braehead Shopping Centre.",
+        "published": "Thu, 20 Aug 2026 11:34:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21346815/?type=app&htype=0"
+      },
+      {
+        "id": "0d512c3c899425dd9b30c13115565d32",
+        "title": "Record-breaking Gaelic celebration coming to Glasgow as Royal National M\u00f2d returns",
+        "link": "https://www.glasgowtimes.co.uk/news/26480678.royal-national-m-d-returning-glasgow-autumn/",
+        "description": "The Royal National M\u00f2d is returning to Glasgow this autumn with a record number of entries.",
+        "published": "Thu, 20 Aug 2026 11:18:53 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21346708/?type=app&htype=0"
+      },
+      {
+        "id": "fef1e0378457308c9be0b9a2c2469739",
+        "title": "Glasgow man missing as police urge people to 'check garden sheds' and 'outbuildings'",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26480662.police-launch-appeal-trace-missing-glasgow-man-kevin-liddell/",
+        "description": "Kevin Liddell, 37, was last seen in Partick as Police Scotland launched an appeal to help trace the missing Glasgow man.",
+        "published": "Thu, 20 Aug 2026 11:15:10 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21346570/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=525859",
+        "title": "Disturbance outside Dunbartonshire car garage probed by \u2018gang war task force\u2019",
+        "link": "https://news.stv.tv/west-central/disturbance-outside-dunbartonshire-car-garage-probed-by-gang-war-task-force",
+        "description": "The incident in Kirkintilloch comes after Police Scotland said the gang war had come to an end",
+        "published": "Thu, 20 Aug 2026 10:11:10 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/777fe765e99a8096185b83aa1cba33d8-1787219392.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/braehead-shoppers-warned-travel-chaos-34488560",
+        "title": "Braehead shoppers warned of travel chaos during peak hours as busy road closed",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/braehead-shoppers-warned-travel-chaos-34488560",
+        "description": "The road is closed for emergency sewer repairs.",
+        "published": "Thu, 20 Aug 2026 10:00:00 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34488645.ece/ALTERNATES/s98/0_shared-image-2.jpg"
+      },
+      {
         "id": "8931343",
         "title": "20 busiest railway stations in Glasgow ranked by passenger numbers",
         "link": "https://www.glasgowworld.com/news/20-busiest-railway-stations-in-glasgow-ranked-by-passenger-numbers-8931343",
@@ -642,6 +690,14 @@
         "description": "<p>The University of Glasgow is partnering with Glasgow Building Preservation Trust to welcome visitors to its historic campus and celebrate its 575th anniversary during Doors Open Days Festival 2026.  </p>",
         "published": "Thu, 20 Aug 2026 09:16:47 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/20/9/03/Gilbert-Scott-Building-drone-1400x600.jpeg?width=1200&auto=webp&trim=0%2C250%2C0%2C249"
+      },
+      {
+        "id": "4e7390c4144370e1f1774afc049a3a8f",
+        "title": "Why it feels like Glasgow is trapped between progress and decline",
+        "link": "https://www.heraldscotland.com/opinion/26479657.glasgows-equal-pay-dispute-still-casts-long-shadow-city/",
+        "description": "Glasgow's equal pay dispute has already cost hundreds of millions of pounds. Marissa MacWhirter examines why the financial legacy continues to affect Scotland's largest city.",
+        "published": "Thu, 20 Aug 2026 10:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/17142593/?type=app&htype=0"
       },
       {
         "id": "cc1e3da31e6409a2c38b9ef3d8f45480",
@@ -682,6 +738,14 @@
         "description": "<p>The former Rangers striker also featured for the likes of Aston Villa and Leeds United.</p>",
         "published": "Thu, 20 Aug 2026 08:00:23 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/20/7/05/GettyImages-902873232.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "e6e6160c4c887d7ac083ffe90ab0ea58",
+        "title": "The farmer turning culled deer into meals for families in need",
+        "link": "https://www.heraldscotland.com/news/26479935.perthshire-farmer-turned-culled-deer-meals-families-need/",
+        "description": "Surplus farm food, real help for families in need",
+        "published": "Thu, 20 Aug 2026 08:54:47 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21344858/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-gangster-100k-bounty-name-34487209",
@@ -1370,62 +1434,6 @@
         "description": "George Anderson died while working in Brodick.",
         "published": "Wed, 19 Aug 2026 07:33:13 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34480996.ece/ALTERNATES/s98/0_JS198085046.jpg"
-      },
-      {
-        "id": "7fa7eb28a8e0824d145982090aabf9cf",
-        "title": "Surging energy prices push inflation up to highest level since March",
-        "link": "https://www.heraldscotland.com/news/26476350.inflation-hits-highest-level-since-march-amid-rising-energy-prices/",
-        "description": "The Office for National Statistics (ONS) said Consumer Prices Index (CPI) inflation stats are out",
-        "published": "Wed, 19 Aug 2026 08:24:53 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21339040/?type=app&htype=0"
-      },
-      {
-        "id": "04dd4558218ba80bd640dcd279cb5645",
-        "title": "'Really dangerous' Glasgow taxi rank to remain in use despite locals' removal bid",
-        "link": "https://www.glasgowtimes.co.uk/news/26476334.glasgow-taxi-rank-remain-use-removal-bid/",
-        "description": "Glasgow City Council was asked to revoke the rank on Queen Margaret Drive \u2014 between Ruskin Lane and Great Western Road.",
-        "published": "Wed, 19 Aug 2026 08:19:17 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21331699/?type=app&htype=0"
-      },
-      {
-        "id": "8927509",
-        "title": "Celtic predicted XI vs LASK Linz as surprise suspension makes room for Parkhead debut in Champions League",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-predicted-xi-vs-lask-linz-as-surprise-suspension-makes-room-for-parkhead-debut-in-champions-league-play-off-8927509",
-        "description": "<p>Here\u2019s how we think the Hoops will set up in round one of their European double header</p>",
-        "published": "Wed, 19 Aug 2026 07:00:53 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/18/13/57/GettyImages-2276527016.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "8925987",
-        "title": "How to watch Rangers vs Jablonec: Live stream, team news, referee and VAR for Conference League play-off",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/how-to-watch-rangers-vs-jablonec-live-stream-team-news-referee-and-var-for-conference-league-play-off-8925987",
-        "description": "<p>Here\u2019s how to watch Rangers in their European decider this week</p>",
-        "published": "Wed, 19 Aug 2026 07:00:51 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/17/16/41/GettyImages-2269781898.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "https://runabc.co.uk/great-scottish-run-countdown-starts-after-glasgow-games",
-        "title": "Great Scottish Run Countdown Starts After Glasgow Games",
-        "link": "https://runabc.co.uk/great-scottish-run-countdown-starts-after-glasgow-games",
-        "description": "<p><img alt=\"Great Scottish Run 2026 preview 1\" src=\"https://runabc.co.uk/images/2026/08/great-scottish-run-2026-729232.jpg\" /></p>\n\t\t\t\t<p>Our five-week AJ Bell Great Scottish Run countdown begins as Glasgow turns an unforgettable summer of sport into its next big running challenge....</p>",
-        "published": "Wed, 19 Aug 2026 07:55:00 +0100",
-        "image_url": "https://runabc.co.uk/images/2026/08/great-scottish-run-2026-729232.jpg"
-      },
-      {
-        "id": "c1dc920606baf5cbe77e57aa1fb1080b",
-        "title": "George Square statue to remain without its sword after report citing slavery links",
-        "link": "https://www.glasgowtimes.co.uk/news/26476288.george-square-statue-will-stay-swordless-amid-slavery-links/",
-        "description": "The sword went missing in 1980 and has been absent since. Recent conservation work to refurbish the\u00a0 Glasgow statue included the recreation of the sword.",
-        "published": "Wed, 19 Aug 2026 07:48:13 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21338984/?type=app&htype=0"
-      },
-      {
-        "id": "ff132c2d512935b9646a923a168a95bc",
-        "title": "Almost \u00a322m in Scottish public sector fraud and error identified",
-        "link": "https://www.heraldscotland.com/news/26476265.almost-22m-scottish-public-sector-fraud-error-identified/",
-        "description": "Almost \u00a322 million in public sector fraud and error has been identified, according to a watchdog.",
-        "published": "Wed, 19 Aug 2026 07:26:25 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21026149/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
