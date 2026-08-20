@@ -636,6 +636,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=525921",
+        "title": "Trains cancelled after lorry strikes rail bridge and overhead cables damaged",
+        "link": "https://news.stv.tv/west-central/trains-cancelled-after-lorry-strikes-rail-bridge-and-overhead-cables-damaged",
+        "description": "Network Rail is dealing with two major incidents affecting services to and from Glasgow",
+        "published": "Thu, 20 Aug 2026 14:30:07 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2025/12/d7dfec3347c0556ac6be5c2c5b6bef8c-1764581376.jpeg"
+      },
+      {
+        "id": "39482cae1cc874f428f287306c4e44b0",
+        "title": "Funeral held for beloved mum murdered near home",
+        "link": "https://www.glasgowtimes.co.uk/news/26482172.funeral-held-beloved-mum-murdered-houston/",
+        "description": "The funeral has been held for a woman who was murdered near her home in Houston.",
+        "published": "Thu, 20 Aug 2026 15:27:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21313175/?type=app&htype=0"
+      },
+      {
+        "id": "8f953254c26558795b07dc9096438e96",
+        "title": "Malcolm Offord diagnosed with cancer hours before being elected to Holyrood",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26482088.reform-uk-msp-malcolm-offord-reveals-prostate-cancer-diagnosis/",
+        "description": "Reform UK's Scottish leader Malcolm Offord has revealed he was diagnosed with prostate cancer just hours before being elected to Holyrood earlier this year.",
+        "published": "Thu, 20 Aug 2026 15:15:20 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20287290/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/drivers-dodge-giant-cable-spools-34491479",
         "title": "Drivers dodge giant cable spools on busy Glasgow route after dramatic lorry crash",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/drivers-dodge-giant-cable-spools-34491479",
@@ -660,12 +684,28 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21349735/?type=app&htype=0"
       },
       {
+        "id": "43431f51143fdbfbd45dfe4d050cd129",
+        "title": "Scotland's civil service grows despite SNP promise to cut workforce",
+        "link": "https://www.heraldscotland.com/news/26481474.scottish-civil-service-grows-despite-pledge-cut-workforce/",
+        "description": "Scotland's civil service workforce has increased despite a pledge by the SNP to reduce the headcount.",
+        "published": "Thu, 20 Aug 2026 13:40:13 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20258709/?type=app&htype=0"
+      },
+      {
         "id": "6a6468bfff1b275d1046e23aef4bf68e",
         "title": "Road plagued by works slowed even further as emergency services respond to car crash",
         "link": "https://www.glasgowtimes.co.uk/news/26481439.car-crash-braehead-slows-road-already-plagued-works/",
         "description": "Police, fire and ambulance crews rushed to a road near Braehead Shopping Centre around 9.55am today to deal with the collision.",
         "published": "Thu, 20 Aug 2026 13:34:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21349426/?type=app&htype=0"
+      },
+      {
+        "id": "c9818022cc62837c39a1c902f900969d",
+        "title": "Historic island church to be transformed into adventure centre",
+        "link": "https://www.heraldscotland.com/news/26481364.buts-historic-trinity-church-transformed-adventure-centre/",
+        "description": "The venue will be owned by the community - and help bring visitors to the area",
+        "published": "Thu, 20 Aug 2026 13:19:21 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21348806/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/gallery/first-look-former-reardons-snooker-34489825",
@@ -698,14 +738,6 @@
         "description": "A new pump track is taking shape in Airdrie as part of a \u00a3186,000 investment.",
         "published": "Thu, 20 Aug 2026 12:38:08 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21348037/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/case-bse-confirmed-scotland-restrictions-34489771",
-        "title": "Case of BSE confirmed in Scotland with restrictions now in force",
-        "link": "https://www.glasgowlive.co.uk/news/case-bse-confirmed-scotland-restrictions-34489771",
-        "description": "The Scottish Government said precautionary movement restrictions have been put in place",
-        "published": "Thu, 20 Aug 2026 11:35:17 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/article34489770.ece/ALTERNATES/s98/0_Cows-on-first-day-of-Spring-seeing-grass-in-the-Netherlands.jpg"
       },
       {
         "id": "e890780694f78f50cad6453c99b1ccda",
@@ -1402,38 +1434,6 @@
         "description": "Weekend disruption alert",
         "published": "Wed, 19 Aug 2026 12:01:46 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21340845/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/first-images-river-citys-final-34480275",
-        "title": "First images of River City's final episode released ahead of dramatic end",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/first-images-river-citys-final-34480275",
-        "description": "The images suggest the long-running Glasgow soap will come to a very dramatic end later this month",
-        "published": "Wed, 19 Aug 2026 11:00:00 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34480254.ece/ALTERNATES/s98/0_image001.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/health/six-scottish-salmonella-cases-confirmed-34482702",
-        "title": "Six Scottish salmonella cases confirmed as one dead and 200 ill amid UK outbreak",
-        "link": "https://www.glasgowlive.co.uk/news/health/six-scottish-salmonella-cases-confirmed-34482702",
-        "description": "The outbreak that may be linked to imported eggs, the UK Health Security Agency has said.",
-        "published": "Wed, 19 Aug 2026 10:56:52 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/health/article34482701.ece/ALTERNATES/s98/0_The-outbreak-may-be-linked-to-eggs-imported-from-outside-of-the-UK.jpg"
-      },
-      {
-        "id": "e197b1f222e57a989aa41aef3045b2fc",
-        "title": "Design competition launched to rebuild two fire-ravaged Southside sites",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26477469.design-contest-launched-rebuild-fire-hit-albert-cross-site/",
-        "description": "A design competition has been launched to help restore a key part of Glasgow.",
-        "published": "Wed, 19 Aug 2026 11:49:28 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21340611/?type=app&htype=0"
-      },
-      {
-        "id": "faaae46b9193c2cf33d560f2d41dfdc2",
-        "title": "Waverley return 'could be worth hundreds of thousands to Helensburgh'",
-        "link": "https://www.heraldscotland.com/news/26477453.helensburgh-pier-group-hopes-waverley-return-town/",
-        "description": "A return to Helensburgh for the PS Waverley could potentially bring over \u00a3450,000 to the town per year, a charity aiming to reopen the town\u2019s pier has claimed.",
-        "published": "Wed, 19 Aug 2026 11:47:53 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/13897429/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
