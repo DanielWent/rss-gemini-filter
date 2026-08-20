@@ -636,12 +636,68 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "033b217cd2775809cc08026bb265b770",
+        "title": "Commuters warned of train disruption as overnight repairs confirmed",
+        "link": "https://www.glasgowtimes.co.uk/news/26482466.renfrewshire-commuters-warned-train-disruption-glasgow/",
+        "description": "Renfrewshire commuters are facing train disruption this afternoon.",
+        "published": "Thu, 20 Aug 2026 16:12:09 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21351184/?type=app&htype=0"
+      },
+      {
+        "id": "8931339",
+        "title": "Ex Premier League winner is worthy Rangers transfer punt as 'sensible' wages plays into Ibrox move backing",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/former-premier-league-winner-is-worthy-rangers-transfer-punt-as-sensible-wages-factor-plays-into-ibrox-move-backing-8931339",
+        "description": "<p>Leicester City hero backed for shock Govan switch</p>",
+        "published": "Thu, 20 Aug 2026 15:00:38 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/20/9/34/GettyImages-2276749858.jpeg?width=1200&auto=webp&trim=0%2C156%2C0%2C156"
+      },
+      {
+        "id": "c21a79bdae6ee15671d74aa8d0c03c49",
+        "title": "The real cost of John Swinney\u2019s \u00a398k World Cup trip is public trust",
+        "link": "https://www.heraldscotland.com/news/26482201.john-swinneys-98k-bill-world-cup-unacceptable/",
+        "description": "The cost to send John Swinney and his team to the World Cup exceeded \u00a398,000. But the real cost is the loss in public trust.",
+        "published": "Thu, 20 Aug 2026 15:57:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21350696/?type=app&htype=0"
+      },
+      {
+        "id": "f79f1d990d4f3e314a8cfe430357b3e1",
+        "title": "Reform Scotland leader Malcolm Offord has prostate removed after cancer diagnosis",
+        "link": "https://www.heraldscotland.com/news/26482374.malcolm-offord-received-cancer-diagnosis-election-day/",
+        "description": "Malcolm Offord revealed he received his prostate cancer diagnosis on the day of May's Holyrood election.",
+        "published": "Thu, 20 Aug 2026 15:54:21 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19896188/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/families-infection-patients-top-glasgow-34492008",
+        "title": "Families of infection patients at top Glasgow hospital stunned by new evidence",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/families-infection-patients-top-glasgow-34492008",
+        "description": "Medical physicist Dr Michael Bradnam said he had had no 'formal responses' to issues he raised over a 15-year period.",
+        "published": "Thu, 20 Aug 2026 14:45:03 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article33366340.ece/ALTERNATES/s98/1_Glasgow-hospital-infection-linked-deaths-investigation.jpg"
+      },
+      {
+        "id": "30cf83384ae7aa57cb14ae6bceede47e",
+        "title": "Tributes paid to Glasgow men found dead in Partick flat as murder probe continues",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26482315.tributes-paid-paul-lafferty-gary-beaton-found-dead-partick/",
+        "description": "Tributes have been paid to two men found dead inside a flat in Glasgow's West End as police continue a murder investigation.",
+        "published": "Thu, 20 Aug 2026 15:44:46 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21341315/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=525921",
         "title": "Trains cancelled after lorry strikes rail bridge and overhead cables damaged",
         "link": "https://news.stv.tv/west-central/trains-cancelled-after-lorry-strikes-rail-bridge-and-overhead-cables-damaged",
         "description": "Network Rail is dealing with two major incidents affecting services to and from Glasgow",
         "published": "Thu, 20 Aug 2026 14:30:07 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2025/12/d7dfec3347c0556ac6be5c2c5b6bef8c-1764581376.jpeg"
+      },
+      {
+        "id": "a9f8271d6f57e88d0c6d4ded3d52311c",
+        "title": "Noah Kahan announces gig at Glasgow's Hampden Park",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26482195.noah-kahan-announces-another-glasgow-show-hampden-park/",
+        "description": "Singer-songwriter Noah Kahan has announced another gig in Glasgow as part of an upcoming tour.",
+        "published": "Thu, 20 Aug 2026 15:29:32 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21350844/?type=app&htype=0"
       },
       {
         "id": "39482cae1cc874f428f287306c4e44b0",
@@ -652,6 +708,22 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21313175/?type=app&htype=0"
       },
       {
+        "id": "19c1502cbe7a6cc9de7055b095da5ce5",
+        "title": "Lufthansa flight bound for Chicago diverts to Glasgow after declaring emergency",
+        "link": "https://www.heraldscotland.com/news/26482151.lufthansa-flight-makes-emergency-landing-glasgow-airport/",
+        "description": "A Lufthansa flight from Frankfurt to Chicago diverted to Glasgow Airport after a passenger became ill on board.",
+        "published": "Thu, 20 Aug 2026 15:24:12 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19393785/?type=app&htype=0"
+      },
+      {
+        "id": "4da0b87a85f693cddf6ae8fd1422d4a9",
+        "title": "Council backs equal pay scheme that hikes wages for most but cuts pay of one in nine",
+        "link": "https://www.heraldscotland.com/news/26482096.glasgow-city-council-equal-pay-grading-overhaul-approved/",
+        "description": "Glasgow City Council has approved a sweeping pay and grading overhaul designed to end decades of equal pay discrimination but while 63% of 24,000 staff gain, around 11% face cuts of up to \u00a311,500 a year.",
+        "published": "Thu, 20 Aug 2026 15:16:11 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21345318/?type=app&htype=0"
+      },
+      {
         "id": "8f953254c26558795b07dc9096438e96",
         "title": "Malcolm Offord diagnosed with cancer hours before being elected to Holyrood",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26482088.reform-uk-msp-malcolm-offord-reveals-prostate-cancer-diagnosis/",
@@ -660,12 +732,28 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20287290/?type=app&htype=0"
       },
       {
+        "id": "6d97bfa41526c76801bff46a40b3b0ce",
+        "title": "LIVE: Rail disruption after vehicle strikes bridge and overhead lines damaged",
+        "link": "https://www.heraldscotland.com/news/26481908.live-disruption-vehicle-hits-bridge-wires-damaged/",
+        "description": "Trains serving Glasgow Central station have suffered disruption due to two separate incidents, one involving a vehicle striking a bridge and the other involving damage to overhead wires.",
+        "published": "Thu, 20 Aug 2026 14:49:40 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/14304339/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/drivers-dodge-giant-cable-spools-34491479",
         "title": "Drivers dodge giant cable spools on busy Glasgow route after dramatic lorry crash",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/drivers-dodge-giant-cable-spools-34491479",
         "description": "Police said the road was likely to be closed for some time due to the challenging nature of clearing the scene.",
         "published": "Thu, 20 Aug 2026 13:40:22 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34491292.ece/ALTERNATES/s98/0_Screenshot-2026-08-20-at-141634.png"
+      },
+      {
+        "id": "647bbf93c6d467fe38b2614d15abb3c6",
+        "title": "Controversial town parking charges bring in \u00a3111,000 in first two months",
+        "link": "https://www.heraldscotland.com/news/26481799.north-berwick-parking-charges-bring-111-000-two-months/",
+        "description": "A controversial parking charge scheme in the East Lothian town of North Berwick brought in\u00a0 \u00a3111,000 in its first two months, a new report has revealed.",
+        "published": "Thu, 20 Aug 2026 14:33:55 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21051451/?type=app&htype=0"
       },
       {
         "id": "d548d4186b7c3fd90829b379c6493a91",
@@ -1346,94 +1434,6 @@
         "description": "Experts expected an impact on the property market, but here's what really happened",
         "published": "Wed, 19 Aug 2026 13:21:55 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/17840456/?type=app&htype=0"
-      },
-      {
-        "id": "91c284a792ec2f771df604a31475b697",
-        "title": "Young performers invited to audition  for upcoming festive pantomime in Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/26477923.young-performers-invited-pantomime-audition-glasgow/",
-        "description": "Young performers are being invited to audition for a festive pantomime set to take to the stage in Glasgow.",
-        "published": "Wed, 19 Aug 2026 13:05:07 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21341436/?type=app&htype=0"
-      },
-      {
-        "id": "6969d424435f40131c9d0aa75b51f253",
-        "title": "Rudy\u2019s Pizza to open first Scottish restaurant at Glasgow city centre site",
-        "link": "https://www.heraldscotland.com/news/26477786.rudys-pizza-open-first-scottish-restaurant-glasgow/",
-        "description": "Rudy\u2019s Pizza Napoletana will open its first Scottish restaurant on Gordon Street in Glasgow this autumn, creating jobs and 135 seats.",
-        "published": "Wed, 19 Aug 2026 12:54:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21341354/?type=app&htype=0"
-      },
-      {
-        "id": "8c38a5ee634b89fe4b6316b2eb1524ea",
-        "title": "New pictures show the aftermath of the car that exploded in Glasgow last night",
-        "link": "https://www.glasgowtimes.co.uk/news/26477860.new-pictured-car-exploded-glasgow-last-night/",
-        "description": "Fire crews were called to the scene near the Chinatown Restaurant around 11.20pm on Tuesday, August 18.",
-        "published": "Wed, 19 Aug 2026 12:52:40 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21341406/?type=app&htype=0"
-      },
-      {
-        "id": "8929551",
-        "title": "Tony Roper celebrates 85th birthday in rehearsals for final Steamie tour",
-        "link": "https://www.glasgowworld.com/best-in/tony-roper-celebrates-85th-birthday-in-rehearsals-for-final-steamie-tour-8929551",
-        "description": "<p>Renowned Scottish actor, writer and director Tony Roper celebrates his 85th birthday today in rehearsals for The Steamie, as the company prepares to take his much-loved Scottish classic on tour later this month. </p>",
-        "published": "Wed, 19 Aug 2026 11:44:03 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/19/11/08/TheSteamieREH_031WEBChristopherBowen.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "8929263",
-        "title": "Wolves 'interested' in Rangers target as competition rises over Premier League player after \u00a37.5m bid rejected",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/wolves-interested-rangers-target-light-blues-face-competition-premier-league-player-8929263",
-        "description": "<p>Wolves are the latest club to show interest in the star eyed by Rangers this transfer window.</p>",
-        "published": "Wed, 19 Aug 2026 11:26:09 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/18/11/35/GettyImages-2163451430-(7).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "77369c7d4a6b861d2b5684ad6cac8a6a",
-        "title": "NHSGGC meningitis vaccine clinics expanded as students urged to get protected",
-        "link": "https://www.glasgowtimes.co.uk/news/26477707.nhsggc-meningitis-vaccine-drop-in-clinics-expanded/",
-        "description": "NHS Greater Glasgow and Clyde (NHSGGC) has increased access to the MenB vaccine,",
-        "published": "Wed, 19 Aug 2026 12:26:06 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20724220/?type=app&htype=27"
-      },
-      {
-        "id": "72320c275363936256cb8c4628e5e0c6",
-        "title": "Celtic Boys Club paedo waves stick and shouts at protesters as cops removes from home",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26477691.protesters-gather-outside-motherwell-home-linked-frank-cairney/",
-        "description": "Police attended after a group gathered outside a Motherwell property linked to convicted Celtic Boys Club abuser Frank Cairney.",
-        "published": "Wed, 19 Aug 2026 12:23:07 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21341036/?type=app&htype=0"
-      },
-      {
-        "id": "c8d39f9997d574ef6e7a2506ebb8455e",
-        "title": "Rapist caught shortly before he boarded one-way flight out of UK jailed",
-        "link": "https://www.heraldscotland.com/news/26477690.rapist-caught-boarding-flight-manchester-airport-jailed/",
-        "description": "A rapist caught shortly before he boarded a one-way flight out of the UK was jailed today for five years and two months.",
-        "published": "Wed, 19 Aug 2026 12:22:55 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/18904310/?type=app&htype=0"
-      },
-      {
-        "id": "21748861f35d9bf4a9bbfe7c299adfdf",
-        "title": "Rangers legend Ally McCoist 'heartbroken' after Glasgow city centre documentary",
-        "link": "https://www.glasgowtimes.co.uk/news/26477586.rangers-hero-mccoist-left-heartbroken-glasgow-documentary/",
-        "description": "A BBC documentary highlighting crime in Glasgow's city centre has sparked shock and criticism from Rangers legend Ally McCoist.",
-        "published": "Wed, 19 Aug 2026 12:20:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21340966/?type=app&htype=0"
-      },
-      {
-        "id": "1ebb5581f53b2c6b8474da8e02660435",
-        "title": "Emergency rally called over \u00a3140m cuts at Edinburgh festivals' largest venue owner",
-        "link": "https://www.heraldscotland.com/news/26477596.emergency-rally-organised-opposition-edinburgh-university-cuts/",
-        "description": "The Herald has reported how 950 members of staff at the university have been made redundant since senior managers launched the savings drive last year.",
-        "published": "Wed, 19 Aug 2026 12:17:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21033937/?type=app&htype=0"
-      },
-      {
-        "id": "abd3c1ac71b201df95b7360a1231bea3",
-        "title": "Part of M8 near Glasgow to shut for whole weekend amid ongoing works",
-        "link": "https://www.heraldscotland.com/news/26477545.m8-st-james-viaduct-shut-weekend-maintenance/",
-        "description": "Weekend disruption alert",
-        "published": "Wed, 19 Aug 2026 12:01:46 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21340845/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
