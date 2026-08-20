@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1787211023542693",
+        "title": "Edmonton Marathon route was 674m too long",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo?at_medium=RSS&at_campaign=rss",
+        "description": "The organisers of the Edmonton Marathon admit the course for the 2026 edition was measured more than half a kilometre too long.",
+        "published": "Thu, 20 Aug 2026 09:15:48 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6103/live/cc9132d0-9c5f-11f1-827b-69a6492daae1.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno#0",
         "title": "Giant whales move into Greenland waters as ice disappears",
         "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
@@ -620,6 +628,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8930959",
+        "title": "Newcastle United ace set to leave club and 'walking away' from lucrative contract amid Celtic transfer rumours",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/newcastle-united-ace-walking-away-lucrative-contract-celtic-transfer-rumours-8930959",
+        "description": "<p>Celtic are one of the teams said to have transfer interest in the Newcastle United keeper.</p>",
+        "published": "Thu, 20 Aug 2026 08:00:56 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/07/04/14/16/GettyImages-2265282579.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "8930937",
+        "title": "Former Rangers star makes shock football return as he completes transfer to non-league club aged 40",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/former-rangers-star-shock-football-return-completes-transfer-aged-40-8930937",
+        "description": "<p>The former Rangers striker also featured for the likes of Aston Villa and Leeds United.</p>",
+        "published": "Thu, 20 Aug 2026 08:00:23 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/20/7/05/GettyImages-902873232.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-gangster-100k-bounty-name-34487209",
+        "title": "Glasgow gangster with \u00a3100k bounty on his name mocks rivals at family wedding",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-gangster-100k-bounty-name-34487209",
+        "description": "&quot;He was at this wedding, moving like he owns the place and he was telling everyone, 'I\u2019m the man, I\u2019m back'.&quot;",
+        "published": "Thu, 20 Aug 2026 07:42:50 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34487284.ece/ALTERNATES/s98/1_JS235717361.jpg"
+      },
+      {
+        "id": "8930335",
+        "title": "Rangers predicted XI vs Jablonec: Three changes and eight summer signings start Conference League crunch",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-predicted-xi-vs-jablonec-three-changes-eight-summer-signings-conference-league-8930335",
+        "description": "<p>Here\u2019s our Rangers predicted XI for their next match in Europe.</p>",
+        "published": "Thu, 20 Aug 2026 07:24:38 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/19/14/23/GettyImages-2290772139.jpg?width=1200&auto=webp&trim=47%2C97%2C561%2C96"
+      },
+      {
         "id": "https://news.stv.tv/?p=525849",
         "title": "Search launched for missing Wishaw teen who \u2018boarded train\u2019",
         "link": "https://news.stv.tv/west-central/search-launched-for-missing-wishaw-teen-who-boarded-train",
@@ -636,12 +676,44 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/20/7/30/GettyImages-2291188791.jpg?width=1200&auto=webp&trim=17%2C0%2C18%2C0"
       },
       {
+        "id": "https://news.stv.tv/?p=525771",
+        "title": "Managing huge backlog of High Court cases \u2018like a game of Jenga\u2019",
+        "link": "https://news.stv.tv/west-central/managing-huge-backlog-of-high-court-cases-like-a-game-of-jenga",
+        "description": "'Chaos co-ordinator' Nicky Glass is dealing with the complicated process of managing trials at Glasgow High Court",
+        "published": "Thu, 20 Aug 2026 06:56:48 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/4d912b05792aff4ed8845ef84aa7b283-1787149184-1280x720.jpeg"
+      },
+      {
+        "id": "https://runabc.co.uk/kelvingrove-park-5k-and-10k-brings-all-ages-together",
+        "title": "Kelvingrove Park 5K and 10K Brings All Ages Together",
+        "link": "https://runabc.co.uk/kelvingrove-park-5k-and-10k-brings-all-ages-together",
+        "description": "<p><img alt=\"Kelvingrove Park 5K and 10K 2026\" src=\"https://runabc.co.uk/images/2026/08/kelvingrove-park-up-and-running-september-2026-814572.jpg\" /></p>\n\t\t\t\t<p>Kelvingrove Park welcomes runners of all ages this September, with 5K and 10K races joined by a 2K Kids Race and Toddler Dash....</p>",
+        "published": "Thu, 20 Aug 2026 07:55:00 +0100",
+        "image_url": "https://runabc.co.uk/images/2026/08/kelvingrove-park-up-and-running-september-2026-814572.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/facial-recognition-technology-could-used-34487080",
+        "title": "Facial recognition technology could be used to tackle football disorder",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/facial-recognition-technology-could-used-34487080",
+        "description": "His Majesty's Chief Inspector of Constabulary in Scotland described the Old Firm disorder in March as being a &quot;watershed moment for Scottish football&quot;.",
+        "published": "Thu, 20 Aug 2026 06:49:46 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34487106.ece/ALTERNATES/s98/0_JS399237271-3.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=525729",
         "title": "Ministers urged to set Scotland\u2019s private jet tax \u2018punishingly high\u2019",
         "link": "https://news.stv.tv/west-central/ministers-urged-to-set-scotlands-private-jet-tax-punishingly-high",
         "description": "Campaigners said if the tax is brought in in April 2027  and set at a high enough level, it could raise almost \u00a3400m by 2031.",
         "published": "Thu, 20 Aug 2026 06:37:51 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/c2111c5b7f2a8a6d3eaa706f3e519b20-1787138479-1280x720.jpeg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=525718",
+        "title": "Unions to protest over Glasgow City Council\u2019s proposed new equal pay deal",
+        "link": "https://news.stv.tv/west-central/unions-to-protest-over-glasgow-city-councils-proposed-new-equal-pay-deal",
+        "description": "Union chiefs claim thousands of workers would face an immediate cut in pay, with some losing up to \u00a310,000",
+        "published": "Thu, 20 Aug 2026 06:30:09 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2022/01/f0a76b2e00a0d0e5d9b2575b017b28dc.jpg"
       },
       {
         "id": "127af5cf2228fd752a10f45071d16cbe",
@@ -708,14 +780,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21342793/?type=app&htype=0"
       },
       {
-        "id": "7c81737cff77a912eae710330c6c9325",
-        "title": "Facial recognition could be used at football matches following Old Firm disorder",
-        "link": "https://www.glasgowtimes.co.uk/sport/26479031.facial-recognition-help-tackle-football-disorder-scotland/",
-        "description": "Facial recognition could be used to stop banned football fans attending matches in Scotland after Old Firm disorder.",
-        "published": "Thu, 20 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20996085/?type=app&htype=0"
-      },
-      {
         "id": "7e891137524c7437fd082787aa4293a3",
         "title": "SNP depute cleared of breaching MSPs' rules in Bridge over Atlantic traffic light row",
         "link": "https://www.heraldscotland.com/news/26479549.keith-brown-cleared-clachan-bridge-code-conduct-row/",
@@ -770,14 +834,6 @@
         "description": "John Swinney's trip to watch Scotland at the World Cup in the United States has left taxpayers with a bill of \u00a398,442.",
         "published": "Wed, 19 Aug 2026 21:10:32 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21038136/?type=app&htype=0"
-      },
-      {
-        "id": "4590fda551a92f6cbfacc7e8cafcbafa",
-        "title": "Concerns grow for teenager missing from town in North Lanarkshire",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26479651.concerns-grow-missing-wishaw-teenager/",
-        "description": "Concerns are growing for a teenager who has disappeared from a town in North Lanarkshire.",
-        "published": "Wed, 19 Aug 2026 20:51:36 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21344477/?type=app&htype=0"
       },
       {
         "id": "730c8f8aec7174c7b1e5cd2c4f436b48",
@@ -1228,14 +1284,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21340542/?type=app&htype=0"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/c5ywnpgzj75o#0",
-        "title": "Firefighters tackle late night blaze after lorry bursts into flames",
-        "link": "https://www.bbc.co.uk/news/articles/c5ywnpgzj75o?at_medium=RSS&at_campaign=rss",
-        "description": "Social media posts described hearing \"a very loud bang/explosion\" near the city centre, followed by huge plumes of smoke being visible.",
-        "published": "Wed, 19 Aug 2026 10:12:41 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fe5/live/7877db30-9bb6-11f1-aed2-8d6da8d75094.jpg"
-      },
-      {
         "id": "https://www.glasgowlive.co.uk/whats-on/asda-confirms-major-change-91-34481877",
         "title": "Asda confirms major change at 91 stores in Scotland \u2014 starting October",
         "link": "https://www.glasgowlive.co.uk/whats-on/asda-confirms-major-change-91-34481877",
@@ -1378,46 +1426,6 @@
         "description": "<p>Ibrox hero reckons defender should\u2019ve been snapped up by Old Firm club a year ago</p>",
         "published": "Wed, 19 Aug 2026 06:00:21 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/18/9/38/GettyImages-2248188749.jpeg?width=1200&auto=webp&trim=1%2C0%2C2%2C0"
-      },
-      {
-        "id": "d8a29f30b8e50b5c96b1ee918f2a0c8a",
-        "title": "Council chiefs promise to consult gender critical groups amid EHRC guidance row",
-        "link": "https://www.heraldscotland.com/news/26475599.edinburgh-city-chiefs-consult-womens-groups-single-sex-spaces/",
-        "description": "Edinburgh council chiefs have pledged to consult with gender critical groups as they develop a full response to the EHRC\u2019s guidance on single-sex spaces.",
-        "published": "Wed, 19 Aug 2026 06:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20026094/?type=app&htype=0"
-      },
-      {
-        "id": "7cb32d55c0aa7a2aa07783e8b35c07d3",
-        "title": "Humiliation is built into the daily lives of our hamstrung police officers",
-        "link": "https://www.heraldscotland.com/politics/viewpoint/26474693.humiliation-built-lives-hamstrung-police-officers/",
-        "description": "The police insist nobody is being told not to arrest. But you don't need to issue an order when you can make arresting people increasingly difficult, writes Calum Steele",
-        "published": "Wed, 19 Aug 2026 06:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21336231/?type=app&htype=0"
-      },
-      {
-        "id": "fd9eda4b9f77dafa69c1d62ebd00281d",
-        "title": "'We need a solution' - Locals call for action amid sewage issue",
-        "link": "https://www.glasgowtimes.co.uk/news/26474859.we-need-solution---locals-call-action-paisley-sewage/",
-        "description": "Calls have been made for Scottish Water to take action over \"issues with sewage\" at a site in Paisley.",
-        "published": "Wed, 19 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21334667/?type=app&htype=0"
-      },
-      {
-        "id": "bca5e907c9374e43520b0b9facbe8e64",
-        "title": "Anger as 250-year-old 'local landmark' faces demolition for four homes",
-        "link": "https://www.glasgowtimes.co.uk/news/26475255.plans-demolish-listed-farmhouse-barrhead-new-homes/",
-        "description": "Residents have hit out at plans to knock down a historic local landmark which they say represents \"an important surviving connection with Barrhead\u2019s agricultural history\u201d.",
-        "published": "Wed, 19 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21335641/?type=app&htype=0"
-      },
-      {
-        "id": "f81e0e0710517bd32b2b0d66f7c22577",
-        "title": "Child domestic abuse referrals rise by more than a quarter in Scotland",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26474612.child-domestic-abuse-referrals-rise-27-scotland/",
-        "description": "Domestic abuse referrals involving children rose by more than a quarter in Scotland.",
-        "published": "Wed, 19 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21335840/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
