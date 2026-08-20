@@ -644,6 +644,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/giant-teacake-glasgow-commonwealth-games-34493375",
+        "title": "Giant teacake from Glasgow Commonwealth Games sold for \u00a3700 at auction",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/giant-teacake-glasgow-commonwealth-games-34493375",
+        "description": "The piece was among dozens of unique items of memorabilia from the games that were snapped up by collectors.",
+        "published": "Thu, 20 Aug 2026 17:29:55 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34472615.ece/ALTERNATES/s98/1_1100510465jpeg.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=525962",
+        "title": "24/7 bus route between Glasgow and Edinburgh Airport announced",
+        "link": "https://news.stv.tv/west-central/24-7-bus-route-between-glasgow-and-edinburgh-airport-announced",
+        "description": "The service will operate between Buchanan Bus Station and the airport",
+        "published": "Thu, 20 Aug 2026 17:19:48 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/e87a82b39ea38a74661390de1984e755-1787240854-e1787240881238-1119x720.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/former-snooker-champion-graeme-dott-34493113",
         "title": "Former snooker champion Graeme Dott tells court 'no way' he abused children",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/former-snooker-champion-graeme-dott-34493113",
