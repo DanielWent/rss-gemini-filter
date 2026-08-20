@@ -636,12 +636,60 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/drivers-dodge-giant-cable-spools-34491479",
+        "title": "Drivers dodge giant cable spools on busy Glasgow route after dramatic lorry crash",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/drivers-dodge-giant-cable-spools-34491479",
+        "description": "Police said the road was likely to be closed for some time due to the challenging nature of clearing the scene.",
+        "published": "Thu, 20 Aug 2026 13:40:22 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34491292.ece/ALTERNATES/s98/0_Screenshot-2026-08-20-at-141634.png"
+      },
+      {
+        "id": "d548d4186b7c3fd90829b379c6493a91",
+        "title": "Flight with hundreds of passengers lands at Glasgow Airport due to mid-air emergency",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26481740.lufthansa-flight-makes-emergency-landing-glasgow-airport/",
+        "description": "A Lufthansa flight from Frankfurt to Chicago diverted to Glasgow Airport after a passenger became ill on board.",
+        "published": "Thu, 20 Aug 2026 14:22:55 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21035647/?type=app&htype=0"
+      },
+      {
+        "id": "406712cbdcbc00754e9cb1bf63370788",
+        "title": "Union chief urges city centre stores to switch to council cleansing for cleaner lanes",
+        "link": "https://www.glasgowtimes.co.uk/news/26481710.union-chief-urges-glasgow-stores-switch-council-cleansing/",
+        "description": "The GMB trade union launched its campaign last year which calls for the city centre\u2019s back streets to be cleared of commercial waste",
+        "published": "Thu, 20 Aug 2026 14:18:27 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21349735/?type=app&htype=0"
+      },
+      {
+        "id": "6a6468bfff1b275d1046e23aef4bf68e",
+        "title": "Road plagued by works slowed even further as emergency services respond to car crash",
+        "link": "https://www.glasgowtimes.co.uk/news/26481439.car-crash-braehead-slows-road-already-plagued-works/",
+        "description": "Police, fire and ambulance crews rushed to a road near Braehead Shopping Centre around 9.55am today to deal with the collision.",
+        "published": "Thu, 20 Aug 2026 13:34:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21349426/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/gallery/first-look-former-reardons-snooker-34489825",
+        "title": "First look at former Reardons snooker hall as it becomes Langside Social",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/gallery/first-look-former-reardons-snooker-34489825",
+        "description": "Launching today, the new Langside Social will take over from Reardon's Southside, which has closed after 21 years.",
+        "published": "Thu, 20 Aug 2026 12:08:31 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34489874.ece/ALTERNATES/s98/0_Screenshot-2026-08-20-at-120122PM.png"
+      },
+      {
         "id": "dfbf9c0a3564788cbe130bb98f3b021d",
         "title": "Court hears Graeme Dott abused boy after world title win and gave him \u00a350 note after",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26481221.graeme-dott-accuser-claims-abuse-began-snooker-title-win/",
         "description": "A court heard claims that former world snooker champion Graeme Dott abused a boy after his 2006 title victory.",
         "published": "Thu, 20 Aug 2026 12:51:44 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/18894947/?type=app&htype=0"
+      },
+      {
+        "id": "8c8090da1ed689ca6d9b4704ba12ba2d",
+        "title": "What are the secrets behind Kirkwall\u2019s thriving high street?",
+        "link": "https://www.heraldscotland.com/news/26481216.secrets-behind-kirkwalls-thriving-high-street/",
+        "description": "A stroll down Kirkwall\u2019s high street in the summer presents a picture of an ideal town centre.",
+        "published": "Thu, 20 Aug 2026 12:50:43 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21348166/?type=app&htype=0"
       },
       {
         "id": "791d36849cd1d415cb51d31e72b2ae35",
@@ -658,6 +706,14 @@
         "description": "The Scottish Government said precautionary movement restrictions have been put in place",
         "published": "Thu, 20 Aug 2026 11:35:17 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/article34489770.ece/ALTERNATES/s98/0_Cows-on-first-day-of-Spring-seeing-grass-in-the-Netherlands.jpg"
+      },
+      {
+        "id": "e890780694f78f50cad6453c99b1ccda",
+        "title": "Call to close part of New Town to through traffic until Princes Street reopens",
+        "link": "https://www.heraldscotland.com/news/26481103.call-close-part-edinburgh-new-town-princes-street-reopens/",
+        "description": "Green councillor and co-convener Alys Mumford has tabled a motion before next week\u2019s full council meeting making the ask in a bid to prioritise public transport and ease congestion",
+        "published": "Thu, 20 Aug 2026 12:29:06 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21160112/?type=app&htype=0"
       },
       {
         "id": "8930983",
@@ -682,6 +738,14 @@
         "description": "Two of Kayden's killers were under the supervision of social work at the time.",
         "published": "Thu, 20 Aug 2026 10:59:28 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34489356.ece/ALTERNATES/s98/0_JS369575822-2.jpg"
+      },
+      {
+        "id": "48add0559d504e339d89f23455f7847f",
+        "title": "Scottish Water becomes world's first utility to tackle laboratory plastic waste",
+        "link": "https://www.heraldscotland.com/news/26480877.scottish-water-first-utility-tackle-laboratory-plastic-waste/",
+        "description": "Scottish Water is using new technology to disinfect and recycle laboratory plastics previously sent to landfill or incineration.",
+        "published": "Thu, 20 Aug 2026 11:56:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21347275/?type=app&htype=0"
       },
       {
         "id": "614749f46cf8bc68de8edf5c7e27ea4c",
@@ -1370,70 +1434,6 @@
         "description": "A return to Helensburgh for the PS Waverley could potentially bring over \u00a3450,000 to the town per year, a charity aiming to reopen the town\u2019s pier has claimed.",
         "published": "Wed, 19 Aug 2026 11:47:53 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/13897429/?type=app&htype=0"
-      },
-      {
-        "id": "75e70f17bb10725d092a29210af3b708",
-        "title": "MSPs back UNESCO bid for Scotland's 'iconic' morning roll",
-        "link": "https://www.heraldscotland.com/news/26477430.scottish-greens-back-unesco-bid-morning-roll-recognition/",
-        "description": "A Holyrood motion backed by 12 MSPs, including Greens co-leader Ross Greer, supports a campaign to have the morning roll recognised by UNESCO as living heritage.",
-        "published": "Wed, 19 Aug 2026 11:43:16 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19113727/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/sadistic-hunter-linked-far-right-34482130",
-        "title": "Sadistic hunter linked to far-right Northern Ireland group behind race hate in Glasgow",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/sadistic-hunter-linked-far-right-34482130",
-        "description": "WARNING: Distressing images below. Neil Pinkerton was among a band of Northern Irish men to travel to Scotland on July 25 to join an anti-immigration event that was badged &quot;Protect Our Women and Children&quot;",
-        "published": "Wed, 19 Aug 2026 10:34:53 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34482123.ece/ALTERNATES/s98/0_NeilPinkerton_Belfast005.jpg"
-      },
-      {
-        "id": "8557a0bc3585662ca681c75b78cf4f32",
-        "title": "M\u00e0iri McAllan intervenes on CCA building to demand return of 'vibrant cultural hub'",
-        "link": "https://www.heraldscotland.com/news/26477363.m-irimcallan-demands-reopening-cca-venue-vibrant-cultural-hub/",
-        "description": "The culture secretary says she wants to see the building reopen to serve 'artists, audiences and communities in Glasgow'.",
-        "published": "Wed, 19 Aug 2026 11:32:10 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21277955/?type=app&htype=0"
-      },
-      {
-        "id": "49696df720efa1caadd1df5f525fddfb",
-        "title": "More than 10,000 illegal tobacco products seized amid major operation in Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26477355.10-000-illicit-cigarettes-seized-glasgow-west-end-crackdown/",
-        "description": "Police and Trading Standards seized more than 10,000 illicit cigarettes and counterfeit goods from West End shops.",
-        "published": "Wed, 19 Aug 2026 11:31:03 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21340456/?type=app&htype=0"
-      },
-      {
-        "id": "1bb0ad99d2ea8ea458b9613d1df7303d",
-        "title": "Five Scottish venues in the running for 2026 'Pub of the Year' award",
-        "link": "https://www.heraldscotland.com/news/26477344.scotlands-2026-pub-year-award-finalists-revealed/",
-        "description": "The finalists for the 2026 Scottish Bar &amp; Pub Awards have been announced this week. Find out who is in the running to win here.",
-        "published": "Wed, 19 Aug 2026 11:29:52 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21340542/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/asda-confirms-major-change-91-34481877",
-        "title": "Asda confirms major change at 91 stores in Scotland \u2014 starting October",
-        "link": "https://www.glasgowlive.co.uk/whats-on/asda-confirms-major-change-91-34481877",
-        "description": "Asda is overhauling its operations and will affect its workers",
-        "published": "Wed, 19 Aug 2026 10:03:41 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/whats-on/article34481876.ece/ALTERNATES/s98/1_A-sign-for-Asda-supermarket.jpg"
-      },
-      {
-        "id": "b2b9d23c64f05dc30f6b94496f924d8c",
-        "title": "City leaders agree new devolution plan to transform public services",
-        "link": "https://www.glasgowtimes.co.uk/news/26476995.city-leaders-agreed-new-devolution-proposal/",
-        "description": "City leaders have agreed to develop a new proposal that could transform public services.",
-        "published": "Wed, 19 Aug 2026 10:34:37 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21339842/?type=app&htype=0"
-      },
-      {
-        "id": "507b416aa38a6f859b6af7acbe83537f",
-        "title": "United States Air National Guard flypast confirmed for airshow",
-        "link": "https://www.heraldscotland.com/news/26476888.united-states-air-national-guard-flypast-confirmed-airshow/",
-        "description": "The United States Air\u00a0National Guard\u00a0are set to appear at The International Ayr Show\u00a0- Festival of Flight next month.",
-        "published": "Wed, 19 Aug 2026 10:16:22 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20856941/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
