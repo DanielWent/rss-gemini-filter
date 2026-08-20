@@ -628,6 +628,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8931343",
+        "title": "20 busiest railway stations in Glasgow ranked by passenger numbers",
+        "link": "https://www.glasgowworld.com/news/20-busiest-railway-stations-in-glasgow-ranked-by-passenger-numbers-8931343",
+        "description": "<p>These are the busiest railway stations in Glasgow right now. </p>",
+        "published": "Thu, 20 Aug 2026 09:39:32 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/20/9/33/cropped-Glasgow-Central-doors-1024x575.jpeg?width=1200&auto=webp&trim=0%2C81%2C0%2C80"
+      },
+      {
         "id": "8931238",
         "title": "Visitors invited to celebrate the University of Glasgow's 575th anniversary at Doors Open Days Festival 2026",
         "link": "https://www.glasgowworld.com/best-in/visitors-invited-to-celebrate-the-university-of-glasgows-575th-anniversary-at-doors-open-days-festival-2026-8931238",
@@ -1418,14 +1426,6 @@
         "description": "Almost \u00a322 million in public sector fraud and error has been identified, according to a watchdog.",
         "published": "Wed, 19 Aug 2026 07:26:25 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21026149/?type=app&htype=0"
-      },
-      {
-        "id": "b2adc34b6471059f46228cdd0ae9eda1",
-        "title": "South Lanarkshire trains in disarray amid ongoing disruption",
-        "link": "https://www.glasgowtimes.co.uk/news/26476262.larkhall-trains-delayed-changed-amid-ongoing-disruption/",
-        "description": "South Lanarkshire trains are in disaray this morning after a train broke down on the Larkhall branch.",
-        "published": "Wed, 19 Aug 2026 07:25:33 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21173123/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
