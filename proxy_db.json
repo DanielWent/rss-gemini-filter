@@ -644,6 +644,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/woman-taken-hospital-glasgow-flat-34493759",
+        "title": "Woman taken to hospital as Glasgow flat fire sees residents evacuated",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/woman-taken-hospital-glasgow-flat-34493759",
+        "description": "The blaze in the Saracen Street area of Glasgow saw streets closed off and the public advised to stay away",
+        "published": "Thu, 20 Aug 2026 20:56:17 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34022174.ece/ALTERNATES/s98/0_JS138065842-3.jpg"
+      },
+      {
         "id": "bddf0199435b099fffac7cc5bbf743cc",
         "title": "Busy street locked down by 999 crews amid building fire",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26483089.glasgows-saracen-street-locked-amid-building-fire/",
@@ -674,6 +682,14 @@
         "description": "The service will operate between Buchanan Bus Station and the airport",
         "published": "Thu, 20 Aug 2026 17:19:48 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/e87a82b39ea38a74661390de1984e755-1787240854-e1787240881238-1119x720.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cddj88eyejro#0",
+        "title": "Glasgow City Council approves plan to cut pay for some workers",
+        "link": "https://www.bbc.co.uk/news/articles/cddj88eyejro?at_medium=RSS&at_campaign=rss",
+        "description": "Pay for most non-teaching staff is set to increase - but others could lose out on more than \u00a310,000 a year.",
+        "published": "Thu, 20 Aug 2026 17:19:37 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5aa/live/14502660-9c80-11f1-b109-879e35c24276.jpg"
       },
       {
         "id": "https://news.stv.tv/?p=525998",
