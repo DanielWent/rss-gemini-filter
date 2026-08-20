@@ -644,6 +644,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "bddf0199435b099fffac7cc5bbf743cc",
+        "title": "Busy street locked down by 999 crews amid building fire",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26483089.glasgows-saracen-street-locked-amid-building-fire/",
+        "description": "A street in North Glasgow has been locked down by emergency services amid a building fire.",
+        "published": "Thu, 20 Aug 2026 19:26:38 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13466733/?type=app&htype=0"
+      },
+      {
+        "id": "3476da326418cb5f407a7207f906c1e1",
+        "title": "'Race realist' who accused Jason Arday of plagiarism suspended by university",
+        "link": "https://www.heraldscotland.com/news/26483088.jason-arday-accuser-nathan-cofnas-suspended-university/",
+        "description": "A 'race realist' academic who made plagiarism allegations against the late Jason Arday has been suspended by his university",
+        "published": "Thu, 20 Aug 2026 19:25:05 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21352398/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/giant-teacake-glasgow-commonwealth-games-34493375",
         "title": "Giant teacake from Glasgow Commonwealth Games sold for \u00a3700 at auction",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/giant-teacake-glasgow-commonwealth-games-34493375",
