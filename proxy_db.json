@@ -652,6 +652,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/ckgd5xpmk77o#0",
+        "title": "Festival top spot for film honouring talented little sister",
+        "link": "https://www.bbc.co.uk/news/articles/ckgd5xpmk77o?at_medium=RSS&at_campaign=rss",
+        "description": "Documentary Bel has closed Edinburgh's International Film Festival, telling the tragic story of Beldina Odenyo",
+        "published": "Thu, 20 Aug 2026 22:07:05 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c31d/live/d1e1dab0-9c81-11f1-8753-f53dde396e63.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/woman-taken-hospital-glasgow-flat-34493759",
         "title": "Woman taken to hospital as Glasgow flat fire sees residents evacuated",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/woman-taken-hospital-glasgow-flat-34493759",
@@ -1442,14 +1450,6 @@
         "description": "BBC documentary around St Enoch Square in Glasgow reveals troubling scenes, yet dodges the bigger questions concern government policy, policing and urban decline",
         "published": "Wed, 19 Aug 2026 13:30:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21337721/?type=app&htype=0"
-      },
-      {
-        "id": "9c3d6ec9a4c2cd8957665138573d786b",
-        "title": "Further road works set to slow down already plagued Glasgow road",
-        "link": "https://www.glasgowtimes.co.uk/news/26478067.maryhill-road-works-extend-even-street/",
-        "description": "Works have cleared at the junction of Maryhill Road and Bilsland Drive but will progress west bound down the former, all the way up to its junction with Garrioch Road.",
-        "published": "Wed, 19 Aug 2026 13:28:57 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19036953/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
