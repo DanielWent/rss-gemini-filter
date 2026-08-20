@@ -612,6 +612,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/anger-pavement-parking-enforcement-local-34467184",
+        "title": "Anger at pavement parking enforcement as local measures 'too narrow' street",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/anger-pavement-parking-enforcement-local-34467184",
+        "description": "A Glasgow woman has hit out at the council, saying there was no notice that wardens would be out despite the street being 'under review' for exemption.",
+        "published": "Thu, 20 Aug 2026 05:24:15 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34467433.ece/ALTERNATES/s98/0_Trinity-avenue-measurejfif.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-dumping-tonnes-waste-34414060",
+        "title": "Glasgow council dumping tonnes of waste despite vote to close landfill as locals hit out at 'hypocrisy'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-dumping-tonnes-waste-34414060",
+        "description": "The local authority has been slammed after it emerged that the equivalent of 30 double decker buses (540 tonnes) are being buried at the Patterson's Greenoakhill landfill site in Broomhouse.",
+        "published": "Thu, 20 Aug 2026 05:16:07 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34414733.ece/ALTERNATES/s98/0_IMG_2968-1-1jpeg.jpg"
+      },
+      {
         "id": "10a56ce2d5bf554e569490b1b32e8dae",
         "title": "'Continuity Starmerism': Scottish Labour leadership rivals clash in fiery TV debate",
         "link": "https://www.heraldscotland.com/news/26479670.scottish-labour-leadership-rivals-clash-fiery-tv-debate/",
@@ -1394,22 +1410,6 @@
         "description": "Glasgow City Council faces a pivotal vote on a \u00a3120m equal pay framework covering nearly 24,000 staff, with 2,600 workers set to see wages cut and opposition parties demanding the Scottish Government help foot the bill.",
         "published": "Tue, 18 Aug 2026 18:02:13 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/8852423/?type=app&htype=0"
-      },
-      {
-        "id": "8926515",
-        "title": "Insider Rangers target's 'crazy' Ibrox trip as VIP treatment and private jet deployed before transfer collapse",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/insider-rangers-targets-crazy-ibrox-trip-as-vip-treatment-and-private-jet-deployed-before-transfer-collapse-8926515",
-        "description": "<p>The player spent a \u2018crazy 48 hours in Scotland\u2019 before the move collapsed</p>",
-        "published": "Tue, 18 Aug 2026 17:00:01 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/18/8/18/GettyImages-2273671893.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "a91c42fb8833b21d0f24390247dda3a5",
-        "title": "Tommy Robinson responds after Glasgow dad's court fundraiser reaches \u00a335k in days",
-        "link": "https://www.glasgowtimes.co.uk/news/26475898.tommy-robinson-responds-glasgow-dad-legal-fundraiser-reaches-35k/",
-        "description": "FAR-right agitator Tommy Robinson has responded after a Glasgow dad\u2019s fundraiser to take him to court raised more than \u00a335,000 in less than a week.",
-        "published": "Tue, 18 Aug 2026 17:53:53 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21194844/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
