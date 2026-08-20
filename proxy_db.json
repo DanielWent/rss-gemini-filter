@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno#0",
+        "title": "Giant whales move into Greenland waters as ice disappears",
+        "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+        "description": "Melting sea ice from climate change has opened up the region for giant whales to undertake 'feeding frenzies'.",
+        "published": "Thu, 20 Aug 2026 02:05:20 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1da/live/98b70b10-9bd8-11f1-bb4d-1147ef2e78e5.jpg"
+      },
+      {
         "id": "1787139028558167",
         "title": "OpenAI slows down training after its AI carried out hack",
         "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
