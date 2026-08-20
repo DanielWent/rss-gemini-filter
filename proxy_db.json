@@ -636,12 +636,60 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/case-bse-confirmed-scotland-restrictions-34489771",
+        "title": "Case of BSE confirmed in Scotland with restrictions now in force",
+        "link": "https://www.glasgowlive.co.uk/news/case-bse-confirmed-scotland-restrictions-34489771",
+        "description": "The Scottish Government said precautionary movement restrictions have been put in place",
+        "published": "Thu, 20 Aug 2026 11:35:17 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/article34489770.ece/ALTERNATES/s98/0_Cows-on-first-day-of-Spring-seeing-grass-in-the-Netherlands.jpg"
+      },
+      {
+        "id": "8930983",
+        "title": "Projected Celtic Champions League opponents as Manchester United and Liverpool amongst glamour ties",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/projected-celtic-champions-league-opponents-as-manchester-united-and-liverpool-amongst-league-phase-glamour-ties-8930983",
+        "description": "<p>Hoops have one foot in the competition after convincing play-off triumph</p>",
+        "published": "Thu, 20 Aug 2026 11:00:38 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/20/8/02/GettyImages-2217966465.jpeg?width=1200&auto=webp&trim=0%2C23%2C0%2C22"
+      },
+      {
+        "id": "8931150",
+        "title": "Rangers told 'universal' attacking transfer target is Scottish football ready and he comes with 'big quality'",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-told-universal-attacking-transfer-target-is-scottish-football-ready-and-he-comes-with-big-quality-8931150",
+        "description": "<p>Rangers are reportedly close to acquiring winger</p>",
+        "published": "Thu, 20 Aug 2026 11:00:24 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/20/9/45/GettyImages-140125035.jpeg?width=1200&auto=webp&trim=0%2C179%2C0%2C178"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/kayden-moys-killers-were-under-34489207",
+        "title": "Kayden Moy's killers were 'under supervision at time of murder' as dad seeks answers",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/kayden-moys-killers-were-under-34489207",
+        "description": "Two of Kayden's killers were under the supervision of social work at the time.",
+        "published": "Thu, 20 Aug 2026 10:59:28 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34489356.ece/ALTERNATES/s98/0_JS369575822-2.jpg"
+      },
+      {
         "id": "bf80da091d2c5acce2d57e0d1de04a4d",
         "title": "Drivers to face major delays amid emergency repairs at Braehead Shopping Centre",
         "link": "https://www.glasgowtimes.co.uk/news/26480785.drivers-face-major-delays-amid-emergency-repairs-braehead/",
         "description": "An emergency sewer repair is causing disruption outside Braehead Shopping Centre.",
         "published": "Thu, 20 Aug 2026 11:34:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21346815/?type=app&htype=0"
+      },
+      {
+        "id": "3a22ed00b95b4214d2d66c23b8d1f2eb",
+        "title": "Unions join forces to demand 'immediate halt' to sale of CCA building in Glasgow",
+        "link": "https://www.heraldscotland.com/news/26480117.unions-demand-creative-scotland-pulls-plug-sale-cca-building/",
+        "description": "Trust in the Scottish Government agency is said to at an 'all-time low' over the handling of the long-running venue.",
+        "published": "Thu, 20 Aug 2026 11:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21277950/?type=app&htype=0"
+      },
+      {
+        "id": "809d9250a620f6c269c8287da6f98993",
+        "title": "Four zones where fireworks banned in Glasgow announced for 2026",
+        "link": "https://www.heraldscotland.com/news/26480686.four-firework-control-zones-put-place-glasgow-2026/",
+        "description": "Last year, Glasgow introduced control zones in Govanhill, Pollokshields and Broomhouse following complaints from residents about disruption",
+        "published": "Thu, 20 Aug 2026 11:19:51 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20147112/?type=app&htype=0"
       },
       {
         "id": "0d512c3c899425dd9b30c13115565d32",
@@ -666,14 +714,6 @@
         "description": "The incident in Kirkintilloch comes after Police Scotland said the gang war had come to an end",
         "published": "Thu, 20 Aug 2026 10:11:10 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/777fe765e99a8096185b83aa1cba33d8-1787219392.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/braehead-shoppers-warned-travel-chaos-34488560",
-        "title": "Braehead shoppers warned of travel chaos during peak hours as busy road closed",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/braehead-shoppers-warned-travel-chaos-34488560",
-        "description": "The road is closed for emergency sewer repairs.",
-        "published": "Thu, 20 Aug 2026 10:00:00 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34488645.ece/ALTERNATES/s98/0_shared-image-2.jpg"
       },
       {
         "id": "8931343",
@@ -812,14 +852,6 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/c2111c5b7f2a8a6d3eaa706f3e519b20-1787138479-1280x720.jpeg"
       },
       {
-        "id": "https://news.stv.tv/?p=525718",
-        "title": "Unions to protest over Glasgow City Council\u2019s proposed new equal pay deal",
-        "link": "https://news.stv.tv/west-central/unions-to-protest-over-glasgow-city-councils-proposed-new-equal-pay-deal",
-        "description": "Union chiefs claim thousands of workers would face an immediate cut in pay, with some losing up to \u00a310,000",
-        "published": "Thu, 20 Aug 2026 06:30:09 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2022/01/f0a76b2e00a0d0e5d9b2575b017b28dc.jpg"
-      },
-      {
         "id": "127af5cf2228fd752a10f45071d16cbe",
         "title": "Workers on River Clyde could strike after company failed to keep two-year-old promise",
         "link": "https://www.glasgowtimes.co.uk/news/26479730.river-clyde-workers-strike-amid-ongoing-pay-dispute/",
@@ -898,14 +930,6 @@
         "description": "Major effects from artificial intelligence have been revealed by Scottish businesses",
         "published": "Thu, 20 Aug 2026 04:40:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21342372/?type=app&htype=0"
-      },
-      {
-        "id": "af5e16f6cff94cae30e74644df160e45",
-        "title": "Record number of entries announced as Royal National M\u00f2d returns to Glasgow",
-        "link": "https://www.heraldscotland.com/news/26477450.record-entries-royal-national-m-d-return-glasgow/",
-        "description": "More than 2,100 entries have been submitted for the Royal National M\u00f2d, which returns to Glasgow from October 9 to 17.",
-        "published": "Thu, 20 Aug 2026 00:05:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21340641/?type=app&htype=0"
       },
       {
         "id": "10a56ce2d5bf554e569490b1b32e8dae",
@@ -1076,14 +1100,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21342821/?type=app&htype=0"
       },
       {
-        "id": "https://news.stv.tv/?p=525774",
-        "title": "Case of \u2018mad cow disease\u2019 confirmed on Dumfries and Galloway farm",
-        "link": "https://news.stv.tv/west-central/case-of-mad-cow-disease-confirmed-on-dumfries-and-galloway-farm",
-        "description": "The Scottish Government confirmed that the BSE case, which is an always fatal neurodegenerative disease, was found during routine surveillance",
-        "published": "Wed, 19 Aug 2026 14:46:43 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2022/11/b33746f670588389d5388d146ec8f450-1668867184.jpg"
-      },
-      {
         "id": "415831b099f45600719a208f7dbaa036",
         "title": "GlasGLOW hiring 100 zombie handlers for new Zombie Zoo in Glasgow",
         "link": "https://www.heraldscotland.com/news/26478756.glasglow-hiring-100-zombie-handlers-new-attraction/",
@@ -1202,14 +1218,6 @@
         "description": "Experts expected an impact on the property market, but here's what really happened",
         "published": "Wed, 19 Aug 2026 13:21:55 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/17840456/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgows-last-landfill-close-expansion-34482783",
-        "title": "Glasgow's last landfill to close as expansion appeal rejected amid ongoing neighbour complaints",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgows-last-landfill-close-expansion-34482783",
-        "description": "The news has been welcomed by neighbours who complained their homes are being 'shaken apart' as over 100 HGVs thunder past every hour.",
-        "published": "Wed, 19 Aug 2026 12:17:29 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article26499423.ece/ALTERNATES/s98/3_image_6483441-3JPG.jpg"
       },
       {
         "id": "91c284a792ec2f771df604a31475b697",
@@ -1426,14 +1434,6 @@
         "description": "<p>  This well-presented semi-detached villa offers three bedrooms, a dining kitchen, generous gardens and useful attic storage in the popular Jordanhill area  </p>",
         "published": "Wed, 19 Aug 2026 07:58:47 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/18/22/36/hw8iy9yctrl5ywt2nz5c.jpeg?width=1200&auto=webp&trim=0%2C4%2C0%2C4"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-man-46-electrocuted-work-34480970",
-        "title": "Lanarkshire man, 46, electrocuted at work as inquiry to probe tragic death",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-man-46-electrocuted-work-34480970",
-        "description": "George Anderson died while working in Brodick.",
-        "published": "Wed, 19 Aug 2026 07:33:13 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34480996.ece/ALTERNATES/s98/0_JS198085046.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
