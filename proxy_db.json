@@ -628,6 +628,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8931238",
+        "title": "Visitors invited to celebrate the University of Glasgow's 575th anniversary at Doors Open Days Festival 2026",
+        "link": "https://www.glasgowworld.com/best-in/visitors-invited-to-celebrate-the-university-of-glasgows-575th-anniversary-at-doors-open-days-festival-2026-8931238",
+        "description": "<p>The University of Glasgow is partnering with Glasgow Building Preservation Trust to welcome visitors to its historic campus and celebrate its 575th anniversary during Doors Open Days Festival 2026.  </p>",
+        "published": "Thu, 20 Aug 2026 09:16:47 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/20/9/03/Gilbert-Scott-Building-drone-1400x600.jpeg?width=1200&auto=webp&trim=0%2C250%2C0%2C249"
+      },
+      {
         "id": "cc1e3da31e6409a2c38b9ef3d8f45480",
         "title": "Turner Prize winner to display work at GOMA as gallery marks 30th anniversary",
         "link": "https://www.glasgowtimes.co.uk/news/26480130.turner-prize-winner-display-work-glasgows-goma/",
@@ -1090,14 +1098,6 @@
         "description": "A former world snooker champion allegedly told a young boy to stay out of a room while he was with a girl he is accused of abusing, a jury has heard.",
         "published": "Wed, 19 Aug 2026 14:16:26 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/13033913/?type=app&htype=0"
-      },
-      {
-        "id": "6482594c45402836595f8bd0b0662e84",
-        "title": "New work by Turner Prize winner opens to mark GoMA\u2019s 30th anniversary",
-        "link": "https://www.heraldscotland.com/news/26478204.new-work-turner-prize-winner-opens-mark-gomas-30th-anniversary/",
-        "description": "The Gallery of Modern Art (GoMA) has announced an \"ambitious\" new commission by Turner Prize winner (2014) Duncan Campbell.",
-        "published": "Wed, 19 Aug 2026 14:01:01 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21341907/?type=app&htype=0"
       },
       {
         "id": "6066c35d3c8371bba0c45392160821cc",
