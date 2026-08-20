@@ -636,12 +636,68 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/former-snooker-champion-graeme-dott-34493113",
+        "title": "Former snooker champion Graeme Dott tells court 'no way' he abused children",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/former-snooker-champion-graeme-dott-34493113",
+        "description": "The 49-year-old denies lewd, indecent and libidinous behaviour towards two children in the 90s and between 2006 and 2010.",
+        "published": "Thu, 20 Aug 2026 16:19:45 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34478780.ece/ALTERNATES/s98/0_ee2dedee-222d-4174-9624-580fc6b58ed5jpeg.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-agrees-plan-end-equal-34493081",
+        "title": "Glasgow agrees plan to end equal pay dispute as unions fear 'devastating' impact",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-agrees-plan-end-equal-34493081",
+        "description": "Council leader Susan Aitken said the new pay and grading structure will end pay discrimination. Unions urged councillors to reject the proposal as thousands of workers are set for wage cuts.",
+        "published": "Thu, 20 Aug 2026 16:17:26 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34493046.ece/ALTERNATES/s98/20260821_094411.jpg"
+      },
+      {
+        "id": "bc68c452faa1ab563e528877c4f871b6",
+        "title": "Council staff in Glasgow face nervous wait over pay and grading wage cuts",
+        "link": "https://www.glasgowtimes.co.uk/news/26482812.glasgow-staff-face-nervous-wait-pay-scheme-wage-cuts/",
+        "description": "Council workers face a nervous wait after a new pay and grading scheme for Glasgow City Council staff has been approved.",
+        "published": "Thu, 20 Aug 2026 17:10:42 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21345318/?type=app&htype=0"
+      },
+      {
+        "id": "6e251fa23eb12190ebe5fe60d835487f",
+        "title": "Check out these 10 new amazing shots as Glasgow transforms into Gotham City",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26482779.new-images-reveal-glasgows-dramatic-gotham-city-transformation/",
+        "description": "Bothwell Street has been transformed into Gotham City as filming continues for The Batman Part II in Glasgow.",
+        "published": "Thu, 20 Aug 2026 17:03:55 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21351755/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/arts-culture-news/finnieston-labelled-brooklyn-glasgow-top-34492100",
+        "title": "Finnieston labelled the 'Brooklyn of Glasgow' by top guide",
+        "link": "https://www.glasgowlive.co.uk/whats-on/arts-culture-news/finnieston-labelled-brooklyn-glasgow-top-34492100",
+        "description": "Finnieston beat out Dennistoun, Shawlands, and Partick to be named the 'coolest neighbourhood'.",
+        "published": "Thu, 20 Aug 2026 15:53:40 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34492207.ece/ALTERNATES/s98/1_Screenshot-2026-08-20-at-34445PM.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-train-delays-vehicle-hits-34492892",
+        "title": "Glasgow train delays as vehicle hits bridge and overhead cables damaged",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-train-delays-vehicle-hits-34492892",
+        "description": "The two incidents have led to services being delayed and cancelled",
+        "published": "Thu, 20 Aug 2026 15:53:40 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34243798.ece/ALTERNATES/s98/0_JS181394844.jpg"
+      },
+      {
         "id": "aecd348183b3f90af8533b25455be7a7",
         "title": "Draft article: Beth Oliver 2026-08-20 16:45",
         "link": "https://www.glasgowtimes.co.uk/news/26482673.draft-article-beth-oliver-2026-08-20-16-45/",
         "description": "Young activists campaigning for dedicated youth spaces in Govanhill met with Jeremy Corbyn during his recent visit to Glasgow.",
         "published": "Thu, 20 Aug 2026 16:45:26 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21351569/?type=app&htype=0"
+      },
+      {
+        "id": "c12a4bdb1eb31082d30d78cb828c0795",
+        "title": "Families affected by QEUH infections \u2018shocked to core\u2019 by new inquiry evidence",
+        "link": "https://www.heraldscotland.com/news/26482530.families-affected-qeuh-infections-shocked-new-inquiry-evidence/",
+        "description": "Families of those affected by infections linked to a flagship hospital in Glasgow have said they are \u201cshocked to the core\u201d by new evidence to an inquiry.",
+        "published": "Thu, 20 Aug 2026 16:21:18 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/16881005/?type=app&htype=0"
       },
       {
         "id": "478f007b6535c56052e7e10cf05cfdac",
@@ -660,20 +716,20 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21351184/?type=app&htype=0"
       },
       {
+        "id": "e19537e91ee5aa17f7ee0f3508e8e26d",
+        "title": "Bluetongue control zone introduced after Lockerbie case",
+        "link": "https://www.heraldscotland.com/news/26482413.bluetongue-controls-tightened-lockerbie-case/",
+        "description": "Bluetongue restrictions have been tightened in Dumfries and Galloway after cases near Lockerbie, with new livestock movement rules.",
+        "published": "Thu, 20 Aug 2026 16:01:47 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18259571/?type=app&htype=0"
+      },
+      {
         "id": "8931339",
         "title": "Ex Premier League winner is worthy Rangers transfer punt as 'sensible' wages plays into Ibrox move backing",
         "link": "https://www.glasgowworld.com/sport/football/rangers/former-premier-league-winner-is-worthy-rangers-transfer-punt-as-sensible-wages-factor-plays-into-ibrox-move-backing-8931339",
         "description": "<p>Leicester City hero backed for shock Govan switch</p>",
         "published": "Thu, 20 Aug 2026 15:00:38 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/20/9/34/GettyImages-2276749858.jpeg?width=1200&auto=webp&trim=0%2C156%2C0%2C156"
-      },
-      {
-        "id": "c21a79bdae6ee15671d74aa8d0c03c49",
-        "title": "The real cost of John Swinney\u2019s \u00a398k World Cup trip is public trust",
-        "link": "https://www.heraldscotland.com/news/26482201.john-swinneys-98k-bill-world-cup-unacceptable/",
-        "description": "The cost to send John Swinney and his team to the World Cup exceeded \u00a398,000. But the real cost is the loss in public trust.",
-        "published": "Thu, 20 Aug 2026 15:57:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21350696/?type=app&htype=0"
       },
       {
         "id": "f79f1d990d4f3e314a8cfe430357b3e1",
@@ -732,12 +788,12 @@
         "image_url": "https://www.heraldscotland.com/resources/images/19393785/?type=app&htype=0"
       },
       {
-        "id": "4da0b87a85f693cddf6ae8fd1422d4a9",
-        "title": "Council backs equal pay scheme that hikes wages for most but cuts pay of one in nine",
-        "link": "https://www.heraldscotland.com/news/26482096.glasgow-city-council-equal-pay-grading-overhaul-approved/",
-        "description": "Glasgow City Council has approved a sweeping pay and grading overhaul designed to end decades of equal pay discrimination but while 63% of 24,000 staff gain, around 11% face cuts of up to \u00a311,500 a year.",
-        "published": "Thu, 20 Aug 2026 15:16:11 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21345318/?type=app&htype=0"
+        "id": "5dbcd122537affd3d406c37969e4e8f9",
+        "title": "Team behind The Laurieston bar transforms Glasgow snooker hall into new social hub",
+        "link": "https://www.heraldscotland.com/news/26482076.langside-social-opens-former-glasgow-reardons-snooker-hall/",
+        "description": "A former Reardon's snooker hall in Glasgow's Southside has reopened with a fresh new look this week.",
+        "published": "Thu, 20 Aug 2026 15:12:59 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21350424/?type=app&htype=0"
       },
       {
         "id": "647bbf93c6d467fe38b2614d15abb3c6",
@@ -940,28 +996,12 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/20/9/03/Gilbert-Scott-Building-drone-1400x600.jpeg?width=1200&auto=webp&trim=0%2C250%2C0%2C249"
       },
       {
-        "id": "4e7390c4144370e1f1774afc049a3a8f",
-        "title": "Why it feels like Glasgow is trapped between progress and decline",
-        "link": "https://www.heraldscotland.com/opinion/26479657.glasgows-equal-pay-dispute-still-casts-long-shadow-city/",
-        "description": "Glasgow's equal pay dispute has already cost hundreds of millions of pounds. Marissa MacWhirter examines why the financial legacy continues to affect Scotland's largest city.",
-        "published": "Thu, 20 Aug 2026 10:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/17142593/?type=app&htype=0"
-      },
-      {
         "id": "cc1e3da31e6409a2c38b9ef3d8f45480",
         "title": "Turner Prize winner to display work at GOMA as gallery marks 30th anniversary",
         "link": "https://www.glasgowtimes.co.uk/news/26480130.turner-prize-winner-display-work-glasgows-goma/",
         "description": "Duncan Campbell\u2019s work, titled A New No, will be on display at Glasgow\u2019s Gallery of Modern Art (GoMA) as part of the venue\u2019s 30th anniversary programme.",
         "published": "Thu, 20 Aug 2026 09:39:28 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21345197/?type=app&htype=0"
-      },
-      {
-        "id": "6b0afd5f44b691783ff7b15681a53240",
-        "title": "LIVE updates as unions to protest over equal pay plan",
-        "link": "https://www.glasgowtimes.co.uk/news/26480129.live-updates-unions-protest-glasgow-equal-pay-plan/",
-        "description": "Union leaders are mounting a last-ditch bid to stop Glasgow City Council's controversial new pay and grading deal, warning it could leave thousands of workers worse off and spark future equal pay claims. Councillors are due to vote on the \u00a3235 million package today as unions stage a protest outside the City Chambers, arguing the proposals fail to deliver a fair outcome for staff despite eight years of negotiations.",
-        "published": "Thu, 20 Aug 2026 09:39:25 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21345186/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/tragedy-celtic-fan-dies-after-34487559",
@@ -1394,14 +1434,6 @@
         "description": "Works have cleared at the junction of Maryhill Road and Bilsland Drive but will progress west bound down the former, all the way up to its junction with Garrioch Road.",
         "published": "Wed, 19 Aug 2026 13:28:57 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19036953/?type=app&htype=0"
-      },
-      {
-        "id": "ad749a265853206a163d77d0f3d16a0c",
-        "title": "Parents 'not rushing to move near state schools' after VAT hike on private fees",
-        "link": "https://www.heraldscotland.com/news/26478026.edinburgh-parents-not-moving-near-state-schools-vat-hike/",
-        "description": "Experts expected an impact on the property market, but here's what really happened",
-        "published": "Wed, 19 Aug 2026 13:21:55 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/17840456/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
