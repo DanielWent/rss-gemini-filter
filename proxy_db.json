@@ -636,6 +636,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "dfbf9c0a3564788cbe130bb98f3b021d",
+        "title": "Court hears Graeme Dott abused boy after world title win and gave him \u00a350 note after",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26481221.graeme-dott-accuser-claims-abuse-began-snooker-title-win/",
+        "description": "A court heard claims that former world snooker champion Graeme Dott abused a boy after his 2006 title victory.",
+        "published": "Thu, 20 Aug 2026 12:51:44 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18894947/?type=app&htype=0"
+      },
+      {
+        "id": "791d36849cd1d415cb51d31e72b2ae35",
+        "title": "New outdoor attraction taking shape in Airdrie after \u00a3186,000 investment",
+        "link": "https://www.glasgowtimes.co.uk/news/26481142.airdrie-leisure-centre-get-new-186-000-pump-track/",
+        "description": "A new pump track is taking shape in Airdrie as part of a \u00a3186,000 investment.",
+        "published": "Thu, 20 Aug 2026 12:38:08 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21348037/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/case-bse-confirmed-scotland-restrictions-34489771",
         "title": "Case of BSE confirmed in Scotland with restrictions now in force",
         "link": "https://www.glasgowlive.co.uk/news/case-bse-confirmed-scotland-restrictions-34489771",
@@ -1418,22 +1434,6 @@
         "description": "The United States Air\u00a0National Guard\u00a0are set to appear at The International Ayr Show\u00a0- Festival of Flight next month.",
         "published": "Wed, 19 Aug 2026 10:16:22 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20856941/?type=app&htype=0"
-      },
-      {
-        "id": "f393bd580d6024de974fbc508a721110",
-        "title": "Gregor Fisher reveals BBC chiefs have pulled the plug on sitcom Only Child",
-        "link": "https://www.heraldscotland.com/news/26476634.i-couldnt-believe-it-gregor-fisher-reveals-bbc-axed-child/",
-        "description": "Actor says he was told of the cancellation minutes just before he was about to go on stage at the Fringe.",
-        "published": "Wed, 19 Aug 2026 09:35:37 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/18791947/?type=app&htype=0"
-      },
-      {
-        "id": "8928736",
-        "title": "Celtic in 'advanced negotiations' over next summer transfer as they're set to raid former Hoops boss for star",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-advanced-negotiations-next-summer-transfer-raid-former-hoops-boss-8928736",
-        "description": "<p>Celtic are looking for a new goalkeeper in the summer transfer window.</p>",
-        "published": "Wed, 19 Aug 2026 08:00:22 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/19/7/36/GettyImages-2267692568.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
