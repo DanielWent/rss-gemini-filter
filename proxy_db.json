@@ -716,6 +716,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-glasgow-bus-service-edinburgh-34500213",
+        "title": "New Glasgow bus service to Edinburgh Airport to run through the night",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/new-glasgow-bus-service-edinburgh-34500213",
+        "description": "The new Ember service will run buses every 20 minutes.",
+        "published": "Fri, 21 Aug 2026 20:51:21 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34500206.ece/ALTERNATES/s98/0_Screenshot-2026-08-21-at-214110.png"
+      },
+      {
         "id": "8935213",
         "title": "Rangers set three transfer objectives ahead of window shutting as 'big question mark' hovers over Ibrox",
         "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-set-three-transfer-objectives-ahead-of-window-shutting-as-big-question-mark-hovers-over-ibrox-8935213",
