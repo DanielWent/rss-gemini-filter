@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1787318718566303",
+        "title": "Stormy autumn, cold winter - how might El Ni\u00f1o affect the UK weather?",
+        "link": "https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo?at_medium=RSS&at_campaign=rss",
+        "description": "This year's El Ni\u00f1o is expected to be the strongest in living memory and could lead to a range of impacts of the UK - including a stormy autumn.",
+        "published": "Fri, 21 Aug 2026 15:02:13 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38f5/live/f8c01c40-9d45-11f1-a137-179a8d1c790b.jpg"
+      },
+      {
         "id": "1787300716526988",
         "title": "Olympian Simpson will never run again after cardiac arrest",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/cy8e6jjwnp8o?at_medium=RSS&at_campaign=rss",
@@ -707,6 +715,54 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "19eb503177d6e7d1d175d58a1a11f98e",
+        "title": "Glasgow residents encouraged to help shape future of fire and rescue services",
+        "link": "https://www.glasgowtimes.co.uk/news/26485229.glasgow-residents-urged-help-shape-fire-rescue-plan/",
+        "description": "Scottish Fire and Rescue Service launches public consultation on Glasgow\u2019s draft Local Fire and Rescue Plan.",
+        "published": "Fri, 21 Aug 2026 14:37:36 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/12020181/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=526080",
+        "title": "Did you catch a glimpse of the pink rainbow in the skies above Glasgow?",
+        "link": "https://news.stv.tv/west-central/did-you-catch-a-glimpse-of-the-pink-rainbow-in-the-skies-above-glasgow",
+        "description": "The rose-coloured rainbow was spotted on Thursday evening",
+        "published": "Fri, 21 Aug 2026 13:20:07 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/4606a66faa7d5e831bb6b8441b694bf8-1787313595-1280x720.jpeg"
+      },
+      {
+        "id": "87778d277b28a7f513d66a93fc88d451",
+        "title": "Glasgow college announces Batman course as city goes mad for ongoing movie shoot",
+        "link": "https://www.glasgowtimes.co.uk/news/26485001.glasgow-college-announces-history-batman-course/",
+        "description": "The college has announced the comeback of its \u201cHistory of Batman\u201d class just as filming begins for The Batman: Part 2,",
+        "published": "Fri, 21 Aug 2026 13:56:51 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21355177/?type=app&htype=0"
+      },
+      {
+        "id": "951b3ff3dba23f5911fcd02b8020305a",
+        "title": "Europe's largest indoor funfair returns with tickets on sale next week",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26484908.tickets-go-sale-next-week-glasgows-irn-bru-carnival/",
+        "description": "Europe's largest indoor funfair will return to Glasgow this festive season, with tickets going on sale next week.",
+        "published": "Fri, 21 Aug 2026 13:37:27 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21355262/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c79g2vl09x0o#0",
+        "title": "Scotland's NHS is putting reputation before patient safety - officials",
+        "link": "https://www.bbc.co.uk/news/articles/c79g2vl09x0o?at_medium=RSS&at_campaign=rss",
+        "description": "Senior health officials say there is a \"culture of cover-up\" and problems with patients' concerns being ignored in the NHS.",
+        "published": "Fri, 21 Aug 2026 11:51:03 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c8d/live/0013b780-9d51-11f1-aac2-870643eea2ac.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=526035",
+        "title": "Man \u2018possessed by Aleister Crowley\u2019 who stabbed step-mum\u2019s ex 22 times jailed for at least 23 years",
+        "link": "https://news.stv.tv/west-central/man-possessed-by-aleister-crowley-who-stabbed-step-mums-ex-22-times-jailed-for-at-least-23-years",
+        "description": "Gabriel Brown chopped off Joseph Johnston's finger and ate it before setting his home on fire",
+        "published": "Fri, 21 Aug 2026 11:01:57 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/07/6ff47afa5dc7daa42cc705a03fca8a9b-1784036961-1120x720.jpg"
+      },
       {
         "id": "5f5aa04657dbc20b9e2f6f56938d7158",
         "title": "Two Rangers fans banned from all UK football grounds after Old Firm 'mayhem'",
