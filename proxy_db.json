@@ -716,6 +716,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c3r0gzn2lj2o#0",
+        "title": "Ice hockey games to be held at OVO Hydro in Glasgow",
+        "link": "https://www.bbc.co.uk/news/articles/c3r0gzn2lj2o?at_medium=RSS&at_campaign=rss",
+        "description": "Organisers say the move is to help grow the game, with the local Glasgow Clan team regularly selling out fixtures at the Braehead Arena.",
+        "published": "Fri, 21 Aug 2026 21:59:21 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd01/live/d954a490-9d7a-11f1-8bc3-150f4c5f088b.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cvgv283gejdo#0",
+        "title": "Why is a replica Spanish galleon in the west of Scotland?",
+        "link": "https://www.bbc.co.uk/news/articles/cvgv283gejdo?at_medium=RSS&at_campaign=rss",
+        "description": "The tall ship Gale\u00f3n Andaluc\u00eda is described as a floating museum by crew members.",
+        "published": "Fri, 21 Aug 2026 21:59:12 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81b1/live/a5e416d0-9d71-11f1-bdcc-8926c4a74c43.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-glasgow-bus-service-edinburgh-34500213",
         "title": "New Glasgow bus service to Edinburgh Airport to run through the night",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/new-glasgow-bus-service-edinburgh-34500213",
