@@ -676,6 +676,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8933259",
+        "title": "Celtic secure 'real coup' in transfer agreement with Chelsea over talent Xabi Alonso and Enzo Maresca admire",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-secure-real-coup-transfer-agreement-chelsea-xabi-alonso-8933259",
+        "description": "<p>Celtic are set to secure a transfer deal with Chelsea for a highly-rated talent.</p>",
+        "published": "Fri, 21 Aug 2026 08:00:30 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/14/14/43/GettyImages-2259751585.jpg?width=1200&auto=webp&trim=18%2C0%2C18%2C0"
+      },
+      {
         "id": "8933451",
         "title": "Rangers transfer prediction made after Conference League win as 'high level player' objective set",
         "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-transfer-prediction-made-conference-league-win-8933451",
@@ -692,12 +700,36 @@
         "image_url": "https://runabc.co.uk/images/2026/08/perth-runfest-2027-963679.jpg"
       },
       {
+        "id": "9a366f60f4600acc62cbd32cb3c46152",
+        "title": "Passengers warned as signalling fault leads to disruption on busy commuter route",
+        "link": "https://www.heraldscotland.com/news/26483263.glasgow-trains-edinburgh-disrupted-motherwell-signalling-fault/",
+        "description": "Network Rail engineers are at the scene",
+        "published": "Fri, 21 Aug 2026 07:06:57 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/16324663/?type=app&htype=0"
+      },
+      {
         "id": "db584042e189ed6c2d2f5a2b3cf1f157",
         "title": "New 24/7 bus from Glasgow to Edinburgh Airport will slash travellers' fares in half",
         "link": "https://www.glasgowtimes.co.uk/news/26483261.new-bus-glasgow-edinburgh-airport-announced/",
         "description": "Ember have announced that they will launch their new E20 service from Buchanan Bus Station to Edinburgh Airport on September 2.",
         "published": "Fri, 21 Aug 2026 07:05:32 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21035647/?type=app&htype=0"
+      },
+      {
+        "id": "10b865c2f65a505d00f860880a5e59a2",
+        "title": "Council refuses to name tax-avoiding firms trading on capital's retail streets",
+        "link": "https://www.heraldscotland.com/news/26481560.council-refuses-name-tax-avoiding-businesses-edinburgh/",
+        "description": "The Herald asked the council to specify whether or not businesses on Princes Street, George Street and the Mile had paid rates over the last two years.",
+        "published": "Fri, 21 Aug 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19535188/?type=app&htype=0"
+      },
+      {
+        "id": "a16cc2e66760c284316213d7cb57e37e",
+        "title": "'Nicola Sturgeon is wrong: Scotland\u2019s public services are failing'",
+        "link": "https://www.heraldscotland.com/politics/holyrood/26481605.uncomfortable-truth-scotlands-schools-nhs-transport/",
+        "description": "When Nicola Sturgeon said that not everything in Scotland is sh*t, she was literally correct. But Andy Maciver argues that the data doesn\u2019t lie and, when it comes to education, health, transport and a range of other basic public services, we are woefully underperforming.",
+        "published": "Fri, 21 Aug 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20935062/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-quizzed-over-renting-34492046",
@@ -708,12 +740,44 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article27066750.ece/ALTERNATES/s98/3_wind-turbine.jpg"
       },
       {
+        "id": "https://www.bbc.co.uk/news/articles/ckgdpdk84d0o#0",
+        "title": "The town whose council wants migrants to move in",
+        "link": "https://www.bbc.co.uk/news/articles/ckgdpdk84d0o?at_medium=RSS&at_campaign=rss",
+        "description": "Greenock wants to attract immigrants to settle in the town and reverse its declining population.",
+        "published": "Fri, 21 Aug 2026 05:00:02 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/305b/live/510d0290-9cca-11f1-b109-879e35c24276.jpg"
+      },
+      {
         "id": "cd20c5751638081fbff62a66e6532d7a",
         "title": "Pupils and teachers return to Milngavie school as year-long refurbishment ends",
         "link": "https://www.glasgowtimes.co.uk/news/26481515.milngavie-primary-pupils-teachers-return-year-long-refit/",
         "description": "An East Dunbartonshire primary school has finally re-opened following a multi-million pound refurbishment.",
         "published": "Fri, 21 Aug 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21349268/?type=app&htype=0"
+      },
+      {
+        "id": "208a729a0837c80d98c7463f3b441923",
+        "title": "'We're not skivers': Civil servants weigh in on remote working and 'quiet' offices",
+        "link": "https://www.heraldscotland.com/news/26482750.scots-civil-servants-dont-call-us-skivers-home-working/",
+        "description": "Civil servants have told The Herald it is unfair to call them skivers for choosing to work from home.",
+        "published": "Fri, 21 Aug 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20555113/?type=app&htype=0"
+      },
+      {
+        "id": "25b165bf839763c7724011f79240ec79",
+        "title": "Historic Scottish landmark surveyor acquires fellow long-standing company",
+        "link": "https://www.heraldscotland.com/news/26482621.historic-scottish-company-acquires-fellow-long-standing-firm/",
+        "description": "A historic Scottish surveyor has acquired another long-standing company.",
+        "published": "Fri, 21 Aug 2026 04:42:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21351551/?type=app&htype=0"
+      },
+      {
+        "id": "32e958e4f7ea7f445c4c8517dc289a72",
+        "title": "Why news on Scottish shipyard is so sad",
+        "link": "https://www.heraldscotland.com/business_hq/26483037.port-glasgow-shipyard-ferguson-marine-jobs-loss-news-sad/",
+        "description": "The news on the Scottish shipyard, which has had noisy detractors, is very sad",
+        "published": "Fri, 21 Aug 2026 04:40:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21352311/?type=app&htype=0"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/ckgd5xpmk77o#0",
@@ -754,14 +818,6 @@
         "description": "The piece was among dozens of unique items of memorabilia from the games that were snapped up by collectors.",
         "published": "Thu, 20 Aug 2026 17:29:55 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34472615.ece/ALTERNATES/s98/1_1100510465jpeg.jpg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=525962",
-        "title": "24/7 bus route between Glasgow and Edinburgh Airport announced",
-        "link": "https://news.stv.tv/west-central/24-7-bus-route-between-glasgow-and-edinburgh-airport-announced",
-        "description": "The service will operate between Buchanan Bus Station and the airport",
-        "published": "Thu, 20 Aug 2026 17:19:48 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/e87a82b39ea38a74661390de1984e755-1787240854-e1787240881238-1119x720.jpg"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/cddj88eyejro#0",
@@ -1356,14 +1412,6 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2021/09/9ee77606a050a1228ac916a03d9c7636-1078x720.jpg"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/ce3qxjllnk1o#0",
-        "title": "Architecture contest launched to redesign fire-damaged buildings",
-        "link": "https://www.bbc.co.uk/news/articles/ce3qxjllnk1o?at_medium=RSS&at_campaign=rss",
-        "description": "Two B-listed tenement buildings were destroyed in Pollokshields in November 2019 and April 2020.",
-        "published": "Wed, 19 Aug 2026 16:04:44 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7e3/live/a1957670-c3d6-11f0-ae46-bd64331f0fd4.jpg"
-      },
-      {
         "id": "8930184",
         "title": "Rangers transfer 'priority' made clear as two positions targeted in areas that carry 'the biggest price tag'",
         "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-transfer-priority-made-clear-two-positions-targeted-8930184",
@@ -1426,54 +1474,6 @@
         "description": "GlasGLOW is recruiting 100 zombie handlers for its new Zombie Zoo experience at Glasgow Botanic Gardens this Halloween.",
         "published": "Wed, 19 Aug 2026 15:45:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21342688/?type=app&htype=0"
-      },
-      {
-        "id": "d23fa7fdf337762961c1915421f401c9",
-        "title": "Dozens of new energy-efficient homes handed over at North Lanarkshire development",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26478718.royale-meadows-welcomes-26-new-homes-muirhead-north-lanarkshire/",
-        "description": "Persimmon Homes has handed over 44 new homes at Royale Meadows in Muirhead to Sanctuary Scotland.",
-        "published": "Wed, 19 Aug 2026 15:30:11 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21342754/?type=app&htype=0"
-      },
-      {
-        "id": "7da49b2305257076efddea7aa386f9e3",
-        "title": "Minister backs calls for better support for people with cerebral palsy",
-        "link": "https://www.glasgowtimes.co.uk/news/26478643.minister-community-care-visited-cerebral-palsy-scotland/",
-        "description": "Alison Thewliss, Minister for Community Care has backed calls to improve specialist support for people with cerebral palsy.",
-        "published": "Wed, 19 Aug 2026 15:16:43 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21342495/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/iro-sushi-set-open-first-34484220",
-        "title": "IRO Sushi set to open first Scottish restaurant in Glasgow",
-        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/iro-sushi-set-open-first-34484220",
-        "description": "The brand, which was founded by sushi chef Chhong Sherpa in London and has 35 locations across the UK, will open its first Scottish site on Sauchiehall Street.",
-        "published": "Wed, 19 Aug 2026 14:04:04 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34484204.ece/ALTERNATES/s98/0_Screenshot-2026-08-19-at-21610PM.png"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/plans-build-1000-homes-glasgow-34484256",
-        "title": "Plans to build 1,000 homes on Glasgow wasteland empty for three decades",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/plans-build-1000-homes-glasgow-34484256",
-        "description": "The housing would be funded by an investment partnership, costing \u00a3270 million.",
-        "published": "Wed, 19 Aug 2026 13:58:38 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34484218.ece/ALTERNATES/s98/0_cowlairsland.png"
-      },
-      {
-        "id": "f41c0492d6534f240a34d511fb99a10e",
-        "title": "Pioneers of the alt-country movement set to perform in Glasgow this autumn",
-        "link": "https://www.glasgowtimes.co.uk/news/26478504.long-ryders-perform-glasgows-drygate-october/",
-        "description": "American pioneers of the alt-country movement are set to perform in Glasgow this autumn.",
-        "published": "Wed, 19 Aug 2026 14:55:06 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21342278/?type=app&htype=0"
-      },
-      {
-        "id": "308bb5d771feb96a2de56151ef758e8e",
-        "title": "\u00a311m Glasgow innovation hub launched to support high-growth technology businesses",
-        "link": "https://www.heraldscotland.com/news/26478329.11m-glasgow-innovation-hub-set-create-workspace/",
-        "description": "A new \u00a311 million innovation hub in Dalmarnock is set to provide up to 45,000 sq ft of workspace for high-growth businesses.",
-        "published": "Wed, 19 Aug 2026 14:38:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21342134/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
