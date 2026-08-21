@@ -716,6 +716,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/empty-historic-cottage-glasgow-park-34497192",
+        "title": "Empty historic cottage in Glasgow park set for demolition as it 'cannot be saved'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/empty-historic-cottage-glasgow-park-34497192",
+        "description": "The quaint council owned cottage in Pollok Park has been empty for about 15 years and questions were previously raised about bringing it back into use due to its \u201cprime\u201d location.",
+        "published": "Fri, 21 Aug 2026 14:15:16 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article32511497.ece/ALTERNATES/s98/0_132DumbreckRoad.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/scottish-government-urged-stop-stalling-34497707",
+        "title": "Scottish Government urged to 'stop stalling' on \u00a32 Glasgow bus fare cap trial",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/scottish-government-urged-stop-stalling-34497707",
+        "description": "The SNP pledged to include Glasgow and surrounding areas in the cap in its first 100 days in office, and the whole country by 2031.",
+        "published": "Fri, 21 Aug 2026 14:02:01 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33343506.ece/ALTERNATES/s98/0_JS249498430.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/graeme-dott-subjected-young-children-34497652",
+        "title": "Graeme Dott 'subjected young children to the worst kind of abuse', court told",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/graeme-dott-subjected-young-children-34497652",
+        "description": "The 49-year-old former snooker world champion is accused of lewd, indecent and libidinous behaviour towards two primary school age children.",
+        "published": "Fri, 21 Aug 2026 13:55:25 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34497617.ece/ALTERNATES/s98/0_Screenshot-2026-08-21-at-141515.png"
+      },
+      {
         "id": "19eb503177d6e7d1d175d58a1a11f98e",
         "title": "Glasgow residents encouraged to help shape future of fire and rescue services",
         "link": "https://www.glasgowtimes.co.uk/news/26485229.glasgow-residents-urged-help-shape-fire-rescue-plan/",
@@ -730,6 +754,14 @@
         "description": "The rose-coloured rainbow was spotted on Thursday evening",
         "published": "Fri, 21 Aug 2026 13:20:07 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/4606a66faa7d5e831bb6b8441b694bf8-1787313595-1280x720.jpeg"
+      },
+      {
+        "id": "a852066ece4908634564c471114d01c4",
+        "title": "Glasgow recruits first night manager to help transform city's after-dark economy",
+        "link": "https://www.heraldscotland.com/news/26485039.glasgow-seeks-first-night-manager-boost-nightlife-economy/",
+        "description": "Glasgow City Council is recruiting Scotland\u2019s first Night-Time Economy Manager to support businesses and help strengthen the city\u2019s nightlife sector.",
+        "published": "Fri, 21 Aug 2026 14:15:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21355130/?type=app&htype=0"
       },
       {
         "id": "87778d277b28a7f513d66a93fc88d451",
@@ -748,12 +780,28 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21355262/?type=app&htype=0"
       },
       {
+        "id": "5fc636a83f05ea976d3ed015d697896b",
+        "title": "This area of Glasgow needs a secondary school says councillor",
+        "link": "https://www.glasgowtimes.co.uk/news/26484846.glasgow-area-needs-secondary-school-says-councillor/",
+        "description": "An area of Glasgow that is now seeing an increase in housebuilding needs to have a new secondary school, according to a local councillor.",
+        "published": "Fri, 21 Aug 2026 13:22:33 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/7151092/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c79g2vl09x0o#0",
         "title": "Scotland's NHS is putting reputation before patient safety - officials",
         "link": "https://www.bbc.co.uk/news/articles/c79g2vl09x0o?at_medium=RSS&at_campaign=rss",
         "description": "Senior health officials say there is a \"culture of cover-up\" and problems with patients' concerns being ignored in the NHS.",
         "published": "Fri, 21 Aug 2026 11:51:03 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c8d/live/0013b780-9d51-11f1-aac2-870643eea2ac.jpg"
+      },
+      {
+        "id": "0567f0fa48c293e6145ab7277280423e",
+        "title": "\u2018Gotham\u2019s got better buses than Glasgow\u2019: Batman set prop prompts transport debate",
+        "link": "https://www.heraldscotland.com/news/26484535.batman-filming-glasgow-set-prop-prompts-transport-debate/",
+        "description": "A Batman prop spotted during filming in Glasgow has prompted a tongue-in-cheek comparison between the city\u2019s bus services and those of fictional Gotham",
+        "published": "Fri, 21 Aug 2026 12:18:37 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21354523/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=526035",
