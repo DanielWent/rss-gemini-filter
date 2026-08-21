@@ -716,6 +716,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8934993",
+        "title": "Clyde Walkway improvements completed",
+        "link": "https://www.glasgowworld.com/news/clyde-walkway-improvements-completed-8934993",
+        "description": "<p>Improvement works have been completed on the Clyde Walkway between Mauldslie Bridge and Crossford.  </p>",
+        "published": "Fri, 21 Aug 2026 14:45:59 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/21/14/38/SLV_mauldslie_section.jpeg?width=1200&auto=webp&trim=0%2C59%2C0%2C58"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/empty-historic-cottage-glasgow-park-34497192",
         "title": "Empty historic cottage in Glasgow park set for demolition as it 'cannot be saved'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/empty-historic-cottage-glasgow-park-34497192",
@@ -730,6 +738,14 @@
         "description": "The SNP pledged to include Glasgow and surrounding areas in the cap in its first 100 days in office, and the whole country by 2031.",
         "published": "Fri, 21 Aug 2026 14:02:01 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33343506.ece/ALTERNATES/s98/0_JS249498430.jpg"
+      },
+      {
+        "id": "ba62e781781ae1f271bef7a723a13462",
+        "title": "Emergency services flood to Glasgow property after reports of 'men with weapons'",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26485401.police-investigate-reports-men-weapons-curzon-street/",
+        "description": "Police are investigating after reports of men with weapons at a property in Glasgow.",
+        "published": "Fri, 21 Aug 2026 15:00:55 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16562345/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/graeme-dott-subjected-young-children-34497652",
