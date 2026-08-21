@@ -684,6 +684,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "7545e96c93979142ab4ad5a88c9a2ac6",
+        "title": "Young boy rushed to hospital after being struck by car near Glasgow school",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26483813.school-boy-struck-car-crookston-road-near-rosshall-academy/",
+        "description": "A male youth has been taken to hospital after being struck by a car near a Glasgow school.",
+        "published": "Fri, 21 Aug 2026 10:14:20 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18555865/?type=app&htype=0"
+      },
+      {
+        "id": "8a10e15d1bfc32719795feab97ef3488",
+        "title": "Man waiting on bus hit over the head with Buckfast bottle in unprovoked attack",
+        "link": "https://www.glasgowtimes.co.uk/news/26483797.man-waiting-bus-hit-head-buckfast-bottle-glasgow/",
+        "description": "A thug who left a man scarred for life and was caught after his DNA was found on a Buckfast bottle has been jailed for 28 months.",
+        "published": "Fri, 21 Aug 2026 10:12:18 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17948749/?type=app&htype=0"
+      },
+      {
         "id": "e6938007651a031a095ac09c5dae0d42",
         "title": "New Glasgow trail spotlights 15 businesses committed to fair pay",
         "link": "https://www.glasgowtimes.co.uk/news/26483565.new-glasgow-living-wage-trail-spotlight-15-businesses/",
@@ -722,6 +738,14 @@
         "description": "<p>Celtic are set to secure a transfer deal with Chelsea for a highly-rated talent.</p>",
         "published": "Fri, 21 Aug 2026 08:00:30 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/14/14/43/GettyImages-2259751585.jpg?width=1200&auto=webp&trim=18%2C0%2C18%2C0"
+      },
+      {
+        "id": "ff5a9ef6d01f787eec3d035b4a316bef",
+        "title": "Glasgow's Gotham makeover ramps up as The Batman: Part II filming continues",
+        "link": "https://www.heraldscotland.com/news/26483348.batman-part-ii-fresh-scenes-shot-glasgow/",
+        "description": "Part of Glasgow's city centre has been transformed into the fictional Gotham City for filming of The Batman: Part II.",
+        "published": "Fri, 21 Aug 2026 08:22:24 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21352733/?type=app&htype=0"
       },
       {
         "id": "1ce142e4c597237ad48f72cd33136629",
@@ -1458,30 +1482,6 @@
         "description": "The incident happened at a premises on Alloway Road on Monday",
         "published": "Wed, 19 Aug 2026 16:09:51 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2021/09/9ee77606a050a1228ac916a03d9c7636-1078x720.jpg"
-      },
-      {
-        "id": "8930184",
-        "title": "Rangers transfer 'priority' made clear as two positions targeted in areas that carry 'the biggest price tag'",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-transfer-priority-made-clear-two-positions-targeted-8930184",
-        "description": "<p>Rangers are looking to make transfer moves in forward areas before the end of the window.</p>",
-        "published": "Wed, 19 Aug 2026 16:00:15 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/19/14/23/GettyImages-2290772139.jpg?width=1200&auto=webp&trim=47%2C97%2C561%2C96"
-      },
-      {
-        "id": "784c8610dcca8b2a0b70e76a0dae3401",
-        "title": "Question raised on how council deal with compliants of damp and mould in homes",
-        "link": "https://www.glasgowtimes.co.uk/news/26479288.questions-raised-council-will-implement-awaabs-law/",
-        "description": "Questions on how the city council will implement Awaab\u2019s law to ensure complaints of damp and mouldy properties are dealt with have been raised by a local councillor",
-        "published": "Wed, 19 Aug 2026 16:58:23 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20082863/?type=app&htype=0"
-      },
-      {
-        "id": "04e10666e22e505f4516f5dd8da23703",
-        "title": "Edinburgh book festival boss urges visitor levy rethink over proposed \u00a32500 share",
-        "link": "https://www.heraldscotland.com/news/26479279.edinburgh-book-festival-urges-tourist-tax-rethink-2500-share/",
-        "description": "Director Jenny Niven said the event has been hit with a \u00a310,000 increase in its accommodation costs as a result of the new charge.",
-        "published": "Wed, 19 Aug 2026 16:57:31 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21258985/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
