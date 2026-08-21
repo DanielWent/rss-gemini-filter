@@ -700,6 +700,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8934071",
+        "title": "Rangers projected Conference League opponents as Derek McInnes and co to become big dogs if Jablonec defeated",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-projected-conference-league-opponents-as-derek-mcinnes-and-co-to-become-big-dogs-if-jablonec-defeated-8934071",
+        "description": "<p>Light Blues are one game away from first appearance in the league phase of the competition</p>",
+        "published": "Fri, 21 Aug 2026 11:22:13 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/21/11/25/GettyImages-2278476878.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "69f97d65760ed12e17845cbae5b8e66b",
+        "title": "Glasgow City Region to develop detailed devolution proposal after securing \u00a350m",
+        "link": "https://www.glasgowtimes.co.uk/news/26484545.glasgow-city-region-pushed-greater-devolved-powers/",
+        "description": "A Glasgow City Region partnership is pushing for greater devolved powers and funding to boost economic growt.",
+        "published": "Fri, 21 Aug 2026 12:21:04 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21354444/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=526053",
+        "title": "\u2018Men with weapons\u2019 target Glasgow home in latest \u2018gang war\u2019 attack",
+        "link": "https://news.stv.tv/west-central/men-with-weapons-target-glasgow-home-in-latest-gang-war-attack",
+        "description": "Emergency services were called to Curzon Street at around 8.35am after reports of a group of men with weapons at a property.",
+        "published": "Fri, 21 Aug 2026 11:12:46 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/a2b281fb14bb3857eb19c997505cd447-1787308334.jpg"
+      },
+      {
+        "id": "5f5aa04657dbc20b9e2f6f56938d7158",
+        "title": "Two Rangers fans banned from all UK football grounds after Old Firm 'mayhem'",
+        "link": "https://www.glasgowtimes.co.uk/news/26484441.rangers-fans-banned-uk-grounds-old-firm-chaos/",
+        "description": "The men were handed the bans for their involvement in disorder during the Scottish Cup quarter-final between Rangers and Celtic at Ibrox Stadium in March.",
+        "published": "Fri, 21 Aug 2026 12:01:27 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21354335/?type=app&htype=0"
+      },
+      {
         "id": "8933852",
         "title": "Exciting Celtic claim over Jota's injury return spills onto airwaves as possible transfer list emerges",
         "link": "https://www.glasgowworld.com/sport/football/celtic/exciting-celtic-claim-over-jotas-injury-return-spills-onto-airwaves-as-possible-transfer-shopping-list-emerges-8933852",
@@ -1466,38 +1498,6 @@
         "description": "Outgoing BMA Scotland chair Dr Iain Kennedy says NHS boards put reputation management ahead of patient safety and warns whistleblowers still face bullying.",
         "published": "Thu, 20 Aug 2026 05:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/16891310/?type=app&htype=0"
-      },
-      {
-        "id": "79f6aa8d7a7cafaeca25185617b751cc",
-        "title": "Major artificial intelligence impacts revealed by Scottish businesses",
-        "link": "https://www.heraldscotland.com/news/26478499.scottish-businesses-reveal-major-artificial-intelligence-effects/",
-        "description": "Major effects from artificial intelligence have been revealed by Scottish businesses",
-        "published": "Thu, 20 Aug 2026 04:40:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21342372/?type=app&htype=0"
-      },
-      {
-        "id": "10a56ce2d5bf554e569490b1b32e8dae",
-        "title": "'Continuity Starmerism': Scottish Labour leadership rivals clash in fiery TV debate",
-        "link": "https://www.heraldscotland.com/news/26479670.scottish-labour-leadership-rivals-clash-fiery-tv-debate/",
-        "description": "Scottish Labour leadership candidates Michael Marra and Joe Fagan faced off in a fiery STV debate.",
-        "published": "Wed, 19 Aug 2026 22:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21344497/?type=app&htype=504"
-      },
-      {
-        "id": "8930766",
-        "title": "Celtic player ratings vs LASK as new signing lights up Champions League clash, 8/10 aces and recruits assessed",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-player-ratings-vs-lask-new-signing-lights-up-champions-league-clash-8930766",
-        "description": "<p>Here\u2019s how our Celtic player ratings vs LASK in their Champions League play-off first leg.</p>",
-        "published": "Wed, 19 Aug 2026 20:51:40 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/19/20/38/GettyImages-2291183808.jpg?width=1200&auto=webp&trim=18%2C0%2C19%2C0"
-      },
-      {
-        "id": "ad6b4af857306ead7c46898e6461cffc",
-        "title": "First Minister and officials rack up \u00a398,000 bill watching Scotland at the World Cup",
-        "link": "https://www.heraldscotland.com/news/26479660.john-swinney-world-cup-trip-cost-taxpayers-98-442/",
-        "description": "John Swinney's trip to watch Scotland at the World Cup in the United States has left taxpayers with a bill of \u00a398,442.",
-        "published": "Wed, 19 Aug 2026 21:10:32 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21038136/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
