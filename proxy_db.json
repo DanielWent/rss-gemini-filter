@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1787300716526988",
+        "title": "Olympian Simpson will never run again after cardiac arrest",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cy8e6jjwnp8o?at_medium=RSS&at_campaign=rss",
+        "description": "Olympic 1500m medallist Jenny Simpson says a \"chapter has ended\" and she will not return to running after having a cardiac arrest.",
+        "published": "Fri, 21 Aug 2026 10:07:12 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5928/live/3cd29550-9d34-11f1-bc05-aff3aa1f91c7.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo#3",
         "title": "Panama Canal to cut number of ships passing through due to El Ni\u00f1o",
         "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
@@ -676,12 +684,52 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "e6938007651a031a095ac09c5dae0d42",
+        "title": "New Glasgow trail spotlights 15 businesses committed to fair pay",
+        "link": "https://www.glasgowtimes.co.uk/news/26483565.new-glasgow-living-wage-trail-spotlight-15-businesses/",
+        "description": "A new city trail has been launched in Glasgow to spotlight businesses that support fair pay.",
+        "published": "Fri, 21 Aug 2026 09:32:54 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17916409/?type=app&htype=0"
+      },
+      {
+        "id": "13134666e85b60aa03463f24752026e5",
+        "title": "Rush hour delays in Glasgow as horror crash flips car on its side",
+        "link": "https://www.glasgowtimes.co.uk/news/26483427.cathcart-car-crash-sees-glasgow-road-slowed-rush-hour/",
+        "description": "The collision happened earlier this morning on Clarkston Road in the Cathcart area, with little known as to what caused it.",
+        "published": "Fri, 21 Aug 2026 09:02:11 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21352803/?type=app&htype=0"
+      },
+      {
+        "id": "8933516",
+        "title": "Rangers 'closing in' on \u00a38.5m transfer deal as Ibrox club spend big to bolster attacking firepower",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-closing-in-transfer-deal-ibrox-spend-big-bolster-attacking-firepower-8933516",
+        "description": "<p>Rangers have been keen to make additions in attacking areas in the latter part of this transfer window.</p>",
+        "published": "Fri, 21 Aug 2026 08:00:57 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/21/7/46/GettyImages-2291319836.jpg?width=1200&auto=webp&trim=18%2C0%2C18%2C0"
+      },
+      {
+        "id": "8a2576f9b166835c67c80dec809b7aa9",
+        "title": "Redundancy fears grow at BBC Scotland as savings plans unveiled",
+        "link": "https://www.glasgowtimes.co.uk/news/26483425.bbc-scotland-tv-channel-could-axed-amid-imminent-job-cuts/",
+        "description": "THE BBC Scotland TV channel could be axed amid \u201csevere cuts\u201d at the broadcaster, reports say ...",
+        "published": "Fri, 21 Aug 2026 09:00:54 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20356877/?type=app&htype=0"
+      },
+      {
         "id": "8933259",
         "title": "Celtic secure 'real coup' in transfer agreement with Chelsea over talent Xabi Alonso and Enzo Maresca admire",
         "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-secure-real-coup-transfer-agreement-chelsea-xabi-alonso-8933259",
         "description": "<p>Celtic are set to secure a transfer deal with Chelsea for a highly-rated talent.</p>",
         "published": "Fri, 21 Aug 2026 08:00:30 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/14/14/43/GettyImages-2259751585.jpg?width=1200&auto=webp&trim=18%2C0%2C18%2C0"
+      },
+      {
+        "id": "1ce142e4c597237ad48f72cd33136629",
+        "title": "M8 users warned as traffic expected for beginning of massive summer concerts",
+        "link": "https://www.glasgowtimes.co.uk/news/26483329.m8-traffic-expected-edinburgh-summer-sessions-begin/",
+        "description": "Drivers who use the M8 are being warned of traffic which is expected to build up as one of Scotland's biggest music events.",
+        "published": "Fri, 21 Aug 2026 08:05:39 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20451532/?type=app&htype=0"
       },
       {
         "id": "8933451",
@@ -1434,46 +1482,6 @@
         "description": "Director Jenny Niven said the event has been hit with a \u00a310,000 increase in its accommodation costs as a result of the new charge.",
         "published": "Wed, 19 Aug 2026 16:57:31 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21258985/?type=app&htype=0"
-      },
-      {
-        "id": "155424a3bc62ca004c10d3bf51706822",
-        "title": "Glasgow City Council reveals huge budget gap for next two years",
-        "link": "https://www.glasgowtimes.co.uk/news/26479263.glasgow-city-council-huge-budget-gap-next-two-years/",
-        "description": "A rise in homelessness and a new pay and grading system is leading to a huge spending gap for Glasgow City Council.",
-        "published": "Wed, 19 Aug 2026 16:54:07 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/5993712/?type=app&htype=0"
-      },
-      {
-        "id": "3c18093bda0aef66e77f1c910a989720",
-        "title": "\u201cI was scared\u201d: the student who took a chance on opening her own caf\u00e9",
-        "link": "https://www.glasgowtimes.co.uk/news/26479243.inspiring-story-behind-one-renfrews-most-loved-caf-s/",
-        "description": "Oseva Hani decided to coincide her busy university studies with launching her own caf\u00e9 \u2013 despite not having any formal training or experience",
-        "published": "Wed, 19 Aug 2026 16:50:49 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21343536/?type=app&htype=0"
-      },
-      {
-        "id": "7a27dbc19f7096b491fe09b5469dd047",
-        "title": "Van driver set to stand trial accused of killing woman and ponies",
-        "link": "https://www.glasgowtimes.co.uk/news/26479120.van-driver-set-stand-trial-accused-killing-woman-howwood/",
-        "description": "A van driver is to stand trial charged with killing a woman in head-on crash in Howwood.",
-        "published": "Wed, 19 Aug 2026 16:32:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21343165/?type=app&htype=0"
-      },
-      {
-        "id": "f9f6cf1d47b7e0f4ae2151954c29b4ef",
-        "title": "UK company with Glasgow offices officially named Great Place to Work",
-        "link": "https://www.glasgowtimes.co.uk/news/26478820.uk-firm-vital-energi-officially-named-great-place-work/",
-        "description": "Vital Energi, which has offices in Glasgow has been officially certified as a Great Place to Work.",
-        "published": "Wed, 19 Aug 2026 15:46:48 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21342821/?type=app&htype=0"
-      },
-      {
-        "id": "415831b099f45600719a208f7dbaa036",
-        "title": "GlasGLOW hiring 100 zombie handlers for new Zombie Zoo in Glasgow",
-        "link": "https://www.heraldscotland.com/news/26478756.glasglow-hiring-100-zombie-handlers-new-attraction/",
-        "description": "GlasGLOW is recruiting 100 zombie handlers for its new Zombie Zoo experience at Glasgow Botanic Gardens this Halloween.",
-        "published": "Wed, 19 Aug 2026 15:45:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21342688/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
