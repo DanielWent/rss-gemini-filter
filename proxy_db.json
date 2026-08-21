@@ -708,6 +708,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-tesco-evacuated-car-bursts-34499346",
+        "title": "Glasgow Tesco evacuated as car bursts into flames amid scenes of 'total panic'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-tesco-evacuated-car-bursts-34499346",
+        "description": "Staff and customers had to evacuate for their safety.",
+        "published": "Fri, 21 Aug 2026 16:24:30 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34499313.ece/ALTERNATES/s98/0_Screenshot-2026-08-21-at-170947.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgow-west-end-beerfest-returns-34495234",
+        "title": "Glasgow west end Beerfest returns with huge event at SWG3",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgow-west-end-beerfest-returns-34495234",
+        "description": "One of Glasgow's top beer festivals is getting ready for its return on September 28 to its new venue - SWG3's Warehouse.",
+        "published": "Fri, 21 Aug 2026 16:24:20 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34495847.ece/ALTERNATES/s98/2_IMG_5390.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/ashton-lane-street-party-returns-34496348",
+        "title": "Ashton Lane Street Party returns this month with live music and tasty treats",
+        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/ashton-lane-street-party-returns-34496348",
+        "description": "The hugely popular event is back, offering two days of free live music, DJs, street food and summer vibes this month (Saturday, May 30 to Sunday, May 31).",
+        "published": "Fri, 21 Aug 2026 16:14:29 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34496306.ece/ALTERNATES/s98/2_Brel-Ashton-Lane-Street-Party-2023-Banner.png"
+      },
+      {
         "id": "1b9e2e029ff3f7d6e1104d6a6205f0e6",
         "title": "How free bus travel is helping older and disabled people across Scotland",
         "link": "https://www.glasgowtimes.co.uk/news/26485914.free-bus-travel-helping-boost-wellbeing-scotland/",
@@ -748,12 +772,28 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/16562345/?type=app&htype=0"
       },
       {
+        "id": "1ef273352f685d3bdb2bd73d320ac079",
+        "title": "Children First welcomes Scottish Government commitment to multi-year funding",
+        "link": "https://www.heraldscotland.com/news/26485247.children-first-welcomes-multi-year-funding-bairns-hoose/",
+        "description": "Children First has welcomed a Scottish Government commitment to multi-year funding for Bairns Hoose services supporting children who have experienced violence and abuse.",
+        "published": "Fri, 21 Aug 2026 15:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21355572/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/graeme-dott-subjected-young-children-34497652",
         "title": "Graeme Dott 'subjected young children to the worst kind of abuse', court told",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/graeme-dott-subjected-young-children-34497652",
         "description": "The 49-year-old former snooker world champion is accused of lewd, indecent and libidinous behaviour towards two primary school age children.",
         "published": "Fri, 21 Aug 2026 13:55:25 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34497617.ece/ALTERNATES/s98/0_Screenshot-2026-08-21-at-141515.png"
+      },
+      {
+        "id": "f85ae8a802c43a2523c0dfb5ae056e14",
+        "title": "Royal family gather at Balmoral as Harry and Meghan to move back to UK",
+        "link": "https://www.heraldscotland.com/news/26485259.royal-family-gather-balmoral-harry-meghan-move-back-uk/",
+        "description": "The royal family are gathering at Balmoral for their summer break after the announcement that Harry and Meghan will move back to the UK six years after the Megxit crisis.",
+        "published": "Fri, 21 Aug 2026 14:41:23 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21355420/?type=app&htype=0"
       },
       {
         "id": "19eb503177d6e7d1d175d58a1a11f98e",
