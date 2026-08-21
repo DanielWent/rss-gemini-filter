@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo#3",
+        "title": "Panama Canal to cut number of ships passing through due to El Ni\u00f1o",
+        "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+        "description": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.",
+        "published": "Fri, 21 Aug 2026 06:46:08 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db42/live/677fca00-9d18-11f1-bd22-47519fb87a16.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o#0",
         "title": "El Ni\u00f1o set to be 'strongest in living memory', says Met Office",
         "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
@@ -667,6 +675,30 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "8933451",
+        "title": "Rangers transfer prediction made after Conference League win as 'high level player' objective set",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-transfer-prediction-made-conference-league-win-8933451",
+        "description": "<p>Rangers are still looking to do transfer business after their Conference League win.</p>",
+        "published": "Fri, 21 Aug 2026 07:00:25 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/21/6/03/GettyImages-2291338916.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "https://runabc.co.uk/perth-running-festival-builds-on-successful-first-year",
+        "title": "Perth Running Festival Builds On Successful First Year",
+        "link": "https://runabc.co.uk/perth-running-festival-builds-on-successful-first-year",
+        "description": "<p><img alt=\"Perth Half Marathon and Runfest 2027\" src=\"https://runabc.co.uk/images/2026/08/perth-runfest-2027-963679.jpg\" /></p>\n\t\t\t\t<p>After a successful debut in 2026, Perth Running Festival returns on 1 August 2027 with three distances and a spectacular Perth Racecourse setting....</p>",
+        "published": "Fri, 21 Aug 2026 07:55:00 +0100",
+        "image_url": "https://runabc.co.uk/images/2026/08/perth-runfest-2027-963679.jpg"
+      },
+      {
+        "id": "db584042e189ed6c2d2f5a2b3cf1f157",
+        "title": "New 24/7 bus from Glasgow to Edinburgh Airport will slash travellers' fares in half",
+        "link": "https://www.glasgowtimes.co.uk/news/26483261.new-bus-glasgow-edinburgh-airport-announced/",
+        "description": "Ember have announced that they will launch their new E20 service from Buchanan Bus Station to Edinburgh Airport on September 2.",
+        "published": "Fri, 21 Aug 2026 07:05:32 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21035647/?type=app&htype=0"
+      },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-quizzed-over-renting-34492046",
         "title": "Glasgow council quizzed over renting of land to 'money galore' firm for 'pittance'",
@@ -1442,30 +1474,6 @@
         "description": "A new \u00a311 million innovation hub in Dalmarnock is set to provide up to 45,000 sq ft of workspace for high-growth businesses.",
         "published": "Wed, 19 Aug 2026 14:38:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21342134/?type=app&htype=0"
-      },
-      {
-        "id": "4b329b9fd12cbaa092e194567d090ed6",
-        "title": "Community lobbies MPs and MSPs over \u2018ludicrous' law endangering historic ferry route",
-        "link": "https://www.heraldscotland.com/news/26478378.community-lobbies-politicians-threat-skye-ferry-route/",
-        "description": "Campaigners have called on politicians to step in to help a tiny West Coast community which has to pay thousands of pounds each year to an \"absentee landowner\" to operate a historic ferry route.",
-        "published": "Wed, 19 Aug 2026 14:33:27 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21342362/?type=app&htype=0"
-      },
-      {
-        "id": "6066c35d3c8371bba0c45392160821cc",
-        "title": "Busy Glasgow road closed to all traffic amid ongoing emergency works",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26478123.old-castle-road-closed-emergency-scottish-water-works/",
-        "description": "A section of Old Castle Road will close while Scottish Water carries out emergency works, with delays expected.",
-        "published": "Wed, 19 Aug 2026 13:42:08 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20023077/?type=app&htype=0"
-      },
-      {
-        "id": "f6624cf14cb559b7ea207b7d1a8d7d44",
-        "title": "Masked gangs, drugs and disorder: what the BBC got wrong about Glasgow",
-        "link": "https://www.heraldscotland.com/politics/viewpoint/26478023.bbc-scotlands-disclosure-documentary-glasgow-predictable/",
-        "description": "BBC documentary around St Enoch Square in Glasgow reveals troubling scenes, yet dodges the bigger questions concern government policy, policing and urban decline",
-        "published": "Wed, 19 Aug 2026 13:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21337721/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
