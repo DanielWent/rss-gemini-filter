@@ -577,6 +577,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "cd20c5751638081fbff62a66e6532d7a",
+        "title": "Pupils and teachers return to Milngavie school as year-long refurbishment ends",
+        "link": "https://www.glasgowtimes.co.uk/news/26481515.milngavie-primary-pupils-teachers-return-year-long-refit/",
+        "description": "An East Dunbartonshire primary school has finally re-opened following a multi-million pound refurbishment.",
+        "published": "Fri, 21 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21349268/?type=app&htype=0"
+      },
+      {
         "id": "60f425f0e0b9569fec3441790306855d",
         "title": "Bearsden cyclist with lifelong brain condition to tackle 3600km charity challenge",
         "link": "https://www.glasgowtimes.co.uk/news/26480545.bearsden-cyclist-takes-3-600km-charity-challenge/",
@@ -660,6 +668,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-quizzed-over-renting-34492046",
+        "title": "Glasgow council quizzed over renting of land to 'money galore' firm for 'pittance'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-quizzed-over-renting-34492046",
+        "description": "The land is leased to a company for a wind farm.",
+        "published": "Fri, 21 Aug 2026 05:14:37 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article27066750.ece/ALTERNATES/s98/3_wind-turbine.jpg"
+      },
+      {
+        "id": "cd20c5751638081fbff62a66e6532d7a",
+        "title": "Pupils and teachers return to Milngavie school as year-long refurbishment ends",
+        "link": "https://www.glasgowtimes.co.uk/news/26481515.milngavie-primary-pupils-teachers-return-year-long-refit/",
+        "description": "An East Dunbartonshire primary school has finally re-opened following a multi-million pound refurbishment.",
+        "published": "Fri, 21 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21349268/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/ckgd5xpmk77o#0",
         "title": "Festival top spot for film honouring talented little sister",
         "link": "https://www.bbc.co.uk/news/articles/ckgd5xpmk77o?at_medium=RSS&at_campaign=rss",
@@ -674,14 +698,6 @@
         "description": "The blaze in the Saracen Street area of Glasgow saw streets closed off and the public advised to stay away",
         "published": "Thu, 20 Aug 2026 20:56:17 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34022174.ece/ALTERNATES/s98/0_JS138065842-3.jpg"
-      },
-      {
-        "id": "bddf0199435b099fffac7cc5bbf743cc",
-        "title": "Busy street locked down by 999 crews amid building fire",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26483089.glasgows-saracen-street-locked-amid-building-fire/",
-        "description": "A street in North Glasgow has been locked down by emergency services amid a building fire.",
-        "published": "Thu, 20 Aug 2026 19:26:38 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13466733/?type=app&htype=0"
       },
       {
         "id": "3476da326418cb5f407a7207f906c1e1",
@@ -738,14 +754,6 @@
         "description": "The 49-year-old denies lewd, indecent and libidinous behaviour towards two children in the 90s and between 2006 and 2010.",
         "published": "Thu, 20 Aug 2026 16:19:45 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34478780.ece/ALTERNATES/s98/0_ee2dedee-222d-4174-9624-580fc6b58ed5jpeg.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-agrees-plan-end-equal-34493081",
-        "title": "Glasgow agrees plan to end equal pay dispute as unions fear 'devastating' impact",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-agrees-plan-end-equal-34493081",
-        "description": "Council leader Susan Aitken said the new pay and grading structure will end pay discrimination. Unions urged councillors to reject the proposal as thousands of workers are set for wage cuts.",
-        "published": "Thu, 20 Aug 2026 16:17:26 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34493046.ece/ALTERNATES/s98/20260821_094411.jpg"
       },
       {
         "id": "6e251fa23eb12190ebe5fe60d835487f",
@@ -826,14 +834,6 @@
         "description": "Malcolm Offord revealed he received his prostate cancer diagnosis on the day of May's Holyrood election.",
         "published": "Thu, 20 Aug 2026 15:54:21 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/19896188/?type=app&htype=0"
-      },
-      {
-        "id": "30cf83384ae7aa57cb14ae6bceede47e",
-        "title": "Tributes paid to Glasgow men found dead in Partick flat as murder probe continues",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26482315.tributes-paid-paul-lafferty-gary-beaton-found-dead-partick/",
-        "description": "Tributes have been paid to two men found dead inside a flat in Glasgow's West End as police continue a murder investigation.",
-        "published": "Thu, 20 Aug 2026 15:44:46 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21341315/?type=app&htype=0"
       },
       {
         "id": "a9f8271d6f57e88d0c6d4ded3d52311c",
