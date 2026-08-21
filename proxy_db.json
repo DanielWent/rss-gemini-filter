@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o#0",
+        "title": "El Ni\u00f1o set to be 'strongest in living memory', says Met Office",
+        "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+        "description": "Scientists say the growing El Ni\u00f1o weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+        "published": "Fri, 21 Aug 2026 00:33:21 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e42a/live/e1f0da90-9cc3-11f1-9182-d13e1a2797dc.jpg"
+      },
+      {
         "id": "1787211023542693",
         "title": "Edmonton Marathon route was 674m too long",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo?at_medium=RSS&at_campaign=rss",
