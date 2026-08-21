@@ -700,6 +700,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/glasgow-irn-bru-carnival-returns-34495570",
+        "title": "Glasgow Irn Bru Carnival returns with 'biggest ever' Magic Mouse rollercoaster",
+        "link": "https://www.glasgowlive.co.uk/whats-on/glasgow-irn-bru-carnival-returns-34495570",
+        "description": "Tickets for the exciting indoor attraction will officially launch next week.",
+        "published": "Fri, 21 Aug 2026 10:20:32 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34495665.ece/ALTERNATES/s98/0_Carnval-2023-John-Clark-Photos-426.jpg"
+      },
+      {
+        "id": "8933925",
+        "title": "EIHL Ice Hockey comes to the OVO Hydro for the first time as Scottish teams face off in festive double header",
+        "link": "https://www.glasgowworld.com/news/eihl-ice-hockey-comes-to-the-ovo-hydro-for-the-first-time-8933925",
+        "description": "<p>Glasgow Clan, Dundee Stars and Fife Flyers to bring Motorpoint Elite League action to the OVO Hydro in December 2026. </p>",
+        "published": "Fri, 21 Aug 2026 10:08:38 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/21/10/08/unnamed.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "592ba2bdc94f5a3675202897df13bc90",
+        "title": "Small Scottish Island's only ferry berth to close for repairs",
+        "link": "https://www.heraldscotland.com/news/26484042.juras-ferry-berth-close-repairs/",
+        "description": "The ferry runs the short distance between two islands",
+        "published": "Fri, 21 Aug 2026 10:52:41 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18401612/?type=app&htype=0"
+      },
+      {
+        "id": "b0483111856acfc11e98542066b9cdd5",
+        "title": "IFS warns Swinney's manifesto pledges at risk despite \u00a3790m Scottish budget boost",
+        "link": "https://www.heraldscotland.com/news/26484002.ifs-warns-particularly-nasty-budget-storm-looming/",
+        "description": "The Institute for Fiscal Studies says extra UK Government funding and a larger-than-expected underspend ease immediate pressure on Finance Secretary Jenny Gilruth but warn of a severe spending crunch looming for 2027-28.",
+        "published": "Fri, 21 Aug 2026 10:45:19 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20804013/?type=app&htype=0"
+      },
+      {
         "id": "5c583e8da900f7662c6ee03a5851f840",
         "title": "Councillor claims victory in row over tweet about teacher cuts",
         "link": "https://www.glasgowtimes.co.uk/news/26483961.councillor-claims-win-row-tweet-teacher-cuts/",
@@ -778,14 +810,6 @@
         "description": "<p>Celtic are set to secure a transfer deal with Chelsea for a highly-rated talent.</p>",
         "published": "Fri, 21 Aug 2026 08:00:30 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/14/14/43/GettyImages-2259751585.jpg?width=1200&auto=webp&trim=18%2C0%2C18%2C0"
-      },
-      {
-        "id": "ff5a9ef6d01f787eec3d035b4a316bef",
-        "title": "Glasgow's Gotham makeover ramps up as The Batman: Part II filming continues",
-        "link": "https://www.heraldscotland.com/news/26483348.batman-part-ii-fresh-scenes-shot-glasgow/",
-        "description": "Part of Glasgow's city centre has been transformed into the fictional Gotham City for filming of The Batman: Part II.",
-        "published": "Fri, 21 Aug 2026 08:22:24 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21352733/?type=app&htype=0"
       },
       {
         "id": "1ce142e4c597237ad48f72cd33136629",
@@ -962,14 +986,6 @@
         "description": "The 49-year-old denies lewd, indecent and libidinous behaviour towards two children in the 90s and between 2006 and 2010.",
         "published": "Thu, 20 Aug 2026 16:19:45 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34478780.ece/ALTERNATES/s98/0_ee2dedee-222d-4174-9624-580fc6b58ed5jpeg.jpg"
-      },
-      {
-        "id": "6e251fa23eb12190ebe5fe60d835487f",
-        "title": "Check out these 10 new amazing shots as Glasgow transforms into Gotham City",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26482779.new-images-reveal-glasgows-dramatic-gotham-city-transformation/",
-        "description": "Bothwell Street has been transformed into Gotham City as filming continues for The Batman Part II in Glasgow.",
-        "published": "Thu, 20 Aug 2026 17:03:55 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21351755/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/arts-culture-news/finnieston-labelled-brooklyn-glasgow-top-34492100",
@@ -1482,22 +1498,6 @@
         "description": "Emergency services have taped off part of a street in Glasgow city centre this evening amid an incident.",
         "published": "Wed, 19 Aug 2026 18:35:33 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21344050/?type=app&htype=0"
-      },
-      {
-        "id": "940e71213a6fbce067c385b7cc06d659",
-        "title": "Marra's vow to 'end offshoring of good jobs in Scotland' with public contract change",
-        "link": "https://www.heraldscotland.com/news/26479398.michael-marra-pledges-scottish-jobs-guarantee-contracts/",
-        "description": "Michael Marra has pledged to embed a jobs guarantee in public contracts if he becomes the next First Minister of Scotland.",
-        "published": "Wed, 19 Aug 2026 18:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20741434/?type=app&htype=0"
-      },
-      {
-        "id": "a5e7777330bb2c77f93d481daa0238ad",
-        "title": "\u00a3200,000 prize up for grabs in record Scottish startup competition",
-        "link": "https://www.heraldscotland.com/news/26479421.200-000-prize-launched-scottish-startup-competition/",
-        "description": "A record \u00a3200,000 prize has been launched for high-growth Scottish startups through the Scottish EDGE Accelerator EDGE Award.",
-        "published": "Wed, 19 Aug 2026 17:42:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21343900/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
