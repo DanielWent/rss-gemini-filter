@@ -708,6 +708,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "46a4cc5b7df154e363513ac6c4151a7e",
+        "title": "First look at major new attraction for families at Braehead Shopping Centre",
+        "link": "https://www.glasgowtimes.co.uk/news/26486393.first-superpark-uk-launches-braehead-shopping-centre/",
+        "description": "A new indoor attraction for families has opened at Braehead Shopping Centre.",
+        "published": "Fri, 21 Aug 2026 18:28:48 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21356968/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/eight-more-arrests-over-celtic-34499588",
         "title": "Eight more arrests over Celtic title celebration disorder in Glasgow",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/eight-more-arrests-over-celtic-34499588",
@@ -754,6 +762,14 @@
         "description": "The hugely popular event is back, offering two days of free live music, DJs, street food and summer vibes this month (Saturday, May 30 to Sunday, May 31).",
         "published": "Fri, 21 Aug 2026 16:14:29 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34496306.ece/ALTERNATES/s98/2_Brel-Ashton-Lane-Street-Party-2023-Banner.png"
+      },
+      {
+        "id": "c0b14e9093a4377917e7090c90c2a47a",
+        "title": "\u00a3400m superyacht owned by billionaire Trump ally sails up Clyde",
+        "link": "https://www.heraldscotland.com/news/26486114.donald-trump-ally-stephen-schwarzmans-superyacht-arrives-greenock/",
+        "description": "A new $400 million believed to belong to a US billionaire has berthed at Greenock\u2019s James Watt Dock.",
+        "published": "Fri, 21 Aug 2026 16:51:25 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21355402/?type=app&htype=0"
       },
       {
         "id": "1b9e2e029ff3f7d6e1104d6a6205f0e6",
