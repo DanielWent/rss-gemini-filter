@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/sport/athletics/articles/c8dnvl1mqleo#7",
+        "title": "Hunt second in Diamond League 200m as White wins",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/c8dnvl1mqleo?at_medium=RSS&at_campaign=rss",
+        "description": "Amy Hunt follows up her extraordinary week at the European Championships with a second-placed finish in the women's 200m at the Diamond League in Lausanne behind Kayla White.",
+        "published": "Fri, 21 Aug 2026 19:00:43 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5320/live/4b2678e0-9d90-11f1-9d64-0d57e20be552.jpg"
+      },
+      {
         "id": "1787318718566303",
         "title": "Stormy autumn, cold winter - how might El Ni\u00f1o affect the UK weather?",
         "link": "https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo?at_medium=RSS&at_campaign=rss",
@@ -707,6 +715,46 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "8935213",
+        "title": "Rangers set three transfer objectives ahead of window shutting as 'big question mark' hovers over Ibrox",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-set-three-transfer-objectives-ahead-of-window-shutting-as-big-question-mark-hovers-over-ibrox-8935213",
+        "description": "<p>Pundit has identified three areas they need to strengthen</p>",
+        "published": "Fri, 21 Aug 2026 19:00:48 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/21/15/26/GettyImages-2291338916.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "8935036",
+        "title": "Celtic player relieved after transfer deal agreed as 'couple weeks' of talks create ultimate outcome",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-player-relieved-after-transfer-deal-agreed-as-couple-weeks-of-talks-create-ultimate-outcome-8935036",
+        "description": "<p>Academy product has completed SPFL Championship loan switch</p>",
+        "published": "Fri, 21 Aug 2026 19:00:37 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/21/14/28/GettyImages-2286951637.jpeg?width=1200&auto=webp&trim=290%2C0%2C290%2C0"
+      },
+      {
+        "id": "8d55313a5b0015cc66c7a2e02e78fef0",
+        "title": "\u2018Bomb threat\u2019 reported on CalMac ferry as passenger rescued from sea",
+        "link": "https://www.heraldscotland.com/news/26486480.bomb-threat-reported-calmac-ferry-passenger-rescued-sea/",
+        "description": "A \u201cbomb threat\u201d has been reported on a CalMac ferry following the rescue of a passenger from the water on Friday evening.",
+        "published": "Fri, 21 Aug 2026 19:54:36 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/17781165/?type=app&htype=0"
+      },
+      {
+        "id": "207de1b9bd4e89c36b44b69aa56d339c",
+        "title": "Farage is \u2018midwife\u2019 of Holyrood pro-indy majority, Sir John Curtice says",
+        "link": "https://www.heraldscotland.com/news/26486475.farage-midwife-holyrood-pro-indy-majority---sir-john-curtice/",
+        "description": "Nigel Farage is the \u201cmidwife\u201d of Holyrood\u2019s current pro-independence majority, polling expert Sir John Curtice has told an Edinburgh Book Festival audience.",
+        "published": "Fri, 21 Aug 2026 19:44:25 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/7842348/?type=app&htype=0"
+      },
+      {
+        "id": "6cb018b89ea330812a5f57d9935cc614",
+        "title": "Glasgow footbridge to close twice tomorrow - here's why",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26486470.glasgow-footbridge-close-twice-tomorrow-ps-waverley/",
+        "description": "One of Glasgow's busiest bridges will close twice tomorrow to allow for one of Scotland's most iconic ships to pass by.",
+        "published": "Fri, 21 Aug 2026 19:38:38 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21285003/?type=app&htype=0"
+      },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-gang-war-re-ignited-34499800",
         "title": "Glasgow gang war re-ignited as Lyons gang order 'machete attacks' on Daniel hoods",
