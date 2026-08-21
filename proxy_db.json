@@ -708,6 +708,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-gang-war-re-ignited-34499800",
+        "title": "Glasgow gang war re-ignited as Lyons gang order 'machete attacks' on Daniel hoods",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-gang-war-re-ignited-34499800",
+        "description": "The latest violence comes just weeks after Police Scotland said the gang war had ended.",
+        "published": "Fri, 21 Aug 2026 18:02:09 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34499481.ece/ALTERNATES/s98/0_Screenshot-2026-08-21-at-164652.png"
+      },
+      {
         "id": "46a4cc5b7df154e363513ac6c4151a7e",
         "title": "First look at major new attraction for families at Braehead Shopping Centre",
         "link": "https://www.glasgowtimes.co.uk/news/26486393.first-superpark-uk-launches-braehead-shopping-centre/",
