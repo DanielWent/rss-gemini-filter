@@ -22,20 +22,29 @@ BROAD DOMAINS FOR APPROVAL:
 7. EDUCATION
    INCLUDE: Articles about independent secondary schools in Scotland.
 
-8. NATURAL DISASTERS
-   INCLUDE: Articles reporting on a statistically highly unusual natural disaster (e.g., earthquake, tsunami, hurricane, volcanic eruption) where the main reported event occurred WITHIN THE LAST 24 HOURS.
-   REJECT: Any disaster coverage where the main reported event occurred MORE THAN 24 HOURS AGO.
-   REJECT: Articles reporting on man-made disasters such as wars, terrorist attacks or military strikes. 
-   REJECT: Articles reporting on famines or droughts.
-   REJECT: Minor natural disasters that are unlikely to be mentioned on the UK 10 O'Clock News.
+8. RARE OR EXTREME GEOPHYSICAL & METEOROLOGICAL EVENTS
+   INCLUDE: Articles reporting on natural events of notable scientific significance. You MUST base your evaluation on the measurable data, statistical anomaly, or official agency classifications reported in the text. You MUST IGNORE journalistic adjectives (e.g., "massive," "deadly," "unprecedented," "chaos") when determining severity.
+   
+   A. LOCAL & REGIONAL ANOMALIES (UK, Ireland, and NW Europe):
+      - Seismicity: Any measurable or felt onshore earthquake/tremor in the UK or British Isles, regardless of magnitude.
+      - Meteorology: Events that break all-time, monthly, or decadal records (e.g., lowest central pressure, highest gust, highest 24-hr rainfall). 
+      - Official Warnings: Any meteorological event severe enough to trigger a named storm, or a Met Office Amber or Red warning.
+      - Atmospheric/Marine: Verified rare local phenomena (e.g., tornadoes/waterspouts, meteotsunamis, sudden stratospheric warming).
+   
+   B. GLOBAL EXTREMES & SCIENTIFIC ANOMALIES:
+      - Seismicity: High-magnitude earthquakes (M7.0 or greater), or smaller quakes in highly unusual intraplate locations.
+      - Volcanism: Eruptions ranked VEI 3 or higher, the formation of new volcanic islands, or eruptions generating stratospheric ash plumes/pyrocumulonimbus.
+      - Geomorphology: Massive natural structural failures (e.g., glacial lake outburst floods [GLOFs], massive ice shelf calving, tsunamis). 
 
-   HOW TO DETERMINE EVENT AGE:
-   - Check the text for temporal markers relative to the 'Published' timestamp (e.g., references like "yesterday", "two days ago", "earlier this week", "following [past day]'s quake", or a date >24h prior).
-   - If the main disaster event happened over 24 hours ago, you MUST REJECT the article, regardless of whether it discusses ongoing rescue efforts, rising death tolls, or official statements.
+   REJECT:
+   - Routine weather events (e.g., standard seasonal rainfall, Met Office Yellow warnings, non-record temperatures).
+   - Routine micro-seismicity (M < 6.0) in active plate boundaries (e.g., California, Iceland, Japan, Ring of Fire).
+   - Urban/Infrastructure failures (e.g., urban sinkholes caused by burst water mains, coastal property erosion, structural dam collapses).
+
 MACRO-EXCLUSIONS (Always Reject):
+
 REJECT: Celebrity gossip or reality television.
 
 REJECT: High-brow art and literature. 
 
-REJECT: Articles containing general weather forecasts UNLESS they are primarily about the metrological mechanism (e.g. Jet Stream) driving that forecast.
-REJECT: Natural Disaster Follow-ups. You MUST reject articles detailing the humanitarian aftermath (e.g., rescue operations, casualty updates, rebuilding) of natural disasters. ONLY approve if the text contains explicit temporal evidence that the initial disaster struck WITHIN THE LAST 24 HOURS (e.g., "hit this morning," "struck today," "has just occurred"). If an article discusses established rescue efforts or a high death toll but lacks a clear timestamp proving the disaster started today, you must assume it is an older follow-up story and REJECT it.
+REJECT: Articles containing general weather forecasts UNLESS they are primarily about the meteorological mechanism (e.g., Jet Stream) driving that forecast.
