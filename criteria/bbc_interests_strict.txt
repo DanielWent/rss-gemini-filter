@@ -12,11 +12,24 @@ An article must ONLY be approved if it simultaneously satisfies at least ONE of 
    REJECT: Articles about pure Biology, pure Chemistry, Business or Industry.
    REJECT: Articles about climate science UNLESS their main focus is extreme weather.
 
-2. NATURAL DISASTERS
-   INCLUDE: Articles reporting on a statistically highly unusual natural disaster (e.g., earthquake, tsunami, hurricane, volcanic eruption) where the main reported event occurred WITHIN THE LAST 24 HOURS.
-   REJECT: Any disaster coverage where the main reported event occurred MORE THAN 24 HOURS AGO.
-   REJECT: Articles reporting on man-made disasters such as wars, terrorist attacks or military strikes. 
-   REJECT: Articles reporting on famines or droughts.
+2. RARE OR EXTREME GEOPHYSICAL & METEOROLOGICAL EVENTS
+   INCLUDE: Articles reporting on natural events of notable scientific significance. You MUST base your evaluation on the measurable data, statistical anomaly, or official agency classifications reported in the text. You MUST IGNORE journalistic adjectives (e.g., "massive," "deadly," "unprecedented," "chaos") when determining severity.
+   
+   A. LOCAL & REGIONAL ANOMALIES (UK, Ireland, and NW Europe):
+      - Seismicity: Any measurable or felt onshore earthquake/tremor in the UK or British Isles, regardless of magnitude.
+      - Meteorology: Events that break all-time, monthly, or decadal records (e.g., lowest central pressure, highest gust, highest 24-hr rainfall). 
+      - Official Warnings: Any meteorological event severe enough to trigger a named storm, or a Met Office Amber or Red warning.
+      - Atmospheric/Marine: Verified rare local phenomena (e.g., tornadoes/waterspouts, meteotsunamis, sudden stratospheric warming).
+   
+   B. GLOBAL EXTREMES & SCIENTIFIC ANOMALIES:
+      - Seismicity: High-magnitude earthquakes (M7.0 or greater), or smaller quakes in highly unusual intraplate locations.
+      - Volcanism: Eruptions ranked VEI 3 or higher, the formation of new volcanic islands, or eruptions generating stratospheric ash plumes/pyrocumulonimbus.
+      - Geomorphology: Massive natural structural failures (e.g., glacial lake outburst floods [GLOFs], massive ice shelf calving, tsunamis). 
+
+   REJECT:
+   - Routine weather events (e.g., standard seasonal rainfall, Met Office Yellow warnings, non-record temperatures).
+   - Routine micro-seismicity (M < 6.0) in active plate boundaries (e.g., California, Iceland, Japan, Ring of Fire).
+   - Urban/Infrastructure failures (e.g., urban sinkholes caused by burst water mains, coastal property erosion, structural dam collapses).
 
 3. RUNNING & TRAIL ENDURANCE
    INCLUDE: Articles about a specific, individual professional or elite runner
@@ -24,7 +37,7 @@ An article must ONLY be approved if it simultaneously satisfies at least ONE of 
    INCLUDE: Articles about major national or international public road and trail races (e.g. The London, Edinburgh or Boston Marathon)
    INCLUDE: Local public road and trail races specifically in Greater Glasgow or surrounding counties (East/West Dunbartonshire, Lanarkshire, Renfrewshire, Stirlingshire).
    INCLUDE: Articles about attempts to break running world records.   
-INCLUDE: Articles about proposed and confirmed changes to national and international regulations that specifically and directly relate to running. For example, changes to the type of shoes you are permitted to wear for a marathon.
+   INCLUDE: Articles about proposed and confirmed changes to national and international regulations that specifically and directly relate to running. For example, changes to the type of shoes you are permitted to wear for a marathon.
    REJECT: Articles related to broadcasting schedules or charity fundraising. 
    REJECT: Articles primarily about individual members of the public, including celebrities, sharing their "running story".
    REJECT: Articles about the long jump, high jump, discus, javelin, shot-put, pole volt, decathlon, heptathlon or pentathlon.
@@ -38,6 +51,5 @@ INCLUDE: Articles about proposed and confirmed changes to national and internati
 MACRO-EXCLUSIONS (Always Reject):
 REJECT: Celebrity gossip or reality television.
 REJECT: High-brow art and literature.
-REJECT: Reject articles would only be of interest to the residents of a single specific town, county, or region (e.g., a local road closure in Cornwall, a localized council dispute in Yorkshire, or tips on how to spot a rare bird in Newcastle). 
+REJECT: Reject articles would only be of interest to the residents of a single specific town, county, or region (e.g., a local road closure in Cornwall, a localized council dispute in Yorkshire, or tips on how to spot a rare bird in Newcastle) UNLESS explicitly permitted by the local exceptions in Categories 2 and 3. 
 REJECT: Articles containing general weather forecasts UNLESS they are primarily about the metrological mechanism (e.g. Jet Stream) driving that forecast.
-REJECT: Natural Disaster Follow-ups. You MUST reject articles detailing the humanitarian aftermath (e.g., rescue operations, casualty updates, rebuilding) of natural disasters. ONLY approve if the text contains explicit temporal evidence that the initial disaster struck WITHIN THE LAST 24 HOURS (e.g., "hit this morning," "struck today," "has just occurred"). If an article discusses established rescue efforts or a high death toll but lacks a clear timestamp proving the disaster started today, you must assume it is an older follow-up story and REJECT it.
