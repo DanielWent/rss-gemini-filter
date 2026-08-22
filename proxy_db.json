@@ -748,12 +748,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "34c97dae9aca1d6678a43d5c2872f2ed",
+        "title": "CalMac praises ferry crew for \u2018outstanding\u2019 response to double emergency",
+        "link": "https://www.heraldscotland.com/news/26487057.calmac-crew-praised-outstanding-response-double-emergency/",
+        "description": "Crew and passengers aboard a CalMac ferry have been praised for their \u201coutstanding\u201d response to simultaneous emergencies on Friday evening, when reports of a person falling overboard were quickly followed by a \u201csecurity threat\u201d.",
+        "published": "Sat, 22 Aug 2026 13:53:04 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/17781165/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/bogus-workmen-pinch-jewellery-elderly-34501405",
+        "title": "Bogus workmen pinch jewellery from elderly woman's Clydebank home",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/bogus-workmen-pinch-jewellery-elderly-34501405",
+        "description": "Police are on the hunt for two men following the incident earlier this week.",
+        "published": "Sat, 22 Aug 2026 12:47:19 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34346925.ece/ALTERNATES/s98/2_Police.jpg"
+      },
+      {
         "id": "e4a6c49a19ff2158ba22f228fc58390d",
         "title": "Over 30 affordable homes due for Glasgow area as plans get the go ahead",
         "link": "https://www.glasgowtimes.co.uk/news/26487001.30-affordable-homes-given-go-ahead-castlemilk/",
         "description": "Plans for over 30 homes for social rent on empty land in Castlemilk have been given the go ahead.",
         "published": "Sat, 22 Aug 2026 13:03:54 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21049424/?type=app&htype=0"
+      },
+      {
+        "id": "b15edf2c6199f64c2ca38888297f1c7e",
+        "title": "Flynn labels press coverage of Swinney's \u00a398k bill for World Cup as 'clickbait'",
+        "link": "https://www.heraldscotland.com/news/26486993.flynn-labels-press-coverage-swinneys-world-cup-bill-clickbait/",
+        "description": "Stephen Flynn has defended the cost of John Swinney's trip to the US to watch the Scotland men\u2019s national team at the World Cup to the public purse - and labelled the media's reporting of it as \"clickbait\".",
+        "published": "Sat, 22 Aug 2026 13:00:53 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20447947/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/arts-culture-news/new-trail-glasgows-brutalist-buildings-34499871",
