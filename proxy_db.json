@@ -756,6 +756,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "b9d9a0a6a3d8892b72cdf251d3e89af4",
+        "title": "New CalMac ferries 'took an obscene amount of time\u2019 to be built, Flynn concedes",
+        "link": "https://www.heraldscotland.com/news/26487502.new-calmac-ferries-took-obscene-amount-time-flynn-concedes/",
+        "description": "Transport Secretary Stephen Flynn has conceded it \u201ctook an obscene amount of time\u201d for the Glen Sannox and Glen Rosa ferries to be built for CalMac",
+        "published": "Sat, 22 Aug 2026 20:59:11 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19796609/?type=app&htype=0"
+      },
+      {
+        "id": "02551d73ed515fb20f6c4b9e37ff6ee9",
+        "title": "Two men charged after police seize \u00a3579,000 worth of cocaine",
+        "link": "https://www.heraldscotland.com/news/26487499.two-men-charged-police-seize-579-000-worth-cocaine/",
+        "description": "Two men have been arrested and charged after police seized \u00a3579,000 worth of cocaine in Glasgow.",
+        "published": "Sat, 22 Aug 2026 20:53:18 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/13808562/?type=app&htype=0"
+      },
+      {
         "id": "63caa6185d3e440edc0c138539ee9cab",
         "title": "New pictures show what Glasgow looks like 3 days into massive Batman movie shoot",
         "link": "https://www.glasgowtimes.co.uk/news/26487454.new-pictures-show-glasgows-batman-set-changed/",
