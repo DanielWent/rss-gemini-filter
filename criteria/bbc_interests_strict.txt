@@ -52,4 +52,3 @@ MACRO-EXCLUSIONS (Always Reject):
 REJECT: Celebrity gossip or reality television.
 REJECT: High-brow art and literature.
 REJECT: Reject articles would only be of interest to the residents of a single specific town, county, or region (e.g., a local road closure in Cornwall, a localized council dispute in Yorkshire, or tips on how to spot a rare bird in Newcastle) UNLESS explicitly permitted by the local exceptions in Categories 2 and 3. 
-REJECT: Articles containing general weather forecasts UNLESS they are primarily about the metrological mechanism (e.g. Jet Stream) driving that forecast.
