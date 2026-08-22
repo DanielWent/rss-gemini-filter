@@ -10,3 +10,4 @@ INCLUDE CRITERIA:
 
 REJECT CRITERIA:
 - ALWAYS REJECT articles that do not explicitly match at least one of the exact INCLUDE criteria above.
+- Reject "feel good" human-interest stories. 
