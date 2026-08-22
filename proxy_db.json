@@ -625,6 +625,22 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "6769aef826f2d868233d36b721b9d1b3",
+        "title": "Free National 5 maths courses offered to adults across East Dunbartonshire",
+        "link": "https://www.glasgowtimes.co.uk/news/26473489.free-national-5-maths-courses-offered-east-dunbartonshire/",
+        "description": "Free National 5 maths courses are being offered to adults at community centres across East Dunbartonshire this autumn.",
+        "published": "Sat, 22 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21334201/?type=app&htype=0"
+      },
+      {
+        "id": "6f4ce064e614f8486c977220120c6109",
+        "title": "East Dunbartonshire care home rated 'very good' after unannounced inspection",
+        "link": "https://www.glasgowtimes.co.uk/news/26485592.bearsden-care-home-received-good-inpsection-rating/",
+        "description": "Boclair Care Home in Bearsden received a grade of five following an unannounced inspection.",
+        "published": "Sat, 22 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21355798/?type=app&htype=0"
+      },
+      {
         "id": "cd20c5751638081fbff62a66e6532d7a",
         "title": "Pupils and teachers return to Milngavie school as year-long refurbishment ends",
         "link": "https://www.glasgowtimes.co.uk/news/26481515.milngavie-primary-pupils-teachers-return-year-long-refit/",
@@ -715,6 +731,54 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "8935720",
+        "title": "West Ham United ready to 'hijack' \u00a321m transfer for Rangers ace as 49ers' big demand is no problem at Hammers",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/west-ham-united-ready-hijack-transfer-rangers-ace-49ers-big-demand-8935720",
+        "description": "<p>Rangers could sell one of their top assets to West Ham United before the end of the transfer window. </p>",
+        "published": "Sat, 22 Aug 2026 07:10:25 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/11/15/32/GettyImages-2277451091.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0"
+      },
+      {
+        "id": "1685fce90c75898552eb243758bd4441",
+        "title": "Thug jailed after neighbour suffered nine stab wounds and brain haemorrhage",
+        "link": "https://www.glasgowtimes.co.uk/news/26474492.thug-jailed-neighbour-suffered-nine-stab-wounds-brain-injury/",
+        "description": "A convicted thug who left a neighbour with a brain injury following a brutal murder bid has been jailed for 10 years.",
+        "published": "Sat, 22 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/12714858/?type=app&htype=0"
+      },
+      {
+        "id": "f1120d7eb6f6960dd386d4fe64a8a8c4",
+        "title": "New Dennistoun mural celebrates Glasgow\u2019s forgotten motorbike pioneers",
+        "link": "https://www.glasgowtimes.co.uk/news/26482875.dennistoun-mural-celebrates-glasgows-forgotten-motorbike-pioneers/",
+        "description": "A new mural in Dennistoun celebrates the Victoria Motor and Cycle Co, the Glasgow firm that grew from bicycle-maker to Scotland\u2019s leading motorcycle manufacturer before closing in 1928. Designed by Agnes Xantippa Boman, the artwork brings local industrial heritage to life.",
+        "published": "Sat, 22 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21352020/?type=app&htype=0"
+      },
+      {
+        "id": "29a81aab0413c941725b37c862939638",
+        "title": "Exclusive interview with Tommy Sheridan to reveal intimate parts of his life",
+        "link": "https://www.glasgowtimes.co.uk/news/26485978.new-bbc-series-promises-exclusive-access-tommy-sheridan/",
+        "description": "A new two-part BBC series is set to reveal 'intimate parts' of the life of Tommy Sheridan",
+        "published": "Sat, 22 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20738499/?type=app&htype=0"
+      },
+      {
+        "id": "6769aef826f2d868233d36b721b9d1b3",
+        "title": "Free National 5 maths courses offered to adults across East Dunbartonshire",
+        "link": "https://www.glasgowtimes.co.uk/news/26473489.free-national-5-maths-courses-offered-east-dunbartonshire/",
+        "description": "Free National 5 maths courses are being offered to adults at community centres across East Dunbartonshire this autumn.",
+        "published": "Sat, 22 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21334201/?type=app&htype=0"
+      },
+      {
+        "id": "6f4ce064e614f8486c977220120c6109",
+        "title": "East Dunbartonshire care home rated 'very good' after unannounced inspection",
+        "link": "https://www.glasgowtimes.co.uk/news/26485592.bearsden-care-home-received-good-inpsection-rating/",
+        "description": "Boclair Care Home in Bearsden received a grade of five following an unannounced inspection.",
+        "published": "Sat, 22 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21355798/?type=app&htype=0"
+      },
       {
         "id": "https://www.bbc.co.uk/news/articles/c3r0gzn2lj2o#0",
         "title": "Ice hockey games to be held at OVO Hydro in Glasgow",
