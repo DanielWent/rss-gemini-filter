@@ -732,12 +732,52 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/over-30-new-homes-empty-34498641",
+        "title": "Over 30 new homes on empty land in Castlemilk given green light by council",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/over-30-new-homes-empty-34498641",
+        "description": "Planners at Glasgow City Council have approved a bid to transform a site in Castlemilk.",
+        "published": "Sat, 22 Aug 2026 07:36:47 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34498616.ece/ALTERNATES/s98/0_castlemilkglenacreterracehomes.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-locals-feel-ignored-popular-34494095",
+        "title": "Glasgow locals feel 'ignored' as popular park could be transformed into housing",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-locals-feel-ignored-popular-34494095",
+        "description": "&quot;As a community and as a representative, we feel we've been ignored in the process.&quot;",
+        "published": "Sat, 22 Aug 2026 07:10:40 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34007504.ece/ALTERNATES/s98/1_Screenshot-2026-05-25-at-124553.png"
+      },
+      {
         "id": "8935720",
         "title": "West Ham United ready to 'hijack' \u00a321m transfer for Rangers ace as 49ers' big demand is no problem at Hammers",
         "link": "https://www.glasgowworld.com/sport/football/rangers/west-ham-united-ready-hijack-transfer-rangers-ace-49ers-big-demand-8935720",
         "description": "<p>Rangers could sell one of their top assets to West Ham United before the end of the transfer window. </p>",
         "published": "Sat, 22 Aug 2026 07:10:25 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/11/15/32/GettyImages-2277451091.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0"
+      },
+      {
+        "id": "97bf0c2652c3791cea03d0ff7264ed99",
+        "title": "Yours for \u00a330,000 a night: can our castles be saved by becoming luxury timeshares?",
+        "link": "https://www.heraldscotland.com/news/26483053.30-000-a-night-solution-scotlands-crumbling-castles/",
+        "description": "Could luxury timeshares help save Scotland\u2019s historic castles? An entrepreneur behind Airbnb\u2019s rise believes shared ownership could offer a solution.",
+        "published": "Sat, 22 Aug 2026 08:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21352329/?type=app&htype=0"
+      },
+      {
+        "id": "1813e8bf8185a8b204da205f17b845c9",
+        "title": "'What has BBC Scotland ever done for us? Not a lot, lately'",
+        "link": "https://www.heraldscotland.com/opinion/26486288.bbc-scotland-faces-job-cuts-gone-wrong-pacific-quay/",
+        "description": "What's gone wrong at BBC Scotland? Job cuts expose deeper problems, says Brian Beacom",
+        "published": "Sat, 22 Aug 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20472581/?type=app&htype=0"
+      },
+      {
+        "id": "b96e26d5656f22f827b5dbf1f631cfb1",
+        "title": "Why Scottish Labour is terrified by the prospect of a snap Westminster election",
+        "link": "https://www.heraldscotland.com/politics/holyrood/26485109.andy-burnham-snap-election-scottish-labour-worried/",
+        "description": "There has been renewed speculation that Andy Burnham might call a snap election, perhaps in spring next year.\u00a0 Brian Taylor looks at the arguments, for and against \u2013 including the challenge this would present to Scottish Labour.",
+        "published": "Sat, 22 Aug 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21209285/?type=app&htype=0"
       },
       {
         "id": "1685fce90c75898552eb243758bd4441",
@@ -778,6 +818,14 @@
         "description": "Boclair Care Home in Bearsden received a grade of five following an unannounced inspection.",
         "published": "Sat, 22 Aug 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21355798/?type=app&htype=0"
+      },
+      {
+        "id": "f7451ef41285ac5526e6f5814a379617",
+        "title": "Gayle Rankin reveals why Jean Brodie is a 'woman of our times' ahead of Scottish tour",
+        "link": "https://www.heraldscotland.com/life_style/26477068.gayle-rankin-stars-prime-miss-jean-brodie-scottish-tour/",
+        "description": "Tony-nominated Scottish actor Gayle Rankin will play Miss Jean Brodie in a major new National Theatre of Scotland production touring Edinburgh, Glasgow, Aberdeen and Pitlochry this autumn. The House of the Dragon and GLOW star discusses complicated women, her Scottish roots and the darker truths behind Muriel Spark\u2019s iconic teacher.",
+        "published": "Sat, 22 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20592096/?type=app&htype=0"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/c3r0gzn2lj2o#0",
@@ -1042,14 +1090,6 @@
         "description": "A Batman prop spotted during filming in Glasgow has prompted a tongue-in-cheek comparison between the city\u2019s bus services and those of fictional Gotham",
         "published": "Fri, 21 Aug 2026 12:18:37 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21354523/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=526035",
-        "title": "Man \u2018possessed by Aleister Crowley\u2019 who stabbed step-mum\u2019s ex 22 times jailed for at least 23 years",
-        "link": "https://news.stv.tv/west-central/man-possessed-by-aleister-crowley-who-stabbed-step-mums-ex-22-times-jailed-for-at-least-23-years",
-        "description": "Gabriel Brown chopped off Joseph Johnston's finger and ate it before setting his home on fire",
-        "published": "Fri, 21 Aug 2026 11:01:57 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/07/6ff47afa5dc7daa42cc705a03fca8a9b-1784036961-1120x720.jpg"
       },
       {
         "id": "5f5aa04657dbc20b9e2f6f56938d7158",
