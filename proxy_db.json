@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c93403wg288o#2",
+        "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
+        "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+        "description": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
+        "published": "Sat, 22 Aug 2026 08:40:49 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92b/live/3baa1370-9dfb-11f1-898b-91bf436c749f.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o#2",
         "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
         "link": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
@@ -740,6 +748,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "c883de3fd113ed0a6fc493e88d6fbae7",
+        "title": "Car strikes expensive home in affluent area as police investigate gang war links",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26486721.vehicle-strikes-property-low-borland-way-eaglesham/",
+        "description": "Police are investigating after a vehicle struck a property in Eaglesham.",
+        "published": "Sat, 22 Aug 2026 09:38:16 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19438352/?type=app&htype=0"
+      },
+      {
         "id": "8935740",
         "title": "Rangers and Celtic told they need 'significant' transfer bid to sign attacking star as president sends message",
         "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-celtic-need-significant-transfer-bid-sign-attacking-target-8935740",
@@ -754,6 +770,14 @@
         "description": "Meanwhile the total number of illicit vapes formerly known as NVPs (Nicotine Vapour Products) seized between 2021 and 2025 was 32,366.",
         "published": "Sat, 22 Aug 2026 08:04:14 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article28934578.ece/ALTERNATES/s98/0_Excise-tax-on-vapes.jpg"
+      },
+      {
+        "id": "376708713bc2683ea0470e34791173f9",
+        "title": "Key Glasgow bridge closed for almost an HOUR due to police incident",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26486665.glasgow-city-council-confirm-george-v-bridge-closed-almost-hour/",
+        "description": "A major Glasgow bridge was closed for almost an hour late on Friday night due to a police incident.",
+        "published": "Sat, 22 Aug 2026 08:50:47 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21357294/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/over-30-new-homes-empty-34498641",
@@ -858,6 +882,14 @@
         "description": "A trans youth campaign group has warned of the harm caused by years-long waits for gender-affirming at Glasgow's Sandyford Clinic.",
         "published": "Sat, 22 Aug 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21342296/?type=app&htype=0"
+      },
+      {
+        "id": "8d001f8af71b2571553895d10ce3a0a9",
+        "title": "Art Gallery plan to bring famous Rennie Mackintosh school back into public use",
+        "link": "https://www.glasgowtimes.co.uk/news/26485948.plan-bring-rennie-mackintosh-school-back-public-use/",
+        "description": "An art gallery group is looking at taking on a famous Glasgow landmark and bring it back to life.",
+        "published": "Sat, 22 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21356326/?type=app&htype=0"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/c3r0gzn2lj2o#0",
