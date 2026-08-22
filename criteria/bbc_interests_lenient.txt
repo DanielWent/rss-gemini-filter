@@ -43,8 +43,4 @@ BROAD DOMAINS FOR APPROVAL:
 
 MACRO-EXCLUSIONS (Always Reject):
 
-REJECT: Celebrity gossip or reality television.
-
-REJECT: High-brow art and literature. 
-
-REJECT: Articles containing general weather forecasts UNLESS they are primarily about the meteorological mechanism (e.g., Jet Stream) driving that forecast.
+REJECT: Articles that do not match at least one of the above criteria.
