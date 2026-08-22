@@ -748,6 +748,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "e4a6c49a19ff2158ba22f228fc58390d",
+        "title": "Over 30 affordable homes due for Glasgow area as plans get the go ahead",
+        "link": "https://www.glasgowtimes.co.uk/news/26487001.30-affordable-homes-given-go-ahead-castlemilk/",
+        "description": "Plans for over 30 homes for social rent on empty land in Castlemilk have been given the go ahead.",
+        "published": "Sat, 22 Aug 2026 13:03:54 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21049424/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/arts-culture-news/new-trail-glasgows-brutalist-buildings-34499871",
         "title": "New trail of Glasgow's Brutalist buildings launches",
         "link": "https://www.glasgowlive.co.uk/whats-on/arts-culture-news/new-trail-glasgows-brutalist-buildings-34499871",
@@ -802,14 +810,6 @@
         "description": "A major Glasgow bridge was closed for almost an hour late on Friday night due to a police incident.",
         "published": "Sat, 22 Aug 2026 08:50:47 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21357294/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/over-30-new-homes-empty-34498641",
-        "title": "Over 30 new homes on empty land in Castlemilk given green light by council",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/over-30-new-homes-empty-34498641",
-        "description": "Planners at Glasgow City Council have approved a bid to transform a site in Castlemilk.",
-        "published": "Sat, 22 Aug 2026 07:36:47 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34498616.ece/ALTERNATES/s98/0_castlemilkglenacreterracehomes.png"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-locals-feel-ignored-popular-34494095",
