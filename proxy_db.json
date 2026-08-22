@@ -748,6 +748,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/car-crashes-eaglesham-home-glasgow-34501990",
+        "title": "Car crashes into Eaglesham home as Glasgow gang war reignites",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/car-crashes-eaglesham-home-glasgow-34501990",
+        "description": "It is understood a large police cordon was put in place following the incident.",
+        "published": "Sat, 22 Aug 2026 15:11:54 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34502053.ece/ALTERNATES/s98/0_Screenshot-2026-08-22-160139.png"
+      },
+      {
+        "id": "d2cb1132159cbeaf5a73d93f19dc65c4",
+        "title": "See the best of the West in our 18 photos of Glasgow's stunning cattle show",
+        "link": "https://www.glasgowtimes.co.uk/news/26487212.glasgow-highland-cows-star-photos-cattle-show/",
+        "description": "Pollok Country Park played host to the West Of Scotland Highland Cattle Club Show which draws crowd for free every year.",
+        "published": "Sat, 22 Aug 2026 15:54:01 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21358148/?type=app&htype=0"
+      },
+      {
         "id": "a1b340d75134483a999de91e9bf3aecd",
         "title": "Ex-Celtic hero says racism in Glasgow was made worse by already rampant sectarianism",
         "link": "https://www.glasgowtimes.co.uk/news/26487070.ex-celtic-hero-says-racism-worsened-sectarianism/",
@@ -818,14 +834,6 @@
         "description": "More than 1.4 million illicit cigarettes have been seized by Glasgow\u2019s Trading Standards over the last five years, according to fresh reports.",
         "published": "Sat, 22 Aug 2026 09:53:22 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/12365262/?type=app&htype=0"
-      },
-      {
-        "id": "c883de3fd113ed0a6fc493e88d6fbae7",
-        "title": "Car strikes expensive home in affluent area as police investigate gang war links",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26486721.vehicle-strikes-property-low-borland-way-eaglesham/",
-        "description": "Police are investigating after a vehicle struck a property in Eaglesham.",
-        "published": "Sat, 22 Aug 2026 09:38:16 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19438352/?type=app&htype=0"
       },
       {
         "id": "8935740",
@@ -1002,14 +1010,6 @@
         "description": "One of Glasgow's busiest bridges will close twice tomorrow to allow for one of Scotland's most iconic ships to pass by.",
         "published": "Fri, 21 Aug 2026 19:38:38 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21285003/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-gang-war-re-ignited-34499800",
-        "title": "Glasgow gang war re-ignited as Lyons gang order 'machete attacks' on Daniel hoods",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-gang-war-re-ignited-34499800",
-        "description": "The latest violence comes just weeks after Police Scotland said the gang war had ended.",
-        "published": "Fri, 21 Aug 2026 18:02:09 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34499481.ece/ALTERNATES/s98/0_Screenshot-2026-08-21-at-164652.png"
       },
       {
         "id": "46a4cc5b7df154e363513ac6c4151a7e",
