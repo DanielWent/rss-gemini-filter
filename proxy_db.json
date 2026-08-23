@@ -764,6 +764,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=526231",
+        "title": "CalMac services resume after two major incidents onboard ferry to Ardrossan",
+        "link": "https://news.stv.tv/west-central/calmac-services-resume-after-two-major-incidents-onboard-ferry-to-ardrossan",
+        "description": "CalMac crews faced an 'unprecedented situation' after a man rescued from the sea made alleged bomb threats to staff",
+        "published": "Sun, 23 Aug 2026 11:26:21 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2022/04/ab5e7dc69830fb849c31ecddcb2788ee.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/batman-part-ii-gun-battle-34503772",
+        "title": "Batman: Part II gun battle on Glasgow street as city transformed into Gotham",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/batman-part-ii-gun-battle-34503772",
+        "description": "Gotham City SWAT cars, American street signs and US flags have been spotted around the city centre as Batfans have been out in force hoping to catch a glimpse of Matt Reeves newest film.",
+        "published": "Sun, 23 Aug 2026 11:23:51 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34503783.ece/ALTERNATES/s98/0_Screenshot-22.png"
+      },
+      {
         "id": "0aaafd2a5982217c4cb1308599768928",
         "title": "Swinney \u2018more determined than ever\u2019 to tackle violence against women and girls",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26487878.swinney-more-determined-ever-tackle-violence-women/",
