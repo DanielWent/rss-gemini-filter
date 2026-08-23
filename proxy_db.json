@@ -673,6 +673,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "bb41ac5882dad61848991b26c6a2c22c",
+        "title": "Glasgow scientists join urgent Ebola vaccine research as outbreak intensifies",
+        "link": "https://www.glasgowtimes.co.uk/news/26488340.glasgow-scientists-test-existing-ebola-vaccine-bundibugyo/",
+        "description": "Glasgow researchers will test whether an existing Ebola vaccine could offer protection against Bundibugyo amid the escalating DRC outbreak.",
+        "published": "Sun, 23 Aug 2026 16:55:47 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20943945/?type=app&htype=0"
+      },
+      {
         "id": "3062fc22490ebdd81e3a4052425e9d2f",
         "title": "Virtual robot 'co-pilots' could help distracted drivers spot danger, study finds",
         "link": "https://www.glasgowtimes.co.uk/news/26488286.virtual-robot-warnings-make-semi-autonomous-cars-safer/",
