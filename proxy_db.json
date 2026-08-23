@@ -820,6 +820,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "5fb686e0e666aafa9771ad2545058c26",
+        "title": "Glasgow road closures announced as Sir Chris Hoy's Tour de 4 charity event returns",
+        "link": "https://www.glasgowtimes.co.uk/news/26488414.glasgow-road-closures-announced-sir-chris-hoys-tour-de-4-event/",
+        "description": "Road closures and parking restrictions will be in place in Glasgow for Sir Chris Hoy's Tour de 4 charity cycling event on September 6.",
+        "published": "Sun, 23 Aug 2026 17:39:01 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18678330/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c0m7mv0xkkro#0",
         "title": "Climber Laura completes 'full house' of 1,072 peaks around UK",
         "link": "https://www.bbc.co.uk/news/articles/c0m7mv0xkkro?at_medium=RSS&at_campaign=rss",
