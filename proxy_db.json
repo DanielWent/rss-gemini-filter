@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cp872m0grgyo#1",
+        "title": "How a new era of heatwaves could shake up the school calendar",
+        "link": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss",
+        "description": "Teachers warn it could be increasingly difficult for classrooms to function during the hottest months.",
+        "published": "Sat, 22 Aug 2026 23:16:43 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8be5/live/d972b6c0-9c70-11f1-b109-879e35c24276.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c93403wg288o#2",
         "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
         "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
