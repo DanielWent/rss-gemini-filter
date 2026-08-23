@@ -764,6 +764,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/company-ignored-glasgow-council-put-34498751",
+        "title": "Company 'ignored' Glasgow council and put tenants 'at risk' in unlicensed flat",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/company-ignored-glasgow-council-put-34498751",
+        "description": "Four tenants were using a Bath Street flat when council officials inspected it - but no HMO licence had been secured.",
+        "published": "Sun, 23 Aug 2026 08:00:49 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34498805.ece/ALTERNATES/s98/0_Screenshot-2026-08-21-161532.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-alcohol-drug-service-contract-34499091",
+        "title": "Glasgow alcohol and drug service contract to be awarded after second attempt to find supplier",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-alcohol-drug-service-contract-34499091",
+        "description": "It is part of a major community alcohol and drug recovery services contract",
+        "published": "Sun, 23 Aug 2026 07:53:26 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article29431710.ece/ALTERNATES/s98/2_RTP_SDR_270923_HunterStreetDrugs_004.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-strokepatients-failed-eighth-year-34501737",
         "title": "Glasgow stroke\u00a0patients\u202f 'failed' for eighth year as charity warns of 'devastating' impact",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-strokepatients-failed-eighth-year-34501737",
