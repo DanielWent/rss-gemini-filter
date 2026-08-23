@@ -820,6 +820,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8936978",
+        "title": "Rangers hold 'further discussions' for transfer target - but must consider potential future 18-month obstacle",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-hold-further-discussions-for-transfer-target-but-must-consider-potential-future-18-month-obstacle-8936978",
+        "description": "<p>The Light Blues are in advances talks with Spanish side</p>",
+        "published": "Sun, 23 Aug 2026 19:00:51 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/23/17/48/GettyImages-2288809860.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
         "id": "https://news.stv.tv/?p=526247",
         "title": "Police probing deliberate fire and car crashing into house for gang war links",
         "link": "https://news.stv.tv/west-central/police-probing-deliberate-fire-and-car-crashing-into-house-for-gang-war-links",
@@ -970,14 +978,6 @@
         "description": "East Ayrshire Council's \u00a3120m Kilmarnock Town Centre masterplan sets out a bold 14-year vision to transform the town's high street",
         "published": "Sun, 23 Aug 2026 10:14:21 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34503460.ece/ALTERNATES/s98/0_Image-01-Kilmarnock-Train-Station-Proposals.jpg"
-      },
-      {
-        "id": "be9a3afa75ed0483c3b56209778b5cec",
-        "title": "Organised crime cops investigating car fire at garage near Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/26487866.vehicle-torched-kirkintilloch-garage-amid-ongoing-gang-war/",
-        "description": "Cops investigating an ongoing gang war across Glasgow say a car has deliberately been set alight at a garage",
-        "published": "Sun, 23 Aug 2026 11:06:09 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20757372/?type=app&htype=0"
       },
       {
         "id": "da4632866bbc1e2613e9d6e19c67d20a",
