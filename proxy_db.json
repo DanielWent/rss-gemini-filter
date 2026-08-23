@@ -820,6 +820,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=526247",
+        "title": "Police probing deliberate fire and car crashing into house for gang war links",
+        "link": "https://news.stv.tv/west-central/police-probing-deliberate-fire-and-car-crashing-into-house-for-gang-war-links",
+        "description": "A number of incidents have sparked fears of a fresh wave of gang war violence",
+        "published": "Sun, 23 Aug 2026 17:29:59 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/ae743e9542a88d65d61eecfb687d988d-1787505997.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/thug-machete-attempts-rob-east-34505044",
+        "title": "Thug with machete attempted to rob East Kilbride shop in broad daylight",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/thug-machete-attempts-rob-east-34505044",
+        "description": "Footage posted online shows the moment a thug attempted to rob a Day Today branch.",
+        "published": "Sun, 23 Aug 2026 17:23:55 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34505081.ece/ALTERNATES/s98/0_image-2026-08-23T181124176.jpg"
+      },
+      {
         "id": "797ef327dc9840e5eef709a7363b7312",
         "title": "Glasgow CrossCountry trains to return after major power cut disruption",
         "link": "https://www.glasgowtimes.co.uk/news/26488437.glasgow-edinburgh-crosscountry-trains-resume-power-cut/",
