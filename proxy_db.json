@@ -478,7 +478,16 @@
     "title": "DC Rainmaker",
     "link": "https://www.dcrainmaker.com",
     "description": "AI Filtered DC Rainmaker Sports Tech & Wearable Updates.",
-    "articles": [],
+    "articles": [
+      {
+        "id": "https://www.dcrainmaker.com/?p=169083",
+        "title": "Garmin Cirqa In-Depth Review: Reality vs Expectations",
+        "link": "https://www.dcrainmaker.com/2026/08/garmin-cirqa-in-depth-review-one-month-later-expectations-reality.html",
+        "description": "It\u2019s been precisely one month since the Garmin Cirqa was announced, during which time it\u2019s been on my wrist just about 24x7. Over that time period, I\u2019ve come to all sorts of realizations about where Cirqa fits in (or in &#8230;  <a class=\"read_more\" href=\"https://www.dcrainmaker.com/2026/08/garmin-cirqa-in-depth-review-one-month-later-expectations-reality.html\">Read More Here <span class=\"meta-nav\">&#8594;</span></a>",
+        "published": "Sun, 23 Aug 2026 14:52:00 +0000",
+        "image_url": "https://www.dcrainmaker.com/images/2026/08/DSC07459-720x480.jpg"
+      }
+    ],
     "icon_url": "https://www.dcrainmaker.com/favicon.ico",
     "image_url": "https://www.dcrainmaker.com/images/2017/03/dcrainmaker-dc-logo-square-40x40.png"
   },
