@@ -828,14 +828,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21339639/?type=app&htype=0"
       },
       {
-        "id": "527f0235b8521a0de34e0897df0262bf",
-        "title": "Scottish rail users warned of major disruption across CrossCountry network",
-        "link": "https://www.heraldscotland.com/news/26487726.power-outage-sparks-major-disruption-across-crosscountry-network/",
-        "description": "Passengers travelling on CrossCountry services in Scotland have been warned of 'major disruption' across the network.",
-        "published": "Sun, 23 Aug 2026 09:42:45 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/6222438/?type=app&htype=0"
-      },
-      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/company-ignored-glasgow-council-put-34498751",
         "title": "Company 'ignored' Glasgow council and put tenants 'at risk' in unlicensed flat",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/company-ignored-glasgow-council-put-34498751",
@@ -874,6 +866,14 @@
         "description": "Since the City Deal kicked off in 2015 the City Region has secured a total of \u00a32 billion in funding.",
         "published": "Sun, 23 Aug 2026 07:32:05 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/article34496039.ece/ALTERNATES/s98/0_Susan-Aitken-centre-at-her-final-Glasgow-City-Region-Cabinet-meeting-with-other-Council-Leaders-and-representatives.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/czjl8pgmp84o#0",
+        "title": "The Glasgow weavers helping the fight to defend Ukraine",
+        "link": "https://www.bbc.co.uk/news/articles/czjl8pgmp84o?at_medium=RSS&at_campaign=rss",
+        "description": "The Weegie Weavers all have family in Ukraine, and make camouflage nets to send back home.",
+        "published": "Sun, 23 Aug 2026 07:19:35 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fdf/live/49e999a0-9aff-11f1-a27d-25dca26018ed.jpg"
       },
       {
         "id": "8936365",
