@@ -764,6 +764,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cvgjg4pr04do#0",
+        "title": "SNP councillor reinstated after probe into Jordan Linden complaints",
+        "link": "https://www.bbc.co.uk/news/articles/cvgjg4pr04do?at_medium=RSS&at_campaign=rss",
+        "description": "North Lanarkshire SNP group said Tracy Carragher had been cleared by an independent advocate and it had full confidence in her.",
+        "published": "Sun, 23 Aug 2026 11:50:39 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3151/live/1e929110-9ee4-11f1-9797-eb684645fdf7.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=526231",
         "title": "CalMac services resume after two major incidents onboard ferry to Ardrossan",
         "link": "https://news.stv.tv/west-central/calmac-services-resume-after-two-major-incidents-onboard-ferry-to-ardrossan",
@@ -778,6 +786,14 @@
         "description": "Gotham City SWAT cars, American street signs and US flags have been spotted around the city centre as Batfans have been out in force hoping to catch a glimpse of Matt Reeves newest film.",
         "published": "Sun, 23 Aug 2026 11:23:51 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34503783.ece/ALTERNATES/s98/0_Screenshot-22.png"
+      },
+      {
+        "id": "bda745fb31fdedb9d5b2d3f93fdfba7c",
+        "title": "'Hypocrisy': UK Government slammed by industry over billion-pound LNG import proposal",
+        "link": "https://www.heraldscotland.com/news/26487905.uk-government-lng-import-plan-slammed-hypocrisy/",
+        "description": "Aberdeen's chamber of commerce chief warns that government plans to spend billions importing liquefied natural gas expose the hypocrisy of blocking domestic North Sea fields at Rosebank and Jackdaw.",
+        "published": "Sun, 23 Aug 2026 11:40:37 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/4875978/?type=app&htype=0"
       },
       {
         "id": "0aaafd2a5982217c4cb1308599768928",
