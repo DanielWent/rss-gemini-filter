@@ -764,6 +764,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "6307fde08d1e4d75570d07860a20a658",
+        "title": "Train operator faces major disruption due to power cut",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26487808.crosscountry-trains-glasgow-central-cancelled/",
+        "description": "A train operator with services from Glasgow Central is facing major disruption today due to a power cut in Birmingham.",
+        "published": "Sun, 23 Aug 2026 10:34:16 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20673329/?type=app&htype=0"
+      },
+      {
+        "id": "090d58770f6581e657030f847e9d446e",
+        "title": "MSP demands legal aid review as island charities face ruin in caf\u00e9 dog ban case",
+        "link": "https://www.heraldscotland.com/news/26487778.legal-aid-row-great-bernera-caf-s-dog-ban-lawsuit/",
+        "description": "Labour's Donald MacKinnon has called for an urgent review of a decision to grant legal aid to a woman suing a Hebridean community association after she was barred from taking her dog into a caf\u00e9.",
+        "published": "Sun, 23 Aug 2026 10:22:23 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/10856750/?type=app&htype=0"
+      },
+      {
+        "id": "211f9df43c1b0ca37cdeca11a6aef6c7",
+        "title": "Could you live like a monk? Scots abbey invites men to try monastic life",
+        "link": "https://www.heraldscotland.com/news/26476807.young-men-turning-ancient-life-monk/",
+        "description": "For those in search of a quiet weekend away from the rat race, a beautiful corner of Scottish northeast countryside sounds the ideal spot to recharge and relax.",
+        "published": "Sun, 23 Aug 2026 10:02:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21339639/?type=app&htype=0"
+      },
+      {
+        "id": "527f0235b8521a0de34e0897df0262bf",
+        "title": "Scottish rail users warned of major disruption across CrossCountry network",
+        "link": "https://www.heraldscotland.com/news/26487726.power-outage-sparks-major-disruption-across-crosscountry-network/",
+        "description": "Passengers travelling on CrossCountry services in Scotland have been warned of 'major disruption' across the network.",
+        "published": "Sun, 23 Aug 2026 09:42:45 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/6222438/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/company-ignored-glasgow-council-put-34498751",
         "title": "Company 'ignored' Glasgow council and put tenants 'at risk' in unlicensed flat",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/company-ignored-glasgow-council-put-34498751",
