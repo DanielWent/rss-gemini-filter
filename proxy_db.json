@@ -820,6 +820,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "797ef327dc9840e5eef709a7363b7312",
+        "title": "Glasgow CrossCountry trains to return after major power cut disruption",
+        "link": "https://www.glasgowtimes.co.uk/news/26488437.glasgow-edinburgh-crosscountry-trains-resume-power-cut/",
+        "description": "CrossCountry plans a full service on Monday after a control centre power cut caused widespread cancellations that affected Glasgow trains.",
+        "published": "Sun, 23 Aug 2026 18:12:14 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19035168/?type=app&htype=0"
+      },
+      {
         "id": "5fb686e0e666aafa9771ad2545058c26",
         "title": "Glasgow road closures announced as Sir Chris Hoy's Tour de 4 charity event returns",
         "link": "https://www.glasgowtimes.co.uk/news/26488414.glasgow-road-closures-announced-sir-chris-hoys-tour-de-4-event/",
