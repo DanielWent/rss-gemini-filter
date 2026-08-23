@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1787494212864897",
+        "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
+        "description": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of  56 minutes 51 seconds in a World Athletics road race in Buenos Aires.",
+        "published": "Sun, 23 Aug 2026 15:35:06 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59e8/live/c52553d0-9ef5-11f1-aed4-af6fe65bfcd6.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cp872m0grgyo#1",
         "title": "How a new era of heatwaves could shake up the school calendar",
         "link": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss",
@@ -763,6 +771,14 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "9e14dabbcc42eda6a283f4b24f55ee8a",
+        "title": "New account to give fresh glimpse into Glasgow Airport attack",
+        "link": "https://www.glasgowtimes.co.uk/news/26488074.new-account-give-glimpse-2007-glasgow-airport-attack/",
+        "description": "A new glimpse into the events of the 2007 Glasgow Airport attack is set to reveal more about the day that shook Scotland to its core",
+        "published": "Sun, 23 Aug 2026 13:48:28 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/6523991/?type=app&htype=0"
+      },
       {
         "id": "8383c56829141b2dd41ab068ccada7cf",
         "title": "Scottish golf groundcare supplier expands west after \u00a31.8m banking deal",
