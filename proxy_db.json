@@ -673,6 +673,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "3062fc22490ebdd81e3a4052425e9d2f",
+        "title": "Virtual robot 'co-pilots' could help distracted drivers spot danger, study finds",
+        "link": "https://www.glasgowtimes.co.uk/news/26488286.virtual-robot-warnings-make-semi-autonomous-cars-safer/",
+        "description": "Glasgow researchers found virtual robot warnings helped distracted drivers identify road hazards as accurately as those watching the road.",
+        "published": "Sun, 23 Aug 2026 16:28:43 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21360050/?type=app&htype=0"
+      },
+      {
         "id": "6769aef826f2d868233d36b721b9d1b3",
         "title": "Free National 5 maths courses offered to adults across East Dunbartonshire",
         "link": "https://www.glasgowtimes.co.uk/news/26473489.free-national-5-maths-courses-offered-east-dunbartonshire/",
@@ -780,12 +788,52 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "282712dcc46a863dfbe4f43527452173",
+        "title": "Glasgow scientists join urgent Ebola vaccine research as outbreak intensifies",
+        "link": "https://www.heraldscotland.com/news/26488303.glasgow-scientists-test-existing-ebola-vaccine-bundibugyo/",
+        "description": "Glasgow researchers will test whether an existing Ebola vaccine could offer protection against Bundibugyo amid the escalating DRC outbreak.",
+        "published": "Sun, 23 Aug 2026 16:36:15 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20943945/?type=app&htype=0"
+      },
+      {
+        "id": "3062fc22490ebdd81e3a4052425e9d2f",
+        "title": "Virtual robot 'co-pilots' could help distracted drivers spot danger, study finds",
+        "link": "https://www.glasgowtimes.co.uk/news/26488286.virtual-robot-warnings-make-semi-autonomous-cars-safer/",
+        "description": "Glasgow researchers found virtual robot warnings helped distracted drivers identify road hazards as accurately as those watching the road.",
+        "published": "Sun, 23 Aug 2026 16:28:43 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21360050/?type=app&htype=0"
+      },
+      {
+        "id": "99e6aca27500cd3caa84d85ab14ec606",
+        "title": "'Night buses and turn-up-and-go services, Gotham's got better buses than Glasgow'",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26488254.batman-part-2-filming-gothams-got-better-buses-glasgow/",
+        "description": "A Batman prop spotted during filming in Glasgow has prompted a tongue-in-cheek comparison between the city\u2019s bus services and those of fictional Gotham.",
+        "published": "Sun, 23 Aug 2026 16:08:32 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21354523/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glaschu-launches-farm-fork-dining-34499941",
         "title": "Glaschu launches Farm to Fork dining experience celebrating Scotland\u2019s local producers",
         "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glaschu-launches-farm-fork-dining-34499941",
         "description": "The multi-award-winning Royal Exchange Square restaurant will serve a four-course menu with almost every ingredient travelling fewer than 20 miles to reach the plate.",
         "published": "Sun, 23 Aug 2026 14:37:00 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34499958.ece/ALTERNATES/s98/0_Farm-to-Fork-19JPG.jpg"
+      },
+      {
+        "id": "01b1a3f19dd260a0cbf1fa9b64b0b073",
+        "title": "BBC Scotland commissions documentary about failed Glasgow Airport terror attack",
+        "link": "https://www.heraldscotland.com/news/26488193.bbc-commissions-documentary-failed-glasgow-airport-terror-attack/",
+        "description": "BBC Scotland has commissioned new two-part documentary, Terror at the Terminal, offering a \"definitive account\" of the 2007 Glasgow Airport attack.",
+        "published": "Sun, 23 Aug 2026 15:26:02 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/6523991/?type=app&htype=0"
+      },
+      {
+        "id": "5168ec6a25e10ac1f1462d7c75bf4e5c",
+        "title": "Scottish Government lawyers acting as 'praetorian guard' for FM, says watchdog",
+        "link": "https://www.heraldscotland.com/news/26488191.information-commissioner-call-branchform-transparency/",
+        "description": "David Hamilton, Scotland's information commissioner, has accused the Scottish Government's legal directorate of shielding the First Minister from scrutiny.",
+        "published": "Sun, 23 Aug 2026 15:23:36 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/16935988/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-residents-capture-mysterious-lights-34504424",
