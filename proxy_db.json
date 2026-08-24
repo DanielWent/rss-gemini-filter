@@ -505,6 +505,14 @@
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
       {
+        "id": "https://the5krunner.com/?p=127005",
+        "title": "Garmin Fenix 9",
+        "link": "https://the5krunner.com/2026/08/24/garmin-fenix-9-2/",
+        "description": "<p><img alt=\"Garmin Fenix 9\" class=\"attachment-large size-large\" height=\"583\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2010/06/Deep-dive-Fix-Files-Asset-2The-Deep-Dive-Fix-files.png/w=1110,h=583\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Pre-launch Fenix 9 case sizes and colour options, sourced from a leaked retailer listing ahead of Garmin's confirmed launch event.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/08/24/garmin-fenix-9-2/\">Garmin Fenix 9</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
+        "published": "Mon, 24 Aug 2026 09:03:46 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2010/06/Deep-dive-Fix-Files-Asset-2The-Deep-Dive-Fix-files.png/w=1110,h=583"
+      },
+      {
         "id": "https://the5krunner.com/?p=126967",
         "title": "Oura\u2019s Sleep Stage Accuracy: Its Science Director Confirms Claims",
         "link": "https://the5krunner.com/2026/08/23/oura-sleep-accuracy-lawsuit/",
@@ -844,6 +852,30 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "986e12cc5221b35f039ce9f127648750",
+        "title": "How Glasgow refugees are learning the language of the city, from English to Weegie",
+        "link": "https://www.heraldscotland.com/life_style/26486465.refugees-glasgow-learning-weegie-build-new-lives/",
+        "description": "A group of refugees are going the extra mile to familiarise themselves with their new lives in Glasgow. Learning the King\u2019s English won\u2019t always cut it on these streets",
+        "published": "Mon, 24 Aug 2026 10:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21357053/?type=app&htype=0"
+      },
+      {
+        "id": "293c31f92dfb7eca2b34f2bff224859b",
+        "title": "Glasgow residents invited to have say on plan to unlock over 30,000 new homes",
+        "link": "https://www.glasgowtimes.co.uk/news/26489030.glasgow-residents-invited-help-shape-citys-future/",
+        "description": "Glasgow residents are being invited to help shape the city\u2019s future.",
+        "published": "Mon, 24 Aug 2026 09:53:30 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19347166/?type=app&htype=0"
+      },
+      {
+        "id": "8937444",
+        "title": "Planning permission granted for new development Tech Terrace near Glasgow Airport",
+        "link": "https://www.glasgowworld.com/news/planning-permission-granted-for-new-development-tech-terrace-in-renfrewshire-8937444",
+        "description": "<p>Detailed planning permission has been granted for Tech Terrace, a major new development at the Advanced Manufacturing Innovation District Scotland (AMIDS) in Renfrewshire.  </p>",
+        "published": "Mon, 24 Aug 2026 08:37:02 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/24/8/28/Screenshot-2026-08-24-093609.jpeg?width=1200&auto=webp&trim=0%2C74%2C0%2C74"
+      },
       {
         "id": "8937420",
         "title": "Investment partnership to build 1000 homes in Possilpark receives backing",
