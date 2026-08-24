@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c1714xg2vr9o#0",
+        "title": "'It's not Alton Towers' - rows break out over queuing at Wales' highest mountain",
+        "link": "https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&at_campaign=rss",
+        "description": "There has been disagreement between queuers and others skipping the line to reach the top of Yr Wyddfa.",
+        "published": "Mon, 24 Aug 2026 05:15:25 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7191/live/600d5190-9f7d-11f1-994f-5b14ccb35057.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c0m7mv0xkkro#3",
         "title": "Scottish climber completes 'full house' of 1,072 peaks around UK",
         "link": "https://www.bbc.co.uk/news/articles/c0m7mv0xkkro?at_medium=RSS&at_campaign=rss",
@@ -836,6 +844,30 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/notorious-far-right-extremist-returns-34506040",
+        "title": "Notorious far-right extremist returns to Scotland to fund growing anti-immigration protests",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/notorious-far-right-extremist-returns-34506040",
+        "description": "Jim Dowson has spent the last 20 years fundraising for the far-right in \u00adScotland, Northern Ireland, Hungary and the US.",
+        "published": "Mon, 24 Aug 2026 07:23:44 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34506143.ece/ALTERNATES/s98/1_Screenshot-2026-08-24-080437.png"
+      },
+      {
+        "id": "8937145",
+        "title": "Ally McCoist has say on Rangers injury 'disaster' as unfortunate timing leaves him lost for words",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/ally-mccoist-has-say-on-rangers-injury-disaster-as-unfortunate-timing-leaves-him-lost-for-words-8937145",
+        "description": "<p>Rangers icon is \u2018gutted\u2019 for the player</p>",
+        "published": "Mon, 24 Aug 2026 07:00:41 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/23/22/23/GettyImages-2204943703-(1).jpeg?width=1200&auto=webp&trim=0%2C49%2C0%2C49"
+      },
+      {
+        "id": "8937091",
+        "title": "How to watch LASK Linz vs Celtic: Live stream, team news, referee and VAR for Champions League decider",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/how-to-watch-lask-linz-vs-celtic-live-stream-team-news-referee-and-var-for-champions-league-decider-8937091",
+        "description": "<p>Here\u2019s how to watch the Hoops in their play-off second leg</p>",
+        "published": "Mon, 24 Aug 2026 07:00:15 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/23/22/28/GettyImages-2291182487.jpeg?width=1200&auto=webp&trim=0%2C118%2C0%2C118"
+      },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/fresh-fears-over-future-glasgow-34505119",
         "title": "Fresh fears over future of Glasgow pool as gym equipment removed",
