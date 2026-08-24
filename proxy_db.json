@@ -885,6 +885,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "4e50ec9bf78714f1acf66309ee087b47",
+        "title": "St Enoch Centre advertising plans rejected again after government appeal",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26491815.st-enoch-centre-advertising-plans-rejected-government-appeal/",
+        "description": "A Scottish Government reporter has rejected an appeal over plans for a giant advert at Glasgow's St Enoch Centre, backing the council's refusal.",
+        "published": "Mon, 24 Aug 2026 19:48:22 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21366215/?type=app&htype=0"
+      },
+      {
+        "id": "3014a48b61d4873e4ad59396f9049236",
+        "title": "Over 70 Glasgow roads close for huge running event",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26491801.70-glasgow-roads-close-today-great-scottish-run/",
+        "description": "The AJ Bell Great Scottish Run is set to return on October 5, with more than 30,000 participants expected to travel from across the UK.",
+        "published": "Mon, 24 Aug 2026 19:30:48 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21366188/?type=app&htype=0"
+      },
+      {
         "id": "e3c5fcc8f6a32c892995b93f718c9b1d",
         "title": "How did Edinburgh's festivals end up at the back of the visitor levy queue?",
         "link": "https://www.heraldscotland.com/news/26491759.edinburghs-festivals-badly-let-visitor-levy/",
