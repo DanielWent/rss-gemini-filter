@@ -869,12 +869,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "5fb5d46203f4d8adae13e3a563a96c3d",
+        "title": "Man heard nephew order \u2018revenge attacks\u2019 after brother\u2019s killing, court told",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26491735.glasgow-high-court-murder-trial-hears-revenge-attack-claims/",
+        "description": "A Glasgow murder trial has heard claims a man ordered revenge attacks after his brother's death, with allegations of petrol bombs, machete assaults and tracking devices.",
+        "published": "Mon, 24 Aug 2026 18:11:47 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19889596/?type=app&htype=0"
+      },
+      {
         "id": "8938131",
         "title": "Rangers transfer target 'to travel soon to Scotland' as 49ers pay out major lump sum in next summer move",
         "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-transfer-target-to-travel-soon-to-scotland-as-49ers-pay-out-major-lump-sum-in-next-summer-move-8938131",
         "description": "<p>Winger is on the verge of an Ibrox move</p>",
         "published": "Mon, 24 Aug 2026 17:00:33 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/24/12/06/GettyImages-2183429230.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "0afd4f97b6876767cefdf92bf0d0f6e0",
+        "title": "Fears for Whitehill Pool future as gym equipment removed from Glasgow site",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26491720.fears-whitehill-pool-future-gym-equipment-removed/",
+        "description": "Fresh fears have been raised over the future of Whitehill Pool after gym equipment was removed from the closed Glasgow facility amid ongoing uncertainty.",
+        "published": "Mon, 24 Aug 2026 17:56:58 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20582406/?type=app&htype=0"
       },
       {
         "id": "c734eeb931a96f45ed33176f7375d0af",
@@ -899,6 +915,22 @@
         "description": "Drivers face delays on Sandwood Road in Glasgow after urgent SGN maintenance works reduced the southbound carriageway to one lane.",
         "published": "Mon, 24 Aug 2026 16:18:34 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20426296/?type=app&htype=0"
+      },
+      {
+        "id": "634ad32d1226dcb414b6a4de044480d5",
+        "title": "Burnham's Goldilocks moment means a snap election is more likely than meteors",
+        "link": "https://www.heraldscotland.com/news/26491219.andy-burnham-going-call-early-general-election/",
+        "description": "Andy Burnham keeps insisting there is no early election but his careful choice of tense, a \u00a32.56m Labour fundraising deficit, and a Scottish party still reeling from Anas Sarwar's exit tell a more complicated story.",
+        "published": "Mon, 24 Aug 2026 16:15:20 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21365419/?type=app&htype=0"
+      },
+      {
+        "id": "0139da6efcee23304f8b6090dfeb8469",
+        "title": "New 100-metre Angus tower aims to improve greenhouse gas monitoring",
+        "link": "https://www.heraldscotland.com/news/26491164.new-angus-tower-improve-greenhouse-gas-monitoring/",
+        "description": "A new 100-metre scientific tower in Angus will monitor more than 60 greenhouse gases to improve emissions estimates across Scotland and beyond.",
+        "published": "Mon, 24 Aug 2026 16:15:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21365180/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/gallery/sneak-peek-superpark-ahead-opening-34509432",
@@ -947,6 +979,14 @@
         "description": "A 55,000 sq ft industrial unit in Cumbernauld has been sold for \u00a35.45 million to Rankeilour Properties, with the property let until 2035.",
         "published": "Mon, 24 Aug 2026 15:41:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21364828/?type=app&htype=0"
+      },
+      {
+        "id": "85ed7974626a1981f8cda8792c46234d",
+        "title": "Fringe set to get \u00a38625 share from Edinburgh visitor levy despite generating \u00a36m",
+        "link": "https://www.heraldscotland.com/news/26490920.fringe-get-just-8625-edinburgh-tourist-tax-new-plans/",
+        "description": "Officials have raised concerns over a threat of legal action if festivals get too much additional funding.",
+        "published": "Mon, 24 Aug 2026 15:31:09 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18185247/?type=app&htype=0"
       },
       {
         "id": "cf581b92fc30d655176879725189274a",
