@@ -845,12 +845,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8937420",
+        "title": "Investment partnership to build 1000 homes in Possilpark receives backing",
+        "link": "https://www.glasgowworld.com/news/investment-partnership-to-build-1000-homes-in-possilpark-receives-backing-8937420",
+        "description": "<p>Plans for a historic partnership that will unlock around 1,000 new homes at the long derelict Cowlairs site in north Glasgow has been backed by the council's City Administration Committee.  </p>",
+        "published": "Mon, 24 Aug 2026 08:30:01 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/24/8/39/Screenshot-2026-08-24-092853.jpeg?width=1200&auto=webp&trim=0%2C50%2C0%2C50"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/notorious-far-right-extremist-returns-34506040",
         "title": "Notorious far-right extremist returns to Scotland to fund growing anti-immigration protests",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/notorious-far-right-extremist-returns-34506040",
         "description": "Jim Dowson has spent the last 20 years fundraising for the far-right in \u00adScotland, Northern Ireland, Hungary and the US.",
         "published": "Mon, 24 Aug 2026 07:23:44 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34506143.ece/ALTERNATES/s98/1_Screenshot-2026-08-24-080437.png"
+      },
+      {
+        "id": "5ee049dcafdfe5a41e945aee90867bb3",
+        "title": "SNP: Scotland\u2019s universities \u2018hammered\u2019 by post-Brexit drop in EU students",
+        "link": "https://www.heraldscotland.com/politics/westminster/26488639.snp-scotlands-universities-hammered-post-brexit-eu-student-drop/",
+        "description": "SNP MSP Alyn Smith branded the drop a \u201cdisastrous consequences\u201d of the vote to leave the EU",
+        "published": "Mon, 24 Aug 2026 08:07:06 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18726666/?type=app&htype=0"
       },
       {
         "id": "8937145",
@@ -877,12 +893,28 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article31159426.ece/ALTERNATES/s98/0_image00002-1jpeg.jpg"
       },
       {
+        "id": "8681ab5546dc4642198d11e74ded4944",
+        "title": "Bring on the 'light entertainment': The Cure take on Edinburgh",
+        "link": "https://www.heraldscotland.com/life_style/26488570.review-cure-summer-sessions-ingliston-august-23-2026/",
+        "description": "There is a strange problem with The Cure. They are one of the most important rock bands of the past half-century, responsible for some of the most inventive, influential and emotionally powerful music ever committed to record \u2013 and yet I have always had a slight beef with them live.",
+        "published": "Mon, 24 Aug 2026 07:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21360906/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/house-prices-more-affordable-glasgow-34504937",
         "title": "House prices in 'more affordable' Glasgow commuter towns 'rising strongly'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/house-prices-more-affordable-glasgow-34504937",
         "description": "In Wishaw, prices are up 7.0 per cent, according to research by Rightmove.",
         "published": "Mon, 24 Aug 2026 05:31:52 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34505024.ece/ALTERNATES/s98/0_GettyImages-142020092.jpg"
+      },
+      {
+        "id": "c71494169d47a0dba7e2c349fb36b952",
+        "title": "Shadow hangs over future of Edinburgh private schools as 'tipping point' reached",
+        "link": "https://www.heraldscotland.com/news/26450656.vat-threatening-dominance-edinburghs-private-schools/",
+        "description": "Private school leaders warn of an 11% drop in pupil numbers and growing pressure on state schools. Edinburgh councillors say the evidence tells a different story.",
+        "published": "Mon, 24 Aug 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21296200/?type=app&htype=0"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/c24m044p08vo#0",
@@ -899,6 +931,14 @@
         "description": "Calls have been made to move Winter Wonderland from Glasgow Green as residents 'couldn't speak' in their homes.",
         "published": "Mon, 24 Aug 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21287930/?type=app&htype=1590"
+      },
+      {
+        "id": "590b9d6a266dc1b6c6cab02072a2ebfe",
+        "title": "Beyond Princes and Union Street fires, a slower business disaster is unfolding",
+        "link": "https://www.heraldscotland.com/opinion/26484327.small-firms-face-death-thousand-cuts-scotland/",
+        "description": "Amid the public argument over disaster recovery funds for Glasgow and Edinburgh, Scotland's real economic emergency is hiding in plain sight",
+        "published": "Mon, 24 Aug 2026 04:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21161724/?type=app&htype=0"
       },
       {
         "id": "428242f78705c82dcedc8ba970d59875",
