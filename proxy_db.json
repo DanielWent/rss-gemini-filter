@@ -861,12 +861,84 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=526115",
+        "title": "Sheriff criticises Police Scotland\u2019s handling of death of Cumbrae farmer crushed by loader",
+        "link": "https://news.stv.tv/west-central/sheriff-criticises-police-scotlands-handling-of-death-of-cumbrae-farmer-crushed-by-loader",
+        "description": "Sheriff Bissett said if care had been taken by police, he may have been able to make a firmer determination in the case",
+        "published": "Mon, 24 Aug 2026 12:29:48 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/09dfacd5099756a301a472f92cd77f1d-1787569855-1080x720.jpeg"
+      },
+      {
+        "id": "2b09d1cb7806ff5794392587010b279e",
+        "title": "Glasgow double murder probe escalates as national specialists drafted in",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26490253.national-teams-involved-glasgow-double-murder-chancellor-street/",
+        "description": "National resources and forensic specialists have joined the Glasgow double murder investigation as police examine 4,000 hours of CCTV footage.",
+        "published": "Mon, 24 Aug 2026 13:21:13 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21341315/?type=app&htype=0"
+      },
+      {
+        "id": "8938382",
+        "title": "North Lanarkshire Schools Pipe Band crowned world champions",
+        "link": "https://www.glasgowworld.com/best-in/north-lanarkshire-schools-pipe-band-crowned-world-champions-8938382",
+        "description": "<p>North Lanarkshire Schools Pipe Band has been crowned world champions after winning the Novice A title at the World Pipe Band Championships at Glasgow Green.  </p>",
+        "published": "Mon, 24 Aug 2026 12:21:04 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/24/12/50/World-Pipe-Bands-3.jpeg?width=1200&auto=webp&trim=0%2C160%2C0%2C160"
+      },
+      {
+        "id": "47533bbab2352100846783e6ed7a228e",
+        "title": "Improved Scottish woodlands linked to lower antidepressant prescriptions",
+        "link": "https://www.heraldscotland.com/news/26490204.improved-scottish-woodlands-linked-lower-medication-use/",
+        "description": "A University of Edinburgh study found people living near improved woodlands were less likely to receive antidepressant or anti-anxiety prescriptions.",
+        "published": "Mon, 24 Aug 2026 13:15:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21363667/?type=app&htype=0"
+      },
+      {
+        "id": "8938338",
+        "title": "Former Mining Village to become outdoor recreation and heritage destination in South Lanarkshire",
+        "link": "https://www.glasgowworld.com/news/former-mining-village-to-become-outdoor-recreation-and-heritage-destination-in-south-lanarkshire-8938338",
+        "description": "<p>Plans to transform the site of a former mining village into a major outdoor recreation, heritage and tourism destination are to go on public display.</p>",
+        "published": "Mon, 24 Aug 2026 12:14:19 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/24/12/16/SLV_Douglasdale_viewing_platform.jpeg?width=1200&auto=webp&trim=0%2C59%2C0%2C58"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgows-coolest-new-sandwich-spot-34507962",
+        "title": "Glasgow's coolest new sandwich spot Matteo's opens on the High Street",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgows-coolest-new-sandwich-spot-34507962",
+        "description": "Opening right next door to Through The House, Matteo's offers epic subs with some of the coolest interiors around.",
+        "published": "Mon, 24 Aug 2026 11:56:38 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34508124.ece/ALTERNATES/s98/1_Screenshot-2026-08-24-at-120531PM.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/greenock-study-links-female-only-34508140",
+        "title": "Greenock study links female-only rehab to more sustained recovery as women feel 'safer'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/greenock-study-links-female-only-34508140",
+        "description": "The study highlights that the drivers of female substance use are often domestic abuse, sexual violence or trauma.",
+        "published": "Mon, 24 Aug 2026 11:49:27 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34508401.ece/ALTERNATES/s98/0_gettyimages-1500679428-170667a.jpg"
+      },
+      {
         "id": "f155e9a42551ef90e8d107d23a9ff867",
         "title": "Plans approved for \u00a34.74m manufacturing development near Glasgow Airport",
         "link": "https://www.glasgowtimes.co.uk/news/26490062.new-manufacturing-hub-approved-near-glasgow-airport/",
         "description": "Detailed planning permission has been granted for Tech Terrace near Glasgow Airport.",
         "published": "Mon, 24 Aug 2026 12:40:36 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21363457/?type=app&htype=0"
+      },
+      {
+        "id": "b464fcf351fc35117e03d4841b66f9e2",
+        "title": "Motorists warned as major carriageway and junction to completely close",
+        "link": "https://www.glasgowtimes.co.uk/news/26490055.motorists-warned-menock-road-kings-park-closes/",
+        "description": "Motorists are being warned of major disruption at a busy Southside junction as roadworks to force its closure",
+        "published": "Mon, 24 Aug 2026 12:39:55 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20211497/?type=app&htype=0"
+      },
+      {
+        "id": "f8f4170497acf9fcd7157fb07047f055",
+        "title": "UK AIDS Memorial Quilt to go on display in Glasgow for first time in Scotland",
+        "link": "https://www.heraldscotland.com/news/26489841.uk-aids-memorial-quilt-go-display-glasgow/",
+        "description": "The UK AIDS Memorial Quilt will go on display in full at Tramway in Glasgow from September 12 to October 4, 2026.",
+        "published": "Mon, 24 Aug 2026 12:20:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21363000/?type=app&htype=0"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/c20jxky3ggro#0",
@@ -979,14 +1051,6 @@
         "description": "Glasgow residents are being invited to help shape the city\u2019s future.",
         "published": "Mon, 24 Aug 2026 09:53:30 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19347166/?type=app&htype=0"
-      },
-      {
-        "id": "8937444",
-        "title": "Planning permission granted for new development Tech Terrace near Glasgow Airport",
-        "link": "https://www.glasgowworld.com/news/planning-permission-granted-for-new-development-tech-terrace-in-renfrewshire-8937444",
-        "description": "<p>Detailed planning permission has been granted for Tech Terrace, a major new development at the Advanced Manufacturing Innovation District Scotland (AMIDS) in Renfrewshire.  </p>",
-        "published": "Mon, 24 Aug 2026 08:37:02 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/24/8/28/Screenshot-2026-08-24-093609.jpeg?width=1200&auto=webp&trim=0%2C74%2C0%2C74"
       },
       {
         "id": "8937420",
