@@ -885,6 +885,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/rangers-co-owner-jed-york-34511215",
+        "title": "Rangers co-owner Jed York arrested in USA as 49ers boss pleads no contest",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/rangers-co-owner-jed-york-34511215",
+        "description": "York was sentenced to one day in jail for each charge, with one day already considered to be served.",
+        "published": "Mon, 24 Aug 2026 19:22:08 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34511244.ece/ALTERNATES/s98/2_Jed-York.jpg"
+      },
+      {
         "id": "4e50ec9bf78714f1acf66309ee087b47",
         "title": "St Enoch Centre advertising plans rejected again after government appeal",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26491815.st-enoch-centre-advertising-plans-rejected-government-appeal/",
