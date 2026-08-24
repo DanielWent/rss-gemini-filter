@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/sport/athletics/articles/cly5n3r521qo#7",
+        "title": "Hodgkinson withdraws from Zurich Diamond League",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cly5n3r521qo?at_medium=RSS&at_campaign=rss",
+        "description": "Keely Hodgkinson withdraws from the women's 800 metres at Thursday's Diamond League meeting in Zurich because her \"body is not quite ready\".",
+        "published": "Mon, 24 Aug 2026 18:49:51 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9a0/live/f63244a0-9fe6-11f1-8ed1-41aaf1fca4f2.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c62m4gpnp78o#0",
         "title": "World's oceans hit highest temperature on record as El Ni\u00f1o grows",
         "link": "https://www.bbc.co.uk/news/articles/c62m4gpnp78o?at_medium=RSS&at_campaign=rss",
@@ -722,6 +730,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "3014a48b61d4873e4ad59396f9049236",
+        "title": "Over 70 Glasgow roads close for huge running event",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26491801.70-glasgow-roads-close-today-great-scottish-run/",
+        "description": "The AJ Bell Great Scottish Run is set to return on October 5, with more than 30,000 participants expected to travel from across the UK.",
+        "published": "Mon, 24 Aug 2026 19:30:48 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21366188/?type=app&htype=0"
+      },
+      {
         "id": "4ac63162d5154268613e04ac0cfbe863",
         "title": "Addiction recovery centre secures over \u00a316k funding to provide free support services",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26489272.kirkintilloch-recovery-centre-secured-16-800-funding/",
@@ -869,6 +885,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "e3c5fcc8f6a32c892995b93f718c9b1d",
+        "title": "How did Edinburgh's festivals end up at the back of the visitor levy queue?",
+        "link": "https://www.heraldscotland.com/news/26491759.edinburghs-festivals-badly-let-visitor-levy/",
+        "description": "The new scheme was meant to be used to 'sustain Edinburgh's status as one of the world's greatest cultural and heritage cities'.",
+        "published": "Mon, 24 Aug 2026 18:35:54 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21259407/?type=app&htype=0"
+      },
+      {
         "id": "5fb5d46203f4d8adae13e3a563a96c3d",
         "title": "Man heard nephew order \u2018revenge attacks\u2019 after brother\u2019s killing, court told",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26491735.glasgow-high-court-murder-trial-hears-revenge-attack-claims/",
@@ -891,6 +915,22 @@
         "description": "Fresh fears have been raised over the future of Whitehill Pool after gym equipment was removed from the closed Glasgow facility amid ongoing uncertainty.",
         "published": "Mon, 24 Aug 2026 17:56:58 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20582406/?type=app&htype=0"
+      },
+      {
+        "id": "6176d2753408cc90d27d0eb618d33389",
+        "title": "Clydebank drinks brand secures major US deal with Texas retailer Buc-ee\u2019s",
+        "link": "https://www.heraldscotland.com/news/26491573.scottish-drinks-brand-lands-major-us-retail-deal/",
+        "description": "Clydebank-based Spirits of Virtue has secured a major US retail listing with Texas convenience chain Buc-ee\u2019s.",
+        "published": "Mon, 24 Aug 2026 17:22:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21357231/?type=app&htype=0"
+      },
+      {
+        "id": "93ad2a2ad5b27ff61210aa1b691f1b05",
+        "title": "Dumfries firm gets green light to build homes using recycled glass technology",
+        "link": "https://www.heraldscotland.com/news/26491324.scottish-firm-wins-green-light-recycled-glass-homes/",
+        "description": "Dumfries-based VASO Global will use its recycled glass building panels in a new affordable housing development in Closeburn.",
+        "published": "Mon, 24 Aug 2026 17:06:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21365684/?type=app&htype=0"
       },
       {
         "id": "c734eeb931a96f45ed33176f7375d0af",
