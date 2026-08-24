@@ -829,6 +829,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/house-prices-more-affordable-glasgow-34504937",
+        "title": "House prices in 'more affordable' Glasgow commuter towns 'rising strongly'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/house-prices-more-affordable-glasgow-34504937",
+        "description": "In Wishaw, prices are up 7.0 per cent, according to research by Rightmove.",
+        "published": "Mon, 24 Aug 2026 05:31:52 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34505024.ece/ALTERNATES/s98/0_GettyImages-142020092.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c24m044p08vo#0",
         "title": "Swinney visits 'crisis' towns asking for help after 1,500 job losses",
         "link": "https://www.bbc.co.uk/news/articles/c24m044p08vo?at_medium=RSS&at_campaign=rss",
