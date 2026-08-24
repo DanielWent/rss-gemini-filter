@@ -829,6 +829,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c24m044p08vo#0",
+        "title": "Swinney visits 'crisis' towns asking for help after 1,500 job losses",
+        "link": "https://www.bbc.co.uk/news/articles/c24m044p08vo?at_medium=RSS&at_campaign=rss",
+        "description": "Inverclyde has been hit hard with job losses after decades of deindustrialisation and population decline.",
+        "published": "Mon, 24 Aug 2026 05:02:41 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a25/live/90e6b7c0-9ed8-11f1-9253-c70a43a5293b.jpg"
+      },
+      {
         "id": "428242f78705c82dcedc8ba970d59875",
         "title": "Strathclyde business school chief to lead Scotland\u2019s national skills body",
         "link": "https://www.glasgowtimes.co.uk/news/26488528.david-hillier-lead-skills-development-scotland-interim-chair/",
