@@ -698,6 +698,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "a73246940062ec23f116c7062d212f2a",
+        "title": "Glasgow suburbs dubbed 'commuter hotspots' see sharpest price rises in UK",
+        "link": "https://www.glasgowtimes.co.uk/news/26488606.glasgows-commuter-hotspots-see-13-percent-rise-price/",
+        "description": "Glasgow suburbs known as 'commuter hotspot' are experiencing some of the sharpest price rises in the UK as homeowners look for easy access to the city without living in it",
+        "published": "Mon, 24 Aug 2026 07:33:46 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21360958/?type=app&htype=0"
+      },
+      {
         "id": "d6f59321ffbfbdc877ca0bb1b028a9c5",
         "title": "Elon Musk's Starlight satellites spotted over Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26488345.elon-musks-spacex-starlight-satellites-spotted-glasgow/",
@@ -829,6 +837,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/fresh-fears-over-future-glasgow-34505119",
+        "title": "Fresh fears over future of Glasgow pool as gym equipment removed",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/fresh-fears-over-future-glasgow-34505119",
+        "description": "Pictures on social media showed gym equipment being removed from Whitehill Pool.",
+        "published": "Mon, 24 Aug 2026 06:10:37 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article31159426.ece/ALTERNATES/s98/0_image00002-1jpeg.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/house-prices-more-affordable-glasgow-34504937",
         "title": "House prices in 'more affordable' Glasgow commuter towns 'rising strongly'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/house-prices-more-affordable-glasgow-34504937",
@@ -843,6 +859,14 @@
         "description": "Inverclyde has been hit hard with job losses after decades of deindustrialisation and population decline.",
         "published": "Mon, 24 Aug 2026 05:02:41 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a25/live/90e6b7c0-9ed8-11f1-9253-c70a43a5293b.jpg"
+      },
+      {
+        "id": "ef8bbe023d15050c75a7309587a136df",
+        "title": "Calls to move Winter Wonderland as residents 'couldn't speak' in their homes",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26484625.calls-move-winter-wonderland-glasgow-green/",
+        "description": "Calls have been made to move Winter Wonderland from Glasgow Green as residents 'couldn't speak' in their homes.",
+        "published": "Mon, 24 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21287930/?type=app&htype=1590"
       },
       {
         "id": "428242f78705c82dcedc8ba970d59875",
