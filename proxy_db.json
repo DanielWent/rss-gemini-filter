@@ -885,6 +885,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cp801jev860o#0",
+        "title": "Murder inquiry launched after death of man found injured in street",
+        "link": "https://www.bbc.co.uk/news/articles/cp801jev860o?at_medium=RSS&at_campaign=rss",
+        "description": "A man has been charged after Graham Milliken died in hospital having been found unresponsive in the street in Dundonald.",
+        "published": "Mon, 24 Aug 2026 20:36:03 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bf7/live/b1ac05b0-9ff9-11f1-aed2-8d6da8d75094.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/rangers-co-owner-jed-york-34511215",
         "title": "Rangers co-owner Jed York arrested in USA as 49ers boss pleads no contest",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/rangers-co-owner-jed-york-34511215",
