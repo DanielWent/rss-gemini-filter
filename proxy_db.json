@@ -714,6 +714,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "4ac63162d5154268613e04ac0cfbe863",
+        "title": "Addiction recovery centre secures over \u00a316k funding to provide free support services",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26489272.kirkintilloch-recovery-centre-secured-16-800-funding/",
+        "description": "Kirkintilloch\u2019s volunteer-run Addiction Recovery Centre secured \u00a316,800 National Lottery funding to provide free addiction support across East Dunbartonshire.",
+        "published": "Mon, 24 Aug 2026 10:30:54 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21362076/?type=app&htype=0"
+      },
+      {
         "id": "a73246940062ec23f116c7062d212f2a",
         "title": "Glasgow suburbs dubbed 'commuter hotspots' see sharpest price rises in UK",
         "link": "https://www.glasgowtimes.co.uk/news/26488606.glasgows-commuter-hotspots-see-13-percent-rise-price/",
@@ -852,6 +860,38 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-crime-rate-drops-despite-34506909",
+        "title": "Glasgow crime rate drops despite Ally McCoist's comments on city centre 'no-go zone'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-crime-rate-drops-despite-34506909",
+        "description": "Former Rangers ace Ally McCoist said he will no longer visit the city centre - but new police figures suggest a drop in crimes being committed there.",
+        "published": "Mon, 24 Aug 2026 10:05:25 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34507245.ece/ALTERNATES/s98/0_Screenshot-2026-08-24-104518.png"
+      },
+      {
+        "id": "1babddba8c5908ae08a50eca141d25f9",
+        "title": "\u00a3150,000 funding boost to support school library projects across Scotland",
+        "link": "https://www.heraldscotland.com/news/26489345.150-000-funding-boost-school-libraries-across-scotland/",
+        "description": "Sixteen school library projects across 13 Scottish local authorities have secured support through the \u00a3150,000 School Library Improvement Fund.",
+        "published": "Mon, 24 Aug 2026 10:54:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21362187/?type=app&htype=0"
+      },
+      {
+        "id": "ae99bcde07e582a11946b3e334252959",
+        "title": "Glasgow punk band release brand new single lamenting decline of city's nightlife",
+        "link": "https://www.glasgowtimes.co.uk/news/26489331.glasgow-band-release-new-single-reflecting-citys-decline/",
+        "description": "A Glasgow punk band has released a new single inspired by the decline of their hometown.",
+        "published": "Mon, 24 Aug 2026 10:41:57 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21362168/?type=app&htype=0"
+      },
+      {
+        "id": "4ac63162d5154268613e04ac0cfbe863",
+        "title": "Addiction recovery centre secures over \u00a316k funding to provide free support services",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26489272.kirkintilloch-recovery-centre-secured-16-800-funding/",
+        "description": "Kirkintilloch\u2019s volunteer-run Addiction Recovery Centre secured \u00a316,800 National Lottery funding to provide free addiction support across East Dunbartonshire.",
+        "published": "Mon, 24 Aug 2026 10:30:54 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21362076/?type=app&htype=0"
+      },
       {
         "id": "986e12cc5221b35f039ce9f127648750",
         "title": "How Glasgow refugees are learning the language of the city, from English to Weegie",
