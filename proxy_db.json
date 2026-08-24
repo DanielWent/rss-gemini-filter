@@ -861,6 +861,54 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "68292aec7d2fc536326b2cd7452b9ed9",
+        "title": "LIVE updates amid ongoing travel chaos as Glasgow trains could be axed",
+        "link": "https://www.glasgowtimes.co.uk/news/26491119.live-updates-amid-signalling-fault-affecting-glasgow-central/",
+        "description": "Glasgow Central trains could be cancelled this evening amid an ongoing issue.",
+        "published": "Mon, 24 Aug 2026 15:58:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19641035/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-living-wage-trail-launched-34509943",
+        "title": "New living wage trail launched across Glasgow to support local businesses",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/new-living-wage-trail-launched-34509943",
+        "description": "The trail features 15 accredited Living Wage employers across Glasgow, spanning cafes, museums, retail, live music venues and more",
+        "published": "Mon, 24 Aug 2026 14:48:35 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33524110.ece/ALTERNATES/s98/0_mitchelllibrary.png"
+      },
+      {
+        "id": "46cccb105310df4c9baa13bacde8c69b",
+        "title": "Temporary lights installed on busy Glasgow road as drivers asked to 'avoid",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26491037.temporary-lights-installed-busy-glasgows-pollokshaws-road/",
+        "description": "Temporary traffic lights have been installed on Pollokshaws Road as major resurfacing works cause road closures, diversions and expected delays.",
+        "published": "Mon, 24 Aug 2026 15:45:20 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16783333/?type=app&htype=0"
+      },
+      {
+        "id": "44a214ba14266046e2859b1d91261a63",
+        "title": "Award-winning children's author brings superhero fun to primary pupils",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26491011.supertato-author-sue-hendra-visited-north-lanarkshire-pupils/",
+        "description": "A visit from a popular children\u2019s author has brought a burst of creativity and fun to pupils in North Lanarkshire.",
+        "published": "Mon, 24 Aug 2026 15:41:16 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21364863/?type=app&htype=0"
+      },
+      {
+        "id": "b7ccf02adad0d55fd2b6faae3b340b67",
+        "title": "Cumbernauld industrial unit sold for \u00a35.45m as buyer makes first fund acquisition",
+        "link": "https://www.heraldscotland.com/news/26490970.cumbernauld-industrial-unit-sold-5-45-million/",
+        "description": "A 55,000 sq ft industrial unit in Cumbernauld has been sold for \u00a35.45 million to Rankeilour Properties, with the property let until 2035.",
+        "published": "Mon, 24 Aug 2026 15:41:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21364828/?type=app&htype=0"
+      },
+      {
+        "id": "cf581b92fc30d655176879725189274a",
+        "title": "Marra: Reform UK is 'a gateway to something much darker'",
+        "link": "https://www.heraldscotland.com/news/26490780.labour-open-discussions-others-council-deals/",
+        "description": "Michael Marra says he would allow Labour councillors to strike deals with other parties after next year's local elections \u2014 but has ruled out any arrangement with Reform UK, branding the party 'incredibly dangerous'.",
+        "published": "Mon, 24 Aug 2026 15:06:38 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21364609/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=526333",
         "title": "Double murder detectives trawl 4,000 hours of CCTV in hunt for killer",
         "link": "https://news.stv.tv/west-central/double-murder-detectives-trawl-4000-hours-of-cctv-in-hunt-for-killer",
@@ -869,28 +917,28 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/3d36fbb304e7f55cb452bcea1fe102e5-1787139532-1280x720.jpeg"
       },
       {
+        "id": "4ce9ebad9735448e7087c35eec6d2c06",
+        "title": "New Edinburgh school brings three historic schools together under one name",
+        "link": "https://www.heraldscotland.com/news/26490673.new-edinburgh-school-unites-three-historic-schools/",
+        "description": "Erskine Stewart Melville has officially opened in Edinburgh, bringing together The Mary Erskine School, Stewart\u2019s Melville College and ESMS Junior School.",
+        "published": "Mon, 24 Aug 2026 14:51:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21364451/?type=app&htype=0"
+      },
+      {
+        "id": "e37faac397ab5192dd2f04b2f3edb741",
+        "title": "'Ministerial office is not right for me at this time:' SNP minister quits government",
+        "link": "https://www.heraldscotland.com/news/26490617.ben-macpherson-resigns-scottish-government-minister/",
+        "description": "Ben Macpherson has resigned as a Scottish Government minister, saying he needs to prioritise his mental and physical wellbeing.",
+        "published": "Mon, 24 Aug 2026 14:37:04 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20246132/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=526311",
         "title": "Former world snooker champion Graeme Dott\u00a0found guilty of child sex abuse charges against two children",
         "link": "https://news.stv.tv/west-central/former-world-snooker-champion-graeme-dott-found-guilty-of-child-sex-abuse-charges-against-two-children",
         "description": "Graeme Dott was found guilty of lewd, indecent and libidinous behaviour towards two primary school-age children",
         "published": "Mon, 24 Aug 2026 13:21:43 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/48ecef6a059f93aec93413b0a3e71a58-1787568698-1080x720.jpg"
-      },
-      {
-        "id": "e7eb496b5dc9e312d1f89b590e8671b5",
-        "title": "Police widen probe after two men murdered in Glasgow",
-        "link": "https://www.heraldscotland.com/news/26490303.police-widen-probe-two-men-murdered-glasgow/",
-        "description": "More than 170 homes have been visited by police probing a double murder in Glasgow.",
-        "published": "Mon, 24 Aug 2026 13:33:07 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21341570/?type=app&htype=0"
-      },
-      {
-        "id": "2b09d1cb7806ff5794392587010b279e",
-        "title": "Glasgow double murder probe escalates as national specialists drafted in",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26490253.national-teams-involved-glasgow-double-murder-chancellor-street/",
-        "description": "National resources and forensic specialists have joined the Glasgow double murder investigation as police examine 4,000 hours of CCTV footage.",
-        "published": "Mon, 24 Aug 2026 13:21:13 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21341315/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
