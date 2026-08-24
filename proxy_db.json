@@ -861,12 +861,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8c79226e64fbf08835506d5794e0e40d",
+        "title": "Beloved Beatson Ambassadog Baxter to make final appearance at fundraising event",
+        "link": "https://www.glasgowtimes.co.uk/news/26489633.beatson-ambassadog-make-final-appearance-charity-walk/",
+        "description": "Baxter, who has spent the past year raising awareness for the Beatson Cancer Charity, will complete his duties with one last appearance.",
+        "published": "Mon, 24 Aug 2026 11:29:55 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21362705/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=526278",
+        "title": "Shots fired at Batmobile as Glasgow turns into Gotham for dramatic filming",
+        "link": "https://news.stv.tv/west-central/shots-fired-at-batmobile-as-glasgow-turns-into-gotham-for-dramatic-filming",
+        "description": "Scotland\u2019s largest city is set to return to the silver screen as Gotham after playing a key role in the 2022 superhero film",
+        "published": "Mon, 24 Aug 2026 10:18:22 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/b9d8996ba11b55b70d1689061d323be5-1787562677-1280x720.jpeg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=526286",
+        "title": "Man who tried to murder friend bragged that he \u2018opened him up like a turkey\u2019",
+        "link": "https://news.stv.tv/west-central/man-who-tried-to-murder-friend-bragged-that-he-opened-him-up-like-a-turkey",
+        "description": "Michael Fisher, 35, repeatedly struck the victim with a razor blade at his home in Stevenston",
+        "published": "Mon, 24 Aug 2026 10:14:33 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2025/05/f80552903122b112511c63c30c41a9fc-1746179781.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-crime-rate-drops-despite-34506909",
         "title": "Glasgow crime rate drops despite Ally McCoist's comments on city centre 'no-go zone'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-crime-rate-drops-despite-34506909",
         "description": "Former Rangers ace Ally McCoist said he will no longer visit the city centre - but new police figures suggest a drop in crimes being committed there.",
         "published": "Mon, 24 Aug 2026 10:05:25 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34507245.ece/ALTERNATES/s98/0_Screenshot-2026-08-24-104518.png"
+      },
+      {
+        "id": "b9f81022052ba8da0983164f84f38aa6",
+        "title": "Armed police and negotiators rush to 'disturbance' within Glasgow flat",
+        "link": "https://www.glasgowtimes.co.uk/news/26489475.armed-police-negotiators-rush-disturbance-castlemilk/",
+        "description": "Armed police units and negotiators rushed to the scene of an alleged disturbance within a flat in Glasgow",
+        "published": "Mon, 24 Aug 2026 11:05:23 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/12776524/?type=app&htype=0"
       },
       {
         "id": "1babddba8c5908ae08a50eca141d25f9",
