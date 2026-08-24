@@ -869,12 +869,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "c734eeb931a96f45ed33176f7375d0af",
+        "title": "LIVE updates as major road CLOSED amid ongoing emergency incident",
+        "link": "https://www.glasgowtimes.co.uk/news/26491288.live-updates-a70-closed-amid-ongoing-emergency-incident/",
+        "description": "A major road has been closed following an emergency incident.",
+        "published": "Mon, 24 Aug 2026 16:26:23 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21365312/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=526376",
         "title": "Two people taken to hospital after being found injured on Calder Street in Glasgow",
         "link": "https://news.stv.tv/west-central/two-people-taken-to-hospital-after-being-found-injured-on-calder-street-in-glasgow",
         "description": "A man and woman were found injured on Calder Street in Glasgow in the early hours of Monday morning",
         "published": "Mon, 24 Aug 2026 15:24:00 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2021/12/e9ca09d66a0e0e6cd281e3b2d8505f88-937x720.jpg"
+      },
+      {
+        "id": "d1048769d7818ad9fb1b60f24610531e",
+        "title": "Urgent SGN causes disruption on busy Glasgow road",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26491241.urgent-sgn-works-causes-disruption-glasgows-sandwood-road/",
+        "description": "Drivers face delays on Sandwood Road in Glasgow after urgent SGN maintenance works reduced the southbound carriageway to one lane.",
+        "published": "Mon, 24 Aug 2026 16:18:34 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20426296/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/gallery/sneak-peek-superpark-ahead-opening-34509432",
