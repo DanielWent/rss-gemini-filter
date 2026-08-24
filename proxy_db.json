@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c62m4gpnp78o#0",
+        "title": "World's oceans hit highest temperature on record as El Ni\u00f1o grows",
+        "link": "https://www.bbc.co.uk/news/articles/c62m4gpnp78o?at_medium=RSS&at_campaign=rss",
+        "description": "The record \"is another clear signal of an ocean under growing stress\", according to Dr Samantha Burgess from the European Copernicus climate change service.",
+        "published": "Mon, 24 Aug 2026 15:17:48 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e1c/live/bc7158a0-9fc3-11f1-8648-8d7b77845e6d.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c1714xg2vr9o#0",
         "title": "'It's not Alton Towers' - rows break out over queuing at Wales' highest mountain",
         "link": "https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&at_campaign=rss",
@@ -861,6 +869,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=526376",
+        "title": "Two people taken to hospital after being found injured on Calder Street in Glasgow",
+        "link": "https://news.stv.tv/west-central/two-people-taken-to-hospital-after-being-found-injured-on-calder-street-in-glasgow",
+        "description": "A man and woman were found injured on Calder Street in Glasgow in the early hours of Monday morning",
+        "published": "Mon, 24 Aug 2026 15:24:00 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2021/12/e9ca09d66a0e0e6cd281e3b2d8505f88-937x720.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/gallery/sneak-peek-superpark-ahead-opening-34509432",
+        "title": "Sneak peek at SuperPark ahead of opening as huge new indoor playground comes to Braehead",
+        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/gallery/sneak-peek-superpark-ahead-opening-34509432",
+        "description": "Featuring trampolines, climbing walls, obstacle courses, and interactive sports games, it's the first-ever SuperPark to open in the UK and will launch this month.",
+        "published": "Mon, 24 Aug 2026 15:12:36 +0000",
+        "image_url": "https://i2-prod.edinburghlive.co.uk/incoming/article34509395.ece/ALTERNATES/s98/0_IMG_5959-2.jpg"
+      },
+      {
         "id": "68292aec7d2fc536326b2cd7452b9ed9",
         "title": "LIVE updates amid ongoing travel chaos as Glasgow trains could be axed",
         "link": "https://www.glasgowtimes.co.uk/news/26491119.live-updates-amid-signalling-fault-affecting-glasgow-central/",
@@ -933,12 +957,28 @@
         "image_url": "https://www.heraldscotland.com/resources/images/20246132/?type=app&htype=0"
       },
       {
+        "id": "0244776fbaa2f83ae88e61c92debffa3",
+        "title": "Scottish parents warned not to miss out on child benefit payments",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26490539.scottish-parents-warned-not-miss-child-benefit-payments/",
+        "description": "Scottish parents have been warned not to miss out on huge child benefit payments, potentially worth thousands.",
+        "published": "Mon, 24 Aug 2026 14:24:07 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17595946/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=526311",
         "title": "Former world snooker champion Graeme Dott\u00a0found guilty of child sex abuse charges against two children",
         "link": "https://news.stv.tv/west-central/former-world-snooker-champion-graeme-dott-found-guilty-of-child-sex-abuse-charges-against-two-children",
         "description": "Graeme Dott was found guilty of lewd, indecent and libidinous behaviour towards two primary school-age children",
         "published": "Mon, 24 Aug 2026 13:21:43 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/48ecef6a059f93aec93413b0a3e71a58-1787568698-1080x720.jpg"
+      },
+      {
+        "id": "a9707003bc09a0de2971dfcbdd155274",
+        "title": "Killer struck 'terrified' woman, 58, with hammer in Ruchazie road rage attack",
+        "link": "https://www.glasgowtimes.co.uk/news/26490349.killer-attacked-woman-hammer-ruchazie-road-rage-attack/",
+        "description": "A convicted killer is back behind bars after a brutal road rage hammer attack on a woman.",
+        "published": "Mon, 24 Aug 2026 13:42:37 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21364108/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
