@@ -861,6 +861,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c20jxky3ggro#0",
+        "title": "Mother, grandmother and stepfather sentenced for 'house of terror' abuse",
+        "link": "https://www.bbc.co.uk/news/articles/c20jxky3ggro?at_medium=RSS&at_campaign=rss",
+        "description": "Shirley Freeman, Julia Stephen and David McColl's victims were beaten, starved and psychologically tormented.",
+        "published": "Mon, 24 Aug 2026 11:15:23 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a6a/live/c7101ba0-85c1-11f1-a407-4750df4c0797.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/gallery/much-loved-glasgow-city-centre-34507875",
+        "title": "Much-loved Glasgow city centre pub reopens with fresh new look after short closure",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/gallery/much-loved-glasgow-city-centre-34507875",
+        "description": "The Rhoderick Dhu is back with a brand new six-figure facelift.",
+        "published": "Mon, 24 Aug 2026 11:09:05 +0000",
+        "image_url": "https://i2-prod.edinburghlive.co.uk/incoming/article34507768.ece/ALTERNATES/s98/0_Rhoderick-Dhu-Glasgow-Bar-2.jpg"
+      },
+      {
+        "id": "8937370",
+        "title": "Celtic sanction star's Parkhead exit as Hoops to 'force him out the door' with transfer swoop",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-sanction-stars-parkhead-exit-as-hoops-to-force-him-out-the-door-with-transfer-swoop-8937370",
+        "description": "<p>Midfielder has made it clear he wants to leave the club</p>",
+        "published": "Mon, 24 Aug 2026 11:00:17 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/24/8/08/GettyImages-2238815891.jpeg?width=1200&auto=webp&trim=68%2C0%2C69%2C0"
+      },
+      {
+        "id": "aa1127c04c47f9d2edd792fc925d7ca1",
+        "title": "Programme for Government 2026: Scotland needs action, not policy by press release",
+        "link": "https://www.heraldscotland.com/politics/holyrood/26485511.scotland-needs-real-action-programme-government/",
+        "description": "The Programme for Government is imminent. What workers want is perhaps different from what government may deliver. It's time to end the Scottish Government's approach of policy by press release and deliver real action for communities, writes Roz Foyer.",
+        "published": "Mon, 24 Aug 2026 11:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21137434/?type=app&htype=0"
+      },
+      {
         "id": "8c79226e64fbf08835506d5794e0e40d",
         "title": "Beloved Beatson Ambassadog Baxter to make final appearance at fundraising event",
         "link": "https://www.glasgowtimes.co.uk/news/26489633.beatson-ambassadog-make-final-appearance-charity-walk/",
