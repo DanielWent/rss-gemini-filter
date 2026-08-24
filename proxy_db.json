@@ -861,12 +861,52 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c770lr15zp1o#0",
+        "title": "McAllan defends description of council failings in child abuse case as 'catastrophic'",
+        "link": "https://www.bbc.co.uk/news/articles/c770lr15zp1o?at_medium=RSS&at_campaign=rss",
+        "description": "Education Secretary Mairi McAllan said she stood by a letter she sent to Glasgow City Council chief executive Susanne Millar.",
+        "published": "Mon, 24 Aug 2026 13:30:30 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c4b/live/5c214540-dccf-11ef-a37f-eba91255dc3d.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=526311",
+        "title": "Former world snooker champion Graeme Dott\u00a0found guilty of child sex abuse charges against two children",
+        "link": "https://news.stv.tv/west-central/former-world-snooker-champion-graeme-dott-found-guilty-of-child-sex-abuse-charges-against-two-children",
+        "description": "Graeme Dott was found guilty of lewd, indecent and libidinous behaviour towards two primary school-age children",
+        "published": "Mon, 24 Aug 2026 13:21:43 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/48ecef6a059f93aec93413b0a3e71a58-1787568698-1080x720.jpg"
+      },
+      {
+        "id": "310c65c1565c40e4a27f68be056ca135",
+        "title": "Refurbishment firm expands into Scotland with new office near Glasgow",
+        "link": "https://www.heraldscotland.com/news/26490401.refurbishment-firm-opens-first-scottish-office-near-glasgow/",
+        "description": "Inco Contracts has opened its first Scottish office at Strathclyde Business Park as the refurbishment specialist expands its presence north of the border.",
+        "published": "Mon, 24 Aug 2026 13:53:57 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21364022/?type=app&htype=0"
+      },
+      {
+        "id": "e7eb496b5dc9e312d1f89b590e8671b5",
+        "title": "Police widen probe after two men murdered in Glasgow",
+        "link": "https://www.heraldscotland.com/news/26490303.police-widen-probe-two-men-murdered-glasgow/",
+        "description": "More than 170 homes have been visited by police probing a double murder in Glasgow.",
+        "published": "Mon, 24 Aug 2026 13:33:07 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21341570/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=526115",
         "title": "Sheriff criticises Police Scotland\u2019s handling of death of Cumbrae farmer crushed by loader",
         "link": "https://news.stv.tv/west-central/sheriff-criticises-police-scotlands-handling-of-death-of-cumbrae-farmer-crushed-by-loader",
         "description": "Sheriff Bissett said if care had been taken by police, he may have been able to make a firmer determination in the case",
         "published": "Mon, 24 Aug 2026 12:29:48 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/09dfacd5099756a301a472f92cd77f1d-1787569855-1080x720.jpeg"
+      },
+      {
+        "id": "fcc7f4711e58563abc275efb9545ab39",
+        "title": "Michael Marra has 'no regrets' about telling Andy Burnham to 'shut up'",
+        "link": "https://www.heraldscotland.com/news/26490254.michael-marra-scottish-labour-like-glasgow-subway/",
+        "description": "Michael Marra has launched his Scottish Labour leadership campaign with a speech declaring the party's crisis is systemic and its structure outdated,.",
+        "published": "Mon, 24 Aug 2026 13:21:31 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21363753/?type=app&htype=0"
       },
       {
         "id": "2b09d1cb7806ff5794392587010b279e",
@@ -1019,6 +1059,14 @@
         "description": "Sixteen school library projects across 13 Scottish local authorities have secured support through the \u00a3150,000 School Library Improvement Fund.",
         "published": "Mon, 24 Aug 2026 10:54:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21362187/?type=app&htype=0"
+      },
+      {
+        "id": "2cc5285ca38f622800a29b989075bd7f",
+        "title": "Doctor who forged prescriptions with the names of dead patients keeps license",
+        "link": "https://www.glasgowtimes.co.uk/news/26489336.nhs-lanarkshire-doctor-forged-prescriptions-keeps-licence/",
+        "description": "A doctor who forged prescriptions under the names of dead patients has managed to retain his license to practice medicine",
+        "published": "Mon, 24 Aug 2026 10:42:46 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21085727/?type=app&htype=0"
       },
       {
         "id": "ae99bcde07e582a11946b3e334252959",
