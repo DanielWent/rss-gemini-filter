@@ -965,6 +965,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "892371bc4c39a589409c7b7e98f7e9ce",
+        "title": "Glasgow bus fares slashed to \u00a33 as award-winning service celebrates",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26495307.mcgills-slash-glasgow-fares-3-award-winning-service-celebrates/",
+        "description": "McGill's passengers can travel across Greater Glasgow for just \u00a33 this weekend as the award-winning NightBus network celebrates its third anniversary with a special fare offer.",
+        "published": "Tue, 25 Aug 2026 18:29:50 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19005495/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-cops-launch-search-missing-34516864",
         "title": "Glasgow cops launch search for missing teen who 'may have travelled to Fife'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-cops-launch-search-missing-34516864",
@@ -973,12 +981,12 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34516892.ece/ALTERNATES/s98/2_mis-per-derran-meechan.jpg"
       },
       {
-        "id": "f62de791025645b87bbd6f4911b7eb1d",
-        "title": "Urgent search launched for missing teen as concerns grow",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26495269.urgent-search-launched-missing-glasgow-teen-concerns-grow/",
-        "description": "Police have launched a search for a missing teenager as his family becomes increasingly concerned.",
-        "published": "Tue, 25 Aug 2026 18:00:57 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21371388/?type=app&htype=0"
+        "id": "https://www.bbc.co.uk/news/articles/cj642ld8px1o#0",
+        "title": "LASK to hold silence for Celtic fan who died during Champions League match",
+        "link": "https://www.bbc.co.uk/news/articles/cj642ld8px1o?at_medium=RSS&at_campaign=rss",
+        "description": "The 65-year-old supporter took ill during the first leg of the Champions League play-off in Glasgow last week.",
+        "published": "Tue, 25 Aug 2026 16:46:38 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76a9/live/6c369ed0-a09b-11f1-8a1f-314a01485cf4.jpg"
       },
       {
         "id": "5dc5cfb97935e5683f01703c91cebd39",
@@ -1093,28 +1101,12 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21369860/?type=app&htype=0"
       },
       {
-        "id": "8941077",
-        "title": "Plans submitted to transform A-listed derelict Springburn Winter Gardens",
-        "link": "https://www.glasgowworld.com/news/plans-submitted-to-transform-a-listed-derelict-springburn-winter-gardens-8941077",
-        "description": "<p>A project to save the derelict Springburn Winter Gardens has taken a step forward after plans to repair the A-listed structure were submitted.  </p>",
-        "published": "Tue, 25 Aug 2026 13:55:45 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/25/13/32/onecms_9e2e31cf-550c-4008-80a3-3a6618b70b90_92e05e73-861b-4a0d-981c-38d62bbab383.jpeg?width=1200&auto=webp&trim=0%2C38%2C0%2C38"
-      },
-      {
         "id": "13f2a1bea0d9909350a10cd2938adec2",
         "title": "Lorraine Kelly reveals she has signed new TV contract but drops hints on new chapter",
         "link": "https://www.heraldscotland.com/news/26494157.lorraine-kelly-signs-new-tv-deal-drops-big-hints-future/",
         "description": "The presenter admitted she had struggled to 'shoehorn' in time to write her first two novels while doing her daytime TV job.",
         "published": "Tue, 25 Aug 2026 14:44:54 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21369939/?type=app&htype=0"
-      },
-      {
-        "id": "8940989",
-        "title": "Glasgow Caledonian University workers announce strike action in job-cuts dispute",
-        "link": "https://www.glasgowworld.com/news/glasgow-caledonian-university-workers-announce-strike-action-in-job-cuts-dispute-8940989",
-        "description": "<p>Staff at Glasgow Caledonian University are to strike next week in a dispute over redundancies as the new academic year begins, says UNISON. </p>",
-        "published": "Tue, 25 Aug 2026 13:38:44 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/25/13/13/large.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgow-pizza-favourite-named-one-34514233",
