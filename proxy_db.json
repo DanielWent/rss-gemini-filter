@@ -957,6 +957,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=526579",
+        "title": "Strathclyde\u00a0Watersports Centre given \u00a31.18m for sustainable makeover",
+        "link": "https://news.stv.tv/west-central/strathclyde-watersports-centre-given-1-18m-for-sustainable-makeover",
+        "description": "Plans are to transform the 1970s-era building into a sustainable health hub",
+        "published": "Tue, 25 Aug 2026 16:25:38 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/660207caedfb6411186be4d0bce62789-1787672073-1280x720.jpeg"
+      },
+      {
+        "id": "0345fbd099fc1f6544cbe3a75ff63281",
+        "title": "New hope for derelict attraction as \u00a31m-backed revival takes key step",
+        "link": "https://www.glasgowtimes.co.uk/news/26495118.derelict-glasgow-attraction-takes-key-step-toward-regen/",
+        "description": "The Springburn Winter Gardens Trust \u2014 a charity formed in 2013 \u2014 intends to bring the ruin back into use, and has received a grant of over \u00a31m from the Scottish Government.",
+        "published": "Tue, 25 Aug 2026 17:11:16 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21371101/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-households-warned-could-face-34515782",
         "title": "Glasgow households warned they could face up to \u00a380 fine for breaking 4 bin collection rules",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-households-warned-could-face-34515782",
@@ -965,20 +981,20 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/whats-on/article34515781.ece/ALTERNATES/s98/0_Wheelie-Binsjpgu.jpg"
       },
       {
-        "id": "42713b93ca91460b386c00e1a584ef56",
-        "title": "Thug who threatened to stab juror after murder bid conviction handed extra jail term",
-        "link": "https://www.glasgowtimes.co.uk/news/26494890.thug-threatened-stab-juror-murder-bid-conviction/",
-        "description": "A thug who threatened to stab a juror shortly after being convicted of attempted murder has been handed an extra three years in jail.",
-        "published": "Tue, 25 Aug 2026 16:31:27 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20990839/?type=app&htype=0"
-      },
-      {
         "id": "https://news.stv.tv/?p=526578",
         "title": "The Scottish Government has tough spending decisions ahead amid fiscal update",
         "link": "https://news.stv.tv/west-central/the-scottish-government-has-tough-spending-decisions-ahead-amid-fiscal-update",
         "description": "Tuesday saw the publication of the fiscal update, which warns less money will be available for 2027/28",
         "published": "Tue, 25 Aug 2026 15:21:36 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2021/06/c1bccf0a1b160ffb84867f3bb2af6ece.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c3d793g1gl0o#0",
+        "title": "Players threatened, official headbutted and 72 red cards in week of youth football",
+        "link": "https://www.bbc.co.uk/news/articles/c3d793g1gl0o?at_medium=RSS&at_campaign=rss",
+        "description": "The Central Scotland Football association said conduct at matches had hit an \"all-time low\" in the first week of the season.",
+        "published": "Tue, 25 Aug 2026 15:09:03 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3946/live/ccc6cf90-a082-11f1-a9bc-ad5fed338eb5.jpg"
       },
       {
         "id": "0874ef2448e48718ed265c9191773258",
@@ -1011,14 +1027,6 @@
         "description": "Robert Donaghy accused the juror of laughing at him as he was taken to the cells, and issued the threat, leaving others 'visably distressed'",
         "published": "Tue, 25 Aug 2026 14:34:54 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2021/12/70cbcec99703fa66aa0516486d50ea51-1078x720.jpg"
-      },
-      {
-        "id": "f0021acf9dbc47243c213bbe317bd67b",
-        "title": "Government grant to transform watersports centre and cut emissions",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26494377.government-grant-transform-strathclyde-park-watersports-centre/",
-        "description": "A watersports centre will be transformed into a world-class sustainable tourist attraction and sporting venue after being allocated government funding.",
-        "published": "Tue, 25 Aug 2026 15:17:04 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21369812/?type=app&htype=0"
       },
       {
         "id": "753769f837a701250e72e24094cf6f30",
