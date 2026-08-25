@@ -965,6 +965,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=526585",
+        "title": "Calls for deposit return scheme to dispose of vapes after bin lorry fires in Glasgow",
+        "link": "https://news.stv.tv/west-central/calls-for-deposit-return-scheme-to-dispose-of-vapes-after-bin-lorry-fires-in-glasgow",
+        "description": "Officers were asked if a scheme could be introduced to help deal with the issue surrounding lithium ion batteries.",
+        "published": "Tue, 25 Aug 2026 19:39:55 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/f72984c2e93713646aa4e55e7d3ca4d7-1787674347.jpg"
+      },
+      {
         "id": "8940677",
         "title": "How to watch Jablonec vs Rangers: Live stream, team news, referee and VAR for Conference League decider",
         "link": "https://www.glasgowworld.com/sport/football/rangers/how-to-watch-jablonec-vs-rangers-live-stream-team-news-referee-and-var-for-conference-league-decider-8940677",
@@ -979,6 +987,14 @@
         "description": "CCTV footage captured the incident at the Day Today store in East Kilbride in broad daylight.",
         "published": "Tue, 25 Aug 2026 18:15:53 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7d4/live/d8971a80-a0a7-11f1-9d94-5b9b42fe99e5.png"
+      },
+      {
+        "id": "540eefa3631c9824a73090b4f6869821",
+        "title": "Glasgow honours seven firefighters lost in one of city's darkest tragedies",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26495340.glasgow-honours-seven-firefighters-lost-kilbirnie-street-blaze/",
+        "description": "More than 50 years after the Kilbirnie Street warehouse fire claimed the lives of seven Glasgow firefighters, families and colleagues gathered to honour the men.",
+        "published": "Tue, 25 Aug 2026 18:56:45 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21371563/?type=app&htype=0"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/ce8e053dg8yo#0",
