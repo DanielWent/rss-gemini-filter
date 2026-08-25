@@ -537,6 +537,14 @@
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
       {
+        "id": "https://the5krunner.com/?p=127226",
+        "title": "Garmin Locate Explained \u2013 It\u2019s not LiveTrack",
+        "link": "https://the5krunner.com/2026/08/25/garmin-locate-explained/",
+        "description": "<p><img alt=\"Garmin Locate Explained &#8211; It&#8217;s not LiveTrack\" class=\"attachment-large size-large\" height=\"624\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/08/87594-VID-M1.jpg/w=1110,h=624\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Garmin Locate lets a contact request your Fenix 9 Pro location through the Garmin Messenger app without you starting a LiveTrack session. LTE only, inReach plan required. How it differs from LiveTrack.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/08/25/garmin-locate-explained/\">Garmin Locate Explained &#8211; It&#8217;s not LiveTrack</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
+        "published": "Tue, 25 Aug 2026 12:44:19 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/08/87594-VID-M1.jpg/w=1110,h=624"
+      },
+      {
         "id": "https://the5krunner.com/?p=127215",
         "title": "Garmin Website Struggles at f\u0113nix 9 Launch",
         "link": "https://the5krunner.com/2026/08/25/garmin-website-struggles-at-fenix-9-launch/",
@@ -778,6 +786,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "d614301467527a9a5d45bd5ba01a91dc",
+        "title": "Part of city centre 'unrecognisable' after latest phase of \u00a322.5m transformation",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26494523.glasgows-cowcaddens-road-dobbies-loan-transformed/",
+        "description": "A part of Glasgow city centre is said to look \u201cunrecognisable\u201d after the latest phase of a \u00a322.5m transformation project was completed.",
+        "published": "Tue, 25 Aug 2026 15:36:09 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21370454/?type=app&htype=0"
+      },
+      {
         "id": "394fd222bdbb680dbfcbf18e1c86a824",
         "title": "Glasgow children's programme celebrates 50 years of learning through play",
         "link": "https://www.glasgowtimes.co.uk/news/26493219.glasgow-childrens-programme-celebrates-50-years-pla/",
@@ -941,12 +957,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "d614301467527a9a5d45bd5ba01a91dc",
+        "title": "Part of city centre 'unrecognisable' after latest phase of \u00a322.5m transformation",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26494523.glasgows-cowcaddens-road-dobbies-loan-transformed/",
+        "description": "A part of Glasgow city centre is said to look \u201cunrecognisable\u201d after the latest phase of a \u00a322.5m transformation project was completed.",
+        "published": "Tue, 25 Aug 2026 15:36:09 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21370454/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=526566",
+        "title": "Man who threatened to stab juror after murder bid conviction handed extra jail time",
+        "link": "https://news.stv.tv/west-central/man-who-threatened-to-stab-juror-after-murder-bid-conviction-handed-extra-jail-time",
+        "description": "Robert Donaghy accused the juror of laughing at him as he was taken to the cells, and issued the threat, leaving others 'visably distressed'",
+        "published": "Tue, 25 Aug 2026 14:34:54 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2021/12/70cbcec99703fa66aa0516486d50ea51-1078x720.jpg"
+      },
+      {
         "id": "f0021acf9dbc47243c213bbe317bd67b",
         "title": "Government grant to transform watersports centre and cut emissions",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26494377.government-grant-transform-strathclyde-park-watersports-centre/",
         "description": "A watersports centre will be transformed into a world-class sustainable tourist attraction and sporting venue after being allocated government funding.",
         "published": "Tue, 25 Aug 2026 15:17:04 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21369812/?type=app&htype=0"
+      },
+      {
+        "id": "753769f837a701250e72e24094cf6f30",
+        "title": "This historic Scottish tollhouse still has its original toll sign \u2013 and it's for sale",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26494252.historic-kirkintilloch-tollhouse-original-features-sale-325k/",
+        "description": "Step inside one of Kirkintilloch's oldest buildings as the historic former tollhouse goes on sale for \u00a3325,000, complete with original features and stunning period charm.",
+        "published": "Tue, 25 Aug 2026 14:59:06 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21370061/?type=app&htype=0"
+      },
+      {
+        "id": "ffe095fe64dd7a762eafc176b3fb3cd9",
+        "title": "Well known market in Ayrshire town will close down after close to 40 years",
+        "link": "https://www.heraldscotland.com/news/26494237.indoor-market-kilmarnock-close-almost-40-years/",
+        "description": "A popular market in Ayrshire will close down after close to four decades",
+        "published": "Tue, 25 Aug 2026 14:56:43 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21369860/?type=app&htype=0"
       },
       {
         "id": "8941077",
@@ -1067,14 +1115,6 @@
         "description": "Emergency services raced to All Automotive in Tollcross in the early hours.",
         "published": "Tue, 25 Aug 2026 11:08:16 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34513683.ece/ALTERNATES/s98/0_JS415726314.jpg"
-      },
-      {
-        "id": "758a5871c954814e334b0b8938f9a628",
-        "title": "Dementia overtakes heart disease as Scots births reach new low",
-        "link": "https://www.heraldscotland.com/news/26493282.dementia-overtakes-heart-disease-scots-births-reach-new-low/",
-        "description": "The annual statistics reveal Scotland's changing population dynamics",
-        "published": "Tue, 25 Aug 2026 12:07:59 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/16838750/?type=app&htype=0"
       },
       {
         "id": "8940396",
@@ -1211,14 +1251,6 @@
         "description": "There is one rape or attempted rape around every 18 hours in Glasgow according to new police figures.",
         "published": "Tue, 25 Aug 2026 10:18:33 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21367343/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=526453",
-        "title": "Serial domestic abuser brutally attacked partner after Ed Sheeran concert",
-        "link": "https://news.stv.tv/west-central/serial-domestic-abuser-brutally-attacked-partner-after-ed-sheeran-concert",
-        "description": "James Hamilton was also violent to a second woman, choking her and keeping tabs on her social media",
-        "published": "Tue, 25 Aug 2026 09:06:29 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2023/05/d170e81d0e58dcd0c17a1e144b2c6953-1683727170-1120x720.jpg"
       },
       {
         "id": "9cc837526816ea6a2ab9bfcf441f8120",
