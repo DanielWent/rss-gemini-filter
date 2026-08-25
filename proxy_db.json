@@ -901,6 +901,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-were-wrong-say-glasgow-34511661",
+        "title": "Police were wrong to say Glasgow gang war is over says cop who nailed Iceman",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-were-wrong-say-glasgow-34511661",
+        "description": "&quot;It wasn't sensible to indicate that resolution had been achieved between criminal groups. That wasn't going to be the case.&quot;",
+        "published": "Tue, 25 Aug 2026 06:34:42 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34499481.ece/ALTERNATES/s98/1_Screenshot-2026-08-21-at-164652.png"
+      },
+      {
+        "id": "bfc61e74e8180ec99956172b13ada72e",
+        "title": "Batman Hollywood star sparks speculation that he may be heading to Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26491997.jeffrey-wright-sparks-glasgow-batman-filming-speculation/",
+        "description": "The Batman star Jeffrey Wright has fuelled speculation he could be heading to Glasgow as filming continues.",
+        "published": "Tue, 25 Aug 2026 07:24:05 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21343909/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/sport/cycling/articles/c80nzk7dey4o#0",
+        "title": "Sir Chris Hoy: Campaigning for cancer screening should not be down to me",
+        "link": "https://www.bbc.co.uk/sport/cycling/articles/c80nzk7dey4o?at_medium=RSS&at_campaign=rss",
+        "description": "The cycling legend tells BBC Scotland that the onus to encourage men to get tested for prostate cancer should not just be on high profile individuals like him.",
+        "published": "Tue, 25 Aug 2026 05:24:54 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8759/live/66433610-9faf-11f1-bff6-57f1422ebb0b.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/parents-teens-urged-act-now-34511263",
         "title": "Parents with teens urged to 'act now' to avoid losing child benefit payments",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/parents-teens-urged-act-now-34511263",
@@ -923,6 +947,14 @@
         "description": "The owner of a Glasgow dance studio says she has been left in \u201climbo\u201d\u00a0following the\u00a0news that the studio\u2019s\u00a0building could be demolished.",
         "published": "Tue, 25 Aug 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21364293/?type=app&htype=0"
+      },
+      {
+        "id": "810d3326db560aecd085252cc1bdbe51",
+        "title": "First-time mum had to be given new heart just weeks after giving birth",
+        "link": "https://www.glasgowtimes.co.uk/news/health/26491224.lanarkshire-mum-documenting-recovery-heart-transplant/",
+        "description": "An inspiring mother is documenting her journey as she recovers from an emergency heart transplant just weeks after giving birth to her first child.",
+        "published": "Tue, 25 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21365372/?type=app&htype=0"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/cp801jev860o#0",
