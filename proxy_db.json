@@ -941,20 +941,52 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgow-pizza-favourite-named-one-34514233",
+        "title": "Glasgow Pizza favourite named one of the Top 50 Pizzas in Europe for 2026",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgow-pizza-favourite-named-one-34514233",
+        "description": "The travel mag wrote: &quot;Not every pizza in Glasgow is covered in batter and deep-fried \u2013 and Paesano Pizza shows exactly how proper Italian pizza is done in the heart of Scotland\u2019s largest city.&quot;",
+        "published": "Tue, 25 Aug 2026 13:35:27 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34514435.ece/ALTERNATES/s98/2_image00014jpeg.jpg"
+      },
+      {
+        "id": "8940563",
+        "title": "Where you could spot Batman in Glasgow this week as second week of filming begins on the city's streets",
+        "link": "https://www.glasgowworld.com/news/where-you-could-spot-batman-in-glasgow-this-week-as-second-week-of-filming-begins-on-the-citys-streets-8940563",
+        "description": "<p>Several roads in Glasgow are closed for the filming of the new Batman  movie and you could even catch a glimpse of him yourself as filming enters its second week. </p>",
+        "published": "Tue, 25 Aug 2026 13:24:51 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/25/11/46/Screenshot-2026-08-25-123501.png?width=1200&auto=webp&trim=20%2C0%2C21%2C0"
+      },
+      {
+        "id": "8940902",
+        "title": "Avenues Plus project at Cowcaddens Road and Dobbie\u2019s Loan formally opened",
+        "link": "https://www.glasgowworld.com/news/avenues-plus-project-at-cowcaddens-road-and-dobbies-loan-formally-opened-8940902",
+        "description": "<p>The Avenues Plus project at Cowcaddens Road and Dobbie\u2019s Loan was formally opened today (25 August) by Cabinet Secretary for Economy, Tourism and Transport, Stephen Flynn and Councillor Angus Millar, Convener for Climate, Transport and City Centre Recovery at Glasgow City Council.</p>",
+        "published": "Tue, 25 Aug 2026 13:20:16 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/25/13/49/gi-responsive__2354.jpeg?width=1200&auto=webp&trim=0%2C184%2C0%2C184"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-make-three-more-arrests-34514451",
+        "title": "Police make three more arrests after Old Firm Scottish Cup quarter final disorder",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-make-three-more-arrests-34514451",
+        "description": "It brings the total number of arrests to 43.",
+        "published": "Tue, 25 Aug 2026 13:06:34 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34514812.ece/ALTERNATES/s98/0_JS399237271-4.jpg"
+      },
+      {
+        "id": "ea0243442c92d9da290e958b069258c0",
+        "title": "Anything Goes host James English guilty of abusing pregnant ex-partner",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26493883.podcaster-james-english-convicted-abusing-pregnant-former-partner/",
+        "description": "James English, host of the Anything Goes podcast, has been found guilty of domestic abuse against his former partner following a trial at Glasgow Sheriff Court.",
+        "published": "Tue, 25 Aug 2026 13:57:50 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21369282/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/dozens-puppies-seized-scots-animal-34514148",
         "title": "Dozens of puppies seized as Scots animal charity issues low-welfare puppy trade warning",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/dozens-puppies-seized-scots-animal-34514148",
         "description": "The charity is urging anyone considering buying a puppy to do their research and never rush into a purchase.",
         "published": "Tue, 25 Aug 2026 12:26:20 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34514432.ece/ALTERNATES/s98/0_unnamed-1.jpg"
-      },
-      {
-        "id": "20b9db4897bf45feccbfae16827bba14",
-        "title": "Three more arrested after Celtic v Rangers disorder as total reaches 43",
-        "link": "https://www.glasgowtimes.co.uk/sport/26493678.hree-arrested-scottish-cup-quarter-final-pitch-disorder/",
-        "description": "Three further arrests have been made as part of an ongoing investigation into disorder at the Scottish Cup quarter-final between Rangers and Celtic.",
-        "published": "Tue, 25 Aug 2026 13:20:01 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20652896/?type=app&htype=0"
       },
       {
         "id": "d44583023d3e14732e0d88c151a2626a",
@@ -1083,14 +1115,6 @@
         "description": "A liquidator has been appointed to an architects practice that has worked on hundreds of self-build projects across the UK.",
         "published": "Tue, 25 Aug 2026 11:49:25 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21368548/?type=app&htype=0"
-      },
-      {
-        "id": "e2f642ccb2a9169d1c7576d77b7bd0b4",
-        "title": "School intruder stole bank cards from teachers while pupils were in class",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26493156.glasgow-school-intruder-stole-teachers-pupils-class/",
-        "description": "A thief who broke into a primary school during the day while pupils were inside was jailed today for 18 months.",
-        "published": "Tue, 25 Aug 2026 11:47:36 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19461088/?type=app&htype=0"
       },
       {
         "id": "a0a4b98ffe7f8106b208f28a97d2bdfe",
