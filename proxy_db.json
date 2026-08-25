@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1787635212110325",
+        "title": "Songs created by AI banned from Australia's music charts",
+        "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+        "description": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
+        "published": "Tue, 25 Aug 2026 06:54:01 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c04d/live/a8f841c0-a03c-11f1-b7fb-bd20bd7c1336.jpg"
+      },
+      {
         "id": "1787621708817493",
         "title": "Tornado tears through French village leaving dozens injured",
         "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
@@ -892,6 +900,14 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/parents-teens-urged-act-now-34511263",
+        "title": "Parents with teens urged to 'act now' to avoid losing child benefit payments",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/parents-teens-urged-act-now-34511263",
+        "description": "Those with a child aged between 16 and 19 will see their benefit payments stop at the end of August, unless they take action.",
+        "published": "Tue, 25 Aug 2026 05:15:00 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34511286.ece/ALTERNATES/s98/2_teens.jpg"
+      },
       {
         "id": "https://www.bbc.co.uk/news/articles/cp801jev860o#0",
         "title": "Murder inquiry launched after death of man found injured in street",
