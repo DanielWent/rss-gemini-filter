@@ -941,6 +941,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "f0021acf9dbc47243c213bbe317bd67b",
+        "title": "Government grant to transform watersports centre and cut emissions",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26494377.government-grant-transform-strathclyde-park-watersports-centre/",
+        "description": "A watersports centre will be transformed into a world-class sustainable tourist attraction and sporting venue after being allocated government funding.",
+        "published": "Tue, 25 Aug 2026 15:17:04 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21369812/?type=app&htype=0"
+      },
+      {
+        "id": "8941077",
+        "title": "Plans submitted to transform A-listed derelict Springburn Winter Gardens",
+        "link": "https://www.glasgowworld.com/news/plans-submitted-to-transform-a-listed-derelict-springburn-winter-gardens-8941077",
+        "description": "<p>A project to save the derelict Springburn Winter Gardens has taken a step forward after plans to repair the A-listed structure were submitted.  </p>",
+        "published": "Tue, 25 Aug 2026 13:55:45 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/25/13/32/onecms_9e2e31cf-550c-4008-80a3-3a6618b70b90_92e05e73-861b-4a0d-981c-38d62bbab383.jpeg?width=1200&auto=webp&trim=0%2C38%2C0%2C38"
+      },
+      {
+        "id": "8940989",
+        "title": "Glasgow Caledonian University workers announce strike action in job-cuts dispute",
+        "link": "https://www.glasgowworld.com/news/glasgow-caledonian-university-workers-announce-strike-action-in-job-cuts-dispute-8940989",
+        "description": "<p>Staff at Glasgow Caledonian University are to strike next week in a dispute over redundancies as the new academic year begins, says UNISON. </p>",
+        "published": "Tue, 25 Aug 2026 13:38:44 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/25/13/13/large.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgow-pizza-favourite-named-one-34514233",
         "title": "Glasgow Pizza favourite named one of the Top 50 Pizzas in Europe for 2026",
         "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgow-pizza-favourite-named-one-34514233",
