@@ -917,6 +917,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cy8zxwlqwd7o#0",
+        "title": "Dealer jailed for exploiting 14-year-old boy into selling drugs for him",
+        "link": "https://www.bbc.co.uk/news/articles/cy8zxwlqwd7o?at_medium=RSS&at_campaign=rss",
+        "description": "The case is thought to be one of the first involving a child being exploited to deal class A drugs for financial gain.",
+        "published": "Tue, 25 Aug 2026 10:39:34 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25b9/live/fa6a0550-8423-11f1-8aab-7b42b0ff0499.jpg"
+      },
+      {
+        "id": "9db04a4ac7722292d7400c2edbd30ea6",
+        "title": "Glasgow's Hunterian Art Gallery could become Category A listed building",
+        "link": "https://www.glasgowtimes.co.uk/news/26493061.glasgows-hunterian-become-category-listed-building/",
+        "description": "A consultation has been launched on a proposal to list the Hunterian Art Gallery and Mackintosh House as a Category A building.",
+        "published": "Tue, 25 Aug 2026 11:31:12 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21368073/?type=app&htype=0"
+      },
+      {
+        "id": "8940113",
+        "title": "80 nostalgic pictures offering a fascinating glimpse of Glasgow in the 1980s",
+        "link": "https://www.glasgowworld.com/retro/80-nostalgic-pictures-offering-a-fascinating-glimpse-of-glasgow-in-the-1980s-8940113",
+        "description": "<p>These are eighty nostalgic pictures offering a glimpse of life in Glasgow  in the 1980s. </p>",
+        "published": "Tue, 25 Aug 2026 10:29:14 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/25/10/13/canmore_image_DP00487817.jpeg?width=1200&auto=webp&trim=0%2C14%2C0%2C14"
+      },
+      {
         "id": "8ad657a4a41f4b06373225f7e5308247",
         "title": "Popular band sticks up mysterious teaser posters on venues across Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26492743.snuts-glasgow-concert-teaser-posters-pop-across-city/",
