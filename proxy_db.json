@@ -917,6 +917,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8ad657a4a41f4b06373225f7e5308247",
+        "title": "Popular band sticks up mysterious teaser posters on venues across Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26492743.snuts-glasgow-concert-teaser-posters-pop-across-city/",
+        "description": "The band previously announced a tour of the UK including shows in Dundee, Edinburgh, Aberdeen and even Dunfermline, but notably no Glasgow show.",
+        "published": "Tue, 25 Aug 2026 10:42:24 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21367568/?type=app&htype=0"
+      },
+      {
         "id": "8940078",
         "title": "Hundreds of runners hit the streets for North Lanarkshire Half Marathon",
         "link": "https://www.glasgowworld.com/best-in/hundreds-of-runners-hit-the-streets-for-north-lanarkshire-half-marathon-8940078",
@@ -955,6 +963,14 @@
         "description": "The 2006 world champion was found guilty on Monday of two counts of lewd, indecent and libidinous behaviour towards the children.",
         "published": "Tue, 25 Aug 2026 10:04:40 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21367237/?type=app&htype=0"
+      },
+      {
+        "id": "93b2b25f8f7d26da2091268d87005514",
+        "title": "Motorcyclist killed in horror crash involving van that closed road for several hours",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26492203.fatal-a70-crash-near-lanark-claims-life-motorcyclist/",
+        "description": "A motorcyclist has died following a crash on the A70 near Lanark which saw the road closed for around six hours.",
+        "published": "Tue, 25 Aug 2026 09:14:21 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18555865/?type=app&htype=0"
       },
       {
         "id": "8939635",
@@ -1299,14 +1315,6 @@
         "description": "Ben Macpherson has resigned as a Scottish Government minister, saying he needs to prioritise his mental and physical wellbeing.",
         "published": "Mon, 24 Aug 2026 14:37:04 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20246132/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=526311",
-        "title": "Former world snooker champion Graeme Dott\u00a0found guilty of child sex abuse charges against two children",
-        "link": "https://news.stv.tv/west-central/former-world-snooker-champion-graeme-dott-found-guilty-of-child-sex-abuse-charges-against-two-children",
-        "description": "Graeme Dott was found guilty of lewd, indecent and libidinous behaviour towards two primary school-age children",
-        "published": "Mon, 24 Aug 2026 13:21:43 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/48ecef6a059f93aec93413b0a3e71a58-1787568698-1080x720.jpg"
       },
       {
         "id": "a9707003bc09a0de2971dfcbdd155274",
