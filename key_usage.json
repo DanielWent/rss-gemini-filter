@@ -7,11 +7,11 @@
         "exhausted": false
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 31,
+        "daily_requests": 32,
         "exhausted": false
       },
       "gemini-3.6-flash": {
-        "daily_requests": 3,
+        "daily_requests": 4,
         "exhausted": false
       },
       "gemini-2.5-flash-lite": {
@@ -147,11 +147,11 @@
     },
     "6f6441973fb58689": {
       "gemini-3.5-flash-lite": {
-        "daily_requests": 30,
+        "daily_requests": 31,
         "exhausted": false
       },
       "gemini-3.6-flash": {
-        "daily_requests": 2,
+        "daily_requests": 3,
         "exhausted": false
       },
       "gemini-2.5-flash-lite": {
