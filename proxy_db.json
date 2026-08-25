@@ -965,6 +965,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cx2zy2pyex4o#0",
+        "title": "Police probe after shopkeeper fends off machete-wielding robber",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zy2pyex4o?at_medium=RSS&at_campaign=rss",
+        "description": "CCTV footage captured the incident at the Day Today store in East Kilbride in broad daylight.",
+        "published": "Tue, 25 Aug 2026 18:15:53 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7d4/live/d8971a80-a0a7-11f1-9d94-5b9b42fe99e5.png"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/ce8e053dg8yo#0",
+        "title": "Worker jabbed with needle during clean-up after bin lorry fire",
+        "link": "https://www.bbc.co.uk/news/articles/ce8e053dg8yo?at_medium=RSS&at_campaign=rss",
+        "description": "The fire happened on Oban Drive at about 11:30 and forced the refuse vehicle to dump its rubbish on the street.",
+        "published": "Tue, 25 Aug 2026 17:47:45 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4037/live/c56fbba0-a0a8-11f1-9d94-5b9b42fe99e5.png"
+      },
+      {
         "id": "892371bc4c39a589409c7b7e98f7e9ce",
         "title": "Glasgow bus fares slashed to \u00a33 as award-winning service celebrates",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26495307.mcgills-slash-glasgow-fares-3-award-winning-service-celebrates/",
