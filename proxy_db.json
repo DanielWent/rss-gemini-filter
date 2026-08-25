@@ -965,6 +965,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c70d3pdw5r8o#0",
+        "title": "I was in so much pain I could barely feed my cats - now I'm back as a pro wrestler",
+        "link": "https://www.bbc.co.uk/news/articles/c70d3pdw5r8o?at_medium=RSS&at_campaign=rss",
+        "description": "The AEW star Jamie Hayter is set for two big shows in Glasgow and at Wembley Stadium in London this week.",
+        "published": "Tue, 25 Aug 2026 22:07:50 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9640/live/94e00050-a097-11f1-9aa2-6956e08e5d8d.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cjdvkv2ymdxo#0",
+        "title": "Calls for GPS monitoring of domestic abuse suspects after murder",
+        "link": "https://www.bbc.co.uk/news/articles/cjdvkv2ymdxo?at_medium=RSS&at_campaign=rss",
+        "description": "An online petition calls for greater use of technology to protect women from abusive partners following the killing of Stacy Hunter in Renfrewshire.",
+        "published": "Tue, 25 Aug 2026 22:07:21 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aac/live/e1d629b0-8ac7-11f1-801b-9163afadd44a.jpg"
+      },
+      {
         "id": "8941807",
         "title": "Celtic player ratings vs LASK as Champions League implosion costs club millions in sea of 4/10 shockers",
         "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-player-ratings-vs-lask-champions-league-implosion-costs-club-millions-8941807",
@@ -1747,14 +1763,6 @@
         "description": "Ben Macpherson has resigned as a Scottish Government minister, saying he needs to prioritise his mental and physical wellbeing.",
         "published": "Mon, 24 Aug 2026 14:37:04 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20246132/?type=app&htype=0"
-      },
-      {
-        "id": "a9707003bc09a0de2971dfcbdd155274",
-        "title": "Killer struck 'terrified' woman, 58, with hammer in Ruchazie road rage attack",
-        "link": "https://www.glasgowtimes.co.uk/news/26490349.killer-attacked-woman-hammer-ruchazie-road-rage-attack/",
-        "description": "A convicted killer is back behind bars after a brutal road rage hammer attack on a woman.",
-        "published": "Mon, 24 Aug 2026 13:42:37 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21364108/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
