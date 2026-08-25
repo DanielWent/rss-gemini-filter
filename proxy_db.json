@@ -957,6 +957,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-households-warned-could-face-34515782",
+        "title": "Glasgow households warned they could face up to \u00a380 fine for breaking 4 bin collection rules",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-households-warned-could-face-34515782",
+        "description": "The Department for Environment, Food &amp; Rural Affairs says households who cause harm to the local environment could face a fixed penalty of up to \u00a380",
+        "published": "Tue, 25 Aug 2026 15:46:51 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/whats-on/article34515781.ece/ALTERNATES/s98/0_Wheelie-Binsjpgu.jpg"
+      },
+      {
+        "id": "42713b93ca91460b386c00e1a584ef56",
+        "title": "Thug who threatened to stab juror after murder bid conviction handed extra jail term",
+        "link": "https://www.glasgowtimes.co.uk/news/26494890.thug-threatened-stab-juror-murder-bid-conviction/",
+        "description": "A thug who threatened to stab a juror shortly after being convicted of attempted murder has been handed an extra three years in jail.",
+        "published": "Tue, 25 Aug 2026 16:31:27 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20990839/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=526578",
+        "title": "The Scottish Government has tough spending decisions ahead amid fiscal update",
+        "link": "https://news.stv.tv/west-central/the-scottish-government-has-tough-spending-decisions-ahead-amid-fiscal-update",
+        "description": "Tuesday saw the publication of the fiscal update, which warns less money will be available for 2027/28",
+        "published": "Tue, 25 Aug 2026 15:21:36 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2021/06/c1bccf0a1b160ffb84867f3bb2af6ece.jpg"
+      },
+      {
+        "id": "0874ef2448e48718ed265c9191773258",
+        "title": "Communtiy groups calls 101 service 'unfit for purpose' due to wait times",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26494659.glasgow-community-group-calls-101-unfit-purpose/",
+        "description": "A Glasgow community group has called Police Scotland's 101 service \"radically unfit for purpose\" due to long wait times for calls to be answered.",
+        "published": "Tue, 25 Aug 2026 15:55:38 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13620105/?type=app&htype=0"
+      },
+      {
+        "id": "68ea9406afdade625dc5341fb8a67df1",
+        "title": "Construction firm BAM appoints Mike King to lead its Scotland operations",
+        "link": "https://www.heraldscotland.com/news/26494417.construction-firm-bam-appoints-new-scotland-regional-director/",
+        "description": "BAM UK &amp; Ireland has appointed Mike King as regional director to lead its construction operations in Scotland.",
+        "published": "Tue, 25 Aug 2026 15:49:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21369956/?type=app&htype=0"
+      },
+      {
         "id": "d614301467527a9a5d45bd5ba01a91dc",
         "title": "Part of city centre 'unrecognisable' after latest phase of \u00a322.5m transformation",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26494523.glasgows-cowcaddens-road-dobbies-loan-transformed/",
@@ -1003,6 +1043,14 @@
         "description": "<p>A project to save the derelict Springburn Winter Gardens has taken a step forward after plans to repair the A-listed structure were submitted.  </p>",
         "published": "Tue, 25 Aug 2026 13:55:45 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/25/13/32/onecms_9e2e31cf-550c-4008-80a3-3a6618b70b90_92e05e73-861b-4a0d-981c-38d62bbab383.jpeg?width=1200&auto=webp&trim=0%2C38%2C0%2C38"
+      },
+      {
+        "id": "13f2a1bea0d9909350a10cd2938adec2",
+        "title": "Lorraine Kelly reveals she has signed new TV contract but drops hints on new chapter",
+        "link": "https://www.heraldscotland.com/news/26494157.lorraine-kelly-signs-new-tv-deal-drops-big-hints-future/",
+        "description": "The presenter admitted she had struggled to 'shoehorn' in time to write her first two novels while doing her daytime TV job.",
+        "published": "Tue, 25 Aug 2026 14:44:54 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21369939/?type=app&htype=0"
       },
       {
         "id": "8940989",
