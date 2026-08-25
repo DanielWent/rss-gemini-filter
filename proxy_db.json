@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1787621708817493",
+        "title": "Tornado tears through French village leaving dozens injured",
+        "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
+        "description": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
+        "published": "Tue, 25 Aug 2026 03:27:21 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/940f/live/15a64300-a00e-11f1-9bf0-5f4ec548648d.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/sport/athletics/articles/cly5n3r521qo#7",
         "title": "Hodgkinson withdraws from Zurich Diamond League",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/cly5n3r521qo?at_medium=RSS&at_campaign=rss",
