@@ -1013,6 +1013,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8943000",
+        "title": "The 15 North Lanarkshire primary schools among Scotland's top performers in 2026",
+        "link": "https://www.glasgowworld.com/education/the-15-north-lanarkshire-primary-schools-among-scotlands-top-performers-in-2026-8943000",
+        "description": "<p>These North Lanarkshire primary schools have maintained consistently high levels of student achievement.  </p>",
+        "published": "Wed, 26 Aug 2026 11:33:11 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/03/27/11/29/Untitled-design-2026-03-27T110248-283.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "a09f1e862e364ea1776757a2a2754f9b",
+        "title": "Man dead after emergency crews rushed to tape off section of busy Glasgow street",
+        "link": "https://www.glasgowtimes.co.uk/news/26497119.man-dead-police-tape-off-part-sauchiehall-street/",
+        "description": "Police and Ambulance crews were called to the side of the man outside the Boots pharmacy around 9.04am where the man was pronounced dead.",
+        "published": "Wed, 26 Aug 2026 12:32:28 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21373871/?type=app&htype=0"
+      },
+      {
+        "id": "8942952",
+        "title": "9 busiest railway stations in East Renfrewshire ranked by passenger numbers",
+        "link": "https://www.glasgowworld.com/news/9-busiest-railway-stations-in-east-renfrewshire-ranked-by-passenger-numbers-8942952",
+        "description": "<p>These are the busiest railway stations in East Renfrewshire right now. </p>",
+        "published": "Wed, 26 Aug 2026 11:18:46 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/12/19/11/31/Patterton_railway_station_with_314212.jpeg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/more-30-walk-gp-services-34519337",
         "title": "More than 30 walk-in GP services to open across Scotland announces First Minister",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/more-30-walk-gp-services-34519337",
@@ -1139,14 +1163,6 @@
         "description": "A woman has died after being struck by a car in Airdrie.",
         "published": "Wed, 26 Aug 2026 08:12:33 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/16562345/?type=app&htype=0"
-      },
-      {
-        "id": "8940186",
-        "title": "Martin O'Neill dissects one of Celtic's darkest European nights as boss accepts blame for Champions League collapse",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/martin-oneill-dissects-one-of-celtics-darkest-european-nights-boss-accepts-blame-champions-league-collapse-8940186",
-        "description": "<p> Celtic\u2019s failure to reach Europe\u2019s elite competition represents a major financial blow</p>",
-        "published": "Wed, 26 Aug 2026 07:00:56 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/25/22/08/GettyImages-2292042494.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       },
       {
         "id": "https://runabc.co.uk/aj-bell-great-scottish-run-reveals-2026-finisher-medal",
@@ -1795,22 +1811,6 @@
         "description": "Those with a child aged between 16 and 19 will see their benefit payments stop at the end of August, unless they take action.",
         "published": "Tue, 25 Aug 2026 05:15:00 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34511286.ece/ALTERNATES/s98/2_teens.jpg"
-      },
-      {
-        "id": "eb295e316189824058dad13382d0e684",
-        "title": "Every primary one pupil in Scotland to receive 'welcome to school' backpack",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26490327.scottish-government-give-every-primary-one-pupil-welcome-backpack/",
-        "description": "All pupils starting primary one in Scotland next year will receive a free backpack full of classroom essentials under a new scheme which aims to build on the success of the Scottish Government\u2019s Baby Box initiative.",
-        "published": "Tue, 25 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17208732/?type=app&htype=0"
-      },
-      {
-        "id": "eeb8fa425d56ac3aefb03b486ac8f4b9",
-        "title": "Dance studio owner left \u2018in limbo\u2019 as Dennistoun building faces possible demolition",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26490494.glasgow-dance-studio-limbo-possible-demolition/",
-        "description": "The owner of a Glasgow dance studio says she has been left in \u201climbo\u201d\u00a0following the\u00a0news that the studio\u2019s\u00a0building could be demolished.",
-        "published": "Tue, 25 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21364293/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
