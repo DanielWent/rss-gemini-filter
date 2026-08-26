@@ -1013,6 +1013,62 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-charged-attempted-murder-after-34518628",
+        "title": "Man charged with 'attempted murder' after van ploughed into two police officers in Larkhall",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-charged-attempted-murder-after-34518628",
+        "description": "The alleged suspect was arrested by police after he was spotted travelling along the M74 on Tuesday.",
+        "published": "Wed, 26 Aug 2026 09:37:57 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34518800.ece/ALTERNATES/s98/0_Screenshot-2026-08-26-102950.png"
+      },
+      {
+        "id": "1efab71a163a7c6a3dcd1bc7663a8671",
+        "title": "LIVE updates as police and ambulances seal off Glasgow Boots store",
+        "link": "https://www.glasgowtimes.co.uk/news/26496263.live-updates-police-seal-off-glasgow-boots-store/",
+        "description": "Police and Ambulance Services have swarmed Sauchiehall Street with paramedics making their way to the street's Boots store.",
+        "published": "Wed, 26 Aug 2026 10:35:43 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21372640/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/rutherglen-pub-heartbroken-over-closure-34518503",
+        "title": "Rutherglen pub 'heartbroken' over closure announcement as punters left gutted",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/rutherglen-pub-heartbroken-over-closure-34518503",
+        "description": "Bosses say that the announcement has come with a &quot;heavy heart&quot; and pub-goers were thanked for supporting the boozer.",
+        "published": "Wed, 26 Aug 2026 09:33:14 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34518739.ece/ALTERNATES/s98/0_Auld-Cathkinjfif.jpg"
+      },
+      {
+        "id": "b868dc2d80d0e353c99fb28a2ff9348a",
+        "title": "LIVE updates as section of M8 restricted both ways amid 'person on carriageway'",
+        "link": "https://www.glasgowtimes.co.uk/news/26496190.live-updates-m8-junction-8-restricted-amid-person-carriageway/",
+        "description": "The M8 motorway at Junction 8 near Baillieston is currently restricted due to a person on the carriageway.",
+        "published": "Wed, 26 Aug 2026 10:23:51 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21372554/?type=app&htype=0"
+      },
+      {
+        "id": "30f173bc4d4115d9c57e91015122c904",
+        "title": "Major gangland figure Steven 'Bonzo' Daniel arrested in police dawn raid",
+        "link": "https://www.glasgowtimes.co.uk/news/26496110.gangland-figure-steven-bonzo-daniel-arrested-dawn-raid/",
+        "description": "It is understood that Steven Daniel, who is also known as \u201cBonzo\u201d, was one of two men arrested in the north of Glasgow as part of a police operation on Wednesday morning.",
+        "published": "Wed, 26 Aug 2026 10:10:49 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/14129133/?type=app&htype=0"
+      },
+      {
+        "id": "fbe6286e8d3e1de0fa24d26e73432c50",
+        "title": "New Glasgow academy launches to tackle Scotland's engineering skills gap",
+        "link": "https://www.glasgowtimes.co.uk/news/26496053.scottish-engineering-launched-new-glasgow-skills-academy/",
+        "description": "A new training academy has been launched in Glasgow to address skills gaps in engineering and manufacturing.",
+        "published": "Wed, 26 Aug 2026 10:01:21 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21372415/?type=app&htype=0"
+      },
+      {
+        "id": "4a761a2be8ed9428a7ac89337b62d24e",
+        "title": "Man charged with attempted murder after van allegedly driven at two police officers",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26496050.man-charged-police-officers-seriously-injured-larkhall/",
+        "description": "A man has been charged after two police officers were seriously injured when a van was allegedly driven at them in Larkhall.",
+        "published": "Wed, 26 Aug 2026 10:01:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20702983/?type=app&htype=0"
+      },
+      {
         "id": "e53b7ecfe3ebbcc7e44ab772b37c49ea",
         "title": "Scottish Government urge people to share views on restricting phones in schools",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26495907.scottish-government-seeking-views-restricting-phones-schools/",
@@ -1043,6 +1099,14 @@
         "description": "Scottish adults tend to drink less often but consume more units of alcohol when they do so, a survey has suggested.",
         "published": "Wed, 26 Aug 2026 08:44:11 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/16245375/?type=app&htype=0"
+      },
+      {
+        "id": "79977c07e3aa4a4c9c68f363b91f4177",
+        "title": "Libyan man cleared over Lockerbie terrorist bombing dies",
+        "link": "https://www.heraldscotland.com/news/26495657.libyan-man-cleared-lockerbie-terrorist-bombing-dies/",
+        "description": "Al Amin Khalifa Fhimah was cleared of involvement in the bombing which killed 270 people",
+        "published": "Wed, 26 Aug 2026 08:17:30 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21371936/?type=app&htype=0"
       },
       {
         "id": "38b0e278bce2cf1847478893f2676104",
@@ -1461,14 +1525,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21368274/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/continuing-decrease-births-across-scotland-34513797",
-        "title": "Continuing decrease of births across Scotland as lowest ever annual total recorded",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/continuing-decrease-births-across-scotland-34513797",
-        "description": "\u201cGenerations of change are captured in these figures&quot;",
-        "published": "Tue, 25 Aug 2026 11:49:58 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34513999.ece/ALTERNATES/s98/0_gettyimages-2065211646-170667a.jpg"
-      },
-      {
         "id": "8940472",
         "title": "The 14 South Lanarkshire primary schools among Scotland's top performers in 2026",
         "link": "https://www.glasgowworld.com/education/the-14-south-lanarkshire-primary-schools-among-scotlands-top-performers-in-2026-8940472",
@@ -1755,62 +1811,6 @@
         "description": "The owner of a Glasgow dance studio says she has been left in \u201climbo\u201d\u00a0following the\u00a0news that the studio\u2019s\u00a0building could be demolished.",
         "published": "Tue, 25 Aug 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21364293/?type=app&htype=0"
-      },
-      {
-        "id": "810d3326db560aecd085252cc1bdbe51",
-        "title": "First-time mum had to be given new heart just weeks after giving birth",
-        "link": "https://www.glasgowtimes.co.uk/news/health/26491224.lanarkshire-mum-documenting-recovery-heart-transplant/",
-        "description": "An inspiring mother is documenting her journey as she recovers from an emergency heart transplant just weeks after giving birth to her first child.",
-        "published": "Tue, 25 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21365372/?type=app&htype=0"
-      },
-      {
-        "id": "e0bde5277e71470d1e6d7ade0c86c278",
-        "title": "Dalzell crisis - GFG admits Kazakh steel bought in and pension payment failures",
-        "link": "https://www.heraldscotland.com/news/26491780.troubled-dalzell-steel-plant-buying-slab-kazakhstan/",
-        "description": "GFG Alliance has confirmed its Dalzell plant is sourcing steel from Kazakhstan while pension payments remain stuck and allegations of theft, missing funds and crumbling equipment go unanswered.",
-        "published": "Tue, 25 Aug 2026 05:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19438007/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cp801jev860o#0",
-        "title": "Murder inquiry launched after death of man found injured in street",
-        "link": "https://www.bbc.co.uk/news/articles/cp801jev860o?at_medium=RSS&at_campaign=rss",
-        "description": "A man has been charged after Graham Milliken died in hospital having been found unresponsive in the street in Dundonald.",
-        "published": "Mon, 24 Aug 2026 20:36:03 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bf7/live/b1ac05b0-9ff9-11f1-aed2-8d6da8d75094.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/rangers-co-owner-jed-york-34511215",
-        "title": "Rangers co-owner Jed York arrested in USA as 49ers boss pleads no contest",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/rangers-co-owner-jed-york-34511215",
-        "description": "York was sentenced to one day in jail for each charge, with one day already considered to be served.",
-        "published": "Mon, 24 Aug 2026 19:22:08 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34511244.ece/ALTERNATES/s98/2_Jed-York.jpg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=526433",
-        "title": "Calls for additional support for Coalsnaughton residents impacted by ground movement",
-        "link": "https://news.stv.tv/west-central/calls-for-additional-support-for-coalsnaughton-residents-impacted-by-ground-movement",
-        "description": "The Mining Remediation Authority\u2019s remit did not include financial help for any impact on mental wellbeing.",
-        "published": "Mon, 24 Aug 2026 19:10:49 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/132b8e9c3e0a3129a15cdb778b465520-1786009739-1280x720.jpeg"
-      },
-      {
-        "id": "4e50ec9bf78714f1acf66309ee087b47",
-        "title": "St Enoch Centre advertising plans rejected again after government appeal",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26491815.st-enoch-centre-advertising-plans-rejected-government-appeal/",
-        "description": "A Scottish Government reporter has rejected an appeal over plans for a giant advert at Glasgow's St Enoch Centre, backing the council's refusal.",
-        "published": "Mon, 24 Aug 2026 19:48:22 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21366215/?type=app&htype=0"
-      },
-      {
-        "id": "3014a48b61d4873e4ad59396f9049236",
-        "title": "Over 70 Glasgow roads close for huge running event",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26491801.70-glasgow-roads-close-today-great-scottish-run/",
-        "description": "The AJ Bell Great Scottish Run is set to return on October 5, with more than 30,000 participants expected to travel from across the UK.",
-        "published": "Mon, 24 Aug 2026 19:30:48 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21366188/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
