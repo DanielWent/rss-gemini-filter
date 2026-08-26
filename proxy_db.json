@@ -997,6 +997,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8942138",
+        "title": "Maintenance work planned for drains in East Kilbride",
+        "link": "https://www.glasgowworld.com/news/maintenance-work-planned-for-drains-in-east-kilbride-8942138",
+        "description": "<p>Investigatory drainage, clearance and capacity survey work is set to take place from next week in East Kilbride.  </p>",
+        "published": "Wed, 26 Aug 2026 07:51:09 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/26/7/45/Screenshot-2026-08-26-084901.png?width=1200&auto=webp&trim=1%2C0%2C2%2C0"
+      },
+      {
+        "id": "6ac7acd2614736defd23fcf1717961ab",
+        "title": "How much more do Scots drink than the rest of the UK? New survey tells all",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26495709.scottish-drinkers-consume-alcohol-despite-drinking-less-often/",
+        "description": "Scottish adults tend to drink less often but consume more units of alcohol when they do so, a survey has suggested.",
+        "published": "Wed, 26 Aug 2026 08:44:11 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16245375/?type=app&htype=0"
+      },
+      {
         "id": "38b0e278bce2cf1847478893f2676104",
         "title": "Tragedy as woman killed after being struck by blue Audi on residential street",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26495640.woman-killed-struck-car-varnsdorf-way-airdrie/",
@@ -1037,12 +1053,44 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19910055/?type=app&htype=0"
       },
       {
+        "id": "9cebb84f4769653c645d53dd049965ca",
+        "title": "\u00a355m Scottish Government cash pledged to improve bus services",
+        "link": "https://www.heraldscotland.com/news/26495579.bus-services-get-55m-cash-boost-scottish-government/",
+        "description": "The funding will be used to improve the reliability, accessibility and efficiency of services",
+        "published": "Wed, 26 Aug 2026 07:02:42 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/8154330/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/education-secretary-fundamentally-disagrees-no-34517311",
         "title": "Education Secretary \u2018fundamentally disagrees\u2019 no catastrophic failings in Glasgow Beastie House case",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/education-secretary-fundamentally-disagrees-no-34517311",
         "description": "Mairi McAllan said there had been a \u201ccatastrophic failure of the system which was suppose to protect\u201d the children involved",
         "published": "Wed, 26 Aug 2026 05:58:55 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34517336.ece/ALTERNATES/s98/2_Mairi-McAllan.jpg"
+      },
+      {
+        "id": "ca09116115f7c4725045425caab7e417",
+        "title": "Scots green energy scheme at risk after rates valuation soars by 1,785%",
+        "link": "https://www.heraldscotland.com/news/26495142.scots-hydro-power-scheme-faces-closure-threat-business-rates/",
+        "description": "A Scottish hydro power scheme faces becoming uneconomic when its government subsidy ends after the value used to calculate its business rates soared by almost 1,800 per cent since it was first assessed.",
+        "published": "Wed, 26 Aug 2026 06:31:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21371144/?type=app&htype=0"
+      },
+      {
+        "id": "886bcc377f640cab0a9bb1d9f80982bc",
+        "title": "Tourist tax, festivals, and Princes Street: Capital's council chief on the hot seat",
+        "link": "https://www.heraldscotland.com/politics/26493705.edinburgh-council-chief-visitor-levy-festivals-princes-street/",
+        "description": "Appointed to lead the council six days before Christmas in 2024, the last nineteen months have been a whirlwind of challenges for Councillor Meagher.",
+        "published": "Wed, 26 Aug 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19516021/?type=app&htype=0"
+      },
+      {
+        "id": "4ca00c1a81dbfee71262f559e74599cb",
+        "title": "Speaking truth to power is a good thing - unless you work for Police Scotland",
+        "link": "https://www.heraldscotland.com/politics/viewpoint/26493958.unwise-speak-truth-power-work-police-scotland/",
+        "description": "Police Scotland has become very good at talking about truth, justice and doing something practical. It appears considerably less adept at actually doing any of them",
+        "published": "Wed, 26 Aug 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21211554/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/heartbreaking-report-finds-scots-rape-34508429",
@@ -1091,6 +1139,30 @@
         "description": "Scotland's bus network is set for a major upgrade after a \u00a355 million investment aimed at cutting delays, improving reliability and making journeys easier.",
         "published": "Wed, 26 Aug 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20998632/?type=app&htype=0"
+      },
+      {
+        "id": "92042a23ad516556976124d72d2ac772",
+        "title": "Scottish Labour leadership contender reveals what went wrong for Anas Sarwar",
+        "link": "https://www.heraldscotland.com/news/26495237.joe-fagan-scottish-labour-can-beat-snp-2031/",
+        "description": "Joe Fagan has given his assessment of Anas Sarwar's leadership of Scottish Labour as he eyes government in 2031.",
+        "published": "Wed, 26 Aug 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21371265/?type=app&htype=114"
+      },
+      {
+        "id": "2fe3ff14e5121951942acbfa60997f0c",
+        "title": "Nearly 200,000 young people in Scotland cut food spending amid financial pressure",
+        "link": "https://www.heraldscotland.com/news/26491668.nearly-200-000-young-scots-cut-food-afford-essentials/",
+        "description": "New Trussell research finds 29 per cent of young people in Scotland have cut back on food due to financial pressures.",
+        "published": "Wed, 26 Aug 2026 00:05:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20333805/?type=app&htype=0"
+      },
+      {
+        "id": "d0f02f2cccecf38a60deb82b0f6766b8",
+        "title": "Mystery carvings on Scotland\u2019s medieval stones set to be decoded",
+        "link": "https://www.heraldscotland.com/news/26494103.ancient-scottish-stones-may-reveal-1-000-year-old-secrets/",
+        "description": "If these stones could talk they would have some stories to tell If these stones could talk they would have some stories to tell",
+        "published": "Wed, 26 Aug 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21369831/?type=app&htype=0"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/c70d3pdw5r8o#0",
@@ -1723,78 +1795,6 @@
         "description": "The new scheme was meant to be used to 'sustain Edinburgh's status as one of the world's greatest cultural and heritage cities'.",
         "published": "Mon, 24 Aug 2026 18:35:54 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21259407/?type=app&htype=0"
-      },
-      {
-        "id": "5fb5d46203f4d8adae13e3a563a96c3d",
-        "title": "Man heard nephew order \u2018revenge attacks\u2019 after brother\u2019s killing, court told",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26491735.glasgow-high-court-murder-trial-hears-revenge-attack-claims/",
-        "description": "A Glasgow murder trial has heard claims a man ordered revenge attacks after his brother's death, with allegations of petrol bombs, machete assaults and tracking devices.",
-        "published": "Mon, 24 Aug 2026 18:11:47 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19889596/?type=app&htype=0"
-      },
-      {
-        "id": "8938131",
-        "title": "Rangers transfer target 'to travel soon to Scotland' as 49ers pay out major lump sum in next summer move",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-transfer-target-to-travel-soon-to-scotland-as-49ers-pay-out-major-lump-sum-in-next-summer-move-8938131",
-        "description": "<p>Winger is on the verge of an Ibrox move</p>",
-        "published": "Mon, 24 Aug 2026 17:00:33 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/24/12/06/GettyImages-2183429230.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "0afd4f97b6876767cefdf92bf0d0f6e0",
-        "title": "Fears for Whitehill Pool future as gym equipment removed from Glasgow site",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26491720.fears-whitehill-pool-future-gym-equipment-removed/",
-        "description": "Fresh fears have been raised over the future of Whitehill Pool after gym equipment was removed from the closed Glasgow facility amid ongoing uncertainty.",
-        "published": "Mon, 24 Aug 2026 17:56:58 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20582406/?type=app&htype=0"
-      },
-      {
-        "id": "6176d2753408cc90d27d0eb618d33389",
-        "title": "Clydebank drinks brand secures major US deal with Texas retailer Buc-ee\u2019s",
-        "link": "https://www.heraldscotland.com/news/26491573.scottish-drinks-brand-lands-major-us-retail-deal/",
-        "description": "Clydebank-based Spirits of Virtue has secured a major US retail listing with Texas convenience chain Buc-ee\u2019s.",
-        "published": "Mon, 24 Aug 2026 17:22:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21357231/?type=app&htype=0"
-      },
-      {
-        "id": "93ad2a2ad5b27ff61210aa1b691f1b05",
-        "title": "Dumfries firm gets green light to build homes using recycled glass technology",
-        "link": "https://www.heraldscotland.com/news/26491324.scottish-firm-wins-green-light-recycled-glass-homes/",
-        "description": "Dumfries-based VASO Global will use its recycled glass building panels in a new affordable housing development in Closeburn.",
-        "published": "Mon, 24 Aug 2026 17:06:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21365684/?type=app&htype=0"
-      },
-      {
-        "id": "c734eeb931a96f45ed33176f7375d0af",
-        "title": "LIVE updates as major road CLOSED amid ongoing emergency incident",
-        "link": "https://www.glasgowtimes.co.uk/news/26491288.live-updates-a70-closed-amid-ongoing-emergency-incident/",
-        "description": "A major road has been closed following an emergency incident.",
-        "published": "Mon, 24 Aug 2026 16:26:23 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21365312/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=526376",
-        "title": "Two people taken to hospital after being found injured on Calder Street in Glasgow",
-        "link": "https://news.stv.tv/west-central/two-people-taken-to-hospital-after-being-found-injured-on-calder-street-in-glasgow",
-        "description": "A man and woman were found injured on Calder Street in Glasgow in the early hours of Monday morning",
-        "published": "Mon, 24 Aug 2026 15:24:00 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2021/12/e9ca09d66a0e0e6cd281e3b2d8505f88-937x720.jpg"
-      },
-      {
-        "id": "d1048769d7818ad9fb1b60f24610531e",
-        "title": "Urgent SGN causes disruption on busy Glasgow road",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26491241.urgent-sgn-works-causes-disruption-glasgows-sandwood-road/",
-        "description": "Drivers face delays on Sandwood Road in Glasgow after urgent SGN maintenance works reduced the southbound carriageway to one lane.",
-        "published": "Mon, 24 Aug 2026 16:18:34 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20426296/?type=app&htype=0"
-      },
-      {
-        "id": "634ad32d1226dcb414b6a4de044480d5",
-        "title": "Burnham's Goldilocks moment means a snap election is more likely than meteors",
-        "link": "https://www.heraldscotland.com/news/26491219.andy-burnham-going-call-early-general-election/",
-        "description": "Andy Burnham keeps insisting there is no early election but his careful choice of tense, a \u00a32.56m Labour fundraising deficit, and a Scottish party still reeling from Anas Sarwar's exit tell a more complicated story.",
-        "published": "Mon, 24 Aug 2026 16:15:20 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21365419/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
