@@ -956,6 +956,14 @@
     "icon_url": "https://runabc.co.uk/favicon.ico",
     "articles": [
       {
+        "id": "https://runabc.co.uk/aj-bell-great-scottish-run-reveals-2026-finisher-medal",
+        "title": "AJ Bell Great Scottish Run Reveals 2026 Finisher Medal",
+        "link": "https://runabc.co.uk/aj-bell-great-scottish-run-reveals-2026-finisher-medal",
+        "description": "<p><img alt=\"Great Scottish Run Medal Reveal 2026\" src=\"https://runabc.co.uk/images/2026/08/great-scottish-run-medal-reveal-2026-655414.jpeg\" /></p>\n\t\t\t\t<p>The 2026 AJ Bell Great Scottish Run medal celebrates Glasgow and Scotland, with landmarks, the Saltire and Mackintosh influences woven into its design...</p>",
+        "published": "Wed, 26 Aug 2026 07:55:00 +0100",
+        "image_url": "https://runabc.co.uk/images/2026/08/great-scottish-run-medal-reveal-2026-655414.jpeg"
+      },
+      {
         "id": "https://runabc.co.uk/kelvingrove-park-5k-and-10k-brings-all-ages-together",
         "title": "Kelvingrove Park 5K and 10K Brings All Ages Together",
         "link": "https://runabc.co.uk/kelvingrove-park-5k-and-10k-brings-all-ages-together",
@@ -988,6 +996,46 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "38b0e278bce2cf1847478893f2676104",
+        "title": "Tragedy as woman killed after being struck by blue Audi on residential street",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26495640.woman-killed-struck-car-varnsdorf-way-airdrie/",
+        "description": "A woman has died after being struck by a car in Airdrie.",
+        "published": "Wed, 26 Aug 2026 08:12:33 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16562345/?type=app&htype=0"
+      },
+      {
+        "id": "8940186",
+        "title": "Martin O'Neill dissects one of Celtic's darkest European nights as boss accepts blame for Champions League collapse",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/martin-oneill-dissects-one-of-celtics-darkest-european-nights-boss-accepts-blame-champions-league-collapse-8940186",
+        "description": "<p> Celtic\u2019s failure to reach Europe\u2019s elite competition represents a major financial blow</p>",
+        "published": "Wed, 26 Aug 2026 07:00:56 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/25/22/08/GettyImages-2292042494.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c17jl59zg2ko#0",
+        "title": "Major gangland figure Steven Daniel arrested in organised crime raid",
+        "link": "https://www.bbc.co.uk/news/articles/c17jl59zg2ko?at_medium=RSS&at_campaign=rss",
+        "description": "Steven 'Bonzo' Daniel was arrested on Wednesday at his home in the north of Glasgow.",
+        "published": "Wed, 26 Aug 2026 07:00:53 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5694/live/8ac63000-a117-11f1-92eb-a9b3bbcf6f4a.jpg"
+      },
+      {
+        "id": "https://runabc.co.uk/aj-bell-great-scottish-run-reveals-2026-finisher-medal",
+        "title": "AJ Bell Great Scottish Run Reveals 2026 Finisher Medal",
+        "link": "https://runabc.co.uk/aj-bell-great-scottish-run-reveals-2026-finisher-medal",
+        "description": "<p><img alt=\"Great Scottish Run Medal Reveal 2026\" src=\"https://runabc.co.uk/images/2026/08/great-scottish-run-medal-reveal-2026-655414.jpeg\" /></p>\n\t\t\t\t<p>The 2026 AJ Bell Great Scottish Run medal celebrates Glasgow and Scotland, with landmarks, the Saltire and Mackintosh influences woven into its design...</p>",
+        "published": "Wed, 26 Aug 2026 07:55:00 +0100",
+        "image_url": "https://runabc.co.uk/images/2026/08/great-scottish-run-medal-reveal-2026-655414.jpeg"
+      },
+      {
+        "id": "a7b720cdb3468590bfe8b5be138f7789",
+        "title": "Popular local pub announces shock closure with all events next month cancelled",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26495618.auld-cathkin-rutherglen-close-september/",
+        "description": "A popular Rutherglen pub has announced it will close its doors next month.",
+        "published": "Wed, 26 Aug 2026 07:50:36 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19910055/?type=app&htype=0"
+      },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/education-secretary-fundamentally-disagrees-no-34517311",
         "title": "Education Secretary \u2018fundamentally disagrees\u2019 no catastrophic failings in Glasgow Beastie House case",
@@ -1747,46 +1795,6 @@
         "description": "Andy Burnham keeps insisting there is no early election but his careful choice of tense, a \u00a32.56m Labour fundraising deficit, and a Scottish party still reeling from Anas Sarwar's exit tell a more complicated story.",
         "published": "Mon, 24 Aug 2026 16:15:20 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21365419/?type=app&htype=0"
-      },
-      {
-        "id": "0139da6efcee23304f8b6090dfeb8469",
-        "title": "New 100-metre Angus tower aims to improve greenhouse gas monitoring",
-        "link": "https://www.heraldscotland.com/news/26491164.new-angus-tower-improve-greenhouse-gas-monitoring/",
-        "description": "A new 100-metre scientific tower in Angus will monitor more than 60 greenhouse gases to improve emissions estimates across Scotland and beyond.",
-        "published": "Mon, 24 Aug 2026 16:15:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21365180/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/gallery/sneak-peek-superpark-ahead-opening-34509432",
-        "title": "Sneak peek at SuperPark ahead of opening as huge new indoor playground comes to Braehead",
-        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/gallery/sneak-peek-superpark-ahead-opening-34509432",
-        "description": "Featuring trampolines, climbing walls, obstacle courses, and interactive sports games, it's the first-ever SuperPark to open in the UK and will launch this month.",
-        "published": "Mon, 24 Aug 2026 15:12:36 +0000",
-        "image_url": "https://i2-prod.edinburghlive.co.uk/incoming/article34509395.ece/ALTERNATES/s98/0_IMG_5959-2.jpg"
-      },
-      {
-        "id": "68292aec7d2fc536326b2cd7452b9ed9",
-        "title": "LIVE updates amid ongoing travel chaos as Glasgow trains could be axed",
-        "link": "https://www.glasgowtimes.co.uk/news/26491119.live-updates-amid-signalling-fault-affecting-glasgow-central/",
-        "description": "Glasgow Central trains could be cancelled this evening amid an ongoing issue.",
-        "published": "Mon, 24 Aug 2026 15:58:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19641035/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-living-wage-trail-launched-34509943",
-        "title": "New living wage trail launched across Glasgow to support local businesses",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/new-living-wage-trail-launched-34509943",
-        "description": "The trail features 15 accredited Living Wage employers across Glasgow, spanning cafes, museums, retail, live music venues and more",
-        "published": "Mon, 24 Aug 2026 14:48:35 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33524110.ece/ALTERNATES/s98/0_mitchelllibrary.png"
-      },
-      {
-        "id": "46cccb105310df4c9baa13bacde8c69b",
-        "title": "Temporary lights installed on busy Glasgow road as drivers asked to 'avoid",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26491037.temporary-lights-installed-busy-glasgows-pollokshaws-road/",
-        "description": "Temporary traffic lights have been installed on Pollokshaws Road as major resurfacing works cause road closures, diversions and expected delays.",
-        "published": "Mon, 24 Aug 2026 15:45:20 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16783333/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
