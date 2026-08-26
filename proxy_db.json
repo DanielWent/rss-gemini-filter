@@ -1013,6 +1013,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/wee-farm-shop-near-glasgow-34516137",
+        "title": "The wee farm shop near Glasgow that has just been named best in the country",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/wee-farm-shop-near-glasgow-34516137",
+        "description": "The country caf\u00e9 and farm shop which lies just off the M74 at Blantyre has been described as a &quot;hidden gem&quot; that is &quot;worth the diversion&quot; for its incredible wagyu steaks.",
+        "published": "Wed, 26 Aug 2026 09:54:28 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34516173.ece/ALTERNATES/s98/1_Screenshot-2023-06-28-at-33716-PM.png"
+      },
+      {
+        "id": "454f224b472315c9820183ccad031d1f",
+        "title": "New training shed to help North Lanarkshire pupils build construction careers",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26496321.new-training-shed-now-open-chryston-high-school/",
+        "description": "A new construction training shed has been unveiled in North Lanarkshire to help students build a brighter future.",
+        "published": "Wed, 26 Aug 2026 10:43:20 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21372791/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-charged-attempted-murder-after-34518628",
         "title": "Man charged with 'attempted murder' after van ploughed into two police officers in Larkhall",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-charged-attempted-murder-after-34518628",
@@ -1061,28 +1077,12 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21372415/?type=app&htype=0"
       },
       {
-        "id": "4a761a2be8ed9428a7ac89337b62d24e",
-        "title": "Man charged with attempted murder after van allegedly driven at two police officers",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26496050.man-charged-police-officers-seriously-injured-larkhall/",
-        "description": "A man has been charged after two police officers were seriously injured when a van was allegedly driven at them in Larkhall.",
-        "published": "Wed, 26 Aug 2026 10:01:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20702983/?type=app&htype=0"
-      },
-      {
         "id": "e53b7ecfe3ebbcc7e44ab772b37c49ea",
         "title": "Scottish Government urge people to share views on restricting phones in schools",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26495907.scottish-government-seeking-views-restricting-phones-schools/",
         "description": "Scottish Government launches public consultation on mobile phone restrictions in schools, seeking views from parents, pupils and teachers on new legislation.",
         "published": "Wed, 26 Aug 2026 09:33:20 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20352734/?type=app&htype=0"
-      },
-      {
-        "id": "a19d4dd3aae35ef725703fcbf829dc79",
-        "title": "Two men arrested in Glasgow over organised crime and alleged conspiracy to murder",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26495873.glasgow-police-arrest-two-men-conspiracy-murder-allegation/",
-        "description": "Officers investigating serious and organised crime have arrested two men, including one in connection with an alleged conspiracy to murder.",
-        "published": "Wed, 26 Aug 2026 09:24:50 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21372143/?type=app&htype=0"
       },
       {
         "id": "8942138",
@@ -1125,28 +1125,12 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/25/22/08/GettyImages-2292042494.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/c17jl59zg2ko#0",
-        "title": "Major gangland figure Steven Daniel arrested in organised crime raid",
-        "link": "https://www.bbc.co.uk/news/articles/c17jl59zg2ko?at_medium=RSS&at_campaign=rss",
-        "description": "Steven 'Bonzo' Daniel was arrested on Wednesday at his home in the north of Glasgow.",
-        "published": "Wed, 26 Aug 2026 07:00:53 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5694/live/8ac63000-a117-11f1-92eb-a9b3bbcf6f4a.jpg"
-      },
-      {
         "id": "https://runabc.co.uk/aj-bell-great-scottish-run-reveals-2026-finisher-medal",
         "title": "AJ Bell Great Scottish Run Reveals 2026 Finisher Medal",
         "link": "https://runabc.co.uk/aj-bell-great-scottish-run-reveals-2026-finisher-medal",
         "description": "<p><img alt=\"Great Scottish Run Medal Reveal 2026\" src=\"https://runabc.co.uk/images/2026/08/great-scottish-run-medal-reveal-2026-655414.jpeg\" /></p>\n\t\t\t\t<p>The 2026 AJ Bell Great Scottish Run medal celebrates Glasgow and Scotland, with landmarks, the Saltire and Mackintosh influences woven into its design...</p>",
         "published": "Wed, 26 Aug 2026 07:55:00 +0100",
         "image_url": "https://runabc.co.uk/images/2026/08/great-scottish-run-medal-reveal-2026-655414.jpeg"
-      },
-      {
-        "id": "a7b720cdb3468590bfe8b5be138f7789",
-        "title": "Popular local pub announces shock closure with all events next month cancelled",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26495618.auld-cathkin-rutherglen-close-september/",
-        "description": "A popular Rutherglen pub has announced it will close its doors next month.",
-        "published": "Wed, 26 Aug 2026 07:50:36 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19910055/?type=app&htype=0"
       },
       {
         "id": "9cebb84f4769653c645d53dd049965ca",
@@ -1267,14 +1251,6 @@
         "description": "An online petition calls for greater use of technology to protect women from abusive partners following the killing of Stacy Hunter in Renfrewshire.",
         "published": "Tue, 25 Aug 2026 22:07:21 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aac/live/e1d629b0-8ac7-11f1-801b-9163afadd44a.jpg"
-      },
-      {
-        "id": "8941807",
-        "title": "Celtic player ratings vs LASK as Champions League implosion costs club millions in sea of 4/10 shockers",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-player-ratings-vs-lask-champions-league-implosion-costs-club-millions-8941807",
-        "description": "<p>Here\u2019s how we rated the Celtic players in their Champions League clash with LASK.</p>",
-        "published": "Tue, 25 Aug 2026 21:47:20 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/25/20/00/GettyImages-2292035756.jpeg?width=1200&auto=webp&trim=0%2C2%2C0%2C0"
       },
       {
         "id": "https://news.stv.tv/?p=526585",
