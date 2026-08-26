@@ -1013,6 +1013,54 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "fa6748c95237639e4da74d3cbeacb532",
+        "title": "Nicola Sturgeon and Peter Murrell's extraordinary downfall heading to Channel 5",
+        "link": "https://www.glasgowtimes.co.uk/entertainment/tv_radio/26496892.nicola-sturgeon-peter-murrell-scandal-heading-channel-5/",
+        "description": "Channel 5 has commissioned a drama based on Nicola Sturgeon and Peter Murrell's political downfall.",
+        "published": "Wed, 26 Aug 2026 14:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21374036/?type=app&htype=0"
+      },
+      {
+        "id": "17b853a5b4620586c41d3a5748c4e474",
+        "title": "Murdered woman was failed when husband was let out on bail, say her family",
+        "link": "https://www.glasgowtimes.co.uk/news/26497477.murdered-houston-woman-failed-system-say-family/",
+        "description": "The family of Stacy Mair, who was murdered in Houston last month, have said she was failed by the justice system after her estranged husband was granted bail weeks before her death.",
+        "published": "Wed, 26 Aug 2026 13:43:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21313175/?type=app&htype=0"
+      },
+      {
+        "id": "3c4348401344babd3cc1b30f0dc26e99",
+        "title": "Most Glasgow teachers now supporting pupils with additional needs, committee hears",
+        "link": "https://www.glasgowtimes.co.uk/news/26497350.glasgow-teachers-now-supporting-kids-additional-needs/",
+        "description": "City councillor Blair Anderson asked what support is being provided to staff to teach students with a variety of requirements.",
+        "published": "Wed, 26 Aug 2026 13:16:03 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17617804/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=526683",
+        "title": "Cordon in place after man found dead on Sauchiehall Street in Glasgow",
+        "link": "https://news.stv.tv/west-central/cordon-in-place-after-man-found-dead-on-sauchiehall-street-in-glasgow",
+        "description": "Emergency services were called to Sauchiehall Street in Glasgow around 9am on Wednesday",
+        "published": "Wed, 26 Aug 2026 12:14:31 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/03/6694c16f987691dc965a38dd6609abf1-1772544631-1280x720.jpeg"
+      },
+      {
+        "id": "1cbba9e871d5e597f1ac3a6834c461ad",
+        "title": "Islanders complete seven-year mission to build 'transformational' path",
+        "link": "https://www.heraldscotland.com/news/26497186.south-uist-community-completes-seven-year-mission-build-safe-path/",
+        "description": "What started as a safer school route became something much, much bigger",
+        "published": "Wed, 26 Aug 2026 12:43:39 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21373998/?type=app&htype=0"
+      },
+      {
+        "id": "b4786f95d2d1d0e415e4c496d7a8fecc",
+        "title": "Glasgow chef opens \u00a360,000-backed sandwich shop in Merchant City",
+        "link": "https://www.heraldscotland.com/news/26497158.glasgow-chef-opens-new-sandwich-shop-merchant-city/",
+        "description": "Chef Matt Scott has opened Matteo\u2019s sandwich shop and deli in Glasgow\u2019s Merchant City after securing a \u00a360,000 business loan.",
+        "published": "Wed, 26 Aug 2026 12:43:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21373906/?type=app&htype=0"
+      },
+      {
         "id": "8943000",
         "title": "The 15 North Lanarkshire primary schools among Scotland's top performers in 2026",
         "link": "https://www.glasgowworld.com/education/the-15-north-lanarkshire-primary-schools-among-scotlands-top-performers-in-2026-8943000",
@@ -1037,6 +1085,14 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/12/19/11/31/Patterton_railway_station_with_314212.jpeg?width=1200&auto=webp&crop=3%3A2"
       },
       {
+        "id": "77dca0af1301b374d825b8dd81a29f8b",
+        "title": "Glenlee's Mary Doll figurehead returns to Glasgow's River Clyde after conservation",
+        "link": "https://www.heraldscotland.com/news/26496931.glenlees-mary-doll-figurehead-returns-glasgows-river-clyde/",
+        "description": "The Tall Ship Glenlee\u2019s Mary Doll figurehead has returned to the River Clyde after conservation as part of the ship\u2019s \u00a31.8 million restoration.",
+        "published": "Wed, 26 Aug 2026 12:13:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21373595/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/more-30-walk-gp-services-34519337",
         "title": "More than 30 walk-in GP services to open across Scotland announces First Minister",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/more-30-walk-gp-services-34519337",
@@ -1051,6 +1107,14 @@
         "description": "<p>Champions League elimination could affect future transfers for the Hoops</p>",
         "published": "Wed, 26 Aug 2026 11:00:20 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/26/10/01/GettyImages-2275212423.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "da88b37b75fd1ec56737b3ccfc1d5a4f",
+        "title": "East Links Family Park near Dunbar to close after 25 years of family memories",
+        "link": "https://www.heraldscotland.com/news/26496507.east-links-family-park-close-25-years-east-lothian/",
+        "description": "East Links Family Park near Dunbar is to close on August 30 after 25 years, marking the end of a popular East Lothian family attraction.",
+        "published": "Wed, 26 Aug 2026 11:39:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21373325/?type=app&htype=0"
       },
       {
         "id": "33588c61d491a53951c7aeef75394b8b",
@@ -1083,14 +1147,6 @@
         "description": "The alleged suspect was arrested by police after he was spotted travelling along the M74 on Tuesday.",
         "published": "Wed, 26 Aug 2026 09:37:57 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34518800.ece/ALTERNATES/s98/0_Screenshot-2026-08-26-102950.png"
-      },
-      {
-        "id": "1efab71a163a7c6a3dcd1bc7663a8671",
-        "title": "LIVE updates as police and ambulances seal off Glasgow Boots store",
-        "link": "https://www.glasgowtimes.co.uk/news/26496263.live-updates-police-seal-off-glasgow-boots-store/",
-        "description": "Police and Ambulance Services have swarmed Sauchiehall Street with paramedics making their way to the street's Boots store.",
-        "published": "Wed, 26 Aug 2026 10:35:43 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21372640/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/rutherglen-pub-heartbroken-over-closure-34518503",
@@ -1755,62 +1811,6 @@
         "description": "<p><img alt=\"Islay Marathon 2026\" src=\"https://runabc.co.uk/images/2026/08/islay-marathon-2026-487802.jpg\" /></p>\n\t\t\t\t<p>Islay Marathon returns on 12 September with a spectacular island journey from Bruichladdich to Port Ellen and a relay option for teams...</p>",
         "published": "Tue, 25 Aug 2026 07:55:00 +0100",
         "image_url": "https://runabc.co.uk/images/2026/08/islay-marathon-2026-487802.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-were-wrong-say-glasgow-34511661",
-        "title": "Police were wrong to say Glasgow gang war is over says cop who nailed Iceman",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-were-wrong-say-glasgow-34511661",
-        "description": "&quot;It wasn't sensible to indicate that resolution had been achieved between criminal groups. That wasn't going to be the case.&quot;",
-        "published": "Tue, 25 Aug 2026 06:34:42 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34499481.ece/ALTERNATES/s98/1_Screenshot-2026-08-21-at-164652.png"
-      },
-      {
-        "id": "bfc61e74e8180ec99956172b13ada72e",
-        "title": "Batman Hollywood star sparks speculation that he may be heading to Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26491997.jeffrey-wright-sparks-glasgow-batman-filming-speculation/",
-        "description": "The Batman star Jeffrey Wright has fuelled speculation he could be heading to Glasgow as filming continues.",
-        "published": "Tue, 25 Aug 2026 07:24:05 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21343909/?type=app&htype=0"
-      },
-      {
-        "id": "4c8f8bbf47e8111df034c605b4e2ef2b",
-        "title": "Trade group demands Scotland scraps \u2018not fit for purpose\u2019 rates system",
-        "link": "https://www.heraldscotland.com/news/26491337.scottish-business-rates-hydro-industry-demands-major-reform/",
-        "description": "Scotland\u2019s business rates system should be scrapped because it is no longer fit for the modern economy, a key energy industry group has said.",
-        "published": "Tue, 25 Aug 2026 06:33:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/16426437/?type=app&htype=0"
-      },
-      {
-        "id": "1f71335268f3bd241e30c41ffab42c29",
-        "title": "Council leader urges culture chiefs to 'stop using the media' to fight funding battle",
-        "link": "https://www.heraldscotland.com/news/26490941.council-offers-olive-branch-edinburghs-festivals-organisers/",
-        "description": "Labour councillor Jane Meagher said she wants to engage directly with festival organisers about the funding impasse.",
-        "published": "Tue, 25 Aug 2026 06:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/11216949/?type=app&htype=0"
-      },
-      {
-        "id": "59706853111a68c353ba02ec50886e6c",
-        "title": "'Sabotage': Union attacks ScotGov over crisis at taxpayer-funded shipyard",
-        "link": "https://www.heraldscotland.com/news/26491184.ferguson-marine-jobs-risk-gmb-attacks-scotgov-shipyard/",
-        "description": "Concerns over the future of Scotland\u2019s last commercial shipyard have intensified after its main union accused ministers of \u201csabotaging\u201d Ferguson Marine by failing to deliver promised investment and contracts.",
-        "published": "Tue, 25 Aug 2026 06:25:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21118402/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/cycling/articles/c80nzk7dey4o#0",
-        "title": "Sir Chris Hoy: Campaigning for cancer screening should not be down to me",
-        "link": "https://www.bbc.co.uk/sport/cycling/articles/c80nzk7dey4o?at_medium=RSS&at_campaign=rss",
-        "description": "The cycling legend tells BBC Scotland that the onus to encourage men to get tested for prostate cancer should not just be on high profile individuals like him.",
-        "published": "Tue, 25 Aug 2026 05:24:54 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8759/live/66433610-9faf-11f1-bff6-57f1422ebb0b.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/parents-teens-urged-act-now-34511263",
-        "title": "Parents with teens urged to 'act now' to avoid losing child benefit payments",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/parents-teens-urged-act-now-34511263",
-        "description": "Those with a child aged between 16 and 19 will see their benefit payments stop at the end of August, unless they take action.",
-        "published": "Tue, 25 Aug 2026 05:15:00 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34511286.ece/ALTERNATES/s98/2_teens.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
