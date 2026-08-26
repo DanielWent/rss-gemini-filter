@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/sport/athletics/articles/crerjxyrnp9o#8",
+        "title": "'The record will fall' - Werro takes aim at 43-year-old 800m mark",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/crerjxyrnp9o?at_medium=RSS&at_campaign=rss",
+        "description": "European 800m champion Audrey Werro backs herself to overhaul one of athletics' oldest and most controversial world records.",
+        "published": "Wed, 26 Aug 2026 15:49:52 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9216/live/d8fd1e50-a162-11f1-aed2-8d6da8d75094.jpg"
+      },
+      {
         "id": "1787722216062307",
         "title": "Sculpted stone study could shed new light on lost kingdoms",
         "link": "https://www.bbc.co.uk/news/articles/cx2zxv2vd70o?at_medium=RSS&at_campaign=rss",
@@ -1029,6 +1037,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8943951",
+        "title": "Celtic board told to brace for more anarchy as 'worst' ever result claim made amid European post-mortem",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-board-told-to-brace-for-more-anarchy-as-worst-ever-result-claim-made-amid-champions-league-post-mortem-8943951",
+        "description": "<p>Hoops blew a four goal lead against LASK Linz as they kissed goodbye to the Champions League</p>",
+        "published": "Wed, 26 Aug 2026 16:18:51 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/26/16/36/GettyImages-2244047990.jpeg?width=1200&auto=webp&trim=49%2C0%2C49%2C0"
+      },
+      {
+        "id": "f207507f1f28057258193a93b9e9a0c9",
+        "title": "Glasgow woman urges others to get tested after stage four bowel cancer diagnosis",
+        "link": "https://www.glasgowtimes.co.uk/news/26498812.glasgow-woman-urges-others-get-tested-cancer-diagnosis/",
+        "description": "A Glasgow woman has backed a new screening programme after she was diagnosed with stage four bowel cancer diagnosis following an ignored test kit",
+        "published": "Wed, 26 Aug 2026 17:12:12 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21376427/?type=app&htype=0"
+      },
+      {
+        "id": "81bfc9ff1aa56772ed8e5cbaaa66d742",
+        "title": "Glasgow bin lorry fires spark calls for new vape return scheme",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26498753.glasgow-faces-growing-bin-fire-risk-discarded-vapes/",
+        "description": "Glasgow councillors are calling for a vape deposit return scheme after a series of bin lorry fires linked to lithium-ion batteries, with concerns growing over the safe disposal of vapes and other battery-powered devices.",
+        "published": "Wed, 26 Aug 2026 16:59:33 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20109180/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/urgent-search-missing-cambuslang-man-34522480",
         "title": "Urgent search for missing Cambuslang man who vanished two weeks ago",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/urgent-search-missing-cambuslang-man-34522480",
@@ -1043,6 +1075,14 @@
         "description": "Scotland's education sector faces major challenges. Explore exclusive Education HQ reporting, analysis and investigations from The Herald.",
         "published": "Wed, 26 Aug 2026 16:30:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21371252/?type=app&htype=0"
+      },
+      {
+        "id": "1b5ab811aeb19a9edf144af204e695c1",
+        "title": "DVLA change means thousands of drivers can now skip paperwork",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26498570.dvla-change-means-thousands-drivers-can-now-skip-paperwork/",
+        "description": "Thousands of drivers are avoiding paperwork thanks to a new online medical service.",
+        "published": "Wed, 26 Aug 2026 16:29:22 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19144248/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-plan-build-homes-glasgow-34522073",
@@ -1099,14 +1139,6 @@
         "description": "Prime4Eight will deliver 377,200 sq ft of Grade A industrial and logistics space between Glasgow and Edinburgh, targeting Scotland\u2019s tight M8 corridor.",
         "published": "Wed, 26 Aug 2026 15:35:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21374901/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=526718",
-        "title": "Gangland boss Steven Daniel charged following early morning organised crime raid in Glasgow",
-        "link": "https://news.stv.tv/west-central/gangland-boss-steven-daniel-charged-following-early-morning-organised-crime-raid-in-glasgow",
-        "description": "Daniel will appear at Glasgow Sheriff Court on Thursday alongside a 39-year-old man",
-        "published": "Wed, 26 Aug 2026 14:27:15 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/95f07cf4d063497a234dfe7862a3b87d-1787732040-1280x720.jpeg"
       },
       {
         "id": "33409e6ef814a335bb57e0987f5862c7",
@@ -1803,30 +1835,6 @@
         "description": "\u201cThese latest statistics demonstrate clear progress in reducing the longest waits in our NHS.&quot;",
         "published": "Tue, 25 Aug 2026 10:50:36 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34513489.ece/ALTERNATES/s98/0_gettyimages-1443233850-170667a.jpg"
-      },
-      {
-        "id": "bb2c610c598a31b83f07d4d3f956a5df",
-        "title": "Batman crews frustrated by locals trying to sneak this city favourite into the movie",
-        "link": "https://www.glasgowtimes.co.uk/news/26493176.batman-crews-try-stop-locals-sneaking-irn-bru-cans/",
-        "description": "For the week that The Batman Part 2 has been shooting in Glasgow, crews are said to have been sweeping the set to clear it of Irn Bru cans every night.",
-        "published": "Tue, 25 Aug 2026 11:50:14 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21351755/?type=app&htype=0"
-      },
-      {
-        "id": "1a48aacdfd4d09d252fed8ac7394a4dc",
-        "title": "Managers buy Scottish firm behind hundreds of UK homes out of liquidation",
-        "link": "https://www.heraldscotland.com/news/26493169.managers-buy-prominent-uk-architects-firm-liquidation/",
-        "description": "A liquidator has been appointed to an architects practice that has worked on hundreds of self-build projects across the UK.",
-        "published": "Tue, 25 Aug 2026 11:49:25 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21368548/?type=app&htype=0"
-      },
-      {
-        "id": "a0a4b98ffe7f8106b208f28a97d2bdfe",
-        "title": "Spider-Man film drives visitor rise at GRID Braehead after release",
-        "link": "https://www.heraldscotland.com/news/26493081.new-spider-man-film-boosts-visitor-numbers-braehead/",
-        "description": "GRID Braehead recorded a 73.5 per cent rise in footfall after Spider-Man: Brand New Day was released in the UK.",
-        "published": "Tue, 25 Aug 2026 11:43:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19826161/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
