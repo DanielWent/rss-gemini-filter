@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1787722216062307",
+        "title": "Sculpted stone study could shed new light on lost kingdoms",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zxv2vd70o?at_medium=RSS&at_campaign=rss",
+        "description": "Some artefacts are considered \"at risk\" as they are in, or near, churches earmarked for closure and sale.",
+        "published": "Wed, 26 Aug 2026 07:28:23 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84c1/live/3173cad0-a086-11f1-bfeb-dfb02ea642ef.png"
+      },
+      {
         "id": "1787635212110325",
         "title": "Songs created by AI banned from Australia's music charts",
         "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
@@ -973,6 +981,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/heartbreaking-report-finds-scots-rape-34508429",
+        "title": "'Heartbreaking' report finds Scots rape survivors face longer waits for support",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/heartbreaking-report-finds-scots-rape-34508429",
+        "description": "\u201cIt is heartbreaking to tell a survivor that, after the trauma of sexual violence, she must wait months for the help she needs to recover and navigate what has happened&quot;.",
+        "published": "Wed, 26 Aug 2026 05:21:54 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34509178.ece/ALTERNATES/s98/0_gettyimages-1769629901-170667a.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c70d3pdw5r8o#0",
         "title": "I was in so much pain I could barely feed my cats - now I'm back as a pro wrestler",
         "link": "https://www.bbc.co.uk/news/articles/c70d3pdw5r8o?at_medium=RSS&at_campaign=rss",
@@ -1763,14 +1779,6 @@
         "description": "Erskine Stewart Melville has officially opened in Edinburgh, bringing together The Mary Erskine School, Stewart\u2019s Melville College and ESMS Junior School.",
         "published": "Mon, 24 Aug 2026 14:51:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21364451/?type=app&htype=0"
-      },
-      {
-        "id": "e37faac397ab5192dd2f04b2f3edb741",
-        "title": "'Ministerial office is not right for me at this time:' SNP minister quits government",
-        "link": "https://www.heraldscotland.com/news/26490617.ben-macpherson-resigns-scottish-government-minister/",
-        "description": "Ben Macpherson has resigned as a Scottish Government minister, saying he needs to prioritise his mental and physical wellbeing.",
-        "published": "Mon, 24 Aug 2026 14:37:04 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20246132/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
