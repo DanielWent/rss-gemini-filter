@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cd948kn02e5o#2",
+        "title": "What we know about deadly Nepal-Tibet floods",
+        "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+        "description": "Hundreds are feared to have died in flooding and landslides on the border of Nepal and Tibet.",
+        "published": "Wed, 26 Aug 2026 17:59:52 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2ad/live/1848b820-a15f-11f1-aaf8-119f176ff4ce.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/sport/athletics/articles/crerjxyrnp9o#8",
         "title": "'The record will fall' - Werro takes aim at 43-year-old 800m mark",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/crerjxyrnp9o?at_medium=RSS&at_campaign=rss",
@@ -453,6 +461,22 @@
     "link": "https://blog.google",
     "description": "AI Filtered Google Blog Updates.",
     "articles": [
+      {
+        "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+        "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+        "description": "Text \"Gemini 3.5 Transcribe\" next to the Gemini spark, all on a blue background",
+        "published": "Wed, 26 Aug 2026 17:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp"
+      },
+      {
+        "id": "https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/",
+        "title": "Turn your voice into action with new productivity features in Gemini Live",
+        "link": "https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/",
+        "description": "TBD",
+        "published": "Wed, 26 Aug 2026 17:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp"
+      },
       {
         "id": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
         "title": "Start the semester with one year of Gemini, on us",
@@ -1037,6 +1061,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/incoming/glasgow-factory-reset-button-unveiled-34523033",
+        "title": "Glasgow 'factory reset button' unveiled amid 'despair' of BBC documentary",
+        "link": "https://www.glasgowlive.co.uk/incoming/glasgow-factory-reset-button-unveiled-34523033",
+        "description": "&quot;I thought if Glasgow has a virus - I sort of pictured it like a computer - then I need to make a factory reset button.&quot;",
+        "published": "Wed, 26 Aug 2026 17:57:27 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34523243.ece/ALTERNATES/s98/1_image4jpeg.jpg"
+      },
+      {
+        "id": "7bdfb6378ac08f37aa9c48ba5189db05",
+        "title": "Fears for Glasgow\u2019s historic buildings after church demolition approved",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26498990.glasgow-groups-issue-warning-demolition-glasgow-church/",
+        "description": "Glasgow heritage groups are urging a rethink over the demolition of Hillhead Baptist Church, warning the decision could threaten other listed buildings across Scotland and set a dangerous planning precedent.",
+        "published": "Wed, 26 Aug 2026 18:35:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21376639/?type=app&htype=0"
+      },
+      {
+        "id": "6c20339f1999bd8a40c953fe922f04be",
+        "title": "LIVE updates as council issue 'avoid area' warning after person struck by bus",
+        "link": "https://www.glasgowtimes.co.uk/news/26498959.live-updates-glasgows-argyle-street-closed-person-hit-bus/",
+        "description": "A person has been struck by a bus in Glasgow.",
+        "published": "Wed, 26 Aug 2026 18:12:34 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21376591/?type=app&htype=0"
+      },
+      {
+        "id": "8943501",
+        "title": "Rangers have \u00a39m transfer deal 'put in place' for striker as prolific hitman provides replacement cover",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-have-ps9m-transfer-deal-put-in-place-for-striker-as-prolific-hitman-provides-replacement-cover-8943501",
+        "description": "<p>The Light Blues are closing in on summer signing number 13</p>",
+        "published": "Wed, 26 Aug 2026 17:00:45 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/26/14/24/GettyImages-2287261662.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/scots-man-missing-20-days-34522955",
+        "title": "Scots man missing for 20 days 'may have travelled to Glasgow'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/scots-man-missing-20-days-34522955",
+        "description": "\u201cIf anyone has seen Richie, or someone matching his description, please get in touch with police.&quot;",
+        "published": "Wed, 26 Aug 2026 16:55:38 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34522984.ece/ALTERNATES/s98/2_richie-potts.jpg"
+      },
+      {
         "id": "8943951",
         "title": "Celtic board told to brace for more anarchy as 'worst' ever result claim made amid European post-mortem",
         "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-board-told-to-brace-for-more-anarchy-as-worst-ever-result-claim-made-amid-champions-league-post-mortem-8943951",
@@ -1053,12 +1117,44 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21376427/?type=app&htype=0"
       },
       {
+        "id": "3b49c8b32e2de9f3a8a52b7445174c25",
+        "title": "Scottish space technology chosen for radical rocket engine project",
+        "link": "https://www.heraldscotland.com/news/26498455.scottish-space-tech-chosen-radical-rocket-engine-project/",
+        "description": "Aurora Avionics has secured a contract to supply critical control systems for a European rocket engine designed to burn part of its own structure as fuel",
+        "published": "Wed, 26 Aug 2026 17:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21376106/?type=app&htype=0"
+      },
+      {
         "id": "81bfc9ff1aa56772ed8e5cbaaa66d742",
         "title": "Glasgow bin lorry fires spark calls for new vape return scheme",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26498753.glasgow-faces-growing-bin-fire-risk-discarded-vapes/",
         "description": "Glasgow councillors are calling for a vape deposit return scheme after a series of bin lorry fires linked to lithium-ion batteries, with concerns growing over the safe disposal of vapes and other battery-powered devices.",
         "published": "Wed, 26 Aug 2026 16:59:33 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20109180/?type=app&htype=0"
+      },
+      {
+        "id": "7988fcaa9b526da3897b136cbc45818b",
+        "title": "Claims venues are paying 'millions of pounds' to calculate capital's tourist tax",
+        "link": "https://www.heraldscotland.com/news/26497189.confusion-new-rules-mars-edinburghs-visitor-levy-rollout/",
+        "description": "Proprietors have reported that manually calculating the levy can take up to eight minutes at a time, for each booking.",
+        "published": "Wed, 26 Aug 2026 16:58:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/9472206/?type=app&htype=0"
+      },
+      {
+        "id": "9d2ce8dd9d301bdd78095773361dfe27",
+        "title": "Former St Andrews University student in running for top comedy honour at the Fringe",
+        "link": "https://www.heraldscotland.com/news/26498746.former-st-andrews-university-student-fringes-top-comedy-prize/",
+        "description": "Li Jin Hao first performed at the festival when he was in a student sketch group.",
+        "published": "Wed, 26 Aug 2026 16:57:28 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21376422/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/sport/football/articles/cdj4exv1xgwo#0",
+        "title": "Another season, another failure - where did it all go wrong for Celtic?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cdj4exv1xgwo?at_medium=RSS&at_campaign=rss",
+        "description": "Celtic have now faltered in Champions League qualifying on six occasions in eight years. What are the ramifications this time?",
+        "published": "Wed, 26 Aug 2026 15:43:49 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93e1/live/2b9b96d0-a13d-11f1-9311-09d4e1fc9016.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/urgent-search-missing-cambuslang-man-34522480",
@@ -1763,78 +1859,6 @@
         "description": "Unite Students has topped out its \u00a3126m Alexander Quay development, which will provide 934 student beds in Glasgow from 2027.",
         "published": "Tue, 25 Aug 2026 12:51:45 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21368274/?type=app&htype=0"
-      },
-      {
-        "id": "8940472",
-        "title": "The 14 South Lanarkshire primary schools among Scotland's top performers in 2026",
-        "link": "https://www.glasgowworld.com/education/the-14-south-lanarkshire-primary-schools-among-scotlands-top-performers-in-2026-8940472",
-        "description": "<p>These South Lanarkshire primary schools have maintained consistently high levels of student achievement.  </p>",
-        "published": "Tue, 25 Aug 2026 11:22:55 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/01/19/11/43/Screenshot-2026-01-19-111006.jpeg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/wrestling-superstar-jeff-jarrett-grado-34513740",
-        "title": "Wrestling superstar Jeff Jarrett and Grado in Glasgow tonight and there are still tickets",
-        "link": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/wrestling-superstar-jeff-jarrett-grado-34513740",
-        "description": "Expect some big surprises and plenty of epic stories, as the AEW icon and wrestling legend brings his My World Podcast Live to BAaD this evening.",
-        "published": "Tue, 25 Aug 2026 11:22:13 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34513788.ece/ALTERNATES/s98/0_download-51.png"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/vehicles-torched-glasgow-garage-retaliation-34513557",
-        "title": "Vehicles torched at Glasgow garage in 'retaliation' attack as gang war continues",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/vehicles-torched-glasgow-garage-retaliation-34513557",
-        "description": "Emergency services raced to All Automotive in Tollcross in the early hours.",
-        "published": "Tue, 25 Aug 2026 11:08:16 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34513683.ece/ALTERNATES/s98/0_JS415726314.jpg"
-      },
-      {
-        "id": "8940396",
-        "title": "18 new destinations to fly direct to from Glasgow Airport in 2026",
-        "link": "https://www.glasgowworld.com/best-in/18-new-destinations-to-fly-direct-to-from-glasgow-airport-in-2026-8940396",
-        "description": "<p>These are the best new destinations to fly direct to from Glasgow Airport in 2026.</p>",
-        "published": "Tue, 25 Aug 2026 11:03:11 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/04/28/03/iconic-upload-pa-2021_12_31-1640939104902_3.jpg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "8939811",
-        "title": "Celtic to 'splash the cash' if Champions League progress clinched as six players and 'prime target' on agenda",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-will-splash-the-cash-if-champions-league-progress-clinched-as-six-players-and-prime-target-on-agenda-8939811",
-        "description": "<p>Hoops still have work to be done in the transfer window before next week\u2019s deadline</p>",
-        "published": "Tue, 25 Aug 2026 11:00:44 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/25/8/13/GettyImages-2258335300.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0"
-      },
-      {
-        "id": "8939963",
-        "title": "Rangers 'planning to accelerate their pursuit' of striker transfer as 'priority' star rises on shortlist",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-planning-to-accelerate-their-pursuit-of-striker-transfer-as-priority-star-rises-towards-head-of-shortlist-8939963",
-        "description": "<p>Striker has been identified as a replacement for Youssef Chermiti following his injury</p>",
-        "published": "Tue, 25 Aug 2026 11:00:34 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/25/9/43/GettyImages-2291232401.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "d880d198f8c0a4322085ff8d62f6f075",
-        "title": "Glasgow dealer who forced boy to hand out drug testers and stay in dirty den JAILED",
-        "link": "https://www.glasgowtimes.co.uk/news/26493233.dealer-forced-boy-stay-paisley-den-sell-drugs-jailed/",
-        "description": "A dealer guilty of exploiting a schoolboy to sell drugs for him has been locked up for almost seven years.",
-        "published": "Tue, 25 Aug 2026 11:59:36 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21242576/?type=app&htype=0"
-      },
-      {
-        "id": "394fd222bdbb680dbfcbf18e1c86a824",
-        "title": "Glasgow children's programme celebrates 50 years of learning through play",
-        "link": "https://www.glasgowtimes.co.uk/news/26493219.glasgow-childrens-programme-celebrates-50-years-pla/",
-        "description": "Gymboree Play &amp; Music celebrates 50 years of play-based learning in Glasgow, with families marking the milestone at Bearsden &amp; Milngavie and Glasgow South.",
-        "published": "Tue, 25 Aug 2026 11:56:58 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21368257/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/undeniable-progress-reduce-nhs-waiting-34512966",
-        "title": "'Undeniable progress' to reduce NHS waiting lists in Scotland as key milestones reached",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/undeniable-progress-reduce-nhs-waiting-34512966",
-        "description": "\u201cThese latest statistics demonstrate clear progress in reducing the longest waits in our NHS.&quot;",
-        "published": "Tue, 25 Aug 2026 10:50:36 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34513489.ece/ALTERNATES/s98/0_gettyimages-1443233850-170667a.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
