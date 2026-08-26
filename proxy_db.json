@@ -810,6 +810,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "95f54fe8da126baa7130be78e0e35da9",
+        "title": "Primary school and nursery filled with 'wonder and curiosity' praised by inspectors",
+        "link": "https://www.glasgowtimes.co.uk/news/26491369.colquhoun-park-primary-bearsden-praised-hmie-inspection-report/",
+        "description": "Inspectors have praised the positive, nurturing ethos at Colquhoun Park Primary in Bearsden, highlighting strong pupil wellbeing, motivated learners and an impressive early years centre.",
+        "published": "Wed, 26 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21365507/?type=app&htype=0"
+      },
+      {
         "id": "d614301467527a9a5d45bd5ba01a91dc",
         "title": "Part of city centre 'unrecognisable' after latest phase of \u00a322.5m transformation",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26494523.glasgows-cowcaddens-road-dobbies-loan-transformed/",
@@ -981,12 +989,60 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/education-secretary-fundamentally-disagrees-no-34517311",
+        "title": "Education Secretary \u2018fundamentally disagrees\u2019 no catastrophic failings in Glasgow Beastie House case",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/education-secretary-fundamentally-disagrees-no-34517311",
+        "description": "Mairi McAllan said there had been a \u201ccatastrophic failure of the system which was suppose to protect\u201d the children involved",
+        "published": "Wed, 26 Aug 2026 05:58:55 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34517336.ece/ALTERNATES/s98/2_Mairi-McAllan.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/heartbreaking-report-finds-scots-rape-34508429",
         "title": "'Heartbreaking' report finds Scots rape survivors face longer waits for support",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/heartbreaking-report-finds-scots-rape-34508429",
         "description": "\u201cIt is heartbreaking to tell a survivor that, after the trauma of sexual violence, she must wait months for the help she needs to recover and navigate what has happened&quot;.",
         "published": "Wed, 26 Aug 2026 05:21:54 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34509178.ece/ALTERNATES/s98/0_gettyimages-1769629901-170667a.jpg"
+      },
+      {
+        "id": "efa1ed742ad034814fa445009d023580",
+        "title": "River City documentary is a 'love letter' to loyal fans of the axed BBC Scotland show",
+        "link": "https://www.glasgowtimes.co.uk/news/26490924.tony-kearney-river-city-final-take-bbc-scotland/",
+        "description": "Former River City star Tony Kearney directs River City: The Last Take, a documentary about the long-running soap, featuring cast reunions, unseen footage, fan memories and iconic clips. This heartfelt farewell to 24 years of life in Shieldinch will be shown after the final episode on Monday (August 31).",
+        "published": "Wed, 26 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21364878/?type=app&htype=0"
+      },
+      {
+        "id": "6aa677650b2df012176a4c23097412ef",
+        "title": "Community project under threat after break-ins, vandalism and abuse of volunteers",
+        "link": "https://www.glasgowtimes.co.uk/news/26493476.faifley-pavilion-breaking-point-amid-vandalism-repair-delays/",
+        "description": "Flourishing Faifley warn the pavilion may not survive ongoing vandalism as rising repair costs threaten the community project amid construction dispute.",
+        "published": "Wed, 26 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21363543/?type=app&htype=0"
+      },
+      {
+        "id": "95f54fe8da126baa7130be78e0e35da9",
+        "title": "Primary school and nursery filled with 'wonder and curiosity' praised by inspectors",
+        "link": "https://www.glasgowtimes.co.uk/news/26491369.colquhoun-park-primary-bearsden-praised-hmie-inspection-report/",
+        "description": "Inspectors have praised the positive, nurturing ethos at Colquhoun Park Primary in Bearsden, highlighting strong pupil wellbeing, motivated learners and an impressive early years centre.",
+        "published": "Wed, 26 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21365507/?type=app&htype=0"
+      },
+      {
+        "id": "33723ff65e532e64df91bd58222675fd",
+        "title": "Glasgow Times calls on the whole city to make it safer for women and girls",
+        "link": "https://www.glasgowtimes.co.uk/news/26494521.action-not-words-time-safer-glasgow-women/",
+        "description": "The Glasgow Times is launching a campaign calling on the whole city to step up and make Glasgow safer for women and girls",
+        "published": "Wed, 26 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21370214/?type=app&htype=0"
+      },
+      {
+        "id": "93fc106bcf9fdc95adab638a7c9f24c2",
+        "title": "Scotland's buses set for \u00a355m boost as major upgrade plan unveiled",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26495041.scotlands-buses-set-55m-boost-major-upgrade-plan-unveiled/",
+        "description": "Scotland's bus network is set for a major upgrade after a \u00a355 million investment aimed at cutting delays, improving reliability and making journeys easier.",
+        "published": "Wed, 26 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20998632/?type=app&htype=0"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/c70d3pdw5r8o#0",
@@ -1243,14 +1299,6 @@
         "description": "The charity is urging anyone considering buying a puppy to do their research and never rush into a purchase.",
         "published": "Tue, 25 Aug 2026 12:26:20 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34514432.ece/ALTERNATES/s98/0_unnamed-1.jpg"
-      },
-      {
-        "id": "d44583023d3e14732e0d88c151a2626a",
-        "title": "Reported rapes and attempted rapes up almost one third in four years",
-        "link": "https://www.heraldscotland.com/news/26493566.reported-rapes-attempted-rapes-almost-one-third-four-years/",
-        "description": "Annual crime stats have revealed an alarming rise in crime",
-        "published": "Tue, 25 Aug 2026 12:57:35 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21368750/?type=app&htype=0"
       },
       {
         "id": "be31ab0fed724fe6fa353303afd75338",
@@ -1739,46 +1787,6 @@
         "description": "Temporary traffic lights have been installed on Pollokshaws Road as major resurfacing works cause road closures, diversions and expected delays.",
         "published": "Mon, 24 Aug 2026 15:45:20 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/16783333/?type=app&htype=0"
-      },
-      {
-        "id": "44a214ba14266046e2859b1d91261a63",
-        "title": "Award-winning children's author brings superhero fun to primary pupils",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26491011.supertato-author-sue-hendra-visited-north-lanarkshire-pupils/",
-        "description": "A visit from a popular children\u2019s author has brought a burst of creativity and fun to pupils in North Lanarkshire.",
-        "published": "Mon, 24 Aug 2026 15:41:16 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21364863/?type=app&htype=0"
-      },
-      {
-        "id": "b7ccf02adad0d55fd2b6faae3b340b67",
-        "title": "Cumbernauld industrial unit sold for \u00a35.45m as buyer makes first fund acquisition",
-        "link": "https://www.heraldscotland.com/news/26490970.cumbernauld-industrial-unit-sold-5-45-million/",
-        "description": "A 55,000 sq ft industrial unit in Cumbernauld has been sold for \u00a35.45 million to Rankeilour Properties, with the property let until 2035.",
-        "published": "Mon, 24 Aug 2026 15:41:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21364828/?type=app&htype=0"
-      },
-      {
-        "id": "cf581b92fc30d655176879725189274a",
-        "title": "Marra: Reform UK is 'a gateway to something much darker'",
-        "link": "https://www.heraldscotland.com/news/26490780.labour-open-discussions-others-council-deals/",
-        "description": "Michael Marra says he would allow Labour councillors to strike deals with other parties after next year's local elections \u2014 but has ruled out any arrangement with Reform UK, branding the party 'incredibly dangerous'.",
-        "published": "Mon, 24 Aug 2026 15:06:38 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21364609/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=526333",
-        "title": "Double murder detectives trawl 4,000 hours of CCTV in hunt for killer",
-        "link": "https://news.stv.tv/west-central/double-murder-detectives-trawl-4000-hours-of-cctv-in-hunt-for-killer",
-        "description": "Paul Lafferty, 50 and Gary Beaton, 54, were found dead at a property on Chancellor Street around 4.40pm on Sunday, August 16",
-        "published": "Mon, 24 Aug 2026 14:02:02 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/3d36fbb304e7f55cb452bcea1fe102e5-1787139532-1280x720.jpeg"
-      },
-      {
-        "id": "4ce9ebad9735448e7087c35eec6d2c06",
-        "title": "New Edinburgh school brings three historic schools together under one name",
-        "link": "https://www.heraldscotland.com/news/26490673.new-edinburgh-school-unites-three-historic-schools/",
-        "description": "Erskine Stewart Melville has officially opened in Edinburgh, bringing together The Mary Erskine School, Stewart\u2019s Melville College and ESMS Junior School.",
-        "published": "Mon, 24 Aug 2026 14:51:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21364451/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
