@@ -826,6 +826,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "01e9d14712293761caed345a656f0376",
+        "title": "Swinney announces 40 walk-in GP centres while saying uptake 'will take time'",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26497630.john-swinney-confirms-plans-40-walk-in-gp-clinics-scotland/",
+        "description": "John Swinney has announced plans for 40 walk-in GP clinics across Scotland despite criticism of the scheme.",
+        "published": "Wed, 26 Aug 2026 14:11:21 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18035814/?type=app&htype=0"
+      },
+      {
         "id": "95f54fe8da126baa7130be78e0e35da9",
         "title": "Primary school and nursery filled with 'wonder and curiosity' praised by inspectors",
         "link": "https://www.glasgowtimes.co.uk/news/26491369.colquhoun-park-primary-bearsden-praised-hmie-inspection-report/",
@@ -1013,6 +1021,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/free-night-save-scene-scotland-34520731",
+        "title": "Free the night and save the scene Scotland call for fairer rules on zero-hours hospitality work",
+        "link": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/free-night-save-scene-scotland-34520731",
+        "description": "&quot;We\u2019re not arguing that every casual job should become a fixed contract. We\u2019re saying that when work becomes regular, people should have the opportunity to get the security that reflects the job they\u2019re actually doing.&quot;",
+        "published": "Wed, 26 Aug 2026 13:51:39 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34520711.ece/ALTERNATES/s98/0_Copy-of-DSC_1595-NIALL-MURPHY.jpg"
+      },
+      {
+        "id": "28fb11b35765ae621a1128cb3f788edb",
+        "title": "What's on at Glasgow Film Theatre as youth festival returns this autumn",
+        "link": "https://www.glasgowtimes.co.uk/news/26497647.glasgow-youth-film-festival-returns-september/",
+        "description": "A youth film festival is set to return this September as part of a month-long celebration of cinema.",
+        "published": "Wed, 26 Aug 2026 14:14:11 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20001981/?type=app&htype=0"
+      },
+      {
+        "id": "01e9d14712293761caed345a656f0376",
+        "title": "Swinney announces 40 walk-in GP centres while saying uptake 'will take time'",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26497630.john-swinney-confirms-plans-40-walk-in-gp-clinics-scotland/",
+        "description": "John Swinney has announced plans for 40 walk-in GP clinics across Scotland despite criticism of the scheme.",
+        "published": "Wed, 26 Aug 2026 14:11:21 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18035814/?type=app&htype=0"
+      },
+      {
         "id": "fa6748c95237639e4da74d3cbeacb532",
         "title": "Nicola Sturgeon and Peter Murrell's extraordinary downfall heading to Channel 5",
         "link": "https://www.glasgowtimes.co.uk/entertainment/tv_radio/26496892.nicola-sturgeon-peter-murrell-scandal-heading-channel-5/",
@@ -1067,14 +1099,6 @@
         "description": "<p>These North Lanarkshire primary schools have maintained consistently high levels of student achievement.  </p>",
         "published": "Wed, 26 Aug 2026 11:33:11 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/03/27/11/29/Untitled-design-2026-03-27T110248-283.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "a09f1e862e364ea1776757a2a2754f9b",
-        "title": "Man dead after emergency crews rushed to tape off section of busy Glasgow street",
-        "link": "https://www.glasgowtimes.co.uk/news/26497119.man-dead-police-tape-off-part-sauchiehall-street/",
-        "description": "Police and Ambulance crews were called to the side of the man outside the Boots pharmacy around 9.04am where the man was pronounced dead.",
-        "published": "Wed, 26 Aug 2026 12:32:28 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21373871/?type=app&htype=0"
       },
       {
         "id": "8942952",
@@ -1795,22 +1819,6 @@
         "description": "<p>The star linked to Aston Villa is one of players who could leave Rangers this transfer window.</p>",
         "published": "Tue, 25 Aug 2026 07:00:40 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/01/29/22/02/GettyImages-2258934775.jpeg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "8939219",
-        "title": "Celtic could make second transfer bid for midfield star but Champions League factor comes into possible deal",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-could-make-second-transfer-bid-for-midfield-star-but-champions-league-factor-comes-into-possible-deal-8939219",
-        "description": "<p>Martin O\u2019Neill is still looking to bolster the midfield despite summer signing</p>",
-        "published": "Tue, 25 Aug 2026 07:00:36 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/24/16/43/GettyImages-2219179761.jpeg?width=1200&auto=webp&trim=60%2C0%2C60%2C0"
-      },
-      {
-        "id": "https://runabc.co.uk/islay-marathon-brings-262-miles-to-the-queen-of-the-hebrides",
-        "title": "Islay Marathon Brings 26.2 Miles To The Queen Of The Hebrides",
-        "link": "https://runabc.co.uk/islay-marathon-brings-262-miles-to-the-queen-of-the-hebrides",
-        "description": "<p><img alt=\"Islay Marathon 2026\" src=\"https://runabc.co.uk/images/2026/08/islay-marathon-2026-487802.jpg\" /></p>\n\t\t\t\t<p>Islay Marathon returns on 12 September with a spectacular island journey from Bruichladdich to Port Ellen and a relay option for teams...</p>",
-        "published": "Tue, 25 Aug 2026 07:55:00 +0100",
-        "image_url": "https://runabc.co.uk/images/2026/08/islay-marathon-2026-487802.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
