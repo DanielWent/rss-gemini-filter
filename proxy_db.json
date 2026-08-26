@@ -1013,6 +1013,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/more-30-walk-gp-services-34519337",
+        "title": "More than 30 walk-in GP services to open across Scotland announces First Minister",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/more-30-walk-gp-services-34519337",
+        "description": "&quot;We are listening and want to create more choice for patients, closer to home and without the need for a pre-booked appointment.&quot;",
+        "published": "Wed, 26 Aug 2026 11:00:27 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34519541.ece/ALTERNATES/s98/0_gettyimages-2288346973-594x594.jpg"
+      },
+      {
+        "id": "8942496",
+        "title": "Champions League calamity sparks nervous Celtic transfer waiting game after key deal left hinging on progress",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/champions-league-calamity-sparks-nervous-celtic-transfer-waiting-game-after-key-deal-left-hinging-on-top-table-progress-8942496",
+        "description": "<p>Champions League elimination could affect future transfers for the Hoops</p>",
+        "published": "Wed, 26 Aug 2026 11:00:20 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/26/10/01/GettyImages-2275212423.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "33588c61d491a53951c7aeef75394b8b",
+        "title": "Glasgow welcomes wave of new energy-efficient homes in \u00a311.2m housing scheme",
+        "link": "https://www.glasgowtimes.co.uk/news/26496611.new-glasgow-homes-built-11-million-project-finished/",
+        "description": "43 homes have been built on Govan's Nimmo Drive, with tenants now moving in and bringing new faces to the area.",
+        "published": "Wed, 26 Aug 2026 11:23:35 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21373319/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/wee-farm-shop-near-glasgow-34516137",
         "title": "The wee farm shop near Glasgow that has just been named best in the country",
         "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/wee-farm-shop-near-glasgow-34516137",
