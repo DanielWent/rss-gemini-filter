@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cjwg5n7y68xo#0",
+        "title": "World's first patient to undergo live AI-assisted brain surgery has tumour removed",
+        "link": "https://www.bbc.co.uk/news/articles/cjwg5n7y68xo?at_medium=RSS&at_campaign=rss",
+        "description": "Without brain surgery guided by live AI assistance, Rhys Hibbert could have lost his sight to a tumour.",
+        "published": "Wed, 26 Aug 2026 23:07:22 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e381/live/15e71f90-8512-11f1-bee8-53ce494e1abc.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cd948kn02e5o#2",
         "title": "What we know about deadly Nepal-Tibet floods",
         "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
@@ -1061,6 +1069,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c4gjd853r0eo#0",
+        "title": "'I spent two years looking for work before I got a job'",
+        "link": "https://www.bbc.co.uk/news/articles/c4gjd853r0eo?at_medium=RSS&at_campaign=rss",
+        "description": "Neala was one of growing number of young people classed as Neet, meaning they are not in education, employment or training.",
+        "published": "Wed, 26 Aug 2026 21:47:13 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1c6/live/96aac210-a143-11f1-a291-b542ee92de7c.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/incoming/glasgow-factory-reset-button-unveiled-34523033",
         "title": "Glasgow 'factory reset button' unveiled amid 'despair' of BBC documentary",
         "link": "https://www.glasgowlive.co.uk/incoming/glasgow-factory-reset-button-unveiled-34523033",
@@ -1147,14 +1163,6 @@
         "description": "Li Jin Hao first performed at the festival when he was in a student sketch group.",
         "published": "Wed, 26 Aug 2026 16:57:28 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21376422/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/football/articles/cdj4exv1xgwo#0",
-        "title": "Another season, another failure - where did it all go wrong for Celtic?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cdj4exv1xgwo?at_medium=RSS&at_campaign=rss",
-        "description": "Celtic have now faltered in Champions League qualifying on six occasions in eight years. What are the ramifications this time?",
-        "published": "Wed, 26 Aug 2026 15:43:49 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93e1/live/2b9b96d0-a13d-11f1-9311-09d4e1fc9016.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/urgent-search-missing-cambuslang-man-34522480",
