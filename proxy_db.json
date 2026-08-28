@@ -5,6 +5,30 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo#0",
+        "title": "Trump administration illegally retaliated against Anthropic, judge rules",
+        "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+        "description": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
+        "published": "Fri, 28 Aug 2026 03:15:45 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f75a/live/b47df1f0-a28c-11f1-8826-af7227376736.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c74g2j83dx1o#2",
+        "title": "Jacob Elordi on why The Dog Stars had him asking 'What am I missing' in life?",
+        "link": "https://www.bbc.co.uk/news/articles/c74g2j83dx1o?at_medium=RSS&at_campaign=rss",
+        "description": "Sir Ridley Scott's post-apocalyptic epic explores the feeling of hope in a pandemic-riddled world.",
+        "published": "Thu, 27 Aug 2026 23:44:07 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc51/live/ebacb0b0-a207-11f1-b109-879e35c24276.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/sport/athletics/articles/cgmrvyjn1nvo#8",
+        "title": "Werro edges closer to 800m mark as world records fall in Zurich",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cgmrvyjn1nvo?at_medium=RSS&at_campaign=rss",
+        "description": "European champion Audrey Werro came tantalisingly close to downing the oldest outdoor world record in athletics, finishing a little more than four tenths of a second off Jarmila Kratochvilova's 800m mark.",
+        "published": "Thu, 27 Aug 2026 19:09:26 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6f1/live/9472a550-a254-11f1-a1d7-5567ac89ca4e.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cwyz11475l1o#4",
         "title": "Google, Microsoft and OpenAI among 100 firms calling for better cyber defences",
         "link": "https://www.bbc.co.uk/news/articles/cwyz11475l1o?at_medium=RSS&at_campaign=rss",
@@ -1069,6 +1093,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "986c97cf71da3c24e7a363fd21632608",
+        "title": "Scotland to review NHS IVF funding criteria with possible expansion",
+        "link": "https://www.heraldscotland.com/news/26500539.universities-scotland-face-financial-crisis-amid-200m-deficit/",
+        "description": "The criteria for accessing IVF treatment on the NHS will be reviewed for potential expansion, the Scottish Government has said.",
+        "published": "Fri, 28 Aug 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18282638/?type=app&htype=0"
+      },
+      {
+        "id": "8b18605310747a0f3571b16ec4539224",
+        "title": "'We'll never go home': Families told evacuated Coalsnaughton homes will be demolished",
+        "link": "https://www.heraldscotland.com/news/26502640.families-told-evacuated-coalsnaughton-homes-will-demolished/",
+        "description": "Families evacuated from Coalsnaughton after ground movement have been told their homes will be bought and demolished, leaving many residents devastated and facing an uncertain future",
+        "published": "Thu, 27 Aug 2026 21:05:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21021547/?type=app&htype=0"
+      },
+      {
         "id": "d279e2e7cffaded565fe309424715af3",
         "title": "Salmonella outbreak linked to eggs leaves one dead as cases rise in Scotland",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26502616.13-cases-salmonella-cases-confirmed-scotland-officials-probe/",
@@ -1107,22 +1147,6 @@
         "description": "A man has appeared in court today accused of serious organised crime offices.",
         "published": "Thu, 27 Aug 2026 18:52:05 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/16196411/?type=app&htype=0"
-      },
-      {
-        "id": "7b3187293e13969e20e362712da94d79",
-        "title": "Here's what we know after man 'abducted' from Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26502570.three-arrested-man-abducted-glasgows-maryhill/",
-        "description": "Detectives have launched an investigation after a man was allegedly abducted from Glasgow's Maryhill, three people have been arrested.",
-        "published": "Thu, 27 Aug 2026 18:41:28 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21382130/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cj06j84jjj5o#0",
-        "title": "Youth football games for 750 children cancelled over bad behaviour",
-        "link": "https://www.bbc.co.uk/news/articles/cj06j84jjj5o?at_medium=RSS&at_campaign=rss",
-        "description": "The Central Scotland Football Association announced that games for players aged between five and six, would not go ahead.",
-        "published": "Thu, 27 Aug 2026 17:18:02 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7d8/live/08694550-a231-11f1-80a2-67c89a95284e.jpg"
       },
       {
         "id": "https://news.stv.tv/?p=526928",
@@ -1373,14 +1397,6 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/26/16/19/GettyImages-2284833024.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       },
       {
-        "id": "f2eea6c7f68780046a7d459daeb3875d",
-        "title": "The wait is almost over for area's first new station in 100 years",
-        "link": "https://www.glasgowtimes.co.uk/news/26500453.east-renfrewshires-first-new-train-station-100-years-open/",
-        "description": "There is now officially just one month to go until East Renfrewshire opens its first new train station in 100 years.",
-        "published": "Thu, 27 Aug 2026 11:56:36 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21378669/?type=app&htype=0"
-      },
-      {
         "id": "1f4b7bf216f2220154cd0bee05891219",
         "title": "In pictures: Hundreds gather in Glasgow to celebrate Ukrainian Independence Day",
         "link": "https://www.glasgowtimes.co.uk/news/26500439.13-photos-glasgow-marks-ukrainian-independence-day/",
@@ -1405,14 +1421,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20117470/?type=app&htype=0"
       },
       {
-        "id": "https://news.stv.tv/?p=526790",
-        "title": "Woman jailed for murdering schoolgirl\u00a0Caroline Glachan dies in hospital",
-        "link": "https://news.stv.tv/west-central/woman-jailed-for-murdering-schoolgirl-caroline-glachan-dies-in-hospital",
-        "description": "Donna Brand, 47, who was in custody at HMP &#038; YOI Stirling, died at Forth Valley Royal Hospital near Falkirk on Wednesday.",
-        "published": "Thu, 27 Aug 2026 10:34:15 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2024/04/09da4c515f7782424937150e817df897-1713777031-1120x720.jpeg"
-      },
-      {
         "id": "82be1e856c59e9ec0b7b6a81abd1f826",
         "title": "Council announces Princes Street will 'fully re-open' two days before festivals end",
         "link": "https://www.heraldscotland.com/news/26500240.princes-street-will-fully-re-open-saturday-councillors-told/",
@@ -1427,14 +1435,6 @@
         "description": "A Glasgow office building occupied by the Daily Record and Sky has been sold in a multi-million-pound deal as investment activity grows in the city centre.",
         "published": "Thu, 27 Aug 2026 11:05:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21378247/?type=app&htype=0"
-      },
-      {
-        "id": "d9024afbda60d1019314f18096ddab20",
-        "title": "LIVE updates as Glasgow services delayed after person hit train on busy route",
-        "link": "https://www.glasgowtimes.co.uk/news/26500128.live-updates-person-dead-hit-train/",
-        "description": "Someone has been hit by a train near Stirling. Emergency services are responding to the scene. Trains from Glasgow Queen Street have been delayed and cancelled.",
-        "published": "Thu, 27 Aug 2026 11:04:32 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17632788/?type=app&htype=0"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/c78314pepm8o#1",
@@ -1635,14 +1635,6 @@
         "description": "Glasgow heritage groups are urging a rethink over the demolition of Hillhead Baptist Church, warning the decision could threaten other listed buildings across Scotland and set a dangerous planning precedent.",
         "published": "Wed, 26 Aug 2026 18:35:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21376639/?type=app&htype=0"
-      },
-      {
-        "id": "6c20339f1999bd8a40c953fe922f04be",
-        "title": "LIVE updates as council issue 'avoid area' warning after person struck by bus",
-        "link": "https://www.glasgowtimes.co.uk/news/26498959.live-updates-glasgows-argyle-street-closed-person-hit-bus/",
-        "description": "A person has been struck by a bus in Glasgow.",
-        "published": "Wed, 26 Aug 2026 18:12:34 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21376591/?type=app&htype=0"
       },
       {
         "id": "8943501",
