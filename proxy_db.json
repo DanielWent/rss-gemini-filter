@@ -1197,12 +1197,92 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgow-food-group-connecting-people-34536101",
+        "title": "Glasgow food group connecting people and bringing them back into the city centre for social dinners",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgow-food-group-connecting-people-34536101",
+        "description": "Pushing back against the recent views of Glasgow, the series of Taste Of events offers a social dining experience with a real sense of community.",
+        "published": "Sat, 29 Aug 2026 16:50:35 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34536120.ece/ALTERNATES/s98/723197600_1600794555382618_289440205553562703_n.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/big-feed-host-huge-family-34535878",
+        "title": "Big Feed to host huge Family Day out at Govan Graving Docks with appearances from Moana and Ariel",
+        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/big-feed-host-huge-family-34535878",
+        "description": "The Big Feed is returning to Govan Graving Docks on September Weekend for a massive family festival.",
+        "published": "Sat, 29 Aug 2026 16:45:33 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34535845.ece/ALTERNATES/s98/5_Screenshot-2023-08-03-at-25814-PM.png"
+      },
+      {
+        "id": "ae6d5d5a640519cd2c9b703f7c7ccd44",
+        "title": "Man fighting for his life after being airlifted to Glasgow amid horror crash",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26506978.man-critical-a76-crash-involving-police-car-near-mauchline/",
+        "description": "A 56-year-old man is in a critical condition after his car collided with a police vehicle and another car on the A76 near Mauchline.",
+        "published": "Sat, 29 Aug 2026 17:05:39 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21388619/?type=app&htype=0"
+      },
+      {
+        "id": "60098db047a5f5ec86aa9dfd4a0fbfc7",
+        "title": "Urgent hunt for missing Glasgow man launched as concerns grow",
+        "link": "https://www.glasgowtimes.co.uk/news/26506958.urgent-appeal-find-missing-drumchapel-man-adam-beattie/",
+        "description": "Police are appealing for information after Adam Beattie was reported missing from the Drumchapel area of Glasgow.",
+        "published": "Sat, 29 Aug 2026 16:56:41 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21388576/?type=app&htype=0"
+      },
+      {
+        "id": "5c0138f2a1ce744b75ec2ff51cfc2ff5",
+        "title": "LIVE updates as major fire to impact several busy trains for HOURS",
+        "link": "https://www.glasgowtimes.co.uk/news/26506909.live-updates-trains-impacted-airdrie-edinburgh-amid-fire/",
+        "description": "A fire next to a railway line has caused major disruption to train services between Airdrie and Edinburgh.",
+        "published": "Sat, 29 Aug 2026 16:26:43 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21173123/?type=app&htype=0"
+      },
+      {
+        "id": "078bb5b2213d0b0fc4967407a7828d03",
+        "title": "Deploying Glen Sannox as back-up ferry 'saved 70,000 passenger trips'",
+        "link": "https://www.heraldscotland.com/news/26506879.using-glen-sannox-resilience-ferry-saved-70-000-passenger-trips/",
+        "description": "Scotland's most expensive ferry became a back-up ship - but it worked, says CalMac",
+        "published": "Sat, 29 Aug 2026 15:59:25 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18800238/?type=app&htype=0"
+      },
+      {
+        "id": "4585824f6fe7c8760ca41b36318698f3",
+        "title": "Glasgow road locked down as dozens of police swarm to property amid incident",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26506790.balmore-road-disturbance-sparks-major-police-response-glasgow/",
+        "description": "Police launched enquiries after a disturbance outside a premises on Balmore Road in Glasgow prompted a major response.",
+        "published": "Sat, 29 Aug 2026 14:56:44 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16729761/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/car-bursts-flames-glasgow-shopping-34538858",
+        "title": "Car bursts into flames at Glasgow shopping centre as public warned to 'stay back'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/car-bursts-flames-glasgow-shopping-34538858",
+        "description": "The Scottish Fire and Rescue Service were called to Silverburn Shopping Centre.",
+        "published": "Sat, 29 Aug 2026 13:17:20 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34538899.ece/ALTERNATES/s98/0_unnamed_censored.jpg"
+      },
+      {
+        "id": "857c4cab901c64756c433506e763a469",
+        "title": "Minister calls for 'Scottish Visa' and more immigration to prevent workforce loss",
+        "link": "https://www.heraldscotland.com/politics/westminster/26506674.scottish-minister-calls-scotland-only-visas-workers/",
+        "description": "The new visas would target different sectors of the economy",
+        "published": "Sat, 29 Aug 2026 13:33:58 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/9726628/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-police-warn-residents-be-34538400",
         "title": "Lanarkshire police warn residents to 'be vigilant' after series of break-ins",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-police-warn-residents-be-34538400",
         "description": "The warning comes after a vehicle was stolen from a property in Gartcosh earlier this week, prompting a pursuit involving the police helicopter.",
         "published": "Sat, 29 Aug 2026 12:23:36 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34538628.ece/ALTERNATES/s98/0_gettyimages-1784447972-170667a.jpg"
+      },
+      {
+        "id": "5e62db31ded889151df24e128368c4ad",
+        "title": "Richard Gadd: It's high time comedy was acknowledged as an art form",
+        "link": "https://www.heraldscotland.com/news/26506638.richard-gadd-comedy-must-recognised-a-proper-art-form/",
+        "description": "The creator of Baby Reindeer has called for recognition of comedy's domination of the Edinburgh Festival Fringe.",
+        "published": "Sat, 29 Aug 2026 13:16:02 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21382223/?type=app&htype=0"
       },
       {
         "id": "19ad36293cb19c6cc89766367c7dcc08",
@@ -1507,14 +1587,6 @@
         "description": "Sandie Peggie\u2019s legal team argue an employment tribunal applied the \u201cwrong legal analysis\u201d when it ruled NHS Fife could lawfully allow transgender doctor Beth Upton to use female changing facilities at Victoria Hospital.",
         "published": "Fri, 28 Aug 2026 15:32:43 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20291951/?type=app&htype=0"
-      },
-      {
-        "id": "9e80617e397a9d9ce9077d7ce3194d37",
-        "title": "Over 14,000 complaints made to NHS Greater Glasgow and Clyde since 2023",
-        "link": "https://www.heraldscotland.com/news/26505145.14-000-complaints-made-glasgow-nhs-board-since-2023/",
-        "description": "More than 14,000 complaints have been made to NHS Greater Glasgow and Clyde (NHSGGC) since the beginning of 2023, new figures have revealed.",
-        "published": "Fri, 28 Aug 2026 15:29:24 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/16881005/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=526966",
