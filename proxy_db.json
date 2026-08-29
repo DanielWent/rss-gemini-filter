@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1787952310066958",
+        "title": "How the weather in space can affect us on Earth - and the team trying to protect us",
+        "link": "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o?at_medium=RSS&at_campaign=rss",
+        "description": "The weather in space has the potential to impact our lives here on Earth in a fundamental way.",
+        "published": "Fri, 28 Aug 2026 22:44:07 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e397/live/f7594f20-a2bd-11f1-aed2-8d6da8d75094.jpg"
+      },
+      {
         "id": "1787897408673556",
         "title": "'High risk' of lake breaching and causing second flood, warns China",
         "link": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o?at_medium=RSS&at_campaign=rss",
@@ -67,22 +75,6 @@
         "description": "Without brain surgery guided by live AI assistance, Rhys Hibbert could have lost his sight to a tumour.",
         "published": "Wed, 26 Aug 2026 23:07:22 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e381/live/15e71f90-8512-11f1-bee8-53ce494e1abc.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cd948kn02e5o#2",
-        "title": "What we know about deadly Nepal-Tibet floods",
-        "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-        "description": "Hundreds are feared to have died in flooding and landslides on the border of Nepal and Tibet.",
-        "published": "Wed, 26 Aug 2026 17:59:52 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2ad/live/1848b820-a15f-11f1-aaf8-119f176ff4ce.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/athletics/articles/crerjxyrnp9o#8",
-        "title": "'The record will fall' - Werro takes aim at 43-year-old 800m mark",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/crerjxyrnp9o?at_medium=RSS&at_campaign=rss",
-        "description": "European 800m champion Audrey Werro backs herself to overhaul one of athletics' oldest and most controversial world records.",
-        "published": "Wed, 26 Aug 2026 15:49:52 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9216/live/d8fd1e50-a162-11f1-aed2-8d6da8d75094.jpg"
       },
       {
         "id": "1787722216062307",
@@ -616,6 +608,14 @@
     "link": "https://the5krunner.com",
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
+      {
+        "id": "https://the5krunner.com/?p=127429",
+        "title": "Garmin Forerunner 70 Review",
+        "link": "https://the5krunner.com/2026/08/28/garmin-forerunner-70-review/",
+        "description": "<p><img alt=\"Garmin Forerunner 70 Review\" class=\"attachment-large size-large\" height=\"692\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/08/FR70-Watch-Face-.jpg/w=1110,h=692\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>The Forerunner 70 is Garmin's cheapest running watch at $249.99/\u00a3219.99, and it carries the full physiology stack. Tested across a parkrun, a 10-mile run and a 63km ride, producing the best single-frequency GPS accuracy I have recorded. Battery life is where it falls down.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/08/28/garmin-forerunner-70-review/\">Garmin Forerunner 70 Review</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
+        "published": "Fri, 28 Aug 2026 18:15:26 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/08/FR70-Watch-Face-.jpg/w=1110,h=692"
+      },
       {
         "id": "https://the5krunner.com/?p=127451",
         "title": "Deep Dive Digest #24: Fenix 9 Launch \u2013 Hardware & Features Deep Dives and the Questions That Remain",
@@ -1157,12 +1157,124 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/czez32lw3rpo#0",
+        "title": "NHS workers call off strike after pay offer",
+        "link": "https://www.bbc.co.uk/news/articles/czez32lw3rpo?at_medium=RSS&at_campaign=rss",
+        "description": "Ward clerks at NHS Greater Glasgow and Clyde had been due to walk out from Monday.",
+        "published": "Fri, 28 Aug 2026 20:20:42 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/886f/live/11f03d40-7487-11f1-a63e-8369d3f8e6b7.jpg"
+      },
+      {
+        "id": "fa0be4fd82e885804a52bc7a7537aed0",
+        "title": "Heavy congestion at Glasgow M8 motorway exit due to The Batman: Part 2 filming",
+        "link": "https://www.heraldscotland.com/news/26506096.glasgow-m8-motorway-exit-closed-batman-part-2-filming/",
+        "description": "Congestion is being reported at a major motorway exit in Glasgow due to a closure to allow for scenes to be filmed for The Batman: Part II.",
+        "published": "Fri, 28 Aug 2026 21:06:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20230013/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=527046",
+        "title": "Newmilns shop avoids losing alcohol licence after selling \u2018lethal\u2019 counterfeit vodka",
+        "link": "https://news.stv.tv/west-central/newmilns-shop-avoids-losing-alcohol-licence-after-selling-lethal-counterfeit-vodka",
+        "description": "The operators of the former Nisa, now Londis, store said that illegal vodka ended up on shelves after 'rogue employee' bought it to pocket cash",
+        "published": "Fri, 28 Aug 2026 19:52:53 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/6ed71bde46ca929eee45cb3fe2b26c4f-1787930587.jpg"
+      },
+      {
+        "id": "4cb1556d9ea2e361bef1383fd26c809f",
+        "title": "Glasgow visitor economy reaches \u00a32.74 billion as tourism continues to grow",
+        "link": "https://www.heraldscotland.com/news/26505988.glasgow-visitor-spending-reaches-2-74-billion-2025/",
+        "description": "Glasgow\u2019s visitor economy continued to grow in 2025, with visitor spending reaching \u00a32.74 billion and more than 31 million people coming to the city, new figures show.",
+        "published": "Fri, 28 Aug 2026 18:17:22 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/10487320/?type=app&htype=0"
+      },
+      {
+        "id": "8947635",
+        "title": "Rangers in bulging transfer race over attacker as player stance emerges amid Wolves and West Ham competition",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-in-bulging-transfer-race-over-attacker-as-player-stance-emerges-amid-wolves-and-west-ham-competition-8947635",
+        "description": "<p>Rangers are looking for reinforcements in wide areas</p>",
+        "published": "Fri, 28 Aug 2026 17:00:05 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/28/12/01/GettyImages-2291337785.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "e20af8e65a50e255614a3bae52467474",
+        "title": "Jet2 announces new Glasgow flights for 2027 Eurovision contest",
+        "link": "https://www.heraldscotland.com/news/26505955.jet2-announces-new-glasgow-flights-2027-eurovision-contest/",
+        "description": "Jet2 has announced new flights from a number of UK airports for Eurovision fans looking to travel to Bourgas, Bulgaria, for the 2027 contest.",
+        "published": "Fri, 28 Aug 2026 17:54:10 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/16432336/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=527072",
+        "title": "Seven charged over Trump Turnberry damage face \u2018terrorism connection\u2019 accusation",
+        "link": "https://news.stv.tv/west-central/seven-charged-over-trump-turnberry-damage-face-terrorism-connection-accusation",
+        "description": "Graffiti was sprayed on Donald Trump's hotel and golf resort in March last year",
+        "published": "Fri, 28 Aug 2026 16:49:22 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/3e694952ab5dc74d9ab691ae4d1d8ae3-1787935653-1080x720.jpeg"
+      },
+      {
+        "id": "37953ae4774b32f5599f1a342fda8f04",
+        "title": "Scottish cities tell Burnham England\u2019s devolution push cannot stop at border",
+        "link": "https://www.heraldscotland.com/news/26505396.glasgow-edinburgh-seek-new-city-region-devolution-deal/",
+        "description": "Business leaders argue Scotland\u2019s two largest city regions need the funding certainty and flexibility increasingly available to their English counterparts",
+        "published": "Fri, 28 Aug 2026 17:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21042147/?type=app&htype=0"
+      },
+      {
+        "id": "564adcf051c39c427f6ff1b8d2a52ba9",
+        "title": "LIVE updates as M74 closed causing rush hour chaos",
+        "link": "https://www.glasgowtimes.co.uk/news/26505656.live-updates-m74-closed-causing-rush-hour-chaos/",
+        "description": "The m74 has closed following a crash, causing rush hour chaos in Glasgow.",
+        "published": "Fri, 28 Aug 2026 16:44:40 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21386623/?type=app&htype=0"
+      },
+      {
+        "id": "f7ddb7983485e9c186054ff44051f8c0",
+        "title": "Historic Borders estate could be transformed into 48 new homes",
+        "link": "https://www.heraldscotland.com/news/26505523.historic-borders-estate-transformed-new-homes/",
+        "description": "Plans have been submitted to restore Gattonside House and create 48 homes, including 12 affordable properties, alongside new community facilities.",
+        "published": "Fri, 28 Aug 2026 16:32:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21386485/?type=app&htype=0"
+      },
+      {
+        "id": "f6ec70330897b256e302b31d23459585",
+        "title": "Proposed changes rubber-stamped at historic mansion in Berwickshire",
+        "link": "https://www.heraldscotland.com/news/26505464.proposed-changes-rubber-stamped-historic-mansion-berwickshire/",
+        "description": "Proposed changes have been rubber-stamped at a mansion of historic importance in Berwickshire.",
+        "published": "Fri, 28 Aug 2026 16:15:19 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21386326/?type=app&htype=0"
+      },
+      {
+        "id": "6048d0ad8dd21c5a60a14ebe23980e56",
+        "title": "'Simply indefensible': 2,400 planning applications decided outwith legal timescales",
+        "link": "https://www.heraldscotland.com/news/26505358.thousands-edinburgh-planning-applications-decided-late-amid-logjam/",
+        "description": "Large-scale developments must be ruled on within four months, while smaller planning applications must be decided within two months.",
+        "published": "Fri, 28 Aug 2026 16:14:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20856070/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=527019",
         "title": "Hundreds of Glasgow streets to be reduced to 20mph as rollout continues",
         "link": "https://news.stv.tv/west-central/hundreds-of-glasgow-streets-to-be-reduced-to-20mph-as-rollout-continues",
         "description": "Areas included in the rollout are Southside Central, Calton, East Centre, and Shettleston",
         "published": "Fri, 28 Aug 2026 15:01:17 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/e7d8877ce8614c71f2dfa71f2c98e0b5-1787927735-e1787927778723-1119x720.jpeg"
+      },
+      {
+        "id": "33813768bc8e6651d91c11deb3d7bfdb",
+        "title": "Sandie Peggie appeal lays out claims of tribunal \u2018errors\u2019 in NHS Fife trans row",
+        "link": "https://www.heraldscotland.com/news/26505174.inside-sandie-peggies-appeal-nhs-fife-trans-row/",
+        "description": "Sandie Peggie\u2019s legal team argue an employment tribunal applied the \u201cwrong legal analysis\u201d when it ruled NHS Fife could lawfully allow transgender doctor Beth Upton to use female changing facilities at Victoria Hospital.",
+        "published": "Fri, 28 Aug 2026 15:32:43 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20291951/?type=app&htype=0"
+      },
+      {
+        "id": "9e80617e397a9d9ce9077d7ce3194d37",
+        "title": "Over 14,000 complaints made to NHS Greater Glasgow and Clyde since 2023",
+        "link": "https://www.heraldscotland.com/news/26505145.14-000-complaints-made-glasgow-nhs-board-since-2023/",
+        "description": "More than 14,000 complaints have been made to NHS Greater Glasgow and Clyde (NHSGGC) since the beginning of 2023, new figures have revealed.",
+        "published": "Fri, 28 Aug 2026 15:29:24 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/16881005/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=526966",
@@ -1197,36 +1309,12 @@
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04d4/live/3b2e42d0-a2d4-11f1-941c-8741c1a72471.jpg"
       },
       {
-        "id": "8a231c7e85607929a0d4e7e6b5d8f3e8",
-        "title": "Nearly 800 Glasgow streets to get 20mph limits in major safety expansion",
-        "link": "https://www.heraldscotland.com/news/26504426.glasgow-extend-20mph-limits-across-nearly-800-streets/",
-        "description": "Glasgow is extending its 20mph network to 797 more streets across the south and east of the city from September.",
-        "published": "Fri, 28 Aug 2026 13:26:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/18602177/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=526996",
-        "title": "Rangers and Celtic to play Scottish Cup games behind closed doors after fan disorder",
-        "link": "https://news.stv.tv/west-central/rangers-and-celtic-to-play-scottish-cup-games-behind-closed-doors-after-fan-disorder",
-        "description": "Fans clashed on the pitch and missiles were thrown following Celtic's penalty shoot-out victory at Ibrox in March",
-        "published": "Fri, 28 Aug 2026 11:50:21 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/03/83900d141eb9e46fed23de82ad9d423f-1772990960-1280x720.jpeg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=526992",
-        "title": "Van driver who killed cyclist in crash while high on cannabis jailed",
-        "link": "https://news.stv.tv/west-central/van-driver-who-killed-cyclist-in-crash-while-high-on-cannabis-jailed",
-        "description": "Edward Parsons drove into the back of Scott Gillies while twice over the legal limit for cannabis",
-        "published": "Fri, 28 Aug 2026 11:28:08 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2025/05/f80552903122b112511c63c30c41a9fc-1746179781.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-cop-who-exposed-violent-34531869",
-        "title": "Glasgow cop who was exposed as violent rapist passed vetting despite warnings",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-cop-who-exposed-violent-34531869",
-        "description": "PC Alan Greer ended his own life in May this year, just days after a raid on his home as part of the investigation into offences dating back to 2012.",
-        "published": "Fri, 28 Aug 2026 09:55:48 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34337401.ece/ALTERNATES/s98/1_Screenshot-2026-07-23-at-094334.png"
+        "id": "f0dc541560b2332fb8c892bc9d9fa05d",
+        "title": "Edinburgh festivals set for 25 per cent funding boost after narrow visitor levy vote",
+        "link": "https://www.heraldscotland.com/news/26504651.edinburgh-festivals-set-25-per-cent-visitor-levy-funding-boost/",
+        "description": "The city's Labour administration lost a crucial vote on future core funding support for arts organisations.",
+        "published": "Fri, 28 Aug 2026 14:08:44 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21229582/?type=app&htype=0"
       },
       {
         "id": "89508bd5ffa6c796b21a4902bb0430d7",
@@ -1235,22 +1323,6 @@
         "description": "Fontaines D.C. will play the OVO Hydro later this year as part of their biggest European and UK tour to date.",
         "published": "Fri, 28 Aug 2026 10:15:31 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21383344/?type=app&htype=0"
-      },
-      {
-        "id": "8947017",
-        "title": "Fontaines D.C. announce UK & European arena tour including huge Glasgow show",
-        "link": "https://www.glasgowworld.com/whats-on/music/fontaines-dc-announce-uk-european-arena-tour-including-huge-glasgow-show-8947017",
-        "description": "<p>Fontaines D.C. will return to Glasgow in November for a huge show at the OVO Hydro. </p>",
-        "published": "Fri, 28 Aug 2026 09:09:49 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/28/9/40/unnamed.jpeg?width=1200&auto=webp&trim=0%2C17%2C0%2C17"
-      },
-      {
-        "id": "0f8618eb42dc18b0b7858885536a9b52",
-        "title": "Radio legend bids farewell to studio with final show today after 38 years",
-        "link": "https://www.glasgowtimes.co.uk/news/26503159.george-bowie-bids-farewell-clyde-1s-clydebank-studios/",
-        "description": "George Bowie shared an emotional goodbye as Clyde 1 prepares to leave its Clydebank studios after more than 40 years.",
-        "published": "Fri, 28 Aug 2026 09:41:27 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21382773/?type=app&htype=0"
       },
       {
         "id": "8946841",
@@ -1269,36 +1341,12 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/06/7f01f340e7628b538635fd3a524e5c45-1780477116-1120x720.jpeg"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/cvgyl64l5nro#0",
-        "title": "Serial rapist police officer passed vetting despite warnings, BBC reveals",
-        "link": "https://www.bbc.co.uk/news/articles/cvgyl64l5nro?at_medium=RSS&at_campaign=rss",
-        "description": "Alan Greer was investigated by police in 2002 and 2005 for making inappropriate phone calls to women, with one case resulting in a formal police caution.",
-        "published": "Fri, 28 Aug 2026 07:22:53 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/229b/live/ddf40e50-85b5-11f1-926f-c90d1bcfbc84.jpg"
-      },
-      {
         "id": "58041c7ac6b75916f05a31ca98fb0195",
         "title": "Questions raised over whether Batman should've been allowed to film in Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26497565.questions-raised-impact-batman-filming-glasgow/",
         "description": "A frustrated councillor says it's the \"wrong time\" for Batman to be filmed in Glasgow after a year of \"upheaval\" in the city",
         "published": "Fri, 28 Aug 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21343911/?type=app&htype=0"
-      },
-      {
-        "id": "8b18605310747a0f3571b16ec4539224",
-        "title": "'We'll never go home': Families told evacuated Coalsnaughton homes will be demolished",
-        "link": "https://www.heraldscotland.com/news/26502640.families-told-evacuated-coalsnaughton-homes-will-demolished/",
-        "description": "Families evacuated from Coalsnaughton after ground movement have been told their homes will be bought and demolished, leaving many residents devastated and facing an uncertain future",
-        "published": "Thu, 27 Aug 2026 21:05:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21021547/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=526837",
-        "title": "Glasgow transforms into Gotham as Batman: Part II filming draws crowds",
-        "link": "https://news.stv.tv/west-central/glasgow-transforms-into-gotham-as-batman-part-ii-filming-draws-crowds",
-        "description": "The streets of Glasgow have been transformed into Gotham City",
-        "published": "Thu, 27 Aug 2026 16:54:20 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/351ee2b2b5f90cfdefab3775db0da82b-1787840273-1280x720.jpeg"
       },
       {
         "id": "24c4c6c63b09253cc4b1fe13570fd418",
@@ -1309,36 +1357,12 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/18861560/?type=app&htype=0"
       },
       {
-        "id": "https://news.stv.tv/?p=526925",
-        "title": "Gangland boss Steven Daniel appears in court following organised crime raid",
-        "link": "https://news.stv.tv/west-central/gangland-boss-steven-daniel-appears-in-court-following-organised-crime-raid",
-        "description": "Daniel appeared at Glasgow Sheriff Court on Thursday.",
-        "published": "Thu, 27 Aug 2026 16:35:41 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/95f07cf4d063497a234dfe7862a3b87d-1787732040-1280x720.jpeg"
-      },
-      {
-        "id": "d44f82ee0820806cf93f1e9a574158ab",
-        "title": "British Vogue-favourite fashion brand to open new store in Glasgow tomorrow",
-        "link": "https://www.glasgowtimes.co.uk/news/26501100.viral-fashion-brand-open-new-glasgow-store-tomorrow/",
-        "description": "A fashion retailer featured in British Vogue is set to open its first stand-alone Scottish in St Enoch's Shopping Centre tomorrow.",
-        "published": "Thu, 27 Aug 2026 13:50:22 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21379812/?type=app&htype=0"
-      },
-      {
         "id": "https://news.stv.tv/?p=526622",
         "title": "Government announces \u00a314m funding to reopen People\u2019s Palace and Winter Gardens",
         "link": "https://news.stv.tv/west-central/government-announces-14m-funding-to-reopen-peoples-palace-and-winter-gardens",
         "description": "Further funding has been pledged to support reopening of A-listed Glasgow Green landmark",
         "published": "Thu, 27 Aug 2026 06:08:25 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2021/11/63b40ecc3b21afa4f4c1cdcf9dde5048-13.jpg"
-      },
-      {
-        "id": "e875fb7c0496bb6eaf9efdfd4e05e591",
-        "title": "People's Palace and Winter Gardens to remain shut until 2029 as revamp tops \u00a350m",
-        "link": "https://www.heraldscotland.com/news/26498972.revamp-peoples-palace-winter-gardens-rises-50m/",
-        "description": "Work is planned to get underway by the end of next year after the Scottish Government commits \u00a314m to project.",
-        "published": "Thu, 27 Aug 2026 00:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21376646/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
