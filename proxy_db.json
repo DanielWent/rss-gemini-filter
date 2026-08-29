@@ -938,6 +938,30 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "8bf929355a159e5e8e0fe2320fd2a4cf",
+        "title": "Gap site in Glasgow's West End could make way for new homes",
+        "link": "https://www.glasgowtimes.co.uk/news/26505246.gap-site-glasgows-west-end-make-way-new-homes/",
+        "description": "A gap site in Glasgow\u2019s west end could be used for homes under a new plan.",
+        "published": "Sat, 29 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21385983/?type=app&htype=0"
+      },
+      {
+        "id": "67279de38644581c606fddf2b7773295",
+        "title": "East Dunbartonshire community groups offered project funding of up to \u00a34000",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26501484.east-dunbartonshire-community-groups-offered-grants-4000/",
+        "description": "Community groups in East Dunbartonshire\u00a0are being offered the chance to secure up to \u00a34000 in funding for new projects.",
+        "published": "Sat, 29 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21380338/?type=app&htype=0"
+      },
+      {
+        "id": "b3e61543aeab8af64f9076cf90199094",
+        "title": "'Massive mystery' - Man's shock after 'hooded individual slashes car tyres'",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26504308.mans-shock-car-tyres-slashed-street-milngavie/",
+        "description": "A man whose car tyres were slashed during the early hours of the morning on a quiet street says the incident is \u201cone massive mystery\u201d.",
+        "published": "Sat, 29 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21384793/?type=app&htype=0"
+      },
+      {
         "id": "9edaad529901093719c137ffb6ad931b",
         "title": "Popular toy banned from schools amid safety fears and chemical risk warning",
         "link": "https://www.glasgowtimes.co.uk/news/26504227.popular-toy-banned-east-dunbartonshire-schools/",
@@ -1157,6 +1181,70 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "ae4ce073bbf05629c7548f8449dcf327",
+        "title": "Scottish actor on why everyone will be talking about this Glasgow play",
+        "link": "https://www.glasgowtimes.co.uk/news/26500590.1984-glasgows-citizens-theatre-feels-chilling-ever/",
+        "description": "Actor Jess Hardwick discusses starring in the Citizens Theatre's new production of Orwell's 1984 and why its themes of surveillance, truth and control remain strikingly relevant today.",
+        "published": "Sat, 29 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21379045/?type=app&htype=0"
+      },
+      {
+        "id": "8bf929355a159e5e8e0fe2320fd2a4cf",
+        "title": "Gap site in Glasgow's West End could make way for new homes",
+        "link": "https://www.glasgowtimes.co.uk/news/26505246.gap-site-glasgows-west-end-make-way-new-homes/",
+        "description": "A gap site in Glasgow\u2019s west end could be used for homes under a new plan.",
+        "published": "Sat, 29 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21385983/?type=app&htype=0"
+      },
+      {
+        "id": "5e83f39b61df202c67c01bfd184207d3",
+        "title": "Woman dragged along Glasgow road as hit-and-run driver fled scene",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26501925.woman-dragged-along-glasgow-road-hit-and-run-driver-fled-scene/",
+        "description": "A driver was convicted this week of a brutal hit and run on a woman who ended up severely injured.",
+        "published": "Sat, 29 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21194148/?type=app&htype=0"
+      },
+      {
+        "id": "54f85dcca4089467ff8e3ba9bb3ceceb",
+        "title": "Jail again for persistent Airdrie paedophile caught with child abuse images",
+        "link": "https://www.glasgowtimes.co.uk/news/26503488.jail-airdrie-paedophile-caught-child-abuse-images/",
+        "description": "An Airdrie sex offender is back behind bars after being caught again with\u00a0child abuse material.",
+        "published": "Sat, 29 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13067424/?type=app&htype=0"
+      },
+      {
+        "id": "ee5b3b8ef770c0d9bf84b76f51d755f1",
+        "title": "Glasgow councillor asks Audit Scotland to investigate claims she was being monitored",
+        "link": "https://www.glasgowtimes.co.uk/news/26505291.glasgow-councillor-fiona-higgins-calls-council-probe/",
+        "description": "A councillor is calling on Audit Scotland to investigate Glasgow City Council to find out if officials were monitoring her \u201cscrutiny\u201d of decisions.",
+        "published": "Sat, 29 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19002264/?type=app&htype=54"
+      },
+      {
+        "id": "67279de38644581c606fddf2b7773295",
+        "title": "East Dunbartonshire community groups offered project funding of up to \u00a34000",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26501484.east-dunbartonshire-community-groups-offered-grants-4000/",
+        "description": "Community groups in East Dunbartonshire\u00a0are being offered the chance to secure up to \u00a34000 in funding for new projects.",
+        "published": "Sat, 29 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21380338/?type=app&htype=0"
+      },
+      {
+        "id": "e1eb0f800ffc8f3126f76a6df03ab495",
+        "title": "Powerful AIDS Memorial Quilt to go on display in full for first time in Scotland",
+        "link": "https://www.glasgowtimes.co.uk/news/26491354.uk-aids-memorial-quilt-go-display-glasgow-tramway/",
+        "description": "A powerful symbol of loss, activism and remembrance is set to take centre stage in Glasgow this autumn,",
+        "published": "Sat, 29 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21365446/?type=app&htype=0"
+      },
+      {
+        "id": "b09c87b7f301b430de36bc9226b1ee8b",
+        "title": "Council sells dumping ground site to end persistent fly-tipping",
+        "link": "https://www.glasgowtimes.co.uk/news/26503552.glasgow-council-sells-dumping-ground-site-end-fly-tipping/",
+        "description": "A patch of public land used as a regular dumping ground by flytippers is to be sold and blocked off for a car park.",
+        "published": "Sat, 29 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21167179/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/czez32lw3rpo#0",
         "title": "NHS workers call off strike after pay offer",
         "link": "https://www.bbc.co.uk/news/articles/czez32lw3rpo?at_medium=RSS&at_campaign=rss",
@@ -1235,14 +1323,6 @@
         "description": "Plans have been submitted to restore Gattonside House and create 48 homes, including 12 affordable properties, alongside new community facilities.",
         "published": "Fri, 28 Aug 2026 16:32:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21386485/?type=app&htype=0"
-      },
-      {
-        "id": "f6ec70330897b256e302b31d23459585",
-        "title": "Proposed changes rubber-stamped at historic mansion in Berwickshire",
-        "link": "https://www.heraldscotland.com/news/26505464.proposed-changes-rubber-stamped-historic-mansion-berwickshire/",
-        "description": "Proposed changes have been rubber-stamped at a mansion of historic importance in Berwickshire.",
-        "published": "Fri, 28 Aug 2026 16:15:19 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21386326/?type=app&htype=0"
       },
       {
         "id": "6048d0ad8dd21c5a60a14ebe23980e56",
