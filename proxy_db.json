@@ -1221,6 +1221,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8949986",
+        "title": "Celtic plot \u00a36m transfer swoop for in-demand Crystal Palace star as European deadline could fast-track deal",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-plot-ps6m-transfer-swoop-in-demand-crystal-palace-star-european-deadline-fast-track-deal-8949986",
+        "description": "<p>Celtic are not alone in monitoring the versatile midfielder\u2019s situation</p>",
+        "published": "Sun, 30 Aug 2026 19:00:35 GMT",
+        "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOjU2NDU3NjRmLTk1OWMtNDFjZi1iNWM2LWUzZDdjMDlkYTY4OTo4OTkxZTE4ZC0wNDBjLTRkZjQtYTdiMi04MjZiZWI5ZTg5Njk=.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "8949984",
+        "title": "Incoming \u00a39m Rangers striker 'can be a star' at Ibrox but club warned MLS hotshot is 'not the finished article'",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/incoming-ps9m-rangers-striker-star-ibrox-club-warned-mls-hotshot-not-finished-article-8949984",
+        "description": "<p>A former Manchester United, Everton and England defender has delivered his verdict on Ibrox-bound Kelsy</p>",
+        "published": "Sun, 30 Aug 2026 19:00:16 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/30/11/38/GettyImages-2275393694.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "5a09452a80c373b1cbfd0c62704a9495",
+        "title": "Scottish seas dubbed 'cetacean soup' as whale and dolphin sightings surge",
+        "link": "https://www.heraldscotland.com/news/26508021.cetacean-soup-scottish-seas-whale-sightings-surge/",
+        "description": "Scottish seas are being dubbed \"cetacean soup\" after a surge in whale and dolphin sightings.",
+        "published": "Sun, 30 Aug 2026 19:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21390438/?type=app&htype=0"
+      },
+      {
         "id": "2a77b81689ef1063dcce63026ba03c4c",
         "title": "Here's what to expect after Glasgow's Subway undergoes 'major transition'",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26507959.glasgows-subway-undergoes-major-transition---expect/",
@@ -1845,14 +1869,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/20230013/?type=app&htype=0"
       },
       {
-        "id": "https://news.stv.tv/?p=527046",
-        "title": "Newmilns shop avoids losing alcohol licence after selling \u2018lethal\u2019 counterfeit vodka",
-        "link": "https://news.stv.tv/west-central/newmilns-shop-avoids-losing-alcohol-licence-after-selling-lethal-counterfeit-vodka",
-        "description": "The operators of the former Nisa, now Londis, store said that illegal vodka ended up on shelves after 'rogue employee' bought it to pocket cash",
-        "published": "Fri, 28 Aug 2026 19:52:53 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/6ed71bde46ca929eee45cb3fe2b26c4f-1787930587.jpg"
-      },
-      {
         "id": "4cb1556d9ea2e361bef1383fd26c809f",
         "title": "Glasgow visitor economy reaches \u00a32.74 billion as tourism continues to grow",
         "link": "https://www.heraldscotland.com/news/26505988.glasgow-visitor-spending-reaches-2-74-billion-2025/",
@@ -2003,22 +2019,6 @@
         "description": "A frustrated councillor says it's the \"wrong time\" for Batman to be filmed in Glasgow after a year of \"upheaval\" in the city",
         "published": "Fri, 28 Aug 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21343911/?type=app&htype=0"
-      },
-      {
-        "id": "24c4c6c63b09253cc4b1fe13570fd418",
-        "title": "Glasgow gangland boss in court after dawn police raid",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26502490.glasgow-gangland-boss-steven-daniel-court-dawn-police-raid/",
-        "description": "A Glasgow gangland boss, Steven Daniel, has appeared in Glasgow Sheriff Court today following an early morning raid.",
-        "published": "Thu, 27 Aug 2026 17:42:46 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18861560/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=526622",
-        "title": "Government announces \u00a314m funding to reopen People\u2019s Palace and Winter Gardens",
-        "link": "https://news.stv.tv/west-central/government-announces-14m-funding-to-reopen-peoples-palace-and-winter-gardens",
-        "description": "Further funding has been pledged to support reopening of A-listed Glasgow Green landmark",
-        "published": "Thu, 27 Aug 2026 06:08:25 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2021/11/63b40ecc3b21afa4f4c1cdcf9dde5048-13.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
