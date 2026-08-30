@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1788106808851678",
+        "title": "Nasa launches powerful new space telescope to explore mysteries of the Universe",
+        "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+        "description": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
+        "published": "Sun, 30 Aug 2026 17:28:08 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd8f/live/ebc7fcb0-a47f-11f1-bed8-470734b5b662.jpg"
+      },
+      {
         "id": "1787952310066958",
         "title": "How the weather in space can affect us on Earth - and the team trying to protect us",
         "link": "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o?at_medium=RSS&at_campaign=rss",
@@ -1213,6 +1221,94 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "2a77b81689ef1063dcce63026ba03c4c",
+        "title": "Here's what to expect after Glasgow's Subway undergoes 'major transition'",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26507959.glasgows-subway-undergoes-major-transition---expect/",
+        "description": "Glasgow\u2019s Subway has undergone a \u201cmajor transition\u201d over the past few weeks, with commuters told to expect several changes when it reopens tomorrow.",
+        "published": "Sun, 30 Aug 2026 17:49:28 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19117137/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=527150",
+        "title": "Expert group to help tackle reoffending and youth violence",
+        "link": "https://news.stv.tv/west-central/expert-group-to-help-tackle-reoffending-and-youth-violence",
+        "description": "The 'Justice Social Partnership', will bring together a range of experts, to focus on diverting young people from crime and anti-social behaviour",
+        "published": "Sun, 30 Aug 2026 16:26:08 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2025/10/32dfc422838169160f620dd639db0451-1761071361-1280x720.jpeg"
+      },
+      {
+        "id": "4367c76a749137a5d359e046ad582324",
+        "title": "Major route through Glasgow's West End shut after crash",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26507934.999-response-crash-glasgows-great-western-road/",
+        "description": "A busy route through Glasgow's West End was temporarily locked down after a crash.",
+        "published": "Sun, 30 Aug 2026 17:24:18 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16259946/?type=app&htype=0"
+      },
+      {
+        "id": "c9257fefde3f876dfbf7e957ca085e58",
+        "title": "Both Scottish Labour leadership candidates back North Sea drilling",
+        "link": "https://www.heraldscotland.com/news/26507911.scottish-labour-leadership-candidates-call-rosebank-approval/",
+        "description": "Both candidates in the Scottish Labour leadership race have backed new drilling in the North Sea, calling for the Rosebank and Jackdaw fields to be approved \u201cas soon as possible\u201d.",
+        "published": "Sun, 30 Aug 2026 17:18:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21269144/?type=app&htype=0"
+      },
+      {
+        "id": "8950210",
+        "title": "Derek McInnes confirms 'nothing imminent' on Rangers transfer front as key updates given on Raskin and Kelsy",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/derek-mcinnes-nothing-imminent-rangers-transfer-front-updates-nico-raskin-kevin-kelsy-8950210",
+        "description": "<p>Gritty Aberdeen win buys Ibrox boss some much-needed breathing room</p>",
+        "published": "Sun, 30 Aug 2026 16:00:48 GMT",
+        "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOmIzYmI3MTliLWIwZjctNDdmZC04YjQ1LWViMmM0OTNmZTM1MTo2YTNiMTRhMS0wYTAwLTQ4MmMtYjMxYi05Nzc2YmVhYmI3NzA=.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "https://news.stv.tv/?p=527148",
+        "title": "Hunt underway for suspect after \u2018indecent act\u2019 in Glasgow\u2019s Southside",
+        "link": "https://news.stv.tv/west-central/hunt-underway-for-suspect-after-indecent-act-in-glasgows-southside",
+        "description": "Officers have cordoned off the area while investigations continue",
+        "published": "Sun, 30 Aug 2026 15:34:06 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/03/bc2089af032947ab126c5207ef212680-1772544754-1280x720.jpeg"
+      },
+      {
+        "id": "5e85eb684920badad4c6bdbf2a696c1e",
+        "title": "LIVE updates as part of major motorway shut after police 'incident'",
+        "link": "https://www.glasgowtimes.co.uk/news/26507861.live-updates-part-glasgows-m8-shut-police/",
+        "description": "Part of a major motorway through Glasgow was shut on Sunday afternoon by police following an incident.",
+        "published": "Sun, 30 Aug 2026 16:29:22 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21390111/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-airport-announces-new-flight-34534012",
+        "title": "Glasgow Airport announces new flight routes to two German destinations",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-airport-announces-new-flight-34534012",
+        "description": "The new routes will launch next spring.",
+        "published": "Sun, 30 Aug 2026 15:27:59 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34534138.ece/ALTERNATES/s98/0_GettyImages-2286854007.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/ayrshire-store-blames-glasgow-worker-34542612",
+        "title": "Ayrshire store blames 'Glasgow worker' after stocking potentially lethal fake vodka",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/ayrshire-store-blames-glasgow-worker-34542612",
+        "description": "Food Standards Scotland disputed this version of events, stating that the individual identified by the business denied ever having worked at the shop or supplying counterfeit vodka.",
+        "published": "Sun, 30 Aug 2026 15:14:08 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34542611.ece/ALTERNATES/s98/0_vodka.jpg"
+      },
+      {
+        "id": "0dc7806285298f3599c960915a713e54",
+        "title": "Terminally-ill Scots expected to receive energy bills support",
+        "link": "https://www.heraldscotland.com/news/26507838.terminally-ill-scots-expected-receive-energy-bills-support/",
+        "description": "The programme will set out a roadmap of the Government\u2019s priorities for the rest of the parliamentary term until",
+        "published": "Sun, 30 Aug 2026 16:11:18 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21390076/?type=app&htype=0"
+      },
+      {
+        "id": "15f8e41c49df7a6bc7993b789c03ad3e",
+        "title": "M8 in Glasgow reopens after man dies in fall from bridge",
+        "link": "https://www.heraldscotland.com/news/26507804.m8-glasgow-reopens-man-dies-fall-bridge/",
+        "description": "Part of a major motorway through Glasgow has reopened after it was closed when a man fell to his death from a bridge.",
+        "published": "Sun, 30 Aug 2026 15:46:20 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20567101/?type=app&htype=0"
+      },
+      {
         "id": "8949988",
         "title": "Rangers player ratings vs Aberdeen: Two score 8/10 as Ibrox skipper eases heat on McInnes amid VAR controversy",
         "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-player-ratings-aberdeen-two-810-ibrox-skipper-eases-heat-mcinnes-var-controversy-8949988",
@@ -1283,14 +1379,6 @@
         "description": "<p>Celtic have made their move to sign the Netherlands Under-19 international after missing out on another midfield target</p>",
         "published": "Sun, 30 Aug 2026 11:00:05 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/30/9/12/GettyImages-2272090951.jpeg?width=1200&auto=webp&trim=95%2C0%2C95%2C0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-m8-remains-closed-police-34541580",
-        "title": "Glasgow M8 remains closed as police confirm tragic death of young man",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-m8-remains-closed-police-34541580",
-        "description": "The M8 eastbound at junction 11 remains closed while enquiries are carried out.",
-        "published": "Sun, 30 Aug 2026 10:49:51 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34540901.ece/ALTERNATES/s98/0_Screenshot-2026-08-30-085528.png"
       },
       {
         "id": "163d81bddfd8cfddde94b75d1e24da98",
