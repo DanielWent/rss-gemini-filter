@@ -954,6 +954,22 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "188f8f63e7d03da5825c9d0bf60be060",
+        "title": "Popular restaurant to open new function suite for weddings and events",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26507340.grove-bar-open-new-function-suite-weddings-events/",
+        "description": "Plans for a new function suite at The Grove Bar and Restaurant in Lenzie have been approved, paving the way for weddings, parties, race nights and special events.",
+        "published": "Sun, 30 Aug 2026 09:36:30 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18323452/?type=app&htype=0"
+      },
+      {
+        "id": "0577de21663788cbad5031a00ec59275",
+        "title": "Girlfriend's testimony sheds new light on tragic murder of man by his own brother",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26504705.new-light-shed-horrific-murder-case-cameron-logan/",
+        "description": "The heart-breaking testimony of Cameron Logan's girlfriend is set to shed new light over the tragedy",
+        "published": "Sun, 30 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/5855055/?type=app&htype=0"
+      },
+      {
         "id": "8bf929355a159e5e8e0fe2320fd2a4cf",
         "title": "Gap site in Glasgow's West End could make way for new homes",
         "link": "https://www.glasgowtimes.co.uk/news/26505246.gap-site-glasgows-west-end-make-way-new-homes/",
@@ -1196,6 +1212,182 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://news.stv.tv/?p=526623",
+        "title": "\u2018I took my bowel screening test two years late \u2013 then I was diagnosed with stage four cancer\u2019",
+        "link": "https://news.stv.tv/west-central/i-took-my-bowel-screening-test-two-years-late-then-i-was-diagnosed-with-stage-four-cancer",
+        "description": "Jane Short says her cancer would likely have been caught earlier if she sent completed her test in 2023",
+        "published": "Sun, 30 Aug 2026 09:07:12 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/fd2bb62c2430a194892521eaeca5784e-1787738672-1280x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-faces-thunderstorms-today-weather-34541042",
+        "title": "Glasgow faces thunderstorms today as weather warning comes into force",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-faces-thunderstorms-today-weather-34541042",
+        "description": "A warning for thunderstorms will be in force from 11am to 9pm.",
+        "published": "Sun, 30 Aug 2026 09:03:40 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34541144.ece/ALTERNATES/s98/0_gettyimages-2195007511-594x594.jpg"
+      },
+      {
+        "id": "55d4f8f9f7d6115d85b88e362df33de6",
+        "title": "Woman's 'Help' text exposes thug who left her fearing she would be murdered",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26507371.marc-sloss-jailed-attempted-murder-victims-desperate-text/",
+        "description": "Marc Sloss has been jailed for seven years after a brutal attempted murder attack in Ayrshire. His victim secretly sent a desperate \"Help\" text and photo of her injuries to family.",
+        "published": "Sun, 30 Aug 2026 09:58:59 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20226133/?type=app&htype=0"
+      },
+      {
+        "id": "188f8f63e7d03da5825c9d0bf60be060",
+        "title": "Popular restaurant to open new function suite for weddings and events",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26507340.grove-bar-open-new-function-suite-weddings-events/",
+        "description": "Plans for a new function suite at The Grove Bar and Restaurant in Lenzie have been approved, paving the way for weddings, parties, race nights and special events.",
+        "published": "Sun, 30 Aug 2026 09:36:30 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18323452/?type=app&htype=0"
+      },
+      {
+        "id": "b42c3fd6f76fccd35375319c4fcfb23b",
+        "title": "Met Office issues thunderstorm warning for Central Belt",
+        "link": "https://www.heraldscotland.com/news/26507336.met-office-issues-thunderstorm-warning-central-belt/",
+        "description": "Forecasters have issued a warning for thunderstorms covering the whole of the Central belt on Sunday.",
+        "published": "Sun, 30 Aug 2026 09:35:17 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21104315/?type=app&htype=0"
+      },
+      {
+        "id": "62ccb09e732e409c40a29a05bade47cb",
+        "title": "Man fighting for his life after police car crash",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26507324.man-fighting-life-police-car-crash-a76/",
+        "description": "A man is fighting for his life after a crash with a police car on the A76 at Mauchline.",
+        "published": "Sun, 30 Aug 2026 09:29:07 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20739414/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/frustration-over-delays-east-end-34535100",
+        "title": "Frustration over delays to East End avenue hit with multiple obstacles",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/frustration-over-delays-east-end-34535100",
+        "description": "It is understood work got underway in January 2025.",
+        "published": "Sun, 30 Aug 2026 08:09:40 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34535111.ece/ALTERNATES/s98/0_anthonycarrollsjpeg.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-m8-closed-both-directions-34540872",
+        "title": "Glasgow M8 closed in both directions amid ongoing police incident",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-m8-closed-both-directions-34540872",
+        "description": "Emergency services remain on scene nearly six hours later.",
+        "published": "Sun, 30 Aug 2026 08:02:43 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34540901.ece/ALTERNATES/s98/0_Screenshot-2026-08-30-085528.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgows-legal-graffiti-wall-project-34528273",
+        "title": "Glasgow's legal graffiti wall project and mural trail should be combined says councillor",
+        "link": "https://www.glasgowlive.co.uk/news/glasgows-legal-graffiti-wall-project-34528273",
+        "description": "During the recent environment and liveable neighbourhoods committee Bailie Annette Christie told members she thought it was time to bring the two initiatives together.",
+        "published": "Sun, 30 Aug 2026 07:25:00 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34444589.ece/ALTERNATES/s98/0_Screenshot-2026-08-12-at-120934.png"
+      },
+      {
+        "id": "e03f0354a7f1e3a227a9a52a734dc0f8",
+        "title": "LIVE updates as cops CLOSED Glasgow motorway for 7 hours",
+        "link": "https://www.glasgowtimes.co.uk/news/26507274.live-updates-police-incident-closes-part-m8/",
+        "description": "An ongoing police incident has closed a part of a Glasgow motorway.",
+        "published": "Sun, 30 Aug 2026 08:24:48 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19783586/?type=app&htype=0"
+      },
+      {
+        "id": "fd5eb2c48d1c044d634288af5a31e739",
+        "title": "LIVE updates as cops tape off Glasgow street",
+        "link": "https://www.glasgowtimes.co.uk/news/26507264.live-updates-cops-tape-off-glasgows-carlton-court/",
+        "description": "Police have taped off a Glasgow street following an incident.",
+        "published": "Sun, 30 Aug 2026 08:12:07 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21389123/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/real-life/woodland-cycling-route-feels-like-34519555",
+        "title": "Woodland cycling route feels like 'Harry Potter film' is less than 2 hours from Glasgow",
+        "link": "https://www.glasgowlive.co.uk/news/real-life/woodland-cycling-route-feels-like-34519555",
+        "description": "You can experience one of Scotland's most unique adventure tours where you will take a water taxi with your bike before embarking on a very exciting cycling route",
+        "published": "Sun, 30 Aug 2026 06:05:00 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/real-life/article34519554.ece/ALTERNATES/s98/0_Solo-female-cyclist-takes-the-road-less-travelled.jpg"
+      },
+      {
+        "id": "8620e3998e57c96ddad8199a42224e7d",
+        "title": "Judge's eyebrows 'raised' as Glasgow drug dealer repeatedly freed by police",
+        "link": "https://www.glasgowtimes.co.uk/news/26502947.judges-eyebrows-raised-glasgow-dealer-repeatedly-freed-police/",
+        "description": "A drug dealer who was repeatedly freed by police is now back behind bars.",
+        "published": "Sun, 30 Aug 2026 06:59:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/14318447/?type=app&htype=0"
+      },
+      {
+        "id": "49fc06e93ee8bb96ee0186981e935736",
+        "title": "My hours fell from 32 to 8 overnight': Glasgow mum's zero-hours reality",
+        "link": "https://www.heraldscotland.com/news/26505761.glasgow-mum-reveals-reality-working-zero-hours-contract/",
+        "description": "Glasgow care worker Catriona describes the financial strain of zero-hours work after seeing her weekly hours suddenly fall from 32 to just eight.",
+        "published": "Sun, 30 Aug 2026 06:38:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21386923/?type=app&htype=0"
+      },
+      {
+        "id": "49abd300dd60732800763c5523392a90",
+        "title": "Scots 'exploitation' jobs soar 20% despite Labour ban pledge",
+        "link": "https://www.heraldscotland.com/news/26505622.zero-hours-contracts-scotland-rise-20-despite-labour-pledge/",
+        "description": "The number of Scots on zero-hours contracts has risen by more than 20 per cent to 95,000, prompting demands for Labour to deliver promised employment reforms.",
+        "published": "Sun, 30 Aug 2026 06:29:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18117599/?type=app&htype=0"
+      },
+      {
+        "id": "364ef01a58ca10efb1413b2d42dedd3d",
+        "title": "The story of lost Glasgow school with impressive list of famous former pupils",
+        "link": "https://www.glasgowtimes.co.uk/news/26498113.story-glasgows-lost-queens-park-school-star-ex-pupils/",
+        "description": "From sporting triumphs and famous former pupils to fire, war and demolition, discover the remarkable history of Glasgow's long-lost Queen's Park Secondary School.",
+        "published": "Sun, 30 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21375682/?type=app&htype=0"
+      },
+      {
+        "id": "328462cd61aade55991f4867a1c77aff",
+        "title": "Frustration grows over slow progress on Duke Street avenue works",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26505273.frustration-grows-slow-progress-duke-street-avenue-works/",
+        "description": "The transformation of an east end road into an avenue needs to hurry up,\u00a0 according to a councillor.",
+        "published": "Sun, 30 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21386018/?type=app&htype=0"
+      },
+      {
+        "id": "a78be07989605873c2e72e4dd77c0b5f",
+        "title": "Glasgow play from Springburn writer examines motherhood, community and racism",
+        "link": "https://www.glasgowtimes.co.uk/news/26503160.springburn-writer-eimi-quinn-motherhood-racism-glasgow/",
+        "description": "Playwright \u00c9imi Quinn's new dark comedy Ready Tae Drap brings three very different women together in a stuck lift, exploring motherhood, community and changing attitudes in Glasgow.",
+        "published": "Sun, 30 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21383063/?type=app&htype=0"
+      },
+      {
+        "id": "40cf5ee5ed5f0e7341011d812a8d8d05",
+        "title": "Fire scam landlord allowed to keep renting out Glasgow flat",
+        "link": "https://www.glasgowtimes.co.uk/news/26505191.fire-scam-landlord-allowed-keep-renting-glasgow-flat/",
+        "description": "A man who was jailed for his part in setting a family shop on fire in a failed insurance scam can keep operating as a landlord in Glasgow.",
+        "published": "Sun, 30 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20007287/?type=app&htype=0"
+      },
+      {
+        "id": "0577de21663788cbad5031a00ec59275",
+        "title": "Girlfriend's testimony sheds new light on tragic murder of man by his own brother",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26504705.new-light-shed-horrific-murder-case-cameron-logan/",
+        "description": "The heart-breaking testimony of Cameron Logan's girlfriend is set to shed new light over the tragedy",
+        "published": "Sun, 30 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/5855055/?type=app&htype=0"
+      },
+      {
+        "id": "e7a42a5b0bd0f92c34d0fd65d2c3ca45",
+        "title": "Councillor calls for Glasgow graffiti walls to be linked with mural trail",
+        "link": "https://www.glasgowtimes.co.uk/news/26503933.councillor-call-glasgow-graffiti-walls-link-mural-trail/",
+        "description": "Proposals to combine Glasgow City Council\u2019s legal graffiti wall project with the mural trail have been suggested by a local councillor.",
+        "published": "Sun, 30 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21384161/?type=app&htype=0"
+      },
+      {
+        "id": "0dbfb196af7e4ff9921fe26ad383da8a",
+        "title": "Curriculum for Wales study recommends 'consistent understanding' of the model",
+        "link": "https://www.heraldscotland.com/news/26477113.study-finds-curriculum-implementation-requires-clear-goals/",
+        "description": "A study on the implementation of the new Curriculum for Wales highlighted the need to give schools clear, coherent descriptions of curriculum goals.",
+        "published": "Sun, 30 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21340128/?type=app&htype=0"
+      },
       {
         "id": "8949215",
         "title": "Rangers 'negotiation' to sign former star ongoing as late transfer deal for fan favourite turns possibility",
