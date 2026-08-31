@@ -1237,6 +1237,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "5be574a683600d77b68cfae6aacdd530",
+        "title": "ScotRail reaches key stage in plans for 69 new electric suburban trains",
+        "link": "https://www.glasgowtimes.co.uk/news/26509599.scotrail-moves-forward-plans-69-new-electric-trains/",
+        "description": "ScotRail shortlists five manufacturers for 69 new electric and battery-electric trains, aiming to modernise Scotland\u2019s suburban rail and boost greener travel.",
+        "published": "Mon, 31 Aug 2026 16:43:31 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/9252486/?type=app&htype=0"
+      },
+      {
+        "id": "ab6ff71b394e8e21bcb514da2edf5568",
+        "title": "Major Glasgow canal route to stay shut until March after \u00a31m leak repairs",
+        "link": "https://www.glasgowtimes.co.uk/news/26509585.scottish-aqueduct-repairs-keep-canal-closed-year/",
+        "description": "One of Scotland\u2019s major canals will remain closed for more than a year because of the scale of repairs required to fix a significant leak in a historic aqueduct",
+        "published": "Mon, 31 Aug 2026 16:39:37 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20983473/?type=app&htype=0"
+      },
+      {
         "id": "70b841e306034789892827e93e279f2a",
         "title": "The Quay Glasgow marks 30 years of entertainment at Springfield Quay",
         "link": "https://www.glasgowtimes.co.uk/news/26509433.quay-glasgow-celebrates-30-years-springfield-quay/",
@@ -2019,22 +2035,6 @@
         "description": "The creator of Baby Reindeer has called for recognition of comedy's domination of the Edinburgh Festival Fringe.",
         "published": "Sat, 29 Aug 2026 13:16:02 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21382223/?type=app&htype=0"
-      },
-      {
-        "id": "19ad36293cb19c6cc89766367c7dcc08",
-        "title": "Glasgow comedian in the running to play Nicola Sturgeon in upcoming Channel 5 drama",
-        "link": "https://www.glasgowtimes.co.uk/news/26506600.glasgow-comedian-play-nicola-sturgeon-new-tv-drama/",
-        "description": "A Scottish comic has auditioned to play Nicola Sturgeon in Channel 5's To Nicola, Love Peter, according to The Sun.",
-        "published": "Sat, 29 Aug 2026 12:45:36 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21087426/?type=app&htype=0"
-      },
-      {
-        "id": "8947670",
-        "title": "Rangers' Conference League humiliation raises questions over Derek McInnes' future - why it's too soon to wield axe",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-conference-league-humiliation-raises-questions-over-derek-mcinnes-future-too-soon-wield-axe-8947670",
-        "description": "<p>Why McInnes must be given more time to overcome challenging start to the season</p>",
-        "published": "Sat, 29 Aug 2026 11:00:58 GMT",
-        "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOjIxYjUzZTJjLTM0ODUtNDhhOC04ZWEyLTEzN2JiNjNhMzQ1YjphZjkyNGUwMy0xOTdiLTRlMDktODA5ZS03YTA5NDhhNjQ2OTA=.jpg?width=1200&auto=webp&crop=3%3A2"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
