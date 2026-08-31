@@ -1221,6 +1221,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "637f1e1fed81c89bc268e33bc007f81c",
+        "title": "Industry groups call SNP food price cap plans 'unnecessary' and 'ineffective'",
+        "link": "https://www.heraldscotland.com/news/26507884.john-swinney-urged-scrap-unnecessary-food-price-cap/",
+        "description": "A proposed cap on the price of some food items is \u201cunnecessary\u201d and will be \u201cineffective\u201d, business groups have said as they urged the Scottish Government to scrap the plans.",
+        "published": "Mon, 31 Aug 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21390183/?type=app&htype=0"
+      },
+      {
+        "id": "f0c32c500ef1b8432799eacea96bf7d0",
+        "title": "Police Scotland officers use Naloxone more than 1,300 times to reverse overdoses",
+        "link": "https://www.heraldscotland.com/news/26507939.police-scotland-officers-administer-naloxone-1-300-times/",
+        "description": "Police Scotland officers have administered naloxone more than 1,300 times since frontline staff began carrying the overdose-reversal medication five years ago.",
+        "published": "Mon, 31 Aug 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/10526916/?type=app&htype=0"
+      },
+      {
+        "id": "a58d93ef407ba45dee644c9abd648279",
+        "title": "Free school breakfast clubs to expand with \u00a315m funding",
+        "link": "https://www.heraldscotland.com/news/26508053.scottish-government-commits-15m-expand-free-school-breakfast-clubs/",
+        "description": "The Scottish Government has announced \u00a315 million to expand school breakfast clubs as part of its bid to \u201ceradicate child poverty\u201d.",
+        "published": "Mon, 31 Aug 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/16481417/?type=app&htype=0"
+      },
+      {
         "id": "8949986",
         "title": "Celtic plot \u00a36m transfer swoop for in-demand Crystal Palace star as European deadline could fast-track deal",
         "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-plot-ps6m-transfer-swoop-in-demand-crystal-palace-star-european-deadline-fast-track-deal-8949986",
@@ -1995,30 +2019,6 @@
         "description": "Fontaines D.C. will play the OVO Hydro later this year as part of their biggest European and UK tour to date.",
         "published": "Fri, 28 Aug 2026 10:15:31 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21383344/?type=app&htype=0"
-      },
-      {
-        "id": "8946841",
-        "title": "Popular fashion brand to open its only Scottish store in Glasgow at St Enoch Centre today",
-        "link": "https://www.glasgowworld.com/news/popular-fashion-brand-to-open-its-only-scottish-store-in-glasgow-at-st-enoch-centre-today-8946841",
-        "description": "<p>New Glasgow store brings Blue Vanilla and Pink Vanilla together under one roof in the heart of the city. </p>",
-        "published": "Fri, 28 Aug 2026 08:22:43 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/28/8/08/ST--ENOCH-EXTERIOR-1.png?width=1200&auto=webp&trim=0%2C3%2C0%2C3"
-      },
-      {
-        "id": "https://news.stv.tv/?p=526946",
-        "title": "Two streets to be demolished in Coalsnaughton due to ground movements",
-        "link": "https://news.stv.tv/west-central/two-streets-to-be-demolished-in-coalsnaughton-due-to-ground-movements",
-        "description": "At a meeting on Thursday, residents were told that 60 homes on Benbuck View and Dunmoss View are to be demolished",
-        "published": "Fri, 28 Aug 2026 07:31:17 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/06/7f01f340e7628b538635fd3a524e5c45-1780477116-1120x720.jpeg"
-      },
-      {
-        "id": "58041c7ac6b75916f05a31ca98fb0195",
-        "title": "Questions raised over whether Batman should've been allowed to film in Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26497565.questions-raised-impact-batman-filming-glasgow/",
-        "description": "A frustrated councillor says it's the \"wrong time\" for Batman to be filmed in Glasgow after a year of \"upheaval\" in the city",
-        "published": "Fri, 28 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21343911/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
