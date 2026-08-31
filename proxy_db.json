@@ -1221,6 +1221,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "b62a137ef84ca4824dc2c1c0c9f9e315",
+        "title": "Loch Lomond and The Trossachs becomes Scotland\u2019s most expensive national park",
+        "link": "https://www.heraldscotland.com/news/26503483.loch-lomond-named-scotlands-priciest-national-park-homes/",
+        "description": "Loch Lomond and The Trossachs has the highest average house price of any Scottish national park, with homes now costing \u00a3330,000 on average.",
+        "published": "Mon, 31 Aug 2026 00:05:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21174074/?type=app&htype=0"
+      },
+      {
         "id": "637f1e1fed81c89bc268e33bc007f81c",
         "title": "Industry groups call SNP food price cap plans 'unnecessary' and 'ineffective'",
         "link": "https://www.heraldscotland.com/news/26507884.john-swinney-urged-scrap-unnecessary-food-price-cap/",
@@ -2011,14 +2019,6 @@
         "description": "The city's Labour administration lost a crucial vote on future core funding support for arts organisations.",
         "published": "Fri, 28 Aug 2026 14:08:44 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21229582/?type=app&htype=0"
-      },
-      {
-        "id": "89508bd5ffa6c796b21a4902bb0430d7",
-        "title": "Fontaines D.C. announce massive Glasgow show as band unveils biggest arena tour yet",
-        "link": "https://www.glasgowtimes.co.uk/news/26503351.upcoming-fontaines-d-c-glasgow-concert-date-announced/",
-        "description": "Fontaines D.C. will play the OVO Hydro later this year as part of their biggest European and UK tour to date.",
-        "published": "Fri, 28 Aug 2026 10:15:31 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21383344/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
