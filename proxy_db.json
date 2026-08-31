@@ -1245,12 +1245,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgow-baker-mortons-launches-square-34547087",
+        "title": "Glasgow baker Morton's launches square sausage which fits perfectly in its famous morning rolls",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgow-baker-mortons-launches-square-34547087",
+        "description": "Speaking about the perfectly square Lorne sausage, they said: &quot;We believe we've made the best square sausage to go in the best morning roll.&quot;",
+        "published": "Mon, 31 Aug 2026 16:25:32 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34547009.ece/ALTERNATES/s98/0_863285d5-c4fd-4be2-a55e-2843cad44952-1jpeg.jpg"
+      },
+      {
         "id": "8951077",
         "title": "Serie A midfielder undergoing Celtic medical as Hoops agree loan with buy option for 24y/o Danish talent",
         "link": "https://www.glasgowworld.com/sport/football/celtic/serie-a-midfielder-undergoing-celtic-medical-hoops-agree-loan-buy-option-24yo-danish-talent-8951077",
         "description": "<p>Celtic close in on latest signing who brings Italian top-flight experience, versatility and significant room to develop</p>",
         "published": "Mon, 31 Aug 2026 16:00:40 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/31/10/53/GettyImages-2250111379.jpeg?width=1200&auto=webp&trim=1%2C0%2C2%2C0"
+      },
+      {
+        "id": "73ea1223344d90e8e70e1b29400e4780",
+        "title": "Foreign visitors are spending more in Scotland. Why aren't businesses celebrating?",
+        "link": "https://www.heraldscotland.com/news/26509121.international-tourism-boom-masks-domestic-slowdown/",
+        "description": "Scotland's tourism industry is urging ministers to prioritise growth after a strong summer despite weaker domestic spending and rising business costs",
+        "published": "Mon, 31 Aug 2026 17:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20341015/?type=app&htype=0"
       },
       {
         "id": "5be574a683600d77b68cfae6aacdd530",
@@ -2027,22 +2043,6 @@
         "description": "The new visas would target different sectors of the economy",
         "published": "Sat, 29 Aug 2026 13:33:58 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/9726628/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-police-warn-residents-be-34538400",
-        "title": "Lanarkshire police warn residents to 'be vigilant' after series of break-ins",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-police-warn-residents-be-34538400",
-        "description": "The warning comes after a vehicle was stolen from a property in Gartcosh earlier this week, prompting a pursuit involving the police helicopter.",
-        "published": "Sat, 29 Aug 2026 12:23:36 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34538628.ece/ALTERNATES/s98/0_gettyimages-1784447972-170667a.jpg"
-      },
-      {
-        "id": "5e62db31ded889151df24e128368c4ad",
-        "title": "Richard Gadd: It's high time comedy was acknowledged as an art form",
-        "link": "https://www.heraldscotland.com/news/26506638.richard-gadd-comedy-must-recognised-a-proper-art-form/",
-        "description": "The creator of Baby Reindeer has called for recognition of comedy's domination of the Edinburgh Festival Fringe.",
-        "published": "Sat, 29 Aug 2026 13:16:02 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21382223/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
