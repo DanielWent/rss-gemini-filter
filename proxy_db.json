@@ -1237,6 +1237,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-seriously-injured-clydebank-robbery-34546275",
+        "title": "Man 'seriously injured' in Clydebank robbery as police hunt three attackers",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-seriously-injured-clydebank-robbery-34546275",
+        "description": "The 45-year-old's mobile phone, cash, house keys and car keys stolen.",
+        "published": "Mon, 31 Aug 2026 13:50:47 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34546304.ece/ALTERNATES/s98/0_Screenshot-2026-08-31-144411.png"
+      },
+      {
+        "id": "9b0c1662137d8df19d63f832e2bf35f8",
+        "title": "LIVE updates as trains disrupted by loss of power at station",
+        "link": "https://www.glasgowtimes.co.uk/news/26509235.live-updates-trains-disrupted-power-loss-station/",
+        "description": "Train services running through Glasgow and the West have been disrupted this afternoon by a loss of power at Dalreoch Station.",
+        "published": "Mon, 31 Aug 2026 14:41:37 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21212050/?type=app&htype=0"
+      },
+      {
         "id": "8951385",
         "title": "20mph speed limits coming to almost 800 more Glasgow streets",
         "link": "https://www.glasgowworld.com/news/20mph-speed-limits-coming-to-almost-800-more-glasgow-streets-8951385",
@@ -1267,6 +1283,22 @@
         "description": "<p>Glasgow King Tut\u2019s Wah Wah Hut as a venue known across the world as the place were Oasis were discovered in May 1993, but the venue itself is so much more than as it has a rich past as well as an exciting future. </p>",
         "published": "Mon, 31 Aug 2026 12:11:57 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/31/9/08/GettyImages-522103599.jpeg?width=1200&auto=webp&trim=10%2C0%2C10%2C0"
+      },
+      {
+        "id": "20c8ddb52db5eac9823ab11c947392d1",
+        "title": "Glasgow city centre office building reaches full occupancy after \u00a33.5m refurbishment",
+        "link": "https://www.heraldscotland.com/news/26508909.glasgow-office-building-reaches-full-occupancy-refurbishment/",
+        "description": "A refurbished office building in Glasgow city centre has reached full occupancy after environmental consultancy Cameron Kerr took the final available suite.",
+        "published": "Mon, 31 Aug 2026 13:08:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21392110/?type=app&htype=0"
+      },
+      {
+        "id": "533430798a42ad47f173cabd98b2c014",
+        "title": "Rare stained glass windows discovered during refurbishment of church",
+        "link": "https://www.heraldscotland.com/news/26508944.rare-stained-glass-windows-discovered-paisley-church/",
+        "description": "A Paisley church has discovered stained glass windows it believes to be one of only three examples in Scotland.",
+        "published": "Mon, 31 Aug 2026 13:03:27 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21386634/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/scottish-government-promises-more-joined-34545042",
@@ -2003,38 +2035,6 @@
         "description": "As the Scottish Parliament resumes next week, Brian Taylor discloses plans for a substantial shake-up in Scotland\u2019s public services, starting with the NHS and moving on to local authorities. He examines the options and the many pitfalls.",
         "published": "Sat, 29 Aug 2026 06:30:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20195677/?type=app&htype=0"
-      },
-      {
-        "id": "ae4ce073bbf05629c7548f8449dcf327",
-        "title": "Scottish actor on why everyone will be talking about this Glasgow play",
-        "link": "https://www.glasgowtimes.co.uk/news/26500590.1984-glasgows-citizens-theatre-feels-chilling-ever/",
-        "description": "Actor Jess Hardwick discusses starring in the Citizens Theatre's new production of Orwell's 1984 and why its themes of surveillance, truth and control remain strikingly relevant today.",
-        "published": "Sat, 29 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21379045/?type=app&htype=0"
-      },
-      {
-        "id": "8bf929355a159e5e8e0fe2320fd2a4cf",
-        "title": "Gap site in Glasgow's West End could make way for new homes",
-        "link": "https://www.glasgowtimes.co.uk/news/26505246.gap-site-glasgows-west-end-make-way-new-homes/",
-        "description": "A gap site in Glasgow\u2019s west end could be used for homes under a new plan.",
-        "published": "Sat, 29 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21385983/?type=app&htype=0"
-      },
-      {
-        "id": "5e83f39b61df202c67c01bfd184207d3",
-        "title": "Woman dragged along Glasgow road as hit-and-run driver fled scene",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26501925.woman-dragged-along-glasgow-road-hit-and-run-driver-fled-scene/",
-        "description": "A driver was convicted this week of a brutal hit and run on a woman who ended up severely injured.",
-        "published": "Sat, 29 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21194148/?type=app&htype=0"
-      },
-      {
-        "id": "54f85dcca4089467ff8e3ba9bb3ceceb",
-        "title": "Jail again for persistent Airdrie paedophile caught with child abuse images",
-        "link": "https://www.glasgowtimes.co.uk/news/26503488.jail-airdrie-paedophile-caught-child-abuse-images/",
-        "description": "An Airdrie sex offender is back behind bars after being caught again with\u00a0child abuse material.",
-        "published": "Sat, 29 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13067424/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
