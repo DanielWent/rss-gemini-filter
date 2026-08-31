@@ -1237,6 +1237,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "70b841e306034789892827e93e279f2a",
+        "title": "The Quay Glasgow marks 30 years of entertainment at Springfield Quay",
+        "link": "https://www.glasgowtimes.co.uk/news/26509433.quay-glasgow-celebrates-30-years-springfield-quay/",
+        "description": "The Quay Glasgow is celebrating 30 years since opening at Springfield Quay, with cinema, bowling, dining, gaming and family entertainment continuing to attract visitors.",
+        "published": "Mon, 31 Aug 2026 15:49:27 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21392833/?type=app&htype=0"
+      },
+      {
+        "id": "e1179f7987e9ddad26fb28105fd4383c",
+        "title": "The Traitors star backs campaign to explore Greater Glasgow historic sites",
+        "link": "https://www.glasgowtimes.co.uk/news/26509397.bbc-traitors-star-backs-glasgow-heritage-campaign/",
+        "description": "The Traitors\u2019 Matty Hyndman and Historic Environment Scotland urge Scots to boost wellbeing by exploring historic sites in Greater Glasgow and beyond.",
+        "published": "Mon, 31 Aug 2026 15:36:26 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21392822/?type=app&htype=244"
+      },
+      {
+        "id": "cfc69a6160ff863f0082403cf6b98b6f",
+        "title": "Scotties return to Glasgow for final farewell before Maggie\u2019s fundraiser",
+        "link": "https://www.glasgowtimes.co.uk/news/26509376.glasgows-scotties-reunite-charity-auction-maggies/",
+        "description": "Glasgow\u2019s Scotties in the City sculptures are returning for a Farewell Weekend before being auctioned to raise funds for cancer support charity Maggie\u2019s.",
+        "published": "Mon, 31 Aug 2026 15:27:42 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21392729/?type=app&htype=0"
+      },
+      {
+        "id": "33035cf8bcf7f3334c99a73401425d7b",
+        "title": "'Terrifying' attack as gang of men rob and seriously assault man in Clydebank",
+        "link": "https://www.glasgowtimes.co.uk/news/26509373.clydebank-man-hospitalised-robbery-serious-assault/",
+        "description": "A man was seriously assaulted and robbed in a \"terrifying\" incident in Clydebank, leaving him hospitalised. Police are appealing for information.",
+        "published": "Mon, 31 Aug 2026 15:26:49 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20403891/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c305nq64638o#0",
+        "title": "Greenock homes built with unsafe Raac to be demolished",
+        "link": "https://www.bbc.co.uk/news/articles/c305nq64638o?at_medium=RSS&at_campaign=rss",
+        "description": "Seven blocks of flats, known locally as The Stilts, have been found to contain potentially dangerous  reinforced autoclaved aerated concrete.",
+        "published": "Mon, 31 Aug 2026 14:24:39 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f6c/live/a37e0530-a475-11f1-aed2-8d6da8d75094.jpg"
+      },
+      {
         "id": "cfb01b0a02f56bcb6b15367f5c1a8f0b",
         "title": "Ministers promise more Scots treated at home as part of new hospital flow plan",
         "link": "https://www.glasgowtimes.co.uk/news/26509322.ministers-promise-scots-treated-home-part-new-flow-plan/",
@@ -1387,14 +1427,6 @@
         "description": "One of the biggest venue operators wants the festival to start a week earlier to bring it more into line with the Scottish school holidays.",
         "published": "Mon, 31 Aug 2026 12:52:07 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21009987/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/scottish-government-promises-more-joined-34545042",
-        "title": "Scottish Government promises more joined-up services in bid to 'improve hospital flow'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/scottish-government-promises-more-joined-34545042",
-        "description": "Scots are no longer &quot;expected to navigate complex services&quot; themselves.",
-        "published": "Mon, 31 Aug 2026 11:39:09 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34513448.ece/ALTERNATES/s98/1_gettyimages-2279025803-594x594.jpg"
       },
       {
         "id": "2770544ac95c5c7bd5dbe62b301016f4",
@@ -1653,14 +1685,6 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2025/10/32dfc422838169160f620dd639db0451-1761071361-1280x720.jpeg"
       },
       {
-        "id": "4367c76a749137a5d359e046ad582324",
-        "title": "Major route through Glasgow's West End shut after crash",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26507934.999-response-crash-glasgows-great-western-road/",
-        "description": "A busy route through Glasgow's West End was temporarily locked down after a crash.",
-        "published": "Sun, 30 Aug 2026 17:24:18 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16259946/?type=app&htype=0"
-      },
-      {
         "id": "c9257fefde3f876dfbf7e957ca085e58",
         "title": "Both Scottish Labour leadership candidates back North Sea drilling",
         "link": "https://www.heraldscotland.com/news/26507911.scottish-labour-leadership-candidates-call-rosebank-approval/",
@@ -1877,14 +1901,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21375682/?type=app&htype=0"
       },
       {
-        "id": "328462cd61aade55991f4867a1c77aff",
-        "title": "Frustration grows over slow progress on Duke Street avenue works",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26505273.frustration-grows-slow-progress-duke-street-avenue-works/",
-        "description": "The transformation of an east end road into an avenue needs to hurry up,\u00a0 according to a councillor.",
-        "published": "Sun, 30 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21386018/?type=app&htype=0"
-      },
-      {
         "id": "a78be07989605873c2e72e4dd77c0b5f",
         "title": "Glasgow play from Springburn writer examines motherhood, community and racism",
         "link": "https://www.glasgowtimes.co.uk/news/26503160.springburn-writer-eimi-quinn-motherhood-racism-glasgow/",
@@ -2019,22 +2035,6 @@
         "description": "<p>Why McInnes must be given more time to overcome challenging start to the season</p>",
         "published": "Sat, 29 Aug 2026 11:00:58 GMT",
         "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOjIxYjUzZTJjLTM0ODUtNDhhOC04ZWEyLTEzN2JiNjNhMzQ1YjphZjkyNGUwMy0xOTdiLTRlMDktODA5ZS03YTA5NDhhNjQ2OTA=.jpg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "e6bf7c50d57bb38cef5164afcff52389",
-        "title": "New cameras in Glasgow can catch drivers on their phones or not wearing seatbelts",
-        "link": "https://www.glasgowtimes.co.uk/news/26506452.new-glasgow-traffic-cameras-can-catch-drivers-phones/",
-        "description": "Traffic Scotland has confirmed the new traffic cameras in Robroyston can catch drivers using mobile phones or travelling without seatbelts.",
-        "published": "Sat, 29 Aug 2026 11:20:18 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20348799/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/scenic-hike-near-glasgow-ends-34536448",
-        "title": "Scenic hike near Glasgow that ends with pub run by former Partick faves named among best in Scotland",
-        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/scenic-hike-near-glasgow-ends-34536448",
-        "description": "New research from Regatta has revealed some of Scotland's most popular hiking routes with a pub nearby \u2013 all accessible by train.",
-        "published": "Sat, 29 Aug 2026 10:04:08 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34536663.ece/ALTERNATES/s98/0_download-52.png"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
