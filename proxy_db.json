@@ -1237,6 +1237,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "cfb01b0a02f56bcb6b15367f5c1a8f0b",
+        "title": "Ministers promise more Scots treated at home as part of new hospital flow plan",
+        "link": "https://www.glasgowtimes.co.uk/news/26509322.ministers-promise-scots-treated-home-part-new-flow-plan/",
+        "description": "More Scots could receive healthcare \u201cin their homes and in their communities\u201d as part of new NHS plans, Angela Constance said.",
+        "published": "Mon, 31 Aug 2026 15:21:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17235325/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=527187",
+        "title": "Manhunt launched after woman attacked in Glasgow park",
+        "link": "https://news.stv.tv/west-central/manhunt-launched-after-woman-attacked-in-glasgow-park",
+        "description": "Emergency services were called to Robroyston Park near to Bishopmill Road at around 8.50am on Monday",
+        "published": "Mon, 31 Aug 2026 14:04:27 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2022/08/1c33ec49bfef3c79b50308cb8405b3e6-1661194507.jpg"
+      },
+      {
+        "id": "474dc90522b839c5f5ad5fe27c7d8033",
+        "title": "Sculpture made from 100,000 knives seized by police unveiled",
+        "link": "https://www.heraldscotland.com/news/26509213.knife-angel-sculpture-leith-anti-knife-crime-campaign/",
+        "description": "A 27ft sculpture made from more than 100,000 knives seized by police is set to go on display in Leith as part of a campaign against blade crime.",
+        "published": "Mon, 31 Aug 2026 14:52:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21392545/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-seriously-injured-clydebank-robbery-34546275",
         "title": "Man 'seriously injured' in Clydebank robbery as police hunt three attackers",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-seriously-injured-clydebank-robbery-34546275",
@@ -1253,12 +1277,36 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21212050/?type=app&htype=0"
       },
       {
+        "id": "9d7e1c8eeee43320ddb40d291e31901e",
+        "title": "Special hearing over \u00a354m flood scheme to be held after 'too many objections'",
+        "link": "https://www.heraldscotland.com/news/26509187.special-hearing-54m-musselburgh-flood-scheme-held/",
+        "description": "Claims the introduction of walls as part of a \u00a354 million flood prevention scheme could put people at risk of drowning will be heard at a special emergency services review later this year.",
+        "published": "Mon, 31 Aug 2026 14:36:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21392493/?type=app&htype=0"
+      },
+      {
         "id": "8951385",
         "title": "20mph speed limits coming to almost 800 more Glasgow streets",
         "link": "https://www.glasgowworld.com/news/20mph-speed-limits-coming-to-almost-800-more-glasgow-streets-8951385",
         "description": "<p>  Almost 800 streets across the south and east of Glasgow are set to benefit from safer 20mph speed limits, with new signage due to be installed from next month.  </p>",
         "published": "Mon, 31 Aug 2026 13:23:06 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/31/13/48/787993194_1617234500131622_5878165634258365480_n.jpeg?width=1200&auto=webp&trim=0%2C102%2C0%2C101"
+      },
+      {
+        "id": "787f4eb771147e9c57e1bd67634d1bb9",
+        "title": "Edinburgh and Glasgow pubs featured in Top 100 Bars In Europe 2026 list",
+        "link": "https://www.heraldscotland.com/news/26509159.edinburgh-glasgow-pubs-top-100-bars-europe-list/",
+        "description": "A pub in Edinburgh and a pub in Glasgow have received the ultimate glowing endorsement by being featured\u00a0in a new list of the Top 100 Bars in Europe\u00a0for 2026.",
+        "published": "Mon, 31 Aug 2026 14:21:16 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/10280015/?type=app&htype=0"
+      },
+      {
+        "id": "7bfc334fe3d9384fe4fcbebad534cb41",
+        "title": "Former IBM site in Greenock could be transformed into data centre hub",
+        "link": "https://www.heraldscotland.com/news/26509131.plans-submitted-council-greenock-data-centre/",
+        "description": "Plans have been submitted to transform the former IBM site at Spango Valley in Greenock into a data centre development with 80,000 sq m of floorspace.",
+        "published": "Mon, 31 Aug 2026 14:20:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21227626/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-found-dead-glasgow-police-34546048",
@@ -1269,12 +1317,36 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34546103.ece/ALTERNATES/s98/0_Springburn-incident.jpg"
       },
       {
+        "id": "2db1324bfcd9d8f2061ec3889240a5a0",
+        "title": "Governments back Inverness Castle investment amid 25 job cuts",
+        "link": "https://www.heraldscotland.com/news/26508995.scottish-uk-governments-back-inverness-castle-investment/",
+        "description": "The UK and Scottish governments are remaining positive about Inverness Castle despite the attraction expecting to turn up a loss of \u00a31.6 million in its first year.",
+        "published": "Mon, 31 Aug 2026 14:12:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21392174/?type=app&htype=0"
+      },
+      {
+        "id": "bad9eed778287778f3d667eace83ccdf",
+        "title": "New NatureScot planning tool aims to leave nature better after development",
+        "link": "https://www.heraldscotland.com/news/26509107.planning-tool-aims-boost-biodiversity-scottish-projects/",
+        "description": "NatureScot has launched a consultation on a new biodiversity metric designed to help developers measure and improve nature before and after construction.",
+        "published": "Mon, 31 Aug 2026 14:00:56 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21392334/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/scotlands-beer-pub-industry-contributes-34545932",
         "title": "Scotland\u2019s beer and pub industry contributes almost \u00a32.5 billion to the economy",
         "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/scotlands-beer-pub-industry-contributes-34545932",
         "description": "A landmark economic analysis has highlighted the sector\u2019s vital role in providing jobs for young people, as industry calls for further support from Holyrood and Westminster.",
         "published": "Mon, 31 Aug 2026 12:55:45 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/article34545892.ece/ALTERNATES/s98/1_Bartender-pouring-a-pint-of-stout-beer-from-a-draft-tap-in-a-traditional-pub.jpg"
+      },
+      {
+        "id": "ae402130b57bb1ef67111f41ff109224",
+        "title": "Scots researchers seek former melanoma patients to test skin cancer recovery app",
+        "link": "https://www.heraldscotland.com/news/26509083.scottish-skin-cancer-survivors-invited-help-evaluate-new-phone-app/",
+        "description": "Researchers behind an app designed to support people after skin cancer treatment are inviting former early-stage melanoma patients to take part in its final evaluation tests.",
+        "published": "Mon, 31 Aug 2026 13:50:30 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21392390/?type=app&htype=0"
       },
       {
         "id": "8940710",
@@ -1299,6 +1371,22 @@
         "description": "A Paisley church has discovered stained glass windows it believes to be one of only three examples in Scotland.",
         "published": "Mon, 31 Aug 2026 13:03:27 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21386634/?type=app&htype=0"
+      },
+      {
+        "id": "37d1bb41b821918d30beca59bfd6f4c5",
+        "title": "Estate agent that 'pushed out' new mother ordered to pay her \u00a327,000",
+        "link": "https://www.heraldscotland.com/news/26508937.purple-bricks-estate-agend-loses-sex-discrimination-tribunal/",
+        "description": "Purplebricks estate agency has been ordered to pay a former worker more than \u00a327,000 in compensation after she was \"pushed out\" after returning from maternity leave.",
+        "published": "Mon, 31 Aug 2026 13:02:01 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20303263/?type=app&htype=0"
+      },
+      {
+        "id": "b1884fe6f2d2a4d54f4d5e6f3494d3f3",
+        "title": "Fringe audience tops 2.8m despite fire disruption and final week slump",
+        "link": "https://www.heraldscotland.com/news/26508908.fringe-faces-dates-switch-demand-despite-rise-ticket-sales/",
+        "description": "One of the biggest venue operators wants the festival to start a week earlier to bring it more into line with the Scottish school holidays.",
+        "published": "Mon, 31 Aug 2026 12:52:07 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21009987/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/scottish-government-promises-more-joined-34545042",
@@ -1947,94 +2035,6 @@
         "description": "New research from Regatta has revealed some of Scotland's most popular hiking routes with a pub nearby \u2013 all accessible by train.",
         "published": "Sat, 29 Aug 2026 10:04:08 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34536663.ece/ALTERNATES/s98/0_download-52.png"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/irish-crime-gang-targets-wealthy-34538091",
-        "title": "Irish crime gang targets wealthy Asian families in Glasgow in gold and jewellery raids",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/irish-crime-gang-targets-wealthy-34538091",
-        "description": "The gang has recently targeted 10 luxury homes in the affluent Glasgow suburb of \u00adWhitecraigs.",
-        "published": "Sat, 29 Aug 2026 09:59:45 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34538227.ece/ALTERNATES/s98/0_Screenshot-2026-08-29-104734.png"
-      },
-      {
-        "id": "a9805c28b2848de50f6bb35fd12cab52",
-        "title": "NHS Greater Glasgow and Clyde received over 14,000 in three years, figures show",
-        "link": "https://www.glasgowtimes.co.uk/news/26506395.14-000-complaints-made-nhs-greater-glasgow-clyde/",
-        "description": "New figures have revealed that more than 14,000 complaints have been made to NHS Greater Glasgow and Clyde (NHSGGC) since the beginning of 2023.",
-        "published": "Sat, 29 Aug 2026 10:48:47 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20069196/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=526977",
-        "title": "IVF: \u2018I paid \u00a340,000 to be a mum \u2013 single women shouldn\u2019t be priced out of motherhood\u2019",
-        "link": "https://news.stv.tv/west-central/ivf-i-paid-40000-to-be-a-mum-single-women-shouldnt-be-priced-out-of-motherhood",
-        "description": "Vairi Smith says NHS-funded IVF rules need brought up to date as government considers widening access to single women and blended families",
-        "published": "Sat, 29 Aug 2026 09:05:58 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/a0b5e1a65601d7fb8694031accbbb2b2-1787929364-1280x720.jpeg"
-      },
-      {
-        "id": "227cfde43ca41006a1504d5bbb51ad2d",
-        "title": "Edinburgh culture chief: Our residents are 'traumatised' by the festivals",
-        "link": "https://www.heraldscotland.com/news/26506341.edinburgh-culture-chief-residents-traumatised-festivals/",
-        "description": "Margaret Graham has suggested a 'more measure approach' is needed to tackle the 'enormous pressure' on locals.",
-        "published": "Sat, 29 Aug 2026 10:03:45 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21356138/?type=app&htype=0"
-      },
-      {
-        "id": "ac2e6bea947420dedb7ae89c919d9377",
-        "title": "\u2018Business as usual\u2019 in Edinburgh as Princes Street reopens after major fire",
-        "link": "https://www.heraldscotland.com/news/26506301.business-usual-edinburgh-princes-street-reopens/",
-        "description": "The road reopened after a section was closed for seven weeks",
-        "published": "Sat, 29 Aug 2026 09:30:01 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21387730/?type=app&htype=0"
-      },
-      {
-        "id": "dc1bd50ac4985b907d6b4293e3994316",
-        "title": "Glasgow commuters warned to avoid busy junction ahead of new road works",
-        "link": "https://www.glasgowtimes.co.uk/news/26506283.maryhill-road-due-two-weeks-temporary-traffic-lights/",
-        "description": "Congestion is expected at the already busy junction as travellers arrive from all directions to reach the nearby Tesco superstore.",
-        "published": "Sat, 29 Aug 2026 09:12:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16783333/?type=app&htype=0"
-      },
-      {
-        "id": "d0379f90126ed3276437ae3b5970453d",
-        "title": "What\u2019s really going on in the Hebridean caf\u00e9 row dividing an island?",
-        "link": "https://www.heraldscotland.com/news/26502601.bernera-caf-dog-dispute-inside-row-dividing-island/",
-        "description": "The American woman at the centre of a bitter dispute over an assistance dog at a community caf\u00e9 on a tiny Hebridean island says she has received death threats but is refusing to back down.",
-        "published": "Sat, 29 Aug 2026 09:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21381202/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-man-frustrated-after-parking-34533476",
-        "title": "Glasgow man 'frustrated' after parking ticket issued on under review street",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-man-frustrated-after-parking-34533476",
-        "description": "The Glencroft Road resident was left scratching his head when wardens swept his street.",
-        "published": "Sat, 29 Aug 2026 07:56:36 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34537460.ece/ALTERNATES/s98/0_image-2026-08-28T221845958.jpg"
-      },
-      {
-        "id": "8947476",
-        "title": "Celtic handed transfer boost as boss confirms \u00a33.5m target has played his final game after emotional farewell",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-handed-transfer-boost-boss-confirms-ps35m-target-played-final-game-emotional-farewell-8947476",
-        "description": "<p>The Hoops face stiff Belgian and French competition for the Canadian international\u2019s signature</p>",
-        "published": "Sat, 29 Aug 2026 07:00:32 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/28/12/52/GettyImages-2171260529.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "b52e35b0df17e3bb56651ac478f03254",
-        "title": "Personal attacks and angry words: Edinburgh councillors spar over fire response",
-        "link": "https://www.heraldscotland.com/news/26505104.acrimony-princes-street-fire-exposes-edinburghs-council-rifts/",
-        "description": "A debate at Thursday\u2019s full council meeting about July\u2019s fire and the council\u2019s response turned ugly, with personal attacks and angry words.",
-        "published": "Sat, 29 Aug 2026 08:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21385925/?type=app&htype=0"
-      },
-      {
-        "id": "11727aced8683dc6dec5d9a25cedc3b9",
-        "title": "Stand by for radical reform of Scotland\u2019s public services \u2013 starting with the NHS",
-        "link": "https://www.heraldscotland.com/politics/holyrood/26504710.swinneys-public-sector-overhaul-reshape-scotlands-nhs/",
-        "description": "As the Scottish Parliament resumes next week, Brian Taylor discloses plans for a substantial shake-up in Scotland\u2019s public services, starting with the NHS and moving on to local authorities. He examines the options and the many pitfalls.",
-        "published": "Sat, 29 Aug 2026 06:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20195677/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
