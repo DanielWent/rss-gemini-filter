@@ -1237,6 +1237,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8951385",
+        "title": "20mph speed limits coming to almost 800 more Glasgow streets",
+        "link": "https://www.glasgowworld.com/news/20mph-speed-limits-coming-to-almost-800-more-glasgow-streets-8951385",
+        "description": "<p>  Almost 800 streets across the south and east of Glasgow are set to benefit from safer 20mph speed limits, with new signage due to be installed from next month.  </p>",
+        "published": "Mon, 31 Aug 2026 13:23:06 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/31/13/48/787993194_1617234500131622_5878165634258365480_n.jpeg?width=1200&auto=webp&trim=0%2C102%2C0%2C101"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-found-dead-glasgow-police-34546048",
+        "title": "Man found dead in Glasgow as police stand guard after 'report of concern' call",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-found-dead-glasgow-police-34546048",
+        "description": "Officers have been spotted on the scene since Friday afternoon.",
+        "published": "Mon, 31 Aug 2026 13:12:35 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34546103.ece/ALTERNATES/s98/0_Springburn-incident.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/scotlands-beer-pub-industry-contributes-34545932",
+        "title": "Scotland\u2019s beer and pub industry contributes almost \u00a32.5 billion to the economy",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/scotlands-beer-pub-industry-contributes-34545932",
+        "description": "A landmark economic analysis has highlighted the sector\u2019s vital role in providing jobs for young people, as industry calls for further support from Holyrood and Westminster.",
+        "published": "Mon, 31 Aug 2026 12:55:45 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/article34545892.ece/ALTERNATES/s98/1_Bartender-pouring-a-pint-of-stout-beer-from-a-draft-tap-in-a-traditional-pub.jpg"
+      },
+      {
         "id": "8940710",
         "title": "King Tut's Wah Wah Hut to mark legendary performance with special gig",
         "link": "https://www.glasgowworld.com/whats-on/music/king-tuts-wah-wah-hut-to-mark-legendary-performance-with-special-gig-8940710",
@@ -2011,30 +2035,6 @@
         "description": "An Airdrie sex offender is back behind bars after being caught again with\u00a0child abuse material.",
         "published": "Sat, 29 Aug 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/13067424/?type=app&htype=0"
-      },
-      {
-        "id": "ee5b3b8ef770c0d9bf84b76f51d755f1",
-        "title": "Glasgow councillor asks Audit Scotland to investigate claims she was being monitored",
-        "link": "https://www.glasgowtimes.co.uk/news/26505291.glasgow-councillor-fiona-higgins-calls-council-probe/",
-        "description": "A councillor is calling on Audit Scotland to investigate Glasgow City Council to find out if officials were monitoring her \u201cscrutiny\u201d of decisions.",
-        "published": "Sat, 29 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19002264/?type=app&htype=54"
-      },
-      {
-        "id": "67279de38644581c606fddf2b7773295",
-        "title": "East Dunbartonshire community groups offered project funding of up to \u00a34000",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26501484.east-dunbartonshire-community-groups-offered-grants-4000/",
-        "description": "Community groups in East Dunbartonshire\u00a0are being offered the chance to secure up to \u00a34000 in funding for new projects.",
-        "published": "Sat, 29 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21380338/?type=app&htype=0"
-      },
-      {
-        "id": "e1eb0f800ffc8f3126f76a6df03ab495",
-        "title": "Powerful AIDS Memorial Quilt to go on display in full for first time in Scotland",
-        "link": "https://www.glasgowtimes.co.uk/news/26491354.uk-aids-memorial-quilt-go-display-glasgow-tramway/",
-        "description": "A powerful symbol of loss, activism and remembrance is set to take centre stage in Glasgow this autumn,",
-        "published": "Sat, 29 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21365446/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
