@@ -21,13 +21,13 @@
     },
     "f540f7bc05bc955e": {
       "gemini-3.5-flash-lite": {
-        "daily_requests": 1,
+        "daily_requests": 2,
         "exhausted": false
       }
     },
     "aa95c5aa8b848d9c": {
       "gemini-3.5-flash-lite": {
-        "daily_requests": 1,
+        "daily_requests": 2,
         "exhausted": false
       }
     },
