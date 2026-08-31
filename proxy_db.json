@@ -1221,6 +1221,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c1dl31k01v7o#0",
+        "title": "Hints of fiery finale for last ever episode of River City",
+        "link": "https://www.bbc.co.uk/news/articles/c1dl31k01v7o?at_medium=RSS&at_campaign=rss",
+        "description": "The Scottish soap opera, based in the fictional Glasgow district of Shieldinch, is coming to an end after 24 years.",
+        "published": "Mon, 31 Aug 2026 05:20:22 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be56/live/41581b40-a478-11f1-bed8-470734b5b662.jpg"
+      },
+      {
         "id": "b62a137ef84ca4824dc2c1c0c9f9e315",
         "title": "Loch Lomond and The Trossachs becomes Scotland\u2019s most expensive national park",
         "link": "https://www.heraldscotland.com/news/26503483.loch-lomond-named-scotlands-priciest-national-park-homes/",
@@ -2011,14 +2019,6 @@
         "description": "Celtic and Rangers are ordered to play their next home Scottish Cup ties behind closed doors after fan disorder last season.",
         "published": "Fri, 28 Aug 2026 13:14:17 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04d4/live/3b2e42d0-a2d4-11f1-941c-8741c1a72471.jpg"
-      },
-      {
-        "id": "f0dc541560b2332fb8c892bc9d9fa05d",
-        "title": "Edinburgh festivals set for 25 per cent funding boost after narrow visitor levy vote",
-        "link": "https://www.heraldscotland.com/news/26504651.edinburgh-festivals-set-25-per-cent-visitor-levy-funding-boost/",
-        "description": "The city's Labour administration lost a crucial vote on future core funding support for arts organisations.",
-        "published": "Fri, 28 Aug 2026 14:08:44 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21229582/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
