@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c99dym3prl1o#0",
+        "title": "AI could cause global economic downturn, Bank of England chief warns",
+        "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
+        "description": "The governor of the Bank of England warned of AI's \u201cvolatility\u201d caused by energy shocks from the US-Iran war.",
+        "published": "Mon, 31 Aug 2026 16:49:11 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg"
+      },
+      {
         "id": "1788106808851678",
         "title": "Nasa launches powerful new space telescope to explore mysteries of the Universe",
         "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
@@ -1245,12 +1253,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "6f27e87741a999526915ecc7fb1aab13",
+        "title": "McDonald\u2019s granted permission to build \u00a34 million drive-thru in Perthshire town",
+        "link": "https://www.heraldscotland.com/news/26509726.mcdonalds-build-4-million-drive-thru-blairgowrie/",
+        "description": "Following a planning appeal, McDonald's has been granted planning permission to build a \u00a34 million drive-thru restaurant in Blairgowrie.",
+        "published": "Mon, 31 Aug 2026 17:51:44 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18083561/?type=app&htype=0"
+      },
+      {
+        "id": "7358fb4ceee2e0f5fff64e67d766ded4",
+        "title": "My best moments from the 2026 Edinburgh festivals - and a few of the worst",
+        "link": "https://www.heraldscotland.com/news/26509705.best-worst-moments-edinburgh-festivals/",
+        "description": "More than 5000 shows and events were staged in the Scottish capital throughout August.",
+        "published": "Mon, 31 Aug 2026 17:37:20 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21309124/?type=app&htype=0"
+      },
+      {
+        "id": "af8d5730fe51a4fd3702f693896244ba",
+        "title": "New ScotRail suburban fleet moves closer as five manufacturers shortlisted",
+        "link": "https://www.heraldscotland.com/news/26509634.scotrail-shortlists-five-manufacturers-new-suburban-train-fleet/",
+        "description": "ScotRail has shortlisted five manufacturers to compete for a contract to deliver at least 69 new electric and battery-electric suburban trains.",
+        "published": "Mon, 31 Aug 2026 17:35:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/17589442/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgow-baker-mortons-launches-square-34547087",
         "title": "Glasgow baker Morton's launches square sausage which fits perfectly in its famous morning rolls",
         "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgow-baker-mortons-launches-square-34547087",
         "description": "Speaking about the perfectly square Lorne sausage, they said: &quot;We believe we've made the best square sausage to go in the best morning roll.&quot;",
         "published": "Mon, 31 Aug 2026 16:25:32 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34547009.ece/ALTERNATES/s98/0_863285d5-c4fd-4be2-a55e-2843cad44952-1jpeg.jpg"
+      },
+      {
+        "id": "f3b60a66e3df5ad19ce6d652496b19bc",
+        "title": "John Swinney's NHS health board shake-up could work. But there's a danger",
+        "link": "https://www.heraldscotland.com/news/26509637.danger-john-swinneys-nhs-health-board-shake-up/",
+        "description": "John Swinney's plan to cut the number of health boards could be exactly what Scotland needs. But there's a risk.",
+        "published": "Mon, 31 Aug 2026 17:02:29 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21393245/?type=app&htype=0"
       },
       {
         "id": "8951077",
@@ -2011,38 +2051,6 @@
         "description": "A fire next to a railway line has caused major disruption to train services between Airdrie and Edinburgh.",
         "published": "Sat, 29 Aug 2026 16:26:43 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21173123/?type=app&htype=0"
-      },
-      {
-        "id": "078bb5b2213d0b0fc4967407a7828d03",
-        "title": "Deploying Glen Sannox as back-up ferry 'saved 70,000 passenger trips'",
-        "link": "https://www.heraldscotland.com/news/26506879.using-glen-sannox-resilience-ferry-saved-70-000-passenger-trips/",
-        "description": "Scotland's most expensive ferry became a back-up ship - but it worked, says CalMac",
-        "published": "Sat, 29 Aug 2026 15:59:25 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/18800238/?type=app&htype=0"
-      },
-      {
-        "id": "4585824f6fe7c8760ca41b36318698f3",
-        "title": "Glasgow road locked down as dozens of police swarm to property amid incident",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26506790.balmore-road-disturbance-sparks-major-police-response-glasgow/",
-        "description": "Police launched enquiries after a disturbance outside a premises on Balmore Road in Glasgow prompted a major response.",
-        "published": "Sat, 29 Aug 2026 14:56:44 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16729761/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/car-bursts-flames-glasgow-shopping-34538858",
-        "title": "Car bursts into flames at Glasgow shopping centre as public warned to 'stay back'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/car-bursts-flames-glasgow-shopping-34538858",
-        "description": "The Scottish Fire and Rescue Service were called to Silverburn Shopping Centre.",
-        "published": "Sat, 29 Aug 2026 13:17:20 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34538899.ece/ALTERNATES/s98/0_unnamed_censored.jpg"
-      },
-      {
-        "id": "857c4cab901c64756c433506e763a469",
-        "title": "Minister calls for 'Scottish Visa' and more immigration to prevent workforce loss",
-        "link": "https://www.heraldscotland.com/politics/westminster/26506674.scottish-minister-calls-scotland-only-visas-workers/",
-        "description": "The new visas would target different sectors of the economy",
-        "published": "Sat, 29 Aug 2026 13:33:58 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/9726628/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
