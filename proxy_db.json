@@ -1253,6 +1253,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "77f2cb0f68afbfa616da1e40f3a803b2",
+        "title": "Plans submitted for new retailer to takeover empty Buchanan Street store",
+        "link": "https://www.glasgowtimes.co.uk/news/26509753.plans-nomination-store-takeover-buchanan-street-unit/",
+        "description": "Plans have been submitted to install signage for a new retailer to takeover an empty on a Glasgow high street",
+        "published": "Mon, 31 Aug 2026 18:16:57 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20227669/?type=app&htype=0"
+      },
+      {
         "id": "6f27e87741a999526915ecc7fb1aab13",
         "title": "McDonald\u2019s granted permission to build \u00a34 million drive-thru in Perthshire town",
         "link": "https://www.heraldscotland.com/news/26509726.mcdonalds-build-4-million-drive-thru-blairgowrie/",
@@ -2043,14 +2051,6 @@
         "description": "Police are appealing for information after Adam Beattie was reported missing from the Drumchapel area of Glasgow.",
         "published": "Sat, 29 Aug 2026 16:56:41 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21388576/?type=app&htype=0"
-      },
-      {
-        "id": "5c0138f2a1ce744b75ec2ff51cfc2ff5",
-        "title": "LIVE updates as major fire to impact several busy trains for HOURS",
-        "link": "https://www.glasgowtimes.co.uk/news/26506909.live-updates-trains-impacted-airdrie-edinburgh-amid-fire/",
-        "description": "A fire next to a railway line has caused major disruption to train services between Airdrie and Edinburgh.",
-        "published": "Sat, 29 Aug 2026 16:26:43 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21173123/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
