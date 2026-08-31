@@ -1237,6 +1237,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8950673",
+        "title": "Celtic have transfer deal 'agreed' for Arne Engels replacement and Hoops aren't done yet in summer window",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-have-transfer-deal-agreed-for-arne-engels-replacement-and-hoops-arent-done-yet-in-summer-window-8950673",
+        "description": "<p>Hoops are targeting several new additions before Wednesday\u2019s Deadline Day</p>",
+        "published": "Mon, 31 Aug 2026 11:00:12 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/31/7/48/GettyImages-2272090951.jpeg?width=1200&auto=webp&trim=95%2C0%2C95%2C0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-41-rushed-hospital-after-34544934",
         "title": "Man, 41, rushed to hospital after Govanhill attack as police tape off close",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-41-rushed-hospital-after-34544934",
@@ -2027,14 +2035,6 @@
         "description": "A company that owns the building that houses a renowned ice cream parlour has been placed into administration.",
         "published": "Sat, 29 Aug 2026 04:40:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21386925/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/czez32lw3rpo#0",
-        "title": "NHS workers call off strike after pay offer",
-        "link": "https://www.bbc.co.uk/news/articles/czez32lw3rpo?at_medium=RSS&at_campaign=rss",
-        "description": "Ward clerks at NHS Greater Glasgow and Clyde had been due to walk out from Monday.",
-        "published": "Fri, 28 Aug 2026 20:20:42 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/886f/live/11f03d40-7487-11f1-a63e-8369d3f8e6b7.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
