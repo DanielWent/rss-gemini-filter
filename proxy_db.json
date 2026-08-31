@@ -1253,6 +1253,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cd684219x6do#0",
+        "title": "'Baby Tommy's here, Chelsea's not': First-time mum dies in childbirth",
+        "link": "https://www.bbc.co.uk/news/articles/cd684219x6do?at_medium=RSS&at_campaign=rss",
+        "description": "Chelsea McGillivray, from Rutherglen, South Lanarkshire, fell into cardiac arrest during labour after what was believed to be a textbook pregnancy.",
+        "published": "Mon, 31 Aug 2026 21:51:13 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1033/live/8ecd3330-a552-11f1-8689-6589354d0f8e.jpg"
+      },
+      {
         "id": "fca4dc97fcf5c0839652938c0dd68379",
         "title": "River City deserved better from the BBC bosses who never appreciated what they had",
         "link": "https://www.heraldscotland.com/life_style/26509147.river-city-cheerio-old-pal-scotland-will-miss/",
@@ -1667,14 +1675,6 @@
         "description": "Repeated failure to dual the A9 is a betrayal to hard-pressed and long-forgotten rural Scots, argues Herald columnist Alan Simpson. .",
         "published": "Mon, 31 Aug 2026 06:33:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/18675029/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c1dl31k01v7o#0",
-        "title": "Hints of fiery finale for last ever episode of River City",
-        "link": "https://www.bbc.co.uk/news/articles/c1dl31k01v7o?at_medium=RSS&at_campaign=rss",
-        "description": "The Scottish soap opera, based in the fictional Glasgow district of Shieldinch, is coming to an end after 24 years.",
-        "published": "Mon, 31 Aug 2026 05:20:22 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be56/live/41581b40-a478-11f1-bed8-470734b5b662.jpg"
       },
       {
         "id": "47a61dce7d2430423e4d793c5c40df57",
