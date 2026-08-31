@@ -1237,12 +1237,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8940710",
+        "title": "King Tut's Wah Wah Hut to mark legendary performance with special gig",
+        "link": "https://www.glasgowworld.com/whats-on/music/king-tuts-wah-wah-hut-to-mark-legendary-performance-with-special-gig-8940710",
+        "description": "<p>Glasgow King Tut\u2019s Wah Wah Hut as a venue known across the world as the place were Oasis were discovered in May 1993, but the venue itself is so much more than as it has a rich past as well as an exciting future. </p>",
+        "published": "Mon, 31 Aug 2026 12:11:57 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/31/9/08/GettyImages-522103599.jpeg?width=1200&auto=webp&trim=10%2C0%2C10%2C0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/scottish-government-promises-more-joined-34545042",
         "title": "Scottish Government promises more joined-up services in bid to 'improve hospital flow'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/scottish-government-promises-more-joined-34545042",
         "description": "Scots are no longer &quot;expected to navigate complex services&quot; themselves.",
         "published": "Mon, 31 Aug 2026 11:39:09 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34513448.ece/ALTERNATES/s98/1_gettyimages-2279025803-594x594.jpg"
+      },
+      {
+        "id": "2770544ac95c5c7bd5dbe62b301016f4",
+        "title": "Scottish quarry set for approval to dig 26 metres deeper after 30 years",
+        "link": "https://www.heraldscotland.com/news/26508748.glenfinn-quarry-set-approval-dig-26-metres-deeper/",
+        "description": "Approval to dig deeper at a Berwickshire quarry will be recommended for approval next week.",
+        "published": "Mon, 31 Aug 2026 12:10:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21391648/?type=app&htype=0"
       },
       {
         "id": "8950673",
@@ -2019,22 +2035,6 @@
         "description": "A powerful symbol of loss, activism and remembrance is set to take centre stage in Glasgow this autumn,",
         "published": "Sat, 29 Aug 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21365446/?type=app&htype=0"
-      },
-      {
-        "id": "b09c87b7f301b430de36bc9226b1ee8b",
-        "title": "Council sells dumping ground site to end persistent fly-tipping",
-        "link": "https://www.glasgowtimes.co.uk/news/26503552.glasgow-council-sells-dumping-ground-site-end-fly-tipping/",
-        "description": "A patch of public land used as a regular dumping ground by flytippers is to be sold and blocked off for a car park.",
-        "published": "Sat, 29 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21167179/?type=app&htype=0"
-      },
-      {
-        "id": "5e3b25aa34840f91bc09bb05bae81bd8",
-        "title": "Gift shops at Princes Street fire site liable for \u00a3300k in non-domestic rates",
-        "link": "https://www.heraldscotland.com/news/26505841.gift-shops-site-princes-street-blaze-liable-300k-rates/",
-        "description": "According to the Scottish Government, the rateable value for 110 Princes Street, the former Debenhams department store, is \u00a3581,000.",
-        "published": "Sat, 29 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21191692/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
