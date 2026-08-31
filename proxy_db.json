@@ -1221,6 +1221,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "35c10f35df0c83f3390bae21142eb3d2",
+        "title": "John Swinney urged to intervene amid 17-week Glasgow college strike",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26508152.union-urge-john-swinney-intervene-city-glasgow-college-strike/",
+        "description": "Unions have called on First Minister John Swinney to intervene in a long-running City of Glasgow College strike over health and safety concerns in its welding department.",
+        "published": "Mon, 31 Aug 2026 07:36:03 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21109439/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-protests-threatened-safety-people-34543054",
         "title": "Glasgow protests have \u2018threatened safety\u2019 of some people, says John Swinney",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-protests-threatened-safety-people-34543054",
@@ -1251,6 +1259,46 @@
         "description": "The Scottish soap opera, based in the fictional Glasgow district of Shieldinch, is coming to an end after 24 years.",
         "published": "Mon, 31 Aug 2026 05:20:22 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be56/live/41581b40-a478-11f1-bed8-470734b5b662.jpg"
+      },
+      {
+        "id": "47a61dce7d2430423e4d793c5c40df57",
+        "title": "More than 10,000 children affected as charities warn of housing crisis",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26507529.scotland-housing-crisis--40-charities-demand-action-homelessness/",
+        "description": "Scotland's homelessness crisis is under fresh scrutiny as 40 charities and housing organisations urge ministers to set out urgent plans ahead of the Programme for Government, with more than 10,000 children currently living in temporary accommodation.",
+        "published": "Mon, 31 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17489535/?type=app&htype=0"
+      },
+      {
+        "id": "51560ab6b5356e2f049555bde6a59aff",
+        "title": "John Swinney promises \u2018radical change\u2019 as Scotland faces public service overhaul",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26507658.john-swinney-promises-radical-reform-scotlands-public-services/",
+        "description": "First Minister John Swinney has vowed to deliver \u201cradical change\u201d across Scotland, with significant public service reforms set to be unveiled in his upcoming Programme for Government.",
+        "published": "Mon, 31 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18144165/?type=app&htype=0"
+      },
+      {
+        "id": "e521d9bb2d0dfd1a9a0bca4d3a073369",
+        "title": "Child poverty warning as Scots say Scottish Government is not doing enough",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26507601.scots-say-government-not-enough-child-poverty/",
+        "description": "Only 26% of Scots believe the Scottish Government is doing enough to tackle child poverty, according to a new poll, as campaigners warn current targets are unlikely to be met.",
+        "published": "Mon, 31 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/6275191/?type=app&htype=0"
+      },
+      {
+        "id": "a135fd47e0b6ce6afe5d5cc01e36d04f",
+        "title": "Coffee roasting business with unique name could be Glasgow's Favourite",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26505618.pure-roasters-running-glasgows-favourite-business/",
+        "description": "A business that started \u201cfrom nothing\u201d in a horse stable nearly a decade ago is up for a top award.",
+        "published": "Mon, 31 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21386717/?type=app&htype=0"
+      },
+      {
+        "id": "b9e93f59062927196ff51ed04fce3a33",
+        "title": "Ward by ward - increase in rape cases across Glasgow in five years",
+        "link": "https://www.glasgowtimes.co.uk/news/26505369.rape-cases-rise-across-glasgow-five-years-area-area/",
+        "description": "Rape cases have increased in areas all across Glasgow in the last five years.",
+        "published": "Mon, 31 Aug 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21370214/?type=app&htype=0"
       },
       {
         "id": "a5a37414590726e8196fff8e2baefda1",
@@ -1445,14 +1493,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21389835/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-cops-seal-street-probe-34542240",
-        "title": "Glasgow cops seal off street as probe into 'indecent act' launched",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-cops-seal-street-probe-34542240",
-        "description": "Officers were called to Carlton Court at around 7.10pm on Saturday",
-        "published": "Sun, 30 Aug 2026 13:35:37 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34542243.ece/ALTERNATES/s98/0_Screenshot-35.png"
-      },
-      {
         "id": "bff5a98676852a50443478d8307cfe1a",
         "title": "Manhunt underway after teenager 'stabbed' on Glasgow street",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26507711.999-response-teen-stabbed-glasgows-kerr-street/",
@@ -1469,22 +1509,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21385773/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/government-help-terminally-ill-scots-34541470",
-        "title": "Government to help terminally ill Scots with energy bills after heartbreaking cases brought to light",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/government-help-terminally-ill-scots-34541470",
-        "description": "A shocking 7,700 dying patients have been plunged into fuel poverty in recent years.",
-        "published": "Sun, 30 Aug 2026 11:55:01 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34541752.ece/ALTERNATES/s98/0_Screenshot-2026-08-30-124600.png"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c70d8y37981o#0",
-        "title": "M8 Eastbound closed after man falls from bridge",
-        "link": "https://www.bbc.co.uk/news/articles/c70d8y37981o?at_medium=RSS&at_campaign=rss",
-        "description": "Police Scotland said the incident happened just before 03:00 on Sunday morning at the M8 Junction 11, near the Cranhill area of the city.",
-        "published": "Sun, 30 Aug 2026 11:03:23 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/434c/live/03933cc0-a461-11f1-b370-b9b7934350c8.jpg"
-      },
-      {
         "id": "8949955",
         "title": "Celtic step up transfer interest in rising PSV star as \u00a33.4m deal eyed with talks advancing after huge setback",
         "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-step-up-transfer-interest-rising-psv-star-ps34m-deal-eyed-talks-advancing-huge-setback-8949955",
@@ -1499,14 +1523,6 @@
         "description": "Ministers have said the problem of prison overcrowding is growing rapidly",
         "published": "Sun, 30 Aug 2026 11:22:23 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/14493289/?type=app&htype=0"
-      },
-      {
-        "id": "7f6e18176e6a09ecffb6b1b9c7adc2c3",
-        "title": "Swinney considering cutting the number of health boards in bid to save public money",
-        "link": "https://www.heraldscotland.com/news/26507468.snp-ministers-look-cut-number-health-boards/",
-        "description": "First Minister John Swinney Minister may reduce the number of health boards in Scotland in public service reforms and a bid to save money and protect frontline services, it is being reported.",
-        "published": "Sun, 30 Aug 2026 11:13:59 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19709730/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=526623",
@@ -1595,14 +1611,6 @@
         "description": "Glasgow care worker Catriona describes the financial strain of zero-hours work after seeing her weekly hours suddenly fall from 32 to just eight.",
         "published": "Sun, 30 Aug 2026 06:38:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21386923/?type=app&htype=0"
-      },
-      {
-        "id": "49abd300dd60732800763c5523392a90",
-        "title": "Scots 'exploitation' jobs soar 20% despite Labour ban pledge",
-        "link": "https://www.heraldscotland.com/news/26505622.zero-hours-contracts-scotland-rise-20-despite-labour-pledge/",
-        "description": "The number of Scots on zero-hours contracts has risen by more than 20 per cent to 95,000, prompting demands for Labour to deliver promised employment reforms.",
-        "published": "Sun, 30 Aug 2026 06:29:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/18117599/?type=app&htype=0"
       },
       {
         "id": "364ef01a58ca10efb1413b2d42dedd3d",
@@ -2011,14 +2019,6 @@
         "description": "Plans have been submitted to restore Gattonside House and create 48 homes, including 12 affordable properties, alongside new community facilities.",
         "published": "Fri, 28 Aug 2026 16:32:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21386485/?type=app&htype=0"
-      },
-      {
-        "id": "6048d0ad8dd21c5a60a14ebe23980e56",
-        "title": "'Simply indefensible': 2,400 planning applications decided outwith legal timescales",
-        "link": "https://www.heraldscotland.com/news/26505358.thousands-edinburgh-planning-applications-decided-late-amid-logjam/",
-        "description": "Large-scale developments must be ruled on within four months, while smaller planning applications must be decided within two months.",
-        "published": "Fri, 28 Aug 2026 16:14:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20856070/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
