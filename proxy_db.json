@@ -1229,6 +1229,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-41-rushed-hospital-after-34544934",
+        "title": "Man, 41, rushed to hospital after Govanhill attack as police tape off close",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-41-rushed-hospital-after-34544934",
+        "description": "A uniformed officer was standing guard outside a close on Allison Street.",
+        "published": "Mon, 31 Aug 2026 10:16:59 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34545113.ece/ALTERNATES/s98/0_Screenshot-2026-08-31-104623.png"
+      },
+      {
+        "id": "cd11dc6182b6b65e750a5c993de2e030",
+        "title": "Woman who caused Springburn street evacuation due to toxic gas is sentenced",
+        "link": "https://www.glasgowtimes.co.uk/news/26508540.woman-sentenced-springburn-toxic-gas-evacuation/",
+        "description": "A woman who caused a street to be evacuated after creating chlorine gas in her home walked free from court today.",
+        "published": "Mon, 31 Aug 2026 10:46:25 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21391349/?type=app&htype=0"
+      },
+      {
         "id": "8950836",
         "title": "Exciting new facility coming to Calderglen Country Park",
         "link": "https://www.glasgowworld.com/news/exciting-new-facility-coming-to-calderglen-country-park-8950836",
@@ -2011,22 +2027,6 @@
         "description": "Ward clerks at NHS Greater Glasgow and Clyde had been due to walk out from Monday.",
         "published": "Fri, 28 Aug 2026 20:20:42 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/886f/live/11f03d40-7487-11f1-a63e-8369d3f8e6b7.jpg"
-      },
-      {
-        "id": "fa0be4fd82e885804a52bc7a7537aed0",
-        "title": "Heavy congestion at Glasgow M8 motorway exit due to The Batman: Part 2 filming",
-        "link": "https://www.heraldscotland.com/news/26506096.glasgow-m8-motorway-exit-closed-batman-part-2-filming/",
-        "description": "Congestion is being reported at a major motorway exit in Glasgow due to a closure to allow for scenes to be filmed for The Batman: Part II.",
-        "published": "Fri, 28 Aug 2026 21:06:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20230013/?type=app&htype=0"
-      },
-      {
-        "id": "4cb1556d9ea2e361bef1383fd26c809f",
-        "title": "Glasgow visitor economy reaches \u00a32.74 billion as tourism continues to grow",
-        "link": "https://www.heraldscotland.com/news/26505988.glasgow-visitor-spending-reaches-2-74-billion-2025/",
-        "description": "Glasgow\u2019s visitor economy continued to grow in 2025, with visitor spending reaching \u00a32.74 billion and more than 31 million people coming to the city, new figures show.",
-        "published": "Fri, 28 Aug 2026 18:17:22 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/10487320/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
