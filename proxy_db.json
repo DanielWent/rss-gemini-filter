@@ -1221,12 +1221,60 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-protests-threatened-safety-people-34543054",
+        "title": "Glasgow protests have \u2018threatened safety\u2019 of some people, says John Swinney",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-protests-threatened-safety-people-34543054",
+        "description": "The First Minister said that &quot;the issues of community cohesion are issues that cause me deep concern&quot;.",
+        "published": "Mon, 31 Aug 2026 06:21:06 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34355352.ece/ALTERNATES/s98/0_JS413395234-1.jpg"
+      },
+      {
+        "id": "e5dacb7e36b9057fb919d535ce12a28f",
+        "title": "Crisis hit Scottish university under investigation over information failings",
+        "link": "https://www.heraldscotland.com/news/26508135.dundee-university-investigation-foi-failures/",
+        "description": "The University of Dundee is under investigation for failing to comply with Freedom of Information (FOI) laws",
+        "published": "Mon, 31 Aug 2026 06:43:44 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21033965/?type=app&htype=0"
+      },
+      {
+        "id": "88f657e86c413ffe955d8407f80e633b",
+        "title": "Bill for A9 consultancy fees is final insult to hard-pressed Highlanders",
+        "link": "https://www.heraldscotland.com/politics/viewpoint/26502173.a9-dualling-scandal-disgrace-highlands/",
+        "description": "Repeated failure to dual the A9 is a betrayal to hard-pressed and long-forgotten rural Scots, argues Herald columnist Alan Simpson. .",
+        "published": "Mon, 31 Aug 2026 06:33:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18675029/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c1dl31k01v7o#0",
         "title": "Hints of fiery finale for last ever episode of River City",
         "link": "https://www.bbc.co.uk/news/articles/c1dl31k01v7o?at_medium=RSS&at_campaign=rss",
         "description": "The Scottish soap opera, based in the fictional Glasgow district of Shieldinch, is coming to an end after 24 years.",
         "published": "Mon, 31 Aug 2026 05:20:22 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be56/live/41581b40-a478-11f1-bed8-470734b5b662.jpg"
+      },
+      {
+        "id": "a5a37414590726e8196fff8e2baefda1",
+        "title": "John Swinney 'considering health board cull' as NHS 'fighting for survival'",
+        "link": "https://www.heraldscotland.com/news/26507900.fm-looks-health-board-cull-nhs-fighting-survival/",
+        "description": "First Minister John Swinney is considering cutting the number of health boards amid warnings the NHS is \"fighting for survival\".",
+        "published": "Mon, 31 Aug 2026 05:03:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21390189/?type=app&htype=0"
+      },
+      {
+        "id": "63b8c68fb9a381f0b561a333af282472",
+        "title": "Business leaders challenge Swinney over Scotland's tax burden",
+        "link": "https://www.heraldscotland.com/news/26506647.scotland-at-risk-falling-behind-uk-tax-business/",
+        "description": "Scotland risks falling behind the rest of the UK unless ministers cut taxes and reduce the cost of doing business, the Scottish Chamber of Commerce has warned.",
+        "published": "Mon, 31 Aug 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20414405/?type=app&htype=0"
+      },
+      {
+        "id": "6a07d35bfe002a6baa8813d2f94a26aa",
+        "title": "As summer fades, Scotland's businesses are still waiting for certainty",
+        "link": "https://www.heraldscotland.com/opinion/26504273.summer-fades-businesses-still-waiting-stability/",
+        "description": "Scottish businesses need certainty to invest, hire and grow. Ministers must focus on costs, infrastructure and skills to unlock growth",
+        "published": "Mon, 31 Aug 2026 04:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/17877389/?type=app&htype=0"
       },
       {
         "id": "b62a137ef84ca4824dc2c1c0c9f9e315",
@@ -1971,54 +2019,6 @@
         "description": "Large-scale developments must be ruled on within four months, while smaller planning applications must be decided within two months.",
         "published": "Fri, 28 Aug 2026 16:14:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20856070/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=527019",
-        "title": "Hundreds of Glasgow streets to be reduced to 20mph as rollout continues",
-        "link": "https://news.stv.tv/west-central/hundreds-of-glasgow-streets-to-be-reduced-to-20mph-as-rollout-continues",
-        "description": "Areas included in the rollout are Southside Central, Calton, East Centre, and Shettleston",
-        "published": "Fri, 28 Aug 2026 15:01:17 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/e7d8877ce8614c71f2dfa71f2c98e0b5-1787927735-e1787927778723-1119x720.jpeg"
-      },
-      {
-        "id": "33813768bc8e6651d91c11deb3d7bfdb",
-        "title": "Sandie Peggie appeal lays out claims of tribunal \u2018errors\u2019 in NHS Fife trans row",
-        "link": "https://www.heraldscotland.com/news/26505174.inside-sandie-peggies-appeal-nhs-fife-trans-row/",
-        "description": "Sandie Peggie\u2019s legal team argue an employment tribunal applied the \u201cwrong legal analysis\u201d when it ruled NHS Fife could lawfully allow transgender doctor Beth Upton to use female changing facilities at Victoria Hospital.",
-        "published": "Fri, 28 Aug 2026 15:32:43 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20291951/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=526966",
-        "title": "Alan Greer: Rapist police officer who tried to kill women passed vetting despite previous caution",
-        "link": "https://news.stv.tv/west-central/alan-greer-rapist-police-officer-who-tried-to-kill-women-passed-vetting-despite-previous-caution",
-        "description": "Alan Greer joined Police Scotland four years after the Metropolitan Police issued him with a caution in 2005",
-        "published": "Fri, 28 Aug 2026 14:14:43 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/07/f2be2364b40fef3d22105087c59b84ae-1784793988-1119x720.jpeg"
-      },
-      {
-        "id": "d4726432ac191a9b8d09710e697e33f9",
-        "title": "Drug driver who killed 'one in a million' Baillieston dad JAILED",
-        "link": "https://www.glasgowtimes.co.uk/news/26505024.drug-driver-killed-one-million-baillieston-dad-jailed/",
-        "description": "A van driver who failed a drugs test after killing a cyclist in a horror crash has been jailed for more than five years.",
-        "published": "Fri, 28 Aug 2026 15:10:53 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21273845/?type=app&htype=0"
-      },
-      {
-        "id": "8947903",
-        "title": "Clyde 1 marks city centre relocation with first live broadcast from new Glasgow home",
-        "link": "https://www.glasgowworld.com/best-in/clyde-1-marks-city-centre-relocation-with-first-live-broadcast-from-new-glasgow-home-8947903",
-        "description": "<p>Clyde 1 marked a major moment in its history today, as the station left its Clydebank studios for the final time and broadcast live for the very first time from its new home at 100 Queen Street.  </p>",
-        "published": "Fri, 28 Aug 2026 13:36:12 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/28/13/33/2-Presenters-cheering-100-Queen.jpeg?width=1200&auto=webp&trim=320%2C0%2C319%2C0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/football/articles/c4gk206k95xo#0",
-        "title": "Celtic and Rangers to close stadiums for home cup matches after pitch invasion",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c4gk206k95xo?at_medium=RSS&at_campaign=rss",
-        "description": "Celtic and Rangers are ordered to play their next home Scottish Cup ties behind closed doors after fan disorder last season.",
-        "published": "Fri, 28 Aug 2026 13:14:17 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04d4/live/3b2e42d0-a2d4-11f1-941c-8741c1a72471.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
