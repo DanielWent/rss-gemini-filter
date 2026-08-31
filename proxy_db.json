@@ -1237,6 +1237,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/scottish-government-promises-more-joined-34545042",
+        "title": "Scottish Government promises more joined-up services in bid to 'improve hospital flow'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/scottish-government-promises-more-joined-34545042",
+        "description": "Scots are no longer &quot;expected to navigate complex services&quot; themselves.",
+        "published": "Mon, 31 Aug 2026 11:39:09 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34513448.ece/ALTERNATES/s98/1_gettyimages-2279025803-594x594.jpg"
+      },
+      {
         "id": "8950673",
         "title": "Celtic have transfer deal 'agreed' for Arne Engels replacement and Hoops aren't done yet in summer window",
         "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-have-transfer-deal-agreed-for-arne-engels-replacement-and-hoops-arent-done-yet-in-summer-window-8950673",
@@ -2027,14 +2035,6 @@
         "description": "According to the Scottish Government, the rateable value for 110 Princes Street, the former Debenhams department store, is \u00a3581,000.",
         "published": "Sat, 29 Aug 2026 06:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21191692/?type=app&htype=0"
-      },
-      {
-        "id": "c020d583b9d3dc9caddce88a02dd2492",
-        "title": "Firm that owns renowned ice cream parlour building collapses into administration",
-        "link": "https://www.heraldscotland.com/news/26505800.owner-renowned-art-deco-caf-building-administration/",
-        "description": "A company that owns the building that houses a renowned ice cream parlour has been placed into administration.",
-        "published": "Sat, 29 Aug 2026 04:40:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21386925/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
