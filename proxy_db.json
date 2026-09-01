@@ -1269,6 +1269,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "027ae0010888904a9edb525a54602d73",
+        "title": "Locals fume at Rangers legend McCoist over luxury development appeal",
+        "link": "https://www.glasgowtimes.co.uk/sport/26512776.locals-fume-rangers-legend-mccoist-renfrewshire-application-appeal/",
+        "description": "Angry locals have vented their frustrations over Ally McCoist's decision to appeal against rejected plans for a luxury development in Bridge of Weir.",
+        "published": "Tue, 01 Sep 2026 15:54:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21397534/?type=app&htype=0"
+      },
+      {
+        "id": "8f35bcf47c33c19fa128c73891d21ecb",
+        "title": "Councillor 'furious' after historic iron panels 'smashed' during removal",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26512642.historic-glasgow-iron-panels-smashed-toilet-removal/",
+        "description": "A councillor has been left \u201cfurious\u201d after historic iron panels were damaged during decluttering works in Glasgow city centre.",
+        "published": "Tue, 01 Sep 2026 15:36:12 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21397404/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/urgent-search-missing-glasgow-man-34551645",
         "title": "Urgent search for missing Glasgow man last seen at Edinburgh train station",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/urgent-search-missing-glasgow-man-34551645",
@@ -1523,14 +1539,6 @@
         "description": "A Glasgow fertility clinic has launched Scotland\u2019s only sperm sharing scheme, offering eligible donors a \u00a32,000 discount on their own fertility treatment.",
         "published": "Tue, 01 Sep 2026 11:47:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/19655475/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-public-toilet-panels-smashed-34549658",
-        "title": "Glasgow public toilet ornate panels 'smashed to pieces' despite order to retain them",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-public-toilet-panels-smashed-34549658",
-        "description": "A senior councillor said he was \u201cfinding it difficult to express how utterly furious I am this morning\u201d after a &quot;breakdown in communication&quot;.",
-        "published": "Tue, 1 Sep 2026 10:45:38 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34549631.ece/ALTERNATES/s98/0_stvincentplacetoiletrailings.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/flags-removed-glasgow-lamp-posts-34549124",
@@ -2059,14 +2067,6 @@
         "description": "Approval to dig deeper at a Berwickshire quarry will be recommended for approval next week.",
         "published": "Mon, 31 Aug 2026 12:10:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21391648/?type=app&htype=0"
-      },
-      {
-        "id": "8950673",
-        "title": "Celtic have transfer deal 'agreed' for Arne Engels replacement and Hoops aren't done yet in summer window",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-have-transfer-deal-agreed-for-arne-engels-replacement-and-hoops-arent-done-yet-in-summer-window-8950673",
-        "description": "<p>Hoops are targeting several new additions before Wednesday\u2019s Deadline Day</p>",
-        "published": "Mon, 31 Aug 2026 11:00:12 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/31/7/48/GettyImages-2272090951.jpeg?width=1200&auto=webp&trim=95%2C0%2C95%2C0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
