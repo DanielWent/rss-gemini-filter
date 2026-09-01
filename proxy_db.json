@@ -1269,6 +1269,62 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=527275",
+        "title": "Flats blocks built in Greenock with unsafe RAAC to be demolished",
+        "link": "https://news.stv.tv/west-central/flats-blocks-built-in-greenock-with-unsafe-raac-to-be-demolished",
+        "description": "Residents on Belville Street in Greenock have been told that demolition of the flats is the only 'viable option'",
+        "published": "Tue, 01 Sep 2026 13:22:57 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/45c3aadbc2c843d62c261804f7e3f95b-1788265713-1080x720.jpeg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=527303",
+        "title": "Schoolgirl, 13, taken to hospital after being struck by car on Glasgow\u2019s Sauchiehall Street",
+        "link": "https://news.stv.tv/west-central/schoolgirl-13-taken-to-hospital-after-being-struck-by-car-on-glasgows-sauchiehall-street",
+        "description": "Emergency services were called to Sauchiehall Street at around 8.50am on Tuesday",
+        "published": "Tue, 01 Sep 2026 13:19:12 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/b13cd2c919e8772cc993c92a5828bca4-1788268445-1280x635.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/glasgow-opening-date-set-noodle-34549848",
+        "title": "Glasgow opening date set for Noodle Inn as much-hyped London brand heads to Scotland",
+        "link": "https://www.glasgowlive.co.uk/whats-on/glasgow-opening-date-set-noodle-34549848",
+        "description": "Set to launch this month, the chain is bringing its traditional hand-pulled noodles and viral Chinese burgers to Byres Road.",
+        "published": "Tue, 1 Sep 2026 13:17:22 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34550177.ece/ALTERNATES/s98/0_Noodle-Inn.png"
+      },
+      {
+        "id": "8953459",
+        "title": "Manhunt launched after woman assaulted in Glasgow park",
+        "link": "https://www.glasgowworld.com/news/manhunt-launched-after-woman-assaulted-in-glasgow-park-8953459",
+        "description": "<p>A manhunt has been launched after a woman was assaulted in a Glasgow park</p>",
+        "published": "Tue, 01 Sep 2026 13:17:03 GMT",
+        "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOmMxMDk1OGNkLTFkOTYtNDRhZS05Y2M0LWRjZWRmNmIzNzhmNzo0OGNiYzY0Ny01ZjRjLTRiNDktYjFlZi1lOTRjMTQyZDQ0NjM=.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/plan-new-barrhead-flats-set-34550748",
+        "title": "Plan for new Barrhead flats set for decision this week",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/plan-new-barrhead-flats-set-34550748",
+        "description": "A decision was delayed last month to allow East Renfrewshire councillors to visit the site.",
+        "published": "Tue, 1 Sep 2026 13:15:41 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34375914.ece/ALTERNATES/s98/0_barrheadspringhillsite.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-pub-to-let-after-34550099",
+        "title": "Glasgow pub 'to let' after sudden closure four years after major refurbishment",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-pub-to-let-after-34550099",
+        "description": "The Greendyke Street boozer was re-launched in 2022 after sitting vacant.",
+        "published": "Tue, 1 Sep 2026 13:14:30 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34550251.ece/ALTERNATES/s98/0_15dde8e8-683f-42e5-85b5-b4600011ff73.jpg"
+      },
+      {
+        "id": "9de2207bc6024b5bccd13ab9e75cc989",
+        "title": "New active travel route delayed again as opening date remains unclear",
+        "link": "https://www.glasgowtimes.co.uk/news/26511983.aurs-road-active-travel-route-opening-delayed/",
+        "description": "The launch of a new active travel route has been pushed back further with the council unable to say when the public will finally be able to use it.",
+        "published": "Tue, 01 Sep 2026 14:03:08 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17640050/?type=app&htype=0"
+      },
+      {
         "id": "8953386",
         "title": "Anger after historic Glasgow city centre cast-ironworks destroyed during demolition",
         "link": "https://www.glasgowworld.com/news/anger-after-historic-glasgow-city-centre-cast-ironworks-destroyed-during-demolition-8953386",
@@ -2011,62 +2067,6 @@
         "description": "Unions have called on First Minister John Swinney to intervene in a long-running City of Glasgow College strike over health and safety concerns in its welding department.",
         "published": "Mon, 31 Aug 2026 07:36:03 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21109439/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-protests-threatened-safety-people-34543054",
-        "title": "Glasgow protests have \u2018threatened safety\u2019 of some people, says John Swinney",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-protests-threatened-safety-people-34543054",
-        "description": "The First Minister said that &quot;the issues of community cohesion are issues that cause me deep concern&quot;.",
-        "published": "Mon, 31 Aug 2026 06:21:06 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34355352.ece/ALTERNATES/s98/0_JS413395234-1.jpg"
-      },
-      {
-        "id": "e5dacb7e36b9057fb919d535ce12a28f",
-        "title": "Crisis hit Scottish university under investigation over information failings",
-        "link": "https://www.heraldscotland.com/news/26508135.dundee-university-investigation-foi-failures/",
-        "description": "The University of Dundee is under investigation for failing to comply with Freedom of Information (FOI) laws",
-        "published": "Mon, 31 Aug 2026 06:43:44 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21033965/?type=app&htype=0"
-      },
-      {
-        "id": "88f657e86c413ffe955d8407f80e633b",
-        "title": "Bill for A9 consultancy fees is final insult to hard-pressed Highlanders",
-        "link": "https://www.heraldscotland.com/politics/viewpoint/26502173.a9-dualling-scandal-disgrace-highlands/",
-        "description": "Repeated failure to dual the A9 is a betrayal to hard-pressed and long-forgotten rural Scots, argues Herald columnist Alan Simpson. .",
-        "published": "Mon, 31 Aug 2026 06:33:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/18675029/?type=app&htype=0"
-      },
-      {
-        "id": "47a61dce7d2430423e4d793c5c40df57",
-        "title": "More than 10,000 children affected as charities warn of housing crisis",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26507529.scotland-housing-crisis--40-charities-demand-action-homelessness/",
-        "description": "Scotland's homelessness crisis is under fresh scrutiny as 40 charities and housing organisations urge ministers to set out urgent plans ahead of the Programme for Government, with more than 10,000 children currently living in temporary accommodation.",
-        "published": "Mon, 31 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17489535/?type=app&htype=0"
-      },
-      {
-        "id": "51560ab6b5356e2f049555bde6a59aff",
-        "title": "John Swinney promises \u2018radical change\u2019 as Scotland faces public service overhaul",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26507658.john-swinney-promises-radical-reform-scotlands-public-services/",
-        "description": "First Minister John Swinney has vowed to deliver \u201cradical change\u201d across Scotland, with significant public service reforms set to be unveiled in his upcoming Programme for Government.",
-        "published": "Mon, 31 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18144165/?type=app&htype=0"
-      },
-      {
-        "id": "e521d9bb2d0dfd1a9a0bca4d3a073369",
-        "title": "Child poverty warning as Scots say Scottish Government is not doing enough",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26507601.scots-say-government-not-enough-child-poverty/",
-        "description": "Only 26% of Scots believe the Scottish Government is doing enough to tackle child poverty, according to a new poll, as campaigners warn current targets are unlikely to be met.",
-        "published": "Mon, 31 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/6275191/?type=app&htype=0"
-      },
-      {
-        "id": "a135fd47e0b6ce6afe5d5cc01e36d04f",
-        "title": "Coffee roasting business with unique name could be Glasgow's Favourite",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26505618.pure-roasters-running-glasgows-favourite-business/",
-        "description": "A business that started \u201cfrom nothing\u201d in a horse stable nearly a decade ago is up for a top award.",
-        "published": "Mon, 31 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21386717/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
