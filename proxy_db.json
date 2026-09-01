@@ -1269,6 +1269,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-public-toilet-panels-smashed-34549658",
+        "title": "Glasgow public toilet ornate panels 'smashed to pieces' despite order to retain them",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-public-toilet-panels-smashed-34549658",
+        "description": "A senior councillor said he was \u201cfinding it difficult to express how utterly furious I am this morning\u201d after a &quot;breakdown in communication&quot;.",
+        "published": "Tue, 1 Sep 2026 10:45:38 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34549631.ece/ALTERNATES/s98/0_stvincentplacetoiletrailings.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/flags-removed-glasgow-lamp-posts-34549124",
+        "title": "Flags removed from Glasgow lamp-posts amid rise in anti-immigration protests",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/flags-removed-glasgow-lamp-posts-34549124",
+        "description": "More than 700 banners - the majority of which were saltires or Union jacks - were taken down from public property by local authority workers in Scotland in 2025/26.",
+        "published": "Tue, 1 Sep 2026 10:42:41 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34549542.ece/ALTERNATES/s98/4_Flags.png"
+      },
+      {
+        "id": "5d0a1be973779462b15923edb5ca5738",
+        "title": "Major Scottish law firm to merge with Glasgow counterpart creating 40 new jobs",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26511019.lindsays-merger-dallas-mcmillan-create-40-glasgow-jobs/",
+        "description": "Two Scottish law firms have completed a merger that will create a business with more than 120 staff in Glasgow.",
+        "published": "Tue, 01 Sep 2026 11:19:17 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21395311/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=527237",
         "title": "Manhunt ongoing more than two weeks after Glasgow double murder",
         "link": "https://news.stv.tv/west-central/manhunt-ongoing-more-than-two-weeks-after-glasgow-double-murder",
@@ -1307,6 +1331,14 @@
         "description": "Bobby Lee Smith took the devices that were for vulnerable people during the Covid pandemic",
         "published": "Tue, 01 Sep 2026 09:51:43 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2025/08/a69dc2c86202651088d5b564bcc4582b-1756384900-1080x720.jpeg"
+      },
+      {
+        "id": "5b7aab82cf90de5baae15114ea192d80",
+        "title": "Herald Business LIVE: Today's top stories - September 1",
+        "link": "https://www.heraldscotland.com/news/26510808.herald-business-live-todays-top-stories---september-1/",
+        "description": "Welcome to The Herald's Business live blog, where we\u2019ll be bringing you the latest developments from across Scotland\u2019s business industry. Stay tuned for all the latest stories, reaction and analysis as they happen.",
+        "published": "Tue, 01 Sep 2026 10:50:06 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21394794/?type=app&htype=0"
       },
       {
         "id": "bd3ff01534c19e67b817ee148001a9bb",
@@ -2035,38 +2067,6 @@
         "description": "Scottish seas are being dubbed \"cetacean soup\" after a surge in whale and dolphin sightings.",
         "published": "Sun, 30 Aug 2026 19:30:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21390438/?type=app&htype=0"
-      },
-      {
-        "id": "2a77b81689ef1063dcce63026ba03c4c",
-        "title": "Here's what to expect after Glasgow's Subway undergoes 'major transition'",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26507959.glasgows-subway-undergoes-major-transition---expect/",
-        "description": "Glasgow\u2019s Subway has undergone a \u201cmajor transition\u201d over the past few weeks, with commuters told to expect several changes when it reopens tomorrow.",
-        "published": "Sun, 30 Aug 2026 17:49:28 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19117137/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=527150",
-        "title": "Expert group to help tackle reoffending and youth violence",
-        "link": "https://news.stv.tv/west-central/expert-group-to-help-tackle-reoffending-and-youth-violence",
-        "description": "The 'Justice Social Partnership', will bring together a range of experts, to focus on diverting young people from crime and anti-social behaviour",
-        "published": "Sun, 30 Aug 2026 16:26:08 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2025/10/32dfc422838169160f620dd639db0451-1761071361-1280x720.jpeg"
-      },
-      {
-        "id": "c9257fefde3f876dfbf7e957ca085e58",
-        "title": "Both Scottish Labour leadership candidates back North Sea drilling",
-        "link": "https://www.heraldscotland.com/news/26507911.scottish-labour-leadership-candidates-call-rosebank-approval/",
-        "description": "Both candidates in the Scottish Labour leadership race have backed new drilling in the North Sea, calling for the Rosebank and Jackdaw fields to be approved \u201cas soon as possible\u201d.",
-        "published": "Sun, 30 Aug 2026 17:18:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21269144/?type=app&htype=0"
-      },
-      {
-        "id": "8950210",
-        "title": "Derek McInnes confirms 'nothing imminent' on Rangers transfer front as key updates given on Raskin and Kelsy",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/derek-mcinnes-nothing-imminent-rangers-transfer-front-updates-nico-raskin-kevin-kelsy-8950210",
-        "description": "<p>Gritty Aberdeen win buys Ibrox boss some much-needed breathing room</p>",
-        "published": "Sun, 30 Aug 2026 16:00:48 GMT",
-        "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOmIzYmI3MTliLWIwZjctNDdmZC04YjQ1LWViMmM0OTNmZTM1MTo2YTNiMTRhMS0wYTAwLTQ4MmMtYjMxYi05Nzc2YmVhYmI3NzA=.jpg?width=1200&auto=webp&crop=3%3A2"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
