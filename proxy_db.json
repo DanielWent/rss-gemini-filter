@@ -1269,6 +1269,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/river-city-fans-left-bawling-34549700",
+        "title": "River City fans left 'bawling' as iconic soap airs final ever episode after 24 years",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/river-city-fans-left-bawling-34549700",
+        "description": "(Warning: Spoilers ahead!)",
+        "published": "Tue, 1 Sep 2026 11:33:06 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34549997.ece/ALTERNATES/s98/0_p0p54pj9.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/shopkeeper-robbed-machete-thug-gives-34549637",
+        "title": "Shopkeeper robbed by machete thug gives back to East Kilbride community for all their support",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/shopkeeper-robbed-machete-thug-gives-34549637",
+        "description": "Bikrant Malhotra, who manages the Day Today store, faced the assailant on August 17 at around 12.30pm.",
+        "published": "Tue, 1 Sep 2026 11:21:30 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34505081.ece/ALTERNATES/s98/0_image-2026-08-23T181124176.jpg"
+      },
+      {
+        "id": "f1121c9022ad8d0078c1ac4efbe7f731",
+        "title": "New high-tech traffic camera spotted near Glasgow park monitoring motorists",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26511373.new-traffic-safety-camera-installed-a814-glasgow/",
+        "description": "New cameras have appeared on the A814 in Glasgow, with the technology capable of detecting drivers using mobile phones or travelling without a seatbelt as part of a landmark road safety survey.",
+        "published": "Tue, 01 Sep 2026 12:09:34 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21395828/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=527227",
         "title": "Number of CalMac ferry services disrupted due to adverse weather and strong winds",
         "link": "https://news.stv.tv/west-central/number-of-calmac-ferry-services-disrupted-due-to-adverse-weather-and-strong-winds",
@@ -2043,30 +2067,6 @@
         "description": "Loch Lomond and The Trossachs has the highest average house price of any Scottish national park, with homes now costing \u00a3330,000 on average.",
         "published": "Mon, 31 Aug 2026 00:05:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21174074/?type=app&htype=0"
-      },
-      {
-        "id": "637f1e1fed81c89bc268e33bc007f81c",
-        "title": "Industry groups call SNP food price cap plans 'unnecessary' and 'ineffective'",
-        "link": "https://www.heraldscotland.com/news/26507884.john-swinney-urged-scrap-unnecessary-food-price-cap/",
-        "description": "A proposed cap on the price of some food items is \u201cunnecessary\u201d and will be \u201cineffective\u201d, business groups have said as they urged the Scottish Government to scrap the plans.",
-        "published": "Mon, 31 Aug 2026 00:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21390183/?type=app&htype=0"
-      },
-      {
-        "id": "f0c32c500ef1b8432799eacea96bf7d0",
-        "title": "Police Scotland officers use Naloxone more than 1,300 times to reverse overdoses",
-        "link": "https://www.heraldscotland.com/news/26507939.police-scotland-officers-administer-naloxone-1-300-times/",
-        "description": "Police Scotland officers have administered naloxone more than 1,300 times since frontline staff began carrying the overdose-reversal medication five years ago.",
-        "published": "Mon, 31 Aug 2026 00:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/10526916/?type=app&htype=0"
-      },
-      {
-        "id": "a58d93ef407ba45dee644c9abd648279",
-        "title": "Free school breakfast clubs to expand with \u00a315m funding",
-        "link": "https://www.heraldscotland.com/news/26508053.scottish-government-commits-15m-expand-free-school-breakfast-clubs/",
-        "description": "The Scottish Government has announced \u00a315 million to expand school breakfast clubs as part of its bid to \u201ceradicate child poverty\u201d.",
-        "published": "Mon, 31 Aug 2026 00:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/16481417/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
