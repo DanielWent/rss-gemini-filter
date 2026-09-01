@@ -1285,6 +1285,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "e59094fd24b3aa568684f10f92673fd0",
+        "title": "LIVE updates as Glasgow bus station taped off by police",
+        "link": "https://www.glasgowtimes.co.uk/news/26513504.live-updates-buchanan-bus-station-taped-off-police/",
+        "description": "Police have taped off a section of Buchanan Bus Station, with pictures showing a police van present. More as it comes.",
+        "published": "Tue, 01 Sep 2026 18:43:59 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21398798/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/fire-former-glasgow-nightclub-wilful-34552997",
+        "title": "Fire at former Glasgow nightclub 'wilful' as police launch investigation",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/fire-former-glasgow-nightclub-wilful-34552997",
+        "description": "Emergency services raced to the scene at the former Jumpin Jaks nightclub overnight.",
+        "published": "Tue, 1 Sep 2026 17:34:43 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34548405.ece/ALTERNATES/s98/792132834_2299500727255447_3718671803880890841_n.jpg"
+      },
+      {
+        "id": "ffa5e023e8a684ebd9f23dfdc662ba4c",
+        "title": "LIVE updates as trains on Glasgow line cancelled until tomorrow",
+        "link": "https://www.glasgowtimes.co.uk/news/26513485.live-updates-glasgow-trains-cancelled-tomorrow/",
+        "description": "A train has broken down on the tracks and, as a result, a busy Glasgow line cannot run. More as it comes.",
+        "published": "Tue, 01 Sep 2026 18:28:06 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21103667/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-adventure-park-buys-piece-34552885",
         "title": "Lanarkshire adventure park buys 'piece of Scottish history' for \u00a32400",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-adventure-park-buys-piece-34552885",
@@ -2059,30 +2083,6 @@
         "description": "Two teenagers attacked three university students amid claims they were laughing at them. Dennin Stevenson, 19, and Ellie McQuade, 20, pounced on Harvey Stewart, 18, Daniel Halliday, 18, and Madison Wait, 19, in Glasgow's Maryhill on January 24, 2026.",
         "published": "Mon, 31 Aug 2026 15:37:58 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/16196411/?type=app&htype=0"
-      },
-      {
-        "id": "e1179f7987e9ddad26fb28105fd4383c",
-        "title": "The Traitors star backs campaign to explore Greater Glasgow historic sites",
-        "link": "https://www.glasgowtimes.co.uk/news/26509397.bbc-traitors-star-backs-glasgow-heritage-campaign/",
-        "description": "The Traitors\u2019 Matty Hyndman and Historic Environment Scotland urge Scots to boost wellbeing by exploring historic sites in Greater Glasgow and beyond.",
-        "published": "Mon, 31 Aug 2026 15:36:26 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21392822/?type=app&htype=244"
-      },
-      {
-        "id": "cfc69a6160ff863f0082403cf6b98b6f",
-        "title": "Scotties return to Glasgow for final farewell before Maggie\u2019s fundraiser",
-        "link": "https://www.glasgowtimes.co.uk/news/26509376.glasgows-scotties-reunite-charity-auction-maggies/",
-        "description": "Glasgow\u2019s Scotties in the City sculptures are returning for a Farewell Weekend before being auctioned to raise funds for cancer support charity Maggie\u2019s.",
-        "published": "Mon, 31 Aug 2026 15:27:42 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21392729/?type=app&htype=0"
-      },
-      {
-        "id": "33035cf8bcf7f3334c99a73401425d7b",
-        "title": "'Terrifying' attack as gang of men rob and seriously assault man in Clydebank",
-        "link": "https://www.glasgowtimes.co.uk/news/26509373.clydebank-man-hospitalised-robbery-serious-assault/",
-        "description": "A man was seriously assaulted and robbed in a \"terrifying\" incident in Clydebank, leaving him hospitalised. Police are appealing for information.",
-        "published": "Mon, 31 Aug 2026 15:26:49 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20403891/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
