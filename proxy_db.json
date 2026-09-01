@@ -1002,6 +1002,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "59ab243882cede9c934c0c2db427bc28",
+        "title": "Free astronomy exhibition set to open at Mugdock Country Park this month",
+        "link": "https://www.glasgowtimes.co.uk/news/26512845.free-astronomy-exhibition-open-mugdock-country-park/",
+        "description": "A free exhibition showcasing stunning astronomical images is set to open at Campsie Gallery in Mugdock Country Park in Glasgow.",
+        "published": "Tue, 01 Sep 2026 16:04:11 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21397701/?type=app&htype=0"
+      },
+      {
         "id": "24340ff8f7f8d801526f6a7719264b86",
         "title": "38-year-old Glasgow group that helps hundreds with disabilities could close in months",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26509350.glasgow-riding-disabled-association-risk-closure/",
@@ -1268,6 +1276,38 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/bus-fares-glasgow-west-scotland-34551915",
+        "title": "Bus fares in Glasgow and west of Scotland to be capped at \u00a32 from next week",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/bus-fares-glasgow-west-scotland-34551915",
+        "description": "The updated fares will be implemented across Glasgow, Ayrshire, Dunbartonshire, Renfrewshire, Lanarkshire and Inverclyde.",
+        "published": "Tue, 1 Sep 2026 15:06:47 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34552038.ece/ALTERNATES/s98/2_Bus-fare.jpg"
+      },
+      {
+        "id": "59ab243882cede9c934c0c2db427bc28",
+        "title": "Free astronomy exhibition set to open at Mugdock Country Park this month",
+        "link": "https://www.glasgowtimes.co.uk/news/26512845.free-astronomy-exhibition-open-mugdock-country-park/",
+        "description": "A free exhibition showcasing stunning astronomical images is set to open at Campsie Gallery in Mugdock Country Park in Glasgow.",
+        "published": "Tue, 01 Sep 2026 16:04:11 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21397701/?type=app&htype=0"
+      },
+      {
+        "id": "8953902",
+        "title": "People's Palace reopening delayed to 2029 as refurbishment costs rise to \u00a350m",
+        "link": "https://www.glasgowworld.com/news/peoples-palace-reopening-delayed-to-2029-as-refurbishment-costs-rise-to-50m-8953902",
+        "description": "<p>People's Palace reopening delayed to 2029 as refurbishment costs rise to \u00a350m</p>",
+        "published": "Tue, 01 Sep 2026 15:03:16 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/27/00/cs-6b8a10e0-3727-43d2-96ef-eaa90b4da2e1.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "76c982b4c049260a1effae027e07c985",
+        "title": "Manhunt continues after two men fatally stabbed in Glasgow flat over two weeks ago",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26512826.chancellor-street-murder-probe-continues-no-arrests-made/",
+        "description": "The search for the person responsible for the deaths of two men in Glasgow's West End is continuing more than two weeks after their bodies were discovered in a flat.",
+        "published": "Tue, 01 Sep 2026 16:01:27 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21341315/?type=app&htype=0"
+      },
       {
         "id": "027ae0010888904a9edb525a54602d73",
         "title": "Locals fume at Rangers legend McCoist over luxury development appeal",
@@ -2035,38 +2075,6 @@
         "description": "A refurbished office building in Glasgow city centre has reached full occupancy after environmental consultancy Cameron Kerr took the final available suite.",
         "published": "Mon, 31 Aug 2026 13:08:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21392110/?type=app&htype=0"
-      },
-      {
-        "id": "533430798a42ad47f173cabd98b2c014",
-        "title": "Rare stained glass windows discovered during refurbishment of church",
-        "link": "https://www.heraldscotland.com/news/26508944.rare-stained-glass-windows-discovered-paisley-church/",
-        "description": "A Paisley church has discovered stained glass windows it believes to be one of only three examples in Scotland.",
-        "published": "Mon, 31 Aug 2026 13:03:27 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21386634/?type=app&htype=0"
-      },
-      {
-        "id": "37d1bb41b821918d30beca59bfd6f4c5",
-        "title": "Estate agent that 'pushed out' new mother ordered to pay her \u00a327,000",
-        "link": "https://www.heraldscotland.com/news/26508937.purple-bricks-estate-agend-loses-sex-discrimination-tribunal/",
-        "description": "Purplebricks estate agency has been ordered to pay a former worker more than \u00a327,000 in compensation after she was \"pushed out\" after returning from maternity leave.",
-        "published": "Mon, 31 Aug 2026 13:02:01 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20303263/?type=app&htype=0"
-      },
-      {
-        "id": "b1884fe6f2d2a4d54f4d5e6f3494d3f3",
-        "title": "Fringe audience tops 2.8m despite fire disruption and final week slump",
-        "link": "https://www.heraldscotland.com/news/26508908.fringe-faces-dates-switch-demand-despite-rise-ticket-sales/",
-        "description": "One of the biggest venue operators wants the festival to start a week earlier to bring it more into line with the Scottish school holidays.",
-        "published": "Mon, 31 Aug 2026 12:52:07 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21009987/?type=app&htype=0"
-      },
-      {
-        "id": "2770544ac95c5c7bd5dbe62b301016f4",
-        "title": "Scottish quarry set for approval to dig 26 metres deeper after 30 years",
-        "link": "https://www.heraldscotland.com/news/26508748.glenfinn-quarry-set-approval-dig-26-metres-deeper/",
-        "description": "Approval to dig deeper at a Berwickshire quarry will be recommended for approval next week.",
-        "published": "Mon, 31 Aug 2026 12:10:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21391648/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
