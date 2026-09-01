@@ -1285,6 +1285,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8954425",
+        "title": "Celtic eye 'key' areas in transfer window finale, statement made amid Wolves star chase, ace could exit Hoops",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-eye-key-areas-transfer-window-finale-admission-made-wolves-star-chase-ace-could-exit-8954425",
+        "description": "<p>A Wolves star could be signed by Celtic in the transfer window and a star may go the other way.</p>",
+        "published": "Tue, 01 Sep 2026 18:16:33 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/04/26/13/08/GettyImages-2212075627.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
         "id": "2d6fbd135d1b5e0d90f48b33524f296b",
         "title": "Man dies after emergency crews swarm busy Glasgow bus station",
         "link": "https://www.glasgowtimes.co.uk/news/26513513.man-dies-police-tape-off-glasgow-bus-station/",
@@ -1293,28 +1301,12 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21398802/?type=app&htype=0"
       },
       {
-        "id": "e59094fd24b3aa568684f10f92673fd0",
-        "title": "LIVE updates as Glasgow bus station taped off by police",
-        "link": "https://www.glasgowtimes.co.uk/news/26513504.live-updates-buchanan-bus-station-taped-off-police/",
-        "description": "Police have taped off a section of Buchanan Bus Station, with pictures showing a police van present. More as it comes.",
-        "published": "Tue, 01 Sep 2026 18:43:59 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21398798/?type=app&htype=0"
-      },
-      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/fire-former-glasgow-nightclub-wilful-34552997",
         "title": "Fire at former Glasgow nightclub 'wilful' as police launch investigation",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/fire-former-glasgow-nightclub-wilful-34552997",
         "description": "Emergency services raced to the scene at the former Jumpin Jaks nightclub overnight.",
         "published": "Tue, 1 Sep 2026 17:34:43 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34548405.ece/ALTERNATES/s98/792132834_2299500727255447_3718671803880890841_n.jpg"
-      },
-      {
-        "id": "38bbbabde653445b8f9cf7ff570494b0",
-        "title": "Fire at derelict Glasgow nightclub being treated as deliberate",
-        "link": "https://www.heraldscotland.com/news/26513489.police-say-fire-derelict-glasgow-nightclub-deliberate/",
-        "description": "The fire was reported at the old at the former Jumpin' Jaks on Sauchiehall Street at around 1:30am on Tuesday, September 1",
-        "published": "Tue, 01 Sep 2026 18:32:53 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21394063/?type=app&htype=0"
       },
       {
         "id": "ffa5e023e8a684ebd9f23dfdc662ba4c",
@@ -1357,14 +1349,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/9603716/?type=app&htype=0"
       },
       {
-        "id": "8954247",
-        "title": "Rangers seeking exits for trio before end of summer window as one star commits transfer U-turn",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-seeking-exits-trio-before-end-summer-window-one-star-transfer-u-turn-8954247",
-        "description": "<p>Rangers could be busy before the transfer deadline in terms of outgoings.</p>",
-        "published": "Tue, 01 Sep 2026 16:28:49 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/12/27/9/38/GettyImages-2210099900.jpeg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
         "id": "6e9b576f8840115be0c810a2ccad7bc3",
         "title": "Swinney sets out plans to scrap health boards, merge quangos and review councils",
         "link": "https://www.heraldscotland.com/news/26513274.john-swinney-sets-plans-rewire-scottish-state/",
@@ -1373,28 +1357,12 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21397286/?type=app&htype=0"
       },
       {
-        "id": "d6e9a42fe931b8411efe460e5e5e4101",
-        "title": "Everything we know after Sauchiehall Street fire shut down area for 16 hours",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26513227.everything-know-sauchiehall-street-16-hours-later/",
-        "description": "Emergency crews remained at the scene of a major Sauchiehall Street fire for almost 16 hours after a blaze tore through a derelict city centre building.",
-        "published": "Tue, 01 Sep 2026 17:09:37 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21398341/?type=app&htype=0"
-      },
-      {
         "id": "https://www.bbc.co.uk/news/articles/clyj29dynp8o#0",
         "title": "Suspect in double murder investigation found dead",
         "link": "https://www.bbc.co.uk/news/articles/clyj29dynp8o?at_medium=RSS&at_campaign=rss",
         "description": "The bodies of Paul Lafferty and Gary Beaton were found in a flat before a man was discovered seriously injured the next day and was then pronounced dead.",
         "published": "Tue, 01 Sep 2026 16:04:51 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8852/live/5678d210-9bc4-11f1-a291-b542ee92de7c.jpg"
-      },
-      {
-        "id": "8954128",
-        "title": "Celtic eye transfer market trolley dash to end summer window as 'top priority signing' to spark six-star haul",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-eye-transfer-market-trolley-dash-end-summer-window-top-priority-signing-six-star-haul-8954128",
-        "description": "<p>It\u2019s set to be a busy end to the transfer window at Celtic.</p>",
-        "published": "Tue, 01 Sep 2026 16:02:21 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/20/13/35/GettyImages-2275203903.jpeg?width=1200&auto=webp&trim=42%2C0%2C42%2C0"
       },
       {
         "id": "d8a50821fd8fd0df04a219bd27f5eecd",
@@ -1451,14 +1419,6 @@
         "description": "ScotRail will run extra Glasgow Central services and add 178 carriages for the Ayr Show and Largs Viking Festival.",
         "published": "Tue, 01 Sep 2026 16:21:51 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20116484/?type=app&htype=0"
-      },
-      {
-        "id": "931312d9ceab594818ffc6cfdcd19ed3",
-        "title": "Five key points from John Swinney's Programme for Government",
-        "link": "https://www.heraldscotland.com/news/26512902.5-key-points-john-swinneys-programme-government/",
-        "description": "Some of the biggest changes to the public sector in the history of devolution were announced in John Swinney's Programme for Government.",
-        "published": "Tue, 01 Sep 2026 16:15:35 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20962859/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/bus-fares-glasgow-west-scotland-34551915",
@@ -1781,14 +1741,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21394794/?type=app&htype=0"
       },
       {
-        "id": "bd3ff01534c19e67b817ee148001a9bb",
-        "title": "Ministers approve extra \u00a320m after delays to Turkish-built CalMac ferries",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26510803.calmac-ferry-project-cost-rises-20m-delays-hit-vessels/",
-        "description": "The cost of managing four CalMac ferries being built in Turkey has risen by \u00a320m as further delays were confirmed.",
-        "published": "Tue, 01 Sep 2026 10:49:32 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21395004/?type=app&htype=0"
-      },
-      {
         "id": "8951469",
         "title": "Callum Beattie announces huge winter tour including 3 shows in Glasgow",
         "link": "https://www.glasgowworld.com/whats-on/music/callum-beattie-announces-huge-winter-tour-including-3-shows-in-glasgow-8951469",
@@ -1827,14 +1779,6 @@
         "description": "The first major act of Glasgow Summer Sessions 2027 has been revealed as Grammy nominee SOMBR.",
         "published": "Tue, 01 Sep 2026 09:09:51 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/18796295/?type=app&htype=0"
-      },
-      {
-        "id": "8952071",
-        "title": "Celtic close to three transfer deals as Wolves star amongst triple signing crew in frantic summer window end",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-close-to-three-transfer-deals-as-wolves-star-amongst-triple-signing-crew-8952071",
-        "description": "<p>Celtic are closing in on three transfer deals - including one for a player at Wolves.</p>",
-        "published": "Tue, 01 Sep 2026 08:00:18 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/02/01/17/09/GettyImages-2258307938.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0"
       },
       {
         "id": "https://news.stv.tv/?p=527212",
@@ -2043,14 +1987,6 @@
         "description": "ScotRail has shortlisted five manufacturers to compete for a contract to deliver at least 69 new electric and battery-electric suburban trains.",
         "published": "Mon, 31 Aug 2026 17:35:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/17589442/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgow-baker-mortons-launches-square-34547087",
-        "title": "Glasgow baker Morton's launches square sausage which fits perfectly in its famous morning rolls",
-        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgow-baker-mortons-launches-square-34547087",
-        "description": "Speaking about the perfectly square Lorne sausage, they said: &quot;We believe we've made the best square sausage to go in the best morning roll.&quot;",
-        "published": "Mon, 31 Aug 2026 16:25:32 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34547009.ece/ALTERNATES/s98/0_863285d5-c4fd-4be2-a55e-2843cad44952-1jpeg.jpg"
       },
       {
         "id": "8951077",
