@@ -28,6 +28,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetches full history so Git can safely rebase diverged branches
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -42,6 +44,12 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python -u filter_feeds.py
+
+      - name: Pull latest remote changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull origin main --rebase --autostash
 
       - name: Commit Database Updates
         uses: stefanzweifel/git-auto-commit-action@v5
