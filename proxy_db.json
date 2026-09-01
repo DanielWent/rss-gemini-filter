@@ -1277,6 +1277,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8954247",
+        "title": "Rangers seeking exits for trio before end of summer window as one star commits transfer U-turn",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-seeking-exits-trio-before-end-summer-window-one-star-transfer-u-turn-8954247",
+        "description": "<p>Rangers could be busy before the transfer deadline in terms of outgoings.</p>",
+        "published": "Tue, 01 Sep 2026 16:28:49 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/12/27/9/38/GettyImages-2210099900.jpeg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
         "id": "d6e9a42fe931b8411efe460e5e5e4101",
         "title": "Everything we know after Sauchiehall Street fire shut down area for 16 hours",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26513227.everything-know-sauchiehall-street-16-hours-later/",
@@ -1301,14 +1309,6 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/20/13/35/GettyImages-2275203903.jpeg?width=1200&auto=webp&trim=42%2C0%2C42%2C0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/history/remembering-glasgows-jumpin-jaks-after-34551377",
-        "title": "Remembering Glasgow's Jumpin Jaks after crews rush to overnight blaze in former nightclub",
-        "link": "https://www.glasgowlive.co.uk/news/history/remembering-glasgows-jumpin-jaks-after-34551377",
-        "description": "We look back at the history of the venue following an overnight fire on Tuesday, September 1.",
-        "published": "Tue, 1 Sep 2026 16:00:40 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34552481.ece/ALTERNATES/s98/0_GettyImages-2212724098.jpg"
-      },
-      {
         "id": "086b19b1ea0e69e936e1e78245493fb6",
         "title": "Garage owner says LEZ, roadworks and bus gates have left Glasgow a 'broken mess'",
         "link": "https://www.glasgowtimes.co.uk/news/26513139.glasgow-music-nightlife-mogul-claims-city-broken-mess/",
@@ -1323,14 +1323,6 @@
         "description": "Police Scotland released a statement about a 38-year-old suspect today and say their investigation remains ongoing.",
         "published": "Tue, 1 Sep 2026 15:41:05 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34484805.ece/ALTERNATES/s98/1_Screenshot-2026-08-19-at-151043.png"
-      },
-      {
-        "id": "https://news.stv.tv/?p=527348",
-        "title": "Man found dead under Glasgow bridge would have been arrested over double murder, police confirm",
-        "link": "https://news.stv.tv/west-central/man-found-dead-under-glasgow-bridge-would-have-been-arrested-over-double-murder-police-confirm",
-        "description": "Police were called to a report of a man found seriously injured beneath the George V Bridge in Glasgow on August 17",
-        "published": "Tue, 01 Sep 2026 15:37:43 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/3d36fbb304e7f55cb452bcea1fe102e5-1787139532-1280x720.jpeg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/batman-fan-prepare-serious-action-34552339",
@@ -1517,14 +1509,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17640050/?type=app&htype=0"
       },
       {
-        "id": "8953386",
-        "title": "Anger after historic Glasgow city centre cast-ironworks destroyed during demolition",
-        "link": "https://www.glasgowworld.com/news/anger-after-historic-glasgow-city-centre-cast-ironworks-destroyed-during-demolition-8953386",
-        "description": "<p>Anger as historic Glasgow city centre cast-ironworks destroyed during demolition</p>",
-        "published": "Tue, 01 Sep 2026 12:53:26 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/01/12/53/HRHojkKXQAE1L98.jpeg?width=1200&auto=webp&trim=1200%2C0%2C1200%2C0"
-      },
-      {
         "id": "2c2365d3bb78c3a8c1433f95fb4cc142",
         "title": "Scotland-wide search launched for emerging African music talent",
         "link": "https://www.heraldscotland.com/news/26511911.scotland-wide-search-launched-emerging-african-music-talent/",
@@ -1579,14 +1563,6 @@
         "description": "A new chair has been appointed at the head of a major Scottish housing and property-management group.",
         "published": "Tue, 01 Sep 2026 13:33:08 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21396358/?type=app&htype=0"
-      },
-      {
-        "id": "a0cd6ed57a404124b3db4580f1b0b220",
-        "title": "Glasgow music and nightlife mogul claims city is a 'broken mess'",
-        "link": "https://www.heraldscotland.com/news/26509867.glasgow-music-nightlife-mogul-claims-city-broken-mess/",
-        "description": "A Glasgow music and nightlife mogul has claimed that the city is a \"broken mess\" in an interview with a former prime minister",
-        "published": "Tue, 01 Sep 2026 12:58:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21259576/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/river-city-fans-left-bawling-34549700",
@@ -1659,14 +1635,6 @@
         "description": "Two Scottish law firms have completed a merger that will create a business with more than 120 staff in Glasgow.",
         "published": "Tue, 01 Sep 2026 11:19:17 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21395311/?type=app&htype=0"
-      },
-      {
-        "id": "8952535",
-        "title": "In Pictures: 12 pictures as Sauchiehall Street closed after derelict building fire",
-        "link": "https://www.glasgowworld.com/news/sauchiehall-street-derelict-building-fire-8952535",
-        "description": "<p>Section of Sauchiehall Street expected to be closed until this afternoon after blaze in derelict building</p>",
-        "published": "Tue, 01 Sep 2026 10:09:59 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/01/9/48/onecms_2053200b-f1ae-4541-bb34-45341e37546e-a5884e32.jpeg?width=1200&auto=webp&trim=0%2C5%2C0%2C5"
       },
       {
         "id": "98e6c322710295976da5e4e1722bd486",
