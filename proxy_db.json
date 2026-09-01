@@ -1269,6 +1269,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=527227",
+        "title": "Number of CalMac ferry services disrupted due to adverse weather and strong winds",
+        "link": "https://news.stv.tv/west-central/number-of-calmac-ferry-services-disrupted-due-to-adverse-weather-and-strong-winds",
+        "description": "Sailings on 18 routes face possible disruptions on Tuesday",
+        "published": "Tue, 01 Sep 2026 11:00:26 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2025/10/d3c79137a87661a2bc7579898f0a1b57-1759852504-1280x720.jpeg"
+      },
+      {
+        "id": "e03db4df974637b2795ea2f868ad6315",
+        "title": "New Destination Glasgow organisation launched to promote city worldwide",
+        "link": "https://www.glasgowtimes.co.uk/news/26510589.destination-glasgow-launched-boost-citys-global-profile/",
+        "description": "A new organisation has been launched to raise Glasgow\u2019s profile on the international stage.",
+        "published": "Tue, 01 Sep 2026 12:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19347166/?type=app&htype=0"
+      },
+      {
+        "id": "fd57c800b83eab332fea0f07bd19c109",
+        "title": "\u00a3114m needed to clear councils' roads maintenance backlog",
+        "link": "https://www.heraldscotland.com/news/26511251.ayrshire-facing-huge-114m-backlog-repairing-roads/",
+        "description": "More than \u00a3114m of work would be required to clear Ayrshire\u2019s road maintenance backlog, as new figures reveal significant staffing, contractor and budget pressures within the region\u2019s shared roads service.",
+        "published": "Tue, 01 Sep 2026 11:55:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21395505/?type=app&htype=0"
+      },
+      {
+        "id": "66a82c41915c56f286e06564ff0962c5",
+        "title": "Glasgow clinic launches sperm sharing programme to tackle donor shortage",
+        "link": "https://www.heraldscotland.com/news/26511182.glasgow-clinic-launches-scotlands-sperm-donor-scheme/",
+        "description": "A Glasgow fertility clinic has launched Scotland\u2019s only sperm sharing scheme, offering eligible donors a \u00a32,000 discount on their own fertility treatment.",
+        "published": "Tue, 01 Sep 2026 11:47:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19655475/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-public-toilet-panels-smashed-34549658",
         "title": "Glasgow public toilet ornate panels 'smashed to pieces' despite order to retain them",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-public-toilet-panels-smashed-34549658",
@@ -1443,14 +1475,6 @@
         "description": "Domestic abuse workers, janitors, cleansing staff, park workers and parking attendants say they face financial destitution.",
         "published": "Tue, 1 Sep 2026 06:42:16 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34535383.ece/ALTERNATES/s98/0_JS166324573.jpg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=527205",
-        "title": "Glasgow\u2019s Sauchiehall Street closed due to early morning building blaze",
-        "link": "https://news.stv.tv/west-central/glasgows-sauchiehall-street-closed-due-to-early-morning-building-blaze",
-        "description": "Emergency services were alerted to the blaze at the derelict building on Sauchiehall Street on Tuesday",
-        "published": "Tue, 01 Sep 2026 06:16:14 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2021/11/965c5f404bb8309fc9a1d8d6169b169e-1084x720.jpg"
       },
       {
         "id": "973713bbf7324b9c9aa04a44cd57c7bf",
@@ -2043,30 +2067,6 @@
         "description": "The Scottish Government has announced \u00a315 million to expand school breakfast clubs as part of its bid to \u201ceradicate child poverty\u201d.",
         "published": "Mon, 31 Aug 2026 00:01:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/16481417/?type=app&htype=0"
-      },
-      {
-        "id": "8949986",
-        "title": "Celtic plot \u00a36m transfer swoop for in-demand Crystal Palace star as European deadline could fast-track deal",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-plot-ps6m-transfer-swoop-in-demand-crystal-palace-star-european-deadline-fast-track-deal-8949986",
-        "description": "<p>Celtic are not alone in monitoring the versatile midfielder\u2019s situation</p>",
-        "published": "Sun, 30 Aug 2026 19:00:35 GMT",
-        "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOjU2NDU3NjRmLTk1OWMtNDFjZi1iNWM2LWUzZDdjMDlkYTY4OTo4OTkxZTE4ZC0wNDBjLTRkZjQtYTdiMi04MjZiZWI5ZTg5Njk=.jpg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "8949984",
-        "title": "Incoming \u00a39m Rangers striker 'can be a star' at Ibrox but club warned MLS hotshot is 'not the finished article'",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/incoming-ps9m-rangers-striker-star-ibrox-club-warned-mls-hotshot-not-finished-article-8949984",
-        "description": "<p>A former Manchester United, Everton and England defender has delivered his verdict on Ibrox-bound Kelsy</p>",
-        "published": "Sun, 30 Aug 2026 19:00:16 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/30/11/38/GettyImages-2275393694.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "5a09452a80c373b1cbfd0c62704a9495",
-        "title": "Scottish seas dubbed 'cetacean soup' as whale and dolphin sightings surge",
-        "link": "https://www.heraldscotland.com/news/26508021.cetacean-soup-scottish-seas-whale-sightings-surge/",
-        "description": "Scottish seas are being dubbed \"cetacean soup\" after a surge in whale and dolphin sightings.",
-        "published": "Sun, 30 Aug 2026 19:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21390438/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
