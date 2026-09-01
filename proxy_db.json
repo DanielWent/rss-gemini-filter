@@ -1277,6 +1277,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "d6e9a42fe931b8411efe460e5e5e4101",
+        "title": "Everything we know after Sauchiehall Street fire shut down area for 16 hours",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26513227.everything-know-sauchiehall-street-16-hours-later/",
+        "description": "Emergency crews remained at the scene of a major Sauchiehall Street fire for almost 16 hours after a blaze tore through a derelict city centre building.",
+        "published": "Tue, 01 Sep 2026 17:09:37 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21398341/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/clyj29dynp8o#0",
+        "title": "Suspect in double murder investigation found dead",
+        "link": "https://www.bbc.co.uk/news/articles/clyj29dynp8o?at_medium=RSS&at_campaign=rss",
+        "description": "The bodies of Paul Lafferty and Gary Beaton were found in a flat before a man was discovered seriously injured the next day and was then pronounced dead.",
+        "published": "Tue, 01 Sep 2026 16:04:51 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8852/live/5678d210-9bc4-11f1-a291-b542ee92de7c.jpg"
+      },
+      {
+        "id": "8954128",
+        "title": "Celtic eye transfer market trolley dash to end summer window as 'top priority signing' to spark six-star haul",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-eye-transfer-market-trolley-dash-end-summer-window-top-priority-signing-six-star-haul-8954128",
+        "description": "<p>It\u2019s set to be a busy end to the transfer window at Celtic.</p>",
+        "published": "Tue, 01 Sep 2026 16:02:21 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/20/13/35/GettyImages-2275203903.jpeg?width=1200&auto=webp&trim=42%2C0%2C42%2C0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/history/remembering-glasgows-jumpin-jaks-after-34551377",
+        "title": "Remembering Glasgow's Jumpin Jaks after crews rush to overnight blaze in former nightclub",
+        "link": "https://www.glasgowlive.co.uk/news/history/remembering-glasgows-jumpin-jaks-after-34551377",
+        "description": "We look back at the history of the venue following an overnight fire on Tuesday, September 1.",
+        "published": "Tue, 1 Sep 2026 16:00:40 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34552481.ece/ALTERNATES/s98/0_GettyImages-2212724098.jpg"
+      },
+      {
+        "id": "086b19b1ea0e69e936e1e78245493fb6",
+        "title": "Garage owner says LEZ, roadworks and bus gates have left Glasgow a 'broken mess'",
+        "link": "https://www.glasgowtimes.co.uk/news/26513139.glasgow-music-nightlife-mogul-claims-city-broken-mess/",
+        "description": "A Glasgow music and nightlife mogul has claimed that the city is a \"broken mess\" in an interview with a former prime minister",
+        "published": "Tue, 01 Sep 2026 16:56:38 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21259576/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-found-dead-under-glasgow-34552282",
         "title": "Man found dead under Glasgow bridge 'would have faced arrest' over double Partick murder",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-found-dead-under-glasgow-34552282",
@@ -2035,46 +2075,6 @@
         "description": "A pub in Edinburgh and a pub in Glasgow have received the ultimate glowing endorsement by being featured\u00a0in a new list of the Top 100 Bars in Europe\u00a0for 2026.",
         "published": "Mon, 31 Aug 2026 14:21:16 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/10280015/?type=app&htype=0"
-      },
-      {
-        "id": "7bfc334fe3d9384fe4fcbebad534cb41",
-        "title": "Former IBM site in Greenock could be transformed into data centre hub",
-        "link": "https://www.heraldscotland.com/news/26509131.plans-submitted-council-greenock-data-centre/",
-        "description": "Plans have been submitted to transform the former IBM site at Spango Valley in Greenock into a data centre development with 80,000 sq m of floorspace.",
-        "published": "Mon, 31 Aug 2026 14:20:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21227626/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-found-dead-glasgow-police-34546048",
-        "title": "Man found dead in Glasgow as police stand guard after 'report of concern' call",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-found-dead-glasgow-police-34546048",
-        "description": "Officers have been spotted on the scene since Friday afternoon.",
-        "published": "Mon, 31 Aug 2026 13:12:35 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34546103.ece/ALTERNATES/s98/0_Springburn-incident.jpg"
-      },
-      {
-        "id": "2db1324bfcd9d8f2061ec3889240a5a0",
-        "title": "Governments back Inverness Castle investment amid 25 job cuts",
-        "link": "https://www.heraldscotland.com/news/26508995.scottish-uk-governments-back-inverness-castle-investment/",
-        "description": "The UK and Scottish governments are remaining positive about Inverness Castle despite the attraction expecting to turn up a loss of \u00a31.6 million in its first year.",
-        "published": "Mon, 31 Aug 2026 14:12:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21392174/?type=app&htype=0"
-      },
-      {
-        "id": "bad9eed778287778f3d667eace83ccdf",
-        "title": "New NatureScot planning tool aims to leave nature better after development",
-        "link": "https://www.heraldscotland.com/news/26509107.planning-tool-aims-boost-biodiversity-scottish-projects/",
-        "description": "NatureScot has launched a consultation on a new biodiversity metric designed to help developers measure and improve nature before and after construction.",
-        "published": "Mon, 31 Aug 2026 14:00:56 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21392334/?type=app&htype=0"
-      },
-      {
-        "id": "ae402130b57bb1ef67111f41ff109224",
-        "title": "Scots researchers seek former melanoma patients to test skin cancer recovery app",
-        "link": "https://www.heraldscotland.com/news/26509083.scottish-skin-cancer-survivors-invited-help-evaluate-new-phone-app/",
-        "description": "Researchers behind an app designed to support people after skin cancer treatment are inviting former early-stage melanoma patients to take part in its final evaluation tests.",
-        "published": "Mon, 31 Aug 2026 13:50:30 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21392390/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
