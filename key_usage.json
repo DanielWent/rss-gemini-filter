@@ -3,7 +3,7 @@
   "keys": {
     "ff8b60d30e0f970d": {
       "gemini-3.5-flash-lite": {
-        "daily_requests": 8,
+        "daily_requests": 9,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -28,6 +28,10 @@
     "552b9a0c435a4789": {
       "gemini-3.5-flash-lite": {
         "daily_requests": 8,
+        "exhausted": false
+      },
+      "gemini-3.6-flash": {
+        "daily_requests": 1,
         "exhausted": false
       }
     },
@@ -69,13 +73,13 @@
     },
     "522d41e96dd4fda8": {
       "gemini-3.5-flash-lite": {
-        "daily_requests": 7,
+        "daily_requests": 8,
         "exhausted": false
       }
     },
     "6f6441973fb58689": {
       "gemini-3.5-flash-lite": {
-        "daily_requests": 7,
+        "daily_requests": 8,
         "exhausted": false
       }
     }
