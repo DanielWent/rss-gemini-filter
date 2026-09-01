@@ -1269,6 +1269,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-workers-walk-out-34532887",
+        "title": "Glasgow council workers 'walk out in tears' as thousands to be cut from wages over 'equal pay'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-workers-walk-out-34532887",
+        "description": "Domestic abuse workers, janitors, cleansing staff, park workers and parking attendants say they face financial destitution.",
+        "published": "Tue, 1 Sep 2026 06:42:16 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34535383.ece/ALTERNATES/s98/0_JS166324573.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=527205",
         "title": "Glasgow\u2019s Sauchiehall Street closed due to early morning building blaze",
         "link": "https://news.stv.tv/west-central/glasgows-sauchiehall-street-closed-due-to-early-morning-building-blaze",
@@ -2059,14 +2067,6 @@
         "description": "Overall membership is holding up at many Scottish golf clubs, but the full-fee golfers who underpin finances are a much smaller group",
         "published": "Sun, 30 Aug 2026 13:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21385773/?type=app&htype=0"
-      },
-      {
-        "id": "8949955",
-        "title": "Celtic step up transfer interest in rising PSV star as \u00a33.4m deal eyed with talks advancing after huge setback",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-step-up-transfer-interest-rising-psv-star-ps34m-deal-eyed-talks-advancing-huge-setback-8949955",
-        "description": "<p>Celtic have made their move to sign the Netherlands Under-19 international after missing out on another midfield target</p>",
-        "published": "Sun, 30 Aug 2026 11:00:05 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/30/9/12/GettyImages-2272090951.jpeg?width=1200&auto=webp&trim=95%2C0%2C95%2C0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
