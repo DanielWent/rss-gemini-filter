@@ -1269,6 +1269,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/red-arrows-scotland-weekend-its-34551290",
+        "title": "Red Arrows are in Scotland this weekend and it's the last time to see them near Glasgow this year",
+        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/red-arrows-scotland-weekend-its-34551290",
+        "description": "The International Ayr Show \u2013 Festival of Flight returns to Ayrshire this weekend, and the world-famous Red Arrows are due to take to the skies over two days.",
+        "published": "Tue, 1 Sep 2026 14:15:41 +0000",
+        "image_url": "https://i2-prod.edinburghlive.co.uk/incoming/article34551472.ece/ALTERNATES/s98/2_Red-Arrows-ezgifcom-webp-to-jpg-converter.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=527318",
+        "title": "Man to stand trial after he allegedly raped woman on cruise ship off coast of Greenock",
+        "link": "https://news.stv.tv/west-central/man-to-stand-trial-after-he-allegedly-raped-woman-on-cruise-ship-off-coast-of-greenock",
+        "description": "The Mein Schiff boat was sailing between Belfast and Greenock when the alleged attack occured on June 11, 2025",
+        "published": "Tue, 01 Sep 2026 14:05:16 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2023/02/db524c6a56e562e1d236b909b5be1388-1676909040-1280x720.jpg"
+      },
+      {
+        "id": "c21225b2fb9496c99537a3f372a76bdc",
+        "title": "Strip clubs could be phased out in Aberdeen due to new licensing policy",
+        "link": "https://www.heraldscotland.com/news/26512341.aberdeen-strip-clubs-phased-due-new-licensing-policy/",
+        "description": "Strip clubs could be phased out in Aberdeen due to a policy change that agrees not to replace one if it closes.",
+        "published": "Tue, 01 Sep 2026 14:53:17 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/17327043/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-worker-who-stole-34550807",
         "title": "Glasgow council worker who stole laptops for vulnerable people worth \u00a3120k sentenced",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-worker-who-stole-34550807",
@@ -1379,6 +1403,14 @@
         "description": "",
         "published": "Tue, 01 Sep 2026 13:48:12 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images//?type=app&htype="
+      },
+      {
+        "id": "794cddae9cf891cf1c76a471ed0d315a",
+        "title": "Pair involved in mass disturbance between Celtic and Roma fans appear in court",
+        "link": "https://www.glasgowtimes.co.uk/news/26511889.pair-involved-mass-disturbance-celtic-roma-fans/",
+        "description": "Two men were involved in a mass disturbance between Celtic and Roma fans before a European match.",
+        "published": "Tue, 01 Sep 2026 13:47:09 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/14477228/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/manhunt-continues-after-glasgow-woman-34550608",
@@ -1877,14 +1909,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20403891/?type=app&htype=0"
       },
       {
-        "id": "cfb01b0a02f56bcb6b15367f5c1a8f0b",
-        "title": "Ministers promise more Scots treated at home as part of new hospital flow plan",
-        "link": "https://www.glasgowtimes.co.uk/news/26509322.ministers-promise-scots-treated-home-part-new-flow-plan/",
-        "description": "More Scots could receive healthcare \u201cin their homes and in their communities\u201d as part of new NHS plans, Angela Constance said.",
-        "published": "Mon, 31 Aug 2026 15:21:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17235325/?type=app&htype=0"
-      },
-      {
         "id": "685734dd4fe4bdaedae2040dd61e7c23",
         "title": "Police appeal after teenage boy stabbed in Glasgow",
         "link": "https://www.heraldscotland.com/news/26507731.999-response-teen-stabbed-glasgows-kerr-street/",
@@ -2043,30 +2067,6 @@
         "description": "A woman who caused a street to be evacuated after creating chlorine gas in her home walked free from court today.",
         "published": "Mon, 31 Aug 2026 10:46:25 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21391349/?type=app&htype=0"
-      },
-      {
-        "id": "8950836",
-        "title": "Exciting new facility coming to Calderglen Country Park",
-        "link": "https://www.glasgowworld.com/news/exciting-new-facility-coming-to-calderglen-country-park-8950836",
-        "description": "<p>A new pump track is to be developed in Calderglen Country Park.  </p>",
-        "published": "Mon, 31 Aug 2026 09:20:55 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/31/9/39/SLV_CALDERGLEN___intermediate_pump.png?width=1200&auto=webp&trim=0%2C59%2C0%2C58"
-      },
-      {
-        "id": "8950821",
-        "title": "National Trust marks major milestone in project to save Mackintosh-designed Hill House",
-        "link": "https://www.glasgowworld.com/news/national-trust-marks-major-milestone-in-project-to-save-mackintosh-designed-hill-house-8950821",
-        "description": "<p>The National Trust for Scotland has reached another landmark in its project to save The Hill House, designed by Charles Rennie Mackintosh, with the successful removal of the original cement roughcast, a major milestone in addressing the building's longstanding moisture problems.   </p>",
-        "published": "Mon, 31 Aug 2026 09:13:09 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/31/9/06/55493379008_06f9cd06c2_o.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "7800cd1428d232b633279850f550154e",
-        "title": "Glasgow motorists face more delays as major roadworks pushed into October",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26508384.glasgow-faces-delays-duke-street-roadworks-pushed-october/",
-        "description": "Roadworks on Glasgow\u2019s Duke Street have been extended again, with temporary traffic lights now set to remain until October as delays continue to affect one of the city\u2019s busiest routes.",
-        "published": "Mon, 31 Aug 2026 09:59:57 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20023077/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
