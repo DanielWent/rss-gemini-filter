@@ -1261,6 +1261,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "db9747fd4ceb3664b4869c5333391b64",
+        "title": "Scottish Water workshops to teach hundreds of Glasgow pupils about water conservation",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26510374.scottish-water-brings-conservation-workshops-glasgow-pupils/",
+        "description": "A hands-on water workshop launched by Scottish Water is helping pupils become more responsible with their water use.",
+        "published": "Tue, 01 Sep 2026 09:42:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21394494/?type=app&htype=0"
+      },
+      {
+        "id": "ed0d4c971215b5c89018242b2de970b0",
+        "title": "Glasgow hospital unveils major surgery upgrade with plans for new operating theatre",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26510245.glasgow-nuffield-hospital-plans-temporary-operating-theatre/",
+        "description": "Glasgow Nuffield Hospital has unveiled plans for a temporary operating theatre that would allow surgeries to continue while its main operating suites undergo refurbishment.",
+        "published": "Tue, 01 Sep 2026 09:20:28 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21394368/?type=app&htype=0"
+      },
+      {
         "id": "1aa19c9ff2f8e1850a18a7d3a561a975",
         "title": "First act of Glasgow Summer Sessions 2027 revealed as huge Grammy nominee",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26510193.grammy-nominee-sombr-announces-huge-glasgow-summer-sessions-2027-gig/",
