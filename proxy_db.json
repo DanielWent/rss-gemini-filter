@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cm2qj7jzl7no#3",
+        "title": "'We'll find way to save Jodrell Bank,' Burnham says",
+        "link": "https://www.bbc.co.uk/news/articles/cm2qj7jzl7no?at_medium=RSS&at_campaign=rss",
+        "description": "Burnham said \"there is no way that we can see its demise, and it won't happen under my Government\".",
+        "published": "Tue, 01 Sep 2026 19:30:02 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ff/live/6961bcf0-892e-11f1-b684-d3f861a1f4cf.png"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o#1",
         "title": "How catastrophic flash flood unfolded at remote Nepal-China border point",
         "link": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
@@ -1325,14 +1333,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21103667/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-adventure-park-buys-piece-34552885",
-        "title": "Lanarkshire adventure park buys 'piece of Scottish history' for \u00a32400",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-adventure-park-buys-piece-34552885",
-        "description": "The enormous Nessie was a standout during the Glasgow 2026 Commonwealth Games opening ceremony.",
-        "published": "Tue, 1 Sep 2026 17:04:54 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34472601.ece/ALTERNATES/s98/1_1100512039jpeg.jpg"
-      },
-      {
         "id": "8952713",
         "title": "Rangers transfer state of play as Derek McInnes provides update on possible movement in and out of Ibrox",
         "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-transfer-state-of-play-derek-mcinnes-provides-update-possible-movement-in-out-ibrox-8952713",
@@ -1461,14 +1461,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21397718/?type=app&htype=0"
       },
       {
-        "id": "76c982b4c049260a1effae027e07c985",
-        "title": "Manhunt continues after two men fatally stabbed in Glasgow flat over two weeks ago",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26512826.chancellor-street-murder-probe-continues-no-arrests-made/",
-        "description": "The search for the person responsible for the deaths of two men in Glasgow's West End is continuing more than two weeks after their bodies were discovered in a flat.",
-        "published": "Tue, 01 Sep 2026 16:01:27 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21341315/?type=app&htype=0"
-      },
-      {
         "id": "8f35bcf47c33c19fa128c73891d21ecb",
         "title": "Councillor 'furious' after historic iron panels 'smashed' during removal",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26512642.historic-glasgow-iron-panels-smashed-toilet-removal/",
@@ -1483,14 +1475,6 @@
         "description": "31-year-old Ehsan Asadi was last seen around 5am on Monday.",
         "published": "Tue, 1 Sep 2026 14:34:26 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34551727.ece/ALTERNATES/s98/2_ehsan-asadi.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/red-arrows-scotland-weekend-its-34551290",
-        "title": "Red Arrows are in Scotland this weekend and it's the last time to see them near Glasgow this year",
-        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/red-arrows-scotland-weekend-its-34551290",
-        "description": "The International Ayr Show \u2013 Festival of Flight returns to Ayrshire this weekend, and the world-famous Red Arrows are due to take to the skies over two days.",
-        "published": "Tue, 1 Sep 2026 14:15:41 +0000",
-        "image_url": "https://i2-prod.edinburghlive.co.uk/incoming/article34551472.ece/ALTERNATES/s98/2_Red-Arrows-ezgifcom-webp-to-jpg-converter.jpg"
       },
       {
         "id": "https://news.stv.tv/?p=527318",
