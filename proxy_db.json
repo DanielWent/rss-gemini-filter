@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o#1",
+        "title": "How catastrophic flash flood unfolded at remote Nepal-China border point",
+        "link": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
+        "description": "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods.",
+        "published": "Tue, 01 Sep 2026 06:02:27 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d0/live/db5294a0-a513-11f1-aed2-8d6da8d75094.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c99dym3prl1o#0",
         "title": "AI could cause global economic downturn, Bank of England chief warns",
         "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
@@ -1261,6 +1269,62 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=527205",
+        "title": "Glasgow\u2019s Sauchiehall Street closed due to early morning building blaze",
+        "link": "https://news.stv.tv/west-central/glasgows-sauchiehall-street-closed-due-to-early-morning-building-blaze",
+        "description": "Emergency services were alerted to the blaze at the derelict building on Sauchiehall Street on Tuesday",
+        "published": "Tue, 01 Sep 2026 06:16:14 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2021/11/965c5f404bb8309fc9a1d8d6169b169e-1084x720.jpg"
+      },
+      {
+        "id": "0406f3cd36e847a3c0391a61899c7650",
+        "title": "LIVE updates as Glasgow Central trains UNABLE to run",
+        "link": "https://www.glasgowtimes.co.uk/news/26509962.live-updates-glasgow-central-trains-unable-run/",
+        "description": "Glasgow Central trains are unable to run this morning due to an ongoing issue.",
+        "published": "Tue, 01 Sep 2026 07:11:56 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19641035/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cn74g1k6yxyo#0",
+        "title": "Delays and \u00a320m cost rise for new Turkish-built CalMac ferries",
+        "link": "https://www.bbc.co.uk/news/articles/cn74g1k6yxyo?at_medium=RSS&at_campaign=rss",
+        "description": "The second of four ordered ships will be handed over in October, about 20 months later than originally planned.",
+        "published": "Tue, 01 Sep 2026 06:07:37 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faec/live/0f2e9530-7166-11f1-b1db-af71d47507d6.jpg"
+      },
+      {
+        "id": "6f3e02ff27d701c6d2e509b023c0c47d",
+        "title": "LIVE: John Swinney to unveil Programme for Government",
+        "link": "https://www.heraldscotland.com/news/26509948.programme-government-john-swinney-sets-agenda/",
+        "description": "MSPs return to Holyrood where First Minister John Swinney will set out his legislative agenda for the year ahead.",
+        "published": "Tue, 01 Sep 2026 06:50:31 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21394022/?type=app&htype=0"
+      },
+      {
+        "id": "7d4ffa7f35b6029e8d86835586d432a0",
+        "title": "Holyrood seeks devolution power grab as Scots 'exploitation' jobs soar",
+        "link": "https://www.heraldscotland.com/news/26509482.scotgov-seeks-employment-powers-zero-hours-jobs-soar/",
+        "description": "The Scottish Government has called for full control over workers\u2019 rights in Scotland as the number of people on \"exploitative\" insecure job contracts soared by more than 20 per cent in a year.",
+        "published": "Tue, 01 Sep 2026 06:39:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18117599/?type=app&htype=0"
+      },
+      {
+        "id": "020759065c75be357a45b01046ca1e99",
+        "title": "Lifeline island flights summit planned as Scotland faces no long-term plan",
+        "link": "https://www.heraldscotland.com/news/26509577.lifeline-island-flights-scotgov-plans-summit-hitrans-warning/",
+        "description": "A summit over the future of lifeline island flights is being organised after transport chiefs warned the country's air links needed a clearer vision in the wake of cuts to services.",
+        "published": "Tue, 01 Sep 2026 06:36:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21209818/?type=app&htype=0"
+      },
+      {
+        "id": "b3d5025ae53c460d2ee344662e7603c8",
+        "title": "McGill's Buses illegally sacked worker who refused drug test over Snapchat beer video",
+        "link": "https://www.heraldscotland.com/news/26509793.mcgills-buses-acted-unlawfully-drugs-test-sacking/",
+        "description": "McGill's Buses, owned by billionaire brothers Sandy and James Easdale, was found to have ordered an unjustified drug test, withheld evidence and unlawfully restricted union representation before dismissing a depot store manager.",
+        "published": "Tue, 01 Sep 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/17383463/?type=app&htype=0"
+      },
+      {
         "id": "bf5b8fd211979763f04cb5a0787a5e7c",
         "title": "LIVE updates amid major ongoing emergency incident in Glasgow city centre",
         "link": "https://www.glasgowtimes.co.uk/news/26509940.live-updates-amid-major-ongoing-emergency-incident-sauchiehall-street/",
@@ -1291,6 +1355,22 @@
         "description": "Delays in sexual offence cases mean some survivors \u201cwon\u2019t even be here to see justice being done\u201d or will \u201cdisengage due to the emotional toll\u201d,\u00a0Glasgow\u2019s rape crisis centre has said.",
         "published": "Tue, 01 Sep 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21393001/?type=app&htype=0"
+      },
+      {
+        "id": "d18570e1432637bd2bf5f22207378ef3",
+        "title": "Cairngorms wildfire exposed \u2018dangerous weakness\u2019 in Scotland\u2019s response \u2013 SLE",
+        "link": "https://www.heraldscotland.com/news/26509632.cairngorms-wildfire-exposed-weakness-scotlands-response/",
+        "description": "The Cairngorms wildfire \u201cexposed a dangerous weakness\u201d in Scotland\u2019s wildfire response, a report from a rural business organisation says.",
+        "published": "Tue, 01 Sep 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21337914/?type=app&htype=0"
+      },
+      {
+        "id": "d4220919d45cbf12b6ab3ed9e7169695",
+        "title": "What work should humans do when AI becomes capable of almost everything?",
+        "link": "https://www.heraldscotland.com/news/education/26508357.jobs-will-humans-future-ai-economy/",
+        "description": "As AI takes on more workplace tasks, the skills that matter most may be the ones we've long dismissed as \"soft\"",
+        "published": "Tue, 01 Sep 2026 04:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21391550/?type=app&htype=0"
       },
       {
         "id": "dbfa0bce39a5d2ff7f4d120e604e93c0",
@@ -1987,78 +2067,6 @@
         "description": "<p>Celtic have made their move to sign the Netherlands Under-19 international after missing out on another midfield target</p>",
         "published": "Sun, 30 Aug 2026 11:00:05 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/30/9/12/GettyImages-2272090951.jpeg?width=1200&auto=webp&trim=95%2C0%2C95%2C0"
-      },
-      {
-        "id": "163d81bddfd8cfddde94b75d1e24da98",
-        "title": "Law Society: Sentencing must remain a matter for judiciary",
-        "link": "https://www.heraldscotland.com/news/26507483.law-society-sentencing-must-remain-matter-judiciary/",
-        "description": "Ministers have said the problem of prison overcrowding is growing rapidly",
-        "published": "Sun, 30 Aug 2026 11:22:23 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/14493289/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=526623",
-        "title": "\u2018I took my bowel screening test two years late \u2013 then I was diagnosed with stage four cancer\u2019",
-        "link": "https://news.stv.tv/west-central/i-took-my-bowel-screening-test-two-years-late-then-i-was-diagnosed-with-stage-four-cancer",
-        "description": "Jane Short says her cancer would likely have been caught earlier if she sent completed her test in 2023",
-        "published": "Sun, 30 Aug 2026 09:07:12 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/fd2bb62c2430a194892521eaeca5784e-1787738672-1280x720.jpeg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-faces-thunderstorms-today-weather-34541042",
-        "title": "Glasgow faces thunderstorms today as weather warning comes into force",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-faces-thunderstorms-today-weather-34541042",
-        "description": "A warning for thunderstorms will be in force from 11am to 9pm.",
-        "published": "Sun, 30 Aug 2026 09:03:40 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34541144.ece/ALTERNATES/s98/0_gettyimages-2195007511-594x594.jpg"
-      },
-      {
-        "id": "55d4f8f9f7d6115d85b88e362df33de6",
-        "title": "Woman's 'Help' text exposes thug who left her fearing she would be murdered",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26507371.marc-sloss-jailed-attempted-murder-victims-desperate-text/",
-        "description": "Marc Sloss has been jailed for seven years after a brutal attempted murder attack in Ayrshire. His victim secretly sent a desperate \"Help\" text and photo of her injuries to family.",
-        "published": "Sun, 30 Aug 2026 09:58:59 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20226133/?type=app&htype=0"
-      },
-      {
-        "id": "188f8f63e7d03da5825c9d0bf60be060",
-        "title": "Popular restaurant to open new function suite for weddings and events",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26507340.grove-bar-open-new-function-suite-weddings-events/",
-        "description": "Plans for a new function suite at The Grove Bar and Restaurant in Lenzie have been approved, paving the way for weddings, parties, race nights and special events.",
-        "published": "Sun, 30 Aug 2026 09:36:30 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18323452/?type=app&htype=0"
-      },
-      {
-        "id": "62ccb09e732e409c40a29a05bade47cb",
-        "title": "Man fighting for his life after police car crash",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26507324.man-fighting-life-police-car-crash-a76/",
-        "description": "A man is fighting for his life after a crash with a police car on the A76 at Mauchline.",
-        "published": "Sun, 30 Aug 2026 09:29:07 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20739414/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/frustration-over-delays-east-end-34535100",
-        "title": "Frustration over delays to East End avenue hit with multiple obstacles",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/frustration-over-delays-east-end-34535100",
-        "description": "It is understood work got underway in January 2025.",
-        "published": "Sun, 30 Aug 2026 08:09:40 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34535111.ece/ALTERNATES/s98/0_anthonycarrollsjpeg.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgows-legal-graffiti-wall-project-34528273",
-        "title": "Glasgow's legal graffiti wall project and mural trail should be combined says councillor",
-        "link": "https://www.glasgowlive.co.uk/news/glasgows-legal-graffiti-wall-project-34528273",
-        "description": "During the recent environment and liveable neighbourhoods committee Bailie Annette Christie told members she thought it was time to bring the two initiatives together.",
-        "published": "Sun, 30 Aug 2026 07:25:00 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34444589.ece/ALTERNATES/s98/0_Screenshot-2026-08-12-at-120934.png"
-      },
-      {
-        "id": "fd5eb2c48d1c044d634288af5a31e739",
-        "title": "LIVE updates as cops tape off Glasgow street",
-        "link": "https://www.glasgowtimes.co.uk/news/26507264.live-updates-cops-tape-off-glasgows-carlton-court/",
-        "description": "Police have taped off a Glasgow street following an incident.",
-        "published": "Sun, 30 Aug 2026 08:12:07 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21389123/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
