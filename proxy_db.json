@@ -37,14 +37,6 @@
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e397/live/f7594f20-a2bd-11f1-aed2-8d6da8d75094.jpg"
       },
       {
-        "id": "1787897408673556",
-        "title": "'High risk' of lake breaching and causing second flood, warns China",
-        "link": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o?at_medium=RSS&at_campaign=rss",
-        "description": "Authorities say a lake formed after a recent landslide near the Nepal-Tibet border may breach in the coming days.",
-        "published": "Fri, 28 Aug 2026 10:10:21 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52e4/live/e6ac0c40-a2a3-11f1-ab20-f9f4f61e8913.jpg"
-      },
-      {
         "id": "1787897408673550",
         "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
         "link": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
@@ -1268,6 +1260,22 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "1aa19c9ff2f8e1850a18a7d3a561a975",
+        "title": "First act of Glasgow Summer Sessions 2027 revealed as huge Grammy nominee",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26510193.grammy-nominee-sombr-announces-huge-glasgow-summer-sessions-2027-gig/",
+        "description": "The first major act of Glasgow Summer Sessions 2027 has been revealed as Grammy nominee SOMBR.",
+        "published": "Tue, 01 Sep 2026 09:09:51 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18796295/?type=app&htype=0"
+      },
+      {
+        "id": "8952071",
+        "title": "Celtic close to three transfer deals as Wolves star amongst triple signing crew in frantic summer window end",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-close-to-three-transfer-deals-as-wolves-star-amongst-triple-signing-crew-8952071",
+        "description": "<p>Celtic are closing in on three transfer deals - including one for a player at Wolves.</p>",
+        "published": "Tue, 01 Sep 2026 08:00:18 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/02/01/17/09/GettyImages-2258307938.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0"
+      },
       {
         "id": "https://news.stv.tv/?p=527212",
         "title": "First baby identified through Scotland\u2019s Spinal Muscular Atrophy screening programme starts treatment",
