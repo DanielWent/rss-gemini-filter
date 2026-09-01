@@ -1277,6 +1277,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-found-dead-under-glasgow-34552282",
+        "title": "Man found dead under Glasgow bridge 'would have faced arrest' over double Partick murder",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-found-dead-under-glasgow-34552282",
+        "description": "Police Scotland released a statement about a 38-year-old suspect today and say their investigation remains ongoing.",
+        "published": "Tue, 1 Sep 2026 15:41:05 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34484805.ece/ALTERNATES/s98/1_Screenshot-2026-08-19-at-151043.png"
+      },
+      {
+        "id": "https://news.stv.tv/?p=527348",
+        "title": "Man found dead under Glasgow bridge would have been arrested over double murder, police confirm",
+        "link": "https://news.stv.tv/west-central/man-found-dead-under-glasgow-bridge-would-have-been-arrested-over-double-murder-police-confirm",
+        "description": "Police were called to a report of a man found seriously injured beneath the George V Bridge in Glasgow on August 17",
+        "published": "Tue, 01 Sep 2026 15:37:43 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/3d36fbb304e7f55cb452bcea1fe102e5-1787139532-1280x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/batman-fan-prepare-serious-action-34552339",
+        "title": "Batman fans expect 'serious action' as major wreckage spotted under Glasgow's Kingston Bridge",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/batman-fan-prepare-serious-action-34552339",
+        "description": "Kunal Tewari has captured crews setting up for the latest scenes which he says 'could involve some serious action'.",
+        "published": "Tue, 1 Sep 2026 15:32:44 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34544335.ece/ALTERNATES/s98/0_DSC09445.jpg"
+      },
+      {
+        "id": "b1b0e5d1fcc19d7e610b5a7b062940c8",
+        "title": "ScotRail adds 178 carriages and extra trains this weekend for two huge events",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26512939.scotrail-adds-extra-glasgow-central-trains-ayr-largs-events/",
+        "description": "ScotRail will run extra Glasgow Central services and add 178 carriages for the Ayr Show and Largs Viking Festival.",
+        "published": "Tue, 01 Sep 2026 16:21:51 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20116484/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/bus-fares-glasgow-west-scotland-34551915",
         "title": "Bus fares in Glasgow and west of Scotland to be capped at \u00a32 from next week",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/bus-fares-glasgow-west-scotland-34551915",
@@ -1331,14 +1363,6 @@
         "description": "31-year-old Ehsan Asadi was last seen around 5am on Monday.",
         "published": "Tue, 1 Sep 2026 14:34:26 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34551727.ece/ALTERNATES/s98/2_ehsan-asadi.jpg"
-      },
-      {
-        "id": "a4f8a918d695ec0eb927d30192261409",
-        "title": "Bus fares across west of Scotland to be capped starting next week",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26512626.john-swinney-confirms-2-bus-fares-glasgow-west-scotland/",
-        "description": "Bus fares capped at \u00a32 across the west of Scotland and a radical overhaul of Scotland's NHS are among the headline measures unveiled by John Swinney in his latest Programme for Government.",
-        "published": "Tue, 01 Sep 2026 15:33:49 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16646860/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/red-arrows-scotland-weekend-its-34551290",
@@ -1595,14 +1619,6 @@
         "description": "Two Scottish law firms have completed a merger that will create a business with more than 120 staff in Glasgow.",
         "published": "Tue, 01 Sep 2026 11:19:17 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21395311/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=527237",
-        "title": "Manhunt ongoing more than two weeks after Glasgow double murder",
-        "link": "https://news.stv.tv/west-central/manhunt-ongoing-more-than-two-weeks-after-glasgow-double-murder",
-        "description": "The bodies of Paul Lafferty and Gary Beaton, aged 50 and 54,\u00a0were found in a flat on Partick\u2019s Chancellor Street",
-        "published": "Tue, 01 Sep 2026 10:16:32 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/3d36fbb304e7f55cb452bcea1fe102e5-1787139532-1280x720.jpeg"
       },
       {
         "id": "8952535",
@@ -2059,22 +2075,6 @@
         "description": "Researchers behind an app designed to support people after skin cancer treatment are inviting former early-stage melanoma patients to take part in its final evaluation tests.",
         "published": "Mon, 31 Aug 2026 13:50:30 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21392390/?type=app&htype=0"
-      },
-      {
-        "id": "8940710",
-        "title": "King Tut's Wah Wah Hut to mark legendary performance with special gig",
-        "link": "https://www.glasgowworld.com/whats-on/music/king-tuts-wah-wah-hut-to-mark-legendary-performance-with-special-gig-8940710",
-        "description": "<p>Glasgow King Tut\u2019s Wah Wah Hut as a venue known across the world as the place were Oasis were discovered in May 1993, but the venue itself is so much more than as it has a rich past as well as an exciting future. </p>",
-        "published": "Mon, 31 Aug 2026 12:11:57 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/31/9/08/GettyImages-522103599.jpeg?width=1200&auto=webp&trim=10%2C0%2C10%2C0"
-      },
-      {
-        "id": "20c8ddb52db5eac9823ab11c947392d1",
-        "title": "Glasgow city centre office building reaches full occupancy after \u00a33.5m refurbishment",
-        "link": "https://www.heraldscotland.com/news/26508909.glasgow-office-building-reaches-full-occupancy-refurbishment/",
-        "description": "A refurbished office building in Glasgow city centre has reached full occupancy after environmental consultancy Cameron Kerr took the final available suite.",
-        "published": "Mon, 31 Aug 2026 13:08:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21392110/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
