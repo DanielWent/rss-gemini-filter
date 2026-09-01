@@ -494,6 +494,14 @@
     "description": "AI Filtered Google Blog Updates.",
     "articles": [
       {
+        "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
+        "title": "Introducing agentic video understanding with Gemini",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
+        "description": "Text \"Agentic video understanding\" next to the Gemini logo, all on a dark blue background",
+        "published": "Tue, 01 Sep 2026 17:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/agentic-video___keyword__blog-h.max-600x600.format-webp.webp"
+      },
+      {
         "id": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
         "title": "Gemini Omni 1.1 Flash lets you build with more control",
         "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
@@ -1277,12 +1285,52 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-adventure-park-buys-piece-34552885",
+        "title": "Lanarkshire adventure park buys 'piece of Scottish history' for \u00a32400",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-adventure-park-buys-piece-34552885",
+        "description": "The enormous Nessie was a standout during the Glasgow 2026 Commonwealth Games opening ceremony.",
+        "published": "Tue, 1 Sep 2026 17:04:54 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34472601.ece/ALTERNATES/s98/1_1100512039jpeg.jpg"
+      },
+      {
+        "id": "8952713",
+        "title": "Rangers transfer state of play as Derek McInnes provides update on possible movement in and out of Ibrox",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-transfer-state-of-play-derek-mcinnes-provides-update-possible-movement-in-out-ibrox-8952713",
+        "description": "<p>The Rangers boss has suggested the club are unlikely to bring in more than one additional player before Thursday\u2019s transfer deadline</p>",
+        "published": "Tue, 01 Sep 2026 17:00:55 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/21/6/03/GettyImages-2291338916.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "6878ef7b3ad74c79041e10eb7ca2d3d0",
+        "title": "15 postcodes left in the dark as power cut hits Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26513414.glasgow-homes-left-dark-maryhill-power-cut/",
+        "description": "Homes falling under the G20 postcode are expected to be without electricity until later tonight while Scottish Power respond to the unplanned outage.",
+        "published": "Tue, 01 Sep 2026 17:54:29 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21150424/?type=app&htype=0"
+      },
+      {
+        "id": "f61551e98edddaa10b4dbb7b808ad905",
+        "title": "Community hits out over two-day NC500 road closure for 'filming'",
+        "link": "https://www.heraldscotland.com/news/26513287.nc500-road-closure-plan-sparks-fury-among-scottish-residents/",
+        "description": "Applecross Community Council has criticised plans to close the Bealach na B\u00e0 road on the North Coast 500 for almost two days in September to allow a drone to film cars.",
+        "published": "Tue, 01 Sep 2026 17:53:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/9603716/?type=app&htype=0"
+      },
+      {
         "id": "8954247",
         "title": "Rangers seeking exits for trio before end of summer window as one star commits transfer U-turn",
         "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-seeking-exits-trio-before-end-summer-window-one-star-transfer-u-turn-8954247",
         "description": "<p>Rangers could be busy before the transfer deadline in terms of outgoings.</p>",
         "published": "Tue, 01 Sep 2026 16:28:49 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/12/27/9/38/GettyImages-2210099900.jpeg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "6e9b576f8840115be0c810a2ccad7bc3",
+        "title": "Swinney sets out plans to scrap health boards, merge quangos and review councils",
+        "link": "https://www.heraldscotland.com/news/26513274.john-swinney-sets-plans-rewire-scottish-state/",
+        "description": "John Swinney has unveiled plans to reduce Scotland's 14 health boards to two, redraw council boundaries and declutter more than 130 public bodies but opposition parties dismissed it as reheated promises dressed in new language.",
+        "published": "Tue, 01 Sep 2026 17:17:01 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21397286/?type=app&htype=0"
       },
       {
         "id": "d6e9a42fe931b8411efe460e5e5e4101",
@@ -1309,6 +1357,22 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/20/13/35/GettyImages-2275203903.jpeg?width=1200&auto=webp&trim=42%2C0%2C42%2C0"
       },
       {
+        "id": "d8a50821fd8fd0df04a219bd27f5eecd",
+        "title": "19-year-old Edinburgh student could be elected Scotland's youngest councillor",
+        "link": "https://www.heraldscotland.com/news/26512502.edinburgh-teen-become-one-scotlands-youngest-councillors/",
+        "description": "19-year-old Sam Mackenzie is standing for the SNP in the Southside/Newington by-election on Thursday.",
+        "published": "Tue, 01 Sep 2026 17:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21397263/?type=app&htype=0"
+      },
+      {
+        "id": "dbfb29a6d7bc2ad13ba4fcc3a4e7bd30",
+        "title": "Ferry fiasco 2.0? Why is Scotland facing another \u00a320m bill for Turkish ships?",
+        "link": "https://www.heraldscotland.com/news/26512784.ferry-fiasco-2-0-20m-needed-turkish-ships/",
+        "description": "Scotland\u2019s Turkish ferry deal was meant to avoid another Ferguson Marine fiasco. Now three ships are delayed and ministers have approved \u00a320m in extra costs.",
+        "published": "Tue, 01 Sep 2026 17:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18173634/?type=app&htype=0"
+      },
+      {
         "id": "086b19b1ea0e69e936e1e78245493fb6",
         "title": "Garage owner says LEZ, roadworks and bus gates have left Glasgow a 'broken mess'",
         "link": "https://www.glasgowtimes.co.uk/news/26513139.glasgow-music-nightlife-mogul-claims-city-broken-mess/",
@@ -1317,12 +1381,20 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21259576/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-found-dead-under-glasgow-34552282",
-        "title": "Man found dead under Glasgow bridge 'would have faced arrest' over double Partick murder",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-found-dead-under-glasgow-34552282",
-        "description": "Police Scotland released a statement about a 38-year-old suspect today and say their investigation remains ongoing.",
-        "published": "Tue, 1 Sep 2026 15:41:05 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34484805.ece/ALTERNATES/s98/1_Screenshot-2026-08-19-at-151043.png"
+        "id": "ccee865b4cdcf509c268556271417792",
+        "title": "Locals urge for Ally McCoist housing development appeal to be dismissed",
+        "link": "https://www.heraldscotland.com/news/26513084.locals-fume-rangers-legend-mccoist-renfrewshire-application-appeal/",
+        "description": "Angry locals have vented their frustrations over Ally McCoist's decision to appeal against rejected plans for a luxury development in Bridge of Weir.",
+        "published": "Tue, 01 Sep 2026 16:52:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20758693/?type=app&htype=0"
+      },
+      {
+        "id": "6be87805a4949658c25efb2bd0acc7de",
+        "title": "Police investigating Glasgow double murder 'would have arrested man who died'",
+        "link": "https://www.heraldscotland.com/news/26513091.glasgow-murder-probe-police-would-arrested-man-died/",
+        "description": "Police investigating a double murder in Glasgow have said a man they would have sought to arrest is dead.",
+        "published": "Tue, 01 Sep 2026 16:47:21 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21341398/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/batman-fan-prepare-serious-action-34552339",
@@ -1339,6 +1411,14 @@
         "description": "ScotRail will run extra Glasgow Central services and add 178 carriages for the Ayr Show and Largs Viking Festival.",
         "published": "Tue, 01 Sep 2026 16:21:51 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20116484/?type=app&htype=0"
+      },
+      {
+        "id": "931312d9ceab594818ffc6cfdcd19ed3",
+        "title": "Five key points from John Swinney's Programme for Government",
+        "link": "https://www.heraldscotland.com/news/26512902.5-key-points-john-swinneys-programme-government/",
+        "description": "Some of the biggest changes to the public sector in the history of devolution were announced in John Swinney's Programme for Government.",
+        "published": "Tue, 01 Sep 2026 16:15:35 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20962859/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/bus-fares-glasgow-west-scotland-34551915",
@@ -1363,6 +1443,14 @@
         "description": "<p>People's Palace reopening delayed to 2029 as refurbishment costs rise to \u00a350m</p>",
         "published": "Tue, 01 Sep 2026 15:03:16 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/27/00/cs-6b8a10e0-3727-43d2-96ef-eaa90b4da2e1.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "6207b18397a59924afddb34a0a7e0fa1",
+        "title": "Councillor gets formal reprimand over leaked emails to Facebook page",
+        "link": "https://www.heraldscotland.com/news/26512832.councillor-gets-formal-reprimand-leaked-emails-facebook-page/",
+        "description": "An East Ayrshire councillor pleaded ignorance about the Councillors' Code of Conduct after sending confidential emails via his personal account and sharing them with a contributor to a Facebook page.",
+        "published": "Tue, 01 Sep 2026 16:02:11 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21397718/?type=app&htype=0"
       },
       {
         "id": "76c982b4c049260a1effae027e07c985",
@@ -1995,54 +2083,6 @@
         "description": "A man was seriously assaulted and robbed in a \"terrifying\" incident in Clydebank, leaving him hospitalised. Police are appealing for information.",
         "published": "Mon, 31 Aug 2026 15:26:49 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20403891/?type=app&htype=0"
-      },
-      {
-        "id": "685734dd4fe4bdaedae2040dd61e7c23",
-        "title": "Police appeal after teenage boy stabbed in Glasgow",
-        "link": "https://www.heraldscotland.com/news/26507731.999-response-teen-stabbed-glasgows-kerr-street/",
-        "description": "A teenage boy was taken to hospital after he was stabbed in Glasgow. The 17-year-old was attacked on Kerr Street at around 10.25pm on Saturday, August 29.",
-        "published": "Mon, 31 Aug 2026 15:05:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/17424835/?type=app&htype=0"
-      },
-      {
-        "id": "474dc90522b839c5f5ad5fe27c7d8033",
-        "title": "Sculpture made from 100,000 knives seized by police unveiled",
-        "link": "https://www.heraldscotland.com/news/26509213.knife-angel-sculpture-leith-anti-knife-crime-campaign/",
-        "description": "A 27ft sculpture made from more than 100,000 knives seized by police is set to go on display in Leith as part of a campaign against blade crime.",
-        "published": "Mon, 31 Aug 2026 14:52:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21392545/?type=app&htype=0"
-      },
-      {
-        "id": "9b0c1662137d8df19d63f832e2bf35f8",
-        "title": "LIVE updates as trains disrupted by loss of power at station",
-        "link": "https://www.glasgowtimes.co.uk/news/26509235.live-updates-trains-disrupted-power-loss-station/",
-        "description": "Train services running through Glasgow and the West have been disrupted this afternoon by a loss of power at Dalreoch Station.",
-        "published": "Mon, 31 Aug 2026 14:41:37 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21212050/?type=app&htype=0"
-      },
-      {
-        "id": "9d7e1c8eeee43320ddb40d291e31901e",
-        "title": "Special hearing over \u00a354m flood scheme to be held after 'too many objections'",
-        "link": "https://www.heraldscotland.com/news/26509187.special-hearing-54m-musselburgh-flood-scheme-held/",
-        "description": "Claims the introduction of walls as part of a \u00a354 million flood prevention scheme could put people at risk of drowning will be heard at a special emergency services review later this year.",
-        "published": "Mon, 31 Aug 2026 14:36:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21392493/?type=app&htype=0"
-      },
-      {
-        "id": "8951385",
-        "title": "20mph speed limits coming to almost 800 more Glasgow streets",
-        "link": "https://www.glasgowworld.com/news/20mph-speed-limits-coming-to-almost-800-more-glasgow-streets-8951385",
-        "description": "<p>  Almost 800 streets across the south and east of Glasgow are set to benefit from safer 20mph speed limits, with new signage due to be installed from next month.  </p>",
-        "published": "Mon, 31 Aug 2026 13:23:06 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/31/13/48/787993194_1617234500131622_5878165634258365480_n.jpeg?width=1200&auto=webp&trim=0%2C102%2C0%2C101"
-      },
-      {
-        "id": "787f4eb771147e9c57e1bd67634d1bb9",
-        "title": "Edinburgh and Glasgow pubs featured in Top 100 Bars In Europe 2026 list",
-        "link": "https://www.heraldscotland.com/news/26509159.edinburgh-glasgow-pubs-top-100-bars-europe-list/",
-        "description": "A pub in Edinburgh and a pub in Glasgow have received the ultimate glowing endorsement by being featured\u00a0in a new list of the Top 100 Bars in Europe\u00a0for 2026.",
-        "published": "Mon, 31 Aug 2026 14:21:16 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/10280015/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
