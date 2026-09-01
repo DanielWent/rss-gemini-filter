@@ -1261,6 +1261,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=527234",
+        "title": "Man who stole \u00a3124,000 worth of iPads and laptops from NHS and council body avoids jail",
+        "link": "https://news.stv.tv/west-central/man-who-stole-124000-worth-of-ipads-and-laptops-from-nhs-and-council-body-avoids-jail",
+        "description": "Bobby Lee Smith took the devices that were for vulnerable people during the Covid pandemic",
+        "published": "Tue, 01 Sep 2026 09:51:43 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2025/08/a69dc2c86202651088d5b564bcc4582b-1756384900-1080x720.jpeg"
+      },
+      {
+        "id": "bd3ff01534c19e67b817ee148001a9bb",
+        "title": "Ministers approve extra \u00a320m after delays to Turkish-built CalMac ferries",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26510803.calmac-ferry-project-cost-rises-20m-delays-hit-vessels/",
+        "description": "The cost of managing four CalMac ferries being built in Turkey has risen by \u00a320m as further delays were confirmed.",
+        "published": "Tue, 01 Sep 2026 10:49:32 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21395004/?type=app&htype=0"
+      },
+      {
         "id": "8951469",
         "title": "Callum Beattie announces huge winter tour including 3 shows in Glasgow",
         "link": "https://www.glasgowworld.com/whats-on/music/callum-beattie-announces-huge-winter-tour-including-3-shows-in-glasgow-8951469",
@@ -2043,22 +2059,6 @@
         "description": "The new routes will launch next spring.",
         "published": "Sun, 30 Aug 2026 15:27:59 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34534138.ece/ALTERNATES/s98/0_GettyImages-2286854007.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/ayrshire-store-blames-glasgow-worker-34542612",
-        "title": "Ayrshire store blames 'Glasgow worker' after stocking potentially lethal fake vodka",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/ayrshire-store-blames-glasgow-worker-34542612",
-        "description": "Food Standards Scotland disputed this version of events, stating that the individual identified by the business denied ever having worked at the shop or supplying counterfeit vodka.",
-        "published": "Sun, 30 Aug 2026 15:14:08 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34542611.ece/ALTERNATES/s98/0_vodka.jpg"
-      },
-      {
-        "id": "0dc7806285298f3599c960915a713e54",
-        "title": "Terminally-ill Scots expected to receive energy bills support",
-        "link": "https://www.heraldscotland.com/news/26507838.terminally-ill-scots-expected-receive-energy-bills-support/",
-        "description": "The programme will set out a roadmap of the Government\u2019s priorities for the rest of the parliamentary term until",
-        "published": "Sun, 30 Aug 2026 16:11:18 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21390076/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
