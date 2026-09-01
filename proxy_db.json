@@ -1253,6 +1253,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "dbfa0bce39a5d2ff7f4d120e604e93c0",
+        "title": "Police Scotland faces 'significant challenge' as 2,915 officers on restricted duties",
+        "link": "https://www.heraldscotland.com/news/26509550.police-scotland-faces-colossal-restricted-duties-crisis/",
+        "description": "Police Scotland is facing a \u201csignificant\u201d challenge because of the \u201ccolossal\u201d number of officers who have been placed on restricted duties \u2013 often for medical reasons.",
+        "published": "Tue, 01 Sep 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/14167535/?type=app&htype=0"
+      },
+      {
+        "id": "75a486468b8cba81ea8193a559b03ff6",
+        "title": "Glasgow charity launches funding appeal as doors could close before Christmas",
+        "link": "https://www.heraldscotland.com/news/26508667.glasgow-disabled-horse-riding-charity-forced-close/",
+        "description": "A Glasgow disabled charity could be forced to shut its doors after a fall in funding and rising costs",
+        "published": "Tue, 01 Sep 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21391607/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cd684219x6do#0",
         "title": "'Baby Tommy's here, Chelsea's not': First-time mum dies in childbirth",
         "link": "https://www.bbc.co.uk/news/articles/cd684219x6do?at_medium=RSS&at_campaign=rss",
@@ -2035,22 +2051,6 @@
         "description": "From sporting triumphs and famous former pupils to fire, war and demolition, discover the remarkable history of Glasgow's long-lost Queen's Park Secondary School.",
         "published": "Sun, 30 Aug 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21375682/?type=app&htype=0"
-      },
-      {
-        "id": "a78be07989605873c2e72e4dd77c0b5f",
-        "title": "Glasgow play from Springburn writer examines motherhood, community and racism",
-        "link": "https://www.glasgowtimes.co.uk/news/26503160.springburn-writer-eimi-quinn-motherhood-racism-glasgow/",
-        "description": "Playwright \u00c9imi Quinn's new dark comedy Ready Tae Drap brings three very different women together in a stuck lift, exploring motherhood, community and changing attitudes in Glasgow.",
-        "published": "Sun, 30 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21383063/?type=app&htype=0"
-      },
-      {
-        "id": "40cf5ee5ed5f0e7341011d812a8d8d05",
-        "title": "Fire scam landlord allowed to keep renting out Glasgow flat",
-        "link": "https://www.glasgowtimes.co.uk/news/26505191.fire-scam-landlord-allowed-keep-renting-glasgow-flat/",
-        "description": "A man who was jailed for his part in setting a family shop on fire in a failed insurance scam can keep operating as a landlord in Glasgow.",
-        "published": "Sun, 30 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20007287/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
