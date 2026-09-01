@@ -994,6 +994,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "24340ff8f7f8d801526f6a7719264b86",
+        "title": "38-year-old Glasgow group that helps hundreds with disabilities could close in months",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26509350.glasgow-riding-disabled-association-risk-closure/",
+        "description": "Glasgow Riding for the Disabled Association is at risk of closure, it has been announced.",
+        "published": "Tue, 01 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21393164/?type=app&htype=0"
+      },
+      {
         "id": "188f8f63e7d03da5825c9d0bf60be060",
         "title": "Popular restaurant to open new function suite for weddings and events",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26507340.grove-bar-open-new-function-suite-weddings-events/",
@@ -1252,6 +1260,38 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "bf5b8fd211979763f04cb5a0787a5e7c",
+        "title": "LIVE updates amid major ongoing emergency incident in Glasgow city centre",
+        "link": "https://www.glasgowtimes.co.uk/news/26509940.live-updates-amid-major-ongoing-emergency-incident-sauchiehall-street/",
+        "description": "A major emergency incident is underway in Glasgow city centre.",
+        "published": "Tue, 01 Sep 2026 06:12:59 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21394013/?type=app&htype=0"
+      },
+      {
+        "id": "24340ff8f7f8d801526f6a7719264b86",
+        "title": "38-year-old Glasgow group that helps hundreds with disabilities could close in months",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26509350.glasgow-riding-disabled-association-risk-closure/",
+        "description": "Glasgow Riding for the Disabled Association is at risk of closure, it has been announced.",
+        "published": "Tue, 01 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21393164/?type=app&htype=0"
+      },
+      {
+        "id": "aa230e8874bd2faf3b694b0b6a572b77",
+        "title": "John Swinney slams Andy Burnham as he claims the UK is 'falling apart'",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26508834.john-swinney-slams-andy-burnham-claiming-uk-falling-apart/",
+        "description": "John Swinney has slammed Andy Burnham as he claimed the UK is 'falling apart'.",
+        "published": "Tue, 01 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21227195/?type=app&htype=0"
+      },
+      {
+        "id": "043d4e2c7028fd0a48faf949c39ea7f8",
+        "title": "Delays in sexual offence cases mean some survivors 'won't be here to see justice'",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26509492.glasgow-clyde-rape-crisis-back-calls-safer-city/",
+        "description": "Delays in sexual offence cases mean some survivors \u201cwon\u2019t even be here to see justice being done\u201d or will \u201cdisengage due to the emotional toll\u201d,\u00a0Glasgow\u2019s rape crisis centre has said.",
+        "published": "Tue, 01 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21393001/?type=app&htype=0"
+      },
       {
         "id": "dbfa0bce39a5d2ff7f4d120e604e93c0",
         "title": "Police Scotland faces 'significant challenge' as 2,915 officers on restricted duties",
@@ -2019,38 +2059,6 @@
         "description": "Police have taped off a Glasgow street following an incident.",
         "published": "Sun, 30 Aug 2026 08:12:07 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21389123/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/real-life/woodland-cycling-route-feels-like-34519555",
-        "title": "Woodland cycling route feels like 'Harry Potter film' is less than 2 hours from Glasgow",
-        "link": "https://www.glasgowlive.co.uk/news/real-life/woodland-cycling-route-feels-like-34519555",
-        "description": "You can experience one of Scotland's most unique adventure tours where you will take a water taxi with your bike before embarking on a very exciting cycling route",
-        "published": "Sun, 30 Aug 2026 06:05:00 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/real-life/article34519554.ece/ALTERNATES/s98/0_Solo-female-cyclist-takes-the-road-less-travelled.jpg"
-      },
-      {
-        "id": "8620e3998e57c96ddad8199a42224e7d",
-        "title": "Judge's eyebrows 'raised' as Glasgow drug dealer repeatedly freed by police",
-        "link": "https://www.glasgowtimes.co.uk/news/26502947.judges-eyebrows-raised-glasgow-dealer-repeatedly-freed-police/",
-        "description": "A drug dealer who was repeatedly freed by police is now back behind bars.",
-        "published": "Sun, 30 Aug 2026 06:59:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/14318447/?type=app&htype=0"
-      },
-      {
-        "id": "49fc06e93ee8bb96ee0186981e935736",
-        "title": "My hours fell from 32 to 8 overnight': Glasgow mum's zero-hours reality",
-        "link": "https://www.heraldscotland.com/news/26505761.glasgow-mum-reveals-reality-working-zero-hours-contract/",
-        "description": "Glasgow care worker Catriona describes the financial strain of zero-hours work after seeing her weekly hours suddenly fall from 32 to just eight.",
-        "published": "Sun, 30 Aug 2026 06:38:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21386923/?type=app&htype=0"
-      },
-      {
-        "id": "364ef01a58ca10efb1413b2d42dedd3d",
-        "title": "The story of lost Glasgow school with impressive list of famous former pupils",
-        "link": "https://www.glasgowtimes.co.uk/news/26498113.story-glasgows-lost-queens-park-school-star-ex-pupils/",
-        "description": "From sporting triumphs and famous former pupils to fire, war and demolition, discover the remarkable history of Glasgow's long-lost Queen's Park Secondary School.",
-        "published": "Sun, 30 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21375682/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
