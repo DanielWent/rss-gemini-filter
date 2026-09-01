@@ -1269,6 +1269,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-charity-helping-disabled-residents-34547492",
+        "title": "Glasgow charity helping disabled residents under threat unless they raise \u00a3100k",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-charity-helping-disabled-residents-34547492",
+        "description": "Glasgow Riding for the Disabled Association is looking to raise \u00a3100,000 to plug a funding black hole.",
+        "published": "Tue, 1 Sep 2026 07:05:40 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34547570.ece/ALTERNATES/s98/0_Volunteers-Funday-July-26JPG.jpg"
+      },
+      {
+        "id": "8951723",
+        "title": "Scott Brown suggests Celtic transfer move over 'powerful' star rival will struggle to keep beyond deadline day",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/scott-brown-suggests-celtic-transfer-move-over-powerful-star-rival-will-struggle-to-keep-beyond-deadline-day-8951723",
+        "description": "<p>Former Hoops captain has a transfer suggestion for his old club</p>",
+        "published": "Tue, 01 Sep 2026 07:00:42 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/31/16/35/GettyImages-2258920362-(1).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "8951569",
+        "title": "Rangers target former Birmingham City and West Ham United star in late transfer swoop as 'talks could evolve'",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-target-former-birmingham-city-and-west-ham-united-star-in-late-summer-transfer-swoop-as-talks-could-evolve-8951569",
+        "description": "<p>Premiership rival is \u2018looking for a departure\u2019 from current club</p>",
+        "published": "Tue, 01 Sep 2026 07:00:13 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/31/15/28/GettyImages-1899818532.jpeg?width=1200&auto=webp&trim=0%2C0%2C1%2C0"
+      },
+      {
+        "id": "8952083",
+        "title": "Fire crews tackle derelict building blaze on Sauchiehall Street",
+        "link": "https://www.glasgowworld.com/news/emergency-incident/fire-crews-tackle-derelict-building-blaze-on-sauchiehall-street-8952083",
+        "description": "<p>Road closures are in place due to the fire.</p>",
+        "published": "Tue, 01 Sep 2026 06:54:33 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/01/6/31/onecms_3f9c66ea-57a0-4952-b13e-698593467d22.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C1"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/very-little-protection-bail-says-34546623",
+        "title": "'Very little' protection from bail says campaigner pushing for GPS monitoring after Stacy Hunter murder",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/very-little-protection-bail-says-34546623",
+        "description": "&quot;Bail conditions mean very little if a breach is only discovered after someone has already been harmed&quot;",
+        "published": "Tue, 1 Sep 2026 06:52:15 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34520640.ece/ALTERNATES/s98/1_JS413724983.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-workers-walk-out-34532887",
         "title": "Glasgow council workers 'walk out in tears' as thousands to be cut from wages over 'equal pay'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-workers-walk-out-34532887",
@@ -1283,6 +1323,14 @@
         "description": "Emergency services were alerted to the blaze at the derelict building on Sauchiehall Street on Tuesday",
         "published": "Tue, 01 Sep 2026 06:16:14 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2021/11/965c5f404bb8309fc9a1d8d6169b169e-1084x720.jpg"
+      },
+      {
+        "id": "973713bbf7324b9c9aa04a44cd57c7bf",
+        "title": "Glasgow train disruption as fault shuts busy route in city",
+        "link": "https://www.heraldscotland.com/news/26509964.cathcart-circle-trains-off-glasgow-due-fault-line/",
+        "description": "Trains on a busy route in Glasgow are off for the morning rush on Tuesday due to a fault being detected",
+        "published": "Tue, 01 Sep 2026 07:12:23 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21103667/?type=app&htype=0"
       },
       {
         "id": "0406f3cd36e847a3c0391a61899c7650",
@@ -2019,54 +2067,6 @@
         "description": "The programme will set out a roadmap of the Government\u2019s priorities for the rest of the parliamentary term until",
         "published": "Sun, 30 Aug 2026 16:11:18 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21390076/?type=app&htype=0"
-      },
-      {
-        "id": "15f8e41c49df7a6bc7993b789c03ad3e",
-        "title": "M8 in Glasgow reopens after man dies in fall from bridge",
-        "link": "https://www.heraldscotland.com/news/26507804.m8-glasgow-reopens-man-dies-fall-bridge/",
-        "description": "Part of a major motorway through Glasgow has reopened after it was closed when a man fell to his death from a bridge.",
-        "published": "Sun, 30 Aug 2026 15:46:20 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20567101/?type=app&htype=0"
-      },
-      {
-        "id": "8949988",
-        "title": "Rangers player ratings vs Aberdeen: Two score 8/10 as Ibrox skipper eases heat on McInnes amid VAR controversy",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-player-ratings-aberdeen-two-810-ibrox-skipper-eases-heat-mcinnes-var-controversy-8949988",
-        "description": "<p>How we rated the Rangers players at Pittodrie as Lawrence Shankland\u2019s spot-kick proves decisive against the Dons</p>",
-        "published": "Sun, 30 Aug 2026 14:06:08 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/30/13/09/21776228.jpeg?width=1200&auto=webp&trim=84%2C0%2C84%2C0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/iconic-rangers-bar-given-send-34542066",
-        "title": "Iconic Rangers bar given send-off as it prepares to close its doors for the last time",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/iconic-rangers-bar-given-send-34542066",
-        "description": "&quot;A massive thank you guys, it\u2019s been a pleasure to have yous play one last time.&quot;",
-        "published": "Sun, 30 Aug 2026 13:59:39 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34542332.ece/ALTERNATES/s98/0_Screenshot-36.png"
-      },
-      {
-        "id": "d9204ebbc60f63c1eb979b1b5a12c658",
-        "title": "Restored 'only surviving' competition's posters to go on display after 134 years",
-        "link": "https://www.glasgowtimes.co.uk/news/26507730.restored-1890s-royal-m-d-posters-go-display-fort-william/",
-        "description": "Two rare posters advertising the first Royal National M\u00f2ds are to return to public display after undergoing a major restoration project.",
-        "published": "Sun, 30 Aug 2026 14:50:49 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21389835/?type=app&htype=0"
-      },
-      {
-        "id": "bff5a98676852a50443478d8307cfe1a",
-        "title": "Manhunt underway after teenager 'stabbed' on Glasgow street",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26507711.999-response-teen-stabbed-glasgows-kerr-street/",
-        "description": "A manhunt is underway after a teenager was 'stabbed' on a street in Glasgow\u2019s East End.",
-        "published": "Sun, 30 Aug 2026 14:33:50 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17424835/?type=app&htype=0"
-      },
-      {
-        "id": "ba283faa48b74e25cc81ad1e5829ca39",
-        "title": "As renewal season looms, not all golf club members are equal",
-        "link": "https://www.heraldscotland.com/news/26504032.golf-club-membership-numbers-dont-tell-full-story/",
-        "description": "Overall membership is holding up at many Scottish golf clubs, but the full-fee golfers who underpin finances are a much smaller group",
-        "published": "Sun, 30 Aug 2026 13:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21385773/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
