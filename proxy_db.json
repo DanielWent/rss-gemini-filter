@@ -1269,6 +1269,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-worker-who-stole-34550807",
+        "title": "Glasgow council worker who stole laptops for vulnerable people worth \u00a3120k sentenced",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-worker-who-stole-34550807",
+        "description": "Bobby Lee Smith, 37, stole 129 Chromebook laptops and 301 iPads earmarked for people who were low income and others who were &quot;digitally excluded&quot;.",
+        "published": "Tue, 1 Sep 2026 13:49:20 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34325507.ece/ALTERNATES/s98/0_JS330634601-2.jpg"
+      },
+      {
+        "id": "f4d8a53cd04c89db2040a82e4c39954c",
+        "title": "Boys\u2019 Brigade sees strong demand as new session begins across Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26512298.glasgow-boys-brigade-sees-strong-demand-places/",
+        "description": "The Boys\u2019 Brigade is experiencing encouraging demand for places as it kicks off a new session.",
+        "published": "Tue, 01 Sep 2026 14:47:36 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21396920/?type=app&htype=0"
+      },
+      {
+        "id": "1ee153029751ac03b4ab7684c11d6fce",
+        "title": "Council hits out at 'entirely false' claims that refugees are prioritised for housing",
+        "link": "https://www.heraldscotland.com/politics/westminster/26512126.edinburgh-rejects-false-refugee-housing-priority-claims/",
+        "description": "Addressing \"misinformation\" circulating online, the council confirmed it does not house asylum seekers, as this is a matter reserved to the Home Office.",
+        "published": "Tue, 01 Sep 2026 14:33:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18304613/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/scots-cops-administer-lifesaving-naloxone-34550206",
+        "title": "Scots cops administer 'lifesaving' Naloxone 1,300 times over last five years",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/scots-cops-administer-lifesaving-naloxone-34550206",
+        "description": "The medication can buy vital time for someone who has overdosed.",
+        "published": "Tue, 1 Sep 2026 13:24:30 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34550906.ece/ALTERNATES/s98/2_Naloxone.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=527275",
         "title": "Flats blocks built in Greenock with unsafe RAAC to be demolished",
         "link": "https://news.stv.tv/west-central/flats-blocks-built-in-greenock-with-unsafe-raac-to-be-demolished",
@@ -1285,20 +1317,20 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/b13cd2c919e8772cc993c92a5828bca4-1788268445-1280x635.jpg"
       },
       {
+        "id": "19af1e82b91e2a4c2d4bf97e07fcd9de",
+        "title": "The Scottish jobs most at risk of AI automation in 2026",
+        "link": "https://www.glasgowtimes.co.uk/news/26512107.scottish-jobs-risk-ai-automation-2026/",
+        "description": "Artificial intelligence is reshaping the Scottish labour market, but some jobs are considerably more exposed to AI automation than others.",
+        "published": "Tue, 01 Sep 2026 14:18:29 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21396736/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/glasgow-opening-date-set-noodle-34549848",
         "title": "Glasgow opening date set for Noodle Inn as much-hyped London brand heads to Scotland",
         "link": "https://www.glasgowlive.co.uk/whats-on/glasgow-opening-date-set-noodle-34549848",
         "description": "Set to launch this month, the chain is bringing its traditional hand-pulled noodles and viral Chinese burgers to Byres Road.",
         "published": "Tue, 1 Sep 2026 13:17:22 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34550177.ece/ALTERNATES/s98/0_Noodle-Inn.png"
-      },
-      {
-        "id": "8953459",
-        "title": "Manhunt launched after woman assaulted in Glasgow park",
-        "link": "https://www.glasgowworld.com/news/manhunt-launched-after-woman-assaulted-in-glasgow-park-8953459",
-        "description": "<p>A manhunt has been launched after a woman was assaulted in a Glasgow park</p>",
-        "published": "Tue, 01 Sep 2026 13:17:03 GMT",
-        "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOmMxMDk1OGNkLTFkOTYtNDRhZS05Y2M0LWRjZWRmNmIzNzhmNzo0OGNiYzY0Ny01ZjRjLTRiNDktYjFlZi1lOTRjMTQyZDQ0NjM=.jpg?width=1200&auto=webp&crop=3%3A2"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/plan-new-barrhead-flats-set-34550748",
@@ -1333,6 +1365,14 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/01/12/53/HRHojkKXQAE1L98.jpeg?width=1200&auto=webp&trim=1200%2C0%2C1200%2C0"
       },
       {
+        "id": "2c2365d3bb78c3a8c1433f95fb4cc142",
+        "title": "Scotland-wide search launched for emerging African music talent",
+        "link": "https://www.heraldscotland.com/news/26511911.scotland-wide-search-launched-emerging-african-music-talent/",
+        "description": "A Scotland-wide search has been launched to discover and champion the next generation of African music talent in Scotland",
+        "published": "Tue, 01 Sep 2026 13:51:05 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21396625/?type=app&htype=0"
+      },
+      {
         "id": "2c4f24d8a02798cce8d0bb6aa15a971c",
         "title": "Draft article: Aidan Maxwell 2026-09-01 13:48",
         "link": "https://www.glasgowtimes.co.uk/news/26511895.draft-article-aidan-maxwell-2026-09-01-13-48/",
@@ -1349,6 +1389,14 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34546665.ece/ALTERNATES/s98/2_Generic-police-picture.jpg"
       },
       {
+        "id": "6bd89c91e006b9613443b2ff93c86efe",
+        "title": "Complaints after woman 'ordered to remove Palestine scarf' misses her own court day",
+        "link": "https://www.heraldscotland.com/news/26509975.complaints-woman-ordered-remove-palestine-scarf/",
+        "description": "Yvonne Ridley is one of more than 30 defendants who were cited in relation to a protest which took place in Edinburgh in July 2025 for allegedly showing support for Palestine Action",
+        "published": "Tue, 01 Sep 2026 13:45:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21370210/?type=app&htype=0"
+      },
+      {
         "id": "711e55574d701bab5cc20cd51605666d",
         "title": "LIVE updates as NO TRAINS on busy line for hours due to defective track",
         "link": "https://www.glasgowtimes.co.uk/news/26511878.live-updates-trains-bellgrove-springburn-cancelled/",
@@ -1363,6 +1411,14 @@
         "description": "A new chair has been appointed at the head of a major Scottish housing and property-management group.",
         "published": "Tue, 01 Sep 2026 13:33:08 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21396358/?type=app&htype=0"
+      },
+      {
+        "id": "a0cd6ed57a404124b3db4580f1b0b220",
+        "title": "Glasgow music and nightlife mogul claims city is a 'broken mess'",
+        "link": "https://www.heraldscotland.com/news/26509867.glasgow-music-nightlife-mogul-claims-city-broken-mess/",
+        "description": "A Glasgow music and nightlife mogul has claimed that the city is a \"broken mess\" in an interview with a former prime minister",
+        "published": "Tue, 01 Sep 2026 12:58:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21259576/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/river-city-fans-left-bawling-34549700",
@@ -1475,14 +1531,6 @@
         "description": "An injured person was rescued by firefighters this morning following a crash.",
         "published": "Tue, 01 Sep 2026 11:03:03 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/16685861/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=527234",
-        "title": "Man who stole \u00a3124,000 worth of iPads and laptops from NHS and council body avoids jail",
-        "link": "https://news.stv.tv/west-central/man-who-stole-124000-worth-of-ipads-and-laptops-from-nhs-and-council-body-avoids-jail",
-        "description": "Bobby Lee Smith took the devices that were for vulnerable people during the Covid pandemic",
-        "published": "Tue, 01 Sep 2026 09:51:43 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2025/08/a69dc2c86202651088d5b564bcc4582b-1756384900-1080x720.jpeg"
       },
       {
         "id": "5b7aab82cf90de5baae15114ea192d80",
@@ -1829,14 +1877,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20403891/?type=app&htype=0"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/c305nq64638o#0",
-        "title": "Greenock homes built with unsafe Raac to be demolished",
-        "link": "https://www.bbc.co.uk/news/articles/c305nq64638o?at_medium=RSS&at_campaign=rss",
-        "description": "Seven blocks of flats, known locally as The Stilts, have been found to contain potentially dangerous  reinforced autoclaved aerated concrete.",
-        "published": "Mon, 31 Aug 2026 14:24:39 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f6c/live/a37e0530-a475-11f1-aed2-8d6da8d75094.jpg"
-      },
-      {
         "id": "cfb01b0a02f56bcb6b15367f5c1a8f0b",
         "title": "Ministers promise more Scots treated at home as part of new hospital flow plan",
         "link": "https://www.glasgowtimes.co.uk/news/26509322.ministers-promise-scots-treated-home-part-new-flow-plan/",
@@ -1851,14 +1891,6 @@
         "description": "A teenage boy was taken to hospital after he was stabbed in Glasgow. The 17-year-old was attacked on Kerr Street at around 10.25pm on Saturday, August 29.",
         "published": "Mon, 31 Aug 2026 15:05:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/17424835/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=527187",
-        "title": "Manhunt launched after woman attacked in Glasgow park",
-        "link": "https://news.stv.tv/west-central/manhunt-launched-after-woman-attacked-in-glasgow-park",
-        "description": "Emergency services were called to Robroyston Park near to Bishopmill Road at around 8.50am on Monday",
-        "published": "Mon, 31 Aug 2026 14:04:27 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2022/08/1c33ec49bfef3c79b50308cb8405b3e6-1661194507.jpg"
       },
       {
         "id": "474dc90522b839c5f5ad5fe27c7d8033",
@@ -2035,38 +2067,6 @@
         "description": "Roadworks on Glasgow\u2019s Duke Street have been extended again, with temporary traffic lights now set to remain until October as delays continue to affect one of the city\u2019s busiest routes.",
         "published": "Mon, 31 Aug 2026 09:59:57 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20023077/?type=app&htype=0"
-      },
-      {
-        "id": "e13460a994297910573944a356169acf",
-        "title": "Major road in Glasgow shut for hours after cyclist struck by vehicle",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26508332.cyclist-struck-vehicle-glasgows-great-western-road/",
-        "description": "A major route through Glasgow's West End was shut for three hours after a cyclist was struck by a vehicle.",
-        "published": "Mon, 31 Aug 2026 09:39:10 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17424835/?type=app&htype=0"
-      },
-      {
-        "id": "8950618",
-        "title": "Wolves star told he 'won\u2019t be part of the team' in honest Molineux verdict amid Celtic transfer rumours",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/wolves-star-wont-be-part-of-team-honest-molineux-verdict-celtic-transfer-rumours-8950618",
-        "description": "<p>Celtic are said to be in the mix for a Wolves player this summer transfer window.</p>",
-        "published": "Mon, 31 Aug 2026 07:08:43 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2024/08/30/9/32/GettyImages-2025343249.jpeg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "5235b5339857112a5637066019b9ac45",
-        "title": "\u2018This is the people\u2019s show\u2019: Big Art Show brings community spirit to Paisley",
-        "link": "https://www.heraldscotland.com/life_style/26507814.big-art-show-brings-hundreds-paisley-artists-showcase-work/",
-        "description": "The Big Art Show returned to Paisley with more than 300 guests at its opening, featuring emerging and established artists, award-winning artwork and a fundraiser for Renfrewshire Disability Arts Forum.",
-        "published": "Mon, 31 Aug 2026 08:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21390036/?type=app&htype=0"
-      },
-      {
-        "id": "35c10f35df0c83f3390bae21142eb3d2",
-        "title": "John Swinney urged to intervene amid 17-week Glasgow college strike",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26508152.union-urge-john-swinney-intervene-city-glasgow-college-strike/",
-        "description": "Unions have called on First Minister John Swinney to intervene in a long-running City of Glasgow College strike over health and safety concerns in its welding department.",
-        "published": "Mon, 31 Aug 2026 07:36:03 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21109439/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
