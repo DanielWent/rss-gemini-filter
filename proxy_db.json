@@ -1269,6 +1269,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/urgent-search-missing-glasgow-man-34551645",
+        "title": "Urgent search for missing Glasgow man last seen at Edinburgh train station",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/urgent-search-missing-glasgow-man-34551645",
+        "description": "31-year-old Ehsan Asadi was last seen around 5am on Monday.",
+        "published": "Tue, 1 Sep 2026 14:34:26 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34551727.ece/ALTERNATES/s98/2_ehsan-asadi.jpg"
+      },
+      {
+        "id": "a4f8a918d695ec0eb927d30192261409",
+        "title": "Bus fares across west of Scotland to be capped starting next week",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26512626.john-swinney-confirms-2-bus-fares-glasgow-west-scotland/",
+        "description": "Bus fares capped at \u00a32 across the west of Scotland and a radical overhaul of Scotland's NHS are among the headline measures unveiled by John Swinney in his latest Programme for Government.",
+        "published": "Tue, 01 Sep 2026 15:33:49 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16646860/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/red-arrows-scotland-weekend-its-34551290",
         "title": "Red Arrows are in Scotland this weekend and it's the last time to see them near Glasgow this year",
         "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/red-arrows-scotland-weekend-its-34551290",
@@ -2051,22 +2067,6 @@
         "description": "<p>Hoops are targeting several new additions before Wednesday\u2019s Deadline Day</p>",
         "published": "Mon, 31 Aug 2026 11:00:12 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/31/7/48/GettyImages-2272090951.jpeg?width=1200&auto=webp&trim=95%2C0%2C95%2C0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-41-rushed-hospital-after-34544934",
-        "title": "Man, 41, rushed to hospital after Govanhill attack as police tape off close",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-41-rushed-hospital-after-34544934",
-        "description": "A uniformed officer was standing guard outside a close on Allison Street.",
-        "published": "Mon, 31 Aug 2026 10:16:59 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34545113.ece/ALTERNATES/s98/0_Screenshot-2026-08-31-104623.png"
-      },
-      {
-        "id": "cd11dc6182b6b65e750a5c993de2e030",
-        "title": "Woman who caused Springburn street evacuation due to toxic gas is sentenced",
-        "link": "https://www.glasgowtimes.co.uk/news/26508540.woman-sentenced-springburn-toxic-gas-evacuation/",
-        "description": "A woman who caused a street to be evacuated after creating chlorine gas in her home walked free from court today.",
-        "published": "Mon, 31 Aug 2026 10:46:25 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21391349/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
