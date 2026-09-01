@@ -1269,6 +1269,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8953386",
+        "title": "Anger after historic Glasgow city centre cast-ironworks destroyed during demolition",
+        "link": "https://www.glasgowworld.com/news/anger-after-historic-glasgow-city-centre-cast-ironworks-destroyed-during-demolition-8953386",
+        "description": "<p>Anger as historic Glasgow city centre cast-ironworks destroyed during demolition</p>",
+        "published": "Tue, 01 Sep 2026 12:53:26 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/01/12/53/HRHojkKXQAE1L98.jpeg?width=1200&auto=webp&trim=1200%2C0%2C1200%2C0"
+      },
+      {
+        "id": "2c4f24d8a02798cce8d0bb6aa15a971c",
+        "title": "Draft article: Aidan Maxwell 2026-09-01 13:48",
+        "link": "https://www.glasgowtimes.co.uk/news/26511895.draft-article-aidan-maxwell-2026-09-01-13-48/",
+        "description": "",
+        "published": "Tue, 01 Sep 2026 13:48:12 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images//?type=app&htype="
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/manhunt-continues-after-glasgow-woman-34550608",
+        "title": "Manhunt continues after Glasgow woman attacked in park",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/manhunt-continues-after-glasgow-woman-34550608",
+        "description": "Officers are searching for a male suspect described as white, aged 18 to 21 years old, approximately 5ft 6in tall, with short red/brown hair.",
+        "published": "Tue, 1 Sep 2026 12:45:28 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34546665.ece/ALTERNATES/s98/2_Generic-police-picture.jpg"
+      },
+      {
+        "id": "711e55574d701bab5cc20cd51605666d",
+        "title": "LIVE updates as NO TRAINS on busy line for hours due to defective track",
+        "link": "https://www.glasgowtimes.co.uk/news/26511878.live-updates-trains-bellgrove-springburn-cancelled/",
+        "description": "Due to a speed restriction over defective track between Bellgrove and Duke Street the line is closed",
+        "published": "Tue, 01 Sep 2026 13:44:38 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21173123/?type=app&htype=0"
+      },
+      {
+        "id": "09acefe22c18590649467362473b181b",
+        "title": "Former Auditor General appointed chair of major housing and property-management group",
+        "link": "https://www.glasgowtimes.co.uk/news/26511828.former-auditor-general-named-new-chair-wheatley-group/",
+        "description": "A new chair has been appointed at the head of a major Scottish housing and property-management group.",
+        "published": "Tue, 01 Sep 2026 13:33:08 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21396358/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/river-city-fans-left-bawling-34549700",
         "title": "River City fans left 'bawling' as iconic soap airs final ever episode after 24 years",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/river-city-fans-left-bawling-34549700",
@@ -2027,46 +2067,6 @@
         "description": "A business that started \u201cfrom nothing\u201d in a horse stable nearly a decade ago is up for a top award.",
         "published": "Mon, 31 Aug 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21386717/?type=app&htype=0"
-      },
-      {
-        "id": "b9e93f59062927196ff51ed04fce3a33",
-        "title": "Ward by ward - increase in rape cases across Glasgow in five years",
-        "link": "https://www.glasgowtimes.co.uk/news/26505369.rape-cases-rise-across-glasgow-five-years-area-area/",
-        "description": "Rape cases have increased in areas all across Glasgow in the last five years.",
-        "published": "Mon, 31 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21370214/?type=app&htype=0"
-      },
-      {
-        "id": "a5a37414590726e8196fff8e2baefda1",
-        "title": "John Swinney 'considering health board cull' as NHS 'fighting for survival'",
-        "link": "https://www.heraldscotland.com/news/26507900.fm-looks-health-board-cull-nhs-fighting-survival/",
-        "description": "First Minister John Swinney is considering cutting the number of health boards amid warnings the NHS is \"fighting for survival\".",
-        "published": "Mon, 31 Aug 2026 05:03:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21390189/?type=app&htype=0"
-      },
-      {
-        "id": "63b8c68fb9a381f0b561a333af282472",
-        "title": "Business leaders challenge Swinney over Scotland's tax burden",
-        "link": "https://www.heraldscotland.com/news/26506647.scotland-at-risk-falling-behind-uk-tax-business/",
-        "description": "Scotland risks falling behind the rest of the UK unless ministers cut taxes and reduce the cost of doing business, the Scottish Chamber of Commerce has warned.",
-        "published": "Mon, 31 Aug 2026 05:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20414405/?type=app&htype=0"
-      },
-      {
-        "id": "6a07d35bfe002a6baa8813d2f94a26aa",
-        "title": "As summer fades, Scotland's businesses are still waiting for certainty",
-        "link": "https://www.heraldscotland.com/opinion/26504273.summer-fades-businesses-still-waiting-stability/",
-        "description": "Scottish businesses need certainty to invest, hire and grow. Ministers must focus on costs, infrastructure and skills to unlock growth",
-        "published": "Mon, 31 Aug 2026 04:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/17877389/?type=app&htype=0"
-      },
-      {
-        "id": "b62a137ef84ca4824dc2c1c0c9f9e315",
-        "title": "Loch Lomond and The Trossachs becomes Scotland\u2019s most expensive national park",
-        "link": "https://www.heraldscotland.com/news/26503483.loch-lomond-named-scotlands-priciest-national-park-homes/",
-        "description": "Loch Lomond and The Trossachs has the highest average house price of any Scottish national park, with homes now costing \u00a3330,000 on average.",
-        "published": "Mon, 31 Aug 2026 00:05:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21174074/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
