@@ -1269,6 +1269,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=527212",
+        "title": "First baby identified through Scotland\u2019s Spinal Muscular Atrophy screening programme starts treatment",
+        "link": "https://news.stv.tv/west-central/first-baby-identified-through-scotlands-spinal-muscular-atrophy-screening-programme-starts-treatment",
+        "description": "The baby was tested for the rare genetic condition, that can cause progressive muscle weakness and affect movement, breathing and swallowing, at just five days old",
+        "published": "Tue, 01 Sep 2026 07:48:11 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2023/03/eada5c016f7b9e2dfbae53d33ca29daa-1679995450-1080x720.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-charity-helping-disabled-residents-34547492",
         "title": "Glasgow charity helping disabled residents under threat unless they raise \u00a3100k",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-charity-helping-disabled-residents-34547492",
@@ -1291,14 +1299,6 @@
         "description": "<p>Premiership rival is \u2018looking for a departure\u2019 from current club</p>",
         "published": "Tue, 01 Sep 2026 07:00:13 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/31/15/28/GettyImages-1899818532.jpeg?width=1200&auto=webp&trim=0%2C0%2C1%2C0"
-      },
-      {
-        "id": "8952083",
-        "title": "Fire crews tackle derelict building blaze on Sauchiehall Street",
-        "link": "https://www.glasgowworld.com/news/emergency-incident/fire-crews-tackle-derelict-building-blaze-on-sauchiehall-street-8952083",
-        "description": "<p>Road closures are in place due to the fire.</p>",
-        "published": "Tue, 01 Sep 2026 06:54:33 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/01/6/31/onecms_3f9c66ea-57a0-4952-b13e-698593467d22.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C1"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/very-little-protection-bail-says-34546623",
@@ -1331,14 +1331,6 @@
         "description": "Trains on a busy route in Glasgow are off for the morning rush on Tuesday due to a fault being detected",
         "published": "Tue, 01 Sep 2026 07:12:23 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21103667/?type=app&htype=0"
-      },
-      {
-        "id": "0406f3cd36e847a3c0391a61899c7650",
-        "title": "LIVE updates as Glasgow Central trains UNABLE to run",
-        "link": "https://www.glasgowtimes.co.uk/news/26509962.live-updates-glasgow-central-trains-unable-run/",
-        "description": "Glasgow Central trains are unable to run this morning due to an ongoing issue.",
-        "published": "Tue, 01 Sep 2026 07:11:56 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19641035/?type=app&htype=0"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/cn74g1k6yxyo#0",
@@ -1389,14 +1381,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21394013/?type=app&htype=0"
       },
       {
-        "id": "24340ff8f7f8d801526f6a7719264b86",
-        "title": "38-year-old Glasgow group that helps hundreds with disabilities could close in months",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26509350.glasgow-riding-disabled-association-risk-closure/",
-        "description": "Glasgow Riding for the Disabled Association is at risk of closure, it has been announced.",
-        "published": "Tue, 01 Sep 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21393164/?type=app&htype=0"
-      },
-      {
         "id": "aa230e8874bd2faf3b694b0b6a572b77",
         "title": "John Swinney slams Andy Burnham as he claims the UK is 'falling apart'",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26508834.john-swinney-slams-andy-burnham-claiming-uk-falling-apart/",
@@ -1437,28 +1421,12 @@
         "image_url": "https://www.heraldscotland.com/resources/images/14167535/?type=app&htype=0"
       },
       {
-        "id": "75a486468b8cba81ea8193a559b03ff6",
-        "title": "Glasgow charity launches funding appeal as doors could close before Christmas",
-        "link": "https://www.heraldscotland.com/news/26508667.glasgow-disabled-horse-riding-charity-forced-close/",
-        "description": "A Glasgow disabled charity could be forced to shut its doors after a fall in funding and rising costs",
-        "published": "Tue, 01 Sep 2026 00:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21391607/?type=app&htype=0"
-      },
-      {
         "id": "https://www.bbc.co.uk/news/articles/cd684219x6do#0",
         "title": "'Baby Tommy's here, Chelsea's not': First-time mum dies in childbirth",
         "link": "https://www.bbc.co.uk/news/articles/cd684219x6do?at_medium=RSS&at_campaign=rss",
         "description": "Chelsea McGillivray, from Rutherglen, South Lanarkshire, fell into cardiac arrest during labour after what was believed to be a textbook pregnancy.",
         "published": "Mon, 31 Aug 2026 21:51:13 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1033/live/8ecd3330-a552-11f1-8689-6589354d0f8e.jpg"
-      },
-      {
-        "id": "4c775354251f3cd6f7bbb8982dbebffe",
-        "title": "Scotland split into two under John Swinney's major NHS shake-up",
-        "link": "https://www.heraldscotland.com/news/26509772.swinney-cut-scotlands-nhs-health-boards-14-two/",
-        "description": "Scotland\u2019s regional health boards are expected to be slashed from 14 to two under John Swinney\u2019s ambitious reform plans",
-        "published": "Mon, 31 Aug 2026 22:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20842220/?type=app&htype=0"
       },
       {
         "id": "fca4dc97fcf5c0839652938c0dd68379",
@@ -1491,14 +1459,6 @@
         "description": "Islay single malt Scotch whisky Ardbeg has unveiled its first permanent 15-year-old expression.",
         "published": "Mon, 31 Aug 2026 19:32:01 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21393598/?type=app&htype=0"
-      },
-      {
-        "id": "64e52d73b7f7d7dfe5285f73d4c3e5b1",
-        "title": "Speed bumps and bollards proposed for busy road near Glasgow park",
-        "link": "https://www.glasgowtimes.co.uk/news/26509804.traffic-calming-measures-installed-near-glasgow-park/",
-        "description": "Plans to introduce traffic calming measures on a busy road near a Glasgow Park have been proposed",
-        "published": "Mon, 31 Aug 2026 19:27:30 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19414256/?type=app&htype=0"
       },
       {
         "id": "77f2cb0f68afbfa616da1e40f3a803b2",
@@ -1539,14 +1499,6 @@
         "description": "Speaking about the perfectly square Lorne sausage, they said: &quot;We believe we've made the best square sausage to go in the best morning roll.&quot;",
         "published": "Mon, 31 Aug 2026 16:25:32 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34547009.ece/ALTERNATES/s98/0_863285d5-c4fd-4be2-a55e-2843cad44952-1jpeg.jpg"
-      },
-      {
-        "id": "f3b60a66e3df5ad19ce6d652496b19bc",
-        "title": "John Swinney's NHS health board shake-up could work. But there's a danger",
-        "link": "https://www.heraldscotland.com/news/26509637.danger-john-swinneys-nhs-health-board-shake-up/",
-        "description": "John Swinney's plan to cut the number of health boards could be exactly what Scotland needs. But there's a risk.",
-        "published": "Mon, 31 Aug 2026 17:02:29 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21393245/?type=app&htype=0"
       },
       {
         "id": "8951077",
