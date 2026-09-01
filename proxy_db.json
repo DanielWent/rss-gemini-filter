@@ -1285,6 +1285,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "2d6fbd135d1b5e0d90f48b33524f296b",
+        "title": "Man dies after emergency crews swarm busy Glasgow bus station",
+        "link": "https://www.glasgowtimes.co.uk/news/26513513.man-dies-police-tape-off-glasgow-bus-station/",
+        "description": "A man has died after emergency crews rushed to cordon off part of Buchanan Bus Station earlier today.",
+        "published": "Tue, 01 Sep 2026 18:57:49 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21398802/?type=app&htype=0"
+      },
+      {
         "id": "e59094fd24b3aa568684f10f92673fd0",
         "title": "LIVE updates as Glasgow bus station taped off by police",
         "link": "https://www.glasgowtimes.co.uk/news/26513504.live-updates-buchanan-bus-station-taped-off-police/",
@@ -1299,6 +1307,14 @@
         "description": "Emergency services raced to the scene at the former Jumpin Jaks nightclub overnight.",
         "published": "Tue, 1 Sep 2026 17:34:43 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34548405.ece/ALTERNATES/s98/792132834_2299500727255447_3718671803880890841_n.jpg"
+      },
+      {
+        "id": "38bbbabde653445b8f9cf7ff570494b0",
+        "title": "Fire at derelict Glasgow nightclub being treated as deliberate",
+        "link": "https://www.heraldscotland.com/news/26513489.police-say-fire-derelict-glasgow-nightclub-deliberate/",
+        "description": "The fire was reported at the old at the former Jumpin' Jaks on Sauchiehall Street at around 1:30am on Tuesday, September 1",
+        "published": "Tue, 01 Sep 2026 18:32:53 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21394063/?type=app&htype=0"
       },
       {
         "id": "ffa5e023e8a684ebd9f23dfdc662ba4c",
@@ -1483,14 +1499,6 @@
         "description": "The search for the person responsible for the deaths of two men in Glasgow's West End is continuing more than two weeks after their bodies were discovered in a flat.",
         "published": "Tue, 01 Sep 2026 16:01:27 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21341315/?type=app&htype=0"
-      },
-      {
-        "id": "027ae0010888904a9edb525a54602d73",
-        "title": "Locals fume at Rangers legend McCoist over luxury development appeal",
-        "link": "https://www.glasgowtimes.co.uk/sport/26512776.locals-fume-rangers-legend-mccoist-renfrewshire-application-appeal/",
-        "description": "Angry locals have vented their frustrations over Ally McCoist's decision to appeal against rejected plans for a luxury development in Bridge of Weir.",
-        "published": "Tue, 01 Sep 2026 15:54:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21397534/?type=app&htype=0"
       },
       {
         "id": "8f35bcf47c33c19fa128c73891d21ecb",
@@ -2075,14 +2083,6 @@
         "description": "The Quay Glasgow is celebrating 30 years since opening at Springfield Quay, with cinema, bowling, dining, gaming and family entertainment continuing to attract visitors.",
         "published": "Mon, 31 Aug 2026 15:49:27 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21392833/?type=app&htype=0"
-      },
-      {
-        "id": "03d2aac4cb63d6e83cd79f753af12533",
-        "title": "Teens attacked university students outside Glasgow McDonalds amid laughing claims",
-        "link": "https://www.heraldscotland.com/news/26509401.teens-attacked-three-glasgow-university-students-amid-laughing-claims/",
-        "description": "Two teenagers attacked three university students amid claims they were laughing at them. Dennin Stevenson, 19, and Ellie McQuade, 20, pounced on Harvey Stewart, 18, Daniel Halliday, 18, and Madison Wait, 19, in Glasgow's Maryhill on January 24, 2026.",
-        "published": "Mon, 31 Aug 2026 15:37:58 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/16196411/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
