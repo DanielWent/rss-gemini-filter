@@ -1293,6 +1293,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "0b8832468d60a1867be673b5507f2f2c",
+        "title": "Warning after water main erupts in residential area",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26513905.warning-water-main-erupts-kirkintilloch-area/",
+        "description": "Drivers have been warned that Merkland Drive has been closed following a burst water main in Kirkintilloch.",
+        "published": "Wed, 02 Sep 2026 08:25:12 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20496663/?type=app&htype=0"
+      },
+      {
         "id": "8953532",
         "title": "Glasgow transport: Here's when \u00a32 bus fare cap is being extended to Glasgow area",
         "link": "https://www.glasgowworld.com/news/heres-when-ps2-bus-fare-cap-is-being-extended-to-glasgow-area-8954862",
