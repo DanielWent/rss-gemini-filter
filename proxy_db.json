@@ -1293,12 +1293,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "d5d7566169ec7ec2a46a43cbd290edab",
+        "title": "Glasgow hospice praised for \u2018exceptional\u2019 care after surprise inspection",
+        "link": "https://www.glasgowtimes.co.uk/news/26514391.glasgow-hospice-praised-delivering-exceptional-care/",
+        "description": "A Glasgow hospice has been celebrated for delivering \"exceptional\" care.",
+        "published": "Wed, 02 Sep 2026 10:06:41 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21399917/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=527408",
         "title": "Ornate panels around public toilets on St Vincent Place \u2018smashed to pieces\u2019",
         "link": "https://news.stv.tv/west-central/ornate-panels-around-public-toilets-on-st-vincent-place-smashed-to-pieces",
         "description": "Councillor Ruairi Kelly said the panels were due to be retained for reuse elsewhere and was 'furious' they had been damaged",
         "published": "Wed, 02 Sep 2026 08:49:55 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/11bcd65bc68f5690d39b6244b7d9c8ff-1788338801-1120x720.jpg"
+      },
+      {
+        "id": "83283d6af1916d1ecac429cf9b2189d7",
+        "title": "Swinney guarantees no NHS redundancies but says public sector job losses inevitable",
+        "link": "https://www.heraldscotland.com/news/26514084.swinney-rules-compulsory-redundancies-nhs-shake/",
+        "description": "John Swinney has pledged no compulsory NHS redundancies even as he confirmed wider public sector job losses are unavoidable.",
+        "published": "Wed, 02 Sep 2026 09:18:38 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/17905245/?type=app&htype=0"
+      },
+      {
+        "id": "c0971c1cc91da047bcceecb42393529d",
+        "title": "Swinney's World Cup warning to Flynn about missing Aberdeen by-election",
+        "link": "https://www.heraldscotland.com/news/26514017.swinney-warned-flynn-by-election-world-cup-absence/",
+        "description": "John Swinney has refused to explain private concerns he raised about Economy Minister Stephen Flynn attending the World Cup during the Aberdeen South by-election.",
+        "published": "Wed, 02 Sep 2026 09:05:11 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20447947/?type=app&htype=0"
       },
       {
         "id": "8954860",
