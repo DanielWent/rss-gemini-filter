@@ -1293,6 +1293,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-nursery-staff-devastated-after-34553291",
+        "title": "Glasgow nursery staff 'devastated' after garden targeted by cruel vandals",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-nursery-staff-devastated-after-34553291",
+        "description": "&quot;This kind of vandalism is not a victimless act. It impacts our children, staff, families and damages spaces that are at the heart of our community.&quot;",
+        "published": "Wed, 2 Sep 2026 06:15:24 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34553396.ece/ALTERNATES/s98/0_d53c2469-ffc4-454a-bf40-ebc5ec387c6ejfif.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/1317-sex-offenders-living-glasgow-34551585",
+        "title": "1317 sex offenders living in Glasgow - here's how many are in your postcode",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/1317-sex-offenders-living-glasgow-34551585",
+        "description": "The latest data shows an increase since January 2025, along with a breakdown of Glasgow postcode areas.",
+        "published": "Wed, 2 Sep 2026 06:07:57 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34551642.ece/ALTERNATES/s98/0_Police-scotland-1.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/ayrshire-nurse-told-patient-behave-34549289",
+        "title": "Ayrshire nurse told patient to 'behave or I\u2019ll wrap you up and take you to the mortuary'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/ayrshire-nurse-told-patient-behave-34549289",
+        "description": "The nurse shouted and screamed at the woman mimicking her behavior before 'asking her how she likes it being shouted at' and branding her a 'horrible woman.'",
+        "published": "Wed, 2 Sep 2026 06:03:34 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34549762.ece/ALTERNATES/s98/0_JS38865660.jpg"
+      },
+      {
+        "id": "9341cfe59c2a4bf767742ad46ca66b5e",
+        "title": "LIVE updates amid ongoing emergency incident on major motorway",
+        "link": "https://www.glasgowtimes.co.uk/news/26513802.live-updates-amid-incident-m74-junction-4/",
+        "description": "Restrictions are in place on a major motorway amid an ongoing incident.",
+        "published": "Wed, 02 Sep 2026 06:57:06 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19861095/?type=app&htype=0"
+      },
+      {
         "id": "0b14563e54d5ba71deb18f367f791221",
         "title": "'We have waited nearly eight years' - Family hope talks with Vodafone bring answers",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26510849.family-seek-answers-vodafone-paisley-dads-death/",
