@@ -1317,6 +1317,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=527448",
+        "title": "Grandad threatened to cut vulnerable man\u2019s throat during robbery at ATM",
+        "link": "https://news.stv.tv/west-central/grandad-threatened-to-cut-vulnerable-mans-throat-during-robbery-at-atm",
+        "description": "Robert Laughland attacked the man with a walking stick after he used an ATM in Battlefield, Glasgow",
+        "published": "Wed, 02 Sep 2026 12:21:00 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2023/05/d170e81d0e58dcd0c17a1e144b2c6953-1683727170-1120x720.jpg"
+      },
+      {
+        "id": "ddfd08cd95f058944eb544ada467c2de",
+        "title": "Four primary schools to close early today- here's why",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26515691.four-kirkintilloch-primary-schools-close-early-today-amid-burst-pipe/",
+        "description": "Four primary schools in Kirkintilloch are set to close early today after a burst water main.",
+        "published": "Wed, 02 Sep 2026 13:10:47 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19461088/?type=app&htype=0"
+      },
+      {
         "id": "50c06e70c553faec94750866e55206b5",
         "title": "Husband-and-wife team hand over reins of Milngavie opticians after nearly two decades",
         "link": "https://www.glasgowtimes.co.uk/news/26515552.husband-and-wife-team-handing-reins-milngavie-specsavers/",
