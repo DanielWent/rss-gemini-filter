@@ -518,6 +518,22 @@
     "description": "AI Filtered Google Blog Updates.",
     "articles": [
       {
+        "id": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+        "title": "Proactive cyber defense for governments and enterprises",
+        "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+        "description": "Introducing Fairwind Program",
+        "published": "Wed, 02 Sep 2026 15:40:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp"
+      },
+      {
+        "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+        "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+        "description": "a hero image reading \"Gemini 3.8 Flash and 3.8 Flash Cyber\"",
+        "published": "Wed, 02 Sep 2026 15:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8_flash__blog__header_.max-600x600.format-webp.webp"
+      },
+      {
         "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
         "title": "Introducing agentic video understanding with Gemini",
         "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
@@ -1365,6 +1381,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21402151/?type=app&htype=0"
       },
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-taxi-driver-who-kicked-34558148",
+        "title": "Glasgow taxi driver who kicked child and threw milkshake at them loses licence bid",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-taxi-driver-who-kicked-34558148",
+        "description": "Police Scotland objected to the driver's licence renewal application after he was convicted of assault.",
+        "published": "Wed, 2 Sep 2026 15:47:56 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article24500642.ece/ALTERNATES/s98/5_JS146260889jp.jpg"
+      },
+      {
         "id": "05feb460ee12dec6a0c00d6bef5c6612",
         "title": "Free Glasgow festival returns to celebrate people in recovery from addiction",
         "link": "https://www.glasgowtimes.co.uk/news/26516759.people-make-recovery-event-returns-glasgow-green/",
@@ -1387,14 +1411,6 @@
         "description": "<p>The former Aston Villa goalkeeper has left Wolves for Celtic.</p>",
         "published": "Wed, 02 Sep 2026 15:00:10 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/04/09/13/59/GettyImages-2260852980.jpeg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "951275e4ff535f506fea941b26e93af0",
-        "title": "Seven arrested in 12 hours as Police Scotland launches city centre crackdown",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26516649.glasgow-city-centre-crackdown-leads-seven-arrests-12-hours/",
-        "description": "Several arrests have been made after police targeted violence, disorder and anti-social behaviour in Glasgow city centre.",
-        "published": "Wed, 02 Sep 2026 15:46:09 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21076724/?type=app&htype=0"
       },
       {
         "id": "93de09ff213f71da5676241bae93193c",
