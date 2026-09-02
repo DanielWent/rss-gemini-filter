@@ -1293,6 +1293,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8953532",
+        "title": "Glasgow transport: Here's when \u00a32 bus fare cap is being extended to Glasgow area",
+        "link": "https://www.glasgowworld.com/news/heres-when-ps2-bus-fare-cap-is-being-extended-to-glasgow-area-8954862",
+        "description": "<p>Move follows trial in Highlands launched in spring</p>",
+        "published": "Wed, 02 Sep 2026 07:20:19 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/02/7/07/MixCollage-02-Sep-2026-08-16-AM-4199.jpg?width=1200&auto=webp&trim=0%2C174%2C0%2C175"
+      },
+      {
+        "id": "https://news.stv.tv/?p=527397",
+        "title": "Ayrshire road closed in both directions following rush hour crash",
+        "link": "https://news.stv.tv/west-central/ayrshire-road-closed-in-both-directions-following-rush-hour-crash",
+        "description": "The incident occurred on the A737 north of Beith at around 6.45am on Wednesday.",
+        "published": "Wed, 02 Sep 2026 07:18:33 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2022/08/1c33ec49bfef3c79b50308cb8405b3e6-1661194507.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/paedophile-giffnock-lawyer-faces-being-34553879",
         "title": "Paedophile Giffnock lawyer faces being struck off after being allowed to keep working",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/paedophile-giffnock-lawyer-faces-being-34553879",
@@ -1333,6 +1349,30 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19861095/?type=app&htype=0"
       },
       {
+        "id": "27a9e5f1050cf51a8fb5c1004d19806b",
+        "title": "Transport boss won\u2019t apologise for calling SNP 'reckless' despite similar trams plan",
+        "link": "https://www.heraldscotland.com/news/26512743.edinburgh-transport-chief-stands-attack-snp-trams-plan/",
+        "description": "At the time, Councillor Jenkinson said that the plan was \u201cpremature and reckless\u201d, and accused the party of playing politics.",
+        "published": "Wed, 02 Sep 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20170230/?type=app&htype=0"
+      },
+      {
+        "id": "bb51a8924327948a67f7d894836ccebf",
+        "title": "The last thing Police Scotland needs is fewer people to scrutinise it",
+        "link": "https://www.heraldscotland.com/politics/viewpoint/26510684.last-thing-police-scotland-needs-fewer-people-scrutinise/",
+        "description": "There is a compelling case for fewer public bodies. There is a much weaker one for fewer voices, less scrutiny and more power concentrated at the centre, writes Calum Steele",
+        "published": "Wed, 02 Sep 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19202302/?type=app&htype=0"
+      },
+      {
+        "id": "3196b066aa1a84ea189e233e206bcb4e",
+        "title": "John Swinney intervenes in rates crisis threatening to sink Scots hydro energy",
+        "link": "https://www.heraldscotland.com/news/26513126.john-swinney-intervenes-scotland-hydro-business-rates-row/",
+        "description": "John Swinney has intervened in the business rates row threatening Scotland\u2019s hydro industry.",
+        "published": "Wed, 02 Sep 2026 06:29:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20765922/?type=app&htype=0"
+      },
+      {
         "id": "0b14563e54d5ba71deb18f367f791221",
         "title": "'We have waited nearly eight years' - Family hope talks with Vodafone bring answers",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26510849.family-seek-answers-vodafone-paisley-dads-death/",
@@ -1371,6 +1411,30 @@
         "description": "The West Dunbartonshire mental health charity is celebrating its 35th anniversary, but uncertainty over future funding continues to loom.",
         "published": "Wed, 02 Sep 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21394637/?type=app&htype=23"
+      },
+      {
+        "id": "bcf2d4f471f1fdc942c10a22dd7d0c46",
+        "title": "Edinburgh's festivals are turning 80. Here's what must change by 2027",
+        "link": "https://www.heraldscotland.com/news/26513458.seven-big-ideas-improve-edinburghs-festivals-80th-season/",
+        "description": "The Scottish Government taking responsibility, more support for home-grown talent, starting the Fringe early and making the streets more people-friendly and dressing up the city are all key to improving the festival experience.",
+        "published": "Wed, 02 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21229551/?type=app&htype=0"
+      },
+      {
+        "id": "959f12b88c17de6f8fe8b9d68f034d6c",
+        "title": "Cushions, footrests and docking stations: The cost of civil service hybrid working",
+        "link": "https://www.heraldscotland.com/news/26513467.cost-hybrid-working-scotlands-civil-service-revealed/",
+        "description": "This is how much the Scottish Government spent juggling its hybrid working policy and furnishing offices which are rarely used.",
+        "published": "Wed, 02 Sep 2026 05:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20555113/?type=app&htype=0"
+      },
+      {
+        "id": "5aea12f35cfbda5139f31e79ceae9729",
+        "title": "Doctors warn SNP health board cull could make NHS \u2018less safe\u2019",
+        "link": "https://www.heraldscotland.com/news/26513336.doctors-warn-snp-health-board-cull-make-nhs-less-safe/",
+        "description": "Doctors have raised patient safety concerns over SNP plans to slash Scotland's health boards, warning reforms must not become a cost-cutting exercise.",
+        "published": "Wed, 02 Sep 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20750994/?type=app&htype=0"
       },
       {
         "id": "3872ab17362921dc9d379298ec6bb0ab",
