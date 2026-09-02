@@ -641,6 +641,14 @@
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
       {
+        "id": "https://the5krunner.com/?p=128605",
+        "title": "Sugar Sense: Libre, Dexcom and Nightscout Glucose on Garmin",
+        "link": "https://the5krunner.com/2026/09/02/sugar-sense-libre-dexcom-and-nightscout-glucose-on-garmin/",
+        "description": "<p><img alt=\"Sugar Sense: Libre, Dexcom and Nightscout Glucose on Garmin\" class=\"attachment-large size-large\" height=\"1080\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/09/sugar-sense-garmin-instagram-square.png/w=1080,h=1080,fit=crop\" style=\"height: auto;\" width=\"1080\" /></p>\n<p>Sugar Sense puts live CGM glucose on 140+ Garmin watches: a Connect IQ widget and an activity data field for FreeStyle Libre, Dexcom and Nightscout users.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/09/02/sugar-sense-libre-dexcom-and-nightscout-glucose-on-garmin/\">Sugar Sense: Libre, Dexcom and Nightscout Glucose on Garmin</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
+        "published": "Wed, 02 Sep 2026 10:36:04 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/09/sugar-sense-garmin-instagram-square.png/w=1080,h=1080,fit=crop"
+      },
+      {
         "id": "https://the5krunner.com/?p=128515",
         "title": "Garmin\u2019s Q3 2026 Feature Update: Every New Feature",
         "link": "https://the5krunner.com/2026/09/01/garmin-q3-2026-feature-update/",
@@ -1293,6 +1301,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8955420",
+        "title": "Glasgow restaurants: Exact date Glasgow restaurant and cocktail bar will close its doors",
+        "link": "https://www.glasgowworld.com/lifestyle/food-and-drink/glasgow-restaurants-exact-date-glasgow-restaurant-and-cocktail-bar-will-close-its-doors-8955420",
+        "description": "<p>Major Glasgow steakhouse to close for good this week as part of nationwide shut down</p>",
+        "published": "Wed, 02 Sep 2026 10:31:01 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/02/10/03/MixCollage-02-Sep-2026-11-08-AM-7395.jpg?width=1200&auto=webp&trim=0%2C174%2C0%2C175"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/clydeside-rotunda-reopen-glasgow-entertainment-34555034",
         "title": "Clydeside Rotunda to reopen as Glasgow entertainment hub with terrace cocktail bar",
         "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/clydeside-rotunda-reopen-glasgow-entertainment-34555034",
@@ -1309,12 +1325,28 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/whats-on/article34554771.ece/ALTERNATES/s98/0_Beautiful-woman-reading-instructions-on-medicinejp.jpg"
       },
       {
+        "id": "94568637ec4699acc38e8605b4cd10b1",
+        "title": "Huge indie artist announces Glasgow show on Valentines Day as part of UK tour",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26514856.jake-bugg-announces-glasgow-old-fruitmarket-show-uk-tour/",
+        "description": "Jake Bugg will play Glasgow's Old Fruitmarket as part of a new UK and EU tour following the announcement of album Alamo.",
+        "published": "Wed, 02 Sep 2026 10:55:45 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21400360/?type=app&htype=0"
+      },
+      {
         "id": "8955206",
         "title": "Council manager who embezzled more than \u00a3124k worth of tech sentenced",
         "link": "https://www.glasgowworld.com/news/glasgow-city-council-man-sentenced-8955206",
         "description": "<p>Man who embezzeled more than \u00a3124,000 worth of electronic devices meant for vulnerable people has been sentenced.</p>",
         "published": "Wed, 02 Sep 2026 09:38:14 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/01/15/cs-60b96e25-ac42-4116-99bb-47908e1eaebe.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "f466a0d8c4e64a51c3a8c4d0dfb23f64",
+        "title": "Herald Business LIVE: Today's top stories - September 2",
+        "link": "https://www.heraldscotland.com/news/26514548.herald-business-live-todays-top-stories---september-2/",
+        "description": "Welcome to The Herald's Business live blog, where we\u2019ll be bringing you the latest developments from across Scotland\u2019s business industry. Stay tuned for all the latest stories, reaction and analysis as they happen.",
+        "published": "Wed, 02 Sep 2026 10:35:16 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21394794/?type=app&htype=0"
       },
       {
         "id": "d5d7566169ec7ec2a46a43cbd290edab",
