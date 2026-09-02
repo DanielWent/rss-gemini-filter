@@ -1034,6 +1034,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "0a2910b307a495730a27a91e294b2813",
+        "title": "Burst water main in Glasgow causes huge disruption as drivers asked to avoid area",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26515887.burst-water-main-baldric-road-affects-anniesland-knightswood/",
+        "description": "Scottish Water is repairing a burst water main on Baldric Road affecting customers in Anniesland, Knightswood and Yoker.",
+        "published": "Wed, 02 Sep 2026 13:45:05 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19075005/?type=app&htype=0"
+      },
+      {
         "id": "50c06e70c553faec94750866e55206b5",
         "title": "Husband-and-wife team hand over reins of Milngavie opticians after nearly two decades",
         "link": "https://www.glasgowtimes.co.uk/news/26515552.husband-and-wife-team-handing-reins-milngavie-specsavers/",
@@ -1317,12 +1325,52 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "5628445",
+        "title": "Glasgow chippies: 14 fabulous fish and chip shops in Glasgow to enjoy a chippy tea",
+        "link": "https://www.glasgowworld.com/lifestyle/food-and-drink/glasgow-chippies-14-fabulous-fish-and-chip-shops-in-glasgow-to-enjoy-a-chippy-tea-8955840",
+        "description": "<p>Here are the very best fish and chip shops to visit in Glasgow in 2026.  </p>",
+        "published": "Wed, 02 Sep 2026 12:45:50 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/02/12/50/MixCollage-02-Sep-2026-01-36-PM-5858.jpg?width=1200&auto=webp&trim=0%2C174%2C0%2C175"
+      },
+      {
+        "id": "0a2910b307a495730a27a91e294b2813",
+        "title": "Burst water main in Glasgow causes huge disruption as drivers asked to avoid area",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26515887.burst-water-main-baldric-road-affects-anniesland-knightswood/",
+        "description": "Scottish Water is repairing a burst water main on Baldric Road affecting customers in Anniesland, Knightswood and Yoker.",
+        "published": "Wed, 02 Sep 2026 13:45:05 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19075005/?type=app&htype=0"
+      },
+      {
+        "id": "82e2bdb14b8e0763b82e271a8e5525f9",
+        "title": "E-bike and e-scooter licensing being considered amid 'organised crime' concerns",
+        "link": "https://www.heraldscotland.com/news/26515731.e-bike-e-scooter-licensing-considered-scotland/",
+        "description": "The Justice Secretary has suggested a licensing scheme for e-bikes and e-scooters amid concerns over anti-social behaviour and crime involving the vehicles.",
+        "published": "Wed, 02 Sep 2026 13:27:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21401694/?type=app&htype=0"
+      },
+      {
+        "id": "572e12ab8365e39104a4431986175523",
+        "title": "Two big name Scottish bands announce exciting Glasgow shows this autumn",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26515764.snuts-walt-disco-announce-new-albums-glasgow-shows/",
+        "description": "The Snuts and Walt Disco have unveiled new albums and announced Glasgow shows ahead of major UK tours.",
+        "published": "Wed, 02 Sep 2026 13:21:38 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21401687/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=527448",
         "title": "Grandad threatened to cut vulnerable man\u2019s throat during robbery at ATM",
         "link": "https://news.stv.tv/west-central/grandad-threatened-to-cut-vulnerable-mans-throat-during-robbery-at-atm",
         "description": "Robert Laughland attacked the man with a walking stick after he used an ATM in Battlefield, Glasgow",
         "published": "Wed, 02 Sep 2026 12:21:00 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2023/05/d170e81d0e58dcd0c17a1e144b2c6953-1683727170-1120x720.jpg"
+      },
+      {
+        "id": "0ee719b34cc61cb514a098fca38a8404",
+        "title": "Burnham pledges to work with SNP on energy transition after \u00a379bn ScotWind warning",
+        "link": "https://www.heraldscotland.com/news/26515720.burnham-scotland-offshore-wind-commitment-first-pmqs/",
+        "description": "Andy Burnham used his first Prime Minister's Questions to promise to co-operate with the SNP on ScotWind.",
+        "published": "Wed, 02 Sep 2026 13:16:29 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21401716/?type=app&htype=0"
       },
       {
         "id": "ddfd08cd95f058944eb544ada467c2de",
@@ -1371,6 +1419,14 @@
         "description": "As part of the STEP Forward programme a number of services including the Older People Day Care Services are being reviewed as part of a three-year programme.",
         "published": "Wed, 2 Sep 2026 11:23:04 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article23234120.ece/ALTERNATES/s98/0_gettyimages-622271296-170667a.jpg"
+      },
+      {
+        "id": "ff52bf65ef4f4e0ff18df673ecf14e55",
+        "title": "Walker warning as deer stalkers take to the hills for cull",
+        "link": "https://www.heraldscotland.com/news/26515423.walker-warning-deer-stalkers-take-hills-cull/",
+        "description": "October marks the start of the busiest period for deerstalking",
+        "published": "Wed, 02 Sep 2026 12:19:53 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21401297/?type=app&htype=0"
       },
       {
         "id": "a5d1b26f8c922c8acd03d598f569b0d8",
