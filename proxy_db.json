@@ -1325,6 +1325,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "40f7355472d4b5a53b933b51d6658705",
+        "title": "Roma arts, music and heritage take centre stage at major Glasgow festival",
+        "link": "https://www.glasgowtimes.co.uk/news/26516003.roma-arts-culture-festival-returns-glasgow-week/",
+        "description": "Roma heritage and culture will take centre stage in Glasgow as part of a major festival.",
+        "published": "Wed, 02 Sep 2026 14:07:35 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21402093/?type=app&htype=0"
+      },
+      {
+        "id": "afc423b0eee8fdd2303bf0cbd2dd7b28",
+        "title": "Thousands of Scottish primary pupils treated to live orchestral performances",
+        "link": "https://www.glasgowtimes.co.uk/news/26515939.primary-pupils-treated-live-orchestral-performances/",
+        "description": "Thousands of primary school pupils have been treated to live musical performances from the Royal Scottish National Orchestre.",
+        "published": "Wed, 02 Sep 2026 13:55:53 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21401977/?type=app&htype=0"
+      },
+      {
         "id": "5628445",
         "title": "Glasgow chippies: 14 fabulous fish and chip shops in Glasgow to enjoy a chippy tea",
         "link": "https://www.glasgowworld.com/lifestyle/food-and-drink/glasgow-chippies-14-fabulous-fish-and-chip-shops-in-glasgow-to-enjoy-a-chippy-tea-8955840",
@@ -1339,6 +1355,14 @@
         "description": "Scottish Water is repairing a burst water main on Baldric Road affecting customers in Anniesland, Knightswood and Yoker.",
         "published": "Wed, 02 Sep 2026 13:45:05 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19075005/?type=app&htype=0"
+      },
+      {
+        "id": "bc3c3f0a323a0442b252198e26620d33",
+        "title": "Ministers eye major crackdown on e-bikes linked to drugs and organised crime",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26515822.e-bike-e-scooter-licences-considered-scotland-crackdown/",
+        "description": "The Scottish Government is considering licensing e-bikes and e-scooters amid concerns over crime and anti-social behaviour.",
+        "published": "Wed, 02 Sep 2026 13:31:48 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20007823/?type=app&htype=0"
       },
       {
         "id": "82e2bdb14b8e0763b82e271a8e5525f9",
