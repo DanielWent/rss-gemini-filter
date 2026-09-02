@@ -1293,6 +1293,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "0b14563e54d5ba71deb18f367f791221",
+        "title": "'We have waited nearly eight years' - Family hope talks with Vodafone bring answers",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26510849.family-seek-answers-vodafone-paisley-dads-death/",
+        "description": "A bereaved family are hopeful that renewed contact with a mobile phone giant will finally help them get answers to questions about the time leading up to their loved one's death.",
+        "published": "Wed, 02 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20820797/?type=app&htype=0"
+      },
+      {
+        "id": "5d8500311601ad3abf31448aa92ff44a",
+        "title": "Bold new plan to create design quarter on Gorbals riverfront",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26505131.bold-new-plan-create-design-quarter-gorbals-riverfront/",
+        "description": "A bold new plan to create a design quarter on the Gorbals riverfront to entice artists and performers to the area, has been revealed",
+        "published": "Wed, 02 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21386454/?type=app&htype=0"
+      },
+      {
+        "id": "a9228936b7a0fb5feec2d91402002354",
+        "title": "'Nobody will give us answers' - Anger erupts after church closes its doors",
+        "link": "https://www.glasgowtimes.co.uk/news/26510978.anger-clydebank-church-shuts-amid-funding-neglect-row/",
+        "description": "Anger grows over the closure of Our Holy Redeemer Church as campaigners question finances, and repairs, demanding answers amid claims of neglect.",
+        "published": "Wed, 02 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20521932/?type=app&htype=140"
+      },
+      {
+        "id": "7037f1802a1a62a20c13aef29f50a73f",
+        "title": "Parents fear for children's safety as homes planned beside primary school",
+        "link": "https://www.glasgowtimes.co.uk/news/26510931.parents-safety-fears-homes-planned-beside-barrhead-school/",
+        "description": "A parent council has expressed health and safety fears amid plans to build a 65-unit housing development next to a Barrhead school.",
+        "published": "Wed, 02 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21382077/?type=app&htype=0"
+      },
+      {
+        "id": "6c10cbed931b83e9ca43774eeb93a242",
+        "title": "Mental health charity marks 35 years as funding uncertainty looms",
+        "link": "https://www.glasgowtimes.co.uk/news/26510957.stepping-stones-celebrates-35-years-amid-funding-fears/",
+        "description": "The West Dunbartonshire mental health charity is celebrating its 35th anniversary, but uncertainty over future funding continues to loom.",
+        "published": "Wed, 02 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21394637/?type=app&htype=23"
+      },
+      {
         "id": "3872ab17362921dc9d379298ec6bb0ab",
         "title": "Concerns Glasgow's business credentials are being overlooked drive marketing shake-up",
         "link": "https://www.heraldscotland.com/news/26512703.new-body-aims-raise-glasgows-global-business-profile/",
