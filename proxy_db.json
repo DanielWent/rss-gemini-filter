@@ -1325,6 +1325,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "6a257145d3e9f8a71029c736a719203e",
+        "title": "Consultation begins on catchment changes for four primary schools",
+        "link": "https://www.glasgowtimes.co.uk/news/26515537.consultation-begins-catchment-changes-four-hamilton-schools/",
+        "description": "South Lanarkshire Council is consulting parents on proposed catchment changes for four Hamilton primary schools to balance pupil numbers.",
+        "published": "Fri, 04 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21402151/?type=app&htype=0"
+      },
+      {
+        "id": "8956149",
+        "title": "'Iconic' Glasgow venue sets May 2027 reopening date",
+        "link": "https://www.glasgowworld.com/news/glasgow-venue-reopening-may-2027-8956149",
+        "description": "<p>One of Glasgow\u2019s most historic landmarks is set to reopen in May 2027</p>",
+        "published": "Wed, 02 Sep 2026 13:49:52 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/02/13/02/Rotunda-render-outside.png?width=1200&auto=webp&trim=0%2C150%2C0%2C150"
+      },
+      {
+        "id": "390760f6c74c45b2e079502966bb7c1e",
+        "title": "Swinney appoints \u2018experienced\u2019 Alyn Smith as Scottish Government innovation minister",
+        "link": "https://www.heraldscotland.com/news/26516072.swinney-appoints-experienced-smith-scottish-government-minister/",
+        "description": "Former SNP MEP and MP Alyn Smith has joined the Scottish Government as the minister for innovation, technology and tertiary education.",
+        "published": "Wed, 02 Sep 2026 14:31:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/17256642/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glaswegians-who-love-crisps-can-34551995",
+        "title": "Glaswegians who love crisps can now create their own Golden Wonder flavour with new pop up",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glaswegians-who-love-crisps-can-34551995",
+        "description": "Crisp lovers are invited to create their own unique flavour of Golden Wonder crisps at the World of Wonder pop up.",
+        "published": "Wed, 2 Sep 2026 13:26:19 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34551832.ece/ALTERNATES/s98/0_Golden-Wonders-World-of-Wonder-returns-4.jpg"
+      },
+      {
         "id": "40f7355472d4b5a53b933b51d6658705",
         "title": "Roma arts, music and heritage take centre stage at major Glasgow festival",
         "link": "https://www.glasgowtimes.co.uk/news/26516003.roma-arts-culture-festival-returns-glasgow-week/",
@@ -1333,12 +1365,36 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21402093/?type=app&htype=0"
       },
       {
+        "id": "7bf5b37427b71d227d6f7f94ab6ff4a9",
+        "title": "Glasgow to host International Congress of Mathematicians for first time",
+        "link": "https://www.heraldscotland.com/news/26515996.glasgow-host-international-congress-mathematicians-2030/",
+        "description": "The Scottish Event Campus (SEC) is set to welcome the world\u2019s leading mathematicians in 2030, when Glasgow hosts the International Congress of Mathematicians (ICM) for the first time.",
+        "published": "Wed, 02 Sep 2026 14:06:09 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/17085093/?type=app&htype=0"
+      },
+      {
+        "id": "7536010d741d9b6fa98c6e1a0c0e33de",
+        "title": "Major \u00a3130 million investment to strengthen Scotland\u2019s railways against flooding",
+        "link": "https://www.heraldscotland.com/news/26515868.network-rail-invests-130m-improve-railway-resilience-scotland/",
+        "description": "Network Rail has invested \u00a3130m in Scotland\u2019s railways as part of a \u00a3400m programme to tackle flooding, landslips and extreme weather.",
+        "published": "Wed, 02 Sep 2026 14:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21401995/?type=app&htype=0"
+      },
+      {
         "id": "afc423b0eee8fdd2303bf0cbd2dd7b28",
         "title": "Thousands of Scottish primary pupils treated to live orchestral performances",
         "link": "https://www.glasgowtimes.co.uk/news/26515939.primary-pupils-treated-live-orchestral-performances/",
         "description": "Thousands of primary school pupils have been treated to live musical performances from the Royal Scottish National Orchestre.",
         "published": "Wed, 02 Sep 2026 13:55:53 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21401977/?type=app&htype=0"
+      },
+      {
+        "id": "129929f90310a97ac24e80fe164d4576",
+        "title": "Controversial plans to sell football ground to supermarket development approved",
+        "link": "https://www.heraldscotland.com/news/26515923.sale-abbey-park-ground-agreed/",
+        "description": "Controversial plans to sell the former home ground of Kilwinning Rangers FC and neighbouring yard for a potential supermarket development have been approved by councillors.",
+        "published": "Wed, 02 Sep 2026 13:53:16 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21393425/?type=app&htype=0"
       },
       {
         "id": "5628445",
