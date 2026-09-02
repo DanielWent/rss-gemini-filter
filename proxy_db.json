@@ -1301,6 +1301,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "33c53a5f933a1520b112a9f193f902ad",
+        "title": "Glasgow Taxis unveils major safety boost for OVO Hydro concert crowds",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26515192.glasgow-taxis-unveils-major-safety-boost-ovo-hydro-concert-crowds/",
+        "description": "Glasgow Taxis has boosted passenger safety with more marshals at key event taxi ranks, helping thousands of OVO Hydro concertgoers get home safely after nights out.",
+        "published": "Wed, 02 Sep 2026 11:44:59 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21183708/?type=app&htype=0"
+      },
+      {
         "id": "8955420",
         "title": "Glasgow restaurants: Exact date Glasgow restaurant and cocktail bar will close its doors",
         "link": "https://www.glasgowworld.com/lifestyle/food-and-drink/glasgow-restaurants-exact-date-glasgow-restaurant-and-cocktail-bar-will-close-its-doors-8955420",
@@ -1315,6 +1323,14 @@
         "description": "Speaking about the venue, which will reopen next spring, the team said &quot;we are creating the city\u2019s most exciting new social, entertainment and events destination&quot;.",
         "published": "Wed, 2 Sep 2026 10:06:27 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34554998.ece/ALTERNATES/s98/1_Screen-Shot-2019-08-12-at-150656.png"
+      },
+      {
+        "id": "4ed35456c3bad832f9eac634fde3e6af",
+        "title": "Glasgow street at end of historic bridge transformed with new CCTV",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26514888.glasgows-south-portland-street-transformed-avenues-project/",
+        "description": "A street has been transformed with new CCTV and cycle paths at the end of an historic bridge as part of the ongoing avenues project.",
+        "published": "Wed, 02 Sep 2026 11:01:03 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21400868/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/popular-beauty-chain-returns-glasgow-34554772",
