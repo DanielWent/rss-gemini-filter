@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1788364811401703",
+        "title": "Scientists may have found first hint of dark matter",
+        "link": "https://www.bbc.co.uk/news/articles/cvgypvnx1jgo?at_medium=RSS&at_campaign=rss",
+        "description": "The mysterious material has eluded scientists for nearly a century.",
+        "published": "Wed, 02 Sep 2026 17:54:03 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37fa/live/0d899630-a6b8-11f1-ae1e-219da1d6451a.jpg"
+      },
+      {
         "id": "1788360906645201",
         "title": "Lords call for AI 'kill switch' powers in UK",
         "link": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
@@ -1379,6 +1387,46 @@
         "description": "South Lanarkshire Council is consulting parents on proposed catchment changes for four Hamilton primary schools to balance pupil numbers.",
         "published": "Fri, 04 Sep 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21402151/?type=app&htype=0"
+      },
+      {
+        "id": "9a5ae3f4fda2ca1239d6907d05f20e3f",
+        "title": "Family of murdered woman say new misogyny bill would not have protected her",
+        "link": "https://www.glasgowtimes.co.uk/news/26517132.family-murdered-houston-woman-call-immediate-action/",
+        "description": "The family of a woman who was murdered in Houston is calling for immediate action to protect victims of domestic abuse.",
+        "published": "Wed, 02 Sep 2026 17:08:31 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21403638/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/simon-lebon-joins-line-up-34558099",
+        "title": "Simon LeBon joins line-up for two day David Bowie festival at Loch Lomond",
+        "link": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/simon-lebon-joins-line-up-34558099",
+        "description": "Marking the 10th anniversary of David Bowie\u2019s passing, and in aid of Save the Children, the event will feature a weekend itinerary of music, photography, film and dining, all on the picturesque banks of Loch Lomond.",
+        "published": "Wed, 2 Sep 2026 16:01:35 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34558028.ece/ALTERNATES/s98/0_JS273267297.jpg"
+      },
+      {
+        "id": "8956277",
+        "title": "Josip Juranovic leads gushing Celtic transfer messages to star after Hoops agree deadline day deal",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/josip-juranovic-leads-gushing-celtic-transfer-messages-to-star-after-hoops-agree-deadline-day-deal-8956277",
+        "description": "<p>Fan favourite has bid an emotional farewell following deadline departure</p>",
+        "published": "Wed, 02 Sep 2026 16:00:12 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/02/15/29/GettyImages-2238815891.jpeg?width=1200&auto=webp&trim=68%2C0%2C69%2C0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/much-loved-glasgow-bar-just-34558271",
+        "title": "Much-loved Glasgow bar just crowned Scotland's best pub for 2026",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/much-loved-glasgow-bar-just-34558271",
+        "description": "The Scottish Bar and Pub Awards 2025 has crowned its hospitality stars and one local proudly received the highly sought-after Pub of the Year award.",
+        "published": "Wed, 2 Sep 2026 15:59:59 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34558426.ece/ALTERNATES/s98/0_Screenshot-2026-09-02-164739.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/balamory-filmed-glasgow-morgue-according-34557831",
+        "title": "Balamory was 'filmed in a Glasgow morgue' according to original writer's new book",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/balamory-filmed-glasgow-morgue-according-34557831",
+        "description": "What\u2019s the Story, written by Brian Jameson, is set to be a candid, funny and revealing novel.",
+        "published": "Wed, 2 Sep 2026 15:55:43 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34558328.ece/ALTERNATES/s98/0_IMG_3051-1.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-taxi-driver-who-kicked-34558148",
