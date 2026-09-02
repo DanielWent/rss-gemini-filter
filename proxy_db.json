@@ -1034,6 +1034,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "50c06e70c553faec94750866e55206b5",
+        "title": "Husband-and-wife team hand over reins of Milngavie opticians after nearly two decades",
+        "link": "https://www.glasgowtimes.co.uk/news/26515552.husband-and-wife-team-handing-reins-milngavie-specsavers/",
+        "description": "A husband-and-wife optician team are handing over the reins of their business after 18 years of service.",
+        "published": "Wed, 02 Sep 2026 12:43:57 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21401368/?type=app&htype=0"
+      },
+      {
         "id": "59ab243882cede9c934c0c2db427bc28",
         "title": "Free astronomy exhibition set to open at Mugdock Country Park this month",
         "link": "https://www.glasgowtimes.co.uk/news/26512845.free-astronomy-exhibition-open-mugdock-country-park/",
@@ -1309,6 +1317,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "50c06e70c553faec94750866e55206b5",
+        "title": "Husband-and-wife team hand over reins of Milngavie opticians after nearly two decades",
+        "link": "https://www.glasgowtimes.co.uk/news/26515552.husband-and-wife-team-handing-reins-milngavie-specsavers/",
+        "description": "A husband-and-wife optician team are handing over the reins of their business after 18 years of service.",
+        "published": "Wed, 02 Sep 2026 12:43:57 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21401368/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/doors-open-day-take-clubbers-34555512",
+        "title": "Doors Open Day will take clubbers on trip down memory lane to Glasgow's Lost Nightclubs",
+        "link": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/doors-open-day-take-clubbers-34555512",
+        "description": "The organisers said Glasgow's Lost Nightclubs shines a light on this vital but often overlooked part of the city\u2019s cultural heritage,",
+        "published": "Wed, 2 Sep 2026 11:36:40 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34555398.ece/ALTERNATES/s98/1_GL824492.jpg"
+      },
+      {
+        "id": "b9495d1c2b5cfed8c975685c91f62e94",
+        "title": "'Drag me off stage' - British music icon gears up for final ever Glasgow show",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26515486.leo-sayer-opens-final-uk-tour-ahead-glasgow-show/",
+        "description": "The chart star says fans may have to drag him 'kicking and screaming' from the stage as he prepares for Glasgow.",
+        "published": "Wed, 02 Sep 2026 12:32:01 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21401290/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-thug-who-hit-police-34554852",
         "title": "Lanarkshire thug who hit police officer warned courts will do 'all they can' to protect cops",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-thug-who-hit-police-34554852",
@@ -1325,6 +1357,14 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article23234120.ece/ALTERNATES/s98/0_gettyimages-622271296-170667a.jpg"
       },
       {
+        "id": "a5d1b26f8c922c8acd03d598f569b0d8",
+        "title": "\u00a32m project begins to strengthen busy Glasgow rail route against 'extreme' weather",
+        "link": "https://www.glasgowtimes.co.uk/news/weather/26515406.2m-project-protect-glasgow-edinburgh-rail-line-severe-weather/",
+        "description": "Network Rail is investing \u00a32m at Ratho to help protect the Glasgow to Edinburgh rail route from extreme weather and climate change.",
+        "published": "Wed, 02 Sep 2026 12:18:03 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21401185/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c14dj7jppjdo#0",
         "title": "Family of murdered Stacy Hunter say new misogyny bill would not have protected her",
         "link": "https://www.bbc.co.uk/news/articles/c14dj7jppjdo?at_medium=RSS&at_campaign=rss",
@@ -1339,6 +1379,14 @@
         "description": "<p>Transfer guru claims star man could be headed for the exit door</p>",
         "published": "Wed, 02 Sep 2026 11:09:25 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/02/11/37/GettyImages-2267723725-(1).jpeg?width=1200&auto=webp&trim=73%2C0%2C74%2C0"
+      },
+      {
+        "id": "b47f98188694284ba44ea5ec64834c41",
+        "title": "New Glasgow flight hailed as \u2018game changer\u2019 for Scottish investment",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26515352.new-glasgow-wick-flight-hailed-game-changer-investment/",
+        "description": "A new Glasgow-Wick flight route is being hailed as a game changer for the North Highlands, with business leaders saying it could boost investment, connectivity and economic growth.",
+        "published": "Wed, 02 Sep 2026 12:08:31 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21401235/?type=app&htype=0"
       },
       {
         "id": "e6f2b2712afc850a6c3b76d05d016e24",
