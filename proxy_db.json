@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c23x478r3g5o#3",
+        "title": "British trekker's body found in northern Pakistan",
+        "link": "https://www.bbc.co.uk/news/articles/c23x478r3g5o?at_medium=RSS&at_campaign=rss",
+        "description": "The 30-year-old from Birmingham went missing on Saturday as he was descending from Musa Ka Musala.",
+        "published": "Wed, 02 Sep 2026 10:57:34 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b352/live/33fe6140-a6b0-11f1-aed2-8d6da8d75094.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cm2qj7jzl7no#3",
         "title": "'We'll find way to save Jodrell Bank,' Burnham says",
         "link": "https://www.bbc.co.uk/news/articles/cm2qj7jzl7no?at_medium=RSS&at_campaign=rss",
@@ -1300,6 +1308,70 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-thug-who-hit-police-34554852",
+        "title": "Lanarkshire thug who hit police officer warned courts will do 'all they can' to protect cops",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-thug-who-hit-police-34554852",
+        "description": "David Brown, 23, who is already serving two prison sentences, was given extra jail time for lashing out while he was being arrested.",
+        "published": "Wed, 2 Sep 2026 11:25:09 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34519072.ece/ALTERNATES/s98/0_Airdrie-Sheriff-Court.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/fears-raised-over-future-older-34555466",
+        "title": "Fears raised over future of Older People Day Care services by Glasgow trade unions",
+        "link": "https://www.glasgowlive.co.uk/news/fears-raised-over-future-older-34555466",
+        "description": "As part of the STEP Forward programme a number of services including the Older People Day Care Services are being reviewed as part of a three-year programme.",
+        "published": "Wed, 2 Sep 2026 11:23:04 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article23234120.ece/ALTERNATES/s98/0_gettyimages-622271296-170667a.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c14dj7jppjdo#0",
+        "title": "Family of murdered Stacy Hunter say new misogyny bill would not have protected her",
+        "link": "https://www.bbc.co.uk/news/articles/c14dj7jppjdo?at_medium=RSS&at_campaign=rss",
+        "description": "First Minister John Swinney said he wanted to use his role to tackle violence against women.",
+        "published": "Wed, 02 Sep 2026 11:11:21 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aac/live/e1d629b0-8ac7-11f1-801b-9163afadd44a.jpg"
+      },
+      {
+        "id": "8955579",
+        "title": "Fabrizio Romano provides latest on Rangers transfer deal after 'agreement in principle' struck",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/fabrizio-romano-provides-latest-on-rangers-transfer-deal-after-agreement-in-principle-struck-8955579",
+        "description": "<p>Transfer guru claims star man could be headed for the exit door</p>",
+        "published": "Wed, 02 Sep 2026 11:09:25 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/02/11/37/GettyImages-2267723725-(1).jpeg?width=1200&auto=webp&trim=73%2C0%2C74%2C0"
+      },
+      {
+        "id": "e6f2b2712afc850a6c3b76d05d016e24",
+        "title": "Glasgow housing developer joins huge yoga event set raising funds for Beatson",
+        "link": "https://www.glasgowtimes.co.uk/news/26515337.briar-homes-will-participate-glasgow-sec-yoga-event/",
+        "description": "Briar Homes will participate in the Yellow Yogis event on September 13 at the SEC in Glasgow.",
+        "published": "Wed, 02 Sep 2026 12:07:09 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21401054/?type=app&htype=0"
+      },
+      {
+        "id": "5c56ab61537512bc4d72ee42a1f15ea5",
+        "title": "Ascot Lloyd expands Glasgow presence with new St Vincent Street offices",
+        "link": "https://www.heraldscotland.com/news/26515230.ascot-lloyd-takes-6-414-sq-ft-office-space-glasgow/",
+        "description": "Financial planning group Ascot Lloyd has taken 6,414 sq ft at 145 St Vincent Street, bringing its entire central Glasgow team together under one roof.",
+        "published": "Wed, 02 Sep 2026 12:02:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21400988/?type=app&htype=0"
+      },
+      {
+        "id": "8955338",
+        "title": "Celtic favourite turns Hoops transfer powerbroker as new signing calls in advice off ex-Parkhead ace",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-favourite-turns-hoops-transfer-powerbroker-as-new-signing-calls-in-advice-off-ex-parkhead-ace-8955338",
+        "description": "<p>Ex Hoops fan favourite offered some Parkhead insight for new signing</p>",
+        "published": "Wed, 02 Sep 2026 11:00:55 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/02/10/03/GettyImages-2186675135.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "d0bd0e8eb1b4d1919940c0f3b494e150",
+        "title": "New mystery restaurant plan for historic Glasgow city centre building",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26515267.miller-street-office-building-become-new-glasgow-restaurant/",
+        "description": "Signature Pub Group has submitted plans to turn a Miller Street office building into a new Glasgow city centre restaurant.",
+        "published": "Wed, 02 Sep 2026 11:56:05 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18385429/?type=app&htype=0"
+      },
       {
         "id": "33c53a5f933a1520b112a9f193f902ad",
         "title": "Glasgow Taxis unveils major safety boost for OVO Hydro concert crowds",
