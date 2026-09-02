@@ -1293,6 +1293,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/clydeside-rotunda-reopen-glasgow-entertainment-34555034",
+        "title": "Clydeside Rotunda to reopen as Glasgow entertainment hub with terrace cocktail bar",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/clydeside-rotunda-reopen-glasgow-entertainment-34555034",
+        "description": "Speaking about the venue, which will reopen next spring, the team said &quot;we are creating the city\u2019s most exciting new social, entertainment and events destination&quot;.",
+        "published": "Wed, 2 Sep 2026 10:06:27 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34554998.ece/ALTERNATES/s98/1_Screen-Shot-2019-08-12-at-150656.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/popular-beauty-chain-returns-glasgow-34554772",
+        "title": "Popular beauty chain returns to Glasgow high street with 17 UK stores confirmed after collapse",
+        "link": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/popular-beauty-chain-returns-glasgow-34554772",
+        "description": "The health and beauty retailer announced its return earlier this year after being acquired by an investment group, with 17 new stores planned across the UK",
+        "published": "Wed, 2 Sep 2026 09:55:50 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/whats-on/article34554771.ece/ALTERNATES/s98/0_Beautiful-woman-reading-instructions-on-medicinejp.jpg"
+      },
+      {
         "id": "8955206",
         "title": "Council manager who embezzled more than \u00a3124k worth of tech sentenced",
         "link": "https://www.glasgowworld.com/news/glasgow-city-council-man-sentenced-8955206",
