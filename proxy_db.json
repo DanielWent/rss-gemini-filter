@@ -1405,6 +1405,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "96c8dab8b856876f41993e858c8f5776",
+        "title": "Simple Minds announce huge show in Glasgow with special guest",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26517929.simple-minds-perform-ovo-hydro-glasgow-west-end/",
+        "description": "Simple Minds to perform at OVO Hydro in Glasgow West End",
+        "published": "Thu, 03 Sep 2026 09:41:27 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21215654/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-msp-calls-scottish-child-34559966",
         "title": "Glasgow MSP calls for Scottish Child Payment increase to \u00a355 a week",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-msp-calls-scottish-child-34559966",
