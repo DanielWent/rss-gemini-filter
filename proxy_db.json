@@ -1405,6 +1405,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-msp-calls-scottish-child-34559966",
+        "title": "Glasgow MSP calls for Scottish Child Payment increase to \u00a355 a week",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-msp-calls-scottish-child-34559966",
+        "description": "The Scottish Government has committed to increasing it to \u00a340 for children under one.",
+        "published": "Thu, 3 Sep 2026 08:09:03 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34560020.ece/ALTERNATES/s98/0_Scottish-Parliament-electionsjpgP.jpg"
+      },
+      {
+        "id": "8957158",
+        "title": "Rangers transfer deadline day activity predicted as open secret signing on agenda amid exits update",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-transfer-deadline-day-activity-predicted-open-secret-signing-exits-update-8957158",
+        "description": "<p>Rangers will be active on the final day of the transfer window this summer.</p>",
+        "published": "Thu, 03 Sep 2026 08:00:03 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/03/6/33/GettyImages-2275383379.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/nicola-sturgeon-signs-open-letter-34559782",
         "title": "Nicola Sturgeon signs open letter demanding action to combat the far-right",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/nicola-sturgeon-signs-open-letter-34559782",
