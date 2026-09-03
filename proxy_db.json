@@ -697,6 +697,14 @@
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
       {
+        "id": "https://the5krunner.com/?p=128718",
+        "title": "Garmin calories worst among four brands, science shows",
+        "link": "https://the5krunner.com/2026/09/03/garmin-calorie-accuracy-worst/",
+        "description": "<p><img alt=\"Garmin calories worst among four brands, science shows\" class=\"attachment-large size-large\" height=\"1110\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/01/Nutrition-Logging-Widget-Calorie-Weekly-Trend.jpg/w=1110,h=1110,fit=crop\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Garmin posted the largest calorie error of four major smartwatches in a new FIU accuracy study. Samsung came close behind, while Apple and Fitbit measured lower, though Fitbit's clean average hid a string of implausible readings.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/09/03/garmin-calorie-accuracy-worst/\">Garmin calories worst among four brands, science shows</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
+        "published": "Thu, 03 Sep 2026 10:32:05 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/01/Nutrition-Logging-Widget-Calorie-Weekly-Trend.jpg/w=1110,h=1110,fit=crop"
+      },
+      {
         "id": "https://the5krunner.com/?p=128709",
         "title": "Garmin CIRQA Update \u2013 Significant New Version and Fixes",
         "link": "https://the5krunner.com/2026/09/03/garmin-cirqa-firmware-3-20/",
@@ -1114,6 +1122,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21060534/?type=app&htype=0"
       },
       {
+        "id": "152b9951f60b0a7685f55538026d384d",
+        "title": "15 Glasgow businesses named for failing to pay minimum wage to staff",
+        "link": "https://www.glasgowtimes.co.uk/news/26518095.glasgow-firms-named-shamed-not-paying-minimum-wage/",
+        "description": "15 Glasgow employers have been named and shamed by the government for not paying the National Minimum Wage",
+        "published": "Thu, 03 Sep 2026 10:15:07 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17595946/?type=app&htype=0"
+      },
+      {
         "id": "26e188d18bbffb29415b7d4778c07558",
         "title": "Care home unveils new sensory garden designed to bring residents together",
         "link": "https://www.glasgowtimes.co.uk/news/26516370.bearsden-care-home-unveiled-new-sensory-garden-residents/",
@@ -1421,6 +1437,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8957389",
+        "title": "'Growing concern' for missing man from Glasgow last seen walking barefoot in Edinburgh",
+        "link": "https://www.glasgowworld.com/news/growing-concern-for-missing-man-from-glasgow-last-seen-cramond-edinburgh-8957892",
+        "description": "<p>Mr Asadi, 32, was last seen walking barefoot through the Cramond neighbourhood of Edinburgh on Monday evening (August 31).</p>",
+        "published": "Thu, 03 Sep 2026 10:54:37 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/03/8/47/Untitled-design-2026-09-03T094100-765.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "14ccef61fb92b24a16a079bf880ebd5e",
+        "title": "ScotRail brings back Family Pass for a week of unlimited travel during October week",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26518698.scotrail-brings-back-60-family-pass-october-holidays/",
+        "description": "ScotRail's \u00a360 Family Pass offers up to two adults and four children unlimited travel across Scotland for a week.",
+        "published": "Thu, 03 Sep 2026 11:51:31 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20831014/?type=app&htype=0"
+      },
+      {
+        "id": "35fe35097828f376e3d7af662624465a",
+        "title": "Conman JAILED after stealing from OAP amid bogus window cleaning scam in West End",
+        "link": "https://www.glasgowtimes.co.uk/news/26518616.conman-jailed-stealing-amid-glasgow-west-end-window-scam/",
+        "description": "A conman who stole money from an elderly woman with dementia amid a bogus window cleaning scam was jailed today for 16 months.",
+        "published": "Thu, 03 Sep 2026 11:39:13 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21194148/?type=app&htype=0"
+      },
+      {
+        "id": "8957815",
+        "title": "Additional \u00a35 million of Glasgow City Council funding agreed for People's Palace",
+        "link": "https://www.glasgowworld.com/news/council-funding-agreed-for-peoples-palace-8957815",
+        "description": "<p>Councillors approve \u00a35 million in additional funding for People\u2019s Palace and Winter Garden</p>",
+        "published": "Thu, 03 Sep 2026 10:37:41 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/05/13/9/00/Peoples-Palace-in-Glasgow-Green.jpeg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
         "id": "6d9008eefa6570ac5d1d41c22a5970a7",
         "title": "Major clean-up begins on overgrown River Clyde embankment",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26518405.major-clean-up-begins-overgrown-river-clyde-embankment/",
@@ -1477,12 +1525,28 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20475783/?type=app&htype=0"
       },
       {
+        "id": "703330ab545f608a81ddb708afac2e55",
+        "title": "Scotland lacks national data on group child sexual abuse, watchdogs find",
+        "link": "https://www.heraldscotland.com/news/26518167.scotland-grooming-gangs-review-finds-no-national-data/",
+        "description": "A joint review by Scotland's four public sector inspectorates has found no agreed national definition of group-based child sexual abuse, no consistent data collection, and civil orders designed to restrict offenders going almost entirely unused.",
+        "published": "Thu, 03 Sep 2026 10:26:53 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/7425466/?type=app&htype=0"
+      },
+      {
         "id": "0d0c066e645d9f4976737e2c2ace2df8",
         "title": "Health centre and GP surgery forced to close after burst water main chaos",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26518146.kikrintilloch-health-centre-gp-surgery-forced-close/",
         "description": "Kirkintilloch Health and Care Centre and Woodhead Medical Practice forced to close after burst water main.",
         "published": "Thu, 03 Sep 2026 10:22:32 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21060534/?type=app&htype=0"
+      },
+      {
+        "id": "152b9951f60b0a7685f55538026d384d",
+        "title": "15 Glasgow businesses named for failing to pay minimum wage to staff",
+        "link": "https://www.glasgowtimes.co.uk/news/26518095.glasgow-firms-named-shamed-not-paying-minimum-wage/",
+        "description": "15 Glasgow employers have been named and shamed by the government for not paying the National Minimum Wage",
+        "published": "Thu, 03 Sep 2026 10:15:07 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17595946/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/ryanair-flight-booking-warning-airline-34560506",
