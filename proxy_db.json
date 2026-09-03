@@ -1421,6 +1421,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "6d9008eefa6570ac5d1d41c22a5970a7",
+        "title": "Major clean-up begins on overgrown River Clyde embankment",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26518405.major-clean-up-begins-overgrown-river-clyde-embankment/",
+        "description": "An overgrown embankment along the south side of the River Clyde is being cut back as part of efforts to make the area \u201csafer\u201d and \u201ccleaner\u201d.",
+        "published": "Thu, 03 Sep 2026 11:05:48 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21405398/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-baby-died-doctors-arms-34560141",
+        "title": "Glasgow baby 'died in doctor's arms' after mum 'repeatedly ignored' by medical staff",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-baby-died-doctors-arms-34560141",
+        "description": "&quot;If anybody had done their job that night, he would still be alive.&quot;",
+        "published": "Thu, 3 Sep 2026 10:04:26 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34560887.ece/ALTERNATES/s98/1_Mason.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/ce9e2zyzx3lo#0",
         "title": "Electric bus operator concerned about \u00a32 fare cap",
         "link": "https://www.bbc.co.uk/news/articles/ce9e2zyzx3lo?at_medium=RSS&at_campaign=rss",
