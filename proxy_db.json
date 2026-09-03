@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo#0",
+        "title": "UN warns of 'supersized' El Ni\u00f1o as countries prepare for impact",
+        "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+        "description": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
+        "published": "Thu, 03 Sep 2026 06:01:54 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067c/live/99ebc3c0-a70b-11f1-b109-879e35c24276.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c99drr70m2eo#1",
         "title": "Chasing a perfect sleep score? You could be making it worse",
         "link": "https://www.bbc.co.uk/news/articles/c99drr70m2eo?at_medium=RSS&at_campaign=rss",
@@ -1395,6 +1403,14 @@
         "description": "South Lanarkshire Council is consulting parents on proposed catchment changes for four Hamilton primary schools to balance pupil numbers.",
         "published": "Fri, 04 Sep 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21402151/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-critical-condition-110m-34555591",
+        "title": "Glasgow council in 'critical condition' with \u00a3110m budget gap, homelessness crisis and equal pay row",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-critical-condition-110m-34555591",
+        "description": "The Accounts Commission says growing demand for services and persistently high poverty levels are creating &quot;significant challenges&quot; for Glasgow",
+        "published": "Thu, 3 Sep 2026 06:06:16 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34555731.ece/ALTERNATES/s98/0_JS256109790.jpg"
       },
       {
         "id": "533949cde9281f1801af645f43a98c66",
