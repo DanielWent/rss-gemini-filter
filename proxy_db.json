@@ -1437,6 +1437,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "2059026c0599f35269c75b91ffa6366d",
+        "title": "Fontaines D.C. announce HUGE Glasgow Green gig after Hydro sell out frenzy",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26518801.fontaines-d-c-glasgow-green-gig-2027-selling-hydro-tickets/",
+        "description": "Fontaines D.C. have announced a huge gig at Glasgow Green after they sold out the Hydro in just 25 minutes today.",
+        "published": "Thu, 03 Sep 2026 12:07:11 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21406052/?type=app&htype=0"
+      },
+      {
+        "id": "8957743",
+        "title": "Martin O'Neill 'unhappy' over Celtic transfer deal after Michael Nicholson plays role in failing over key target",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/martin-oneill-unhappy-over-celtic-transfer-deal-after-michael-nicholson-plays-role-in-failing-over-key-target-8957743",
+        "description": "<p>Torino midfielder expected to remain in Serie A after a move to Celtic Park fell through</p>",
+        "published": "Thu, 03 Sep 2026 11:00:37 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/03/10/38/GettyImages-2272032079.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
         "id": "8957389",
         "title": "'Growing concern' for missing man from Glasgow last seen walking barefoot in Edinburgh",
         "link": "https://www.glasgowworld.com/news/growing-concern-for-missing-man-from-glasgow-last-seen-cramond-edinburgh-8957892",
@@ -1445,12 +1461,28 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/03/8/47/Untitled-design-2026-09-03T094100-765.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       },
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/beautiful-walking-spot-amazing-gardens-34560663",
+        "title": "'Beautiful' walking spot with amazing gardens and grounds is only an hour from Glasgow",
+        "link": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/beautiful-walking-spot-amazing-gardens-34560663",
+        "description": "There's plenty to see and do in Glasgow but for those looking for a taste of nature and tranquility a little further afield, an historic landmark with expansive grounds and a variety of events is just an hour's drive away",
+        "published": "Thu, 3 Sep 2026 10:54:08 +0000",
+        "image_url": "https://i2-prod.birminghammail.co.uk/incoming/article34560614.ece/ALTERNATES/s98/1_GettyImages-1053211134.jpg"
+      },
+      {
         "id": "14ccef61fb92b24a16a079bf880ebd5e",
         "title": "ScotRail brings back Family Pass for a week of unlimited travel during October week",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26518698.scotrail-brings-back-60-family-pass-october-holidays/",
         "description": "ScotRail's \u00a360 Family Pass offers up to two adults and four children unlimited travel across Scotland for a week.",
         "published": "Thu, 03 Sep 2026 11:51:31 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20831014/?type=app&htype=0"
+      },
+      {
+        "id": "7c1b78580ab5063feaff8bb9357211ef",
+        "title": "'Glasgow is not a no-go zone' - Sub Club boss hits back at BBC documentary",
+        "link": "https://www.glasgowtimes.co.uk/entertainment/tv_radio/26518686.glasgow-club-chief-slams-distorted-view-portrayed-bbc/",
+        "description": "Sub Club chief slams BBC documentary as 'damaging' to the image of Glasgow, stating that 'people are working very hard to bring about progressive change'",
+        "published": "Thu, 03 Sep 2026 11:49:52 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18584298/?type=app&htype=0"
       },
       {
         "id": "35fe35097828f376e3d7af662624465a",
