@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c99drr70m2eo#1",
+        "title": "Chasing a perfect sleep score? You could be making it worse",
+        "link": "https://www.bbc.co.uk/news/articles/c99drr70m2eo?at_medium=RSS&at_campaign=rss",
+        "description": "The things you're doing to make your sleep better could actually be making your sleep worse.",
+        "published": "Thu, 03 Sep 2026 00:41:27 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df02/live/2518d250-a6d3-11f1-aed2-8d6da8d75094.png"
+      },
+      {
         "id": "1788364811401703",
         "title": "Scientists may have found first hint of dark matter",
         "link": "https://www.bbc.co.uk/news/articles/cvgypvnx1jgo?at_medium=RSS&at_campaign=rss",
