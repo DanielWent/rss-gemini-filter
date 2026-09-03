@@ -1421,6 +1421,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/ce9e2zyzx3lo#0",
+        "title": "Electric bus operator concerned about \u00a32 fare cap",
+        "link": "https://www.bbc.co.uk/news/articles/ce9e2zyzx3lo?at_medium=RSS&at_campaign=rss",
+        "description": "Ember, which operates between cities across Scotland, says it supports cheaper travel but is worried about how the scheme will work.",
+        "published": "Thu, 03 Sep 2026 10:03:09 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1caf/live/2349abd0-a77c-11f1-b2d5-535b3b3d379f.jpg"
+      },
+      {
+        "id": "8957623",
+        "title": "Major Rangers transfer deadline day move gathers pace as star set for medical after Ligue 1 switch collapses",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/major-rangers-transfer-deadline-day-move-gathers-pace-star-medical-ligue-1-switch-collapses-8957623",
+        "description": "<p>The Light Blues are hopeful of completing an initial loan agreement for the Algerian that could include an option to make the transfer permanent</p>",
+        "published": "Thu, 03 Sep 2026 10:01:40 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/03/9/59/GettyImages-2289676539.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-residents-urged-have-respect-34560768",
+        "title": "Glasgow residents urged 'have some respect' for city and clean up after themselves",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-residents-urged-have-respect-34560768",
+        "description": "Chris Mitchell says the state of the back court in question is \u201can absolute disgrace\u201d and is a health and safety hazard.",
+        "published": "Thu, 3 Sep 2026 09:56:06 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/article34560807.ece/ALTERNATES/s98/1_Sauchiehall-St-back-court.png"
+      },
+      {
         "id": "453ba63b65bbb9dfeb818e14032f700c",
         "title": "BBC's The Traitors winner to co-host Hoolie in the Hydro this December",
         "link": "https://www.glasgowtimes.co.uk/news/26518244.traitors-winner-co-host-hoolie-hydro-december/",
