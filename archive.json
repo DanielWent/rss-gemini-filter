@@ -8398,7 +8398,16 @@
     "London City shirt deal biggest in women's game & beats some in Premier League - Kang": 1788450938.3494356,
     "1788449712632903": 1788450938.3494356,
     "https://www.bbc.co.uk/news/articles/cj3dx00jzr1o?at_medium=RSS&at_campaign=rss": 1788450938.3494356,
-    "Helicopters to be put on standby when wildfire risk is high": 1788450938.3494356
+    "Helicopters to be put on standby when wildfire risk is high": 1788450938.3494356,
+    "1788452706094979": 1788452729.753969,
+    "https://www.bbc.co.uk/sport/football/articles/c1j4pzgyjedo?at_medium=RSS&at_campaign=rss": 1788452729.753969,
+    "Rangers buy Portland's Kelsy and take Stuttgart's Bouanani on loan": 1788452729.753969,
+    "1788451818967699": 1788452729.753969,
+    "https://www.bbc.co.uk/sport/football/articles/c07l8n34dleo?at_medium=RSS&at_campaign=rss": 1788452729.753969,
+    "How Alvarez needs to rebuild trust at Atletico": 1788452729.753969,
+    "1788452706094978": 1788452729.753969,
+    "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss": 1788452729.753969,
+    "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face": 1788452729.753969
   },
   "lenient": {
     "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo#0": 1786896936.7326794,
@@ -12632,7 +12641,10 @@
     "How the brain of a fly may help explain human behaviour": 1788449136.8619869,
     "https://www.bbc.co.uk/sport/football/articles/czdz349nyl7o#7": 1788450938.3494356,
     "https://www.bbc.co.uk/sport/football/articles/czdz349nyl7o?at_medium=RSS&at_campaign=rss": 1788450938.3494356,
-    "Sarr 'needs time' to process collapse of Liverpool move": 1788450938.3494356
+    "Sarr 'needs time' to process collapse of Liverpool move": 1788450938.3494356,
+    "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o#0": 1788452729.753969,
+    "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss": 1788452729.753969,
+    "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face": 1788452729.753969
   },
   "google": {
     "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-breathing-emergency-detection/": 1786896936.7326794,
@@ -15636,7 +15648,13 @@
     "Woman charged after late night crash on Glasgow street sends cyclist to hospital": 1788450938.3494356,
     "4c2a1e9c032609a9335b93a983c0e738": 1788450938.3494356,
     "https://www.glasgowtimes.co.uk/news/scottish-news/26520431.blantyre-comedian-supporting-british-heart-foundation-campaign/": 1788450938.3494356,
-    "Scottish comic shares details of rare heart condition as he backs BHF campaign": 1788450938.3494356
+    "Scottish comic shares details of rare heart condition as he backs BHF campaign": 1788450938.3494356,
+    "c1a3cdc2b0fb26e8f690cecd05f58183": 1788452729.753969,
+    "https://www.glasgowtimes.co.uk/news/scottish-news/26520575.john-swinney-accuses-malcom-offord-spreading-disinformation/": 1788452729.753969,
+    "Swinney accuses Malcom Offord of spreading 'disinformation' amid Glasgow protests": 1788452729.753969,
+    "29d407c49c999a9f2a20396ee36208b3": 1788452729.753969,
+    "https://www.glasgowtimes.co.uk/news/26520588.city-glasgow-college-ceremony-marked-merchant-navy-day/": 1788452729.753969,
+    "Glasgow ceremony honours Merchant Navy crews who lost their lives at sea": 1788452729.753969
   },
   "runabc_scotland": {
     "https://runabc.co.uk/crowe-and-laurie-take-scottish-half-marathon-victories": 1786896936.7326794,
@@ -23975,7 +23993,41 @@
     "Highland hotel group unveils \u00a31m upgrades at properties along the North Coast 500": 1788450938.3494356,
     "0d471d3f9c5e0a7a8e6095ea0963984c": 1788450938.3494356,
     "https://www.heraldscotland.com/news/26519565.seal-easdale-community-council-saved-11th-hour/": 1788450938.3494356,
-    "Community council saved at 11th hour as famous bridge row hits morale": 1788450938.3494356
+    "Community council saved at 11th hour as famous bridge row hits morale": 1788450938.3494356,
+    "c1a3cdc2b0fb26e8f690cecd05f58183": 1788452729.753969,
+    "https://www.glasgowtimes.co.uk/news/scottish-news/26520575.john-swinney-accuses-malcom-offord-spreading-disinformation/": 1788452729.753969,
+    "Swinney accuses Malcom Offord of spreading 'disinformation' amid Glasgow protests": 1788452729.753969,
+    "29d407c49c999a9f2a20396ee36208b3": 1788452729.753969,
+    "https://www.glasgowtimes.co.uk/news/26520588.city-glasgow-college-ceremony-marked-merchant-navy-day/": 1788452729.753969,
+    "Glasgow ceremony honours Merchant Navy crews who lost their lives at sea": 1788452729.753969,
+    "a9688b8d20dd912b077d70457ca6f739": 1788452729.753969,
+    "https://www.heraldscotland.com/news/26520287.women-failed-system-snp-bail-law-reforms/": 1788452729.753969,
+    "SNP bail law changes had \u2018fatal consequences for women\u2019, Swinney told": 1788452729.753969,
+    "0785624b4afb571a21fe659e87082d19": 1788452729.753969,
+    "https://www.heraldscotland.com/news/26520280.glasgow-primary-school-class-exclusions-doubles/": 1788452729.753969,
+    "Number of Glasgow primary school pupils being 'excluded' from class more than doubles": 1788452729.753969,
+    "91eb055d78b8cf010a2fd93ceba80e8a": 1788452729.753969,
+    "https://www.heraldscotland.com/news/26518206.catholic-bishop-writes-scottish-government-abortion-reform/": 1788452729.753969,
+    "Senior Catholic bishop makes rare political intervention on abortion reform": 1788452729.753969,
+    "be9f3eefaa54675955b681419afb3d41": 1788452729.753969,
+    "https://www.heraldscotland.com/news/26491013.new-business-models-reshaping-scotlands-golf-sector/": 1788452729.753969,
+    "From simulators to St Andrews, golf's business model is changing": 1788452729.753969,
+    "631bb39f187cdc931e35068ecf936508": 1788452729.753969,
+    "https://www.heraldscotland.com/news/26520078.chef-avoids-jail-wielding-hammer-ex-boss-glasgow-restaurant/": 1788452729.753969,
+    "Chef avoids jail for wielding hammer at ex-boss at Glasgow fine-dining restaurant": 1788452729.753969,
+    "926137a60e122aa40458f5747d2b5ec2": 1788452729.753969,
+    "https://www.heraldscotland.com/news/26518385.scottish-law-firm-appointed-uk-public-sector-legal-panel/": 1788452729.753969,
+    "Top Scottish law firm secures place on major public sector legal panel": 1788452729.753969,
+    "https://www.glasgowlive.co.uk/news/glasgow-news/glasgows-850th-year-could-end-34557342": 1788452729.753969,
+    "'Glasgow's 850th year could end in catastrophe - and the next few months are critical'": 1788452729.753969,
+    "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-spuddies-up-sale-year-34563065": 1788452729.753969,
+    "Glasgow Spuddies up for sale a year on from viral success and huge crowds": 1788452729.753969,
+    "8958619": 1788452729.753969,
+    "https://www.glasgowworld.com/recommended/river-island-jeans-wide-leg-jeans-blue-jeans-river-island-sale-very-sale-8958665": 1788452729.753969,
+    "River Island wide-leg blue jeans are now \u00a328 at Very, saving shoppers \u00a321": 1788452729.753969,
+    "8957533": 1788452729.753969,
+    "https://www.glasgowworld.com/recommended/can-i-access-private-weight-management-treatment-if-i-dont-qualify-on-the-nhs-8958574": 1788452729.753969,
+    "Can I access private weight management treatment if I don't qualify on the NHS?": 1788452729.753969
   },
   "glasgow_live": {},
   "glasgow_world": {
@@ -25277,6 +25329,12 @@
     "Former Celtic star completes latest transfer move as MLS club admire key 'quality' in his game": 1788449136.8619869,
     "8957840": 1788449136.8619869,
     "https://www.glasgowworld.com/recommended/yoto-mini-player-screen-free-gadget-8958591": 1788449136.8619869,
-    "I packed this screen-free gadget for our camping trip and it was a lifesaver during the long car journeys": 1788449136.8619869
+    "I packed this screen-free gadget for our camping trip and it was a lifesaver during the long car journeys": 1788449136.8619869,
+    "8958619": 1788452729.753969,
+    "https://www.glasgowworld.com/recommended/river-island-jeans-wide-leg-jeans-blue-jeans-river-island-sale-very-sale-8958665": 1788452729.753969,
+    "River Island wide-leg blue jeans are now \u00a328 at Very, saving shoppers \u00a321": 1788452729.753969,
+    "8957533": 1788452729.753969,
+    "https://www.glasgowworld.com/recommended/can-i-access-private-weight-management-treatment-if-i-dont-qualify-on-the-nhs-8958574": 1788452729.753969,
+    "Can I access private weight management treatment if I don't qualify on the NHS?": 1788452729.753969
   }
 }

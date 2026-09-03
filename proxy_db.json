@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o#0",
+        "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+        "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+        "description": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
+        "published": "Thu, 03 Sep 2026 16:01:39 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9a5/live/f7099cf0-a7a9-11f1-aed2-8d6da8d75094.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cqjkd2ylq1yo#1",
         "title": "How the brain of a fly may help explain human behaviour",
         "link": "https://www.bbc.co.uk/news/articles/cqjkd2ylq1yo?at_medium=RSS&at_campaign=rss",
@@ -1453,6 +1461,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "be9f3eefaa54675955b681419afb3d41",
+        "title": "From simulators to St Andrews, golf's business model is changing",
+        "link": "https://www.heraldscotland.com/news/26491013.new-business-models-reshaping-scotlands-golf-sector/",
+        "description": "Success no longer depends solely on membership subscriptions and visitor fees",
+        "published": "Fri, 04 Sep 2026 11:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19478351/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgows-850th-year-could-end-34557342",
+        "title": "'Glasgow's 850th year could end in catastrophe - and the next few months are critical'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgows-850th-year-could-end-34557342",
+        "description": "Every small degradation of everyday public services risks making Glasgow a less attractive place to live, work, visit and invest in, says Jordan Shepherd.",
+        "published": "Thu, 3 Sep 2026 16:09:07 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34561617.ece/ALTERNATES/s98/0_JS414092590jp.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-spuddies-up-sale-year-34563065",
+        "title": "Glasgow Spuddies up for sale a year on from viral success and huge crowds",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-spuddies-up-sale-year-34563065",
+        "description": "Spuddies opened on Lammermoor Avenue in Cardonald on May 17, 2025, to huge fanfare.",
+        "published": "Thu, 3 Sep 2026 16:03:17 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34563087.ece/ALTERNATES/s98/0_36f42311-d3bd-4bc5-b089-b4ba00291d6f.jpg"
+      },
+      {
+        "id": "c1a3cdc2b0fb26e8f690cecd05f58183",
+        "title": "Swinney accuses Malcom Offord of spreading 'disinformation' amid Glasgow protests",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26520575.john-swinney-accuses-malcom-offord-spreading-disinformation/",
+        "description": "John Swinney has accused Reform UK\u2019s Scottish leader of spreading \u201cdisinformation\u201d at Holyrood after he claimed housing homeless asylum seekers was doing \u201csignificant damage\u201d.",
+        "published": "Thu, 03 Sep 2026 16:58:16 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20287290/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=527676",
         "title": "Man \u2018forced woman to dangle from window ledge after holding her hostage\u2019",
         "link": "https://news.stv.tv/west-central/man-forced-woman-to-dangle-from-window-ledge-after-holding-her-hostage",
@@ -1475,6 +1515,22 @@
         "description": "A cyclist was taken to hospital and a woman was charged following a crash on Saracen Street in Possilpark, Glasgow.",
         "published": "Thu, 03 Sep 2026 16:25:59 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20725578/?type=app&htype=0"
+      },
+      {
+        "id": "a9688b8d20dd912b077d70457ca6f739",
+        "title": "SNP bail law changes had \u2018fatal consequences for women\u2019, Swinney told",
+        "link": "https://www.heraldscotland.com/news/26520287.women-failed-system-snp-bail-law-reforms/",
+        "description": "John Swinney faces pressure over SNP bail reforms after opposition leaders linked changes to domestic abuse protections with a series of high-profile killings.",
+        "published": "Thu, 03 Sep 2026 16:12:53 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21246840/?type=app&htype=0"
+      },
+      {
+        "id": "91eb055d78b8cf010a2fd93ceba80e8a",
+        "title": "Senior Catholic bishop makes rare political intervention on abortion reform",
+        "link": "https://www.heraldscotland.com/news/26518206.catholic-bishop-writes-scottish-government-abortion-reform/",
+        "description": "One of the leaders of the Catholic Church in Scotland has made a rare political intervention, calling on the Scottish Government to reject liberalisation of abortion laws",
+        "published": "Thu, 03 Sep 2026 16:06:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21405410/?type=app&htype=0"
       },
       {
         "id": "6463bb62009fe575c4e17edbbb03a8b9",
