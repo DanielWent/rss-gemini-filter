@@ -1437,6 +1437,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cx2z57rv6eno#0",
+        "title": "Scottish Holocaust victim recognised at Auschwitz",
+        "link": "https://www.bbc.co.uk/news/articles/cx2z57rv6eno?at_medium=RSS&at_campaign=rss",
+        "description": "Jane Haining declined numerous offers to come back home to Scotland before being arrested and taken to Auschwitz.",
+        "published": "Thu, 03 Sep 2026 14:20:47 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c4c/live/6b8dee40-a797-11f1-b64a-71b1e45ff5c7.jpg"
+      },
+      {
         "id": "fc43a79de292b7ac1139122f53543e2d",
         "title": "Popular free Halloween event set to return next month",
         "link": "https://www.glasgowtimes.co.uk/news/26519726.popular-free-halloween-event-set-return-paisley-next-month/",
