@@ -1453,6 +1453,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=527676",
+        "title": "Man \u2018forced woman to dangle from window ledge after holding her hostage\u2019",
+        "link": "https://news.stv.tv/west-central/man-forced-woman-to-dangle-from-window-ledge-after-holding-her-hostage",
+        "description": "Michael Glancy faces a charge of abduction, assault and attempted murder following an incident at a flat in Port Glasgow",
+        "published": "Thu, 03 Sep 2026 15:37:20 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2021/09/850dd7c57289e7ab7d539b4e28308fc1-1159x720.jpg"
+      },
+      {
+        "id": "4c2a1e9c032609a9335b93a983c0e738",
+        "title": "Scottish comic shares details of rare heart condition as he backs BHF campaign",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26520431.blantyre-comedian-supporting-british-heart-foundation-campaign/",
+        "description": "Rosco McClelland is helping to raise awareness of inherited heart conditions through a new campaign.",
+        "published": "Thu, 03 Sep 2026 16:34:54 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21408431/?type=app&htype=0"
+      },
+      {
+        "id": "f8a150543c9aebdf8dc08644bedc7279",
+        "title": "Woman charged after late night crash on Glasgow street sends cyclist to hospital",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26520377.woman-charged-cyclist-taken-hospital-saracen-street-crash/",
+        "description": "A cyclist was taken to hospital and a woman was charged following a crash on Saracen Street in Possilpark, Glasgow.",
+        "published": "Thu, 03 Sep 2026 16:25:59 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20725578/?type=app&htype=0"
+      },
+      {
         "id": "6463bb62009fe575c4e17edbbb03a8b9",
         "title": "Inside the dawn raids as police hunt Celtic title party disorder suspects",
         "link": "https://www.glasgowtimes.co.uk/news/26520069.three-arrested-dawn-raids-across-glasgow-celtic-title-party/",
@@ -1485,6 +1509,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19895388/?type=app&htype=0"
       },
       {
+        "id": "00a583a1eecaca594a0a2e6b659a5bee",
+        "title": "NSPCC demands better sex and relationships education in Scotland",
+        "link": "https://www.heraldscotland.com/news/26519023.nspcc-demands-better-sex-relationships-education/",
+        "description": "NSPCC Scotland is stepping up its campaign to establish \u2018guaranteed access\u2019 to appropriate relationships education for all children.",
+        "published": "Thu, 03 Sep 2026 15:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20278037/?type=app&htype=0"
+      },
+      {
         "id": "fc43a79de292b7ac1139122f53543e2d",
         "title": "Popular free Halloween event set to return next month",
         "link": "https://www.glasgowtimes.co.uk/news/26519726.popular-free-halloween-event-set-return-paisley-next-month/",
@@ -1509,6 +1541,14 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/cd9a6f2fec163648bd42cbf5f3b78a43-1788441453.jpg"
       },
       {
+        "id": "ed4cae72b6b417694a091d04120b1fbf",
+        "title": "Trainee teacher convicted of domestic abuse offence ruled fit to teach",
+        "link": "https://www.heraldscotland.com/news/26519240.gtc-scotland-rules-trainee-teacher-fit-teach-conviction/",
+        "description": "Neil McLaren admitted a criminal offence connected to domestic abuse against a former partner, but GTC Scotland concluded that his present fitness to teach was not impaired.",
+        "published": "Thu, 03 Sep 2026 14:36:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20070270/?type=app&htype=0"
+      },
+      {
         "id": "8958234",
         "title": "Rangers future latest on Nicolas Raskin after improved transfer bid 'rejected' with deadline looming",
         "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-future-latest-nicolas-raskin-improved-transfer-bid-rejected-deadline-looming-8958234",
@@ -1517,12 +1557,28 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/02/17/38/21778019.jpeg?width=1200&auto=webp&trim=0%2C67%2C0%2C66"
       },
       {
+        "id": "0d471d3f9c5e0a7a8e6095ea0963984c",
+        "title": "Community council saved at 11th hour as famous bridge row hits morale",
+        "link": "https://www.heraldscotland.com/news/26519565.seal-easdale-community-council-saved-11th-hour/",
+        "description": "Seil and Easdale Community Council has been saved at the 11th hour amid growing discontent over Argyll and Bute decisions including the 'Bridge over the Atlantic' row.",
+        "published": "Thu, 03 Sep 2026 14:24:41 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21407352/?type=app&htype=0"
+      },
+      {
         "id": "34b6cb08e050db031802df64e4413d4b",
         "title": "Thousands worth of drugs snared after cops raid Glasgow property",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26519545.cannabis-worth-28-000-seized-blawarthill-street-property/",
         "description": "Cannabis worth an estimated \u00a328,000 has been seized after police uncovered a drugs cultivation at a Glasgow property.",
         "published": "Thu, 03 Sep 2026 14:22:19 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/18399452/?type=app&htype=0"
+      },
+      {
+        "id": "7ad73e42facd1d8f9c6535bc3db9f001",
+        "title": "Nine arrested in immigration crackdown on Scottish fishing vessels",
+        "link": "https://www.heraldscotland.com/news/26519506.nine-arrested-immigration-crackdown-scottish-fishing-vessels/",
+        "description": "Nine arrests have been made by immigration enforcement officers across a week of action targeting fishing vessels in Scottish ports",
+        "published": "Thu, 03 Sep 2026 14:14:10 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/12924986/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/number-glasgow-primary-school-children-34562217",
@@ -1539,6 +1595,14 @@
         "description": "James Blunt will perform at Glasgow's OVO Hydro in April 2027 as part of his UK tour supporting new album Airplane Mode.",
         "published": "Thu, 03 Sep 2026 13:55:31 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21257506/?type=app&htype=0"
+      },
+      {
+        "id": "be4b4c968d3a777d432ce70d22644dea",
+        "title": "Police probe after man on bike involved in Glasgow Southside 'incident'",
+        "link": "https://www.heraldscotland.com/news/26519365.police-probe-glasgow-tantallon-road-incident/",
+        "description": "Police have released CCTV images of a man",
+        "published": "Thu, 03 Sep 2026 13:51:44 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21407159/?type=app&htype=0"
       },
       {
         "id": "57ad9d059c1f78b27f5e9818a3e3ac13",
@@ -1571,14 +1635,6 @@
         "description": "Back for 2026 at Clydeside\u2019s South Street, the iconic Halloween funfair is promising an experience that\u2019s &quot;bigger, better and scarier than ever&quot;.",
         "published": "Thu, 3 Sep 2026 12:24:49 +0000",
         "image_url": "https://i2-prod.edinburghlive.co.uk/incoming/article34562130.ece/ALTERNATES/s98/1_Spooktacular-October-2024-Full-Resolution-15.jpg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=527585",
-        "title": "Police raid more homes in Celtic title disorder crackdown as arrests hit 47",
-        "link": "https://news.stv.tv/west-central/police-raid-more-homes-in-celtic-title-disorder-crackdown-as-arrests-hit-47",
-        "description": "A total of 47 arrests have been made in connection with the disorder in Glasgow city centre after Celtic won the Premiership title in May",
-        "published": "Thu, 03 Sep 2026 12:18:08 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/0705bd59fdc11bf07edcc6b71b491232-1788434641-1280x720.jpg"
       },
       {
         "id": "525c1b341d796d09df6e542850090c13",
