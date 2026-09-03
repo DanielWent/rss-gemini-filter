@@ -1437,6 +1437,54 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/glasgows-famous-halloween-funfair-spooktacular-34562209",
+        "title": "Glasgow\u2019s famous Halloween funfair Spooktacular is back for 2026 at Clydeside\u2019s South Street",
+        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/glasgows-famous-halloween-funfair-spooktacular-34562209",
+        "description": "Back for 2026 at Clydeside\u2019s South Street, the iconic Halloween funfair is promising an experience that\u2019s &quot;bigger, better and scarier than ever&quot;.",
+        "published": "Thu, 3 Sep 2026 12:24:49 +0000",
+        "image_url": "https://i2-prod.edinburghlive.co.uk/incoming/article34562130.ece/ALTERNATES/s98/1_Spooktacular-October-2024-Full-Resolution-15.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=527585",
+        "title": "Police raid more homes in Celtic title disorder crackdown as arrests hit 47",
+        "link": "https://news.stv.tv/west-central/police-raid-more-homes-in-celtic-title-disorder-crackdown-as-arrests-hit-47",
+        "description": "A total of 47 arrests have been made in connection with the disorder in Glasgow city centre after Celtic won the Premiership title in May",
+        "published": "Thu, 03 Sep 2026 12:18:08 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/0705bd59fdc11bf07edcc6b71b491232-1788434641-1280x720.jpg"
+      },
+      {
+        "id": "eaa37b46064cb420a3c1e2c98706da19",
+        "title": "Popular Glasgow pub left empty for months set for auction with \u00a3250k starting bid",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26519189.former-torrisdale-tavern-pub-glasgows-southside-set-auction/",
+        "description": "The former Torrisdale Tavern on Pollokshaws Road in Strathbungo is set to go under the hammer after closing permanently earlier this year.",
+        "published": "Thu, 03 Sep 2026 13:16:58 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20702732/?type=app&htype=0"
+      },
+      {
+        "id": "8958106",
+        "title": "Rangers reach mega \u00a315.4m transfer agreement over deadline day deal as attacking wildcard could follow",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-reach-mega-transfer-agreement-deadline-day-deal-attacking-wildcard-8958106",
+        "description": "<p>Eredivisie giants would prefer a permanent sale of the Bosnian international but are open to a loan agreement<a href=\"https://www.dailyrecord.co.uk/sport/football/\"></a></p>",
+        "published": "Thu, 03 Sep 2026 12:10:28 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/03/11/11/Celtic-Rangers-graphic-(53).jpeg?width=1200&auto=webp&trim=0%2C0%2C161%2C0"
+      },
+      {
+        "id": "8a014f2992ab89d2fce7af5c908ce927",
+        "title": "Free Glasgow disability event to expands its support after 25 years",
+        "link": "https://www.glasgowtimes.co.uk/news/26519093.kidz-adultz-scotland-expanding-glasgow-disability-event/",
+        "description": "A national disability exhibition is expanding to support people of all ages.",
+        "published": "Thu, 03 Sep 2026 12:56:51 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20073824/?type=app&htype=0"
+      },
+      {
+        "id": "33276d8bb45b3b62d158f2db07eeb336",
+        "title": "Former Scottish Labour leader Anas Sarwar takes House of Lords seat",
+        "link": "https://www.glasgowtimes.co.uk/news/26519034.former-scottish-labour-leader-anas-sarwar-takes-lords-seat/",
+        "description": "Anas Sarwar has officially taken his seat in the unelected House of Lords.",
+        "published": "Thu, 03 Sep 2026 12:45:41 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21406410/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/vieve-kicks-scotland-wide-tour-34558343",
         "title": "Vieve kicks off Scotland-wide Tour de Face at Braehead with free shade-matching",
         "link": "https://www.glasgowlive.co.uk/whats-on/vieve-kicks-scotland-wide-tour-34558343",
@@ -1451,6 +1499,14 @@
         "description": "A Glasgow city centre steakhouse will serve its final customers today as part of a major hospitality shake-up affecting dozens of venues across the UK.",
         "published": "Thu, 03 Sep 2026 12:43:24 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20676655/?type=app&htype=0"
+      },
+      {
+        "id": "a805cd1c90346a460e3aec8808c1fcb0",
+        "title": "Back court branded a 'dump site' as waste piles up beside empty bins",
+        "link": "https://www.heraldscotland.com/news/26518967.glasgow-sauchiehall-street-back-court-branded-dump-site/",
+        "description": "A trade union convenor is urging residents to \u201chave some respect\u201d for their city and not to \u201cdump\u201d their rubbish all over the back court.",
+        "published": "Thu, 03 Sep 2026 12:41:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21406270/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-helicopter-hunt-men-acting-34561519",
