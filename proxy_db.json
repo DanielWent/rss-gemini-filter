@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o#1",
+        "title": "Data centres are booming in Australia - but at what cost?",
+        "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
+        "description": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
+        "published": "Thu, 03 Sep 2026 18:32:03 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9176/live/0e5ba530-a5a5-11f1-b109-879e35c24276.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o#0",
         "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
         "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
