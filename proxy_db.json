@@ -1437,12 +1437,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "6eb6f77b50cc23ce294b2f00cd3e9fef",
+        "title": "Filming of hit TV show's next season will bring 40 famous faces to Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26519990.celebrity-bridge-lies-film-glasgow-year/",
+        "description": "A whopping 40 famous faces will arrive to film the new series of a hit TV show in Glasgow this year.",
+        "published": "Thu, 03 Sep 2026 15:33:02 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21407840/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cx2z57rv6eno#0",
         "title": "Scottish Holocaust victim recognised at Auschwitz",
         "link": "https://www.bbc.co.uk/news/articles/cx2z57rv6eno?at_medium=RSS&at_campaign=rss",
         "description": "Jane Haining declined numerous offers to come back home to Scotland before being arrested and taken to Auschwitz.",
         "published": "Thu, 03 Sep 2026 14:20:47 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c4c/live/6b8dee40-a797-11f1-b64a-71b1e45ff5c7.jpg"
+      },
+      {
+        "id": "ded9448c6fe4aa82a5ec9e084daff036",
+        "title": "Council to review West End parking zone proposals after concerns raised",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26519009.council-review-glasgow-parking-zone-proposals/",
+        "description": "Key elements of a proposed restricted parking scheme in Glasgow will be reviewed following concerns raised by residents, businesses, and community organisations.",
+        "published": "Thu, 03 Sep 2026 15:20:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19895388/?type=app&htype=0"
       },
       {
         "id": "fc43a79de292b7ac1139122f53543e2d",
@@ -1475,6 +1491,14 @@
         "description": "<p>The latest development leaves the Belgian midfielder\u2019s position at Ibrox unresolved</p>",
         "published": "Thu, 03 Sep 2026 13:30:14 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/02/17/38/21778019.jpeg?width=1200&auto=webp&trim=0%2C67%2C0%2C66"
+      },
+      {
+        "id": "34b6cb08e050db031802df64e4413d4b",
+        "title": "Thousands worth of drugs snared after cops raid Glasgow property",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26519545.cannabis-worth-28-000-seized-blawarthill-street-property/",
+        "description": "Cannabis worth an estimated \u00a328,000 has been seized after police uncovered a drugs cultivation at a Glasgow property.",
+        "published": "Thu, 03 Sep 2026 14:22:19 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18399452/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/number-glasgow-primary-school-children-34562217",
