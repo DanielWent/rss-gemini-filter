@@ -5,6 +5,22 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cy0zylpdveqo#0",
+        "title": "AI tools that take notes for GPs could miss vital information, study suggests",
+        "link": "https://www.bbc.co.uk/news/articles/cy0zylpdveqo?at_medium=RSS&at_campaign=rss",
+        "description": "Researchers said the tools - which record consultations - could miss vital things like a patient's facial expressions or emotional state.",
+        "published": "Thu, 03 Sep 2026 22:32:09 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7b5/live/959247e0-a7bf-11f1-a291-b542ee92de7c.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c305qn2jeggo#0",
+        "title": "Transplanted pig kidney works in US man's body for record 271 days",
+        "link": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+        "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
+        "published": "Thu, 03 Sep 2026 22:31:23 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7ac/live/9ea66460-a7b5-11f1-b5cf-8556ae508a51.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o#1",
         "title": "Data centres are booming in Australia - but at what cost?",
         "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
