@@ -1356,6 +1356,14 @@
     "icon_url": "https://runabc.co.uk/favicon.ico",
     "articles": [
       {
+        "id": "https://runabc.co.uk/four-trail-challenges-await-at-chatelherault-country-park",
+        "title": "Four Trail Challenges Await At Chatelherault Country Park",
+        "link": "https://runabc.co.uk/four-trail-challenges-await-at-chatelherault-country-park",
+        "description": "<p><img alt=\"Chatelherault Country Park Trails Races October 2026\" src=\"https://runabc.co.uk/images/2026/08/chatelherault-trail-races-october-2026-013183.jpg\" /></p>\n\t\t\t\t<p>Four woodland challenges await at Chatelherault Country Park on 17 October, with distances from 6K to 20K and plenty of trail adventure along the way...</p>",
+        "published": "Thu, 03 Sep 2026 07:55:00 +0100",
+        "image_url": "https://runabc.co.uk/images/2026/08/chatelherault-trail-races-october-2026-013183.jpg"
+      },
+      {
         "id": "https://runabc.co.uk/aj-bell-great-scottish-run-reveals-2026-finisher-medal",
         "title": "AJ Bell Great Scottish Run Reveals 2026 Finisher Medal",
         "link": "https://runabc.co.uk/aj-bell-great-scottish-run-reveals-2026-finisher-medal",
@@ -1396,6 +1404,38 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "2db19e4630deb771bc7d1c80611e4573",
+        "title": "LIVE updates as BOTH Glasgow Subway lines suspended",
+        "link": "https://www.glasgowtimes.co.uk/news/26517593.live-updates-glasgow-subway-lines-suspended/",
+        "description": "Both Glasgow Subway circles have been suspended this morning.",
+        "published": "Thu, 03 Sep 2026 08:15:46 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21404393/?type=app&htype=0"
+      },
+      {
+        "id": "8957150",
+        "title": "Celtic could make deadline day transfers after Wednesday bonanza as injury update sent on Chelsea loanee",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-could-make-deadline-day-transfers-after-wednesday-injury-update-chelsea-loanee-8957150",
+        "description": "<p>Celtic have gone signing daft in the final days of the transfer window.</p>",
+        "published": "Thu, 03 Sep 2026 07:00:34 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/03/6/53/GettyImages-2293215911.jpg?width=1200&auto=webp&trim=6%2C0%2C6%2C0"
+      },
+      {
+        "id": "8951342",
+        "title": "Rangers transfer necessities ranked as seven positions and five exit candidates assessed on deadline day",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-transfer-necessities-ranked-as-seven-positions-and-five-exit-candidates-assessed-on-deadline-day-8951342",
+        "description": "<p>Rating Rangers\u2019 transfer necessities on Deadline Day</p>",
+        "published": "Thu, 03 Sep 2026 07:00:29 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/02/15/34/GettyImages-2290772140.jpeg?width=1200&auto=webp&trim=5%2C0%2C7%2C0"
+      },
+      {
+        "id": "https://runabc.co.uk/four-trail-challenges-await-at-chatelherault-country-park",
+        "title": "Four Trail Challenges Await At Chatelherault Country Park",
+        "link": "https://runabc.co.uk/four-trail-challenges-await-at-chatelherault-country-park",
+        "description": "<p><img alt=\"Chatelherault Country Park Trails Races October 2026\" src=\"https://runabc.co.uk/images/2026/08/chatelherault-trail-races-october-2026-013183.jpg\" /></p>\n\t\t\t\t<p>Four woodland challenges await at Chatelherault Country Park on 17 October, with distances from 6K to 20K and plenty of trail adventure along the way...</p>",
+        "published": "Thu, 03 Sep 2026 07:55:00 +0100",
+        "image_url": "https://runabc.co.uk/images/2026/08/chatelherault-trail-races-october-2026-013183.jpg"
+      },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-critical-condition-110m-34555591",
         "title": "Glasgow council in 'critical condition' with \u00a3110m budget gap, homelessness crisis and equal pay row",
