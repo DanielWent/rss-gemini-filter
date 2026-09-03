@@ -1437,6 +1437,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/number-glasgow-primary-school-children-34562217",
+        "title": "Number of Glasgow primary school children 'excluded' from class more than doubles",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/number-glasgow-primary-school-children-34562217",
+        "description": "Councillor Paul Carey (BEM) says Scotland\u2019s schools need answers and not excuses.",
+        "published": "Thu, 3 Sep 2026 12:57:59 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34527862.ece/ALTERNATES/s98/1_GettyImages-1498435939.jpg"
+      },
+      {
+        "id": "7ce7d16d3b897e7bb973ef22974f9443",
+        "title": "Iconic British singer with cult hits announces Hydro gig as part of UK tour",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26519388.james-blunt-announces-glasgow-ovo-hydro-show-uk-tour/",
+        "description": "James Blunt will perform at Glasgow's OVO Hydro in April 2027 as part of his UK tour supporting new album Airplane Mode.",
+        "published": "Thu, 03 Sep 2026 13:55:31 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21257506/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c8047r3xdp2o#0",
         "title": "Call to ease 'burden' of housing refugees on Glasgow City Council",
         "link": "https://www.bbc.co.uk/news/articles/c8047r3xdp2o?at_medium=RSS&at_campaign=rss",
@@ -1469,6 +1485,14 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/0705bd59fdc11bf07edcc6b71b491232-1788434641-1280x720.jpg"
       },
       {
+        "id": "525c1b341d796d09df6e542850090c13",
+        "title": "Delays expected as road near Glasgow hospital prepares for emergency works",
+        "link": "https://www.glasgowtimes.co.uk/news/26519192.road-near-glasgow-hospital-disrupted-water-works/",
+        "description": "Roads near a Glasgow hospital are set for disruption when emergency Scottish Water works Queen Elizabeth University Hospital.",
+        "published": "Thu, 03 Sep 2026 13:17:45 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20023077/?type=app&htype=0"
+      },
+      {
         "id": "eaa37b46064cb420a3c1e2c98706da19",
         "title": "Popular Glasgow pub left empty for months set for auction with \u00a3250k starting bid",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26519189.former-torrisdale-tavern-pub-glasgows-southside-set-auction/",
@@ -1485,6 +1509,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17804992/?type=app&htype=0"
       },
       {
+        "id": "1b6a1b69c413d095fb77e7dcb8683ed3",
+        "title": "Scotland's treasure trove of architectural records gets star treatment in documentary",
+        "link": "https://www.heraldscotland.com/news/26519163.hes-archives-library-gets-star-treatment-bbc-documentary/",
+        "description": "A bowling alley on Calton Hill? The plan that nearly was",
+        "published": "Thu, 03 Sep 2026 13:12:26 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21365853/?type=app&htype=0"
+      },
+      {
         "id": "8958106",
         "title": "Rangers reach mega \u00a315.4m transfer agreement over deadline day deal as attacking wildcard could follow",
         "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-reach-mega-transfer-agreement-deadline-day-deal-attacking-wildcard-8958106",
@@ -1499,6 +1531,14 @@
         "description": "John Swinney has pledged to work \u201cvery closely\u201d with Glasgow City Council as it faces a \u00a3110m financial black hole.",
         "published": "Thu, 03 Sep 2026 13:08:09 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/18144165/?type=app&htype=0"
+      },
+      {
+        "id": "8c7572e17a178ee5990281cccb0905f5",
+        "title": "Three men arrested in connection with disorder at Celtic title party",
+        "link": "https://www.heraldscotland.com/news/26519135.three-arrests-celtic-title-party-disorder/",
+        "description": "A further three men have been arrested after the disorder which followed Celtic's title celebrations in May",
+        "published": "Thu, 03 Sep 2026 13:06:44 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20927499/?type=app&htype=0"
       },
       {
         "id": "8a014f2992ab89d2fce7af5c908ce927",
