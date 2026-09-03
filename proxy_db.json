@@ -1437,6 +1437,54 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/vieve-kicks-scotland-wide-tour-34558343",
+        "title": "Vieve kicks off Scotland-wide Tour de Face at Braehead with free shade-matching",
+        "link": "https://www.glasgowlive.co.uk/whats-on/vieve-kicks-scotland-wide-tour-34558343",
+        "description": "Shoppers can meet the brand\u2019s Pro Makeup Artists, receive complimentary professional shade matching and get hands-on with Vieve\u2019s award-winning complexion range.",
+        "published": "Thu, 3 Sep 2026 11:44:42 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34558301.ece/ALTERNATES/s98/0_IMG_1204-1.jpg"
+      },
+      {
+        "id": "d5b42baf818dbc3b5da3f6b3e0beae07",
+        "title": "Well-loved Glasgow city centre steakhouse closes its doors TODAY",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26519017.final-day-bar-block-glasgow-steakhouse-closes-today/",
+        "description": "A Glasgow city centre steakhouse will serve its final customers today as part of a major hospitality shake-up affecting dozens of venues across the UK.",
+        "published": "Thu, 03 Sep 2026 12:43:24 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20676655/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-helicopter-hunt-men-acting-34561519",
+        "title": "Police helicopter hunt for men 'acting suspiciously' near Low Moss prison",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-helicopter-hunt-men-acting-34561519",
+        "description": "The men fled the scene, prompting cops to launch an extensive search across the area.",
+        "published": "Thu, 3 Sep 2026 11:37:45 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34558866.ece/ALTERNATES/s98/0_JS202895327-1.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cm2mdvypl34o#0",
+        "title": "MG Alba boss says Gaelic media services lack funding",
+        "link": "https://www.bbc.co.uk/news/articles/cm2mdvypl34o?at_medium=RSS&at_campaign=rss",
+        "description": "John Morrison says Irish and Welsh services receive millions of pounds of public money.",
+        "published": "Thu, 03 Sep 2026 11:37:37 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/244d/live/bd61d5f0-a6d0-11f1-b0c9-07afcdd8053c.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-quiz-residents-putting-34558615",
+        "title": "Glasgow council to quiz residents about putting rubbish in wrong bins",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-quiz-residents-putting-34558615",
+        "description": "Glasgow residents are being asked about their recycling habits during a consultation as the council as looking at ways to deal with contamination in bins.",
+        "published": "Thu, 3 Sep 2026 11:34:42 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34560416.ece/ALTERNATES/s98/0_binsjpeg.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=527581",
+        "title": "Firefighters tackle massive blaze within gym at Kilmarnock business park",
+        "link": "https://news.stv.tv/west-central/firefighters-tackle-massive-blaze-within-gym-at-kilmarnock-business-park",
+        "description": "Emergency services were called to the fire within a building at Rowallan Business Park in Kilmarnock",
+        "published": "Thu, 03 Sep 2026 11:33:48 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/3f5fd3e0d15c82c6e269bb14412d2b3c-1788435175-1120x720.jpeg"
+      },
+      {
         "id": "2059026c0599f35269c75b91ffa6366d",
         "title": "Fontaines D.C. announce HUGE Glasgow Green gig after Hydro sell out frenzy",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26518801.fontaines-d-c-glasgow-green-gig-2027-selling-hydro-tickets/",
@@ -1451,6 +1499,14 @@
         "description": "<p>Torino midfielder expected to remain in Serie A after a move to Celtic Park fell through</p>",
         "published": "Thu, 03 Sep 2026 11:00:37 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/03/10/38/GettyImages-2272032079.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "a9488fe8f93aa7faae64d6b19832a97e",
+        "title": "Scotland's first minister says 'case to made ' for nationalising buses",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26518756.john-swinney-says-case-made--nationalising-buses-2-cap/",
+        "description": "Scotland\u2019s First Minister says there is a case for nationalising bus services after a \u00a32 fare cap in Glasgow and the west of Scotland.",
+        "published": "Thu, 03 Sep 2026 12:00:23 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18343614/?type=app&htype=0"
       },
       {
         "id": "8957389",
