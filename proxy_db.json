@@ -1437,6 +1437,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "fc43a79de292b7ac1139122f53543e2d",
+        "title": "Popular free Halloween event set to return next month",
+        "link": "https://www.glasgowtimes.co.uk/news/26519726.popular-free-halloween-event-set-return-paisley-next-month/",
+        "description": "The Paisley Halloween Festival is set to return this autumn.",
+        "published": "Thu, 03 Sep 2026 14:52:34 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21407325/?type=app&htype=0"
+      },
+      {
+        "id": "11373ffbee29e14cdf9a1be6bfd5568c",
+        "title": "False sex act claim sparks mob attack on innocent man's Glasgow home",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26519659.police-say-false-claims-led-glasgow-man-removed-home/",
+        "description": "A Glasgow man was removed from his home for safety after false social media claims sparked a crowd gathering on Yate Street.",
+        "published": "Thu, 03 Sep 2026 14:42:06 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20654058/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=527628",
+        "title": "Man handed unpaid work after lit flare residue hit girl in eye at TRNSMT at Glasgow Green",
+        "link": "https://news.stv.tv/west-central/man-handed-unpaid-work-after-lit-flare-residue-hit-girl-in-eye-at-trnsmt-at-glasgow-green",
+        "description": "The 16-year-old was left unable to open her eye after Calvin Devaney sparked the pyrotechnic while on another person's shoulders",
+        "published": "Thu, 03 Sep 2026 13:41:57 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/cd9a6f2fec163648bd42cbf5f3b78a43-1788441453.jpg"
+      },
+      {
+        "id": "8958234",
+        "title": "Rangers future latest on Nicolas Raskin after improved transfer bid 'rejected' with deadline looming",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-future-latest-nicolas-raskin-improved-transfer-bid-rejected-deadline-looming-8958234",
+        "description": "<p>The latest development leaves the Belgian midfielder\u2019s position at Ibrox unresolved</p>",
+        "published": "Thu, 03 Sep 2026 13:30:14 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/02/17/38/21778019.jpeg?width=1200&auto=webp&trim=0%2C67%2C0%2C66"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/number-glasgow-primary-school-children-34562217",
         "title": "Number of Glasgow primary school children 'excluded' from class more than doubles",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/number-glasgow-primary-school-children-34562217",
@@ -1451,6 +1483,14 @@
         "description": "James Blunt will perform at Glasgow's OVO Hydro in April 2027 as part of his UK tour supporting new album Airplane Mode.",
         "published": "Thu, 03 Sep 2026 13:55:31 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21257506/?type=app&htype=0"
+      },
+      {
+        "id": "57ad9d059c1f78b27f5e9818a3e3ac13",
+        "title": "Hammer-wielding woman trashed wrong Glasgow bar in \u00a320k rampage",
+        "link": "https://www.glasgowtimes.co.uk/news/26519313.hammer-wielding-woman-trashed-wrong-glasgow-bar-20k-rampage/",
+        "description": "A woman caused \u00a320,000 of damage to a wine bar in a case of mistaken identity.",
+        "published": "Thu, 03 Sep 2026 13:42:06 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21407205/?type=app&htype=0"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/c8047r3xdp2o#0",
@@ -1533,14 +1573,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/18144165/?type=app&htype=0"
       },
       {
-        "id": "8c7572e17a178ee5990281cccb0905f5",
-        "title": "Three men arrested in connection with disorder at Celtic title party",
-        "link": "https://www.heraldscotland.com/news/26519135.three-arrests-celtic-title-party-disorder/",
-        "description": "A further three men have been arrested after the disorder which followed Celtic's title celebrations in May",
-        "published": "Thu, 03 Sep 2026 13:06:44 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20927499/?type=app&htype=0"
-      },
-      {
         "id": "8a014f2992ab89d2fce7af5c908ce927",
         "title": "Free Glasgow disability event to expands its support after 25 years",
         "link": "https://www.glasgowtimes.co.uk/news/26519093.kidz-adultz-scotland-expanding-glasgow-disability-event/",
@@ -1595,14 +1627,6 @@
         "description": "John Morrison says Irish and Welsh services receive millions of pounds of public money.",
         "published": "Thu, 03 Sep 2026 11:37:37 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/244d/live/bd61d5f0-a6d0-11f1-b0c9-07afcdd8053c.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-quiz-residents-putting-34558615",
-        "title": "Glasgow council to quiz residents about putting rubbish in wrong bins",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-quiz-residents-putting-34558615",
-        "description": "Glasgow residents are being asked about their recycling habits during a consultation as the council as looking at ways to deal with contamination in bins.",
-        "published": "Thu, 3 Sep 2026 11:34:42 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34560416.ece/ALTERNATES/s98/0_binsjpeg.jpg"
       },
       {
         "id": "https://news.stv.tv/?p=527581",
@@ -1827,14 +1851,6 @@
         "description": "<p><img alt=\"Chatelherault Country Park Trails Races October 2026\" src=\"https://runabc.co.uk/images/2026/08/chatelherault-trail-races-october-2026-013183.jpg\" /></p>\n\t\t\t\t<p>Four woodland challenges await at Chatelherault Country Park on 17 October, with distances from 6K to 20K and plenty of trail adventure along the way...</p>",
         "published": "Thu, 03 Sep 2026 07:55:00 +0100",
         "image_url": "https://runabc.co.uk/images/2026/08/chatelherault-trail-races-october-2026-013183.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-critical-condition-110m-34555591",
-        "title": "Glasgow council in 'critical condition' with \u00a3110m budget gap, homelessness crisis and equal pay row",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-critical-condition-110m-34555591",
-        "description": "The Accounts Commission says growing demand for services and persistently high poverty levels are creating &quot;significant challenges&quot; for Glasgow",
-        "published": "Thu, 3 Sep 2026 06:06:16 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34555731.ece/ALTERNATES/s98/0_JS256109790.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
