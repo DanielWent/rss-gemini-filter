@@ -1186,6 +1186,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "afcf08deb230789492d750a2890caa89",
+        "title": "'Emergency' works in area outside Glasgow to cause traffic delays",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26521933.scottish-water-repairs-may-affect-supplies-bearsden-g61/",
+        "description": "Residents in Bearsden are being warned of possible disruption to their water supply while Scottish Water carries out essential repairs.",
+        "published": "Fri, 04 Sep 2026 11:11:30 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17119543/?type=app&htype=0"
+      },
+      {
         "id": "874edee52244a94304433ec38e0413ef",
         "title": "'Where's our money?' - More than 70 businesses come together in high street protest",
         "link": "https://www.glasgowtimes.co.uk/news/26519126.70-businesses-protest-running-kirkintilloch-bid/",
@@ -1533,6 +1541,30 @@
         "image_url": "https://www.heraldscotland.com/resources/images/19478351/?type=app&htype=0"
       },
       {
+        "id": "d12efee38b55dfc0c02e51f5d4c395bc",
+        "title": "Scottish singer to kick off major Beatson fundraiser at Glasgow's SEC",
+        "link": "https://www.glasgowtimes.co.uk/news/26521948.cammy-barnes-open-beatson-fundraiser-glasgow-sec/",
+        "description": "Scottish singer-songwriter Cammy Barnes is set to open a major new fundraising event.",
+        "published": "Fri, 04 Sep 2026 11:13:57 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21410466/?type=app&htype=0"
+      },
+      {
+        "id": "afcf08deb230789492d750a2890caa89",
+        "title": "'Emergency' works in area outside Glasgow to cause traffic delays",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26521933.scottish-water-repairs-may-affect-supplies-bearsden-g61/",
+        "description": "Residents in Bearsden are being warned of possible disruption to their water supply while Scottish Water carries out essential repairs.",
+        "published": "Fri, 04 Sep 2026 11:11:30 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17119543/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=527743",
+        "title": "Man to stand trial accused of murdering police station janitor almost 30 years ago",
+        "link": "https://news.stv.tv/west-central/man-to-stand-trial-accused-of-murdering-police-station-janitor-almost-30-years-ago",
+        "description": "Allan Humphrey is accused of stabbing Michael McManus to death in July 1999 in Glasgow's Riddrie",
+        "published": "Fri, 04 Sep 2026 09:57:34 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2025/05/f80552903122b112511c63c30c41a9fc-1746179781.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/si-ferry-confirms-opening-date-34565796",
         "title": "Si Ferry confirms opening date for new restaurant Le Set with former Bilson Eleven chef in kitchen",
         "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/si-ferry-confirms-opening-date-34565796",
@@ -1547,14 +1579,6 @@
         "description": "The Met Office says an unprecedented El Ni\u00f1o could increase the chances of wetter and stormier weather in Scotland this autumn.",
         "published": "Fri, 04 Sep 2026 10:25:12 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20290844/?type=app&htype=0"
-      },
-      {
-        "id": "55eb198673ee42a1c14b306cb5ecc4a2",
-        "title": "Man accused of murdering janitor in Glasgow 27 years ago",
-        "link": "https://www.glasgowtimes.co.uk/news/26521665.man-accused-murdering-janitor-glasgow-27-years-ago/",
-        "description": "A man will stand trial accused of murdering a janitor more than 27 years ago.",
-        "published": "Fri, 04 Sep 2026 10:24:31 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20990839/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/disney-ice-glasgow-2027-what-34565694",
@@ -2299,22 +2323,6 @@
         "description": "<p>Rangers will be active on the final day of the transfer window this summer.</p>",
         "published": "Thu, 03 Sep 2026 08:00:03 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/03/6/33/GettyImages-2275383379.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/nicola-sturgeon-signs-open-letter-34559782",
-        "title": "Nicola Sturgeon signs open letter demanding action to combat the far-right",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/nicola-sturgeon-signs-open-letter-34559782",
-        "description": "The former SNP First Minister, STUC general secretary Roz Foyer and actor Kate Dickie signed the open letter in the wake of anti-immigration rallies across the country.",
-        "published": "Thu, 3 Sep 2026 07:28:24 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34559819.ece/ALTERNATES/s98/0_Edinburgh-International-Book-Festival.jpg"
-      },
-      {
-        "id": "2db19e4630deb771bc7d1c80611e4573",
-        "title": "LIVE updates as BOTH Glasgow Subway lines suspended",
-        "link": "https://www.glasgowtimes.co.uk/news/26517593.live-updates-glasgow-subway-lines-suspended/",
-        "description": "Both Glasgow Subway circles have been suspended this morning.",
-        "published": "Thu, 03 Sep 2026 08:15:46 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21404393/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
