@@ -1178,6 +1178,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "874edee52244a94304433ec38e0413ef",
+        "title": "'Where's our money?' - More than 70 businesses come together in high street protest",
+        "link": "https://www.glasgowtimes.co.uk/news/26519126.70-businesses-protest-running-kirkintilloch-bid/",
+        "description": "More than 70 businesses have united in opposition to the organisation responsible for promoting and supporting the town centre, by displaying signs",
+        "published": "Fri, 04 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21407112/?type=app&htype=0"
+      },
+      {
         "id": "0d0c066e645d9f4976737e2c2ace2df8",
         "title": "Health centre and GP surgery forced to close after burst water main chaos",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26518146.kikrintilloch-health-centre-gp-surgery-forced-close/",
@@ -1501,6 +1509,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "e177da2ad489391a421481121601894b",
+        "title": "Glasgow-born Paesano hints at expansion after major award recognition",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26515483.glasgow-born-paesano-hints-expansion-award-nod/",
+        "description": "Glasgow-born Paesano hints at expansion as its named one of six finalists for Glasgow's Favourite Business at this year's Glasgow Business Awards.",
+        "published": "Tue, 29 Sep 2026 12:31:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21401430/?type=app&htype=0"
+      },
+      {
         "id": "be9f3eefaa54675955b681419afb3d41",
         "title": "From simulators to St Andrews, golf's business model is changing",
         "link": "https://www.heraldscotland.com/news/26491013.new-business-models-reshaping-scotlands-golf-sector/",
@@ -1531,6 +1547,54 @@
         "description": "People want the number of passing HGVs to be reduced in the longer term.",
         "published": "Fri, 4 Sep 2026 06:09:37 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34563735.ece/ALTERNATES/s98/0_broomhousejpeg.jpg"
+      },
+      {
+        "id": "b6c2294516f62a17d7073aa9d21160be",
+        "title": "Hands off our Heathrow lifeline: Scottish business and London's mayor in runway clash",
+        "link": "https://www.heraldscotland.com/news/26520556.scots-business-backs-heathrow-expansion-sadiq-khan-opposes/",
+        "description": "Scotland's largest business organisation has backed Heathrow\u2019s third runway, warning the UK\u2019s only hub airport is critical to Scotland\u2019s international trade and economic competitiveness \u2013 as London Mayor Sir Sadiq Khan formally opposed the expansion.",
+        "published": "Fri, 04 Sep 2026 06:34:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/15314589/?type=app&htype=0"
+      },
+      {
+        "id": "777382f7718e1f9061e3cd524689f84e",
+        "title": "John Swinney is right that Scotland needs rewiring. Delivery is what matters now",
+        "link": "https://www.heraldscotland.com/politics/holyrood/26519233.scotland-needs-rewiring-can-john-swinney-deliver-change/",
+        "description": "John Swinney\u2019s Programme for Government admits Scotland needs \u201crewiring\u201d, writes Andy Maciver. But recognising the country\u2019s problems is the easy part. Delivering lasting reform will require a fundamental change in how government, public services and the economy are run.",
+        "published": "Fri, 04 Sep 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21397286/?type=app&htype=0"
+      },
+      {
+        "id": "4da732c690bb22de22d233c28195f0ef",
+        "title": "Police Scotland faces court challenge over transgender strip-search plans",
+        "link": "https://www.heraldscotland.com/news/26520396.police-scotland-transgender-strip-search-plans-face-court-challenge/",
+        "description": "Police Scotland faces threats of legal action over plans that could allow transgender-identifying male detainees to request female officers for strip searches under a consent-based policy",
+        "published": "Fri, 04 Sep 2026 06:28:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/17555615/?type=app&htype=0"
+      },
+      {
+        "id": "593dced3cba48fa761dc9e5ede0959bd",
+        "title": "Universities are a jewel in Scotland\u2019s crown - but they cannot survive as they are",
+        "link": "https://www.heraldscotland.com/opinion/26519534.peter-mathieson-says-scotland-must-rethink-university-funding/",
+        "description": "Writing exclusively for The Herald, The University of Edinburgh principal Sir Peter Mathieson says Scotland's universities face an unsustainable funding model and calls for bold new approaches to secure their future",
+        "published": "Fri, 04 Sep 2026 06:20:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20897649/?type=app&htype=0"
+      },
+      {
+        "id": "874edee52244a94304433ec38e0413ef",
+        "title": "'Where's our money?' - More than 70 businesses come together in high street protest",
+        "link": "https://www.glasgowtimes.co.uk/news/26519126.70-businesses-protest-running-kirkintilloch-bid/",
+        "description": "More than 70 businesses have united in opposition to the organisation responsible for promoting and supporting the town centre, by displaying signs",
+        "published": "Fri, 04 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21407112/?type=app&htype=0"
+      },
+      {
+        "id": "c4dbdb0effb8c739b24907b6fd58cbad",
+        "title": "NHS merger: Scottish Government accused of 'lack of honesty' as top jobs carved up",
+        "link": "https://www.heraldscotland.com/news/26520749.unions-accuse-swinney-dishonesty-nhs-merger/",
+        "description": "John Swinney's plan to merge NHS Scotland's 14 health boards into two was billed as fresh reform but unions say the restructuring was secretly in development for months, with senior executives already placed in key roles and staff entirely excluded.",
+        "published": "Fri, 04 Sep 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20151892/?type=app&htype=0"
       },
       {
         "id": "2b28f5970e6f8b89a2c6825b0404b7bf",
