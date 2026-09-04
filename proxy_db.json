@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1788534038498251",
+        "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+        "link": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
+        "description": "OpenAI said it could not \"meaningfully respond\" to the report's findings because it hadn't been allowed to review it ahead of publication.",
+        "published": "Fri, 04 Sep 2026 16:59:13 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o#0",
         "title": "Stock up on food to prepare for extreme weather, minister warns",
         "link": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
@@ -1573,6 +1581,46 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21401430/?type=app&htype=0"
       },
       {
+        "id": "09d2957a36e78b78e74c3a08554c4cc0",
+        "title": "Glasgow drivers warned as busy road to shut for at least three days",
+        "link": "https://www.glasgowtimes.co.uk/news/26523997.glasgow-southside-road-shut-least-three-days/",
+        "description": "Cathcart Road in Glasgow's Southside is set to close next week while crews carry out works over three days.",
+        "published": "Fri, 04 Sep 2026 16:37:46 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19342883/?type=app&htype=0"
+      },
+      {
+        "id": "88660100c7d370c4d9c3fbdcad69c86d",
+        "title": "'How did this happen?' -Locals baffled as bus goes on pedestrianised Buchanan Street",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26523864.first-bus-driver-mistakenly-drives-onto-glasgows-buchanan-street/",
+        "description": "A First Bus driver accidentally drove onto Glasgow's pedestrianised Buchanan Street after taking a wrong turn.",
+        "published": "Fri, 04 Sep 2026 16:20:13 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21413093/?type=app&htype=0"
+      },
+      {
+        "id": "827aed0664d36d6281c467e6229934ca",
+        "title": "Part of George Square reopens after being shut for more than a year",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26523845.part-glasgows-george-square-reopens-public/",
+        "description": "Part of George Square has reopened to the public after being shut for more than a year.",
+        "published": "Fri, 04 Sep 2026 16:16:43 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21413222/?type=app&htype=0"
+      },
+      {
+        "id": "b8c55236c8a7ce30bf55bc2a78886b0b",
+        "title": "Glasgow's neglected lanes must be made safer for women and girls, councillor says",
+        "link": "https://www.glasgowtimes.co.uk/news/26523783.glasgow-lanes-must-made-safer-women-councillor-says/",
+        "description": "Glasgow\u2019s \u201cneglected\u201d private lanes need revamped to help women and girls feel safer when moving around the city, a councillor has said.",
+        "published": "Fri, 04 Sep 2026 16:09:14 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20212422/?type=app&htype=0"
+      },
+      {
+        "id": "3adf81eabbc1c9dda2b87a6efb28b73c",
+        "title": "Coatbridge and Bellshill MP raises concerns over proposed assisted dying legislation",
+        "link": "https://www.glasgowtimes.co.uk/news/26523765.coatbridge-mp-vote-new-assisted-dying-bill/",
+        "description": "A Coatbridge and Bellshill MP has restated his opposition to assisted dying ahead of a new bill being debated.",
+        "published": "Fri, 04 Sep 2026 16:06:30 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21412950/?type=app&htype=0"
+      },
+      {
         "id": "32e72f6f690b69cbb5c7983bf18aee39",
         "title": "Proposals for new shopping development with five retail units approved",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26523523.proposals-approved-new-shopping-development-gartcosh/",
@@ -2323,46 +2371,6 @@
         "description": "A thug who strangled his former partner after being told that she was pregnant was jailed today for two years.",
         "published": "Thu, 03 Sep 2026 13:14:28 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17804992/?type=app&htype=0"
-      },
-      {
-        "id": "1b6a1b69c413d095fb77e7dcb8683ed3",
-        "title": "Scotland's treasure trove of architectural records gets star treatment in documentary",
-        "link": "https://www.heraldscotland.com/news/26519163.hes-archives-library-gets-star-treatment-bbc-documentary/",
-        "description": "A bowling alley on Calton Hill? The plan that nearly was",
-        "published": "Thu, 03 Sep 2026 13:12:26 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21365853/?type=app&htype=0"
-      },
-      {
-        "id": "8958106",
-        "title": "Rangers reach mega \u00a315.4m transfer agreement over deadline day deal as attacking wildcard could follow",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-reach-mega-transfer-agreement-deadline-day-deal-attacking-wildcard-8958106",
-        "description": "<p>Eredivisie giants would prefer a permanent sale of the Bosnian international but are open to a loan agreement<a href=\"https://www.dailyrecord.co.uk/sport/football/\"></a></p>",
-        "published": "Thu, 03 Sep 2026 12:10:28 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/03/11/11/Celtic-Rangers-graphic-(53).jpeg?width=1200&auto=webp&trim=0%2C0%2C161%2C0"
-      },
-      {
-        "id": "876dd62be96bd55cea1eb7cfec4c859c",
-        "title": "John Swinney speaks out as Glasgow City Council faces \u00a3110m financial black hole",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26519140.john-swinney-glasgow-city-councils-110m-black-hole/",
-        "description": "John Swinney has pledged to work \u201cvery closely\u201d with Glasgow City Council as it faces a \u00a3110m financial black hole.",
-        "published": "Thu, 03 Sep 2026 13:08:09 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18144165/?type=app&htype=0"
-      },
-      {
-        "id": "8a014f2992ab89d2fce7af5c908ce927",
-        "title": "Free Glasgow disability event to expands its support after 25 years",
-        "link": "https://www.glasgowtimes.co.uk/news/26519093.kidz-adultz-scotland-expanding-glasgow-disability-event/",
-        "description": "A national disability exhibition is expanding to support people of all ages.",
-        "published": "Thu, 03 Sep 2026 12:56:51 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20073824/?type=app&htype=0"
-      },
-      {
-        "id": "33276d8bb45b3b62d158f2db07eeb336",
-        "title": "Former Scottish Labour leader Anas Sarwar takes House of Lords seat",
-        "link": "https://www.glasgowtimes.co.uk/news/26519034.former-scottish-labour-leader-anas-sarwar-takes-lords-seat/",
-        "description": "Anas Sarwar has officially taken his seat in the unelected House of Lords.",
-        "published": "Thu, 03 Sep 2026 12:45:41 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21406410/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
