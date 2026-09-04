@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1788499516792044",
+        "title": "Is a whale fossil the leftovers of a Bronze Age Sunday roast?",
+        "link": "https://www.bbc.co.uk/news/articles/cly4zkpvl4wo?at_medium=RSS&at_campaign=rss",
+        "description": "A 10-year-old boy was out looking for fossils along the shore in Islandmagee when he spotted the back of the skull.",
+        "published": "Fri, 04 Sep 2026 07:13:54 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a19c/live/eae2b780-a6c9-11f1-ae1e-219da1d6451a.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cy0zylpdveqo#0",
         "title": "AI tools that take notes for GPs could miss vital information, study suggests",
         "link": "https://www.bbc.co.uk/news/articles/cy0zylpdveqo?at_medium=RSS&at_campaign=rss",
