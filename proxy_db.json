@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1788561028493900",
+        "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
+        "link": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
+        "description": "More than 10% of Nepal's energy generation capacity was knocked out by last week's floods.",
+        "published": "Sat, 05 Sep 2026 00:02:52 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/490f/live/cf76c760-a864-11f1-aed2-8d6da8d75094.jpg"
+      },
+      {
         "id": "1788559516824997",
         "title": "Ancient cave art discovery suggests first known humans in Ireland walked over from Wales",
         "link": "https://www.bbc.co.uk/news/articles/c5y75dl0jpko?at_medium=RSS&at_campaign=rss",
@@ -347,14 +355,6 @@
         "description": "Melting sea ice from climate change has opened up the region for giant whales to undertake 'feeding frenzies'.",
         "published": "Thu, 20 Aug 2026 02:05:20 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1da/live/98b70b10-9bd8-11f1-bb4d-1147ef2e78e5.jpg"
-      },
-      {
-        "id": "1787139028558167",
-        "title": "OpenAI slows down training after its AI carried out hack",
-        "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
-        "description": "The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.",
-        "published": "Wed, 19 Aug 2026 13:19:12 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc62/live/f7f452d0-9bbb-11f1-9cab-ed9e722cbe4c.jpg"
       },
       {
         "id": "1787077817834005",
