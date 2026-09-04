@@ -1549,6 +1549,22 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21401430/?type=app&htype=0"
       },
       {
+        "id": "https://news.stv.tv/?p=527826",
+        "title": "Man jailed for threatening police officer with knife in Glasgow city centre shop",
+        "link": "https://news.stv.tv/west-central/man-jailed-for-threatening-police-officer-with-knife-in-glasgow-city-centre-shop",
+        "description": "Daniel Burknap threw an object at the officer and threatened him with a knife before fleeing the scene",
+        "published": "Fri, 04 Sep 2026 13:12:27 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2022/08/4ee67454c1e8ba47d2b9a86be7c3525e-1659730715.jpg"
+      },
+      {
+        "id": "8960698",
+        "title": "Man, 32, jailed for nine months after assaulting police in Glasgow city centre",
+        "link": "https://www.glasgowworld.com/news/glasgow-man-jailed-for-assaulting-police-officer-8960698",
+        "description": "<p>Man, 32, jailed for nine months after assaulting police in Glasgow city centre</p>",
+        "published": "Fri, 04 Sep 2026 13:05:09 GMT",
+        "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOjcwYjQxN2YyLWQ1OTItNGE3OS1iMzU3LWEwNTNkZTYyZDZmNTplMTg5ZGJkZC02OTM4LTRhM2QtYTFjNS05ZmZhNTJhMTVmODE=.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
         "id": "https://www.bbc.co.uk/sport/football/articles/ce8x2j8kl3do#0",
         "title": "No away fans for SPFL Old Firm matches this season",
         "link": "https://www.bbc.co.uk/sport/football/articles/ce8x2j8kl3do?at_medium=RSS&at_campaign=rss",
@@ -1571,6 +1587,14 @@
         "description": "There were no injuries as a result of the incident, but a quantity of alcohol and scratch cards were taken.",
         "published": "Fri, 04 Sep 2026 12:02:03 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2025/07/32af0f60ec4eac15f8578e8fe91bf156-1751806776-1079x720.jpeg"
+      },
+      {
+        "id": "451843b6a83927d76378dacf82d558f8",
+        "title": "'Vital' rail line to close for almost two weeks in November",
+        "link": "https://www.heraldscotland.com/news/26522575.vital-west-highland-line-close-almost-two-weeks-november/",
+        "description": "Network Rail said the work was needed to keep the line running safely and reliably",
+        "published": "Fri, 04 Sep 2026 12:51:08 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19186238/?type=app&htype=0"
       },
       {
         "id": "c885c70b6df55e05e2d4d0384b50428f",
@@ -2315,30 +2339,6 @@
         "description": "There's plenty to see and do in Glasgow but for those looking for a taste of nature and tranquility a little further afield, an historic landmark with expansive grounds and a variety of events is just an hour's drive away",
         "published": "Thu, 3 Sep 2026 10:54:08 +0000",
         "image_url": "https://i2-prod.birminghammail.co.uk/incoming/article34560614.ece/ALTERNATES/s98/1_GettyImages-1053211134.jpg"
-      },
-      {
-        "id": "14ccef61fb92b24a16a079bf880ebd5e",
-        "title": "ScotRail brings back Family Pass for a week of unlimited travel during October week",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26518698.scotrail-brings-back-60-family-pass-october-holidays/",
-        "description": "ScotRail's \u00a360 Family Pass offers up to two adults and four children unlimited travel across Scotland for a week.",
-        "published": "Thu, 03 Sep 2026 11:51:31 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20831014/?type=app&htype=0"
-      },
-      {
-        "id": "7c1b78580ab5063feaff8bb9357211ef",
-        "title": "'Glasgow is not a no-go zone' - Sub Club boss hits back at BBC documentary",
-        "link": "https://www.glasgowtimes.co.uk/entertainment/tv_radio/26518686.glasgow-club-chief-slams-distorted-view-portrayed-bbc/",
-        "description": "Sub Club chief slams BBC documentary as 'damaging' to the image of Glasgow, stating that 'people are working very hard to bring about progressive change'",
-        "published": "Thu, 03 Sep 2026 11:49:52 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18584298/?type=app&htype=0"
-      },
-      {
-        "id": "35fe35097828f376e3d7af662624465a",
-        "title": "Conman JAILED after stealing from OAP amid bogus window cleaning scam in West End",
-        "link": "https://www.glasgowtimes.co.uk/news/26518616.conman-jailed-stealing-amid-glasgow-west-end-window-scam/",
-        "description": "A conman who stole money from an elderly woman with dementia amid a bogus window cleaning scam was jailed today for 16 months.",
-        "published": "Thu, 03 Sep 2026 11:39:13 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21194148/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
