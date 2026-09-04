@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1788559516824997",
+        "title": "Ancient cave art discovery suggests first known humans in Ireland walked over from Wales",
+        "link": "https://www.bbc.co.uk/news/articles/c5y75dl0jpko?at_medium=RSS&at_campaign=rss",
+        "description": "During the most recent Ice Age, researchers believe there was a \"lost land bridge\" between Wales and Ireland.",
+        "published": "Sat, 05 Sep 2026 00:01:41 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e01/live/e9948ee0-a885-11f1-824a-0fc4c5d895ae.png"
+      },
+      {
         "id": "1788534038498251",
         "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
         "link": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
