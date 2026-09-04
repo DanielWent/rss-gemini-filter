@@ -3,11 +3,9 @@ name: AI RSS Filter
 on:
   schedule:
     # Runs every 15 minutes. 
-    # Using an off-peak offset (e.g. 3, 18, 33, 48) rather than 0, 15, 30, 45 
-    # significantly reduces delays caused by high runner contention across GitHub.
     - cron: '3,18,33,48 * * * *'
-  workflow_dispatch:      # Allows manual execution and external API triggers
-  repository_dispatch:    # Allows triggering from external webhooks
+  workflow_dispatch:
+  repository_dispatch:
     types: [rss_filter_trigger]
 
 permissions:
@@ -29,13 +27,14 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Fetches full history so Git can safely rebase diverged branches
+          ref: main # Checks out the latest commit on main, not the queued snapshot
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-          cache: 'pip' # Speeds up execution by caching installed wheels
+          cache: 'pip'
 
       - name: Install Dependencies
         run: pip install -r requirements.txt
@@ -45,16 +44,10 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python -u filter_feeds.py
 
-      - name: Pull latest remote changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull origin main --rebase --autostash
-
       - name: Commit Database Updates
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update archive and proxy databases"
+          commit_message: "chore: update archive and proxy databases [skip ci]"
           file_pattern: "*.json"
 
       - name: Upload Pages Artifact
