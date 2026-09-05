@@ -1242,6 +1242,22 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "ea02a8904b459cd9344d049e421095c9",
+        "title": "Glasgow residents asked why they put rubbish in the wrong bins",
+        "link": "https://www.glasgowtimes.co.uk/news/26518373.glasgow-residents-asked-put-rubbish-wrong-bins/",
+        "description": "Glasgow residents are being asked about their recycling habits during a consultation as the council as looking at ways to deal with contamination in bins.",
+        "published": "Sat, 05 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19064280/?type=app&htype=0"
+      },
+      {
+        "id": "fe80cdc81970fb2d21bae8ddfd593297",
+        "title": "Suicide bereavement group members to walk 100km in 24 hours",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26523893.suicide-bereavement-group-members-walk-100km-glasgow/",
+        "description": "People affected by suicide bereavement will take part in a 100km walking challenge this weekend to raise vital funds for a Glasgow-based support group.",
+        "published": "Sat, 05 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18893947/?type=app&htype=0"
+      },
+      {
         "id": "a901dc8bd35d74583b75524d871ac8d8",
         "title": "School holiday play scheme praised for supporting East Dunbartonshire families",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26523202.east-dunbartonshire-holiday-play-scheme-praised-parents/",
@@ -1603,6 +1619,62 @@
         "description": "<p>Celtic\u2019s involvement in the Europa League will add a packed run of midweek fixtures to an already busy domestic calendar</p>",
         "published": "Sat, 05 Sep 2026 05:30:22 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/29/19/58/21775449.jpeg?width=1200&auto=webp&trim=2%2C0%2C4%2C0"
+      },
+      {
+        "id": "a999771824533ed3e415a548a0b095cb",
+        "title": "Glasgow residents secure action on HGV-ridden road but say fight continues",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26523200.hamilton-road-residents-secure-action-hgv-ridden-road/",
+        "description": "Hamilton Road residents in Glasgow have secured action on HGV-ridden road.",
+        "published": "Sat, 05 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21250743/?type=app&htype=0"
+      },
+      {
+        "id": "bc9fbbad3d64c5042fa953cb40eb8b51",
+        "title": "Glasgow community welcomes first major public mural in 36 years",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26519503.first-public-mural-36-years-appears-glasgow-area/",
+        "description": "Residents in Glasgow's Blackhill have just welcomed the first piece of large-scale public artwork to the area in 36 years.",
+        "published": "Sat, 05 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21407463/?type=app&htype=0"
+      },
+      {
+        "id": "658932b95bd7a3d9520c1426fd8e9985",
+        "title": "'I am appalled you can sleep like a baby' - Sheriff blasts grandson who stole \u00a332k",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26523875.glasgow-grandson-stole-32k-grandad/",
+        "description": "A man who stole more than \u00a332,000 from his granddad \"slept like baby\" when he was due in court to be sentenced.",
+        "published": "Sat, 05 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21194148/?type=app&htype=0"
+      },
+      {
+        "id": "ea02a8904b459cd9344d049e421095c9",
+        "title": "Glasgow residents asked why they put rubbish in the wrong bins",
+        "link": "https://www.glasgowtimes.co.uk/news/26518373.glasgow-residents-asked-put-rubbish-wrong-bins/",
+        "description": "Glasgow residents are being asked about their recycling habits during a consultation as the council as looking at ways to deal with contamination in bins.",
+        "published": "Sat, 05 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19064280/?type=app&htype=0"
+      },
+      {
+        "id": "58eb23e2b0b350234b47057325f2c377",
+        "title": "Taxi driver who kicked child and threw milkshake loses licence bid",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26518485.taxi-driver-kicked-child-threw-milkshake-loses-licence-bid/",
+        "description": "A taxi driver who kicked a child and threw a milkshake at them has lost his bid to secure a new licence.",
+        "published": "Sat, 05 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19951862/?type=app&htype=0"
+      },
+      {
+        "id": "3a1dc93e8fa9b6e34d7e8104defec410",
+        "title": "'Put them in the bin' - Row over litter ended with woman being hit by car",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26516862.lanarkshire-driver-admits-assaulting-woman-car-litter-row/",
+        "description": "A driver mowed down a woman in his car - after a row over dropped litter.",
+        "published": "Sat, 05 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20226133/?type=app&htype=0"
+      },
+      {
+        "id": "45a83530221722fa8511d5559f42a799",
+        "title": "East Dunbartonshire gym marking 10th anniversary with free Birthday Bonanza",
+        "link": "https://www.glasgowtimes.co.uk/news/26510905.bishopbriggs-gym-marking-10th-anniversary-free-event/",
+        "description": "An East Dunbartonshire gym is celebrating a decade of service with a free community event.",
+        "published": "Sat, 05 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20531909/?type=app&htype=0"
       },
       {
         "id": "8961670",
@@ -2331,62 +2403,6 @@
         "description": "Jane Haining declined numerous offers to come back home to Scotland before being arrested and taken to Auschwitz.",
         "published": "Thu, 03 Sep 2026 14:20:47 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c4c/live/6b8dee40-a797-11f1-b64a-71b1e45ff5c7.jpg"
-      },
-      {
-        "id": "ded9448c6fe4aa82a5ec9e084daff036",
-        "title": "Council to review West End parking zone proposals after concerns raised",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26519009.council-review-glasgow-parking-zone-proposals/",
-        "description": "Key elements of a proposed restricted parking scheme in Glasgow will be reviewed following concerns raised by residents, businesses, and community organisations.",
-        "published": "Thu, 03 Sep 2026 15:20:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19895388/?type=app&htype=0"
-      },
-      {
-        "id": "00a583a1eecaca594a0a2e6b659a5bee",
-        "title": "NSPCC demands better sex and relationships education in Scotland",
-        "link": "https://www.heraldscotland.com/news/26519023.nspcc-demands-better-sex-relationships-education/",
-        "description": "NSPCC Scotland is stepping up its campaign to establish \u2018guaranteed access\u2019 to appropriate relationships education for all children.",
-        "published": "Thu, 03 Sep 2026 15:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20278037/?type=app&htype=0"
-      },
-      {
-        "id": "fc43a79de292b7ac1139122f53543e2d",
-        "title": "Popular free Halloween event set to return next month",
-        "link": "https://www.glasgowtimes.co.uk/news/26519726.popular-free-halloween-event-set-return-paisley-next-month/",
-        "description": "The Paisley Halloween Festival is set to return this autumn.",
-        "published": "Thu, 03 Sep 2026 14:52:34 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21407325/?type=app&htype=0"
-      },
-      {
-        "id": "11373ffbee29e14cdf9a1be6bfd5568c",
-        "title": "False sex act claim sparks mob attack on innocent man's Glasgow home",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26519659.police-say-false-claims-led-glasgow-man-removed-home/",
-        "description": "A Glasgow man was removed from his home for safety after false social media claims sparked a crowd gathering on Yate Street.",
-        "published": "Thu, 03 Sep 2026 14:42:06 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20654058/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=527628",
-        "title": "Man handed unpaid work after lit flare residue hit girl in eye at TRNSMT at Glasgow Green",
-        "link": "https://news.stv.tv/west-central/man-handed-unpaid-work-after-lit-flare-residue-hit-girl-in-eye-at-trnsmt-at-glasgow-green",
-        "description": "The 16-year-old was left unable to open her eye after Calvin Devaney sparked the pyrotechnic while on another person's shoulders",
-        "published": "Thu, 03 Sep 2026 13:41:57 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/cd9a6f2fec163648bd42cbf5f3b78a43-1788441453.jpg"
-      },
-      {
-        "id": "ed4cae72b6b417694a091d04120b1fbf",
-        "title": "Trainee teacher convicted of domestic abuse offence ruled fit to teach",
-        "link": "https://www.heraldscotland.com/news/26519240.gtc-scotland-rules-trainee-teacher-fit-teach-conviction/",
-        "description": "Neil McLaren admitted a criminal offence connected to domestic abuse against a former partner, but GTC Scotland concluded that his present fitness to teach was not impaired.",
-        "published": "Thu, 03 Sep 2026 14:36:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20070270/?type=app&htype=0"
-      },
-      {
-        "id": "8958234",
-        "title": "Rangers future latest on Nicolas Raskin after improved transfer bid 'rejected' with deadline looming",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-future-latest-nicolas-raskin-improved-transfer-bid-rejected-deadline-looming-8958234",
-        "description": "<p>The latest development leaves the Belgian midfielder\u2019s position at Ibrox unresolved</p>",
-        "published": "Thu, 03 Sep 2026 13:30:14 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/02/17/38/21778019.jpeg?width=1200&auto=webp&trim=0%2C67%2C0%2C66"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
