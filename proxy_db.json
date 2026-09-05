@@ -1629,12 +1629,36 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21401430/?type=app&htype=0"
       },
       {
+        "id": "003873717b04b8da90ff3d46071e5747",
+        "title": "Two men raced to hospital after huge incident as quiet street remains CLOSED",
+        "link": "https://www.glasgowtimes.co.uk/news/26525191.two-men-taken-hospital-afterwhitecrook-street-disturbance/",
+        "description": "Two men, aged 54 and 56, were taken to hospital after a disturbance on Whitecrook Street, Clydebank, on September 5. The street remains closed.",
+        "published": "Sat, 05 Sep 2026 16:21:29 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21415144/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/biker-rushed-hospital-after-terrifying-34573391",
+        "title": "Biker rushed to hospital after terrifying crash on Glasgow street",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/biker-rushed-hospital-after-terrifying-34573391",
+        "description": "Officers say enquiries into the incident are ongoing.",
+        "published": "Sat, 5 Sep 2026 15:00:43 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34573440.ece/ALTERNATES/s98/1_Screenshot-55.png"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/campaigners-call-striking-weavers-massacred-34573255",
         "title": "Campaigners call for striking weavers massacred on Glasgow street to be recognised",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/campaigners-call-striking-weavers-massacred-34573255",
         "description": "\u201cThe Calton Weavers suffered a terrible injustice in life, and in death.&quot;",
         "published": "Sat, 5 Sep 2026 14:24:16 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34573322.ece/ALTERNATES/s98/0_WsK9-zu5jpeg.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/history/glasgow-beatles-escaped-george-sq-24335667",
+        "title": "When 'Glasgow's Beatles' escaped George Square riot via secret City Chambers tunnel",
+        "link": "https://www.glasgowlive.co.uk/news/history/glasgow-beatles-escaped-george-sq-24335667",
+        "description": "Riot police were called to George Square in 1965 as the city's most popular beat group appeared on stage in front of 7,000 hysterical teenage fans.",
+        "published": "Sat, 5 Sep 2026 13:27:00 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article24337011.ece/ALTERNATES/s98/0_George-Square-Fans.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/look-back-tennents-lager-lovelies-34570620",
@@ -2395,30 +2419,6 @@
         "description": "Police Scotland faces threats of legal action over plans that could allow transgender-identifying male detainees to request female officers for strip searches under a consent-based policy",
         "published": "Fri, 04 Sep 2026 06:28:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/17555615/?type=app&htype=0"
-      },
-      {
-        "id": "593dced3cba48fa761dc9e5ede0959bd",
-        "title": "Universities are a jewel in Scotland\u2019s crown - but they cannot survive as they are",
-        "link": "https://www.heraldscotland.com/opinion/26519534.peter-mathieson-says-scotland-must-rethink-university-funding/",
-        "description": "Writing exclusively for The Herald, The University of Edinburgh principal Sir Peter Mathieson says Scotland's universities face an unsustainable funding model and calls for bold new approaches to secure their future",
-        "published": "Fri, 04 Sep 2026 06:20:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20897649/?type=app&htype=0"
-      },
-      {
-        "id": "874edee52244a94304433ec38e0413ef",
-        "title": "'Where's our money?' - More than 70 businesses come together in high street protest",
-        "link": "https://www.glasgowtimes.co.uk/news/26519126.70-businesses-protest-running-kirkintilloch-bid/",
-        "description": "More than 70 businesses have united in opposition to the organisation responsible for promoting and supporting the town centre, by displaying signs",
-        "published": "Fri, 04 Sep 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21407112/?type=app&htype=0"
-      },
-      {
-        "id": "c4dbdb0effb8c739b24907b6fd58cbad",
-        "title": "NHS merger: Scottish Government accused of 'lack of honesty' as top jobs carved up",
-        "link": "https://www.heraldscotland.com/news/26520749.unions-accuse-swinney-dishonesty-nhs-merger/",
-        "description": "John Swinney's plan to merge NHS Scotland's 14 health boards into two was billed as fresh reform but unions say the restructuring was secretly in development for months, with senior executives already placed in key roles and staff entirely excluded.",
-        "published": "Fri, 04 Sep 2026 05:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20151892/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
