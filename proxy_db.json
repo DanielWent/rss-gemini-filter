@@ -1613,12 +1613,44 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21401430/?type=app&htype=0"
       },
       {
+        "id": "8960611",
+        "title": "Martin O\u2019Neill declares himself 'really pleased' with Celtic\u2019s transfer window despite Deadline Day near miss",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/martin-oneill-declares-pleased-celtic-transfer-window-deadline-day-near-miss-8960611",
+        "description": "<p>Celtic boss forced to leave out three summer signings from the club\u2019s European squad</p>",
+        "published": "Sat, 05 Sep 2026 07:00:45 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/14/19/27/21761891.jpeg?width=1200&auto=webp&trim=0%2C115%2C0%2C114"
+      },
+      {
+        "id": "9b66ea7d99cba7df49d2df818063f7da",
+        "title": "\u2018It makes no sense at all\u2019: The \u00a37,000 dog fight that rocked a tiny Hebridean island",
+        "link": "https://www.heraldscotland.com/news/26517313.7-000-legal-bill-heart-great-berneras-dog-dispute/",
+        "description": "Great Bernera's community trust says it was wrongly dragged into Scotland's most talked-about dog dispute, leaving it facing thousands of pounds in legal costs",
+        "published": "Sat, 05 Sep 2026 07:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21398059/?type=app&htype=0"
+      },
+      {
         "id": "8960604",
         "title": "Celtic fixture shake-up confirmed as Europa League schedule forces eight Premiership games to be rearranged",
         "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-fixture-shake-up-confirmed-europa-league-schedule-eight-premiership-games-rearranged-8960604",
         "description": "<p>Celtic\u2019s involvement in the Europa League will add a packed run of midweek fixtures to an already busy domestic calendar</p>",
         "published": "Sat, 05 Sep 2026 05:30:22 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/29/19/58/21775449.jpeg?width=1200&auto=webp&trim=2%2C0%2C4%2C0"
+      },
+      {
+        "id": "776795e02ff201bdcd1cac8a35abadfc",
+        "title": "By-election surprises abound at high-stakes count as SNP named biggest loser",
+        "link": "https://www.heraldscotland.com/news/26524154.night-full-suprises-count-edinburghs-two-by-elections/",
+        "description": "In the count room, initial results in Southside/Newington show a tight race between Labour and the Greens.",
+        "published": "Sat, 05 Sep 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21409226/?type=app&htype=0"
+      },
+      {
+        "id": "726ba082b3bba5319c8c08491f454056",
+        "title": "Why John Swinney wants the NHS to take the lead on Scotland's social care system",
+        "link": "https://www.heraldscotland.com/politics/holyrood/26522756.major-social-care-shake-up-swinneys-reform-plans/",
+        "description": "The First Minister has set out plans to overhaul public services in Scotland, starting with the NHS.\u00a0 But, as Herald writer Brian Taylor explains, he also wants big changes in the provision of social care to our elderly and needy citizens.",
+        "published": "Sat, 05 Sep 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21398874/?type=app&htype=0"
       },
       {
         "id": "a999771824533ed3e415a548a0b095cb",
@@ -1675,6 +1707,30 @@
         "description": "An East Dunbartonshire gym is celebrating a decade of service with a free community event.",
         "published": "Sat, 05 Sep 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20531909/?type=app&htype=0"
+      },
+      {
+        "id": "b940b7fcad92f027511ab3938ed13187",
+        "title": "Dundee University's troubled recovery plan claims more degree courses",
+        "link": "https://www.heraldscotland.com/news/26524179.union-officials-question-oversight-dundee-course-cuts/",
+        "description": "Dundee University will suspend most language and philosophy programmes, fueling an ongoing debate about academic oversight.",
+        "published": "Sat, 05 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21033937/?type=app&htype=0"
+      },
+      {
+        "id": "9f39750d4c9944e26c202588c5fe40af",
+        "title": "SNP councillors block affordable housing scheme a day after Swinney's home pledge",
+        "link": "https://www.heraldscotland.com/news/26524405.snp-councillors-reject-barrhead-affordable-homes-scheme/",
+        "description": "SNP councillors on East Renfrewshire's planning committee helped reject a plan to approve 25 social rent flats in Barrhead, killing the development just 24 hours after John Swinney pledged to deliver 111,000 affordable homes by 2032.",
+        "published": "Sat, 05 Sep 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21236258/?type=app&htype=0"
+      },
+      {
+        "id": "6c88d4f22c36936a198ed9c3d78f22c3",
+        "title": "Higher Scottish tax \u2018brain drain\u2019 argument not convincing, says UK business veteran",
+        "link": "https://www.heraldscotland.com/news/26524037.higher-scottish-tax-brain-drain-argument-not-convincing-says-director/",
+        "description": "The senior business figure declared he is 'not convinced' by the argument that there has been a 'wholesale brain drain' because of higher tax in Scotland",
+        "published": "Sat, 05 Sep 2026 04:40:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21413662/?type=app&htype=0"
       },
       {
         "id": "8961670",
@@ -2347,62 +2403,6 @@
         "description": "Michael Glancy faces a charge of abduction, assault and attempted murder following an incident at a flat in Port Glasgow",
         "published": "Thu, 03 Sep 2026 15:37:20 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2021/09/850dd7c57289e7ab7d539b4e28308fc1-1159x720.jpg"
-      },
-      {
-        "id": "4c2a1e9c032609a9335b93a983c0e738",
-        "title": "Scottish comic shares details of rare heart condition as he backs BHF campaign",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26520431.blantyre-comedian-supporting-british-heart-foundation-campaign/",
-        "description": "Rosco McClelland is helping to raise awareness of inherited heart conditions through a new campaign.",
-        "published": "Thu, 03 Sep 2026 16:34:54 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21408431/?type=app&htype=0"
-      },
-      {
-        "id": "f8a150543c9aebdf8dc08644bedc7279",
-        "title": "Woman charged after late night crash on Glasgow street sends cyclist to hospital",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26520377.woman-charged-cyclist-taken-hospital-saracen-street-crash/",
-        "description": "A cyclist was taken to hospital and a woman was charged following a crash on Saracen Street in Possilpark, Glasgow.",
-        "published": "Thu, 03 Sep 2026 16:25:59 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20725578/?type=app&htype=0"
-      },
-      {
-        "id": "a9688b8d20dd912b077d70457ca6f739",
-        "title": "SNP bail law changes had \u2018fatal consequences for women\u2019, Swinney told",
-        "link": "https://www.heraldscotland.com/news/26520287.women-failed-system-snp-bail-law-reforms/",
-        "description": "John Swinney faces pressure over SNP bail reforms after opposition leaders linked changes to domestic abuse protections with a series of high-profile killings.",
-        "published": "Thu, 03 Sep 2026 16:12:53 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21246840/?type=app&htype=0"
-      },
-      {
-        "id": "91eb055d78b8cf010a2fd93ceba80e8a",
-        "title": "Senior Catholic bishop makes rare political intervention on abortion reform",
-        "link": "https://www.heraldscotland.com/news/26518206.catholic-bishop-writes-scottish-government-abortion-reform/",
-        "description": "One of the leaders of the Catholic Church in Scotland has made a rare political intervention, calling on the Scottish Government to reject liberalisation of abortion laws",
-        "published": "Thu, 03 Sep 2026 16:06:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21405410/?type=app&htype=0"
-      },
-      {
-        "id": "6463bb62009fe575c4e17edbbb03a8b9",
-        "title": "Inside the dawn raids as police hunt Celtic title party disorder suspects",
-        "link": "https://www.glasgowtimes.co.uk/news/26520069.three-arrested-dawn-raids-across-glasgow-celtic-title-party/",
-        "description": "More than half of the people police want to speak to in connection with disorder at Celtic\u2019s unofficial title party have now been arrested following further dawn raids.",
-        "published": "Thu, 03 Sep 2026 15:41:56 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21408111/?type=app&htype=0"
-      },
-      {
-        "id": "6eb6f77b50cc23ce294b2f00cd3e9fef",
-        "title": "Filming of hit TV show's next season will bring 40 famous faces to Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/26519990.celebrity-bridge-lies-film-glasgow-year/",
-        "description": "A whopping 40 famous faces will arrive to film the new series of a hit TV show in Glasgow this year.",
-        "published": "Thu, 03 Sep 2026 15:33:02 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21407840/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cx2z57rv6eno#0",
-        "title": "Scottish Holocaust victim recognised at Auschwitz",
-        "link": "https://www.bbc.co.uk/news/articles/cx2z57rv6eno?at_medium=RSS&at_campaign=rss",
-        "description": "Jane Haining declined numerous offers to come back home to Scotland before being arrested and taken to Auschwitz.",
-        "published": "Thu, 03 Sep 2026 14:20:47 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c4c/live/6b8dee40-a797-11f1-b64a-71b1e45ff5c7.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
