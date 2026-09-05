@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cly5r60v4mro#1",
+        "title": "What different world maps get right - and what they get wrong",
+        "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
+        "description": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
+        "published": "Sat, 05 Sep 2026 13:46:02 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e80e/live/d224a510-a92f-11f1-bb81-8fbd2d2d397c.jpg"
+      },
+      {
         "id": "1788561028493900",
         "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
         "link": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
@@ -1621,6 +1629,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21401430/?type=app&htype=0"
       },
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/campaigners-call-striking-weavers-massacred-34573255",
+        "title": "Campaigners call for striking weavers massacred on Glasgow street to be recognised",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/campaigners-call-striking-weavers-massacred-34573255",
+        "description": "\u201cThe Calton Weavers suffered a terrible injustice in life, and in death.&quot;",
+        "published": "Sat, 5 Sep 2026 14:24:16 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34573322.ece/ALTERNATES/s98/0_WsK9-zu5jpeg.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/look-back-tennents-lager-lovelies-34570620",
         "title": "A look back at the Tennent's Lager Lovelies in era when models graced cans",
         "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/look-back-tennents-lager-lovelies-34570620",
@@ -2403,14 +2419,6 @@
         "description": "John Swinney's plan to merge NHS Scotland's 14 health boards into two was billed as fresh reform but unions say the restructuring was secretly in development for months, with senior executives already placed in key roles and staff entirely excluded.",
         "published": "Fri, 04 Sep 2026 05:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20151892/?type=app&htype=0"
-      },
-      {
-        "id": "2b28f5970e6f8b89a2c6825b0404b7bf",
-        "title": "Mull\u2019s 'miracle' eagle returns three years on from near-fatal fall",
-        "link": "https://www.heraldscotland.com/news/26519690.mulls-miracle-eagle-returns-three-years-near-fatal-fall/",
-        "description": "An \u201cinspirational\u201d white-tailed eagle has been spotted\u00a0on\u00a0Mull three years after falling from its nest as a chick and breaking a wing.",
-        "published": "Fri, 04 Sep 2026 04:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19691891/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
