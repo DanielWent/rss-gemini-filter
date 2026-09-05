@@ -1621,6 +1621,22 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21401430/?type=app&htype=0"
       },
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/much-loved-coffee-company-heralds-34568960",
+        "title": "Much-loved coffee company heralds return to the Barras",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/much-loved-coffee-company-heralds-34568960",
+        "description": "Eight Coffee Company has just launched Taps by Eight on Queen Margaret Drive, bringing a fun new way of enjoying coffee to the west end.",
+        "published": "Sat, 5 Sep 2026 13:13:55 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34569767.ece/ALTERNATES/s98/0_Screenshot-2026-09-04-at-33213PM.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/appeal-launched-turn-glasgow-hmo-34569226",
+        "title": "Appeal launched to turn Glasgow HMO into apart hotel in southside",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/appeal-launched-turn-glasgow-hmo-34569226",
+        "description": "The site was formerly an eight bedroom HMO.",
+        "published": "Sat, 5 Sep 2026 13:08:28 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34569235.ece/ALTERNATES/s98/0_shorttermletspic.png"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/oasis-play-celtic-park-leaked-34572839",
         "title": "Oasis to play Celtic Park as leaked tour dates 'confirms' Glasgow gigs",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/oasis-play-celtic-park-leaked-34572839",
@@ -2395,22 +2411,6 @@
         "description": "A man and a woman have been charged in connection with alleged human trafficking offences as part of an operation to tackle retail crime.",
         "published": "Thu, 03 Sep 2026 20:11:07 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/13808562/?type=app&htype=0"
-      },
-      {
-        "id": "14c10506e3f2702a97a53a3f861a7bd9",
-        "title": "Pub cancels comedy night after backlash over organiser\u2019s Pride post",
-        "link": "https://www.heraldscotland.com/news/26520820.largs-comedy-night-axed-amid-facebook-pride-post-backlash/",
-        "description": "A monthly comedy night in Largs has been cancelled following complaints over a social media post by its compere and organiser.",
-        "published": "Thu, 03 Sep 2026 18:51:02 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21408087/?type=app&htype=17"
-      },
-      {
-        "id": "193997c91b3fbe11f9670eccf058689a",
-        "title": "Scottish Power working through night after school forced to close",
-        "link": "https://www.glasgowtimes.co.uk/news/26520792.pupils-sent-home-power-outage-forces-paisley-school-close/",
-        "description": "Scottish Power is working through the night to restore power to a Paisley school after an outage forced it to close.",
-        "published": "Thu, 03 Sep 2026 18:24:43 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16810413/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
