@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/sport/athletics/articles/cgk5drzm54xo#8",
+        "title": "Hunt 'not afraid of anyone' after second podium in two days",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cgk5drzm54xo?at_medium=RSS&at_campaign=rss",
+        "description": "Amy Hunt says she is \"on the up\" and \"not afraid of anyone\" after finishing second in the 100m at the Diamond League final in Brussels.",
+        "published": "Sat, 05 Sep 2026 21:03:10 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70f3/live/e6afe270-a96a-11f1-b850-096ea2f533db.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cly5r60v4mro#1",
         "title": "What different world maps get right - and what they get wrong",
         "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
