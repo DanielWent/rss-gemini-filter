@@ -1661,6 +1661,30 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21413934/?type=app&htype=0"
       },
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/part-george-square-revamp-unveiled-34575539",
+        "title": "Part of George Square revamp unveiled as Glaswegians divided over 'soulless' redesign",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/part-george-square-revamp-unveiled-34575539",
+        "description": "The recent unveiling has sparked debate online.",
+        "published": "Sun, 6 Sep 2026 13:07:34 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34575705.ece/ALTERNATES/s98/0_Screenshot-2026-09-06-135208.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/neglected-glasgow-lanes-revamp-call-34569331",
+        "title": "'Neglected' Glasgow lanes revamp call to help women feel safer around city",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/neglected-glasgow-lanes-revamp-call-34569331",
+        "description": "Many lanes have multiple private owners which can make it hard to agree on who is responsible for maintenance.",
+        "published": "Sun, 6 Sep 2026 13:02:30 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34569269.ece/ALTERNATES/s98/20260904_122119.jpg"
+      },
+      {
+        "id": "efbfd6f2ee7b03b6bb7e4ecfe33ddfb0",
+        "title": "Update after men hospitalised following 'incident' that locked down busy street",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26526103.update-incident-whitecrook-street-clydebank/",
+        "description": "Update after 'incident' on Whitecrook Street in Clydebank",
+        "published": "Sun, 06 Sep 2026 13:55:29 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21416763/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/world-news/tenants-warned-relentless-rent-rises-34575573",
         "title": "Tenants warned of 'relentless' rent rises with change 'over next year'",
         "link": "https://www.glasgowlive.co.uk/news/world-news/tenants-warned-relentless-rent-rises-34575573",
@@ -1675,6 +1699,14 @@
         "description": "The Reform UK leader wants to buy the vehicle, bought with SNP cash, to tour Scotland during next year's local elections.",
         "published": "Sun, 6 Sep 2026 12:10:48 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34575462.ece/ALTERNATES/s98/0_Screenshot-2026-09-06-124852.png"
+      },
+      {
+        "id": "21f251223a3acf9632f4305c5ee446bd",
+        "title": "John Swinney accused of \u2018wasting\u2019 cash on overseas office expansion",
+        "link": "https://www.heraldscotland.com/news/26525970.john-swinneys-overseas-offices-grow-nine-40/",
+        "description": "John Swinney fails to say how many NHS jobs will be lost as the Scottish Government looks to expand its overseas offices.",
+        "published": "Sun, 06 Sep 2026 12:19:06 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20488183/?type=app&htype=0"
       },
       {
         "id": "679a84b1a4613fb32b0d64a922228bde",
@@ -1867,14 +1899,6 @@
         "description": "A stuntman playing the vigilante has been spotted up close on a motorcycle flying over police cars.",
         "published": "Sat, 05 Sep 2026 16:54:50 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/8d0753d20ac920a9024013b0eefe64eb-1788626886-1280x720.jpeg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/brother-glasgow-race-hate-killer-34573596",
-        "title": "Brother of Glasgow race hate killer 'posed as cop to scam OAP out of savings'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/brother-glasgow-race-hate-killer-34573596",
-        "description": "Ahsan Shahid, a prisoner at HMP Kilmarnock, appeared in the dock at the High Court in Glasgow.",
-        "published": "Sat, 5 Sep 2026 15:42:37 +0000",
-        "image_url": ""
       },
       {
         "id": "003873717b04b8da90ff3d46071e5747",
@@ -2261,14 +2285,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21413222/?type=app&htype=0"
       },
       {
-        "id": "b8c55236c8a7ce30bf55bc2a78886b0b",
-        "title": "Glasgow's neglected lanes must be made safer for women and girls, councillor says",
-        "link": "https://www.glasgowtimes.co.uk/news/26523783.glasgow-lanes-must-made-safer-women-councillor-says/",
-        "description": "Glasgow\u2019s \u201cneglected\u201d private lanes need revamped to help women and girls feel safer when moving around the city, a councillor has said.",
-        "published": "Fri, 04 Sep 2026 16:09:14 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20212422/?type=app&htype=0"
-      },
-      {
         "id": "3adf81eabbc1c9dda2b87a6efb28b73c",
         "title": "Coatbridge and Bellshill MP raises concerns over proposed assisted dying legislation",
         "link": "https://www.glasgowtimes.co.uk/news/26523765.coatbridge-mp-vote-new-assisted-dying-bill/",
@@ -2427,22 +2443,6 @@
         "description": "Network Rail said the work was needed to keep the line running safely and reliably",
         "published": "Fri, 04 Sep 2026 12:51:08 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/19186238/?type=app&htype=0"
-      },
-      {
-        "id": "c885c70b6df55e05e2d4d0384b50428f",
-        "title": "Several homes planned for former Church Of Jesus Christ Of Latter-day Saints",
-        "link": "https://www.glasgowtimes.co.uk/news/26522513.residential-development-planned-former-rutherglen-church/",
-        "description": "Proposals for a new residential development at the site of a former Church Of Jesus Christ Of Latter-day Saints, have been revealed",
-        "published": "Fri, 04 Sep 2026 12:41:50 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21411573/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/scottish-government-launches-prevention-focused-34567326",
-        "title": "Scottish Government launches 'prevention-focused approach' to homelessness",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/scottish-government-launches-prevention-focused-34567326",
-        "description": "Holyrood has unveiled plans to move from a 'crisis management to prevention' as part of the measures.",
-        "published": "Fri, 4 Sep 2026 11:29:18 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34567379.ece/ALTERNATES/s98/0_JS352947358.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
