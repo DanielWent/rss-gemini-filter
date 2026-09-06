@@ -1266,6 +1266,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "137c97b1d26dbc03b72f4e36d3687098",
+        "title": "New \u00a3240,000 pump track officially opens for riders in East Dunbartonshire",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26521567.new-pump-track-officially-opened-east-dunbartonshire/",
+        "description": "A new pump track has now officially opened in East Dunbartonshire.",
+        "published": "Sun, 06 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21409872/?type=app&htype=0"
+      },
+      {
         "id": "ea02a8904b459cd9344d049e421095c9",
         "title": "Glasgow residents asked why they put rubbish in the wrong bins",
         "link": "https://www.glasgowtimes.co.uk/news/26518373.glasgow-residents-asked-put-rubbish-wrong-bins/",
@@ -1635,6 +1643,38 @@
         "description": "Glasgow-born Paesano hints at expansion as its named one of six finalists for Glasgow's Favourite Business at this year's Glasgow Business Awards.",
         "published": "Tue, 29 Sep 2026 12:31:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21401430/?type=app&htype=0"
+      },
+      {
+        "id": "19c7e75b3b1b48a22fe25e1469cf0d6e",
+        "title": "Chef sentenced after hammer rampage in Glasgow restaurant and threat to execute owner",
+        "link": "https://www.glasgowtimes.co.uk/news/26522166.chef-sentenced-hammer-rampage-glasgow-restaurant/",
+        "description": "A chef who brandished a hammer at his former manager amid a dispute over wages was tagged for 21 weeks today.",
+        "published": "Sun, 06 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16885149/?type=app&htype=0"
+      },
+      {
+        "id": "4fd9f6286f38d79b5cfe41e84a070daf",
+        "title": "Legendary British explorer to share stories from 40 years of adventure in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26518615.sir-david-hempleman-adams-share-adventures-glasgow/",
+        "description": "Sir David Hempleman-Adams, an explorer who has reached the world\u2019s most extreme frontiers, will share stories from a lifetime of adventure.",
+        "published": "Sun, 06 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21405791/?type=app&htype=0"
+      },
+      {
+        "id": "1dc5f2b1d571abbece4617455b6be674",
+        "title": "Thug jailed after vicious attack on man he had moments earlier tried to help",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26520061.glasgow-attacker-locked-violent-assault/",
+        "description": "A thug who brutally attacked a man he had earlier tried to help was jailed this week for 30 months.",
+        "published": "Sun, 06 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21194148/?type=app&htype=0"
+      },
+      {
+        "id": "137c97b1d26dbc03b72f4e36d3687098",
+        "title": "New \u00a3240,000 pump track officially opens for riders in East Dunbartonshire",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26521567.new-pump-track-officially-opened-east-dunbartonshire/",
+        "description": "A new pump track has now officially opened in East Dunbartonshire.",
+        "published": "Sun, 06 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21409872/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=527969",
@@ -2395,38 +2435,6 @@
         "description": "<p><img alt=\"Great Scottish Run Countdown 2026 Week 3\" src=\"https://runabc.co.uk/images/2026/09/gscotr-4-350795.jpg\" /></p>\n\t\t\t\t<p>Our 2026 Great Scottish Run countdown continues with five new additions set to make this year's Glasgow running weekend bigger than ever....</p>",
         "published": "Fri, 04 Sep 2026 07:55:00 +0100",
         "image_url": "https://runabc.co.uk/images/2026/09/gscotr-4-350795.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-really-no-go-zone-34558456",
-        "title": "Is Glasgow really a no-go zone - city centre businesses have their say",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-really-no-go-zone-34558456",
-        "description": "We asked business owners and workers about what they thought about crime in the city centre.",
-        "published": "Fri, 4 Sep 2026 06:20:51 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34559249.ece/ALTERNATES/s98/0_962f7f13-72fc-4c5b-a4ae-9eb68ce993b0jfif.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-sma-campaigner-delighted-first-34563019",
-        "title": "Glasgow SMA campaigner 'delighted' as first baby successfully screened for disease",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-sma-campaigner-delighted-first-34563019",
-        "description": "Tony Pearson and his wife Carrie began campaigning after their daughter, Grayce, was diagnosed at six months old.",
-        "published": "Fri, 4 Sep 2026 06:14:56 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34563840.ece/ALTERNATES/s98/0_789eb284-24f2-4330-ba09-621f6da3578bjfif.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-residents-disturbed-heavy-hgv-34563728",
-        "title": "Glasgow residents disturbed by heavy HGV traffic will see new road measures installed",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-residents-disturbed-heavy-hgv-34563728",
-        "description": "People want the number of passing HGVs to be reduced in the longer term.",
-        "published": "Fri, 4 Sep 2026 06:09:37 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34563735.ece/ALTERNATES/s98/0_broomhousejpeg.jpg"
-      },
-      {
-        "id": "b6c2294516f62a17d7073aa9d21160be",
-        "title": "Hands off our Heathrow lifeline: Scottish business and London's mayor in runway clash",
-        "link": "https://www.heraldscotland.com/news/26520556.scots-business-backs-heathrow-expansion-sadiq-khan-opposes/",
-        "description": "Scotland's largest business organisation has backed Heathrow\u2019s third runway, warning the UK\u2019s only hub airport is critical to Scotland\u2019s international trade and economic competitiveness \u2013 as London Mayor Sir Sadiq Khan formally opposed the expansion.",
-        "published": "Fri, 04 Sep 2026 06:34:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/15314589/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
