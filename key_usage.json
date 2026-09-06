@@ -81,13 +81,13 @@
     },
     "522d41e96dd4fda8": {
       "gemini-3.5-flash-lite": {
-        "daily_requests": 20,
+        "daily_requests": 21,
         "exhausted": false
       }
     },
     "6f6441973fb58689": {
       "gemini-3.5-flash-lite": {
-        "daily_requests": 20,
+        "daily_requests": 21,
         "exhausted": false
       }
     }
