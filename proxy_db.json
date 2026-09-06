@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1788689717741413",
+        "title": "McColgan wins London Big Half after five months out",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/c1kxv18jxw4o?at_medium=RSS&at_campaign=rss",
+        "description": "Britain's Eilish McColgan returns to competitive action after five months out with a fractured foot to win the London Big Half for a fourth time.",
+        "published": "Sun, 06 Sep 2026 12:00:10 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b909/live/13aa1620-a9d8-11f1-803f-7f2a9199ddc4.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/sport/athletics/articles/cgk5drzm54xo#8",
         "title": "Hunt 'not afraid of anyone' after second podium in two days",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/cgk5drzm54xo?at_medium=RSS&at_campaign=rss",
@@ -1653,6 +1661,22 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21413934/?type=app&htype=0"
       },
       {
+        "id": "685948191f675f1867b9d672e6b6480e",
+        "title": "Drivers warned as busy Glasgow road closes for five days from tomorrow",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26525820.drivers-warned-hawthorn-street-closes-five-days-tomorrow/",
+        "description": "Hawthorn Street is set to close between Memel Street and Springburn Road for five days starting tomorrow.",
+        "published": "Sun, 06 Sep 2026 10:55:30 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19036953/?type=app&htype=0"
+      },
+      {
+        "id": "d19f0b69178bebf82b05d2a1458a066a",
+        "title": "Short term \u2018aparthotel\u2019 available to book despite having no planning permission",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26525819.aparthotel-available-book-despite-no-planning-permission/",
+        "description": "A short term let \u2018aparthotel\u2019 has already been available to book even though it is yet to get planning permission, it is understood.",
+        "published": "Sun, 06 Sep 2026 10:54:26 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21416260/?type=app&htype=0"
+      },
+      {
         "id": "2186378e3ea75d18305bd296af7dc60d",
         "title": "Major Glasgow road closed indefinitely as council hits engineering problems",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26525792.povanmill-road-closed-council-cites-engineering-difficulties/",
@@ -2419,22 +2443,6 @@
         "description": "A Channel 4 investigation exposed key Reform figures taking donations from non-UK donors, which breaks electoral law",
         "published": "Fri, 04 Sep 2026 10:54:40 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/311ae3855aef652e22313fd318372e22-1788518069-1080x720.jpg"
-      },
-      {
-        "id": "8960212",
-        "title": "Campaigners fear staff redeployment could impact fish and horticulture at Queens Park Glasshouse",
-        "link": "https://www.glasgowworld.com/news/queens-park-glasshouse-staff-redeployment-fears-8960212",
-        "description": "<p>Campaigners fear staff redeployment could impact fish and horticulture at Queens Park Glasshouse</p>",
-        "published": "Fri, 04 Sep 2026 10:41:36 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/06/09/13/24/RUxNODgzMzE5NDA.jpg?width=1200&auto=webp&trim=133%2C0%2C0%2C0"
-      },
-      {
-        "id": "be9f3eefaa54675955b681419afb3d41",
-        "title": "From simulators to St Andrews, golf's business model is changing",
-        "link": "https://www.heraldscotland.com/news/26491013.new-business-models-reshaping-scotlands-golf-sector/",
-        "description": "Success no longer depends solely on membership subscriptions and visitor fees",
-        "published": "Fri, 04 Sep 2026 11:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19478351/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
