@@ -1693,12 +1693,60 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "0df9714c0fd7478220dafb95619dcbd1",
+        "title": "Decision made on future of Glasgow's CCA and Third Eye Centre archives",
+        "link": "https://www.glasgowtimes.co.uk/news/26529398.decision-made-future-glasgows-cca-third-eye-centre-archives/",
+        "description": "An important Glasgow contemporary arts archive containing more than five decades of material has been saved for the city.",
+        "published": "Mon, 07 Sep 2026 17:30:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20575963/?type=app&htype=0"
+      },
+      {
+        "id": "72196441aca32ba3a340272338632b27",
+        "title": "Three Holyrood committees reject call for further scrutiny of party finances",
+        "link": "https://www.heraldscotland.com/politics/westminster/26529641.holyrood-committees-reject-westminster-call-murrell-case-scrutiny/",
+        "description": "Three Holyrood committees have declined to work jointly with a UK Parliament committee on further scrutiny of party finances.",
+        "published": "Mon, 07 Sep 2026 17:13:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21085007/?type=app&htype=0"
+      },
+      {
+        "id": "b07a59fcb78d5d1128ba512a04832a96",
+        "title": "The French connection that's drawing investors to an unexpected Scottish market",
+        "link": "https://www.heraldscotland.com/news/26528843.french-investors-buy-100m-aberdeen-commercial-property/",
+        "description": "Aberdeen has become a magnet for French property funds, which have invested more than \u00a3100m in commercial assets during the past 18 months",
+        "published": "Mon, 07 Sep 2026 17:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19973605/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c5y70pk8d84o#0",
         "title": "Man charged with assaults during Glasgow Green protests disorder",
         "link": "https://www.bbc.co.uk/news/articles/c5y70pk8d84o?at_medium=RSS&at_campaign=rss",
         "description": "Seventeen people have now been charged over trouble that flared up on 25 July after anti-racism and anti-immigration held rival demos.",
         "published": "Mon, 07 Sep 2026 15:48:38 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf89/live/5b7a3f50-aaca-11f1-9ffe-379165646670.jpg"
+      },
+      {
+        "id": "002a7d27983add52959a00443745cf19",
+        "title": "Treatment approved on NHS Scotland for babies diagnosed with rare genetic condition",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26529374.nusinersen-approved-nhs-scotland-spinal-muscular-atrophy/",
+        "description": "Nusinersen has been approved for NHS Scotland to treat babies with spinal muscular atrophy.",
+        "published": "Mon, 07 Sep 2026 16:25:47 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20069196/?type=app&htype=0"
+      },
+      {
+        "id": "057050af2066b21e98dd40d51f7bc59f",
+        "title": "Glasgow tenement fire to be investigated as wilful amid asylum housing disinformation",
+        "link": "https://www.heraldscotland.com/news/26529191.police-appeal-glasgow-fire-site-hit-online-asylum-rumours/",
+        "description": "Detectives are investigating a fire within a tenement in Glasgow, subject to \"online disinformation\" claiming it would be used to house asylum seekers, as wilful.",
+        "published": "Mon, 07 Sep 2026 16:18:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21421508/?type=app&htype=0"
+      },
+      {
+        "id": "b7b2f642202af858355fe71ffeb88f46",
+        "title": "Win for Easdale brothers as McGill's employee crowned Scotland's best bus driver",
+        "link": "https://www.heraldscotland.com/news/26529177.mcgills-employee-crowned-scotlands-best-bus-driver/",
+        "description": "McGill\u2019s Gavin Justice is named Scotland\u2019s top bus driver and finishes runner-up in the UK contest, with McGill\u2019s colleagues also excelling.",
+        "published": "Mon, 07 Sep 2026 15:58:10 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19226778/?type=app&htype=0"
       },
       {
         "id": "a6ac32d4a0e5c0364fada4e695b6f7cf",
