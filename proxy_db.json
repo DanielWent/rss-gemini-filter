@@ -1701,6 +1701,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/car-spotted-driving-across-glasgow-34582022",
+        "title": "Car spotted driving across Glasgow footbridge over M8 leaving onlookers bewildered",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/car-spotted-driving-across-glasgow-34582022",
+        "description": "Footage shows the driver attempting to reverse as pedestrians look on in bewilderment at the bizarre scene.",
+        "published": "Mon, 7 Sep 2026 19:56:10 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34582031.ece/ALTERNATES/s98/2_Driver.png"
+      },
+      {
         "id": "https://news.stv.tv/?p=528215",
         "title": "Extensive searches launched after disappearance of Motherwell man",
         "link": "https://news.stv.tv/west-central/extensive-searches-launched-after-disappearance-of-motherwell-man",
