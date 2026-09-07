@@ -1693,12 +1693,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=528190",
+        "title": "No Shankland or Chermiti \u2013 The attacking options available to injury-hit Rangers",
+        "link": "https://news.stv.tv/west-central/no-shankland-or-chermiti-the-attacking-options-available-to-injury-hit-rangers",
+        "description": "Lawrence Shankland and Youssef Chermiti will both spend time on the sidelines due to injures",
+        "published": "Mon, 07 Sep 2026 16:38:59 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/c062a3981ea3f6c0fc140ef2eeb57af5-1788798081-1042x720.jpg"
+      },
+      {
         "id": "0df9714c0fd7478220dafb95619dcbd1",
         "title": "Decision made on future of Glasgow's CCA and Third Eye Centre archives",
         "link": "https://www.glasgowtimes.co.uk/news/26529398.decision-made-future-glasgows-cca-third-eye-centre-archives/",
         "description": "An important Glasgow contemporary arts archive containing more than five decades of material has been saved for the city.",
         "published": "Mon, 07 Sep 2026 17:30:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20575963/?type=app&htype=0"
+      },
+      {
+        "id": "c8c4bde3f0ecc17e217bce0635244b55",
+        "title": "Former funeral directors in busy Glasgow area could be turned into cafe",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26529715.former-funeral-directors-glasgow-turned-cafe/",
+        "description": "A former funeral directors office in Glasgow could be turned into a cafe.",
+        "published": "Mon, 07 Sep 2026 17:20:39 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19859496/?type=app&htype=0"
       },
       {
         "id": "72196441aca32ba3a340272338632b27",
