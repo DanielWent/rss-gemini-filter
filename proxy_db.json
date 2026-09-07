@@ -1701,6 +1701,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cdj4xx87z84o#0",
+        "title": "Primary teachers hired to teach Glasgow secondary pupils to read",
+        "link": "https://www.bbc.co.uk/news/articles/cdj4xx87z84o?at_medium=RSS&at_campaign=rss",
+        "description": "Intensive catch-up classes are being held for pupils who are starting at high school without basic literacy skills.",
+        "published": "Mon, 07 Sep 2026 22:21:00 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/683c/live/566173b0-aad1-11f1-aa35-df10e5ff32f4.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/car-spotted-driving-across-glasgow-34582022",
         "title": "Car spotted driving across Glasgow footbridge over M8 leaving onlookers bewildered",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/car-spotted-driving-across-glasgow-34582022",
