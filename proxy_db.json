@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo#0",
+        "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
+        "link": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
+        "description": "Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online.",
+        "published": "Mon, 07 Sep 2026 11:30:27 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/787a/live/cae3e7b0-aaa7-11f1-9eba-7de947fa7cd1.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo#3",
         "title": "Nepal observes national day of mourning for victims of flash flood disaster",
         "link": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
@@ -179,14 +187,6 @@
         "description": "The 30-year-old from Birmingham went missing on Saturday as he was descending from Musa Ka Musala.",
         "published": "Wed, 02 Sep 2026 10:57:34 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b352/live/33fe6140-a6b0-11f1-aed2-8d6da8d75094.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cm2qj7jzl7no#3",
-        "title": "'We'll find way to save Jodrell Bank,' Burnham says",
-        "link": "https://www.bbc.co.uk/news/articles/cm2qj7jzl7no?at_medium=RSS&at_campaign=rss",
-        "description": "Burnham said \"there is no way that we can see its demise, and it won't happen under my Government\".",
-        "published": "Tue, 01 Sep 2026 19:30:02 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ff/live/6961bcf0-892e-11f1-b684-d3f861a1f4cf.png"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/c99dym3prl1o#0",
