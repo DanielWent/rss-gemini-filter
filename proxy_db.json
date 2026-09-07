@@ -1669,6 +1669,14 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21413934/?type=app&htype=0"
       },
       {
+        "id": "a5c4aaabc36bd90e041670cbdc9c22aa",
+        "title": "Fire crews spending second day at Glasgow tenement blaze",
+        "link": "https://www.glasgowtimes.co.uk/news/26526563.fire-crews-spending-second-day-glasgow-tenement-blaze/",
+        "description": "Fire crews are spending a second day tackling a blaze at a tenement building in the north of Glasgow",
+        "published": "Mon, 07 Sep 2026 07:50:39 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21417355/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-toddler-left-shaking-vomiting-34570746",
         "title": "Glasgow toddler left 'shaking and vomiting' in Paisley A&E waiting room",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-toddler-left-shaking-vomiting-34570746",
@@ -1699,6 +1707,54 @@
         "description": "Culture sector leaders have warned that targeting the arts industry for savings would erode 'already fragile infrastructure'.",
         "published": "Mon, 07 Sep 2026 06:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21389616/?type=app&htype=0"
+      },
+      {
+        "id": "60dfdaa2044eeb86c5ac67d8f1a87b1d",
+        "title": "Team that help save and change men's lives to have city centre base",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26523409.men-matter-scotland-base-glasgow-city-centre/",
+        "description": "A team that helps save and change the lives of men across Glasgow will now have a city centre base thanks to the \u201cincredible\u201d kindness of others.",
+        "published": "Mon, 07 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21412492/?type=app&htype=0"
+      },
+      {
+        "id": "fd73cdff48c37c46a4b333a6d5e3ed72",
+        "title": "Glasgow theatre which 'belongs to the people of the city' up for top award",
+        "link": "https://www.glasgowtimes.co.uk/news/26520447.citizens-theatre-running-glasgows-favourite-business-award/",
+        "description": "The Citizens Theatre in Glasgow is one of six finalists in the Glasgow Business Awards as it marks a successful year since re-opening after a major refurbishment.",
+        "published": "Mon, 07 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21408484/?type=app&htype=0"
+      },
+      {
+        "id": "d3e50807e9ad8ec9e3ba542dca4fe78b",
+        "title": "Glasgow community groups treated as a \u2018nuisance\u2019 by council",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26522259.glasgow-community-councils-criticise-council-communication/",
+        "description": "Community councils are being made to feel like a \u201cnuisance\u201d\u00a0by the local authority, it has been claimed.",
+        "published": "Mon, 07 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19119054/?type=app&htype=0"
+      },
+      {
+        "id": "3ba834c2ff270ccf8deece97c466ea8b",
+        "title": "'I feel deflated' - Glasgow school worker BITTEN days after learning of pay cut",
+        "link": "https://www.glasgowtimes.co.uk/news/26523526.glasgow-school-worker-bitten-pupil-days-learning-pay-cut/",
+        "description": "A Glasgow City Council employee has revealed she faces violent incidents and increasing demands, yet is set to have her pay cut.",
+        "published": "Mon, 07 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21412772/?type=app&htype=0"
+      },
+      {
+        "id": "33643eff2dedc54d85e97892d2696498",
+        "title": "Commuters across Glasgow can now benefit from \u00a32 bus fare cap",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26525956.commuters-across-glasgow-can-now-benefit-2-bus-fare-cap/",
+        "description": "Most bus passengers across Glasgow can now benefit from the \u00a32 Bus Fare Cap.",
+        "published": "Mon, 07 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17492987/?type=app&htype=0"
+      },
+      {
+        "id": "377f741058882edd14b44555f21e83d5",
+        "title": "Calls made for urgent Scotland-wide expansion of \u00a32 bus far cap",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26525837.calls-urgent-scotland-wide-expansion-2-bus-far-cap/",
+        "description": "The Scottish Greens have welcomed the rollout of the \u00a32 bus fare cap across Strathclyde, but said the scheme must now be expanded across Scotland as a matter of urgency.",
+        "published": "Mon, 07 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20643975/?type=app&htype=0"
       },
       {
         "id": "df03d103b3c91b611f06184f6ca2bbe4",
@@ -2395,62 +2451,6 @@
         "description": "Scotland\u2019s next generation of fashion designers have been showcased on the runway at V&amp;A Dundee.",
         "published": "Fri, 04 Sep 2026 16:45:44 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21413318/?type=app&htype=0"
-      },
-      {
-        "id": "09d2957a36e78b78e74c3a08554c4cc0",
-        "title": "Glasgow drivers warned as busy road to shut for at least three days",
-        "link": "https://www.glasgowtimes.co.uk/news/26523997.glasgow-southside-road-shut-least-three-days/",
-        "description": "Cathcart Road in Glasgow's Southside is set to close next week while crews carry out works over three days.",
-        "published": "Fri, 04 Sep 2026 16:37:46 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19342883/?type=app&htype=0"
-      },
-      {
-        "id": "88660100c7d370c4d9c3fbdcad69c86d",
-        "title": "'How did this happen?' -Locals baffled as bus goes on pedestrianised Buchanan Street",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26523864.first-bus-driver-mistakenly-drives-onto-glasgows-buchanan-street/",
-        "description": "A First Bus driver accidentally drove onto Glasgow's pedestrianised Buchanan Street after taking a wrong turn.",
-        "published": "Fri, 04 Sep 2026 16:20:13 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21413093/?type=app&htype=0"
-      },
-      {
-        "id": "827aed0664d36d6281c467e6229934ca",
-        "title": "Part of George Square reopens after being shut for more than a year",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26523845.part-glasgows-george-square-reopens-public/",
-        "description": "Part of George Square has reopened to the public after being shut for more than a year.",
-        "published": "Fri, 04 Sep 2026 16:16:43 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21413222/?type=app&htype=0"
-      },
-      {
-        "id": "3adf81eabbc1c9dda2b87a6efb28b73c",
-        "title": "Coatbridge and Bellshill MP raises concerns over proposed assisted dying legislation",
-        "link": "https://www.glasgowtimes.co.uk/news/26523765.coatbridge-mp-vote-new-assisted-dying-bill/",
-        "description": "A Coatbridge and Bellshill MP has restated his opposition to assisted dying ahead of a new bill being debated.",
-        "published": "Fri, 04 Sep 2026 16:06:30 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21412950/?type=app&htype=0"
-      },
-      {
-        "id": "d548df0ffbe3600b4dd9e797b2e4845b",
-        "title": "Union says university solutions should not 'exploit' or 'undervalue' staff",
-        "link": "https://www.heraldscotland.com/news/26523453.ucu-scotland-backs-peter-mathieson-calls-funding-reform/",
-        "description": "University union leadership has backed calls to reform the sector\u2019s funding model, while saying that sustainability should not be allowed to \u201cexploit\u201d staff.",
-        "published": "Fri, 04 Sep 2026 16:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21157817/?type=app&htype=0"
-      },
-      {
-        "id": "e52e28e3a0a5aba85868bb1e868a9d6b",
-        "title": "Historic great hall at Scottish castle reopens to visitors",
-        "link": "https://www.heraldscotland.com/news/26523678.historic-great-hall-scottish-castle-reopens-visitors/",
-        "description": "There are now more areas to explore at MacLellan's Castle in Kirkcudbright in Dumfries and Galloway.",
-        "published": "Fri, 04 Sep 2026 15:54:56 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21412905/?type=app&htype=0"
-      },
-      {
-        "id": "32e72f6f690b69cbb5c7983bf18aee39",
-        "title": "Proposals for new shopping development with five retail units approved",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26523523.proposals-approved-new-shopping-development-gartcosh/",
-        "description": "North Lanarkshire Council has approved proposals to create a new shopping development.",
-        "published": "Fri, 04 Sep 2026 15:35:07 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20599464/?type=app&htype=244"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
