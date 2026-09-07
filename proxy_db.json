@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/czezydp4l97o#3",
+        "title": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
+        "link": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
+        "description": "Anak Krakatau, which lies about 150km from the capital Jakarta, began erupting late on Friday.",
+        "published": "Mon, 07 Sep 2026 05:20:39 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/795f/live/1420e5d0-aa72-11f1-8fb5-49eca7c7c503.jpg"
+      },
+      {
         "id": "1788689717741413",
         "title": "McColgan wins London Big Half after five months out",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/c1kxv18jxw4o?at_medium=RSS&at_campaign=rss",
@@ -1661,6 +1669,22 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21413934/?type=app&htype=0"
       },
       {
+        "id": "fb05d6186ca88033a0ed0c2ee8243415",
+        "title": "'Extreme caution': Ministers warned any new arts cuts will damage global reputation",
+        "link": "https://www.heraldscotland.com/news/26524427.scottish-arts-industry-urges-extreme-caution-spending-squeeze/",
+        "description": "Culture sector leaders have warned that targeting the arts industry for savings would erode 'already fragile infrastructure'.",
+        "published": "Mon, 07 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21389616/?type=app&htype=0"
+      },
+      {
+        "id": "df03d103b3c91b611f06184f6ca2bbe4",
+        "title": "John Swinney warned NHS shake-up risks QEUH corporate homicide investigation",
+        "link": "https://www.heraldscotland.com/news/26526174.swinney-told-protect-qeuh-evidence-nhs-overhaul/",
+        "description": "SNP ministers are under pressure to guarantee evidence and potential criminal liabilities are preserved as they press ahead with plans to merge health boards.",
+        "published": "Mon, 07 Sep 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19709730/?type=app&htype=0"
+      },
+      {
         "id": "91b9f15e6dcbe6f677d89ebd9c1f9c8b",
         "title": "Swinney says Scotland is open for business. One policy suggests otherwise",
         "link": "https://www.heraldscotland.com/opinion/26521425.food-price-cap-plans-clash-scottish-business-ambitions/",
@@ -1931,6 +1955,14 @@
         "description": "<p>Striker went off injured during Motherwell victory</p>",
         "published": "Sun, 06 Sep 2026 07:00:03 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/05/21/32/GettyImages-2291319809.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "f8839c83de9ddf08bb0578d4861a5350",
+        "title": "Meet the woman who keeps the capital moving, come hell or high water",
+        "link": "https://www.heraldscotland.com/news/26520942.lothian-group-boss-princes-street-fire-2-bus-cap-future/",
+        "description": "Nearly a year on from the integration of Lothian Buses and Edinburgh Trams, the industry veteran sat down with The Herald.",
+        "published": "Sun, 06 Sep 2026 08:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21355689/?type=app&htype=0"
       },
       {
         "id": "60359861bdc143f0a3c0cf980835d965",
