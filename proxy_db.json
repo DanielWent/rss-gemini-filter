@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1788800781901815",
+        "title": "Late season lift for Reekie after difficult summer",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/ckgv5l615z6o?at_medium=RSS&at_campaign=rss",
+        "description": "Scotland's Jemma Reekie vows to come back stronger after \"a really tricky season\", which included a lingering concussion and a disappointing home Commonwealth Games.",
+        "published": "Mon, 07 Sep 2026 18:47:27 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ae/live/494efd40-aad7-11f1-aa35-df10e5ff32f4.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o#3",
         "title": "OpenAI chief scientist warns no one is prepared for consequences of AI",
         "link": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
@@ -1692,6 +1700,22 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-park-evacuated-amid-gas-34581608",
+        "title": "Glasgow park evacuated amid gas leak as locals urged to avoid area",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-park-evacuated-amid-gas-34581608",
+        "description": "Pictures taken from outside the park show several emergency vehicles as workers in high-visibility clothing tend to the incident.",
+        "published": "Mon, 7 Sep 2026 17:16:03 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34581614.ece/ALTERNATES/s98/2_park.png"
+      },
+      {
+        "id": "d6602c021fa0b21c3b2fa603e76ca7d7",
+        "title": "LIVE updates as evacuations underway after gas main BURSTS",
+        "link": "https://www.glasgowtimes.co.uk/news/26529835.live-updates-giffnock-eastwood-park-closed-amid-burst-gas-main/",
+        "description": "A gas main has burst near a popular park, forcing evacuations.",
+        "published": "Mon, 07 Sep 2026 18:13:12 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19652255/?type=app&htype=0"
+      },
       {
         "id": "https://news.stv.tv/?p=528190",
         "title": "No Shankland or Chermiti \u2013 The attacking options available to injury-hit Rangers",
