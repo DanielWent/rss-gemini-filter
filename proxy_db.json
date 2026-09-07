@@ -1669,28 +1669,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "ebdc7de097cba063ab6982d412027323",
+        "title": "New sleep support available for families with babies and young children",
+        "link": "https://www.glasgowtimes.co.uk/news/26527543.parents-encouraged-access-new-nhsggc-sleep-support/",
+        "description": "Parents are being encouraged to access new sleep support to help babies and young children.",
+        "published": "Mon, 07 Sep 2026 11:33:08 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20171150/?type=app&htype=0"
+      },
+      {
+        "id": "a249a632ea2e0b6b8ec71e3ce4e03006",
+        "title": "Govan health innovation hub bringing science and community together",
+        "link": "https://www.glasgowtimes.co.uk/news/26527474.govan-health-innovation-hub-bringing-community-together/",
+        "description": "A new health innovation hub is bringing scientific research and community spirit together.",
+        "published": "Mon, 07 Sep 2026 11:20:48 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21418942/?type=app&htype=0"
+      },
+      {
         "id": "8970874",
         "title": "Fire crews spend second day battling Glasgow tenement fire",
         "link": "https://www.glasgowworld.com/news/fire-crews-spend-second-day-battling-glasgow-tenement-fire-8970874",
         "description": "<p>Fire crews spend second day battling tenement fire</p>",
         "published": "Mon, 07 Sep 2026 09:58:37 GMT",
         "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOjNmOWM2NmVhLTU3YTAtNDk1Mi1iMTNlLTY5ODU5MzQ2N2QyMjo0NjE1Y2QzNi0wZWE3LTQzZTEtOGM1Ni0xN2JhNTcyMWMwMzc=.jpg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "03647ecdc8ddfcb237c67b625bf8cb76",
-        "title": "LIVE updates as cops probe tenement blaze in Glasgow amid 'disinformation'",
-        "link": "https://www.glasgowtimes.co.uk/news/26526988.live-cops-probe-tenement-blaze-glasgows-possilpark/",
-        "description": "A police investigation has been launched into a blaze at a tenement block in Possilpark amid \"disinformation\" over ongoing work at the site",
-        "published": "Mon, 07 Sep 2026 10:05:15 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21418125/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/fire-crews-battle-blaze-glasgow-34577219",
-        "title": "Fire crews battle blaze at Glasgow tenement for second day after  'malicious lies' spread",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/fire-crews-battle-blaze-glasgow-34577219",
-        "description": "Glasgow Labour MSP Paul Sweeney suggested the fire came after people spread &quot;malicious disinformation&quot; and described it as &quot;completely outrageous&quot;.",
-        "published": "Mon, 7 Sep 2026 07:24:57 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34576930.ece/ALTERNATES/s98/2_Screenshot-2026-09-06-175600.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
