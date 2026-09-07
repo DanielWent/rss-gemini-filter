@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o#3",
+        "title": "OpenAI chief scientist warns no one is prepared for consequences of AI",
+        "link": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
+        "description": "The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.",
+        "published": "Mon, 07 Sep 2026 12:22:07 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9408/live/98bd0c70-aaa8-11f1-9eba-7de947fa7cd1.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo#0",
         "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
         "link": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
@@ -1298,6 +1306,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "069127d668d0a1d4195223068b27fc91",
+        "title": "Glasgow and East Dunbartonshire libraries awarded share of \u00a3230,000 funding",
+        "link": "https://www.glasgowtimes.co.uk/news/26528284.glasgow-east-dunbartonshire-libraries-secured-funding/",
+        "description": "A national library scheme is supporting projects that promote reading, inclusion, and digital literacy.",
+        "published": "Mon, 07 Sep 2026 13:39:17 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21420232/?type=app&htype=0"
+      },
+      {
         "id": "137c97b1d26dbc03b72f4e36d3687098",
         "title": "New \u00a3240,000 pump track officially opens for riders in East Dunbartonshire",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26521567.new-pump-track-officially-opened-east-dunbartonshire/",
@@ -1669,6 +1685,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cgrvx9evd7ko#0",
+        "title": "Major towns set for 20mph speed limits under new roads programme",
+        "link": "https://www.bbc.co.uk/news/articles/cgrvx9evd7ko?at_medium=RSS&at_campaign=rss",
+        "description": "Ayr, Troon and Prestwick have been identified for a future phase of the Ayrshire Roads Alliance (ARA) programme",
+        "published": "Mon, 07 Sep 2026 12:47:43 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6af/live/e5d45560-aab0-11f1-bdcc-b5edf6495ed5.jpg"
+      },
+      {
+        "id": "069127d668d0a1d4195223068b27fc91",
+        "title": "Glasgow and East Dunbartonshire libraries awarded share of \u00a3230,000 funding",
+        "link": "https://www.glasgowtimes.co.uk/news/26528284.glasgow-east-dunbartonshire-libraries-secured-funding/",
+        "description": "A national library scheme is supporting projects that promote reading, inclusion, and digital literacy.",
+        "published": "Mon, 07 Sep 2026 13:39:17 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21420232/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/popular-shawlands-spot-close-after-34579245",
+        "title": "Popular Shawlands spot to close after 18 years as new management to take over",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/popular-shawlands-spot-close-after-34579245",
+        "description": "The current team at The James Tassie are hoping to say goodbye to customers before they shut the doors later this month.",
+        "published": "Mon, 7 Sep 2026 12:25:14 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34579170.ece/ALTERNATES/s98/0_Screenshot-2026-09-07-at-122718PM.png"
+      },
+      {
         "id": "5d80a8fa650a778508c462aa5af50c84",
         "title": "Scotland cancer patients at risk of missing out on life-extending treatment",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26528165.scotland-breast-cancer-patients-face-genetic-testing-gap/",
@@ -1723,6 +1763,14 @@
         "description": "A new health innovation hub is bringing scientific research and community spirit together.",
         "published": "Mon, 07 Sep 2026 11:20:48 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21418942/?type=app&htype=0"
+      },
+      {
+        "id": "009f62269bf358f0c01a8e429eb36fec",
+        "title": "Call to right 'historic wrong' against Scotland's first working-class martyrs",
+        "link": "https://www.heraldscotland.com/news/26527336.call-right-injustice-scotlands-first-working-class-martyrs/",
+        "description": "A petition to grant the Freedom of Glasgow to the Weavers has been officially launched by The Tenementals, a band which is helping to tell the radical history of Scotland\u2019s largest city in song",
+        "published": "Mon, 07 Sep 2026 10:59:29 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21418751/?type=app&htype=0"
       },
       {
         "id": "8970874",
