@@ -1685,6 +1685,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/family-behind-barrhead-cafe-famous-34579705",
+        "title": "Family behind Barrhead cafe famous for its ice cream clear up rumours about selling up",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/family-behind-barrhead-cafe-famous-34579705",
+        "description": "The much-loved Central Cafe was recently put on the market with the popular family behind it looking to retire.",
+        "published": "Mon, 7 Sep 2026 13:11:49 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34579406.ece/ALTERNATES/s98/0_Screenshot-2026-09-07-at-125723PM.png"
+      },
+      {
+        "id": "https://news.stv.tv/?p=528116",
+        "title": "Property developer responds to \u2018false claims\u2019 about fire-ravaged Glasgow tenement",
+        "link": "https://news.stv.tv/west-central/property-developer-responds-to-false-claims-about-fire-ravaged-glasgow-tenement",
+        "description": "John Swinney said 'all the force of the law' would be used if the fire is found to have been deliberately set",
+        "published": "Mon, 07 Sep 2026 13:10:36 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/e8b1f09f2345726e11cb655a340cdb39-1788785374-1280x720.jpeg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cgrvx9evd7ko#0",
         "title": "Major towns set for 20mph speed limits under new roads programme",
         "link": "https://www.bbc.co.uk/news/articles/cgrvx9evd7ko?at_medium=RSS&at_campaign=rss",
@@ -1699,6 +1715,14 @@
         "description": "A national library scheme is supporting projects that promote reading, inclusion, and digital literacy.",
         "published": "Mon, 07 Sep 2026 13:39:17 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21420232/?type=app&htype=0"
+      },
+      {
+        "id": "8d453282708928406cc3a5371751d15d",
+        "title": "Here's how many people have crossed Govan-Partick Bridge Bridge in first two years",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26528268.2m-people-crossed-govan-partick-bridge/",
+        "description": "Over 2m people have crossed the Govan-Partick Bridge Bridge in its first two years, it has been revealed.",
+        "published": "Mon, 07 Sep 2026 13:35:21 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21420512/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/popular-shawlands-spot-close-after-34579245",
