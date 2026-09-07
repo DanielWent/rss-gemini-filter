@@ -1669,6 +1669,30 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21413934/?type=app&htype=0"
       },
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-toddler-left-shaking-vomiting-34570746",
+        "title": "Glasgow toddler left 'shaking and vomiting' in Paisley A&E waiting room",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-toddler-left-shaking-vomiting-34570746",
+        "description": "The family say they were forced to go through the &quot;longest and worst night&quot; of their lives during the ordeal.",
+        "published": "Mon, 7 Sep 2026 06:16:16 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34571023.ece/ALTERNATES/s98/0_JS245354623.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=528014",
+        "title": "Bus fares in Strathclyde area capped at \u00a32",
+        "link": "https://news.stv.tv/west-central/bus-fares-in-strathclyde-area-capped-at-2",
+        "description": "The cap applies across Glasgow, Inverclyde, Renfrewshire, Ayrshire, Lanarkshire and Dunbartonshire",
+        "published": "Mon, 07 Sep 2026 06:10:17 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2021/11/67ecb487f3b0a6c25257f373609fcb30-40.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=528015",
+        "title": "Heart patient well enough to start high school after \u2018game-changer\u2019 procedure",
+        "link": "https://news.stv.tv/west-central/heart-patient-well-enough-to-start-high-school-after-game-changer-procedure",
+        "description": "Alyssa Ferrie is one of the first paediatric patients in Scotland to receive a new self-expanding VenusP valve",
+        "published": "Mon, 07 Sep 2026 06:10:11 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/a12490ea01b83077f479a661bc4dacca-1788761305-1280x720.jpeg"
+      },
+      {
         "id": "fb05d6186ca88033a0ed0c2ee8243415",
         "title": "'Extreme caution': Ministers warned any new arts cuts will damage global reputation",
         "link": "https://www.heraldscotland.com/news/26524427.scottish-arts-industry-urges-extreme-caution-spending-squeeze/",
@@ -2427,30 +2451,6 @@
         "description": "North Lanarkshire Council has approved proposals to create a new shopping development.",
         "published": "Fri, 04 Sep 2026 15:35:07 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20599464/?type=app&htype=244"
-      },
-      {
-        "id": "659d6aad4abb7631aa9ef879b259f52c",
-        "title": "Huge incident near Glasgow primary school after reports of 'man with firearm'",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26523490.man-arrested-armed-police-incident-queen-margaret-drive/",
-        "description": "A man was arrested after police were called to an incident near a Glasgow nursery and primary school.",
-        "published": "Fri, 04 Sep 2026 15:28:30 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16729761/?type=app&htype=0"
-      },
-      {
-        "id": "8960995",
-        "title": "Glasgow City Council remain committed to Queen\u2019s Park Glasshouse plans",
-        "link": "https://www.glasgowworld.com/news/glasgow-city-council-remain-committed-to-queens-park-glasshouse-plans-8960995",
-        "description": "<p>Glasgow City Council say it remains committed to Queen\u2019s Park Glasshouse plans</p>",
-        "published": "Fri, 04 Sep 2026 14:25:49 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/06/09/13/24/RUxNODgzMzE5NDA.jpg?width=1200&auto=webp&trim=133%2C0%2C0%2C0"
-      },
-      {
-        "id": "719784efbc4e3034367f50ff6397fd29",
-        "title": "Brother of Kriss Donald murderer among gang in \u00a3600k fraud conspiracy",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26523415.brother-kriss-donald-murderer-among-gang-600k-fraud-conspiracy/",
-        "description": "The brother of race-hate killer Imran 'Baldy' Shahid is facing a lengthy jail-term for his role in a massive \u00a3600,000 fraud plot.",
-        "published": "Fri, 04 Sep 2026 15:18:18 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20226133/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
