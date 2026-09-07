@@ -1685,6 +1685,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8d990debde38ca07d4fbb5afa8be5eba",
+        "title": "Detectives issue MAJOR update following Glasgow tenement fire",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26529112.police-issue-statement-stoneyhurst-street-tenement-fire/",
+        "description": "Police have issued a major update after a large fire at an empty building on Stoneyhurst Street in Glasgow's Possilpark.",
+        "published": "Mon, 07 Sep 2026 15:48:20 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21421429/?type=app&htype=0"
+      },
+      {
+        "id": "8b6ac9d54b3ff5cc06d8e19bfce9943b",
+        "title": "Plans approved for new golf simulator and cafe in Hillington",
+        "link": "https://www.glasgowtimes.co.uk/news/26529045.plans-approved-new-golf-simulator-cafe-hillington/",
+        "description": "A new indoor golf attraction has been given the green light.",
+        "published": "Mon, 07 Sep 2026 15:39:09 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21421299/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/mcvities-owners-1m-donation-shared-34580027",
         "title": "McVitie's owners \u00a31m donation to be shared among four Glasgow projects",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/mcvities-owners-1m-donation-shared-34580027",
