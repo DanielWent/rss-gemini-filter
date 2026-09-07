@@ -1701,6 +1701,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cj4jel81dw0o#0",
+        "title": "Giffnock park evacuated and closed after gas main bursts",
+        "link": "https://www.bbc.co.uk/news/articles/cj4jel81dw0o?at_medium=RSS&at_campaign=rss",
+        "description": "Scottish Gas Networks (SGN) is dealing with the issue and people are advised to avoid Eastwood Park.",
+        "published": "Mon, 07 Sep 2026 17:40:11 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be43/live/bef81950-aae1-11f1-aa35-df10e5ff32f4.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-park-evacuated-amid-gas-34581608",
         "title": "Glasgow park evacuated amid gas leak as locals urged to avoid area",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-park-evacuated-amid-gas-34581608",
