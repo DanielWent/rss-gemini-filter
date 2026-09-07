@@ -1669,6 +1669,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "5d80a8fa650a778508c462aa5af50c84",
+        "title": "Scotland cancer patients at risk of missing out on life-extending treatment",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26528165.scotland-breast-cancer-patients-face-genetic-testing-gap/",
+        "description": "A lack of routine biomarker testing is putting cancer patients at risk of missing life-extending treatment.",
+        "published": "Mon, 07 Sep 2026 13:13:58 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21420057/?type=app&htype=0"
+      },
+      {
+        "id": "8165bdb836e4277c504e7b892af526e4",
+        "title": "Full list of 195 Beefeater and Brewers Fayre restaurants closing this week",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26528156.195-brewers-fayre-restaurants-close-week-including-hamilton/",
+        "description": "Nearly 200 restaurants are closing across the UK this week, including a Beefeater near Glasgow. See the full list of affected venues.",
+        "published": "Mon, 07 Sep 2026 13:13:14 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20867263/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/health/sir-chris-hoy-fans-wiping-34578801",
+        "title": "Sir Chris Hoy fans 'wiping away tears' after 'thank you' update",
+        "link": "https://www.glasgowlive.co.uk/news/health/sir-chris-hoy-fans-wiping-34578801",
+        "description": "Sir Chris Hoy is in Glasgow this week having cycled around the city for his Tour de 4 which has rasied millions for cancer charities",
+        "published": "Mon, 7 Sep 2026 12:00:58 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34433638.ece/ALTERNATES/s98/1_GLASGOW-SCOTLAND-AUGUST-01-Sir-Chris-Hoy-looks-on-during-the-Track-Cycling-on-day-nine-of-the-Glasgow-2026.jpg"
+      },
+      {
         "id": "8971517",
         "title": "The cost of vaping will rise by nearly \u00a3300 a year when a new tax law comes in",
         "link": "https://www.glasgowworld.com/read-this/the-cost-of-vaping-will-rise-by-nearly-ps300-a-year-when-a-new-tax-law-comes-in-8971517",
