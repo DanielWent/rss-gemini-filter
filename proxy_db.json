@@ -1733,6 +1733,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cgewg29qpx1o#0",
+        "title": "'My new job as a tour guide turned out to be fake'",
+        "link": "https://www.bbc.co.uk/news/articles/cgewg29qpx1o?at_medium=RSS&at_campaign=rss",
+        "description": "Ella was given the role after going to a job fair but the firm's \"head office\" is an empty property and claims on its website are false.",
+        "published": "Tue, 08 Sep 2026 22:18:45 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bcd/live/7d8d0580-8a65-11f1-b2ab-0dd01740f9f6.jpg"
+      },
+      {
         "id": "ec3ef1e6a067a9c71d722c76323505ea",
         "title": "Major update issued after Glasgow flights AXED amid UK wide incident",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26533597.glasgow-airport-flights-cancelled-despite-air-traffic-issue-fix/",
