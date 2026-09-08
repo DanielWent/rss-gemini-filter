@@ -1717,12 +1717,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "843f3c36728ae7788d214959aa667bb1",
+        "title": "Iconic Motown singer Stevie Wonder announces Glasgow show for 50th anniversary tour",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26530587.stevie-wonder-announces-glasgow-show-songs-key-life-tour/",
+        "description": "Stevie Wonder will perform Songs in the Key of Life in full at Glasgow's OVO Hydro as part of a special 50th anniversary tour.",
+        "published": "Tue, 08 Sep 2026 10:08:37 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21423551/?type=app&htype=0"
+      },
+      {
         "id": "a97c0e58b59021e7332c579b6b8b0022",
         "title": "LIVE updates as ongoing issue sees Glasgow trains cancelled",
         "link": "https://www.glasgowtimes.co.uk/news/26530253.live-updates-glasgow-central-trains-cancelled/",
         "description": "Overhead wires have lost power near Saltcoats. As a result, some trains from Glasgow Central have been cancelled. More as it comes.",
         "published": "Tue, 08 Sep 2026 09:12:32 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21140573/?type=app&htype=0"
+      },
+      {
+        "id": "7a05f5b227ca04fb3ef2430797482fe5",
+        "title": "Scottish youth football clubs ignoring new PVG law and risking criminal prosecution",
+        "link": "https://www.heraldscotland.com/sport/26529103.scottish-youth-clubs-risk-criminal-prosecution-unvetted-coaches/",
+        "description": "Scotland\u2019s youth football clubs are ignoring new Protection of Vulnerable Groups laws and allowing unvetted coaches to take charge of kids' teams.",
+        "published": "Tue, 08 Sep 2026 09:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21421583/?type=app&htype=0"
       },
       {
         "id": "0089f10acfe0e9df4100d17512039bba",
