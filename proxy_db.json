@@ -1725,12 +1725,52 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/plan-social-rent-homes-barrhead-34585380",
+        "title": "Plan for social rent homes in Barrhead refused despite housing emergency",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/plan-social-rent-homes-barrhead-34585380",
+        "description": "A councillor said inappropriate development cannot be shoehorned into any old space. Planners believed the scheme should go ahead.",
+        "published": "Tue, 8 Sep 2026 14:01:21 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34375914.ece/ALTERNATES/s98/0_barrheadspringhillsite.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/barrhead-social-club-among-four-34585412",
+        "title": "Barrhead social club among four council-owned sites set to be sold for housing",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/barrhead-social-club-among-four-34585412",
+        "description": "Barrhead Housing Association would take over the sites, including the former Arthurlie FC Social Club, to deliver housing.",
+        "published": "Tue, 8 Sep 2026 14:00:16 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34585414.ece/ALTERNATES/s98/0_arthurliefcsocialclub.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-councillor-call-scrap-council-34585482",
+        "title": "Glasgow councillor in call to scrap council tax for system based on current property value",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-councillor-call-scrap-council-34585482",
+        "description": "Calls have been made for the current council tax system to be scrapped and a timetable for its replacement urgently released.",
+        "published": "Tue, 8 Sep 2026 13:57:55 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article32899655.ece/ALTERNATES/s98/0_City-Chambers.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/rise-crimes-against-women-prompts-34585632",
+        "title": "Rise in crimes against women prompts plea to Glasgow councillors",
+        "link": "https://www.glasgowlive.co.uk/news/rise-crimes-against-women-prompts-34585632",
+        "description": "A motion is being presented to full council this Thursday by councillor Lana Reid-McConnell highlights the \u201cshocking increase\u201d in reported rapes and sexual crimes in Glasgow over the last five years.",
+        "published": "Tue, 8 Sep 2026 13:54:27 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article33299893.ece/ALTERNATES/s98/0_International-Day-for-the-Elimination-of-Violence-against-Women-on-November-25-2024-2433031826316.jpg"
+      },
+      {
         "id": "b762f13f87796a098ae7af7056d75d54",
         "title": "Tunnock's workers secure major pay rise after strike action threat",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26532206.tunnocks-workers-secure-major-pay-rise-strike-action-threat/",
         "description": "More than 300 workers at Tunnock's Uddingston factory have accepted a pay deal worth 9.6% over 21 months, avoiding potential strike action.",
         "published": "Tue, 08 Sep 2026 14:36:20 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21425767/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/sport/football/articles/c74ew227rmpo#0",
+        "title": "Rangers lose Shankland for up to four months",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c74ew227rmpo?at_medium=RSS&at_campaign=rss",
+        "description": "Rangers captain Lawrence Shankland will be out for up to four months because of a hamstring tear and the Scotland forward may have surgery.",
+        "published": "Tue, 08 Sep 2026 13:30:33 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/106f/live/ac04ddd0-ab66-11f1-aed2-8d6da8d75094.jpg"
       },
       {
         "id": "e7ef522a3562ee7eb6049788b9af2081",
