@@ -1725,12 +1725,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8980984",
+        "title": "Reason for failed Rangers and Celtic summer transfer target revealed as 'inadequate' Old Firm claim made",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/reason-for-failed-rangers-and-celtic-summer-transfer-target-revealed-as-inadequate-old-firm-claim-made-8980984",
+        "description": "<p>Old Firm target stayed in the Serie A despite transfer chaos</p>",
+        "published": "Tue, 08 Sep 2026 12:00:12 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/08/10/54/GettyImages-2268227281.jpeg?width=1200&auto=webp&trim=0%2C0%2C2%2C0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/oasis-celtic-park-rumours-spark-34584535",
         "title": "Oasis Celtic Park rumours spark 470% surge in Glasgow hotel prices",
         "link": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/oasis-celtic-park-rumours-spark-34584535",
         "description": "Oasis recently sent Scottish fans into a frenzy, sparking rumours that they will return to Scotland for a second massive stadium tour next year.",
         "published": "Tue, 8 Sep 2026 11:52:09 +0000",
         "image_url": "https://i2-prod.edinburghlive.co.uk/incoming/article34584558.ece/ALTERNATES/s98/1_GettyImages-2233525739.jpg"
+      },
+      {
+        "id": "b1bcb9aa07c97c02dc1823f4dc6c3759",
+        "title": "Six arrested as police continue crack down on disorder in Glasgow city centre",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26531652.six-arrested-police-officers-assaulted-glasgow-city-centre/",
+        "description": "Six people were arrested after police officers were assaulted during incidents in Glasgow city centre over the weekend.",
+        "published": "Tue, 08 Sep 2026 12:51:52 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20945791/?type=app&htype=0"
       },
       {
         "id": "8980911",
@@ -1747,6 +1763,14 @@
         "description": "Glaswegians have been advised to seek help, should they need it, as new figures show that nearly half a million households across Scotland receive discounts on their bills.",
         "published": "Tue, 8 Sep 2026 11:27:16 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34584287.ece/ALTERNATES/s98/0_Council-Tax-Bill-UK.jpg"
+      },
+      {
+        "id": "25864adbd197545b43bde2123985a44f",
+        "title": "Scottish Ballet returns to Scotland with new contemporary double bill Emergence",
+        "link": "https://www.heraldscotland.com/news/26531438.scottish-ballet-returns-new-contemporary-double-bill/",
+        "description": "Scottish Ballet is returning to the stage with Emergence for the first time in 10 years with a new contemporary double bill.",
+        "published": "Tue, 08 Sep 2026 12:26:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21424602/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/pg-foods-glasgow-closed-for-34583657",
@@ -1773,12 +1797,28 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/07/ec584c4f35a38f006440bb3d05a8076a-1785336027-1280x720.jpeg"
       },
       {
+        "id": "a517a0769f5657b30c37bc74aa3e61c5",
+        "title": "New Richmond Palace restaurant with live entertainment to open in Giffnock",
+        "link": "https://www.heraldscotland.com/news/26531279.new-richmond-palace-restaurant-open-giffnock/",
+        "description": "New Richmond Palace restaurant to bring late-night dining and live entertainment to Giffnock",
+        "published": "Tue, 08 Sep 2026 11:51:46 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21424517/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/scotland-must-change-glasgow-domestic-34583698",
         "title": "'Scotland must change' as Glasgow domestic abuse charges rise in surge in violence",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/scotland-must-change-glasgow-domestic-34583698",
         "description": "An &quot;overwhelming majority&quot; of cases involve a woman harmed by a man, with Lord Advocate Ruth Charteris KC saying that &quot;Scotland must change&quot;.",
         "published": "Tue, 8 Sep 2026 10:42:48 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34584014.ece/ALTERNATES/s98/0_Domestic-abuse-victim-with-hands-pressed-against-glass-window.jpg"
+      },
+      {
+        "id": "5f8729c2452c78751f7b61a64598888c",
+        "title": "Stevie Wonder to play first Glasgow show in 37 years",
+        "link": "https://www.heraldscotland.com/news/26531214.stevie-wonder-play-first-glasgow-show-37-years/",
+        "description": "Stevie Wonder is set to play his first show in Glasgow since performed at the SECC (now SEC) in Glasgow in 1989 as part of his European Tour.",
+        "published": "Tue, 08 Sep 2026 11:41:42 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19698247/?type=app&htype=0"
       },
       {
         "id": "32a595ccda7bd0f821ec8f0041739e11",
@@ -1899,14 +1939,6 @@
         "description": "Dempster's 77-year-old husband Bobby 'the devil' gained notoriety as a prominent figure in Glasgow's 1990s underworld",
         "published": "Tue, 8 Sep 2026 07:38:49 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34582532.ece/ALTERNATES/s98/486010410_2118167755296269_2722356868613834843_n.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-city-council-asked-introduce-34580078",
-        "title": "Glasgow City Council asked to introduce family friendly parks and greenspaces",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-city-council-asked-introduce-34580078",
-        "description": "Pilot projects could include Croftcroighn Park and Cranhill Park, which experience some of the highest concentrations of child poverty in the city.",
-        "published": "Tue, 8 Sep 2026 07:03:02 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article21184441.ece/ALTERNATES/s98/0_Cranhill-Park-Google-Maps.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/mum-left-disabled-after-surgery-34563496",
