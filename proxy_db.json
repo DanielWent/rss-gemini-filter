@@ -1725,12 +1725,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/legendary-steviewonder-announces-ovo-hydro-34586904",
+        "title": "Legendary Stevie\u00a0Wonder announces OVO Hydro date as part of 50th Anniversary tour",
+        "link": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/legendary-steviewonder-announces-ovo-hydro-34586904",
+        "description": "The twenty-five-time Grammy award\u2013winning artist is celebrating 50 years of his landmark album with special live performances.",
+        "published": "Tue, 8 Sep 2026 16:09:27 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34586962.ece/ALTERNATES/s98/0_JS406931684.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-airport-disruption-amid-air-34586950",
+        "title": "Glasgow Airport disruption amid air traffic control 'issue' as passengers stranded on tarmac",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-airport-disruption-amid-air-34586950",
+        "description": "An issue affecting NATS air traffic control systems has caused disruption across the UK.",
+        "published": "Tue, 8 Sep 2026 16:02:16 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34587045.ece/ALTERNATES/s98/0_660b7afc-6355-4f7e-8ab5-009726740ba1jfif.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=528341",
         "title": "Glasgow, Edinburgh and Aberdeen airports facing disruption after technical issue",
         "link": "https://news.stv.tv/west-central/glasgow-edinburgh-and-aberdeen-airports-facing-disruption-after-technical-issue",
         "description": "According to FlightRadar24, almost 60% of flights at Edinburgh Airport have been delayed.",
         "published": "Tue, 08 Sep 2026 15:46:57 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/06/5c3efb40d8a87768500702f4af99b468-1780323294-1119x720.jpeg"
+      },
+      {
+        "id": "75014393e7179e39666f2b029b6fbc2d",
+        "title": "Eight Glasgow businesses fined total of \u00a3350k for employing illegal workers",
+        "link": "https://www.glasgowtimes.co.uk/news/26533061.eight-glasgow-businesses-fined-350-000-employing-illegal-workers/",
+        "description": "Eight Glasgow businesses have been fined a total of \u00a3350k for employing illegal workers.",
+        "published": "Tue, 08 Sep 2026 16:41:36 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20400225/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-residents-terrified-after-alleged-34586843",
@@ -1771,14 +1795,6 @@
         "description": "John Swinney has said those who have been \"spreading misinformation\" and \"inciting racial tension\" which is linked to a fire within a tenement in Glasgow will be pursued by the police",
         "published": "Tue, 08 Sep 2026 16:08:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21426377/?type=app&htype=0"
-      },
-      {
-        "id": "d7071f952a37196e581cff2a4b17e3e4",
-        "title": "Glasgow airport flights CANCELLED amid ongoing UK wide air traffic incident",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26532795.glasgow-airport-flights-cancelled-nats-technical-issue/",
-        "description": "Passengers are being urged to check with airlines after a Nats technical issue disrupted flights from Glasgow Airport.",
-        "published": "Tue, 08 Sep 2026 16:02:49 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19280860/?type=app&htype=0"
       },
       {
         "id": "a64a089b9f77b710ac020c36140a6513",
@@ -2507,14 +2523,6 @@
         "description": "A new health innovation hub is bringing scientific research and community spirit together.",
         "published": "Mon, 07 Sep 2026 11:20:48 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21418942/?type=app&htype=0"
-      },
-      {
-        "id": "009f62269bf358f0c01a8e429eb36fec",
-        "title": "Call to right 'historic wrong' against Scotland's first working-class martyrs",
-        "link": "https://www.heraldscotland.com/news/26527336.call-right-injustice-scotlands-first-working-class-martyrs/",
-        "description": "A petition to grant the Freedom of Glasgow to the Weavers has been officially launched by The Tenementals, a band which is helping to tell the radical history of Scotland\u2019s largest city in song",
-        "published": "Mon, 07 Sep 2026 10:59:29 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21418751/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
