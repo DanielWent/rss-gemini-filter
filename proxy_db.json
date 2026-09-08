@@ -1725,6 +1725,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/pg-foods-glasgow-closed-for-34583657",
+        "title": "PG Foods Glasgow closed 'for refurbishment' six months after opening as owners aim to 'evolve the brand'",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/pg-foods-glasgow-closed-for-34583657",
+        "description": "Professor Green's fast food venture opened on Byres Road just six months ago.",
+        "published": "Tue, 8 Sep 2026 11:12:08 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34584213.ece/ALTERNATES/s98/1_JS390448721.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/ckgx3g8g1gko#0",
+        "title": "Royal Regiment of Scotland given freedom of Inverclyde",
+        "link": "https://www.bbc.co.uk/news/articles/ckgx3g8g1gko?at_medium=RSS&at_campaign=rss",
+        "description": "Hundreds of people turned out to watch the regiment march from the Esplanade to Battery Park in Greenock.",
+        "published": "Tue, 08 Sep 2026 10:57:07 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dd8/live/12bc9900-ab71-11f1-9712-a14d469bace4.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=528257",
+        "title": "New bluetongue restrictions to come into force in south-west Scotland",
+        "link": "https://news.stv.tv/west-central/new-bluetongue-restrictions-to-come-into-force-in-south-west-scotland",
+        "description": "Livestock movements will now be subject to licensing requirements",
+        "published": "Tue, 08 Sep 2026 10:56:50 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/07/ec584c4f35a38f006440bb3d05a8076a-1785336027-1280x720.jpeg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/scotland-must-change-glasgow-domestic-34583698",
         "title": "'Scotland must change' as Glasgow domestic abuse charges rise in surge in violence",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/scotland-must-change-glasgow-domestic-34583698",
@@ -1733,12 +1757,60 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34584014.ece/ALTERNATES/s98/0_Domestic-abuse-victim-with-hands-pressed-against-glass-window.jpg"
       },
       {
+        "id": "2f702f691c6a1dc5b5783c8f9f67e9a2",
+        "title": "Scottish Government announces change to bluetongue restrictions",
+        "link": "https://www.heraldscotland.com/news/26531162.bluetongue-restricted-zone-established-south-west-scotland/",
+        "description": "A Bluetongue Restricted Zone will cover south-west Scotland from September 10 after evidence the disease is circulating in the area.",
+        "published": "Tue, 08 Sep 2026 11:32:44 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21302440/?type=app&htype=0"
+      },
+      {
+        "id": "32a595ccda7bd0f821ec8f0041739e11",
+        "title": "Glasgow's first gourmet popcorn shop POP to open on Great Western Road this week",
+        "link": "https://www.heraldscotland.com/news/26531120.glasgows-first-gourmet-popcorn-shop-open-friday/",
+        "description": "Glasgow's first dedicated gourmet popcorn shop, POP, is set to open on Great Western Road on September 11.",
+        "published": "Tue, 08 Sep 2026 11:28:18 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21424345/?type=app&htype=0"
+      },
+      {
+        "id": "486384b2cfab70e54be670ff920847e4",
+        "title": "Cosmic gems and pipe minerals: National museum explores Earth's rocky journey",
+        "link": "https://www.heraldscotland.com/news/26531013.national-museum-scotland-unveils-new-evolving-earth-display/",
+        "description": "Hard hat's not required for the history of earth as told by its stones",
+        "published": "Tue, 08 Sep 2026 11:12:14 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21424125/?type=app&htype=0"
+      },
+      {
+        "id": "6e16ff4b51cf76a3a86387fa8436fb0a",
+        "title": "New Glasgow youth choir launches as National Youth Choir of Scotland marks 30 years",
+        "link": "https://www.heraldscotland.com/news/26530972.new-glasgow-youth-choir-launches-young-singers/",
+        "description": "The National Youth Choir of Scotland is launching a new Glasgow choir for young people aged eight to 18.",
+        "published": "Tue, 08 Sep 2026 11:03:24 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21424047/?type=app&htype=0"
+      },
+      {
+        "id": "04950f3520d209e5d21f5369e6ea7428",
+        "title": "Calls for council chiefs to compile secret dossier on work to take down tax offenders",
+        "link": "https://www.heraldscotland.com/news/26530833.edinburgh-councillors-seek-confidential-briefing-rates-enforcement/",
+        "description": "The briefing will outline how the council collects rates from businesses which are in debt or are participating in suspected \u2018phoenixing\u2019 schemes.",
+        "published": "Tue, 08 Sep 2026 10:59:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21216651/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/scottish-haulage-firm-plunges-liquidation-34583149",
         "title": "Scottish haulage firm plunges into liquidation after 60 years \u2014 all jobs lost",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/scottish-haulage-firm-plunges-liquidation-34583149",
         "description": "VG Mathers Limited, a Scottish haulage firm established in 1968, has entered liquidation after nearly six decades in business.",
         "published": "Tue, 8 Sep 2026 09:52:17 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34583145.ece/ALTERNATES/s98/0_White-lorry-in-motion.jpg"
+      },
+      {
+        "id": "3aef0e809c559cd0866501970bfc51d2",
+        "title": "Nightmare vision of Glasgow Subway turned into horror video game",
+        "link": "https://www.heraldscotland.com/news/26530785.glasgow-subway-nightmare-turned-horror-video-game/",
+        "description": "A Glasgow Caledonian University staff member is turning a nightmare vision of the Glasgow Subway into a horror video game \u2013 and has now been named a finalist in a major Scottish business competition.",
+        "published": "Tue, 08 Sep 2026 10:38:41 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21423917/?type=app&htype=0"
       },
       {
         "id": "9fad7e3b2f3191feabb73e798d5d5e8e",
