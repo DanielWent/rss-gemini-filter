@@ -1725,6 +1725,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "802f549e4e7877106449595b69293721",
+        "title": "Popular restaurant chain Bill's could open first Scots venue on George Square",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26533558.bills-open-first-glasgow-venue-george-square/",
+        "description": "Popular restaurant chain Bill's could be heading to Glasgow city centre after plans were submitted to transform a vacant unit overlooking George Square into its first city venue.",
+        "published": "Tue, 08 Sep 2026 19:31:05 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18385429/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-police-contain-city-centre-34587621",
         "title": "Glasgow police contain city centre 'protesters' amid planned disruption",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-police-contain-city-centre-34587621",
@@ -1757,14 +1765,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21427594/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-arrested-after-glasgow-riot-34587378",
-        "title": "Man arrested after Glasgow 'riot police' incident leaves locals 'terrified'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-arrested-after-glasgow-riot-34587378",
-        "description": "Residents had been left &quot;terrified&quot; after the incident, which saw a major emergency response.",
-        "published": "Tue, 8 Sep 2026 17:12:48 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34587358.ece/ALTERNATES/s98/799600700_2211196926395501_4180746776547134352_n.jpg"
-      },
-      {
         "id": "ebd996beacc25d6e99de0c47d7d6cd88",
         "title": "Fancy an ice bath or a Hetty Hoover? Glasgow 2026 Commonwealth Games auction launches",
         "link": "https://www.heraldscotland.com/news/26533435.glasgow-2026-auction-includes-ice-baths-bean-bags-83-coolboxes/",
@@ -1787,14 +1787,6 @@
         "description": "<p>Injury update could lead to striker regaining place in squad</p>",
         "published": "Tue, 08 Sep 2026 17:00:07 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/08/16/41/GettyImages-2290364264-(1).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "d9f43e885065f5ca2c87f883febdbe45",
-        "title": "LIVE updates as police chase men in balaclavas throughout Glasgow city centre",
-        "link": "https://www.glasgowtimes.co.uk/news/26533369.live-updates-police-swarm-glasgow-city-centre-amid-protests/",
-        "description": "A large police response has been initiated in Glasgow city centre as they attempt to move men wearing balaclavas amid protest.",
-        "published": "Tue, 08 Sep 2026 17:32:59 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21427364/?type=app&htype=0"
       },
       {
         "id": "696a5ead71e6a9955cc26c9728f394a0",
