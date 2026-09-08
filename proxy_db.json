@@ -1725,6 +1725,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/oasis-celtic-park-rumours-spark-34584535",
+        "title": "Oasis Celtic Park rumours spark 470% surge in Glasgow hotel prices",
+        "link": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/oasis-celtic-park-rumours-spark-34584535",
+        "description": "Oasis recently sent Scottish fans into a frenzy, sparking rumours that they will return to Scotland for a second massive stadium tour next year.",
+        "published": "Tue, 8 Sep 2026 11:52:09 +0000",
+        "image_url": "https://i2-prod.edinburghlive.co.uk/incoming/article34584558.ece/ALTERNATES/s98/1_GettyImages-2233525739.jpg"
+      },
+      {
+        "id": "8980911",
+        "title": "Glasgow Queen Street toilets ranked 'worst' in Britain - and third worst in Europe",
+        "link": "https://www.glasgowworld.com/news/scotlands-most-disliked-major-station-toilets-8982921",
+        "description": "<p>Glasgow Queen Street station toilets have been ranked as Britain's most disliked major station toilets</p>",
+        "published": "Tue, 08 Sep 2026 11:33:59 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/08/11/32/MixCollage-08-Sep-2026-12-27-PM-9044.jpg?width=1200&auto=webp&trim=0%2C174%2C0%2C175"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-residents-can-reduced-council-34584199",
+        "title": "Glasgow residents can get reduced council tax - how to check your eligibility",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-residents-can-reduced-council-34584199",
+        "description": "Glaswegians have been advised to seek help, should they need it, as new figures show that nearly half a million households across Scotland receive discounts on their bills.",
+        "published": "Tue, 8 Sep 2026 11:27:16 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34584287.ece/ALTERNATES/s98/0_Council-Tax-Bill-UK.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/pg-foods-glasgow-closed-for-34583657",
         "title": "PG Foods Glasgow closed 'for refurbishment' six months after opening as owners aim to 'evolve the brand'",
         "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/pg-foods-glasgow-closed-for-34583657",
@@ -1755,14 +1779,6 @@
         "description": "An &quot;overwhelming majority&quot; of cases involve a woman harmed by a man, with Lord Advocate Ruth Charteris KC saying that &quot;Scotland must change&quot;.",
         "published": "Tue, 8 Sep 2026 10:42:48 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34584014.ece/ALTERNATES/s98/0_Domestic-abuse-victim-with-hands-pressed-against-glass-window.jpg"
-      },
-      {
-        "id": "2f702f691c6a1dc5b5783c8f9f67e9a2",
-        "title": "Scottish Government announces change to bluetongue restrictions",
-        "link": "https://www.heraldscotland.com/news/26531162.bluetongue-restricted-zone-established-south-west-scotland/",
-        "description": "A Bluetongue Restricted Zone will cover south-west Scotland from September 10 after evidence the disease is circulating in the area.",
-        "published": "Tue, 08 Sep 2026 11:32:44 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21302440/?type=app&htype=0"
       },
       {
         "id": "32a595ccda7bd0f821ec8f0041739e11",
@@ -1957,14 +1973,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21421308/?type=app&htype=0"
       },
       {
-        "id": "33ffbf8106fb83e4d634b1d39fbb686e",
-        "title": "Glasgow Subway becomes setting for new horror game about end of the world",
-        "link": "https://www.glasgowtimes.co.uk/news/26527319.glasgow-subway-inspired-new-world-ending-horror-video-game/",
-        "description": "A university worker has turned a nightmare vision of the Glasgow Subway into a horror video game.",
-        "published": "Tue, 08 Sep 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21418717/?type=app&htype=0"
-      },
-      {
         "id": "7d2b25a3a23094de7a4bcaa79c23e9ce",
         "title": "Glasgow on 'brink of inevitable, irreversible decline' says Miles Better mastermind",
         "link": "https://www.heraldscotland.com/news/26529631.glasgows-miles-better-architect-warns-city-brink/",
@@ -1979,14 +1987,6 @@
         "description": "The High School of Glasgow has opened a dedicated Rugby Academy, which leaders say will help young athletes develop for the professional level.",
         "published": "Tue, 08 Sep 2026 06:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21422076/?type=app&htype=0"
-      },
-      {
-        "id": "eb290ccf06f8c037c693cf3524cd1508",
-        "title": "Glasgow's politicians are squabbling over boundaries while the city struggles",
-        "link": "https://www.heraldscotland.com/news/26528533.glasgow-local-government-reform-case-change/",
-        "description": "Glasgow faces stagnation and social unrest while politicians squabble over boundaries. A Greater Glasgow strategic authority, modelled on Andy Burnham's Manchester, offers a way back, says former Lord Provost Michael Kelly.",
-        "published": "Tue, 08 Sep 2026 06:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21422198/?type=app&htype=0"
       },
       {
         "id": "6020ab34026b1375473ad88198b0ecb8",
