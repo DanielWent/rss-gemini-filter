@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo#0",
+        "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+        "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+        "description": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
+        "published": "Mon, 07 Sep 2026 23:05:12 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/192e/live/85ed8b30-aaa1-11f1-aed2-8d6da8d75094.jpg"
+      },
+      {
         "id": "1788800781901815",
         "title": "Late season lift for Reekie after difficult summer",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/ckgv5l615z6o?at_medium=RSS&at_campaign=rss",
