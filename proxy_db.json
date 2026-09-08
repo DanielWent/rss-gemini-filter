@@ -1709,6 +1709,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "a97c0e58b59021e7332c579b6b8b0022",
+        "title": "LIVE updates as ongoing issue sees Glasgow trains cancelled",
+        "link": "https://www.glasgowtimes.co.uk/news/26530253.live-updates-glasgow-central-trains-cancelled/",
+        "description": "Overhead wires have lost power near Saltcoats. As a result, some trains from Glasgow Central have been cancelled. More as it comes.",
+        "published": "Tue, 08 Sep 2026 09:12:32 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21140573/?type=app&htype=0"
+      },
+      {
         "id": "0089f10acfe0e9df4100d17512039bba",
         "title": "LIVE updates as Glasgow road at a standstill amid police incident",
         "link": "https://www.glasgowtimes.co.uk/news/26530140.live-updates-clydeside-expressway-standstill/",
