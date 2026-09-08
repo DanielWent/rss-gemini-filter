@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1788902413822996",
+        "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+        "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
+        "description": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
+        "published": "Tue, 08 Sep 2026 22:57:09 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22b2/live/38d45d10-abc3-11f1-a601-7d96c5d5b6ea.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cwyze8ed774o#3",
         "title": "Shetland spaceport project secures \u00a330m of UK government investment",
         "link": "https://www.bbc.co.uk/news/articles/cwyze8ed774o?at_medium=RSS&at_campaign=rss",
