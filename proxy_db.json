@@ -1725,12 +1725,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-arrested-after-glasgow-riot-34587378",
+        "title": "Man arrested after Glasgow 'riot police' incident leaves locals 'terrified'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-arrested-after-glasgow-riot-34587378",
+        "description": "Residents had been left &quot;terrified&quot; after the incident, which saw a major emergency response.",
+        "published": "Tue, 8 Sep 2026 17:12:48 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34587358.ece/ALTERNATES/s98/799600700_2211196926395501_4180746776547134352_n.jpg"
+      },
+      {
+        "id": "8993609",
+        "title": "Martin O'Neill issues positive injury update for Celtic duo as Chelsea loanee expectations set",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/martin-oneill-issues-positive-injury-update-for-celtic-duo-as-chelsea-loanee-expectations-set-after-bright-start-8993609",
+        "description": "<p>Hoops boss is happy to see the return of record-breaking striker</p>",
+        "published": "Tue, 08 Sep 2026 17:01:32 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/08/17/27/GettyImages-2292572418.jpeg?width=1200&auto=webp&trim=84%2C0%2C85%2C0"
+      },
+      {
+        "id": "8992255",
+        "title": "McInnes assesses future of Rangers fringe men as star set to re-enter fold while defender could still face axe",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/derek-mcinnes-assesses-future-of-rangers-fringe-men-as-striker-set-to-re-enter-fold-while-defender-could-still-face-axe-8992255",
+        "description": "<p>Injury update could lead to striker regaining place in squad</p>",
+        "published": "Tue, 08 Sep 2026 17:00:07 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/08/16/41/GettyImages-2290364264-(1).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
         "id": "d9f43e885065f5ca2c87f883febdbe45",
         "title": "LIVE updates as police chase men in balaclavas throughout Glasgow city centre",
         "link": "https://www.glasgowtimes.co.uk/news/26533369.live-updates-police-swarm-glasgow-city-centre-amid-protests/",
         "description": "A large police response has been initiated in Glasgow city centre as they attempt to move men wearing balaclavas amid protest.",
         "published": "Tue, 08 Sep 2026 17:32:59 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21427364/?type=app&htype=0"
+      },
+      {
+        "id": "696a5ead71e6a9955cc26c9728f394a0",
+        "title": "Former MSP details \u2018horrific\u2019 impact of Eljamel operations at inquiry",
+        "link": "https://www.heraldscotland.com/news/26533304.eljamel-inquiry-hears-patients-suffered-horrific-disabilities/",
+        "description": "Patients of disgraced brain surgeon Sam Eljamel were left with \u201chorrific\u201d disabilities following his operations, a former MSP has told an inquiry",
+        "published": "Tue, 08 Sep 2026 17:28:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21427305/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/legendary-steviewonder-announces-ovo-hydro-34586904",
@@ -1749,12 +1781,12 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34587045.ece/ALTERNATES/s98/0_660b7afc-6355-4f7e-8ab5-009726740ba1jfif.jpg"
       },
       {
-        "id": "https://news.stv.tv/?p=528341",
-        "title": "Glasgow, Edinburgh and Aberdeen airports facing disruption after technical issue",
-        "link": "https://news.stv.tv/west-central/glasgow-edinburgh-and-aberdeen-airports-facing-disruption-after-technical-issue",
-        "description": "According to FlightRadar24, almost 60% of flights at Edinburgh Airport have been delayed.",
-        "published": "Tue, 08 Sep 2026 15:46:57 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/06/5c3efb40d8a87768500702f4af99b468-1780323294-1119x720.jpeg"
+        "id": "71f050756d50b925a2f22fea2a8727e7",
+        "title": "Del Amitri musician launches new Glasgow jazz club",
+        "link": "https://www.heraldscotland.com/news/26533197.del-amitri-musician-launches-new-glasgow-jazz-club/",
+        "description": "A brand new monthly jazz club is being launched in Glasgow. Glasgow Speakeasy will be based at The Glasgow Art Club on Bath Street.",
+        "published": "Tue, 08 Sep 2026 16:59:54 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19417209/?type=app&htype=0"
       },
       {
         "id": "75014393e7179e39666f2b029b6fbc2d",
@@ -1811,14 +1843,6 @@
         "description": "Officers will present councillors with two options for the local authority's Princes Street and Waverley Valley strategy.",
         "published": "Tue, 08 Sep 2026 15:51:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/13967116/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-riot-police-incident-live-34586241",
-        "title": "Glasgow 'riot police' incident LIVE as man 'armed with blade' and residents told to stay indoors",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-riot-police-incident-live-34586241",
-        "description": "An eyewitness told Glasgow Live that &quot;all residents have been asked to stay in their flats until further notice&quot;.",
-        "published": "Tue, 8 Sep 2026 14:49:09 +0000",
-        "image_url": "https://i2-prod.mylondon.news/incoming/article34451676.ece/ALTERNATES/s98/4_Getty-Police-cordon.jpg"
       },
       {
         "id": "8989657",
@@ -2045,14 +2069,6 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34584014.ece/ALTERNATES/s98/0_Domestic-abuse-victim-with-hands-pressed-against-glass-window.jpg"
       },
       {
-        "id": "5f8729c2452c78751f7b61a64598888c",
-        "title": "Stevie Wonder to play first Glasgow show in 37 years",
-        "link": "https://www.heraldscotland.com/news/26531214.stevie-wonder-play-first-glasgow-show-37-years/",
-        "description": "Stevie Wonder is set to play his first show in Glasgow since performed at the SECC (now SEC) in Glasgow in 1989 as part of his European Tour.",
-        "published": "Tue, 08 Sep 2026 11:41:42 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19698247/?type=app&htype=0"
-      },
-      {
         "id": "32a595ccda7bd0f821ec8f0041739e11",
         "title": "Glasgow's first gourmet popcorn shop POP to open on Great Western Road this week",
         "link": "https://www.heraldscotland.com/news/26531120.glasgows-first-gourmet-popcorn-shop-open-friday/",
@@ -2243,14 +2259,6 @@
         "description": "Michael Marra promises public assemblies and greater transparency at Scottish Labour as research shows trust in Holyrood has fallen sharply.",
         "published": "Tue, 08 Sep 2026 05:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21343798/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cdj4xx87z84o#0",
-        "title": "Primary teachers hired to teach Glasgow secondary pupils to read",
-        "link": "https://www.bbc.co.uk/news/articles/cdj4xx87z84o?at_medium=RSS&at_campaign=rss",
-        "description": "Intensive catch-up classes are being held for pupils who are starting at high school without basic literacy skills.",
-        "published": "Mon, 07 Sep 2026 22:21:00 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/683c/live/566173b0-aad1-11f1-aa35-df10e5ff32f4.jpg"
       },
       {
         "id": "c8de303da14621ee0c788c52075bce92",
@@ -2515,14 +2523,6 @@
         "description": "A probe is set to be held into Jonathan Graham's death behind bars at HMP Shotts.",
         "published": "Mon, 7 Sep 2026 10:54:44 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article20531816.ece/ALTERNATES/s98/0_Craig-Shawjpeg.jpg"
-      },
-      {
-        "id": "ebdc7de097cba063ab6982d412027323",
-        "title": "New sleep support available for families with babies and young children",
-        "link": "https://www.glasgowtimes.co.uk/news/26527543.parents-encouraged-access-new-nhsggc-sleep-support/",
-        "description": "Parents are being encouraged to access new sleep support to help babies and young children.",
-        "published": "Mon, 07 Sep 2026 11:33:08 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20171150/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
