@@ -1725,6 +1725,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "ec3ef1e6a067a9c71d722c76323505ea",
+        "title": "Major update issued after Glasgow flights AXED amid UK wide incident",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26533597.glasgow-airport-flights-cancelled-despite-air-traffic-issue-fix/",
+        "description": "Passengers travelling through Glasgow Airport are being urged to check with their airline after a major UK-wide air traffic control failure caused cancellations, delays and widespread disruption.",
+        "published": "Tue, 08 Sep 2026 20:44:36 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20861454/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/glasgow-armed-man-incident-pictures-34587282",
+        "title": "Glasgow 'armed man' incident in pictures as arrest made after 'riot police' attend",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/glasgow-armed-man-incident-pictures-34587282",
+        "description": "No injuries were sustained in the incident and police have confirmed that their enquiries are ongoing.",
+        "published": "Tue, 8 Sep 2026 19:41:11 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34586923.ece/ALTERNATES/s98/0_Screenshot-2026-09-08-163822.png"
+      },
+      {
+        "id": "https://news.stv.tv/?p=528405",
+        "title": "Inverclyde road closed in both directions after crash",
+        "link": "https://news.stv.tv/west-central/inverclyde-road-closed-in-both-directions-after-crash",
+        "description": "The collision occurred on the A8, Greenock Road, between Woodhall Roundabout in Port Glasgow and the roundabout for the B789 Main Road",
+        "published": "Tue, 08 Sep 2026 19:26:57 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2025/07/32af0f60ec4eac15f8578e8fe91bf156-1751806776-1079x720.jpeg"
+      },
+      {
         "id": "eb6308b9b6bcfddbd22d97108fdb8ff7",
         "title": "Police contain Glasgow protest as balaclava wearing men march through city centre",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26533582.police-contain-glasgow-city-centre-protest-rush-hour/",
@@ -2499,30 +2523,6 @@
         "description": "Over 2m people have crossed the Govan-Partick Bridge Bridge in its first two years, it has been revealed.",
         "published": "Mon, 07 Sep 2026 13:35:21 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21420512/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/popular-shawlands-spot-close-after-34579245",
-        "title": "Popular Shawlands spot to close after 18 years as new management to take over",
-        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/popular-shawlands-spot-close-after-34579245",
-        "description": "The current team at The James Tassie are hoping to say goodbye to customers before they shut the doors later this month.",
-        "published": "Mon, 7 Sep 2026 12:25:14 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34579170.ece/ALTERNATES/s98/0_Screenshot-2026-09-07-at-122718PM.png"
-      },
-      {
-        "id": "5d80a8fa650a778508c462aa5af50c84",
-        "title": "Scotland cancer patients at risk of missing out on life-extending treatment",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26528165.scotland-breast-cancer-patients-face-genetic-testing-gap/",
-        "description": "A lack of routine biomarker testing is putting cancer patients at risk of missing life-extending treatment.",
-        "published": "Mon, 07 Sep 2026 13:13:58 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21420057/?type=app&htype=0"
-      },
-      {
-        "id": "8165bdb836e4277c504e7b892af526e4",
-        "title": "Full list of 195 Beefeater and Brewers Fayre restaurants closing this week",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26528156.195-brewers-fayre-restaurants-close-week-including-hamilton/",
-        "description": "Nearly 200 restaurants are closing across the UK this week, including a Beefeater near Glasgow. See the full list of affected venues.",
-        "published": "Mon, 07 Sep 2026 13:13:14 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20867263/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
