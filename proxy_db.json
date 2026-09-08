@@ -1725,6 +1725,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-police-contain-city-centre-34587621",
+        "title": "Glasgow police contain city centre 'protesters' amid planned disruption",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-police-contain-city-centre-34587621",
+        "description": "The group, who are understood to be protesters, walked towards Charing Cross where they were then contained by officers to &quot;maintain public safety&quot;.",
+        "published": "Tue, 8 Sep 2026 18:16:49 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34312972.ece/ALTERNATES/s98/0_JS373193743-1.jpg"
+      },
+      {
+        "id": "f43aa9b802dbdb1cc96c3ae8e88284d2",
+        "title": "Jay Rayner calls Glasgow restaurant's deep-fried lasagne a 'god-tier snack'",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26533542.jay-rayner-calls-celentanos-deep-fried-lasagne-god-tier-snack/",
+        "description": "One of the UK's top food critics has heaped praise on Glasgow restaurant Celentano's, calling its deep-fried lasagne a \"god-tier snack\" in a glowing review.",
+        "published": "Tue, 08 Sep 2026 19:11:13 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17682888/?type=app&htype=0"
+      },
+      {
         "id": "8994049",
         "title": "Full list of flights cancelled from Glasgow Airport amid air traffic control chaos",
         "link": "https://www.glasgowworld.com/news/transport/full-list-of-flights-cancelled-from-glasgow-airport-amid-air-traffic-control-chaos-8994049",
@@ -1747,6 +1763,14 @@
         "description": "Residents had been left &quot;terrified&quot; after the incident, which saw a major emergency response.",
         "published": "Tue, 8 Sep 2026 17:12:48 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34587358.ece/ALTERNATES/s98/799600700_2211196926395501_4180746776547134352_n.jpg"
+      },
+      {
+        "id": "ebd996beacc25d6e99de0c47d7d6cd88",
+        "title": "Fancy an ice bath or a Hetty Hoover? Glasgow 2026 Commonwealth Games auction launches",
+        "link": "https://www.heraldscotland.com/news/26533435.glasgow-2026-auction-includes-ice-baths-bean-bags-83-coolboxes/",
+        "description": "Cones, costumes, coolboxes and game consoles are up for grabs as the leftovers from the Glasgow 2026 Commonwealth Games are up for sale.",
+        "published": "Tue, 08 Sep 2026 18:08:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21227865/?type=app&htype=0"
       },
       {
         "id": "8993609",
@@ -2499,30 +2523,6 @@
         "description": "Nearly 200 restaurants are closing across the UK this week, including a Beefeater near Glasgow. See the full list of affected venues.",
         "published": "Mon, 07 Sep 2026 13:13:14 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20867263/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/health/sir-chris-hoy-fans-wiping-34578801",
-        "title": "Sir Chris Hoy fans 'wiping away tears' after 'thank you' update",
-        "link": "https://www.glasgowlive.co.uk/news/health/sir-chris-hoy-fans-wiping-34578801",
-        "description": "Sir Chris Hoy is in Glasgow this week having cycled around the city for his Tour de 4 which has rasied millions for cancer charities",
-        "published": "Mon, 7 Sep 2026 12:00:58 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34433638.ece/ALTERNATES/s98/1_GLASGOW-SCOTLAND-AUGUST-01-Sir-Chris-Hoy-looks-on-during-the-Track-Cycling-on-day-nine-of-the-Glasgow-2026.jpg"
-      },
-      {
-        "id": "ee5cb67fe1cd75c8e6f43cccb97810a4",
-        "title": "One of Skye\u2019s most celebrated hotels changes hands after more than 50 years",
-        "link": "https://www.heraldscotland.com/news/26527919.new-owners-kinloch-lodge-michelin-key-hotel-scotland/",
-        "description": "One of the Isle of Skye's most celebrated hotels is entering a 'new chapter' after more than half a century under the same family ownership.",
-        "published": "Mon, 07 Sep 2026 12:32:42 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21420206/?type=app&htype=0"
-      },
-      {
-        "id": "8971517",
-        "title": "The cost of vaping will rise by nearly \u00a3300 a year when a new tax law comes in",
-        "link": "https://www.glasgowworld.com/read-this/the-cost-of-vaping-will-rise-by-nearly-ps300-a-year-when-a-new-tax-law-comes-in-8971517",
-        "description": "<p>The cost of vaping will rise by nearly \u00a3300 a year when a new tax law comes into force in October.  </p>",
-        "published": "Mon, 07 Sep 2026 10:58:12 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/07/10/23/SWNS_VAPE_PETS_003_122371.jpg?width=1200&auto=webp&trim=0%2C1%2C0%2C1"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
