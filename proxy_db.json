@@ -1725,6 +1725,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=528341",
+        "title": "Glasgow, Edinburgh and Aberdeen airports facing disruption after technical issue",
+        "link": "https://news.stv.tv/west-central/glasgow-edinburgh-and-aberdeen-airports-facing-disruption-after-technical-issue",
+        "description": "According to FlightRadar24, almost 60% of flights at Edinburgh Airport have been delayed.",
+        "published": "Tue, 08 Sep 2026 15:46:57 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/06/5c3efb40d8a87768500702f4af99b468-1780323294-1119x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-residents-terrified-after-alleged-34586843",
+        "title": "Glasgow residents 'terrified' after alleged stabbing as riot police swarm 'lovely area'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-residents-terrified-after-alleged-34586843",
+        "description": "According to one eyewitness, a beer can was allegedly used to fend off the alleged attacker.",
+        "published": "Tue, 8 Sep 2026 15:39:43 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34586923.ece/ALTERNATES/s98/0_Screenshot-2026-09-08-163822.png"
+      },
+      {
+        "id": "7db151731386e43dc026c948b30d3a54",
+        "title": "Domestic abuse charges in Glasgow rise to more than 5000 in a year",
+        "link": "https://www.glasgowtimes.co.uk/news/26532977.glasgow-records-5061-domestic-abuse-charges-year/",
+        "description": "Every 12 hours someone is charged with domestic abuse in Glasgow.",
+        "published": "Tue, 08 Sep 2026 16:30:36 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21426962/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-woman-finds-dead-kittens-34585605",
+        "title": "Glasgow woman finds dead kittens at beauty spot turned waste dump after chasing down fly-tippers",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-woman-finds-dead-kittens-34585605",
+        "description": "&quot;The kittens had absolutely been alive when they were dumped because two of their mouths were open and they had crawled&quot;",
+        "published": "Tue, 8 Sep 2026 15:20:58 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34586692.ece/ALTERNATES/s98/1_Screenshot-2026-09-08-at-161228.png"
+      },
+      {
+        "id": "a859d6795096aa75fe4332d0166a3e54",
+        "title": "'Frustrating'- Container full of garden equipment melted by blaze lit in Glasgow park",
+        "link": "https://www.glasgowtimes.co.uk/news/26531780.friends-elder-park-container-melted-series-fires/",
+        "description": "A Glasgow community group has been left heartbroken after a fire lit next to its container melted their gardening equipment.",
+        "published": "Tue, 08 Sep 2026 16:17:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21425388/?type=app&htype=0"
+      },
+      {
         "id": "8d036de5922fabd220e2ef7b90e31e1e",
         "title": "Police will pursue those spreading Glasgow fire 'racial tension' misinformation",
         "link": "https://www.heraldscotland.com/news/26532476.swinney-police-will-pursue-glasgow-fire-misinformation-spreaders/",
