@@ -1725,6 +1725,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "eb6308b9b6bcfddbd22d97108fdb8ff7",
+        "title": "Police contain Glasgow protest as balaclava wearing men march through city centre",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26533582.police-contain-glasgow-city-centre-protest-rush-hour/",
+        "description": "Police intercepted and dispersed a large protest in Glasgow city centre after the group marched towards Charing Cross during rush hour, prompting a major response and road closures.",
+        "published": "Tue, 08 Sep 2026 20:01:29 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21427719/?type=app&htype=0"
+      },
+      {
         "id": "802f549e4e7877106449595b69293721",
         "title": "Popular restaurant chain Bill's could open first Scots venue on George Square",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26533558.bills-open-first-glasgow-venue-george-square/",
