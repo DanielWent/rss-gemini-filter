@@ -1725,6 +1725,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8d036de5922fabd220e2ef7b90e31e1e",
+        "title": "Police will pursue those spreading Glasgow fire 'racial tension' misinformation",
+        "link": "https://www.heraldscotland.com/news/26532476.swinney-police-will-pursue-glasgow-fire-misinformation-spreaders/",
+        "description": "John Swinney has said those who have been \"spreading misinformation\" and \"inciting racial tension\" which is linked to a fire within a tenement in Glasgow will be pursued by the police",
+        "published": "Tue, 08 Sep 2026 16:08:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21426377/?type=app&htype=0"
+      },
+      {
+        "id": "d7071f952a37196e581cff2a4b17e3e4",
+        "title": "Glasgow airport flights CANCELLED amid ongoing UK wide air traffic incident",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26532795.glasgow-airport-flights-cancelled-nats-technical-issue/",
+        "description": "Passengers are being urged to check with airlines after a Nats technical issue disrupted flights from Glasgow Airport.",
+        "published": "Tue, 08 Sep 2026 16:02:49 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19280860/?type=app&htype=0"
+      },
+      {
+        "id": "a64a089b9f77b710ac020c36140a6513",
+        "title": "Future of Princes Street in the balance as councillors deadlocked over designs",
+        "link": "https://www.heraldscotland.com/news/26532597.edinburgh-councillors-choose-princes-street-designs/",
+        "description": "Officers will present councillors with two options for the local authority's Princes Street and Waverley Valley strategy.",
+        "published": "Tue, 08 Sep 2026 15:51:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/13967116/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-riot-police-incident-live-34586241",
         "title": "Glasgow 'riot police' incident LIVE as man 'armed with blade' and residents told to stay indoors",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-riot-police-incident-live-34586241",
@@ -1739,6 +1763,22 @@
         "description": "<p>George Square has been through its fair share of changes over the years.</p>",
         "published": "Tue, 08 Sep 2026 14:31:05 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/08/14/49/onecms_91fd2ecf-a0b8-46b4-91fd-346bebd54cf0-(1).jpeg?width=1200&auto=webp&trim=181%2C0%2C181%2C0"
+      },
+      {
+        "id": "70eed761e1d9854eb11c0ec5f23a5c7d",
+        "title": "'Astonishing': SNP MSP on Enlightenment's absence from Scots schools",
+        "link": "https://www.heraldscotland.com/news/26532488.m-iri-mcallan-rejects-call-mandatory-enlightenment-class/",
+        "description": "An SNP MSP has urged the Scottish Government to make the Scottish Enlightenment compulsory in schools, but ministers insist teachers already have opportunities to cover the topic.",
+        "published": "Tue, 08 Sep 2026 15:17:42 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/11803359/?type=app&htype=0"
+      },
+      {
+        "id": "6b6e59022a5c4e4c453b257221ab9fb9",
+        "title": "Film festival on remote Scottish island announces full programme",
+        "link": "https://www.heraldscotland.com/news/26532440.full-programme-announced-sea-change-festival-2026/",
+        "description": "The full programme has been announced for the eighth annual Sea Change Festival - Scotland\u2019s only annual film festival celebrating female filmmaking talent.",
+        "published": "Tue, 08 Sep 2026 15:10:31 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21000988/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/plan-social-rent-homes-barrhead-34585380",
@@ -1771,6 +1811,14 @@
         "description": "A motion is being presented to full council this Thursday by councillor Lana Reid-McConnell highlights the \u201cshocking increase\u201d in reported rapes and sexual crimes in Glasgow over the last five years.",
         "published": "Tue, 8 Sep 2026 13:54:27 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article33299893.ece/ALTERNATES/s98/0_International-Day-for-the-Elimination-of-Violence-against-Women-on-November-25-2024-2433031826316.jpg"
+      },
+      {
+        "id": "ab687a86b2fced00e462a634a6edd0ee",
+        "title": "Scotland leads UK geospatial push with new public sector partnership to drive growth",
+        "link": "https://www.heraldscotland.com/news/26532286.scotland-leads-uk-major-geospatial-innovation-partnership/",
+        "description": "A new Scottish Government partnership gives almost 150 public bodies access to geospatial expertise and resources.",
+        "published": "Tue, 08 Sep 2026 14:48:55 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21425995/?type=app&htype=0"
       },
       {
         "id": "b762f13f87796a098ae7af7056d75d54",
@@ -2171,14 +2219,6 @@
         "description": "Scottish Gas Networks (SGN) is dealing with the issue and people are advised to avoid Eastwood Park.",
         "published": "Mon, 07 Sep 2026 17:40:11 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be43/live/bef81950-aae1-11f1-aa35-df10e5ff32f4.jpg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=528190",
-        "title": "No Shankland or Chermiti \u2013 The attacking options available to injury-hit Rangers",
-        "link": "https://news.stv.tv/west-central/no-shankland-or-chermiti-the-attacking-options-available-to-injury-hit-rangers",
-        "description": "Lawrence Shankland and Youssef Chermiti will both spend time on the sidelines due to injures",
-        "published": "Mon, 07 Sep 2026 16:38:59 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/c062a3981ea3f6c0fc140ef2eeb57af5-1788798081-1042x720.jpg"
       },
       {
         "id": "0df9714c0fd7478220dafb95619dcbd1",
