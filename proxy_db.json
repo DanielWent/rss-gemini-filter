@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cwyze8ed774o#3",
+        "title": "Shetland spaceport project secures \u00a330m of UK government investment",
+        "link": "https://www.bbc.co.uk/news/articles/cwyze8ed774o?at_medium=RSS&at_campaign=rss",
+        "description": "The funding will be used to build two more launchpads.",
+        "published": "Tue, 08 Sep 2026 08:48:33 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dc0/live/cbfc7a70-aae5-11f1-99dd-5152b950d9db.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo#0",
         "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
         "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
