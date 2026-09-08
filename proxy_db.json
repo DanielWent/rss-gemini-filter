@@ -1725,6 +1725,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "d9f43e885065f5ca2c87f883febdbe45",
+        "title": "LIVE updates as police chase men in balaclavas throughout Glasgow city centre",
+        "link": "https://www.glasgowtimes.co.uk/news/26533369.live-updates-police-swarm-glasgow-city-centre-amid-protests/",
+        "description": "A large police response has been initiated in Glasgow city centre as they attempt to move men wearing balaclavas amid protest.",
+        "published": "Tue, 08 Sep 2026 17:32:59 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21427364/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/legendary-steviewonder-announces-ovo-hydro-34586904",
         "title": "Legendary Stevie\u00a0Wonder announces OVO Hydro date as part of 50th Anniversary tour",
         "link": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/legendary-steviewonder-announces-ovo-hydro-34586904",
@@ -2515,14 +2523,6 @@
         "description": "Parents are being encouraged to access new sleep support to help babies and young children.",
         "published": "Mon, 07 Sep 2026 11:33:08 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20171150/?type=app&htype=0"
-      },
-      {
-        "id": "a249a632ea2e0b6b8ec71e3ce4e03006",
-        "title": "Govan health innovation hub bringing science and community together",
-        "link": "https://www.glasgowtimes.co.uk/news/26527474.govan-health-innovation-hub-bringing-community-together/",
-        "description": "A new health innovation hub is bringing scientific research and community spirit together.",
-        "published": "Mon, 07 Sep 2026 11:20:48 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21418942/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
