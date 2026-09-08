@@ -1725,6 +1725,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "b762f13f87796a098ae7af7056d75d54",
+        "title": "Tunnock's workers secure major pay rise after strike action threat",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26532206.tunnocks-workers-secure-major-pay-rise-strike-action-threat/",
+        "description": "More than 300 workers at Tunnock's Uddingston factory have accepted a pay deal worth 9.6% over 21 months, avoiding potential strike action.",
+        "published": "Tue, 08 Sep 2026 14:36:20 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21425767/?type=app&htype=0"
+      },
+      {
+        "id": "e7ef522a3562ee7eb6049788b9af2081",
+        "title": "Scotland\u2019s birth rate falls to another record low",
+        "link": "https://www.heraldscotland.com/news/26532102.scotlands-birth-rate-falls-another-record-low/",
+        "description": "The number of babies being born in Scotland has reached another record low, figures have shown.",
+        "published": "Tue, 08 Sep 2026 14:19:53 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/12493185/?type=app&htype=0"
+      },
+      {
+        "id": "12284201e3e7a8381c47cbb6a2d7a302",
+        "title": "Crown fails to overturn acquittals in Glasgow University graffiti Palestine protest",
+        "link": "https://www.heraldscotland.com/news/26532061.crown-acquittal-appeal-glasgow-university-graffiti-protest-fails/",
+        "description": "Both Pro-Palestine activists have now faced courts twice - and remain not guilty",
+        "published": "Tue, 08 Sep 2026 14:12:04 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21425653/?type=app&htype=0"
+      },
+      {
+        "id": "bfb265e85343c9e7e40cdd48430137e7",
+        "title": "Avanti West Coast delivered \u00a3304m in economic value to Scotland last year",
+        "link": "https://www.heraldscotland.com/news/26532048.avanti-west-coast-delivers-304m-boost-scottish-economy/",
+        "description": "Avanti West Coast generated \u00a3304 million in economic value for Scotland last year, as the rail operator delivered more than \u00a35 billion across the UK.",
+        "published": "Tue, 08 Sep 2026 14:10:44 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21133984/?type=app&htype=0"
+      },
+      {
+        "id": "858d08ca83f3904d5c23534685cb37de",
+        "title": "'Worst I've seen': Thugs caged after terrifying city centre attack spree on strangers",
+        "link": "https://www.glasgowtimes.co.uk/news/26531975.thugs-caged-terrifying-glasgow-attack-spree-strangers/",
+        "description": "Two racist thugs who attacked a group of Chinese students in Scotland for just over an hour have been locked up for a total of more than 16 years.",
+        "published": "Tue, 08 Sep 2026 13:57:13 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16041280/?type=app&htype=0"
+      },
+      {
         "id": "40803718521eff3e8fc7619fa24116e9",
         "title": "Glasgow City Council speaks out after car spotted driving on pedestrian bridge",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26531867.council-issues-warning-car-driven-onto-glasgows-m8-bridge/",
@@ -1733,12 +1773,28 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21425246/?type=app&htype=0"
       },
       {
+        "id": "683ddce1106ac202932f7623303bb997",
+        "title": "Ghosts of SNP health secretaries past cast shadow over Swinney\u2019s NHS reforms",
+        "link": "https://www.heraldscotland.com/news/26531787.analysis-ghosts-snp-health-secretaries-haunt-swinneys-nhs-reform/",
+        "description": "Analysis: Warnings from former SNP health secretaries are casting a shadow over John Swinney\u2019s plans to overhaul Scotland\u2019s NHS.",
+        "published": "Tue, 08 Sep 2026 13:18:51 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21425657/?type=app&htype=0"
+      },
+      {
         "id": "8980984",
         "title": "Reason for failed Rangers and Celtic summer transfer target revealed as 'inadequate' Old Firm claim made",
         "link": "https://www.glasgowworld.com/sport/football/rangers/reason-for-failed-rangers-and-celtic-summer-transfer-target-revealed-as-inadequate-old-firm-claim-made-8980984",
         "description": "<p>Old Firm target stayed in the Serie A despite transfer chaos</p>",
         "published": "Tue, 08 Sep 2026 12:00:12 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/08/10/54/GettyImages-2268227281.jpeg?width=1200&auto=webp&trim=0%2C0%2C2%2C0"
+      },
+      {
+        "id": "e61259532b8ae9f9e96cf97db696a872",
+        "title": "Passengers throw man off bus after he 'racially abused' one of them",
+        "link": "https://www.glasgowtimes.co.uk/news/26531653.glasgow-man-thrown-off-bus-racially-abusing-passenger/",
+        "description": "Passengers on a First Bus service in Glasgow ejected a man from the vehicle after he allegedly racially abused one of the riders on board.",
+        "published": "Tue, 08 Sep 2026 12:52:14 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21425641/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/oasis-celtic-park-rumours-spark-34584535",
@@ -1893,14 +1949,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/20882316/?type=app&htype=2"
       },
       {
-        "id": "843f3c36728ae7788d214959aa667bb1",
-        "title": "Iconic Motown singer Stevie Wonder announces Glasgow show for 50th anniversary tour",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26530587.stevie-wonder-announces-glasgow-show-songs-key-life-tour/",
-        "description": "Stevie Wonder will perform Songs in the Key of Life in full at Glasgow's OVO Hydro as part of a special 50th anniversary tour.",
-        "published": "Tue, 08 Sep 2026 10:08:37 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21423551/?type=app&htype=0"
-      },
-      {
         "id": "1755688f2bbd756b9ac36dee7795c863",
         "title": "Man rushed to hospital after crash brings busy Glasgow road to a standstill",
         "link": "https://www.glasgowtimes.co.uk/news/26530559.man-hospitalised-incident-clydeside-expressway/",
@@ -1931,14 +1979,6 @@
         "description": "Scotland\u2019s youth football clubs are ignoring new Protection of Vulnerable Groups laws and allowing unvetted coaches to take charge of kids' teams.",
         "published": "Tue, 08 Sep 2026 09:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21421583/?type=app&htype=0"
-      },
-      {
-        "id": "0089f10acfe0e9df4100d17512039bba",
-        "title": "LIVE updates as Glasgow road at a standstill amid police incident",
-        "link": "https://www.glasgowtimes.co.uk/news/26530140.live-updates-clydeside-expressway-standstill/",
-        "description": "The Clydeside Expressway has come to a standstill. Drivers stuck in the traffic have seen emrgency services shoot past them. More as it comes.",
-        "published": "Tue, 08 Sep 2026 08:42:07 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21422840/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/wife-former-glasgow-gangster-the-34582536",
