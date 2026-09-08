@@ -1709,6 +1709,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "0089f10acfe0e9df4100d17512039bba",
+        "title": "LIVE updates as Glasgow road at a standstill amid police incident",
+        "link": "https://www.glasgowtimes.co.uk/news/26530140.live-updates-clydeside-expressway-standstill/",
+        "description": "The Clydeside Expressway has come to a standstill. Drivers stuck in the traffic have seen emrgency services shoot past them. More as it comes.",
+        "published": "Tue, 08 Sep 2026 08:42:07 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21422840/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/wife-former-glasgow-gangster-the-34582536",
+        "title": "Wife of former Glasgow gangster 'The Devil' spread lies that sparked 'asylum flats' fire",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/wife-former-glasgow-gangster-the-34582536",
+        "description": "Dempster's 77-year-old husband Bobby 'the devil' gained notoriety as a prominent figure in Glasgow's 1990s underworld",
+        "published": "Tue, 8 Sep 2026 07:38:49 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34582532.ece/ALTERNATES/s98/486010410_2118167755296269_2722356868613834843_n.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-city-council-asked-introduce-34580078",
         "title": "Glasgow City Council asked to introduce family friendly parks and greenspaces",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-city-council-asked-introduce-34580078",
