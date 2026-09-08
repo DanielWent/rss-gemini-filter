@@ -1725,6 +1725,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8994049",
+        "title": "Full list of flights cancelled from Glasgow Airport amid air traffic control chaos",
+        "link": "https://www.glasgowworld.com/news/transport/full-list-of-flights-cancelled-from-glasgow-airport-amid-air-traffic-control-chaos-8994049",
+        "description": "<p>Hundreds of flights have been cancelled across the UK </p>",
+        "published": "Tue, 08 Sep 2026 17:48:47 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/06/14/9/04/onecms_2e6e4f4b-8aeb-44f1-b9c4-1c933a5380b1.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "ec1fc64b052a166d893518d177148cb1",
+        "title": "Riot police storm Glasgow flats as 'armed' man arrested after weapon alert",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26533494.man-arrested-riot-police-incident-tinwald-path-glasgow/",
+        "description": "A man has been arrested after riot police locked down a Glasgow flat block following reports of a person armed with a bladed weapon in Cardonald.",
+        "published": "Tue, 08 Sep 2026 18:31:04 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21427594/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-arrested-after-glasgow-riot-34587378",
         "title": "Man arrested after Glasgow 'riot police' incident leaves locals 'terrified'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-arrested-after-glasgow-riot-34587378",
@@ -1763,14 +1779,6 @@
         "description": "Patients of disgraced brain surgeon Sam Eljamel were left with \u201chorrific\u201d disabilities following his operations, a former MSP has told an inquiry",
         "published": "Tue, 08 Sep 2026 17:28:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21427305/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/legendary-steviewonder-announces-ovo-hydro-34586904",
-        "title": "Legendary Stevie\u00a0Wonder announces OVO Hydro date as part of 50th Anniversary tour",
-        "link": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/legendary-steviewonder-announces-ovo-hydro-34586904",
-        "description": "The twenty-five-time Grammy award\u2013winning artist is celebrating 50 years of his landmark album with special live performances.",
-        "published": "Tue, 8 Sep 2026 16:09:27 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34586962.ece/ALTERNATES/s98/0_JS406931684.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-airport-disruption-amid-air-34586950",
@@ -2515,14 +2523,6 @@
         "description": "<p>The cost of vaping will rise by nearly \u00a3300 a year when a new tax law comes into force in October.  </p>",
         "published": "Mon, 07 Sep 2026 10:58:12 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/07/10/23/SWNS_VAPE_PETS_003_122371.jpg?width=1200&auto=webp&trim=0%2C1%2C0%2C1"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/death-glasgow-killer-who-stabbed-34578787",
-        "title": "Death of Glasgow killer who stabbed man 25 times to be probed",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/death-glasgow-killer-who-stabbed-34578787",
-        "description": "A probe is set to be held into Jonathan Graham's death behind bars at HMP Shotts.",
-        "published": "Mon, 7 Sep 2026 10:54:44 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article20531816.ece/ALTERNATES/s98/0_Craig-Shawjpeg.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
