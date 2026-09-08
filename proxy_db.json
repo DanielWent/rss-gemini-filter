@@ -1709,12 +1709,68 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-city-council-asked-introduce-34580078",
+        "title": "Glasgow City Council asked to introduce family friendly parks and greenspaces",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-city-council-asked-introduce-34580078",
+        "description": "Pilot projects could include Croftcroighn Park and Cranhill Park, which experience some of the highest concentrations of child poverty in the city.",
+        "published": "Tue, 8 Sep 2026 07:03:02 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article21184441.ece/ALTERNATES/s98/0_Cranhill-Park-Google-Maps.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/mum-left-disabled-after-surgery-34563496",
+        "title": "Mum left disabled after surgery in Clydebank told problems arose because she was 'too fat'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/mum-left-disabled-after-surgery-34563496",
+        "description": "&quot;It's had a devastating impact on both my health and my life.&quot;",
+        "published": "Tue, 8 Sep 2026 06:56:09 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34582440.ece/ALTERNATES/s98/0_GettyImages-155157921.jpg"
+      },
+      {
+        "id": "https://runabc.co.uk/jedburgh-half-marathon-10k-celebrates-a-race-milestone",
+        "title": "Jedburgh Half Marathon & 10K Celebrates A Race Milestone",
+        "link": "https://runabc.co.uk/jedburgh-half-marathon-10k-celebrates-a-race-milestone",
+        "description": "<p><img alt=\"Jedburgh Half Marathon and 10K 2026\" src=\"https://runabc.co.uk/images/2026/09/jedburgh-half-marathon-and-10k-2026-422899.jpeg\" /></p>\n\t\t\t\t<p>Jedburgh Half Marathon & 10K returns on 25 October with its 20th Half Marathon and a memorable start beneath the historic Jedburgh Abbey...</p>",
+        "published": "Tue, 08 Sep 2026 07:55:00 +0100",
+        "image_url": "https://runabc.co.uk/images/2026/09/jedburgh-half-marathon-and-10k-2026-422899.jpeg"
+      },
+      {
+        "id": "da734de1d95c24437a7885396166be44",
+        "title": "Inquiry into disgraced brain surgeon Sam Eljamel to begin public hearings",
+        "link": "https://www.heraldscotland.com/news/26530018.inquiry-disgraced-brain-surgeon-sam-eljamel-hearings-begin/",
+        "description": "Mr Eljamel was a consultant neurosurgeon at Ninewells Hospital in Dundee",
+        "published": "Tue, 08 Sep 2026 07:18:13 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21422756/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/survivor-glasgow-sex-predator-warns-34581862",
         "title": "Survivor of Glasgow sex predator warns 'trust your instincts' after her abuser went on to kill",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/survivor-glasgow-sex-predator-warns-34581862",
         "description": "Krystyna described how Richard Scatchard drugged her after gaining her trust and said the experience left her feeling as though her life had been taken away.",
         "published": "Tue, 8 Sep 2026 06:17:12 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article29237503.ece/ALTERNATES/s98/0_Screenshot-2024-05-24-at-213100.png"
+      },
+      {
+        "id": "0ca39cf4f5ba317d718777f58702a829",
+        "title": "Four in ten Scots use cash to control spending \u2014 so why is money disappearing?",
+        "link": "https://www.heraldscotland.com/news/26529639.scotland-cash-crisis-four-ten-scots-use-cash-control-spending/",
+        "description": "Four in ten Scots use cash to control their spending as campaigners warn that disappearing bank branches and ATMs are making notes and coins harder to access.",
+        "published": "Tue, 08 Sep 2026 06:35:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/13397775/?type=app&htype=0"
+      },
+      {
+        "id": "de9568cdacdf039d9ec38fb5627fe377",
+        "title": "'Unseaworthy' CalMac ferry was due to be replaced six years before \u00a31m repairs",
+        "link": "https://www.heraldscotland.com/news/26529418.unseaworthy-loch-linnhe-ferry-due-replaced-2019/",
+        "description": "The ageing CalMac vessel at the centre of a \u00a31m repair row should have been replaced six years ago with five others before it smashed into a charted rock, the Herald can reveal.",
+        "published": "Tue, 08 Sep 2026 06:33:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21413737/?type=app&htype=0"
+      },
+      {
+        "id": "cce1d0988c01c019dd86d7ec8d7e12d0",
+        "title": "Inside the London-based think tank lobbying councillors to back Roseburn Path trams",
+        "link": "https://www.heraldscotland.com/news/26529683.behind-ad-blitz-urging-councillors-back-roseburn-path-trams/",
+        "description": "The self-described \u201cfastest growing political movement in the UK\u201d has entered the fray days before the future of trams on the Roseburn Path will be decided.",
+        "published": "Tue, 08 Sep 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20244143/?type=app&htype=0"
       },
       {
         "id": "29e04225968bce7769a4aee2a281c546",
@@ -1731,6 +1787,38 @@
         "description": "A university worker has turned a nightmare vision of the Glasgow Subway into a horror video game.",
         "published": "Tue, 08 Sep 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21418717/?type=app&htype=0"
+      },
+      {
+        "id": "7d2b25a3a23094de7a4bcaa79c23e9ce",
+        "title": "Glasgow on 'brink of inevitable, irreversible decline' says Miles Better mastermind",
+        "link": "https://www.heraldscotland.com/news/26529631.glasgows-miles-better-architect-warns-city-brink/",
+        "description": "Former Lord Provost Michael Kelly says Glasgow risks economic decline unless Scotland reforms local government and strengthens regional powers.",
+        "published": "Tue, 08 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21422369/?type=app&htype=0"
+      },
+      {
+        "id": "569c1f9bae400e9bc5bcdb81b024833e",
+        "title": "Scottish independent school launches rugby academy as path to the pros",
+        "link": "https://www.heraldscotland.com/news/26529579.high-school-glasgow-rugby-academy-opens-doors/",
+        "description": "The High School of Glasgow has opened a dedicated Rugby Academy, which leaders say will help young athletes develop for the professional level.",
+        "published": "Tue, 08 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21422076/?type=app&htype=0"
+      },
+      {
+        "id": "eb290ccf06f8c037c693cf3524cd1508",
+        "title": "Glasgow's politicians are squabbling over boundaries while the city struggles",
+        "link": "https://www.heraldscotland.com/news/26528533.glasgow-local-government-reform-case-change/",
+        "description": "Glasgow faces stagnation and social unrest while politicians squabble over boundaries. A Greater Glasgow strategic authority, modelled on Andy Burnham's Manchester, offers a way back, says former Lord Provost Michael Kelly.",
+        "published": "Tue, 08 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21422198/?type=app&htype=0"
+      },
+      {
+        "id": "6020ab34026b1375473ad88198b0ecb8",
+        "title": "Michael Marra\u2019s open-door plan to let voters shape Labour\u2019s Holyrood agenda",
+        "link": "https://www.heraldscotland.com/news/26528583.michael-marra-vows-doors-open-scottish-labour-overhaul/",
+        "description": "Michael Marra promises public assemblies and greater transparency at Scottish Labour as research shows trust in Holyrood has fallen sharply.",
+        "published": "Tue, 08 Sep 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21343798/?type=app&htype=0"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/cdj4xx87z84o#0",
