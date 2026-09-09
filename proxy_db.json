@@ -1386,6 +1386,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "adb4269a07075d8b00f8751e9fe3c7d6",
+        "title": "Provost pays tribute to emergency workers on 999 Emergency Services Day",
+        "link": "https://www.glasgowtimes.co.uk/news/26530470.east-dunbartonshire-honours-emergency-service-workers/",
+        "description": "A community leader has paid tribute to the dedication and bravery of emergency service workers.",
+        "published": "Wed, 09 Sep 2026 14:20:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21423329/?type=app&htype=0"
+      },
+      {
         "id": "069127d668d0a1d4195223068b27fc91",
         "title": "Glasgow and East Dunbartonshire libraries awarded share of \u00a3230,000 funding",
         "link": "https://www.glasgowtimes.co.uk/news/26528284.glasgow-east-dunbartonshire-libraries-secured-funding/",
@@ -1764,6 +1772,78 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "2af2741d13d7ec43faae034675354216",
+        "title": "Acclaimed tribute combining iconic 80s band with Robert Burns coming to Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26535816.david-byrnes-night-coming-glasgows-old-fruit-market/",
+        "description": "David Byrne's Night will land in The Old Fruitmarket on Burns Night, January 25, as part of its biggest UK tour to date.",
+        "published": "Wed, 09 Sep 2026 14:08:38 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20502609/?type=app&htype=0"
+      },
+      {
+        "id": "45d654e6be16d41042920242511a36be",
+        "title": "Nearly half a million Scottish households receive council tax reductions",
+        "link": "https://www.glasgowtimes.co.uk/news/26530993.nearly-500-000-scottish-households-get-council-tax-help/",
+        "description": "Nearly half a million households are now receiving help to reduce their council tax bills, with many saving hundreds of pounds each year.",
+        "published": "Wed, 09 Sep 2026 14:07:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21364332/?type=app&htype=332"
+      },
+      {
+        "id": "9936e9e13b98172b4be2086a42d6b5a4",
+        "title": "Former Glasgow car showroom sold after attracting 13 bids from buyers",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26535794.former-car-showroom-glasgows-maryhill-site-sold-bidding-war/",
+        "description": "A former Lookers car showroom in Maryhill has been sold to a private buyer after attracting 13 offers, highlighting strong demand for prime development opportunities in Glasgow.",
+        "published": "Wed, 09 Sep 2026 14:03:59 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21430954/?type=app&htype=0"
+      },
+      {
+        "id": "3fb46f635864d23b6f0fdf8f80950421",
+        "title": "Hidden Victorian gem uncovered beneath four layers at historic Glasgow pub",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26535752.original-shopfront-uncovered-brechins-bar-govan-glasgow/",
+        "description": "Historic Brechin\u2019s Bar in Govan, Glasgow, reveals its original Victorian shopfront as new owners Jim McLaughlin and David Low begin a phased restoration.",
+        "published": "Wed, 09 Sep 2026 13:56:08 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21430870/?type=app&htype=0"
+      },
+      {
+        "id": "b0188082ed48c0feea9e5d963dc86f5f",
+        "title": "Council chief speaks out after East Kilbride schools targeted by bomb threat",
+        "link": "https://www.glasgowtimes.co.uk/news/26535744.council-speaks-east-kilbride-schools-bomb-threat/",
+        "description": "A council official has spoken out after schools in East Kilbride were targeted by a bomb threat.",
+        "published": "Wed, 09 Sep 2026 13:54:32 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21430763/?type=app&htype=0"
+      },
+      {
+        "id": "530b707005bcf7739443cfc95f91ff4e",
+        "title": "Man due in court after riot police swarm Glasgow flats over 'bladed weapon'",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26535702.man-due-glasgow-sheriff-court-riot-police-swarm-glasgow-flats/",
+        "description": "A 49-year-old man has been charged after riot police and emergency crews descended on a Glasgow street following reports of a person in possession of a bladed weapon.",
+        "published": "Wed, 09 Sep 2026 13:46:38 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21427593/?type=app&htype=0"
+      },
+      {
+        "id": "f8d532e2571e73b0f8cb7278a2dcd6b0",
+        "title": "Andy Burnham says vote on Scottish independence when there is 'clear majority'",
+        "link": "https://www.heraldscotland.com/news/26535627.pmqs-andy-burnham-sets-conditions-indyref2/",
+        "description": "Andy Burnham has said there will only be a second Scottish independence referendum when there is a \"clear majority of public support\".",
+        "published": "Wed, 09 Sep 2026 13:30:21 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21430599/?type=app&htype=0"
+      },
+      {
+        "id": "6d0b58e3eb6dd18436de97ca7ac479a4",
+        "title": "Bin lorries being sent over Erskine Bridge to dispose of rubbish",
+        "link": "https://www.heraldscotland.com/news/26535520.bin-lorries-sent-erskine-bridge-dispose-rubbish/",
+        "description": "Bin lorries serving Helensburgh should not be asked to go on the motorway to Linwood to dispose of rubbish, a councillor has said.",
+        "published": "Wed, 09 Sep 2026 13:11:29 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/12757351/?type=app&htype=0"
+      },
+      {
+        "id": "ac41a9ba6f05bfce65062eae1669faa1",
+        "title": "Glasgow Science Centre appoints new trustees and chair in 25th anniversary year",
+        "link": "https://www.glasgowtimes.co.uk/news/26532538.glasgow-science-centre-appoints-new-trustees-chair/",
+        "description": "Glasgow Science Centre has made a series of new appointments to its board of trustees.",
+        "published": "Wed, 09 Sep 2026 12:24:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21426252/?type=app&htype=0"
+      },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-airport-warns-further-disruption-34590449",
         "title": "Glasgow Airport warns of further disruption after air traffic control 'technical issue'",
