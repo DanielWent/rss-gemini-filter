@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c74edv9887eo#1",
+        "title": "AI is becoming harder to control \u2013 can humans stay in charge?",
+        "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+        "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
+        "published": "Wed, 09 Sep 2026 23:17:33 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbe9/live/5e20f100-ac59-11f1-b1d1-571ed4d7ff2c.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o#1",
         "title": "Google picks Finland for its largest single investment in Europe",
         "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
