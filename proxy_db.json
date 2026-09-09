@@ -1765,12 +1765,52 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/13259140/?type=app&htype=0"
       },
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/new-owners-govans-famous-brechins-34589906",
+        "title": "New owners at Govan's famous Brechin's Bar uncover hidden Victorian frontage",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/new-owners-govans-famous-brechins-34589906",
+        "description": "&quot;The history of this place is remarkable \u2014 a hundred and thirty years of Govan hospitality and one of the great names of Glasgow whisky \u2014 and we'll be giving that history the respect it's due.&quot;",
+        "published": "Wed, 9 Sep 2026 10:50:56 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34589770.ece/ALTERNATES/s98/0_Screenshot-2026-09-09-at-105628AM.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/injured-walker-airlifted-hospital-loch-34589594",
+        "title": "Injured walker airlifted to hospital by Loch Lomond crew after emergency on West Highland Way",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/injured-walker-airlifted-hospital-loch-34589594",
+        "description": "A multi agency emergency response was sent to the scene.",
+        "published": "Wed, 9 Sep 2026 10:43:48 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34589844.ece/ALTERNATES/s98/0_Air-ambo-loch-lomondjfif.jpg"
+      },
+      {
+        "id": "a91e293c78d6de5e66cbd0c87d21dd4e",
+        "title": "Cyclist dies after crash involving car and three cyclists on motorway outside Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26534910.cyclist-dies-crash-car-a8-near-port-glasgow/",
+        "description": "Cyclist Iain McTavish dies in A8 Port Glasgow crash involving three cyclists and a car on September 8. Two others injured; Police Scotland inquiries continue.",
+        "published": "Wed, 09 Sep 2026 11:34:13 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20739414/?type=app&htype=0"
+      },
+      {
+        "id": "1ebae10be43bb0898478b29ae55f28cd",
+        "title": "Glasgow becomes first to taste new Tennent's revival, here's where you can find it",
+        "link": "https://www.glasgowtimes.co.uk/news/26534851.newly-revived-tennents-stout-touches-glasgow-pubs/",
+        "description": "Pubgoers in two Glasgow spots can now taste the first pour of a new drink brewed by Tennent\u2019s.",
+        "published": "Wed, 09 Sep 2026 11:23:57 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21429510/?type=app&htype=0"
+      },
+      {
         "id": "8999792",
         "title": "Maki & Ramen: Frasers Plus Braehead set to welcome much loved Glasgow restaurant",
         "link": "https://www.glasgowworld.com/news/maki-and-ramen-frasers-plus-braehead-set-to-welcome-much-loved-glasgow-restaurant-8999792",
         "description": "<p>Frasers Plus Braehead is set to welcome a much loved Glasgow restaurant</p>",
         "published": "Wed, 09 Sep 2026 10:20:54 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/09/10/22/MAKIRAMEN-HR-103-(1).jpeg?width=1200&auto=webp&trim=1074%2C0%2C1075%2C0"
+      },
+      {
+        "id": "8cc35c2a6304e08051e6450910041056",
+        "title": "Herald Business LIVE: Today's top stories - September 9",
+        "link": "https://www.heraldscotland.com/news/26534611.herald-business-live-todays-top-stories---september-9/",
+        "description": "Welcome to The Herald's Business live blog, where we\u2019ll be bringing you the latest developments from across Scotland\u2019s business industry.",
+        "published": "Wed, 09 Sep 2026 10:49:36 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21394794/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/beautiful-walking-spot-glasgow-boasts-34588699",
@@ -1787,6 +1827,14 @@
         "description": "Iain McTavish died after being struck by a car on the A8, Greenock Road, on Tuesday night",
         "published": "Wed, 09 Sep 2026 09:26:10 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/9e046158ecbea59fb0d4498c0fcb0432-1788942989-1080x720.jpeg"
+      },
+      {
+        "id": "c05bd4f803ed0dc7bfc5c6e4cea5291b",
+        "title": "Scots passengers may face \u2018knock-on disruption\u2019 after air traffic control issue",
+        "link": "https://www.heraldscotland.com/news/26534432.scots-passengers-warned-knock-on-disruption-flights-issue/",
+        "description": "Passengers in Scotland have been warned they may face some \u201cknock-on disruption\u201d after hundreds of flights around the UK were cancelled following a technical issue.",
+        "published": "Wed, 09 Sep 2026 10:24:45 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21426469/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/scotland-freeview-switch-off-date-34589241",
@@ -2507,54 +2555,6 @@
         "description": "The ageing CalMac vessel at the centre of a \u00a31m repair row should have been replaced six years ago with five others before it smashed into a charted rock, the Herald can reveal.",
         "published": "Tue, 08 Sep 2026 06:33:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21413737/?type=app&htype=0"
-      },
-      {
-        "id": "cce1d0988c01c019dd86d7ec8d7e12d0",
-        "title": "Inside the London-based think tank lobbying councillors to back Roseburn Path trams",
-        "link": "https://www.heraldscotland.com/news/26529683.behind-ad-blitz-urging-councillors-back-roseburn-path-trams/",
-        "description": "The self-described \u201cfastest growing political movement in the UK\u201d has entered the fray days before the future of trams on the Roseburn Path will be decided.",
-        "published": "Tue, 08 Sep 2026 06:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20244143/?type=app&htype=0"
-      },
-      {
-        "id": "29e04225968bce7769a4aee2a281c546",
-        "title": "Council makes decision on controversial padel tennis courts facility",
-        "link": "https://www.glasgowtimes.co.uk/news/26528989.south-lanarkshire-council-blocks-east-kilbride-padel-courts/",
-        "description": "A controversial East Kilbride padel tennis facility has been refused retrospective planning permission after councillors backed concerns it represents an unjustified loss of industrial land.",
-        "published": "Tue, 08 Sep 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21421308/?type=app&htype=0"
-      },
-      {
-        "id": "7d2b25a3a23094de7a4bcaa79c23e9ce",
-        "title": "Glasgow on 'brink of inevitable, irreversible decline' says Miles Better mastermind",
-        "link": "https://www.heraldscotland.com/news/26529631.glasgows-miles-better-architect-warns-city-brink/",
-        "description": "Former Lord Provost Michael Kelly says Glasgow risks economic decline unless Scotland reforms local government and strengthens regional powers.",
-        "published": "Tue, 08 Sep 2026 06:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21422369/?type=app&htype=0"
-      },
-      {
-        "id": "569c1f9bae400e9bc5bcdb81b024833e",
-        "title": "Scottish independent school launches rugby academy as path to the pros",
-        "link": "https://www.heraldscotland.com/news/26529579.high-school-glasgow-rugby-academy-opens-doors/",
-        "description": "The High School of Glasgow has opened a dedicated Rugby Academy, which leaders say will help young athletes develop for the professional level.",
-        "published": "Tue, 08 Sep 2026 06:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21422076/?type=app&htype=0"
-      },
-      {
-        "id": "6020ab34026b1375473ad88198b0ecb8",
-        "title": "Michael Marra\u2019s open-door plan to let voters shape Labour\u2019s Holyrood agenda",
-        "link": "https://www.heraldscotland.com/news/26528583.michael-marra-vows-doors-open-scottish-labour-overhaul/",
-        "description": "Michael Marra promises public assemblies and greater transparency at Scottish Labour as research shows trust in Holyrood has fallen sharply.",
-        "published": "Tue, 08 Sep 2026 05:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21343798/?type=app&htype=0"
-      },
-      {
-        "id": "c8de303da14621ee0c788c52075bce92",
-        "title": "Walker rescued after suffering head injuries on West Highland Way",
-        "link": "https://www.heraldscotland.com/news/26529923.walker-rescued-fall-west-highland-way-near-loch-lomond/",
-        "description": "A female walker was rescued after sustaining head and facial injuries in a fall on the West Highland Way near Loch Lomond.",
-        "published": "Mon, 07 Sep 2026 20:50:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/11816528/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
