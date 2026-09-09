@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o#1",
+        "title": "Google picks Finland for its largest single investment in Europe",
+        "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+        "description": "The US tech giant says the \u20ac13bn data centre project will create tens of thousands of jobs.",
+        "published": "Wed, 09 Sep 2026 17:06:48 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d61/live/80327fa0-ac6a-11f1-80f0-9795d1a5edbc.jpg"
+      },
+      {
         "id": "1788966913611100",
         "title": "'I'm not a robot' - Kerr responds to criticism before Ingebrigtsen reunion",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/cnvl7qe15z5o?at_medium=RSS&at_campaign=rss",
@@ -1781,6 +1789,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=528543",
+        "title": "Trains cancelled after lorry strikes level crossing barriers near Helensburgh",
+        "link": "https://news.stv.tv/west-central/trains-cancelled-after-lorry-strikes-level-crossing-barriers-near-helensburgh",
+        "description": "Network Rail engineers have been called to Cardross after an HGV struck the barriers on Wednesday evening.",
+        "published": "Wed, 09 Sep 2026 17:05:26 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/eb686854da75463fc4695748dfc15696-1788973266-1200x720.jpeg"
+      },
+      {
         "id": "9002629",
         "title": "Pundit names reason why Celtic should 'make a fist of' Europa League this season amid recent rule change",
         "link": "https://www.glasgowworld.com/sport/football/celtic/pundit-names-reason-why-celtic-should-make-a-fist-of-europa-league-this-season-amid-recent-rule-change-9002629",
@@ -1813,6 +1829,14 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/09/14/31/GettyImages-2288513327.jpeg?width=1200&auto=webp&trim=96%2C0%2C96%2C0"
       },
       {
+        "id": "81c17542d1528492bbd4861cdd675226",
+        "title": "Glasgow Labour Group calls for dedicated city centre policing unit",
+        "link": "https://www.heraldscotland.com/news/26536926.glasgow-labour-group-calls-dedicated-city-centre-policing-unit/",
+        "description": "Calls for a dedicated city centre policing unit to help tackle crime, antisocial behaviour, cleanliness and public safety in Glasgow have been issued by the local Labour party.",
+        "published": "Wed, 09 Sep 2026 16:59:46 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/13207048/?type=app&htype=0"
+      },
+      {
         "id": "26343168b9d259475597574c36b430c6",
         "title": "Westminster committee opens inquiries into 'serious issues' raised by Murrell scandal",
         "link": "https://www.heraldscotland.com/news/26536700.mps-launch-two-inquiries-linked-peter-murrell-scandal/",
@@ -1827,6 +1851,14 @@
         "description": "Campaigners have said that questions remain on the future of the archive and that the building itself is &quot;being jeopardised&quot;.",
         "published": "Wed, 9 Sep 2026 15:39:07 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34377229.ece/ALTERNATES/s98/2_Screenshot-2602.png"
+      },
+      {
+        "id": "b26245ac82ac585a16fe78538ad7006e",
+        "title": "Glasgow\u2019s Citizens Theatre shortlisted for two Great British Theatres Awards",
+        "link": "https://www.glasgowtimes.co.uk/news/26536780.glasgows-citizens-theatre-shortlisted-two-awards/",
+        "description": "A theatre has been recognised for its transformational impact and outstanding contribution to the arts.",
+        "published": "Wed, 09 Sep 2026 16:31:38 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20478793/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=528033",
