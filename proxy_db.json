@@ -1781,6 +1781,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-cca-archive-bought-charity-34592536",
+        "title": "Glasgow CCA archive bought by charity but campaigners say it\u2019s still 'in jeopardy'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-cca-archive-bought-charity-34592536",
+        "description": "Campaigners have said that questions remain on the future of the archive and that the building itself is &quot;being jeopardised&quot;.",
+        "published": "Wed, 9 Sep 2026 15:39:07 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34377229.ece/ALTERNATES/s98/2_Screenshot-2602.png"
+      },
+      {
+        "id": "https://news.stv.tv/?p=528033",
+        "title": "Glen Sannox ferry leaked flammable gas during crossing with over 80 passengers on board",
+        "link": "https://news.stv.tv/west-central/glen-sannox-ferry-leaked-flammable-gas-during-crossing-with-over-80-passengers-on-board",
+        "description": "The incident came just months after the vessel entered service in January 2025.",
+        "published": "Wed, 09 Sep 2026 15:21:40 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/ab3cc47fc9715573b8ead8e4401aa94e-1788957435-1280x720.jpeg"
+      },
+      {
         "id": "c11048aa9ef513312e16fa1c0693818d",
         "title": "Iconic Great Western Road pub announces shock closure",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26536630.glasgow-pub-wintersgill-close-temporarily-reopen/",
@@ -1811,6 +1827,14 @@
         "description": "The piece, on Charlotte Street, depicts Farage being dragged into the sky by a flying pig with a Pinocchio nose and his pants on fire.",
         "published": "Wed, 9 Sep 2026 14:43:06 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/whats-on/arts-culture-news/article34592283.ece/ALTERNATES/s98/0_pic-165.jpg"
+      },
+      {
+        "id": "65dc9fb038b1357dfc36952d25d0c24c",
+        "title": "Ng homes flats hit by fire after misinformation- Here is the allocation policy",
+        "link": "https://www.glasgowtimes.co.uk/news/26536388.ng-homes-allocation-policy-revealed-possilpark-fire/",
+        "description": "Ng Homes, the housing association that owns the flats in Possilpark that were set on fire on Sunday is currently reviewing its allocations policy.",
+        "published": "Wed, 09 Sep 2026 15:34:15 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21431857/?type=app&htype=0"
       },
       {
         "id": "7f787e39e0f2343b828b6bce1bab93f6",
