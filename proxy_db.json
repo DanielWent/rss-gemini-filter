@@ -1773,12 +1773,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/arts-culture-news/glasgow-artist-rebel-bear-unveils-34591952",
+        "title": "Glasgow artist The Rebel Bear unveils new work poking fun at Nigel Farage",
+        "link": "https://www.glasgowlive.co.uk/whats-on/arts-culture-news/glasgow-artist-rebel-bear-unveils-34591952",
+        "description": "The piece, on Charlotte Street, depicts Farage being dragged into the sky by a flying pig with a Pinocchio nose and his pants on fire.",
+        "published": "Wed, 9 Sep 2026 14:43:06 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/whats-on/arts-culture-news/article34592283.ece/ALTERNATES/s98/0_pic-165.jpg"
+      },
+      {
+        "id": "7f787e39e0f2343b828b6bce1bab93f6",
+        "title": "Scottish employers urged to act now ahead of major workplace law changes",
+        "link": "https://www.heraldscotland.com/news/26536272.employers-urged-prepare-employment-rights-act-reforms/",
+        "description": "BTO Solicitors is hosting free Edinburgh and Glasgow seminars to help employers prepare for major employment law reforms taking effect in 2026 and 2027.",
+        "published": "Wed, 09 Sep 2026 15:24:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21431613/?type=app&htype=0"
+      },
+      {
         "id": "9001728",
         "title": "Elfingrove to return to Glasgow for the first time since 2022 after \u00a32 million investment",
         "link": "https://www.glasgowworld.com/news/elfingrove-to-return-to-glasgow-for-the-first-time-since-2022-after-ps2-million-investment-9001728",
         "description": "<p>Elfingrove is set to return to Glasgow for the first time since 2022 after a \u00a32 million investment</p>",
         "published": "Wed, 09 Sep 2026 14:15:25 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/09/14/38/IRL_HERO_04-00_00_09_23-Still002.jpeg?width=1200&auto=webp&trim=0%2C150%2C0%2C150"
+      },
+      {
+        "id": "51afb00ab482f13be31d446127cfb841",
+        "title": "ScotRail welcomes record apprenticeship intake as workforce reaches 110",
+        "link": "https://www.heraldscotland.com/news/26536113.scotrail-takes-record-apprenticeship-intake/",
+        "description": "ScotRail has welcomed 45 new apprentices in its largest external intake, taking the total number of apprentices across the business to 110.",
+        "published": "Wed, 09 Sep 2026 15:10:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21431536/?type=app&htype=0"
       },
       {
         "id": "7ec1d2ac95acb65918c079589093dc79",
@@ -1797,12 +1821,28 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21431417/?type=app&htype=0"
       },
       {
+        "id": "2bc5c7c5dc9f6edc7b9446a43bd0b3db",
+        "title": "BAFTA-winning producer Mick McAvoy named new head of Rogan Scotland",
+        "link": "https://www.heraldscotland.com/news/26536003.mick-mcavoy-named-new-head-rogan-scotland/",
+        "description": "BAFTA-winning producer Mick McAvoy is to lead Rogan Scotland, succeeding Mark Hedgecoe as the Glasgow-based production division targets further growth.",
+        "published": "Wed, 09 Sep 2026 14:44:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21431299/?type=app&htype=0"
+      },
+      {
         "id": "6fff642dc5203f835ec83cb25015bf88",
         "title": "Glasgow gaming venue approved to stay open until 3am every night",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26535985.sauchiehall-street-gaming-venue-admiral-stay-open-3am-daily/",
         "description": "A Glasgow city centre gaming venue, Admiral Casino, will be able to stay open until 3am every night after winning approval to make its late-night hours permanent.",
         "published": "Wed, 09 Sep 2026 14:33:18 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20469013/?type=app&htype=0"
+      },
+      {
+        "id": "935046a31028b2a96438fc1e982d302a",
+        "title": "Derelict Loch Tay township in Perthshire could be transformed into youth camp",
+        "link": "https://www.heraldscotland.com/news/26535830.loch-tay-township-become-youth-activity-centre/",
+        "description": "Generation Hope has unveiled plans for an outdoor activity centre at a derelict Perthshire township on the shores of Loch Tay.",
+        "published": "Wed, 09 Sep 2026 14:21:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21431057/?type=app&htype=0"
       },
       {
         "id": "2af2741d13d7ec43faae034675354216",
@@ -1821,6 +1861,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21364332/?type=app&htype=332"
       },
       {
+        "id": "84020e61494969ab0a96fd677f0a864b",
+        "title": "Elie Kirk community share offer raises \u00a3130,000 to secure historic Fife church",
+        "link": "https://www.heraldscotland.com/news/26535738.historic-elie-kirk-raises-130-000-community-share-offer/",
+        "description": "A community share offer has raised \u00a3130,000 to help bring historic Elie Kirk into community ownership and create a year-round hub.",
+        "published": "Wed, 09 Sep 2026 14:06:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21430902/?type=app&htype=0"
+      },
+      {
         "id": "9936e9e13b98172b4be2086a42d6b5a4",
         "title": "Former Glasgow car showroom sold after attracting 13 bids from buyers",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26535794.former-car-showroom-glasgows-maryhill-site-sold-bidding-war/",
@@ -1835,6 +1883,14 @@
         "description": "Douglas Daniel, 80, and Barbara Daniel, 75, were sentenced to 30 months each for tormenting the children",
         "published": "Wed, 09 Sep 2026 13:02:14 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/d216dfd3ca601a3a386ea98d391e816d-1788956140-1280x720.jpg"
+      },
+      {
+        "id": "de8c3d4e668f7347d1c70d8d6f65c56b",
+        "title": "Rule of law could be undermined by \u2018unconscionable\u2019 High Court delays, MSPs told",
+        "link": "https://www.heraldscotland.com/news/26535759.rule-law-undermined-high-court-delays-msps-told/",
+        "description": "The rule of law could be undermined as victims of the most severe crimes face court delays of up to four years, the head of Scotland\u2019s courts service has said.",
+        "published": "Wed, 09 Sep 2026 13:57:31 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/13892493/?type=app&htype=0"
       },
       {
         "id": "3fb46f635864d23b6f0fdf8f80950421",
@@ -1859,6 +1915,14 @@
         "description": "A 49-year-old man has been charged after riot police and emergency crews descended on a Glasgow street following reports of a person in possession of a bladed weapon.",
         "published": "Wed, 09 Sep 2026 13:46:38 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21427593/?type=app&htype=0"
+      },
+      {
+        "id": "a88f759e56a34d2366c9a4e53c64c4e3",
+        "title": "William Wallace letter to return to London for display under new agreement",
+        "link": "https://www.heraldscotland.com/news/26535673.william-wallace-letter-return-london-display/",
+        "description": "A centuries-old letter of recommendation from the king of France for William Wallace is set to go on display across the UK.",
+        "published": "Wed, 09 Sep 2026 13:41:29 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18711855/?type=app&htype=0"
       },
       {
         "id": "f8d532e2571e73b0f8cb7278a2dcd6b0",
