@@ -1741,6 +1741,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=528331",
+        "title": "\u2018I was labelled a bad kid at school \u2013 now I\u2019m helping young people make better choices\u2019",
+        "link": "https://news.stv.tv/west-central/i-was-labelled-a-bad-kid-at-school-now-im-helping-young-people-make-better-choices",
+        "description": "Billie Fitzpatrick says youth workers gave her 'the wee push' she needed and is now helping teens make better choices for their future",
+        "published": "Wed, 09 Sep 2026 06:00:52 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/e56bc160381c493aed1421e15542d11a-1788884597-1080x720.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c1mv50enz09o#0",
         "title": "Valve failure on CalMac ferry saw uncontrolled escape of flammable gas",
         "link": "https://www.bbc.co.uk/news/articles/c1mv50enz09o?at_medium=RSS&at_campaign=rss",
