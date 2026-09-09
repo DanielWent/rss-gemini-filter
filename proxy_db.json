@@ -1773,6 +1773,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "6fff642dc5203f835ec83cb25015bf88",
+        "title": "Glasgow gaming venue approved to stay open until 3am every night",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26535985.sauchiehall-street-gaming-venue-admiral-stay-open-3am-daily/",
+        "description": "A Glasgow city centre gaming venue, Admiral Casino, will be able to stay open until 3am every night after winning approval to make its late-night hours permanent.",
+        "published": "Wed, 09 Sep 2026 14:33:18 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20469013/?type=app&htype=0"
+      },
+      {
         "id": "2af2741d13d7ec43faae034675354216",
         "title": "Acclaimed tribute combining iconic 80s band with Robert Burns coming to Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26535816.david-byrnes-night-coming-glasgows-old-fruit-market/",
@@ -1795,6 +1803,14 @@
         "description": "A former Lookers car showroom in Maryhill has been sold to a private buyer after attracting 13 offers, highlighting strong demand for prime development opportunities in Glasgow.",
         "published": "Wed, 09 Sep 2026 14:03:59 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21430954/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=528472",
+        "title": "Glasgow woman who tormented foster children in \u2018house of horrors\u2019 released from prison after appeal",
+        "link": "https://news.stv.tv/west-central/glasgow-woman-who-tormented-foster-children-in-house-of-horrors-released-from-prison-after-appeal",
+        "description": "Douglas Daniel, 80, and Barbara Daniel, 75, were sentenced to 30 months each for tormenting the children",
+        "published": "Wed, 09 Sep 2026 13:02:14 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/d216dfd3ca601a3a386ea98d391e816d-1788956140-1280x720.jpg"
       },
       {
         "id": "3fb46f635864d23b6f0fdf8f80950421",
