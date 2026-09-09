@@ -1773,12 +1773,28 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/13259140/?type=app&htype=0"
       },
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-spent-77k-smart-34590714",
+        "title": "Glasgow council spent \u00a377k on smart bin sensor project before it was discontinued",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-spent-77k-smart-34590714",
+        "description": "New street litter bins were deployed in November 2019 with the sensors initially used in neighbourhoods like Dennistoun, Drumchapel, the Gorbals and Priesthill/Househillwood.",
+        "published": "Wed, 9 Sep 2026 11:34:55 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/article34444837.ece/ALTERNATES/s98/1_A-bin-lorry-like-this-one-went-on-fire-this-morning-on-Jamaica-Street.jpg"
+      },
+      {
         "id": "823e7ed2c5d5c5d05b1122f130acd034",
         "title": "Glasgow Airport passengers reminded of rights after series of flight cancellations",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26535308.glasgow-airport-passengers-told-rights-cancellations/",
         "description": "Glasgow Airport passengers hit by NATS flight cancellations can learn about UK rights, airline assistance, alternative travel, refunds and compensation.",
         "published": "Wed, 09 Sep 2026 12:34:09 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17684424/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-airport-warns-further-disruption-34590449",
+        "title": "Glasgow Airport warns of further disruption after air traffic control 'technical issue'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-airport-warns-further-disruption-34590449",
+        "description": "Hundreds of flights were cancelled or delayed due to the issue.",
+        "published": "Wed, 9 Sep 2026 11:23:40 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34590640.ece/ALTERNATES/s98/0_JS342518924-6.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-call-resist-deportations-city-34588292",
