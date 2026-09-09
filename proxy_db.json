@@ -1757,6 +1757,30 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/13259140/?type=app&htype=0"
       },
       {
+        "id": "0c8949bc631f334b09faa961af0db913",
+        "title": "New update after police contained rush hour protest in city centre",
+        "link": "https://www.glasgowtimes.co.uk/news/26534155.update-police-contained-rush-hour-city-centre-protest/",
+        "description": "Police have issued an update after a large group which could have caused disruption gathered in Glasgow yesterday.",
+        "published": "Wed, 09 Sep 2026 09:38:09 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21427364/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/pro-palestine-protesters-gather-front-34588993",
+        "title": "Pro-Palestine protesters gather in front of Glasgow city centre building",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/pro-palestine-protesters-gather-front-34588993",
+        "description": "The demonstration is aimed towards Chubb Insurance, which operates inside the building.",
+        "published": "Wed, 9 Sep 2026 08:31:09 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34589061.ece/ALTERNATES/s98/797624522_2164837800759786_6066733538249390688_n.jpg"
+      },
+      {
+        "id": "2a658f8cce80673761e60f1594ab3ccc",
+        "title": "Police explosives team probe threat made to Scottish school",
+        "link": "https://www.heraldscotland.com/news/26533907.police-explosives-team-probe-threat-made-east-kilbride-school/",
+        "description": "The incident sparked speculation online, which is also being investigated",
+        "published": "Wed, 09 Sep 2026 08:41:55 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21368750/?type=app&htype=0"
+      },
+      {
         "id": "0e37a92e246e638b0d9d6bb6bd66d82d",
         "title": "Police issue update after East Kilbride schools targeted by online bomb threat",
         "link": "https://www.glasgowtimes.co.uk/news/26533892.update-calderglen-high-school-targeted-bomb-threat/",
@@ -2523,14 +2547,6 @@
         "description": "Aberdeen has become a magnet for French property funds, which have invested more than \u00a3100m in commercial assets during the past 18 months",
         "published": "Mon, 07 Sep 2026 17:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/19973605/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c5y70pk8d84o#0",
-        "title": "Man charged with assaults during Glasgow Green protests disorder",
-        "link": "https://www.bbc.co.uk/news/articles/c5y70pk8d84o?at_medium=RSS&at_campaign=rss",
-        "description": "Seventeen people have now been charged over trouble that flared up on 25 July after anti-racism and anti-immigration held rival demos.",
-        "published": "Mon, 07 Sep 2026 15:48:38 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf89/live/5b7a3f50-aaca-11f1-9ffe-379165646670.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
