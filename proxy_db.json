@@ -1781,6 +1781,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "fb921a7e3fcd43a941c04903e72ebb41",
+        "title": "New nursery to be built on vacant land near church",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26536965.new-300-square-metre-nursery-approved-cambuslang/",
+        "description": "Plans for a new nursery have been given the green light, paving the way for a childcare facility to be built on vacant land near a church.",
+        "published": "Wed, 09 Sep 2026 17:07:03 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21038387/?type=app&htype=32"
+      },
+      {
+        "id": "43d48ebfee7df53b4ce394e36fe8f84d",
+        "title": "Police hunt launched after man caught 'exposing himself' near Glasgow library",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26536944.police-investigate-alleged-exposure-near-knightswood-library/",
+        "description": "Police Scotland investigate alleged indecent exposure near Knightswood Library, Glasgow, on September 7, with anyone with information urged to call 101.",
+        "published": "Wed, 09 Sep 2026 17:03:39 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20702983/?type=app&htype=0"
+      },
+      {
+        "id": "9001947",
+        "title": "Lawrence Shankland damage assessed as pundit raises major Rangers injury 'concern' beyond three month sideline",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/lawrence-shankland-damage-assessed-as-pundit-raises-major-rangers-injury-concern-beyond-three-month-sideline-9001947",
+        "description": "<p>Captain suffered a similar injury with Hearts in January</p>",
+        "published": "Wed, 09 Sep 2026 16:00:56 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/09/14/31/GettyImages-2288513327.jpeg?width=1200&auto=webp&trim=96%2C0%2C96%2C0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-cca-archive-bought-charity-34592536",
         "title": "Glasgow CCA archive bought by charity but campaigners say it\u2019s still 'in jeopardy'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-cca-archive-bought-charity-34592536",
@@ -1795,6 +1819,14 @@
         "description": "The incident came just months after the vessel entered service in January 2025.",
         "published": "Wed, 09 Sep 2026 15:21:40 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/ab3cc47fc9715573b8ead8e4401aa94e-1788957435-1280x720.jpeg"
+      },
+      {
+        "id": "15696ad7318659bf518ce828aa601ad0",
+        "title": "Pervert hid spy camera inside Lynx deodorant can to film child",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26536684.glasgow-pervert-hid-spy-camera-lynx-deodorant-can-film-child/",
+        "description": "A Glasgow man who concealed a spy camera inside a Lynx deodorant can to secretly record a child and a young woman has admitted a series of sexual offences and been remanded in custody.",
+        "published": "Wed, 09 Sep 2026 16:19:10 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18861560/?type=app&htype=0"
       },
       {
         "id": "c11048aa9ef513312e16fa1c0693818d",
@@ -1821,6 +1853,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21431942/?type=app&htype=0"
       },
       {
+        "id": "39fb0e74ecacbd4c2b5ecc1029f86691",
+        "title": "Toscano launches Toscanino as Edinburgh food business expands",
+        "link": "https://www.heraldscotland.com/news/26536400.edinburghs-toscano-launches-new-grab-and-go-food-concept/",
+        "description": "Edinburgh food business Toscano has launched Toscanino on Forrest Road, offering smaller Tuscan Schiacciata sandwiches from \u00a35.",
+        "published": "Wed, 09 Sep 2026 15:44:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21431784/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/arts-culture-news/glasgow-artist-rebel-bear-unveils-34591952",
         "title": "Glasgow artist The Rebel Bear unveils new work poking fun at Nigel Farage",
         "link": "https://www.glasgowlive.co.uk/whats-on/arts-culture-news/glasgow-artist-rebel-bear-unveils-34591952",
@@ -1835,6 +1875,14 @@
         "description": "Ng Homes, the housing association that owns the flats in Possilpark that were set on fire on Sunday is currently reviewing its allocations policy.",
         "published": "Wed, 09 Sep 2026 15:34:15 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21431857/?type=app&htype=0"
+      },
+      {
+        "id": "3706a89dcb9f46772ea62f8a1e36d796",
+        "title": "Uncertain future for Roseburn Path tram plan as stances revealed ahead of key vote",
+        "link": "https://www.heraldscotland.com/news/26536269.will-happen-roseburn-path-tram-vote-thursday/",
+        "description": "Only the Liberal Democrats have put forward wording which explicitly rules out the Roseburn Path as a route for trams in the future.",
+        "published": "Wed, 09 Sep 2026 15:32:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19967096/?type=app&htype=0"
       },
       {
         "id": "7f787e39e0f2343b828b6bce1bab93f6",
