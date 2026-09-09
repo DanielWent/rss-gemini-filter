@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o#0",
+        "title": "Anthropic safety researcher says more than 10% chance AI 'could kill all humans'",
+        "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+        "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
+        "published": "Wed, 09 Sep 2026 08:59:52 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cace/live/40c59310-ac2a-11f1-9bd9-7b7da208bd5c.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/sport/articles/cwyzx1gxwqlo#7",
         "title": "Are women better than men at endurance running?",
         "link": "https://www.bbc.co.uk/sport/articles/cwyzx1gxwqlo?at_medium=RSS&at_campaign=rss",
@@ -1757,6 +1765,30 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/13259140/?type=app&htype=0"
       },
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/scotland-freeview-switch-off-date-34589241",
+        "title": "Scotland Freeview 'switch off' date update as Minister responds to 'worst hit' concern",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/scotland-freeview-switch-off-date-34589241",
+        "description": "MP said there are serious worries Scotland will be far more badly hit by loss of terrestrial television than England",
+        "published": "Wed, 9 Sep 2026 09:03:09 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34589261.ece/ALTERNATES/s98/0_Screenshot-2026-09-09-095834.png"
+      },
+      {
+        "id": "6406faefd309f31199f546468d0b9f07",
+        "title": "Elfingrove to return for the first time in four years after \u00a32m investment",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26533169.elfingrove-return-glasgow-november-following-2m-investment/",
+        "description": "Elfingrove will return to Glasgow this November for the first time in four years following a \u00a32million investment.",
+        "published": "Wed, 09 Sep 2026 10:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21427188/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-city-centre-protest-update-34589143",
+        "title": "Glasgow city centre protest update as police issue statement saying no arrests made",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-city-centre-protest-update-34589143",
+        "description": "Officers were called to the city centre at around 4.20pm on September 8 following reports that a large group of people had gathered in Buchanan Street.",
+        "published": "Wed, 9 Sep 2026 08:55:02 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34589172.ece/ALTERNATES/s98/0_Screenshot-2026-09-08-195233.png"
+      },
+      {
         "id": "0c8949bc631f334b09faa961af0db913",
         "title": "New update after police contained rush hour protest in city centre",
         "link": "https://www.glasgowtimes.co.uk/news/26534155.update-police-contained-rush-hour-city-centre-protest/",
@@ -1771,6 +1803,14 @@
         "description": "The demonstration is aimed towards Chubb Insurance, which operates inside the building.",
         "published": "Wed, 9 Sep 2026 08:31:09 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34589061.ece/ALTERNATES/s98/797624522_2164837800759786_6066733538249390688_n.jpg"
+      },
+      {
+        "id": "e5fd9c1c4078eb2f3533c35fa55e2151",
+        "title": "Second day of cancellations as Glasgow Airport hit by air traffic issue",
+        "link": "https://www.glasgowtimes.co.uk/news/26533971.glasgow-airport-cancellations-air-traffic-issue/",
+        "description": "Glasgow Airport is experiencing more flight cancellations after an air traffic issue grounded flights across the UK yesterday.",
+        "published": "Wed, 09 Sep 2026 09:03:32 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19478613/?type=app&htype=0"
       },
       {
         "id": "2a658f8cce80673761e60f1594ab3ccc",
@@ -2515,38 +2555,6 @@
         "description": "Scottish Gas Networks (SGN) is dealing with the issue and people are advised to avoid Eastwood Park.",
         "published": "Mon, 07 Sep 2026 17:40:11 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be43/live/bef81950-aae1-11f1-aa35-df10e5ff32f4.jpg"
-      },
-      {
-        "id": "0df9714c0fd7478220dafb95619dcbd1",
-        "title": "Decision made on future of Glasgow's CCA and Third Eye Centre archives",
-        "link": "https://www.glasgowtimes.co.uk/news/26529398.decision-made-future-glasgows-cca-third-eye-centre-archives/",
-        "description": "An important Glasgow contemporary arts archive containing more than five decades of material has been saved for the city.",
-        "published": "Mon, 07 Sep 2026 17:30:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20575963/?type=app&htype=0"
-      },
-      {
-        "id": "c8c4bde3f0ecc17e217bce0635244b55",
-        "title": "Former funeral directors in busy Glasgow area could be turned into cafe",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26529715.former-funeral-directors-glasgow-turned-cafe/",
-        "description": "A former funeral directors office in Glasgow could be turned into a cafe.",
-        "published": "Mon, 07 Sep 2026 17:20:39 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19859496/?type=app&htype=0"
-      },
-      {
-        "id": "72196441aca32ba3a340272338632b27",
-        "title": "Three Holyrood committees reject call for further scrutiny of party finances",
-        "link": "https://www.heraldscotland.com/politics/westminster/26529641.holyrood-committees-reject-westminster-call-murrell-case-scrutiny/",
-        "description": "Three Holyrood committees have declined to work jointly with a UK Parliament committee on further scrutiny of party finances.",
-        "published": "Mon, 07 Sep 2026 17:13:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21085007/?type=app&htype=0"
-      },
-      {
-        "id": "b07a59fcb78d5d1128ba512a04832a96",
-        "title": "The French connection that's drawing investors to an unexpected Scottish market",
-        "link": "https://www.heraldscotland.com/news/26528843.french-investors-buy-100m-aberdeen-commercial-property/",
-        "description": "Aberdeen has become a magnet for French property funds, which have invested more than \u00a3100m in commercial assets during the past 18 months",
-        "published": "Mon, 07 Sep 2026 17:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19973605/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
