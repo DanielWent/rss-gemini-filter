@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/sport/articles/cwyzx1gxwqlo#7",
+        "title": "Are women better than men at endurance running?",
+        "link": "https://www.bbc.co.uk/sport/articles/cwyzx1gxwqlo?at_medium=RSS&at_campaign=rss",
+        "description": "Women have beaten men in some high-profile endurance events in recent months - are they better suited to these challenges?",
+        "published": "Wed, 09 Sep 2026 06:27:02 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9881/live/864cfb20-ab63-11f1-9647-01c7ddc5a2b1.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c20917w25n4o#0",
         "title": "The trail of clues that our planet might be heating faster than we realised",
         "link": "https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss",
@@ -1741,6 +1749,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "b6529057bb10ea491352ffa679278903",
+        "title": "Jimmy Reid autobiography finally published after 32-year journey",
+        "link": "https://www.glasgowtimes.co.uk/news/26530974.jimmy-reid-autobiography-finally-published-32-year-journey/",
+        "description": "The long-awaited autobiography of Jimmy Reid has been published, tracing the Govan-born union leader's life, the UCS work-in and his enduring political legacy.",
+        "published": "Fri, 11 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13259140/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-qeuh-scandal-families-warn-34588582",
+        "title": "Glasgow QEUH scandal families warn 'we won't go away' over NHS board merger",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-qeuh-scandal-families-warn-34588582",
+        "description": "The families of patients who died at the Queen Elizabeth University Hospital in Glasgow have been campaigning for years for justice over the infection scandal and fear NHS health board merger plans will make accountability harder",
+        "published": "Wed, 9 Sep 2026 06:54:53 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34588580.ece/ALTERNATES/s98/0_LSjpeg.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/ayrshire-woman-leaves-hospital-worse-34580439",
+        "title": "Ayrshire woman leaves hospital 'worse than when she got in' after waiting weeks for tests",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/ayrshire-woman-leaves-hospital-worse-34580439",
+        "description": "Martin Dorans has blasted Crosshouse Hospital where his wife, Diane, spent five weeks before being discharged \u2013with no diagnosis or treatment according to the couple.",
+        "published": "Wed, 9 Sep 2026 06:28:03 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34584323.ece/ALTERNATES/s98/0_JS378144261.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/worrying-data-gaps-found-scottish-34587887",
         "title": "'Worrying' data gaps found in Scottish police use of force against children",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/worrying-data-gaps-found-scottish-34587887",
@@ -1755,6 +1787,30 @@
         "description": "Billie Fitzpatrick says youth workers gave her 'the wee push' she needed and is now helping teens make better choices for their future",
         "published": "Wed, 09 Sep 2026 06:00:52 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/e56bc160381c493aed1421e15542d11a-1788884597-1080x720.jpg"
+      },
+      {
+        "id": "d4b7b975777bfdf77c4bc9a81e045f51",
+        "title": "'Delighted' - Issue that has plagued city pond for year finally 'fixed'",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26532070.leak-pond-glasgows-knightswood-park-fixed/",
+        "description": "A long-standing issue that has plagued a city pond for years appears to have finally been resolved.",
+        "published": "Wed, 09 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21425656/?type=app&htype=0"
+      },
+      {
+        "id": "3be8e71bd44954b2a4ae3123fa3d9a9e",
+        "title": "Domestic abuse advocacy staff \u2018terrified\u2019 as pay cuts top \u00a311,000",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26532570.glasgow-domestic-abuse-advocacy-staff-face-11-500-pay-cut/",
+        "description": "Domestic abuse advocacy workers have been left \u201cterrified\u201d after finding out their salary will drop by more than \u00a310,000.",
+        "published": "Wed, 09 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21393001/?type=app&htype=0"
+      },
+      {
+        "id": "8558c4f35d9d992e57837ff6a7492625",
+        "title": "Educating boys is the key to tackling violence against women say MSPs",
+        "link": "https://www.glasgowtimes.co.uk/news/26532633.reach-boys-tackle-misogyny-society-say-msps/",
+        "description": "Tackling the root causes of violence against women and girls must be a national priority, according to two Glasgow MSPs.",
+        "published": "Wed, 09 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21370214/?type=app&htype=0"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/c1mv50enz09o#0",
@@ -2491,46 +2547,6 @@
         "description": "Open All Mics update Open All Mics update as BBC Scotland explain reason for football show absenceas BBC Scotland explain reason for football show absence",
         "published": "Mon, 07 Sep 2026 14:21:32 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21420769/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/family-behind-barrhead-cafe-famous-34579705",
-        "title": "Family behind Barrhead cafe famous for its ice cream clear up rumours about selling up",
-        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/family-behind-barrhead-cafe-famous-34579705",
-        "description": "The much-loved Central Cafe was recently put on the market with the popular family behind it looking to retire.",
-        "published": "Mon, 7 Sep 2026 13:11:49 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34579406.ece/ALTERNATES/s98/0_Screenshot-2026-09-07-at-125723PM.png"
-      },
-      {
-        "id": "c00dac78d1b2e0585b874e627592c483",
-        "title": "Scottish department store celebrates 170th year in business",
-        "link": "https://www.heraldscotland.com/news/26528432.scottish-department-store-celebrates-170th-year-business/",
-        "description": "In an age when traditional department stores are becoming an increasingly rare sight on Britain's high streets, one Dumfries institution is preparing to celebrate an extraordinary milestone.",
-        "published": "Mon, 07 Sep 2026 14:08:04 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21420550/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cgrvx9evd7ko#0",
-        "title": "Major towns set for 20mph speed limits under new roads programme",
-        "link": "https://www.bbc.co.uk/news/articles/cgrvx9evd7ko?at_medium=RSS&at_campaign=rss",
-        "description": "Ayr, Troon and Prestwick have been identified for a future phase of the Ayrshire Roads Alliance (ARA) programme",
-        "published": "Mon, 07 Sep 2026 12:47:43 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6af/live/e5d45560-aab0-11f1-bdcc-b5edf6495ed5.jpg"
-      },
-      {
-        "id": "069127d668d0a1d4195223068b27fc91",
-        "title": "Glasgow and East Dunbartonshire libraries awarded share of \u00a3230,000 funding",
-        "link": "https://www.glasgowtimes.co.uk/news/26528284.glasgow-east-dunbartonshire-libraries-secured-funding/",
-        "description": "A national library scheme is supporting projects that promote reading, inclusion, and digital literacy.",
-        "published": "Mon, 07 Sep 2026 13:39:17 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21420232/?type=app&htype=0"
-      },
-      {
-        "id": "8d453282708928406cc3a5371751d15d",
-        "title": "Here's how many people have crossed Govan-Partick Bridge Bridge in first two years",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26528268.2m-people-crossed-govan-partick-bridge/",
-        "description": "Over 2m people have crossed the Govan-Partick Bridge Bridge in its first two years, it has been revealed.",
-        "published": "Mon, 07 Sep 2026 13:35:21 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21420512/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
