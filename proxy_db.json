@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1788966913611100",
+        "title": "'I'm not a robot' - Kerr responds to criticism before Ingebrigtsen reunion",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cnvl7qe15z5o?at_medium=RSS&at_campaign=rss",
+        "description": "Josh Kerr says he is \"very happy\" to see Jakob Ingebrigtsen back competing - but he is \"not going to lose\" when they resume their fierce rivalry this weekend.",
+        "published": "Wed, 09 Sep 2026 17:00:03 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a2d/live/91c62980-ac45-11f1-bc1f-3f186ca4140c.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o#0",
         "title": "Anthropic safety researcher says more than 10% chance AI 'could kill all humans'",
         "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
@@ -1773,6 +1781,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "c11048aa9ef513312e16fa1c0693818d",
+        "title": "Iconic Great Western Road pub announces shock closure",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26536630.glasgow-pub-wintersgill-close-temporarily-reopen/",
+        "description": "An iconic Great Western Road pub has announced it will be closing in a shocking post.",
+        "published": "Wed, 09 Sep 2026 16:11:07 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20029242/?type=app&htype=0"
+      },
+      {
+        "id": "e0ed943db1cb2163ba1a13d351546637",
+        "title": "Masked teenage thug left man permanently scarred in Sauchiehall Street knife attack",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26536563.teen-left-man-permanently-scarred-sauchiehall-street-knife-attack/",
+        "description": "A teenager who slashed a man in the face with a knife on Glasgow's Sauchiehall Street has admitted assaulting the victim to his severe injury and permanent disfigurement.",
+        "published": "Wed, 09 Sep 2026 16:01:12 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21169030/?type=app&htype=0"
+      },
+      {
+        "id": "b2df4324bcda5a91f0ac17e318f06e21",
+        "title": "Huge crowds gather in protest outside Glasgow city centre building",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26536541.pro-palestine-protesters-target-chubb-office-waterloo-street/",
+        "description": "Pro-Palestine protesters have gathered outside a Glasgow city centre office building as part of a nationwide day of action.",
+        "published": "Wed, 09 Sep 2026 15:57:34 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21431942/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/arts-culture-news/glasgow-artist-rebel-bear-unveils-34591952",
         "title": "Glasgow artist The Rebel Bear unveils new work poking fun at Nigel Farage",
         "link": "https://www.glasgowlive.co.uk/whats-on/arts-culture-news/glasgow-artist-rebel-bear-unveils-34591952",
@@ -1819,6 +1851,14 @@
         "description": "A counsellor is hoping to open a therapy practice from a purpose-built garden office at her home in Bargeddie after submitting plans to North Lanarkshire Council.",
         "published": "Wed, 09 Sep 2026 14:55:16 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21431417/?type=app&htype=0"
+      },
+      {
+        "id": "b913e423113c8aa2d77b9e2454e3f977",
+        "title": "Council issues update on Paisley Museum transformation",
+        "link": "https://www.heraldscotland.com/news/26536079.council-issues-timeline-reopening-paisley-museum/",
+        "description": "The fit-out and install programme for Paisley Museum will be complete by the end of this year ahead of reopening to the public early in the new year, Renfrewshire Council has said.",
+        "published": "Wed, 09 Sep 2026 14:46:43 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21431486/?type=app&htype=0"
       },
       {
         "id": "2bc5c7c5dc9f6edc7b9446a43bd0b3db",
