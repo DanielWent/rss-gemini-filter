@@ -1789,12 +1789,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "78172c7e6b8746a87dfd83963cb428a6",
+        "title": "Police plan big operation for rival protests at Glasgow Green this weekend",
+        "link": "https://www.glasgowtimes.co.uk/news/26537188.police-plan-big-presence-rival-protests-glasgow-green/",
+        "description": "Police to deploy horses, dogs, drones and helicopter as Pink Ladies and counter-protesters gather at Glasgow Green.",
+        "published": "Wed, 09 Sep 2026 18:26:52 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21420655/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=528543",
         "title": "Trains cancelled after lorry strikes level crossing barriers near Helensburgh",
         "link": "https://news.stv.tv/west-central/trains-cancelled-after-lorry-strikes-level-crossing-barriers-near-helensburgh",
         "description": "Network Rail engineers have been called to Cardross after an HGV struck the barriers on Wednesday evening.",
         "published": "Wed, 09 Sep 2026 17:05:26 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/eb686854da75463fc4695748dfc15696-1788973266-1200x720.jpeg"
+      },
+      {
+        "id": "9536618b9603ff54adae6bff3813922b",
+        "title": "Council officials recommend rejecting Glasgow homeless shelter application",
+        "link": "https://www.glasgowtimes.co.uk/news/26537124.glasgow-officials-recommend-rejecting-city-night-shelter/",
+        "description": "Council officials have recommended rejecting a planning application for a night shelter in the city centre.",
+        "published": "Wed, 09 Sep 2026 17:49:33 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21322225/?type=app&htype=0"
       },
       {
         "id": "9002629",
