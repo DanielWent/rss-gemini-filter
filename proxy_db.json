@@ -1837,6 +1837,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "810ad3bdc94dc3b7a468bb0e75119791",
+        "title": "Update issued on roadworks amid major delays",
+        "link": "https://www.glasgowtimes.co.uk/news/26540082.update-issued-dalreoch-roadworks-amid-major-delays/",
+        "description": "Scottish Water adds traffic staff to ease Cardross Road, Dumbarton, delays as \u00a34m sewer works and five-way lights continue until December 7 in West Dunbartonshire.",
+        "published": "Thu, 10 Sep 2026 16:23:29 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21436666/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=528653",
         "title": "Plans unveiled to \u2018enhance SEC offer\u2019 with floating platform on the Clyde",
         "link": "https://news.stv.tv/west-central/plans-unveiled-to-enhance-sec-offer-with-floating-platform-on-the-clyde",
@@ -1883,14 +1891,6 @@
         "description": "The woman was walking her dog in an open grassy area near to Abernethy Avenue and Westerpark Avenue in Blantyre when the attack happened",
         "published": "Thu, 10 Sep 2026 14:08:10 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/c29b0f2822df70edc474f6f47d3c0dc3-1789049184-1120x720.jpg"
-      },
-      {
-        "id": "b067df036abfdcff38c2c30b91a820b4",
-        "title": "Rockstar Games faces union-busting claims from workers behind GTA VI",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26539548.rockstar-games-faces-tribunal-claims-workers-behind-gta-vi/",
-        "description": "Rockstar Games faces union-busting claims from 31 workers at a Glasgow tribunal, where IWGB alleges unfair dismissals over GTA VI development work.",
-        "published": "Thu, 10 Sep 2026 14:59:32 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21435952/?type=app&htype=0"
       },
       {
         "id": "80b69242b253fa52b553c0aa6e7e0fcd",
@@ -1941,12 +1941,12 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21157425/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-safe-insists-susan-aitken-34597441",
-        "title": "Glasgow is 'safe' insists Susan Aitken as she quits as council leader after 9 years",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-safe-insists-susan-aitken-34597441",
-        "description": "Aitken has led a minority SNP administration through a tumultuous nine years that have seen mounting criticism of the state of Glasgow.",
-        "published": "Thu, 10 Sep 2026 13:04:24 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34531097.ece/ALTERNATES/s98/0_JS380537435.jpg"
+        "id": "97c767f509fe201b37f4b9007afc9ee3",
+        "title": "Overnight closures planned for several DAYS on busy section of M8 motorway",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26539188.overnight-closures-planned-m8-junction-12-resurfacing/",
+        "description": "Overnight closures are set to begin as part of essential resurfacing works on a busy section of the M8.",
+        "published": "Thu, 10 Sep 2026 14:01:34 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18524256/?type=app&htype=0"
       },
       {
         "id": "e42e30f23cac42bb6edb6eea2f737678",
@@ -2019,14 +2019,6 @@
         "description": "The Skinny is to cease publication after 20 years. A statement from the Edinburgh-based publication confirmed that September\u2019s issue will be its final issue.",
         "published": "Thu, 10 Sep 2026 12:34:34 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21435002/?type=app&htype=0"
-      },
-      {
-        "id": "09ee31a3d28b6b09a964f211c085fdac",
-        "title": "Construction underway on major affordable homes development",
-        "link": "https://www.glasgowtimes.co.uk/news/26538667.work-starts-23-new-affordable-homes-bishopton/",
-        "description": "Construction is underway on a new development of affordable homes.",
-        "published": "Thu, 10 Sep 2026 12:25:25 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21433914/?type=app&htype=0"
       },
       {
         "id": "3ebe69f5b4f733666421e38e9ff8aeb5",
@@ -2141,14 +2133,6 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/06/02/10/41/Untitled-design-2026-06-02T114526-523.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/sport/disallowed-celtic-goal-var-row-34595232",
-        "title": "Disallowed Celtic goal in VAR row as top ref gives candid 'evidence' claim",
-        "link": "https://www.glasgowlive.co.uk/sport/disallowed-celtic-goal-var-row-34595232",
-        "description": "Celtic were denied a goal in their 1-0 win over St Johnstone after Haissem Hassan turned home a cross from Sebastian Tounekti, but the goal was ruled out for the ball being out of play.",
-        "published": "Thu, 10 Sep 2026 08:19:15 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34595231.ece/ALTERNATES/s98/0_Screenshot-2026-09-09-at-215725.jpg"
-      },
-      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/disabled-ayrshire-teens-parents-tormented-34595021",
         "title": "Disabled Ayrshire teen's parents tormented by 'sanction' threats in row over benefits",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/disabled-ayrshire-teens-parents-tormented-34595021",
@@ -2235,14 +2219,6 @@
         "description": "Greater Pollok Councillor Roza Salih has now called on stores at the nearby Silverburn Shopping Centre to play their part in cleaning up the clean-up.",
         "published": "Thu, 10 Sep 2026 07:26:04 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21384585/?type=app&htype=0"
-      },
-      {
-        "id": "6d253ae4dfa7f087a57732edf0f73872",
-        "title": "Council leader insists Glasgow is safer and cleaner than before she took office",
-        "link": "https://www.glasgowtimes.co.uk/news/26537392.susan-aitken-says-glasgow-safer-cleaner/",
-        "description": "A Glasgow City Council chief has insisted Glasgow is a safer, cleaner city than it was before she took office.",
-        "published": "Thu, 10 Sep 2026 07:00:02 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20900830/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=528256",
@@ -2445,14 +2421,6 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/whats-on/arts-culture-news/article34592283.ece/ALTERNATES/s98/0_pic-165.jpg"
       },
       {
-        "id": "65dc9fb038b1357dfc36952d25d0c24c",
-        "title": "Ng homes flats hit by fire after misinformation- Here is the allocation policy",
-        "link": "https://www.glasgowtimes.co.uk/news/26536388.ng-homes-allocation-policy-revealed-possilpark-fire/",
-        "description": "Ng Homes, the housing association that owns the flats in Possilpark that were set on fire on Sunday is currently reviewing its allocations policy.",
-        "published": "Wed, 09 Sep 2026 15:34:15 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21431857/?type=app&htype=0"
-      },
-      {
         "id": "3706a89dcb9f46772ea62f8a1e36d796",
         "title": "Uncertain future for Roseburn Path tram plan as stances revealed ahead of key vote",
         "link": "https://www.heraldscotland.com/news/26536269.will-happen-roseburn-path-tram-vote-thursday/",
@@ -2627,14 +2595,6 @@
         "description": "Hundreds of flights were cancelled or delayed due to the issue.",
         "published": "Wed, 9 Sep 2026 11:23:40 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34590640.ece/ALTERNATES/s98/0_JS342518924-6.jpg"
-      },
-      {
-        "id": "f7f8e399be0ce295e53ae736c3dfa7a2",
-        "title": "No arrests after police 'contain' masked protesters in Glasgow city centre",
-        "link": "https://www.heraldscotland.com/news/26535111.no-arrests-police-contain-masked-protesters-glasgow/",
-        "description": "The group gathered in the centre on Tuesday afternoon.",
-        "published": "Wed, 09 Sep 2026 12:03:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/16737962/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
