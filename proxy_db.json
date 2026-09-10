@@ -1837,6 +1837,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "80b69242b253fa52b553c0aa6e7e0fcd",
+        "title": "Holidaymakers stunned as Glasgow Airport Express bus drops to just \u00a32",
+        "link": "https://www.glasgowtimes.co.uk/news/26539496.glasgow-airport-express-fares-cut-11-just-2/",
+        "description": "Glasgow Airport Express fares fall from \u00a311 to \u00a32 as Transport Scotland\u2019s bus fare cap starts on September 7, covering Glasgow and west Scotland for bus users.",
+        "published": "Thu, 10 Sep 2026 14:51:39 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21435760/?type=app&htype=0"
+      },
+      {
+        "id": "b07fd35ce23b7fedaa040a82fef98b56",
+        "title": "Major Kingston Bridge closures to hit Glasgow drivers for two months",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26539380.kingston-bridge-surveys-bring-overnight-road-closures/",
+        "description": "Kingston Bridge drainage surveys bring overnight closures and lane restrictions from September 13, affecting Carnoustie Street and M8 Junction 19 in Glasgow.",
+        "published": "Thu, 10 Sep 2026 14:35:12 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20992232/?type=app&htype=0"
+      },
+      {
+        "id": "1080fc0d3c45a91e5ba1ba4093a19436",
+        "title": "Edinburgh property expert Jill Andrew to lead Scottish conveyancing review",
+        "link": "https://www.heraldscotland.com/news/26539304.jill-andrew-co-chair-scottish-residential-conveyancing-review/",
+        "description": "Jill Andrew has been appointed co-chair of a Scottish Government working group reviewing the residential conveyancing process in Scotland.",
+        "published": "Thu, 10 Sep 2026 14:23:07 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21435569/?type=app&htype=0"
+      },
+      {
         "id": "55b3512be26e3ae3b9c773842f960e1b",
         "title": "Cops release description of man after woman raped while walking dog",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26539280.cops-release-description-man-woman-raped-blantyre/",
@@ -1851,6 +1875,14 @@
         "description": "A judge has asked lawyers to decide what evidence they can agree ahead of the trial of comedian Hardeep Singh Kohli who is accused of rape and other sex offences.",
         "published": "Thu, 10 Sep 2026 14:07:48 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/13033913/?type=app&htype=0"
+      },
+      {
+        "id": "6b5ee9d41c643aeef91b56041da36724",
+        "title": "Armed police and military personnel to conduct training drill in Cambuslang",
+        "link": "https://www.heraldscotland.com/news/26539212.warning-ahead-police-military-training-drill-cambuslang/",
+        "description": "Armed police and military personnel are to take part in a multi-agency exercise in Cambuslang on Friday, September 11.",
+        "published": "Thu, 10 Sep 2026 14:05:22 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21157425/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-safe-insists-susan-aitken-34597441",
@@ -1893,14 +1925,6 @@
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e38d/live/10c6f1d0-1969-11f1-8943-0f02ddbbd48f.jpg"
       },
       {
-        "id": "e3b4761f56d6be8c642a73b0533f9a0f",
-        "title": "Woman raped in playpark as police launch investigation",
-        "link": "https://www.glasgowtimes.co.uk/news/26539003.police-probe-woman-raped-blantyre-playpark/",
-        "description": "Police Scotland are investigating a reported rape in a South Lanarkshire playpark, on September 8, with officers appealing for information, contact 101.",
-        "published": "Thu, 10 Sep 2026 13:21:56 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/12714858/?type=app&htype=0"
-      },
-      {
         "id": "97719609363f63c38167bf6c124eaac8",
         "title": "New Glasgow City Council leader says he's \"happy\" falling out with Holyrood",
         "link": "https://www.heraldscotland.com/news/26538895.snps-ricky-bell-elected-new-leader-glasgow-city-council/",
@@ -1939,14 +1963,6 @@
         "description": "The Skinny is to cease publication after 20 years. A statement from the Edinburgh-based publication confirmed that September\u2019s issue will be its final issue.",
         "published": "Thu, 10 Sep 2026 12:34:34 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21435002/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=528628",
-        "title": "Judge asks lawyers to agree evidence ahead of Hardeep Singh Kohli\u2019s rape trial",
-        "link": "https://news.stv.tv/west-central/judge-asks-lawyers-to-agree-evidence-ahead-of-hardeep-singh-kohlis-rape-trial",
-        "description": "The comedian is set to go on trial in October 27 accused of 20 charges including rape, sexual assault and indecent communication",
-        "published": "Thu, 10 Sep 2026 11:29:02 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2021/09/3e1a0ea2fbc67bdfca1aa2a5c6437e0a.jpg"
       },
       {
         "id": "09ee31a3d28b6b09a964f211c085fdac",
@@ -1995,14 +2011,6 @@
         "description": "An update has been issued on the broken escalator at Clyde Shopping Centre. The troubled system had been out of use since the beginning of 2025 before being fixed back in March of this year.",
         "published": "Thu, 10 Sep 2026 11:51:13 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21431290/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/woman-raped-lanarkshire-park-attack-34596472",
-        "title": "Woman raped in Lanarkshire park attack as cops tape off area in ongoing probe",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/woman-raped-lanarkshire-park-attack-34596472",
-        "description": "Police were alerted to the serious sexual assault on Tuesday night.",
-        "published": "Thu, 10 Sep 2026 10:51:11 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34563394.ece/ALTERNATES/s98/2_gettyimages-1784447972-170667a-1.jpg"
       },
       {
         "id": "ff8569e65818d62a53d3c3394df32b62",
@@ -2069,14 +2077,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/17284333/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/airdrie-fish-rescue-operation-work-34596033",
-        "title": "Airdrie fish rescue operation as work on \u00a38.6 million sewer upgrade gets underway",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/airdrie-fish-rescue-operation-work-34596033",
-        "description": "Contractors say the project will increase the wastewater network capacity in the area, reduce the risk of sewer flooding and support the future development of the new University Hospital Monklands.",
-        "published": "Thu, 10 Sep 2026 09:48:56 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34596011.ece/ALTERNATES/s98/1_The-team-from-the-Clyde-River-Foundation-safely-collected-and-relocated-the-fish.png"
-      },
-      {
         "id": "9008987",
         "title": "Youth charged in connection with East Kilbride school threats",
         "link": "https://www.glasgowworld.com/news/youth-charged-in-connection-with-east-kilbride-school-threats-9008987",
@@ -2123,14 +2123,6 @@
         "description": "John Swinney has written to Andy Burnham asking for talks on a legal mechanism for a Scottish independence referendum after the Prime Minister appeared to change position on a new vote.",
         "published": "Thu, 10 Sep 2026 08:55:16 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21356776/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/football/articles/cevw23z7l03o#0",
-        "title": "O'Neill 'not sure what to make of' Celtic, so what are the issues?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cevw23z7l03o?at_medium=RSS&at_campaign=rss",
-        "description": "What did manager Martin O'Neill learn about his Celtic squad after a much-changed side earned a narrow 1-0 victory away to St Johnstone?",
-        "published": "Thu, 10 Sep 2026 07:39:05 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cbb/live/747140e0-acea-11f1-8d69-858c9dcdf738.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-flasher-exposes-himself-nursery-34594870",
@@ -2275,14 +2267,6 @@
         "description": "Andr\u00e9 Rieu fans heading to Glasgow\u2019s OVO Hydro on September 10 can find travel, train, bus, parking, restaurant and arrival advice before the concert.",
         "published": "Wed, 09 Sep 2026 20:05:12 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20180667/?type=app&htype=0"
-      },
-      {
-        "id": "befac94fb15736a563b228bd0e2b5433",
-        "title": "Youth charged after 'bomb threat' sparks panic at school",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26537257.youth-charged-bomb-threat-sparks-panic-calderglen-high-school/",
-        "description": "East Kilbride school bomb threat: youth charged after malicious communication targeted Calderglen High School on September 7. Police found nothing suspicious.",
-        "published": "Wed, 09 Sep 2026 19:52:46 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/14334594/?type=app&htype=0"
       },
       {
         "id": "7351b9537b063e47b826d839b9e34814",
