@@ -1805,6 +1805,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-rule-breaking-businesses-blamed-34590721",
+        "title": "Glasgow 'rule-breaking businesses' blamed for overflowing bins in the city's west end",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-rule-breaking-businesses-blamed-34590721",
+        "description": "Chris Mitchell, GMB cleansing convenor, has raised concerns that companies are using public street bins to avoid having to pay to have their commercial waste take away.",
+        "published": "Thu, 10 Sep 2026 06:39:50 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34592129.ece/ALTERNATES/s98/797905199_122216313434549636_4935618711127520065_n.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-professor-sacked-over-extremely-34591391",
+        "title": "Glasgow professor sacked over 'extremely serious' student sexual harassment allegations",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-professor-sacked-over-extremely-34591391",
+        "description": "Victims branded Ibrahim Khadra a 'manipulator' and say he told students they couldn't progress in their studies unless they provided intimate images.",
+        "published": "Thu, 10 Sep 2026 06:30:07 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34591652.ece/ALTERNATES/s98/0_ezgifcom-webp-to-jpg-converter.jpg"
+      },
+      {
         "id": "6d253ae4dfa7f087a57732edf0f73872",
         "title": "Council leader insists Glasgow is safer and cleaner than before she took office",
         "link": "https://www.glasgowtimes.co.uk/news/26537392.susan-aitken-says-glasgow-safer-cleaner/",
@@ -1813,12 +1829,52 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20900830/?type=app&htype=0"
       },
       {
+        "id": "https://news.stv.tv/?p=528256",
+        "title": "Families of children given ten times less morphine during surgery take legal action against Glasgow health board",
+        "link": "https://news.stv.tv/west-central/families-of-children-given-ten-times-less-morphine-during-surgery-take-legal-action-against-glasgow-health-board",
+        "description": "Theo was one of seven children who were given ten times less morphine than needed during heart surgery at the Children's Hospital",
+        "published": "Thu, 10 Sep 2026 05:59:59 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2025/07/9a69edf2c808bd084100b84e52152e6a-1753466872-1280x720.jpeg"
+      },
+      {
+        "id": "a98853160675cd7065f4578b09b8994b",
+        "title": "Planner quits after 50 years over body \u2018cosying up\u2019 to \u00a329bn wind power grid firm",
+        "link": "https://www.heraldscotland.com/news/26536277.scottish-planner-quits-rtpi-accusing-cosying-up-sse/",
+        "description": "Planner Ian Kelly quits the RTPI after 50 years, accusing the body of \u2018cosying up\u2019 to SSE amidst its \u00a329bn Scottish wind power grid expansion.",
+        "published": "Thu, 10 Sep 2026 06:34:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21431929/?type=app&htype=0"
+      },
+      {
+        "id": "2988606b359a6d224d9f16c94bf2ef24",
+        "title": "Museum exhibit in capital at centre of dispute over 'queer' language and lesbianism",
+        "link": "https://www.heraldscotland.com/news/26535407.edinburgh-exhibit-centre-debate-language-lesbianism/",
+        "description": "Edinburgh-based campaign group Lesbian Persistence says the use of contemporary language such as \u201cLGBTQ+\u201d and \u201cqueer\u201d does not accurately depict the community.",
+        "published": "Thu, 10 Sep 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20636752/?type=app&htype=0"
+      },
+      {
+        "id": "ac79ca1121bbd81b7d8fdcb510b8f223",
+        "title": "'Heads must roll' over \u00a31.7bn pensions scandal as agency admits tech not ready",
+        "link": "https://www.heraldscotland.com/news/26536823.mccloud-pension-scandal-sppa-warns-technical-problems-delay-fix/",
+        "description": "Scottish pension agency faces fresh scrutiny over the \u00a31.7bn McCloud pension scandal as technical problems threaten further delays to the fix.",
+        "published": "Thu, 10 Sep 2026 06:29:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20666332/?type=app&htype=0"
+      },
+      {
         "id": "e0f2fe7938be9910c203bbf1dca50f46",
         "title": "Fight to save much-loved Glasgow park attraction goes to Holyrood",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26536603.fight-save-queens-park-glasshouse-taken-holyrood/",
         "description": "The fight to save a much-loved Victorian park attraction is being taken to the Scottish Parliament.",
         "published": "Thu, 10 Sep 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21073218/?type=app&htype=0"
+      },
+      {
+        "id": "58b5b083577c1805ec3eeaa78869ca7d",
+        "title": "Home of Hydro and Armadillo to be transformed under \u00a31bn-a-year waterfront vision",
+        "link": "https://www.heraldscotland.com/news/26536862.1bn-a-year-expansion-plans-home-hydro-armadillo-revealed/",
+        "description": "The Scottish Event Campus has unveiled proposals aimed at helping Glasgow compete with rival cities around the world.",
+        "published": "Thu, 10 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21432647/?type=app&htype=0"
       },
       {
         "id": "a43a6da738c8caf981b0b7a69cb23c56",
