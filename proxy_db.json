@@ -1845,6 +1845,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "b7dbe20ed3275d4e04341f3433f8a769",
+        "title": "Council responds after claims two four-year-olds left school",
+        "link": "https://www.glasgowtimes.co.uk/news/26540493.council-responds-claims-two-pupils-left-uplawmoor-primary/",
+        "description": "East Renfrewshire Council (ERC) has responded after claims that two four-year-old pupils left a school and were later found at a nearby dwelling.",
+        "published": "Thu, 10 Sep 2026 17:50:56 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21436781/?type=app&htype=0"
+      },
+      {
+        "id": "657ed045abbb4c4b1cdad75783a2e53c",
+        "title": "Flight forced to land at Glasgow Airport as emergency crews wait on runway",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26540459.lufthansa-flight-makes-emergency-landing-glasgow-airport/",
+        "description": "Lufthansa flight LH418 from Frankfurt to Washington DC made an emergency landing at Glasgow Airport on September 10 after a passenger fell ill.",
+        "published": "Thu, 10 Sep 2026 17:37:04 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21035647/?type=app&htype=0"
+      },
+      {
+        "id": "76ca0db3692da5faf94d5f06be4b78cf",
+        "title": "Ambitious Glasgow SEC expansion plans revealed including floating platform on Clyde",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26540443.sec-unveils-plans-new-arenas-restaurants-viewing-platform/",
+        "description": "The SEC has unveiled plans for new indoor and outdoor arenas, riverside restaurants and a viewing platform over the Clyde.",
+        "published": "Thu, 10 Sep 2026 17:32:31 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21437291/?type=app&htype=0"
+      },
+      {
+        "id": "0f9b752447ddcb5d797fc30eeb4229c7",
+        "title": "Labour insists its position on Indyref2 hasn't changed... it has",
+        "link": "https://www.heraldscotland.com/news/26540381.burnhams-pmqs-slip-see-return-indyref-duck-test/",
+        "description": "Andy Burnham's comments on public consensus and a future referendum may amount to only a subtle shift, but they mark a notable departure from Labour's previously uncompromising opposition to indyref2.",
+        "published": "Thu, 10 Sep 2026 17:16:42 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21437170/?type=app&htype=0"
+      },
+      {
         "id": "c097b3edf7f16503096ac958e7534d91",
         "title": "Probe to begin after man dies at notorious Glasgow jail",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26540335.fatal-inquiry-examine-death-hmp-barlinnie-prisoner/",
@@ -1869,12 +1901,28 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21436992/?type=app&htype=0"
       },
       {
+        "id": "71d5a06bdd596ea46e7f58e693dc360c",
+        "title": "Police appeal after woman raped while walking her dog in Blantyre",
+        "link": "https://www.heraldscotland.com/news/26540085.appeal-woman-raped-walking-dog-blantyre/",
+        "description": "Police are appealing for information after a woman was raped in Blantyre.",
+        "published": "Thu, 10 Sep 2026 16:23:51 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19546911/?type=app&htype=0"
+      },
+      {
         "id": "810ad3bdc94dc3b7a468bb0e75119791",
         "title": "Update issued on roadworks amid major delays",
         "link": "https://www.glasgowtimes.co.uk/news/26540082.update-issued-dalreoch-roadworks-amid-major-delays/",
         "description": "Scottish Water adds traffic staff to ease Cardross Road, Dumbarton, delays as \u00a34m sewer works and five-way lights continue until December 7 in West Dunbartonshire.",
         "published": "Thu, 10 Sep 2026 16:23:29 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21436666/?type=app&htype=0"
+      },
+      {
+        "id": "6076dd73f22e1725c3594c5ddd7826ec",
+        "title": "Why the SEC expansion is set to be a game-changer for Glasgow on the Clyde",
+        "link": "https://www.heraldscotland.com/news/26539933.1bn-vision-set-game-changer-glasgow-clyde/",
+        "description": "A large swathe of Glasgow's waterfront is set to be transformed under plans to redevelop the home of the Hydro and Armadillo venues.",
+        "published": "Thu, 10 Sep 2026 15:59:01 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21432661/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=528653",
@@ -1899,14 +1947,6 @@
         "description": "It is understood the &quot;gang war&quot; involves the infamous McPhee and McGinley families, who have been caught up in a long-running feud.",
         "published": "Thu, 10 Sep 2026 14:42:31 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34599085.ece/ALTERNATES/s98/2_Vid.png"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-warned-you-cannot-34598647",
-        "title": "Glasgow council warned 'you cannot turn your back on homeless people' amid night shelter row",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-warned-you-cannot-34598647",
-        "description": "Colin McInnes, of Homeless Project Scotland, has hit back after council officials              recommended the refusal\nfor planning permission for its Glassford Street premises next week.",
-        "published": "Thu, 10 Sep 2026 14:34:01 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34599057.ece/ALTERNATES/s98/0_JS354954855.jpg"
       },
       {
         "id": "d32073e34f0e503857282215a5a6af03",
@@ -2603,38 +2643,6 @@
         "description": "A 49-year-old man has been charged after riot police and emergency crews descended on a Glasgow street following reports of a person in possession of a bladed weapon.",
         "published": "Wed, 09 Sep 2026 13:46:38 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21427593/?type=app&htype=0"
-      },
-      {
-        "id": "a88f759e56a34d2366c9a4e53c64c4e3",
-        "title": "William Wallace letter to return to London for display under new agreement",
-        "link": "https://www.heraldscotland.com/news/26535673.william-wallace-letter-return-london-display/",
-        "description": "A centuries-old letter of recommendation from the king of France for William Wallace is set to go on display across the UK.",
-        "published": "Wed, 09 Sep 2026 13:41:29 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/18711855/?type=app&htype=0"
-      },
-      {
-        "id": "6d0b58e3eb6dd18436de97ca7ac479a4",
-        "title": "Bin lorries being sent over Erskine Bridge to dispose of rubbish",
-        "link": "https://www.heraldscotland.com/news/26535520.bin-lorries-sent-erskine-bridge-dispose-rubbish/",
-        "description": "Bin lorries serving Helensburgh should not be asked to go on the motorway to Linwood to dispose of rubbish, a councillor has said.",
-        "published": "Wed, 09 Sep 2026 13:11:29 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/12757351/?type=app&htype=0"
-      },
-      {
-        "id": "ac41a9ba6f05bfce65062eae1669faa1",
-        "title": "Glasgow Science Centre appoints new trustees and chair in 25th anniversary year",
-        "link": "https://www.glasgowtimes.co.uk/news/26532538.glasgow-science-centre-appoints-new-trustees-chair/",
-        "description": "Glasgow Science Centre has made a series of new appointments to its board of trustees.",
-        "published": "Wed, 09 Sep 2026 12:24:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21426252/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-airport-warns-further-disruption-34590449",
-        "title": "Glasgow Airport warns of further disruption after air traffic control 'technical issue'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-airport-warns-further-disruption-34590449",
-        "description": "Hundreds of flights were cancelled or delayed due to the issue.",
-        "published": "Wed, 9 Sep 2026 11:23:40 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34590640.ece/ALTERNATES/s98/0_JS342518924-6.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
