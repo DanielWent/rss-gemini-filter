@@ -1853,6 +1853,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "dcac483ca8b195552571f7d1b81ccc8f",
+        "title": "SNP claims independence could make every Scot \u00a33,000 a year better off",
+        "link": "https://www.heraldscotland.com/politics/westminster/26540589.snp-claims-independence-make-scots-3-000-year-richer/",
+        "description": "An independent Scotland would make Scots \u00a33,000 a year richer, the SNP has claimed.",
+        "published": "Fri, 11 Sep 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/9714288/?type=app&htype=0"
+      },
+      {
+        "id": "23ad03ae51040f123a343fba71396fdb",
+        "title": "Scotland's World Cup ties with Massachusetts lead to new investment push",
+        "link": "https://www.heraldscotland.com/news/26540643.world-cup-connection-helps-spark-new-scotland-us-partnership/",
+        "description": "The UK and Scottish governments have joined together to fund science collaboration with the United States.",
+        "published": "Fri, 11 Sep 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21437605/?type=app&htype=0"
+      },
+      {
         "id": "4d141079df7db261a487857be45276e7",
         "title": "Protesters storm Glasgow council offices in fight to save homeless shelter",
         "link": "https://www.heraldscotland.com/news/26540636.protesters-occupy-glasgow-council-offices-homeless-shelter-row/",
@@ -1973,14 +1989,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20084349/?type=app&htype=0"
       },
       {
-        "id": "https://news.stv.tv/?p=528682",
-        "title": "Protestors stage demonstration inside Glasgow city chambers over homeless shelter",
-        "link": "https://news.stv.tv/west-central/protestors-stage-demonstration-inside-glasgow-city-chambers-over-homeless-shelter",
-        "description": "Homeless Project Scotland\u2019s latest bid to secure planning permission for the Glassford Street premises is recommended for refusal next week.",
-        "published": "Thu, 10 Sep 2026 16:00:27 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/35cdef7b56ca2ea4830fe96cf74231bb-1789054744-1200x720.jpeg"
-      },
-      {
         "id": "4e008a6d16b4cff26e1c8b8b2af1627f",
         "title": "CCTV images released after footie fans invade Celtic Park pitch after Hearts match",
         "link": "https://www.glasgowtimes.co.uk/sport/26540189.cctv-released-fans-invade-celtic-park-pitch-hearts-match/",
@@ -2027,14 +2035,6 @@
         "description": "Glasgow councillors condemn deliberate Possilpark fire after false claims Ng Homes flats would house asylum seekers and migrants fuelled protests.",
         "published": "Thu, 10 Sep 2026 15:27:35 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21421686/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=528605",
-        "title": "GTA VI workers rally as\u00a0Rockstar faces tribunal over \u2018unfair\u2019 dismissal of staff",
-        "link": "https://news.stv.tv/west-central/gta-vi-workers-rally-as-rockstar-faces-tribunal-over-unfair-dismissal-of-staff",
-        "description": "The hearing will run until October 16, concluding weeks before the launch of GTA VI on November 19.",
-        "published": "Thu, 10 Sep 2026 14:15:38 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/8dc092ce3c075a167fcfcfaf74c7197e-1789035679-1200x720.jpeg"
       },
       {
         "id": "80b69242b253fa52b553c0aa6e7e0fcd",
