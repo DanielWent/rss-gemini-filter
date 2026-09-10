@@ -1442,6 +1442,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "9f18edd07737071e733cbef5916a4a4a",
+        "title": "Family raises more than \u00a320,000 for charity in memory of baby daughter",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26539089.family-raises-20-000-charity-abbies-memory/",
+        "description": "Abbie\u2019s Army raises more than \u00a320,000 in Glasgow Kiltwalk for Glasgow Children\u2019s Hospital Charity, honouring baby Abbie who died aged eight days after birth.",
+        "published": "Thu, 10 Sep 2026 13:40:21 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21435337/?type=app&htype=0"
+      },
+      {
         "id": "adb4269a07075d8b00f8751e9fe3c7d6",
         "title": "Provost pays tribute to emergency workers on 999 Emergency Services Day",
         "link": "https://www.glasgowtimes.co.uk/news/26530470.east-dunbartonshire-honours-emergency-service-workers/",
@@ -1829,6 +1837,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "55b3512be26e3ae3b9c773842f960e1b",
+        "title": "Cops release description of man after woman raped while walking dog",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26539280.cops-release-description-man-woman-raped-blantyre/",
+        "description": "Police Scotland appeals for information after a woman was raped near a play park in Blantyre on September 8. Suspect described as a white man in dark clothing.",
+        "published": "Thu, 10 Sep 2026 14:19:18 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20725578/?type=app&htype=0"
+      },
+      {
+        "id": "0ae711a813de3299cf8f790a89da6a73",
+        "title": "Fresh development in Hardeep Singh Kohli rape case ahead of trial",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26539226.hardeep-singh-kohli-trial-hearing-held-ahead-glasgow-case/",
+        "description": "A judge has asked lawyers to decide what evidence they can agree ahead of the trial of comedian Hardeep Singh Kohli who is accused of rape and other sex offences.",
+        "published": "Thu, 10 Sep 2026 14:07:48 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13033913/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-safe-insists-susan-aitken-34597441",
+        "title": "Glasgow is 'safe' insists Susan Aitken as she quits as council leader after 9 years",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-safe-insists-susan-aitken-34597441",
+        "description": "Aitken has led a minority SNP administration through a tumultuous nine years that have seen mounting criticism of the state of Glasgow.",
+        "published": "Thu, 10 Sep 2026 13:04:24 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34531097.ece/ALTERNATES/s98/0_JS380537435.jpg"
+      },
+      {
+        "id": "e42e30f23cac42bb6edb6eea2f737678",
+        "title": "Work has started for 23 affordable homes to be built at Dargavel Village in Bishopton",
+        "link": "https://www.heraldscotland.com/news/26539141.new-affordable-homes-dargavel-village-bishopton/",
+        "description": "Construction has started on 23 affordable homes at Dargavel Village in Bishopton, backed by \u00a32.7m in Scottish Government funding.",
+        "published": "Thu, 10 Sep 2026 13:56:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21435351/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=528634",
         "title": "Glasgow man falsely labelled \u2018invader\u2019 meets target for legal action against Tommy Robinson",
         "link": "https://news.stv.tv/west-central/glasgow-man-falsely-labelled-invader-meets-target-for-legal-action-against-tommy-robinson",
@@ -1837,12 +1877,28 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/07/7822c56e69b167528ba20c02ee53265f-1784040199-1119x720.jpeg"
       },
       {
+        "id": "25990a12affded575c91630747b9f760",
+        "title": "Dozens saved in rescue mission ahead of \u00a38.6m Airdrie project",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26539111.scottish-water-rescue-58-fish-airdrie-part-8-6m-upgrade/",
+        "description": "Airdrie fish rescue saves 58 fish during Scottish Water\u2019s \u00a38.6m sewer upgrade, with the Clyde River Foundation using electrofishing to protect local wildlife.",
+        "published": "Thu, 10 Sep 2026 13:45:28 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21435353/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cj067r0g0g1o#0",
         "title": "Plans for \u00a316m renewable energy research centre in Ayrshire scrapped",
         "link": "https://www.bbc.co.uk/news/articles/cj067r0g0g1o?at_medium=RSS&at_campaign=rss",
         "description": "The proposed centre, near Cumnock, was intended to become a regional hub for renewable energy innovation.",
         "published": "Thu, 10 Sep 2026 12:27:40 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e38d/live/10c6f1d0-1969-11f1-8943-0f02ddbbd48f.jpg"
+      },
+      {
+        "id": "e3b4761f56d6be8c642a73b0533f9a0f",
+        "title": "Woman raped in playpark as police launch investigation",
+        "link": "https://www.glasgowtimes.co.uk/news/26539003.police-probe-woman-raped-blantyre-playpark/",
+        "description": "Police Scotland are investigating a reported rape in a South Lanarkshire playpark, on September 8, with officers appealing for information, contact 101.",
+        "published": "Thu, 10 Sep 2026 13:21:56 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/12714858/?type=app&htype=0"
       },
       {
         "id": "97719609363f63c38167bf6c124eaac8",
@@ -1963,6 +2019,14 @@
         "description": "Scottish Borders Council has been required to issue a full apology after an ombudsman upheld a complaint that a public consultation over proposed mothballing of nurseries was unreasonable.",
         "published": "Thu, 10 Sep 2026 11:33:01 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/17844357/?type=app&htype=0"
+      },
+      {
+        "id": "a3ab580c999ec943e52e811a3549c7eb",
+        "title": "Rider flees scene as cops search for answers after hit-and-run",
+        "link": "https://www.glasgowtimes.co.uk/news/26538352.rider-flees-scene-cops-search-answers-paisley-hit-and-run/",
+        "description": "A search is underway for a rider after a hit and run in Paisley.",
+        "published": "Thu, 10 Sep 2026 11:28:05 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18118892/?type=app&htype=0"
       },
       {
         "id": "faff57343a4f91b8ac840880bf83e175",
