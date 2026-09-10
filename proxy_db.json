@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/czezwnz82jpo#4",
+        "title": "Two men who died on Yr Wyddfa tried calling 999, inquest hears",
+        "link": "https://www.bbc.co.uk/news/articles/czezwnz82jpo?at_medium=RSS&at_campaign=rss",
+        "description": "The hearing heard that the 999 call from the 19 and 20-year-old was \"not escalated as it should have been\".",
+        "published": "Thu, 10 Sep 2026 11:22:58 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c07c/live/9ef97c10-ad08-11f1-beae-535b95a24b3e.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o#1",
         "title": "August was joint hottest month on record, says European climate agency",
         "link": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o?at_medium=RSS&at_campaign=rss",
@@ -1813,6 +1821,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/family-park-near-glasgow-host-34597062",
+        "title": "Family park near Glasgow to host huge dinosaur celebration this weekend",
+        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/family-park-near-glasgow-host-34597062",
+        "description": "This could be a great way to entertain the kids this weekend \u2013 with a fun adventure that won't break the bank.",
+        "published": "Thu, 10 Sep 2026 11:45:10 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34597086.ece/ALTERNATES/s98/2_Screenshot-2023-10-13-at-33254-PM.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-directors-caught-importing-more-34596932",
+        "title": "Glasgow directors caught importing more than 350k vapes disguised as medical equipment",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-directors-caught-importing-more-34596932",
+        "description": "Investigators have been unable to say where more than \u00a31.6 million of the company's assets, including land, machinery and vehicles went.",
+        "published": "Thu, 10 Sep 2026 11:45:00 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34597094.ece/ALTERNATES/s98/0_GettyImages-2247636155.jpg"
+      },
+      {
+        "id": "9010040",
+        "title": "Protesters demand Glasgow homeless charity\u2019s night shelter be kept open",
+        "link": "https://www.glasgowworld.com/news/protesters-demand-glasgow-homeless-charitys-night-shelter-be-kept-open-9010040",
+        "description": "<p>Protesters staged a demonstration inside council offices on Thursday</p>",
+        "published": "Thu, 10 Sep 2026 11:39:17 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/10/11/16/onecms_59de0e6c-f0cb-4138-8270-3613d9ae2e05_34b78aa5-7201-4260-8e29-fadbf9b606af.jpeg?width=1200&auto=webp&trim=1000%2C0%2C1000%2C0"
+      },
+      {
+        "id": "09ee31a3d28b6b09a964f211c085fdac",
+        "title": "Construction underway on major affordable homes development",
+        "link": "https://www.glasgowtimes.co.uk/news/26538667.work-starts-23-new-affordable-homes-bishopton/",
+        "description": "Construction is underway on a new development of affordable homes.",
+        "published": "Thu, 10 Sep 2026 12:25:25 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21433914/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c3056ndzvyvo#0",
         "title": "Dramatic SEC expansion plans include floating platform on the Clyde",
         "link": "https://www.bbc.co.uk/news/articles/c3056ndzvyvo?at_medium=RSS&at_campaign=rss",
@@ -1835,6 +1875,14 @@
         "description": "<p>Sky Sports studio was split on disallowed goal</p>",
         "published": "Thu, 10 Sep 2026 11:00:17 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/10/8/13/GettyImages-2293782658.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "a19e645a0fb7f917141695aa79a8f352",
+        "title": "New leader of Glasgow City Council says Glaswegians 'best people in the world'",
+        "link": "https://www.glasgowtimes.co.uk/news/26538479.ricky-bell-elected-new-leader-glasgow-city-council/",
+        "description": "Ricky Bell has been as elected leader of Glasgow City Council, replacing Susan Aitken.",
+        "published": "Thu, 10 Sep 2026 11:51:22 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17756936/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/woman-raped-lanarkshire-park-attack-34596472",
@@ -1909,12 +1957,28 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34595015.ece/ALTERNATES/s98/0_AMP_SDR_060726_CONNOR_00014_copy.jpg"
       },
       {
+        "id": "https://www.bbc.co.uk/sport/football/articles/c4g7z7jyyndo#0",
+        "title": "Late goal keeps Rangers on track for Old Firm double-header",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c4g7z7jyyndo?at_medium=RSS&at_campaign=rss",
+        "description": "Rangers celebrated wildly after a stoppage-time strike against St Mirren maintains momentum going into two games with rivals Celtic.",
+        "published": "Thu, 10 Sep 2026 07:55:36 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cc3/live/a1340130-aca4-11f1-93e7-d14576564d9b.jpg"
+      },
+      {
         "id": "e23787be3c0042c4d9e0e824df552be7",
         "title": "Swinney calls for Indyref2 talks after Burnham sets out conditions for new vote",
         "link": "https://www.heraldscotland.com/news/26537563.swinney-seeks-talks-burnham-new-independence-vote/",
         "description": "John Swinney has written to Andy Burnham asking for talks on a legal mechanism for a Scottish independence referendum after the Prime Minister appeared to change position on a new vote.",
         "published": "Thu, 10 Sep 2026 08:55:16 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21356776/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/sport/football/articles/cevw23z7l03o#0",
+        "title": "O'Neill 'not sure what to make of' Celtic, so what are the issues?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cevw23z7l03o?at_medium=RSS&at_campaign=rss",
+        "description": "What did manager Martin O'Neill learn about his Celtic squad after a much-changed side earned a narrow 1-0 victory away to St Johnstone?",
+        "published": "Thu, 10 Sep 2026 07:39:05 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cbb/live/747140e0-acea-11f1-8d69-858c9dcdf738.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-flasher-exposes-himself-nursery-34594870",
@@ -2027,14 +2091,6 @@
         "description": "The fight to save a much-loved Victorian park attraction is being taken to the Scottish Parliament.",
         "published": "Thu, 10 Sep 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21073218/?type=app&htype=0"
-      },
-      {
-        "id": "58b5b083577c1805ec3eeaa78869ca7d",
-        "title": "Home of Hydro and Armadillo to be transformed under \u00a31bn-a-year waterfront vision",
-        "link": "https://www.heraldscotland.com/news/26536862.1bn-a-year-expansion-plans-home-hydro-armadillo-revealed/",
-        "description": "The Scottish Event Campus has unveiled proposals aimed at helping Glasgow compete with rival cities around the world.",
-        "published": "Thu, 10 Sep 2026 06:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21432647/?type=app&htype=0"
       },
       {
         "id": "0c57afa68efb9d353ced7ae64e0bd267",
