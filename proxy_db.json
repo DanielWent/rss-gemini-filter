@@ -1813,12 +1813,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/airdrie-fish-rescue-operation-work-34596033",
+        "title": "Airdrie fish rescue operation as work on \u00a38.6 million sewer upgrade gets underway",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/airdrie-fish-rescue-operation-work-34596033",
+        "description": "Contractors say the project will increase the wastewater network capacity in the area, reduce the risk of sewer flooding and support the future development of the new University Hospital Monklands.",
+        "published": "Thu, 10 Sep 2026 09:48:56 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34596011.ece/ALTERNATES/s98/1_The-team-from-the-Clyde-River-Foundation-safely-collected-and-relocated-the-fish.png"
+      },
+      {
+        "id": "9008987",
+        "title": "Youth charged in connection with East Kilbride school threats",
+        "link": "https://www.glasgowworld.com/news/youth-charged-in-connection-with-east-kilbride-school-threats-9008987",
+        "description": "<p>Police charge youth following \u2018malicious communications\u2019 posted online on Monday</p>",
+        "published": "Thu, 10 Sep 2026 09:39:33 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/06/02/10/41/Untitled-design-2026-06-02T114526-523.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
         "id": "9008812",
         "title": "Glasgow directors banned for nine years over \u00a315m vape tax evasion scheme",
         "link": "https://www.glasgowworld.com/news/glasgow-directors-banned-for-nine-years-over-ps15m-vape-tax-evasion-scheme-9008812",
         "description": "<p>Glasgow pair who went to \u201cconsiderable lengths\u201d to conceal vape \u00a315m scheme banned for nine years</p>",
         "published": "Thu, 10 Sep 2026 09:19:38 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/12/17/29/01KZT8XC670XWE79Q9JC4V98GA.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=528569",
+        "title": "Homeless Project Scotland could be forced to closed by Glasgow City Council due to antisocial behaviour",
+        "link": "https://news.stv.tv/west-central/homeless-project-scotland-could-be-forced-to-closed-by-glasgow-city-council-due-to-antisocial-behaviour",
+        "description": "Councillors will decide whether Homeless Project Scotland's night shelter should remain open",
+        "published": "Thu, 10 Sep 2026 08:54:16 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2022/12/cb569dd8e91d54b2c412ef8ed794c0bf-1670167359.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/sport/disallowed-celtic-goal-var-row-34595232",
