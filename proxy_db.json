@@ -1837,12 +1837,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "b067df036abfdcff38c2c30b91a820b4",
+        "title": "Rockstar Games faces union-busting claims from workers behind GTA VI",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26539548.rockstar-games-faces-tribunal-claims-workers-behind-gta-vi/",
+        "description": "Rockstar Games faces union-busting claims from 31 workers at a Glasgow tribunal, where IWGB alleges unfair dismissals over GTA VI development work.",
+        "published": "Thu, 10 Sep 2026 14:59:32 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21435952/?type=app&htype=0"
+      },
+      {
         "id": "80b69242b253fa52b553c0aa6e7e0fcd",
         "title": "Holidaymakers stunned as Glasgow Airport Express bus drops to just \u00a32",
         "link": "https://www.glasgowtimes.co.uk/news/26539496.glasgow-airport-express-fares-cut-11-just-2/",
         "description": "Glasgow Airport Express fares fall from \u00a311 to \u00a32 as Transport Scotland\u2019s bus fare cap starts on September 7, covering Glasgow and west Scotland for bus users.",
         "published": "Thu, 10 Sep 2026 14:51:39 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21435760/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c23x7n9g0z4o#0",
+        "title": "Glasgow City Council appoints Ricky Bell as new leader",
+        "link": "https://www.bbc.co.uk/news/articles/c23x7n9g0z4o?at_medium=RSS&at_campaign=rss",
+        "description": "Bell replaces Susan Aitken, who announced in May that she was to stand down from the role.",
+        "published": "Thu, 10 Sep 2026 13:49:47 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e262/live/33441c60-ad1b-11f1-b1d1-571ed4d7ff2c.jpg"
       },
       {
         "id": "b07fd35ce23b7fedaa040a82fef98b56",
@@ -2035,6 +2051,14 @@
         "description": "A search is underway for a rider after a hit and run in Paisley.",
         "published": "Thu, 10 Sep 2026 11:28:05 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/18118892/?type=app&htype=0"
+      },
+      {
+        "id": "171a97dbf405097ee112e803c90e237d",
+        "title": "Glasgow bookshop vandalised in suspected 'transphobic' attack",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26538256.category-books-glasgow-vandalised-transphobic-attack/",
+        "description": "A Glasgow bookshop that has previously been targeted with threats and aggression has now been vandalised as part of an alleged transphobic attack.",
+        "published": "Thu, 10 Sep 2026 11:13:18 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21435777/?type=app&htype=0"
       },
       {
         "id": "faff57343a4f91b8ac840880bf83e175",
