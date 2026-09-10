@@ -766,6 +766,14 @@
     "description": "AI Filtered Google Blog Updates.",
     "articles": [
       {
+        "id": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+        "title": "The Gemini app is now available for Windows",
+        "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+        "description": "Gemini is now on windows",
+        "published": "Thu, 10 Sep 2026 16:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_Desktop_Thumbnail_20.max-600x600.format-webp.webp"
+      },
+      {
         "id": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/",
         "title": "Create your best tracks yet with Lyria 3.5 in Gemini.",
         "link": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/",
@@ -1836,6 +1844,30 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "c097b3edf7f16503096ac958e7534d91",
+        "title": "Probe to begin after man dies at notorious Glasgow jail",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26540335.fatal-inquiry-examine-death-hmp-barlinnie-prisoner/",
+        "description": "Fatal Accident Inquiry to examine Christopher Masson\u2019s death in custody at HMP Barlinnie, Scotland, with Glasgow Sheriff Court hearing set for October 21, 2026.",
+        "published": "Thu, 10 Sep 2026 17:07:49 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20084349/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=528682",
+        "title": "Protestors stage demonstration inside Glasgow city chambers over homeless shelter",
+        "link": "https://news.stv.tv/west-central/protestors-stage-demonstration-inside-glasgow-city-chambers-over-homeless-shelter",
+        "description": "Homeless Project Scotland\u2019s latest bid to secure planning permission for the Glassford Street premises is recommended for refusal next week.",
+        "published": "Thu, 10 Sep 2026 16:00:27 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/35cdef7b56ca2ea4830fe96cf74231bb-1789054744-1200x720.jpeg"
+      },
+      {
+        "id": "4e008a6d16b4cff26e1c8b8b2af1627f",
+        "title": "CCTV images released after footie fans invade Celtic Park pitch after Hearts match",
+        "link": "https://www.glasgowtimes.co.uk/sport/26540189.cctv-released-fans-invade-celtic-park-pitch-hearts-match/",
+        "description": "Police Scotland releases CCTV image of a man sought over an assault during Celtic v Hearts at Celtic Park amid a pitch invasion on May 16, 2026.",
+        "published": "Thu, 10 Sep 2026 16:42:37 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21436992/?type=app&htype=0"
+      },
       {
         "id": "810ad3bdc94dc3b7a468bb0e75119791",
         "title": "Update issued on roadworks amid major delays",
