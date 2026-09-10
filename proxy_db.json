@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cd792nll91eo#4",
+        "title": "Drug use may have begun 25,000 years ago in Indonesia, research finds",
+        "link": "https://www.bbc.co.uk/news/articles/cd792nll91eo?at_medium=RSS&at_campaign=rss",
+        "description": "Scientists have found evidence that early human foragers in Indonesia were using the betel nut as a drug.",
+        "published": "Thu, 10 Sep 2026 12:15:55 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52d8/live/c08c5810-ad09-11f1-a6a8-e924739dac6d.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/czezwnz82jpo#4",
         "title": "Two men who died on Yr Wyddfa tried calling 999, inquest hears",
         "link": "https://www.bbc.co.uk/news/articles/czezwnz82jpo?at_medium=RSS&at_campaign=rss",
@@ -1821,6 +1829,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=528634",
+        "title": "Glasgow man falsely labelled \u2018invader\u2019 meets target for legal action against Tommy Robinson",
+        "link": "https://news.stv.tv/west-central/glasgow-man-falsely-labelled-invader-meets-target-for-legal-action-against-tommy-robinson",
+        "description": "Quroum Beg\u00a0was left 'fearing for his life' after those attending an anti-immigration protest in the Gorbals wrongly accused him of filming children",
+        "published": "Thu, 10 Sep 2026 12:52:23 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/07/7822c56e69b167528ba20c02ee53265f-1784040199-1119x720.jpeg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cj067r0g0g1o#0",
+        "title": "Plans for \u00a316m renewable energy research centre in Ayrshire scrapped",
+        "link": "https://www.bbc.co.uk/news/articles/cj067r0g0g1o?at_medium=RSS&at_campaign=rss",
+        "description": "The proposed centre, near Cumnock, was intended to become a regional hub for renewable energy innovation.",
+        "published": "Thu, 10 Sep 2026 12:27:40 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e38d/live/10c6f1d0-1969-11f1-8943-0f02ddbbd48f.jpg"
+      },
+      {
         "id": "97719609363f63c38167bf6c124eaac8",
         "title": "New Glasgow City Council leader says he's \"happy\" falling out with Holyrood",
         "link": "https://www.heraldscotland.com/news/26538895.snps-ricky-bell-elected-new-leader-glasgow-city-council/",
@@ -1853,20 +1877,20 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34597094.ece/ALTERNATES/s98/0_GettyImages-2247636155.jpg"
       },
       {
-        "id": "9010040",
-        "title": "Protesters demand Glasgow homeless charity\u2019s night shelter be kept open",
-        "link": "https://www.glasgowworld.com/news/protesters-demand-glasgow-homeless-charitys-night-shelter-be-kept-open-9010040",
-        "description": "<p>Protesters staged a demonstration inside council offices on Thursday</p>",
-        "published": "Thu, 10 Sep 2026 11:39:17 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/10/11/16/onecms_59de0e6c-f0cb-4138-8270-3613d9ae2e05_34b78aa5-7201-4260-8e29-fadbf9b606af.jpeg?width=1200&auto=webp&trim=1000%2C0%2C1000%2C0"
-      },
-      {
         "id": "24c49a80b7cabac54ebfcca735b5e551",
         "title": "Scottish cultural magazine The Skinny to cease publication after 20 years",
         "link": "https://www.heraldscotland.com/news/26538737.cultural-magazine-skinny-cease-publication-20-years/",
         "description": "The Skinny is to cease publication after 20 years. A statement from the Edinburgh-based publication confirmed that September\u2019s issue will be its final issue.",
         "published": "Thu, 10 Sep 2026 12:34:34 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21435002/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=528628",
+        "title": "Judge asks lawyers to agree evidence ahead of Hardeep Singh Kohli\u2019s rape trial",
+        "link": "https://news.stv.tv/west-central/judge-asks-lawyers-to-agree-evidence-ahead-of-hardeep-singh-kohlis-rape-trial",
+        "description": "The comedian is set to go on trial in October 27 accused of 20 charges including rape, sexual assault and indecent communication",
+        "published": "Thu, 10 Sep 2026 11:29:02 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2021/09/3e1a0ea2fbc67bdfca1aa2a5c6437e0a.jpg"
       },
       {
         "id": "09ee31a3d28b6b09a964f211c085fdac",
@@ -1907,14 +1931,6 @@
         "description": "<p>Sky Sports studio was split on disallowed goal</p>",
         "published": "Thu, 10 Sep 2026 11:00:17 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/10/8/13/GettyImages-2293782658.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "a19e645a0fb7f917141695aa79a8f352",
-        "title": "New leader of Glasgow City Council says Glaswegians 'best people in the world'",
-        "link": "https://www.glasgowtimes.co.uk/news/26538479.ricky-bell-elected-new-leader-glasgow-city-council/",
-        "description": "Ricky Bell has been as elected leader of Glasgow City Council, replacing Susan Aitken.",
-        "published": "Thu, 10 Sep 2026 11:51:22 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17756936/?type=app&htype=0"
       },
       {
         "id": "089ccdf98b4a6f7078b97b55d27d5f39",
