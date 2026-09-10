@@ -1845,6 +1845,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "4d141079df7db261a487857be45276e7",
+        "title": "Protesters storm Glasgow council offices in fight to save homeless shelter",
+        "link": "https://www.heraldscotland.com/news/26540636.protesters-occupy-glasgow-council-offices-homeless-shelter-row/",
+        "description": "Protesters demanding a Glasgow homeless charity\u2019s night shelter be kept open have staged a demonstration inside council offices this morning.",
+        "published": "Thu, 10 Sep 2026 20:33:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21437580/?type=app&htype=0"
+      },
+      {
+        "id": "80ad9d144853ec430c478e12be481f31",
+        "title": "Historic Glasgow landmark gets new lease of life as affordable homes",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26540638.glasgows-bellgrove-hotel-transformed-14-new-homes/",
+        "description": "The Bellgrove Hotel in Glasgow transformed into 14 affordable mid-market rent homes through a \u00a320.3m Gallowgate regeneration project led by Wheatley Group.",
+        "published": "Thu, 10 Sep 2026 20:30:43 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21437587/?type=app&htype=0"
+      },
+      {
         "id": "9010086",
         "title": "Out of favour Rangers star 'on the brink' of Ibrox exit as escape plan amid transfer interest nears success",
         "link": "https://www.glasgowworld.com/sport/football/rangers/out-of-favour-rangers-star-on-the-brink-of-ibrox-exit-as-escape-plan-amid-transfer-interest-nears-success-9010086",
@@ -2627,22 +2643,6 @@
         "description": "Douglas Daniel, 80, and Barbara Daniel, 75, were sentenced to 30 months each for tormenting the children",
         "published": "Wed, 09 Sep 2026 13:02:14 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/d216dfd3ca601a3a386ea98d391e816d-1788956140-1280x720.jpg"
-      },
-      {
-        "id": "de8c3d4e668f7347d1c70d8d6f65c56b",
-        "title": "Rule of law could be undermined by \u2018unconscionable\u2019 High Court delays, MSPs told",
-        "link": "https://www.heraldscotland.com/news/26535759.rule-law-undermined-high-court-delays-msps-told/",
-        "description": "The rule of law could be undermined as victims of the most severe crimes face court delays of up to four years, the head of Scotland\u2019s courts service has said.",
-        "published": "Wed, 09 Sep 2026 13:57:31 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/13892493/?type=app&htype=0"
-      },
-      {
-        "id": "3fb46f635864d23b6f0fdf8f80950421",
-        "title": "Hidden Victorian gem uncovered beneath four layers at historic Glasgow pub",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26535752.original-shopfront-uncovered-brechins-bar-govan-glasgow/",
-        "description": "Historic Brechin\u2019s Bar in Govan, Glasgow, reveals its original Victorian shopfront as new owners Jim McLaughlin and David Low begin a phased restoration.",
-        "published": "Wed, 09 Sep 2026 13:56:08 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21430870/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
