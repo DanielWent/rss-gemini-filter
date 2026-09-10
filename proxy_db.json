@@ -1845,6 +1845,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "b8f6b7d0ac2d07e85f4ff6b8696374fc",
+        "title": "Lulu launches first ever blue plaque Glasgow music heritage trail",
+        "link": "https://www.glasgowtimes.co.uk/news/26539719.lulu-launches-first-ever-blue-plaque-glasgow-music-heritage-trail/",
+        "description": "Lulu unveils her own blue plaque as Glasgow's first Music Heritage Trail celebrates the city\u2019s musical icons, including Simple Minds and the Apollo.",
+        "published": "Thu, 10 Sep 2026 19:46:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21437483/?type=app&htype=0"
+      },
+      {
         "id": "b7fcdb2a97e60140c8ed1b376ba3803e",
         "title": "Susan Aitken hits out at BBC documentary for \u2018platforming the far right\u2019",
         "link": "https://www.glasgowtimes.co.uk/news/26540556.susan-aitken-criticises-bbc-documentary-welcome-glasgow/",
@@ -1875,14 +1883,6 @@
         "description": "<p>Hoops transfer collapsed late in the summer window</p>",
         "published": "Thu, 10 Sep 2026 17:00:49 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/10/10/15/GettyImages-2292043320-(2).jpeg?width=1200&auto=webp&trim=45%2C0%2C45%2C0"
-      },
-      {
-        "id": "cbfdf0d7024becd265f06953c2cbab75",
-        "title": "Here's who's being recognised in new plaques to mark Glasgow's musical history",
-        "link": "https://www.heraldscotland.com/news/26540507.glasgow-music-trail-honour-lulu-lewis-capaldi-simple-minds/",
-        "description": "Lulu, Lewis Capaldi, Simple Minds, Belle and Sebastian, Texas and Wet Wet Wet are to be honoured in a new heritage trail celebrating Glasgow\u2019s musical history.",
-        "published": "Thu, 10 Sep 2026 17:58:06 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21437391/?type=app&htype=0"
       },
       {
         "id": "b7dbe20ed3275d4e04341f3433f8a769",
