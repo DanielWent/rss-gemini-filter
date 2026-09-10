@@ -1813,6 +1813,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "92d6a1396e9d42371e8965f4fdb020df",
+        "title": "Oasis fans spot major Glasgow gig clue which could confirm exact concert dates",
+        "link": "https://www.glasgowtimes.co.uk/news/26538187.clue-exact-dates-oasis-glasgow-gigs-spotted-fans/",
+        "description": "Eagle-eyed Oasis fans think the dates for the band's 2027 Glasgow gigs have been confirmed by hotel bookings.",
+        "published": "Thu, 10 Sep 2026 11:00:58 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20939472/?type=app&htype=0"
+      },
+      {
+        "id": "3876c1803f0fb8c608e7dd248ccc5ee4",
+        "title": "LIVE updates as protestors storm Glasgow City Chambers shouting 'shame on you'",
+        "link": "https://www.glasgowtimes.co.uk/news/26538184.live-updates-protestors-storm-glasgow-city-chambers/",
+        "description": "Protestors have stormed Glasgow City Chambers. A group inside can be heard shouting, \"Shame on you\". Police are at the scene.",
+        "published": "Thu, 10 Sep 2026 10:59:36 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21434099/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/airdrie-fish-rescue-operation-work-34596033",
         "title": "Airdrie fish rescue operation as work on \u00a38.6 million sewer upgrade gets underway",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/airdrie-fish-rescue-operation-work-34596033",
