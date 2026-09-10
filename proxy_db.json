@@ -1805,6 +1805,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-flasher-exposes-himself-nursery-34594870",
+        "title": "Glasgow flasher exposes himself to nursery kids on library trip",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-flasher-exposes-himself-nursery-34594870",
+        "description": "The man allegedly took down his trousers and exposed his genitals before acting inappropriately in the car park",
+        "published": "Thu, 10 Sep 2026 07:06:29 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34594868.ece/ALTERNATES/s98/0_Screenshot-2026-09-09-111145.jpg"
+      },
+      {
+        "id": "9007506",
+        "title": "Wolves loanee wows on Celtic debut as boss makes statement after tough decision over summer signing",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/wolves-loanee-wows-celtic-debut-boss-makes-statement-tough-decision-summer-signing-9007506",
+        "description": "<p>The recruit signed for Celtic from Wolves at the end of the transfer window.</p>",
+        "published": "Thu, 10 Sep 2026 07:00:46 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/10/5/36/GettyImages-2293710959.jpg?width=1200&auto=webp&trim=57%2C96%2C594%2C57"
+      },
+      {
+        "id": "9007433",
+        "title": "Rangers suffer 'unpredictable' double injury whammy over summer signing duo with surgeon 'rubbing his hands'",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-suffer-unpredictable-double-injury-whammy-summer-signing-duo-surgeon-rubbing-hands-9007433",
+        "description": "<p>Rangers have suffered injury blows over two of their summer signings.</p>",
+        "published": "Thu, 10 Sep 2026 07:00:40 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/10/5/52/GettyImages-2294404509.jpg?width=1200&auto=webp&trim=0%2C1%2C0%2C0"
+      },
+      {
+        "id": "https://runabc.co.uk/great-scottish-run-route-guide-for-glasgow-10k-and-half-marathon",
+        "title": "Great Scottish Run Route Guide For Glasgow 10K And Half Marathon",
+        "link": "https://runabc.co.uk/great-scottish-run-route-guide-for-glasgow-10k-and-half-marathon",
+        "description": "<p><img alt=\"Great Scottish Run 2026 Route\" src=\"https://runabc.co.uk/images/2026/09/great-scottish-run-route-2026-709869.jpg\" /></p>\n\t\t\t\t<p>Great Scottish Run runners can prepare for race day with a closer look at the very different challenges awaiting them on Glasgow's Half Marathon and 10K routes...</p>",
+        "published": "Thu, 10 Sep 2026 07:55:00 +0100",
+        "image_url": "https://runabc.co.uk/images/2026/09/great-scottish-run-route-2026-709869.jpg"
+      },
+      {
+        "id": "8aea6341bf2eee89d68f7b01fdd97002",
+        "title": "Tributes to \u2018much-loved\u2019 cyclist killed in crash",
+        "link": "https://www.heraldscotland.com/news/26537429.tributes-much-loved-cyclist-iain-mctavish-killed-crash/",
+        "description": "Police said that Iain McTavish, 46, died at the scene",
+        "published": "Thu, 10 Sep 2026 07:41:20 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21433276/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-rule-breaking-businesses-blamed-34590721",
         "title": "Glasgow 'rule-breaking businesses' blamed for overflowing bins in the city's west end",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-rule-breaking-businesses-blamed-34590721",
@@ -1819,6 +1859,14 @@
         "description": "Victims branded Ibrahim Khadra a 'manipulator' and say he told students they couldn't progress in their studies unless they provided intimate images.",
         "published": "Thu, 10 Sep 2026 06:30:07 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34591652.ece/ALTERNATES/s98/0_ezgifcom-webp-to-jpg-converter.jpg"
+      },
+      {
+        "id": "3c8d7f0e87b95d84224d755030bdb30e",
+        "title": "Glasgow councillor demands action after resident pulls 140 trolleys from local burns",
+        "link": "https://www.glasgowtimes.co.uk/news/26537413.councillor-calls-shops-trolleys-fished-rivers/",
+        "description": "Greater Pollok Councillor Roza Salih has now called on stores at the nearby Silverburn Shopping Centre to play their part in cleaning up the clean-up.",
+        "published": "Thu, 10 Sep 2026 07:26:04 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21384585/?type=app&htype=0"
       },
       {
         "id": "6d253ae4dfa7f087a57732edf0f73872",
@@ -1875,6 +1923,14 @@
         "description": "The Scottish Event Campus has unveiled proposals aimed at helping Glasgow compete with rival cities around the world.",
         "published": "Thu, 10 Sep 2026 06:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21432647/?type=app&htype=0"
+      },
+      {
+        "id": "0c57afa68efb9d353ced7ae64e0bd267",
+        "title": "Glasgow university celebrates funding boost for scholarships and entrepreneurship",
+        "link": "https://www.glasgowtimes.co.uk/news/26536851.santander-invests-200-000-glasgow-caledonian-university/",
+        "description": "Santander invests \u00a3200,000 in Glasgow Caledonian University scholarships and student opportunities",
+        "published": "Thu, 10 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21432434/?type=app&htype=0"
       },
       {
         "id": "a43a6da738c8caf981b0b7a69cb23c56",
@@ -1971,14 +2027,6 @@
         "description": "<p>Captain suffered a similar injury with Hearts in January</p>",
         "published": "Wed, 09 Sep 2026 16:00:56 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/09/14/31/GettyImages-2288513327.jpeg?width=1200&auto=webp&trim=96%2C0%2C96%2C0"
-      },
-      {
-        "id": "81c17542d1528492bbd4861cdd675226",
-        "title": "Glasgow Labour Group calls for dedicated city centre policing unit",
-        "link": "https://www.heraldscotland.com/news/26536926.glasgow-labour-group-calls-dedicated-city-centre-policing-unit/",
-        "description": "Calls for a dedicated city centre policing unit to help tackle crime, antisocial behaviour, cleanliness and public safety in Glasgow have been issued by the local Labour party.",
-        "published": "Wed, 09 Sep 2026 16:59:46 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/13207048/?type=app&htype=0"
       },
       {
         "id": "26343168b9d259475597574c36b430c6",
