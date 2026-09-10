@@ -1805,6 +1805,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "6d253ae4dfa7f087a57732edf0f73872",
+        "title": "Council leader insists Glasgow is safer and cleaner than before she took office",
+        "link": "https://www.glasgowtimes.co.uk/news/26537392.susan-aitken-says-glasgow-safer-cleaner/",
+        "description": "A Glasgow City Council chief has insisted Glasgow is a safer, cleaner city than it was before she took office.",
+        "published": "Thu, 10 Sep 2026 07:00:02 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20900830/?type=app&htype=0"
+      },
+      {
+        "id": "e0f2fe7938be9910c203bbf1dca50f46",
+        "title": "Fight to save much-loved Glasgow park attraction goes to Holyrood",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26536603.fight-save-queens-park-glasshouse-taken-holyrood/",
+        "description": "The fight to save a much-loved Victorian park attraction is being taken to the Scottish Parliament.",
+        "published": "Thu, 10 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21073218/?type=app&htype=0"
+      },
+      {
         "id": "a43a6da738c8caf981b0b7a69cb23c56",
         "title": "IRN-BRU grannies take over Glasgow streets in \u00a3125 city challenge",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26537061.irn-bru-launches-granny-tourismo-city-challenge-glasgow/",
