@@ -1837,6 +1837,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=528653",
+        "title": "Plans unveiled to \u2018enhance SEC offer\u2019 with floating platform on the Clyde",
+        "link": "https://news.stv.tv/west-central/plans-unveiled-to-enhance-sec-offer-with-floating-platform-on-the-clyde",
+        "description": "Images of the proposed new look show a floating platform on the Clyde",
+        "published": "Thu, 10 Sep 2026 14:46:37 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/ad881ccbcb65d91b3e4d78c1bc7cc7db-1789046716-1280x720.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/gang-war-erupts-between-rival-34598823",
+        "title": "Gang war erupts between rival traveller families in Lanarkshire as shovels brandished",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/gang-war-erupts-between-rival-34598823",
+        "description": "It is understood the &quot;gang war&quot; involves the infamous McPhee and McGinley families, who have been caught up in a long-running feud.",
+        "published": "Thu, 10 Sep 2026 14:42:31 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34599085.ece/ALTERNATES/s98/2_Vid.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-warned-you-cannot-34598647",
+        "title": "Glasgow council warned 'you cannot turn your back on homeless people' amid night shelter row",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-warned-you-cannot-34598647",
+        "description": "Colin McInnes, of Homeless Project Scotland, has hit back after council officials              recommended the refusal\nfor planning permission for its Glassford Street premises next week.",
+        "published": "Thu, 10 Sep 2026 14:34:01 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34599057.ece/ALTERNATES/s98/0_JS354954855.jpg"
+      },
+      {
+        "id": "d32073e34f0e503857282215a5a6af03",
+        "title": "Possilpark flat fire blamed on dangerous misinformation about future residents",
+        "link": "https://www.glasgowtimes.co.uk/news/26539735.possilpark-fire-followed-false-claims-asylum-seekers/",
+        "description": "Glasgow councillors condemn deliberate Possilpark fire after false claims Ng Homes flats would house asylum seekers and migrants fuelled protests.",
+        "published": "Thu, 10 Sep 2026 15:27:35 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21421686/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=528605",
+        "title": "GTA VI workers rally as\u00a0Rockstar faces tribunal over \u2018unfair\u2019 dismissal of staff",
+        "link": "https://news.stv.tv/west-central/gta-vi-workers-rally-as-rockstar-faces-tribunal-over-unfair-dismissal-of-staff",
+        "description": "The hearing will run until October 16, concluding weeks before the launch of GTA VI on November 19.",
+        "published": "Thu, 10 Sep 2026 14:15:38 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/8dc092ce3c075a167fcfcfaf74c7197e-1789035679-1200x720.jpeg"
+      },
+      {
         "id": "https://news.stv.tv/?p=528652",
         "title": "Manhunt launched after woman raped while walking dog in South Lanarkshire",
         "link": "https://news.stv.tv/west-central/manhunt-launched-after-woman-raped-while-walking-dog-in-south-lanarkshire",
@@ -1883,14 +1923,6 @@
         "description": "Jill Andrew has been appointed co-chair of a Scottish Government working group reviewing the residential conveyancing process in Scotland.",
         "published": "Thu, 10 Sep 2026 14:23:07 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21435569/?type=app&htype=0"
-      },
-      {
-        "id": "55b3512be26e3ae3b9c773842f960e1b",
-        "title": "Cops release description of man after woman raped while walking dog",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26539280.cops-release-description-man-woman-raped-blantyre/",
-        "description": "Police Scotland appeals for information after a woman was raped near a play park in Blantyre on September 8. Suspect described as a white man in dark clothing.",
-        "published": "Thu, 10 Sep 2026 14:19:18 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20725578/?type=app&htype=0"
       },
       {
         "id": "0ae711a813de3299cf8f790a89da6a73",
@@ -1995,14 +2027,6 @@
         "description": "Construction is underway on a new development of affordable homes.",
         "published": "Thu, 10 Sep 2026 12:25:25 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21433914/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c3056ndzvyvo#0",
-        "title": "Dramatic SEC expansion plans include floating platform on the Clyde",
-        "link": "https://www.bbc.co.uk/news/articles/c3056ndzvyvo?at_medium=RSS&at_campaign=rss",
-        "description": "The proposals would turn about 64 acres of development land into what SEC bosses call a \"new city quarter\" - including a new outdoor venue.",
-        "published": "Thu, 10 Sep 2026 11:09:10 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3d2/live/975b9bf0-acfe-11f1-beae-535b95a24b3e.jpg"
       },
       {
         "id": "3ebe69f5b4f733666421e38e9ff8aeb5",
@@ -2115,14 +2139,6 @@
         "description": "<p>Police charge youth following \u2018malicious communications\u2019 posted online on Monday</p>",
         "published": "Thu, 10 Sep 2026 09:39:33 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/06/02/10/41/Untitled-design-2026-06-02T114526-523.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=528569",
-        "title": "Homeless Project Scotland could be forced to closed by Glasgow City Council due to antisocial behaviour",
-        "link": "https://news.stv.tv/west-central/homeless-project-scotland-could-be-forced-to-closed-by-glasgow-city-council-due-to-antisocial-behaviour",
-        "description": "Councillors will decide whether Homeless Project Scotland's night shelter should remain open",
-        "published": "Thu, 10 Sep 2026 08:54:16 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2022/12/cb569dd8e91d54b2c412ef8ed794c0bf-1670167359.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/sport/disallowed-celtic-goal-var-row-34595232",
@@ -2619,22 +2635,6 @@
         "description": "The group gathered in the centre on Tuesday afternoon.",
         "published": "Wed, 09 Sep 2026 12:03:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/16737962/?type=app&htype=0"
-      },
-      {
-        "id": "802f549e4e7877106449595b69293721",
-        "title": "Popular restaurant chain Bill's could open first Scots venue on George Square",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26533558.bills-open-first-glasgow-venue-george-square/",
-        "description": "Popular restaurant chain Bill's could be heading to Glasgow city centre after plans were submitted to transform a vacant unit overlooking George Square into its first city venue.",
-        "published": "Tue, 08 Sep 2026 19:31:05 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18385429/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/wife-former-glasgow-gangster-the-34582536",
-        "title": "Wife of former Glasgow gangster 'The Devil' spread lies that sparked 'asylum flats' fire",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/wife-former-glasgow-gangster-the-34582536",
-        "description": "Dempster's 77-year-old husband Bobby 'the devil' gained notoriety as a prominent figure in Glasgow's 1990s underworld",
-        "published": "Tue, 8 Sep 2026 07:38:49 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34582532.ece/ALTERNATES/s98/486010410_2118167755296269_2722356868613834843_n.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
