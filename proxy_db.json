@@ -1837,6 +1837,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=528652",
+        "title": "Manhunt launched after woman raped while walking dog in South Lanarkshire",
+        "link": "https://news.stv.tv/west-central/manhunt-launched-after-woman-raped-while-walking-dog-in-south-lanarkshire",
+        "description": "The woman was walking her dog in an open grassy area near to Abernethy Avenue and Westerpark Avenue in Blantyre when the attack happened",
+        "published": "Thu, 10 Sep 2026 14:08:10 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/c29b0f2822df70edc474f6f47d3c0dc3-1789049184-1120x720.jpg"
+      },
+      {
         "id": "b067df036abfdcff38c2c30b91a820b4",
         "title": "Rockstar Games faces union-busting claims from workers behind GTA VI",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26539548.rockstar-games-faces-tribunal-claims-workers-behind-gta-vi/",
