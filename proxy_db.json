@@ -1845,6 +1845,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "61f95a60211ac5059e9aadc0b433e012",
+        "title": "New council leader to meet police chief over Glasgow city centre safety",
+        "link": "https://www.glasgowtimes.co.uk/news/26540526.glasgow-council-leader-meet-police-chief-city-safety/",
+        "description": "The new leader of Glasgow City Council is to meet the city's top police officer to discuss safety in the city centre.",
+        "published": "Thu, 10 Sep 2026 18:10:21 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19314193/?type=app&htype=0"
+      },
+      {
+        "id": "9009183",
+        "title": "Agent of Celtic transfer target on why move didn't materialise as Champions League factor decreased 'chances'",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/agent-of-celtic-transfer-target-discusses-why-move-didnt-materialise-as-champions-league-failure-decreased-chances-9009183",
+        "description": "<p>Hoops transfer collapsed late in the summer window</p>",
+        "published": "Thu, 10 Sep 2026 17:00:49 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/10/10/15/GettyImages-2292043320-(2).jpeg?width=1200&auto=webp&trim=45%2C0%2C45%2C0"
+      },
+      {
         "id": "b7dbe20ed3275d4e04341f3433f8a769",
         "title": "Council responds after claims two four-year-olds left school",
         "link": "https://www.glasgowtimes.co.uk/news/26540493.council-responds-claims-two-pupils-left-uplawmoor-primary/",
@@ -1917,22 +1933,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21436666/?type=app&htype=0"
       },
       {
-        "id": "6076dd73f22e1725c3594c5ddd7826ec",
-        "title": "Why the SEC expansion is set to be a game-changer for Glasgow on the Clyde",
-        "link": "https://www.heraldscotland.com/news/26539933.1bn-vision-set-game-changer-glasgow-clyde/",
-        "description": "A large swathe of Glasgow's waterfront is set to be transformed under plans to redevelop the home of the Hydro and Armadillo venues.",
-        "published": "Thu, 10 Sep 2026 15:59:01 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21432661/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=528653",
-        "title": "Plans unveiled to \u2018enhance SEC offer\u2019 with floating platform on the Clyde",
-        "link": "https://news.stv.tv/west-central/plans-unveiled-to-enhance-sec-offer-with-floating-platform-on-the-clyde",
-        "description": "Images of the proposed new look show a floating platform on the Clyde",
-        "published": "Thu, 10 Sep 2026 14:46:37 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/ad881ccbcb65d91b3e4d78c1bc7cc7db-1789046716-1280x720.jpg"
-      },
-      {
         "id": "52f690d4388f6e6f1b1c91dbe2f9b96f",
         "title": "Edinburgh's northern tram line put on ice as councillors vote to back southern spur",
         "link": "https://www.heraldscotland.com/news/26539774.edinburghs-northern-tram-extension-sidelined-southern-spur/",
@@ -1963,14 +1963,6 @@
         "description": "The hearing will run until October 16, concluding weeks before the launch of GTA VI on November 19.",
         "published": "Thu, 10 Sep 2026 14:15:38 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/8dc092ce3c075a167fcfcfaf74c7197e-1789035679-1200x720.jpeg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=528652",
-        "title": "Manhunt launched after woman raped while walking dog in South Lanarkshire",
-        "link": "https://news.stv.tv/west-central/manhunt-launched-after-woman-raped-while-walking-dog-in-south-lanarkshire",
-        "description": "The woman was walking her dog in an open grassy area near to Abernethy Avenue and Westerpark Avenue in Blantyre when the attack happened",
-        "published": "Thu, 10 Sep 2026 14:08:10 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/c29b0f2822df70edc474f6f47d3c0dc3-1789049184-1120x720.jpg"
       },
       {
         "id": "80b69242b253fa52b553c0aa6e7e0fcd",
@@ -2189,14 +2181,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20939472/?type=app&htype=0"
       },
       {
-        "id": "3876c1803f0fb8c608e7dd248ccc5ee4",
-        "title": "LIVE updates as protestors storm Glasgow City Chambers shouting 'shame on you'",
-        "link": "https://www.glasgowtimes.co.uk/news/26538184.live-updates-protestors-storm-glasgow-city-chambers/",
-        "description": "Protestors have stormed Glasgow City Chambers. A group inside can be heard shouting, \"Shame on you\". Police are at the scene.",
-        "published": "Thu, 10 Sep 2026 10:59:36 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21434099/?type=app&htype=0"
-      },
-      {
         "id": "ae139d23eaaf9d2ab48b003a67ef158d",
         "title": "Major study to assess impacts of climate change on Scotland\u2019s canals",
         "link": "https://www.heraldscotland.com/news/26538169.scottish-canals-study-impacts-climate-change-canals/",
@@ -2221,28 +2205,12 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34595015.ece/ALTERNATES/s98/0_AMP_SDR_060726_CONNOR_00014_copy.jpg"
       },
       {
-        "id": "https://www.bbc.co.uk/sport/football/articles/c4g7z7jyyndo#0",
-        "title": "Late goal keeps Rangers on track for Old Firm double-header",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c4g7z7jyyndo?at_medium=RSS&at_campaign=rss",
-        "description": "Rangers celebrated wildly after a stoppage-time strike against St Mirren maintains momentum going into two games with rivals Celtic.",
-        "published": "Thu, 10 Sep 2026 07:55:36 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cc3/live/a1340130-aca4-11f1-93e7-d14576564d9b.jpg"
-      },
-      {
         "id": "e23787be3c0042c4d9e0e824df552be7",
         "title": "Swinney calls for Indyref2 talks after Burnham sets out conditions for new vote",
         "link": "https://www.heraldscotland.com/news/26537563.swinney-seeks-talks-burnham-new-independence-vote/",
         "description": "John Swinney has written to Andy Burnham asking for talks on a legal mechanism for a Scottish independence referendum after the Prime Minister appeared to change position on a new vote.",
         "published": "Thu, 10 Sep 2026 08:55:16 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21356776/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-flasher-exposes-himself-nursery-34594870",
-        "title": "Glasgow flasher exposes himself to nursery kids on library trip",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-flasher-exposes-himself-nursery-34594870",
-        "description": "The man allegedly took down his trousers and exposed his genitals before acting inappropriately in the car park",
-        "published": "Thu, 10 Sep 2026 07:06:29 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34594868.ece/ALTERNATES/s98/0_Screenshot-2026-09-09-111145.jpg"
       },
       {
         "id": "9007506",
@@ -2387,14 +2355,6 @@
         "description": "Police to deploy horses, dogs, drones and helicopter as Pink Ladies and counter-protesters gather at Glasgow Green.",
         "published": "Wed, 09 Sep 2026 18:26:52 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21420655/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=528543",
-        "title": "Trains cancelled after lorry strikes level crossing barriers near Helensburgh",
-        "link": "https://news.stv.tv/west-central/trains-cancelled-after-lorry-strikes-level-crossing-barriers-near-helensburgh",
-        "description": "Network Rail engineers have been called to Cardross after an HGV struck the barriers on Wednesday evening.",
-        "published": "Wed, 09 Sep 2026 17:05:26 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/eb686854da75463fc4695748dfc15696-1788973266-1200x720.jpeg"
       },
       {
         "id": "9002629",
