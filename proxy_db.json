@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo#4",
+        "title": "UK needs new laws for AI in healthcare, says watchdog",
+        "link": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
+        "description": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
+        "published": "Thu, 10 Sep 2026 00:48:35 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4b9/live/69dbfa80-ac63-11f1-be57-03729df1d736.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c74edv9887eo#1",
         "title": "AI is becoming harder to control \u2013 can humans stay in charge?",
         "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
@@ -163,14 +171,6 @@
         "description": "Amy Hunt's strong late-season form showed no signs of letting up as she clocked a season's best to finish third in the 200m at the Diamond League final in Brussels.",
         "published": "Fri, 04 Sep 2026 21:32:46 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33fa/live/e43b3900-a8a6-11f1-b9ae-958b89fa84e3.jpg"
-      },
-      {
-        "id": "1788534038498251",
-        "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
-        "link": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
-        "description": "OpenAI said it could not \"meaningfully respond\" to the report's findings because it hadn't been allowed to review it ahead of publication.",
-        "published": "Fri, 04 Sep 2026 16:59:13 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg"
       },
       {
         "id": "1788600015899939",
