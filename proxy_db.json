@@ -1805,6 +1805,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "a43a6da738c8caf981b0b7a69cb23c56",
+        "title": "IRN-BRU grannies take over Glasgow streets in \u00a3125 city challenge",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26537061.irn-bru-launches-granny-tourismo-city-challenge-glasgow/",
+        "description": "IRN-BRU is sending mobility scooter-riding grannies onto the streets of Glasgow as part of its 125th anniversary celebrations.",
+        "published": "Thu, 10 Sep 2026 00:05:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21432679/?type=app&htype=0"
+      },
+      {
+        "id": "676f72b8459c9d60424525a851b2de81",
+        "title": "Princess Royal to become inaugural chancellor of City of Glasgow College",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26535655.princess-anne-become-city-glasgow-college-chancellor/",
+        "description": "Princess Anne, the Princess Royal, becomes inaugural chancellor of City of Glasgow College, strengthening links with Scotland\u2019s maritime, engineering and skills sectors.",
+        "published": "Thu, 10 Sep 2026 00:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20586684/?type=app&htype=0"
+      },
+      {
         "id": "37fee774a52db5981a47cc23e78beb48",
         "title": "Heading to Andr\u00e9 Rieu in Glasgow? Essential Hydro travel and parking guide",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26537264.andr-rieu-glasgow-hydro-tomorrow--parking-trains-travel-tips/",
