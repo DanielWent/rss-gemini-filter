@@ -1813,6 +1813,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c3056ndzvyvo#0",
+        "title": "Dramatic SEC expansion plans include floating platform on the Clyde",
+        "link": "https://www.bbc.co.uk/news/articles/c3056ndzvyvo?at_medium=RSS&at_campaign=rss",
+        "description": "The proposals would turn about 64 acres of development land into what SEC bosses call a \"new city quarter\" - including a new outdoor venue.",
+        "published": "Thu, 10 Sep 2026 11:09:10 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3d2/live/975b9bf0-acfe-11f1-beae-535b95a24b3e.jpg"
+      },
+      {
+        "id": "9008159",
+        "title": "Seven free agent wingers Rangers could sign after injury blow including Ibrox hero and ex Premier League ace",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/seven-free-agent-wingers-rangers-could-sign-injury-blow-ibrox-hero-ex-premier-league-ace-9008159",
+        "description": "<p>From a Rangers hero to a former Arsenal and Liverpool star, here\u2019s seven free agent wingers Rangers could consider.</p>",
+        "published": "Thu, 10 Sep 2026 11:01:00 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/10/8/38/GettyImages-2290369485.jpg?width=1200&auto=webp&trim=68%2C93%2C552%2C55"
+      },
+      {
+        "id": "9008123",
+        "title": "Pundits disagree on major Celtic VAR talking point as 'definitive proof' claim made in disallowed goal",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/pundits-disagree-on-major-celtic-var-talking-point-as-definitive-proof-claim-made-in-disallowed-goal-vs-st-johnstone-9008123",
+        "description": "<p>Sky Sports studio was split on disallowed goal</p>",
+        "published": "Thu, 10 Sep 2026 11:00:17 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/10/8/13/GettyImages-2293782658.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/woman-raped-lanarkshire-park-attack-34596472",
+        "title": "Woman raped in Lanarkshire park attack as cops tape off area in ongoing probe",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/woman-raped-lanarkshire-park-attack-34596472",
+        "description": "Police were alerted to the serious sexual assault on Tuesday night.",
+        "published": "Thu, 10 Sep 2026 10:51:11 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34563394.ece/ALTERNATES/s98/2_gettyimages-1784447972-170667a-1.jpg"
+      },
+      {
         "id": "92d6a1396e9d42371e8965f4fdb020df",
         "title": "Oasis fans spot major Glasgow gig clue which could confirm exact concert dates",
         "link": "https://www.glasgowtimes.co.uk/news/26538187.clue-exact-dates-oasis-glasgow-gigs-spotted-fans/",
