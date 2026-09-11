@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/sport/athletics/articles/c8enzz036leo#8",
+        "title": "$10m on line at inaugural Ultimate Championship",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/c8enzz036leo?at_medium=RSS&at_campaign=rss",
+        "description": "The inaugural World Athletics Ultimate Championship begins on Friday. From the global stars competing to how it all works - here is everything you need to know.",
+        "published": "Fri, 11 Sep 2026 06:45:18 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3bb/live/c81f3680-ad25-11f1-9bf8-27bb5a420b3e.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o#1",
         "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons",
         "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
@@ -1869,6 +1877,46 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21114179/?type=app&htype=0"
       },
       {
+        "id": "d8fb349f84179376bc72b4c756ef5e1b",
+        "title": "Scottish Government taken to court over approval for 544-bed West End 'super-hostel'",
+        "link": "https://www.heraldscotland.com/news/26539551.edinburgh-residents-appeal-planning-approval-544-bed-super-hostel/",
+        "description": "The group has submitted a statutory appeal asking that the Scottish Government Reporter\u2019s approval for the scheme be reversed.",
+        "published": "Fri, 11 Sep 2026 12:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21435993/?type=app&htype=0"
+      },
+      {
+        "id": "07b7f2358d34902b126a553b2d31c3b9",
+        "title": "Major Glasgow road to close for four days as huge regeneration project gets underway",
+        "link": "https://www.glasgowtimes.co.uk/news/26540758.st-georges-road-close-glasgow-regeneration-project/",
+        "description": "St George\u2019s Road will shut as part of a two-phase resurfacing scheme linked to the wider Connecting Woodside regeneration.",
+        "published": "Fri, 11 Sep 2026 07:33:39 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20023077/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/parents-baby-died-due-nhs-34598077",
+        "title": "Parents of baby that died due to NHS failings 'feel voiceless' in maternity services review",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/parents-baby-died-due-nhs-34598077",
+        "description": "&quot;To have real change, you have to have the families who have experienced this at the heart of it.&quot;",
+        "published": "Fri, 11 Sep 2026 06:26:36 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34560887.ece/ALTERNATES/s98/1_Mason.jpg"
+      },
+      {
+        "id": "6e99596cb352242764d466348b958fa2",
+        "title": "\u2018Slow death\u2019 fears for island ferry link to key Scots port facing three-year closure",
+        "link": "https://www.heraldscotland.com/business_hq/26540405.arran-ferry-ardrossan-port-closure-three-year-troon-move-revealed/",
+        "description": "Arran ferry service to move from Ardrossan to Troon for three years while a \u00a3166m harbour redevelopment takes place.",
+        "published": "Fri, 11 Sep 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20382401/?type=app&htype=0"
+      },
+      {
+        "id": "5d817b7857f97867ab46df598a8afca3",
+        "title": "'Disgraceful' snub leaves Scotland's poorest tenants facing soaring rents",
+        "link": "https://www.heraldscotland.com/news/26539852.scotland-rent-controls-exclude-social-housing-costs-soar/",
+        "description": "Scottish social tenants are excluded from new rent controls as social housing rents rise 12.4% and tenants struggle with the cost of living crisis.",
+        "published": "Fri, 11 Sep 2026 06:27:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/17252653/?type=app&htype=0"
+      },
+      {
         "id": "630dfb03975ff77a48c83e4a2255f273",
         "title": "Primary school achieves rare 'excellent' ratings in outstanding HMIE report",
         "link": "https://www.glasgowtimes.co.uk/news/26538512.st-stephens-primary-coatbridge-rated-excellent-hmie-inspectors/",
@@ -1883,6 +1931,14 @@
         "description": "Parents call delayed \u00a3150,000 funding decision for Glasgow\u2019s Broomfield Playpark a disgrace, as councillors seek repair costings after September 9 meeting.",
         "published": "Fri, 11 Sep 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21308726/?type=app&htype=0"
+      },
+      {
+        "id": "185eaa5a973a5a448537572fd7421125",
+        "title": "Big shift which could see money at last flow for huge Scottish Event Campus expansion",
+        "link": "https://www.heraldscotland.com/opinion/26539128.glasgow-ovo-hydro-campus-plan-big-shift-see-money-flow/",
+        "description": "This big shift which could mean money at last flows for major expansion of Glasgow's Scottish Event Campus, which has come so far but has so much further to go",
+        "published": "Fri, 11 Sep 2026 04:40:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21435346/?type=app&htype=0"
       },
       {
         "id": "dcac483ca8b195552571f7d1b81ccc8f",
@@ -2611,54 +2667,6 @@
         "description": "A counsellor is hoping to open a therapy practice from a purpose-built garden office at her home in Bargeddie after submitting plans to North Lanarkshire Council.",
         "published": "Wed, 09 Sep 2026 14:55:16 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21431417/?type=app&htype=0"
-      },
-      {
-        "id": "b913e423113c8aa2d77b9e2454e3f977",
-        "title": "Council issues update on Paisley Museum transformation",
-        "link": "https://www.heraldscotland.com/news/26536079.council-issues-timeline-reopening-paisley-museum/",
-        "description": "The fit-out and install programme for Paisley Museum will be complete by the end of this year ahead of reopening to the public early in the new year, Renfrewshire Council has said.",
-        "published": "Wed, 09 Sep 2026 14:46:43 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21431486/?type=app&htype=0"
-      },
-      {
-        "id": "2bc5c7c5dc9f6edc7b9446a43bd0b3db",
-        "title": "BAFTA-winning producer Mick McAvoy named new head of Rogan Scotland",
-        "link": "https://www.heraldscotland.com/news/26536003.mick-mcavoy-named-new-head-rogan-scotland/",
-        "description": "BAFTA-winning producer Mick McAvoy is to lead Rogan Scotland, succeeding Mark Hedgecoe as the Glasgow-based production division targets further growth.",
-        "published": "Wed, 09 Sep 2026 14:44:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21431299/?type=app&htype=0"
-      },
-      {
-        "id": "6fff642dc5203f835ec83cb25015bf88",
-        "title": "Glasgow gaming venue approved to stay open until 3am every night",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26535985.sauchiehall-street-gaming-venue-admiral-stay-open-3am-daily/",
-        "description": "A Glasgow city centre gaming venue, Admiral Casino, will be able to stay open until 3am every night after winning approval to make its late-night hours permanent.",
-        "published": "Wed, 09 Sep 2026 14:33:18 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20469013/?type=app&htype=0"
-      },
-      {
-        "id": "935046a31028b2a96438fc1e982d302a",
-        "title": "Derelict Loch Tay township in Perthshire could be transformed into youth camp",
-        "link": "https://www.heraldscotland.com/news/26535830.loch-tay-township-become-youth-activity-centre/",
-        "description": "Generation Hope has unveiled plans for an outdoor activity centre at a derelict Perthshire township on the shores of Loch Tay.",
-        "published": "Wed, 09 Sep 2026 14:21:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21431057/?type=app&htype=0"
-      },
-      {
-        "id": "2af2741d13d7ec43faae034675354216",
-        "title": "Acclaimed tribute combining iconic 80s band with Robert Burns coming to Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/26535816.david-byrnes-night-coming-glasgows-old-fruit-market/",
-        "description": "David Byrne's Night will land in The Old Fruitmarket on Burns Night, January 25, as part of its biggest UK tour to date.",
-        "published": "Wed, 09 Sep 2026 14:08:38 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20502609/?type=app&htype=0"
-      },
-      {
-        "id": "45d654e6be16d41042920242511a36be",
-        "title": "Nearly half a million Scottish households receive council tax reductions",
-        "link": "https://www.glasgowtimes.co.uk/news/26530993.nearly-500-000-scottish-households-get-council-tax-help/",
-        "description": "Nearly half a million households are now receiving help to reduce their council tax bills, with many saving hundreds of pounds each year.",
-        "published": "Wed, 09 Sep 2026 14:07:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21364332/?type=app&htype=332"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
