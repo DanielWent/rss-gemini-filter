@@ -1901,6 +1901,22 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21435993/?type=app&htype=0"
       },
       {
+        "id": "https://news.stv.tv/?p=527730",
+        "title": "Glasgow parents forced to register newborns in Edinburgh due to lack of appointments",
+        "link": "https://news.stv.tv/west-central/glasgow-parents-forced-to-register-newborns-in-edinburgh-due-to-lack-of-appointments",
+        "description": "Babies in Scotland have to be registered within 21 days of their birth",
+        "published": "Fri, 11 Sep 2026 10:07:43 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2023/03/eada5c016f7b9e2dfbae53d33ca29daa-1679995450-1080x720.jpg"
+      },
+      {
+        "id": "71f9e0ebbd9e6aa6c5083424138e3761",
+        "title": "Chinook helicopters return to Glasgow skies as emergency services join RAF exercise",
+        "link": "https://www.glasgowtimes.co.uk/news/26541534.police-fire-crews-join-raf-helicopter-exercise/",
+        "description": "Emergency services and military personnel will join forces in a major joint training exercise organised by the RAF today.",
+        "published": "Fri, 11 Sep 2026 10:53:20 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21439118/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=528745",
         "title": "Man accused of wearing doctor\u2019s clothing and stealing medical supplies at Glasgow hospital",
         "link": "https://news.stv.tv/west-central/man-accused-of-wearing-doctors-clothing-and-stealing-medical-supplies-at-glasgow-hospital",
@@ -2667,22 +2683,6 @@
         "description": "An iconic Great Western Road pub has announced it will be closing in a shocking post.",
         "published": "Wed, 09 Sep 2026 16:11:07 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20029242/?type=app&htype=0"
-      },
-      {
-        "id": "e0ed943db1cb2163ba1a13d351546637",
-        "title": "Masked teenage thug left man permanently scarred in Sauchiehall Street knife attack",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26536563.teen-left-man-permanently-scarred-sauchiehall-street-knife-attack/",
-        "description": "A teenager who slashed a man in the face with a knife on Glasgow's Sauchiehall Street has admitted assaulting the victim to his severe injury and permanent disfigurement.",
-        "published": "Wed, 09 Sep 2026 16:01:12 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21169030/?type=app&htype=0"
-      },
-      {
-        "id": "b2df4324bcda5a91f0ac17e318f06e21",
-        "title": "Huge crowds gather in protest outside Glasgow city centre building",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26536541.pro-palestine-protesters-target-chubb-office-waterloo-street/",
-        "description": "Pro-Palestine protesters have gathered outside a Glasgow city centre office building as part of a nationwide day of action.",
-        "published": "Wed, 09 Sep 2026 15:57:34 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21431942/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
