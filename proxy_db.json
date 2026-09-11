@@ -1861,6 +1861,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "2272c56ca20077c87640b9c5b2f5c4d6",
+        "title": "Glasgow walk-in GP clinic sees on average just 25 patients a day in first month",
+        "link": "https://www.glasgowtimes.co.uk/news/26535056.glasgow-walk-in-clinic-sees-25-patients-day-month-one/",
+        "description": "Glasgow's flagship walk-in GP Clinic has seen just 25 patients a day in its first month in operation as medial bosses raise questions over the viabilities of such practices",
+        "published": "Sat, 12 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21114179/?type=app&htype=0"
+      },
+      {
+        "id": "630dfb03975ff77a48c83e4a2255f273",
+        "title": "Primary school achieves rare 'excellent' ratings in outstanding HMIE report",
+        "link": "https://www.glasgowtimes.co.uk/news/26538512.st-stephens-primary-coatbridge-rated-excellent-hmie-inspectors/",
+        "description": "St Stephen's Primary in Coatbridge has received three excellent HMIE ratings, with inspectors praising its inclusive ethos, leadership and commitment to children's rights.",
+        "published": "Fri, 11 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21434613/?type=app&htype=0"
+      },
+      {
+        "id": "aad969af7862154272ef9d180df4750c",
+        "title": "Decision delayed on funding for North Glasgow playpark repairs",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26536308.decision-delayed-funding-north-glasgow-playpark/",
+        "description": "Parents call delayed \u00a3150,000 funding decision for Glasgow\u2019s Broomfield Playpark a disgrace, as councillors seek repair costings after September 9 meeting.",
+        "published": "Fri, 11 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21308726/?type=app&htype=0"
+      },
+      {
         "id": "dcac483ca8b195552571f7d1b81ccc8f",
         "title": "SNP claims independence could make every Scot \u00a33,000 a year better off",
         "link": "https://www.heraldscotland.com/politics/westminster/26540589.snp-claims-independence-make-scots-3-000-year-richer/",
@@ -2635,30 +2659,6 @@
         "description": "Nearly half a million households are now receiving help to reduce their council tax bills, with many saving hundreds of pounds each year.",
         "published": "Wed, 09 Sep 2026 14:07:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21364332/?type=app&htype=332"
-      },
-      {
-        "id": "84020e61494969ab0a96fd677f0a864b",
-        "title": "Elie Kirk community share offer raises \u00a3130,000 to secure historic Fife church",
-        "link": "https://www.heraldscotland.com/news/26535738.historic-elie-kirk-raises-130-000-community-share-offer/",
-        "description": "A community share offer has raised \u00a3130,000 to help bring historic Elie Kirk into community ownership and create a year-round hub.",
-        "published": "Wed, 09 Sep 2026 14:06:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21430902/?type=app&htype=0"
-      },
-      {
-        "id": "9936e9e13b98172b4be2086a42d6b5a4",
-        "title": "Former Glasgow car showroom sold after attracting 13 bids from buyers",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26535794.former-car-showroom-glasgows-maryhill-site-sold-bidding-war/",
-        "description": "A former Lookers car showroom in Maryhill has been sold to a private buyer after attracting 13 offers, highlighting strong demand for prime development opportunities in Glasgow.",
-        "published": "Wed, 09 Sep 2026 14:03:59 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21430954/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=528472",
-        "title": "Glasgow woman who tormented foster children in \u2018house of horrors\u2019 released from prison after appeal",
-        "link": "https://news.stv.tv/west-central/glasgow-woman-who-tormented-foster-children-in-house-of-horrors-released-from-prison-after-appeal",
-        "description": "Douglas Daniel, 80, and Barbara Daniel, 75, were sentenced to 30 months each for tormenting the children",
-        "published": "Wed, 09 Sep 2026 13:02:14 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/d216dfd3ca601a3a386ea98d391e816d-1788956140-1280x720.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
