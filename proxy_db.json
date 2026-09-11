@@ -21,6 +21,14 @@
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/090c/live/88ca35f0-ad6d-11f1-8edd-ada2fcb84b27.jpg"
       },
       {
+        "id": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o#1",
+        "title": "New hurricane season record as 'historic' El Ni\u00f1o leaves Atlantic eerily quiet",
+        "link": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&at_campaign=rss",
+        "description": "The Atlantic hurricane season has reached its climatological peak, but a strong El Ni\u00f1o means no hurricanes have formed this year.",
+        "published": "Thu, 10 Sep 2026 23:22:33 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7955/live/89a9f220-ad6e-11f1-b6b8-91dc721cef9f.png"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cd792nll91eo#4",
         "title": "Drug use may have begun 25,000 years ago in Indonesia, research finds",
         "link": "https://www.bbc.co.uk/news/articles/cd792nll91eo?at_medium=RSS&at_campaign=rss",
@@ -952,6 +960,14 @@
     "link": "https://the5krunner.com",
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
+      {
+        "id": "https://the5krunner.com/?p=129756",
+        "title": "#15 The Deep Dive Fix Files: Week Ending 11 September 2026",
+        "link": "https://the5krunner.com/2026/09/11/15-the-deep-dive-fix-files-week-ending-11-september-2026/",
+        "description": "<p><img alt=\"#15 The Deep Dive Fix Files: Week Ending 11 September 2026\" class=\"attachment-large size-large\" height=\"583\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2010/06/Deep-dive-Fix-Files-Asset-2The-Deep-Dive-Fix-files.png/w=1110,h=583\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Twelve sports tech problems from the past week, covering Garmin Edge 1050 mid-ride reboots and Saving Diagnostics crashes, Forerunner 970 black screens and brick workout transitions, Edge 850 sensor pairing and workout beep loops, Fenix 8 Coach workout naming, Portal watch face drain and XC Ski Dynamics loss. Also included are phantom watercourses in Suunto offline maps, a Wahoo ELEMNT Roam v1 shutting down mid-ride, and KICKR Headwind heart rate controls that will not respond in the Wahoo app.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/09/11/15-the-deep-dive-fix-files-week-ending-11-september-2026/\">#15 The Deep Dive Fix Files: Week Ending 11 September 2026</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
+        "published": "Fri, 11 Sep 2026 07:31:02 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2010/06/Deep-dive-Fix-Files-Asset-2The-Deep-Dive-Fix-files.png/w=1110,h=583"
+      },
       {
         "id": "https://the5krunner.com/?p=129711",
         "title": "new Garmin CIRQA PRO Leaked \u2013 is this the SmO2 sensor?",
