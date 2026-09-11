@@ -1490,6 +1490,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "61cff230a031c02f4b78e79d6be7e625",
+        "title": "First look at 2026 Great Scottish Run T-shirt inspired by Glasgow's heritage",
+        "link": "https://www.glasgowtimes.co.uk/news/26542508.great-scottish-run-2026-finisher-t-shirt-design-unveiled/",
+        "description": "Organisers have unveiled the 2026 finisher T-shirt design for this year's AJ Bell Great Scottish Run.",
+        "published": "Fri, 11 Sep 2026 13:23:27 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21366188/?type=app&htype=0"
+      },
+      {
         "id": "9f18edd07737071e733cbef5916a4a4a",
         "title": "Family raises more than \u00a320,000 for charity in memory of baby daughter",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26539089.family-raises-20-000-charity-abbies-memory/",
@@ -1893,6 +1901,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21114179/?type=app&htype=0"
       },
       {
+        "id": "61cff230a031c02f4b78e79d6be7e625",
+        "title": "First look at 2026 Great Scottish Run T-shirt inspired by Glasgow's heritage",
+        "link": "https://www.glasgowtimes.co.uk/news/26542508.great-scottish-run-2026-finisher-t-shirt-design-unveiled/",
+        "description": "Organisers have unveiled the 2026 finisher T-shirt design for this year's AJ Bell Great Scottish Run.",
+        "published": "Fri, 11 Sep 2026 13:23:27 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21366188/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/gallery/first-look-glasgows-newest-whisky-34602620",
         "title": "First look at Glasgow's newest whisky bar Valinch as former Bon Accord owner invites fans to new pub",
         "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/gallery/first-look-glasgows-newest-whisky-34602620",
@@ -2205,14 +2221,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21437483/?type=app&htype=0"
       },
       {
-        "id": "b7fcdb2a97e60140c8ed1b376ba3803e",
-        "title": "Susan Aitken hits out at BBC documentary for \u2018platforming the far right\u2019",
-        "link": "https://www.glasgowtimes.co.uk/news/26540556.susan-aitken-criticises-bbc-documentary-welcome-glasgow/",
-        "description": "Susan Aitken has hit back at the recent BBC disclosure documentary Welcome to Glasgow.",
-        "published": "Thu, 10 Sep 2026 18:34:37 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21437436/?type=app&htype=0"
-      },
-      {
         "id": "https://runabc.co.uk/stirling-half-marathon-2027-priority-entries-open",
         "title": "Stirling Half Marathon 2027 Priority Entries Open",
         "link": "https://runabc.co.uk/stirling-half-marathon-2027-priority-entries-open",
@@ -2331,14 +2339,6 @@
         "description": "Glasgow Airport Express fares fall from \u00a311 to \u00a32 as Transport Scotland\u2019s bus fare cap starts on September 7, covering Glasgow and west Scotland for bus users.",
         "published": "Thu, 10 Sep 2026 14:51:39 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21435760/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c23x7n9g0z4o#0",
-        "title": "Glasgow City Council appoints Ricky Bell as new leader",
-        "link": "https://www.bbc.co.uk/news/articles/c23x7n9g0z4o?at_medium=RSS&at_campaign=rss",
-        "description": "Bell replaces Susan Aitken, who announced in May that she was to stand down from the role.",
-        "published": "Thu, 10 Sep 2026 13:49:47 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e262/live/33441c60-ad1b-11f1-b1d1-571ed4d7ff2c.jpg"
       },
       {
         "id": "b07fd35ce23b7fedaa040a82fef98b56",
