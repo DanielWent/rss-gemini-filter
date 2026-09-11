@@ -11,7 +11,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 12,
+        "daily_requests": 13,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -33,7 +33,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 12,
+        "daily_requests": 13,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -55,7 +55,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 12,
+        "daily_requests": 13,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -73,7 +73,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 12,
+        "daily_requests": 13,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -111,6 +111,10 @@
       "gemini-3.5-flash-lite": {
         "daily_requests": 12,
         "exhausted": false
+      },
+      "gemini-3.6-flash": {
+        "daily_requests": 1,
+        "exhausted": false
       }
     },
     "6c7f2bf297b8e3cf": {
@@ -125,6 +129,10 @@
       "gemini-3.5-flash-lite": {
         "daily_requests": 12,
         "exhausted": false
+      },
+      "gemini-3.6-flash": {
+        "daily_requests": 1,
+        "exhausted": false
       }
     },
     "b567919d0c3a5a85": {
@@ -137,7 +145,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 11,
+        "daily_requests": 12,
         "exhausted": false
       }
     },
@@ -151,7 +159,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 11,
+        "daily_requests": 12,
         "exhausted": false
       }
     },
@@ -165,7 +173,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 11,
+        "daily_requests": 12,
         "exhausted": false
       }
     },
@@ -179,7 +187,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 11,
+        "daily_requests": 12,
         "exhausted": false
       }
     }
