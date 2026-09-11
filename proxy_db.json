@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1789140916841728",
+        "title": "UK government rejects 'kill switch' idea for dangerous AI",
+        "link": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
+        "description": "The Cabinet Office, which leads on AI safety, says the UK \"cannot simply turn AI off\".",
+        "published": "Fri, 11 Sep 2026 17:07:07 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63e1/live/212f16d0-adeb-11f1-9a5c-a7a4083eb832.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/sport/athletics/articles/c8enzz036leo#8",
         "title": "$10m on line at inaugural Ultimate Championship",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/c8enzz036leo?at_medium=RSS&at_campaign=rss",
@@ -1901,6 +1909,38 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21114179/?type=app&htype=0"
       },
       {
+        "id": "37db25a9362ca3c752bc765266507537",
+        "title": "Glasgow children unable to use gardens as housing associations refuse fence repairs",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26543775.glasgow-children-unable-use-gardens-broken-fences/",
+        "description": "Children are unable to play in some Glasgow gardens due to broken fences, according to a councillor who says social landlords are not making maintenance a priority.",
+        "published": "Fri, 11 Sep 2026 16:36:12 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20223179/?type=app&htype=0"
+      },
+      {
+        "id": "2731b4acdf1c02384bf073565abd4bb3",
+        "title": "Part of \u00a35m Edinburgh fire fund earmarked for 'likelihood' of legal challenge",
+        "link": "https://www.heraldscotland.com/news/26542844.princes-street-fire-fund-earmarked-likelihood-legal-challenge/",
+        "description": "City of Edinburgh Council said it will attempt to recoup costs incurred by securing the fire-stricken former Debenhams from landlord Criterion Capital in \u201cdue course\u201d.",
+        "published": "Fri, 11 Sep 2026 16:33:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21163348/?type=app&htype=0"
+      },
+      {
+        "id": "22a8bb0fa2e697603b3b35352a21779e",
+        "title": "Major new research project to investigate tiny Summer Isles seabird",
+        "link": "https://www.heraldscotland.com/news/26543725.new-study-investigate-tiny-summer-isles-seabird/",
+        "description": "A major new research project near Ullapool will investigate one of the UK\u2019s smallest - and most elusive - seabirds, weighing the equivalent of just three \u00a31 coins.",
+        "published": "Fri, 11 Sep 2026 16:27:11 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21442885/?type=app&htype=0"
+      },
+      {
+        "id": "c235eef48871de80b7a64d821db65c9d",
+        "title": "John Swinney backs calls for cut in whisky duty in upcoming Budget",
+        "link": "https://www.heraldscotland.com/news/26543640.john-swinney-backs-calls-whisky-duty-cut-budget/",
+        "description": "John Swinney has backed calls for a cut in whisky duty in the UK Government\u2019s upcoming Budget.",
+        "published": "Fri, 11 Sep 2026 16:15:12 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21441089/?type=app&htype=0"
+      },
+      {
         "id": "68d8a9d6372319e5333be49255ae00de",
         "title": "Glasgow dad hits fundraising target to take Tommy Robinson to court",
         "link": "https://www.glasgowtimes.co.uk/news/26543634.scottish-dad-hits-fundraising-target-take-tommy-robinson-court/",
@@ -1923,6 +1963,14 @@
         "description": "Nearly 100 residents have been forced to leave their homes in Coalsnaughton",
         "published": "Fri, 11 Sep 2026 15:02:08 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/2f74ec5490467f2b711f389de9523ccd-1787411315.jpeg"
+      },
+      {
+        "id": "b3e3b844ecbd74208a244f7ffe800f69",
+        "title": "Disgraced surgeon Eljamel performed several wrong site surgeries, inquiry told",
+        "link": "https://www.heraldscotland.com/news/26543530.disgraced-surgeon-performed-several-wrong-site-surgeries-inquiry-told/",
+        "description": "Disgraced brain surgeon Sam Eljamel carried out a number of operations on the wrong parts of patients\u2019 bodies while at NHS Tayside, an inquiry has heard.",
+        "published": "Fri, 11 Sep 2026 15:58:45 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/17651348/?type=app&htype=0"
       },
       {
         "id": "b2b4e8f7bac53d8d79e2381d94e605c1",
@@ -2059,14 +2107,6 @@
         "description": "James and Sandy Easdale want to pursue legal action after their \u00a34.3m funding bid was rejected",
         "published": "Fri, 11 Sep 2026 12:00:13 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2025/11/90e092b17ad5d465c867a79fa8a2ce76-1763053146-1280x720.jpeg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=528790",
-        "title": "Queer Glasgow bookshop raises over \u00a314,000 for security shutters after targeted attack",
-        "link": "https://news.stv.tv/west-central/queer-glasgow-bookshop-raises-over-14000-for-security-shutters-after-targeted-attack",
-        "description": "Category Is Books in Govanhill launched the fundraiser after the shop's window was recently vandalised",
-        "published": "Fri, 11 Sep 2026 11:59:20 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/e1f73bbcc3b118725c6b56b70ec9d2f5-1789126107-1080x720.jpeg"
       },
       {
         "id": "bc7a202bd36d95f3627afeb771d3aaa9",
@@ -2659,38 +2699,6 @@
         "description": "A Glasgow bookshop that has previously been targeted with threats and aggression has now been vandalised as part of an alleged transphobic attack.",
         "published": "Thu, 10 Sep 2026 11:13:18 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21435777/?type=app&htype=0"
-      },
-      {
-        "id": "faff57343a4f91b8ac840880bf83e175",
-        "title": "Vote of confidence from New Town chief as council's plans for Princes Street approved",
-        "link": "https://www.heraldscotland.com/news/26538164.hopes-princes-street-plans-the-first-step-city-centre-revamp/",
-        "description": "Following a spirited debate on Wednesday, councillors on the planning committee voted to back an \u201cambitious pragmatic\u201d approach for Princes Street.",
-        "published": "Thu, 10 Sep 2026 11:12:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21434150/?type=app&htype=0"
-      },
-      {
-        "id": "d1638fef21195b81df5aa5b1aaaabe43",
-        "title": "Herald Business LIVE: Today's top stories - September 10",
-        "link": "https://www.heraldscotland.com/news/26538212.herald-business-live-todays-top-stories---september-10/",
-        "description": "Welcome to The Herald's Business live blog, where we\u2019ll be bringing you the latest developments from across Scotland\u2019s business industry.",
-        "published": "Thu, 10 Sep 2026 11:04:56 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21394794/?type=app&htype=0"
-      },
-      {
-        "id": "92d6a1396e9d42371e8965f4fdb020df",
-        "title": "Oasis fans spot major Glasgow gig clue which could confirm exact concert dates",
-        "link": "https://www.glasgowtimes.co.uk/news/26538187.clue-exact-dates-oasis-glasgow-gigs-spotted-fans/",
-        "description": "Eagle-eyed Oasis fans think the dates for the band's 2027 Glasgow gigs have been confirmed by hotel bookings.",
-        "published": "Thu, 10 Sep 2026 11:00:58 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20939472/?type=app&htype=0"
-      },
-      {
-        "id": "ae139d23eaaf9d2ab48b003a67ef158d",
-        "title": "Major study to assess impacts of climate change on Scotland\u2019s canals",
-        "link": "https://www.heraldscotland.com/news/26538169.scottish-canals-study-impacts-climate-change-canals/",
-        "description": "Scottish Canals is working with two globally renowned climate and heritage experts to assess the growing challenges posed by climate change to Scotland\u2019s network of canals.",
-        "published": "Thu, 10 Sep 2026 10:56:47 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/17284333/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
