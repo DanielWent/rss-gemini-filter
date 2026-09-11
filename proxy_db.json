@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o#1",
+        "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons",
+        "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+        "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+        "published": "Fri, 11 Sep 2026 02:46:30 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/090c/live/88ca35f0-ad6d-11f1-8edd-ada2fcb84b27.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cd792nll91eo#4",
         "title": "Drug use may have begun 25,000 years ago in Indonesia, research finds",
         "link": "https://www.bbc.co.uk/news/articles/cd792nll91eo?at_medium=RSS&at_campaign=rss",
