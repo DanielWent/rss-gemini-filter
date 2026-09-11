@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c1wx8gg7xw1o#2",
+        "title": "When an avalanche killed climber Nirmal Purja, his friends faced the hardest mission of all",
+        "link": "https://www.bbc.co.uk/news/articles/c1wx8gg7xw1o?at_medium=RSS&at_campaign=rss",
+        "description": "Mountaineer Mingma G tells the BBC about the climb to bring home the bodies of his closest friends.",
+        "published": "Fri, 11 Sep 2026 23:39:01 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37fa/live/48f4dc90-ac1a-11f1-a291-b542ee92de7c.jpg"
+      },
+      {
         "id": "1789140916841728",
         "title": "UK government rejects 'kill switch' idea for dangerous AI",
         "link": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
