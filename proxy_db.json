@@ -1949,12 +1949,60 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "7d96530f694a096b527827e413b62a2e",
+        "title": "Historic school building devastated by major blaze as firefighters remain on scene",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26544852.fire-hits-former-fernhill-school-building-rutherglen/",
+        "description": "Firefighters battled a major blaze at the former Fernhill School building in Rutherglen just months after the private school closed amid financial difficulties and a charity watchdog probe.",
+        "published": "Sat, 12 Sep 2026 11:44:48 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21445010/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/scotlands-most-outstanding-restaurant-named-34605826",
+        "title": "Scotland's most outstanding restaurant named as wee island spot an hour away from Glasgow",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/scotlands-most-outstanding-restaurant-named-34605826",
+        "description": "Food Awards Scotland have just named their 2026 winners and one wee spot \u2013 well worth the short journey from Glasgow \u2013 has been named the most outstanding restaurant in the country.",
+        "published": "Sat, 12 Sep 2026 10:35:07 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34605983.ece/ALTERNATES/s98/0_download-54.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/arts-culture-news/story-behind-glasgows-duke-wellington-34604963",
+        "title": "The story behind Glasgow's Duke of Wellington statue and his iconic traffic cone hat",
+        "link": "https://www.glasgowlive.co.uk/whats-on/arts-culture-news/story-behind-glasgows-duke-wellington-34604963",
+        "description": "It's become an iconic image of Glasgow, with the tradition now becoming a key part of the city's cultural legacy.",
+        "published": "Sat, 12 Sep 2026 10:30:23 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34604918.ece/ALTERNATES/s98/0_IMG_6721JPG.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-housing-associations-forced-close-34605061",
+        "title": "Glasgow housing associations forced to close temporarily due to intimidation amid false rumours",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-housing-associations-forced-close-34605061",
+        "description": "Police have had to deal with disorder in neighbourhoods following misinformation.",
+        "published": "Sat, 12 Sep 2026 10:22:39 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34269454.ece/ALTERNATES/s98/3_gettyimages-2149131222-170667a.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-night-bus-improvements-works-34604287",
+        "title": "Glasgow night bus improvements in the works as councillor promises 'joined up' transport network",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-night-bus-improvements-works-34604287",
+        "description": "The statement was made after Bailie Christy Mearns asked what progress had been made to improve night buses in Glasgow.",
+        "published": "Sat, 12 Sep 2026 10:20:00 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article30852125.ece/ALTERNATES/s98/0_JS228146332.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/sauchiehall-street-could-face-biggest-34597253",
         "title": "Sauchiehall Street could face biggest transformation in a century under Art School plans",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/sauchiehall-street-could-face-biggest-34597253",
         "description": "An FOI submitted by Glasgow Live shows that the Board of Governors no longer see the Mackintosh as &quot;essential&quot; but believe that the &quot;creative district vision&quot; similar to projects in Barcelona and Montreal could be the way forward.",
         "published": "Sat, 12 Sep 2026 10:01:58 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34598808.ece/ALTERNATES/s98/0_Untitled-design.png"
+      },
+      {
+        "id": "d297d6a65de28bed75ec4ed7ab215657",
+        "title": "Four more arrests in police operation to tackle gang feud",
+        "link": "https://www.heraldscotland.com/news/26544788.four-arrests-west-scotland-gang-feud-operation/",
+        "description": "Four more arrests have been made in a police operation to tackle a gang feud.",
+        "published": "Sat, 12 Sep 2026 11:01:48 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19546911/?type=app&htype=0"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/clyjl1lg3dgo#0",
@@ -1971,6 +2019,14 @@
         "description": "Police have warned of a strong response to violence ahead of rival protests in Glasgow on Saturday.",
         "published": "Sat, 12 Sep 2026 10:33:50 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21444769/?type=app&htype=0"
+      },
+      {
+        "id": "5e8b8b3e4c74b0b77d96ce23df398b44",
+        "title": "Scotland's growth story is full of promise. Now comes the hard part",
+        "link": "https://www.heraldscotland.com/news/26542233.big-projects-bold-ambitions-test-comes-next/",
+        "description": "From energy and hydrogen projects to a new Clyde alliance and Glasgow's waterfront vision, this week's business stories highlighted a familiar challenge",
+        "published": "Sat, 12 Sep 2026 10:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/17175317/?type=app&htype=0"
       },
       {
         "id": "9028387",
@@ -2691,62 +2747,6 @@
         "description": "Protesters demanding a Glasgow homeless charity\u2019s night shelter be kept open have staged a demonstration inside council offices this morning.",
         "published": "Thu, 10 Sep 2026 20:33:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21437580/?type=app&htype=0"
-      },
-      {
-        "id": "80ad9d144853ec430c478e12be481f31",
-        "title": "Historic Glasgow landmark gets new lease of life as affordable homes",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26540638.glasgows-bellgrove-hotel-transformed-14-new-homes/",
-        "description": "The Bellgrove Hotel in Glasgow transformed into 14 affordable mid-market rent homes through a \u00a320.3m Gallowgate regeneration project led by Wheatley Group.",
-        "published": "Thu, 10 Sep 2026 20:30:43 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21437587/?type=app&htype=0"
-      },
-      {
-        "id": "9010086",
-        "title": "Out of favour Rangers star 'on the brink' of Ibrox exit as escape plan amid transfer interest nears success",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/out-of-favour-rangers-star-on-the-brink-of-ibrox-exit-as-escape-plan-amid-transfer-interest-nears-success-9010086",
-        "description": "<p>EFL sides Leicester City and Sheffield United had expressed an interest in the defender during the transfer window</p>",
-        "published": "Thu, 10 Sep 2026 19:00:27 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/10/12/31/GettyImages-2151565355.jpeg?width=1200&auto=webp&trim=74%2C0%2C75%2C0"
-      },
-      {
-        "id": "5be690e098cc2bd2d0a9fe1f27b61108",
-        "title": "Derelict Glasgow school houses could be transformed into family homes",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26540622.three-glasgow-janitors-houses-become-social-homes/",
-        "description": "Three listed former janitors\u2019 houses in Glasgow could become low-carbon affordable family homes under GBPT plans, with council approval due September 17, 2026.",
-        "published": "Thu, 10 Sep 2026 19:59:48 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21437559/?type=app&htype=0"
-      },
-      {
-        "id": "b8f6b7d0ac2d07e85f4ff6b8696374fc",
-        "title": "Lulu launches first ever blue plaque Glasgow music heritage trail",
-        "link": "https://www.glasgowtimes.co.uk/news/26539719.lulu-launches-first-ever-blue-plaque-glasgow-music-heritage-trail/",
-        "description": "Lulu unveils her own blue plaque as Glasgow's first Music Heritage Trail celebrates the city\u2019s musical icons, including Simple Minds and the Apollo.",
-        "published": "Thu, 10 Sep 2026 19:46:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21437483/?type=app&htype=0"
-      },
-      {
-        "id": "https://runabc.co.uk/stirling-half-marathon-2027-priority-entries-open",
-        "title": "Stirling Half Marathon 2027 Priority Entries Open",
-        "link": "https://runabc.co.uk/stirling-half-marathon-2027-priority-entries-open",
-        "description": "<p><img alt=\"Stirling Marathon Entries Open 2026\" src=\"https://runabc.co.uk/images/2026/09/stirling-marathon-entries-open-2026-060944.jpg\" /></p>\n\t\t\t\t<p>Stirling Half Marathon returns on 16 May 2027, with priority entries now open for a new closed road race through one of Scotland's most historic cities...</p>",
-        "published": "Thu, 10 Sep 2026 18:22:33 +0100",
-        "image_url": "https://runabc.co.uk/images/2026/09/stirling-marathon-entries-open-2026-060944.jpg"
-      },
-      {
-        "id": "61f95a60211ac5059e9aadc0b433e012",
-        "title": "New council leader to meet police chief over Glasgow city centre safety",
-        "link": "https://www.glasgowtimes.co.uk/news/26540526.glasgow-council-leader-meet-police-chief-city-safety/",
-        "description": "The new leader of Glasgow City Council is to meet the city's top police officer to discuss safety in the city centre.",
-        "published": "Thu, 10 Sep 2026 18:10:21 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19314193/?type=app&htype=0"
-      },
-      {
-        "id": "9009183",
-        "title": "Agent of Celtic transfer target on why move didn't materialise as Champions League factor decreased 'chances'",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/agent-of-celtic-transfer-target-discusses-why-move-didnt-materialise-as-champions-league-failure-decreased-chances-9009183",
-        "description": "<p>Hoops transfer collapsed late in the summer window</p>",
-        "published": "Thu, 10 Sep 2026 17:00:49 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/10/10/15/GettyImages-2292043320-(2).jpeg?width=1200&auto=webp&trim=45%2C0%2C45%2C0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
