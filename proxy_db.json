@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cq635037g18o#2",
+        "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+        "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+        "description": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
+        "published": "Sat, 12 Sep 2026 17:28:53 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/203a/live/5d11e480-ae26-11f1-a540-61c3f7fc4e6c.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o#1",
         "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
         "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies.",
         "published": "Wed, 12 Aug 2026 11:28:05 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde6/live/0ce8a9c0-963a-11f1-b809-7db91972344e.png"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cvgxzmgejd5o#0",
-        "title": "Spotify to add label for AI-generated artists and remove them from recommendations",
-        "link": "https://www.bbc.co.uk/news/articles/cvgxzmgejd5o?at_medium=RSS&at_campaign=rss",
-        "description": "The new feature, starting from mid-September, will tell listeners if an artist is AI-generated.",
-        "published": "Wed, 12 Aug 2026 10:53:54 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/865d/live/9d0547e0-9638-11f1-b809-7db91972344e.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
