@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1789225814670139",
+        "title": "Ingebrigtsen withdraws from 1500m showdown with Kerr",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/clykzvnv686o?at_medium=RSS&at_campaign=rss",
+        "description": "Jakob Ingebrigtsen will not contest the men's 1500m final at the World Athletics Ultimate Championship, putting his reunion with rival Josh Kerr on hold.",
+        "published": "Sat, 12 Sep 2026 16:49:18 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4e1/live/5332e430-aeaf-11f1-ae38-d350b022f499.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o#3",
         "title": "Record heatwaves in France set to make champagne stronger",
         "link": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Great Britain's Romell Glave and Jeremiah Azu claim a sensational European 100m one-two for the hosts in Birmingham.",
         "published": "Tue, 11 Aug 2026 22:03:51 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/301e/live/16e70f90-95ca-11f1-856f-555b0683e2ba.jpg"
-      },
-      {
-        "id": "1786468817827917",
-        "title": "Grand Slam Track athletes deny Johnson claim they have been paid",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/cy8e1e94deqo?at_medium=RSS&at_campaign=rss",
-        "description": "Athletes promised thousands of pounds in payments for participating in Grand Slam Track events are still waiting for their money.",
-        "published": "Tue, 11 Aug 2026 18:59:12 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a650/live/c1361170-95a3-11f1-8315-25a75e37f071.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -1948,6 +1948,14 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/scotlands-growing-jail-population-unsustainable-34608510",
+        "title": "Scotland's growing jail population 'unsustainable' amid gang war crisis",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/scotlands-growing-jail-population-unsustainable-34608510",
+        "description": "The current prison population of around 8,500 poses a &quot;significant risk&quot; to those living and working in jails, as those linked to the Lyons and Daniel crime family feud fill cells across the country",
+        "published": "Sat, 12 Sep 2026 14:53:05 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33099830.ece/ALTERNATES/s98/0_JS385804114.jpg"
+      },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/hundreds-descend-pink-ladies-protest-34608347",
         "title": "Hundreds descend for 'Pink Ladies protest' at Glasgow Green amid counter-demonstrations",
