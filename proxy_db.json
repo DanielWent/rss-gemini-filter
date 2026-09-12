@@ -1949,6 +1949,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/sauchiehall-street-could-face-biggest-34597253",
+        "title": "Sauchiehall Street could face biggest transformation in a century under Art School plans",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/sauchiehall-street-could-face-biggest-34597253",
+        "description": "An FOI submitted by Glasgow Live shows that the Board of Governors no longer see the Mackintosh as &quot;essential&quot; but believe that the &quot;creative district vision&quot; similar to projects in Barcelona and Montreal could be the way forward.",
+        "published": "Sat, 12 Sep 2026 10:01:58 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34598808.ece/ALTERNATES/s98/0_Untitled-design.png"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/clyjl1lg3dgo#0",
         "title": "Four arrested during gangland violence 'day of action'",
         "link": "https://www.bbc.co.uk/news/articles/clyjl1lg3dgo?at_medium=RSS&at_campaign=rss",
@@ -1963,6 +1971,14 @@
         "description": "Police have warned of a strong response to violence ahead of rival protests in Glasgow on Saturday.",
         "published": "Sat, 12 Sep 2026 10:33:50 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21444769/?type=app&htype=0"
+      },
+      {
+        "id": "9028387",
+        "title": "How to watch Rangers vs Celtic: TV channel, live stream, team news, referee and VAR for Old Firm Derby",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/how-to-watch-rangers-vs-celtic-tv-channel-live-stream-team-news-referee-and-var-for-old-firm-league-cup-clash-9028387",
+        "description": "<p>Everything you need to know about this week\u2019s Old Firm Derby</p>",
+        "published": "Sat, 12 Sep 2026 09:26:52 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/12/9/10/GettyImages-2275465868.jpeg?width=1200&auto=webp&trim=87%2C0%2C89%2C0"
       },
       {
         "id": "https://news.stv.tv/?p=528692",
@@ -1989,12 +2005,12 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34586697.ece/ALTERNATES/s98/2_Screenshot-2026-09-08-at-161238.png"
       },
       {
-        "id": "92e22966c1ee488f77a49fbcf5bc4889",
-        "title": "Major police raids lead to four arrests over series of incidents in Glasgow area",
-        "link": "https://www.glasgowtimes.co.uk/news/26544616.four-arrested-police-operation-motherwell-bellshill/",
-        "description": "Four men arrested after police operation in Bellshill and Motherwell linked to Glasgow wilful fire-raising, vehicle incidents and four recovered stolen cars.",
-        "published": "Sat, 12 Sep 2026 09:26:36 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21444378/?type=app&htype=0"
+        "id": "a6f8a8ade8058daebd7d6bb1d497b588",
+        "title": "The haunting portrait that may reveal a forgotten royal turning point",
+        "link": "https://www.heraldscotland.com/news/26540265.rare-queen-mother-portrait-discovered-abdication-crisis/",
+        "description": "A rare portrait of the Queen Mother painted during the royal crisis of 1936 has been uncovered, offering a glimpse into the moment that changed the British monarchy forever.",
+        "published": "Sat, 12 Sep 2026 10:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21437038/?type=app&htype=0"
       },
       {
         "id": "9021530",
@@ -2011,14 +2027,6 @@
         "description": "A man has been charged over a fire at a Glasgow tenement. Emergency services were called to Stoneyhurst Street in the Possil area of the city at about 4.50pm on September 6",
         "published": "Sat, 12 Sep 2026 08:55:28 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21417595/?type=app&htype=0"
-      },
-      {
-        "id": "4d5f6a21bb48b83a62fdda3398cda98d",
-        "title": "Police vow \u2018strong response\u2019 to any violence ahead of rival protests in Glasgow",
-        "link": "https://www.heraldscotland.com/news/26544510.police-vow-strong-response-violence-ahead-glasgow-protests/",
-        "description": "Police have said they will have a \u201cstrong response\u201d to any violence or disorder in Glasgow, ahead of rival protests due to take place in the city on Saturday.",
-        "published": "Sat, 12 Sep 2026 08:27:22 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21444172/?type=app&htype=0"
       },
       {
         "id": "1e94b58bd1bf50225805bacd1f23ca47",
@@ -2739,14 +2747,6 @@
         "description": "<p>Hoops transfer collapsed late in the summer window</p>",
         "published": "Thu, 10 Sep 2026 17:00:49 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/10/10/15/GettyImages-2292043320-(2).jpeg?width=1200&auto=webp&trim=45%2C0%2C45%2C0"
-      },
-      {
-        "id": "b7dbe20ed3275d4e04341f3433f8a769",
-        "title": "Council responds after claims two four-year-olds left school",
-        "link": "https://www.glasgowtimes.co.uk/news/26540493.council-responds-claims-two-pupils-left-uplawmoor-primary/",
-        "description": "East Renfrewshire Council (ERC) has responded after claims that two four-year-old pupils left a school and were later found at a nearby dwelling.",
-        "published": "Thu, 10 Sep 2026 17:50:56 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21436781/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
