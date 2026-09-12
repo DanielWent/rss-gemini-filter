@@ -1949,6 +1949,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/clyjl1lg3dgo#0",
+        "title": "Four arrested during gangland violence 'day of action'",
+        "link": "https://www.bbc.co.uk/news/articles/clyjl1lg3dgo?at_medium=RSS&at_campaign=rss",
+        "description": "Police executed warrants at addresses in Bellshill and Motherwell on Friday and also recovered four stolen vehicles.",
+        "published": "Sat, 12 Sep 2026 09:50:41 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34d1/live/f62210a0-ae8f-11f1-b92e-1f49080ec3cb.jpg"
+      },
+      {
+        "id": "1cf874ca3ceffaeb6bc0aece75fd7625",
+        "title": "Police warn of strong response as rival protests set to clash today in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26544736.police-warn-strong-response-glasgow-protests-today/",
+        "description": "Police have warned of a strong response to violence ahead of rival protests in Glasgow on Saturday.",
+        "published": "Sat, 12 Sep 2026 10:33:50 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21444769/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=528692",
         "title": "Lulu says \u2018music is in every Glaswegian\u2019s blood\u2019 as she receives blue plaque",
         "link": "https://news.stv.tv/west-central/lulu-says-music-is-in-every-glaswegians-blood-as-she-receives-blue-plaque",
@@ -2147,14 +2163,6 @@
         "description": "A Pink Ladies protest is expected to take place in Glasgow Green at 1pm, with other anti-immigration groups encouraging supporters to attend",
         "published": "Sat, 12 Sep 2026 03:19:17 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34352731.ece/ALTERNATES/s98/3_JS413402187-1.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c99d30n8828o#0",
-        "title": "Fire crews tackle blaze at former private school",
-        "link": "https://www.bbc.co.uk/news/articles/c99d30n8828o?at_medium=RSS&at_campaign=rss",
-        "description": "Six fire engines and specialist resources were sent to the former Fernhill School in Rutherglen.",
-        "published": "Fri, 11 Sep 2026 22:04:15 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a14f/live/fd8b0810-ae2b-11f1-933b-b9c22df145d4.png"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-emergency-services-race-fire-34606566",
@@ -2739,14 +2747,6 @@
         "description": "East Renfrewshire Council (ERC) has responded after claims that two four-year-old pupils left a school and were later found at a nearby dwelling.",
         "published": "Thu, 10 Sep 2026 17:50:56 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21436781/?type=app&htype=0"
-      },
-      {
-        "id": "657ed045abbb4c4b1cdad75783a2e53c",
-        "title": "Flight forced to land at Glasgow Airport as emergency crews wait on runway",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26540459.lufthansa-flight-makes-emergency-landing-glasgow-airport/",
-        "description": "Lufthansa flight LH418 from Frankfurt to Washington DC made an emergency landing at Glasgow Airport on September 10 after a passenger fell ill.",
-        "published": "Thu, 10 Sep 2026 17:37:04 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21035647/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
