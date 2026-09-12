@@ -1941,6 +1941,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "7bea8cf88b0aa602280f9a6de55a99a4",
+        "title": "Man arrested after wilful fire at vacant Glasgow tenement linked to misinformation",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26544503.man-arrested-wilful-fire-possilpark-tenement/",
+        "description": "A 48-year-old man has been arrested after a wilful fire at a Possilpark tenement on Stoneyhurst Street that had been targeted by online misinformation.",
+        "published": "Sat, 12 Sep 2026 08:20:07 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21417330/?type=app&htype=0"
+      },
+      {
+        "id": "9021431",
+        "title": "Predicted Celtic XI vs Rangers: O'Neill to restore strongest available side to contend with unusual atmosphere",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/predicted-celtic-xi-rangers-martin-oneill-restore-strongest-available-side-unusual-atmosphere-9021431",
+        "description": "<p>Here\u2019s how we think Martin O\u2019Neill will set up his Celtic starting XI against Rangers on Sunday afternoon</p>",
+        "published": "Sat, 12 Sep 2026 07:00:08 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/08/15/22/21784823.jpeg?width=1200&auto=webp&trim=0%2C66%2C0%2C65"
+      },
+      {
         "id": "2272c56ca20077c87640b9c5b2f5c4d6",
         "title": "Glasgow walk-in GP clinic sees on average just 25 patients a day in first month",
         "link": "https://www.glasgowtimes.co.uk/news/26535056.glasgow-walk-in-clinic-sees-25-patients-day-month-one/",
@@ -2723,22 +2739,6 @@
         "description": "Armed police and military personnel are to take part in a multi-agency exercise in Cambuslang on Friday, September 11.",
         "published": "Thu, 10 Sep 2026 14:05:22 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21157425/?type=app&htype=0"
-      },
-      {
-        "id": "97c767f509fe201b37f4b9007afc9ee3",
-        "title": "Overnight closures planned for several DAYS on busy section of M8 motorway",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26539188.overnight-closures-planned-m8-junction-12-resurfacing/",
-        "description": "Overnight closures are set to begin as part of essential resurfacing works on a busy section of the M8.",
-        "published": "Thu, 10 Sep 2026 14:01:34 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18524256/?type=app&htype=0"
-      },
-      {
-        "id": "e42e30f23cac42bb6edb6eea2f737678",
-        "title": "Work has started for 23 affordable homes to be built at Dargavel Village in Bishopton",
-        "link": "https://www.heraldscotland.com/news/26539141.new-affordable-homes-dargavel-village-bishopton/",
-        "description": "Construction has started on 23 affordable homes at Dargavel Village in Bishopton, backed by \u00a32.7m in Scottish Government funding.",
-        "published": "Thu, 10 Sep 2026 13:56:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21435351/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
