@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o#1",
+        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+        "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+        "description": "Amodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+        "published": "Sat, 12 Sep 2026 15:37:39 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg"
+      },
+      {
         "id": "1789225814670139",
         "title": "Ingebrigtsen withdraws from 1500m showdown with Kerr",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/clykzvnv686o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The new feature, starting from mid-September, will tell listeners if an artist is AI-generated.",
         "published": "Wed, 12 Aug 2026 10:53:54 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/865d/live/9d0547e0-9638-11f1-b809-7db91972344e.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/athletics/articles/cvg70y30x5go#9",
-        "title": "'Total domination' - GB's Glave & Azu claim European 100m one-two",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/cvg70y30x5go?at_medium=RSS&at_campaign=rss",
-        "description": "Great Britain's Romell Glave and Jeremiah Azu claim a sensational European 100m one-two for the hosts in Birmingham.",
-        "published": "Tue, 11 Aug 2026 22:03:51 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/301e/live/16e70f90-95ca-11f1-856f-555b0683e2ba.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -1948,6 +1948,14 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-is-not-safe-city-34608671",
+        "title": "Glasgow 'is not a safe city just now' say Labour councillors joining night-time patrol",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-is-not-safe-city-34608671",
+        "description": "A Local Democracy Reporter joined Labour councillors and police officers on their regular Friday night patrol and heard about the issues emergency services currently face.",
+        "published": "Sat, 12 Sep 2026 15:45:48 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/article34608644.ece/ALTERNATES/s98/1_Glasgow-Labour-councillors-before-the-night-time-patrol.png"
+      },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/scotlands-growing-jail-population-unsustainable-34608510",
         "title": "Scotland's growing jail population 'unsustainable' amid gang war crisis",
