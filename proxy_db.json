@@ -1949,6 +1949,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-green-protests-pass-without-34608895",
+        "title": "Glasgow Green protests \u2018pass without violence\u2019 say police as opposing groups separated",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-green-protests-pass-without-34608895",
+        "description": "One 23-year-old man was arrested in connection with an outstanding warrant relating to previous disorder \u2013 but police say today's event passed peacefully.",
+        "published": "Sat, 12 Sep 2026 16:37:40 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34608880.ece/ALTERNATES/s98/0_JS417711533.jpg"
+      },
+      {
+        "id": "b7b36d4fb4825bdfed681774da079545",
+        "title": "Man arrested for involvement in disorder following Glasgow Green protest",
+        "link": "https://www.glasgowtimes.co.uk/news/26545335.man-arrested-disorder-following-glasgow-green-protest/",
+        "description": "The 25-year-old was charged in connection with an outstanding warrant relating to disorder in Glasgow on Saturday, 25 July, 2026.",
+        "published": "Sat, 12 Sep 2026 17:21:29 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21265956/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-is-not-safe-city-34608671",
         "title": "Glasgow 'is not a safe city just now' say Labour councillors joining night-time patrol",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-is-not-safe-city-34608671",
