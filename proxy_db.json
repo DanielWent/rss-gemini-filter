@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1789196114663816",
+        "title": "Get set, ready, go! Great North Run weekend begins",
+        "link": "https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss",
+        "description": "Saturday kicks off with Mini and Junior events, followed by the half marathon on Sunday.",
+        "published": "Sat, 12 Sep 2026 08:01:33 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52d7/live/cadfb1b0-ad07-11f1-beae-535b95a24b3e.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c1wx8gg7xw1o#2",
         "title": "When an avalanche killed climber Nirmal Purja, his friends faced the hardest mission of all",
         "link": "https://www.bbc.co.uk/news/articles/c1wx8gg7xw1o?at_medium=RSS&at_campaign=rss",
@@ -1506,6 +1514,30 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "e8a51430949e6513d1ed6092a9b3db46",
+        "title": "'We still miss him every day' - Daughter's tribute before Glasgow Memory Walk",
+        "link": "https://www.glasgowtimes.co.uk/news/26531728.glasgow-memory-walk-return-support-dementia-care/",
+        "description": "A fundraising walk in Glasgow is set to return in support of dementia care.",
+        "published": "Sat, 12 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21425034/?type=app&htype=0"
+      },
+      {
+        "id": "689707f11db26c868e9ffbb05f3baab3",
+        "title": "Noisy Bearsden neighbour mounted and bit man who asked him to be quiet",
+        "link": "https://www.glasgowtimes.co.uk/news/26540915.noisy-bearsden-neighbour-mounted-bit-man-asked-quiet/",
+        "description": "A man who was making too much noise bit the neighbour who turned up to tell him to be quiet.",
+        "published": "Sat, 12 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13940457/?type=app&htype=0"
+      },
+      {
+        "id": "8bfd16b2c7f2a1fa591ad308fba28636",
+        "title": "Mum caught driving with cocaine levels 12 times the legal limit",
+        "link": "https://www.glasgowtimes.co.uk/news/26540997.mum-caught-driving-cocaine-levels-12-times-legal-limit/",
+        "description": "A mum who was caught driving under the influence of drugs almost five years ago has finally been sentenced for the crime.",
+        "published": "Sat, 12 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13757694/?type=app&htype=0"
+      },
+      {
         "id": "61cff230a031c02f4b78e79d6be7e625",
         "title": "First look at 2026 Great Scottish Run T-shirt inspired by Glasgow's heritage",
         "link": "https://www.glasgowtimes.co.uk/news/26542508.great-scottish-run-2026-finisher-t-shirt-design-unveiled/",
@@ -1917,6 +1949,62 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21114179/?type=app&htype=0"
       },
       {
+        "id": "ac3ffde5c5189101face37b9116ef47f",
+        "title": "Glasgow councillors say violence against women is a man\u2019s problem, not a woman's",
+        "link": "https://www.glasgowtimes.co.uk/news/26543801.glasgow-councillors-say-violence-women-male-issue/",
+        "description": "Violence against women and girls is not a women\u2019s issue but is a man\u2019s issue councillors said.",
+        "published": "Sat, 12 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21370214/?type=app&htype=0"
+      },
+      {
+        "id": "b3c61426ee186ebfca37d4bd51d08e43",
+        "title": "Glasgow councillor recalls bouncer paying for taxi to keep her safe",
+        "link": "https://www.glasgowtimes.co.uk/news/26543943.glasgow-councillor-recalls-bouncer-helping-get-home/",
+        "description": "Glasgow councillor Lana Reid McConnell recalls a bouncer helping her as she calls for action on violence against women and girls.",
+        "published": "Sat, 12 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20247831/?type=app&htype=0"
+      },
+      {
+        "id": "e8a51430949e6513d1ed6092a9b3db46",
+        "title": "'We still miss him every day' - Daughter's tribute before Glasgow Memory Walk",
+        "link": "https://www.glasgowtimes.co.uk/news/26531728.glasgow-memory-walk-return-support-dementia-care/",
+        "description": "A fundraising walk in Glasgow is set to return in support of dementia care.",
+        "published": "Sat, 12 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21425034/?type=app&htype=0"
+      },
+      {
+        "id": "f7352e7c300e721bb83ea86f600c84a2",
+        "title": "Forbes Masson on Scottish theatre, The High Life revival and his Broadway debut",
+        "link": "https://www.glasgowtimes.co.uk/news/26543056.forbes-masson-magic-theatre-glasgows-tron-broadway/",
+        "description": "Magic, says Scottish actor and writer Forbes Masson, is real.",
+        "published": "Sat, 12 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21427740/?type=app&htype=0"
+      },
+      {
+        "id": "689707f11db26c868e9ffbb05f3baab3",
+        "title": "Noisy Bearsden neighbour mounted and bit man who asked him to be quiet",
+        "link": "https://www.glasgowtimes.co.uk/news/26540915.noisy-bearsden-neighbour-mounted-bit-man-asked-quiet/",
+        "description": "A man who was making too much noise bit the neighbour who turned up to tell him to be quiet.",
+        "published": "Sat, 12 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13940457/?type=app&htype=0"
+      },
+      {
+        "id": "dea145e99136976c6b6ff637c7212544",
+        "title": "Residents call for public access to historic Glasgow church",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26535267.glasgow-residents-call-access-ramshorn-church/",
+        "description": "City centre residents have called it \"outrageous\" that a historic Glasgow church is not open to the public.",
+        "published": "Sat, 12 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21439333/?type=app&htype=0"
+      },
+      {
+        "id": "0f5d00becbcb2a4eed93ad777208d0fb",
+        "title": "Glasgow museum gifted major collection by internationally renowned artist",
+        "link": "https://www.glasgowtimes.co.uk/news/26542583.peter-chang-art-collection-gifted-glasgows-kelvingrove/",
+        "description": "A major collection of work by acclaimed artist Peter Chang has been gifted to Glasgow.",
+        "published": "Sat, 12 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21440687/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-issue-warning-ahead-glasgow-34606892",
         "title": "Police issue warning ahead of Glasgow Green rival protests as 'strong response' promised",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-issue-warning-ahead-glasgow-34606892",
@@ -2165,14 +2253,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21441590/?type=app&htype=0"
       },
       {
-        "id": "f9b3da081307a3ab1054b2f30ac68a9f",
-        "title": "Glasgow museums become custodians of artist Peter Chang\u2019s full archive and collection",
-        "link": "https://www.heraldscotland.com/news/26542781.peter-chang-archive-collection-gifted-glasgow-museums/",
-        "description": "Glasgow Life Museums has become custodian of Peter Chang\u2019s full archive and collection, preserving the work of the internationally renowned artist in the city where he worked.",
-        "published": "Fri, 11 Sep 2026 14:28:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21441135/?type=app&htype=0"
-      },
-      {
         "id": "9021769",
         "title": "Glasgow's Scotties in the City sculptures sell for \u00a3435,500 at Maggie's auction \u2013 with one going for \u00a326,000",
         "link": "https://www.glasgowworld.com/news/glasgows-scotties-in-the-city-sculptures-sell-for-ps435500-at-maggies-auction-with-one-going-for-ps26000-9021769",
@@ -2315,14 +2395,6 @@
         "description": "An opportunity for \"epic adventure\" has arisen this month as a Scottish castle seeks new partners to take the reins of its restaurant with rooms.",
         "published": "Fri, 11 Sep 2026 11:23:31 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20948772/?type=app&htype=0"
-      },
-      {
-        "id": "71f9e0ebbd9e6aa6c5083424138e3761",
-        "title": "Chinook helicopters return to Glasgow skies as emergency services join RAF exercise",
-        "link": "https://www.glasgowtimes.co.uk/news/26541534.police-fire-crews-join-raf-helicopter-exercise/",
-        "description": "Emergency services and military personnel will join forces in a major joint training exercise organised by the RAF today.",
-        "published": "Fri, 11 Sep 2026 10:53:20 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21439118/?type=app&htype=0"
       },
       {
         "id": "e343a06dc1c3a2bdbae6c4a7f281f1fc",
@@ -2667,46 +2739,6 @@
         "description": "Construction has started on 23 affordable homes at Dargavel Village in Bishopton, backed by \u00a32.7m in Scottish Government funding.",
         "published": "Thu, 10 Sep 2026 13:56:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21435351/?type=app&htype=0"
-      },
-      {
-        "id": "25990a12affded575c91630747b9f760",
-        "title": "Dozens saved in rescue mission ahead of \u00a38.6m Airdrie project",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26539111.scottish-water-rescue-58-fish-airdrie-part-8-6m-upgrade/",
-        "description": "Airdrie fish rescue saves 58 fish during Scottish Water\u2019s \u00a38.6m sewer upgrade, with the Clyde River Foundation using electrofishing to protect local wildlife.",
-        "published": "Thu, 10 Sep 2026 13:45:28 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21435353/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cj067r0g0g1o#0",
-        "title": "Plans for \u00a316m renewable energy research centre in Ayrshire scrapped",
-        "link": "https://www.bbc.co.uk/news/articles/cj067r0g0g1o?at_medium=RSS&at_campaign=rss",
-        "description": "The proposed centre, near Cumnock, was intended to become a regional hub for renewable energy innovation.",
-        "published": "Thu, 10 Sep 2026 12:27:40 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e38d/live/10c6f1d0-1969-11f1-8943-0f02ddbbd48f.jpg"
-      },
-      {
-        "id": "584cc51d5aa1b1a9c31c5678b6a3e1e5",
-        "title": "Councillor's standards hearing to proceed despite questions raised by Higgins ruling",
-        "link": "https://www.heraldscotland.com/news/26538871.edinburgh-councillors-hearing-proceed-despite-fiona-higgins-ruling/",
-        "description": "A judicial review found the Standards Commission for Scotland acted unlawfully in preventing Glasgow councillor Fiona Higgins from admitting documents.",
-        "published": "Thu, 10 Sep 2026 12:59:36 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20771301/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/family-park-near-glasgow-host-34597062",
-        "title": "Family park near Glasgow to host huge dinosaur celebration this weekend",
-        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/family-park-near-glasgow-host-34597062",
-        "description": "This could be a great way to entertain the kids this weekend \u2013 with a fun adventure that won't break the bank.",
-        "published": "Thu, 10 Sep 2026 11:45:10 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34597086.ece/ALTERNATES/s98/2_Screenshot-2023-10-13-at-33254-PM.png"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-directors-caught-importing-more-34596932",
-        "title": "Glasgow directors caught importing more than 350k vapes disguised as medical equipment",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-directors-caught-importing-more-34596932",
-        "description": "Investigators have been unable to say where more than \u00a31.6 million of the company's assets, including land, machinery and vehicles went.",
-        "published": "Thu, 10 Sep 2026 11:45:00 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34597094.ece/ALTERNATES/s98/0_GettyImages-2247636155.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
