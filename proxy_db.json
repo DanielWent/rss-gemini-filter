@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/sport/athletics/articles/ckgwk3dz1z2o#9",
+        "title": "Hodgkinson second to Werro after hamstring tear",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/ckgwk3dz1z2o?at_medium=RSS&at_campaign=rss",
+        "description": "Keely Hodgkinson is again denied a major prize by rival Audrey Werro - but reveals she had to overcome a torn hamstring to make the start line at the World Athletics Ultimate Championship.",
+        "published": "Sat, 12 Sep 2026 20:04:55 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffcd/live/fc6c5290-aee4-11f1-9031-9328289c9edb.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cq635037g18o#2",
         "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
         "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Great Britain's Matthew Hudson-Smith makes history as the joint-most decorated man of all-time at European Championships by claiming 400m gold in Birmingham.",
         "published": "Wed, 12 Aug 2026 20:04:08 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo#5",
-        "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
-        "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
-        "description": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies.",
-        "published": "Wed, 12 Aug 2026 11:28:05 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde6/live/0ce8a9c0-963a-11f1-b809-7db91972344e.png"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
