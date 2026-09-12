@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o#3",
+        "title": "Record heatwaves in France set to make champagne stronger",
+        "link": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
+        "description": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
+        "published": "Sat, 12 Sep 2026 13:00:32 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6fd/live/129bea30-aea9-11f1-8972-d5c52a82c3b8.jpg"
+      },
+      {
         "id": "1789196114663816",
         "title": "Get set, ready, go! Great North Run weekend begins",
         "link": "https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Athletes promised thousands of pounds in payments for participating in Grand Slam Track events are still waiting for their money.",
         "published": "Tue, 11 Aug 2026 18:59:12 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a650/live/c1361170-95a3-11f1-8315-25a75e37f071.jpg"
-      },
-      {
-        "id": "1786458318676402",
-        "title": "Summer 2026 on course to be UK's hottest on record, says Met Office",
-        "link": "https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o?at_medium=RSS&at_campaign=rss",
-        "description": "Only average conditions are needed for the remainder of August to break the record, which was set just last year.",
-        "published": "Tue, 11 Aug 2026 16:23:52 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40a4/live/f357c920-958d-11f1-b8bb-1b597db1ad66.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -1949,12 +1949,60 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/hundreds-descend-pink-ladies-protest-34608347",
+        "title": "Hundreds descend for 'Pink Ladies protest' at Glasgow Green amid counter-demonstrations",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/hundreds-descend-pink-ladies-protest-34608347",
+        "description": "Hundreds of people \u2013 including masked men \u2013 have been pictured at a protest organised by the Pink Ladies group, with counter-protesters from Stand Up to Racism Scotland and Women Against the Far Right Scotland also in attendance.",
+        "published": "Sat, 12 Sep 2026 14:14:52 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34608343.ece/ALTERNATES/s98/0_JS417700978.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/vile-anti-islam-graffiti-sprayed-34605493",
+        "title": "Vile anti-Islam graffiti sprayed at Glasgow station as anti-hate group appeal to locals for help",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/vile-anti-islam-graffiti-sprayed-34605493",
+        "description": "&quot;It is not just vandalism. It tells a whole community that they are not welcome where they live, and it stays there until someone reports it.&quot;",
+        "published": "Sat, 12 Sep 2026 14:02:55 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34605922.ece/ALTERNATES/s98/2_grafitti.png"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c7907q4253po#0",
+        "title": "Tributes to former Labour MSP Cathie Craigie who died after short illness",
+        "link": "https://www.bbc.co.uk/news/articles/c7907q4253po?at_medium=RSS&at_campaign=rss",
+        "description": "The Scottish Labour MSP represented Cumbernauld and Kilsyth between 1999 and 2011.",
+        "published": "Sat, 12 Sep 2026 13:56:11 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/661b/live/67804520-aeb1-11f1-bc1f-3f186ca4140c.png"
+      },
+      {
+        "id": "4bb0096bccb116e5f91fa72877d7b9de",
+        "title": "Council spent \u00a377k on project only to scrap it within a year",
+        "link": "https://www.glasgowtimes.co.uk/news/26545090.glasgow-city-council-spent-project-scrapped-within-year/",
+        "description": "More than \u00a377,000 was spent on a Glasgow City Council project which was discontinued after less than a year of operation, according to statistics.",
+        "published": "Sat, 12 Sep 2026 14:39:36 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/9199236/?type=app&htype=0"
+      },
+      {
+        "id": "da1b271e592dc66cdf3661c5590f3c57",
+        "title": "Hundreds gather in Glasgow for anti-immigration rally and counter protest",
+        "link": "https://www.heraldscotland.com/news/26545085.hundreds-gather-glasgow-green-protests/",
+        "description": "Hundreds have gathered in Glasgow for an anti-immigration rally and associated counter protest.",
+        "published": "Sat, 12 Sep 2026 14:35:26 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21445496/?type=app&htype=0"
+      },
+      {
         "id": "9a2f1e8f4c1be33aeb450ea5b1adf50b",
         "title": "Heartbreak as Glasgow play centre for children with additional needs forced to close",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26545022.glasgow-play-centre-imagine-station-close-due-health/",
         "description": "A Glasgow play centre created for children with additional support needs is set to close as its founder battles worsening health problems.",
         "published": "Sat, 12 Sep 2026 14:06:04 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21445341/?type=app&htype=0"
+      },
+      {
+        "id": "35af616cf1fc500c595ad1e560d07c77",
+        "title": "Glasgow DIY music festival Freakender returns for 10th birthday edition",
+        "link": "https://www.heraldscotland.com/news/26544965.glasgow-diy-music-festival-freakender-returns-10th-birthday/",
+        "description": "Glasgow DIY music festival Freakender is returning for its 10th edition. The festival will take place over three days at popular city centre haunt The Old Hairdressers.",
+        "published": "Sat, 12 Sep 2026 13:14:33 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21445296/?type=app&htype=0"
       },
       {
         "id": "aaef2fb1e61c55d613a8bc92c52926c9",
@@ -2699,54 +2747,6 @@
         "description": "Pay rates will be protected until April 2028 but the new system still means that while 63% of the workers will gain financially, 11% will see their wages cut.",
         "published": "Fri, 11 Sep 2026 07:23:18 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/article34492752.ece/ALTERNATES/s98/0_Trade-Unions-gather-outside-City-Chambers-to-protest-against-the-new-pay-grading-system.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/two-glasgow-nurseries-named-among-34599610",
-        "title": "Two Glasgow nurseries named among best in Scotland - see full list",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/two-glasgow-nurseries-named-among-34599610",
-        "description": "More than 1,000 rolling official reports from the Care Inspectorate for children under the age of five were analysed to produce the rankings.",
-        "published": "Fri, 11 Sep 2026 07:03:58 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34599856.ece/ALTERNATES/s98/3_Nursery.jpg"
-      },
-      {
-        "id": "07b7f2358d34902b126a553b2d31c3b9",
-        "title": "Major Glasgow road to close for four days as huge regeneration project gets underway",
-        "link": "https://www.glasgowtimes.co.uk/news/26540758.st-georges-road-close-glasgow-regeneration-project/",
-        "description": "St George\u2019s Road will shut as part of a two-phase resurfacing scheme linked to the wider Connecting Woodside regeneration.",
-        "published": "Fri, 11 Sep 2026 07:33:39 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20023077/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/parents-baby-died-due-nhs-34598077",
-        "title": "Parents of baby that died due to NHS failings 'feel voiceless' in maternity services review",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/parents-baby-died-due-nhs-34598077",
-        "description": "&quot;To have real change, you have to have the families who have experienced this at the heart of it.&quot;",
-        "published": "Fri, 11 Sep 2026 06:26:36 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34560887.ece/ALTERNATES/s98/1_Mason.jpg"
-      },
-      {
-        "id": "6e99596cb352242764d466348b958fa2",
-        "title": "\u2018Slow death\u2019 fears for island ferry link to key Scots port facing three-year closure",
-        "link": "https://www.heraldscotland.com/business_hq/26540405.arran-ferry-ardrossan-port-closure-three-year-troon-move-revealed/",
-        "description": "Arran ferry service to move from Ardrossan to Troon for three years while a \u00a3166m harbour redevelopment takes place.",
-        "published": "Fri, 11 Sep 2026 06:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20382401/?type=app&htype=0"
-      },
-      {
-        "id": "5d817b7857f97867ab46df598a8afca3",
-        "title": "'Disgraceful' snub leaves Scotland's poorest tenants facing soaring rents",
-        "link": "https://www.heraldscotland.com/news/26539852.scotland-rent-controls-exclude-social-housing-costs-soar/",
-        "description": "Scottish social tenants are excluded from new rent controls as social housing rents rise 12.4% and tenants struggle with the cost of living crisis.",
-        "published": "Fri, 11 Sep 2026 06:27:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/17252653/?type=app&htype=0"
-      },
-      {
-        "id": "630dfb03975ff77a48c83e4a2255f273",
-        "title": "Primary school achieves rare 'excellent' ratings in outstanding HMIE report",
-        "link": "https://www.glasgowtimes.co.uk/news/26538512.st-stephens-primary-coatbridge-rated-excellent-hmie-inspectors/",
-        "description": "St Stephen's Primary in Coatbridge has received three excellent HMIE ratings, with inspectors praising its inclusive ethos, leadership and commitment to children's rights.",
-        "published": "Fri, 11 Sep 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21434613/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
