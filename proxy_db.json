@@ -1941,6 +1941,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9021530",
+        "title": "Rangers v Celtic injury news: 10 out + 1 doubt, McInnes and O'Neill missing key players for Ibrox cup showdown",
+        "link": "https://www.glasgowworld.com/sport/football/rangers-celtic-injury-news-out-doubts-mcinnes-oneill-missing-key-players-ibrox-cup-showdown-9021530",
+        "description": "<p>The latest team news ahead of Sunday\u2019s Premier Sports Cup quarter-final between Rangers v Celtic at Ibrox</p>",
+        "published": "Sat, 12 Sep 2026 08:00:47 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/11/12/33/GettyImages-2275465868.jpeg?width=1200&auto=webp&trim=87%2C0%2C89%2C0"
+      },
+      {
         "id": "7bea8cf88b0aa602280f9a6de55a99a4",
         "title": "Man arrested after wilful fire at vacant Glasgow tenement linked to misinformation",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26544503.man-arrested-wilful-fire-possilpark-tenement/",
@@ -2731,14 +2739,6 @@
         "description": "Scottish Water adds traffic staff to ease Cardross Road, Dumbarton, delays as \u00a34m sewer works and five-way lights continue until December 7 in West Dunbartonshire.",
         "published": "Thu, 10 Sep 2026 16:23:29 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21436666/?type=app&htype=0"
-      },
-      {
-        "id": "52f690d4388f6e6f1b1c91dbe2f9b96f",
-        "title": "Edinburgh's northern tram line put on ice as councillors vote to back southern spur",
-        "link": "https://www.heraldscotland.com/news/26539774.edinburghs-northern-tram-extension-sidelined-southern-spur/",
-        "description": "Councilors from the SNP, Labour, and Greens joined forces to approve a report recommending that the city\u2019s proposed southern tram extension be prioritised.",
-        "published": "Thu, 10 Sep 2026 15:46:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20182985/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
