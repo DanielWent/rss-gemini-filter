@@ -1941,12 +1941,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "92e22966c1ee488f77a49fbcf5bc4889",
+        "title": "Major police raids lead to four arrests over series of incidents in Glasgow area",
+        "link": "https://www.glasgowtimes.co.uk/news/26544616.four-arrested-police-operation-motherwell-bellshill/",
+        "description": "Four men arrested after police operation in Bellshill and Motherwell linked to Glasgow wilful fire-raising, vehicle incidents and four recovered stolen cars.",
+        "published": "Sat, 12 Sep 2026 09:26:36 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21444378/?type=app&htype=0"
+      },
+      {
         "id": "9021530",
         "title": "Rangers v Celtic injury news: 10 out + 1 doubt, McInnes and O'Neill missing key players for Ibrox cup showdown",
         "link": "https://www.glasgowworld.com/sport/football/rangers-celtic-injury-news-out-doubts-mcinnes-oneill-missing-key-players-ibrox-cup-showdown-9021530",
         "description": "<p>The latest team news ahead of Sunday\u2019s Premier Sports Cup quarter-final between Rangers v Celtic at Ibrox</p>",
         "published": "Sat, 12 Sep 2026 08:00:47 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/11/12/33/GettyImages-2275465868.jpeg?width=1200&auto=webp&trim=87%2C0%2C89%2C0"
+      },
+      {
+        "id": "4d5f6a21bb48b83a62fdda3398cda98d",
+        "title": "Police vow \u2018strong response\u2019 to any violence ahead of rival protests in Glasgow",
+        "link": "https://www.heraldscotland.com/news/26544510.police-vow-strong-response-violence-ahead-glasgow-protests/",
+        "description": "Police have said they will have a \u201cstrong response\u201d to any violence or disorder in Glasgow, ahead of rival protests due to take place in the city on Saturday.",
+        "published": "Sat, 12 Sep 2026 08:27:22 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21444172/?type=app&htype=0"
+      },
+      {
+        "id": "1e94b58bd1bf50225805bacd1f23ca47",
+        "title": "Tributes to former MSP Cathie Craigie following her death",
+        "link": "https://www.heraldscotland.com/news/26544507.tributes-former-msp-cathie-craigie-following-death/",
+        "description": "Tributes have been paid to former MSP Cathie Cragie following her death on Thursday.",
+        "published": "Sat, 12 Sep 2026 08:24:36 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21444326/?type=app&htype=0"
       },
       {
         "id": "7bea8cf88b0aa602280f9a6de55a99a4",
@@ -2715,30 +2739,6 @@
         "description": "Fatal Accident Inquiry to examine Christopher Masson\u2019s death in custody at HMP Barlinnie, Scotland, with Glasgow Sheriff Court hearing set for October 21, 2026.",
         "published": "Thu, 10 Sep 2026 17:07:49 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20084349/?type=app&htype=0"
-      },
-      {
-        "id": "4e008a6d16b4cff26e1c8b8b2af1627f",
-        "title": "CCTV images released after footie fans invade Celtic Park pitch after Hearts match",
-        "link": "https://www.glasgowtimes.co.uk/sport/26540189.cctv-released-fans-invade-celtic-park-pitch-hearts-match/",
-        "description": "Police Scotland releases CCTV image of a man sought over an assault during Celtic v Hearts at Celtic Park amid a pitch invasion on May 16, 2026.",
-        "published": "Thu, 10 Sep 2026 16:42:37 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21436992/?type=app&htype=0"
-      },
-      {
-        "id": "71d5a06bdd596ea46e7f58e693dc360c",
-        "title": "Police appeal after woman raped while walking her dog in Blantyre",
-        "link": "https://www.heraldscotland.com/news/26540085.appeal-woman-raped-walking-dog-blantyre/",
-        "description": "Police are appealing for information after a woman was raped in Blantyre.",
-        "published": "Thu, 10 Sep 2026 16:23:51 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19546911/?type=app&htype=0"
-      },
-      {
-        "id": "810ad3bdc94dc3b7a468bb0e75119791",
-        "title": "Update issued on roadworks amid major delays",
-        "link": "https://www.glasgowtimes.co.uk/news/26540082.update-issued-dalreoch-roadworks-amid-major-delays/",
-        "description": "Scottish Water adds traffic staff to ease Cardross Road, Dumbarton, delays as \u00a34m sewer works and five-way lights continue until December 7 in West Dunbartonshire.",
-        "published": "Thu, 10 Sep 2026 16:23:29 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21436666/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
