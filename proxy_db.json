@@ -1949,6 +1949,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9028284",
+        "title": "George Square revamp: city centre businesses call for rates relief as reopening date nears",
+        "link": "https://www.glasgowworld.com/news/george-square-businesses-call-for-rates-relief-as-reopening-date-nears-9028284",
+        "description": "<p>The reopening of George Square is nearing, business owners have had their say on what it means to them</p>",
+        "published": "Sat, 12 Sep 2026 11:00:06 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/04/14/12/25/George-Square-final-design-2025-small.png?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
         "id": "7d96530f694a096b527827e413b62a2e",
         "title": "Historic school building devastated by major blaze as firefighters remain on scene",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26544852.fire-hits-former-fernhill-school-building-rutherglen/",
@@ -1963,6 +1971,14 @@
         "description": "Food Awards Scotland have just named their 2026 winners and one wee spot \u2013 well worth the short journey from Glasgow \u2013 has been named the most outstanding restaurant in the country.",
         "published": "Sat, 12 Sep 2026 10:35:07 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34605983.ece/ALTERNATES/s98/0_download-54.png"
+      },
+      {
+        "id": "ed67a02b6ce6d598d5b6e1c97734ad3b",
+        "title": "Council backs friendship link with US city that hosted Tartan Army at World Cup",
+        "link": "https://www.heraldscotland.com/news/26544828.council-backs-friendship-link-us-city-hosted-tartan-army/",
+        "description": "Ayr is a step closer to establishing a formal friendship agreement with the US city of Providence after Scotland fans forged links with the Rhode Island community during this summer\u2019s World Cup.",
+        "published": "Sat, 12 Sep 2026 11:31:14 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21054262/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/arts-culture-news/story-behind-glasgows-duke-wellington-34604963",
@@ -2003,14 +2019,6 @@
         "description": "Four more arrests have been made in a police operation to tackle a gang feud.",
         "published": "Sat, 12 Sep 2026 11:01:48 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/19546911/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/clyjl1lg3dgo#0",
-        "title": "Four arrested during gangland violence 'day of action'",
-        "link": "https://www.bbc.co.uk/news/articles/clyjl1lg3dgo?at_medium=RSS&at_campaign=rss",
-        "description": "Police executed warrants at addresses in Bellshill and Motherwell on Friday and also recovered four stolen vehicles.",
-        "published": "Sat, 12 Sep 2026 09:50:41 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34d1/live/f62210a0-ae8f-11f1-b92e-1f49080ec3cb.jpg"
       },
       {
         "id": "1cf874ca3ceffaeb6bc0aece75fd7625",
@@ -2739,14 +2747,6 @@
         "description": "The UK and Scottish governments have joined together to fund science collaboration with the United States.",
         "published": "Fri, 11 Sep 2026 00:01:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21437605/?type=app&htype=0"
-      },
-      {
-        "id": "4d141079df7db261a487857be45276e7",
-        "title": "Protesters storm Glasgow council offices in fight to save homeless shelter",
-        "link": "https://www.heraldscotland.com/news/26540636.protesters-occupy-glasgow-council-offices-homeless-shelter-row/",
-        "description": "Protesters demanding a Glasgow homeless charity\u2019s night shelter be kept open have staged a demonstration inside council offices this morning.",
-        "published": "Thu, 10 Sep 2026 20:33:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21437580/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
