@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cvgy4w3mnpvo#3",
+        "title": "Five night sky events to look out for this autumn",
+        "link": "https://www.bbc.co.uk/news/articles/cvgy4w3mnpvo?at_medium=RSS&at_campaign=rss",
+        "description": "From meteor showers to a November supermoon, there are a number of impressive sights to behold in the autumn night sky.",
+        "published": "Sat, 12 Sep 2026 23:53:07 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aff8/live/ce59c3a0-ad0f-11f1-a035-c91dffce51bf.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/sport/athletics/articles/ckgwk3dz1z2o#9",
         "title": "Hodgkinson second to Werro after hamstring tear",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/ckgwk3dz1z2o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.",
         "published": "Wed, 12 Aug 2026 21:53:45 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/548e/live/e3a91030-9694-11f1-870d-5d08c49babb2.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go#10",
-        "title": "GB's Hudson-Smith wins historic 400m gold on home track",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/c93560k7l6go?at_medium=RSS&at_campaign=rss",
-        "description": "Great Britain's Matthew Hudson-Smith makes history as the joint-most decorated man of all-time at European Championships by claiming 400m gold in Birmingham.",
-        "published": "Wed, 12 Aug 2026 20:04:08 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
