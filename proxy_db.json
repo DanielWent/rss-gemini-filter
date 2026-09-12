@@ -1949,6 +1949,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "aaef2fb1e61c55d613a8bc92c52926c9",
+        "title": "Scottish teacher completes 18,000km cycle from Clydebank to Australia",
+        "link": "https://www.heraldscotland.com/news/26544913.man-travels-canberra-avenue-clydebank-canberra-australia/",
+        "description": "A former teacher from Clydebank who quit his job to pursue the \"mad decision\" to cycle 18,000kmn to Australia has arrived at his destination after nearly a year",
+        "published": "Sat, 12 Sep 2026 12:33:16 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21430305/?type=app&htype=0"
+      },
+      {
+        "id": "9029018",
+        "title": "Pundit accuses Derek McInnes of 'playing to the galleries' as Old Firm warning to Rangers boss issued",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/pundit-accuses-derek-mcinnes-of-playing-to-the-galleries-as-old-firm-warning-to-rangers-boss-issued-9029018",
+        "description": "<p>Rangers boss accused of performative \u2018nonsense\u2019 in win over St Mirren</p>",
+        "published": "Sat, 12 Sep 2026 11:31:52 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/12/11/52/GettyImages-2294506703.jpeg?width=1200&auto=webp&trim=7%2C0%2C7%2C0"
+      },
+      {
+        "id": "d84d115bd59a3e1a63b08eaf7a88aa3f",
+        "title": "LIVE updates as opposing protestors go head-to-head in Glasgow Green",
+        "link": "https://www.glasgowtimes.co.uk/news/26544896.live-updates-opposing-protestors-take-glasgow-green/",
+        "description": "Rival protestors are set to take to the People's Palace in Glasgow Green this afternoon in response to an increase in sex attacks against women.",
+        "published": "Sat, 12 Sep 2026 12:14:26 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21445119/?type=app&htype=0"
+      },
+      {
         "id": "9028284",
         "title": "George Square revamp: city centre businesses call for rates relief as reopening date nears",
         "link": "https://www.glasgowworld.com/news/george-square-businesses-call-for-rates-relief-as-reopening-date-nears-9028284",
@@ -2723,30 +2747,6 @@
         "description": "Parents call delayed \u00a3150,000 funding decision for Glasgow\u2019s Broomfield Playpark a disgrace, as councillors seek repair costings after September 9 meeting.",
         "published": "Fri, 11 Sep 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21308726/?type=app&htype=0"
-      },
-      {
-        "id": "185eaa5a973a5a448537572fd7421125",
-        "title": "Big shift which could see money at last flow for huge Scottish Event Campus expansion",
-        "link": "https://www.heraldscotland.com/opinion/26539128.glasgow-ovo-hydro-campus-plan-big-shift-see-money-flow/",
-        "description": "This big shift which could mean money at last flows for major expansion of Glasgow's Scottish Event Campus, which has come so far but has so much further to go",
-        "published": "Fri, 11 Sep 2026 04:40:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21435346/?type=app&htype=0"
-      },
-      {
-        "id": "dcac483ca8b195552571f7d1b81ccc8f",
-        "title": "SNP claims independence could make every Scot \u00a33,000 a year better off",
-        "link": "https://www.heraldscotland.com/politics/westminster/26540589.snp-claims-independence-make-scots-3-000-year-richer/",
-        "description": "An independent Scotland would make Scots \u00a33,000 a year richer, the SNP has claimed.",
-        "published": "Fri, 11 Sep 2026 00:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/9714288/?type=app&htype=0"
-      },
-      {
-        "id": "23ad03ae51040f123a343fba71396fdb",
-        "title": "Scotland's World Cup ties with Massachusetts lead to new investment push",
-        "link": "https://www.heraldscotland.com/news/26540643.world-cup-connection-helps-spark-new-scotland-us-partnership/",
-        "description": "The UK and Scottish governments have joined together to fund science collaboration with the United States.",
-        "published": "Fri, 11 Sep 2026 00:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21437605/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
