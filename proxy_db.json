@@ -1949,6 +1949,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9a2f1e8f4c1be33aeb450ea5b1adf50b",
+        "title": "Heartbreak as Glasgow play centre for children with additional needs forced to close",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26545022.glasgow-play-centre-imagine-station-close-due-health/",
+        "description": "A Glasgow play centre created for children with additional support needs is set to close as its founder battles worsening health problems.",
+        "published": "Sat, 12 Sep 2026 14:06:04 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21445341/?type=app&htype=0"
+      },
+      {
         "id": "aaef2fb1e61c55d613a8bc92c52926c9",
         "title": "Scottish teacher completes 18,000km cycle from Clydebank to Australia",
         "link": "https://www.heraldscotland.com/news/26544913.man-travels-canberra-avenue-clydebank-canberra-australia/",
@@ -2739,14 +2747,6 @@
         "description": "St Stephen's Primary in Coatbridge has received three excellent HMIE ratings, with inspectors praising its inclusive ethos, leadership and commitment to children's rights.",
         "published": "Fri, 11 Sep 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21434613/?type=app&htype=0"
-      },
-      {
-        "id": "aad969af7862154272ef9d180df4750c",
-        "title": "Decision delayed on funding for North Glasgow playpark repairs",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26536308.decision-delayed-funding-north-glasgow-playpark/",
-        "description": "Parents call delayed \u00a3150,000 funding decision for Glasgow\u2019s Broomfield Playpark a disgrace, as councillors seek repair costings after September 9 meeting.",
-        "published": "Fri, 11 Sep 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21308726/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
