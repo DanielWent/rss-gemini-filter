@@ -1949,6 +1949,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "21a2b409612df57e2b12c89b1a089eae",
+        "title": "Glasgow actress lands iconic My Fair Lady role opposite Alan Cumming",
+        "link": "https://www.glasgowtimes.co.uk/news/26531060.glasgow-actress-lands-iconic-fair-lady-role-opposite-alan-cumming/",
+        "description": "A rising star will take on one of musical theatre\u2019s most beloved roles.",
+        "published": "Sun, 13 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21424121/?type=app&htype=0"
+      },
+      {
+        "id": "4290614297df081dda164379cdc4a570",
+        "title": "Govanhill Baths celebrates 25 years of community action with major impact report",
+        "link": "https://www.glasgowtimes.co.uk/news/26538414.22-000-take-part-govanhill-baths-projects/",
+        "description": "More than 22,000 people took part in Govanhill Baths Community Trust projects during the past year, new figures show.",
+        "published": "Sun, 13 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21434459/?type=app&htype=0"
+      },
+      {
+        "id": "0a87bd85b3ebee84b27a3c310f0c37a7",
+        "title": "The surprising link between Sauchiehall Street and the Sydney Harbour Bridge",
+        "link": "https://www.glasgowtimes.co.uk/news/26534519.surprising-link-glasgow-street-paris-museum-sydney-bridge/",
+        "description": "Discover Sir John James Burnet\u2019s Glasgow architecture, from Sauchiehall Street to the Athenaeum, and his links to the Louvre and Sydney Harbour Bridge.",
+        "published": "Sun, 13 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21429247/?type=app&htype=0"
+      },
+      {
+        "id": "0017c0367756e767026e3a8fcb395bd9",
+        "title": "Major employers join forces to drive jobs and investment on the River Clyde",
+        "link": "https://www.glasgowtimes.co.uk/news/26541636.new-clyde-maritime-alliance-launched-boost-jobs/",
+        "description": "A new maritime alliance has launched with the aim of transforming the River Clyde.",
+        "published": "Sun, 13 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21439140/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=528919",
         "title": "Glasgow Green protests \u2018pass without violence or disorder\u2019, police say",
         "link": "https://news.stv.tv/west-central/glasgow-green-protests-pass-without-violence-or-disorder-police-say",
@@ -2715,38 +2747,6 @@
         "description": "Gregg Neagle, 39, allegedly roamed Glasgow's Queen Elizabeth University Hospital on August 5 2024.",
         "published": "Fri, 11 Sep 2026 09:08:13 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2023/11/18f93c16ce05485874349b77f6aca366-1700486322-1280x720.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/oasis-tease-2027-tour-announcement-34601583",
-        "title": "Oasis tease 2027 tour announcement in epic fashion - with a huge light display over Manchester",
-        "link": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/oasis-tease-2027-tour-announcement-34601583",
-        "description": "The rumours could indeed be true, Oasis have just lit up the Manchester skies as they officially announce their 2027 return with Celtic Park a possible destination.",
-        "published": "Fri, 11 Sep 2026 08:34:21 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34601593.ece/ALTERNATES/s98/0_Screenshot-2026-09-11-at-90853AM.png"
-      },
-      {
-        "id": "e794a1424e313fd548bc3701ac950c1d",
-        "title": "New Scottish rom-com filmed across Glasgow heading to UK cinemas this September",
-        "link": "https://www.glasgowtimes.co.uk/news/26541057.glasgow-shot-rom-com-premature-coming-uk-cinemas/",
-        "description": "A new Scottish rom-com is coming to audiences across the UK.",
-        "published": "Fri, 11 Sep 2026 09:29:57 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21438186/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/pink-ladies-slammed-over-support-34601602",
-        "title": "Pink Ladies slammed over support for Andrew Tate ahead of Glasgow protest",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/pink-ladies-slammed-over-support-34601602",
-        "description": "They have been condemned after members voiced support for &quot;woman-hater&quot; Tate \u2013 contradicting their stated aim of protecting women.",
-        "published": "Fri, 11 Sep 2026 08:20:40 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34601597.ece/ALTERNATES/s98/0_proxy-1.jpg"
-      },
-      {
-        "id": "f7cd6db4d28f000b79b4d1910046a266",
-        "title": "'It stinks': BBC refuses to reveal complaints over Commonwealth Games coverage",
-        "link": "https://www.glasgowtimes.co.uk/news/26540972.bbc-refuses-reveal-complaints-commonwealth-games/",
-        "description": "The BBC has refused to reveal how many complaints it received over not showing live coverage of the Glasgow 2026 Commonwealth Games this summer.",
-        "published": "Fri, 11 Sep 2026 09:15:35 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21434888/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
