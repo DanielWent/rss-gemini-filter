@@ -1949,6 +1949,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/viral-tiktok-cookies-coming-glasgow-34594496",
+        "title": "Viral TikTok cookies coming to Glasgow for first ever pop up",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/viral-tiktok-cookies-coming-glasgow-34594496",
+        "description": "Forbes 30 Under 30 chef, Lungi Mhlanga is bringing her cookies to Glasgow - and they have been viral on TikTok",
+        "published": "Sun, 13 Sep 2026 15:42:49 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34594553.ece/ALTERNATES/s98/1_Lungis-Always-Baking.jpg"
+      },
+      {
         "id": "d76c8057b45b3804455337462b8e011a",
         "title": "Huge queues down the street for newly-opened restaurant",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26546259.queues-street-newly-opened-glasgow-restaurant/",
@@ -2739,14 +2747,6 @@
         "description": "Damaged ornate panels from Glasgow's St Vincent Place are expected to go on display once they have been repaired, after a new contractor was brought in.",
         "published": "Fri, 11 Sep 2026 15:32:49 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21397404/?type=app&htype=0"
-      },
-      {
-        "id": "f8068cf4246f94c10d0ec3d7de57b899",
-        "title": "Burnham \u2018knows he would lose\u2019 a vote on Scottish independence, Gilruth says",
-        "link": "https://www.heraldscotland.com/news/26543131.gilruth-burnham-knows-lose-vote-scottish-independence/",
-        "description": "Andy Burnham is running scared of a second Scottish independence referendum, because he \u201cknows that he would lose\u201d, Jenny Gilruth said.",
-        "published": "Fri, 11 Sep 2026 15:02:29 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21401350/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
