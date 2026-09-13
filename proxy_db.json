@@ -1949,6 +1949,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9037317",
+        "title": "Celtic player ratings vs Rangers as Hoops flop in Premier Sports Cup on day of calamitous derby performances",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-player-ratings-rangers-hoops-flop-premier-sports-cup-calamitous-performances-9037317",
+        "description": "<p>Here\u2019s how we rated the Celtic players in action against Rangers.</p>",
+        "published": "Sun, 13 Sep 2026 12:53:06 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/13/12/46/GettyImages-2295023286.jpg?width=1200&auto=webp&trim=16%2C0%2C16%2C0"
+      },
+      {
+        "id": "36bb9e41d48d17bc09ea81f22659f32c",
+        "title": "Swinney to join Welsh and Irish leaders to sign independence referendum pact",
+        "link": "https://www.heraldscotland.com/news/26546047.swinney-sign-referendum-agreement-sinn-f-plaid-cymru/",
+        "description": "The First Ministers of the UK\u2019s devolved nations will sign a landmark agreement on Monday aimed at putting pressure on Downing Street to hold referendums on independence.",
+        "published": "Sun, 13 Sep 2026 13:31:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20872363/?type=app&htype=0"
+      },
+      {
         "id": "521ab94e0e7a0fa2bfff3c607fbd15c3",
         "title": "Glasgow legends Deacon Blue announce huge Hydro show celebrating Raintown",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26546032.deacon-blue-play-raintown-full-glasgow-hydro/",
@@ -2019,14 +2035,6 @@
         "description": "Police are appealing for information following a serious crash in East Ayrshire.",
         "published": "Sun, 13 Sep 2026 11:25:46 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/19659503/?type=app&htype=0"
-      },
-      {
-        "id": "d77035d3a2eb27e8450291edcf888663",
-        "title": "Deacon Blue announce tour to mark 40th anniversary of 'Raintown'",
-        "link": "https://www.heraldscotland.com/news/26545822.deacon-blue-announce-tour-mark-40th-anniversary-raintown/",
-        "description": "Scottish rockers Deacon Blue have announced a tour to mark the 40th anniversary of their iconic debut album 'Raintown'.",
-        "published": "Sun, 13 Sep 2026 10:44:21 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21447121/?type=app&htype=0"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/c0klnl3l6vro#0",
@@ -2253,14 +2261,6 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/12/11/52/GettyImages-2294506703.jpeg?width=1200&auto=webp&trim=7%2C0%2C7%2C0"
       },
       {
-        "id": "d84d115bd59a3e1a63b08eaf7a88aa3f",
-        "title": "LIVE updates as opposing protestors go head-to-head in Glasgow Green",
-        "link": "https://www.glasgowtimes.co.uk/news/26544896.live-updates-opposing-protestors-take-glasgow-green/",
-        "description": "Rival protestors are set to take to the People's Palace in Glasgow Green this afternoon in response to an increase in sex attacks against women.",
-        "published": "Sat, 12 Sep 2026 12:14:26 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21445119/?type=app&htype=0"
-      },
-      {
         "id": "9028284",
         "title": "George Square revamp: city centre businesses call for rates relief as reopening date nears",
         "link": "https://www.glasgowworld.com/news/george-square-businesses-call-for-rates-relief-as-reopening-date-nears-9028284",
@@ -2331,14 +2331,6 @@
         "description": "Four more arrests have been made in a police operation to tackle a gang feud.",
         "published": "Sat, 12 Sep 2026 11:01:48 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/19546911/?type=app&htype=0"
-      },
-      {
-        "id": "1cf874ca3ceffaeb6bc0aece75fd7625",
-        "title": "Police warn of strong response as rival protests set to clash today in Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26544736.police-warn-strong-response-glasgow-protests-today/",
-        "description": "Police have warned of a strong response to violence ahead of rival protests in Glasgow on Saturday.",
-        "published": "Sat, 12 Sep 2026 10:33:50 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21444769/?type=app&htype=0"
       },
       {
         "id": "5e8b8b3e4c74b0b77d96ce23df398b44",
