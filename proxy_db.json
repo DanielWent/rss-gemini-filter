@@ -1949,6 +1949,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "6267ea62e8b1bb965f1ff41a04a20a42",
+        "title": "'Sectarian abuse' and 'police assault' as four arrested at Rangers v Celtic",
+        "link": "https://www.glasgowtimes.co.uk/sport/26546326.four-arrested-rangers-v-celtic-amid-sectarian-abuse/",
+        "description": "Four people were arrested at Ibrox surrounding the match between Rangers and Celtic on Sunday.",
+        "published": "Sun, 13 Sep 2026 17:09:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20578064/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/viral-tiktok-cookies-coming-glasgow-34594496",
         "title": "Viral TikTok cookies coming to Glasgow for first ever pop up",
         "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/viral-tiktok-cookies-coming-glasgow-34594496",
@@ -2739,14 +2747,6 @@
         "description": "The schools are back, the summer crowds are thinning out and there\u2019s still plenty of daylight.",
         "published": "Fri, 11 Sep 2026 15:39:27 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21442339/?type=app&htype=0"
-      },
-      {
-        "id": "6ea39ada0be1d0138f13e0203b257de6",
-        "title": "Damaged ornate panels to be repaired and put on display",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26543345.damaged-ornate-iron-panels-go-display-glasgow/",
-        "description": "Damaged ornate panels from Glasgow's St Vincent Place are expected to go on display once they have been repaired, after a new contractor was brought in.",
-        "published": "Fri, 11 Sep 2026 15:32:49 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21397404/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
