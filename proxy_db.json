@@ -1949,6 +1949,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "314bb77c7a03a908be3255f24dd9a992",
+        "title": "What's next for capital's tram network after northern extension goes off the rails?",
+        "link": "https://www.heraldscotland.com/news/26544109.tram-trains-roseburn-future-edinburghs-transport-system/",
+        "description": "While Thursday\u2019s season finale was supposed to be full of drama, it proved rather predictable for those of us who frequent the city chambers.",
+        "published": "Sun, 13 Sep 2026 08:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20188318/?type=app&htype=0"
+      },
+      {
         "id": "d6e0633c95084e49ea4bef63d47bdde7",
         "title": "UK maritime police failed to probe grounding of 'unseaworthy' CalMac ferry",
         "link": "https://www.heraldscotland.com/news/26543723.concern-no-maib-probe-calmac-unseaworthy-ferry-grounding/",
@@ -2021,28 +2029,12 @@
         "image_url": "https://www.heraldscotland.com/resources/images/12033376/?type=app&htype=0"
       },
       {
-        "id": "https://news.stv.tv/?p=528919",
-        "title": "Glasgow Green protests \u2018pass without violence or disorder\u2019, police say",
-        "link": "https://news.stv.tv/west-central/glasgow-green-protests-pass-without-violence-or-disorder-police-say",
-        "description": "One man was arrested in connection with an outstanding warrant linked to disorder at a previous protest in the city.",
-        "published": "Sat, 12 Sep 2026 17:00:00 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/f32e1fffd7ac8e703e27aa69c8234ed8-1789224289-960x720.jpg"
-      },
-      {
         "id": "4edc8aaa87b44f5c1159b771ff31d386",
         "title": "Rival protestors take over Glasgow Green as police work to keep both sides apart",
         "link": "https://www.glasgowtimes.co.uk/news/26545365.hundreds-attend-rival-protestors-take-glasgow-green/",
         "description": "Hundreds gathered in Glasgow for an anti-immigration rally and associated counter protest earlier today.",
         "published": "Sat, 12 Sep 2026 17:39:40 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21446093/?type=app&htype=0"
-      },
-      {
-        "id": "b7b36d4fb4825bdfed681774da079545",
-        "title": "Man arrested for involvement in disorder following Glasgow Green protest",
-        "link": "https://www.glasgowtimes.co.uk/news/26545335.man-arrested-disorder-following-glasgow-green-protest/",
-        "description": "The 25-year-old was charged in connection with an outstanding warrant relating to disorder in Glasgow on Saturday, 25 July, 2026.",
-        "published": "Sat, 12 Sep 2026 17:21:29 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21265956/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-is-not-safe-city-34608671",
@@ -2059,14 +2051,6 @@
         "description": "The current prison population of around 8,500 poses a &quot;significant risk&quot; to those living and working in jails, as those linked to the Lyons and Daniel crime family feud fill cells across the country",
         "published": "Sat, 12 Sep 2026 14:53:05 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33099830.ece/ALTERNATES/s98/0_JS385804114.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/hundreds-descend-pink-ladies-protest-34608347",
-        "title": "Hundreds descend for 'Pink Ladies protest' at Glasgow Green amid counter-demonstrations",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/hundreds-descend-pink-ladies-protest-34608347",
-        "description": "Hundreds of people \u2013 including masked men \u2013 have been pictured at a protest organised by the Pink Ladies group, with counter-protesters from Stand Up to Racism Scotland and Women Against the Far Right Scotland also in attendance.",
-        "published": "Sat, 12 Sep 2026 14:14:52 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34608343.ece/ALTERNATES/s98/0_JS417700978.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/vile-anti-islam-graffiti-sprayed-34605493",
@@ -2309,14 +2293,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21370214/?type=app&htype=0"
       },
       {
-        "id": "b3c61426ee186ebfca37d4bd51d08e43",
-        "title": "Glasgow councillor recalls bouncer paying for taxi to keep her safe",
-        "link": "https://www.glasgowtimes.co.uk/news/26543943.glasgow-councillor-recalls-bouncer-helping-get-home/",
-        "description": "Glasgow councillor Lana Reid McConnell recalls a bouncer helping her as she calls for action on violence against women and girls.",
-        "published": "Sat, 12 Sep 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20247831/?type=app&htype=0"
-      },
-      {
         "id": "e8a51430949e6513d1ed6092a9b3db46",
         "title": "'We still miss him every day' - Daughter's tribute before Glasgow Memory Walk",
         "link": "https://www.glasgowtimes.co.uk/news/26531728.glasgow-memory-walk-return-support-dementia-care/",
@@ -2435,14 +2411,6 @@
         "description": "<p>Former Everton scout will assist with the handover as Rangers prepare to review their recruitment structure ahead of the January window</p>",
         "published": "Fri, 11 Sep 2026 17:00:13 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/11/15/22/GettyImages-1264854143.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "b701dda67036cfe9ec2e26a24c8a9a7c",
-        "title": "23 Possil families face longer wait for suitable homes after fire, councillor says",
-        "link": "https://www.heraldscotland.com/news/26544175.deliberate-fire-delays-rehousing-20-possilpark-families/",
-        "description": "More than 20 Possilpark families now face a longer wait for suitable homes after a deliberate fire, as councillors blasted misinformation and division.",
-        "published": "Fri, 11 Sep 2026 17:53:10 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21417595/?type=app&htype=0"
       },
       {
         "id": "09cb7d297db951f53c5284791fe53577",
