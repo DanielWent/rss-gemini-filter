@@ -1949,6 +1949,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "d6e0633c95084e49ea4bef63d47bdde7",
+        "title": "UK maritime police failed to probe grounding of 'unseaworthy' CalMac ferry",
+        "link": "https://www.heraldscotland.com/news/26543723.concern-no-maib-probe-calmac-unseaworthy-ferry-grounding/",
+        "description": "The MAIB dropped a full investigation into grounding of CalMac's MV Loch Linnhe ferry after concluding a legally required passage plan existed. CalMac said no plan was created.",
+        "published": "Sun, 13 Sep 2026 06:26:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21413737/?type=app&htype=0"
+      },
+      {
+        "id": "92007ef8bd9dff09f067771d12babeb1",
+        "title": "New ScotRail app contract could outlast Scotland\u2019s integrated ticketing rollout",
+        "link": "https://www.heraldscotland.com/news/26539943.new-scotrail-app-deal-may-overlap-integrated-ticketing-plans/",
+        "description": "The contract for ScotRail's new mobile app and digital retailing platform could outlive the implementation of integrated ticketing on Scottish public transport, as the earliest possible start date for the system has been revealed.",
+        "published": "Sun, 13 Sep 2026 06:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19077961/?type=app&htype=0"
+      },
+      {
         "id": "21a2b409612df57e2b12c89b1a089eae",
         "title": "Glasgow actress lands iconic My Fair Lady role opposite Alan Cumming",
         "link": "https://www.glasgowtimes.co.uk/news/26531060.glasgow-actress-lands-iconic-fair-lady-role-opposite-alan-cumming/",
@@ -1981,6 +1997,30 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21439140/?type=app&htype=0"
       },
       {
+        "id": "ccd95a68a00c67c6ad71ffc0ff44909b",
+        "title": "Scottish universities are said to be in crisis. What I found in Glasgow surprised me",
+        "link": "https://www.heraldscotland.com/news/26543738.eaie-2026-glasgow-plays-host-future-higher-education/",
+        "description": "The Herald was on the ground at EAIE Glasgow 2026, with key insights on the discussions shaping the future of higher education in Scotland.",
+        "published": "Sun, 13 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21442855/?type=app&htype=0"
+      },
+      {
+        "id": "048f2c45dec76f300e40e2d9070a688d",
+        "title": "Why SNP activists think John Swinney missed the best independence opportunity yet",
+        "link": "https://www.heraldscotland.com/news/26544108.snp-dilemma-exposed-burnham-independence-remarks/",
+        "description": "Andy Burnham's remarks sparked hope among independence supporters, but some SNP activists believe John Swinney failed to seize the moment.",
+        "published": "Sun, 13 Sep 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21386635/?type=app&htype=0"
+      },
+      {
+        "id": "18110ee0ad14ee8263468ef493643bd7",
+        "title": "Salmond Files court battle: Ministers 'want power to decide what stays secret'",
+        "link": "https://www.heraldscotland.com/news/26543138.salmond-files-watchdog-ministers-set-legal-argument/",
+        "description": "Scotland's Information Commissioner accuses ministers of seeking to rewrite freedom of information law ahead of a Court of Session hearing later this month over the long-withheld Salmond files.",
+        "published": "Sun, 13 Sep 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/12033376/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=528919",
         "title": "Glasgow Green protests \u2018pass without violence or disorder\u2019, police say",
         "link": "https://news.stv.tv/west-central/glasgow-green-protests-pass-without-violence-or-disorder-police-say",
@@ -1995,14 +2035,6 @@
         "description": "Hundreds gathered in Glasgow for an anti-immigration rally and associated counter protest earlier today.",
         "published": "Sat, 12 Sep 2026 17:39:40 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21446093/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-green-protests-pass-without-34608895",
-        "title": "Glasgow Green protests \u2018pass without violence\u2019 say police as opposing groups separated",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-green-protests-pass-without-34608895",
-        "description": "One 23-year-old man was arrested in connection with an outstanding warrant relating to previous disorder \u2013 but police say today's event passed peacefully.",
-        "published": "Sat, 12 Sep 2026 16:37:40 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34608880.ece/ALTERNATES/s98/0_JS417711533.jpg"
       },
       {
         "id": "b7b36d4fb4825bdfed681774da079545",
@@ -2715,38 +2747,6 @@
         "description": "A list of the 50 best steak restaurants in Europe has been announced this week, with only one Scottish spot making the cut for 2026.",
         "published": "Fri, 11 Sep 2026 11:29:02 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21441275/?type=app&htype=0"
-      },
-      {
-        "id": "e17d96a04dcada3ef71bd5f9af0b34d1",
-        "title": "Manhunt launched following serious assault in Glasgow city centre",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26541793.police-release-cctv-image-serious-glasgow-assault/",
-        "description": "Police have released a CCTV image of a man they believe could help with their investigation into a serious assault in Glasgow.",
-        "published": "Fri, 11 Sep 2026 11:24:47 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21439377/?type=app&htype=0"
-      },
-      {
-        "id": "b72af5eda575baaf033e37f5569f1726",
-        "title": "Could you run this award-winning restaurant with rooms in a Scottish castle?",
-        "link": "https://www.heraldscotland.com/news/26541780.scottish-castle-restaurant-rooms-seeks-new-operators/",
-        "description": "An opportunity for \"epic adventure\" has arisen this month as a Scottish castle seeks new partners to take the reins of its restaurant with rooms.",
-        "published": "Fri, 11 Sep 2026 11:23:31 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20948772/?type=app&htype=0"
-      },
-      {
-        "id": "e343a06dc1c3a2bdbae6c4a7f281f1fc",
-        "title": "Herald Business LIVE: Today's top stories - September 11",
-        "link": "https://www.heraldscotland.com/news/26541496.herald-business-live-todays-top-stories---september-11/",
-        "description": "Welcome to The Herald's Business live blog, where we\u2019ll be bringing you the latest developments from across Scotland\u2019s business industry.",
-        "published": "Fri, 11 Sep 2026 10:48:09 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21394794/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=528745",
-        "title": "Man accused of wearing doctor\u2019s clothing and stealing medical supplies at Glasgow hospital",
-        "link": "https://news.stv.tv/west-central/man-accused-of-wearing-doctors-clothing-and-stealing-medical-supplies-at-glasgow-hospital",
-        "description": "Gregg Neagle, 39, allegedly roamed Glasgow's Queen Elizabeth University Hospital on August 5 2024.",
-        "published": "Fri, 11 Sep 2026 09:08:13 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2023/11/18f93c16ce05485874349b77f6aca366-1700486322-1280x720.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
