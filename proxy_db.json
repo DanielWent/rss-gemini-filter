@@ -5,12 +5,28 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cew9n2j47ygo#1",
+        "title": "Andy Burnham among Great North Run finishers",
+        "link": "https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss",
+        "description": "This year's event sees 63,000 people take on the half marathon - including the prime minister.",
+        "published": "Sun, 13 Sep 2026 13:53:55 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eb6/live/e9ac30d0-af70-11f1-aafc-c90fa48bb0ed.png"
+      },
+      {
         "id": "1789297816801262",
         "title": "Kosgei wins Great North Run but McColgan withdraws",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/cpve1gd9v0ko?at_medium=RSS&at_campaign=rss",
         "description": "Kenya's Brigid Kosgei comfortably wins the women's race at the Great North Run but Eilish McColgan drops out early with injury.",
         "published": "Sun, 13 Sep 2026 12:57:50 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba25/live/268f7b00-af5e-11f1-8b54-ef4b26bcf610.jpg"
+      },
+      {
+        "id": "1789308315881317",
+        "title": "Summer wildfires caused catastrophic hidden damage, scientists warn",
+        "link": "https://www.bbc.co.uk/news/articles/cn07rzrq244o?at_medium=RSS&at_campaign=rss",
+        "description": "Bangor University researchers say the scale of damage is far greater than what is immediately visible.",
+        "published": "Sun, 13 Sep 2026 08:12:26 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e504/live/f1f64000-af39-11f1-a540-61c3f7fc4e6c.jpg"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/cvgy4w3mnpvo#3",
@@ -787,22 +803,6 @@
         "description": "Jakob Ingebrigtsen says he is \"very\" disappointed by British rival Josh Kerr's decision to miss the European Championships in Birmingham.",
         "published": "Thu, 13 Aug 2026 20:39:26 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edf5/live/8d5f6dd0-9669-11f1-a6eb-474cf36e6c34.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/athletics/articles/cgq5pd4n0y5o#9",
-        "title": "Hodgkinson into 800m final after dramatic Werro fall",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/cgq5pd4n0y5o?at_medium=RSS&at_campaign=rss",
-        "description": "Keely Hodgkinson reaches the women's 800m final at the European Championships - moments after rival Audrey Werro suffers a dramatic fall that put her place in doubt.",
-        "published": "Thu, 13 Aug 2026 12:39:52 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caeb/live/7c4307a0-970e-11f1-aa4b-17d3155b04cf.jpg"
-      },
-      {
-        "id": "1786593609750011",
-        "title": "Twitch users can now block Amazon from using their content to train AI",
-        "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-        "description": "The streaming platform's users criticised the move to allow the use of channel content for AI training.",
-        "published": "Thu, 13 Aug 2026 04:46:04 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19c0/live/3a5d4e80-96b0-11f1-a357-f9f53ca5007d.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -1949,6 +1949,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9037389",
+        "title": "Eight Rangers vs Celtic referee and VAR decisions in focus: Ibrox rammy, disallowed goal and star risking red",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/eight-rangers-celtic-referee-var-decisions-in-focus-ibrox-rammy-9037389",
+        "description": "<p>Here are some of the key decisions from a refereeing perspective to come out of Rangers vs Celtic.</p>",
+        "published": "Sun, 13 Sep 2026 14:04:31 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/13/13/03/GettyImages-2295020765.jpg?width=1200&auto=webp&trim=112%2C107%2C415%2C43"
+      },
+      {
         "id": "https://www.bbc.co.uk/sport/football/articles/c8e3yere7l4o#0",
         "title": "Rangers v Aberdeen & Edinburgh derby in League Cup semis",
         "link": "https://www.bbc.co.uk/sport/football/articles/c8e3yere7l4o?at_medium=RSS&at_campaign=rss",
@@ -1987,14 +1995,6 @@
         "description": "John Swinney, Rhun ap Iorwerth and Michelle O\u2019Neill are set to sign a Cardiff memorandum calling for independence referendums across the devolved nations.",
         "published": "Sun, 13 Sep 2026 13:54:24 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/18049369/?type=app&htype=0"
-      },
-      {
-        "id": "9037317",
-        "title": "Celtic player ratings vs Rangers as Hoops flop in Premier Sports Cup on day of calamitous derby performances",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-player-ratings-rangers-hoops-flop-premier-sports-cup-calamitous-performances-9037317",
-        "description": "<p>Here\u2019s how we rated the Celtic players in action against Rangers.</p>",
-        "published": "Sun, 13 Sep 2026 12:53:06 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/13/12/46/GettyImages-2295023286.jpg?width=1200&auto=webp&trim=16%2C0%2C16%2C0"
       },
       {
         "id": "521ab94e0e7a0fa2bfff3c607fbd15c3",
