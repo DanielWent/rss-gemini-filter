@@ -5,20 +5,20 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo#1",
+        "title": "Trump downplays AI risks after dire expert warnings and calls to slow development down",
+        "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+        "description": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+        "published": "Sun, 13 Sep 2026 16:29:27 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05d0/live/2a71c0a0-af92-11f1-bc1f-3f186ca4140c.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cew9n2j47ygo#1",
         "title": "Andy Burnham among Great North Run finishers",
         "link": "https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss",
         "description": "This year's event sees 63,000 people take on the half marathon - including the prime minister.",
         "published": "Sun, 13 Sep 2026 13:53:55 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eb6/live/e9ac30d0-af70-11f1-aafc-c90fa48bb0ed.png"
-      },
-      {
-        "id": "1789297816801262",
-        "title": "Kosgei wins Great North Run but McColgan withdraws",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/cpve1gd9v0ko?at_medium=RSS&at_campaign=rss",
-        "description": "Kenya's Brigid Kosgei comfortably wins the women's race at the Great North Run but Eilish McColgan drops out early with injury.",
-        "published": "Sun, 13 Sep 2026 12:57:50 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba25/live/268f7b00-af5e-11f1-8b54-ef4b26bcf610.jpg"
       },
       {
         "id": "1789308315881317",
@@ -1949,6 +1949,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/oasis-tribute-joining-stone-roses-34604768",
+        "title": "Oasis tribute joining Stone Roses act for Glasgow Big Top Brit Pop celebration this month",
+        "link": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/oasis-tribute-joining-stone-roses-34604768",
+        "description": "Heading back to the Queens Park Recreational Ground later this month, \u2018Live in the Big Top\u2019 will see the Complete Stone Roses joined by Definitely Oasis for a show Brit Pop fans will love.",
+        "published": "Sun, 13 Sep 2026 16:37:54 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34604722.ece/ALTERNATES/s98/1_Live-In-The-Big-Top-1.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/busy-glasgow-east-end-road-34611751",
+        "title": "Busy Glasgow east end road taped off by police amid ongoing incident",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/busy-glasgow-east-end-road-34611751",
+        "description": "Emergency services are on the scene.",
+        "published": "Sun, 13 Sep 2026 16:19:29 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34611761.ece/ALTERNATES/s98/802119509_1287416614461800_5602604107840552977_n.jpg"
+      },
+      {
         "id": "6267ea62e8b1bb965f1ff41a04a20a42",
         "title": "'Sectarian abuse' and 'police assault' as four arrested at Rangers v Celtic",
         "link": "https://www.glasgowtimes.co.uk/sport/26546326.four-arrested-rangers-v-celtic-amid-sectarian-abuse/",
@@ -2731,22 +2747,6 @@
         "description": "Glasgow\u2019s compassion towards homelessness cannot sustain the pressure on homeless services alone, according to a councillor.",
         "published": "Fri, 11 Sep 2026 15:48:20 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20763172/?type=app&htype=0"
-      },
-      {
-        "id": "f7b9478dac5e3f9a264225785073b785",
-        "title": "Govanhill short-term let refused planning permission after operating without consent",
-        "link": "https://www.glasgowtimes.co.uk/news/26543410.govanhill-short-term-let-refused-planning-permission/",
-        "description": "A short term let, which was operating without consent in Govanhill, and listed on Booking.com, has been refused permission.",
-        "published": "Fri, 11 Sep 2026 15:43:56 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20921919/?type=app&htype=0"
-      },
-      {
-        "id": "1a70eda487fd37473c5676797c9093aa",
-        "title": "September in Scotland: Where to stay for wild swimming, whisky and views",
-        "link": "https://www.heraldscotland.com/life_style/26543389.september-scotland-stay-swimming-whisky-views/",
-        "description": "The schools are back, the summer crowds are thinning out and there\u2019s still plenty of daylight.",
-        "published": "Fri, 11 Sep 2026 15:39:27 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21442339/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
