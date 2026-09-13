@@ -1949,6 +1949,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/recovering-glasgow-addicts-being-inundated-34609948",
+        "title": "Recovering Glasgow addicts being inundated with 'tempting special offer' drug deals",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/recovering-glasgow-addicts-being-inundated-34609948",
+        "description": "Apps such as Telegram and WhatsApp are being used to target vulnerable people across the country.",
+        "published": "Sun, 13 Sep 2026 10:47:30 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34610036.ece/ALTERNATES/s98/0_GettyImages-2265140652.jpg"
+      },
+      {
+        "id": "d77035d3a2eb27e8450291edcf888663",
+        "title": "Deacon Blue announce tour to mark 40th anniversary of 'Raintown'",
+        "link": "https://www.heraldscotland.com/news/26545822.deacon-blue-announce-tour-mark-40th-anniversary-raintown/",
+        "description": "Scottish rockers Deacon Blue have announced a tour to mark the 40th anniversary of their iconic debut album 'Raintown'.",
+        "published": "Sun, 13 Sep 2026 10:44:21 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21447121/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c0klnl3l6vro#0",
         "title": "'Forget Notting Hill - we set our new romcom in the east end of Glasgow'",
         "link": "https://www.bbc.co.uk/news/articles/c0klnl3l6vro?at_medium=RSS&at_campaign=rss",
@@ -1963,6 +1979,14 @@
         "description": "A killer who boasted about murdering a man in his own flat is facing a life sentence.",
         "published": "Sun, 13 Sep 2026 10:30:35 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20226133/?type=app&htype=0"
+      },
+      {
+        "id": "d7bcc6d95033cacedd54e2d922c3711d",
+        "title": "Brave shopkeeper tackled ammonia-wielding robber carrying out third raid in weeks",
+        "link": "https://www.heraldscotland.com/news/26545800.ammonia-wielding-robber-jailed-shopkeeper-attack/",
+        "description": "A brave shopkeeper tackled an ammonia-wielding robber carrying out his third raid in a matter of weeks.",
+        "published": "Sun, 13 Sep 2026 10:28:53 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19141757/?type=app&htype=0"
       },
       {
         "id": "536ecd3f3ca2aefa6cbeb36e7e7f9669",
@@ -2723,30 +2747,6 @@
         "description": "<p> Charli XCX  is returning to Glasgow in 2027 - here\u2019s everything you need to know to score ticket</p>",
         "published": "Fri, 11 Sep 2026 11:15:14 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/12/01/10/18/GettyImages-1469126506.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "d8fb349f84179376bc72b4c756ef5e1b",
-        "title": "Scottish Government taken to court over approval for 544-bed West End 'super-hostel'",
-        "link": "https://www.heraldscotland.com/news/26539551.edinburgh-residents-appeal-planning-approval-544-bed-super-hostel/",
-        "description": "The group has submitted a statutory appeal asking that the Scottish Government Reporter\u2019s approval for the scheme be reversed.",
-        "published": "Fri, 11 Sep 2026 12:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21435993/?type=app&htype=0"
-      },
-      {
-        "id": "9019472",
-        "title": "Ex Premier League referee in 'not fit for purpose' claim over VAR after two Celtic incidents spark SFA demand",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/ex-premier-league-referee-not-fit-purpose-var-two-celtic-incidents-cash-demand-9019472",
-        "description": "<p>A former Premier League referee has weighed in on two Celtic incidents that have created controversy.</p>",
-        "published": "Fri, 11 Sep 2026 11:00:47 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2022/08/19/15/GettyImages-458055138.jpg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "9019810",
-        "title": "Rangers star 'so angry' over not sealing summer transfer exit as he turns Ibrox 'godsend' with agent sacked",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-star-so-angry-not-sealing-summer-transfer-exit-ibrox-godsend-agent-sacked-9019810",
-        "description": "<p>The Rangers forward failed to land a summer transfer move away from the club.</p>",
-        "published": "Fri, 11 Sep 2026 11:00:35 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/12/01/9/13/GettyImages-2249229135.jpg?width=1200&auto=webp&crop=3%3A2"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
