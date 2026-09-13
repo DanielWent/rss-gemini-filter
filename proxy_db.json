@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/crm9ezvwjpno#2",
+        "title": "The Himalayas are melting faster - and India's economy is 'at risk'",
+        "link": "https://www.bbc.co.uk/news/articles/crm9ezvwjpno?at_medium=RSS&at_campaign=rss",
+        "description": "A new report warns Himalayan glaciers are melting faster, threatening India\u2019s water, economy and communities.",
+        "published": "Sun, 13 Sep 2026 22:07:22 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03f1/live/7fae1aa0-adad-11f1-8ac2-99a6f36b284a.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/sport/athletics/articles/czjz0yn1rn2o#8",
         "title": "Dominant Kerr wins $150k with GB's first Ultimate title",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/czjz0yn1rn2o?at_medium=RSS&at_campaign=rss",
@@ -91,14 +99,6 @@
         "description": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
         "published": "Sat, 12 Sep 2026 13:00:32 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6fd/live/129bea30-aea9-11f1-8972-d5c52a82c3b8.jpg"
-      },
-      {
-        "id": "1789196114663816",
-        "title": "Get set, ready, go! Great North Run weekend begins",
-        "link": "https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss",
-        "description": "Saturday kicks off with Mini and Junior events, followed by the half marathon on Sunday.",
-        "published": "Sat, 12 Sep 2026 08:01:33 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52d7/live/cadfb1b0-ad07-11f1-beae-535b95a24b3e.jpg"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/c1wx8gg7xw1o#2",
