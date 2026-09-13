@@ -1949,6 +1949,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "d76c8057b45b3804455337462b8e011a",
+        "title": "Huge queues down the street for newly-opened restaurant",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26546259.queues-street-newly-opened-glasgow-restaurant/",
+        "description": "Huge queues have snaked down the street after a London-based noodle restaurant has opened in Glasgow's West End.",
+        "published": "Sun, 13 Sep 2026 16:06:02 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21447877/?type=app&htype=0"
+      },
+      {
+        "id": "9037433",
+        "title": "Derek McInnes challenges Rangers side to maintain standards as League Cup triumph vs Celtic a 'reference point'",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/derek-mcinnes-challenges-rangers-side-maintain-standards-league-cup-triumph-celtic-reference-point-9037433",
+        "description": "<p>Rangers boss reckons their League Cup triumph can provide a major confidence boost for his players as growing belief in squad praised</p>",
+        "published": "Sun, 13 Sep 2026 15:00:37 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/13/14/51/GettyImages-2295031961.jpeg?width=1200&auto=webp&trim=0%2C110%2C0%2C109"
+      },
+      {
+        "id": "9037422",
+        "title": "Martin O'Neill quizzed on Celtic team selection after League Cup defeat as Rangers mauling a \u2018wake-up call\u2019",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/martin-oneill-quizzed-celtic-team-selection-league-cup-defeat-rangers-mauling-wake-up-call-9037422",
+        "description": "<p>Celtic boss insists his players must learn from their League Cup setback ahead of next weekend\u2019s crucial re-match</p>",
+        "published": "Sun, 13 Sep 2026 15:00:09 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/13/13/07/GettyImages-2295020148.jpeg?width=1200&auto=webp&trim=0%2C0%2C445%2C0"
+      },
+      {
         "id": "9037389",
         "title": "Eight Rangers vs Celtic referee and VAR decisions in focus: Ibrox rammy, disallowed goal and star risking red",
         "link": "https://www.glasgowworld.com/sport/football/rangers/eight-rangers-celtic-referee-var-decisions-in-focus-ibrox-rammy-9037389",
@@ -2723,30 +2747,6 @@
         "description": "Andy Burnham is running scared of a second Scottish independence referendum, because he \u201cknows that he would lose\u201d, Jenny Gilruth said.",
         "published": "Fri, 11 Sep 2026 15:02:29 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21401350/?type=app&htype=0"
-      },
-      {
-        "id": "ec79028217abcee9e7f12781bc9f26b2",
-        "title": "Scottish retail sales fall 0.2 per cent in August as summer growth comes to a halt",
-        "link": "https://www.heraldscotland.com/news/26539452.new-report-show-scottish-retail-sales-fall-august/",
-        "description": "Retail sales in Scotland fell 0.2 per cent year-on-year in August, according to SRC and KPMG, ending a period of steady growth through late spring and summer.",
-        "published": "Fri, 11 Sep 2026 14:57:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20963172/?type=app&htype=0"
-      },
-      {
-        "id": "06aeecb8142c515cf80c3cbab4f9297b",
-        "title": "Bothwell twin filmmakers take debut Glasgow alien comedy horror to Hollywood",
-        "link": "https://www.glasgowtimes.co.uk/news/26543062.bothwell-brothers-take-glasgow-alien-film-hollywood/",
-        "description": "A pair of twin filmmakers are heading from Bothwell to Hollywood with their debut feature.",
-        "published": "Fri, 11 Sep 2026 14:54:06 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21441608/?type=app&htype=0"
-      },
-      {
-        "id": "6a5f6078c960c0b854e44118218c24b0",
-        "title": "Emergency services race to crash in Glasgow forcing road to close",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26543039.crash-brings-emergency-services-carmunnock-road-glasgow/",
-        "description": "Glasgow crash: Emergency services, Police Scotland and Scottish Ambulance Service attend Southside incident on Carmunnock Road, with roads reportedly closed.",
-        "published": "Fri, 11 Sep 2026 14:51:17 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21441590/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
