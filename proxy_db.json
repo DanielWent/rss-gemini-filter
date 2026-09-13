@@ -1949,6 +1949,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/sport/football/articles/c8e3yere7l4o#0",
+        "title": "Rangers v Aberdeen & Edinburgh derby in League Cup semis",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c8e3yere7l4o?at_medium=RSS&at_campaign=rss",
+        "description": "Rangers have been drawn against Aberdeen in the semi-finals of the Premier Sports Cup, while rivals Heart of Midlothian and Hibernian will face off in the other tie at Hampden Park.",
+        "published": "Sun, 13 Sep 2026 13:26:08 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/730d/live/10b24c20-af79-11f1-aafc-c90fa48bb0ed.jpg"
+      },
+      {
         "id": "9037448",
         "title": "Rangers player ratings vs Celtic: Hampden ticket booked with one 9/10 + smattering of 8s in Premier Sports Cup domination",
         "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-player-ratings-celtic-hampden-ticket-booked-one-910-smattering-8s-premier-sports-cup-domination-9037448",
@@ -1971,14 +1979,6 @@
         "description": "<p>Here\u2019s how we rated the Celtic players in action against Rangers.</p>",
         "published": "Sun, 13 Sep 2026 12:53:06 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/13/12/46/GettyImages-2295023286.jpg?width=1200&auto=webp&trim=16%2C0%2C16%2C0"
-      },
-      {
-        "id": "36bb9e41d48d17bc09ea81f22659f32c",
-        "title": "Swinney to join Welsh and Irish leaders to sign independence referendum pact",
-        "link": "https://www.heraldscotland.com/news/26546047.swinney-sign-referendum-agreement-sinn-f-plaid-cymru/",
-        "description": "The First Ministers of the UK\u2019s devolved nations will sign a landmark agreement on Monday aimed at putting pressure on Downing Street to hold referendums on independence.",
-        "published": "Sun, 13 Sep 2026 13:31:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20872363/?type=app&htype=0"
       },
       {
         "id": "521ab94e0e7a0fa2bfff3c607fbd15c3",
