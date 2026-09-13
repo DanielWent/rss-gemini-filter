@@ -1949,6 +1949,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c0klnl3l6vro#0",
+        "title": "'Forget Notting Hill - we set our new romcom in the east end of Glasgow'",
+        "link": "https://www.bbc.co.uk/news/articles/c0klnl3l6vro?at_medium=RSS&at_campaign=rss",
+        "description": "Romantic comedy Premature is out in cinemas next Friday, despite a microscopic budget.",
+        "published": "Sun, 13 Sep 2026 09:41:13 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1884/live/656efe20-adfd-11f1-bc1f-3f186ca4140c.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/sex-crimes-glasgow-central-station-34591127",
+        "title": "Sex crimes at Glasgow Central Station double in three years as grim offences laid bare",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/sex-crimes-glasgow-central-station-34591127",
+        "description": "The number of offences recorded at the busy city centre station have soared by 92 per cent since 2023.",
+        "published": "Sun, 13 Sep 2026 09:06:47 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34608712.ece/ALTERNATES/s98/0_GettyImages-1241432591.jpg"
+      },
+      {
+        "id": "acd934882fc65182f5cfbd15d05d4231",
+        "title": "Glasgow schools urged to act as premature birth rates continue to rise",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26545716.glasgow-schools-urged-raise-awareness-premature-birth/",
+        "description": "A plea for all schools across Glasgow to raise awareness amongst teachers of the impact of premature birth on children has been issued by a local councillor.",
+        "published": "Sun, 13 Sep 2026 09:32:49 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19461088/?type=app&htype=0"
+      },
+      {
+        "id": "9036436",
+        "title": "Rangers star 'likely' to leave Ibrox in January transfer window on one condition as he craves specific switch",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-star-likely-leave-ibrox-january-transfer-window-on-one-condition-9036436",
+        "description": "<p>The midfielder was consistently linked with moves away from Rangers in the summer transfer window. </p>",
+        "published": "Sun, 13 Sep 2026 08:29:51 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/26/18/47/GettyImages-2290747851.jpg?width=1200&auto=webp&trim=35%2C0%2C36%2C0"
+      },
+      {
         "id": "95c144afa1a491b52240eb081cae97f1",
         "title": "Glasgow gets \u00a31m from former McVitie\u2019s owners but locals say they were ignored",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26545680.1m-mcvities-factory-donation-funds-four-glasgow-projects/",
@@ -2715,14 +2747,6 @@
         "description": "NYCOS is launching a free online singing programme for every primary school in Scotland, with 15 songs, games and teaching materials.",
         "published": "Fri, 11 Sep 2026 11:37:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21439413/?type=app&htype=0"
-      },
-      {
-        "id": "a7459dc321dbf1bde11474e60d453454",
-        "title": "Only one Scottish steak restaurant makes Europe's Top 50 rankings",
-        "link": "https://www.heraldscotland.com/news/26541822.scottish-steak-restaurant-ranked-among-50-best-europe/",
-        "description": "A list of the 50 best steak restaurants in Europe has been announced this week, with only one Scottish spot making the cut for 2026.",
-        "published": "Fri, 11 Sep 2026 11:29:02 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21441275/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
