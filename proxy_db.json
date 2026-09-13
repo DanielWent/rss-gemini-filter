@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1789297816801262",
+        "title": "Kosgei wins Great North Run but McColgan withdraws",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cpve1gd9v0ko?at_medium=RSS&at_campaign=rss",
+        "description": "Kenya's Brigid Kosgei comfortably wins the women's race at the Great North Run but Eilish McColgan drops out early with injury.",
+        "published": "Sun, 13 Sep 2026 12:57:50 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba25/live/268f7b00-af5e-11f1-8b54-ef4b26bcf610.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cvgy4w3mnpvo#3",
         "title": "Five night sky events to look out for this autumn",
         "link": "https://www.bbc.co.uk/news/articles/cvgy4w3mnpvo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The streaming platform's users criticised the move to allow the use of channel content for AI training.",
         "published": "Thu, 13 Aug 2026 04:46:04 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19c0/live/3a5d4e80-96b0-11f1-a357-f9f53ca5007d.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo#0",
-        "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
-        "link": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
-        "description": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.",
-        "published": "Wed, 12 Aug 2026 21:53:45 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/548e/live/e3a91030-9694-11f1-870d-5d08c49babb2.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -1949,6 +1949,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "6e8232553d3248df51521534a01cfe9d",
+        "title": "625,000 NHS 111 calls abandoned as some Scots waited over four hours",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26545947.nhs-111-sees-625-704-abandoned-calls-amid-hours-long-waits/",
+        "description": "NHS 24: 625,704 Scotland 111 calls abandoned between April 2024 and June 2026, with some patients waiting more than four hours for urgent medical advice.",
+        "published": "Sun, 13 Sep 2026 12:11:17 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20174431/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=528931",
+        "title": "Off-road biker, 19, fighting for life in hospital following crash with car in Paisley",
+        "link": "https://news.stv.tv/west-central/off-road-biker-19-fighting-for-life-in-hospital-following-crash-with-car",
+        "description": "The 19-year-old was taken to Queen Elizabeth Hospital with serious injuries following the collision",
+        "published": "Sun, 13 Sep 2026 10:55:45 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/03/dc6ca3f663005849b1f47811d8bbd68f-1772459310-1280x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-govanhill-aparthotel-available-online-34602704",
+        "title": "Glasgow Govanhill aparthotel 'available online' despite no planning permission",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-govanhill-aparthotel-available-online-34602704",
+        "description": "Glasgow City Council has launched planning enforcement action against the property in Dixon Avenue, the meeting heard.",
+        "published": "Sun, 13 Sep 2026 10:50:12 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34602719.ece/ALTERNATES/s98/0_apartmentsgovanhill.png"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/recovering-glasgow-addicts-being-inundated-34609948",
         "title": "Recovering Glasgow addicts being inundated with 'tempting special offer' drug deals",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/recovering-glasgow-addicts-being-inundated-34609948",
@@ -2723,30 +2747,6 @@
         "description": "James and Sandy Easdale want to pursue legal action after their \u00a34.3m funding bid was rejected",
         "published": "Fri, 11 Sep 2026 12:00:13 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2025/11/90e092b17ad5d465c867a79fa8a2ce76-1763053146-1280x720.jpeg"
-      },
-      {
-        "id": "bc7a202bd36d95f3627afeb771d3aaa9",
-        "title": "Jackdaw decision not expected until after Labour's by-election battle with the Greens",
-        "link": "https://www.heraldscotland.com/news/26542375.jackdaw-gas-field-decision-delayed-by-election/",
-        "description": "Ministers are facing accusations of putting politics before energy policy after reports that a decision on the Jackdaw gas field may be delayed until after October's Labour-Green by-election battle in Holborn and St Pancras.",
-        "published": "Fri, 11 Sep 2026 12:58:41 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21166809/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-glasgow-leader-ricky-bell-34603339",
-        "title": "New Glasgow leader Ricky Bell says 'listening' council will 'fight' governments for funding",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/new-glasgow-leader-ricky-bell-34603339",
-        "description": "The Govan councillor was elected to lead Glasgow City Council yesterday, after Susan Aitken stepped down.",
-        "published": "Fri, 11 Sep 2026 11:49:33 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34603329.ece/ALTERNATES/s98/0_rickybellfacebook.jpg"
-      },
-      {
-        "id": "9020446",
-        "title": "Charli XCX Glasgow: Charli XCX 2027 UK tour dates: When tickets go on sale, presale times, prices and more",
-        "link": "https://www.glasgowworld.com/arts-and-culture/music/charli-xcx-2027-uk-tour-dates-when-tickets-go-on-sale-presale-times-prices-and-more-9020446",
-        "description": "<p> Charli XCX  is returning to Glasgow in 2027 - here\u2019s everything you need to know to score ticket</p>",
-        "published": "Fri, 11 Sep 2026 11:15:14 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/12/01/10/18/GettyImages-1469126506.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
