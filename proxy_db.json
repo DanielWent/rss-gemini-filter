@@ -1949,6 +1949,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "59936f91eb2230fbd31af67656e0a7ec",
+        "title": "Strictly Come Dancing star to appear in adaptation of beloved novel in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26547204.anton-du-beke-appear-ballet-shoes-glasgows-kings-theatre/",
+        "description": "Strictly Come Dancing star Anton du Beke is set to make his National Theatre debut.",
+        "published": "Mon, 14 Sep 2026 10:37:49 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21450336/?type=app&htype=0"
+      },
+      {
+        "id": "3e9a0bbf1f13d0e2a337516acb59e8c7",
+        "title": "Police officer's 'I thought I'd die' horror as dad and son jailed for 34 years",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26547192.father-son-jailed-17-years-police-murder-bid-hamilton/",
+        "description": "Father and son jailed for 17 years each for attempting to murder PC Mark Smith, dragged from an Audi during a suspected drug deal in Hamilton.",
+        "published": "Mon, 14 Sep 2026 10:35:42 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13033913/?type=app&htype=0"
+      },
+      {
         "id": "71d88882826a176ca4c44b809cadcec0",
         "title": "Major Glasgow road closed for days as drivers face lengthy diversions",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26547091.paisley-road-west-glasgow-closed-resurfacing/",
@@ -1979,14 +1995,6 @@
         "description": "The affected area of road was closed overnight and re-opened around 8.55am on Monday.",
         "published": "Mon, 14 Sep 2026 08:56:04 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34613127.ece/ALTERNATES/s98/4_M8.png"
-      },
-      {
-        "id": "226b1665e4ef6a166c3d37535540f5a9",
-        "title": "Man hospitalised after brawl outside Rangers pub in Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/sport/26546959.man-hospital-brawl-outside-rangers-pub-glasgow-duke-street/",
-        "description": "A man has been hospitalised following a reported brawl outside a Rangers pub in the East End of Glasgow",
-        "published": "Mon, 14 Sep 2026 09:54:57 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21448839/?type=app&htype=0"
       },
       {
         "id": "ec673ce17e8b3e1913f18f551bd24371",
@@ -2739,14 +2747,6 @@
         "description": "A group of former employees of Rockstar are claiming they were unfairly dismissed for trade union activities.",
         "published": "Fri, 11 Sep 2026 16:07:34 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/ce7fa3c9c08fe805455625cba9c8068d-1788854553-1280x720.jpeg"
-      },
-      {
-        "id": "1500f17bb644253d55a29922ba148c1d",
-        "title": "Could a 'creepy' and 'chilling' technology end hooliganism in Scottish football?",
-        "link": "https://www.heraldscotland.com/sport/football/26540639.chilling-technology-end-scottish-football-hooliganism/",
-        "description": "The Usual Suspects? Campaigners have warned a \"chilling\" technology will turn Scotland into a \"nation of suspects\". But can it end football hooliganism?",
-        "published": "Fri, 11 Sep 2026 17:07:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21437633/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
