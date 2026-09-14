@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/sport/athletics/articles/cqjkwl78plro#8",
+        "title": "How did the first Ultimate Championship go?",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjkwl78plro?at_medium=RSS&at_campaign=rss",
+        "description": "As the inaugural Ultimate Championship concludes, athletics has taken its first strides in a new direction.",
+        "published": "Mon, 14 Sep 2026 06:51:13 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b09/live/a602bbe0-b008-11f1-9713-5de61387c384.jpg"
+      },
+      {
         "id": "1789356308133365",
         "title": "Committee calls for bill to address AI threat to human rights",
         "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The discovery was made ahead of a planned expansion of a Highland quarry.",
         "published": "Fri, 14 Aug 2026 13:21:40 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7abc/live/6bf6ce70-97ce-11f1-a927-0dfab640b8c9.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cq561gpen8lo#0",
-        "title": "'Unprecedented' rains in Japan kill six people",
-        "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-        "description": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
-        "published": "Fri, 14 Aug 2026 07:00:56 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fc8/live/6099c440-9794-11f1-8c8f-61df390540c2.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
