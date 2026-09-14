@@ -1957,6 +1957,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "5ea6e019dd26a24e54e540b6406430f5",
+        "title": "Grassroots football club secures \u00a3200,000 for new 3G pitch and changing pavilion",
+        "link": "https://www.glasgowtimes.co.uk/news/26548645.knightswood-fc-secured-200-000-new-sports-facilities/",
+        "description": "A grassroots football club has secured \u00a3200,000 in funding to help build a new 3G pitch.",
+        "published": "Mon, 14 Sep 2026 14:37:06 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20783008/?type=app&htype=0"
+      },
+      {
         "id": "d906512e116efeef8b30a46f4301e8d9",
         "title": "M8 shut for 11 hours as man dies after being struck by car on motorway",
         "link": "https://www.glasgowtimes.co.uk/news/26548578.m8-shut-11-hours-man-dies-struck-car/",
@@ -1971,6 +1979,30 @@
         "description": "&quot;What happened to me is not something that I could ever have prepared for, nor is it something that will ever leave me.&quot;",
         "published": "Mon, 14 Sep 2026 13:24:36 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34613750.ece/ALTERNATES/s98/1_cop1.jpg"
+      },
+      {
+        "id": "922db0e068795fee819c9de9664f4236",
+        "title": "Former Scottish Conservative leader Douglas Ross appointed to new AIC role",
+        "link": "https://www.heraldscotland.com/news/26548434.douglas-ross-takes-new-scotland-agriculture-policy-position/",
+        "description": "Former Scottish Conservative leader Douglas Ross has been appointed Policy Manager for Scotland at the Agricultural Industries Confederation.",
+        "published": "Mon, 14 Sep 2026 14:00:06 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21452438/?type=app&htype=0"
+      },
+      {
+        "id": "e67127b0dc0dc7f5d2c6c64ba37d5db4",
+        "title": "Fishers and coastal communities asked to help rewrite rules for Scotland's seas",
+        "link": "https://www.heraldscotland.com/news/26548257.consultation-launched-scotlands-inshore-sea-protections/",
+        "description": "Scottish Government consults on fisheries management for 160+ Marine Protected Areas and Priority Marine Features in Scotland\u2019s inshore seas until January 18, 2027.",
+        "published": "Mon, 14 Sep 2026 13:59:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21331850/?type=app&htype=0"
+      },
+      {
+        "id": "0acbb0b11ce9a0b78acbb83e894833d1",
+        "title": "Glasgow Clyde College launches Scotland\u2019s first HNC focused on perinatal care",
+        "link": "https://www.heraldscotland.com/news/26548137.glasgow-clyde-college-launches-scotlands-first-hnc-perinatal-care/",
+        "description": "Glasgow Clyde College has launched Scotland\u2019s first HNC in perinatal care, offering a pathway into midwifery and related healthcare roles.",
+        "published": "Mon, 14 Sep 2026 13:57:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21452362/?type=app&htype=0"
       },
       {
         "id": "2e556dcc8bf60c0b8eadccfb5ebd043f",
@@ -2003,6 +2035,14 @@
         "description": "Prison staff are said to be unhappy that a memorial service was held for Donna Marie Brand who died whilst serving a life sentence for the murder of schoolgirl Caroline Glachan",
         "published": "Mon, 14 Sep 2026 13:46:22 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21379362/?type=app&htype=0"
+      },
+      {
+        "id": "23c64ba4be6e6a063aadb0e23553f6eb",
+        "title": "Scotland's most mysterious golf course goes up for sale",
+        "link": "https://www.heraldscotland.com/news/26548303.gwest-golf-resort-near-gleneagles-goes-sale/",
+        "description": "Scotland's \"ghost\" golf resort near Gleneagles has been put up for sale, reviving hopes for a long-delayed luxury development",
+        "published": "Mon, 14 Sep 2026 13:36:14 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21452408/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=529032",
