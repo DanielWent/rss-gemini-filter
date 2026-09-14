@@ -1965,6 +1965,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=529028",
+        "title": "Glasgow needs \u2018breathing space\u2019 from housing asylum seekers as pressure builds on council services",
+        "link": "https://news.stv.tv/west-central/glasgow-needs-breathing-space-from-housing-asylum-seekers-as-pressure-builds-on-council-services",
+        "description": "Glasgow has the highest number of Home Office-assisted asylum seekers in the UK at 3,938.",
+        "published": "Mon, 14 Sep 2026 16:15:09 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/83dce070e80c2f7a0b7ff1fa694db9ca-1786361940-960x720.jpeg"
+      },
+      {
+        "id": "ec6712416dcf6a5b6f0385ed9875e920",
+        "title": "Man appears in court accused of wilful fire-raising after Glasgow tenement blaze",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26549703.graeme-moxey-court-wilful-fire-raising-glasgow-tenement/",
+        "description": "Graeme Moxey appears in court accused of wilful fire-raising after a major blaze damaged a Stonyhurst Street tenement block in Glasgow. No injuries reported.",
+        "published": "Mon, 14 Sep 2026 17:13:15 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21454489/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/alcohol-trials-scotland-games-continue-34616893",
+        "title": "Alcohol trials at Scotland games continue after 'good result' at Hampden Park",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/alcohol-trials-scotland-games-continue-34616893",
+        "description": "Fans in certain areas will be able to buy alcohol ahead of games against Switzerland and Slovenia.",
+        "published": "Mon, 14 Sep 2026 15:58:50 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34001829.ece/ALTERNATES/s98/0_gettyimages-694750134-594x594.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/controversial-glasgow-flats-plan-near-34616709",
+        "title": "Controversial Glasgow flats plan near Barras recommended for refusal",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/controversial-glasgow-flats-plan-near-34616709",
+        "description": "Glasgow councillors will consider the developer's bid to demolish buildings, including a pub, to create flats tomorrow.",
+        "published": "Mon, 14 Sep 2026 15:55:48 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34615819.ece/ALTERNATES/s98/0_barrasflats.png"
+      },
+      {
+        "id": "10d88e609d9a64f4cbbd7e6a716dca3d",
+        "title": "Scottish wholesaler JW Filshill reports \u00a3213 million turnover despite profit fall",
+        "link": "https://www.heraldscotland.com/news/26549485.scottish-wholesaler-jw-filshill-reports-213m-turnover/",
+        "description": "W Filshill has reported \u00a3213m in revenue for 2025/26, while operating profit fell to \u00a34.1m amid rising costs.",
+        "published": "Mon, 14 Sep 2026 16:40:46 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21454145/?type=app&htype=0"
+      },
+      {
         "id": "44c4af253b16b0e23b044f20bc292e1c",
         "title": "Want Oasis Glasgow tickets? Here's how to get into the Celtic Park sale",
         "link": "https://www.glasgowtimes.co.uk/sport/26549414.oasis-album-1995-glasgow-celtic-park-oasis-ticket-registration-sale/",
@@ -1989,20 +2029,20 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article12768595.ece/ALTERNATES/s98/GettyImages-533053713.jpg"
       },
       {
+        "id": "https://www.bbc.co.uk/sport/football/articles/c62m922rg5qo#0",
+        "title": "McGregor laments Celtic's 'team of individuals'",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c62m922rg5qo?at_medium=RSS&at_campaign=rss",
+        "description": "Captain Callum McGregor is scathing in his assessment of Celtic's display in Sunday's 3-0 loss to Rangers.",
+        "published": "Mon, 14 Sep 2026 15:10:59 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b5c/live/eabcfc30-af7e-11f1-913a-7151f234deb3.jpg"
+      },
+      {
         "id": "a6d8368bcef72357aed6bf721a2c799f",
         "title": "Network Rail launches autumn operation to tackle persistent seasonal challenge",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26549224.network-rail-launched-autumn-operation-across-scotland/",
         "description": "Network Rail has launched its annual autumn operation across Scotland to tackle one of the railway\u2019s most persistent challenges.",
         "published": "Mon, 14 Sep 2026 16:05:33 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21453742/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=529067",
-        "title": "Oasis to play five nights at Celtic Park to kick off new tour",
-        "link": "https://news.stv.tv/west-central/oasis-to-play-five-nights-at-celtic-park-to-kick-off-new-tour",
-        "description": "Brothers Liam and Noel Gallagher will take to the stage in Scotland after three shows at Murrayfield last year",
-        "published": "Mon, 14 Sep 2026 15:04:34 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/0ed211ca2504aa234e416ec4a1692f61-1789398223.jpg"
       },
       {
         "id": "4aa92db2c00fdfd2b38e381b74b3a5c5",
@@ -2019,6 +2059,14 @@
         "description": "Plans approved for 112 affordable mid-market rental homes on Cook Street, Tradeston, Glasgow, with Lowther Homes and Wheatley leading the regeneration.",
         "published": "Mon, 14 Sep 2026 15:53:54 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21454109/?type=app&htype=0"
+      },
+      {
+        "id": "30b5b61869b2a36457f445e5e311146e",
+        "title": "Ancient Links founder exits as vote looms at The Glen Golf Club",
+        "link": "https://www.heraldscotland.com/news/26548962.ancient-links-director-exits-ahead-key-glen-golf-vote/",
+        "description": "Michael Wells has left the board of The Ancient Links Golf Company ahead of a special meeting at The Glen Golf Club amid controversy over a proposed takeover",
+        "published": "Mon, 14 Sep 2026 15:27:44 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/14857567/?type=app&htype=0"
       },
       {
         "id": "9046777",
