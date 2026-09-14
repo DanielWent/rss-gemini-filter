@@ -1965,12 +1965,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cw4gm40yz0veo#0",
+        "title": "Man in court over deliberate fire at empty tenement building",
+        "link": "https://www.bbc.co.uk/news/articles/cw4gm40yz0veo?at_medium=RSS&at_campaign=rss",
+        "description": "The 48-year-old man has been charged with wilful fireraising over the blaze in the Possilpark area of Glasgow.",
+        "published": "Mon, 14 Sep 2026 17:00:34 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c69/live/1fe92c90-aaba-11f1-b109-879e35c24276.jpg"
+      },
+      {
+        "id": "a92b5dc4bc16b78ab661ef729607e4d7",
+        "title": "Barras 63-flats plan faces rejection amid fears for Glasgow arts venue",
+        "link": "https://www.heraldscotland.com/news/26549852.barras-flats-plan-recommended-refusal-baad-concerns/",
+        "description": "Plans to build over 60 flats at the corner of the Barras are recommended for refusal amid fears over the impact on arts venue BAaD.",
+        "published": "Mon, 14 Sep 2026 17:51:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21454678/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=529028",
         "title": "Glasgow needs \u2018breathing space\u2019 from housing asylum seekers as pressure builds on council services",
         "link": "https://news.stv.tv/west-central/glasgow-needs-breathing-space-from-housing-asylum-seekers-as-pressure-builds-on-council-services",
         "description": "Glasgow has the highest number of Home Office-assisted asylum seekers in the UK at 3,938.",
         "published": "Mon, 14 Sep 2026 16:15:09 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/83dce070e80c2f7a0b7ff1fa694db9ca-1786361940-960x720.jpeg"
+      },
+      {
+        "id": "9f9c34411031bcc0089f047a8c86ac2f",
+        "title": "Alcohol sales approved for more Scotland games at Hampden after 'good result'",
+        "link": "https://www.heraldscotland.com/news/26549713.alcohol-sales-continue-scotland-games-hampden-park/",
+        "description": "Scotland fans will be able to buy alcohol at upcoming games at Hampden Park following a \u201cgood result\u201d in earlier trials.",
+        "published": "Mon, 14 Sep 2026 17:14:58 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20528864/?type=app&htype=0"
       },
       {
         "id": "ec6712416dcf6a5b6f0385ed9875e920",
