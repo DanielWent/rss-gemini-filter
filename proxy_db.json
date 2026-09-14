@@ -1949,6 +1949,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=528997",
+        "title": "Father and son jailed for total of 34 years after PC pulled into speeding Audi in murder bid",
+        "link": "https://news.stv.tv/west-central/father-and-son-jailed-for-total-of-34-years-after-pc-pulled-into-speeding-audi-in-murder-bid",
+        "description": "Douglas Mills and his son, Douglas Mills jnr, left PC Mark Smith fighting for his life after he fell from the speeding vehicle",
+        "published": "Mon, 14 Sep 2026 10:21:20 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/af2cd0635a93f8ad35416d4c306c524c-1789379887-1120x720.jpg"
+      },
+      {
         "id": "59936f91eb2230fbd31af67656e0a7ec",
         "title": "Strictly Come Dancing star to appear in adaptation of beloved novel in Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26547204.anton-du-beke-appear-ballet-shoes-glasgows-kings-theatre/",
@@ -2739,14 +2747,6 @@
         "description": "Six rescued pine martens have been released back into the wild for a \u2018second chance at life\u2019.",
         "published": "Fri, 11 Sep 2026 17:26:41 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21443356/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=528858",
-        "title": "Employee dismissed from GTA developer believes workers were put on \u2018watch list\u2019",
-        "link": "https://news.stv.tv/west-central/employee-dismissed-from-gta-developer-believes-workers-were-put-on-watch-list",
-        "description": "A group of former employees of Rockstar are claiming they were unfairly dismissed for trade union activities.",
-        "published": "Fri, 11 Sep 2026 16:07:34 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/ce7fa3c9c08fe805455625cba9c8068d-1788854553-1280x720.jpeg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
