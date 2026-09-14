@@ -1949,28 +1949,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c6eq810eyzpro#0",
+        "title": "Controversial \u00a316m revamp of Burns Statue Square approved",
+        "link": "https://www.bbc.co.uk/news/articles/c6eq810eyzpro?at_medium=RSS&at_campaign=rss",
+        "description": "The scheme aims to turn the traffic-dominated square into a new civic space and gateway to the town centre.",
+        "published": "Mon, 14 Sep 2026 12:48:34 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c9b/live/1a1cc920-b037-11f1-9ae0-e316eeb4632d.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=529032",
+        "title": "Police officer assaulted as four arrests made during Old Firm game at Ibrox",
+        "link": "https://news.stv.tv/west-central/police-officer-assaulted-as-four-arrests-made-during-old-firm-game-at-ibrox",
+        "description": "Police confirmed a 28-year-old man was arrested in connection with the assault of an officer.",
+        "published": "Mon, 14 Sep 2026 12:31:06 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/7f591454608e5ca4128a438584fc2bcd-1789386636-1200x720.jpeg"
+      },
+      {
+        "id": "8af12c95c423fc422f93edef10a8ef92",
+        "title": "Five-time Grammy winners to play Glasgow in first UK shows for five years",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26548253.snarky-puppy-play-glasgow-2027-tour-first-time-five-years/",
+        "description": "Five-time Grammy winners Snarky Puppy bring their jazz-fusion live show to Glasgow Royal Concert Hall on April 23, 2027, with London and Manchester dates.",
+        "published": "Mon, 14 Sep 2026 13:26:08 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21452201/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c2kw4nlze1wo#0",
         "title": "Father and son jailed for dragging 'terrified' police officer along road",
         "link": "https://www.bbc.co.uk/news/articles/c2kw4nlze1wo?at_medium=RSS&at_campaign=rss",
         "description": "Douglas Mills, 58, and Douglas Mills Jnr, 32,  sped off in an Audi after PC Mark Smith approached them over a suspected drug deal",
         "published": "Mon, 14 Sep 2026 12:06:29 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41ef/live/f66b9440-b025-11f1-b1d1-571ed4d7ff2c.png"
-      },
-      {
-        "id": "4f6ab662d0a69fef47d70e2c3a5a19f6",
-        "title": "I thought I'd never see my family again after horror attack changed my life",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26547883.officer-feared-never-see-family-attack-hamilton/",
-        "description": "Police Scotland officer Mark Smith recalls being dragged by a car in Hamilton, Lanarkshire, after attackers received 17-year sentences for attempted murder.",
-        "published": "Mon, 14 Sep 2026 12:17:14 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21451658/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=528997",
-        "title": "Father and son jailed for total of 34 years after PC pulled into speeding Audi in murder bid",
-        "link": "https://news.stv.tv/west-central/father-and-son-jailed-for-total-of-34-years-after-pc-pulled-into-speeding-audi-in-murder-bid",
-        "description": "Douglas Mills and his son, Douglas Mills jnr, left PC Mark Smith fighting for his life after he fell from the speeding vehicle",
-        "published": "Mon, 14 Sep 2026 10:21:20 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/af2cd0635a93f8ad35416d4c306c524c-1789379887-1120x720.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
