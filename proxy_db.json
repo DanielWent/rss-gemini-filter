@@ -1949,6 +1949,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/bid-transform-three-disused-glasgow-34610544",
+        "title": "Bid to transform three disused Glasgow school janitor houses into social homes",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/bid-transform-three-disused-glasgow-34610544",
+        "description": "Glasgow Building Preservation Trust is looking to purchase the derelict buildings and convert them for social housing.",
+        "published": "Mon, 14 Sep 2026 06:18:40 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34610612.ece/ALTERNATES/s98/0_Royston-School-janitors-housejpeg.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-who-tried-end-34606027",
+        "title": "Glasgow mum who tried to end own life from postnatal depression 'wrongly' discharged by NHS",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-who-tried-end-34606027",
+        "description": "&quot;The only thing that hasn't killed me yet is that I don't want to be the reason Callie doesn't have a mum.&quot;",
+        "published": "Mon, 14 Sep 2026 06:13:36 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34606721.ece/ALTERNATES/s98/1_Stephanie3.jpg"
+      },
+      {
         "id": "9037436",
         "title": "Rangers star who 'ran the show' in League Cup QF cruise vs Celtic earns comparison to iconic Ibrox skipper",
         "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-star-who-ran-the-show-in-league-cup-qf-cruise-vs-celtic-earns-comparison-to-iconic-ibrox-skipper-9037436",
