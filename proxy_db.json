@@ -1949,6 +1949,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "1cb6ea940f6229fa0ab2ef6d6729f82e",
+        "title": "SNP, Plaid and Sinn F\u00e9in leaders expected to sign joint agreement in Cardiff",
+        "link": "https://www.heraldscotland.com/news/26546636.devolved-leaders-expected-sign-joint-agreement-cardiff/",
+        "description": "Constitutional change for the UK's constituent countries is back on the agenda",
+        "published": "Mon, 14 Sep 2026 08:06:03 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/16176618/?type=app&htype=0"
+      },
+      {
+        "id": "9039762",
+        "title": "Steven Gerrard makes undercover Ibrox return for Celtic League Cup tie as former boss joins celebrations with ex players",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/steven-gerrard-undercover-ibrox-return-celtic-league-cup-tie-former-boss-celebrations-ex-players-9039762",
+        "description": "<p>The former Rangers boss kept a low profile during Sunday\u2019s Old Firm derby but emerged after the final whistle to celebrate with some familiar faces</p>",
+        "published": "Mon, 14 Sep 2026 07:00:05 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/13/19/37/Gerrard.jpg?width=1200&auto=webp&trim=6%2C0%2C7%2C0"
+      },
+      {
         "id": "https://news.stv.tv/?p=528966",
         "title": "Stretch of M8 remains remains closed after crash near Glasgow Airport",
         "link": "https://news.stv.tv/west-central/stretch-of-m8-remains-remains-closed-after-crash-near-glasgow-airport",
@@ -1963,6 +1979,14 @@
         "description": "Live as the M8 is currently closed amid an ongoing police incident",
         "published": "Mon, 14 Sep 2026 07:32:01 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21449165/?type=app&htype=0"
+      },
+      {
+        "id": "7726b1c7fa074d30a948c79e437ea91f",
+        "title": "Late night crash closes M8 in both directions - police at scene",
+        "link": "https://www.heraldscotland.com/news/26546605.late-night-crash-closes-m8-directions---police-scene/",
+        "description": "The accident has shut a large section of the motorway",
+        "published": "Mon, 14 Sep 2026 07:25:47 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20567101/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/bid-transform-three-disused-glasgow-34610544",
@@ -2723,30 +2747,6 @@
         "description": "A major new research project near Ullapool will investigate one of the UK\u2019s smallest - and most elusive - seabirds, weighing the equivalent of just three \u00a31 coins.",
         "published": "Fri, 11 Sep 2026 16:27:11 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21442885/?type=app&htype=0"
-      },
-      {
-        "id": "c235eef48871de80b7a64d821db65c9d",
-        "title": "John Swinney backs calls for cut in whisky duty in upcoming Budget",
-        "link": "https://www.heraldscotland.com/news/26543640.john-swinney-backs-calls-whisky-duty-cut-budget/",
-        "description": "John Swinney has backed calls for a cut in whisky duty in the UK Government\u2019s upcoming Budget.",
-        "published": "Fri, 11 Sep 2026 16:15:12 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21441089/?type=app&htype=0"
-      },
-      {
-        "id": "68d8a9d6372319e5333be49255ae00de",
-        "title": "Glasgow dad hits fundraising target to take Tommy Robinson to court",
-        "link": "https://www.glasgowtimes.co.uk/news/26543634.scottish-dad-hits-fundraising-target-take-tommy-robinson-court/",
-        "description": "A GLASWEGIAN dad who has reached a huge fundraising target to take Tommy Robinson to court for defamation hopes he can now lead the fight for fellow victims of far-right attacks in Scotland ...",
-        "published": "Fri, 11 Sep 2026 16:13:49 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20867903/?type=app&htype=0"
-      },
-      {
-        "id": "e2bcdf69bb21ed805ec44e32ec0d2c66",
-        "title": "Delay announced in Peter Murrell proceeds of crime case",
-        "link": "https://www.glasgowtimes.co.uk/news/26543580.peter-murrell-hearing-repaying-400-000-snp-delayed/",
-        "description": "Peter Murrell will no longer appear in court this month over repaying the SNP embezzlement funds.",
-        "published": "Fri, 11 Sep 2026 16:06:23 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20960694/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
