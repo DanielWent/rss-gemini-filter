@@ -1949,6 +1949,62 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "71d88882826a176ca4c44b809cadcec0",
+        "title": "Major Glasgow road closed for days as drivers face lengthy diversions",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26547091.paisley-road-west-glasgow-closed-resurfacing/",
+        "description": "Paisley Road West in Glasgow is closed until 6am on September 19 for resurfacing works. Drivers should avoid the area and follow signed diversions.",
+        "published": "Mon, 14 Sep 2026 10:17:28 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19342883/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/concerns-over-how-often-vape-34613239",
+        "title": "Concerns over how often vape shops are checked compared to sandwich shops",
+        "link": "https://www.glasgowlive.co.uk/news/concerns-over-how-often-vape-34613239",
+        "description": "Research using data from 21 Trading Standards services and 27 councils highlights a major enforcement gap",
+        "published": "Mon, 14 Sep 2026 09:16:31 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/article34613238.ece/ALTERNATES/s98/0_Construction-manager-writing-notes-on-clipboard-during-building-inspection.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=528985",
+        "title": "Man taken to hospital after disturbance involving \u2018number of people\u2019 outside Glasgow pub",
+        "link": "https://news.stv.tv/west-central/man-taken-to-hospital-after-disturbance-involving-number-of-people-outside-glasgow-pub",
+        "description": "Police were called to the incident near a pub on Duke Street on Sunday afternoon",
+        "published": "Mon, 14 Sep 2026 09:08:01 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/b437db48deb544088ad579526981d38b-1789376276-1280x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/pedestrian-dies-after-being-struck-34613086",
+        "title": "Pedestrian dies after being struck by car on M8 as police launch probe",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/pedestrian-dies-after-being-struck-34613086",
+        "description": "The affected area of road was closed overnight and re-opened around 8.55am on Monday.",
+        "published": "Mon, 14 Sep 2026 08:56:04 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34613127.ece/ALTERNATES/s98/4_M8.png"
+      },
+      {
+        "id": "226b1665e4ef6a166c3d37535540f5a9",
+        "title": "Man hospitalised after brawl outside Rangers pub in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/sport/26546959.man-hospital-brawl-outside-rangers-pub-glasgow-duke-street/",
+        "description": "A man has been hospitalised following a reported brawl outside a Rangers pub in the East End of Glasgow",
+        "published": "Mon, 14 Sep 2026 09:54:57 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21448839/?type=app&htype=0"
+      },
+      {
+        "id": "ec673ce17e8b3e1913f18f551bd24371",
+        "title": "Scotland's first Ivy Asia to open inside iconic Glasgow landmark",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26546952.scotlands-first-ivy-asia-restaurant-open-glasgow-city-centre/",
+        "description": "The Ivy Asia will open in Glasgow this autumn, marking its Scottish debut, alongside a larger Ivy Glasgow Brasserie at St Vincent Place, creating 90 jobs.",
+        "published": "Mon, 14 Sep 2026 09:52:40 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21449792/?type=app&htype=0"
+      },
+      {
+        "id": "c204176941ac5b49cc2d9939c8a28239",
+        "title": "Glasgow Scottie dog art trail raises more than \u00a3435,000 for cancer support",
+        "link": "https://www.glasgowtimes.co.uk/news/26546940.glasgow-art-trail-raised-435-500-maggies/",
+        "description": "The Scotties in the City trail has raised more than \u00a3435,000 for cancer support.",
+        "published": "Mon, 14 Sep 2026 09:51:12 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21449762/?type=app&htype=0"
+      },
+      {
         "id": "9044921",
         "title": "Scott Brown spots Rangers decision that nobody saw coming as he hopes for one-off from Celtic star",
         "link": "https://www.glasgowworld.com/sport/football/celtic/scott-brown-spots-rangers-decision-nobody-saw-coming-hopes-one-off-celtic-star-9044921",
@@ -2691,46 +2747,6 @@
         "description": "The Usual Suspects? Campaigners have warned a \"chilling\" technology will turn Scotland into a \"nation of suspects\". But can it end football hooliganism?",
         "published": "Fri, 11 Sep 2026 17:07:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21437633/?type=app&htype=0"
-      },
-      {
-        "id": "a1d87d26aeba1228a50bd4d20235e1a5",
-        "title": "Glasgow university lecturer fired after sexual harassment complaints from students",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26543929.glasgow-lecturer-dismissed-sexual-harassment-claims/",
-        "description": "A Glasgow university lecturer has been dismissed following sexual harassment allegations made by students.",
-        "published": "Fri, 11 Sep 2026 17:01:45 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19977440/?type=app&htype=0"
-      },
-      {
-        "id": "24c83875ae49c95411692fbdd455b644",
-        "title": "We need to know if the BBC deliberately shafted Glasgow over the Commonwealth Games",
-        "link": "https://www.heraldscotland.com/politics/viewpoint/26543507.bbc-deliberately-shaft-glasgow-commonwealth-games/",
-        "description": "First, we were told the BBC was outbid, then it was said the broadcaster only bid \u00a3900k, now it\u2019s claimed there wasn\u2019t even a bid. People need the truth, says Neil Mackay.",
-        "published": "Fri, 11 Sep 2026 17:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21442878/?type=app&htype=0"
-      },
-      {
-        "id": "37db25a9362ca3c752bc765266507537",
-        "title": "Glasgow children unable to use gardens as housing associations refuse fence repairs",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26543775.glasgow-children-unable-use-gardens-broken-fences/",
-        "description": "Children are unable to play in some Glasgow gardens due to broken fences, according to a councillor who says social landlords are not making maintenance a priority.",
-        "published": "Fri, 11 Sep 2026 16:36:12 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20223179/?type=app&htype=0"
-      },
-      {
-        "id": "2731b4acdf1c02384bf073565abd4bb3",
-        "title": "Part of \u00a35m Edinburgh fire fund earmarked for 'likelihood' of legal challenge",
-        "link": "https://www.heraldscotland.com/news/26542844.princes-street-fire-fund-earmarked-likelihood-legal-challenge/",
-        "description": "City of Edinburgh Council said it will attempt to recoup costs incurred by securing the fire-stricken former Debenhams from landlord Criterion Capital in \u201cdue course\u201d.",
-        "published": "Fri, 11 Sep 2026 16:33:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21163348/?type=app&htype=0"
-      },
-      {
-        "id": "22a8bb0fa2e697603b3b35352a21779e",
-        "title": "Major new research project to investigate tiny Summer Isles seabird",
-        "link": "https://www.heraldscotland.com/news/26543725.new-study-investigate-tiny-summer-isles-seabird/",
-        "description": "A major new research project near Ullapool will investigate one of the UK\u2019s smallest - and most elusive - seabirds, weighing the equivalent of just three \u00a31 coins.",
-        "published": "Fri, 11 Sep 2026 16:27:11 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21442885/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
