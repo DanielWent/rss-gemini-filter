@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1789394729537340",
+        "title": "Two runners died during Great North Run",
+        "link": "https://www.bbc.co.uk/news/articles/crje8zz1kdldo?at_medium=RSS&at_campaign=rss",
+        "description": "The men, both aged 25, collapsed on the course on Sunday, the Great Run Company says.",
+        "published": "Mon, 14 Sep 2026 15:35:15 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba17/live/c0bc8530-b03d-11f1-9ae0-e316eeb4632d.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/sport/athletics/articles/cr2kw4p3yxy7o#8",
         "title": "Brands v country - Kerr ramps up kit battle after latest victory",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/cr2kw4p3yxy7o?at_medium=RSS&at_campaign=rss",
@@ -51,14 +59,6 @@
         "description": "A new report warns Himalayan glaciers are melting faster, threatening India\u2019s water, economy and communities.",
         "published": "Sun, 13 Sep 2026 22:07:22 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03f1/live/7fae1aa0-adad-11f1-8ac2-99a6f36b284a.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/athletics/articles/czjz0yn1rn2o#8",
-        "title": "Dominant Kerr wins $150k with GB's first Ultimate title",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/czjz0yn1rn2o?at_medium=RSS&at_campaign=rss",
-        "description": "Josh Kerr ends a sensational season by winning the Ultimate Championship 1500m title as the inaugural edition of athletics' new global event concludes.",
-        "published": "Sun, 13 Sep 2026 19:45:58 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb20/live/cffd8160-afa8-11f1-9619-0d4deb3a4ac7.jpg"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/cwyzp47py48o#2",
@@ -1957,12 +1957,52 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9046777",
+        "title": "'Glasgow deserves a say': Campaigners bid to keep site of first Hampden Park in community hands",
+        "link": "https://www.glasgowworld.com/news/campaigners-bid-to-keep-site-of-first-hampden-park-in-community-hands-9046777",
+        "description": "<p>Campaigners in bid to keep site of first Hampden Park in community hands</p>",
+        "published": "Mon, 14 Sep 2026 14:11:57 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/14/11/17/Mural_Footballs-Square-Mile.jpeg?width=1200&auto=webp&trim=503%2C0%2C505%2C0"
+      },
+      {
+        "id": "4fb06cef698a97578a6c4c4a5330cd82",
+        "title": "GTA 6 developer accuses former employee of leaking emails in tribunal battle",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26548855.rockstar-games-worker-accused-sharing-confidential-emails/",
+        "description": "Rockstar Games faces a Glasgow tribunal claim from 23 former staff after Discord sharing of emails led to gross misconduct dismissals and union claims.",
+        "published": "Mon, 14 Sep 2026 15:11:01 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21435952/?type=app&htype=0"
+      },
+      {
+        "id": "88959a96b39785f95ea8335a16080639",
+        "title": "Driver to face trial over death of dad crossing road in Paisley",
+        "link": "https://www.glasgowtimes.co.uk/news/26548749.driver-face-trial-death-dad-crossing-road-paisley/",
+        "description": "Paisley driver Sapphire Martin denies causing James McFarlane\u2019s death by dangerous driving after a 2024 crash. High Court trial in Glasgow set for November 2027.",
+        "published": "Mon, 14 Sep 2026 14:55:10 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17310635/?type=app&htype=0"
+      },
+      {
+        "id": "7b699cddb1ed009d80704cff572f1413",
+        "title": "New 140-room hotel development proposed beside Dalmarnock station in Glasgow east end",
+        "link": "https://www.heraldscotland.com/news/26548656.new-140-room-hotel-proposed-beside-dalmarnock-station-glasgow/",
+        "description": "A new 140-room hotel is being proposed beside Dalmarnock railway station as Clyde Gateway seeks a development and operating partner.",
+        "published": "Mon, 14 Sep 2026 14:54:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21451487/?type=app&htype=0"
+      },
+      {
         "id": "5ea6e019dd26a24e54e540b6406430f5",
         "title": "Grassroots football club secures \u00a3200,000 for new 3G pitch and changing pavilion",
         "link": "https://www.glasgowtimes.co.uk/news/26548645.knightswood-fc-secured-200-000-new-sports-facilities/",
         "description": "A grassroots football club has secured \u00a3200,000 in funding to help build a new 3G pitch.",
         "published": "Mon, 14 Sep 2026 14:37:06 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20783008/?type=app&htype=0"
+      },
+      {
+        "id": "6c778c01e8191a1f4ed44bb508dc1049",
+        "title": "New report finds Royal Conservatoire of Scotland delivers \u00a35 for every \u00a31 of funding",
+        "link": "https://www.heraldscotland.com/news/26548546.new-report-finds-glasgow-conservatoire-delivers-5-per-1-invested/",
+        "description": "A new BiGGAR Economics report says the Royal Conservatoire of Scotland generated \u00a364.4m in GVA and supported 1,650 jobs in 2024/25.",
+        "published": "Mon, 14 Sep 2026 14:31:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21452618/?type=app&htype=0"
       },
       {
         "id": "d906512e116efeef8b30a46f4301e8d9",
@@ -1979,6 +2019,14 @@
         "description": "&quot;What happened to me is not something that I could ever have prepared for, nor is it something that will ever leave me.&quot;",
         "published": "Mon, 14 Sep 2026 13:24:36 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34613750.ece/ALTERNATES/s98/1_cop1.jpg"
+      },
+      {
+        "id": "280f237b7cfd37453febc8283aa8d11c",
+        "title": "Man charged over alleged assault during Celtic's title-winning clash with Hearts",
+        "link": "https://www.heraldscotland.com/news/26548481.man-charged-alleged-assault-celtic-v-hearts-match/",
+        "description": "A man has been arrested and charged in connection with an alleged assault during Celtic's Premiership title-clinching victory over Hearts at Celtic Park.",
+        "published": "Mon, 14 Sep 2026 14:15:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20232299/?type=app&htype=0"
       },
       {
         "id": "922db0e068795fee819c9de9664f4236",
