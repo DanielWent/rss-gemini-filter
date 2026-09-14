@@ -1949,6 +1949,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "68d98c804880495ea8107d75085f3423",
+        "title": "LIVE as Glasgow Central trains facing cancellation after fault found",
+        "link": "https://www.glasgowtimes.co.uk/news/26547568.live-glasgow-central-trains-face-cancellation-amid-fault/",
+        "description": "A signalling fault at Glasgow Central Station is affecting services across the city on Monday morning",
+        "published": "Mon, 14 Sep 2026 11:33:45 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20651689/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=528997",
         "title": "Father and son jailed for total of 34 years after PC pulled into speeding Audi in murder bid",
         "link": "https://news.stv.tv/west-central/father-and-son-jailed-for-total-of-34-years-after-pc-pulled-into-speeding-audi-in-murder-bid",
@@ -1957,20 +1965,20 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/af2cd0635a93f8ad35416d4c306c524c-1789379887-1120x720.jpg"
       },
       {
+        "id": "da27d30761083784edf790965740cdd8",
+        "title": "Man dies after being hit by car while crossing motorway",
+        "link": "https://www.heraldscotland.com/news/26547232.man-dies-hit-car-crossing-m8-near-paisley/",
+        "description": "A man has died after being hit by a car while crossing a busy motorway.",
+        "published": "Mon, 14 Sep 2026 10:41:33 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/7313031/?type=app&htype=0"
+      },
+      {
         "id": "59936f91eb2230fbd31af67656e0a7ec",
         "title": "Strictly Come Dancing star to appear in adaptation of beloved novel in Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26547204.anton-du-beke-appear-ballet-shoes-glasgows-kings-theatre/",
         "description": "Strictly Come Dancing star Anton du Beke is set to make his National Theatre debut.",
         "published": "Mon, 14 Sep 2026 10:37:49 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21450336/?type=app&htype=0"
-      },
-      {
-        "id": "3e9a0bbf1f13d0e2a337516acb59e8c7",
-        "title": "Police officer's 'I thought I'd die' horror as dad and son jailed for 34 years",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26547192.father-son-jailed-17-years-police-murder-bid-hamilton/",
-        "description": "Father and son jailed for 17 years each for attempting to murder PC Mark Smith, dragged from an Audi during a suspected drug deal in Hamilton.",
-        "published": "Mon, 14 Sep 2026 10:35:42 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13033913/?type=app&htype=0"
       },
       {
         "id": "71d88882826a176ca4c44b809cadcec0",
@@ -2611,14 +2619,6 @@
         "description": "<p>The latest team news ahead of Sunday\u2019s Premier Sports Cup quarter-final between Rangers v Celtic at Ibrox</p>",
         "published": "Sat, 12 Sep 2026 08:00:47 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/11/12/33/GettyImages-2275465868.jpeg?width=1200&auto=webp&trim=87%2C0%2C89%2C0"
-      },
-      {
-        "id": "d31f090b82db001acf2edfc87561f952",
-        "title": "Man charged over Glasgow tenement fire",
-        "link": "https://www.heraldscotland.com/news/26544549.man-charged-glasgow-tenement-fire/",
-        "description": "A man has been charged over a fire at a Glasgow tenement. Emergency services were called to Stoneyhurst Street in the Possil area of the city at about 4.50pm on September 6",
-        "published": "Sat, 12 Sep 2026 08:55:28 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21417595/?type=app&htype=0"
       },
       {
         "id": "f88ab4882cf8b6a6cf94a7c0484e82de",
