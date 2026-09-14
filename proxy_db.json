@@ -1965,6 +1965,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "44c4af253b16b0e23b044f20bc292e1c",
+        "title": "Want Oasis Glasgow tickets? Here's how to get into the Celtic Park sale",
+        "link": "https://www.glasgowtimes.co.uk/sport/26549414.oasis-album-1995-glasgow-celtic-park-oasis-ticket-registration-sale/",
+        "description": "Oasis fans must register by September 17 for a chance to buy Celtic Park Glasgow tickets, with no general sale planned for the May 2027 shows.",
+        "published": "Mon, 14 Sep 2026 16:31:20 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21453984/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/popular-pizzeria-rudys-hoping-open-34615124",
+        "title": "Popular pizzeria Rudy's hoping to open Glasgow venue next month",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/popular-pizzeria-rudys-hoping-open-34615124",
+        "description": "The restaurant secured a provisional premises licence on Friday, allowing alcohol to be sold.",
+        "published": "Mon, 14 Sep 2026 15:28:28 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34615114.ece/ALTERNATES/s98/0_houseofhighlandsgordonstreet.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-men-urged-stand-up-34615689",
+        "title": "Glasgow men urged to stand up for women and girls following 'shocking increase' in violent incidents",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-men-urged-stand-up-34615689",
+        "description": "At Thursday\u2019s full council meeting, during a motion on how to end VAWAG, it was also highlighted that most crimes are carried out in domestic premises by perpetrators who are known to their victims.",
+        "published": "Mon, 14 Sep 2026 15:25:17 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article12768595.ece/ALTERNATES/s98/GettyImages-533053713.jpg"
+      },
+      {
         "id": "a6d8368bcef72357aed6bf721a2c799f",
         "title": "Network Rail launches autumn operation to tackle persistent seasonal challenge",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26549224.network-rail-launched-autumn-operation-across-scotland/",
@@ -1987,6 +2011,14 @@
         "description": "A suspect is accused of murdering a man amid claims he earlier threatened to kill and dismember him.",
         "published": "Mon, 14 Sep 2026 15:57:34 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20936144/?type=app&htype=0"
+      },
+      {
+        "id": "9f0dee580db49bacf012df8208e89943",
+        "title": "More than 110 new affordable homes to be built on vacant Glasgow land",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26549144.112-affordable-homes-approved-vacant-glasgow-site-tradeston/",
+        "description": "Plans approved for 112 affordable mid-market rental homes on Cook Street, Tradeston, Glasgow, with Lowther Homes and Wheatley leading the regeneration.",
+        "published": "Mon, 14 Sep 2026 15:53:54 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21454109/?type=app&htype=0"
       },
       {
         "id": "9046777",
