@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/sport/athletics/articles/cr2kw4p3yxy7o#8",
+        "title": "Brands v country - Kerr ramps up kit battle after latest victory",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cr2kw4p3yxy7o?at_medium=RSS&at_campaign=rss",
+        "description": "Josh Kerr celebrated becoming Great Britain's first Ultimate Champion by making a clear point about funding in athletics - BBC Sport explains what the issue is.",
+        "published": "Mon, 14 Sep 2026 13:22:44 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c774/live/ea633370-b02e-11f1-a8a9-13be82d23441.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c790xvnzgnno#2",
         "title": "Why are there concerns AI could threaten humanity, and how real are they?",
         "link": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
         "published": "Sat, 15 Aug 2026 02:51:19 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae3/live/73539fc0-984d-11f1-92c4-9d3840de4561.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/athletics/articles/cyvl05g8g4lo#8",
-        "title": "Hodgkinson beaten to European gold by rival Werro",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/cyvl05g8g4lo?at_medium=RSS&at_campaign=rss",
-        "description": "Keely Hodgkinson is forced to settle for European silver as Switzerland's Audrey Werro denies the Briton a third consecutive title in a thrilling 800m final.",
-        "published": "Fri, 14 Aug 2026 21:38:37 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29dc/live/9201f610-9825-11f1-a44b-45599586ea50.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -1956,6 +1956,30 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "d906512e116efeef8b30a46f4301e8d9",
+        "title": "M8 shut for 11 hours as man dies after being struck by car on motorway",
+        "link": "https://www.glasgowtimes.co.uk/news/26548578.m8-shut-11-hours-man-dies-struck-car/",
+        "description": "The M8 has been shut for 11 hours to allow for investigations to take place as a man had died after being struck by car on motorway",
+        "published": "Mon, 14 Sep 2026 14:26:27 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20567101/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/cop-who-survived-brutal-hamilton-34615236",
+        "title": "Cop who survived brutal Hamilton murder bid says 'I'll never be the same'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/cop-who-survived-brutal-hamilton-34615236",
+        "description": "&quot;What happened to me is not something that I could ever have prepared for, nor is it something that will ever leave me.&quot;",
+        "published": "Mon, 14 Sep 2026 13:24:36 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34613750.ece/ALTERNATES/s98/1_cop1.jpg"
+      },
+      {
+        "id": "2e556dcc8bf60c0b8eadccfb5ebd043f",
+        "title": "New jewellery store opens in Glasgow as popular brand makes Scotland debut",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26548405.australian-jewellery-brand-opens-first-scottish-store-silverburn/",
+        "description": "Australian jewellery brand HARLI + HARPA opens its first Scottish store at Silverburn in Glasgow, offering waterproof, made-to-order jewellery and gifts.",
+        "published": "Mon, 14 Sep 2026 13:54:13 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21452377/?type=app&htype=0"
+      },
       {
         "id": "https://www.bbc.co.uk/news/articles/c6eq810eyzpro#0",
         "title": "Controversial \u00a316m revamp of Burns Statue Square approved",
