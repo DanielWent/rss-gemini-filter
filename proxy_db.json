@@ -1949,6 +1949,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=528966",
+        "title": "Stretch of M8 remains remains closed after crash near Glasgow Airport",
+        "link": "https://news.stv.tv/west-central/stretch-of-m8-remains-remains-closed-after-crash-near-glasgow-airport",
+        "description": "The motorway is closed to all westbound traffic after Junction 29.",
+        "published": "Mon, 14 Sep 2026 06:52:39 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/506250678d98165d6424b3d3d052e7fd-1789368710-1280x720.jpeg"
+      },
+      {
+        "id": "3066bb1b93a999bb78efcb0bca21aaab",
+        "title": "LIVE updates as major motorway CLOSED for 8 hours amid police incident",
+        "link": "https://www.glasgowtimes.co.uk/news/26546610.live-updates-m8-closed-amid-police-incident/",
+        "description": "Live as the M8 is currently closed amid an ongoing police incident",
+        "published": "Mon, 14 Sep 2026 07:32:01 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21449165/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/bid-transform-three-disused-glasgow-34610544",
         "title": "Bid to transform three disused Glasgow school janitor houses into social homes",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/bid-transform-three-disused-glasgow-34610544",
@@ -1963,6 +1979,54 @@
         "description": "&quot;The only thing that hasn't killed me yet is that I don't want to be the reason Callie doesn't have a mum.&quot;",
         "published": "Mon, 14 Sep 2026 06:13:36 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34606721.ece/ALTERNATES/s98/1_Stephanie3.jpg"
+      },
+      {
+        "id": "59379f2a005435d177c491bc077dbcf2",
+        "title": "Former River City writer from Glasgow publishes debut crime novel",
+        "link": "https://www.glasgowtimes.co.uk/entertainment/tv_radio/26542549.former-river-city-writer-linda-mclaughlin-publishes-original-sins/",
+        "description": "A former River City writer has published her debut novel 21 years after first beginning work on it, with the story inspired by a friend's adoption experience and the writings of John Steinbeck.",
+        "published": "Mon, 14 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21440656/?type=app&htype=0"
+      },
+      {
+        "id": "5423b93a26f2b49db40dae8367a75675",
+        "title": "'Nothing quite like it': Inside the bold musical inspired by Hamilton and video games",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26543751.calton-duo-bring-video-game-inspired-musical-glasgow/",
+        "description": "A bold musical inspired by Hamilton, anime and video games is coming to the Glasgow stage. Three of a Kind, created by writer and composer Gregor Satti and his fianc\u00e9e Afia Evans, will be staged in concert at Cottiers Theatre in Glasgow.",
+        "published": "Mon, 14 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21442871/?type=app&htype=0"
+      },
+      {
+        "id": "4cd3d0d3edd0dad3688aa4d6dbd775f4",
+        "title": "Hundreds of Govan homes transformed in major window replacement project",
+        "link": "https://www.glasgowtimes.co.uk/news/26538355.760-000-window-programme-upgrades-64-govan-homes-far/",
+        "description": "A \u00a3760,000 window replacement programme is transforming homes with improved comfort and energy efficiency.",
+        "published": "Mon, 14 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21434360/?type=app&htype=0"
+      },
+      {
+        "id": "5a16a8748f326238337ed76ffa7fb4c6",
+        "title": "'I'm so excited' Ricky Bell can't wait to get to work as new council leader",
+        "link": "https://www.glasgowtimes.co.uk/news/26544575.ricky-bell-challenges-facing-glasgow-city-council/",
+        "description": "Ricky Bell said he is fully aware of the challenges Glasgow faces as he takes over as leader of the city council but said he is \u201cso excited\u201d to be tasked with finding the solutions.",
+        "published": "Mon, 14 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21437403/?type=app&htype=0"
+      },
+      {
+        "id": "6066843cec7711aafb479fb915e96cea",
+        "title": "Fascinating new chapters for two Scottish financial heavyweights",
+        "link": "https://www.heraldscotland.com/opinion/26544302.standard-life-aberdeen-fascinating-new-edinburgh-finance-chapters/",
+        "description": "Two Scottish financial heavyweights are turning the pages on fascinating new chapters",
+        "published": "Mon, 14 Sep 2026 04:40:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21107118/?type=app&htype=0"
+      },
+      {
+        "id": "7eb93d05c16df127fbd0658b49e586ca",
+        "title": "Manchester shows what Glasgow should really be asking for in devolution push",
+        "link": "https://www.heraldscotland.com/politics/viewpoint/26541408.manchester-lesson-glasgows-devolution-debate/",
+        "description": "As Andy Burnham prepares to shift power towards England's regions, Glasgow risks missing out if its response begins and ends with demands for extra cash",
+        "published": "Mon, 14 Sep 2026 04:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20134810/?type=app&htype=0"
       },
       {
         "id": "9037436",
@@ -2683,38 +2747,6 @@
         "description": "Peter Murrell will no longer appear in court this month over repaying the SNP embezzlement funds.",
         "published": "Fri, 11 Sep 2026 16:06:23 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20960694/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=528833",
-        "title": "Coalsnaughton residents banned from entering their homes after Dangerous Building Notices issued",
-        "link": "https://news.stv.tv/west-central/coalsnaughton-residents-banned-from-entering-their-homes-after-dangerous-building-notices-issued",
-        "description": "Nearly 100 residents have been forced to leave their homes in Coalsnaughton",
-        "published": "Fri, 11 Sep 2026 15:02:08 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/08/2f74ec5490467f2b711f389de9523ccd-1787411315.jpeg"
-      },
-      {
-        "id": "b3e3b844ecbd74208a244f7ffe800f69",
-        "title": "Disgraced surgeon Eljamel performed several wrong site surgeries, inquiry told",
-        "link": "https://www.heraldscotland.com/news/26543530.disgraced-surgeon-performed-several-wrong-site-surgeries-inquiry-told/",
-        "description": "Disgraced brain surgeon Sam Eljamel carried out a number of operations on the wrong parts of patients\u2019 bodies while at NHS Tayside, an inquiry has heard.",
-        "published": "Fri, 11 Sep 2026 15:58:45 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/17651348/?type=app&htype=0"
-      },
-      {
-        "id": "c2118613d5945e549c0fc08159b0d673",
-        "title": "Creative Scotland 'open to discussing' The Skinny rescue as past funding is revealed",
-        "link": "https://www.heraldscotland.com/news/26543473.creative-scotland-raises-prospect-skinny-rescue/",
-        "description": "The Scottish Government's arts agency has previously provided more than \u00a3200,000 in support for Edinburgh-based arts and culture magazine The Skinny.",
-        "published": "Fri, 11 Sep 2026 15:51:31 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21442776/?type=app&htype=0"
-      },
-      {
-        "id": "b2b4e8f7bac53d8d79e2381d94e605c1",
-        "title": "Glasgow councillor warns compassion alone cannot sustain homelessness services",
-        "link": "https://www.glasgowtimes.co.uk/news/26543448.glasgow-councillor-calls-government-help-amid-homelessness-crisis/",
-        "description": "Glasgow\u2019s compassion towards homelessness cannot sustain the pressure on homeless services alone, according to a councillor.",
-        "published": "Fri, 11 Sep 2026 15:48:20 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20763172/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
