@@ -1949,6 +1949,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/launch-date-paisley-lagoons-huge-34614398",
+        "title": "Launch date for Paisley Lagoon's huge new \u00a31m soft play for all ages",
+        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/launch-date-paisley-lagoons-huge-34614398",
+        "description": "The exciting new play area has been given an opening date.",
+        "published": "Mon, 14 Sep 2026 11:44:26 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34614410.ece/ALTERNATES/s98/0_Screenshot-2026-09-14-at-114325AM.png"
+      },
+      {
+        "id": "e9bd85c2a230021b92cd4d2035a8b47c",
+        "title": "Glasgow\u2019s oldest bar to unveil new dining experience inspired by 200 years of history",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26547987.sloans-unveil-new-dining-experience-inspired-200-year-history/",
+        "description": "Glasgow\u2019s oldest bar and restaurant, Sloans, will launch The Merchant\u2019s later this month, an immersive dining experience inspired by its 200-year history.",
+        "published": "Mon, 14 Sep 2026 12:34:05 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21451843/?type=app&htype=0"
+      },
+      {
+        "id": "7784bcb131dda909fb1ab5c07c1b7bba",
+        "title": "Australian jewellery brand HARLI + HARPA opens first Scottish store at Silverburn",
+        "link": "https://www.heraldscotland.com/news/26547951.harli-harpa-opens-first-scottish-jewellery-store/",
+        "description": "Australian jewellery brand HARLI + HARPA has opened its first Scottish store at Silverburn shopping centre in Glasgow.",
+        "published": "Mon, 14 Sep 2026 12:34:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21451760/?type=app&htype=0"
+      },
+      {
+        "id": "4f6ab662d0a69fef47d70e2c3a5a19f6",
+        "title": "I thought I'd never see my family again after horror attack changed my life",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26547883.officer-feared-never-see-family-attack-hamilton/",
+        "description": "Police Scotland officer Mark Smith recalls being dragged by a car in Hamilton, Lanarkshire, after attackers received 17-year sentences for attempted murder.",
+        "published": "Mon, 14 Sep 2026 12:17:14 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21451658/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/anger-prison-officers-forced-organise-34614156",
         "title": "Anger as prison officers forced to organise memorial for child killer Donna Marie Brand",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/anger-prison-officers-forced-organise-34614156",
@@ -1989,12 +2021,36 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34614180.ece/ALTERNATES/s98/0_JS173949593.jpg"
       },
       {
+        "id": "c9d68ae2ca99e0f44e2f39c7667eba32",
+        "title": "Read in full: SNP, Plaid Cymru and Sinn F\u00e9in sign joint memorandum of understanding",
+        "link": "https://www.heraldscotland.com/news/26547642.read-full-snp-plaid-cymru-sinn-f-sign-pact/",
+        "description": "John Swinney, Rhun ap Iorwerth and Mary Lou McDonald have signed a formal memorandum pledging cross-border cooperation on the economy, energy and Europe \u2014 and issuing a joint demand that Westminster begin preparing for constitutional change across all three nations.",
+        "published": "Mon, 14 Sep 2026 11:43:57 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21451065/?type=app&htype=0"
+      },
+      {
         "id": "68d98c804880495ea8107d75085f3423",
         "title": "LIVE as Glasgow Central trains facing cancellation after fault found",
         "link": "https://www.glasgowtimes.co.uk/news/26547568.live-glasgow-central-trains-face-cancellation-amid-fault/",
         "description": "A signalling fault at Glasgow Central Station is affecting services across the city on Monday morning",
         "published": "Mon, 14 Sep 2026 11:33:45 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20651689/?type=app&htype=0"
+      },
+      {
+        "id": "6c9280974998c72959772e9f0aaa391b",
+        "title": "The Ivy Glasgow Brasserie to leave Buchanan Street after seven years",
+        "link": "https://www.heraldscotland.com/news/26547552.ivy-glasgow-restaurant-relocate-buchanan-street/",
+        "description": "The Ivy Glasgow Brasserie will soon leave Buchanan Street, with a major new dining destination set to open in the city centre.",
+        "published": "Mon, 14 Sep 2026 11:31:33 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/11693920/?type=app&htype=0"
+      },
+      {
+        "id": "277d2e8be0813564f2e06d58d0e78923",
+        "title": "'Westminster's time is coming to an end': Cardiff pact signed by devolved leaders",
+        "link": "https://www.heraldscotland.com/news/26547544.scotland-wales-northern-ireland-sign-independence-pact/",
+        "description": "The First Ministers of Scotland, Wales and Northern Ireland, alongside the Sinn F\u00e9in president, have signed a joint memorandum declaring that \"Westminster's time is coming to an end\" and calling on the UK Government to facilitate constitutional change.",
+        "published": "Mon, 14 Sep 2026 11:30:34 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21451042/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=528997",
@@ -2691,62 +2747,6 @@
         "description": "Violence against women and girls is not a women\u2019s issue but is a man\u2019s issue councillors said.",
         "published": "Sat, 12 Sep 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21370214/?type=app&htype=0"
-      },
-      {
-        "id": "e8a51430949e6513d1ed6092a9b3db46",
-        "title": "'We still miss him every day' - Daughter's tribute before Glasgow Memory Walk",
-        "link": "https://www.glasgowtimes.co.uk/news/26531728.glasgow-memory-walk-return-support-dementia-care/",
-        "description": "A fundraising walk in Glasgow is set to return in support of dementia care.",
-        "published": "Sat, 12 Sep 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21425034/?type=app&htype=0"
-      },
-      {
-        "id": "f7352e7c300e721bb83ea86f600c84a2",
-        "title": "Forbes Masson on Scottish theatre, The High Life revival and his Broadway debut",
-        "link": "https://www.glasgowtimes.co.uk/news/26543056.forbes-masson-magic-theatre-glasgows-tron-broadway/",
-        "description": "Magic, says Scottish actor and writer Forbes Masson, is real.",
-        "published": "Sat, 12 Sep 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21427740/?type=app&htype=0"
-      },
-      {
-        "id": "689707f11db26c868e9ffbb05f3baab3",
-        "title": "Noisy Bearsden neighbour mounted and bit man who asked him to be quiet",
-        "link": "https://www.glasgowtimes.co.uk/news/26540915.noisy-bearsden-neighbour-mounted-bit-man-asked-quiet/",
-        "description": "A man who was making too much noise bit the neighbour who turned up to tell him to be quiet.",
-        "published": "Sat, 12 Sep 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13940457/?type=app&htype=0"
-      },
-      {
-        "id": "dea145e99136976c6b6ff637c7212544",
-        "title": "Residents call for public access to historic Glasgow church",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26535267.glasgow-residents-call-access-ramshorn-church/",
-        "description": "City centre residents have called it \"outrageous\" that a historic Glasgow church is not open to the public.",
-        "published": "Sat, 12 Sep 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21439333/?type=app&htype=0"
-      },
-      {
-        "id": "0f5d00becbcb2a4eed93ad777208d0fb",
-        "title": "Glasgow museum gifted major collection by internationally renowned artist",
-        "link": "https://www.glasgowtimes.co.uk/news/26542583.peter-chang-art-collection-gifted-glasgows-kelvingrove/",
-        "description": "A major collection of work by acclaimed artist Peter Chang has been gifted to Glasgow.",
-        "published": "Sat, 12 Sep 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21440687/?type=app&htype=0"
-      },
-      {
-        "id": "11b2af115db8d4213e8dec908fd1ba53",
-        "title": "Scottish Government backs \u00a31bn vision for home of Hydro and Armadillo in Glasgow",
-        "link": "https://www.heraldscotland.com/news/26544240.scottish-government-wholly-supportive-1bn-clyde-campus-vision/",
-        "description": "Ministers have highlighted the 'vital' economic contribution made by the Scottish Event Campus and praised the 'ambition for growth' in a new masterplan.",
-        "published": "Sat, 12 Sep 2026 06:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21432665/?type=app&htype=0"
-      },
-      {
-        "id": "5e873287b8daede83cb327496d4fffbf",
-        "title": "ScotRail forecasts \u00a331m web and app costs amid \u00a326.5m savings drive",
-        "link": "https://www.heraldscotland.com/news/26539273.scotrail-forecasts-31m-web-app-costs-new-retail-system/",
-        "description": "ScotRail forecasts \u00a331.1m in web and app operating costs over six years as part of a wider digital retail modernisation programme targeting \u00a326.5m savings.",
-        "published": "Sat, 12 Sep 2026 06:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/18514506/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
