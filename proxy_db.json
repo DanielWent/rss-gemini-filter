@@ -1965,6 +1965,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c9vgy8dnnnkdo#0",
+        "title": "How the Tartan Army could link Ayr with an American state",
+        "link": "https://www.bbc.co.uk/news/articles/c9vgy8dnnnkdo?at_medium=RSS&at_campaign=rss",
+        "description": "The Ayr-Providence Friendship Initiative (APFI) hopes to set up a formal friendship agreement between the two areas.",
+        "published": "Mon, 14 Sep 2026 21:58:48 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/858e/live/cf80a8a0-b04a-11f1-89e4-0bbff5cb7e23.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/ck4gl6e0737wo#0",
+        "title": "Lost oyster beds rediscovered thanks to Gaelic and Scots language",
+        "link": "https://www.bbc.co.uk/news/articles/ck4gl6e0737wo?at_medium=RSS&at_campaign=rss",
+        "description": "Scientists searched for the inclusion of the Gaelic and Scots words for oyster or oysters in place-names around Scotland's coast.",
+        "published": "Mon, 14 Sep 2026 21:58:37 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bcd/live/d8467c10-b056-11f1-9902-771b6dd8af6a.jpg"
+      },
+      {
         "id": "1c41504c7cc94948afb6acd36a970326",
         "title": "Family's 230-mile journey to see daughter in residential care 'exposes shortages'",
         "link": "https://www.heraldscotland.com/news/26550047.scottish-familys-230-mile-struggle-exposes-highland-care-shortage/",
@@ -2003,14 +2019,6 @@
         "description": "Glasgow City Council leader Ricky Bell has hailed Oasis's forthcoming shows at Celtic Park as a major boost for the city, saying the concerts will attract visitors from around the world and provide a significant economic benefit for local businesses.",
         "published": "Mon, 14 Sep 2026 18:21:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21454752/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cw4gm40yz0veo#0",
-        "title": "Man in court over deliberate fire at empty tenement building",
-        "link": "https://www.bbc.co.uk/news/articles/cw4gm40yz0veo?at_medium=RSS&at_campaign=rss",
-        "description": "The 48-year-old man has been charged with wilful fireraising over the blaze in the Possilpark area of Glasgow.",
-        "published": "Mon, 14 Sep 2026 17:00:34 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c69/live/1fe92c90-aaba-11f1-b109-879e35c24276.jpg"
       },
       {
         "id": "a92b5dc4bc16b78ab661ef729607e4d7",
