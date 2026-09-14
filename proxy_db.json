@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o#1",
+        "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+        "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+        "description": "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement.",
+        "published": "Mon, 14 Sep 2026 18:54:16 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33f7/live/2a9699c0-b06e-11f1-b1d1-571ed4d7ff2c.jpg"
+      },
+      {
         "id": "1789394729537340",
         "title": "Two runners died during Great North Run",
         "link": "https://www.bbc.co.uk/news/articles/crje8zz1kdldo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "BBC Verify examines the impact of drought and extreme heat on western European rivers, fields and mountains.",
         "published": "Sat, 15 Aug 2026 07:01:13 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b95/live/1efcbb90-97f4-11f1-870d-5d08c49babb2.png"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c5y0zz63gero#0",
-        "title": "One dead after 7.7 magnitude earthquake strikes Indonesia",
-        "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-        "description": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
-        "published": "Sat, 15 Aug 2026 02:51:19 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae3/live/73539fc0-984d-11f1-92c4-9d3840de4561.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
