@@ -985,6 +985,14 @@
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
       {
+        "id": "https://the5krunner.com/?p=130225",
+        "title": "Garmin Freezes Developer API Months After Strava Lawsuit",
+        "link": "https://the5krunner.com/2026/09/14/garmin-developer-api-access-paused/",
+        "description": "<p><img alt=\"Garmin Freezes Developer API Months After Strava Lawsuit\" class=\"attachment-large size-large\" height=\"620\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/09/Garmin-Has-Quietly-Frozen-New-Developer-API-Access-For-Months.jpg/w=1110,h=620\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Garmin stopped processing new developer applications months after Strava sued it over API terms, with no timeline for reopening. Internally, Garmin describes a \"significant redesign\" of the whole programme. Existing integrations keep working; new ones can't get in.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/09/14/garmin-developer-api-access-paused/\">Garmin Freezes Developer API Months After Strava Lawsuit</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
+        "published": "Mon, 14 Sep 2026 15:07:44 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/09/Garmin-Has-Quietly-Frozen-New-Developer-API-Access-For-Months.jpg/w=1110,h=620"
+      },
+      {
         "id": "https://the5krunner.com/?p=130207",
         "title": "Garmin Fenix 9 Pro \u2013 GPS Accuracy",
         "link": "https://the5krunner.com/2026/09/14/garmin-fenix-9-pro-gps-accuracy/",
@@ -1956,6 +1964,30 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "a6d8368bcef72357aed6bf721a2c799f",
+        "title": "Network Rail launches autumn operation to tackle persistent seasonal challenge",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26549224.network-rail-launched-autumn-operation-across-scotland/",
+        "description": "Network Rail has launched its annual autumn operation across Scotland to tackle one of the railway\u2019s most persistent challenges.",
+        "published": "Mon, 14 Sep 2026 16:05:33 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21453742/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=529067",
+        "title": "Oasis to play five nights at Celtic Park to kick off new tour",
+        "link": "https://news.stv.tv/west-central/oasis-to-play-five-nights-at-celtic-park-to-kick-off-new-tour",
+        "description": "Brothers Liam and Noel Gallagher will take to the stage in Scotland after three shows at Murrayfield last year",
+        "published": "Mon, 14 Sep 2026 15:04:34 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/0ed211ca2504aa234e416ec4a1692f61-1789398223.jpg"
+      },
+      {
+        "id": "4aa92db2c00fdfd2b38e381b74b3a5c5",
+        "title": "Suspect accused of murdering man in Clydebank and telling cops victim had fallen",
+        "link": "https://www.glasgowtimes.co.uk/news/26549167.chris-gates-accused-murdering-alistair-brennan-clydebank/",
+        "description": "A suspect is accused of murdering a man amid claims he earlier threatened to kill and dismember him.",
+        "published": "Mon, 14 Sep 2026 15:57:34 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20936144/?type=app&htype=0"
+      },
       {
         "id": "9046777",
         "title": "'Glasgow deserves a say': Campaigners bid to keep site of first Hampden Park in community hands",
