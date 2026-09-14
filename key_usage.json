@@ -3,7 +3,7 @@
   "keys": {
     "ff8b60d30e0f970d": {
       "gemini-3.5-flash-lite": {
-        "daily_requests": 22,
+        "daily_requests": 23,
         "exhausted": false
       },
       "gemini-3.6-flash": {
