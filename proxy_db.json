@@ -1973,6 +1973,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/five-lanarkshire-men-among-seven-34618075",
+        "title": "Five Lanarkshire men among seven arrested after disturbance 'linked to feuding traveller families'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/five-lanarkshire-men-among-seven-34618075",
+        "description": "Dramatic scenes showed the men trashing cars and the windows of the home with baseball bats and pick-axes.",
+        "published": "Tue, 15 Sep 2026 08:14:40 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34615756.ece/ALTERNATES/s98/2_McPhee.png"
+      },
+      {
+        "id": "16a4e0da36aa954c8452bdae10f799b1",
+        "title": "Seven more arrested over Glasgow disorder as total number of arrests reaches 50",
+        "link": "https://www.glasgowtimes.co.uk/news/26550381.seven-arrested-celtic-title-win-disorder/",
+        "description": "A further seven people have been arrested for their involvement in the disorder which followed Celtic's league title win earlier this year.",
+        "published": "Tue, 15 Sep 2026 09:12:57 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18115321/?type=app&htype=0"
+      },
+      {
+        "id": "9054031",
+        "title": "Rangers told they can spark Celtic anarchy with 'mega' repeat at Parkhead as Hoops doubts begin to fester",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-told-can-spark-celtic-anarchy-mega-repeat-parkhead-hoops-doubts-9054031",
+        "description": "<p>Rangers and Celtic will collide this weekend in the Premiership.</p>",
+        "published": "Tue, 15 Sep 2026 08:00:38 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/15/7/33/GettyImages-2295057832.jpg?width=1200&auto=webp&trim=5%2C0%2C5%2C0"
+      },
+      {
         "id": "3b6b97705269bfa64686a03b3c55b473",
         "title": "LIVE updates as crash on busy motorway causes rush hour delays",
         "link": "https://www.glasgowtimes.co.uk/news/26550255.live-updates-m74-crash-causes-rush-hour-delays/",
@@ -1987,6 +2011,14 @@
         "description": "<p>Oasis are coming to Celtic Park in 2027 and the Hoops have spoken out.</p>",
         "published": "Tue, 15 Sep 2026 07:23:41 GMT",
         "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOjMxNGNlYWJiLWMzZDUtNDNiNC1iYmFkLTI1NTNmYTRjMWU1Mzo5MTlmNWFhYy00YTY2LTQ5MTAtYWViZi02ZmYzYjU2Mjk3MWU=.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "288eb889d24428118228a51e19ea0703",
+        "title": "Tobacco, alcohol, and junk food giants 'undermining health policies'",
+        "link": "https://www.heraldscotland.com/news/26550221.tobacco-alcohol-junk-food-giants-undermining-health-policies/",
+        "description": "\u201cOur country now has the lowest life expectancy in western Europe,\u201d the report said.",
+        "published": "Tue, 15 Sep 2026 08:10:51 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/12365262/?type=app&htype=0"
       },
       {
         "id": "e39f20a37a95b4447c686415701f164f",
