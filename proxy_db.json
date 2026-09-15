@@ -2005,6 +2005,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "202c9ceaa4a2f9d49c9409a6ea28e437",
+        "title": "'People are none the wiser': anger over Aberdeen's \u00a3160m mega-campus plan",
+        "link": "https://www.heraldscotland.com/news/26553618.calls-transparency-aberdeens-160m-northfield-campus/",
+        "description": "Calls have been made for Aberdeen City Council to be more open about the proposed \u00a3160 million Northfield Community Campus amid fears the community is \u201cnone the wiser\u201d about the project",
+        "published": "Tue, 15 Sep 2026 20:54:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21460416/?type=app&htype=0"
+      },
+      {
+        "id": "6d2de7c227b701d6010d6b621f37f1ce",
+        "title": "63 homes get green light despite warnings over Barras arts venue",
+        "link": "https://www.heraldscotland.com/news/26553617.barras-flats-approved-despite-objections-baad-planners/",
+        "description": "Over 60 flats can be built on the edge of the Barras \u2014 despite opposition from arts venue BAaD\u00a0 \u2014 after councillors voted against the recommendation of planners.",
+        "published": "Tue, 15 Sep 2026 20:49:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21454679/?type=app&htype=0"
+      },
+      {
         "id": "9057301",
         "title": "Former referee discusses Rangers vs Celtic decision hosts can be 'upset' about as colour of card assessed",
         "link": "https://www.glasgowworld.com/sport/football/rangers/former-referee-discusses-rangers-vs-celtic-decision-hosts-can-be-upset-about-as-colour-of-card-assessed-9057301",
@@ -2589,14 +2605,6 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/14/14/20/The-Ivy-Glasgow-Exterior.jpeg?width=1200&auto=webp&trim=13%2C0%2C14%2C0"
       },
       {
-        "id": "a92b5dc4bc16b78ab661ef729607e4d7",
-        "title": "Barras 63-flats plan faces rejection amid fears for Glasgow arts venue",
-        "link": "https://www.heraldscotland.com/news/26549852.barras-flats-plan-recommended-refusal-baad-concerns/",
-        "description": "Plans to build over 60 flats at the corner of the Barras are recommended for refusal amid fears over the impact on arts venue BAaD.",
-        "published": "Mon, 14 Sep 2026 17:51:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21454678/?type=app&htype=0"
-      },
-      {
         "id": "https://news.stv.tv/?p=529028",
         "title": "Glasgow needs \u2018breathing space\u2019 from housing asylum seekers as pressure builds on council services",
         "link": "https://news.stv.tv/west-central/glasgow-needs-breathing-space-from-housing-asylum-seekers-as-pressure-builds-on-council-services",
@@ -2795,14 +2803,6 @@
         "description": "Prison staff are said to be unhappy that a memorial service was held for Donna Marie Brand who died whilst serving a life sentence for the murder of schoolgirl Caroline Glachan",
         "published": "Mon, 14 Sep 2026 13:46:22 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21379362/?type=app&htype=0"
-      },
-      {
-        "id": "23c64ba4be6e6a063aadb0e23553f6eb",
-        "title": "Scotland's most mysterious golf course goes up for sale",
-        "link": "https://www.heraldscotland.com/news/26548303.gwest-golf-resort-near-gleneagles-goes-sale/",
-        "description": "Scotland's \"ghost\" golf resort near Gleneagles has been put up for sale, reviving hopes for a long-delayed luxury development",
-        "published": "Mon, 14 Sep 2026 13:36:14 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21452408/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
