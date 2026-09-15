@@ -1973,6 +1973,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "3b6b97705269bfa64686a03b3c55b473",
+        "title": "LIVE updates as crash on busy motorway causes rush hour delays",
+        "link": "https://www.glasgowtimes.co.uk/news/26550255.live-updates-m74-crash-causes-rush-hour-delays/",
+        "description": "There has been a crash on the M74, causing traffic to slow immensely in the middle of rush hour.",
+        "published": "Tue, 15 Sep 2026 08:31:52 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17175101/?type=app&htype=0"
+      },
+      {
+        "id": "9053938",
+        "title": "Celtic admit the seismic 'opportunity' Oasis have presented them as they make one thing clear over tickets",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-admit-seismic-opportunity-oasis-have-presented-them-one-thing-clear-tickets-9053938",
+        "description": "<p>Oasis are coming to Celtic Park in 2027 and the Hoops have spoken out.</p>",
+        "published": "Tue, 15 Sep 2026 07:23:41 GMT",
+        "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOjMxNGNlYWJiLWMzZDUtNDNiNC1iYmFkLTI1NTNmYTRjMWU1Mzo5MTlmNWFhYy00YTY2LTQ5MTAtYWViZi02ZmYzYjU2Mjk3MWU=.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "e39f20a37a95b4447c686415701f164f",
+        "title": "Tartan Trek named Fundraising Campaign of the Year after raising \u00a31.4m for SAMH",
+        "link": "https://www.glasgowtimes.co.uk/news/26549456.tartan-trek-named-fundraising-campaign-year/",
+        "description": "Craig Ferguson's epic walk across America has been named Fundraising Campaign of the Year.",
+        "published": "Tue, 15 Sep 2026 08:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21454081/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-worker-horrible-night-34616899",
         "title": "Glasgow council worker on 'horrible' night-shift with 'drug addicts and violence' on streets",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-worker-horrible-night-34616899",
