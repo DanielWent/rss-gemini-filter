@@ -1989,6 +1989,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "5ef6483dbfc6fde692f1d0d5401570ca",
+        "title": "Locals share their sorrows after beloved DIY store announces shock closure",
+        "link": "https://www.glasgowtimes.co.uk/news/26552029.outcry-east-kilbride-diy-store-announces-closure/",
+        "description": "Members of the public have flocked to share their sorrow after a beloved East Kilbride DIY store announced it will close after 44 years of service.",
+        "published": "Tue, 15 Sep 2026 13:51:54 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20330120/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=529185",
         "title": "Man\u2019s body found at Renfrewshire country park as police probe \u2018unexplained\u2019 death",
         "link": "https://news.stv.tv/west-central/mans-body-found-at-renfrewshire-country-park-as-police-probe-unexplained-death",
@@ -2037,28 +2045,12 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/15/11/13/Sloans_HDR_pfm2.jpeg?width=1200&auto=webp&trim=0%2C53%2C0%2C52"
       },
       {
-        "id": "badfa5117e572779872eb8c9a60d4587",
-        "title": "Glasgow pair accused of dismembering man and dumping remains across Scotland",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26551668.two-stand-trial-murder-dismemberment-graham-wright/",
-        "description": "David McColl and Linda Kelly deny murdering Graham Wright in Glasgow; prosecutors allege his remains were dismembered and dumped. Trial set for January 2028.",
-        "published": "Tue, 15 Sep 2026 12:40:41 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21195003/?type=app&htype=0"
-      },
-      {
         "id": "ad9d1133c64a5cd38b12249f9dfee471",
         "title": "Three men jailed after cannabis farm discovered in Inverclyde",
         "link": "https://www.heraldscotland.com/news/26550944.men-jailed-cannabis-farm-found-greenock-inverclyde/",
         "description": "Three men caught after a \u00a31.3m cannabis factory raid have been jailed for a total of 12 years",
         "published": "Tue, 15 Sep 2026 12:38:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/8980576/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/body-found-lochwinnoch-park-after-34619972",
-        "title": "Body found at Lochwinnoch park after emergency services rush to water",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/body-found-lochwinnoch-park-after-34619972",
-        "description": "The car park at Castle Semple Country Park has been taped off following the incident.",
-        "published": "Tue, 15 Sep 2026 11:32:07 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34620085.ece/ALTERNATES/s98/0_JS418101473.jpg"
       },
       {
         "id": "9054859",
@@ -2107,14 +2099,6 @@
         "description": "Scotland's Information Commissioner David Hamilton has warned his office cannot guarantee adequate regulatory oversight after FOI appeals surged 83% in a year, with a third of all appeals in one quarter found to be AI-generated and closed without investigation.",
         "published": "Tue, 15 Sep 2026 11:30:41 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/17676436/?type=app&htype=0"
-      },
-      {
-        "id": "5b0505a6828e82e26475902c902b598a",
-        "title": "Noel Gallagher reveals special celebration set for final Celtic Park gig",
-        "link": "https://www.glasgowtimes.co.uk/news/26551013.noel-gallagher-reveals-celebration-set-final-glasgow-gig/",
-        "description": "Noel Gallagher has revealed that he will be celebrating something very special while performing at Celtic Park as part of Oasis' Live '27 tour.",
-        "published": "Tue, 15 Sep 2026 10:56:01 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21456542/?type=app&htype=0"
       },
       {
         "id": "e65fc952bd430d0c3854de9609a24da3",
