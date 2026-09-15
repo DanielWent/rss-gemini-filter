@@ -1997,12 +1997,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "7013f0ad056017023ee7119d6f909202",
+        "title": "'It's no joke it's a national emergency' MSPs debate male violence against women",
+        "link": "https://www.glasgowtimes.co.uk/news/26553417.national-emergency-msps-debate-male-violence-women/",
+        "description": "Violence against women and girls is a \u201cnational emergency,\u201d and action is needed to tackle male behaviour MSPs have said.",
+        "published": "Tue, 15 Sep 2026 17:32:29 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21370214/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/tried-private-pilates-studio-near-34617288",
         "title": "I tried the private Pilates studio near Glasgow where you can take your baby too",
         "link": "https://www.glasgowlive.co.uk/whats-on/tried-private-pilates-studio-near-34617288",
         "description": "If you're a busy parent wanting to work out but struggling to get a babysitter, the studio allows you to bring your child as long as they remain in their car seat or pram during the session.",
         "published": "Tue, 15 Sep 2026 16:20:58 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34622846.ece/ALTERNATES/s98/0_image-2026-09-15T171750759.jpg"
+      },
+      {
+        "id": "63c87e2cb1b6234dc1895c1ab5c7865c",
+        "title": "Takeaway fined \u00a380k for having illegal workers",
+        "link": "https://www.glasgowtimes.co.uk/news/26553293.bishopbriggs-takeaway-fined-80k-illegal-workers/",
+        "description": "A company has been fined \u00a380,000 for employing illegal workers at a takeaway near Glasgow.",
+        "published": "Tue, 15 Sep 2026 17:08:53 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20363866/?type=app&htype=121"
+      },
+      {
+        "id": "144dc3f19b0823536230210cb01cf522",
+        "title": "ScottishPower launches new tariff giving small businesses greater control over energy",
+        "link": "https://www.heraldscotland.com/news/26553184.scottishpower-launches-flexible-energy-tariff-small-businesses/",
+        "description": "ScottishPower has launched Advantage for Business, allowing small firms to respond to energy price changes during their contracts.",
+        "published": "Tue, 15 Sep 2026 16:52:54 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21459790/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/huge-asian-supermarket-old-glasgow-34622576",
