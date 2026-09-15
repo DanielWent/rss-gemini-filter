@@ -1965,6 +1965,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "06cfe141e1d33990503d7553d56fdae0",
+        "title": "Sturgeon reported to the police for allegedly handling stolen goods",
+        "link": "https://www.heraldscotland.com/news/26550145.sturgeon-reported-police-allegedly-handling-stolen-goods/",
+        "description": "Nicola Sturgeon has been reported to the police for allegedly handling stolen goods after her estranged husband was jailed for embezzlement.",
+        "published": "Tue, 15 Sep 2026 05:28:46 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/11789342/?type=app&htype=0"
+      },
+      {
+        "id": "33e5376d7b3edb7d5dbbd49fbbe5c942",
+        "title": "If AI becomes golfers' new travel agent, who gets to sell Scotland?",
+        "link": "https://www.heraldscotland.com/news/26535192.new-ai-challenge-facing-scotlands-golf-industry/",
+        "description": "Golf businesses have spent years competing for Google traffic. As AI reshapes search, Scotland's clubs, tour operators and publishers face a new competitive landscape",
+        "published": "Tue, 15 Sep 2026 04:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21451145/?type=app&htype=0"
+      },
+      {
         "id": "866f1ad6121bd9cae974e995352b8e05",
         "title": "'Birdman of Pollok' behind motorway extension protest camp inspires new stage show",
         "link": "https://www.heraldscotland.com/news/26549918.birdman-pollok-take-flight-new-scottish-stage-show/",
