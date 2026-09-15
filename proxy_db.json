@@ -985,6 +985,14 @@
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
       {
+        "id": "https://the5krunner.com/?p=130336",
+        "title": "Strava: September Update",
+        "link": "https://the5krunner.com/2026/09/15/strava-september-update/",
+        "description": "<p><img alt=\"Strava: September Update\" class=\"attachment-large size-large\" height=\"581\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/01/strava-logo-files-for-ipo-image.png/w=1110,h=581\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Strava's September update adds a shaded muscle map to strength workouts, trail difficulty grades to Maps, and new Claude integration for subscribers. Mountain bikers get color-coded trail grading, and Samsung's Galaxy Watch9 and Watch Ultra2 now ship with Strava pre-installed.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/09/15/strava-september-update/\">Strava: September Update</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
+        "published": "Tue, 15 Sep 2026 14:32:35 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/01/strava-logo-files-for-ipo-image.png/w=1110,h=581"
+      },
+      {
         "id": "https://the5krunner.com/?p=130225",
         "title": "Garmin Freezes Developer API Months After Strava Lawsuit",
         "link": "https://the5krunner.com/2026/09/14/garmin-developer-api-access-paused/",
@@ -1989,6 +1997,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=529219",
+        "title": "Activists write \u2018naw\u2019 to AI on beach as execs set to fly in for summit with King",
+        "link": "https://news.stv.tv/west-central/activists-write-naw-to-ai-on-beach-as-execs-set-to-fly-in-for-summit-with-king",
+        "description": "It comes as King Charles prepares to attend an AI summit in Scotland later in the week",
+        "published": "Tue, 15 Sep 2026 14:38:14 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/9a99eeb7b4700ad6383c73bb06256ddc-1789483070-1123x720.jpg"
+      },
+      {
+        "id": "5af75bc9244b51128a7d32303c115836",
+        "title": "Country park cordoned off after man's body discovered in 'unexplained' death",
+        "link": "https://www.heraldscotland.com/news/26552500.man-found-dead-castle-semple-country-park-lochwinnoch/",
+        "description": "A section of a country park has been cordoned off after a man was found dead in the area.",
+        "published": "Tue, 15 Sep 2026 15:14:33 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21139588/?type=app&htype=0"
+      },
+      {
         "id": "0499dcd7e54fcdfff4620cc5b783e468",
         "title": "Penn Jillette to perform in Glasgow this month in first major project without Teller",
         "link": "https://www.glasgowtimes.co.uk/news/26552440.penn-jillette-piff-magic-dragon-perform-glasgow/",
@@ -2003,6 +2027,14 @@
         "description": "A Glasgow MP has hit back after fellow politician Thomas Kerr described Govanhill as a \"ghetto\" during a speech at Holyrood.",
         "published": "Tue, 15 Sep 2026 14:59:31 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20917189/?type=app&htype=0"
+      },
+      {
+        "id": "82154ef42c1ba044bf496990a10d3083",
+        "title": "Eight weeks of closures as nearly 400 trees to be felled along Glasgow walkway",
+        "link": "https://www.heraldscotland.com/news/26552231.nearly-400-ash-trees-felled-along-glasgow-walkway/",
+        "description": "Glasgow City Council has confirmed that almost 400 ash trees along the River Kelvin Walkway will be felled after becoming infected with ash dieback disease.",
+        "published": "Tue, 15 Sep 2026 14:54:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/13195495/?type=app&htype=0"
       },
       {
         "id": "c5ae3ff227947bfa0cba6676892030c5",
@@ -2043,6 +2075,14 @@
         "description": "Alexander Brennan is accused of striking Brodie MacGregor on the head, face and body with a microwave plate and broken bottles",
         "published": "Tue, 15 Sep 2026 13:34:09 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2024/08/e4420d561dfe8dd119802b56e05dee89-1724850047-1120x720.jpeg"
+      },
+      {
+        "id": "c73d3186b872bd5183b864d218afe725",
+        "title": "UK Government slammed for 'watering down' single malt definition for English whisky",
+        "link": "https://www.heraldscotland.com/news/26552250.english-single-malt-whisky-rules-worry-scotch-industry/",
+        "description": "MPs have rounded on the UK Government after English whisky was granted geographical indication status with a single malt definition that does not require all production to take place at one site, a standard Scotch distillers must legally meet.",
+        "published": "Tue, 15 Sep 2026 14:33:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20908242/?type=app&htype=0"
       },
       {
         "id": "5ef6483dbfc6fde692f1d0d5401570ca",
