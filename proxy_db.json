@@ -2005,6 +2005,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "7a0c820345a1a24fb081b0efdf01d1f8",
+        "title": "200 conservation experts gather in Cairngorms for major climate action conference",
+        "link": "https://www.heraldscotland.com/news/26552200.uk-national-parks-gather-cairngorms-climate-conference/",
+        "description": "Around 200 conservation and climate experts from across the UK have gathered in the Cairngorms for a three-day national parks conference.",
+        "published": "Wed, 16 Sep 2026 00:05:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21458215/?type=app&htype=0"
+      },
+      {
+        "id": "2b9e175ca33b6f5cf6724ca79f38cffa",
+        "title": "Nearly 200,000 Scots pensioners missing out on \u00a3346m in benefits, charity warns",
+        "link": "https://www.heraldscotland.com/news/26553578.200-000-scots-pensioners-missing-346m-benefits/",
+        "description": "Almost 200,000 pensioners in Scotland are missing out on benefits worth some \u00a3346 million a year, charity campaigners have claimed.",
+        "published": "Wed, 16 Sep 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21068491/?type=app&htype=0"
+      },
+      {
+        "id": "9c0de5848a1aabf9ab2c33d1a86fde77",
+        "title": "MSPs set for crunch vote on controversial AI data centre plans",
+        "link": "https://www.heraldscotland.com/news/26553590.msps-vote-moratorium-new-ai-data-centres-scotland/",
+        "description": "Holyrood will vote on whether there should be a moratorium on new hyperscale data centres \u2013 with Scottish Greens insisting the move is needed to halt a \u201cbig tech free-for-all\u201d.",
+        "published": "Wed, 16 Sep 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20113996/?type=app&htype=0"
+      },
+      {
         "id": "202c9ceaa4a2f9d49c9409a6ea28e437",
         "title": "'People are none the wiser': anger over Aberdeen's \u00a3160m mega-campus plan",
         "link": "https://www.heraldscotland.com/news/26553618.calls-transparency-aberdeens-160m-northfield-campus/",
@@ -2779,30 +2803,6 @@
         "description": "Scottish Government consults on fisheries management for 160+ Marine Protected Areas and Priority Marine Features in Scotland\u2019s inshore seas until January 18, 2027.",
         "published": "Mon, 14 Sep 2026 13:59:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21331850/?type=app&htype=0"
-      },
-      {
-        "id": "0acbb0b11ce9a0b78acbb83e894833d1",
-        "title": "Glasgow Clyde College launches Scotland\u2019s first HNC focused on perinatal care",
-        "link": "https://www.heraldscotland.com/news/26548137.glasgow-clyde-college-launches-scotlands-first-hnc-perinatal-care/",
-        "description": "Glasgow Clyde College has launched Scotland\u2019s first HNC in perinatal care, offering a pathway into midwifery and related healthcare roles.",
-        "published": "Mon, 14 Sep 2026 13:57:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21452362/?type=app&htype=0"
-      },
-      {
-        "id": "2e556dcc8bf60c0b8eadccfb5ebd043f",
-        "title": "New jewellery store opens in Glasgow as popular brand makes Scotland debut",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26548405.australian-jewellery-brand-opens-first-scottish-store-silverburn/",
-        "description": "Australian jewellery brand HARLI + HARPA opens its first Scottish store at Silverburn in Glasgow, offering waterproof, made-to-order jewellery and gifts.",
-        "published": "Mon, 14 Sep 2026 13:54:13 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21452377/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c6eq810eyzpro#0",
-        "title": "Controversial \u00a316m revamp of Burns Statue Square approved",
-        "link": "https://www.bbc.co.uk/news/articles/c6eq810eyzpro?at_medium=RSS&at_campaign=rss",
-        "description": "The scheme aims to turn the traffic-dominated square into a new civic space and gateway to the town centre.",
-        "published": "Mon, 14 Sep 2026 12:48:34 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c9b/live/1a1cc920-b037-11f1-9ae0-e316eeb4632d.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
