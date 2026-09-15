@@ -1989,6 +1989,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=529185",
+        "title": "Man\u2019s body found at Renfrewshire country park as police probe \u2018unexplained\u2019 death",
+        "link": "https://news.stv.tv/west-central/mans-body-found-at-renfrewshire-country-park-as-police-probe-unexplained-death",
+        "description": "Police say the man's next of kin has been informed",
+        "published": "Tue, 15 Sep 2026 12:44:44 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/452a0dc713d31476ddd2200525bf939e-1789475777-1280x720.jpeg"
+      },
+      {
+        "id": "531b939c35515b886c31252324f82eb3",
+        "title": "Man accused of murdering young mum at Glasgow flat goes on trial today",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26551884.alexander-brennan-trial-accused-murdering-brodie-macgregor/",
+        "description": "Alexander Brennan denies murdering Brodie MacGregor, 23, at her Springburn flat in Glasgow on August 26, 2024. Trial continues at the High Court.",
+        "published": "Tue, 15 Sep 2026 13:23:52 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21457736/?type=app&htype=0"
+      },
+      {
+        "id": "e26cf4b02d327e851f67c794949dfe86",
+        "title": "Glasgow Women's Aid speak out following controversial Sydney Sweeney campaign",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26551883.glasgow-womens-aid-criticises-sydney-sweeney-campaign/",
+        "description": "A Glasgow women's charity has criticised a controversial new advertising campaign featuring Hollywood actress Sydney Sweeney, saying it has reignited debate about the sexualisation of women in marketing.",
+        "published": "Tue, 15 Sep 2026 13:23:40 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21457707/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=529172",
+        "title": "Pair accused of murdering and dismembering man whose limbs were found at Loch Lomond",
+        "link": "https://news.stv.tv/west-central/pair-accused-of-murdering-and-dismembering-man-whose-limbs-were-found-at-loch-lomond",
+        "description": "Graham Wright was allegedly murdered in the Gorbals before his body parts were hidden in a cellar in Castlemilk and dumped at Loch Lomond",
+        "published": "Tue, 15 Sep 2026 12:21:31 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2025/09/298f864dd598f8accc4bb06c56592811-1758106519-1120x720.jpeg"
+      },
+      {
         "id": "25e62d01a1dbb685c3c0b0d38db2237f",
         "title": "Frantic search launched for missing 68-year-old last seen in Glasgow area",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26551836.search-launched-missing-68-year-old-man-springburn/",
@@ -2013,6 +2045,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21195003/?type=app&htype=0"
       },
       {
+        "id": "ad9d1133c64a5cd38b12249f9dfee471",
+        "title": "Three men jailed after cannabis farm discovered in Inverclyde",
+        "link": "https://www.heraldscotland.com/news/26550944.men-jailed-cannabis-farm-found-greenock-inverclyde/",
+        "description": "Three men caught after a \u00a31.3m cannabis factory raid have been jailed for a total of 12 years",
+        "published": "Tue, 15 Sep 2026 12:38:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/8980576/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/body-found-lochwinnoch-park-after-34619972",
         "title": "Body found at Lochwinnoch park after emergency services rush to water",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/body-found-lochwinnoch-park-after-34619972",
@@ -2027,6 +2067,14 @@
         "description": "<p>Former Celtic winger played alongside Rangers\u2019 Old Firm hero at Sunderland</p>",
         "published": "Tue, 15 Sep 2026 11:30:50 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/15/9/35/GettyImages-1349260966.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "56ac4d1495fc64e64caeacd7dd17ac97",
+        "title": "Outlander star Sam Heughan names golden eagle as rewilding plan takes flight",
+        "link": "https://www.heraldscotland.com/news/26551486.outlander-star-sam-heughan-names-golden-eagle-four-chicks-fledge/",
+        "description": "He picked a name close to his heart",
+        "published": "Tue, 15 Sep 2026 12:11:51 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21457341/?type=app&htype=0"
       },
       {
         "id": "9054374",
