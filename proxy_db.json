@@ -2005,6 +2005,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9057301",
+        "title": "Former referee discusses Rangers vs Celtic decision hosts can be 'upset' about as colour of card assessed",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/former-referee-discusses-rangers-vs-celtic-decision-hosts-can-be-upset-about-as-colour-of-card-assessed-9057301",
+        "description": "<p>Rangers defeated rivals 3-0 in Premier Sports Cup</p>",
+        "published": "Tue, 15 Sep 2026 19:00:52 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/15/14/47/GettyImages-1139461952.jpeg?width=1200&auto=webp&trim=73%2C0%2C74%2C0"
+      },
+      {
+        "id": "9056870",
+        "title": "Celtic's Europa League opponents take tactical notes from Old Firm as players warned of Parkhead atmosphere",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtics-europa-league-opponents-take-tactical-notes-from-old-firm-as-players-warned-of-parkhead-atmosphere-9056870",
+        "description": "<p>Hoops kick off the league phase on Thursday night at Celtic Park</p>",
+        "published": "Tue, 15 Sep 2026 19:00:44 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/15/13/07/GettyImages-2291744964.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
         "id": "96fd02d5305833c14d097d0e8857ec77",
         "title": "Glasgow soft play centre to reopen this weekend with giant new inflatable play area",
         "link": "https://www.glasgowtimes.co.uk/news/26553566.wonderworld-soft-play-glasgow-reopen-new-inflatable/",
@@ -2787,22 +2803,6 @@
         "description": "Scotland's \"ghost\" golf resort near Gleneagles has been put up for sale, reviving hopes for a long-delayed luxury development",
         "published": "Mon, 14 Sep 2026 13:36:14 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21452408/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=529032",
-        "title": "Police officer assaulted as four arrests made during Old Firm game at Ibrox",
-        "link": "https://news.stv.tv/west-central/police-officer-assaulted-as-four-arrests-made-during-old-firm-game-at-ibrox",
-        "description": "Police confirmed a 28-year-old man was arrested in connection with the assault of an officer.",
-        "published": "Mon, 14 Sep 2026 12:31:06 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/7f591454608e5ca4128a438584fc2bcd-1789386636-1200x720.jpeg"
-      },
-      {
-        "id": "8af12c95c423fc422f93edef10a8ef92",
-        "title": "Five-time Grammy winners to play Glasgow in first UK shows for five years",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26548253.snarky-puppy-play-glasgow-2027-tour-first-time-five-years/",
-        "description": "Five-time Grammy winners Snarky Puppy bring their jazz-fusion live show to Glasgow Royal Concert Hall on April 23, 2027, with London and Manchester dates.",
-        "published": "Mon, 14 Sep 2026 13:26:08 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21452201/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
