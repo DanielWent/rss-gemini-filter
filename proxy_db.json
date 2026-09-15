@@ -1989,12 +1989,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9054374",
+        "title": "Rangers star's European transfer deal 'on the verge of collapse' as contract dispute breeds race against clock",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-stars-european-transfer-deal-on-the-verge-of-collapse-as-contract-dispute-breeds-race-against-clock-9054374",
+        "description": "<p>Defender was also linked to EFL sides Sheffield United and Leicester City during the summer window</p>",
+        "published": "Tue, 15 Sep 2026 11:00:20 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/15/8/25/GettyImages-2151565355.jpeg?width=1200&auto=webp&trim=74%2C0%2C75%2C0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/glasgow-hotel-prices-surge-226-34619185",
         "title": "Glasgow hotel prices surge by \u00a3226 after Oasis confirms five huge gigs at Celtic Park",
         "link": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/glasgow-hotel-prices-surge-226-34619185",
         "description": "Oasis confirmed they will be performing at Celtic Park for five nights in May 2027, including on Noel's 60th birthday.",
         "published": "Tue, 15 Sep 2026 10:52:25 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34619622.ece/ALTERNATES/s98/0_JS418012397.jpg"
+      },
+      {
+        "id": "6f438178bc4ffca658a9b925405e2e84",
+        "title": "New vintage clothing shop opens in Glasgow\u2019s creative Finnieston quarter",
+        "link": "https://www.heraldscotland.com/news/26551262.moxie-vintage-clothing-shop-opens-glasgows-hidden-lane/",
+        "description": "Moxie, founded by broadcaster Heather Suttie, has opened a new vintage clothing shop at The Hidden Lane in Finnieston.",
+        "published": "Tue, 15 Sep 2026 11:39:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21456838/?type=app&htype=0"
+      },
+      {
+        "id": "c6ab9c5cd35364038166bdcff46b5713",
+        "title": "Scotland's FOI watchdog sounds alarm over funding as AI fuels surge in appeals",
+        "link": "https://www.heraldscotland.com/news/26551261.scottish-foi-appeals-rise-83-per-cent-amid-ai-surge/",
+        "description": "Scotland's Information Commissioner David Hamilton has warned his office cannot guarantee adequate regulatory oversight after FOI appeals surged 83% in a year, with a third of all appeals in one quarter found to be AI-generated and closed without investigation.",
+        "published": "Tue, 15 Sep 2026 11:30:41 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/17676436/?type=app&htype=0"
       },
       {
         "id": "5b0505a6828e82e26475902c902b598a",
