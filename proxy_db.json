@@ -1989,6 +1989,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "25e62d01a1dbb685c3c0b0d38db2237f",
+        "title": "Frantic search launched for missing 68-year-old last seen in Glasgow area",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26551836.search-launched-missing-68-year-old-man-springburn/",
+        "description": "Police Scotland searches for missing man Clive Galley, 68, last seen in Glasgow\u2019s Springburn on September 12. He has links to Dundee and London. Call 101.",
+        "published": "Tue, 15 Sep 2026 13:13:39 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21457647/?type=app&htype=0"
+      },
+      {
+        "id": "9056343",
+        "title": "Glasgow's oldest bar and restaurant set to unveil 'immersive dining concept' as part of \u00a3500k investment",
+        "link": "https://www.glasgowworld.com/news/glasgows-oldest-bar-and-restaurant-set-to-unveil-immersive-dining-concept-as-part-of-ps500k-investment-9056343",
+        "description": "<p>New \u2018immersive\u2019 dining experience set to be unveiled at Glasgow\u2019s oldest bar and restaurant.</p>",
+        "published": "Tue, 15 Sep 2026 11:59:50 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/15/11/13/Sloans_HDR_pfm2.jpeg?width=1200&auto=webp&trim=0%2C53%2C0%2C52"
+      },
+      {
+        "id": "badfa5117e572779872eb8c9a60d4587",
+        "title": "Glasgow pair accused of dismembering man and dumping remains across Scotland",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26551668.two-stand-trial-murder-dismemberment-graham-wright/",
+        "description": "David McColl and Linda Kelly deny murdering Graham Wright in Glasgow; prosecutors allege his remains were dismembered and dumped. Trial set for January 2028.",
+        "published": "Tue, 15 Sep 2026 12:40:41 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21195003/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/body-found-lochwinnoch-park-after-34619972",
         "title": "Body found at Lochwinnoch park after emergency services rush to water",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/body-found-lochwinnoch-park-after-34619972",
