@@ -1989,6 +1989,62 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "5b0505a6828e82e26475902c902b598a",
+        "title": "Noel Gallagher reveals special celebration set for final Celtic Park gig",
+        "link": "https://www.glasgowtimes.co.uk/news/26551013.noel-gallagher-reveals-celebration-set-final-glasgow-gig/",
+        "description": "Noel Gallagher has revealed that he will be celebrating something very special while performing at Celtic Park as part of Oasis' Live '27 tour.",
+        "published": "Tue, 15 Sep 2026 10:56:01 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21456542/?type=app&htype=0"
+      },
+      {
+        "id": "e65fc952bd430d0c3854de9609a24da3",
+        "title": "Eligible residents are being urged to get the flu jab as soon as possible",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26550942.nhsggc-expanded-flu-vaccination-programme/",
+        "description": "NHS Greater Glasgow and Clyde (NHSGGC) has expanded its flu vaccination programme.",
+        "published": "Tue, 15 Sep 2026 10:43:52 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20215483/?type=app&htype=0"
+      },
+      {
+        "id": "36b97dc1f0511e16dae17715d857a9c8",
+        "title": "Popular chippy hailed as 'institution' hits market after 58 years in business",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26550887.pauls-fast-food-hits-market-58-years-business/",
+        "description": "Paul's Fast Food in Drumchapel has hit the market after 58 years in business.",
+        "published": "Tue, 15 Sep 2026 10:35:31 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21456446/?type=app&htype=0"
+      },
+      {
+        "id": "367711251c9a35459b3759bddc686119",
+        "title": "Scotland unemployment rises above UK average as 140,000 left out of work",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26550860.scotland-unemployment-rises-5-1-uk-average/",
+        "description": "Scotland unemployment rises to 5.1%, above the UK average, with 140,000 out of work and employment at 73.7%, latest official ONS figures reveal.",
+        "published": "Tue, 15 Sep 2026 10:33:04 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/9491274/?type=app&htype=0"
+      },
+      {
+        "id": "2bfc884b826a687669a3b8563a9e5164",
+        "title": "Herald Business LIVE: Today's top stories - September 15",
+        "link": "https://www.heraldscotland.com/news/26550816.herald-business-live-todays-top-stories---september-15/",
+        "description": "Welcome to The Herald's Business live blog, where we\u2019ll be bringing you the latest developments from across Scotland\u2019s business industry.",
+        "published": "Tue, 15 Sep 2026 10:27:06 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21394794/?type=app&htype=0"
+      },
+      {
+        "id": "32bd8e854bac416c1e523bcbd44d58d2",
+        "title": "Popular rock band announce world tour with huge Glasgow date",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26550718.warning-perform-o2-academy-glasgow-southside/",
+        "description": "The Warning to perform at O2 Academy in Glasgow Southside.",
+        "published": "Tue, 15 Sep 2026 10:12:40 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19247788/?type=app&htype=0"
+      },
+      {
+        "id": "96d07ab65910dcc3f3b9348bbec9a233",
+        "title": "American Pie singer Don McLean to perform final ever show in Glasgow next Spring",
+        "link": "https://www.glasgowtimes.co.uk/news/26549598.don-mclean-begin-final-uk-ireland-tour-glasgow/",
+        "description": "Legendary American singer-songwriter Don McLean will kick off his final UK and Ireland tour in Glasgow next year.",
+        "published": "Tue, 15 Sep 2026 10:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21454271/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=529130",
         "title": "Seven more charged over Celtic title party disorder as number of arrests hit 50",
         "link": "https://news.stv.tv/west-central/seven-more-charged-over-celtic-title-party-disorder-as-number-of-arrests-hit-50",
@@ -2011,14 +2067,6 @@
         "description": "Dramatic scenes showed the men trashing cars and the windows of the home with baseball bats and pick-axes.",
         "published": "Tue, 15 Sep 2026 08:14:40 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34615756.ece/ALTERNATES/s98/2_McPhee.png"
-      },
-      {
-        "id": "16a4e0da36aa954c8452bdae10f799b1",
-        "title": "Seven more arrested over Glasgow disorder as total number of arrests reaches 50",
-        "link": "https://www.glasgowtimes.co.uk/news/26550381.seven-arrested-celtic-title-win-disorder/",
-        "description": "A further seven people have been arrested for their involvement in the disorder which followed Celtic's league title win earlier this year.",
-        "published": "Tue, 15 Sep 2026 09:12:57 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18115321/?type=app&htype=0"
       },
       {
         "id": "9054031",
@@ -2267,14 +2315,6 @@
         "description": "The restaurant secured a provisional premises licence on Friday, allowing alcohol to be sold.",
         "published": "Mon, 14 Sep 2026 15:28:28 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34615114.ece/ALTERNATES/s98/0_houseofhighlandsgordonstreet.png"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-men-urged-stand-up-34615689",
-        "title": "Glasgow men urged to stand up for women and girls following 'shocking increase' in violent incidents",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-men-urged-stand-up-34615689",
-        "description": "At Thursday\u2019s full council meeting, during a motion on how to end VAWAG, it was also highlighted that most crimes are carried out in domestic premises by perpetrators who are known to their victims.",
-        "published": "Mon, 14 Sep 2026 15:25:17 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article12768595.ece/ALTERNATES/s98/GettyImages-533053713.jpg"
       },
       {
         "id": "https://www.bbc.co.uk/sport/football/articles/c62m922rg5qo#0",
