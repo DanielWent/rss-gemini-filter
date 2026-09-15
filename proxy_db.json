@@ -814,6 +814,14 @@
     "description": "AI Filtered Google Blog Updates.",
     "articles": [
       {
+        "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+        "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+        "description": "Text \"Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking\" with the Gemini Spark, all on a light blue background",
+        "published": "Tue, 15 Sep 2026 17:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-8_live___keyword__blog.max-600x600.format-webp.webp"
+      },
+      {
         "id": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
         "title": "The Gemini app is now available for Windows",
         "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
@@ -1996,6 +2004,22 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "9056193",
+        "title": "Rangers star set target by pundit after Old Firm heroics as he's told what to do next after silencing critics",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-star-set-target-by-pundit-after-old-firm-heroics-as-hes-told-what-to-do-next-after-silencing-critics-9056193",
+        "description": "<p>Ex Sunderland midfielder had a difficult start to life in Govan but has turned his fortunes around in recent weeks</p>",
+        "published": "Tue, 15 Sep 2026 17:00:04 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/15/12/38/GettyImages-2295028913.jpeg?width=1200&auto=webp&trim=47%2C0%2C48%2C0"
+      },
+      {
+        "id": "9055667",
+        "title": "Celtic accused of being 'naive' tactically as star looked to have something 'playing on his mind' at Ibrox",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-accused-of-being-naive-tactically-in-rangers-defeat-as-star-looked-to-be-playing-with-something-on-his-mind-9055667",
+        "description": "<p>Hoops were defeated 3-0 against Rangers at Ibrox in the League Cup quarter final</p>",
+        "published": "Tue, 15 Sep 2026 17:00:02 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/15/11/09/GettyImages-2295012032.jpeg?width=1200&auto=webp&trim=71%2C0%2C72%2C0"
+      },
       {
         "id": "7013f0ad056017023ee7119d6f909202",
         "title": "'It's no joke it's a national emergency' MSPs debate male violence against women",
