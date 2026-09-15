@@ -1965,6 +1965,70 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-worker-horrible-night-34616899",
+        "title": "Glasgow council worker on 'horrible' night-shift with 'drug addicts and violence' on streets",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-worker-horrible-night-34616899",
+        "description": "A street cleansing worker has bravely told of the abuse he faces on a typical shift and which nights are worse for violence in the city centre.",
+        "published": "Tue, 15 Sep 2026 06:19:36 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34617170.ece/ALTERNATES/s98/0_Screenshot-2026-09-14-174614.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-drivers-hit-nearly-17m-34615898",
+        "title": "Glasgow drivers hit with nearly \u00a31.7m in bus lane fines in just six months",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-drivers-hit-nearly-17m-34615898",
+        "description": "Glasgow City Council collected the fifth-highest revenue from fines.",
+        "published": "Tue, 15 Sep 2026 06:15:03 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33259354.ece/ALTERNATES/s98/0_TNP_130318_Lane_31JPG.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=529049",
+        "title": "\u2018They get the jail\u2019: Police vow to crack down on criminality at Glasgow protests",
+        "link": "https://news.stv.tv/west-central/they-get-the-jail-police-vow-to-crack-down-on-criminality-at-glasgow-protests",
+        "description": "Police Scotland launched a major operation in Glasgow Green on Saturday as hundreds gathered for anti-immigration and counter protests",
+        "published": "Tue, 15 Sep 2026 06:03:26 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/f32e1fffd7ac8e703e27aa69c8234ed8-1789224289-960x720.jpg"
+      },
+      {
+        "id": "89311f4fadd8a76beb5345cd278896f4",
+        "title": "\u2018Chilling culture\u2019 at Glasgow council - Government regulator told to investigate",
+        "link": "https://www.heraldscotland.com/news/26549724.fiona-higgins-raises-glasgow-city-council-chilling-culture-complaint/",
+        "description": "Glasgow councillor Fiona Higgins has warned of a \u201cchilling culture\u201d at Glasgow City Council and asked Audit Scotland to examine councillor scrutiny concerns.",
+        "published": "Tue, 15 Sep 2026 06:32:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19998374/?type=app&htype=0"
+      },
+      {
+        "id": "b0df16a0d98f902b6efc3b44bfbe8581",
+        "title": "'Unseaworthy' CalMac ferry grounding \u2013 where were the safety lessons?",
+        "link": "https://www.heraldscotland.com/news/26549415.calmac-loch-linnhe-grounding-safety-lessons/",
+        "description": "CalMac ferry Loch Linnhe was grounded in the Sound of Gigha, costing more than \u00a31m to repair. Why was there no full MAIB investigation?",
+        "published": "Tue, 15 Sep 2026 06:31:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/12670233/?type=app&htype=0"
+      },
+      {
+        "id": "f242d38bb8c142d00ce7ed6d232d21cf",
+        "title": "Glasgow council leader says tackling men's behaviour is key to women's safety",
+        "link": "https://www.glasgowtimes.co.uk/news/26548900.new-glasgow-leader-urges-action-violence-women/",
+        "description": "The new leader of Glasgow Council said we must tackle violence against women to ensure women feel as safe as men.",
+        "published": "Tue, 15 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21437403/?type=app&htype=0"
+      },
+      {
+        "id": "5a0453fed5c9429c1fd887921e70fc42",
+        "title": "Anna Lapwood on taking the pipe organ out of churches and into arenas",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26549432.anna-lapwood-speaks-ahead-organ-show-glasgows-hydro/",
+        "description": "\u201cThe organ is such a sensitive and versatile instrument, and I love getting to surprise people with it,\u201d Anna Lapwood tells the Glasgow Times.",
+        "published": "Tue, 15 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21454299/?type=app&htype=0"
+      },
+      {
+        "id": "956b0933263db0433e0835533b824f4f",
+        "title": "Hundreds report rough sleeping as decision day arrives for night shelter",
+        "link": "https://www.glasgowtimes.co.uk/news/26549553.figures-show-hundreds-slept-rough-glasgow-year/",
+        "description": "Figures show around 100 people a month reported rough sleeping in Glasgow this year.",
+        "published": "Tue, 15 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21263035/?type=app&htype=0"
+      },
+      {
         "id": "06cfe141e1d33990503d7553d56fdae0",
         "title": "Sturgeon reported to the police for allegedly handling stolen goods",
         "link": "https://www.heraldscotland.com/news/26550145.sturgeon-reported-police-allegedly-handling-stolen-goods/",
