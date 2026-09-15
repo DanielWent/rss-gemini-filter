@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo#1",
+        "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+        "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+        "description": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+        "published": "Tue, 15 Sep 2026 03:47:27 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5749/live/ee0b1740-b0a6-11f1-9c5d-0dd6cc52f198.png"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o#1",
         "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
         "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.",
         "published": "Sat, 15 Aug 2026 11:25:32 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feb2/live/91ecfb30-97e8-11f1-a76b-f1c27c51f3da.jpg"
-      },
-      {
-        "id": "1786770910687498",
-        "title": "Europe's scorched landscapes seen from space after summer heatwaves",
-        "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
-        "description": "BBC Verify examines the impact of drought and extreme heat on western European rivers, fields and mountains.",
-        "published": "Sat, 15 Aug 2026 07:01:13 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b95/live/1efcbb90-97f4-11f1-870d-5d08c49babb2.png"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
