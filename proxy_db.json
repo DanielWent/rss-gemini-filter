@@ -1989,6 +1989,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/glasgow-hotel-prices-surge-226-34619185",
+        "title": "Glasgow hotel prices surge by \u00a3226 after Oasis confirms five huge gigs at Celtic Park",
+        "link": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/glasgow-hotel-prices-surge-226-34619185",
+        "description": "Oasis confirmed they will be performing at Celtic Park for five nights in May 2027, including on Noel's 60th birthday.",
+        "published": "Tue, 15 Sep 2026 10:52:25 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34619622.ece/ALTERNATES/s98/0_JS418012397.jpg"
+      },
+      {
         "id": "5b0505a6828e82e26475902c902b598a",
         "title": "Noel Gallagher reveals special celebration set for final Celtic Park gig",
         "link": "https://www.glasgowtimes.co.uk/news/26551013.noel-gallagher-reveals-celebration-set-final-glasgow-gig/",
