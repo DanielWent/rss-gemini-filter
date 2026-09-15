@@ -1989,6 +1989,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cmpwlnrne4j4o#0",
+        "title": "Man with links to crime boss jailed for role in \u00a38m drugs raid",
+        "link": "https://www.bbc.co.uk/news/articles/cmpwlnrne4j4o?at_medium=RSS&at_campaign=rss",
+        "description": "Charles McAughey - who has connections to Jamie \"Iceman\" Stevenson - was jailed for six years.",
+        "published": "Tue, 15 Sep 2026 13:46:57 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7735/live/03258a90-b109-11f1-b1d1-571ed4d7ff2c.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-woman-harassed-drunk-man-34618792",
+        "title": "Glasgow woman harassed by drunk man hits out at road 'left in darkness' for weeks",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-woman-harassed-drunk-man-34618792",
+        "description": "&quot;He was trying to talk to me and I just walked, I didn't even look at him but it frightened me. It's in complete darkness, that entire section.&quot;",
+        "published": "Tue, 15 Sep 2026 13:46:54 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34621152.ece/ALTERNATES/s98/2_Kingsway.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=529201",
+        "title": "Man goes on trial accused of murdering partner with broken glass bottle and microwave plate",
+        "link": "https://news.stv.tv/west-central/man-goes-on-trial-accused-of-murdering-partner-with-broken-glass-bottle-and-microwave-plate",
+        "description": "Alexander Brennan is accused of striking Brodie MacGregor on the head, face and body with a microwave plate and broken bottles",
+        "published": "Tue, 15 Sep 2026 13:34:09 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2024/08/e4420d561dfe8dd119802b56e05dee89-1724850047-1120x720.jpeg"
+      },
+      {
         "id": "5ef6483dbfc6fde692f1d0d5401570ca",
         "title": "Locals share their sorrows after beloved DIY store announces shock closure",
         "link": "https://www.glasgowtimes.co.uk/news/26552029.outcry-east-kilbride-diy-store-announces-closure/",
