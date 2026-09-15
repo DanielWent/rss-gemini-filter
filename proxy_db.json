@@ -2005,6 +2005,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "96fd02d5305833c14d097d0e8857ec77",
+        "title": "Glasgow soft play centre to reopen this weekend with giant new inflatable play area",
+        "link": "https://www.glasgowtimes.co.uk/news/26553566.wonderworld-soft-play-glasgow-reopen-new-inflatable/",
+        "description": "Glasgow's WonderWorld Soft Play reopens on September 19 with a giant inflatable play area and new attractions for children aged three and over on Middlesex Street.",
+        "published": "Tue, 15 Sep 2026 19:19:45 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21460282/?type=app&htype=0"
+      },
+      {
+        "id": "39dfd559e781de27385d9be0ca54fdb6",
+        "title": "East Kilbride housing land decision sent to councillors after legal challenge",
+        "link": "https://www.glasgowtimes.co.uk/news/26553166.east-kilbride-green-space-housing-plan-now-heard-councillors/",
+        "description": "Plans to appropriate former pitches and green space at Westwood Hill for housing will now be decided by councillors after campaigners challenged the legality of the original decision.",
+        "published": "Tue, 15 Sep 2026 19:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20026730/?type=app&htype=0"
+      },
+      {
+        "id": "a2ac11c030af526ec8abe531cf6a231d",
+        "title": "Nicola Sturgeon says abolishing monarchy would 'free' Prince George",
+        "link": "https://www.heraldscotland.com/news/26553480.sturgeon-says-ending-monarchy-spare-prince-george-burden/",
+        "description": "Nicola Sturgeon says abolishing the monarchy would spare Prince George the 'burden' of kingship.",
+        "published": "Tue, 15 Sep 2026 18:02:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21460176/?type=app&htype=0"
+      },
+      {
         "id": "9056193",
         "title": "Rangers star set target by pundit after Old Firm heroics as he's told what to do next after silencing critics",
         "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-star-set-target-by-pundit-after-old-firm-heroics-as-hes-told-what-to-do-next-after-silencing-critics-9056193",
@@ -2107,14 +2131,6 @@
         "description": "<p>City centre homeless shelter faces closure after planning permission refused</p>",
         "published": "Tue, 15 Sep 2026 15:23:54 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/15/15/15/onecms_de2f2ac7-5974-4a85-88ae-d6044e0a12ef_4927e576-fc14-480a-9e50-2a27588de0cd.jpeg?width=1200&auto=webp&trim=0%2C80%2C0%2C79"
-      },
-      {
-        "id": "d1d5a601d3b0e276f14baf79b754769a",
-        "title": "Wallace the fire dog statue unveiled at Glasgow Central after nine-year community bid",
-        "link": "https://www.heraldscotland.com/news/26552952.wallace-fire-dog-statue-unveiled-glasgow-central-terminal/",
-        "description": "A statue of Wallace the fire dog has been unveiled at Glasgow Central Station after a nine-year community campaign.",
-        "published": "Tue, 15 Sep 2026 16:17:18 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21459451/?type=app&htype=0"
       },
       {
         "id": "cdba407c2b48dceb9406627173ccefeb",
@@ -2275,14 +2291,6 @@
         "description": "Three men caught after a \u00a31.3m cannabis factory raid have been jailed for a total of 12 years",
         "published": "Tue, 15 Sep 2026 12:38:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/8980576/?type=app&htype=0"
-      },
-      {
-        "id": "9054859",
-        "title": "Rangers star that would fit in 'Celtic's system really well' identified as Hoops icon doubles down on stance",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/the-rangers-star-that-would-fit-in-celtics-system-really-well-identified-as-hoops-icon-doubles-down-on-stance-9054859",
-        "description": "<p>Former Celtic winger played alongside Rangers\u2019 Old Firm hero at Sunderland</p>",
-        "published": "Tue, 15 Sep 2026 11:30:50 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/15/9/35/GettyImages-1349260966.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       },
       {
         "id": "56ac4d1495fc64e64caeacd7dd17ac97",
@@ -2795,14 +2803,6 @@
         "description": "Five-time Grammy winners Snarky Puppy bring their jazz-fusion live show to Glasgow Royal Concert Hall on April 23, 2027, with London and Manchester dates.",
         "published": "Mon, 14 Sep 2026 13:26:08 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21452201/?type=app&htype=0"
-      },
-      {
-        "id": "bfdf191b15e6e5512ee79e1275e2e929",
-        "title": "Glasgow bookshop 'blown away' by community support after 'targeted' vandal attack",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26548238.glasgows-category-books-blown-away-support-vandalism/",
-        "description": "Owners of Category Is Books in Glasgow are 'blown away' by the support shown to them after a recent vandalism attack.",
-        "published": "Mon, 14 Sep 2026 13:23:49 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21435825/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
