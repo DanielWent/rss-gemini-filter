@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1789511139595768",
+        "title": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
+        "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+        "description": "Jensen Huang's stance on AI safety contrasts with several current and former employees of AI-focused firm",
+        "published": "Wed, 16 Sep 2026 00:13:10 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6b4/live/8aa4e810-b14c-11f1-a383-57f33d64a166.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo#1",
         "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
         "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
         "published": "Sat, 15 Aug 2026 22:28:30 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddd3/live/455f2ee0-98e3-11f1-b2ab-0dd01740f9f6.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o#2",
-        "title": "Secondhand book sales are booming. Is it because of AI?",
-        "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-        "description": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.",
-        "published": "Sat, 15 Aug 2026 11:25:32 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feb2/live/91ecfb30-97e8-11f1-a76b-f1c27c51f3da.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
