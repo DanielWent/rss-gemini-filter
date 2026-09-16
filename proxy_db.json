@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cw8r6mvjdvedo#1",
+        "title": "Japan to charge rescue fee on Mount Fuji during off season",
+        "link": "https://www.bbc.co.uk/news/articles/cw8r6mvjdvedo?at_medium=RSS&at_campaign=rss",
+        "description": "The fee is among a series of measures Yamanashi prefecture is introducing to deter reckless climbers.",
+        "published": "Wed, 16 Sep 2026 02:40:51 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eeee/live/ef4909e0-b174-11f1-b156-071943a3942c.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o#1",
         "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
         "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain.",
         "published": "Mon, 17 Aug 2026 06:34:09 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b96/live/e2371780-99f3-11f1-8ffd-896dfa12c5fd.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no#0",
-        "title": "Two dead and evacuation under way as fires break out on Greek island",
-        "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-        "description": "Nearly 200 firefighters are trying to keep the two fires on Salamina apart, Greek media report.",
-        "published": "Sun, 16 Aug 2026 16:14:26 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bdc/live/0a2927a0-9987-11f1-a4eb-59b79ff5ff4f.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
