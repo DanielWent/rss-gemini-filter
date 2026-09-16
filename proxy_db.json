@@ -2029,12 +2029,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "45c957b438501a84cb6bf497899d44a0",
+        "title": "Rosyth-Europe ferry revival scrapped despite \u00a36m funding pledge",
+        "link": "https://www.heraldscotland.com/news/26555958.rosyth-europe-ferry-service-scrapped-forth-ports/",
+        "description": "Forth Ports pulls out of Rosyth-Europe ferry plans despite \u00a36m government funding.",
+        "published": "Wed, 16 Sep 2026 14:42:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21028895/?type=app&htype=387"
+      },
+      {
+        "id": "ba6b6f2e9b1aa38b42cb2ea43184b2db",
+        "title": "New Town business body to launch renewal ballot early amid tourist tax impact",
+        "link": "https://www.heraldscotland.com/news/26555934.edinburgh-business-body-asks-members-approve-new-five-year-term/",
+        "description": "Essential Edinburgh, the New Town\u2019s business improvement district, is required by law to carry out a renewal ballot of members every five years.",
+        "published": "Wed, 16 Sep 2026 14:35:11 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21316427/?type=app&htype=0"
+      },
+      {
+        "id": "77f59fc75ce7babda8e089318d1ea38d",
+        "title": "Several road closures planned around Kingston Bridge for two months",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26555844.overnight-route-closures-around-glasgow-kingston-bridge/",
+        "description": "Glasgow Kingston Bridge Complex overnight closures begin September 20 for Amey drainage surveys, affecting Cheapside Street and the M8 junction 20 ramp.",
+        "published": "Wed, 16 Sep 2026 14:20:40 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20992232/?type=app&htype=0"
+      },
+      {
         "id": "54cc6c2ddd1b5c4309cd297788bdefe0",
         "title": "ScotRail apologises after 3,000 complaints about \u2018not good enough\u2019 app launch",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26555722.scotrail-apologises-3-000-complaints-new-app/",
         "description": "ScotRail apologises after 3,000 complaints about its new app, which left travellers locked out and unable to buy tickets following its July 30 launch.",
         "published": "Wed, 16 Sep 2026 14:00:37 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19846632/?type=app&htype=0"
+      },
+      {
+        "id": "0f146cc1a6dea3e01a14a18a0d4fe2fa",
+        "title": "'Not everything needs a Saltire': SNP veteran urges Scotland to adopt English NHS app",
+        "link": "https://www.heraldscotland.com/news/26555714.scottish-ministers-urged-adopt-englands-nhs-app/",
+        "description": "A new report by former SNP health secretary Alex Neil, ex-Labour MSP Dr Richard Simpson and a Nairn GP calls for Scotland to adopt the English NHS app, scrap GP walk-in centres and establish a cross-party commission to reform health and social care by 2035.",
+        "published": "Wed, 16 Sep 2026 13:59:12 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/16891310/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-southside-wine-shop-can-34626071",
@@ -2059,6 +2091,14 @@
         "description": "Glasgow High Court murder trial hears claims Alexander Brennan killed Brodie MacGregor, 23, in Springburn on August 26 2024, as detectives detail CCTV evidence in court.",
         "published": "Wed, 16 Sep 2026 13:50:31 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21457736/?type=app&htype=0"
+      },
+      {
+        "id": "b8223b4c34227d4d852e5ca0b22cdbfa",
+        "title": "'Springboard, not sunset': Edinburgh's festivals make last-ditch tourist tax plea",
+        "link": "https://www.heraldscotland.com/news/26555584.festivals-last-ditch-plea-proportionate-tourist-tax-share/",
+        "description": "Councillors have been warned of the risks of 'continued underinvestment' in the city's annual cultural events ahead of their 80th anniversary season.",
+        "published": "Wed, 16 Sep 2026 13:35:17 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21463496/?type=app&htype=0"
       },
       {
         "id": "22f4e87223f360dddbbf8968195a0c97",
