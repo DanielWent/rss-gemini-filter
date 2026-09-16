@@ -2029,6 +2029,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "54cc6c2ddd1b5c4309cd297788bdefe0",
+        "title": "ScotRail apologises after 3,000 complaints about \u2018not good enough\u2019 app launch",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26555722.scotrail-apologises-3-000-complaints-new-app/",
+        "description": "ScotRail apologises after 3,000 complaints about its new app, which left travellers locked out and unable to buy tickets following its July 30 launch.",
+        "published": "Wed, 16 Sep 2026 14:00:37 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19846632/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/dangerous-glasgow-home-ruled-unfit-34626101",
+        "title": "'Dangerous' Glasgow home ruled unfit for habitation could be bought by council",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/dangerous-glasgow-home-ruled-unfit-34626101",
+        "description": "Glasgow City Council is planning to buy the property and then transfer ownership to a housing association.",
+        "published": "Wed, 16 Sep 2026 12:50:35 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34626087.ece/ALTERNATES/s98/0_hillingtonroadsouth.png"
+      },
+      {
+        "id": "78e5b8833fc107d94350513676ddc58c",
+        "title": "Detective says victims injuries 'will stay with me forever' as graphic details emerge",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26555674.brodie-macgregor-trial-hears-graphic-evidence-glasgow-murder/",
+        "description": "Glasgow High Court murder trial hears claims Alexander Brennan killed Brodie MacGregor, 23, in Springburn on August 26 2024, as detectives detail CCTV evidence in court.",
+        "published": "Wed, 16 Sep 2026 13:50:31 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21457736/?type=app&htype=0"
+      },
+      {
         "id": "22f4e87223f360dddbbf8968195a0c97",
         "title": "Popular Glasgow walkway to close for weeks as nearly 400 trees are cut down",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26555564.river-kelvin-walkway-sections-close-392-ash-trees-felled/",
