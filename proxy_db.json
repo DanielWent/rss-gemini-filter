@@ -2037,6 +2037,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "e1404489fcf9ec7ec27afdbc64ac26cd",
+        "title": "Family of murdered mother calls for government to act on violence against women",
+        "link": "https://www.glasgowtimes.co.uk/news/26556658.family-murdered-houston-mother-urges-government-act/",
+        "description": "More women could be killed by men unless the Government acts, the family of a mother murdered in Houston has said.",
+        "published": "Wed, 16 Sep 2026 16:42:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21403638/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/ikea-glasgow-host-huge-25th-34627405",
+        "title": "IKEA Glasgow to host huge 25th anniversary celebration this weekend with plenty of family fun",
+        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/ikea-glasgow-host-huge-25th-34627405",
+        "description": "There will be Clyde One DJs, exclusive deals, \u00a325,000 worth of prizes and plenty of family entertainment.",
+        "published": "Wed, 16 Sep 2026 15:36:06 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34627455.ece/ALTERNATES/s98/0_Screenshot-2026-09-16-at-41041PM.png"
+      },
+      {
+        "id": "2782c22cc8a0c320c6c8f7aab1592ee6",
+        "title": "\u00a35.8m plan promises faster bus journeys on Glasgow's busiest routes",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26556639.glasgow-gets-5-8m-package-improve-bus-journeys/",
+        "description": "Glasgow bus passengers could see faster, more reliable journeys as \u00a35.8m funding targets five key routes, smart signals, stops and accessibility upgrades.",
+        "published": "Wed, 16 Sep 2026 16:31:20 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20643975/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=529377",
         "title": "Glasgow Caledonian University staff to strike over job cuts",
         "link": "https://news.stv.tv/west-central/glasgow-caledonian-university-staff-to-strike-over-job-cuts",
