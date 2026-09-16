@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c34gd48x5rlwo#3",
+        "title": "Why Trump is all-in on AI despite the warnings",
+        "link": "https://www.bbc.co.uk/news/articles/c34gd48x5rlwo?at_medium=RSS&at_campaign=rss",
+        "description": "The US president has pushed the issue to the forefront of American politics - even at the risk of losing supporters.",
+        "published": "Wed, 16 Sep 2026 08:41:44 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c0a/live/6439c3e0-b1aa-11f1-8b77-cd7827f05bee.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cw8r6mvjdvedo#1",
         "title": "Japan to charge rescue fee on Mount Fuji during off season",
         "link": "https://www.bbc.co.uk/news/articles/cw8r6mvjdvedo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Amy Hunt asserts herself as Great Britain's new track sensation after winning an unprecedented four gold medals at the European Athletics Championships.",
         "published": "Mon, 17 Aug 2026 07:02:43 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04d5/live/a5895050-99c6-11f1-b604-2bfb19ba7385.jpg"
-      },
-      {
-        "id": "1786942512400778",
-        "title": "Landslide in South Korea kills one as record rain lashes south",
-        "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
-        "description": "It comes as large swathes of East and South East Asia have been pummelled by dats of heavy rain.",
-        "published": "Mon, 17 Aug 2026 06:34:09 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b96/live/e2371780-99f3-11f1-8ffd-896dfa12c5fd.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2012,6 +2012,22 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://news.stv.tv/?p=529298",
+        "title": "Glasgow Women\u2019s Aid speaks out over controversial sports advert starring Sydney Sweeney",
+        "link": "https://news.stv.tv/west-central/glasgow-womens-aid-speaks-out-over-controversial-sports-advert-starring-sydney-sweeney",
+        "description": "The organisation says women should be known for their talent rather than their bodies to generate clicks.",
+        "published": "Wed, 16 Sep 2026 09:09:34 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/50aff8ec55cb2b20b9ed4a631b638738-1789547707.jpg"
+      },
+      {
+        "id": "7faf6ba541b1c22393afe707d07ea5ce",
+        "title": "The doors are still open, but this Glasgow landmark is far from saved",
+        "link": "https://www.heraldscotland.com/news/26553482.happens-next-glasgows-queens-park-glasshouse/",
+        "description": "Glasgow\u2019s Queen\u2019s Park Glasshouse remains open after a 13,000-signature campaign, but restoration costs and its long-term future are still uncertain.",
+        "published": "Wed, 16 Sep 2026 10:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21316725/?type=app&htype=0"
+      },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/irvine-businessman-jailed-over-6m-34624055",
         "title": "Irvine businessman jailed over \u00a36m scam pictured enjoying beach stroll one year into six-year term",
