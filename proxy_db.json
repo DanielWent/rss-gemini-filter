@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c60m3k28j81mo#1",
+        "title": "Part-human part-mouse brain developed in science breakthrough",
+        "link": "https://www.bbc.co.uk/news/articles/c60m3k28j81mo?at_medium=RSS&at_campaign=rss",
+        "description": "Researchers at Stanford University genetically altered mice to be able to receive and function with human brain cells.",
+        "published": "Wed, 16 Sep 2026 15:53:27 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de2b/live/f44bc7f0-b1da-11f1-a44b-aba96a7d56aa.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo#1",
         "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
         "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.",
         "published": "Tue, 18 Aug 2026 09:26:41 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/975e/live/208c6990-9ae4-11f1-b2f7-5d1639b20e22.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o#3",
-        "title": "US hiker dies after being struck by lightning on Mount Etna",
-        "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
-        "description": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report.",
-        "published": "Mon, 17 Aug 2026 12:23:26 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e58/live/50b3c630-9a31-11f1-a291-b542ee92de7c.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2036,6 +2036,22 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "b1f0b0a929fc5f1b7f36ffc235c878d4",
+        "title": "Thousands of capital's firms fail to pay full business rates, council confirms",
+        "link": "https://www.heraldscotland.com/news/26556726.revealed-3-000-edinburgh-businesses-non-domestic-rates-arrears/",
+        "description": "According to the council\u2019s publicly-available list of \u2018primary liable parties\u2019, 13,747 firms were responsible for paying NDR as of July 2026.",
+        "published": "Wed, 16 Sep 2026 16:59:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21434150/?type=app&htype=0"
+      },
+      {
+        "id": "e115bed7d36fdb964f0c973ef0f00259",
+        "title": "Mystery convoy sweeps through Glasgow city centre as police halt traffic",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26556754.police-halt-glasgow-traffic-convoy-passes-city-centre/",
+        "description": "Police motorcyclists halted traffic in Glasgow city centre as a convoy passed Bath Street, amid President Catherine Connolly\u2019s Scotland visit; links unconfirmed.",
+        "published": "Wed, 16 Sep 2026 16:51:24 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21464689/?type=app&htype=0"
+      },
       {
         "id": "e1404489fcf9ec7ec27afdbc64ac26cd",
         "title": "Family of murdered mother calls for government to act on violence against women",
