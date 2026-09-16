@@ -2037,6 +2037,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/gallery/7-pumpkin-picking-spots-glasgow-34626623",
+        "title": "7 pumpkin picking spots in Glasgow offering lots of spooky Halloween fun",
+        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/gallery/7-pumpkin-picking-spots-glasgow-34626623",
+        "description": "There are lots of places in and around Glasgow you can visit for Halloween - but be quick as tickets usually sell out faster than you can say 'boo!'",
+        "published": "Wed, 16 Sep 2026 14:44:28 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34626601.ece/ALTERNATES/s98/0_Pumpkin-Trainjpeg.jpg"
+      },
+      {
+        "id": "45aaa76478c7986137e897e4c4414e03",
+        "title": "Scandal-hit Glasgow hopsital is 'not what the country paid for' says Health Secretary",
+        "link": "https://www.glasgowtimes.co.uk/news/health/26556304.health-secretary-says-scots-not-get-hospital-paid/",
+        "description": "Angela Constance says Scots did not get the hospital they paid for as Queen Elizabeth University Hospital inquiry examines Glasgow failures and deaths.",
+        "published": "Wed, 16 Sep 2026 15:38:36 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20622118/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=529348",
+        "title": "Mum of teen stabbed to death campaigning for bleed kits in Glasgow high schools",
+        "link": "https://news.stv.tv/west-central/mum-of-teen-stabbed-to-death-campaigning-for-bleed-kits-in-glasgow-high-schools",
+        "description": "Kory McCrimmon's family have worked alongside the local community to fundraise for bleed kits in the area",
+        "published": "Wed, 16 Sep 2026 14:35:52 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2025/05/6f63e5f220794cb0ff8faea7bb84f55a-1746730478-1280x720.jpeg"
+      },
+      {
+        "id": "af57df035307efeea45d02ce2f1dc5b1",
+        "title": "Archaeologists to probe radical riot that brought down Glasgow tycoon's walls",
+        "link": "https://www.heraldscotland.com/news/26556149.archaeologists-probe-radical-riot-brought-harvies-dyke/",
+        "description": "The 1823 riot was a victory for the people, and now the hunt is on to find the evidence",
+        "published": "Wed, 16 Sep 2026 15:13:44 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21463940/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/reports-assaults-against-women-caledonian-34626722",
+        "title": "Reports of assaults against women on Caledonian Sleeper increasing, MSPs told",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/reports-assaults-against-women-caledonian-34626722",
+        "description": "Hannah Ross, the chief executive of Scottish Rail Holdings - the company which operates the Caledonian Sleeper - says it is a &quot;really serious and crucial issue&quot;.",
+        "published": "Wed, 16 Sep 2026 14:01:34 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34626850.ece/ALTERNATES/s98/0_JS202835471.jpg"
+      },
+      {
         "id": "5490734",
         "title": "Glasgow's best commuter towns 2026: The 16 best places to live just outside of Glasgow",
         "link": "https://www.glasgowworld.com/best-in/glasgow-best-commuter-towns-2026-9066905",
@@ -2075,6 +2115,14 @@
         "description": "Essential Edinburgh, the New Town\u2019s business improvement district, is required by law to carry out a renewal ballot of members every five years.",
         "published": "Wed, 16 Sep 2026 14:35:11 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21316427/?type=app&htype=0"
+      },
+      {
+        "id": "d22694c488d10162f18a14659fcdd2e6",
+        "title": "Historic Kinross House Estate on Loch Leven acquired by conservation firm WildLand",
+        "link": "https://www.heraldscotland.com/news/26555850.historic-kinross-house-estate-acquired-conservation-firm-wildland/",
+        "description": "Kinross House Estate on Loch Leven has been acquired by conservation-focused property firm WildLand.",
+        "published": "Wed, 16 Sep 2026 14:22:36 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21463583/?type=app&htype=0"
       },
       {
         "id": "77f59fc75ce7babda8e089318d1ea38d",
