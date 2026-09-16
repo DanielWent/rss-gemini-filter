@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo#1",
+        "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
+        "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+        "description": "Mustafa Suleyman says he believes the AI giant is in effect teaching Claude it \"may be conscious\".",
+        "published": "Wed, 16 Sep 2026 14:16:14 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf81/live/b2088f70-b1d2-11f1-8493-1910d79d53eb.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cqe9eyn5yry3o#2",
         "title": "What lies behind Scotland's AI data centre boom",
         "link": "https://www.bbc.co.uk/news/articles/cqe9eyn5yry3o?at_medium=RSS&at_campaign=rss",
@@ -435,14 +443,6 @@
         "description": "During the most recent Ice Age, researchers believe there was a \"lost land bridge\" between Wales and Ireland.",
         "published": "Sat, 05 Sep 2026 00:01:41 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e01/live/e9948ee0-a885-11f1-824a-0fc4c5d895ae.png"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/athletics/articles/cwyzn491wldo#7",
-        "title": "'Best bend I've ever run' - Hunt's strong season continues in Brussels",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/cwyzn491wldo?at_medium=RSS&at_campaign=rss",
-        "description": "Amy Hunt's strong late-season form showed no signs of letting up as she clocked a season's best to finish third in the 200m at the Diamond League final in Brussels.",
-        "published": "Fri, 04 Sep 2026 21:32:46 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33fa/live/e43b3900-a8a6-11f1-b9ae-958b89fa84e3.jpg"
       },
       {
         "id": "1788600015899939",
@@ -1586,6 +1586,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "80704b261c4442a5d82ea2291e2d6c31",
+        "title": "Dumbarton Road closure extended until next month amid engineering difficulties",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26556060.dumbarton-road-closure-extended-almost-three-weeks/",
+        "description": "Glasgow drivers face Dumbarton Road disruption until October 7 as Scottish Water repairs continue, with diversions via Anniesland Road and Great Western Road.",
+        "published": "Wed, 16 Sep 2026 14:57:27 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19036953/?type=app&htype=0"
+      },
+      {
         "id": "472e0e7d547d2b5286c4a4f10812aaf3",
         "title": "'Undervalued, underpaid' - Glasgow school workers reduced to tears over pay scheme",
         "link": "https://www.glasgowtimes.co.uk/news/26548370.glasgow-school-workers-reduced-tears-councils-new-pay-scheme/",
@@ -2028,6 +2036,30 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "5490734",
+        "title": "Glasgow's best commuter towns 2026: The 16 best places to live just outside of Glasgow",
+        "link": "https://www.glasgowworld.com/best-in/glasgow-best-commuter-towns-2026-9066905",
+        "description": "<p><strong>Where are Glasgow\u2019s best commuter towns? We take a look.</strong></p>",
+        "published": "Wed, 16 Sep 2026 14:00:57 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/02/14/12/27/Kirkintilloch-Canal-Festival.jpeg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "80704b261c4442a5d82ea2291e2d6c31",
+        "title": "Dumbarton Road closure extended until next month amid engineering difficulties",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26556060.dumbarton-road-closure-extended-almost-three-weeks/",
+        "description": "Glasgow drivers face Dumbarton Road disruption until October 7 as Scottish Water repairs continue, with diversions via Anniesland Road and Great Western Road.",
+        "published": "Wed, 16 Sep 2026 14:57:27 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19036953/?type=app&htype=0"
+      },
+      {
+        "id": "4cd310c86ebf35e6e9b2781aefc6ba63",
+        "title": "Oasis Glasgow gigs to pump \u00a3158m into city during Celtic Park gigs",
+        "link": "https://www.glasgowtimes.co.uk/sport/26556057.five-oasis-gigs-set-bring-glasgow-almost-158m-boost/",
+        "description": "Oasis\u2019 five Celtic Park gigs from May 21 could bring Glasgow \u00a3157.6m, as hotel prices soar and fans face potential \u00a31,000-plus costs.",
+        "published": "Wed, 16 Sep 2026 14:56:54 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21455397/?type=app&htype=0"
+      },
       {
         "id": "45c957b438501a84cb6bf497899d44a0",
         "title": "Rosyth-Europe ferry revival scrapped despite \u00a36m funding pledge",
