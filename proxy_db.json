@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cqe9eyn5yry3o#2",
+        "title": "What lies behind Scotland's AI data centre boom",
+        "link": "https://www.bbc.co.uk/news/articles/cqe9eyn5yry3o?at_medium=RSS&at_campaign=rss",
+        "description": "The growth of AI is happening at lightning pace, so what are the advantages and disadvantages of Scotland being at the forefront?",
+        "published": "Wed, 16 Sep 2026 11:40:39 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/607a/live/4fe39fa0-b1c4-11f1-b1d1-571ed4d7ff2c.png"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c34gd48x5rlwo#3",
         "title": "Why Trump is all-in on AI despite the warnings",
         "link": "https://www.bbc.co.uk/news/articles/c34gd48x5rlwo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The 30-year-old was on the active volcano when a thunderstorm developed, local media report.",
         "published": "Mon, 17 Aug 2026 12:23:26 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e58/live/50b3c630-9a31-11f1-a291-b542ee92de7c.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo#7",
-        "title": "'Are you not entertained?' - Hunt enters stardom with iconic quadruple",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/clyqqxgrdqqo?at_medium=RSS&at_campaign=rss",
-        "description": "Amy Hunt asserts herself as Great Britain's new track sensation after winning an unprecedented four gold medals at the European Athletics Championships.",
-        "published": "Mon, 17 Aug 2026 07:02:43 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04d5/live/a5895050-99c6-11f1-b604-2bfb19ba7385.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -992,6 +992,22 @@
     "link": "https://the5krunner.com",
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
+      {
+        "id": "https://the5krunner.com/?p=130355",
+        "title": "SportVitals: transparent training load and HRV for Apple Watch",
+        "link": "https://the5krunner.com/2026/09/16/sportvitals-transparent-training-load-and-hrv-for-apple-watch/",
+        "description": "<p><img alt=\"SportVitals: transparent training load and HRV for Apple Watch\" class=\"attachment-large size-large\" height=\"602\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/09/sportvitals_hero_watch.png/w=1080,h=602\" style=\"height: auto;\" width=\"1080\" /></p>\n<p>SportVitals estimates training load (ATL, CTL, TSB, ACWR), cycling VO2 max from FTP, running lactate threshold and HRV status, all calculated on-device from Apple Health data.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/09/16/sportvitals-transparent-training-load-and-hrv-for-apple-watch/\">SportVitals: transparent training load and HRV for Apple Watch</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
+        "published": "Wed, 16 Sep 2026 11:56:07 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/09/sportvitals_hero_watch.png/w=1080,h=602"
+      },
+      {
+        "id": "https://the5krunner.com/?p=130370",
+        "title": "UCI backs 6 supplements, power meters, carb strategies",
+        "link": "https://the5krunner.com/2026/09/16/uci-cycling-nutrition-statement/",
+        "description": "<p><img alt=\"UCI backs 6 supplements, power meters, carb strategies\" class=\"attachment-large size-large\" height=\"442\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/09/UCI-Logo-brand.png/w=1070,h=442\" style=\"height: auto;\" width=\"1070\" /></p>\n<p>The UCI has published its first cycling nutrition position statement, backed by 14 peer-reviewed reviews across\u00a0sports science and nutrition covering every discipline it governs. It sets cycling-specific numbers for carbs,&#8230; </p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/09/16/uci-cycling-nutrition-statement/\">UCI backs 6 supplements, power meters, carb strategies</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
+        "published": "Wed, 16 Sep 2026 11:39:32 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/09/UCI-Logo-brand.png/w=1070,h=442"
+      },
       {
         "id": "https://the5krunner.com/?p=130336",
         "title": "Strava: September Update",
@@ -2013,12 +2029,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "7617cf34ad79012a36ce73d286282d96",
+        "title": "Major update issued on Glasgow Airport strike action",
+        "link": "https://www.glasgowtimes.co.uk/news/26555316.major-update-issued-glasgow-airport-strike-action/",
+        "description": "Strike action at Glasgow Airport has been called off after workers accepted a new pay deal.",
+        "published": "Wed, 16 Sep 2026 12:41:19 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18583362/?type=app&htype=0"
+      },
+      {
+        "id": "c6a17a0ba930d0046b7fd34079255e62",
+        "title": "400 jobs to be cut at Ladbrokes as gambling tax fears threaten betting shops",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26555291.ladbrokes-owner-entain-axe-400-customer-care-jobs/",
+        "description": "Entain, owner of Ladbrokes and Coral, plans to cut 400 customer care jobs, warning rising gambling taxes are piling pressure on the UK betting industry.",
+        "published": "Wed, 16 Sep 2026 12:36:58 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21462702/?type=app&htype=0"
+      },
+      {
+        "id": "126b23381d2a587e8a460e2dd886e24e",
+        "title": "Glasgow NHS workers win pay rise and years of back pay after strike action",
+        "link": "https://www.glasgowtimes.co.uk/news/26555263.glasgow-nhs-staff-win-pay-rise-strike-action/",
+        "description": "Glasgow health workers have secured a pay rise and up to three years\u2019 back pay following strike action, says UNISON.",
+        "published": "Wed, 16 Sep 2026 12:32:26 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21119733/?type=app&htype=0"
+      },
+      {
         "id": "7076ae231e4789292837a9d02dcdb63f",
         "title": "Glasgow's M8 to close as long-awaited works get underway",
         "link": "https://www.glasgowtimes.co.uk/news/26555089.m8-close-long-awaited-works-begin-ibrox-footbridge/",
         "description": "Glasgow's M8 motorway is set to close over the coming weeks to allow for works on the Cornwall Street and Kirkwood Street footbridges.",
         "published": "Wed, 16 Sep 2026 12:06:26 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19926560/?type=app&htype=0"
+      },
+      {
+        "id": "432b154a2200df728491ac669143d7b6",
+        "title": "How Islay's first rum distillery found its place on Scotland's 'whisky island'",
+        "link": "https://www.heraldscotland.com/life_style/26550549.islay-rum-adds-new-flavour-scotlands-whisky-island/",
+        "description": "Here's how an award-winning rum distillery found its home on Scotland's 'whisky island '.",
+        "published": "Wed, 16 Sep 2026 12:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21455878/?type=app&htype=0"
       },
       {
         "id": "9064712",
@@ -2035,6 +2083,14 @@
         "description": "A major Glasgow road has been restricted following a crash.",
         "published": "Wed, 16 Sep 2026 11:44:42 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19789692/?type=app&htype=0"
+      },
+      {
+        "id": "1c7dcfeb1d620d3c3c863c9104d46054",
+        "title": "Award-winning Glasgow jewellers hits market after 70 years in business",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26554613.glasgow-jewellers-hits-market-70-years-business/",
+        "description": "An award-winning Glasgow jewellers has hit the market after 70 years in business.",
+        "published": "Wed, 16 Sep 2026 10:56:07 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21381544/?type=app&htype=0"
       },
       {
         "id": "3c25dcc440b0bd27d97e03730794c04e",
@@ -2083,14 +2139,6 @@
         "description": "Gavin Brown was spotted enjoying a beach stroll during a week-long trip to Prestwick.",
         "published": "Wed, 16 Sep 2026 08:13:07 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34624211.ece/ALTERNATES/s98/0_JS417989221.jpg"
-      },
-      {
-        "id": "e7555d6205df1453e75b2d364c698014",
-        "title": "Busy road shut for over three hours as emergency crews rush to late-night incident",
-        "link": "https://www.glasgowtimes.co.uk/news/26553876.busy-glasgow-closed-emergency-crews-rush-incident/",
-        "description": "Helen Street in Govan was closed for over three hours last night after being swarmed by emergency crews.",
-        "published": "Wed, 16 Sep 2026 08:08:48 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16434591/?type=app&htype=0"
       },
       {
         "id": "2b5b9580515e4f458418a080314590e8",
