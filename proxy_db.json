@@ -2013,12 +2013,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "7076ae231e4789292837a9d02dcdb63f",
+        "title": "Glasgow's M8 to close as long-awaited works get underway",
+        "link": "https://www.glasgowtimes.co.uk/news/26555089.m8-close-long-awaited-works-begin-ibrox-footbridge/",
+        "description": "Glasgow's M8 motorway is set to close over the coming weeks to allow for works on the Cornwall Street and Kirkwood Street footbridges.",
+        "published": "Wed, 16 Sep 2026 12:06:26 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19926560/?type=app&htype=0"
+      },
+      {
         "id": "9064712",
         "title": "Referee and VAR confirmed for Celtic vs Rangers 2.0 as familiar face selected in Premiership Old Firm showdown",
         "link": "https://www.glasgowworld.com/sport/football/rangers/referee-and-var-confirmed-for-celtic-vs-rangers-20-as-familiar-face-selected-in-premiership-old-firm-showdown-9064712",
         "description": "<p>Officiating team confirmed for Celtic vs Rangers on Sunday</p>",
         "published": "Wed, 16 Sep 2026 10:47:09 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/16/10/01/GettyImages-2295280017.jpeg?width=1200&auto=webp&trim=0%2C10%2C0%2C9"
+      },
+      {
+        "id": "febf32b4c5f9d258a3b24f8cd520453e",
+        "title": "LIVE updates as major Glasgow road restricted amid emergency",
+        "link": "https://www.glasgowtimes.co.uk/news/26554946.live-updates-baillieston-a8-restricted-amid-emergency/",
+        "description": "A major Glasgow road has been restricted following a crash.",
+        "published": "Wed, 16 Sep 2026 11:44:42 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19789692/?type=app&htype=0"
       },
       {
         "id": "3c25dcc440b0bd27d97e03730794c04e",
@@ -2091,6 +2107,22 @@
         "description": "Teenage brothers Olly and Seb Fisher are closing in on their dream of international recognition - but it won't come from their homeland of Scotland.",
         "published": "Wed, 16 Sep 2026 06:12:11 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85ba/live/bf1141b0-b1a7-11f1-8b77-cd7827f05bee.jpg"
+      },
+      {
+        "id": "cb1a2de8f59e0bc227f470c2da87901f",
+        "title": "Beast expressed his desire to rape and murder a toddler in front of their mum",
+        "link": "https://www.glasgowtimes.co.uk/news/26546932.bridge-weir-beast-expressed-desire-rape-murder-toddler/",
+        "description": "Renfrewshire man James Fulton admits sexual offences, including messages about a toddler and contacting a decoy girl. Sentencing at Paisley Sheriff Court is due next month.",
+        "published": "Wed, 16 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18078130/?type=app&htype=0"
+      },
+      {
+        "id": "ead6970b468703f2b10d2ca6978fe9fc",
+        "title": "Activist warns abusers \u2018emboldened\u2019 a year on from Clydebank Women\u2019s Aid closure",
+        "link": "https://www.glasgowtimes.co.uk/news/26553079.sex-crime-rise-sparks-alarm-support-gap-clydebank/",
+        "description": "Rising sex crimes and lack of new support after Clydebank Women's Aid closure of is leaving women 'disempowered' and abusers 'emboldened', campaigners warn.",
+        "published": "Wed, 16 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21401424/?type=app&htype=0"
       },
       {
         "id": "d70447bb7f7abadb73e4c7ea953503bd",
