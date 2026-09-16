@@ -2013,12 +2013,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "3c25dcc440b0bd27d97e03730794c04e",
+        "title": "Glasgow hotel hikes prices by more than 500% for Oasis gigs",
+        "link": "https://www.glasgowtimes.co.uk/news/26554469.glasgow-hotels-hike-prices-500-oasis-gigs/",
+        "description": "Glasgow hotels have increased their nightly rate by more than five times its usual cost after Oasis announced gigs at Celtic Park.",
+        "published": "Wed, 16 Sep 2026 10:28:26 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21461599/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=529298",
         "title": "Glasgow Women\u2019s Aid speaks out over controversial sports advert starring Sydney Sweeney",
         "link": "https://news.stv.tv/west-central/glasgow-womens-aid-speaks-out-over-controversial-sports-advert-starring-sydney-sweeney",
         "description": "The organisation says women should be known for their talent rather than their bodies to generate clicks.",
         "published": "Wed, 16 Sep 2026 09:09:34 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/50aff8ec55cb2b20b9ed4a631b638738-1789547707.jpg"
+      },
+      {
+        "id": "ea5c6b7a59b593a107a052fce95ed196",
+        "title": "Popular singer-songwriter announces UK and Europe tour with Glasgow date",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26554340.ry-x-perform-glasgow-pavilion-theatre-city-centre/",
+        "description": "Ry X is set to perform at Glasgow Pavilion Theatre in the city centre.",
+        "published": "Wed, 16 Sep 2026 10:08:01 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20581840/?type=app&htype=0"
       },
       {
         "id": "7faf6ba541b1c22393afe707d07ea5ce",
@@ -2035,6 +2051,14 @@
         "description": "Gavin Brown was spotted enjoying a beach stroll during a week-long trip to Prestwick.",
         "published": "Wed, 16 Sep 2026 08:13:07 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34624211.ece/ALTERNATES/s98/0_JS417989221.jpg"
+      },
+      {
+        "id": "e7555d6205df1453e75b2d364c698014",
+        "title": "Busy road shut for over three hours as emergency crews rush to late-night incident",
+        "link": "https://www.glasgowtimes.co.uk/news/26553876.busy-glasgow-closed-emergency-crews-rush-incident/",
+        "description": "Helen Street in Govan was closed for over three hours last night after being swarmed by emergency crews.",
+        "published": "Wed, 16 Sep 2026 08:08:48 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16434591/?type=app&htype=0"
       },
       {
         "id": "2b5b9580515e4f458418a080314590e8",
