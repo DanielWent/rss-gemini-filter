@@ -1570,6 +1570,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "472e0e7d547d2b5286c4a4f10812aaf3",
+        "title": "'Undervalued, underpaid' - Glasgow school workers reduced to tears over pay scheme",
+        "link": "https://www.glasgowtimes.co.uk/news/26548370.glasgow-school-workers-reduced-tears-councils-new-pay-scheme/",
+        "description": "Two deflated Glasgow school workers have described feeling let down by the council's new pay scheme, with both reduced to tears due to feeling so underappreciated.",
+        "published": "Wed, 16 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21452693/?type=app&htype=0"
+      },
+      {
         "id": "e8a51430949e6513d1ed6092a9b3db46",
         "title": "'We still miss him every day' - Daughter's tribute before Glasgow Memory Walk",
         "link": "https://www.glasgowtimes.co.uk/news/26531728.glasgow-memory-walk-return-support-dementia-care/",
@@ -2004,6 +2012,30 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "0be3e59a8f135067f5bc1c52335c5c7c",
+        "title": "Almost 200,000 Scottish pensioners missing out on \u00a3346m in benefits annually",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26553556.nearly-200-000-scottish-pensioners-miss-346m/",
+        "description": "Nearly 200,000 Scottish pensioners miss out on \u00a3346m in benefits each year, Independent Age says, as ministers are urged to boost Pension Credit take-up.",
+        "published": "Wed, 16 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20336523/?type=app&htype=0"
+      },
+      {
+        "id": "472e0e7d547d2b5286c4a4f10812aaf3",
+        "title": "'Undervalued, underpaid' - Glasgow school workers reduced to tears over pay scheme",
+        "link": "https://www.glasgowtimes.co.uk/news/26548370.glasgow-school-workers-reduced-tears-councils-new-pay-scheme/",
+        "description": "Two deflated Glasgow school workers have described feeling let down by the council's new pay scheme, with both reduced to tears due to feeling so underappreciated.",
+        "published": "Wed, 16 Sep 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21452693/?type=app&htype=0"
+      },
+      {
+        "id": "9060657",
+        "title": "Glasgow councillors approve 63-home Barras development despite BAaD arts venue opposition",
+        "link": "https://www.glasgowworld.com/news/glasgow-barras-development-9060657",
+        "description": "<p>Committee backs Barra\u2019s flat plans despite council officials recommendation</p>",
+        "published": "Wed, 16 Sep 2026 03:45:19 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/15/9/32/onecms_f5dbfa73-d6fb-4b6e-9f5f-61460ba054df_e04fe71e-25a2-4894-86be-453b80913927.jpeg?width=1200&auto=webp&trim=13%2C0%2C13%2C0"
+      },
       {
         "id": "7a0c820345a1a24fb081b0efdf01d1f8",
         "title": "200 conservation experts gather in Cairngorms for major climate action conference",
@@ -2779,30 +2811,6 @@
         "description": "&quot;What happened to me is not something that I could ever have prepared for, nor is it something that will ever leave me.&quot;",
         "published": "Mon, 14 Sep 2026 13:24:36 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34613750.ece/ALTERNATES/s98/1_cop1.jpg"
-      },
-      {
-        "id": "280f237b7cfd37453febc8283aa8d11c",
-        "title": "Man charged over alleged assault during Celtic's title-winning clash with Hearts",
-        "link": "https://www.heraldscotland.com/news/26548481.man-charged-alleged-assault-celtic-v-hearts-match/",
-        "description": "A man has been arrested and charged in connection with an alleged assault during Celtic's Premiership title-clinching victory over Hearts at Celtic Park.",
-        "published": "Mon, 14 Sep 2026 14:15:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20232299/?type=app&htype=0"
-      },
-      {
-        "id": "922db0e068795fee819c9de9664f4236",
-        "title": "Former Scottish Conservative leader Douglas Ross appointed to new AIC role",
-        "link": "https://www.heraldscotland.com/news/26548434.douglas-ross-takes-new-scotland-agriculture-policy-position/",
-        "description": "Former Scottish Conservative leader Douglas Ross has been appointed Policy Manager for Scotland at the Agricultural Industries Confederation.",
-        "published": "Mon, 14 Sep 2026 14:00:06 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21452438/?type=app&htype=0"
-      },
-      {
-        "id": "e67127b0dc0dc7f5d2c6c64ba37d5db4",
-        "title": "Fishers and coastal communities asked to help rewrite rules for Scotland's seas",
-        "link": "https://www.heraldscotland.com/news/26548257.consultation-launched-scotlands-inshore-sea-protections/",
-        "description": "Scottish Government consults on fisheries management for 160+ Marine Protected Areas and Priority Marine Features in Scotland\u2019s inshore seas until January 18, 2027.",
-        "published": "Mon, 14 Sep 2026 13:59:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21331850/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
