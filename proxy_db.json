@@ -2013,6 +2013,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/sport/football/articles/c6wyz1ll1g3xo#0",
+        "title": "Meet the Scottish teenagers poised to represent Uganda",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c6wyz1ll1g3xo?at_medium=RSS&at_campaign=rss",
+        "description": "Teenage brothers Olly and Seb Fisher are closing in on their dream of international recognition - but it won't come from their homeland of Scotland.",
+        "published": "Wed, 16 Sep 2026 06:12:11 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85ba/live/bf1141b0-b1a7-11f1-8b77-cd7827f05bee.jpg"
+      },
+      {
+        "id": "d70447bb7f7abadb73e4c7ea953503bd",
+        "title": "'Why shouldn't Glasgow be up there with the best European cities?'",
+        "link": "https://www.heraldscotland.com/news/26553047.glasgow-not-hellhole-says-new-council-leader-ricky-bell/",
+        "description": "Ricky Bell, Glasgow's new SNP council leader, defends the city against its critics, demands new planning powers to tackle vape shops and derelict buildings, and vows the redevelopment of the centre will make the disruption worthwhile.",
+        "published": "Wed, 16 Sep 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21459472/?type=app&htype=0"
+      },
+      {
         "id": "2b9e175ca33b6f5cf6724ca79f38cffa",
         "title": "Nearly 200,000 Scots pensioners missing out on \u00a3346m in benefits, charity warns",
         "link": "https://www.heraldscotland.com/news/26553578.200-000-scots-pensioners-missing-346m-benefits/",
