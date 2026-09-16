@@ -2013,6 +2013,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9064712",
+        "title": "Referee and VAR confirmed for Celtic vs Rangers 2.0 as familiar face selected in Premiership Old Firm showdown",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/referee-and-var-confirmed-for-celtic-vs-rangers-20-as-familiar-face-selected-in-premiership-old-firm-showdown-9064712",
+        "description": "<p>Officiating team confirmed for Celtic vs Rangers on Sunday</p>",
+        "published": "Wed, 16 Sep 2026 10:47:09 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/16/10/01/GettyImages-2295280017.jpeg?width=1200&auto=webp&trim=0%2C10%2C0%2C9"
+      },
+      {
         "id": "3c25dcc440b0bd27d97e03730794c04e",
         "title": "Glasgow hotel hikes prices by more than 500% for Oasis gigs",
         "link": "https://www.glasgowtimes.co.uk/news/26554469.glasgow-hotels-hike-prices-500-oasis-gigs/",
@@ -2043,6 +2051,14 @@
         "description": "Glasgow\u2019s Queen\u2019s Park Glasshouse remains open after a 13,000-signature campaign, but restoration costs and its long-term future are still uncertain.",
         "published": "Wed, 16 Sep 2026 10:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21316725/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-rushed-hospital-after-assault-34624330",
+        "title": "Man rushed to hospital after assault on Glasgow east end street",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-rushed-hospital-after-assault-34624330",
+        "description": "Officers have confirmed that their enquiries into the incident remain ongoing.",
+        "published": "Wed, 16 Sep 2026 08:45:57 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34624367.ece/ALTERNATES/s98/1_East-Campbell.png"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/irvine-businessman-jailed-over-6m-34624055",
