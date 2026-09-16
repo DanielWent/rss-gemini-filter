@@ -2029,6 +2029,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "22f4e87223f360dddbbf8968195a0c97",
+        "title": "Popular Glasgow walkway to close for weeks as nearly 400 trees are cut down",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26555564.river-kelvin-walkway-sections-close-392-ash-trees-felled/",
+        "description": "Glasgow\u2019s River Kelvin Walkway faces eight weeks of section closures as 392 ash trees with ash dieback are felled from September 14 over safety fears.",
+        "published": "Wed, 16 Sep 2026 13:31:16 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21463112/?type=app&htype=0"
+      },
+      {
+        "id": "95e385456579acffe7d2ba2f15781eb1",
+        "title": "Glasgow university staff to strike tomorrow after major breakdown in redundancy talks",
+        "link": "https://www.glasgowtimes.co.uk/news/26555509.glasgow-caledonian-university-staff-strike-talk-fails/",
+        "description": "Staff at one of Glasgow's biggest universities are set to walk out in a dispute over compulsory redundancies that could threaten 100 jobs.",
+        "published": "Wed, 16 Sep 2026 13:20:09 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21113963/?type=app&htype=0"
+      },
+      {
+        "id": "ed3bc9c8aa8ccbb9029cad4e4cefa3d4",
+        "title": "HUGE American DJ announces show at Glasgow's O2 Academy",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26555479.american-dj-mk-announces-show-glasgows-o2-academy/",
+        "description": "American DJ MK announces show at Glasgow's O2 Academy.",
+        "published": "Wed, 16 Sep 2026 13:11:36 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19247788/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/fuel-prices-hit-2026-record-34624373",
+        "title": "Fuel prices hit 2026 record high - find the cheapest in your postcode area",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/fuel-prices-hit-2026-record-34624373",
+        "description": "It now costs around \u00a394 to fill up a standard 55-litre tank car \u2013 and in many areas prices are much higher.",
+        "published": "Wed, 16 Sep 2026 12:08:08 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article23494182.ece/ALTERNATES/s98/1_fuel-prices.jpg"
+      },
+      {
+        "id": "92d366183eab37eca2eef497630ee445",
+        "title": "Glasgow neighbourhood named cooler than New York after being labelled 'ghetto\u2019",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26555448.glasgows-govanhill-named-fifth-coolest-neighbourhood-world/",
+        "description": "Glasgow\u2019s Govanhill named world\u2019s fifth coolest neighbourhood by Time Out 2026, after Reform MSP Thomas Kerr called the diverse Scottish area a \u2018ghetto\u2019.",
+        "published": "Wed, 16 Sep 2026 13:05:26 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21463236/?type=app&htype=0"
+      },
+      {
         "id": "8961b17d0d177265b6d7969914bc0950",
         "title": "Drivers warned as key M8 slip roads close for week of overnight roadworks",
         "link": "https://www.glasgowtimes.co.uk/news/26555374.m8-close-hillington-resurfacing-works-begin/",
