@@ -2197,12 +2197,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/easterhouse-youth-centre-set-revamp-34725526",
+        "title": "Easterhouse youth centre set for revamp with new 'destination' park to be created",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/easterhouse-youth-centre-set-revamp-34725526",
+        "description": "Plans have been submitted to Glasgow City Council which could see the Pavillion transformed.",
+        "published": "Tue, 6 Oct 2026 15:52:56 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34725528.ece/ALTERNATES/s98/0_easterhousepark.png"
+      },
+      {
+        "id": "2d416558d8829e7109a94bfaeefe845c",
+        "title": "Man, 21, who died after 'disturbance' in Royal Exchange Square named",
+        "link": "https://www.glasgowtimes.co.uk/news/26613020.man-21-died-disturbance-royal-exchange-square-named/",
+        "description": "A young man who died following a 'disturbance' in Glasgow's Royal Exchange Square has been named as Daniel Colrain",
+        "published": "Tue, 06 Oct 2026 16:44:48 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21546359/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-police-release-cctv-images-34725512",
+        "title": "Glasgow police release CCTV images of man after robbery in city centre",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-police-release-cctv-images-34725512",
+        "description": "Anyone who recognises the man has been urged to contact Police Scotland.",
+        "published": "Tue, 6 Oct 2026 15:38:44 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34725552.ece/ALTERNATES/s98/838640013_1806125650403424_4289187354219474795_njfif.jpg"
+      },
+      {
         "id": "c87c1630dc52e3061aae9847c6d26933",
         "title": "'If I got hit by a bus', nothing changes: Edinburgh principal discusses departure",
         "link": "https://www.heraldscotland.com/news/26612439.prof-peter-mathieson-talks-strategy-stepping/",
         "description": "Edinburgh University Principal Professor Sir Peter Mathieson plans to leave his post, but a contentious restructuring process remains firmly on track.",
         "published": "Tue, 06 Oct 2026 16:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21540957/?type=app&htype=0"
+      },
+      {
+        "id": "b9e20c0fb5cc747cf593dd5516e3ef3e",
+        "title": "Scottish civil servants told to use monitoring tool and prove they are in office",
+        "link": "https://www.heraldscotland.com/news/26612663.civil-servants-told-spend-two-days-week-office/",
+        "description": "Scottish Government permanent secretary Joe Griffin has ordered civil servants back to the office at least 40% of the week, backed by a new location monitoring tool.",
+        "published": "Tue, 06 Oct 2026 15:54:54 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20555113/?type=app&htype=0"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/cq80zlded84go#0",
@@ -2781,14 +2813,6 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34527069.ece/ALTERNATES/s98/1_JS379497539-9.jpg"
       },
       {
-        "id": "0f91a654bbc8b2b9b944ebcbcab15a97",
-        "title": "Beleaguered Edinburgh University chief Sir Peter Mathieson to leave institution",
-        "link": "https://www.heraldscotland.com/news/26609121.edinburgh-university-principal-sir-peter-mathieson-leave/",
-        "description": "Sir Peter Mathieson, 67, told members of the university\u2019s Court today that he will leave the university when his current term expires in early 2028.",
-        "published": "Mon, 05 Oct 2026 16:36:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21540957/?type=app&htype=0"
-      },
-      {
         "id": "fe4ed4690624f5cfc9ac39136375470e",
         "title": "Glasgow council outlines plans to tackle level of graffiti on city buildings",
         "link": "https://www.glasgowtimes.co.uk/news/26609096.glasgow-council-outlines-plans-tackle-city-graffiti/",
@@ -2875,14 +2899,6 @@
         "description": "Strathkelvin and Bearsden MSP Adam Harley has called on East Dunbartonshire Council to pause controversial parking charges in Kirkintilloch and Bearsden, warning they could harm local businesses.",
         "published": "Mon, 05 Oct 2026 15:19:20 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21540080/?type=app&htype=44"
-      },
-      {
-        "id": "7fc6fe3c76edc9dba50a1f22e8ff9c21",
-        "title": "Glasgow city centre TGI Fridays to close after 33 years",
-        "link": "https://www.heraldscotland.com/news/26608547.tgi-fridays-close-buchanan-street-branch-glasgow/",
-        "description": "TGI Fridays' Glasgow Buchanan Street restaurant will close on October 19 after its landlord ended the tenancy. Glasgow Fort and Silverburn remain open.",
-        "published": "Mon, 05 Oct 2026 15:11:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21132659/?type=app&htype=0"
       },
       {
         "id": "ecd7a8fc3970d54e7413d80a676f6055",
@@ -2979,22 +2995,6 @@
         "description": "Scotland\u2019s national cathedral now offers general admission tickets for non-resident visitors who are 16 and older, as well as group and accessible tickets",
         "published": "Mon, 05 Oct 2026 12:31:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21129961/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=531770",
-        "title": "Greenock care home faces closure over serious risk to residents",
-        "link": "https://news.stv.tv/west-central/greenock-care-home-faces-closure-over-serious-risk-to-residents",
-        "description": "Larkfield View Care Home in Greenock has failed to make the necessary improvements, the watchdog said",
-        "published": "Mon, 05 Oct 2026 11:13:07 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/6821730ff352fc246ea331552a33dcba-1791196750-1280x720.jpeg"
-      },
-      {
-        "id": "9267113",
-        "title": "Five  factors to emerge from scathing Celtic statement as Dermot Desmond and board face uncomfortable truths",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/five-key-factors-emerge-scathing-celtic-statement-dermot-desmond-board-9267113",
-        "description": "<p>Some Celtic fans and the board have had a long-running battle.</p>",
-        "published": "Mon, 05 Oct 2026 11:01:37 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/04/08/11/56/GettyImages-2244047983.jpeg?width=1200&auto=webp&crop=3%3A2"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
