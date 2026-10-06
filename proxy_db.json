@@ -2229,6 +2229,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=532139",
+        "title": "Plans approved for 324 homes at former army barracks",
+        "link": "https://news.stv.tv/west-central/plans-approved-for-324-homes-at-former-army-barracks",
+        "description": "117 homes will be delivered by Abbey Developments and a further 207 homes by Miller Homes",
+        "published": "Tue, 06 Oct 2026 18:51:18 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/af83b108e96d01d92f6a163567f08544-1791312011-1200x720.jpeg"
+      },
+      {
         "id": "9271242",
         "title": "Awaab's Law: Will new legislation help Glasgow's tenants battle damp and mould?",
         "link": "https://www.glasgowworld.com/news/awaabs-law-landlords-damp-mould-legislation-9271242",
@@ -2237,12 +2245,28 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/06/18/21/Untitled-design-(97).png?width=1200&auto=webp&trim=0%2C93%2C0%2C92"
       },
       {
+        "id": "defe876d000f0bb07b8c7510c0525a0b",
+        "title": "BBC decision to axe world piping broadcast has 'echoes of 1746' say SNP",
+        "link": "https://www.heraldscotland.com/news/26613429.snp-invoke-culloden-bbc-consider-dropping-piping-contest/",
+        "description": "Stuart McMillan, the Inverclyde MSP and piper, has invoked the British state's crackdown after Culloden in a letter demanding the BBC reverse plans to drop its World Pipe Band Championships coverage. The corporation insists no final decision has been taken.",
+        "published": "Tue, 06 Oct 2026 19:06:51 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19801664/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=532006",
         "title": "\u2018I\u2019m constantly wheezy and my clothes stink\u2019: Awaab\u2019s Law targets mould misery",
         "link": "https://news.stv.tv/west-central/im-constantly-wheezy-and-my-clothes-stink-awaabs-law-targets-mould-misery",
         "description": "The introduction of Awaab's Law shines a spotlight on the impact of damp and mould in rented homes.",
         "published": "Tue, 06 Oct 2026 17:21:02 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/21f1ad217d0b29ac20c8a8123ceaa899-1791293145-1280x720.jpeg"
+      },
+      {
+        "id": "b964ffeb26628ec57f8d8f817db07f76",
+        "title": "Swinney says \u00a3586m Gupta smelter guarantee was 'rational decision for government'",
+        "link": "https://www.heraldscotland.com/news/26613381.swinney-defends-rational-586m-lochaber-smelter-guarantee/",
+        "description": "John Swinney defended the Scottish Government's \u00a3586m taxpayer guarantee on Sanjeev Gupta's Lochaber smelter as 'rational' at FMQs, but declined to answer whether ministers knew investors could profit regardless of whether any aluminium was ever produced.",
+        "published": "Tue, 06 Oct 2026 18:15:43 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/4919355/?type=app&htype=0"
       },
       {
         "id": "614cedb6696d314d1b52d15d23f8bc43",
@@ -3003,30 +3027,6 @@
         "description": "SLB took over from Patricia's \u2013 but now it's time for new owners again.",
         "published": "Mon, 5 Oct 2026 12:52:06 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34718728.ece/ALTERNATES/s98/1_Screenshot-2026-10-05-at-14144PM.png"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/family-young-glasgow-dad-killed-34718373",
-        "title": "Family of young Glasgow dad killed in trench collapse at work say hearts will be 'forever broken'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/family-young-glasgow-dad-killed-34718373",
-        "description": "&quot;Joseph brought so much love, happiness and lots of laughs to everyone who knew him&quot;",
-        "published": "Mon, 5 Oct 2026 12:26:54 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34718548.ece/ALTERNATES/s98/0_overlay-image.jpg"
-      },
-      {
-        "id": "5015f05e7161f80174227c942b219925",
-        "title": "Rod Stewart announces ANOTHER date at OVO Hydro as part of farewell tour",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26607870.rod-stewart-announces-another-date-glasgows-ovo-hydro/",
-        "description": "Rod Stewart announces ANOTHER date at Glasgow's OVO Hydro",
-        "published": "Mon, 05 Oct 2026 13:15:21 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21204638/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cq99zv40n8klo#1",
-        "title": "Police probe deliberate fire at Glasgow city centre pub",
-        "link": "https://www.bbc.co.uk/news/articles/cq99zv40n8klo?at_medium=RSS&at_campaign=rss",
-        "description": "More than 40 firefighters were called to the scene on Sunday and sections of nearby streets were cordoned off.",
-        "published": "Mon, 05 Oct 2026 12:06:03 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94ab/live/a83056b0-c021-11f1-babe-4199b0e7ccea.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
