@@ -5,6 +5,54 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo#1",
+        "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+        "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+        "description": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
+        "published": "Tue, 06 Oct 2026 06:53:17 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d74c/live/d3ce6cd0-c13e-11f1-a64c-550be9e3c66b.jpg"
+      },
+      {
+        "id": "1791248107730788",
+        "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+        "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+        "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+        "published": "Mon, 05 Oct 2026 18:13:21 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f48/live/d657a2a0-c0e4-11f1-bc2e-018d645d8d21.png"
+      },
+      {
+        "id": "1791212120252292",
+        "title": "Plaque honours Mars mission scientist",
+        "link": "https://www.bbc.co.uk/news/articles/c617kl241z91o?at_medium=RSS&at_campaign=rss",
+        "description": "The tribute recognises Colin Pillinger who led the 2003 probe mission to Mars.",
+        "published": "Mon, 05 Oct 2026 16:36:43 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0df6/live/910cc5b0-c0ab-11f1-b72b-c3e328aa18ed.jpg"
+      },
+      {
+        "id": "1791206136106460",
+        "title": "Runner dies after taking part in Cardiff Half Marathon",
+        "link": "https://www.bbc.co.uk/news/articles/ckly038w030wo?at_medium=RSS&at_campaign=rss",
+        "description": "Event organisers confirm a participant has died and thanked medical teams working during the race.",
+        "published": "Mon, 05 Oct 2026 14:37:13 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aef/live/6e37a4b0-c0b5-11f1-babe-4199b0e7ccea.jpg"
+      },
+      {
+        "id": "1791231623488944",
+        "title": "Nobel Prize awarded for revealing inner workings of the brain",
+        "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+        "description": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
+        "published": "Mon, 05 Oct 2026 13:04:37 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceaa/live/22381b10-c0b2-11f1-bc2e-018d645d8d21.jpg"
+      },
+      {
+        "id": "1791193234775175",
+        "title": "Trump chooses top spy boss to run new AI taskforce",
+        "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+        "description": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
+        "published": "Mon, 05 Oct 2026 12:03:38 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a97/live/e8568220-c056-11f1-ba75-170165fdb734.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c60m3k28j81mo#1",
         "title": "Part-human part-mouse brain developed in science breakthrough",
         "link": "https://www.bbc.co.uk/news/articles/c60m3k28j81mo?at_medium=RSS&at_campaign=rss",
@@ -755,54 +803,6 @@
         "description": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.",
         "published": "Fri, 21 Aug 2026 06:46:08 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db42/live/677fca00-9d18-11f1-bd22-47519fb87a16.jpg"
-      },
-      {
-        "id": "1787211023542693",
-        "title": "Edmonton Marathon route was 674m too long",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/cvgw9wlky9zo?at_medium=RSS&at_campaign=rss",
-        "description": "The organisers of the Edmonton Marathon admit the course for the 2026 edition was measured more than half a kilometre too long.",
-        "published": "Thu, 20 Aug 2026 09:15:48 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6103/live/cc9132d0-9c5f-11f1-827b-69a6492daae1.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno#0",
-        "title": "Giant whales move into Greenland waters as ice disappears",
-        "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
-        "description": "Melting sea ice from climate change has opened up the region for giant whales to undertake 'feeding frenzies'.",
-        "published": "Thu, 20 Aug 2026 02:05:20 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1da/live/98b70b10-9bd8-11f1-bb4d-1147ef2e78e5.jpg"
-      },
-      {
-        "id": "1787077817834005",
-        "title": "Earthquake rocks Spain's historic Granada, injuring three",
-        "link": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
-        "description": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has closed temporarily.",
-        "published": "Tue, 18 Aug 2026 19:15:39 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f93/live/6bc5d050-9b24-11f1-9a2c-6d6ac3827d20.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c4g3qyypdmyo#1",
-        "title": "The 'fiddly and frustrating' work removing 10,000 coins from Giant's Causeway columns",
-        "link": "https://www.bbc.co.uk/news/articles/c4g3qyypdmyo?at_medium=RSS&at_campaign=rss",
-        "description": "Conservationists remove the equivalent of 10,000 coins that had been wedged into the Giant's Causeway's pillars.",
-        "published": "Tue, 18 Aug 2026 15:50:23 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dd0/live/f01ac420-9aff-11f1-a27d-25dca26018ed.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o#0",
-        "title": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
-        "link": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
-        "description": "OpenAI insisted this was not in response to a particular issue with children believing ChatGPT to be alive.",
-        "published": "Tue, 18 Aug 2026 11:26:26 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a091/live/d1a80e80-9aeb-11f1-930b-57cfba7235f9.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo#0",
-        "title": "AI to help planes avoid climate-warming 'sky graffiti'",
-        "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
-        "description": "A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.",
-        "published": "Tue, 18 Aug 2026 09:26:41 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/975e/live/208c6990-9ae4-11f1-b2f7-5d1639b20e22.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -992,6 +992,86 @@
     "link": "https://the5krunner.com",
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
+      {
+        "id": "https://the5krunner.com/?p=135489",
+        "title": "Oura Ring 4 Prime Day Deal: 46% Off in the UK",
+        "link": "https://the5krunner.com/2026/10/06/oura-ring-4-prime-day-deal-october-2026/",
+        "description": "<p><img alt=\"Oura Ring 4 Prime Day Deal: 46% Off in the UK\" class=\"attachment-large size-large\" height=\"624\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/Prime-Big-Deal-Days-2.jpg/w=1110,h=624\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>The Oura Ring 4 starts at \u00a3189.05 on Amazon UK for Prime Day, which is 46% off. It is also discounted in Germany, and the price depends on the size and finish.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/06/oura-ring-4-prime-day-deal-october-2026/\">Oura Ring 4 Prime Day Deal: 46% Off in the UK</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Tue, 06 Oct 2026 06:30:44 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/Prime-Big-Deal-Days-2.jpg/w=1110,h=624"
+      },
+      {
+        "id": "https://the5krunner.com/?p=135485",
+        "title": "Garmin Prime Day Deals: Epix Pro 47% Off, Fenix 8 27% Off",
+        "link": "https://the5krunner.com/2026/10/06/garmin-prime-day-deals-october-2026/",
+        "description": "<p><img alt=\"Garmin Prime Day Deals: Epix Pro 47% Off, Fenix 8 27% Off\" class=\"attachment-large size-large\" height=\"624\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/pbdd-2026-everything-to-know-hero-5-amazon-news-lt-0909261.jpg/w=1110,h=624\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Amazon's October Prime Day is live. The Garmin Epix Pro is 47% off and the Fenix 8 is 27% off in the USA, with more Garmin watch and Edge deals in the UK and Germany.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/06/garmin-prime-day-deals-october-2026/\">Garmin Prime Day Deals: Epix Pro 47% Off, Fenix 8 27% Off</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Mon, 05 Oct 2026 23:19:19 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/pbdd-2026-everything-to-know-hero-5-amazon-news-lt-0909261.jpg/w=1110,h=624"
+      },
+      {
+        "id": "https://the5krunner.com/?p=133436",
+        "title": "#0 Trademark & Patent Filing: September 2026",
+        "link": "https://the5krunner.com/2026/10/02/0-trademark-patent-filing-september-2026/",
+        "description": "<p><img alt=\"#0 Trademark &#038; Patent Filing: September 2026\" class=\"attachment-large size-large\" height=\"699\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/trademark-patent-copyright-brand-logo.png/w=900,h=699\" style=\"height: auto;\" width=\"900\" /></p>\n<p>Whoop filed four trademarks in September 2026: WHOOP CONNECTED CARE in the medical services class, and WHOOP ONE, WHOOP PEAK and WHOOP LIFE for its membership tiers. Patents include a Whoop muscle oxygen sensor, an Oura ring with a removable battery and a Google cuffless blood pressure method.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/02/0-trademark-patent-filing-september-2026/\">#0 Trademark &#038; Patent Filing: September 2026</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Fri, 02 Oct 2026 13:54:12 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/trademark-patent-copyright-brand-logo.png/w=900,h=699"
+      },
+      {
+        "id": "https://the5krunner.com/?p=133404",
+        "title": "#0 Regulatory Filing: September 2026",
+        "link": "https://the5krunner.com/2026/10/02/0-regulatory-filing-september-2026/",
+        "description": "<p><img alt=\"#0 Regulatory Filing: September 2026\" class=\"attachment-large size-large\" height=\"500\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/fcc-seal-rgb-20201.jpg/w=500,h=500,fit=crop\" style=\"height: auto;\" width=\"500\" /></p>\n<p>The founding issue of Regulatory Filing covers September 2026. Suunto's OW265, reported to be the Race 3S, reached the FCC, Garmin filed several unnamed models, Polar's H12 heart rate monitor appeared in Brazil and Apple's five Apple Watch grants arrived with its autumn launch.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/02/0-regulatory-filing-september-2026/\">#0 Regulatory Filing: September 2026</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Fri, 02 Oct 2026 13:53:05 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/fcc-seal-rgb-20201.jpg/w=500,h=500,fit=crop"
+      },
+      {
+        "id": "https://the5krunner.com/?p=133434",
+        "title": "#0 Legal Files: September 2026",
+        "link": "https://the5krunner.com/2026/10/02/0-legal-files-september-2026/",
+        "description": "<p><img alt=\"#0 Legal Files: September 2026\" class=\"attachment-large size-large\" height=\"620\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/scales-of-justice-statue-old-bailey-lady-holding-scales-blindfolder-facing-camera-at-hip-level.jpg/w=1110,h=620\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>The founding issue of Legal Files covers September 2026. A jury awarded Taction about $5.7 billion against Apple over the Taptic Engine used in the iPhone and Apple Watch. UnaliWear filed a second import ban complaint naming Samsung, Google and Garmin, and IOENGINE sued Garmin and Samsung over patents.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/02/0-legal-files-september-2026/\">#0 Legal Files: September 2026</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Fri, 02 Oct 2026 13:52:05 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/scales-of-justice-statue-old-bailey-lady-holding-scales-blindfolder-facing-camera-at-hip-level.jpg/w=1110,h=620"
+      },
+      {
+        "id": "https://the5krunner.com/?p=133193",
+        "title": "Wellness Project Healthspan: Eight Factors Instead of One Biological Age",
+        "link": "https://the5krunner.com/2026/10/02/wellness-project-healthspan-eight-factors-instead-biological-age/",
+        "description": "<p><img alt=\"Wellness Project Healthspan: Eight Factors Instead of One Biological Age\" class=\"attachment-large size-large\" height=\"1110\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/healthspan-square.png/w=1110,h=1110,fit=crop\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Wellness Project Healthspan keeps eight areas of long-term health separate instead of averaging them into one biological age. Each factor shows its inputs, its confidence and the research behind it, and missing data stays unassessed.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/02/wellness-project-healthspan-eight-factors-instead-biological-age/\">Wellness Project Healthspan: Eight Factors Instead of One Biological Age</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Fri, 02 Oct 2026 08:39:29 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/healthspan-square.png/w=1110,h=1110,fit=crop"
+      },
+      {
+        "id": "https://the5krunner.com/?p=133123",
+        "title": "#18 The Deep Dive Fix Files: Week Ending 2 October 2026",
+        "link": "https://the5krunner.com/2026/10/02/18-the-deep-dive-fix-files-week-ending-2-october-2026/",
+        "description": "<p><img alt=\"#18 The Deep Dive Fix Files: Week Ending 2 October 2026\" class=\"attachment-large size-large\" height=\"583\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2010/06/Deep-dive-Fix-Files-Asset-2The-Deep-Dive-Fix-files.png/w=1110,h=583\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>This week covers Fenix 8 heart rate loss on 23.39, a Fenix 8 Pro map download stuck at 51 percent, SuuntoPlus Guides not syncing, Garmin Express on Mac failing with Fenix 9 Pro, a full Edge Explore 2 blocking map updates, Fenix 9 firmware 6.38 bugs and Fenix 7 installing the wrong TopoActive region. It also covers Connect on iOS wiping Apple Fitness effort ratings and draining iPhone batteries, the Suunto app Min HR crash, Forerunner 570 audio muting on track skips, Race S bootloops on charge, the missing Sleep Coach rhythm chart, Edge 1050 routing mode, spoken direction and GPS faults, AirPods reconnect loops with Garmin watches, and Forerunner 970 vibration and track distance problems. Wahoo ELEMNT Roam 3 screen readability and Suunto Race 2 interval sets round out the list.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/02/18-the-deep-dive-fix-files-week-ending-2-october-2026/\">#18 The Deep Dive Fix Files: Week Ending 2 October 2026</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Fri, 02 Oct 2026 08:10:21 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2010/06/Deep-dive-Fix-Files-Asset-2The-Deep-Dive-Fix-files.png/w=1110,h=583"
+      },
+      {
+        "id": "https://the5krunner.com/?p=132690",
+        "title": "Garmin and Apple Future PPG Sensor Metrics: 40 Ranked",
+        "link": "https://the5krunner.com/2026/09/30/garmin-apple-future-ppg-sensor-metrics/",
+        "description": "<p><img alt=\"Garmin and Apple Future PPG Sensor Metrics: 40 Ranked\" class=\"attachment-large size-large\" height=\"506\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2017/08/IMG_3983.jpg/w=1110,h=506\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>The optical sensor on Garmin and Apple watches could read 40 things beyond heart rate. See what ships today, what is coming, and why glucose is last.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/09/30/garmin-apple-future-ppg-sensor-metrics/\">Garmin and Apple Future PPG Sensor Metrics: 40 Ranked</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Wed, 30 Sep 2026 21:09:57 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2017/08/IMG_3983.jpg/w=1110,h=506"
+      },
+      {
+        "id": "https://the5krunner.com/?p=132159",
+        "title": "Deep Dive Digest #26: Garmin Silently Acquires Moxy, 94 Fenix 9Pro Bugs & Market Insights Galore",
+        "link": "https://the5krunner.com/2026/09/30/deep-dive-digest-26-garmin-silently-acquires-moxy-94-fenix-9pro-bugs-market-insights-galore/",
+        "description": "<p><img alt=\"Deep Dive Digest #26: Garmin Silently Acquires Moxy, 94 Fenix 9Pro Bugs &#038; Market Insights Galore\" class=\"attachment-large size-large\" height=\"312\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/06/Deep-Dive-digest-Asset-6.png/w=581,h=312\" style=\"height: auto;\" width=\"581\" /></p>\n<p>Fenix 9 GPS accuracy tested, Coros Pace 4 Pro reviewed, Amazfit's HYROX roadmap, Huawei's blood pressure watch at 95% accuracy, and the industry finances.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/09/30/deep-dive-digest-26-garmin-silently-acquires-moxy-94-fenix-9pro-bugs-market-insights-galore/\">Deep Dive Digest #26: Garmin Silently Acquires Moxy, 94 Fenix 9Pro Bugs &#038; Market Insights Galore</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Wed, 30 Sep 2026 08:34:30 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/06/Deep-Dive-digest-Asset-6.png/w=581,h=312"
+      },
+      {
+        "id": "https://the5krunner.com/?p=132135",
+        "title": "Fit File Forge: 120 classic workouts ready for Garmin",
+        "link": "https://the5krunner.com/2026/09/30/fit-file-forge/",
+        "description": "<p><img alt=\"Fit File Forge: 120 classic workouts ready for Garmin\" class=\"attachment-large size-large\" height=\"1480\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/09/watch-norwegian-intervals.jpg/w=1110,h=1480\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Fit File Forge's Workout Library puts 120 classic sessions, from Norwegian 10 \u00d7 1K to Billat 30/30s, into Garmin-ready structure. Browsing is free, and a free account can send any session to Garmin Connect, with optional pace targets from the athlete's own numbers.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/09/30/fit-file-forge/\">Fit File Forge: 120 classic workouts ready for Garmin</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Wed, 30 Sep 2026 08:34:04 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/09/watch-norwegian-intervals.jpg/w=1110,h=1480"
+      },
       {
         "id": "https://the5krunner.com/?p=130355",
         "title": "SportVitals: transparent training load and HRV for Apple Watch",
@@ -1586,6 +1666,22 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "18d1545ab015f7774e48ec2082aa4a19",
+        "title": "'It's a bad idea'- MSP calls for halt to controversial town centre parking charges",
+        "link": "https://www.glasgowtimes.co.uk/news/26608633.msp-urges-council-halt-kirkintilloch-bearsden-parking-charges/",
+        "description": "Strathkelvin and Bearsden MSP Adam Harley has called on East Dunbartonshire Council to pause controversial parking charges in Kirkintilloch and Bearsden, warning they could harm local businesses.",
+        "published": "Mon, 05 Oct 2026 15:19:20 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21540080/?type=app&htype=44"
+      },
+      {
+        "id": "edef40d80624a8c8fca72ff15df61b0e",
+        "title": "Mum says fireworks bring 'hours of distress' for autistic daughter",
+        "link": "https://www.glasgowtimes.co.uk/news/26606781.east-dunbartonshire-mum-launches-petition-fireworks-concerns/",
+        "description": "East Dunbartonshire mother Laura Miller petitions for Firework Control Zones to protect autistic children, vulnerable residents, animals and others from distress.",
+        "published": "Mon, 05 Oct 2026 10:30:34 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21537362/?type=app&htype=105"
+      },
+      {
         "id": "80704b261c4442a5d82ea2291e2d6c31",
         "title": "Dumbarton Road closure extended until next month amid engineering difficulties",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26556060.dumbarton-road-closure-extended-almost-three-weeks/",
@@ -2037,6 +2133,790 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/fatal-accident-inquiry-death-low-34721572",
+        "title": "Fatal Accident Inquiry into death of Low Moss prisoner Kieran McGinley begins",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/fatal-accident-inquiry-death-low-34721572",
+        "description": "Kieran McGinley died at age 33 in the prison on April 24, 2023.",
+        "published": "Tue, 6 Oct 2026 07:59:52 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34558866.ece/ALTERNATES/s98/0_JS202895327-1.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-teen-arrested-over-attempted-34721363",
+        "title": "Glasgow teen arrested over 'attempted murder' of woman in Easterhouse",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-teen-arrested-over-attempted-34721363",
+        "description": "Officers have confirmed that their investigation into the incident is ongoing.",
+        "published": "Tue, 6 Oct 2026 07:18:55 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34721372.ece/ALTERNATES/s98/2_Allnach-Place.png"
+      },
+      {
+        "id": "2443d8e5ba06da208ec4691bb64a4098",
+        "title": "Glasgow-shot blockbuster's future in doubt after huge production update",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26609774.future-glasgow-shot-batman-part-ii-doubt-amid-update/",
+        "description": "Future of Glasgow-shot Batman Part II in doubt amid update",
+        "published": "Tue, 06 Oct 2026 08:06:51 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21351760/?type=app&htype=0"
+      },
+      {
+        "id": "9267930",
+        "title": "Rangers star earns Scotland squad recall after stunning four-assist display as development pathway made clear",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-star-earns-scotland-squad-recall-four-assist-display-development-pathway-clear-9267930",
+        "description": "<p>Young Ibrox attacker rewarded for Under-21 heroics by earning swift return to senior squad</p>",
+        "published": "Tue, 06 Oct 2026 07:00:30 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/05/15/41/21804081.jpeg?width=1200&auto=webp&trim=0%2C48%2C0%2C48"
+      },
+      {
+        "id": "https://runabc.co.uk/edinburgh-morun-returns-13-years-after-holyrood-debut",
+        "title": "Edinburgh MoRun Returns 13 Years After Its Holyrood Debut",
+        "link": "https://runabc.co.uk/edinburgh-morun-returns-13-years-after-holyrood-debut",
+        "description": "<p><img alt=\"Edinburgh MoRun 2026\" src=\"https://runabc.co.uk/images/2026/10/edinburgh-morun-2026-099307.jpg\" /></p>\n\t\t\t\t<p>Edinburgh MoRun returns to Holyrood Park on 28 November, 13 years after more than 1,000 runners took part in the city's first MoRun...</p>",
+        "published": "Tue, 06 Oct 2026 07:55:00 +0100",
+        "image_url": "https://runabc.co.uk/images/2026/10/edinburgh-morun-2026-099307.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-family-washing-buckets-after-34719665",
+        "title": "Glasgow family 'washing in buckets' after months without heating or hot water",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-family-washing-buckets-after-34719665",
+        "description": "Imogen Turner pays \u00a31,350 a month for the Govanhill home she shares with two young daughters.",
+        "published": "Tue, 6 Oct 2026 06:50:55 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34720086.ece/ALTERNATES/s98/0_WhatsApp-Image-2026-10-02-at-144258jpeg.jpg"
+      },
+      {
+        "id": "391a86ac847399dd7c412ce832881604",
+        "title": "FAI begins into death of Low Moss prisoner",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26609733.fatal-accident-inquiry-death-low-moss-prisoner-begins/",
+        "description": "Fatal Accident Inquiry into death of Low Moss prisoner begins",
+        "published": "Tue, 06 Oct 2026 07:35:09 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18811413/?type=app&htype=0"
+      },
+      {
+        "id": "c4c6c57c9e8794ab07b37a3020e3bd24",
+        "title": "Scots rockers Twin Atlantic cancel UK tour in shock announcement",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26609728.scots-rockers-twin-atlantic-cancel-uk-tour-shock-announcement/",
+        "description": "Scottish rock band Twin Atlantic have cancelled their upcoming UK tour as members take time away from the group following the release of their new album.",
+        "published": "Tue, 06 Oct 2026 07:27:11 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21078067/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-boy-caught-knife-gang-34720935",
+        "title": "Glasgow boy caught with knife as gang exploitation fears among children raised",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-boy-caught-knife-gang-34720935",
+        "description": "New figures show the number of children caught by police in possession of stolen goods has almost doubled in the space of four years.",
+        "published": "Tue, 6 Oct 2026 06:23:50 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34720978.ece/ALTERNATES/s98/0_JS328856523.jpg"
+      },
+      {
+        "id": "7e11579549997883f78a68d0b137210a",
+        "title": "Loganair cabin crew in Glasgow to hold ballot on potential strike action",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26609718.loganair-cabin-crew-glasgow-hold-ballot-strike/",
+        "description": "Loganair cabin crew in Glasgow will hold a ballot on potential industrial action, it has been announced.",
+        "published": "Tue, 06 Oct 2026 07:17:24 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21044974/?type=app&htype=242"
+      },
+      {
+        "id": "ce7942bf88c0aec12bd9ff24fac60f06",
+        "title": "Scottish flights face strike threat after 'final' offer rejected",
+        "link": "https://www.heraldscotland.com/news/26609715.loganair-cabin-crew-vote-strike-action-pay/",
+        "description": "Cabin crew are set to vote on potential strike action over pay",
+        "published": "Tue, 06 Oct 2026 07:14:29 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/16447065/?type=app&htype=0"
+      },
+      {
+        "id": "3657c4f606ded91540b12b8972892969",
+        "title": "The Scottish Endarkenment has dawned in this dumbed-down nation",
+        "link": "https://www.heraldscotland.com/news/education/26607783.scottish-endarkenment-dawned-dumbed-down-nation/",
+        "description": "The mass closure of university courses is just the tip of the iceberg when it comes to the unravelling of Scottish culture today, says Neil Mackay",
+        "published": "Tue, 06 Oct 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21538990/?type=app&htype=0"
+      },
+      {
+        "id": "97779a094a4381c5b04b107f75a0e6e1",
+        "title": "Mobile coverage divide laid bare as Scotland takes five worst UK spots",
+        "link": "https://www.heraldscotland.com/news/26609371.highland-uks-worst-4g-coverage-new-ofcom-analysis-shows/",
+        "description": "New analysis of Ofcom mobile coverage data reveals Scotland has the UK's five worst 4G areas, with Highland at just 60.85% predicted coverage.",
+        "published": "Tue, 06 Oct 2026 06:29:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21449999/?type=app&htype=0"
+      },
+      {
+        "id": "7ed1cd93bc59480d42143b84a43dd4c7",
+        "title": "\u2018Disaster\u2019 ethics watchdog hit by calls for abolition after judge\u2019s surprise ruling",
+        "link": "https://www.heraldscotland.com/news/26608829.calls-abolish-standards-commission-fiona-higgins-ruling/",
+        "description": "Calls to abolish the Standards Commission for Scotland have followed a judge\u2019s criticism of its evidence guidance in the Fiona Higgins Glasgow councillor misconduct case.",
+        "published": "Tue, 06 Oct 2026 06:27:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21540672/?type=app&htype=0"
+      },
+      {
+        "id": "1d361d0062d2a8d3301cc2110fdce905",
+        "title": "Glasgow children as young as 14 exploited by gangs as \u00a33m retail crime fight launched",
+        "link": "https://www.glasgowtimes.co.uk/news/26609018.3m-retail-crime-crackdown-children-targeted-organised-gangs/",
+        "description": "Child theft cases in Scotland nearly double, with gangs accused of exploiting youngsters in retail crime, as Police Scotland and retailers raise concerns.",
+        "published": "Tue, 06 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20348467/?type=app&htype=0"
+      },
+      {
+        "id": "d000c3433148639de24b94303c0f4049",
+        "title": "Strike action at university forces cancellation of social science doctoral course",
+        "link": "https://www.heraldscotland.com/news/26609197.social-science-phd-course-cancelled-edinburgh-university-strikes/",
+        "description": "Members of the University and College Union (UCU) at Edinburgh University are in the midst of a five-week strike over potential job cuts and programme closures.",
+        "published": "Tue, 06 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21529900/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c3y0z0wkgnjwo#0",
+        "title": "Scotland's 'Chernobyl' housing scheme takes starring role in new horror film",
+        "link": "https://www.bbc.co.uk/news/articles/c3y0z0wkgnjwo?at_medium=RSS&at_campaign=rss",
+        "description": "Sci-fi horror comedy, Behind, features scenes filmed in Port Glasgow's Clune Park shortly before it was demolished.",
+        "published": "Tue, 06 Oct 2026 04:57:00 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d07a/live/e0cb0760-c0e2-11f1-bc2e-018d645d8d21.png"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c6qjk9n7gge7o#0",
+        "title": "Scotland's first AI teacher warns pupils: Don't trust everything it tells you",
+        "link": "https://www.bbc.co.uk/news/articles/c6qjk9n7gge7o?at_medium=RSS&at_campaign=rss",
+        "description": "Jamie Laycock says schools must help youngsters understand both the opportunities and dangers of AI.",
+        "published": "Tue, 06 Oct 2026 04:56:38 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a35e/live/e0345990-c0ca-11f1-a5b0-6f550c662e91.jpg"
+      },
+      {
+        "id": "9f3c0470b30fa758cb563e75664bce2b",
+        "title": "Is the axe about to fall on BBC Scotland as crunch meeting looms?",
+        "link": "https://www.heraldscotland.com/news/26608878.bbc-scotland-axe-fall-crunch-speech-looms/",
+        "description": "Matt Brittin's address to staff on Wednesday comes amid mounting speculation over the future of the BBC Scotland channel and what its loss would mean for viewers, jobs and Scotland's place within the BBC.",
+        "published": "Tue, 06 Oct 2026 05:35:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21512521/?type=app&htype=0"
+      },
+      {
+        "id": "4def9e81ffc564e35a873f391c91ed13",
+        "title": "MSPs urged to seek update on impact of rape trials ruling amid 'lack of clarity'",
+        "link": "https://www.heraldscotland.com/news/26607909.call-update-rape-trials-ruling-amid-lack-clarity/",
+        "description": "MSPs are being urged to press ministers for an update on the impact of a landmark ruling by the Supreme Court which found Scottish courts were at risk of breaching European human rights law in sex case trials.",
+        "published": "Tue, 06 Oct 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21431598/?type=app&htype=0"
+      },
+      {
+        "id": "7598919ed71df688cbc42cb1f9cdd501",
+        "title": "VisitScotland axed staff after ministers approved compulsory redundancies at agency",
+        "link": "https://www.heraldscotland.com/news/26609526.visitscotland-confirms-two-compulsory-redundancies/",
+        "description": "VisitScotland has confirmed it made two members of staff compulsorily redundant despite SNP ministers publicly insisting the Scottish Government maintained a no-compulsory-redundancy policy.",
+        "published": "Tue, 06 Oct 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/17907049/?type=app&htype=0"
+      },
+      {
+        "id": "72391c0e46ca93fd5f6655b4606826fe",
+        "title": "'Remarkable evolution' of Scottish company hailed as one airport's growth flagged",
+        "link": "https://www.heraldscotland.com/news/26609013.menzies-aviations-hassan-el-houry-edinburgh-scottish-airports/",
+        "description": "Menzies Aviation chief executive Hassan El-Houry revealed his views on Edinburgh Airport's growth, other Scottish airports and an 'incredible story', in an exclusive interview with The Herald",
+        "published": "Tue, 06 Oct 2026 04:40:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21540819/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo#0",
+        "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
+        "link": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss",
+        "description": "The city's space boom raises questions about the role of the state in backing important industries.",
+        "published": "Mon, 05 Oct 2026 23:07:08 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3980/live/0ecbe1a0-c0cc-11f1-a64c-550be9e3c66b.png"
+      },
+      {
+        "id": "60bc11c7be8eab2dd0adb31c747e39ea",
+        "title": "Children caught with stolen goods almost double as police warn of exploitation",
+        "link": "https://www.heraldscotland.com/news/26608985.number-children-caught-stolen-goods-scotland-almost-doubles/",
+        "description": "The Scottish Police Federation has said there are concerns children are \u201croutinely exploited\u201d for the purposes of criminality as the number being caught with stolen goods rises.",
+        "published": "Tue, 06 Oct 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21540704/?type=app&htype=0"
+      },
+      {
+        "id": "dc3bb9d5f920e3516049f817157f1637",
+        "title": "Four-year plan to transform 'fragile' Scottish music industry revealed",
+        "link": "https://www.heraldscotland.com/news/26609455.four-year-plan-make-scottish-music-industry-fairer-revealed/",
+        "description": "Scottish music industry leaders want the country to become a 'better place' to build and sustain a music career or business.",
+        "published": "Tue, 06 Oct 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20255226/?type=app&htype=0"
+      },
+      {
+        "id": "a554982def1693fa10c37a5ab3f102af",
+        "title": "Most Scottish firms say Government does not understand business, survey finds",
+        "link": "https://www.heraldscotland.com/news/26609586.majority-scottish-firms-say-government-lacks-business-insight/",
+        "description": "Scottish Business Monitor: 69% of firms say ministers do not understand business, as companies call for business rates reform amid economic uncertainty.",
+        "published": "Tue, 06 Oct 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21410244/?type=app&htype=0"
+      },
+      {
+        "id": "ce60616f900ce57bb233b9f9025b5bd4",
+        "title": "Wunderbar owners seek flats on Glasgow site previously approved for beer garden",
+        "link": "https://www.heraldscotland.com/news/26609606.wunderbar-owners-seek-flats-glasgow-council-land/",
+        "description": "The owners of Wunderbar in Glasgow\u2019s west end could buy council-owned land next to the venue to build flats.",
+        "published": "Mon, 05 Oct 2026 20:48:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21541737/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=531943",
+        "title": "Wunderbar owners\u00a0could buy council land next door to build flats",
+        "link": "https://news.stv.tv/west-central/wunderbar-owners-could-buy-council-land-next-door-to-build-flats",
+        "description": "Glasgow City Council previously approved a proposal to sell the Dumbarton Road site for use as a beer garden",
+        "published": "Mon, 05 Oct 2026 19:35:35 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/da76e6ff446617e68a845ae8ade096dc-1791228701-e1791228887173-1222x720.jpeg"
+      },
+      {
+        "id": "958b19ce97cc74bb07ce1ac1507f38c3",
+        "title": "Loch Ness could suffer damage \u2018beyond comprehension\u2019 if scheme gets go-ahead",
+        "link": "https://www.heraldscotland.com/news/26609599.loch-ness-suffer-damage-beyond-comprehension/",
+        "description": "Ness District Salmon Fishery Board warns Glen Earrach pumped hydro scheme could damage Loch Ness, salmon, tourism and ecology as councillors consider plans October 7.",
+        "published": "Mon, 05 Oct 2026 20:31:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20511452/?type=app&htype=0"
+      },
+      {
+        "id": "7c1e4a1bed9b182824273f592e4a5a09",
+        "title": "George Square to host Remembrance events despite ongoing works",
+        "link": "https://www.heraldscotland.com/news/26609597.george-square-remembrance-events-go-ahead-amid-works/",
+        "description": "Armistice commemorations will still take place in George Square this year, despite concerns its south side will remain closed until the end of November.",
+        "published": "Mon, 05 Oct 2026 20:23:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20730893/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-singer-lena-martell-dies-34720774",
+        "title": "Glasgow singer Lena Martell dies aged 86 as tributes paid to 'superstar' chart-topper",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-singer-lena-martell-dies-34720774",
+        "description": "\u201cOlder generations will recall her as a real superstar, a big voice and a big stage presence.\u201d",
+        "published": "Mon, 5 Oct 2026 17:52:42 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34720793.ece/ALTERNATES/s98/0_GL848735.jpg"
+      },
+      {
+        "id": "bd5fc2657bb0b31365efa7fce74d0531",
+        "title": "131 former Grangemouth refinery workers secure new jobs after closure",
+        "link": "https://www.heraldscotland.com/news/26609519.almost-half-grangemouth-refinery-workers-find-jobs/",
+        "description": "Grangemouth refinery closure: 131 of 272 redundant Petroineos workers have found jobs through a skills scheme, Economy Secretary Stephen Flynn confirms.",
+        "published": "Mon, 05 Oct 2026 18:29:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21528309/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-police-slam-deplorable-weekend-34720652",
+        "title": "Glasgow police slam 'deplorable' weekend violence as arrests made",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-police-slam-deplorable-weekend-34720652",
+        "description": "&quot;The arrests made over the weekend send a clear message that this type of deplorable criminality has no place in our city.&quot;",
+        "published": "Mon, 5 Oct 2026 16:51:56 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34714904.ece/ALTERNATES/s98/834600397_1653555099520168_1112884040043302848_n-1.jpg"
+      },
+      {
+        "id": "4897246618ef8760dcff782c7bf62b8c",
+        "title": "The SNP's no compulsory redundancy policy doesn't mean no compulsory redundancies",
+        "link": "https://www.heraldscotland.com/news/26609422.snp-no-compulsory-redundancy-policy-ambition/",
+        "description": "Ivan McKee's Holyrood committee remarks prompted a press office complaint \u2014 but with a \u00a34.7bn deficit, a missed workforce target and the IFS urging ministers to consider compulsory job cuts, the SNP's long-standing pledge deserves far more scrutiny.",
+        "published": "Mon, 05 Oct 2026 17:26:03 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21541451/?type=app&htype=0"
+      },
+      {
+        "id": "9321e7992100f336034fde0db036cfa1",
+        "title": "Several arrests made after 'extremely busy' weekend for cops in city centre",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26609415.several-arrests-made-extremely-busy-weekend-glasgow-cops/",
+        "description": "Several arrests have been made after what cops called an \"extremely busy\" weekend in Glasgow city centre.",
+        "published": "Mon, 05 Oct 2026 17:23:29 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19780618/?type=app&htype=0"
+      },
+      {
+        "id": "abad95753bdafe24e2d39e3f06da1572",
+        "title": "Glasgow singer Lena Martell, who topped the UK charts, dies aged 86",
+        "link": "https://www.glasgowtimes.co.uk/news/26609356.singer-lena-martell-topped-uk-charts-dies-aged-86/",
+        "description": "Glasgow singer Lena Martell, the first solo Scottish female singer to top the UK charts, has sadly died.",
+        "published": "Mon, 05 Oct 2026 17:12:05 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21541389/?type=app&htype=0"
+      },
+      {
+        "id": "d55018165eed7497efb281988893af6a",
+        "title": "A \u00a3600,000 vote of confidence, but questions still hang over female founders",
+        "link": "https://www.heraldscotland.com/news/26608962.female-founded-gloriah-secures-600-000-investment/",
+        "description": "The Edinburgh company's latest funding round is a major milestone, but female-led businesses still receive only a small share of equity investment",
+        "published": "Mon, 05 Oct 2026 17:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21541062/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=531895",
+        "title": "Teen arrested for attempted murder of woman \u2018stabbed\u2019 in Easterhouse",
+        "link": "https://news.stv.tv/west-central/teen-arrested-for-attempted-murder-of-woman-stabbed-in-easterhouse",
+        "description": "A 15-year-old has been arrested in connection with the attempted murder of the 37-year-old woman in Easterhouse",
+        "published": "Mon, 05 Oct 2026 15:59:32 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/9ee22342db1b56f4675c95f4950c5ed1-1791224248-1200x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/victim-alleged-sexual-assault-glasgow-34720269",
+        "title": "Victim of alleged sexual assault on Glasgow train urged to come forward",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/victim-alleged-sexual-assault-glasgow-34720269",
+        "description": "A man was arrested in connection with the incident, but has since been released pending further enquiries.",
+        "published": "Mon, 5 Oct 2026 15:55:56 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34527069.ece/ALTERNATES/s98/1_JS379497539-9.jpg"
+      },
+      {
+        "id": "0f91a654bbc8b2b9b944ebcbcab15a97",
+        "title": "Beleaguered Edinburgh University chief Sir Peter Mathieson to leave institution",
+        "link": "https://www.heraldscotland.com/news/26609121.edinburgh-university-principal-sir-peter-mathieson-leave/",
+        "description": "Sir Peter Mathieson, 67, told members of the university\u2019s Court today that he will leave the university when his current term expires in early 2028.",
+        "published": "Mon, 05 Oct 2026 16:36:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21540957/?type=app&htype=0"
+      },
+      {
+        "id": "dc942023f1d3687edd8c2e42ca996b9b",
+        "title": "Woman sexually assaulted by man on ScotRail train",
+        "link": "https://www.heraldscotland.com/news/26609074.woman-sexually-assaulted-scotrail-glasgow-kilmarnock-train/",
+        "description": "Police are seeking witnesses after a woman was sexually assaulted on a train from Glasgow to Kilmarnock.",
+        "published": "Mon, 05 Oct 2026 16:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/14304339/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/armistice-day-celebrations-still-take-34719995",
+        "title": "Armistice Day celebrations will still take place on George Square despite southside closure",
+        "link": "https://www.glasgowlive.co.uk/news/armistice-day-celebrations-still-take-34719995",
+        "description": "Glasgow City Council says it is working to reopen the Square to the public by the end of October or start of November but the road closure to the south will remain in place to allow the roadway\u2019s new stone surface to cure.",
+        "published": "Mon, 5 Oct 2026 15:27:14 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article28088586.ece/ALTERNATES/s98/0_JS316563988-1.jpg"
+      },
+      {
+        "id": "fe4ed4690624f5cfc9ac39136375470e",
+        "title": "Glasgow council outlines plans to tackle level of graffiti on city buildings",
+        "link": "https://www.glasgowtimes.co.uk/news/26609096.glasgow-council-outlines-plans-tackle-city-graffiti/",
+        "description": "Work to develop and enhance maintenance standards on Glasgow buildings by managing the level of graffiti is being carried out.",
+        "published": "Mon, 05 Oct 2026 16:26:52 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21285318/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cm15j38gkjjno#0",
+        "title": "Glasgow City Council and Unison reach agreement in pay and grading row",
+        "link": "https://www.bbc.co.uk/news/articles/cm15j38gkjjno?at_medium=RSS&at_campaign=rss",
+        "description": "The local authority says this means it will not consider dismissing and rehiring its staff.",
+        "published": "Mon, 05 Oct 2026 15:23:27 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd2c/live/a7aab9c0-a6f8-11f1-97e2-55b9ef1865bd.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=531884",
+        "title": "Convicted killer bit police officer after being found intoxicated in flat block",
+        "link": "https://news.stv.tv/west-central/convicted-killer-bit-police-officer-after-being-found-intoxicated-in-flat-block",
+        "description": "Kayleigh Murray was previously jailed for killing Paul Woods in a single-punch attack in 2010.",
+        "published": "Mon, 05 Oct 2026 15:22:08 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2023/05/d170e81d0e58dcd0c17a1e144b2c6953-1683727170-1120x720.jpg"
+      },
+      {
+        "id": "f57c49e6e05e79869a0a60c6dcc893dd",
+        "title": "Glasgow\u2019s Armistice commemorations to go ahead despite George Square concerns",
+        "link": "https://www.glasgowtimes.co.uk/news/26609050.george-square-armistice-commemorations-go-ahead-year/",
+        "description": "Glasgow\u2019s Armistice and Remembrance commemorations will go ahead in George Square on November 8.",
+        "published": "Mon, 05 Oct 2026 16:19:53 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21198914/?type=app&htype=0"
+      },
+      {
+        "id": "383a38a299e25897cf900b1074306784",
+        "title": "Man released after arrest following sex attack on Glasgow train",
+        "link": "https://www.glasgowtimes.co.uk/news/26608998.glasgow-train-sexual-assault-police-appeal-victim-witnesses/",
+        "description": "British Transport Police are appealing for information after a reported sexual assault on a train travelling from Glasgow to Kilmarnock. A man has been arrested and released under investigation.",
+        "published": "Mon, 05 Oct 2026 16:13:02 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20820210/?type=app&htype=61"
+      },
+      {
+        "id": "480c21d7869a29c09cc0746d5aaa9aa9",
+        "title": "Glasgow removing vandalised phone boxes and obsolete toilet block from city centre",
+        "link": "https://www.glasgowtimes.co.uk/news/26608978.glasgow-council-removes-old-phone-boxes-toilet-block/",
+        "description": "Work to remove obsolete and vandalised infrastructure including old phone boxes continues to be carried out by the council across Glasgow.",
+        "published": "Mon, 05 Oct 2026 16:11:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18076711/?type=app&htype=0"
+      },
+      {
+        "id": "b682910f0ef105d594e848cda43a506d",
+        "title": "Glasgow residents invited to help shape five new active travel routes",
+        "link": "https://www.glasgowtimes.co.uk/news/26608911.glasgow-public-invited-shape-new-active-travel-routes/",
+        "description": "Glasgow is inviting the public to help shape new active travel routes.",
+        "published": "Mon, 05 Oct 2026 16:00:09 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21540577/?type=app&htype=0"
+      },
+      {
+        "id": "5193501",
+        "title": "Glasgow History: A look at 140 years of change on the Broomielaw in 12 pictures",
+        "link": "https://www.glasgowworld.com/retro/river-kelvin-transformation-photos-9268222",
+        "description": "<p>Explore the rich history of the Broomielaw through 12 extraordinary photos capturing its 140-year journey.</p>",
+        "published": "Mon, 05 Oct 2026 14:59:56 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/06/25/9/08/c0725.png?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "6ad62b95ea7a49523490b6151ee6bc52",
+        "title": "Glasgow's Princes Square owner snaps up major Scots shopping centre in huge deal",
+        "link": "https://www.glasgowtimes.co.uk/news/26608909.east-kilbride-shopping-centre-bought-princes-square-glasgow-firm/",
+        "description": "M Core has acquired East Kilbride Shopping Centre, its third major Scottish investment, adding the one-million-square-foot destination to its portfolio.",
+        "published": "Mon, 05 Oct 2026 15:59:31 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21539765/?type=app&htype=0"
+      },
+      {
+        "id": "052c17954f49e31bbec150a7abfab533",
+        "title": "Scottish Labour leader urges Swinney to publish long-delayed energy strategy",
+        "link": "https://www.heraldscotland.com/news/26608827.marra-urges-scottish-government-publish-energy-strategy/",
+        "description": "Scottish Labour leader Michael Marra urges John Swinney to publish the delayed energy strategy, with plans for North Sea oil and gas, renewables and nuclear.",
+        "published": "Mon, 05 Oct 2026 15:55:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21504266/?type=app&htype=0"
+      },
+      {
+        "id": "9268187",
+        "title": "Glasgow City Council to reconsider sale of land next to Wunderbar in Glasgow's west end",
+        "link": "https://www.glasgowworld.com/news/glasgow-city-council-hegarty-investment-company-wunderbar-glasgow-west-end-9268187",
+        "description": "<p>Glasgow west end bar owners could buy council-owned land to build flats</p>",
+        "published": "Mon, 05 Oct 2026 14:49:56 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/05/14/39/onecms_a75dd24e-ae0b-4e62-b5c1-610d3870016f_0467bb43-0f91-48a3-9d5a-de91b5a07712.jpeg?width=1200&auto=webp&trim=0%2C53%2C0%2C52"
+      },
+      {
+        "id": "cbf89724ac0f345dbf921b0276b1bbdd",
+        "title": "Swinney stands by claim Scots will 'lose our pensions' because of triple lock change",
+        "link": "https://www.heraldscotland.com/news/26608777.swinney-denies-misleading-msps-triple-lock-change/",
+        "description": "John Swinney has stood by his claim that Scots face their losing pension after Labour scrapped the earnings element of the triple lock.",
+        "published": "Mon, 05 Oct 2026 15:41:47 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21540362/?type=app&htype=0"
+      },
+      {
+        "id": "9268077",
+        "title": "Hero driver who delivered baby on Glasgow bus honoured with major transport award",
+        "link": "https://www.glasgowworld.com/news/hero-driver-who-delivered-baby-on-glasgow-bus-honoured-with-major-transport-award-9268077",
+        "description": "<p>Hero bus driver honoured with award at top ceremony</p>",
+        "published": "Mon, 05 Oct 2026 14:34:03 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/05/14/04/Pummy-Hadebe.jpeg?width=1200&auto=webp&trim=79%2C0%2C80%2C0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-walk-gp-clinic-now-34719372",
+        "title": "Glasgow walk-in GP clinic now available to 26,000 more people",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-walk-gp-clinic-now-34719372",
+        "description": "Thousands more people across Greater Glasgow now have access to the Cardonald clinic.",
+        "published": "Mon, 5 Oct 2026 14:29:55 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34719639.ece/ALTERNATES/s98/0_GettyImages-883623200.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cjy56yz37wgxo#0",
+        "title": "Man, 21 dies and another injured after city centre assault",
+        "link": "https://www.bbc.co.uk/news/articles/cjy56yz37wgxo?at_medium=RSS&at_campaign=rss",
+        "description": "Police were called to reports of a disturbance in Royal Exchange Square at about 03:05 on Sunday.",
+        "published": "Mon, 05 Oct 2026 14:26:44 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/180e/live/db45ddd0-c0c7-11f1-a5b0-6f550c662e91.jpg"
+      },
+      {
+        "id": "9268056",
+        "title": "Glasgow City Council workers to vote on new pay and grading structure after breakthrough in talks with Unison",
+        "link": "https://www.glasgowworld.com/news/glasgow-city-council-pay-structure-ballot-9268056",
+        "description": "<p>Glasgow City Council workers will now vote on the pay and grading structure after a breakthrough in talks.</p>",
+        "published": "Mon, 05 Oct 2026 14:21:49 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/25/13/v2-image-production-205aa1a9ae837e73424792f16afd941fY29udGVudHNlYXJjaGFwaSwxNzkwNDIzNTA0-2.45305345.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "18d1545ab015f7774e48ec2082aa4a19",
+        "title": "'It's a bad idea'- MSP calls for halt to controversial town centre parking charges",
+        "link": "https://www.glasgowtimes.co.uk/news/26608633.msp-urges-council-halt-kirkintilloch-bearsden-parking-charges/",
+        "description": "Strathkelvin and Bearsden MSP Adam Harley has called on East Dunbartonshire Council to pause controversial parking charges in Kirkintilloch and Bearsden, warning they could harm local businesses.",
+        "published": "Mon, 05 Oct 2026 15:19:20 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21540080/?type=app&htype=44"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-dies-another-injured-after-34719363",
+        "title": "Man dies and another injured after late-night 'assault' in Glasgow city centre",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-dies-another-injured-after-34719363",
+        "description": "\u201cNo one has been arrested in connection with the death of the man at this time.&quot;",
+        "published": "Mon, 5 Oct 2026 14:11:16 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34714904.ece/ALTERNATES/s98/834600397_1653555099520168_1112884040043302848_n-1.jpg"
+      },
+      {
+        "id": "7fc6fe3c76edc9dba50a1f22e8ff9c21",
+        "title": "Glasgow city centre TGI Fridays to close after 33 years",
+        "link": "https://www.heraldscotland.com/news/26608547.tgi-fridays-close-buchanan-street-branch-glasgow/",
+        "description": "TGI Fridays' Glasgow Buchanan Street restaurant will close on October 19 after its landlord ended the tenancy. Glasgow Fort and Silverburn remain open.",
+        "published": "Mon, 05 Oct 2026 15:11:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21132659/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=531867",
+        "title": "Man, 21, dies after being attacked near Duke of Wellington statue",
+        "link": "https://news.stv.tv/west-central/man-21-dies-after-being-attacked-near-duke-of-wellington-statue",
+        "description": "A 21-year-old man has died after being seriously injured during a disturbance in Royal Exchange Square",
+        "published": "Mon, 05 Oct 2026 14:06:33 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/643a6745843911b383dc27a7ab3996c0-1791118712-960x720.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-workers-vote-pay-34719343",
+        "title": "Glasgow council workers to vote on pay deal after breakthrough in talks",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-workers-vote-pay-34719343",
+        "description": "Negotiations between trade unions, the council and the Scottish Government had continued over the weekend",
+        "published": "Mon, 5 Oct 2026 13:59:46 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33445571.ece/ALTERNATES/s98/2_Glasgow-City-Chambers.jpg"
+      },
+      {
+        "id": "640914e5e95dad0421e7340bf8746990",
+        "title": "21-year-old man dies after serious assault in Glasgow city centre",
+        "link": "https://www.heraldscotland.com/news/26608460.man-dies-serious-assault-glasgow-city-centre/",
+        "description": "A 21-year-old man has died after a serious assault in Glasgow\u2019s Royal Exchange Square. Police Scotland are investigating the October 4 incident.",
+        "published": "Mon, 05 Oct 2026 14:59:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21535459/?type=app&htype=0"
+      },
+      {
+        "id": "09fcb122b769ab7bbb6ad27e30e0c72b",
+        "title": "Glasgow Council fire and rehire threat lifted as all three unions to ballot staff",
+        "link": "https://www.heraldscotland.com/news/26608476.glasgow-council-fire-rehire-threat-lifted-unison-deal/",
+        "description": "All three unions at Glasgow City Council will ballot non-teaching staff on a new pay and grading deal after Unison ended its holdout, lifting the threat of mass fire-and-rehire dismissals that had loomed over more than 23,000 employees.",
+        "published": "Mon, 05 Oct 2026 14:55:48 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/13578570/?type=app&htype=0"
+      },
+      {
+        "id": "4f2f196b4a613c4abaee6668c75a43a6",
+        "title": "Man dies after 'disturbance' involving 'group of men' in Glasgow city centre",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26608433.man-dies-disturbance-involving-group-men-glasgow/",
+        "description": "A man has died following a \"disturbance\" involving a \"group of men\" in Glasgow city centre in the early hours of Sunday morning.",
+        "published": "Mon, 05 Oct 2026 14:49:36 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16803364/?type=app&htype=0"
+      },
+      {
+        "id": "ecd7a8fc3970d54e7413d80a676f6055",
+        "title": "Inside the rescue deal that saved a 50-Year-Old Scottish retailer from administration",
+        "link": "https://www.heraldscotland.com/news/26608329.edinburgh-bicycle-co-op-buyout-saves-35-jobs-collapse/",
+        "description": "Edinburgh Bicycle Co-op is rescued in a management buyout, preserving 35 jobs and four stores, but closing Aberdeen branch and Newbridge distribution centre.",
+        "published": "Mon, 05 Oct 2026 14:48:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21539558/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=531850",
+        "title": "Improved deal reached after Glasgow City Council fire and rehire scandal",
+        "link": "https://news.stv.tv/west-central/improved-deal-reached-after-glasgow-city-council-fire-and-rehire-scandal",
+        "description": "Unison members will vote on the proposed pay and grading changes, with fire-and-rehire notices paused",
+        "published": "Mon, 05 Oct 2026 13:47:25 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2022/09/ea2fff28665eadfaa668ae272484dcce-1662650833.jpg"
+      },
+      {
+        "id": "fe5223c8c5f6cffa97d4a6e667569aaa",
+        "title": "Breakthrough in Glasgow City Council pay and grading talks with Unison",
+        "link": "https://www.glasgowtimes.co.uk/news/26608293.breakthrough-glasgow-city-council-pay-grading-talks/",
+        "description": "A breakthrough in the pay and grading talks has been made with Unison preparing to put a deal to its members in a ballot.",
+        "published": "Mon, 05 Oct 2026 14:28:09 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20106183/?type=app&htype=0"
+      },
+      {
+        "id": "2f1711460c084dfcd2945330534858e2",
+        "title": "Fabled Cairngorms beauty spot reopens after fire closes path",
+        "link": "https://www.heraldscotland.com/news/26608204.cairngorms-green-lochan-path-reopens-wildfire/",
+        "description": "The route takes hikers to one of Scotland's natural treasures",
+        "published": "Mon, 05 Oct 2026 14:15:09 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21539337/?type=app&htype=0"
+      },
+      {
+        "id": "c1493458f4f7e16271000d7da3fda39e",
+        "title": "Glasgow young people explore Buchanan Galleries\u2019 regeneration plans at bootcamp",
+        "link": "https://www.glasgowtimes.co.uk/news/26608181.glasgow-young-people-explore-buchanan-galleries-regeneration/",
+        "description": "Glasgow young people explored Buchanan Galleries\u2019 regeneration plans at a Regeneration Brainery bootcamp, discovering property and placemaking careers.",
+        "published": "Mon, 05 Oct 2026 14:10:14 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21539324/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgow-coffee-shop-back-market-34718601",
+        "title": "Glasgow coffee shop back on the market as Short Long Black step away",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgow-coffee-shop-back-market-34718601",
+        "description": "SLB took over from Patricia's \u2013 but now it's time for new owners again.",
+        "published": "Mon, 5 Oct 2026 12:52:06 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34718728.ece/ALTERNATES/s98/1_Screenshot-2026-10-05-at-14144PM.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/family-young-glasgow-dad-killed-34718373",
+        "title": "Family of young Glasgow dad killed in trench collapse at work say hearts will be 'forever broken'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/family-young-glasgow-dad-killed-34718373",
+        "description": "&quot;Joseph brought so much love, happiness and lots of laughs to everyone who knew him&quot;",
+        "published": "Mon, 5 Oct 2026 12:26:54 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34718548.ece/ALTERNATES/s98/0_overlay-image.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-west-end-bar-owners-34718277",
+        "title": "Glasgow west end bar owners could buy council land next door to build flats",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-west-end-bar-owners-34718277",
+        "description": "Land next to Wunderbar on Dumbarton Road could be used for build to rent homes rather than as an intended beer garden.",
+        "published": "Mon, 5 Oct 2026 12:25:12 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34718266.ece/ALTERNATES/s98/0_wunderbar.png"
+      },
+      {
+        "id": "5015f05e7161f80174227c942b219925",
+        "title": "Rod Stewart announces ANOTHER date at OVO Hydro as part of farewell tour",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26607870.rod-stewart-announces-another-date-glasgows-ovo-hydro/",
+        "description": "Rod Stewart announces ANOTHER date at Glasgow's OVO Hydro",
+        "published": "Mon, 05 Oct 2026 13:15:21 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21204638/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cq99zv40n8klo#1",
+        "title": "Police probe deliberate fire at Glasgow city centre pub",
+        "link": "https://www.bbc.co.uk/news/articles/cq99zv40n8klo?at_medium=RSS&at_campaign=rss",
+        "description": "More than 40 firefighters were called to the scene on Sunday and sections of nearby streets were cordoned off.",
+        "published": "Mon, 05 Oct 2026 12:06:03 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94ab/live/a83056b0-c021-11f1-babe-4199b0e7ccea.jpg"
+      },
+      {
+        "id": "a3ffee0da6dfe9894a3942a8a206de22",
+        "title": "'Heartening'- Politician backs major housing development bringing 292 homes",
+        "link": "https://www.glasgowtimes.co.uk/news/26607722.russell-findlay-visits-muirhead-development-delivering-292-homes/",
+        "description": "Russell Findlay visits Persimmon Homes\u2019 Muirhead development, set to deliver 292 homes, including 44 affordable properties, plus \u00a31.2m in community investment.",
+        "published": "Mon, 05 Oct 2026 12:50:53 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21538787/?type=app&htype=18"
+      },
+      {
+        "id": "b3a864a3e0b2c42e0c5d7d75b0c81a5a",
+        "title": "Opening date revealed for brand-new sushi restaurant in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26607704.iro-sushi-open-glasgows-sauchiehall-street-weekend/",
+        "description": "IRO Sushi to open on Glasgow's Sauchiehall Street this weekend",
+        "published": "Mon, 05 Oct 2026 12:48:46 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21341033/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=531789",
+        "title": "Police investigating \u2018deliberate\u2019 fire at Glasgow city centre pub",
+        "link": "https://news.stv.tv/west-central/police-investigating-deliberate-fire-at-glasgow-city-centre-pub",
+        "description": "The Scottish Fire and Rescue Service sent nine appliances to the rear of The Maltman pub on Sunday afternoon",
+        "published": "Mon, 05 Oct 2026 11:48:14 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/d746c85bb7f289224cc708b79b14160d-1791200444-1119x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/review-scotlands-maternity-services-begins-34717421",
+        "title": "Review of Scotland's maternity services begins today after mums say 'the system is failing us'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/review-scotlands-maternity-services-begins-34717421",
+        "description": "It comes after a report revealed that there are serious concerns surrounding maternity services at Glasgow's Queen Elizabeth University Hospital.",
+        "published": "Mon, 5 Oct 2026 11:42:05 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34718080.ece/ALTERNATES/s98/0_gettyimages-1756335296-170667a.jpg"
+      },
+      {
+        "id": "9267260",
+        "title": "Rangers star 'drawing attention' from Premier League clubs as instant impact raises transfer eyebrows",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-star-drawing-attention-premier-league-clubs-instant-impact-transfer-9267260",
+        "description": "<p>The Rangers star is reportedly turning heads across Europe after a summer transfer.</p>",
+        "published": "Mon, 05 Oct 2026 11:33:09 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/05/11/15/GettyImages-2296226631.jpg?width=1200&auto=webp&trim=14%2C0%2C14%2C0"
+      },
+      {
+        "id": "bcabe0ddd67e32b93f2aad427d90cc73",
+        "title": "Why has Scotland's national cathedral introduced a \u00a312 entry fee for tourists?",
+        "link": "https://www.heraldscotland.com/news/26607532.st-giles-cathedral-introduces-12-entry-fee-tourists/",
+        "description": "Scotland\u2019s national cathedral now offers general admission tickets for non-resident visitors who are 16 and older, as well as group and accessible tickets",
+        "published": "Mon, 05 Oct 2026 12:31:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21129961/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgow-tgi-fridays-closes-month-34717822",
+        "title": "Glasgow TGI Fridays closes this month after three decades serving the city centre",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgow-tgi-fridays-closes-month-34717822",
+        "description": "The chain says the closure is not voluntary and adds that the focus is now on &quot;protecting as many jobs as possible&quot;.",
+        "published": "Mon, 5 Oct 2026 11:17:42 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34717802.ece/ALTERNATES/s98/1_tgiPNG.png"
+      },
+      {
+        "id": "https://news.stv.tv/?p=531770",
+        "title": "Greenock care home faces closure over serious risk to residents",
+        "link": "https://news.stv.tv/west-central/greenock-care-home-faces-closure-over-serious-risk-to-residents",
+        "description": "Larkfield View Care Home in Greenock has failed to make the necessary improvements, the watchdog said",
+        "published": "Mon, 05 Oct 2026 11:13:07 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/6821730ff352fc246ea331552a33dcba-1791196750-1280x720.jpeg"
+      },
+      {
+        "id": "9267113",
+        "title": "Five  factors to emerge from scathing Celtic statement as Dermot Desmond and board face uncomfortable truths",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/five-key-factors-emerge-scathing-celtic-statement-dermot-desmond-board-9267113",
+        "description": "<p>Some Celtic fans and the board have had a long-running battle.</p>",
+        "published": "Mon, 05 Oct 2026 11:01:37 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/04/08/11/56/GettyImages-2244047983.jpeg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "9267196",
+        "title": "Glasgow city centre pub fire being treated as deliberate as investigation launched",
+        "link": "https://www.glasgowworld.com/news/glasgow-city-centre-pub-fire-being-treated-as-deliberate-9267196",
+        "description": "<p>Police are treating a fire at a pub in Glasgow city centre as deliberate, with enquiries ongoing into the cause of the blaze on Sunday afternoon.</p>",
+        "published": "Mon, 05 Oct 2026 10:59:06 GMT",
+        "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOjkxNTE1MDBiLWFmNmUtNDQ0OS1iYjZkLTgwMjFhYTgxODNiZDpiZTBhZDc1Yi00Y2U0LTQxMDEtYjY4ZS02OWU4OGRlYjVlZWY=.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "1c1c6b3e908104bc78bfd24e58cf7d36",
+        "title": "Care home could lose registration after inspectors find serious safety risks",
+        "link": "https://www.heraldscotland.com/news/26607357.greenock-care-home-lose-registration-safety-concerns/",
+        "description": "Inspectors warned residents could remain at risk of avoidable harm without urgent improvements",
+        "published": "Mon, 05 Oct 2026 11:55:28 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/11294072/?type=app&htype=0"
+      },
+      {
+        "id": "08071572605b14da1af3a093f2d73064",
+        "title": "Critics told not to review Scottish theatre's new Scottish musical in Scotland",
+        "link": "https://www.heraldscotland.com/news/26607334.scottish-theatre-tells-critics-not-review-new-scottish-musical/",
+        "description": "Theatre critics are being told to review Pitlochry Festival Theatre's new musical in London rather than the Perthshire town.",
+        "published": "Mon, 05 Oct 2026 11:52:56 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21504332/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c8vgxlz2z9qdo#1",
+        "title": "Inverclyde care home faces closure over 'serious risk' to residents",
+        "link": "https://www.bbc.co.uk/news/articles/c8vgxlz2z9qdo?at_medium=RSS&at_campaign=rss",
+        "description": "Earlier inspections of Larkfield View Care Centre by the Care Inspectorate found significant concerns at the property.",
+        "published": "Mon, 05 Oct 2026 10:43:18 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8801/live/46e07240-c0a4-11f1-b72b-c3e328aa18ed.jpg"
+      },
+      {
+        "id": "e0a901301c38c05433482f90a67dd081",
+        "title": "Major update after Glasgow pub fire locks down section of busy road",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26607159.update-glasgow-pub-fire-locked-section-renfield-street/",
+        "description": "A fire which broke out at a Glasgow pub is now being treated as wilful.",
+        "published": "Mon, 05 Oct 2026 11:26:54 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21537922/?type=app&htype=0"
+      },
+      {
+        "id": "9266949",
+        "title": "Great Scottish Run 2026: 63 amazing pictures from the Great Scottish Run as thousands take part in race",
+        "link": "https://www.glasgowworld.com/news/great-scottish-run-2026-thousands-take-part-in-race-9266949",
+        "description": "<p>Thousands of runners took to the streets of Glasgow for the 2026 Great Scottish Run</p>",
+        "published": "Mon, 05 Oct 2026 10:07:56 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/05/9/41/a26d3159-4f96-4fe0-b7f5-7bf5157e8bf9-fa7de4bf.jpeg?width=1200&auto=webp&trim=1388%2C0%2C1388%2C0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c6qxv55882z1o#1",
+        "title": "Why are data centres such a big deal in Scotland?",
+        "link": "https://www.bbc.co.uk/news/articles/c6qxv55882z1o?at_medium=RSS&at_campaign=rss",
+        "description": "At least 23 huge data centres are planned in Scotland, causing significant concern for campaigners.",
+        "published": "Mon, 05 Oct 2026 10:04:08 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f963/live/d2ae1e10-c0a1-11f1-b72b-c3e328aa18ed.jpg"
+      },
+      {
+        "id": "edef40d80624a8c8fca72ff15df61b0e",
+        "title": "Mum says fireworks bring 'hours of distress' for autistic daughter",
+        "link": "https://www.glasgowtimes.co.uk/news/26606781.east-dunbartonshire-mum-launches-petition-fireworks-concerns/",
+        "description": "East Dunbartonshire mother Laura Miller petitions for Firework Control Zones to protect autistic children, vulnerable residents, animals and others from distress.",
+        "published": "Mon, 05 Oct 2026 10:30:34 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21537362/?type=app&htype=105"
+      },
+      {
+        "id": "91a6e667c9174743c577953dcd7a744f",
+        "title": "Art exhibition marking 100th anniversary of Schr\u00f6dinger equation coming to Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26606623.quantum-physics-art-installation-open-glasgow/",
+        "description": "A new art installation that aims to make the mysteries of quantum physics visible to the naked eye is set to open in Glasgow.",
+        "published": "Mon, 05 Oct 2026 10:08:23 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21537137/?type=app&htype=0"
+      },
+      {
+        "id": "a877c0d7cd87e35784a2d5c707d8afcc",
+        "title": "Huge folk duo announce UK and Ireland tour with date in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26606604.first-aid-kit-perform-o2-academy-glasgow-southside/",
+        "description": "Swedish duo First Aid Kit to perform at O2 Academy in Glasgow's Southside.",
+        "published": "Mon, 05 Oct 2026 10:06:24 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21537192/?type=app&htype=0"
+      },
+      {
+        "id": "a45a76e496d45c4f07e86d2a0239168b",
+        "title": "First look at Glasgow actress Sharon Rooney's gripping new TV thriller",
+        "link": "https://www.glasgowtimes.co.uk/entertainment/tv_radio/26606331.first-look-glasgow-actress-sharon-rooneys-gripping-new-tv-thriller/",
+        "description": "The first look at a new TV thriller starring Glasgow actress Sharon Rooney has been unveiled.",
+        "published": "Mon, 05 Oct 2026 09:19:05 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21536889/?type=app&htype=0"
+      },
+      {
+        "id": "9266473",
+        "title": "Former Everton coach gutted for ex-Toffees star after high Rangers hopes banished by long-term injury woe",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/former-everton-coach-gutted-ex-toffees-star-high-rangers-hopes-banished-9266473",
+        "description": "<p>Rangers have been dealt an injury to a former Everton man.</p>",
+        "published": "Mon, 05 Oct 2026 08:02:16 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/23/22/43/GettyImages-2261327949.jpeg?width=1200&auto=webp&trim=206%2C0%2C207%2C0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=531752",
+        "title": "Inquiry into death of prisoner who died while in custody at Glasgow prison",
+        "link": "https://news.stv.tv/west-central/inquiry-into-death-of-prisoner-who-died-while-in-custody-at-glasgow-prison",
+        "description": "Richard Stevenson, 69, died on  May 16, 2023, while serving a sentence at HMP Barlinnie.",
+        "published": "Mon, 05 Oct 2026 07:58:58 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2021/10/63bf41f392fa83b29059a2aa32a23123-41.jpg"
+      },
+      {
         "id": "b1f0b0a929fc5f1b7f36ffc235c878d4",
         "title": "Thousands of capital's firms fail to pay full business rates, council confirms",
         "link": "https://www.heraldscotland.com/news/26556726.revealed-3-000-edinburgh-businesses-non-domestic-rates-arrears/",
@@ -2051,398 +2931,6 @@
         "description": "Police motorcyclists halted traffic in Glasgow city centre as a convoy passed Bath Street, amid President Catherine Connolly\u2019s Scotland visit; links unconfirmed.",
         "published": "Wed, 16 Sep 2026 16:51:24 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21464689/?type=app&htype=0"
-      },
-      {
-        "id": "e1404489fcf9ec7ec27afdbc64ac26cd",
-        "title": "Family of murdered mother calls for government to act on violence against women",
-        "link": "https://www.glasgowtimes.co.uk/news/26556658.family-murdered-houston-mother-urges-government-act/",
-        "description": "More women could be killed by men unless the Government acts, the family of a mother murdered in Houston has said.",
-        "published": "Wed, 16 Sep 2026 16:42:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21403638/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/ikea-glasgow-host-huge-25th-34627405",
-        "title": "IKEA Glasgow to host huge 25th anniversary celebration this weekend with plenty of family fun",
-        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/ikea-glasgow-host-huge-25th-34627405",
-        "description": "There will be Clyde One DJs, exclusive deals, \u00a325,000 worth of prizes and plenty of family entertainment.",
-        "published": "Wed, 16 Sep 2026 15:36:06 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34627455.ece/ALTERNATES/s98/0_Screenshot-2026-09-16-at-41041PM.png"
-      },
-      {
-        "id": "2782c22cc8a0c320c6c8f7aab1592ee6",
-        "title": "\u00a35.8m plan promises faster bus journeys on Glasgow's busiest routes",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26556639.glasgow-gets-5-8m-package-improve-bus-journeys/",
-        "description": "Glasgow bus passengers could see faster, more reliable journeys as \u00a35.8m funding targets five key routes, smart signals, stops and accessibility upgrades.",
-        "published": "Wed, 16 Sep 2026 16:31:20 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20643975/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=529377",
-        "title": "Glasgow Caledonian University staff to strike over job cuts",
-        "link": "https://news.stv.tv/west-central/glasgow-caledonian-university-staff-to-strike-over-job-cuts",
-        "description": "Support staff, including IT workers, security, catering and student welfare, are due to walk out on Thursday",
-        "published": "Wed, 16 Sep 2026 15:12:25 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/30f71c45274b31475b7e47604e3dd155-1789569523-1120x720.jpeg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/gallery/7-pumpkin-picking-spots-glasgow-34626623",
-        "title": "7 pumpkin picking spots in Glasgow offering lots of spooky Halloween fun",
-        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/gallery/7-pumpkin-picking-spots-glasgow-34626623",
-        "description": "There are lots of places in and around Glasgow you can visit for Halloween - but be quick as tickets usually sell out faster than you can say 'boo!'",
-        "published": "Wed, 16 Sep 2026 14:44:28 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34626601.ece/ALTERNATES/s98/0_Pumpkin-Trainjpeg.jpg"
-      },
-      {
-        "id": "45aaa76478c7986137e897e4c4414e03",
-        "title": "Scandal-hit Glasgow hopsital is 'not what the country paid for' says Health Secretary",
-        "link": "https://www.glasgowtimes.co.uk/news/health/26556304.health-secretary-says-scots-not-get-hospital-paid/",
-        "description": "Angela Constance says Scots did not get the hospital they paid for as Queen Elizabeth University Hospital inquiry examines Glasgow failures and deaths.",
-        "published": "Wed, 16 Sep 2026 15:38:36 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20622118/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=529348",
-        "title": "Mum of teen stabbed to death campaigning for bleed kits in Glasgow high schools",
-        "link": "https://news.stv.tv/west-central/mum-of-teen-stabbed-to-death-campaigning-for-bleed-kits-in-glasgow-high-schools",
-        "description": "Kory McCrimmon's family have worked alongside the local community to fundraise for bleed kits in the area",
-        "published": "Wed, 16 Sep 2026 14:35:52 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2025/05/6f63e5f220794cb0ff8faea7bb84f55a-1746730478-1280x720.jpeg"
-      },
-      {
-        "id": "af57df035307efeea45d02ce2f1dc5b1",
-        "title": "Archaeologists to probe radical riot that brought down Glasgow tycoon's walls",
-        "link": "https://www.heraldscotland.com/news/26556149.archaeologists-probe-radical-riot-brought-harvies-dyke/",
-        "description": "The 1823 riot was a victory for the people, and now the hunt is on to find the evidence",
-        "published": "Wed, 16 Sep 2026 15:13:44 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21463940/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/reports-assaults-against-women-caledonian-34626722",
-        "title": "Reports of assaults against women on Caledonian Sleeper increasing, MSPs told",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/reports-assaults-against-women-caledonian-34626722",
-        "description": "Hannah Ross, the chief executive of Scottish Rail Holdings - the company which operates the Caledonian Sleeper - says it is a &quot;really serious and crucial issue&quot;.",
-        "published": "Wed, 16 Sep 2026 14:01:34 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34626850.ece/ALTERNATES/s98/0_JS202835471.jpg"
-      },
-      {
-        "id": "5490734",
-        "title": "Glasgow's best commuter towns 2026: The 16 best places to live just outside of Glasgow",
-        "link": "https://www.glasgowworld.com/best-in/glasgow-best-commuter-towns-2026-9066905",
-        "description": "<p><strong>Where are Glasgow\u2019s best commuter towns? We take a look.</strong></p>",
-        "published": "Wed, 16 Sep 2026 14:00:57 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/02/14/12/27/Kirkintilloch-Canal-Festival.jpeg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "80704b261c4442a5d82ea2291e2d6c31",
-        "title": "Dumbarton Road closure extended until next month amid engineering difficulties",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26556060.dumbarton-road-closure-extended-almost-three-weeks/",
-        "description": "Glasgow drivers face Dumbarton Road disruption until October 7 as Scottish Water repairs continue, with diversions via Anniesland Road and Great Western Road.",
-        "published": "Wed, 16 Sep 2026 14:57:27 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19036953/?type=app&htype=0"
-      },
-      {
-        "id": "4cd310c86ebf35e6e9b2781aefc6ba63",
-        "title": "Oasis Glasgow gigs to pump \u00a3158m into city during Celtic Park gigs",
-        "link": "https://www.glasgowtimes.co.uk/sport/26556057.five-oasis-gigs-set-bring-glasgow-almost-158m-boost/",
-        "description": "Oasis\u2019 five Celtic Park gigs from May 21 could bring Glasgow \u00a3157.6m, as hotel prices soar and fans face potential \u00a31,000-plus costs.",
-        "published": "Wed, 16 Sep 2026 14:56:54 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21455397/?type=app&htype=0"
-      },
-      {
-        "id": "45c957b438501a84cb6bf497899d44a0",
-        "title": "Rosyth-Europe ferry revival scrapped despite \u00a36m funding pledge",
-        "link": "https://www.heraldscotland.com/news/26555958.rosyth-europe-ferry-service-scrapped-forth-ports/",
-        "description": "Forth Ports pulls out of Rosyth-Europe ferry plans despite \u00a36m government funding.",
-        "published": "Wed, 16 Sep 2026 14:42:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21028895/?type=app&htype=387"
-      },
-      {
-        "id": "ba6b6f2e9b1aa38b42cb2ea43184b2db",
-        "title": "New Town business body to launch renewal ballot early amid tourist tax impact",
-        "link": "https://www.heraldscotland.com/news/26555934.edinburgh-business-body-asks-members-approve-new-five-year-term/",
-        "description": "Essential Edinburgh, the New Town\u2019s business improvement district, is required by law to carry out a renewal ballot of members every five years.",
-        "published": "Wed, 16 Sep 2026 14:35:11 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21316427/?type=app&htype=0"
-      },
-      {
-        "id": "d22694c488d10162f18a14659fcdd2e6",
-        "title": "Historic Kinross House Estate on Loch Leven acquired by conservation firm WildLand",
-        "link": "https://www.heraldscotland.com/news/26555850.historic-kinross-house-estate-acquired-conservation-firm-wildland/",
-        "description": "Kinross House Estate on Loch Leven has been acquired by conservation-focused property firm WildLand.",
-        "published": "Wed, 16 Sep 2026 14:22:36 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21463583/?type=app&htype=0"
-      },
-      {
-        "id": "77f59fc75ce7babda8e089318d1ea38d",
-        "title": "Several road closures planned around Kingston Bridge for two months",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26555844.overnight-route-closures-around-glasgow-kingston-bridge/",
-        "description": "Glasgow Kingston Bridge Complex overnight closures begin September 20 for Amey drainage surveys, affecting Cheapside Street and the M8 junction 20 ramp.",
-        "published": "Wed, 16 Sep 2026 14:20:40 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20992232/?type=app&htype=0"
-      },
-      {
-        "id": "54cc6c2ddd1b5c4309cd297788bdefe0",
-        "title": "ScotRail apologises after 3,000 complaints about \u2018not good enough\u2019 app launch",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26555722.scotrail-apologises-3-000-complaints-new-app/",
-        "description": "ScotRail apologises after 3,000 complaints about its new app, which left travellers locked out and unable to buy tickets following its July 30 launch.",
-        "published": "Wed, 16 Sep 2026 14:00:37 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19846632/?type=app&htype=0"
-      },
-      {
-        "id": "0f146cc1a6dea3e01a14a18a0d4fe2fa",
-        "title": "'Not everything needs a Saltire': SNP veteran urges Scotland to adopt English NHS app",
-        "link": "https://www.heraldscotland.com/news/26555714.scottish-ministers-urged-adopt-englands-nhs-app/",
-        "description": "A new report by former SNP health secretary Alex Neil, ex-Labour MSP Dr Richard Simpson and a Nairn GP calls for Scotland to adopt the English NHS app, scrap GP walk-in centres and establish a cross-party commission to reform health and social care by 2035.",
-        "published": "Wed, 16 Sep 2026 13:59:12 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/16891310/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-southside-wine-shop-can-34626071",
-        "title": "Glasgow southside wine shop can open as bar after 'saga'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-southside-wine-shop-can-34626071",
-        "description": "The city's licensing board heard neighbours are 'very keen to see this extension to the project'",
-        "published": "Wed, 16 Sep 2026 12:52:33 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33701302.ece/ALTERNATES/s98/0_Sylvanusejfif.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/dangerous-glasgow-home-ruled-unfit-34626101",
-        "title": "'Dangerous' Glasgow home ruled unfit for habitation could be bought by council",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/dangerous-glasgow-home-ruled-unfit-34626101",
-        "description": "Glasgow City Council is planning to buy the property and then transfer ownership to a housing association.",
-        "published": "Wed, 16 Sep 2026 12:50:35 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34626087.ece/ALTERNATES/s98/0_hillingtonroadsouth.png"
-      },
-      {
-        "id": "78e5b8833fc107d94350513676ddc58c",
-        "title": "Detective says victims injuries 'will stay with me forever' as graphic details emerge",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26555674.brodie-macgregor-trial-hears-graphic-evidence-glasgow-murder/",
-        "description": "Glasgow High Court murder trial hears claims Alexander Brennan killed Brodie MacGregor, 23, in Springburn on August 26 2024, as detectives detail CCTV evidence in court.",
-        "published": "Wed, 16 Sep 2026 13:50:31 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21457736/?type=app&htype=0"
-      },
-      {
-        "id": "b8223b4c34227d4d852e5ca0b22cdbfa",
-        "title": "'Springboard, not sunset': Edinburgh's festivals make last-ditch tourist tax plea",
-        "link": "https://www.heraldscotland.com/news/26555584.festivals-last-ditch-plea-proportionate-tourist-tax-share/",
-        "description": "Councillors have been warned of the risks of 'continued underinvestment' in the city's annual cultural events ahead of their 80th anniversary season.",
-        "published": "Wed, 16 Sep 2026 13:35:17 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21463496/?type=app&htype=0"
-      },
-      {
-        "id": "22f4e87223f360dddbbf8968195a0c97",
-        "title": "Popular Glasgow walkway to close for weeks as nearly 400 trees are cut down",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26555564.river-kelvin-walkway-sections-close-392-ash-trees-felled/",
-        "description": "Glasgow\u2019s River Kelvin Walkway faces eight weeks of section closures as 392 ash trees with ash dieback are felled from September 14 over safety fears.",
-        "published": "Wed, 16 Sep 2026 13:31:16 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21463112/?type=app&htype=0"
-      },
-      {
-        "id": "95e385456579acffe7d2ba2f15781eb1",
-        "title": "Glasgow university staff to strike tomorrow after major breakdown in redundancy talks",
-        "link": "https://www.glasgowtimes.co.uk/news/26555509.glasgow-caledonian-university-staff-strike-talk-fails/",
-        "description": "Staff at one of Glasgow's biggest universities are set to walk out in a dispute over compulsory redundancies that could threaten 100 jobs.",
-        "published": "Wed, 16 Sep 2026 13:20:09 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21113963/?type=app&htype=0"
-      },
-      {
-        "id": "ed3bc9c8aa8ccbb9029cad4e4cefa3d4",
-        "title": "HUGE American DJ announces show at Glasgow's O2 Academy",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26555479.american-dj-mk-announces-show-glasgows-o2-academy/",
-        "description": "American DJ MK announces show at Glasgow's O2 Academy.",
-        "published": "Wed, 16 Sep 2026 13:11:36 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19247788/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/fuel-prices-hit-2026-record-34624373",
-        "title": "Fuel prices hit 2026 record high - find the cheapest in your postcode area",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/fuel-prices-hit-2026-record-34624373",
-        "description": "It now costs around \u00a394 to fill up a standard 55-litre tank car \u2013 and in many areas prices are much higher.",
-        "published": "Wed, 16 Sep 2026 12:08:08 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article23494182.ece/ALTERNATES/s98/1_fuel-prices.jpg"
-      },
-      {
-        "id": "92d366183eab37eca2eef497630ee445",
-        "title": "Glasgow neighbourhood named cooler than New York after being labelled 'ghetto\u2019",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26555448.glasgows-govanhill-named-fifth-coolest-neighbourhood-world/",
-        "description": "Glasgow\u2019s Govanhill named world\u2019s fifth coolest neighbourhood by Time Out 2026, after Reform MSP Thomas Kerr called the diverse Scottish area a \u2018ghetto\u2019.",
-        "published": "Wed, 16 Sep 2026 13:05:26 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21463236/?type=app&htype=0"
-      },
-      {
-        "id": "8961b17d0d177265b6d7969914bc0950",
-        "title": "Drivers warned as key M8 slip roads close for week of overnight roadworks",
-        "link": "https://www.glasgowtimes.co.uk/news/26555374.m8-close-hillington-resurfacing-works-begin/",
-        "description": "Motorists are being warned of overnight closures on a major motorway as part of resurfacing works.",
-        "published": "Wed, 16 Sep 2026 12:51:31 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21015804/?type=app&htype=0"
-      },
-      {
-        "id": "7617cf34ad79012a36ce73d286282d96",
-        "title": "Major update issued on Glasgow Airport strike action",
-        "link": "https://www.glasgowtimes.co.uk/news/26555316.major-update-issued-glasgow-airport-strike-action/",
-        "description": "Strike action at Glasgow Airport has been called off after workers accepted a new pay deal.",
-        "published": "Wed, 16 Sep 2026 12:41:19 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18583362/?type=app&htype=0"
-      },
-      {
-        "id": "c6a17a0ba930d0046b7fd34079255e62",
-        "title": "400 jobs to be cut at Ladbrokes as gambling tax fears threaten betting shops",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26555291.ladbrokes-owner-entain-axe-400-customer-care-jobs/",
-        "description": "Entain, owner of Ladbrokes and Coral, plans to cut 400 customer care jobs, warning rising gambling taxes are piling pressure on the UK betting industry.",
-        "published": "Wed, 16 Sep 2026 12:36:58 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21462702/?type=app&htype=0"
-      },
-      {
-        "id": "126b23381d2a587e8a460e2dd886e24e",
-        "title": "Glasgow NHS workers win pay rise and years of back pay after strike action",
-        "link": "https://www.glasgowtimes.co.uk/news/26555263.glasgow-nhs-staff-win-pay-rise-strike-action/",
-        "description": "Glasgow health workers have secured a pay rise and up to three years\u2019 back pay following strike action, says UNISON.",
-        "published": "Wed, 16 Sep 2026 12:32:26 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21119733/?type=app&htype=0"
-      },
-      {
-        "id": "7076ae231e4789292837a9d02dcdb63f",
-        "title": "Glasgow's M8 to close as long-awaited works get underway",
-        "link": "https://www.glasgowtimes.co.uk/news/26555089.m8-close-long-awaited-works-begin-ibrox-footbridge/",
-        "description": "Glasgow's M8 motorway is set to close over the coming weeks to allow for works on the Cornwall Street and Kirkwood Street footbridges.",
-        "published": "Wed, 16 Sep 2026 12:06:26 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19926560/?type=app&htype=0"
-      },
-      {
-        "id": "432b154a2200df728491ac669143d7b6",
-        "title": "How Islay's first rum distillery found its place on Scotland's 'whisky island'",
-        "link": "https://www.heraldscotland.com/life_style/26550549.islay-rum-adds-new-flavour-scotlands-whisky-island/",
-        "description": "Here's how an award-winning rum distillery found its home on Scotland's 'whisky island '.",
-        "published": "Wed, 16 Sep 2026 12:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21455878/?type=app&htype=0"
-      },
-      {
-        "id": "9064712",
-        "title": "Referee and VAR confirmed for Celtic vs Rangers 2.0 as familiar face selected in Premiership Old Firm showdown",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/referee-and-var-confirmed-for-celtic-vs-rangers-20-as-familiar-face-selected-in-premiership-old-firm-showdown-9064712",
-        "description": "<p>Officiating team confirmed for Celtic vs Rangers on Sunday</p>",
-        "published": "Wed, 16 Sep 2026 10:47:09 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/16/10/01/GettyImages-2295280017.jpeg?width=1200&auto=webp&trim=0%2C10%2C0%2C9"
-      },
-      {
-        "id": "febf32b4c5f9d258a3b24f8cd520453e",
-        "title": "LIVE updates as major Glasgow road restricted amid emergency",
-        "link": "https://www.glasgowtimes.co.uk/news/26554946.live-updates-baillieston-a8-restricted-amid-emergency/",
-        "description": "A major Glasgow road has been restricted following a crash.",
-        "published": "Wed, 16 Sep 2026 11:44:42 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19789692/?type=app&htype=0"
-      },
-      {
-        "id": "1c7dcfeb1d620d3c3c863c9104d46054",
-        "title": "Award-winning Glasgow jewellers hits market after 70 years in business",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26554613.glasgow-jewellers-hits-market-70-years-business/",
-        "description": "An award-winning Glasgow jewellers has hit the market after 70 years in business.",
-        "published": "Wed, 16 Sep 2026 10:56:07 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21381544/?type=app&htype=0"
-      },
-      {
-        "id": "3c25dcc440b0bd27d97e03730794c04e",
-        "title": "Glasgow hotel hikes prices by more than 500% for Oasis gigs",
-        "link": "https://www.glasgowtimes.co.uk/news/26554469.glasgow-hotels-hike-prices-500-oasis-gigs/",
-        "description": "Glasgow hotels have increased their nightly rate by more than five times its usual cost after Oasis announced gigs at Celtic Park.",
-        "published": "Wed, 16 Sep 2026 10:28:26 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21461599/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=529298",
-        "title": "Glasgow Women\u2019s Aid speaks out over controversial sports advert starring Sydney Sweeney",
-        "link": "https://news.stv.tv/west-central/glasgow-womens-aid-speaks-out-over-controversial-sports-advert-starring-sydney-sweeney",
-        "description": "The organisation says women should be known for their talent rather than their bodies to generate clicks.",
-        "published": "Wed, 16 Sep 2026 09:09:34 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/50aff8ec55cb2b20b9ed4a631b638738-1789547707.jpg"
-      },
-      {
-        "id": "ea5c6b7a59b593a107a052fce95ed196",
-        "title": "Popular singer-songwriter announces UK and Europe tour with Glasgow date",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26554340.ry-x-perform-glasgow-pavilion-theatre-city-centre/",
-        "description": "Ry X is set to perform at Glasgow Pavilion Theatre in the city centre.",
-        "published": "Wed, 16 Sep 2026 10:08:01 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20581840/?type=app&htype=0"
-      },
-      {
-        "id": "7faf6ba541b1c22393afe707d07ea5ce",
-        "title": "The doors are still open, but this Glasgow landmark is far from saved",
-        "link": "https://www.heraldscotland.com/news/26553482.happens-next-glasgows-queens-park-glasshouse/",
-        "description": "Glasgow\u2019s Queen\u2019s Park Glasshouse remains open after a 13,000-signature campaign, but restoration costs and its long-term future are still uncertain.",
-        "published": "Wed, 16 Sep 2026 10:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21316725/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-rushed-hospital-after-assault-34624330",
-        "title": "Man rushed to hospital after assault on Glasgow east end street",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-rushed-hospital-after-assault-34624330",
-        "description": "Officers have confirmed that their enquiries into the incident remain ongoing.",
-        "published": "Wed, 16 Sep 2026 08:45:57 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34624367.ece/ALTERNATES/s98/1_East-Campbell.png"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/irvine-businessman-jailed-over-6m-34624055",
-        "title": "Irvine businessman jailed over \u00a36m scam pictured enjoying beach stroll one year into six-year term",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/irvine-businessman-jailed-over-6m-34624055",
-        "description": "Gavin Brown was spotted enjoying a beach stroll during a week-long trip to Prestwick.",
-        "published": "Wed, 16 Sep 2026 08:13:07 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34624211.ece/ALTERNATES/s98/0_JS417989221.jpg"
-      },
-      {
-        "id": "2b5b9580515e4f458418a080314590e8",
-        "title": "\u00a322.7m boost for iGii comes with a promise to grow in Scotland",
-        "link": "https://www.heraldscotland.com/news/26542883.igii-secures-22-7m-amid-plans-scottish-expansion/",
-        "description": "The Stirling-based nanomaterials business plans to double its workforce by 2029 after securing a \u00a322.7m package of equity investment and public-sector support",
-        "published": "Wed, 16 Sep 2026 08:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21442281/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/football/articles/c6wyz1ll1g3xo#0",
-        "title": "Meet the Scottish teenagers poised to represent Uganda",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c6wyz1ll1g3xo?at_medium=RSS&at_campaign=rss",
-        "description": "Teenage brothers Olly and Seb Fisher are closing in on their dream of international recognition - but it won't come from their homeland of Scotland.",
-        "published": "Wed, 16 Sep 2026 06:12:11 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85ba/live/bf1141b0-b1a7-11f1-8b77-cd7827f05bee.jpg"
-      },
-      {
-        "id": "cb1a2de8f59e0bc227f470c2da87901f",
-        "title": "Beast expressed his desire to rape and murder a toddler in front of their mum",
-        "link": "https://www.glasgowtimes.co.uk/news/26546932.bridge-weir-beast-expressed-desire-rape-murder-toddler/",
-        "description": "Renfrewshire man James Fulton admits sexual offences, including messages about a toddler and contacting a decoy girl. Sentencing at Paisley Sheriff Court is due next month.",
-        "published": "Wed, 16 Sep 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18078130/?type=app&htype=0"
-      },
-      {
-        "id": "ead6970b468703f2b10d2ca6978fe9fc",
-        "title": "Activist warns abusers \u2018emboldened\u2019 a year on from Clydebank Women\u2019s Aid closure",
-        "link": "https://www.glasgowtimes.co.uk/news/26553079.sex-crime-rise-sparks-alarm-support-gap-clydebank/",
-        "description": "Rising sex crimes and lack of new support after Clydebank Women's Aid closure of is leaving women 'disempowered' and abusers 'emboldened', campaigners warn.",
-        "published": "Wed, 16 Sep 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21401424/?type=app&htype=0"
-      },
-      {
-        "id": "d70447bb7f7abadb73e4c7ea953503bd",
-        "title": "'Why shouldn't Glasgow be up there with the best European cities?'",
-        "link": "https://www.heraldscotland.com/news/26553047.glasgow-not-hellhole-says-new-council-leader-ricky-bell/",
-        "description": "Ricky Bell, Glasgow's new SNP council leader, defends the city against its critics, demands new planning powers to tackle vape shops and derelict buildings, and vows the redevelopment of the centre will make the disruption worthwhile.",
-        "published": "Wed, 16 Sep 2026 05:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21459472/?type=app&htype=0"
-      },
-      {
-        "id": "44fbbecef30500ce50a5e9cd21bfad22",
-        "title": "Scottish high street pharmacy chain companies employing 420 in administration",
-        "link": "https://www.heraldscotland.com/news/26552991.scottish-high-street-pharmacy-chain-firms-administration/",
-        "description": "Two companies linked to a Scottish high street pharmacy chain have slumped into administration",
-        "published": "Wed, 16 Sep 2026 04:36:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21459593/?type=app&htype=0"
-      },
-      {
-        "id": "2b9e175ca33b6f5cf6724ca79f38cffa",
-        "title": "Nearly 200,000 Scots pensioners missing out on \u00a3346m in benefits, charity warns",
-        "link": "https://www.heraldscotland.com/news/26553578.200-000-scots-pensioners-missing-346m-benefits/",
-        "description": "Almost 200,000 pensioners in Scotland are missing out on benefits worth some \u00a3346 million a year, charity campaigners have claimed.",
-        "published": "Wed, 16 Sep 2026 00:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21068491/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
@@ -2462,6 +2950,14 @@
     "icon_url": "https://www.glasgowworld.com/favicon.ico",
     "output_file": "Glasgow_World_AI_Filtered.xml",
     "articles": [
+      {
+        "id": "9266949",
+        "title": "Great Scottish Run 2026: 63 amazing pictures from the Great Scottish Run as thousands take part in race",
+        "link": "https://www.glasgowworld.com/news/great-scottish-run-2026-thousands-take-part-in-race-9266949",
+        "description": "<p>Thousands of runners took to the streets of Glasgow for the 2026 Great Scottish Run</p>",
+        "published": "Mon, 05 Oct 2026 10:07:56 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/05/9/41/a26d3159-4f96-4fe0-b7f5-7bf5157e8bf9-fa7de4bf.jpeg?width=1200&auto=webp&trim=1388%2C0%2C1388%2C0"
+      },
       {
         "id": "8986617",
         "title": "Dad made a hit BBC gameshow, then Alzheimer's stole his words\u2014now I am walking Glasgow for him",
