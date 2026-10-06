@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo#1",
+        "title": "'Ghost particles' from space telescope wins physics Nobel",
+        "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+        "description": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
+        "published": "Tue, 06 Oct 2026 10:23:59 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73fd/live/3d7299c0-c16e-11f1-a003-8be783290413.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo#1",
         "title": "OpenAI admits response to Australian government hacks 'not good enough'",
         "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Olympic 1500m medallist Jenny Simpson says a \"chapter has ended\" and she will not return to running after having a cardiac arrest.",
         "published": "Fri, 21 Aug 2026 10:07:12 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5928/live/3cd29550-9d34-11f1-bc05-aff3aa1f91c7.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo#3",
-        "title": "Panama Canal to cut number of ships passing through due to El Ni\u00f1o",
-        "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
-        "description": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.",
-        "published": "Fri, 21 Aug 2026 06:46:08 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db42/live/677fca00-9d18-11f1-bd22-47519fb87a16.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2140,6 +2140,30 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "29eb87dbd22de02f5ed0fb70f1807c91",
+        "title": "Monster who 'brutally attacked' and killed man unmasked",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26610787.monster-brutally-attacked-killed-man-unmasked/",
+        "description": "A monster, who has been sentenced to life in prison for murder, has been unmasked.",
+        "published": "Tue, 06 Oct 2026 11:09:51 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21543199/?type=app&htype=104"
+      },
+      {
+        "id": "e5f92c4e53d3568e9a11426e194faa30",
+        "title": "Glasgow nightlife favourite goes up for sale after 16 years in business",
+        "link": "https://www.glasgowtimes.co.uk/news/26610781.glasgow-tiki-bar-sale-ten-years-business/",
+        "description": "Glasgow\u2019s Tiki Bar &amp; Darts Den on Bath Street is for sale at \u00a385,000 leasehold, offering tropical cocktails, Thai food, darts and a beer garden.",
+        "published": "Tue, 06 Oct 2026 11:08:27 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21419012/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=531985",
+        "title": "Healthcare worker sexually assaulted vulnerable teen girl in hospital",
+        "link": "https://news.stv.tv/west-central/healthcare-worker-sexually-assaulted-vulnerable-teen-girl-in-hospital",
+        "description": "Adam Mushtaq, 28, had been tasked with watching over the woman who had earlier tried to take her own life",
+        "published": "Tue, 06 Oct 2026 09:56:35 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/14a36fc02c93d3c28a60fe8187e4ef8c-1791280189-1280x675.jpeg"
+      },
       {
         "id": "b649b76211431f3e5a60629fa85a6218",
         "title": "Beloved business set to close after serving the community for 117 years",
