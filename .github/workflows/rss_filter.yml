@@ -2,8 +2,8 @@ name: AI RSS Filter
 
 on:
   schedule:
-    # Runs every 15 minutes. 
-    - cron: '3,18,33,48 * * * *'
+    # Runs every 30 minutes
+    - cron: '3,33 * * * *'
   workflow_dispatch:
   repository_dispatch:
     types: [rss_filter_trigger]
@@ -13,21 +13,19 @@ permissions:
   pages: write
   id-token: write
 
+# If a new trigger arrives while Python is still processing, cancel the older run
 concurrency:
-  group: "pages"
-  cancel-in-progress: false
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
-  filter-and-publish:
+  filter:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          ref: main # Checks out the latest commit on main, not the queued snapshot
+          ref: main
           fetch-depth: 0
 
       - name: Setup Python
@@ -55,6 +53,16 @@ jobs:
         with:
           path: './public'
 
+  deploy:
+    needs: filter
+    runs-on: ubuntu-latest
+    concurrency:
+      group: "pages"
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
