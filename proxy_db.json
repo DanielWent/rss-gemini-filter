@@ -2229,6 +2229,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "3c6437d0d2fb1e54f7dbf657059bece7",
+        "title": "\"Extraordinary\": Detectorist finds his second Bronze Age hoard in two years",
+        "link": "https://www.heraldscotland.com/news/26611158.detectorist-finds-second-bronze-age-hoard-scotland/",
+        "description": "Some detectorists wait a lifetime before finding anything - this man found two",
+        "published": "Wed, 07 Oct 2026 00:05:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21543787/?type=app&htype=0"
+      },
+      {
+        "id": "3a932a647c37a4dd3c3d2f3ff66d3d76",
+        "title": "Families face loss of 'vital' telephone support service amid funding crisis",
+        "link": "https://www.heraldscotland.com/news/26612258.scotlands-sleep-support-line-close-amid-funding-crisis/",
+        "description": "Sleep Action will close Scotland\u2019s national Sleep Support Line in March 2027 unless new funding is found, affecting 700 families each year.",
+        "published": "Wed, 07 Oct 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21545252/?type=app&htype=0"
+      },
+      {
+        "id": "3d1abf6440e53cdf2e0f4d9914cbcf93",
+        "title": "Edinburgh claimed as birthplace of the first 'talkie' feature film ahead of New York",
+        "link": "https://www.heraldscotland.com/news/26613374.edinburgh-claimed-birthplace-first-talkie-feature-film/",
+        "description": "A film writer and historian is campaigning for Edinburgh to be recognised as the birthplace of the 'talking' feature film instead of New York.",
+        "published": "Wed, 07 Oct 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21546966/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cw77p41vr85ko#0",
         "title": "Did a Scottish film 'beat Hollywood to the punch' as the first ever talkie?",
         "link": "https://www.bbc.co.uk/news/articles/cw77p41vr85ko?at_medium=RSS&at_campaign=rss",
@@ -3003,30 +3027,6 @@
         "description": "Strathkelvin and Bearsden MSP Adam Harley has called on East Dunbartonshire Council to pause controversial parking charges in Kirkintilloch and Bearsden, warning they could harm local businesses.",
         "published": "Mon, 05 Oct 2026 15:19:20 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21540080/?type=app&htype=44"
-      },
-      {
-        "id": "ecd7a8fc3970d54e7413d80a676f6055",
-        "title": "Inside the rescue deal that saved a 50-Year-Old Scottish retailer from administration",
-        "link": "https://www.heraldscotland.com/news/26608329.edinburgh-bicycle-co-op-buyout-saves-35-jobs-collapse/",
-        "description": "Edinburgh Bicycle Co-op is rescued in a management buyout, preserving 35 jobs and four stores, but closing Aberdeen branch and Newbridge distribution centre.",
-        "published": "Mon, 05 Oct 2026 14:48:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21539558/?type=app&htype=0"
-      },
-      {
-        "id": "2f1711460c084dfcd2945330534858e2",
-        "title": "Fabled Cairngorms beauty spot reopens after fire closes path",
-        "link": "https://www.heraldscotland.com/news/26608204.cairngorms-green-lochan-path-reopens-wildfire/",
-        "description": "The route takes hikers to one of Scotland's natural treasures",
-        "published": "Mon, 05 Oct 2026 14:15:09 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21539337/?type=app&htype=0"
-      },
-      {
-        "id": "c1493458f4f7e16271000d7da3fda39e",
-        "title": "Glasgow young people explore Buchanan Galleries\u2019 regeneration plans at bootcamp",
-        "link": "https://www.glasgowtimes.co.uk/news/26608181.glasgow-young-people-explore-buchanan-galleries-regeneration/",
-        "description": "Glasgow young people explored Buchanan Galleries\u2019 regeneration plans at a Regeneration Brainery bootcamp, discovering property and placemaking careers.",
-        "published": "Mon, 05 Oct 2026 14:10:14 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21539324/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
