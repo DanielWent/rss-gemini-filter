@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1791324630620357",
+        "title": "Metal detectorist finds second Bronze Age hoard in Scottish Borders",
+        "link": "https://www.bbc.co.uk/news/articles/cm62y4j5w149o?at_medium=RSS&at_campaign=rss",
+        "description": "Dubbed the Blyth Hoard, the artefacts dating from between 1150BC to 850BC were found seven miles from the Peebles Hoard.",
+        "published": "Tue, 06 Oct 2026 23:55:10 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5284/live/09db2a70-c162-11f1-ae7b-cfc528a6c828.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo#1",
         "title": "'Ghost particles' from space telescope wins physics Nobel",
         "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "This year's El Ni\u00f1o is expected to be the strongest in living memory and could lead to a range of impacts of the UK - including a stormy autumn.",
         "published": "Fri, 21 Aug 2026 15:02:13 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38f5/live/f8c01c40-9d45-11f1-a137-179a8d1c790b.jpg"
-      },
-      {
-        "id": "1787300716526988",
-        "title": "Olympian Simpson will never run again after cardiac arrest",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/cy8e6jjwnp8o?at_medium=RSS&at_campaign=rss",
-        "description": "Olympic 1500m medallist Jenny Simpson says a \"chapter has ended\" and she will not return to running after having a cardiac arrest.",
-        "published": "Fri, 21 Aug 2026 10:07:12 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5928/live/3cd29550-9d34-11f1-bc05-aff3aa1f91c7.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
