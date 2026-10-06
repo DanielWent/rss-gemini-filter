@@ -2133,6 +2133,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/tesco-60-rule-scottish-fuel-34721630",
+        "title": "Tesco \u00a360 rule at Scottish fuel stations until 18 October",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/tesco-60-rule-scottish-fuel-34721630",
+        "description": "Tesco shoppers can get help with their fill-up as prices soar due to the Iran conflict",
+        "published": "Tue, 6 Oct 2026 08:10:08 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34721674.ece/ALTERNATES/s98/0_Screenshot-2026-10-06-085939.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/two-major-cycle-routes-unveiled-34719621",
+        "title": "Two major cycle routes unveiled as Glasgow residents asked to help fill gaps in travel network",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/two-major-cycle-routes-unveiled-34719621",
+        "description": "Consultation on both sets of routes will run for six weeks until Sunday, November 15.",
+        "published": "Tue, 6 Oct 2026 08:00:27 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34720485.ece/ALTERNATES/s98/0_d98701af-21ce-42f4-844b-87f1f52af5ff.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/fatal-accident-inquiry-death-low-34721572",
         "title": "Fatal Accident Inquiry into death of Low Moss prisoner Kieran McGinley begins",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/fatal-accident-inquiry-death-low-34721572",
@@ -2397,22 +2413,6 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34714904.ece/ALTERNATES/s98/834600397_1653555099520168_1112884040043302848_n-1.jpg"
       },
       {
-        "id": "4897246618ef8760dcff782c7bf62b8c",
-        "title": "The SNP's no compulsory redundancy policy doesn't mean no compulsory redundancies",
-        "link": "https://www.heraldscotland.com/news/26609422.snp-no-compulsory-redundancy-policy-ambition/",
-        "description": "Ivan McKee's Holyrood committee remarks prompted a press office complaint \u2014 but with a \u00a34.7bn deficit, a missed workforce target and the IFS urging ministers to consider compulsory job cuts, the SNP's long-standing pledge deserves far more scrutiny.",
-        "published": "Mon, 05 Oct 2026 17:26:03 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21541451/?type=app&htype=0"
-      },
-      {
-        "id": "9321e7992100f336034fde0db036cfa1",
-        "title": "Several arrests made after 'extremely busy' weekend for cops in city centre",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26609415.several-arrests-made-extremely-busy-weekend-glasgow-cops/",
-        "description": "Several arrests have been made after what cops called an \"extremely busy\" weekend in Glasgow city centre.",
-        "published": "Mon, 05 Oct 2026 17:23:29 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19780618/?type=app&htype=0"
-      },
-      {
         "id": "abad95753bdafe24e2d39e3f06da1572",
         "title": "Glasgow singer Lena Martell, who topped the UK charts, dies aged 86",
         "link": "https://www.glasgowtimes.co.uk/news/26609356.singer-lena-martell-topped-uk-charts-dies-aged-86/",
@@ -2621,14 +2621,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21132659/?type=app&htype=0"
       },
       {
-        "id": "https://news.stv.tv/?p=531867",
-        "title": "Man, 21, dies after being attacked near Duke of Wellington statue",
-        "link": "https://news.stv.tv/west-central/man-21-dies-after-being-attacked-near-duke-of-wellington-statue",
-        "description": "A 21-year-old man has died after being seriously injured during a disturbance in Royal Exchange Square",
-        "published": "Mon, 05 Oct 2026 14:06:33 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/643a6745843911b383dc27a7ab3996c0-1791118712-960x720.jpg"
-      },
-      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-workers-vote-pay-34719343",
         "title": "Glasgow council workers to vote on pay deal after breakthrough in talks",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-workers-vote-pay-34719343",
@@ -2789,14 +2781,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21129961/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgow-tgi-fridays-closes-month-34717822",
-        "title": "Glasgow TGI Fridays closes this month after three decades serving the city centre",
-        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgow-tgi-fridays-closes-month-34717822",
-        "description": "The chain says the closure is not voluntary and adds that the focus is now on &quot;protecting as many jobs as possible&quot;.",
-        "published": "Mon, 5 Oct 2026 11:17:42 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34717802.ece/ALTERNATES/s98/1_tgiPNG.png"
-      },
-      {
         "id": "https://news.stv.tv/?p=531770",
         "title": "Greenock care home faces closure over serious risk to residents",
         "link": "https://news.stv.tv/west-central/greenock-care-home-faces-closure-over-serious-risk-to-residents",
@@ -2819,14 +2803,6 @@
         "description": "<p>Police are treating a fire at a pub in Glasgow city centre as deliberate, with enquiries ongoing into the cause of the blaze on Sunday afternoon.</p>",
         "published": "Mon, 05 Oct 2026 10:59:06 GMT",
         "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOjkxNTE1MDBiLWFmNmUtNDQ0OS1iYjZkLTgwMjFhYTgxODNiZDpiZTBhZDc1Yi00Y2U0LTQxMDEtYjY4ZS02OWU4OGRlYjVlZWY=.jpg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "1c1c6b3e908104bc78bfd24e58cf7d36",
-        "title": "Care home could lose registration after inspectors find serious safety risks",
-        "link": "https://www.heraldscotland.com/news/26607357.greenock-care-home-lose-registration-safety-concerns/",
-        "description": "Inspectors warned residents could remain at risk of avoidable harm without urgent improvements",
-        "published": "Mon, 05 Oct 2026 11:55:28 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/11294072/?type=app&htype=0"
       },
       {
         "id": "08071572605b14da1af3a093f2d73064",
