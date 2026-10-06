@@ -2221,6 +2221,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=532006",
+        "title": "\u2018I\u2019m constantly wheezy and my clothes stink\u2019: Awaab\u2019s Law targets mould misery",
+        "link": "https://news.stv.tv/west-central/im-constantly-wheezy-and-my-clothes-stink-awaabs-law-targets-mould-misery",
+        "description": "The introduction of Awaab's Law shines a spotlight on the impact of damp and mould in rented homes.",
+        "published": "Tue, 06 Oct 2026 17:21:02 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/21f1ad217d0b29ac20c8a8123ceaa899-1791293145-1280x720.jpeg"
+      },
+      {
+        "id": "179938ab8fa9dc60beab29e6154ca445",
+        "title": "John Swinney alerts ministerial code advisers over lost pension claim row",
+        "link": "https://www.heraldscotland.com/news/26613146.swinney-refers-pension-row-ministerial-code-advisers/",
+        "description": "John Swinney has referred a row over his claim Scots would 'lose their pensions' to independent ministerial code advisers, after Scottish Tory leader Russell Findlay accused him of peddling misinformation about changes to the triple lock.",
+        "published": "Tue, 06 Oct 2026 17:03:39 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21546560/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-who-died-glasgow-city-34725774",
         "title": "Man who died in Glasgow city centre 'disturbance' named as police probe continues",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-who-died-glasgow-city-34725774",
@@ -2237,6 +2253,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21546563/?type=app&htype=0"
       },
       {
+        "id": "171d214ea4cf3bb874f816e686e18240",
+        "title": "Scotmid rebounds after Co-op cyber attack, but new pressures loom",
+        "link": "https://www.heraldscotland.com/news/26611440.scotmid-returns-profit-co-op-cyber-attack/",
+        "description": "Scotmid has rebounded from disruption linked to the Co-op cyber attack, but chief executive Karen Scott is warning of rising costs and continued uncertainty",
+        "published": "Tue, 06 Oct 2026 17:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21544647/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/easterhouse-youth-centre-set-revamp-34725526",
         "title": "Easterhouse youth centre set for revamp with new 'destination' park to be created",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/easterhouse-youth-centre-set-revamp-34725526",
@@ -2251,6 +2275,14 @@
         "description": "Anyone who recognises the man has been urged to contact Police Scotland.",
         "published": "Tue, 6 Oct 2026 15:38:44 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34725552.ece/ALTERNATES/s98/838640013_1806125650403424_4289187354219474795_njfif.jpg"
+      },
+      {
+        "id": "1d34649c4d9968cb12279b104be57f8b",
+        "title": "Why have Scottish critics been told not to review a new Scottish musical in Scotland?",
+        "link": "https://www.heraldscotland.com/news/26612833.critics-told-not-review-new-musical-launching-scotland/",
+        "description": "Pitlochry Festival Theatre's new musical Ceilidh is described by the venue as 'part night out, part love story, part cultural phenomenon'.",
+        "published": "Tue, 06 Oct 2026 16:19:55 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21504237/?type=app&htype=0"
       },
       {
         "id": "c87c1630dc52e3061aae9847c6d26933",
@@ -2987,30 +3019,6 @@
         "description": "IRO Sushi to open on Glasgow's Sauchiehall Street this weekend",
         "published": "Mon, 05 Oct 2026 12:48:46 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21341033/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/review-scotlands-maternity-services-begins-34717421",
-        "title": "Review of Scotland's maternity services begins today after mums say 'the system is failing us'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/review-scotlands-maternity-services-begins-34717421",
-        "description": "It comes after a report revealed that there are serious concerns surrounding maternity services at Glasgow's Queen Elizabeth University Hospital.",
-        "published": "Mon, 5 Oct 2026 11:42:05 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34718080.ece/ALTERNATES/s98/0_gettyimages-1756335296-170667a.jpg"
-      },
-      {
-        "id": "9267260",
-        "title": "Rangers star 'drawing attention' from Premier League clubs as instant impact raises transfer eyebrows",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-star-drawing-attention-premier-league-clubs-instant-impact-transfer-9267260",
-        "description": "<p>The Rangers star is reportedly turning heads across Europe after a summer transfer.</p>",
-        "published": "Mon, 05 Oct 2026 11:33:09 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/05/11/15/GettyImages-2296226631.jpg?width=1200&auto=webp&trim=14%2C0%2C14%2C0"
-      },
-      {
-        "id": "bcabe0ddd67e32b93f2aad427d90cc73",
-        "title": "Why has Scotland's national cathedral introduced a \u00a312 entry fee for tourists?",
-        "link": "https://www.heraldscotland.com/news/26607532.st-giles-cathedral-introduces-12-entry-fee-tourists/",
-        "description": "Scotland\u2019s national cathedral now offers general admission tickets for non-resident visitors who are 16 and older, as well as group and accessible tickets",
-        "published": "Mon, 05 Oct 2026 12:31:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21129961/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
