@@ -2173,6 +2173,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "1020d9127e231af8613efd3b2cb6ed82",
+        "title": "Family of Glasgow student who took own life after grade error settle legal case",
+        "link": "https://www.glasgowtimes.co.uk/news/26612180.family-glasgow-university-student-took-life-settle-case/",
+        "description": "The family of a student who took his own life after being wrongly told he would not be eligible to graduate say they have settled a civil court action with the University of Glasgow",
+        "published": "Tue, 06 Oct 2026 14:43:21 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20289579/?type=app&htype=0"
+      },
+      {
+        "id": "015015a46307b3362813f4d5b58bf74b",
+        "title": "Beloved Irish band to headline Glasgow music festival as line-up revealed",
+        "link": "https://www.glasgowtimes.co.uk/news/26612032.celtic-connections-line-up-reveals-saw-doctors-glasgow-gig/",
+        "description": "The Saw Doctors headline Celtic Connections 2027 in Glasgow, running January 14-31, with world music shows across 25 venues. Tickets on sale October 8.",
+        "published": "Tue, 06 Oct 2026 14:23:23 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21544902/?type=app&htype=0"
+      },
+      {
         "id": "e7fea3966f38ca404d26cc9212ec48e3",
         "title": "Scotland's longest-running yarn festival returning for 15th year this weekend",
         "link": "https://www.glasgowtimes.co.uk/news/26611991.glasgow-school-yarn-will-take-place-weekend/",
@@ -2955,14 +2971,6 @@
         "description": "According to the council\u2019s publicly-available list of \u2018primary liable parties\u2019, 13,747 firms were responsible for paying NDR as of July 2026.",
         "published": "Wed, 16 Sep 2026 16:59:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21434150/?type=app&htype=0"
-      },
-      {
-        "id": "e115bed7d36fdb964f0c973ef0f00259",
-        "title": "Mystery convoy sweeps through Glasgow city centre as police halt traffic",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26556754.police-halt-glasgow-traffic-convoy-passes-city-centre/",
-        "description": "Police motorcyclists halted traffic in Glasgow city centre as a convoy passed Bath Street, amid President Catherine Connolly\u2019s Scotland visit; links unconfirmed.",
-        "published": "Wed, 16 Sep 2026 16:51:24 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21464689/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
