@@ -2149,6 +2149,70 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cv5yn52gzlx7o#0",
+        "title": "Drug addict who murdered man in his own home jailed for life",
+        "link": "https://www.bbc.co.uk/news/articles/cv5yn52gzlx7o?at_medium=RSS&at_campaign=rss",
+        "description": "Terrence Welsh, 42, stabbed Stuart Kennedy in the chest as he sat in a chair at his flat in Ardrossan.",
+        "published": "Tue, 06 Oct 2026 11:17:30 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ad/live/7671a2e0-c171-11f1-a003-8be783290413.jpg"
+      },
+      {
+        "id": "704ca3bd13a2f4100304c3077037ce89",
+        "title": "Renfrewshire school 'first in UK' to appoint dedicated AI principal teacher",
+        "link": "https://www.glasgowtimes.co.uk/news/26611287.mearns-castle-high-school-first-uk-appoint-ai-teacher/",
+        "description": "Mearns Castle High School in East Renfrewshire is believed to be the first in the UK to appoint a dedicated principal teacher of artificial intelligence (AI) literacy.",
+        "published": "Tue, 06 Oct 2026 12:14:23 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/11834858/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c6kg5v7zk482o#0",
+        "title": "Celtic Connections reveals 2027 festival programme",
+        "link": "https://www.bbc.co.uk/news/articles/c6kg5v7zk482o?at_medium=RSS&at_campaign=rss",
+        "description": "The 34th edition of the folk, roots and world music event will run from 14 January until 31 January.",
+        "published": "Tue, 06 Oct 2026 11:12:42 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c577/live/e201fb20-c16e-11f1-a003-8be783290413.jpg"
+      },
+      {
+        "id": "9269750",
+        "title": "Celtic Connections 2027: Programme announced for Glasgow's Celtic Connections festival",
+        "link": "https://www.glasgowworld.com/news/celtic-connections-2027-programme-announced-glasgow-9269750",
+        "description": "<p>The 2027 programme for Celtic Connections festival has been announced</p>",
+        "published": "Tue, 06 Oct 2026 11:07:19 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/06/11/08/Photo-22-01-2026-07-17-44_credit-credit-ABCassidy-Photography.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "9269319",
+        "title": "Rangers star still subject of transfer interest as Aston Villa remain 'big admirers' despite failed swoop",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-star-still-subject-of-transfer-interest-as-aston-villa-remain-big-admirers-despite-failed-summer-swoop-9269319",
+        "description": "<p>Hull City also expressed an interest in the Ibrox mainstay</p>",
+        "published": "Tue, 06 Oct 2026 11:00:16 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/06/10/49/GettyImages-2291331349-(2).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "a4e3844fec346edb3bc158ddef5a5cdf",
+        "title": "New \u00a3786,000 child poverty scheme launched to support Glasgow families",
+        "link": "https://www.glasgowtimes.co.uk/news/26611184.child-poverty-scheme-launched-support-glasgow-families/",
+        "description": "A \u00a3786,000 Glasgow City Council scheme led by Govan HELP tackles child poverty, giving 231 families early, coordinated support and advice.",
+        "published": "Tue, 06 Oct 2026 11:59:03 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21543753/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-youths-launch-fireworks-vehicles-34722787",
+        "title": "Glasgow youths 'launch fireworks at vehicles' as cops crack down on reckless street chaos",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-youths-launch-fireworks-vehicles-34722787",
+        "description": "Officers are set to educate young people in the community through school inputs, highlighting the risks associated with reckless behaviour involving fireworks.",
+        "published": "Tue, 6 Oct 2026 10:56:01 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34722965.ece/ALTERNATES/s98/1_gettyimages-1329417811-594x594.jpg"
+      },
+      {
+        "id": "6f86f7a5ba866a085f58340ead06ae20",
+        "title": "Bus driver's real-life 'Baby on Board' emergency leads to national award",
+        "link": "https://www.glasgowtimes.co.uk/news/26611086.mcgills-bus-driver-wins-uk-award-helping-deliver-baby-onboard/",
+        "description": "McGill\u2019s bus driver Pummy Hadebe wins a UK National Transport Award after helping deliver a baby on Service 23 in Glasgow, honoured in London on October 1.",
+        "published": "Tue, 06 Oct 2026 11:46:21 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21538853/?type=app&htype=4"
+      },
+      {
         "id": "f85902399fe778f7f97f2b5f50614c64",
         "title": "NHSGGC health and wellbeing flip cards being rolled out across Glasgow libraries",
         "link": "https://www.glasgowtimes.co.uk/news/26611011.health-advice-cards-launched-greater-glasgow-libraries/",
@@ -2203,6 +2267,14 @@
         "description": "Adam Mushtaq, 28, had been tasked with watching over the woman who had earlier tried to take her own life",
         "published": "Tue, 06 Oct 2026 09:56:35 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/14a36fc02c93d3c28a60fe8187e4ef8c-1791280189-1280x675.jpeg"
+      },
+      {
+        "id": "9ce74637900c2a291e7e9412af261cbf",
+        "title": "Empty town centre shop set for dramatic transformation into new home",
+        "link": "https://www.glasgowtimes.co.uk/news/26610689.vacant-lanark-shop-approved-conversion-flat/",
+        "description": "Lanark's vacant shop at 40 St Leonard Street will become a flat after South Lanarkshire Council approved planning permission on October 5.",
+        "published": "Tue, 06 Oct 2026 10:55:55 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21543098/?type=app&htype=0"
       },
       {
         "id": "6221f2f924945ca93cfb702e78d1ac67",
@@ -2771,14 +2843,6 @@
         "description": "<p>Thousands of runners took to the streets of Glasgow for the 2026 Great Scottish Run</p>",
         "published": "Mon, 05 Oct 2026 10:07:56 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/05/9/41/a26d3159-4f96-4fe0-b7f5-7bf5157e8bf9-fa7de4bf.jpeg?width=1200&auto=webp&trim=1388%2C0%2C1388%2C0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c6qxv55882z1o#1",
-        "title": "Why are data centres such a big deal in Scotland?",
-        "link": "https://www.bbc.co.uk/news/articles/c6qxv55882z1o?at_medium=RSS&at_campaign=rss",
-        "description": "At least 23 huge data centres are planned in Scotland, causing significant concern for campaigners.",
-        "published": "Mon, 05 Oct 2026 10:04:08 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f963/live/d2ae1e10-c0a1-11f1-b72b-c3e328aa18ed.jpg"
       },
       {
         "id": "edef40d80624a8c8fca72ff15df61b0e",
