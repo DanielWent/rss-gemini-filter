@@ -2133,6 +2133,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "0e21e0d97b3615353e731d7e3c545c32",
+        "title": "Former Yoker Primary site set for 33-home affordable housing scheme",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26610113.former-yoker-primary-site-set-33-home-housing-scheme/",
+        "description": "Sanctuary Scotland could buy Glasgow\u2019s former Yoker Primary School site for around 33 social homes.",
+        "published": "Tue, 06 Oct 2026 09:32:45 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21542277/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/tesco-60-rule-scottish-fuel-34721630",
         "title": "Tesco \u00a360 rule at Scottish fuel stations until 18 October",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/tesco-60-rule-scottish-fuel-34721630",
@@ -2197,14 +2205,6 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34720086.ece/ALTERNATES/s98/0_WhatsApp-Image-2026-10-02-at-144258jpeg.jpg"
       },
       {
-        "id": "391a86ac847399dd7c412ce832881604",
-        "title": "FAI begins into death of Low Moss prisoner",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26609733.fatal-accident-inquiry-death-low-moss-prisoner-begins/",
-        "description": "Fatal Accident Inquiry into death of Low Moss prisoner begins",
-        "published": "Tue, 06 Oct 2026 07:35:09 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18811413/?type=app&htype=0"
-      },
-      {
         "id": "c4c6c57c9e8794ab07b37a3020e3bd24",
         "title": "Scots rockers Twin Atlantic cancel UK tour in shock announcement",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26609728.scots-rockers-twin-atlantic-cancel-uk-tour-shock-announcement/",
@@ -2229,14 +2229,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21044974/?type=app&htype=242"
       },
       {
-        "id": "ce7942bf88c0aec12bd9ff24fac60f06",
-        "title": "Scottish flights face strike threat after 'final' offer rejected",
-        "link": "https://www.heraldscotland.com/news/26609715.loganair-cabin-crew-vote-strike-action-pay/",
-        "description": "Cabin crew are set to vote on potential strike action over pay",
-        "published": "Tue, 06 Oct 2026 07:14:29 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/16447065/?type=app&htype=0"
-      },
-      {
         "id": "3657c4f606ded91540b12b8972892969",
         "title": "The Scottish Endarkenment has dawned in this dumbed-down nation",
         "link": "https://www.heraldscotland.com/news/education/26607783.scottish-endarkenment-dawned-dumbed-down-nation/",
@@ -2259,14 +2251,6 @@
         "description": "Calls to abolish the Standards Commission for Scotland have followed a judge\u2019s criticism of its evidence guidance in the Fiona Higgins Glasgow councillor misconduct case.",
         "published": "Tue, 06 Oct 2026 06:27:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21540672/?type=app&htype=0"
-      },
-      {
-        "id": "1d361d0062d2a8d3301cc2110fdce905",
-        "title": "Glasgow children as young as 14 exploited by gangs as \u00a33m retail crime fight launched",
-        "link": "https://www.glasgowtimes.co.uk/news/26609018.3m-retail-crime-crackdown-children-targeted-organised-gangs/",
-        "description": "Child theft cases in Scotland nearly double, with gangs accused of exploiting youngsters in retail crime, as Police Scotland and retailers raise concerns.",
-        "published": "Tue, 06 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20348467/?type=app&htype=0"
       },
       {
         "id": "d000c3433148639de24b94303c0f4049",
@@ -2333,14 +2317,6 @@
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3980/live/0ecbe1a0-c0cc-11f1-a64c-550be9e3c66b.png"
       },
       {
-        "id": "60bc11c7be8eab2dd0adb31c747e39ea",
-        "title": "Children caught with stolen goods almost double as police warn of exploitation",
-        "link": "https://www.heraldscotland.com/news/26608985.number-children-caught-stolen-goods-scotland-almost-doubles/",
-        "description": "The Scottish Police Federation has said there are concerns children are \u201croutinely exploited\u201d for the purposes of criminality as the number being caught with stolen goods rises.",
-        "published": "Tue, 06 Oct 2026 00:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21540704/?type=app&htype=0"
-      },
-      {
         "id": "dc3bb9d5f920e3516049f817157f1637",
         "title": "Four-year plan to transform 'fragile' Scottish music industry revealed",
         "link": "https://www.heraldscotland.com/news/26609455.four-year-plan-make-scottish-music-industry-fairer-revealed/",
@@ -2363,14 +2339,6 @@
         "description": "The owners of Wunderbar in Glasgow\u2019s west end could buy council-owned land next to the venue to build flats.",
         "published": "Mon, 05 Oct 2026 20:48:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21541737/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=531943",
-        "title": "Wunderbar owners\u00a0could buy council land next door to build flats",
-        "link": "https://news.stv.tv/west-central/wunderbar-owners-could-buy-council-land-next-door-to-build-flats",
-        "description": "Glasgow City Council previously approved a proposal to sell the Dumbarton Road site for use as a beer garden",
-        "published": "Mon, 05 Oct 2026 19:35:35 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/da76e6ff446617e68a845ae8ade096dc-1791228701-e1791228887173-1222x720.jpeg"
       },
       {
         "id": "958b19ce97cc74bb07ce1ac1507f38c3",
@@ -2413,28 +2381,12 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34714904.ece/ALTERNATES/s98/834600397_1653555099520168_1112884040043302848_n-1.jpg"
       },
       {
-        "id": "abad95753bdafe24e2d39e3f06da1572",
-        "title": "Glasgow singer Lena Martell, who topped the UK charts, dies aged 86",
-        "link": "https://www.glasgowtimes.co.uk/news/26609356.singer-lena-martell-topped-uk-charts-dies-aged-86/",
-        "description": "Glasgow singer Lena Martell, the first solo Scottish female singer to top the UK charts, has sadly died.",
-        "published": "Mon, 05 Oct 2026 17:12:05 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21541389/?type=app&htype=0"
-      },
-      {
         "id": "d55018165eed7497efb281988893af6a",
         "title": "A \u00a3600,000 vote of confidence, but questions still hang over female founders",
         "link": "https://www.heraldscotland.com/news/26608962.female-founded-gloriah-secures-600-000-investment/",
         "description": "The Edinburgh company's latest funding round is a major milestone, but female-led businesses still receive only a small share of equity investment",
         "published": "Mon, 05 Oct 2026 17:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21541062/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=531895",
-        "title": "Teen arrested for attempted murder of woman \u2018stabbed\u2019 in Easterhouse",
-        "link": "https://news.stv.tv/west-central/teen-arrested-for-attempted-murder-of-woman-stabbed-in-easterhouse",
-        "description": "A 15-year-old has been arrested in connection with the attempted murder of the 37-year-old woman in Easterhouse",
-        "published": "Mon, 05 Oct 2026 15:59:32 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/9ee22342db1b56f4675c95f4950c5ed1-1791224248-1200x720.jpeg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/victim-alleged-sexual-assault-glasgow-34720269",
@@ -2451,22 +2403,6 @@
         "description": "Sir Peter Mathieson, 67, told members of the university\u2019s Court today that he will leave the university when his current term expires in early 2028.",
         "published": "Mon, 05 Oct 2026 16:36:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21540957/?type=app&htype=0"
-      },
-      {
-        "id": "dc942023f1d3687edd8c2e42ca996b9b",
-        "title": "Woman sexually assaulted by man on ScotRail train",
-        "link": "https://www.heraldscotland.com/news/26609074.woman-sexually-assaulted-scotrail-glasgow-kilmarnock-train/",
-        "description": "Police are seeking witnesses after a woman was sexually assaulted on a train from Glasgow to Kilmarnock.",
-        "published": "Mon, 05 Oct 2026 16:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/14304339/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/armistice-day-celebrations-still-take-34719995",
-        "title": "Armistice Day celebrations will still take place on George Square despite southside closure",
-        "link": "https://www.glasgowlive.co.uk/news/armistice-day-celebrations-still-take-34719995",
-        "description": "Glasgow City Council says it is working to reopen the Square to the public by the end of October or start of November but the road closure to the south will remain in place to allow the roadway\u2019s new stone surface to cure.",
-        "published": "Mon, 5 Oct 2026 15:27:14 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article28088586.ece/ALTERNATES/s98/0_JS316563988-1.jpg"
       },
       {
         "id": "fe4ed4690624f5cfc9ac39136375470e",
@@ -2493,36 +2429,12 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2023/05/d170e81d0e58dcd0c17a1e144b2c6953-1683727170-1120x720.jpg"
       },
       {
-        "id": "f57c49e6e05e79869a0a60c6dcc893dd",
-        "title": "Glasgow\u2019s Armistice commemorations to go ahead despite George Square concerns",
-        "link": "https://www.glasgowtimes.co.uk/news/26609050.george-square-armistice-commemorations-go-ahead-year/",
-        "description": "Glasgow\u2019s Armistice and Remembrance commemorations will go ahead in George Square on November 8.",
-        "published": "Mon, 05 Oct 2026 16:19:53 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21198914/?type=app&htype=0"
-      },
-      {
-        "id": "383a38a299e25897cf900b1074306784",
-        "title": "Man released after arrest following sex attack on Glasgow train",
-        "link": "https://www.glasgowtimes.co.uk/news/26608998.glasgow-train-sexual-assault-police-appeal-victim-witnesses/",
-        "description": "British Transport Police are appealing for information after a reported sexual assault on a train travelling from Glasgow to Kilmarnock. A man has been arrested and released under investigation.",
-        "published": "Mon, 05 Oct 2026 16:13:02 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20820210/?type=app&htype=61"
-      },
-      {
         "id": "480c21d7869a29c09cc0746d5aaa9aa9",
         "title": "Glasgow removing vandalised phone boxes and obsolete toilet block from city centre",
         "link": "https://www.glasgowtimes.co.uk/news/26608978.glasgow-council-removes-old-phone-boxes-toilet-block/",
         "description": "Work to remove obsolete and vandalised infrastructure including old phone boxes continues to be carried out by the council across Glasgow.",
         "published": "Mon, 05 Oct 2026 16:11:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/18076711/?type=app&htype=0"
-      },
-      {
-        "id": "b682910f0ef105d594e848cda43a506d",
-        "title": "Glasgow residents invited to help shape five new active travel routes",
-        "link": "https://www.glasgowtimes.co.uk/news/26608911.glasgow-public-invited-shape-new-active-travel-routes/",
-        "description": "Glasgow is inviting the public to help shape new active travel routes.",
-        "published": "Mon, 05 Oct 2026 16:00:09 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21540577/?type=app&htype=0"
       },
       {
         "id": "5193501",
@@ -2547,14 +2459,6 @@
         "description": "Scottish Labour leader Michael Marra urges John Swinney to publish the delayed energy strategy, with plans for North Sea oil and gas, renewables and nuclear.",
         "published": "Mon, 05 Oct 2026 15:55:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21504266/?type=app&htype=0"
-      },
-      {
-        "id": "9268187",
-        "title": "Glasgow City Council to reconsider sale of land next to Wunderbar in Glasgow's west end",
-        "link": "https://www.glasgowworld.com/news/glasgow-city-council-hegarty-investment-company-wunderbar-glasgow-west-end-9268187",
-        "description": "<p>Glasgow west end bar owners could buy council-owned land to build flats</p>",
-        "published": "Mon, 05 Oct 2026 14:49:56 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/05/14/39/onecms_a75dd24e-ae0b-4e62-b5c1-610d3870016f_0467bb43-0f91-48a3-9d5a-de91b5a07712.jpeg?width=1200&auto=webp&trim=0%2C53%2C0%2C52"
       },
       {
         "id": "cbf89724ac0f345dbf921b0276b1bbdd",
@@ -2605,14 +2509,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21540080/?type=app&htype=44"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-dies-another-injured-after-34719363",
-        "title": "Man dies and another injured after late-night 'assault' in Glasgow city centre",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-dies-another-injured-after-34719363",
-        "description": "\u201cNo one has been arrested in connection with the death of the man at this time.&quot;",
-        "published": "Mon, 5 Oct 2026 14:11:16 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34714904.ece/ALTERNATES/s98/834600397_1653555099520168_1112884040043302848_n-1.jpg"
-      },
-      {
         "id": "7fc6fe3c76edc9dba50a1f22e8ff9c21",
         "title": "Glasgow city centre TGI Fridays to close after 33 years",
         "link": "https://www.heraldscotland.com/news/26608547.tgi-fridays-close-buchanan-street-branch-glasgow/",
@@ -2621,60 +2517,12 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21132659/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-workers-vote-pay-34719343",
-        "title": "Glasgow council workers to vote on pay deal after breakthrough in talks",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-workers-vote-pay-34719343",
-        "description": "Negotiations between trade unions, the council and the Scottish Government had continued over the weekend",
-        "published": "Mon, 5 Oct 2026 13:59:46 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33445571.ece/ALTERNATES/s98/2_Glasgow-City-Chambers.jpg"
-      },
-      {
-        "id": "640914e5e95dad0421e7340bf8746990",
-        "title": "21-year-old man dies after serious assault in Glasgow city centre",
-        "link": "https://www.heraldscotland.com/news/26608460.man-dies-serious-assault-glasgow-city-centre/",
-        "description": "A 21-year-old man has died after a serious assault in Glasgow\u2019s Royal Exchange Square. Police Scotland are investigating the October 4 incident.",
-        "published": "Mon, 05 Oct 2026 14:59:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21535459/?type=app&htype=0"
-      },
-      {
-        "id": "09fcb122b769ab7bbb6ad27e30e0c72b",
-        "title": "Glasgow Council fire and rehire threat lifted as all three unions to ballot staff",
-        "link": "https://www.heraldscotland.com/news/26608476.glasgow-council-fire-rehire-threat-lifted-unison-deal/",
-        "description": "All three unions at Glasgow City Council will ballot non-teaching staff on a new pay and grading deal after Unison ended its holdout, lifting the threat of mass fire-and-rehire dismissals that had loomed over more than 23,000 employees.",
-        "published": "Mon, 05 Oct 2026 14:55:48 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/13578570/?type=app&htype=0"
-      },
-      {
-        "id": "4f2f196b4a613c4abaee6668c75a43a6",
-        "title": "Man dies after 'disturbance' involving 'group of men' in Glasgow city centre",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26608433.man-dies-disturbance-involving-group-men-glasgow/",
-        "description": "A man has died following a \"disturbance\" involving a \"group of men\" in Glasgow city centre in the early hours of Sunday morning.",
-        "published": "Mon, 05 Oct 2026 14:49:36 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16803364/?type=app&htype=0"
-      },
-      {
         "id": "ecd7a8fc3970d54e7413d80a676f6055",
         "title": "Inside the rescue deal that saved a 50-Year-Old Scottish retailer from administration",
         "link": "https://www.heraldscotland.com/news/26608329.edinburgh-bicycle-co-op-buyout-saves-35-jobs-collapse/",
         "description": "Edinburgh Bicycle Co-op is rescued in a management buyout, preserving 35 jobs and four stores, but closing Aberdeen branch and Newbridge distribution centre.",
         "published": "Mon, 05 Oct 2026 14:48:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21539558/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=531850",
-        "title": "Improved deal reached after Glasgow City Council fire and rehire scandal",
-        "link": "https://news.stv.tv/west-central/improved-deal-reached-after-glasgow-city-council-fire-and-rehire-scandal",
-        "description": "Unison members will vote on the proposed pay and grading changes, with fire-and-rehire notices paused",
-        "published": "Mon, 05 Oct 2026 13:47:25 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2022/09/ea2fff28665eadfaa668ae272484dcce-1662650833.jpg"
-      },
-      {
-        "id": "fe5223c8c5f6cffa97d4a6e667569aaa",
-        "title": "Breakthrough in Glasgow City Council pay and grading talks with Unison",
-        "link": "https://www.glasgowtimes.co.uk/news/26608293.breakthrough-glasgow-city-council-pay-grading-talks/",
-        "description": "A breakthrough in the pay and grading talks has been made with Unison preparing to put a deal to its members in a ballot.",
-        "published": "Mon, 05 Oct 2026 14:28:09 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20106183/?type=app&htype=0"
       },
       {
         "id": "2f1711460c084dfcd2945330534858e2",
@@ -2709,14 +2557,6 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34718548.ece/ALTERNATES/s98/0_overlay-image.jpg"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-west-end-bar-owners-34718277",
-        "title": "Glasgow west end bar owners could buy council land next door to build flats",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-west-end-bar-owners-34718277",
-        "description": "Land next to Wunderbar on Dumbarton Road could be used for build to rent homes rather than as an intended beer garden.",
-        "published": "Mon, 5 Oct 2026 12:25:12 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34718266.ece/ALTERNATES/s98/0_wunderbar.png"
-      },
-      {
         "id": "5015f05e7161f80174227c942b219925",
         "title": "Rod Stewart announces ANOTHER date at OVO Hydro as part of farewell tour",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26607870.rod-stewart-announces-another-date-glasgows-ovo-hydro/",
@@ -2747,14 +2587,6 @@
         "description": "IRO Sushi to open on Glasgow's Sauchiehall Street this weekend",
         "published": "Mon, 05 Oct 2026 12:48:46 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21341033/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=531789",
-        "title": "Police investigating \u2018deliberate\u2019 fire at Glasgow city centre pub",
-        "link": "https://news.stv.tv/west-central/police-investigating-deliberate-fire-at-glasgow-city-centre-pub",
-        "description": "The Scottish Fire and Rescue Service sent nine appliances to the rear of The Maltman pub on Sunday afternoon",
-        "published": "Mon, 05 Oct 2026 11:48:14 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/d746c85bb7f289224cc708b79b14160d-1791200444-1119x720.jpeg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/review-scotlands-maternity-services-begins-34717421",
@@ -2797,36 +2629,12 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/04/08/11/56/GettyImages-2244047983.jpeg?width=1200&auto=webp&crop=3%3A2"
       },
       {
-        "id": "9267196",
-        "title": "Glasgow city centre pub fire being treated as deliberate as investigation launched",
-        "link": "https://www.glasgowworld.com/news/glasgow-city-centre-pub-fire-being-treated-as-deliberate-9267196",
-        "description": "<p>Police are treating a fire at a pub in Glasgow city centre as deliberate, with enquiries ongoing into the cause of the blaze on Sunday afternoon.</p>",
-        "published": "Mon, 05 Oct 2026 10:59:06 GMT",
-        "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOjkxNTE1MDBiLWFmNmUtNDQ0OS1iYjZkLTgwMjFhYTgxODNiZDpiZTBhZDc1Yi00Y2U0LTQxMDEtYjY4ZS02OWU4OGRlYjVlZWY=.jpg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
         "id": "08071572605b14da1af3a093f2d73064",
         "title": "Critics told not to review Scottish theatre's new Scottish musical in Scotland",
         "link": "https://www.heraldscotland.com/news/26607334.scottish-theatre-tells-critics-not-review-new-scottish-musical/",
         "description": "Theatre critics are being told to review Pitlochry Festival Theatre's new musical in London rather than the Perthshire town.",
         "published": "Mon, 05 Oct 2026 11:52:56 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21504332/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c8vgxlz2z9qdo#1",
-        "title": "Inverclyde care home faces closure over 'serious risk' to residents",
-        "link": "https://www.bbc.co.uk/news/articles/c8vgxlz2z9qdo?at_medium=RSS&at_campaign=rss",
-        "description": "Earlier inspections of Larkfield View Care Centre by the Care Inspectorate found significant concerns at the property.",
-        "published": "Mon, 05 Oct 2026 10:43:18 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8801/live/46e07240-c0a4-11f1-b72b-c3e328aa18ed.jpg"
-      },
-      {
-        "id": "e0a901301c38c05433482f90a67dd081",
-        "title": "Major update after Glasgow pub fire locks down section of busy road",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26607159.update-glasgow-pub-fire-locked-section-renfield-street/",
-        "description": "A fire which broke out at a Glasgow pub is now being treated as wilful.",
-        "published": "Mon, 05 Oct 2026 11:26:54 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21537922/?type=app&htype=0"
       },
       {
         "id": "9266949",
