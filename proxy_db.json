@@ -2173,6 +2173,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "e7fea3966f38ca404d26cc9212ec48e3",
+        "title": "Scotland's longest-running yarn festival returning for 15th year this weekend",
+        "link": "https://www.glasgowtimes.co.uk/news/26611991.glasgow-school-yarn-will-take-place-weekend/",
+        "description": "Glasgow School of Yarn celebrates 15 years at The Briggait on October 10-11, with 35 UK yarn vendors, workshops, crafts and street food in Merchant City.",
+        "published": "Tue, 06 Oct 2026 14:16:55 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21544769/?type=app&htype=0"
+      },
+      {
+        "id": "b6a1e4bba755ca02df82262b2da0cde6",
+        "title": "London rock band formed in 90s to play iconic Barrowland Ballroom",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26611967.sleeper-perform-barrowland-ballroom-glasgow/",
+        "description": "Sleeper to perform at Barrowland Ballroom in Glasgow",
+        "published": "Tue, 06 Oct 2026 14:11:57 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19032953/?type=app&htype=0"
+      },
+      {
+        "id": "93ed5c84a68f65d28c16bc30516b629d",
+        "title": "HUGE TikTok star and singer announces Glasgow gig",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26611870.tiktoks-bella-poarch-perform-swg3-glasgow/",
+        "description": "TikTok's Bella Poarch to perform at SWG3 in Glasgow",
+        "published": "Tue, 06 Oct 2026 13:53:27 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20655741/?type=app&htype=0"
+      },
+      {
         "id": "ac1c475af5abef76b47b361c336ac248",
         "title": "Popular singer-songwriter announces tour with date in Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26611818.mark-ambor-perform-oran-mor-glasgow-west-end/",
