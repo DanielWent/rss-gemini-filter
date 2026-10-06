@@ -2173,6 +2173,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "6b9bbbeda0308532a4973d87d00d948d",
+        "title": "Glowing LED favourites set to light up popular Halloween celebration once again",
+        "link": "https://www.glasgowtimes.co.uk/news/26612352.spark-led-drummers-return-paisley-halloween-festival/",
+        "description": "The Spark! LED drummers will return to the Paisley Halloween Festival for the 12th year in a row.",
+        "published": "Tue, 06 Oct 2026 15:09:31 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21545323/?type=app&htype=0"
+      },
+      {
+        "id": "89b5835930449b90059fded30ba183c5",
+        "title": "Glasgow city centre roads closed for emergency collapsed sewer repairs",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26612203.glasgow-city-centre-roads-closed-emergency-sewer-repairs/",
+        "description": "Emergency sewer repairs are being carried out on Hill Street in Glasgow city centre.",
+        "published": "Tue, 06 Oct 2026 14:47:34 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21529604/?type=app&htype=0"
+      },
+      {
         "id": "1020d9127e231af8613efd3b2cb6ed82",
         "title": "Family of Glasgow student who took own life after grade error settle legal case",
         "link": "https://www.glasgowtimes.co.uk/news/26612180.family-glasgow-university-student-took-life-settle-case/",
@@ -2213,12 +2229,28 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20655741/?type=app&htype=0"
       },
       {
+        "id": "c4ee56f0152d05a7eee6bad8377566e3",
+        "title": "Ross Greer says Zionism is racist and Israel's creation was ethnic cleansing",
+        "link": "https://www.heraldscotland.com/news/26611821.scottish-greens-co-leader-ross-greer-says-zionism-racist/",
+        "description": "Scottish Greens co-leader Ross Greer has backed key elements of the Green Party of England and Wales motion declaring Zionism racist, drawing condemnation from Conservative and Reform politicians.",
+        "published": "Tue, 06 Oct 2026 13:45:09 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19846992/?type=app&htype=0"
+      },
+      {
         "id": "ac1c475af5abef76b47b361c336ac248",
         "title": "Popular singer-songwriter announces tour with date in Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26611818.mark-ambor-perform-oran-mor-glasgow-west-end/",
         "description": "Mark Ambor to perform at Oran Mor in Glasgow West End",
         "published": "Tue, 06 Oct 2026 13:44:04 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21086795/?type=app&htype=0"
+      },
+      {
+        "id": "d18b6e81f726b9805404abd696734349",
+        "title": "Record 50,747 A&E patients waited more than four hours in August",
+        "link": "https://www.heraldscotland.com/news/26611660.record-numbers-scottish-e-patients-miss-waiting-target-august/",
+        "description": "Scotland\u2019s A&amp;E waits hit a record in August, with 50,747 patients missing the four-hour target and 17,717 waiting over eight hours amid NHS pressure.",
+        "published": "Tue, 06 Oct 2026 13:21:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/12978788/?type=app&htype=0"
       },
       {
         "id": "00515ad426b7070c4dedb9abc257fcc5",
@@ -2235,6 +2267,14 @@
         "description": "The commercial real estate firm\u2019s planning team, which is based in the Scottish capital as well as in London, Bristol, Manchester and Leeds, is set to be axed.",
         "published": "Tue, 06 Oct 2026 12:51:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21544051/?type=app&htype=0"
+      },
+      {
+        "id": "08d96d8b0ba1ccc93391694f1c116a78",
+        "title": "Mull Historical Society to mark 25th anniversary of debut album with one-off show",
+        "link": "https://www.heraldscotland.com/news/26611480.mull-historical-society-mark-25-anniversary-loss/",
+        "description": "A special anniversary show will celebrate 25 years since the release of Loss.",
+        "published": "Tue, 06 Oct 2026 12:40:43 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21544041/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=532016",
@@ -2931,46 +2971,6 @@
         "description": "A new art installation that aims to make the mysteries of quantum physics visible to the naked eye is set to open in Glasgow.",
         "published": "Mon, 05 Oct 2026 10:08:23 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21537137/?type=app&htype=0"
-      },
-      {
-        "id": "a877c0d7cd87e35784a2d5c707d8afcc",
-        "title": "Huge folk duo announce UK and Ireland tour with date in Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26606604.first-aid-kit-perform-o2-academy-glasgow-southside/",
-        "description": "Swedish duo First Aid Kit to perform at O2 Academy in Glasgow's Southside.",
-        "published": "Mon, 05 Oct 2026 10:06:24 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21537192/?type=app&htype=0"
-      },
-      {
-        "id": "a45a76e496d45c4f07e86d2a0239168b",
-        "title": "First look at Glasgow actress Sharon Rooney's gripping new TV thriller",
-        "link": "https://www.glasgowtimes.co.uk/entertainment/tv_radio/26606331.first-look-glasgow-actress-sharon-rooneys-gripping-new-tv-thriller/",
-        "description": "The first look at a new TV thriller starring Glasgow actress Sharon Rooney has been unveiled.",
-        "published": "Mon, 05 Oct 2026 09:19:05 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21536889/?type=app&htype=0"
-      },
-      {
-        "id": "9266473",
-        "title": "Former Everton coach gutted for ex-Toffees star after high Rangers hopes banished by long-term injury woe",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/former-everton-coach-gutted-ex-toffees-star-high-rangers-hopes-banished-9266473",
-        "description": "<p>Rangers have been dealt an injury to a former Everton man.</p>",
-        "published": "Mon, 05 Oct 2026 08:02:16 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/08/23/22/43/GettyImages-2261327949.jpeg?width=1200&auto=webp&trim=206%2C0%2C207%2C0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=531752",
-        "title": "Inquiry into death of prisoner who died while in custody at Glasgow prison",
-        "link": "https://news.stv.tv/west-central/inquiry-into-death-of-prisoner-who-died-while-in-custody-at-glasgow-prison",
-        "description": "Richard Stevenson, 69, died on  May 16, 2023, while serving a sentence at HMP Barlinnie.",
-        "published": "Mon, 05 Oct 2026 07:58:58 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2021/10/63bf41f392fa83b29059a2aa32a23123-41.jpg"
-      },
-      {
-        "id": "b1f0b0a929fc5f1b7f36ffc235c878d4",
-        "title": "Thousands of capital's firms fail to pay full business rates, council confirms",
-        "link": "https://www.heraldscotland.com/news/26556726.revealed-3-000-edinburgh-businesses-non-domestic-rates-arrears/",
-        "description": "According to the council\u2019s publicly-available list of \u2018primary liable parties\u2019, 13,747 firms were responsible for paying NDR as of July 2026.",
-        "published": "Wed, 16 Sep 2026 16:59:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21434150/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
