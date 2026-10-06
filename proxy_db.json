@@ -2173,6 +2173,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "ac1c475af5abef76b47b361c336ac248",
+        "title": "Popular singer-songwriter announces tour with date in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26611818.mark-ambor-perform-oran-mor-glasgow-west-end/",
+        "description": "Mark Ambor to perform at Oran Mor in Glasgow West End",
+        "published": "Tue, 06 Oct 2026 13:44:04 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21086795/?type=app&htype=0"
+      },
+      {
+        "id": "00515ad426b7070c4dedb9abc257fcc5",
+        "title": "Long-established coffee shop in Glasgow's Southside hits market",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26611704.long-established-coffee-shop-glasgows-southside-hits-market/",
+        "description": "A long-established coffee shop in the Southside of Glasgow has hit the market.",
+        "published": "Tue, 06 Oct 2026 13:20:36 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17947561/?type=app&htype=0"
+      },
+      {
         "id": "f3b86bf9d3c59e2b6b3f5e128dcf5e88",
         "title": "Property giant to close planning department with job loss threat in Edinburgh office",
         "link": "https://www.heraldscotland.com/news/26611441.property-giant-jll-close-planning-department-25-roles-risk/",
