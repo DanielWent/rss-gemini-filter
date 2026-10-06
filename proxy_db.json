@@ -1674,6 +1674,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "88a491827da0fcb7b8a12502cde93380",
+        "title": "Major new telecoms mast proposed at key traffic hotspot",
+        "link": "https://www.glasgowtimes.co.uk/news/26610483.east-dunbartonshire-council-receives-plans-20m-mast-bearsden/",
+        "description": "East Dunbartonshire Council is considering a planning application for a 20m telecoms mast with six antennas at Canniesburn Toll roundabout, Bearsden.",
+        "published": "Tue, 06 Oct 2026 10:26:26 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21542837/?type=app&htype=0"
+      },
+      {
         "id": "18d1545ab015f7774e48ec2082aa4a19",
         "title": "'It's a bad idea'- MSP calls for halt to controversial town centre parking charges",
         "link": "https://www.glasgowtimes.co.uk/news/26608633.msp-urges-council-halt-kirkintilloch-bearsden-parking-charges/",
@@ -2141,6 +2149,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "f85902399fe778f7f97f2b5f50614c64",
+        "title": "NHSGGC health and wellbeing flip cards being rolled out across Glasgow libraries",
+        "link": "https://www.glasgowtimes.co.uk/news/26611011.health-advice-cards-launched-greater-glasgow-libraries/",
+        "description": "NHSGGC has teamed up with councils across the region to introduce health and wellbeing flip cards at library reception desks and information areas.",
+        "published": "Tue, 06 Oct 2026 11:37:02 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21543458/?type=app&htype=0"
+      },
+      {
+        "id": "f7d15cf071bb6a995ab22a2ce8e3e110",
+        "title": "Edinburgh declared one of Europe\u2019s friendliest cities by luxury travel magazine",
+        "link": "https://www.heraldscotland.com/news/26610877.edinburgh-named-one-europes-friendliest-cities/",
+        "description": "A number of bustling tourist destinations were ranked below Edinburgh, including Rome, Paris, Granada and Vienna.",
+        "published": "Tue, 06 Oct 2026 11:32:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/16567901/?type=app&htype=0"
+      },
+      {
+        "id": "9df7738dbc235b80e020d0a45b518e72",
+        "title": "Government challenged over definition of \u2018green\u2019 data centres amid 'mixed messages'",
+        "link": "https://www.heraldscotland.com/news/26610204.scottish-government-accused-mixed-messages-green-data-centres/",
+        "description": "Scottish Greens accuse ministers of mixed messages over Edinburgh\u2019s \u2018green\u2019 data centre, amid calls for clear environmental standards for AI developments.",
+        "published": "Tue, 06 Oct 2026 11:24:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21483934/?type=app&htype=0"
+      },
+      {
+        "id": "037e7efa5b3a0fb831dd74db4ac2aaf4",
+        "title": "Housing developer unveils plans for more than 100 homes near Falkirk",
+        "link": "https://www.heraldscotland.com/news/26610906.cala-homes-west-plans-submitted-129-new-homes-larbert-scheme/",
+        "description": "Plans have been unveiled for more than 100 new homes near Falkirk.",
+        "published": "Tue, 06 Oct 2026 11:23:45 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21543306/?type=app&htype=0"
+      },
+      {
         "id": "29eb87dbd22de02f5ed0fb70f1807c91",
         "title": "Monster who 'brutally attacked' and killed man unmasked",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26610787.monster-brutally-attacked-killed-man-unmasked/",
@@ -2165,6 +2205,14 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/14a36fc02c93d3c28a60fe8187e4ef8c-1791280189-1280x675.jpeg"
       },
       {
+        "id": "6221f2f924945ca93cfb702e78d1ac67",
+        "title": "Scottish landlords face new damp and mould rules with strict repair deadlines",
+        "link": "https://www.heraldscotland.com/news/26610670.scotland-rules-require-landlords-tackle-damp-mould/",
+        "description": "Scotland\u2019s 2026 damp and mould regulations require social and private landlords to investigate complaints within 10 working days and act on repairs to comply.",
+        "published": "Tue, 06 Oct 2026 10:53:13 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21542964/?type=app&htype=0"
+      },
+      {
         "id": "b649b76211431f3e5a60629fa85a6218",
         "title": "Beloved business set to close after serving the community for 117 years",
         "link": "https://www.glasgowtimes.co.uk/news/26610599.beloved-paisley-business-set-close-117-years/",
@@ -2187,6 +2235,14 @@
         "description": "University of Glasgow staff vote on strike action until November 10 amid UCU concerns over job cuts, voluntary severance and possible compulsory redundancies.",
         "published": "Tue, 06 Oct 2026 10:31:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/19240345/?type=app&htype=0"
+      },
+      {
+        "id": "88a491827da0fcb7b8a12502cde93380",
+        "title": "Major new telecoms mast proposed at key traffic hotspot",
+        "link": "https://www.glasgowtimes.co.uk/news/26610483.east-dunbartonshire-council-receives-plans-20m-mast-bearsden/",
+        "description": "East Dunbartonshire Council is considering a planning application for a 20m telecoms mast with six antennas at Canniesburn Toll roundabout, Bearsden.",
+        "published": "Tue, 06 Oct 2026 10:26:26 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21542837/?type=app&htype=0"
       },
       {
         "id": "9269284",
