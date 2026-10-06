@@ -2133,6 +2133,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9269284",
+        "title": "Historic Glasgow pub dating back to 1798 sold for undisclosed sum",
+        "link": "https://www.glasgowworld.com/news/historic-glasgow-pub-brechins-bar-sold-for-u-9269284",
+        "description": "<p>Dating back to 1978, Brechins Bar is one of the oldest licensed premises in the Govan area of Glasgow</p>",
+        "published": "Tue, 06 Oct 2026 09:19:25 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/06/9/36/MixCollage-06-Oct-2026-10-14-AM-6190.jpg?width=1200&auto=webp&trim=0%2C174%2C0%2C175"
+      },
+      {
+        "id": "0261db027cbfb1f818f5a512666eeabc",
+        "title": "Police Scotland announce measures to tackle violent crime and anti-social behaviour",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26610236.police-outline-crime-crackdown-rutherglen-cambuslang/",
+        "description": "Police Scotland outlines action on violent crime, anti-social behaviour, drugs and road safety in Rutherglen and Cambuslang after September 2 update.",
+        "published": "Tue, 06 Oct 2026 09:54:07 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19694046/?type=app&htype=49"
+      },
+      {
         "id": "0e21e0d97b3615353e731d7e3c545c32",
         "title": "Former Yoker Primary site set for 33-home affordable housing scheme",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26610113.former-yoker-primary-site-set-33-home-housing-scheme/",
