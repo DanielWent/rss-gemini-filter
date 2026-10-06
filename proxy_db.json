@@ -1001,6 +1001,14 @@
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
       {
+        "id": "https://the5krunner.com/?p=135596",
+        "title": "Stages SB200 vs Wahoo KICKR Bike Pro: which smart bike to buy?",
+        "link": "https://the5krunner.com/2026/10/06/stages-sb200-vs-wahoo-kickr-bike-pro/",
+        "description": "<p><img alt=\"Stages SB200 vs Wahoo KICKR Bike Pro: which smart bike to buy?\" class=\"attachment-large size-large\" height=\"368\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/Stages-SB200-Indoor-Smart-Bike-hero-1.png/w=551,h=368\" style=\"height: auto;\" width=\"551\" /></p>\n<p>Stages SB200 costs \u00a31,300 / $1,600 less than Wahoo KICKR Bike Pro. The Wahoo tilts to match gradients and has ANT+ and a wired option. The Stages fits more riders, sways under the rider, has a display and needs no subscription.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/06/stages-sb200-vs-wahoo-kickr-bike-pro/\">Stages SB200 vs Wahoo KICKR Bike Pro: which smart bike to buy?</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Tue, 06 Oct 2026 14:33:00 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/Stages-SB200-Indoor-Smart-Bike-hero-1.png/w=551,h=368"
+      },
+      {
         "id": "https://the5krunner.com/?p=135493",
         "title": "Wahoo Prime Day Deals: ELEMNT ACE Up to 39% Off, KICKR CORE 2 25% Off",
         "link": "https://the5krunner.com/2026/10/06/wahoo-prime-day-deals-october-2026/",
@@ -1690,6 +1698,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "48647ec4f08dd9c58c8094b2693b6a6b",
+        "title": "Council seeks public feedback on major active travel strategy",
+        "link": "https://www.glasgowtimes.co.uk/news/26612269.say-east-dunbartonshires-future-active-travel-strategy/",
+        "description": "East Dunbartonshire Council launches consultation on 10-year Active Travel Strategy 2, promoting walking, wheeling and cycling. Closes November 15, 2026.",
+        "published": "Tue, 06 Oct 2026 14:57:42 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21545292/?type=app&htype=0"
+      },
+      {
         "id": "0e3e6dae44fea6512e3f0a87ffae6875",
         "title": "Award-winning estate agency founded after home sale nightmare scoops top honour",
         "link": "https://www.glasgowtimes.co.uk/news/26611343.east-dunbartonshire-firm-named-scottish-small-business-year/",
@@ -2173,12 +2189,52 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cq80zlded84go#0",
+        "title": "Family of student who took own life after grading error reach settlement with university",
+        "link": "https://www.bbc.co.uk/news/articles/cq80zlded84go?at_medium=RSS&at_campaign=rss",
+        "description": "Ethan Brown, 23, should have been awarded a 2:1 degree by Glasgow University but was incorrectly told he had not passed his course.",
+        "published": "Tue, 06 Oct 2026 14:49:52 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b40/live/d1b56730-9e0f-11f0-928c-71dbb8619e94.jpg"
+      },
+      {
+        "id": "d5338d8dba3e9d6ed3ab833269b36452",
+        "title": "Hunt for trio captured on CCTV after man found seriously injured in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26612545.images-trio-cctv-man-found-seriously-injured-glasgow/",
+        "description": "Officers investigating the discovery of a man found with serious injuries on a street in the north of Glasgow have released CCTV images of three people",
+        "published": "Tue, 06 Oct 2026 15:38:10 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21545731/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/arts-culture-news/buffy-vampire-slayer-festival-near-34724008",
+        "title": "Buffy the Vampire Slayer festival near Glasgow set to bring The Bronze to adoring fans",
+        "link": "https://www.glasgowlive.co.uk/whats-on/arts-culture-news/buffy-vampire-slayer-festival-near-34724008",
+        "description": "The first-ever Buffyfest will offer food, craft stalls, cabaret performances and a chance to dress up as your favourite 90s cult TV stars.",
+        "published": "Tue, 6 Oct 2026 14:28:56 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34724022.ece/ALTERNATES/s98/0_JS400702218.jpg"
+      },
+      {
         "id": "6b9bbbeda0308532a4973d87d00d948d",
         "title": "Glowing LED favourites set to light up popular Halloween celebration once again",
         "link": "https://www.glasgowtimes.co.uk/news/26612352.spark-led-drummers-return-paisley-halloween-festival/",
         "description": "The Spark! LED drummers will return to the Paisley Halloween Festival for the 12th year in a row.",
         "published": "Tue, 06 Oct 2026 15:09:31 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21545323/?type=app&htype=0"
+      },
+      {
+        "id": "ff5a469016a5121a515e378b30da360d",
+        "title": "End of an era as former staff reflect on 33 years of Glasgow TGI Fridays",
+        "link": "https://www.glasgowtimes.co.uk/news/26612342.former-tgi-fridays-staff-share-memories-glasgow-restaurant-close/",
+        "description": "TGI Fridays\u2019 Glasgow Buchanan Street restaurant will close on October 19 after 33 years, as former staff and customers share memories of the city-centre venue.",
+        "published": "Tue, 06 Oct 2026 15:07:45 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21132657/?type=app&htype=0"
+      },
+      {
+        "id": "48647ec4f08dd9c58c8094b2693b6a6b",
+        "title": "Council seeks public feedback on major active travel strategy",
+        "link": "https://www.glasgowtimes.co.uk/news/26612269.say-east-dunbartonshires-future-active-travel-strategy/",
+        "description": "East Dunbartonshire Council launches consultation on 10-year Active Travel Strategy 2, promoting walking, wheeling and cycling. Closes November 15, 2026.",
+        "published": "Tue, 06 Oct 2026 14:57:42 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21545292/?type=app&htype=0"
       },
       {
         "id": "89b5835930449b90059fded30ba183c5",
@@ -2299,14 +2355,6 @@
         "description": "Mearns Castle High School in East Renfrewshire is believed to be the first in the UK to appoint a dedicated principal teacher of artificial intelligence (AI) literacy.",
         "published": "Tue, 06 Oct 2026 12:14:23 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/11834858/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c6kg5v7zk482o#0",
-        "title": "Celtic Connections reveals 2027 festival programme",
-        "link": "https://www.bbc.co.uk/news/articles/c6kg5v7zk482o?at_medium=RSS&at_campaign=rss",
-        "description": "The 34th edition of the folk, roots and world music event will run from 14 January until 31 January.",
-        "published": "Tue, 06 Oct 2026 11:12:42 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c577/live/e201fb20-c16e-11f1-a003-8be783290413.jpg"
       },
       {
         "id": "9269319",
@@ -2939,38 +2987,6 @@
         "description": "<p>Some Celtic fans and the board have had a long-running battle.</p>",
         "published": "Mon, 05 Oct 2026 11:01:37 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/04/08/11/56/GettyImages-2244047983.jpeg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "08071572605b14da1af3a093f2d73064",
-        "title": "Critics told not to review Scottish theatre's new Scottish musical in Scotland",
-        "link": "https://www.heraldscotland.com/news/26607334.scottish-theatre-tells-critics-not-review-new-scottish-musical/",
-        "description": "Theatre critics are being told to review Pitlochry Festival Theatre's new musical in London rather than the Perthshire town.",
-        "published": "Mon, 05 Oct 2026 11:52:56 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21504332/?type=app&htype=0"
-      },
-      {
-        "id": "9266949",
-        "title": "Great Scottish Run 2026: 63 amazing pictures from the Great Scottish Run as thousands take part in race",
-        "link": "https://www.glasgowworld.com/news/great-scottish-run-2026-thousands-take-part-in-race-9266949",
-        "description": "<p>Thousands of runners took to the streets of Glasgow for the 2026 Great Scottish Run</p>",
-        "published": "Mon, 05 Oct 2026 10:07:56 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/05/9/41/a26d3159-4f96-4fe0-b7f5-7bf5157e8bf9-fa7de4bf.jpeg?width=1200&auto=webp&trim=1388%2C0%2C1388%2C0"
-      },
-      {
-        "id": "edef40d80624a8c8fca72ff15df61b0e",
-        "title": "Mum says fireworks bring 'hours of distress' for autistic daughter",
-        "link": "https://www.glasgowtimes.co.uk/news/26606781.east-dunbartonshire-mum-launches-petition-fireworks-concerns/",
-        "description": "East Dunbartonshire mother Laura Miller petitions for Firework Control Zones to protect autistic children, vulnerable residents, animals and others from distress.",
-        "published": "Mon, 05 Oct 2026 10:30:34 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21537362/?type=app&htype=105"
-      },
-      {
-        "id": "91a6e667c9174743c577953dcd7a744f",
-        "title": "Art exhibition marking 100th anniversary of Schr\u00f6dinger equation coming to Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/26606623.quantum-physics-art-installation-open-glasgow/",
-        "description": "A new art installation that aims to make the mysteries of quantum physics visible to the naked eye is set to open in Glasgow.",
-        "published": "Mon, 05 Oct 2026 10:08:23 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21537137/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
