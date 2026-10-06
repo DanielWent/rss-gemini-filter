@@ -2229,6 +2229,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "022e385996c2affc09b27d12ea89166e",
+        "title": "Healthcare worker jailed for sexual assaulting vulnerable teen in Glasgow hospital",
+        "link": "https://www.glasgowtimes.co.uk/news/26613465.hospital-worker-jailed-sexual-assaulting-teen-glasgow/",
+        "description": "A HEALTHCARE support worker claimed he was playing Grand Theft Auto after sexually assaulting a vulnerable woman has been jailed for 20 months",
+        "published": "Tue, 06 Oct 2026 20:11:54 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16487088/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/cops-release-cctv-images-man-34726369",
+        "title": "Cops release CCTV images of man as probe continues into deliberate Glasgow fire",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/cops-release-cctv-images-man-34726369",
+        "description": "Emergency services were called to the incident on Nelson Street earlier this year.",
+        "published": "Tue, 6 Oct 2026 19:03:37 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34726370.ece/ALTERNATES/s98/0_7553868f-eeae-430e-858b-9c6d26847c70jfif.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=532139",
         "title": "Plans approved for 324 homes at former army barracks",
         "link": "https://news.stv.tv/west-central/plans-approved-for-324-homes-at-former-army-barracks",
@@ -2251,14 +2267,6 @@
         "description": "Stuart McMillan, the Inverclyde MSP and piper, has invoked the British state's crackdown after Culloden in a letter demanding the BBC reverse plans to drop its World Pipe Band Championships coverage. The corporation insists no final decision has been taken.",
         "published": "Tue, 06 Oct 2026 19:06:51 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/19801664/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=532006",
-        "title": "\u2018I\u2019m constantly wheezy and my clothes stink\u2019: Awaab\u2019s Law targets mould misery",
-        "link": "https://news.stv.tv/west-central/im-constantly-wheezy-and-my-clothes-stink-awaabs-law-targets-mould-misery",
-        "description": "The introduction of Awaab's Law shines a spotlight on the impact of damp and mould in rented homes.",
-        "published": "Tue, 06 Oct 2026 17:21:02 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/21f1ad217d0b29ac20c8a8123ceaa899-1791293145-1280x720.jpeg"
       },
       {
         "id": "b964ffeb26628ec57f8d8f817db07f76",
@@ -2331,6 +2339,14 @@
         "description": "Pitlochry Festival Theatre's new musical Ceilidh is described by the venue as 'part night out, part love story, part cultural phenomenon'.",
         "published": "Tue, 06 Oct 2026 16:19:55 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21504237/?type=app&htype=0"
+      },
+      {
+        "id": "dd1d3508bed89992ca5c0915d135c932",
+        "title": "Women's groups to rally on Buchanan steps as sex crimes 'rising across Glasgow'",
+        "link": "https://www.glasgowtimes.co.uk/news/26612832.emergency-rally-glasgow-sex-crimes-rise-city/",
+        "description": "Women's organisations are set to rally on the city's Buchanan Street steps amid a \"national emergency\" of rising sex crimes across Glasgow",
+        "published": "Tue, 06 Oct 2026 16:19:44 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17330521/?type=app&htype=0"
       },
       {
         "id": "c87c1630dc52e3061aae9847c6d26933",
@@ -2725,14 +2741,6 @@
         "image_url": "https://runabc.co.uk/images/2026/10/edinburgh-morun-2026-099307.jpg"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-family-washing-buckets-after-34719665",
-        "title": "Glasgow family 'washing in buckets' after months without heating or hot water",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-family-washing-buckets-after-34719665",
-        "description": "Imogen Turner pays \u00a31,350 a month for the Govanhill home she shares with two young daughters.",
-        "published": "Tue, 6 Oct 2026 06:50:55 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34720086.ece/ALTERNATES/s98/0_WhatsApp-Image-2026-10-02-at-144258jpeg.jpg"
-      },
-      {
         "id": "c4c6c57c9e8794ab07b37a3020e3bd24",
         "title": "Scots rockers Twin Atlantic cancel UK tour in shock announcement",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26609728.scots-rockers-twin-atlantic-cancel-uk-tour-shock-announcement/",
@@ -2971,14 +2979,6 @@
         "description": "Scottish Labour leader Michael Marra urges John Swinney to publish the delayed energy strategy, with plans for North Sea oil and gas, renewables and nuclear.",
         "published": "Mon, 05 Oct 2026 15:55:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21504266/?type=app&htype=0"
-      },
-      {
-        "id": "cbf89724ac0f345dbf921b0276b1bbdd",
-        "title": "Swinney stands by claim Scots will 'lose our pensions' because of triple lock change",
-        "link": "https://www.heraldscotland.com/news/26608777.swinney-denies-misleading-msps-triple-lock-change/",
-        "description": "John Swinney has stood by his claim that Scots face their losing pension after Labour scrapped the earnings element of the triple lock.",
-        "published": "Mon, 05 Oct 2026 15:41:47 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21540362/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-walk-gp-clinic-now-34719372",
