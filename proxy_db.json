@@ -1794,6 +1794,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "280872452aead7256cd7f1d07006fbbd",
+        "title": "The Archdiocese of Glasgow reveals plans to close 24 churches in major restructure",
+        "link": "https://www.glasgowtimes.co.uk/news/26617091.archdiocese-glasgow-release-plans-24-churches/",
+        "description": "The Archdiocese of Glasgow has released plans to cut half of their churches in a major restructure prompted by \"two few people and two few priests\"",
+        "published": "Wed, 07 Oct 2026 18:17:40 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19357200/?type=app&htype=0"
+      },
+      {
         "id": "59e6df686d1bec04b48b172305427de2",
         "title": "Four top Scottish chefs unite for special whisky-inspired dinner in Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26616146.top-scottish-chefs-unite-glasgow-whisky-charity-dinner/",
