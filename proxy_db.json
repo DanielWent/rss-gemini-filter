@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cmvgx6lnpdwdo#4",
+        "title": "BBC's Nicky Campbell tells court teacher who attacked him 'completely lost it'",
+        "link": "https://www.bbc.co.uk/news/articles/cmvgx6lnpdwdo?at_medium=RSS&at_campaign=rss",
+        "description": "The presenter is giving evidence to a court examining accusations against two former Edinburgh Academy teachers who are unfit to stand trial.",
+        "published": "Wed, 07 Oct 2026 17:54:11 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a8/live/e59929c0-c26d-11f1-b278-615cdfb74f16.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o#1",
         "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
         "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
         "published": "Sat, 22 Aug 2026 08:40:49 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92b/live/3baa1370-9dfb-11f1-898b-91bf436c749f.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o#2",
-        "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-        "link": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
-        "description": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
-        "published": "Sat, 22 Aug 2026 07:53:57 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4ac/live/054e6c20-9dd0-11f1-b109-879e35c24276.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
