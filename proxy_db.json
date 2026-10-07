@@ -2333,6 +2333,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17169233/?type=app&htype=0"
       },
       {
+        "id": "7fcc91f67e9965af294e8fd62d8d6485",
+        "title": "Inside the top-secret operation to remove anti-migrant flags under cover of darkness",
+        "link": "https://www.heraldscotland.com/politics/westminster/26616380.thousands-spent-removing-anti-migrant-flags-cover-darkness/",
+        "description": "Documents obtained via Freedom of Information (FOI) legislation reveal that multiple contractors declined to take down the Saltires amid safety concerns.",
+        "published": "Wed, 07 Oct 2026 16:24:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20004361/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/best-glasgow-halloween-events-epic-34729797",
         "title": "The best Glasgow Halloween events for epic scares and spooky fun",
         "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/best-glasgow-halloween-events-epic-34729797",
@@ -2349,6 +2357,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21551280/?type=app&htype=0"
       },
       {
+        "id": "68dc8590f2b77b84c1d8e86cc2f12f71",
+        "title": "Controversial Loch Ness hydro project to face no objection from council",
+        "link": "https://www.heraldscotland.com/news/26616567.loch-ness-hydro-project-face-no-objection-council/",
+        "description": "A major hydro scheme at Loch Ness will face no objection from Highland Council.",
+        "published": "Wed, 07 Oct 2026 16:09:24 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20511452/?type=app&htype=0"
+      },
+      {
         "id": "3ae519fa1d3ded1d55aed39ba21cfad3",
         "title": "Councillor calls for vape shop crack down amid city centre concerns",
         "link": "https://www.glasgowtimes.co.uk/news/26616566.new-glasgow-vape-shop-plan-beside-mackintosh-landmark-sparks-concern/",
@@ -2363,6 +2379,14 @@
         "description": "Glasgow-based Thenue Housing Association is taking action to tackle poverty by supporting families in the heart of the community.",
         "published": "Wed, 07 Oct 2026 16:06:34 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21551154/?type=app&htype=0"
+      },
+      {
+        "id": "7d37209a94ac8e28b7a62abfa4511c42",
+        "title": "Government called in as pizzeria fights council order, argues its pizza is sold cold",
+        "link": "https://www.heraldscotland.com/news/26616393.government-called-sears-pizza-appeals-glasgow-council-ruling/",
+        "description": "Partick pizzeria Sear\u2019s Pizza appeals Glasgow council order, arguing cold pizza slices mean it is not a hot food takeaway. Scottish ruling due November 13.",
+        "published": "Wed, 07 Oct 2026 15:59:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21550934/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/falling-masonry-reported-paisley-town-34731130",
@@ -2419,6 +2443,14 @@
         "description": "Students have taken to the streets outside Glasgow University Library for pro-Palestine marches on the third anniversary of Hamas\u2019s October 7 attacks",
         "published": "Wed, 07 Oct 2026 15:19:36 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21550754/?type=app&htype=0"
+      },
+      {
+        "id": "9fc705ac39df8a0d4de822d7e3262c5c",
+        "title": "Scottish coach holiday operator ceases trading after 13 years",
+        "link": "https://www.heraldscotland.com/news/26616185.glasgow-coach-holiday-firm-ceases-trading-13-years/",
+        "description": "A Scottish coach holiday firm has ceased trading and entered liquidation after 13 years of operation.",
+        "published": "Wed, 07 Oct 2026 15:16:28 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21550987/?type=app&htype=0"
       },
       {
         "id": "7825f6c877b9ad419621d40ddd421766",
@@ -2539,14 +2571,6 @@
         "description": "A former Paisley priest who committed \"horrendous sexual crimes\" on two young boys has died in prison.",
         "published": "Wed, 07 Oct 2026 13:20:36 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19953527/?type=app&htype=0"
-      },
-      {
-        "id": "f6c7d7ef57d21a2e01017bfdfef71a72",
-        "title": "Airline marks milestone with eight million passengers through Glasgow Airport",
-        "link": "https://www.heraldscotland.com/news/26615471.ryanair-carries-eight-million-passengers-glasgow/",
-        "description": "It's been 12 years since the airline started serving the people of Scotland's biggest city",
-        "published": "Wed, 07 Oct 2026 13:11:57 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/14275048/?type=app&htype=0"
       },
       {
         "id": "e816fec581375c37a4bd7d5d844880e6",
@@ -3075,30 +3099,6 @@
         "description": "Emergency sewer repairs are being carried out on Hill Street in Glasgow city centre.",
         "published": "Tue, 06 Oct 2026 14:47:34 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21529604/?type=app&htype=0"
-      },
-      {
-        "id": "015015a46307b3362813f4d5b58bf74b",
-        "title": "Beloved Irish band to headline Glasgow music festival as line-up revealed",
-        "link": "https://www.glasgowtimes.co.uk/news/26612032.celtic-connections-line-up-reveals-saw-doctors-glasgow-gig/",
-        "description": "The Saw Doctors headline Celtic Connections 2027 in Glasgow, running January 14-31, with world music shows across 25 venues. Tickets on sale October 8.",
-        "published": "Tue, 06 Oct 2026 14:23:23 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21544902/?type=app&htype=0"
-      },
-      {
-        "id": "e7fea3966f38ca404d26cc9212ec48e3",
-        "title": "Scotland's longest-running yarn festival returning for 15th year this weekend",
-        "link": "https://www.glasgowtimes.co.uk/news/26611991.glasgow-school-yarn-will-take-place-weekend/",
-        "description": "Glasgow School of Yarn celebrates 15 years at The Briggait on October 10-11, with 35 UK yarn vendors, workshops, crafts and street food in Merchant City.",
-        "published": "Tue, 06 Oct 2026 14:16:55 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21544769/?type=app&htype=0"
-      },
-      {
-        "id": "b6a1e4bba755ca02df82262b2da0cde6",
-        "title": "London rock band formed in 90s to play iconic Barrowland Ballroom",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26611967.sleeper-perform-barrowland-ballroom-glasgow/",
-        "description": "Sleeper to perform at Barrowland Ballroom in Glasgow",
-        "published": "Tue, 06 Oct 2026 14:11:57 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19032953/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
