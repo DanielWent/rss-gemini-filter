@@ -1770,6 +1770,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "c4dbc8bf14a22723a24ddd8387b8c3d4",
+        "title": "East Dunbartonshire childcare providers to receive 5.2% rate increase",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26614162.east-dunbartonshire-councillors-approve-childcare-rate-rise/",
+        "description": "East Dunbartonshire councillors approve a 5.2% rise in funded childcare rates, with \u00a3243,000 Scottish Government funding against \u00a3344,000 costs.",
+        "published": "Wed, 07 Oct 2026 09:56:38 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21114666/?type=app&htype=0"
+      },
+      {
         "id": "48647ec4f08dd9c58c8094b2693b6a6b",
         "title": "Council seeks public feedback on major active travel strategy",
         "link": "https://www.glasgowtimes.co.uk/news/26612269.say-east-dunbartonshires-future-active-travel-strategy/",
@@ -2261,6 +2269,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/exact-time-glasgow-area-hear-34727557",
+        "title": "Exact time Glasgow area to hear loud warning sirens this week and the reason why",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/exact-time-glasgow-area-hear-34727557",
+        "description": "It will last for a maximum duration of one hour.",
+        "published": "Wed, 7 Oct 2026 09:02:01 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34727609.ece/ALTERNATES/s98/0_Screenshot-2026-10-07-095825.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/concerns-over-duke-wellington-cones-34727568",
+        "title": "Concerns over Duke of Wellington cones as Glasgow councillor warns 'it could cause serious injury'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/concerns-over-duke-wellington-cones-34727568",
+        "description": "The statue is well known for a quirky Glasgow tradition involving traffic cones, believed to date back to the 1980s.",
+        "published": "Wed, 7 Oct 2026 08:56:40 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34604918.ece/ALTERNATES/s98/0_IMG_6721JPG.jpg"
+      },
+      {
+        "id": "c4dbc8bf14a22723a24ddd8387b8c3d4",
+        "title": "East Dunbartonshire childcare providers to receive 5.2% rate increase",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26614162.east-dunbartonshire-councillors-approve-childcare-rate-rise/",
+        "description": "East Dunbartonshire councillors approve a 5.2% rise in funded childcare rates, with \u00a3243,000 Scottish Government funding against \u00a3344,000 costs.",
+        "published": "Wed, 07 Oct 2026 09:56:38 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21114666/?type=app&htype=0"
+      },
+      {
         "id": "ffd976327de7200126fe8d940fbda7c2",
         "title": "Easterhouse youth centre revamp project includes new play areas and cycle track",
         "link": "https://www.glasgowtimes.co.uk/news/26614059.easterhouse-youth-centre-park-revamp-plans-submitted/",
@@ -2389,14 +2421,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21543787/?type=app&htype=0"
       },
       {
-        "id": "3a932a647c37a4dd3c3d2f3ff66d3d76",
-        "title": "Families face loss of 'vital' telephone support service amid funding crisis",
-        "link": "https://www.heraldscotland.com/news/26612258.scotlands-sleep-support-line-close-amid-funding-crisis/",
-        "description": "Sleep Action will close Scotland\u2019s national Sleep Support Line in March 2027 unless new funding is found, affecting 700 families each year.",
-        "published": "Wed, 07 Oct 2026 00:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21545252/?type=app&htype=0"
-      },
-      {
         "id": "3d1abf6440e53cdf2e0f4d9914cbcf93",
         "title": "Edinburgh claimed as birthplace of the first 'talkie' feature film ahead of New York",
         "link": "https://www.heraldscotland.com/news/26613374.edinburgh-claimed-birthplace-first-talkie-feature-film/",
@@ -2507,22 +2531,6 @@
         "description": "Scotmid has rebounded from disruption linked to the Co-op cyber attack, but chief executive Karen Scott is warning of rising costs and continued uncertainty",
         "published": "Tue, 06 Oct 2026 17:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21544647/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/easterhouse-youth-centre-set-revamp-34725526",
-        "title": "Easterhouse youth centre set for revamp with new 'destination' park to be created",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/easterhouse-youth-centre-set-revamp-34725526",
-        "description": "Plans have been submitted to Glasgow City Council which could see the Pavillion transformed.",
-        "published": "Tue, 6 Oct 2026 15:52:56 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34725528.ece/ALTERNATES/s98/0_easterhousepark.png"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-police-release-cctv-images-34725512",
-        "title": "Glasgow police release CCTV images of man after robbery in city centre",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-police-release-cctv-images-34725512",
-        "description": "Anyone who recognises the man has been urged to contact Police Scotland.",
-        "published": "Tue, 6 Oct 2026 15:38:44 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34725552.ece/ALTERNATES/s98/838640013_1806125650403424_4289187354219474795_njfif.jpg"
       },
       {
         "id": "1d34649c4d9968cb12279b104be57f8b",
