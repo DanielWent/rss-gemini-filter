@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c6jdv4vp3rl3o#4",
+        "title": "Puffin island on cusp of closure as it runs out of water",
+        "link": "https://www.bbc.co.uk/news/articles/c6jdv4vp3rl3o?at_medium=RSS&at_campaign=rss",
+        "description": "Lundy is in \"real jeopardy\" and could be evacuated if supplies run out, bosses say.",
+        "published": "Wed, 07 Oct 2026 05:16:14 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a51c/live/32fcc330-c1a0-11f1-8fa2-19a1e9b6288f.jpg"
+      },
+      {
         "id": "1791324630620357",
         "title": "Metal detectorist finds second Bronze Age hoard in Scottish Borders",
         "link": "https://www.bbc.co.uk/news/articles/cm62y4j5w149o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Amy Hunt follows up her extraordinary week at the European Championships with a second-placed finish in the women's 200m at the Diamond League in Lausanne behind Kayla White.",
         "published": "Fri, 21 Aug 2026 19:00:43 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5320/live/4b2678e0-9d90-11f1-9d64-0d57e20be552.jpg"
-      },
-      {
-        "id": "1787318718566303",
-        "title": "Stormy autumn, cold winter - how might El Ni\u00f1o affect the UK weather?",
-        "link": "https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo?at_medium=RSS&at_campaign=rss",
-        "description": "This year's El Ni\u00f1o is expected to be the strongest in living memory and could lead to a range of impacts of the UK - including a stormy autumn.",
-        "published": "Fri, 21 Aug 2026 15:02:13 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38f5/live/f8c01c40-9d45-11f1-a137-179a8d1c790b.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2261,6 +2261,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "ffd976327de7200126fe8d940fbda7c2",
+        "title": "Easterhouse youth centre revamp project includes new play areas and cycle track",
+        "link": "https://www.glasgowtimes.co.uk/news/26614059.easterhouse-youth-centre-park-revamp-plans-submitted/",
+        "description": "A youth centre in Easterhouse is set to be revamped as part of a project which would also see new play areas created in a park.",
+        "published": "Wed, 07 Oct 2026 09:41:23 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21547748/?type=app&htype=0"
+      },
+      {
+        "id": "ef7308e584457c5530aded721f1987cd",
+        "title": "Swinney calls for \u2018unity over division\u2019 on anniversary of October 7 attacks",
+        "link": "https://www.heraldscotland.com/news/26613948.swinney-calls-unity-division-anniversary-october-7/",
+        "description": "Swinney said the anniversary prompts reflection on lasting peace",
+        "published": "Wed, 07 Oct 2026 09:22:48 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21547652/?type=app&htype=0"
+      },
+      {
+        "id": "782e17d8accb73fce34ed0b2f6287916",
+        "title": "Glasgow families face loss of 'vital' support service amid funding crisis",
+        "link": "https://www.glasgowtimes.co.uk/news/26613800.scotlands-sleep-support-line-close-amid-funding-crisis/",
+        "description": "Sleep Action will close Scotland\u2019s national Sleep Support Line in March 2027 unless new funding is found, affecting 700 families each year.",
+        "published": "Wed, 07 Oct 2026 08:52:41 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21545252/?type=app&htype=0"
+      },
+      {
         "id": "8ab7a9021a12c52fb6ed41e74e537fbc",
         "title": "Students to take to Glasgow streets for pro-Palestine march on October 7 anniversary",
         "link": "https://www.glasgowtimes.co.uk/news/26613742.pro-palestine-students-take-glasgow-edinburgh-streets/",
@@ -3035,22 +3059,6 @@
         "description": "The owners of Wunderbar in Glasgow\u2019s west end could buy council-owned land next to the venue to build flats.",
         "published": "Mon, 05 Oct 2026 20:48:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21541737/?type=app&htype=0"
-      },
-      {
-        "id": "958b19ce97cc74bb07ce1ac1507f38c3",
-        "title": "Loch Ness could suffer damage \u2018beyond comprehension\u2019 if scheme gets go-ahead",
-        "link": "https://www.heraldscotland.com/news/26609599.loch-ness-suffer-damage-beyond-comprehension/",
-        "description": "Ness District Salmon Fishery Board warns Glen Earrach pumped hydro scheme could damage Loch Ness, salmon, tourism and ecology as councillors consider plans October 7.",
-        "published": "Mon, 05 Oct 2026 20:31:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20511452/?type=app&htype=0"
-      },
-      {
-        "id": "7c1e4a1bed9b182824273f592e4a5a09",
-        "title": "George Square to host Remembrance events despite ongoing works",
-        "link": "https://www.heraldscotland.com/news/26609597.george-square-remembrance-events-go-ahead-amid-works/",
-        "description": "Armistice commemorations will still take place in George Square this year, despite concerns its south side will remain closed until the end of November.",
-        "published": "Mon, 05 Oct 2026 20:23:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20730893/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
