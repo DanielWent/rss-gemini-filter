@@ -1778,6 +1778,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "59e6df686d1bec04b48b172305427de2",
+        "title": "Four top Scottish chefs unite for special whisky-inspired dinner in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26616146.top-scottish-chefs-unite-glasgow-whisky-charity-dinner/",
+        "description": "Four of Scotland\u2019s top chefs are teaming up for a whisky-inspired dinner in Glasgow.",
+        "published": "Wed, 07 Oct 2026 15:10:04 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21550617/?type=app&htype=0"
+      },
+      {
         "id": "c4dbc8bf14a22723a24ddd8387b8c3d4",
         "title": "East Dunbartonshire childcare providers to receive 5.2% rate increase",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26614162.east-dunbartonshire-councillors-approve-childcare-rate-rise/",
@@ -2277,12 +2285,124 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "b4c068888ee4e6a7707ffd23406cc6ad",
+        "title": "Notorious Glasgow gangland figure Paul Ferris dead aged 62",
+        "link": "https://www.glasgowtimes.co.uk/news/26614792.notorious-glasgow-gangland-figure-paul-ferris-dead/",
+        "description": "Paul Ferris, the notorious Glasgow underworld figure, has died aged 62.",
+        "published": "Thu, 08 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/8432961/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/falling-masonry-reported-paisley-town-34731130",
+        "title": "Falling masonry reported in Paisley town centre as firefighters tape off area",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/falling-masonry-reported-paisley-town-34731130",
+        "description": "Fortunately, there are no reported injuries.",
+        "published": "Wed, 7 Oct 2026 14:48:34 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34731306.ece/ALTERNATES/s98/0_IMG_5045-1jpeg.jpg"
+      },
+      {
+        "id": "1506973aad1b650eb6bd7b0e61ac282e",
+        "title": "Ryanair marks major Glasgow Airport milestone after carrying eight million passengers",
+        "link": "https://www.glasgowtimes.co.uk/news/26616381.ryanair-carried-8-million-passengers-glasgow-airport/",
+        "description": "Ryanair has carried more than eight million passengers through Glasgow Airport.",
+        "published": "Wed, 07 Oct 2026 15:46:25 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20149418/?type=app&htype=108"
+      },
+      {
+        "id": "24310aa5ebeb709a446550a5b72fdc55",
+        "title": "Major Glasgow city centre roads to close for Remembrance Day parade",
+        "link": "https://www.glasgowtimes.co.uk/news/26616327.glasgow-remembrance-day-parade-road-closures-revealed/",
+        "description": "Glasgow city centre road closures and traffic restrictions for the Remembrance Day parade on November 8 will affect George Square and nearby streets, 4am-4pm.",
+        "published": "Wed, 07 Oct 2026 15:36:48 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20116445/?type=app&htype=0"
+      },
+      {
+        "id": "34338d757e90be1407b1531352ff0707",
+        "title": "John Swinney defends Flynn amid claims Transport Secretary is 'not on top of job'",
+        "link": "https://www.heraldscotland.com/news/26616141.john-swinney-defends-minister-stephen-flynn-criticism/",
+        "description": "John Swinney defends Transport Secretary Stephen Flynn as Willie Rennie questions his handling of Alexander Dennis, island flights and Glen Sannox gas leak.",
+        "published": "Wed, 07 Oct 2026 15:29:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20447947/?type=app&htype=0"
+      },
+      {
+        "id": "9273117",
+        "title": "Nine dogs put down as Glasgow pair banned from owning animals after inspectors discover neglected pets",
+        "link": "https://www.glasgowworld.com/news/glasgow-couple-banned-from-owning-animals-after-animal-welfare-concerns-9273117",
+        "description": "<p>Glasgow pair banned from owning animals after inspectors discover neglected pets, nine of the dogs were later put down</p>",
+        "published": "Wed, 07 Oct 2026 14:23:26 GMT",
+        "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOmE4YTk4N2Y0LTNkZTItNGYyOC04NmZjLWViZDAyNzMwNDk3ODozNWE3MDlmNy03YjNiLTRmOTktOWRiZS04NjFhZDJjNDg2MjY=.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "06336a54a6c3f8def1ab58d56cb9203c",
+        "title": "Pro-Palestine protestors hold demonstration outside University of Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26616209.pro-palestine-protest-held-university-glasgow-library/",
+        "description": "Students have taken to the streets outside Glasgow University Library for pro-Palestine marches on the third anniversary of Hamas\u2019s October 7 attacks",
+        "published": "Wed, 07 Oct 2026 15:19:36 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21550754/?type=app&htype=0"
+      },
+      {
+        "id": "7825f6c877b9ad419621d40ddd421766",
+        "title": "48 Glasgow businesses dissolved in one week as numbers rise across the city",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26616180.48-glasgow-firms-dissolved-seven-days-records-show/",
+        "description": "Glasgow saw 48 businesses dissolved from Companies House between September 21 and September 27, 2026, including hospitality, retail and consulting firms.",
+        "published": "Wed, 07 Oct 2026 15:15:34 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20449162/?type=app&htype=0"
+      },
+      {
+        "id": "59e6df686d1bec04b48b172305427de2",
+        "title": "Four top Scottish chefs unite for special whisky-inspired dinner in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26616146.top-scottish-chefs-unite-glasgow-whisky-charity-dinner/",
+        "description": "Four of Scotland\u2019s top chefs are teaming up for a whisky-inspired dinner in Glasgow.",
+        "published": "Wed, 07 Oct 2026 15:10:04 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21550617/?type=app&htype=0"
+      },
+      {
+        "id": "9272893",
+        "title": "Former Rangers star 'set to join' rivals as Scottish Premiership return beckons six months on from Ibrox exit",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/former-rangers-star-set-to-join-rivals-as-scottish-premiership-return-beckons-six-months-after-ibrox-exit-9272893",
+        "description": "<p>Winger was frozen out at Rangers after four years at the club</p>",
+        "published": "Wed, 07 Oct 2026 14:00:10 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/07/13/44/GettyImages-2168257463-(1).jpeg?width=1200&auto=webp&trim=93%2C0%2C95%2C0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/stunning-house-hill-hidden-rangers-34728834",
+        "title": "Stunning 'house on the hill' with hidden Rangers history up for sale near Glasgow",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/stunning-house-hill-hidden-rangers-34728834",
+        "description": "The grand 1930s home was created as the personal residence of house builder John Lawrence whose humble beginnings saw him leave Calder Street School in Govanhill at 14 to help support his family.",
+        "published": "Wed, 7 Oct 2026 13:54:16 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34728748.ece/ALTERNATES/s98/0_a2b7c8d98c544f63ed5e0fa7f898134bjpeg.jpg"
+      },
+      {
+        "id": "72604911713f47b5420a78fdfd90888d",
+        "title": "University students condemn 'Zionist entity' in rally on October 7 anniversary",
+        "link": "https://www.heraldscotland.com/news/26615946.edinburgh-university-students-hold-pro-palestine-october-7-rally/",
+        "description": "The decision to hold the rally on Wednesday afternoon, three years after Hamas militants killed 1,200 Israelis in a surprise attack, has been condemned by some.",
+        "published": "Wed, 07 Oct 2026 14:53:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21550308/?type=app&htype=0"
+      },
+      {
         "id": "60b40a0998a2a4fa6a1010f240a941e2",
         "title": "Glasgow organisations recognised for supporting the Armed Forces community",
         "link": "https://www.glasgowtimes.co.uk/news/26615894.19-glasgow-employers-received-armed-forces-silver-awards/",
         "description": "Glasgow employers have been recognised for their support of the Armed Forces community.",
         "published": "Wed, 07 Oct 2026 14:29:23 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21550259/?type=app&htype=0"
+      },
+      {
+        "id": "1dc6fea44069dc78d4390dbaae759ae3",
+        "title": "Swinney unable to say if ministers approved Jersey transfer of Sanjeev Gupta debt",
+        "link": "https://www.heraldscotland.com/news/26615890.swinney-says-ministers-unlikely-approved-debt-move/",
+        "description": "John Swinney has told Holyrood he cannot be certain ministers sanctioned the transfer of the \u00a3586m Lochaber smelter guarantee to a Jersey company.",
+        "published": "Wed, 07 Oct 2026 14:28:29 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21550205/?type=app&htype=0"
+      },
+      {
+        "id": "7b153f34aac70fc4c04ecc356560bf5f",
+        "title": "University of Glasgow 'held to account' says family of student who took his own life",
+        "link": "https://www.glasgowtimes.co.uk/news/26615853.family-glasgow-university-student-took-life-give-statement/",
+        "description": "The family of a student who took his own life after being wrongly told he would not be eligible to graduate have said the University of Glasgow \u201cwill be held to account\u201d for the situation",
+        "published": "Wed, 07 Oct 2026 14:21:56 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21550322/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=532247",
@@ -2315,6 +2435,14 @@
         "description": "As Woman's Hour marks its 80th anniversary with a visit to Glasgow, Teddy Jamieson reflects on a programme that celebrated women's achievements while confronting the battles still to be won on equal pay and representation. Plus, Elvis Costello recalls miming on Top of the Pops and the Pet Shop Boys discuss technology and pop music's future.",
         "published": "Wed, 07 Oct 2026 14:05:24 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21550080/?type=app&htype=0"
+      },
+      {
+        "id": "204c1acdaf8f637f6ef3e1b2cfd6574b",
+        "title": "Edinburgh Festival Fringe chiefs consider dates change after final week slump",
+        "link": "https://www.heraldscotland.com/news/26615746.edinburgh-fringe-festival-chiefs-consider-school-holidays-dates-change/",
+        "description": "Organisers of the Edinburgh Festival Fringe are consulting artists and companies about coinciding the event with the Scottish school holidays in future.",
+        "published": "Wed, 07 Oct 2026 14:05:02 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21291230/?type=app&htype=0"
       },
       {
         "id": "bcf65ac114c438f541ce71c6841e5f5c",
@@ -2955,102 +3083,6 @@
         "description": "The commercial real estate firm\u2019s planning team, which is based in the Scottish capital as well as in London, Bristol, Manchester and Leeds, is set to be axed.",
         "published": "Tue, 06 Oct 2026 12:51:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21544051/?type=app&htype=0"
-      },
-      {
-        "id": "08d96d8b0ba1ccc93391694f1c116a78",
-        "title": "Mull Historical Society to mark 25th anniversary of debut album with one-off show",
-        "link": "https://www.heraldscotland.com/news/26611480.mull-historical-society-mark-25-anniversary-loss/",
-        "description": "A special anniversary show will celebrate 25 years since the release of Loss.",
-        "published": "Tue, 06 Oct 2026 12:40:43 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21544041/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=532016",
-        "title": "Teen taken to hospital after being attacked in Glasgow\u2019s West End",
-        "link": "https://news.stv.tv/west-central/teen-taken-to-hospital-after-being-attacked-in-glasgows-west-end",
-        "description": "Police say investigations into the assault are ongoing",
-        "published": "Tue, 06 Oct 2026 11:28:34 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/9a18372dc509c9c7b43dc7021e7b4ecc-1791284049-1280x720.jpeg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cv5yn52gzlx7o#0",
-        "title": "Drug addict who murdered man in his own home jailed for life",
-        "link": "https://www.bbc.co.uk/news/articles/cv5yn52gzlx7o?at_medium=RSS&at_campaign=rss",
-        "description": "Terrence Welsh, 42, stabbed Stuart Kennedy in the chest as he sat in a chair at his flat in Ardrossan.",
-        "published": "Tue, 06 Oct 2026 11:17:30 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ad/live/7671a2e0-c171-11f1-a003-8be783290413.jpg"
-      },
-      {
-        "id": "704ca3bd13a2f4100304c3077037ce89",
-        "title": "Renfrewshire school 'first in UK' to appoint dedicated AI principal teacher",
-        "link": "https://www.glasgowtimes.co.uk/news/26611287.mearns-castle-high-school-first-uk-appoint-ai-teacher/",
-        "description": "Mearns Castle High School in East Renfrewshire is believed to be the first in the UK to appoint a dedicated principal teacher of artificial intelligence (AI) literacy.",
-        "published": "Tue, 06 Oct 2026 12:14:23 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/11834858/?type=app&htype=0"
-      },
-      {
-        "id": "9269319",
-        "title": "Rangers star still subject of transfer interest as Aston Villa remain 'big admirers' despite failed swoop",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-star-still-subject-of-transfer-interest-as-aston-villa-remain-big-admirers-despite-failed-summer-swoop-9269319",
-        "description": "<p>Hull City also expressed an interest in the Ibrox mainstay</p>",
-        "published": "Tue, 06 Oct 2026 11:00:16 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/06/10/49/GettyImages-2291331349-(2).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "720ac4c92f0ac967195c83ff9ed62001",
-        "title": "Celtic Connections to launch new orchestra to 'reimagine' Scottish folk music",
-        "link": "https://www.heraldscotland.com/news/26610141.celtic-connections-launch-new-orchestra-reimagine-folk-music/",
-        "description": "Traditional, jazz and classical music players will take centre stage in a new orchestral collective which will open the Celtic Connections festival in January.",
-        "published": "Tue, 06 Oct 2026 12:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21542511/?type=app&htype=0"
-      },
-      {
-        "id": "a4e3844fec346edb3bc158ddef5a5cdf",
-        "title": "New \u00a3786,000 child poverty scheme launched to support Glasgow families",
-        "link": "https://www.glasgowtimes.co.uk/news/26611184.child-poverty-scheme-launched-support-glasgow-families/",
-        "description": "A \u00a3786,000 Glasgow City Council scheme led by Govan HELP tackles child poverty, giving 231 families early, coordinated support and advice.",
-        "published": "Tue, 06 Oct 2026 11:59:03 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21543753/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-youths-launch-fireworks-vehicles-34722787",
-        "title": "Glasgow youths 'launch fireworks at vehicles' as cops crack down on reckless street chaos",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-youths-launch-fireworks-vehicles-34722787",
-        "description": "Officers are set to educate young people in the community through school inputs, highlighting the risks associated with reckless behaviour involving fireworks.",
-        "published": "Tue, 6 Oct 2026 10:56:01 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34722965.ece/ALTERNATES/s98/1_gettyimages-1329417811-594x594.jpg"
-      },
-      {
-        "id": "6f86f7a5ba866a085f58340ead06ae20",
-        "title": "Bus driver's real-life 'Baby on Board' emergency leads to national award",
-        "link": "https://www.glasgowtimes.co.uk/news/26611086.mcgills-bus-driver-wins-uk-award-helping-deliver-baby-onboard/",
-        "description": "McGill\u2019s bus driver Pummy Hadebe wins a UK National Transport Award after helping deliver a baby on Service 23 in Glasgow, honoured in London on October 1.",
-        "published": "Tue, 06 Oct 2026 11:46:21 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21538853/?type=app&htype=4"
-      },
-      {
-        "id": "8980366d2dc4cff9e4ce79f355c00abf",
-        "title": "Irish band who walked out on Ed Sheeran tour get headline slot at Celtic Connections",
-        "link": "https://www.heraldscotland.com/news/26611025.irish-band-quit-sheeran-tour-will-celtic-connections-headliners/",
-        "description": "An Irish band who walked out on Ed Sheeran over the treatment of Macklemore are to play a headline gig at Celtic Connections in Glasgow.",
-        "published": "Tue, 06 Oct 2026 11:39:06 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/15803190/?type=app&htype=0"
-      },
-      {
-        "id": "f85902399fe778f7f97f2b5f50614c64",
-        "title": "NHSGGC health and wellbeing flip cards being rolled out across Glasgow libraries",
-        "link": "https://www.glasgowtimes.co.uk/news/26611011.health-advice-cards-launched-greater-glasgow-libraries/",
-        "description": "NHSGGC has teamed up with councils across the region to introduce health and wellbeing flip cards at library reception desks and information areas.",
-        "published": "Tue, 06 Oct 2026 11:37:02 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21543458/?type=app&htype=0"
-      },
-      {
-        "id": "f7d15cf071bb6a995ab22a2ce8e3e110",
-        "title": "Edinburgh declared one of Europe\u2019s friendliest cities by luxury travel magazine",
-        "link": "https://www.heraldscotland.com/news/26610877.edinburgh-named-one-europes-friendliest-cities/",
-        "description": "A number of bustling tourist destinations were ranked below Edinburgh, including Rome, Paris, Granada and Vienna.",
-        "published": "Tue, 06 Oct 2026 11:32:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/16567901/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
