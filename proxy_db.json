@@ -2277,6 +2277,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "60b40a0998a2a4fa6a1010f240a941e2",
+        "title": "Glasgow organisations recognised for supporting the Armed Forces community",
+        "link": "https://www.glasgowtimes.co.uk/news/26615894.19-glasgow-employers-received-armed-forces-silver-awards/",
+        "description": "Glasgow employers have been recognised for their support of the Armed Forces community.",
+        "published": "Wed, 07 Oct 2026 14:29:23 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21550259/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=532247",
         "title": "Ex-gangland enforcer turned author Paul Ferris dies aged 62",
         "link": "https://news.stv.tv/west-central/ex-gangland-enforcer-turned-author-paul-ferris-dies-aged-62",
@@ -2317,28 +2325,12 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21534931/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-arrested-over-death-daniel-34730261",
-        "title": "Man arrested over death of Daniel Colrain in Glasgow city centre 'disturbance'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-arrested-over-death-daniel-34730261",
-        "description": "Daniel Colrain, 21, sustained serious injuries during the incident and was taken to hospital, where he died on Monday.",
-        "published": "Wed, 7 Oct 2026 13:03:04 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34725776.ece/ALTERNATES/s98/0_6deba78a-501b-4fbe-99a1-3d085cef9422jfif.jpg"
-      },
-      {
         "id": "f03874f049a762e77a8f44858dbf0493",
         "title": "CalMac ferry link cancelled for fifth year despite promise to return in 2027",
         "link": "https://www.heraldscotland.com/news/26615692.calmac-cancels-campbeltown-ferry-service-fifth-year/",
         "description": "CalMac cancels the Ardrossan-Campbeltown ferry for summer 2027, prompting Kintyre anger after promises it would return, citing ageing fleet pressures.",
         "published": "Wed, 07 Oct 2026 13:55:52 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21549912/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=532243",
-        "title": "Suspect arrested over death of man following Glasgow city centre assault",
-        "link": "https://news.stv.tv/west-central/suspect-arrested-over-death-of-man-following-glasgow-city-centre-assault",
-        "description": "Daniel Colrain died after being seriously injured during a disturbance in Glasgow's Royal Exchange Square",
-        "published": "Wed, 07 Oct 2026 12:54:03 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/cd588a83c4f18982078cc05b9eb7a5ff-1791302308-1120x720.jpeg"
       },
       {
         "id": "389c29e2c32afa81c5ff0af78642fe64",
@@ -2507,14 +2499,6 @@
         "description": "Glaswegians are being reminded to check the rules before they drive away from the garage",
         "published": "Wed, 7 Oct 2026 09:42:47 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34488517.ece/ALTERNATES/s98/0_Cars-queuing-near-Charing-Cross-in-Glasgow-at-a-motorway-junction.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/former-glasgow-gangster-paul-ferris-34727952",
-        "title": "Former Glasgow gangster Paul Ferris dies aged 62 after notorious life in city's underworld",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/former-glasgow-gangster-paul-ferris-34727952",
-        "description": "&quot;This has come as a great shock to everyone who knew Paul over the years.&quot;",
-        "published": "Wed, 7 Oct 2026 09:42:27 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article11346826.ece/ALTERNATES/s98/1_JS13235280.jpg"
       },
       {
         "id": "23804c5ad220e508899c52739b8357ba",
@@ -2795,14 +2779,6 @@
         "description": "John Swinney has referred a row over his claim Scots would 'lose their pensions' to independent ministerial code advisers, after Scottish Tory leader Russell Findlay accused him of peddling misinformation about changes to the triple lock.",
         "published": "Tue, 06 Oct 2026 17:03:39 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21546560/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-who-died-glasgow-city-34725774",
-        "title": "Man who died in Glasgow city centre 'disturbance' named as police probe continues",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-who-died-glasgow-city-34725774",
-        "description": "Daniel Colrain, 21, died in hospital after being assaulted on Royal Exchange Square on Sunday, October 4.",
-        "published": "Tue, 6 Oct 2026 16:03:31 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34725776.ece/ALTERNATES/s98/0_6deba78a-501b-4fbe-99a1-3d085cef9422jfif.jpg"
       },
       {
         "id": "a6d41cc62285120d916e831f0d59d5b6",
