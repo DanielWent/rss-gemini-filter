@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o#1",
+        "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+        "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
+        "description": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
+        "published": "Wed, 07 Oct 2026 10:09:57 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d6d/live/265d5440-c232-11f1-be2f-0fbd447d6e43.png"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c6jdv4vp3rl3o#4",
         "title": "Puffin island on cusp of closure as it runs out of water",
         "link": "https://www.bbc.co.uk/news/articles/c6jdv4vp3rl3o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
         "published": "Sat, 22 Aug 2026 07:53:57 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4ac/live/054e6c20-9dd0-11f1-b109-879e35c24276.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/athletics/articles/c8dnvl1mqleo#7",
-        "title": "Hunt second in Diamond League 200m as White wins",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/c8dnvl1mqleo?at_medium=RSS&at_campaign=rss",
-        "description": "Amy Hunt follows up her extraordinary week at the European Championships with a second-placed finish in the women's 200m at the Diamond League in Lausanne behind Kayla White.",
-        "published": "Fri, 21 Aug 2026 19:00:43 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5320/live/4b2678e0-9d90-11f1-9d64-0d57e20be552.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2269,6 +2269,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-far-right-rage-baiter-34728221",
+        "title": "Glasgow far-right 'rage-baiter' unmasked after filming vile footage of innocent black men",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-far-right-rage-baiter-34728221",
+        "description": "Daffy's unmasked face has been revealed after one of the subjects of his videos filmed him.",
+        "published": "Wed, 7 Oct 2026 10:24:16 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34728389.ece/ALTERNATES/s98/0_Screenshot-2026-10-07-110649.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/hmp-shotts-court-probe-after-34727999",
+        "title": "HMP Shotts court probe after Lanarkshire inmate dies behind bars",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/hmp-shotts-court-probe-after-34727999",
+        "description": "Robert Dickie was in legal custody and in the care of the state at the time of his death.",
+        "published": "Wed, 7 Oct 2026 10:22:28 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33500582.ece/ALTERNATES/s98/2_JS356695115.jpg"
+      },
+      {
+        "id": "63903d7d94f8242598a5fff78b2a2f3c",
+        "title": "University leaders urged to review security ahead of pro-Palestine march in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26614738.university-urged-review-security-ahead-pro-palestine-march/",
+        "description": "University leaders have been told to review their security and keep close contact with Jewish groups ahead of pro-Palestine marches today.",
+        "published": "Wed, 07 Oct 2026 11:17:52 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21548619/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=532177",
+        "title": "Report finds \u2018clear human rights failures\u2019 in southern Scotland",
+        "link": "https://news.stv.tv/west-central/report-finds-clear-human-rights-failures-in-southern-scotland",
+        "description": "The SHRC is calling on the Scottish Government, Scottish Parliament, councils and NHS boards to improve access to services",
+        "published": "Wed, 07 Oct 2026 09:54:37 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/07/8dfbfa9aac3492671c7683bbc617c9c0-1785504737-1080x720.jpeg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-drivers-could-fined-2500-34727718",
         "title": "Glasgow drivers could be fined \u00a32,500 and banned from road over MOT mistake",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-drivers-could-fined-2500-34727718",
@@ -3035,38 +3067,6 @@
         "description": "New analysis of Ofcom mobile coverage data reveals Scotland has the UK's five worst 4G areas, with Highland at just 60.85% predicted coverage.",
         "published": "Tue, 06 Oct 2026 06:29:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21449999/?type=app&htype=0"
-      },
-      {
-        "id": "7ed1cd93bc59480d42143b84a43dd4c7",
-        "title": "\u2018Disaster\u2019 ethics watchdog hit by calls for abolition after judge\u2019s surprise ruling",
-        "link": "https://www.heraldscotland.com/news/26608829.calls-abolish-standards-commission-fiona-higgins-ruling/",
-        "description": "Calls to abolish the Standards Commission for Scotland have followed a judge\u2019s criticism of its evidence guidance in the Fiona Higgins Glasgow councillor misconduct case.",
-        "published": "Tue, 06 Oct 2026 06:27:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21540672/?type=app&htype=0"
-      },
-      {
-        "id": "d000c3433148639de24b94303c0f4049",
-        "title": "Strike action at university forces cancellation of social science doctoral course",
-        "link": "https://www.heraldscotland.com/news/26609197.social-science-phd-course-cancelled-edinburgh-university-strikes/",
-        "description": "Members of the University and College Union (UCU) at Edinburgh University are in the midst of a five-week strike over potential job cuts and programme closures.",
-        "published": "Tue, 06 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21529900/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c3y0z0wkgnjwo#0",
-        "title": "Scotland's 'Chernobyl' housing scheme takes starring role in new horror film",
-        "link": "https://www.bbc.co.uk/news/articles/c3y0z0wkgnjwo?at_medium=RSS&at_campaign=rss",
-        "description": "Sci-fi horror comedy, Behind, features scenes filmed in Port Glasgow's Clune Park shortly before it was demolished.",
-        "published": "Tue, 06 Oct 2026 04:57:00 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d07a/live/e0cb0760-c0e2-11f1-bc2e-018d645d8d21.png"
-      },
-      {
-        "id": "9f3c0470b30fa758cb563e75664bce2b",
-        "title": "Is the axe about to fall on BBC Scotland as crunch meeting looms?",
-        "link": "https://www.heraldscotland.com/news/26608878.bbc-scotland-axe-fall-crunch-speech-looms/",
-        "description": "Matt Brittin's address to staff on Wednesday comes amid mounting speculation over the future of the BBC Scotland channel and what its loss would mean for viewers, jobs and Scotland's place within the BBC.",
-        "published": "Tue, 06 Oct 2026 05:35:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21512521/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
