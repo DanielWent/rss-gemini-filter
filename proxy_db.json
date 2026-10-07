@@ -2277,12 +2277,84 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=532247",
+        "title": "Ex-gangland enforcer turned author Paul Ferris dies aged 62",
+        "link": "https://news.stv.tv/west-central/ex-gangland-enforcer-turned-author-paul-ferris-dies-aged-62",
+        "description": "Ferris gained notoriety after being cleared of murdering the son of a crime boss before becoming a best-selling writer",
+        "published": "Wed, 07 Oct 2026 13:20:21 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/2588624be9e0802354cc3a542a63845d-1791379151-1119x720.jpeg"
+      },
+      {
+        "id": "9272850",
+        "title": "Daniel Colrain death: 19-year-old man arrested in connection with death of Daniel Colrain in Glasgow",
+        "link": "https://www.glasgowworld.com/news/19-year-old-man-arrested-in-connection-with-death-of-daniel-colrain-in-glasgow-9272850",
+        "description": "<p>Police arrest 19-year-old man in connection with death of Daniel Colrain</p>",
+        "published": "Wed, 07 Oct 2026 13:12:49 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/07/7/10/danielc.png?width=1200&auto=webp&trim=43%2C0%2C44%2C0"
+      },
+      {
+        "id": "84b3757b0f807ff7d26d2c8aacb964a6",
+        "title": "Glasgow healthcare facility acquired by dental operator amid expansion plans",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26615781.glasgow-healthcare-facility-acquired-truly-dental/",
+        "description": "A Glasgow healthcare facility has been acquired by dental operator Truly Dental as part of plans to expand its presence in the city.",
+        "published": "Wed, 07 Oct 2026 14:10:23 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21550067/?type=app&htype=0"
+      },
+      {
+        "id": "9085cb37d2759ef896f7a12dcc512225",
+        "title": "Woman's Hour at 80, Elvis Costello and the Pet Shop Boys: this week's best radio",
+        "link": "https://www.heraldscotland.com/life_style/26615748.womans-hour-80-celebration-highlights-long-fight-equal-pay/",
+        "description": "As Woman's Hour marks its 80th anniversary with a visit to Glasgow, Teddy Jamieson reflects on a programme that celebrated women's achievements while confronting the battles still to be won on equal pay and representation. Plus, Elvis Costello recalls miming on Top of the Pops and the Pet Shop Boys discuss technology and pop music's future.",
+        "published": "Wed, 07 Oct 2026 14:05:24 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21550080/?type=app&htype=0"
+      },
+      {
+        "id": "bcf65ac114c438f541ce71c6841e5f5c",
+        "title": "Second man arrested over death of 21-year-old in Glasgow city centre",
+        "link": "https://www.heraldscotland.com/news/26615733.second-man-arrested-death-21-year-old-glasgow-city-centre/",
+        "description": "Police said enquiries are continuing",
+        "published": "Wed, 07 Oct 2026 14:03:32 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21534931/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-arrested-over-death-daniel-34730261",
+        "title": "Man arrested over death of Daniel Colrain in Glasgow city centre 'disturbance'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-arrested-over-death-daniel-34730261",
+        "description": "Daniel Colrain, 21, sustained serious injuries during the incident and was taken to hospital, where he died on Monday.",
+        "published": "Wed, 7 Oct 2026 13:03:04 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34725776.ece/ALTERNATES/s98/0_6deba78a-501b-4fbe-99a1-3d085cef9422jfif.jpg"
+      },
+      {
+        "id": "f03874f049a762e77a8f44858dbf0493",
+        "title": "CalMac ferry link cancelled for fifth year despite promise to return in 2027",
+        "link": "https://www.heraldscotland.com/news/26615692.calmac-cancels-campbeltown-ferry-service-fifth-year/",
+        "description": "CalMac cancels the Ardrossan-Campbeltown ferry for summer 2027, prompting Kintyre anger after promises it would return, citing ageing fleet pressures.",
+        "published": "Wed, 07 Oct 2026 13:55:52 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21549912/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=532243",
+        "title": "Suspect arrested over death of man following Glasgow city centre assault",
+        "link": "https://news.stv.tv/west-central/suspect-arrested-over-death-of-man-following-glasgow-city-centre-assault",
+        "description": "Daniel Colrain died after being seriously injured during a disturbance in Glasgow's Royal Exchange Square",
+        "published": "Wed, 07 Oct 2026 12:54:03 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/cd588a83c4f18982078cc05b9eb7a5ff-1791302308-1120x720.jpeg"
+      },
+      {
         "id": "389c29e2c32afa81c5ff0af78642fe64",
         "title": "Former priest jailed for sex offences against young boys dies behind bars",
         "link": "https://www.glasgowtimes.co.uk/news/26615510.former-paisley-priest-committed-horrendous-sexual-crimes-dies/",
         "description": "A former Paisley priest who committed \"horrendous sexual crimes\" on two young boys has died in prison.",
         "published": "Wed, 07 Oct 2026 13:20:36 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19953527/?type=app&htype=0"
+      },
+      {
+        "id": "f6c7d7ef57d21a2e01017bfdfef71a72",
+        "title": "Airline marks milestone with eight million passengers through Glasgow Airport",
+        "link": "https://www.heraldscotland.com/news/26615471.ryanair-carries-eight-million-passengers-glasgow/",
+        "description": "It's been 12 years since the airline started serving the people of Scotland's biggest city",
+        "published": "Wed, 07 Oct 2026 13:11:57 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/14275048/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=532224",
@@ -2347,6 +2419,14 @@
         "description": "A major high street retailer is opening a new store in Dumbarton, creating 40 new jobs.",
         "published": "Wed, 07 Oct 2026 12:18:50 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20255890/?type=app&htype=0"
+      },
+      {
+        "id": "ea7bfd860b4acadc50c9a79ac701a026",
+        "title": "Major UK airport change means you won't need to show your passport as queues speed up",
+        "link": "https://www.glasgowtimes.co.uk/news/national/uk-today/26615019.major-uk-airport-change-means-wont-need-show-passport/",
+        "description": "Passengers arriving in the UK could see queues cut at airport passport control as they won't need to show their passports at eGates.",
+        "published": "Wed, 07 Oct 2026 11:58:10 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21549417/?type=app&htype=0"
       },
       {
         "id": "4a9db1fb894b713bc0d1fdec70a80821",
@@ -2995,86 +3075,6 @@
         "description": "A number of bustling tourist destinations were ranked below Edinburgh, including Rome, Paris, Granada and Vienna.",
         "published": "Tue, 06 Oct 2026 11:32:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/16567901/?type=app&htype=0"
-      },
-      {
-        "id": "9df7738dbc235b80e020d0a45b518e72",
-        "title": "Government challenged over definition of \u2018green\u2019 data centres amid 'mixed messages'",
-        "link": "https://www.heraldscotland.com/news/26610204.scottish-government-accused-mixed-messages-green-data-centres/",
-        "description": "Scottish Greens accuse ministers of mixed messages over Edinburgh\u2019s \u2018green\u2019 data centre, amid calls for clear environmental standards for AI developments.",
-        "published": "Tue, 06 Oct 2026 11:24:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21483934/?type=app&htype=0"
-      },
-      {
-        "id": "037e7efa5b3a0fb831dd74db4ac2aaf4",
-        "title": "Housing developer unveils plans for more than 100 homes near Falkirk",
-        "link": "https://www.heraldscotland.com/news/26610906.cala-homes-west-plans-submitted-129-new-homes-larbert-scheme/",
-        "description": "Plans have been unveiled for more than 100 new homes near Falkirk.",
-        "published": "Tue, 06 Oct 2026 11:23:45 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21543306/?type=app&htype=0"
-      },
-      {
-        "id": "e5f92c4e53d3568e9a11426e194faa30",
-        "title": "Glasgow nightlife favourite goes up for sale after 16 years in business",
-        "link": "https://www.glasgowtimes.co.uk/news/26610781.glasgow-tiki-bar-sale-ten-years-business/",
-        "description": "Glasgow\u2019s Tiki Bar &amp; Darts Den on Bath Street is for sale at \u00a385,000 leasehold, offering tropical cocktails, Thai food, darts and a beer garden.",
-        "published": "Tue, 06 Oct 2026 11:08:27 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21419012/?type=app&htype=0"
-      },
-      {
-        "id": "9ce74637900c2a291e7e9412af261cbf",
-        "title": "Empty town centre shop set for dramatic transformation into new home",
-        "link": "https://www.glasgowtimes.co.uk/news/26610689.vacant-lanark-shop-approved-conversion-flat/",
-        "description": "Lanark's vacant shop at 40 St Leonard Street will become a flat after South Lanarkshire Council approved planning permission on October 5.",
-        "published": "Tue, 06 Oct 2026 10:55:55 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21543098/?type=app&htype=0"
-      },
-      {
-        "id": "6221f2f924945ca93cfb702e78d1ac67",
-        "title": "Scottish landlords face new damp and mould rules with strict repair deadlines",
-        "link": "https://www.heraldscotland.com/news/26610670.scotland-rules-require-landlords-tackle-damp-mould/",
-        "description": "Scotland\u2019s 2026 damp and mould regulations require social and private landlords to investigate complaints within 10 working days and act on repairs to comply.",
-        "published": "Tue, 06 Oct 2026 10:53:13 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21542964/?type=app&htype=0"
-      },
-      {
-        "id": "b649b76211431f3e5a60629fa85a6218",
-        "title": "Beloved business set to close after serving the community for 117 years",
-        "link": "https://www.glasgowtimes.co.uk/news/26610599.beloved-paisley-business-set-close-117-years/",
-        "description": "A beloved Paisley business is set to close after 117 years.",
-        "published": "Tue, 06 Oct 2026 10:43:25 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21542831/?type=app&htype=0"
-      },
-      {
-        "id": "e3456deed7c0e9b63993f3f35aa464c6",
-        "title": "More than 90 jobs planned as Scottish biotech firm secures \u00a32.5m boost",
-        "link": "https://www.heraldscotland.com/news/26610543.grangemouth-biotech-firm-mialgae-secured-2-5m-boost/",
-        "description": "A Scottish biotech firm turning whisky waste into Omega-3 has secured \u00a32.5 million to boost its production.",
-        "published": "Tue, 06 Oct 2026 10:35:25 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21542815/?type=app&htype=0"
-      },
-      {
-        "id": "b2797a4f87796e81f3ec2fe4b17c743a",
-        "title": "Glasgow University staff to vote on strike amid compulsory redundancy fears",
-        "link": "https://www.heraldscotland.com/news/26610370.university-glasgow-staff-vote-strike-action-cuts/",
-        "description": "University of Glasgow staff vote on strike action until November 10 amid UCU concerns over job cuts, voluntary severance and possible compulsory redundancies.",
-        "published": "Tue, 06 Oct 2026 10:31:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19240345/?type=app&htype=0"
-      },
-      {
-        "id": "88a491827da0fcb7b8a12502cde93380",
-        "title": "Major new telecoms mast proposed at key traffic hotspot",
-        "link": "https://www.glasgowtimes.co.uk/news/26610483.east-dunbartonshire-council-receives-plans-20m-mast-bearsden/",
-        "description": "East Dunbartonshire Council is considering a planning application for a 20m telecoms mast with six antennas at Canniesburn Toll roundabout, Bearsden.",
-        "published": "Tue, 06 Oct 2026 10:26:26 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21542837/?type=app&htype=0"
-      },
-      {
-        "id": "9269284",
-        "title": "Historic Glasgow pub dating back to 1798 sold for undisclosed sum",
-        "link": "https://www.glasgowworld.com/news/historic-glasgow-pub-brechins-bar-sold-for-u-9269284",
-        "description": "<p>Dating back to 1978, Brechins Bar is one of the oldest licensed premises in the Govan area of Glasgow</p>",
-        "published": "Tue, 06 Oct 2026 09:19:25 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/06/9/36/MixCollage-06-Oct-2026-10-14-AM-6190.jpg?width=1200&auto=webp&trim=0%2C174%2C0%2C175"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"

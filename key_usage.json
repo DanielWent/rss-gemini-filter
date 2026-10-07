@@ -3,7 +3,7 @@
   "keys": {
     "ff8b60d30e0f970d": {
       "gemini-3.5-flash-lite": {
-        "daily_requests": 17,
+        "daily_requests": 20,
         "exhausted": false
       },
       "gemini-2.5-flash": {
@@ -29,7 +29,7 @@
     },
     "7c9375937803a7a0": {
       "gemini-3.5-flash-lite": {
-        "daily_requests": 17,
+        "daily_requests": 20,
         "exhausted": false
       },
       "gemini-2.5-flash": {
@@ -63,7 +63,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 17,
+        "daily_requests": 20,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -85,7 +85,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 17,
+        "daily_requests": 19,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -107,7 +107,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 17,
+        "daily_requests": 20,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -129,7 +129,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 17,
+        "daily_requests": 20,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -151,7 +151,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 17,
+        "daily_requests": 20,
         "exhausted": false
       },
       "gemini-2.5-flash-lite": {
@@ -173,7 +173,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 17,
+        "daily_requests": 20,
         "exhausted": false
       },
       "gemini-2.5-flash-lite": {
@@ -191,7 +191,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 17,
+        "daily_requests": 19,
         "exhausted": false
       },
       "gemini-2.5-flash-lite": {
@@ -209,7 +209,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 17,
+        "daily_requests": 19,
         "exhausted": false
       },
       "gemini-2.5-flash-lite": {
@@ -227,7 +227,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 17,
+        "daily_requests": 19,
         "exhausted": false
       },
       "gemini-2.5-flash-lite": {
