@@ -2269,6 +2269,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/former-paisley-priest-jailed-devastating-34728333",
+        "title": "Former Paisley priest jailed for 'devastating' sexual abuse of young boys dies age 85",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/former-paisley-priest-jailed-devastating-34728333",
+        "description": "At the time, Cassidy's victims were aged 16 and 8 years-old.",
+        "published": "Wed, 7 Oct 2026 10:44:28 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34558866.ece/ALTERNATES/s98/0_JS202895327-1.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=532189",
+        "title": "Ben Lomond path to close ahead of repairs to popular walking route",
+        "link": "https://news.stv.tv/west-central/ben-lomond-path-to-close-ahead-of-repairs-to-popular-walking-route",
+        "description": "The path will be closed for four hours to allow for materials to be delivered via helicopter",
+        "published": "Wed, 07 Oct 2026 10:39:45 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/1d78f293bcbc9e0e91e425339e14c8e0-1791367162-1280x720.jpeg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-far-right-rage-baiter-34728221",
         "title": "Glasgow far-right 'rage-baiter' unmasked after filming vile footage of innocent black men",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-far-right-rage-baiter-34728221",
@@ -2299,6 +2315,14 @@
         "description": "The SHRC is calling on the Scottish Government, Scottish Parliament, councils and NHS boards to improve access to services",
         "published": "Wed, 07 Oct 2026 09:54:37 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/07/8dfbfa9aac3492671c7683bbc617c9c0-1785504737-1080x720.jpeg"
+      },
+      {
+        "id": "052ddefa7f42ea527abeafdea27b9b79",
+        "title": "Lidl update as plans progress for long-awaited store in Fife town",
+        "link": "https://www.heraldscotland.com/news/26614562.lidl-update-plans-progress-long-awaited-store-rosyth/",
+        "description": "The long-awaited construction of a Lidl store in Rosyth could get underway in the coming months, it has been revealed.",
+        "published": "Wed, 07 Oct 2026 10:50:41 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/15705903/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-drivers-could-fined-2500-34727718",
@@ -3043,30 +3067,6 @@
         "description": "New figures show the number of children caught by police in possession of stolen goods has almost doubled in the space of four years.",
         "published": "Tue, 6 Oct 2026 06:23:50 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34720978.ece/ALTERNATES/s98/0_JS328856523.jpg"
-      },
-      {
-        "id": "7e11579549997883f78a68d0b137210a",
-        "title": "Loganair cabin crew in Glasgow to hold ballot on potential strike action",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26609718.loganair-cabin-crew-glasgow-hold-ballot-strike/",
-        "description": "Loganair cabin crew in Glasgow will hold a ballot on potential industrial action, it has been announced.",
-        "published": "Tue, 06 Oct 2026 07:17:24 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21044974/?type=app&htype=242"
-      },
-      {
-        "id": "3657c4f606ded91540b12b8972892969",
-        "title": "The Scottish Endarkenment has dawned in this dumbed-down nation",
-        "link": "https://www.heraldscotland.com/news/education/26607783.scottish-endarkenment-dawned-dumbed-down-nation/",
-        "description": "The mass closure of university courses is just the tip of the iceberg when it comes to the unravelling of Scottish culture today, says Neil Mackay",
-        "published": "Tue, 06 Oct 2026 06:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21538990/?type=app&htype=0"
-      },
-      {
-        "id": "97779a094a4381c5b04b107f75a0e6e1",
-        "title": "Mobile coverage divide laid bare as Scotland takes five worst UK spots",
-        "link": "https://www.heraldscotland.com/news/26609371.highland-uks-worst-4g-coverage-new-ofcom-analysis-shows/",
-        "description": "New analysis of Ofcom mobile coverage data reveals Scotland has the UK's five worst 4G areas, with Highland at just 60.85% predicted coverage.",
-        "published": "Tue, 06 Oct 2026 06:29:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21449999/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
