@@ -1001,6 +1001,14 @@
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
       {
+        "id": "https://the5krunner.com/?p=135501",
+        "title": "Amazfit Prime Day Deals: Active Max 23% Off, Active 3 Premium 21% Off",
+        "link": "https://the5krunner.com/2026/10/07/amazfit-prime-day-deals-october-2026/",
+        "description": "<p><img alt=\"Amazfit Prime Day Deals: Active Max 23% Off, Active 3 Premium 21% Off\" class=\"attachment-large size-large\" height=\"624\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/pbdd-2026-everything-to-know-hero-5-amazon-news-lt-0909261.jpg/w=1110,h=624\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>The Amazfit Active Max is 23% off and the Active 3 Premium is 21% off on Amazon UK for Prime Day. The Active 3 Premium is also 18% off in the USA.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/07/amazfit-prime-day-deals-october-2026/\">Amazfit Prime Day Deals: Active Max 23% Off, Active 3 Premium 21% Off</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Wed, 07 Oct 2026 06:30:52 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/pbdd-2026-everything-to-know-hero-5-amazon-news-lt-0909261.jpg/w=1110,h=624"
+      },
+      {
         "id": "https://the5krunner.com/?p=136139",
         "title": "#1 Regulatory Filing: Week Ending 7 October 2026",
         "link": "https://the5krunner.com/2026/10/07/1-regulatory-filing-week-ending-7-october-2026/",
@@ -2245,12 +2253,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-thug-petrol-bombed-ex-34726763",
+        "title": "Lanarkshire thug petrol bombed ex-partner's home after 'vicious' attack on her",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-thug-petrol-bombed-ex-34726763",
+        "description": "Scott Urie also pulled out a clump of the woman's hair, grabbed her by the neck, punched her repeatedly and knocked her to the ground.",
+        "published": "Wed, 7 Oct 2026 06:34:12 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34649770.ece/ALTERNATES/s98/1_dmp_ham_090421court_004JPG.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/reading-age-target-set-glasgow-34725582",
         "title": "Reading age target set for all Glasgow children to make sure kids can read before high school",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/reading-age-target-set-glasgow-34725582",
         "description": "The attainment gap is higher among pupils with low attendance and children who are new to English",
         "published": "Wed, 7 Oct 2026 06:14:05 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34079694.ece/ALTERNATES/s98/0_GettyImages-685735848.jpg"
+      },
+      {
+        "id": "1f92b880f89e0b299144a8cfea16b3fd",
+        "title": "Students to take to streets for pro-Palestine marches on October 7 anniversary",
+        "link": "https://www.heraldscotland.com/news/26613617.pro-palestine-students-take-glasgow-edinburgh-streets/",
+        "description": "Students will take to the streets across the country for pro-Palestine marches on the third anniversary of Hamas\u2019s October 7 attacks.",
+        "published": "Wed, 07 Oct 2026 06:54:37 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/17597010/?type=app&htype=0"
       },
       {
         "id": "9f9964577ec502de7a1f1a8c19ed197d",
@@ -3027,22 +3051,6 @@
         "description": "The Edinburgh company's latest funding round is a major milestone, but female-led businesses still receive only a small share of equity investment",
         "published": "Mon, 05 Oct 2026 17:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21541062/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/victim-alleged-sexual-assault-glasgow-34720269",
-        "title": "Victim of alleged sexual assault on Glasgow train urged to come forward",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/victim-alleged-sexual-assault-glasgow-34720269",
-        "description": "A man was arrested in connection with the incident, but has since been released pending further enquiries.",
-        "published": "Mon, 5 Oct 2026 15:55:56 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34527069.ece/ALTERNATES/s98/1_JS379497539-9.jpg"
-      },
-      {
-        "id": "fe4ed4690624f5cfc9ac39136375470e",
-        "title": "Glasgow council outlines plans to tackle level of graffiti on city buildings",
-        "link": "https://www.glasgowtimes.co.uk/news/26609096.glasgow-council-outlines-plans-tackle-city-graffiti/",
-        "description": "Work to develop and enhance maintenance standards on Glasgow buildings by managing the level of graffiti is being carried out.",
-        "published": "Mon, 05 Oct 2026 16:26:52 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21285318/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
