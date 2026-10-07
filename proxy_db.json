@@ -2269,6 +2269,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-drivers-could-fined-2500-34727718",
+        "title": "Glasgow drivers could be fined \u00a32,500 and banned from road over MOT mistake",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-drivers-could-fined-2500-34727718",
+        "description": "Glaswegians are being reminded to check the rules before they drive away from the garage",
+        "published": "Wed, 7 Oct 2026 09:42:47 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34488517.ece/ALTERNATES/s98/0_Cars-queuing-near-Charing-Cross-in-Glasgow-at-a-motorway-junction.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/former-glasgow-gangster-paul-ferris-34727952",
+        "title": "Former Glasgow gangster Paul Ferris dies aged 62 after notorious life in city's underworld",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/former-glasgow-gangster-paul-ferris-34727952",
+        "description": "&quot;This has come as a great shock to everyone who knew Paul over the years.&quot;",
+        "published": "Wed, 7 Oct 2026 09:42:27 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article11346826.ece/ALTERNATES/s98/1_JS13235280.jpg"
+      },
+      {
+        "id": "23804c5ad220e508899c52739b8357ba",
+        "title": "THOUSANDS of jobs at risk as Royal Mail announces major reshuffle",
+        "link": "https://www.glasgowtimes.co.uk/news/26614461.thousands-royal-mail-jobs-risk-reshuffle-announced/",
+        "description": "Royal Mail plans to cut up to 2,500 UK head office and support jobs by 2027 in an organisational review amid falling letter volumes and rising parcel demand.",
+        "published": "Wed, 07 Oct 2026 10:37:04 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/15916012/?type=app&htype=0"
+      },
+      {
         "id": "b1b9221a40f35dd27c009f4653df0179",
         "title": "World's strongest brothers take on 180kg lift to urge Scots to reduce daily water use",
         "link": "https://www.glasgowtimes.co.uk/news/26614337.luke-tom-stoltman-urge-scots-reduce-daily-water-use/",
@@ -2283,6 +2307,14 @@
         "description": "Peel Ports will invest millions in a new 100,000 sq ft warehouse at Glasgow\u2019s King George V Dock, expanding logistics capacity and supply chain resilience.",
         "published": "Wed, 07 Oct 2026 10:18:28 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21548011/?type=app&htype=0"
+      },
+      {
+        "id": "11d93bcf131facc9870e39af0676e8c6",
+        "title": "Fire crews rush to town centre as blaze breaks out near shopping centre",
+        "link": "https://www.glasgowtimes.co.uk/news/26614260.fire-crews-called-blaze-near-hamilton-regent-centre/",
+        "description": "Fire crews were called to Hamilton Main Street after a fire broke out near the Regent Centre. Firefighters made the area safe after spending more than two hours at the scene.",
+        "published": "Wed, 07 Oct 2026 10:12:09 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21547966/?type=app&htype=567"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/exact-time-glasgow-area-hear-34727557",
@@ -3035,38 +3067,6 @@
         "description": "Matt Brittin's address to staff on Wednesday comes amid mounting speculation over the future of the BBC Scotland channel and what its loss would mean for viewers, jobs and Scotland's place within the BBC.",
         "published": "Tue, 06 Oct 2026 05:35:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21512521/?type=app&htype=0"
-      },
-      {
-        "id": "4def9e81ffc564e35a873f391c91ed13",
-        "title": "MSPs urged to seek update on impact of rape trials ruling amid 'lack of clarity'",
-        "link": "https://www.heraldscotland.com/news/26607909.call-update-rape-trials-ruling-amid-lack-clarity/",
-        "description": "MSPs are being urged to press ministers for an update on the impact of a landmark ruling by the Supreme Court which found Scottish courts were at risk of breaching European human rights law in sex case trials.",
-        "published": "Tue, 06 Oct 2026 05:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21431598/?type=app&htype=0"
-      },
-      {
-        "id": "7598919ed71df688cbc42cb1f9cdd501",
-        "title": "VisitScotland axed staff after ministers approved compulsory redundancies at agency",
-        "link": "https://www.heraldscotland.com/news/26609526.visitscotland-confirms-two-compulsory-redundancies/",
-        "description": "VisitScotland has confirmed it made two members of staff compulsorily redundant despite SNP ministers publicly insisting the Scottish Government maintained a no-compulsory-redundancy policy.",
-        "published": "Tue, 06 Oct 2026 05:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/17907049/?type=app&htype=0"
-      },
-      {
-        "id": "72391c0e46ca93fd5f6655b4606826fe",
-        "title": "'Remarkable evolution' of Scottish company hailed as one airport's growth flagged",
-        "link": "https://www.heraldscotland.com/news/26609013.menzies-aviations-hassan-el-houry-edinburgh-scottish-airports/",
-        "description": "Menzies Aviation chief executive Hassan El-Houry revealed his views on Edinburgh Airport's growth, other Scottish airports and an 'incredible story', in an exclusive interview with The Herald",
-        "published": "Tue, 06 Oct 2026 04:40:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21540819/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo#0",
-        "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
-        "link": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss",
-        "description": "The city's space boom raises questions about the role of the state in backing important industries.",
-        "published": "Mon, 05 Oct 2026 23:07:08 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3980/live/0ecbe1a0-c0cc-11f1-a64c-550be9e3c66b.png"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
