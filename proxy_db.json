@@ -2277,6 +2277,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "389c29e2c32afa81c5ff0af78642fe64",
+        "title": "Former priest jailed for sex offences against young boys dies behind bars",
+        "link": "https://www.glasgowtimes.co.uk/news/26615510.former-paisley-priest-committed-horrendous-sexual-crimes-dies/",
+        "description": "A former Paisley priest who committed \"horrendous sexual crimes\" on two young boys has died in prison.",
+        "published": "Wed, 07 Oct 2026 13:20:36 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19953527/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=532224",
+        "title": "Nine dogs euthanised after being found locked in cupboards amid \u2018horrific\u2019 neglect",
+        "link": "https://news.stv.tv/west-central/nine-dogs-euthanised-after-being-found-locked-in-cupboards-amid-horrific-neglect",
+        "description": "William and Anna Wallace kept more than a dozen Jack Russells and a German Shepherd locked in cupboards and cages at their home",
+        "published": "Wed, 07 Oct 2026 12:04:31 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/9fefa8224c037228540cf15ded3d32cf-1791373305-1080x720.jpeg"
+      },
+      {
+        "id": "e816fec581375c37a4bd7d5d844880e6",
+        "title": "Hebridean island linked to Bonnie Prince Charlie goes on sale",
+        "link": "https://www.heraldscotland.com/news/26615299.island-said-sheltered-bonnie-prince-charlie-sale/",
+        "description": "A private Scottish island said to have sheltered Bonnie Prince Charlie after the Battle of Culloden has gone on the market.",
+        "published": "Wed, 07 Oct 2026 12:39:45 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21549368/?type=app&htype=0"
+      },
+      {
         "id": "75f78144afdb2afec9c80a7e771d46dd",
         "title": "M8 traffic to slow when Glasgow road closes for the whole of next week",
         "link": "https://www.glasgowtimes.co.uk/news/26615291.m8-traffic-slow-week-long-glasgow-road-works-begin/",
@@ -2293,6 +2317,22 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/07/11/34/GettyImages-2298930427.jpeg?width=1200&auto=webp&trim=0%2C0%2C1%2C0"
       },
       {
+        "id": "c8c719c738766bbbd529e4779ca14e36",
+        "title": "Historic Scots castle undamaged by nearby fire",
+        "link": "https://www.heraldscotland.com/news/26615193.historic-burleigh-castle-perth-kinross-undamaged-close-fire/",
+        "description": "Firefighters battled for several hours to extinguish a blaze that broke out near a historic castle.",
+        "published": "Wed, 07 Oct 2026 12:23:34 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/17852716/?type=app&htype=0"
+      },
+      {
+        "id": "28c1b333a3a4f70826389be3afffd093",
+        "title": "New Glasgow waterfront flats plan submitted as \u00a3100m scheme progresses",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26615181.major-housing-development-proposed-glasgows-river-clyde/",
+        "description": "Major housing development proposed for Glasgow's River Clyde",
+        "published": "Wed, 07 Oct 2026 12:22:40 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21549476/?type=app&htype=339"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/vape-shop-opening-next-glasgow-34728601",
         "title": "Vape shop opening next to Glasgow Mackintosh Tearooms sparks petition after fire fear backlash",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/vape-shop-opening-next-glasgow-34728601",
@@ -2301,12 +2341,28 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34665795.ece/ALTERNATES/s98/1_Ashley.jpg"
       },
       {
+        "id": "878b9f7a2448ebfae4ec97b9a84768f6",
+        "title": "Major high street retailer to open new Dumbarton store creating 40 jobs",
+        "link": "https://www.heraldscotland.com/news/26615154.next-open-new-dumbarton-store-creating-40-new-jobs/",
+        "description": "A major high street retailer is opening a new store in Dumbarton, creating 40 new jobs.",
+        "published": "Wed, 07 Oct 2026 12:18:50 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20255890/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/former-paisley-priest-jailed-devastating-34728333",
         "title": "Former Paisley priest jailed for 'devastating' sexual abuse of young boys dies age 85",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/former-paisley-priest-jailed-devastating-34728333",
         "description": "At the time, Cassidy's victims were aged 16 and 8 years-old.",
         "published": "Wed, 7 Oct 2026 10:44:28 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34558866.ece/ALTERNATES/s98/0_JS202895327-1.jpg"
+      },
+      {
+        "id": "4a9db1fb894b713bc0d1fdec70a80821",
+        "title": "How a former watermill became one of Scotland's most influential restaurants",
+        "link": "https://www.heraldscotland.com/life_style/26602562.legacy-nick-nairns-braeval-restaurant-40-years/",
+        "description": "40 years after Nick Nairn and his then wife, Fiona, opened Braeval, chefs gathered to celebrate a restaurant whose influence can still be felt across Scottish dining today.",
+        "published": "Wed, 07 Oct 2026 11:40:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21531029/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=532189",
@@ -3019,62 +3075,6 @@
         "description": "<p>Dating back to 1978, Brechins Bar is one of the oldest licensed premises in the Govan area of Glasgow</p>",
         "published": "Tue, 06 Oct 2026 09:19:25 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/06/9/36/MixCollage-06-Oct-2026-10-14-AM-6190.jpg?width=1200&auto=webp&trim=0%2C174%2C0%2C175"
-      },
-      {
-        "id": "0261db027cbfb1f818f5a512666eeabc",
-        "title": "Police Scotland announce measures to tackle violent crime and anti-social behaviour",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26610236.police-outline-crime-crackdown-rutherglen-cambuslang/",
-        "description": "Police Scotland outlines action on violent crime, anti-social behaviour, drugs and road safety in Rutherglen and Cambuslang after September 2 update.",
-        "published": "Tue, 06 Oct 2026 09:54:07 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19694046/?type=app&htype=49"
-      },
-      {
-        "id": "https://www.thescottishsun.co.uk/?p=16904003",
-        "title": "Rod Stewart announces second Glasgow Hydro show on last ever tour after ticket frenzy",
-        "link": "https://www.thescottishsun.co.uk/tvandshowbiz/16904003/rod-stewart-adds-glasgow-hydro-show/",
-        "description": "SIR Rod Stewart has announced a second Glasgow Hydro show next year due to huge demand for his upcoming farewell tour. It comes after the 81-year-old rocker revealed he will retire and quit touring in 2027. And he will hit the road one last time next April, taking on venues across Europe \u2013 including a...",
-        "published": "Tue, 06 Oct 2026 09:42:16 +0100",
-        "image_url": "https://www.thescottishsun.co.uk/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcrop-16904178.jpg?quality%3D90%26"
-      },
-      {
-        "id": "0e21e0d97b3615353e731d7e3c545c32",
-        "title": "Former Yoker Primary site set for 33-home affordable housing scheme",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26610113.former-yoker-primary-site-set-33-home-housing-scheme/",
-        "description": "Sanctuary Scotland could buy Glasgow\u2019s former Yoker Primary School site for around 33 social homes.",
-        "published": "Tue, 06 Oct 2026 09:32:45 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21542277/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/tesco-60-rule-scottish-fuel-34721630",
-        "title": "Tesco \u00a360 rule at Scottish fuel stations until 18 October",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/tesco-60-rule-scottish-fuel-34721630",
-        "description": "Tesco shoppers can get help with their fill-up as prices soar due to the Iran conflict",
-        "published": "Tue, 6 Oct 2026 08:10:08 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34721674.ece/ALTERNATES/s98/0_Screenshot-2026-10-06-085939.png"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/fatal-accident-inquiry-death-low-34721572",
-        "title": "Fatal Accident Inquiry into death of Low Moss prisoner Kieran McGinley begins",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/fatal-accident-inquiry-death-low-34721572",
-        "description": "Kieran McGinley died at age 33 in the prison on April 24, 2023.",
-        "published": "Tue, 6 Oct 2026 07:59:52 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34558866.ece/ALTERNATES/s98/0_JS202895327-1.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-teen-arrested-over-attempted-34721363",
-        "title": "Glasgow teen arrested over 'attempted murder' of woman in Easterhouse",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-teen-arrested-over-attempted-34721363",
-        "description": "Officers have confirmed that their investigation into the incident is ongoing.",
-        "published": "Tue, 6 Oct 2026 07:18:55 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34721372.ece/ALTERNATES/s98/2_Allnach-Place.png"
-      },
-      {
-        "id": "2443d8e5ba06da208ec4691bb64a4098",
-        "title": "Glasgow-shot blockbuster's future in doubt after huge production update",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26609774.future-glasgow-shot-batman-part-ii-doubt-amid-update/",
-        "description": "Future of Glasgow-shot Batman Part II in doubt amid update",
-        "published": "Tue, 06 Oct 2026 08:06:51 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21351760/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
