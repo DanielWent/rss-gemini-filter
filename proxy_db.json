@@ -2269,6 +2269,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/vape-shop-opening-next-glasgow-34728601",
+        "title": "Vape shop opening next to Glasgow Mackintosh Tearooms sparks petition after fire fear backlash",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/vape-shop-opening-next-glasgow-34728601",
+        "description": "Glasgow artist Ashley Rawson is calling for a national licensing scheme for vape retailers to be introduced in Scotland.",
+        "published": "Wed, 7 Oct 2026 11:20:17 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34665795.ece/ALTERNATES/s98/1_Ashley.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/former-paisley-priest-jailed-devastating-34728333",
         "title": "Former Paisley priest jailed for 'devastating' sexual abuse of young boys dies age 85",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/former-paisley-priest-jailed-devastating-34728333",
@@ -2283,6 +2291,14 @@
         "description": "The path will be closed for four hours to allow for materials to be delivered via helicopter",
         "published": "Wed, 07 Oct 2026 10:39:45 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/1d78f293bcbc9e0e91e425339e14c8e0-1791367162-1280x720.jpeg"
+      },
+      {
+        "id": "34a25b68f29df713587bd3647619586b",
+        "title": "Glasgow landmark set for \u00a38m makeover as upgrade plans lodged",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26614847.federated-hermes-submits-upgrade-plans-glasgows-skypark/",
+        "description": "Federated Hermes submits upgrade plans for Glasgow's Skypark",
+        "published": "Wed, 07 Oct 2026 11:32:12 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21549026/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-far-right-rage-baiter-34728221",
@@ -3051,22 +3067,6 @@
         "description": "<p><img alt=\"Edinburgh MoRun 2026\" src=\"https://runabc.co.uk/images/2026/10/edinburgh-morun-2026-099307.jpg\" /></p>\n\t\t\t\t<p>Edinburgh MoRun returns to Holyrood Park on 28 November, 13 years after more than 1,000 runners took part in the city's first MoRun...</p>",
         "published": "Tue, 06 Oct 2026 07:55:00 +0100",
         "image_url": "https://runabc.co.uk/images/2026/10/edinburgh-morun-2026-099307.jpg"
-      },
-      {
-        "id": "c4c6c57c9e8794ab07b37a3020e3bd24",
-        "title": "Scots rockers Twin Atlantic cancel UK tour in shock announcement",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26609728.scots-rockers-twin-atlantic-cancel-uk-tour-shock-announcement/",
-        "description": "Scottish rock band Twin Atlantic have cancelled their upcoming UK tour as members take time away from the group following the release of their new album.",
-        "published": "Tue, 06 Oct 2026 07:27:11 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21078067/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-boy-caught-knife-gang-34720935",
-        "title": "Glasgow boy caught with knife as gang exploitation fears among children raised",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-boy-caught-knife-gang-34720935",
-        "description": "New figures show the number of children caught by police in possession of stolen goods has almost doubled in the space of four years.",
-        "published": "Tue, 6 Oct 2026 06:23:50 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34720978.ece/ALTERNATES/s98/0_JS328856523.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
