@@ -2245,6 +2245,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/reading-age-target-set-glasgow-34725582",
+        "title": "Reading age target set for all Glasgow children to make sure kids can read before high school",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/reading-age-target-set-glasgow-34725582",
+        "description": "The attainment gap is higher among pupils with low attendance and children who are new to English",
+        "published": "Wed, 7 Oct 2026 06:14:05 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34079694.ece/ALTERNATES/s98/0_GettyImages-685735848.jpg"
+      },
+      {
         "id": "9f9964577ec502de7a1f1a8c19ed197d",
         "title": "\u2018Abandoned by the state\u2019: Retired Scots police back Holyrood motion on pensions",
         "link": "https://www.heraldscotland.com/news/26612863.scottish-police-pension-delays-holyrood-motion-calls-action/",
@@ -3035,14 +3043,6 @@
         "description": "Work to develop and enhance maintenance standards on Glasgow buildings by managing the level of graffiti is being carried out.",
         "published": "Mon, 05 Oct 2026 16:26:52 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21285318/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cm15j38gkjjno#0",
-        "title": "Glasgow City Council and Unison reach agreement in pay and grading row",
-        "link": "https://www.bbc.co.uk/news/articles/cm15j38gkjjno?at_medium=RSS&at_campaign=rss",
-        "description": "The local authority says this means it will not consider dismissing and rehiring its staff.",
-        "published": "Mon, 05 Oct 2026 15:23:27 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd2c/live/a7aab9c0-a6f8-11f1-97e2-55b9ef1865bd.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
