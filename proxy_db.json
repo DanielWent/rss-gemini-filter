@@ -2269,12 +2269,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "b1b9221a40f35dd27c009f4653df0179",
+        "title": "World's strongest brothers take on 180kg lift to urge Scots to reduce daily water use",
+        "link": "https://www.glasgowtimes.co.uk/news/26614337.luke-tom-stoltman-urge-scots-reduce-daily-water-use/",
+        "description": "Luke and Tom Stoltman urge Scots to cut water use as Scottish Water\u2019s Glasgow campaign highlights 180 litres used per person daily in Scotland.",
+        "published": "Wed, 07 Oct 2026 10:21:13 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21548062/?type=app&htype=0"
+      },
+      {
+        "id": "67cf4d311336a2625470e7bc16052a77",
+        "title": "Deliveries to be streamlined by 'multi million pound investment' at Glasgow dock",
+        "link": "https://www.glasgowtimes.co.uk/news/26614309.deliveries-streamlined-investment-glasgow-dock/",
+        "description": "Peel Ports will invest millions in a new 100,000 sq ft warehouse at Glasgow\u2019s King George V Dock, expanding logistics capacity and supply chain resilience.",
+        "published": "Wed, 07 Oct 2026 10:18:28 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21548011/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/exact-time-glasgow-area-hear-34727557",
         "title": "Exact time Glasgow area to hear loud warning sirens this week and the reason why",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/exact-time-glasgow-area-hear-34727557",
         "description": "It will last for a maximum duration of one hour.",
         "published": "Wed, 7 Oct 2026 09:02:01 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34727609.ece/ALTERNATES/s98/0_Screenshot-2026-10-07-095825.png"
+      },
+      {
+        "id": "b1ffee53d1f6b68cd04ce375acde5d77",
+        "title": "BBC Scotland reveals first glimpses of legal drama which Mhairi Black will star in",
+        "link": "https://www.heraldscotland.com/news/26613968.bbc-scotland-reveals-first-look-glasgow-set-legal-drama-counsels/",
+        "description": "The glimpses of a new BBC Scotland drama series set across Glasgow's 'legal battlefield' have been revealed.",
+        "published": "Wed, 07 Oct 2026 10:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21547710/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/concerns-over-duke-wellington-cones-34727568",
@@ -3043,30 +3067,6 @@
         "description": "The city's space boom raises questions about the role of the state in backing important industries.",
         "published": "Mon, 05 Oct 2026 23:07:08 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3980/live/0ecbe1a0-c0cc-11f1-a64c-550be9e3c66b.png"
-      },
-      {
-        "id": "dc3bb9d5f920e3516049f817157f1637",
-        "title": "Four-year plan to transform 'fragile' Scottish music industry revealed",
-        "link": "https://www.heraldscotland.com/news/26609455.four-year-plan-make-scottish-music-industry-fairer-revealed/",
-        "description": "Scottish music industry leaders want the country to become a 'better place' to build and sustain a music career or business.",
-        "published": "Tue, 06 Oct 2026 00:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20255226/?type=app&htype=0"
-      },
-      {
-        "id": "a554982def1693fa10c37a5ab3f102af",
-        "title": "Most Scottish firms say Government does not understand business, survey finds",
-        "link": "https://www.heraldscotland.com/news/26609586.majority-scottish-firms-say-government-lacks-business-insight/",
-        "description": "Scottish Business Monitor: 69% of firms say ministers do not understand business, as companies call for business rates reform amid economic uncertainty.",
-        "published": "Tue, 06 Oct 2026 00:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21410244/?type=app&htype=0"
-      },
-      {
-        "id": "ce60616f900ce57bb233b9f9025b5bd4",
-        "title": "Wunderbar owners seek flats on Glasgow site previously approved for beer garden",
-        "link": "https://www.heraldscotland.com/news/26609606.wunderbar-owners-seek-flats-glasgow-council-land/",
-        "description": "The owners of Wunderbar in Glasgow\u2019s west end could buy council-owned land next to the venue to build flats.",
-        "published": "Mon, 05 Oct 2026 20:48:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21541737/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
