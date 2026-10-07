@@ -2245,6 +2245,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9f9964577ec502de7a1f1a8c19ed197d",
+        "title": "\u2018Abandoned by the state\u2019: Retired Scots police back Holyrood motion on pensions",
+        "link": "https://www.heraldscotland.com/news/26612863.scottish-police-pension-delays-holyrood-motion-calls-action/",
+        "description": "Retired police officers hit out over Scottish pension delays as MSP Pauline McNeill lodges a Holyrood motion calling for urgent action after Herald reports.",
+        "published": "Wed, 07 Oct 2026 06:33:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20666332/?type=app&htype=0"
+      },
+      {
+        "id": "caf5a157293a01890cb56092cb6fc7df",
+        "title": "Revealed: Ethics watchdog memo warned its own rules could silence Scots councillors",
+        "link": "https://www.heraldscotland.com/news/26613222.standards-commissions-freedom-speech-warning-revealed/",
+        "description": "Standards Commission papers reveal it own internal warnings that Scotland\u2019s councillors could have their freedom of speech curbed by the Code of Conduct.",
+        "published": "Wed, 07 Oct 2026 06:32:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21540672/?type=app&htype=0"
+      },
+      {
+        "id": "1c6c1765cf9ca8d99573beb1c7041383",
+        "title": "Woman whose mum has Alzheimer's bids to overturn plan to shut day centres",
+        "link": "https://www.glasgowtimes.co.uk/news/26612670.woman-campaigns-glasgow-plan-cut-day-centres/",
+        "description": "A woman is campaigning to overturn Glasgow City Council\u2019s plan to cut older people\u2019s day care centres.",
+        "published": "Wed, 07 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21546769/?type=app&htype=0"
+      },
+      {
+        "id": "c4e8f6ff489a3fa54ee23a1b37ca336e",
+        "title": "Church near Glasgow hopes to reopen by Xmas as \u00a3907k restoration nears completion",
+        "link": "https://www.glasgowtimes.co.uk/news/26611832.hope-grows-christmas-return-historic-barrhead-church/",
+        "description": "St John's Church in Barrhead, near Glasgow, hopes to reopen in time for Christmas as major restoration work continues on the historic building following years of water damage",
+        "published": "Wed, 07 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21525482/?type=app&htype=0"
+      },
+      {
+        "id": "3944d6d743dbfc812ecf37e0b7ba64cc",
+        "title": "Scotland's first stained glass museum to open in landmark Glasgow church",
+        "link": "https://www.glasgowtimes.co.uk/news/26611267.scotlands-first-stained-glass-museum-open-glasgow/",
+        "description": "Scotland\u2019s first stained glass museum, celebrating Glasgow artist Alf Webster, is set to open at Lansdowne Church in early 2027.",
+        "published": "Wed, 07 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21543653/?type=app&htype=0"
+      },
+      {
         "id": "5943f77603ba8cb6f5612a16f359532b",
         "title": "What happened? How Denmark pulled away from Scotland in just 25 years",
         "link": "https://www.heraldscotland.com/news/26612208.denmark-model-surged-ahead-scotlands-economy/",
@@ -3003,38 +3043,6 @@
         "description": "The local authority says this means it will not consider dismissing and rehiring its staff.",
         "published": "Mon, 05 Oct 2026 15:23:27 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd2c/live/a7aab9c0-a6f8-11f1-97e2-55b9ef1865bd.jpg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=531884",
-        "title": "Convicted killer bit police officer after being found intoxicated in flat block",
-        "link": "https://news.stv.tv/west-central/convicted-killer-bit-police-officer-after-being-found-intoxicated-in-flat-block",
-        "description": "Kayleigh Murray was previously jailed for killing Paul Woods in a single-punch attack in 2010.",
-        "published": "Mon, 05 Oct 2026 15:22:08 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2023/05/d170e81d0e58dcd0c17a1e144b2c6953-1683727170-1120x720.jpg"
-      },
-      {
-        "id": "480c21d7869a29c09cc0746d5aaa9aa9",
-        "title": "Glasgow removing vandalised phone boxes and obsolete toilet block from city centre",
-        "link": "https://www.glasgowtimes.co.uk/news/26608978.glasgow-council-removes-old-phone-boxes-toilet-block/",
-        "description": "Work to remove obsolete and vandalised infrastructure including old phone boxes continues to be carried out by the council across Glasgow.",
-        "published": "Mon, 05 Oct 2026 16:11:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18076711/?type=app&htype=0"
-      },
-      {
-        "id": "5193501",
-        "title": "Glasgow History: A look at 140 years of change on the Broomielaw in 12 pictures",
-        "link": "https://www.glasgowworld.com/retro/river-kelvin-transformation-photos-9268222",
-        "description": "<p>Explore the rich history of the Broomielaw through 12 extraordinary photos capturing its 140-year journey.</p>",
-        "published": "Mon, 05 Oct 2026 14:59:56 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/06/25/9/08/c0725.png?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "6ad62b95ea7a49523490b6151ee6bc52",
-        "title": "Glasgow's Princes Square owner snaps up major Scots shopping centre in huge deal",
-        "link": "https://www.glasgowtimes.co.uk/news/26608909.east-kilbride-shopping-centre-bought-princes-square-glasgow-firm/",
-        "description": "M Core has acquired East Kilbride Shopping Centre, its third major Scottish investment, adding the one-million-square-foot destination to its portfolio.",
-        "published": "Mon, 05 Oct 2026 15:59:31 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21539765/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
