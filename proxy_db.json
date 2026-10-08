@@ -2341,6 +2341,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "4f979145c3b93bfca8e460375696ed90",
+        "title": "This new takeaway could be coming to the Southside of Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26619208.new-takeaway-coming-southside-glasgow/",
+        "description": "A new takeaway could be coming to the Southside of Glasgow.",
+        "published": "Thu, 08 Oct 2026 13:32:40 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20305675/?type=app&htype=0"
+      },
+      {
+        "id": "1c307c38ceb30db6b0542d1ed1060571",
+        "title": "Plans revealed for new visitor centre at Mackintosh's Hill House",
+        "link": "https://www.heraldscotland.com/news/26619091.plans-revealed-hill-house-visitor-centre-project/",
+        "description": "Plans revealed for a new Hill House visitor centre in Helensburgh include a caf\u00e9, shop and interpretation facilities, with public drop-in session on October 15.",
+        "published": "Thu, 08 Oct 2026 13:08:07 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21547811/?type=app&htype=0"
+      },
+      {
         "id": "70817ef85b9afe6d01e1700aab57e31f",
         "title": "Woman thought she was \u2018watching someone being killed\u2019 during savage Glasgow attack",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26619079.mark-heggie-jailed-five-years-glasgow-buchanan-street-attack/",
@@ -2371,6 +2387,14 @@
         "description": "<p>A new bus route will link Edinburgh City Centre with Glasgow Airport</p>",
         "published": "Thu, 08 Oct 2026 11:50:06 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/08/11/48/Group-image-for-903-Citylink-route-launch.jpeg?width=1200&auto=webp&trim=701%2C0%2C702%2C0"
+      },
+      {
+        "id": "34fd785a8e2ec2a9fe20f34e32113885",
+        "title": "Community left devastated after vandals attack \u00a335k kids sensory play area",
+        "link": "https://www.glasgowtimes.co.uk/news/26618966.cumbernauld-sensory-board-removed-vandalism/",
+        "description": "Volunteers behind a \u00a335,000 Cumbernauld community project say a sensory board could be removed after being vandalised again.",
+        "published": "Thu, 08 Oct 2026 12:46:13 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21554823/?type=app&htype=437"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/c6kg7nkp18w7o#0",
