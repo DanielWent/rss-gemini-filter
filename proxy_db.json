@@ -2260,6 +2260,14 @@
     "icon_url": "https://runabc.co.uk/favicon.ico",
     "articles": [
       {
+        "id": "https://runabc.co.uk/run-with-the-wind-10k-has-changed-but-the-name-lives-on",
+        "title": "Run With The Wind 10K Has Changed But The Name Lives On",
+        "link": "https://runabc.co.uk/run-with-the-wind-10k-has-changed-but-the-name-lives-on",
+        "description": "<p><img alt=\"Strathaven Striders Run With The Wind 10K 2026\" src=\"https://runabc.co.uk/images/2026/10/strathaven-striders-run-with-the-wind-10k-2026.jpg\" /></p>\n\t\t\t\t<p>Strathaven Striders' Run With The Wind 10K returns on 1 November on a very different course from the race that gave the event its memorable name...</p>",
+        "published": "Thu, 08 Oct 2026 07:55:00 +0100",
+        "image_url": "https://runabc.co.uk/images/2026/10/strathaven-striders-run-with-the-wind-10k-2026.jpg"
+      },
+      {
         "id": "https://runabc.co.uk/newton-road-races-remember-cat-gaskell-in-cambuslang",
         "title": "Newton Road Races Remember Cat Gaskell In Cambuslang",
         "link": "https://runabc.co.uk/newton-road-races-remember-cat-gaskell-in-cambuslang",
@@ -2316,6 +2324,30 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-easyjet-flight-makes-emergency-34733138",
+        "title": "Glasgow easyJet flight makes emergency diversion after passenger needed CPR",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-easyjet-flight-makes-emergency-34733138",
+        "description": "Flight U23170 from Cyprus to Glasgow had been airborne for around four hours when the passenger became critically ill.",
+        "published": "Thu, 8 Oct 2026 07:00:57 +0000",
+        "image_url": "https://i2-prod.liverpoolecho.co.uk/incoming/article33833606.ece/ALTERNATES/s98/0_easyjet15.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cqm2dev92nw7o#0",
+        "title": "Teenager charged over death of 21-year-old in city centre",
+        "link": "https://www.bbc.co.uk/news/articles/cqm2dev92nw7o?at_medium=RSS&at_campaign=rss",
+        "description": "Daniel Colrain, 21, was found with serious injuries in Royal Exchange Square on Sunday and died in hospital a day later.",
+        "published": "Thu, 08 Oct 2026 06:55:03 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f19/live/4d91f280-c19e-11f1-8fa2-19a1e9b6288f.jpg"
+      },
+      {
+        "id": "https://runabc.co.uk/run-with-the-wind-10k-has-changed-but-the-name-lives-on",
+        "title": "Run With The Wind 10K Has Changed But The Name Lives On",
+        "link": "https://runabc.co.uk/run-with-the-wind-10k-has-changed-but-the-name-lives-on",
+        "description": "<p><img alt=\"Strathaven Striders Run With The Wind 10K 2026\" src=\"https://runabc.co.uk/images/2026/10/strathaven-striders-run-with-the-wind-10k-2026.jpg\" /></p>\n\t\t\t\t<p>Strathaven Striders' Run With The Wind 10K returns on 1 November on a very different course from the race that gave the event its memorable name...</p>",
+        "published": "Thu, 08 Oct 2026 07:55:00 +0100",
+        "image_url": "https://runabc.co.uk/images/2026/10/strathaven-striders-run-with-the-wind-10k-2026.jpg"
+      },
       {
         "id": "d426bcd340e2981b3eb2ab97e0d429ed",
         "title": "Disruption as Glasgow train services cancelled amid ongoing incident",
@@ -2709,14 +2741,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21550322/?type=app&htype=0"
       },
       {
-        "id": "9272850",
-        "title": "Daniel Colrain death: 19-year-old man arrested in connection with death of Daniel Colrain in Glasgow",
-        "link": "https://www.glasgowworld.com/news/19-year-old-man-arrested-in-connection-with-death-of-daniel-colrain-in-glasgow-9272850",
-        "description": "<p>Police arrest 19-year-old man in connection with death of Daniel Colrain</p>",
-        "published": "Wed, 07 Oct 2026 13:12:49 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/07/7/10/danielc.png?width=1200&auto=webp&trim=43%2C0%2C44%2C0"
-      },
-      {
         "id": "84b3757b0f807ff7d26d2c8aacb964a6",
         "title": "Glasgow healthcare facility acquired by dental operator amid expansion plans",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26615781.glasgow-healthcare-facility-acquired-truly-dental/",
@@ -3099,22 +3123,6 @@
         "description": "A film writer and historian is campaigning for Edinburgh to be recognised as the birthplace of the 'talking' feature film instead of New York.",
         "published": "Wed, 07 Oct 2026 00:01:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21546966/?type=app&htype=0"
-      },
-      {
-        "id": "022e385996c2affc09b27d12ea89166e",
-        "title": "Healthcare worker jailed for sexual assaulting vulnerable teen in Glasgow hospital",
-        "link": "https://www.glasgowtimes.co.uk/news/26613465.hospital-worker-jailed-sexual-assaulting-teen-glasgow/",
-        "description": "A HEALTHCARE support worker claimed he was playing Grand Theft Auto after sexually assaulting a vulnerable woman has been jailed for 20 months",
-        "published": "Tue, 06 Oct 2026 20:11:54 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16487088/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/cops-release-cctv-images-man-34726369",
-        "title": "Cops release CCTV images of man as probe continues into deliberate Glasgow fire",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/cops-release-cctv-images-man-34726369",
-        "description": "Emergency services were called to the incident on Nelson Street earlier this year.",
-        "published": "Tue, 6 Oct 2026 19:03:37 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34726370.ece/ALTERNATES/s98/0_7553868f-eeae-430e-858b-9c6d26847c70jfif.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
