@@ -2341,6 +2341,54 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasglow-disruption-increases-year-year-34736030",
+        "title": "Glasglow disruption 'increases year on year' complain neighbours  as Botanics event licence granted",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasglow-disruption-increases-year-year-34736030",
+        "description": "There are concerns the event is causing environmental damage to a beloved park.",
+        "published": "Thu, 8 Oct 2026 13:25:52 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article15499633.ece/ALTERNATES/s98/1_GlasGLOW-2.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/camra-names-glasgows-best-traditional-34735336",
+        "title": "CAMRA names Glasgow's best traditional beer pubs and asks members to help pick a winner",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/camra-names-glasgows-best-traditional-34735336",
+        "description": "The Campaign for Real Ale (CAMRA) is looking to name the best beer pub in the city.",
+        "published": "Thu, 8 Oct 2026 13:19:46 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34735340.ece/ALTERNATES/s98/4_JS363515860jpgt.jpg"
+      },
+      {
+        "id": "a06e712efc2ca8f7ebc306355d1b20ee",
+        "title": "Glasgow homes and businesses urged to prepare for winter power cuts",
+        "link": "https://www.glasgowtimes.co.uk/news/26619416.glasgow-homes-businesses-urged-prepare-power-cuts/",
+        "description": "More than 3.5 million homes and businesses are being urged to prepare for possible power cuts.",
+        "published": "Thu, 08 Oct 2026 14:14:20 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21555173/?type=app&htype=0"
+      },
+      {
+        "id": "1e45ec0451803d869657833634f7b0fc",
+        "title": "CCTV shows missing schoolboy in Glasgow station amid desperate appeal to find him",
+        "link": "https://www.glasgowtimes.co.uk/news/26619411.cctv-shows-missing-lanark-schoolboy-motherwell-visit/",
+        "description": "Desperate detectives searching for a missing schoolboy have released a CCTV image of him inside a Glasgow station as efforts to trace his whereabouts continues.",
+        "published": "Thu, 08 Oct 2026 14:13:03 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21555088/?type=app&htype=0"
+      },
+      {
+        "id": "9275125",
+        "title": "ZEISS acquires Ceres Holographics to drive holography industrialisation",
+        "link": "https://www.glasgowworld.com/must-read/zeiss-buys-ceres-holographics-to-accelerate-holography-industrialisation-9275125",
+        "description": "<p>  According to ZEISS, the move will help bring holographic windscreen displays into mainstream use more quickly.  </p>",
+        "published": "Thu, 08 Oct 2026 13:05:02 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/08/12/39/assets_MS2005023_000001_20261008034658EDT_image_1.jpg?width=1200&auto=webp&trim=124%2C0%2C125%2C0"
+      },
+      {
+        "id": "30511b4d0840ecd146a4181a19c48316",
+        "title": "Woman drove off with workman clinging to bonnet after row over Glasgow parking space",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26619350.woman-admitted-driving-workman-bonnet-glasgow/",
+        "description": "Tracey Kelly, 56, of Clydebank, admitted assaulting a workman after driving with him clinging to the bonnet of her car following a dispute over parking in Glasgow's Partick.",
+        "published": "Thu, 08 Oct 2026 14:02:10 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21194148/?type=app&htype=0"
+      },
+      {
         "id": "4f979145c3b93bfca8e460375696ed90",
         "title": "This new takeaway could be coming to the Southside of Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26619208.new-takeaway-coming-southside-glasgow/",
