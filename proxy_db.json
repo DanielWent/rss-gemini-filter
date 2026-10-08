@@ -2373,6 +2373,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "4210de490c6cd76b37b523653aecdd4f",
+        "title": "'We'd be in tears' - Worshippers fear losing Catholic church under merger plans",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26620236.worshippers-fear-church-glasgow-merger-plans/",
+        "description": "St Patrick\u2019s Church in Old Kilpatrick could close as part of Archdiocese of Glasgow plans to merge it with St Stephen\u2019s, prompting emotional parishioners.",
+        "published": "Thu, 08 Oct 2026 16:13:53 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21556088/?type=app&htype=594"
+      },
+      {
+        "id": "a1bde0eeda3a353be87cf14a3f16e149",
+        "title": "Major update issued on roadworks near Glasgow Airport",
+        "link": "https://www.glasgowtimes.co.uk/news/weather/26620234.major-update-issued-roadworks-near-glasgow-airport/",
+        "description": "Roadworks near Glasgow Airport have been postponed.",
+        "published": "Thu, 08 Oct 2026 16:13:51 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17882119/?type=app&htype=0"
+      },
+      {
+        "id": "9275594",
+        "title": "Glasgow landlord struck off after cocaine and cannabis supply conviction",
+        "link": "https://www.glasgowworld.com/news/glasgow-landlord-struck-off-after-cocaine-and-cannabis-supply-conviction-9275594",
+        "description": "<p>Klodian Ferizolli, a 32-year-old car wash owner and director of a property management company, has been struck off the city\u2019s landlords register after being convicted of supplying and selling cocaine and cannabis.</p>",
+        "published": "Thu, 08 Oct 2026 15:00:30 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/02/16/cs-219a8b61-f574-43f8-85c0-ff757d47a51b.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-city-council-continue-relationship-34736880",
         "title": "Glasgow City Council to continue relationship with BT in bid to remove old phone boxes",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-city-council-continue-relationship-34736880",
@@ -2387,6 +2411,14 @@
         "description": "Ten Glasgow chippies are finalists in the Scottish Fish and Chip Awards, competing in categories including best fish supper, chip shop and family business.",
         "published": "Thu, 08 Oct 2026 15:38:22 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/16711200/?type=app&htype=0"
+      },
+      {
+        "id": "08cd5ac2b2b59d2e4af6e9c32c9d33bc",
+        "title": "Restoration of beavers to River Tweed a 'bad idea', councillor warns",
+        "link": "https://www.heraldscotland.com/news/26619960.beavers-restoration-river-tweed-bad-idea-councillor-warns/",
+        "description": "The restoration of beavers to the River Tweed is a \u201cbad idea\u201d, an East Berwickshire councillor has warned",
+        "published": "Thu, 08 Oct 2026 15:36:53 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21555944/?type=app&htype=0"
       },
       {
         "id": "6048d39c038d561172a2c4c52508faf0",
@@ -2411,6 +2443,22 @@
         "description": "A woman accused of murdering her 78-year-old aunt in Hamilton has been ruled unfit to stand trial due to mental illness. An examination of facts will now take place in November 2026.",
         "published": "Thu, 08 Oct 2026 15:20:48 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21555821/?type=app&htype=0"
+      },
+      {
+        "id": "499766497737e18a2c86a4b91ae25523",
+        "title": "Dealer ex-policeman caught with drugs three times in seven months",
+        "link": "https://www.heraldscotland.com/news/26619807.ex-glasgow-policeman-caught-drugs-three-times-seven-months/",
+        "description": "A drug dealing former police officer was stopped three times in seven months with illegal narcotics in cars.",
+        "published": "Thu, 08 Oct 2026 15:13:59 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/16196411/?type=app&htype=0"
+      },
+      {
+        "id": "9e962b53edf2899b3b915a7f53bff446",
+        "title": "New winter NHS plan targets delayed discharge as pressure builds across Scotland",
+        "link": "https://www.heraldscotland.com/news/26619795.scotland-unveils-winter-nhs-plan-tackle-hospital-pressures/",
+        "description": "Scotland\u2019s winter NHS plan will target delayed discharge, hospital flow and care closer to home as ministers prepare for increased pressure on health and social care services.",
+        "published": "Thu, 08 Oct 2026 15:12:53 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20307281/?type=app&htype=0"
       },
       {
         "id": "6002c62e479ad217d3bf5c8a1a04575f",
@@ -2445,6 +2493,22 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21555671/?type=app&htype=0"
       },
       {
+        "id": "ab0c735fd243b814df9f2cf59fcabd5b",
+        "title": "'Sad but necessary' - Glasgow reacts to plans to close 24 Catholic churches",
+        "link": "https://www.glasgowtimes.co.uk/news/26619627.sad-necessary--reaction-glasgow-church-cuts/",
+        "description": "Catholics across Glasgow have expressed sadness and concern over plans to close 24 churches and halve the number of parishes, with many saying the move was necessary amid falling congregations and a shortage of priests",
+        "published": "Thu, 08 Oct 2026 14:48:09 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19902528/?type=app&htype=0"
+      },
+      {
+        "id": "ec97e27a590ca5069f0cd0e248a93cd5",
+        "title": "Edinburgh councillors pledge help for 200 tenants facing St Margaret\u2019s House eviction",
+        "link": "https://www.heraldscotland.com/news/26619542.edinburgh-councillors-pledge-help-st-margarets-house-tenants/",
+        "description": "Caledonian Trust told The Herald that it is in discussions with a 'preferred party' about purchasing the site, which has been used by Scot-ART since 2008.",
+        "published": "Thu, 08 Oct 2026 14:47:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21516645/?type=app&htype=0"
+      },
+      {
         "id": "d367c45c0f555c8920f7408e2c6d972e",
         "title": "West End pizzeria appeals council order claiming its pizza slices are sold cold",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26619598.glasgow-pizzeria-appeals-council-order-hot-takeaway/",
@@ -2475,6 +2539,22 @@
         "description": "Tributes paid to Canon John McGrorry, former priest at St Joseph\u2019s Milngavie and St Kessog\u2019s Balloch, who has died aged 67 after a long career in Glasgow.",
         "published": "Thu, 08 Oct 2026 14:24:08 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21555227/?type=app&htype=56"
+      },
+      {
+        "id": "f0ea56b0f1b96340554be84da63f032e",
+        "title": "'Up to 50' Police Scotland officers suspended due to violence against women and girls",
+        "link": "https://www.heraldscotland.com/news/26619467.up-50-police-scotland-officers-suspended-abusing-women/",
+        "description": "Up to 50 serving officers with Police Scotland are currently suspended from their job over allegations of violence against women and girls",
+        "published": "Thu, 08 Oct 2026 14:23:07 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21336231/?type=app&htype=0"
+      },
+      {
+        "id": "b1f308a2493c01798dba17ec857b08e5",
+        "title": "Still Game and Coronation Street actor admits making 83 indecent images of children",
+        "link": "https://www.heraldscotland.com/news/26619429.irvine-still-game-actor-admits-indecent-images-charges/",
+        "description": "Coronation Street and Still Game actor Eric Potts admits making 83 indecent images of children and sharing five; he faces a prison sentence following guilty plea.",
+        "published": "Thu, 08 Oct 2026 14:21:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21552703/?type=app&htype=97"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/camra-names-glasgows-best-traditional-34735336",
