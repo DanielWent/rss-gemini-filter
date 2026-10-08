@@ -2325,6 +2325,22 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/8432961/?type=app&htype=0"
       },
       {
+        "id": "372dbb4a41fcdb7c625d6d60ba45df13",
+        "title": "I spent the summer painting Glasgow's gardens - here's what I discovered",
+        "link": "https://www.glasgowtimes.co.uk/news/26612395.landscape-artist-finalist-celebrates-glasgows-gardens/",
+        "description": "Landscape Artist of the Year finalist Libby Walker explores Glasgow's gardens in a new exhibition featuring 17 paintings inspired by the city's allotments, shared spaces and private green havens.",
+        "published": "Thu, 08 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21545470/?type=app&htype=0"
+      },
+      {
+        "id": "19b6a9f5d3c2e6ca6ee68b7004fa4fbd",
+        "title": "Deaf Glasgow sailor's world-first voyage and education journey celebrated in city",
+        "link": "https://www.glasgowtimes.co.uk/news/26613357.glasgow-exhibition-honours-deaf-sailors-world-first-feat/",
+        "description": "A groundbreaking exhibition at Glasgow's Riverside Museum tells the story of Dr Gerry Hughes, the first deaf person to sail solo around the world, with BSL at the heart of the visitor experience.",
+        "published": "Thu, 08 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21551564/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-clash-anti-migrant-protesters-34732939",
         "title": "Police clash with anti-migrant protesters in Glasgow's East End as roads closed",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-clash-anti-migrant-protesters-34732939",
@@ -2347,14 +2363,6 @@
         "description": "RBS and NatWest report calls for targeted support for Scotland\u2019s 4,400 mid-market firms, tackling technology, talent and trade barriers to growth.",
         "published": "Thu, 08 Oct 2026 00:01:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21549418/?type=app&htype=0"
-      },
-      {
-        "id": "7a30efb538bf5dcb78e1f47a963abce3",
-        "title": "LIVE updates as police close streets in Glasgow's East End amid 'incident'",
-        "link": "https://www.glasgowtimes.co.uk/news/26617184.live-updates-police-close-parkhead-cross-glasgow/",
-        "description": "Police have closed Parkhead Cross due to reports of a 'protest' in the East End of Glasgow",
-        "published": "Wed, 07 Oct 2026 20:09:03 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17309056/?type=app&htype=0"
       },
       {
         "id": "5a6b43ef109c7252829fccb3aa165ef2",
@@ -2909,14 +2917,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21545252/?type=app&htype=0"
       },
       {
-        "id": "8ab7a9021a12c52fb6ed41e74e537fbc",
-        "title": "Students to take to Glasgow streets for pro-Palestine march on October 7 anniversary",
-        "link": "https://www.glasgowtimes.co.uk/news/26613742.pro-palestine-students-take-glasgow-edinburgh-streets/",
-        "description": "Students will take to the streets across the country for pro-Palestine marches on the third anniversary of Hamas\u2019s October 7 attacks.",
-        "published": "Wed, 07 Oct 2026 08:34:06 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17597010/?type=app&htype=0"
-      },
-      {
         "id": "9270531",
         "title": "Rangers to hold out for 'cut price' deal on transfer target in January window after collapsed summer talks",
         "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-to-hold-out-for-cut-price-deal-on-transfer-target-in-january-after-collapsed-summer-talks-9270531",
@@ -3067,14 +3067,6 @@
         "description": "Stuart McMillan, the Inverclyde MSP and piper, has invoked the British state's crackdown after Culloden in a letter demanding the BBC reverse plans to drop its World Pipe Band Championships coverage. The corporation insists no final decision has been taken.",
         "published": "Tue, 06 Oct 2026 19:06:51 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/19801664/?type=app&htype=0"
-      },
-      {
-        "id": "b964ffeb26628ec57f8d8f817db07f76",
-        "title": "Swinney says \u00a3586m Gupta smelter guarantee was 'rational decision for government'",
-        "link": "https://www.heraldscotland.com/news/26613381.swinney-defends-rational-586m-lochaber-smelter-guarantee/",
-        "description": "John Swinney defended the Scottish Government's \u00a3586m taxpayer guarantee on Sanjeev Gupta's Lochaber smelter as 'rational' at FMQs, but declined to answer whether ministers knew investors could profit regardless of whether any aluminium was ever produced.",
-        "published": "Tue, 06 Oct 2026 18:15:43 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/4919355/?type=app&htype=0"
       },
       {
         "id": "614cedb6696d314d1b52d15d23f8bc43",
