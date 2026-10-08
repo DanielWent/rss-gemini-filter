@@ -2325,6 +2325,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9274208",
+        "title": "Pulpex opens first commercial fibre bottle factory near Glasgow",
+        "link": "https://www.glasgowworld.com/must-read/pulpex-opens-first-commercial-fibre-bottle-factory-near-glasgow-9274208",
+        "description": "<p>Pulpex, the UK packaging technology company, has opened its first commercial manufacturing facility near Glasgow, marking a major milestone in the scale-up of fibre-based packaging.   </p>",
+        "published": "Thu, 08 Oct 2026 09:08:58 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/08/9/34/assets_MS1998350_000001_IMG_4098-(1).JPEG?width=1200&auto=webp&trim=22%2C0%2C148%2C0"
+      },
+      {
+        "id": "f5b9f6ef76e017b48895216f4d1b26c7",
+        "title": "Man arrested following anti-immigration protest in Glasgow's East End",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26617887.man-arrested-following-anti-immigration-protest-glasgows-east-end/",
+        "description": "A man has been arrested following an anti-immigration protest in Glasgow involving people wearing balaclavas.",
+        "published": "Thu, 08 Oct 2026 10:03:55 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21552981/?type=app&htype=0"
+      },
+      {
         "id": "895d0df7372e89d5a8e6c310ec9170b5",
         "title": "Urgent appeal for adoptive families as around 3500 children wait across the UK",
         "link": "https://www.glasgowtimes.co.uk/news/26617723.glasgow-charity-issued-urgent-appeal-adoptive-families/",
@@ -3107,22 +3123,6 @@
         "description": "St John's Church in Barrhead, near Glasgow, hopes to reopen in time for Christmas as major restoration work continues on the historic building following years of water damage",
         "published": "Wed, 07 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21525482/?type=app&htype=0"
-      },
-      {
-        "id": "3944d6d743dbfc812ecf37e0b7ba64cc",
-        "title": "Scotland's first stained glass museum to open in landmark Glasgow church",
-        "link": "https://www.glasgowtimes.co.uk/news/26611267.scotlands-first-stained-glass-museum-open-glasgow/",
-        "description": "Scotland\u2019s first stained glass museum, celebrating Glasgow artist Alf Webster, is set to open at Lansdowne Church in early 2027.",
-        "published": "Wed, 07 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21543653/?type=app&htype=0"
-      },
-      {
-        "id": "5943f77603ba8cb6f5612a16f359532b",
-        "title": "What happened? How Denmark pulled away from Scotland in just 25 years",
-        "link": "https://www.heraldscotland.com/news/26612208.denmark-model-surged-ahead-scotlands-economy/",
-        "description": "Scotland and Denmark began the century on similar footing. Twenty-five years later, Denmark is richer, healthier and growing faster",
-        "published": "Wed, 07 Oct 2026 04:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21546142/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
