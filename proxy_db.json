@@ -1802,6 +1802,22 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "d0f91d53b48960b306b4bf15901a1028",
+        "title": "Runner in giant bear costume smashes world record at Great Scottish Run",
+        "link": "https://www.glasgowtimes.co.uk/news/26618329.glasgow-runner-breaks-world-record-giant-bear-costume/",
+        "description": "David Pearson claims the mascot half-marathon world record in a bear costume at the Great Scottish Run on October 4.",
+        "published": "Thu, 08 Oct 2026 11:11:33 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21553662/?type=app&htype=0"
+      },
+      {
+        "id": "af150ab7d499c4fa0017632304edf3ca",
+        "title": "War of words erupts as council leader takes dig at newly elected MSP amid parking row",
+        "link": "https://www.glasgowtimes.co.uk/news/26618011.council-leader-msp-clash-controversial-parking-charges-scheme/",
+        "description": "A war of words has broken out over controversial parking charges in Kirkintilloch and Bearsden after council leader Gordon Low accused MSP Adam Harley of showing a 'lack of understanding' of council finances.",
+        "published": "Thu, 08 Oct 2026 10:23:03 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21553138/?type=app&htype=0"
+      },
+      {
         "id": "280872452aead7256cd7f1d07006fbbd",
         "title": "The Archdiocese of Glasgow reveals plans to close 24 churches in major restructure",
         "link": "https://www.glasgowtimes.co.uk/news/26617091.archdiocese-glasgow-release-plans-24-churches/",
@@ -2325,6 +2341,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "70f0c855712ac9eaec71f3637ad23376",
+        "title": "Ed Night to bring acclaimed Remains comedy tour to Glasgow next April",
+        "link": "https://www.glasgowtimes.co.uk/news/26618523.ed-night-bring-remains-comedy-tour-glasgow/",
+        "description": "Multi-award nominated comedian Ed Night is coming to Glasgow next April.",
+        "published": "Thu, 08 Oct 2026 11:39:18 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21553864/?type=app&htype=0"
+      },
+      {
+        "id": "317b931124cf75aaf30a11b0f2e349f5",
+        "title": "More traffic misery ahead for drivers as major motorway roadworks loom",
+        "link": "https://www.glasgowtimes.co.uk/news/26618388.m73-m8-roadworks-set-cause-disruption-near-coatbridge/",
+        "description": "Motorists face more disruption as major roadworks are set to begin on the M73 and around Baillieston following recent delays in Coatbridge.",
+        "published": "Thu, 08 Oct 2026 11:19:34 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/9558510/?type=app&htype=302"
+      },
+      {
+        "id": "bd796ab4b6d57011251b52336eee9561",
+        "title": "New report lays bare reality of family poverty in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26618318.new-report-lays-bare-reality-family-poverty-glasgow/",
+        "description": "A new report examining the causes and impact of family poverty in Glasgow has been published.",
+        "published": "Thu, 08 Oct 2026 11:10:12 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/5993712/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-arrested-after-glasgow-anti-34734196",
         "title": "Man arrested after Glasgow anti-immigration protest involving masked group",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-arrested-after-glasgow-anti-34734196",
@@ -2339,6 +2379,22 @@
         "description": "Police were alerted to a crash involving a male pedestrian and a car on Glassford street at around 4.35am",
         "published": "Thu, 8 Oct 2026 09:38:27 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34713837.ece/ALTERNATES/s98/829034420_1660129882431283_7687997763367908789_n.jpg"
+      },
+      {
+        "id": "af150ab7d499c4fa0017632304edf3ca",
+        "title": "War of words erupts as council leader takes dig at newly elected MSP amid parking row",
+        "link": "https://www.glasgowtimes.co.uk/news/26618011.council-leader-msp-clash-controversial-parking-charges-scheme/",
+        "description": "A war of words has broken out over controversial parking charges in Kirkintilloch and Bearsden after council leader Gordon Low accused MSP Adam Harley of showing a 'lack of understanding' of council finances.",
+        "published": "Thu, 08 Oct 2026 10:23:03 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21553138/?type=app&htype=0"
+      },
+      {
+        "id": "8039d80bc203f6e950aa09b0f60a6a48",
+        "title": "Seven Glasgow roads set for major disruption amid filming operation",
+        "link": "https://www.glasgowtimes.co.uk/news/26617930.seven-glasgow-southside-set-filming-project-month/",
+        "description": "Glasgow filming will bring road closures and traffic controls to Mountgarrie, Shieldhall and Mallaig roads from October 18 to October 20 in the city.",
+        "published": "Thu, 08 Oct 2026 10:11:38 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20211497/?type=app&htype=0"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/cqm2dev92nw7o#0",
