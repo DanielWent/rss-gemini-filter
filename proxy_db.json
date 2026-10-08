@@ -2373,20 +2373,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "443a55ef37b651017430333df200786b",
+        "title": "\u2018Fascism in Action\u2019: Reform bid to ban burqa sparks angry Holyrood clashes",
+        "link": "https://www.heraldscotland.com/news/26620765.msps-condemn-reform-uk-holyrood-burqa-ban-bid/",
+        "description": "MSPs from the SNP, Labour and the Greens rounded on Reform UK at Holyrood on Thursday, condemning its push for restrictions on face coverings as Islamophobic and a calculated attack on Muslim women.",
+        "published": "Thu, 08 Oct 2026 18:28:32 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20866078/?type=app&htype=0"
+      },
+      {
+        "id": "37a47322e3a7cd2a6868317a63281db2",
+        "title": "Footballer granted bail over alleged killing of Glasgow barman",
+        "link": "https://www.heraldscotland.com/news/26620735.former-footballer-accused-culpable-homicide-daniel-colrain/",
+        "description": "Former Partick Thistle youth goalkeeper Luis Cameron granted bail at Glasgow Sheriff Court over alleged culpable homicide of barman Daniel Colrain after an assault.",
+        "published": "Thu, 08 Oct 2026 18:08:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21547305/?type=app&htype=0"
+      },
+      {
         "id": "9274301",
         "title": "Sir Alex Ferguson delivers Rangers advice to McInnes after surprise Auchenhowie visit as boss opens up on revival",
         "link": "https://www.glasgowworld.com/sport/football/rangers/sir-alex-ferguson-delivers-rangers-advice-mcinnes-surprise-auchenhowie-visit-boss-opens-up-revival-9274301",
         "description": "<p>Ibrox boss reveals the words of encouragement and advice Ferguson shared during their Auchenhowie get-together</p>",
         "published": "Thu, 08 Oct 2026 17:00:25 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/07/28/03/v2-image-production-5cf8e77925dae1ce3969efd92349dbf3Y29udGVudHNlYXJjaGFwaSwxNzc3OTEyODA1-2.81418756.jpg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "d6fe8c46e4698af9fe31d1a0ecbb6a47",
-        "title": "Former footballer accused of culpable homicide of 21-year-old Glasgow barman",
-        "link": "https://www.glasgowtimes.co.uk/news/26620706.former-footballer-accused-culpable-homicide-21-year-old-barman/",
-        "description": "A FORMER Partick Thistle youth goalkeeper was granted bail today after appearing in court charged with a hit and run killing of a barman",
-        "published": "Thu, 08 Oct 2026 17:46:30 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21546359/?type=app&htype=0"
       },
       {
         "id": "3457f66edac44e2c1a924bef45285977",
@@ -2429,6 +2437,14 @@
         "image_url": "https://www.heraldscotland.com/resources/images/20772696/?type=app&htype=0"
       },
       {
+        "id": "8be7733c38127e190c16b0b89ad2fcb5",
+        "title": "Scottish firm lands multi-million deal after solving Network Rail fault problem",
+        "link": "https://www.heraldscotland.com/news/26619255.machines-vision-secures-multi-million-network-rail-deal/",
+        "description": "Machines With Vision has secured a valuable Network Rail contract after technology trials showed it could cut the time needed to locate suspected track defects",
+        "published": "Thu, 08 Oct 2026 17:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21555640/?type=app&htype=0"
+      },
+      {
         "id": "d06b16914ea17f50692eefa52170a52a",
         "title": "Former Glasgow waiter convicted of 10 rapes after targeting women for years",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26620367.glasgow-rogano-waiter-aaron-stewart-convicted-17-sex-offences/",
@@ -2437,20 +2453,20 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/18005688/?type=app&htype=0"
       },
       {
-        "id": "4210de490c6cd76b37b523653aecdd4f",
-        "title": "'We'd be in tears' - Worshippers fear losing Catholic church under merger plans",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26620236.worshippers-fear-church-glasgow-merger-plans/",
-        "description": "St Patrick\u2019s Church in Old Kilpatrick could close as part of Archdiocese of Glasgow plans to merge it with St Stephen\u2019s, prompting emotional parishioners.",
-        "published": "Thu, 08 Oct 2026 16:13:53 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21556088/?type=app&htype=594"
-      },
-      {
         "id": "a1bde0eeda3a353be87cf14a3f16e149",
         "title": "Major update issued on roadworks near Glasgow Airport",
         "link": "https://www.glasgowtimes.co.uk/news/weather/26620234.major-update-issued-roadworks-near-glasgow-airport/",
         "description": "Roadworks near Glasgow Airport have been postponed.",
         "published": "Thu, 08 Oct 2026 16:13:51 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17882119/?type=app&htype=0"
+      },
+      {
+        "id": "b4281f2056e51e0ff90fe6e3a23033bc",
+        "title": "Canadian carrier removes Glasgow route from sale months after relaunch",
+        "link": "https://www.heraldscotland.com/news/26620233.westjet-removes-glasgow-toronto-route-sale/",
+        "description": "Canadian carrier WestJet has removed its Glasgow to Toronto route from sale months after it relaunched.",
+        "published": "Thu, 08 Oct 2026 16:13:51 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/16233464/?type=app&htype=0"
       },
       {
         "id": "9275594",
@@ -2581,12 +2597,12 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21555671/?type=app&htype=0"
       },
       {
-        "id": "ab0c735fd243b814df9f2cf59fcabd5b",
-        "title": "'Sad but necessary' - Glasgow reacts to plans to close 24 Catholic churches",
-        "link": "https://www.glasgowtimes.co.uk/news/26619627.sad-necessary--reaction-glasgow-church-cuts/",
-        "description": "Catholics across Glasgow have expressed sadness and concern over plans to close 24 churches and halve the number of parishes, with many saying the move was necessary amid falling congregations and a shortage of priests",
-        "published": "Thu, 08 Oct 2026 14:48:09 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19902528/?type=app&htype=0"
+        "id": "31f9f747a761da46433f6f15eb4ba9c4",
+        "title": "SNP demands Burnham act now as reports warn of record fall in living standards",
+        "link": "https://www.heraldscotland.com/news/26619099.burnham-urged-act-incomes-face-historic-squeeze/",
+        "description": "Two major think tanks warn that typical disposable incomes are nearly \u00a33,000 lower than before the crisis, with Labour now on course to preside over the worst parliament for living standards since modern records began in 1961.",
+        "published": "Thu, 08 Oct 2026 15:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21235034/?type=app&htype=0"
       },
       {
         "id": "ec97e27a590ca5069f0cd0e248a93cd5",
@@ -2595,14 +2611,6 @@
         "description": "Caledonian Trust told The Herald that it is in discussions with a 'preferred party' about purchasing the site, which has been used by Scot-ART since 2008.",
         "published": "Thu, 08 Oct 2026 14:47:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21516645/?type=app&htype=0"
-      },
-      {
-        "id": "d367c45c0f555c8920f7408e2c6d972e",
-        "title": "West End pizzeria appeals council order claiming its pizza slices are sold cold",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26619598.glasgow-pizzeria-appeals-council-order-hot-takeaway/",
-        "description": "A Partick pizzeria is insisting slices are sold cold unless just baked, as it appeals against a council order to stop running a \u201chot food takeaway\u201d.",
-        "published": "Thu, 08 Oct 2026 14:44:38 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18614593/?type=app&htype=0"
       },
       {
         "id": "e8644e73c5cfbe6c376fad1efaf6c375",
@@ -2883,14 +2891,6 @@
         "description": "Glasgow filming will bring road closures and traffic controls to Mountgarrie, Shieldhall and Mallaig roads from October 18 to October 20 in the city.",
         "published": "Thu, 08 Oct 2026 10:11:38 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20211497/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cqm2dev92nw7o#0",
-        "title": "Teenager charged over death of 21-year-old in city centre",
-        "link": "https://www.bbc.co.uk/news/articles/cqm2dev92nw7o?at_medium=RSS&at_campaign=rss",
-        "description": "Daniel Colrain, 21, was found with serious injuries in Royal Exchange Square on Sunday and died in hospital a day later.",
-        "published": "Thu, 08 Oct 2026 06:55:03 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f19/live/4d91f280-c19e-11f1-8fa2-19a1e9b6288f.jpg"
       },
       {
         "id": "b4c068888ee4e6a7707ffd23406cc6ad",
