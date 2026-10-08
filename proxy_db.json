@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo#4",
+        "title": "Margaret Hamilton, whose software helped land Apollo 11 on the moon, dies at 90",
+        "link": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
+        "description": "Pioneering computer scientist led the development of the software for Nasa's Apollo mission and was awarded the Presidential Medal of Freedom.",
+        "published": "Thu, 08 Oct 2026 04:49:13 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4635/live/ee80f190-c2d0-11f1-9bbb-c9af641c55ad.jpg"
+      },
+      {
         "id": "1791405313696624",
         "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
         "link": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of  56 minutes 51 seconds in a World Athletics road race in Buenos Aires.",
         "published": "Sun, 23 Aug 2026 15:35:06 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59e8/live/c52553d0-9ef5-11f1-aed4-af6fe65bfcd6.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cp872m0grgyo#1",
-        "title": "How a new era of heatwaves could shake up the school calendar",
-        "link": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss",
-        "description": "Teachers warn it could be increasingly difficult for classrooms to function during the hottest months.",
-        "published": "Sat, 22 Aug 2026 23:16:43 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8be5/live/d972b6c0-9c70-11f1-b109-879e35c24276.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2325,6 +2325,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/8432961/?type=app&htype=0"
       },
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-clash-anti-migrant-protesters-34732939",
+        "title": "Police clash with anti-migrant protesters in Glasgow's East End as roads closed",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-clash-anti-migrant-protesters-34732939",
+        "description": "A group of around two dozen protesters, most wearing balaclavas, were seen walking through the streets of Shettleston on Wednesday evening",
+        "published": "Thu, 8 Oct 2026 04:43:32 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34732938.ece/ALTERNATES/s98/0_Glasgow.jpg"
+      },
+      {
         "id": "a875f5f8212965ea7c6b5fdf615f12fa",
         "title": "25,000-signature petition ramps up pressure for data centre plans pause",
         "link": "https://www.heraldscotland.com/news/26617192.25-000-signature-petition-calls-scottish-data-centre-moratorium/",
@@ -3107,14 +3115,6 @@
         "description": "Scotmid has rebounded from disruption linked to the Co-op cyber attack, but chief executive Karen Scott is warning of rising costs and continued uncertainty",
         "published": "Tue, 06 Oct 2026 17:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21544647/?type=app&htype=0"
-      },
-      {
-        "id": "1d34649c4d9968cb12279b104be57f8b",
-        "title": "Why have Scottish critics been told not to review a new Scottish musical in Scotland?",
-        "link": "https://www.heraldscotland.com/news/26612833.critics-told-not-review-new-musical-launching-scotland/",
-        "description": "Pitlochry Festival Theatre's new musical Ceilidh is described by the venue as 'part night out, part love story, part cultural phenomenon'.",
-        "published": "Tue, 06 Oct 2026 16:19:55 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21504237/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
