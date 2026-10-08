@@ -1001,6 +1001,14 @@
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
       {
+        "id": "https://the5krunner.com/?p=136295",
+        "title": "#1 Trademark & Patent Filing: Week Ending 8 October 2026",
+        "link": "https://the5krunner.com/2026/10/08/1-trademark-patent-filing-week-ending-8-october-2026/",
+        "description": "<p><img alt=\"#1 Trademark &#038; Patent Filing: Week Ending 8 October 2026\" class=\"attachment-large size-large\" height=\"583\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2010/06/Deep-dive-Fix-Files-Asset-2The-Deep-Dive-Fix-files.png/w=1110,h=583\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Whoop filed its W logo and WHOOP word mark for retail store services at the USPTO, with a matching WHOOP application at the EUIPO. Patents this week include a Garmin rotatable control button, a Google method for predicting atrial fibrillation, Oura snoring detection and a Suunto wireless watch charger design.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/08/1-trademark-patent-filing-week-ending-8-october-2026/\">#1 Trademark &#038; Patent Filing: Week Ending 8 October 2026</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Thu, 08 Oct 2026 14:53:33 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2010/06/Deep-dive-Fix-Files-Asset-2The-Deep-Dive-Fix-files.png/w=1110,h=583"
+      },
+      {
         "id": "https://the5krunner.com/?p=136263",
         "title": "Connect IQ Developer Reports GPS Faults on Fenix 9 Pro",
         "link": "https://the5krunner.com/2026/10/08/fenix-9-pro-gps-problem/",
@@ -1810,6 +1818,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "6048d39c038d561172a2c4c52508faf0",
+        "title": "East Dunbartonshire 20mph speed limit plans delayed after council vote",
+        "link": "https://www.glasgowtimes.co.uk/news/26619904.milngavie-20mph-speed-limit-plans-deferred-december/",
+        "description": "Councillors in East Dunbartonshire have voted to defer the implementation of new speed limits in Milngavie.",
+        "published": "Thu, 08 Oct 2026 15:29:46 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/9394489/?type=app&htype=44"
+      },
+      {
         "id": "8dc7f2dc768f61eb3c91ed7a69bfc0a5",
         "title": "Touching tributes paid to 'great priest' who served parish for decades dies aged 67",
         "link": "https://www.glasgowtimes.co.uk/news/26619474.tributes-paid-former-milngavie-priest-canon-john-mcgrorry/",
@@ -2357,12 +2373,76 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-city-council-continue-relationship-34736880",
+        "title": "Glasgow City Council to continue relationship with BT in bid to remove old phone boxes",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-city-council-continue-relationship-34736880",
+        "description": "A report presented to members highlighted that with support from BT, several units had already been taken from the city centre.",
+        "published": "Thu, 8 Oct 2026 14:43:33 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33708212.ece/ALTERNATES/s98/0_phoneboxjpeg.jpg"
+      },
+      {
+        "id": "a18ec092c731ca54cd361c6ed3364b35",
+        "title": "Ten Glasgow chippies nominated for national award as Scotland's best go head to head",
+        "link": "https://www.glasgowtimes.co.uk/news/26619970.ten-glasgow-chippies-nominated-scottish-awards-ceremony/",
+        "description": "Ten Glasgow chippies are finalists in the Scottish Fish and Chip Awards, competing in categories including best fish supper, chip shop and family business.",
+        "published": "Thu, 08 Oct 2026 15:38:22 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16711200/?type=app&htype=0"
+      },
+      {
+        "id": "6048d39c038d561172a2c4c52508faf0",
+        "title": "East Dunbartonshire 20mph speed limit plans delayed after council vote",
+        "link": "https://www.glasgowtimes.co.uk/news/26619904.milngavie-20mph-speed-limit-plans-deferred-december/",
+        "description": "Councillors in East Dunbartonshire have voted to defer the implementation of new speed limits in Milngavie.",
+        "published": "Thu, 08 Oct 2026 15:29:46 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/9394489/?type=app&htype=44"
+      },
+      {
+        "id": "abf2e67f3f59f419b6345edbdb85f6e4",
+        "title": "Tourist tax warning as new levy could put extra pressure on small businesses",
+        "link": "https://www.glasgowtimes.co.uk/news/26619896.north-lanarkshire-tourism-tax-plan-harm-businesses-fsb-warns/",
+        "description": "FSB Scotland warns North Lanarkshire\u2019s proposed visitor levy could strain small B&amp;Bs, urging a pause to learn from Edinburgh\u2019s implementation problems.",
+        "published": "Thu, 08 Oct 2026 15:28:15 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21555925/?type=app&htype=0"
+      },
+      {
+        "id": "dff9d66a98447e2cf2a3df7fde9cbd5d",
+        "title": "Woman accused of killing aunt, 78, ruled unfit to stand trial",
+        "link": "https://www.glasgowtimes.co.uk/news/26619845.hamilton-susan-sergison-murder-trial-halted/",
+        "description": "A woman accused of murdering her 78-year-old aunt in Hamilton has been ruled unfit to stand trial due to mental illness. An examination of facts will now take place in November 2026.",
+        "published": "Thu, 08 Oct 2026 15:20:48 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21555821/?type=app&htype=0"
+      },
+      {
+        "id": "6002c62e479ad217d3bf5c8a1a04575f",
+        "title": "Major Glasgow road to shut for four weeks as drivers face diversions",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26619773.major-glasgow-road-close-four-weeks-traffic-disruption/",
+        "description": "Glasgow drivers face closure from October 19 to November 16, 2026, for Scottish Power works, with diversions via nearby roads.",
+        "published": "Thu, 08 Oct 2026 15:09:39 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20649031/?type=app&htype=0"
+      },
+      {
+        "id": "ebfe757be15dc66e81e49f043a6bd7b7",
+        "title": "Plans unveiled for more than 50 new homes outside of Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26619754.plans-lodged-52-new-homes-south-lanarkshires-stonehouse/",
+        "description": "Plans for 52 homes on Strathaven Road in Stonehouse, South Lanarkshire, include bungalows, play areas and open space. A planning decision is pending at present.",
+        "published": "Thu, 08 Oct 2026 15:06:33 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21037595/?type=app&htype=202"
+      },
+      {
         "id": "faf4501594324b1c9ef0a920d1dc0533",
         "title": "Global chain to take over Glasgow hotel an open first Scottish spot",
         "link": "https://www.glasgowtimes.co.uk/news/26619747.glasgow-holiday-inn-taken-international-chain/",
         "description": "Garner by IHG will open its first Scottish hotel in Glasgow, replacing the Holiday Inn on West Nile Street, subject to council approval of signage.",
         "published": "Thu, 08 Oct 2026 15:05:59 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/15947499/?type=app&htype=0"
+      },
+      {
+        "id": "d7038aebb914719e02e8eac0c2fb034f",
+        "title": "Fatal accident inquiry to examine death of prisoner at HMP Shotts",
+        "link": "https://www.glasgowtimes.co.uk/news/26619711.fai-examine-death-hmp-shotts-prisoner-robert-dickie-hospital/",
+        "description": "A fatal accident inquiry will examine the death of a prisoner who died in custody.",
+        "published": "Thu, 08 Oct 2026 15:00:15 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21555671/?type=app&htype=0"
       },
       {
         "id": "d367c45c0f555c8920f7408e2c6d972e",
