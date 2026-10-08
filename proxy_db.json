@@ -1802,6 +1802,22 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "8dc7f2dc768f61eb3c91ed7a69bfc0a5",
+        "title": "Touching tributes paid to 'great priest' who served parish for decades dies aged 67",
+        "link": "https://www.glasgowtimes.co.uk/news/26619474.tributes-paid-former-milngavie-priest-canon-john-mcgrorry/",
+        "description": "Tributes paid to Canon John McGrorry, former priest at St Joseph\u2019s Milngavie and St Kessog\u2019s Balloch, who has died aged 67 after a long career in Glasgow.",
+        "published": "Thu, 08 Oct 2026 14:24:08 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21555227/?type=app&htype=56"
+      },
+      {
+        "id": "a240d7d74ff2a95c9451868a7ebed15d",
+        "title": "Full list of 24 Glasgow Catholic churches facing closure as parishes halved",
+        "link": "https://www.glasgowtimes.co.uk/news/26619332.full-list-24-glasgow-catholic-churches-facing-closure/",
+        "description": "The Archdiocese of Glasgow has confirmed plans to close 24 churches and halve its parishes due to declining priest numbers. Here is the full list of every parish affected across the city and Dunbartonshire",
+        "published": "Thu, 08 Oct 2026 13:58:39 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19434764/?type=app&htype=0"
+      },
+      {
         "id": "d0f91d53b48960b306b4bf15901a1028",
         "title": "Runner in giant bear costume smashes world record at Great Scottish Run",
         "link": "https://www.glasgowtimes.co.uk/news/26618329.glasgow-runner-breaks-world-record-giant-bear-costume/",
@@ -1816,14 +1832,6 @@
         "description": "A war of words has broken out over controversial parking charges in Kirkintilloch and Bearsden after council leader Gordon Low accused MSP Adam Harley of showing a 'lack of understanding' of council finances.",
         "published": "Thu, 08 Oct 2026 10:23:03 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21553138/?type=app&htype=0"
-      },
-      {
-        "id": "280872452aead7256cd7f1d07006fbbd",
-        "title": "The Archdiocese of Glasgow reveals plans to close 24 churches in major restructure",
-        "link": "https://www.glasgowtimes.co.uk/news/26617091.archdiocese-glasgow-release-plans-24-churches/",
-        "description": "The Archdiocese of Glasgow has released plans to cut half of their churches in a major restructure prompted by \"two few people and two few priests\"",
-        "published": "Wed, 07 Oct 2026 18:17:40 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19357200/?type=app&htype=0"
       },
       {
         "id": "59e6df686d1bec04b48b172305427de2",
@@ -2341,12 +2349,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "e8644e73c5cfbe6c376fad1efaf6c375",
+        "title": "Glasgow hosting major European summit alongside mayor of twin city Mykolaiv",
+        "link": "https://www.glasgowtimes.co.uk/news/26619522.glasgow-hosting-2026-european-local-links-conference/",
+        "description": "Glasgow City Council is hosting the 2026 European Local Links conference welcoming European delegates and Mykolaiv Mayor Oleksandr Syenkevych.",
+        "published": "Thu, 08 Oct 2026 14:33:08 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19347166/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasglow-disruption-increases-year-year-34736030",
         "title": "Glasglow disruption 'increases year on year' complain neighbours  as Botanics event licence granted",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasglow-disruption-increases-year-year-34736030",
         "description": "There are concerns the event is causing environmental damage to a beloved park.",
         "published": "Thu, 8 Oct 2026 13:25:52 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article15499633.ece/ALTERNATES/s98/1_GlasGLOW-2.jpg"
+      },
+      {
+        "id": "8dc7f2dc768f61eb3c91ed7a69bfc0a5",
+        "title": "Touching tributes paid to 'great priest' who served parish for decades dies aged 67",
+        "link": "https://www.glasgowtimes.co.uk/news/26619474.tributes-paid-former-milngavie-priest-canon-john-mcgrorry/",
+        "description": "Tributes paid to Canon John McGrorry, former priest at St Joseph\u2019s Milngavie and St Kessog\u2019s Balloch, who has died aged 67 after a long career in Glasgow.",
+        "published": "Thu, 08 Oct 2026 14:24:08 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21555227/?type=app&htype=56"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/camra-names-glasgows-best-traditional-34735336",
@@ -2373,6 +2397,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21555088/?type=app&htype=0"
       },
       {
+        "id": "511d28aa7326e0da65e53b3e246950da",
+        "title": "Eyesore Sauchiehall Street unit could receive massive facelift under new plans",
+        "link": "https://www.glasgowtimes.co.uk/news/26619393.new-glasgow-nightlife-hotspot-open-sauchiehall-street/",
+        "description": "Plans reveal Roxy Ball Room signage for a new entertainment venue at Glasgow\u2019s former Sports Direct on Sauchiehall Street, pending Glasgow City Council approval.",
+        "published": "Thu, 08 Oct 2026 14:10:20 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16873508/?type=app&htype=0"
+      },
+      {
         "id": "9275125",
         "title": "ZEISS acquires Ceres Holographics to drive holography industrialisation",
         "link": "https://www.glasgowworld.com/must-read/zeiss-buys-ceres-holographics-to-accelerate-holography-industrialisation-9275125",
@@ -2389,12 +2421,44 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21194148/?type=app&htype=0"
       },
       {
+        "id": "a240d7d74ff2a95c9451868a7ebed15d",
+        "title": "Full list of 24 Glasgow Catholic churches facing closure as parishes halved",
+        "link": "https://www.glasgowtimes.co.uk/news/26619332.full-list-24-glasgow-catholic-churches-facing-closure/",
+        "description": "The Archdiocese of Glasgow has confirmed plans to close 24 churches and halve its parishes due to declining priest numbers. Here is the full list of every parish affected across the city and Dunbartonshire",
+        "published": "Thu, 08 Oct 2026 13:58:39 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19434764/?type=app&htype=0"
+      },
+      {
+        "id": "a383b71dc08b7577f538a0be600ab398",
+        "title": "Six cases of alleged corporate fraud at Dundee City Council reported to police",
+        "link": "https://www.heraldscotland.com/news/26619241.probe-alleged-corporate-fraud-involving-dundee-city-council-staff/",
+        "description": "Six cases of alleged corporate fraud involving staff at Dundee City Council were reported to police last year, it has emerged.",
+        "published": "Thu, 08 Oct 2026 13:38:44 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/13796941/?type=app&htype=0"
+      },
+      {
         "id": "4f979145c3b93bfca8e460375696ed90",
         "title": "This new takeaway could be coming to the Southside of Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26619208.new-takeaway-coming-southside-glasgow/",
         "description": "A new takeaway could be coming to the Southside of Glasgow.",
         "published": "Thu, 08 Oct 2026 13:32:40 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20305675/?type=app&htype=0"
+      },
+      {
+        "id": "7bfe3d2c50f66a305bebcdde54363a07",
+        "title": "Pitlochry's Enchanted Forest marks 25th anniversary with 'extra hour' light show",
+        "link": "https://www.heraldscotland.com/news/26619123.enchanted-forest-opens-25th-anniversary-light-show/",
+        "description": "One of Scotland\u2019s most-visited light shows has opened its 25th anniversary show with organisers marking a quarter of a century since the popular sound and light event was first staged.",
+        "published": "Thu, 08 Oct 2026 13:14:26 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21554712/?type=app&htype=0"
+      },
+      {
+        "id": "b8d44a85d485fa27d34d898af0b8250e",
+        "title": "Glasgow council explores fund to unlock stalled homes and regeneration projects",
+        "link": "https://www.heraldscotland.com/news/26619112.glasgow-growth-fund-unlock-stalled-housing-projects/",
+        "description": "Glasgow City Council has appointed CBRE to develop a business case for an impact fund aimed at boosting investment and regeneration in central Glasgow.",
+        "published": "Thu, 08 Oct 2026 13:12:54 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21554705/?type=app&htype=0"
       },
       {
         "id": "1c307c38ceb30db6b0542d1ed1060571",
@@ -2411,6 +2475,14 @@
         "description": "Mark Heggie has been jailed for five years after a brutal assault on Buchanan Street in Glasgow left a man with life-threatening injuries, skull fractures and a brain bleed.",
         "published": "Thu, 08 Oct 2026 13:05:40 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17330521/?type=app&htype=0"
+      },
+      {
+        "id": "bae7fdaf6dff842e01385313b2998523",
+        "title": "'Like a zombie film' - Airbnb host's stark warning over Glasgow city centre",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26619023.airbnb-host-warns-glasgow-city-centre-unsafe-night/",
+        "description": "Glasgow Airbnb host raises safety concerns after city-centre murder investigation and alleged hit-and-run leave visitors questioning night-time safety.",
+        "published": "Thu, 08 Oct 2026 12:55:35 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21535699/?type=app&htype=0"
       },
       {
         "id": "9100bff4e876eff7620237ae1d18577e",
