@@ -2373,6 +2373,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "6fd462d9732fe0601e7f732096d3d03d",
+        "title": "Hidden wheat fungus offers hope against one of farming's biggest threats",
+        "link": "https://www.heraldscotland.com/news/26620848.fungus-found-wheat-seeds-fight-major-crop-disease/",
+        "description": "New study finds Chaetomium globosum fungus in wheat seeds reduces Septoria tritici blotch, offering a potential alternative to chemical fungicides.",
+        "published": "Fri, 09 Oct 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21557263/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c6rmyzk8819ro#0",
         "title": "'Record-breaking' M\u00f2d returns to Glasgow for Gaelic celebration",
         "link": "https://www.bbc.co.uk/news/articles/c6rmyzk8819ro?at_medium=RSS&at_campaign=rss",
