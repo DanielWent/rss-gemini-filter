@@ -2373,6 +2373,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "7a3d0c1a6e9912abf7af65e3a5fbd5ce",
+        "title": "Man hospitalised after daylight attack as busy Glasgow street cordoned off",
+        "link": "https://www.glasgowtimes.co.uk/news/26620903.man-hospitalised-daylight-attack-busy-glasgow-street/",
+        "description": "A man has been hospitalised following a daylight attack in the Southside of Glasgow",
+        "published": "Thu, 08 Oct 2026 20:54:30 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/14334594/?type=app&htype=0"
+      },
+      {
         "id": "b0597269075c38ac43d3f9e33c5de00e",
         "title": "Two more men charged over death of West Lothian man",
         "link": "https://www.heraldscotland.com/news/26620840.two-charged-death-armadale-man-billy-watson/",
