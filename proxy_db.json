@@ -2325,6 +2325,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c6zjxdvzkereo#0",
+        "title": "More than 18,000 unsafe toys found in the west of Scotland",
+        "link": "https://www.bbc.co.uk/news/articles/c6zjxdvzkereo?at_medium=RSS&at_campaign=rss",
+        "description": "The toys were found to have fallen below safety standards when \n165 retail and wholesale premises were inspected.",
+        "published": "Thu, 08 Oct 2026 09:55:16 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4dfd/live/fa44a010-c2fa-11f1-b8c6-6d610e41a5d9.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-arrested-after-glasgow-anti-34734196",
+        "title": "Man arrested after Glasgow anti-immigration protest involving masked group",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-arrested-after-glasgow-anti-34734196",
+        "description": "\u201cThe sight of a masked mob running through the streets of the east end, chanting anti-migrant slurs, is deeply unsettling to our community.&quot;",
+        "published": "Thu, 8 Oct 2026 09:44:12 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34734177.ece/ALTERNATES/s98/1_Police.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-appear-court-charged-attempted-34734183",
+        "title": "Man to appear in court charged with 'attempted murder' on Glasgow street",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-appear-court-charged-attempted-34734183",
+        "description": "Police were alerted to a crash involving a male pedestrian and a car on Glassford street at around 4.35am",
+        "published": "Thu, 8 Oct 2026 09:38:27 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34713837.ece/ALTERNATES/s98/829034420_1660129882431283_7687997763367908789_n.jpg"
+      },
+      {
         "id": "9274208",
         "title": "Pulpex opens first commercial fibre bottle factory near Glasgow",
         "link": "https://www.glasgowworld.com/must-read/pulpex-opens-first-commercial-fibre-bottle-factory-near-glasgow-9274208",
@@ -2339,6 +2363,14 @@
         "description": "A man has been arrested following an anti-immigration protest in Glasgow involving people wearing balaclavas.",
         "published": "Thu, 08 Oct 2026 10:03:55 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21552981/?type=app&htype=0"
+      },
+      {
+        "id": "9f96c8c86bfb838ff42ad14dfbafc822",
+        "title": "'Our nickname in the Glasgow music business is Niles and Frasier Crane'",
+        "link": "https://www.heraldscotland.com/news/26612076.hue-cry-40-years-fame-failure-madonna-ambition/",
+        "description": "Forty years after first finding fame, Hue And Cry remain as ambitious, opinionated and creatively restless as ever. In this candid A-to-Z conversation, brothers Pat and Greg Kane reflect on brotherhood, failure, Madonna, nostalgia, politics, ageing and why they have no intention of slowing down.",
+        "published": "Thu, 08 Oct 2026 10:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21544879/?type=app&htype=0"
       },
       {
         "id": "895d0df7372e89d5a8e6c310ec9170b5",
@@ -3091,38 +3123,6 @@
         "description": "Scott Urie also pulled out a clump of the woman's hair, grabbed her by the neck, punched her repeatedly and knocked her to the ground.",
         "published": "Wed, 7 Oct 2026 06:34:12 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34649770.ece/ALTERNATES/s98/1_dmp_ham_090421court_004JPG.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/reading-age-target-set-glasgow-34725582",
-        "title": "Reading age target set for all Glasgow children to make sure kids can read before high school",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/reading-age-target-set-glasgow-34725582",
-        "description": "The attainment gap is higher among pupils with low attendance and children who are new to English",
-        "published": "Wed, 7 Oct 2026 06:14:05 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34079694.ece/ALTERNATES/s98/0_GettyImages-685735848.jpg"
-      },
-      {
-        "id": "9f9964577ec502de7a1f1a8c19ed197d",
-        "title": "\u2018Abandoned by the state\u2019: Retired Scots police back Holyrood motion on pensions",
-        "link": "https://www.heraldscotland.com/news/26612863.scottish-police-pension-delays-holyrood-motion-calls-action/",
-        "description": "Retired police officers hit out over Scottish pension delays as MSP Pauline McNeill lodges a Holyrood motion calling for urgent action after Herald reports.",
-        "published": "Wed, 07 Oct 2026 06:33:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20666332/?type=app&htype=0"
-      },
-      {
-        "id": "caf5a157293a01890cb56092cb6fc7df",
-        "title": "Revealed: Ethics watchdog memo warned its own rules could silence Scots councillors",
-        "link": "https://www.heraldscotland.com/news/26613222.standards-commissions-freedom-speech-warning-revealed/",
-        "description": "Standards Commission papers reveal it own internal warnings that Scotland\u2019s councillors could have their freedom of speech curbed by the Code of Conduct.",
-        "published": "Wed, 07 Oct 2026 06:32:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21540672/?type=app&htype=0"
-      },
-      {
-        "id": "1c6c1765cf9ca8d99573beb1c7041383",
-        "title": "Woman whose mum has Alzheimer's bids to overturn plan to shut day centres",
-        "link": "https://www.glasgowtimes.co.uk/news/26612670.woman-campaigns-glasgow-plan-cut-day-centres/",
-        "description": "A woman is campaigning to overturn Glasgow City Council\u2019s plan to cut older people\u2019s day care centres.",
-        "published": "Wed, 07 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21546769/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
