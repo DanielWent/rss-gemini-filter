@@ -2325,6 +2325,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "895d0df7372e89d5a8e6c310ec9170b5",
+        "title": "Urgent appeal for adoptive families as around 3500 children wait across the UK",
+        "link": "https://www.glasgowtimes.co.uk/news/26617723.glasgow-charity-issued-urgent-appeal-adoptive-families/",
+        "description": "St Margaret\u2019s Child and Family Care Society is looking for adopters for some of the 3500 children currently waiting to be adopted.",
+        "published": "Thu, 08 Oct 2026 09:39:19 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21412784/?type=app&htype=0"
+      },
+      {
+        "id": "ccc351b168c0504e3c3574898ce1f6e8",
+        "title": "Two iconic pop groups join forces for special gig at Glasgow's OVO Hydro",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26617483.hearsay-liberty-x-perform-ovo-hydro-glasgow/",
+        "description": "Hear'Say and Liberty X to perform at OVO Hydro in Glasgow",
+        "published": "Thu, 08 Oct 2026 08:49:55 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20834295/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-easyjet-flight-makes-emergency-34733138",
         "title": "Glasgow easyJet flight makes emergency diversion after passenger needed CPR",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-easyjet-flight-makes-emergency-34733138",
@@ -3107,22 +3123,6 @@
         "description": "Scotland and Denmark began the century on similar footing. Twenty-five years later, Denmark is richer, healthier and growing faster",
         "published": "Wed, 07 Oct 2026 04:30:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21546142/?type=app&htype=0"
-      },
-      {
-        "id": "3c6437d0d2fb1e54f7dbf657059bece7",
-        "title": "\"Extraordinary\": Detectorist finds his second Bronze Age hoard in two years",
-        "link": "https://www.heraldscotland.com/news/26611158.detectorist-finds-second-bronze-age-hoard-scotland/",
-        "description": "Some detectorists wait a lifetime before finding anything - this man found two",
-        "published": "Wed, 07 Oct 2026 00:05:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21543787/?type=app&htype=0"
-      },
-      {
-        "id": "3d1abf6440e53cdf2e0f4d9914cbcf93",
-        "title": "Edinburgh claimed as birthplace of the first 'talkie' feature film ahead of New York",
-        "link": "https://www.heraldscotland.com/news/26613374.edinburgh-claimed-birthplace-first-talkie-feature-film/",
-        "description": "A film writer and historian is campaigning for Edinburgh to be recognised as the birthplace of the 'talking' feature film instead of New York.",
-        "published": "Wed, 07 Oct 2026 00:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21546966/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
