@@ -2341,6 +2341,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9274876",
+        "title": "Glasgow Airport: New Citylink service set to link Glasgow Airport with Edinburgh City Centre",
+        "link": "https://www.glasgowworld.com/news/glasgow-airport-new-citylink-service-set-to-link-glasgow-airport-with-edinburgh-city-centre-9274876",
+        "description": "<p>A new bus route will link Edinburgh City Centre with Glasgow Airport</p>",
+        "published": "Thu, 08 Oct 2026 11:50:06 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/08/11/48/Group-image-for-903-Citylink-route-launch.jpeg?width=1200&auto=webp&trim=701%2C0%2C702%2C0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c6kg7nkp18w7o#0",
+        "title": "Council short of drivers for winter gritting and maintenance jobs",
+        "link": "https://www.bbc.co.uk/news/articles/c6kg7nkp18w7o?at_medium=RSS&at_campaign=rss",
+        "description": "Argyll and Bute Council is 13 drivers short of the 72 it needs to cover the winter period.",
+        "published": "Thu, 08 Oct 2026 11:41:58 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07b5/live/0ac7bc20-c309-11f1-8f04-85217d686658.jpg"
+      },
+      {
+        "id": "9274528",
+        "title": "Kris Boyd plots path to Rangers piling pressure on Celtic this weekend as McInnes can hand Hoops a challenge",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/kris-boyd-plots-path-to-rangers-piling-pressure-on-celtic-this-weekend-9274528",
+        "description": "<p>Rangers return to action this weekend after the international break.</p>",
+        "published": "Thu, 08 Oct 2026 11:30:04 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/05/11/15/GettyImages-2296226631.jpg?width=1200&auto=webp&trim=14%2C0%2C14%2C0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/still-game-star-pleads-guilty-34734888",
         "title": "Still Game star pleads guilty to making indecent images of children",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/still-game-star-pleads-guilty-34734888",
@@ -2349,12 +2373,28 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34735014.ece/ALTERNATES/s98/0_Screenshot-2026-10-08-073732.png"
       },
       {
+        "id": "8aa5a1167b113bf22becde7daa4fe354",
+        "title": "Love Island winner joins 300 young stars for huge Glasgow Christmas panto",
+        "link": "https://www.glasgowtimes.co.uk/news/26618791.glasgow-christmas-panto-star-paige-turley-tiktok-duo/",
+        "description": "Theatre School of Scotland (TSOS) is bringing its largest-ever production, Jack and the Beanstalk, to the SEC Lomond Auditorium in Glasgow.",
+        "published": "Thu, 08 Oct 2026 12:17:23 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21554277/?type=app&htype=0"
+      },
+      {
         "id": "9274375",
         "title": "Celtic hero brands club a 'cesspit' of mud slinging and negativity as Dermot Desmond incident sparks new feud",
         "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-hero-brands-club-cesspit-mud-slinging-negativity-dermot-desmond-9274375",
         "description": "<p>The Celtic legend has concerns over the atmosphere at his former club right now.</p>",
         "published": "Thu, 08 Oct 2026 11:00:33 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/20/13/10/GettyImages-2288931218.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "fd34c75e376a247dd7aa6236b8cc17af",
+        "title": "BBC filming closes popular Scots park for drama based on bestselling book",
+        "link": "https://www.glasgowtimes.co.uk/news/26618553.adaptation-graeme-armstrongs-young-team-films-coatbridge/",
+        "description": "Drumpellier Country Park, in Coatbridge has been partly closed, today October 8, for filming linked to a new BBC drama.",
+        "published": "Thu, 08 Oct 2026 11:42:49 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21554075/?type=app&htype=0"
       },
       {
         "id": "70f0c855712ac9eaec71f3637ad23376",
