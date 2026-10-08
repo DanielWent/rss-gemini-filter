@@ -2373,12 +2373,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9274301",
+        "title": "Sir Alex Ferguson delivers Rangers advice to McInnes after surprise Auchenhowie visit as boss opens up on revival",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/sir-alex-ferguson-delivers-rangers-advice-mcinnes-surprise-auchenhowie-visit-boss-opens-up-revival-9274301",
+        "description": "<p>Ibrox boss reveals the words of encouragement and advice Ferguson shared during their Auchenhowie get-together</p>",
+        "published": "Thu, 08 Oct 2026 17:00:25 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/07/28/03/v2-image-production-5cf8e77925dae1ce3969efd92349dbf3Y29udGVudHNlYXJjaGFwaSwxNzc3OTEyODA1-2.81418756.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
         "id": "d6fe8c46e4698af9fe31d1a0ecbb6a47",
         "title": "Former footballer accused of culpable homicide of 21-year-old Glasgow barman",
         "link": "https://www.glasgowtimes.co.uk/news/26620706.former-footballer-accused-culpable-homicide-21-year-old-barman/",
         "description": "A FORMER Partick Thistle youth goalkeeper was granted bail today after appearing in court charged with a hit and run killing of a barman",
         "published": "Thu, 08 Oct 2026 17:46:30 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21546359/?type=app&htype=0"
+      },
+      {
+        "id": "3457f66edac44e2c1a924bef45285977",
+        "title": "Vigilante ordered to quit paedophile hunter group after targeting innocent OAP",
+        "link": "https://www.glasgowtimes.co.uk/news/26620683.vigilante-ordered-quit-group-targeting-innocent-oap/",
+        "description": "A vigilante who wrongly accused a vulnerable pensioner of being a child rapist has been ordered to quit his post as leader of a group of paedophile hunters",
+        "published": "Thu, 08 Oct 2026 17:36:16 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21435782/?type=app&htype=0"
       },
       {
         "id": "9275618",
@@ -2411,14 +2427,6 @@
         "description": "Popular Glasgow pizza shop is fighting council enforcement action in a row that has become one of Scotland's strangest local battles",
         "published": "Thu, 08 Oct 2026 17:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20772696/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/talks-glasgow-bar-owners-over-34737519",
-        "title": "Talks with Glasgow bar owners over sale of council land for flats agreed despite 'wild leap'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/talks-glasgow-bar-owners-over-34737519",
-        "description": "The original plans were for a beer garden.",
-        "published": "Thu, 8 Oct 2026 15:41:08 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34718266.ece/ALTERNATES/s98/0_wunderbar.png"
       },
       {
         "id": "d06b16914ea17f50692eefa52170a52a",
