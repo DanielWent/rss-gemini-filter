@@ -2373,6 +2373,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/talks-glasgow-bar-owners-over-34737519",
+        "title": "Talks with Glasgow bar owners over sale of council land for flats agreed despite 'wild leap'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/talks-glasgow-bar-owners-over-34737519",
+        "description": "The original plans were for a beer garden.",
+        "published": "Thu, 8 Oct 2026 15:41:08 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34718266.ece/ALTERNATES/s98/0_wunderbar.png"
+      },
+      {
+        "id": "d06b16914ea17f50692eefa52170a52a",
+        "title": "Former Glasgow waiter convicted of 10 rapes after targeting women for years",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26620367.glasgow-rogano-waiter-aaron-stewart-convicted-17-sex-offences/",
+        "description": "Former sommelier Aaron Stewart found guilty of 17 sex offences, including 10 rapes against five women in Edinburgh, Glasgow and abroad; sentence due November 6.",
+        "published": "Thu, 08 Oct 2026 16:33:48 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18005688/?type=app&htype=0"
+      },
+      {
         "id": "4210de490c6cd76b37b523653aecdd4f",
         "title": "'We'd be in tears' - Worshippers fear losing Catholic church under merger plans",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26620236.worshippers-fear-church-glasgow-merger-plans/",
@@ -2419,6 +2435,22 @@
         "description": "The restoration of beavers to the River Tweed is a \u201cbad idea\u201d, an East Berwickshire councillor has warned",
         "published": "Thu, 08 Oct 2026 15:36:53 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21555944/?type=app&htype=0"
+      },
+      {
+        "id": "6c3a024cf048467a3b041aa0296b06d6",
+        "title": "New 324-home neighbourhood given green light at former Army barracks",
+        "link": "https://www.glasgowtimes.co.uk/news/26619958.324-new-homes-approved-former-army-barracks-lanark/",
+        "description": "Plans for 324 new homes at the former Winston Barracks in Lanark have been approved, paving the way for a major transformation of the site.",
+        "published": "Thu, 08 Oct 2026 15:36:32 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21556100/?type=app&htype=13"
+      },
+      {
+        "id": "37a6128647831c81cbce891ee61b1d26",
+        "title": "Glasgow to get 170 new homes as major housing plans approved",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26619919.glasgow-council-approves-scheme-around-170-new-homes/",
+        "description": "Glasgow City Council approves around 170 new homes in Maryhill, Partick and Yoker, including affordable housing and three empty homes converted to social rent.",
+        "published": "Thu, 08 Oct 2026 15:32:05 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20797430/?type=app&htype=0"
       },
       {
         "id": "6048d39c038d561172a2c4c52508faf0",
@@ -2547,14 +2579,6 @@
         "description": "Up to 50 serving officers with Police Scotland are currently suspended from their job over allegations of violence against women and girls",
         "published": "Thu, 08 Oct 2026 14:23:07 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21336231/?type=app&htype=0"
-      },
-      {
-        "id": "b1f308a2493c01798dba17ec857b08e5",
-        "title": "Still Game and Coronation Street actor admits making 83 indecent images of children",
-        "link": "https://www.heraldscotland.com/news/26619429.irvine-still-game-actor-admits-indecent-images-charges/",
-        "description": "Coronation Street and Still Game actor Eric Potts admits making 83 indecent images of children and sharing five; he faces a prison sentence following guilty plea.",
-        "published": "Thu, 08 Oct 2026 14:21:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21552703/?type=app&htype=97"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/camra-names-glasgows-best-traditional-34735336",
@@ -2835,6 +2859,14 @@
         "description": "Paul Ferris, the notorious Glasgow underworld figure, has died aged 62.",
         "published": "Thu, 08 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/8432961/?type=app&htype=0"
+      },
+      {
+        "id": "e5e05eccfbc196c4de729fb0071819fc",
+        "title": "The Forge Market clear up rumours after false \u00a32.5m auction sale",
+        "link": "https://www.glasgowtimes.co.uk/news/26617165.forge-market-clear-rumours-false-2-5m-auction-sale/",
+        "description": "The owners of The Forge Market in Glasgow's East End have cleared up rumours that the site is heading for auction with a \u00a32.5 million price tag",
+        "published": "Wed, 07 Oct 2026 19:41:56 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16173350/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
