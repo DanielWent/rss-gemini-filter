@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo#1",
+        "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+        "link": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
+        "description": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
+        "published": "Thu, 08 Oct 2026 23:14:02 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b64/live/f290d3b0-c300-11f1-bc2e-018d645d8d21.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo#4",
         "title": "Margaret Hamilton, whose software helped land Apollo 11 on the moon, dies at 90",
         "link": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The 38-year-old becomes one of just over 100 people who have stood on all 1,072 summits.",
         "published": "Sun, 23 Aug 2026 16:00:34 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c73/live/a8bb2dc0-9e44-11f1-a291-b542ee92de7c.jpg"
-      },
-      {
-        "id": "1787494212864897",
-        "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
-        "description": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of  56 minutes 51 seconds in a World Athletics road race in Buenos Aires.",
-        "published": "Sun, 23 Aug 2026 15:35:06 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59e8/live/c52553d0-9ef5-11f1-aed4-af6fe65bfcd6.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
