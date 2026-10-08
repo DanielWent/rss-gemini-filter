@@ -2373,6 +2373,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c6rmyzk8819ro#0",
+        "title": "'Record-breaking' M\u00f2d returns to Glasgow for Gaelic celebration",
+        "link": "https://www.bbc.co.uk/news/articles/c6rmyzk8819ro?at_medium=RSS&at_campaign=rss",
+        "description": "Thousands of people will gather this week in Glasgow for the annual celebration of Gaelic culture",
+        "published": "Thu, 08 Oct 2026 22:08:55 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/010c/live/d2ee6820-c322-11f1-bd97-fbe5a3482cde.jpg"
+      },
+      {
         "id": "7a3d0c1a6e9912abf7af65e3a5fbd5ce",
         "title": "Man hospitalised after daylight attack as busy Glasgow street cordoned off",
         "link": "https://www.glasgowtimes.co.uk/news/26620903.man-hospitalised-daylight-attack-busy-glasgow-street/",
