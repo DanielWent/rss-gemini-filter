@@ -2317,6 +2317,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-forced-wait-days-34726403",
+        "title": "Glasgow mum 'forced to wait for days' in labour agony felt 'completely dismissed'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-forced-wait-days-34726403",
+        "description": "&quot;If this was my first baby, I'd never put myself through it again.&quot;",
+        "published": "Thu, 8 Oct 2026 06:12:54 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34730799.ece/ALTERNATES/s98/0_acb811a0-d329-4c17-8b28-4c8fcef1ea3bjfif.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/nhs-glasgow-offers-30-paid-34731574",
+        "title": "NHS Glasgow offers 30 paid work placements to help parents with employment",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/nhs-glasgow-offers-30-paid-34731574",
+        "description": "The first participants can expect to begin work before the end of this year or in early 2027.",
+        "published": "Thu, 8 Oct 2026 06:10:25 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34732119.ece/ALTERNATES/s98/1_gettyimages-2159075861-170667a.jpg"
+      },
+      {
+        "id": "3d620c85edd43aa284556ff45038b30e",
+        "title": "Martin Compston pays tribute to notorious Glasgow gangland figure Paul Ferris",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26617317.martin-compston-pays-tribute-glasgow-gangster-paul-ferris/",
+        "description": "Martin Compston pays tribute to Glasgow gangster Paul Ferris",
+        "published": "Thu, 08 Oct 2026 07:03:19 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21552375/?type=app&htype=0"
+      },
+      {
         "id": "b4c068888ee4e6a7707ffd23406cc6ad",
         "title": "Notorious Glasgow gangland figure Paul Ferris dead aged 62",
         "link": "https://www.glasgowtimes.co.uk/news/26614792.notorious-glasgow-gangland-figure-paul-ferris-dead/",
@@ -3091,30 +3115,6 @@
         "description": "Drag comedy icon Bianca Del Rio will bring her brand-new stand-up show, It Gets Bitter, to Glasgow in April 2027",
         "published": "Tue, 06 Oct 2026 19:16:52 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21547092/?type=app&htype=0"
-      },
-      {
-        "id": "defe876d000f0bb07b8c7510c0525a0b",
-        "title": "BBC decision to axe world piping broadcast has 'echoes of 1746' say SNP",
-        "link": "https://www.heraldscotland.com/news/26613429.snp-invoke-culloden-bbc-consider-dropping-piping-contest/",
-        "description": "Stuart McMillan, the Inverclyde MSP and piper, has invoked the British state's crackdown after Culloden in a letter demanding the BBC reverse plans to drop its World Pipe Band Championships coverage. The corporation insists no final decision has been taken.",
-        "published": "Tue, 06 Oct 2026 19:06:51 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19801664/?type=app&htype=0"
-      },
-      {
-        "id": "614cedb6696d314d1b52d15d23f8bc43",
-        "title": "Has Holyrood been a launch pad for independence or a nationalist dead end?",
-        "link": "https://www.heraldscotland.com/news/26613308.devolution-made-independence-less-likely/",
-        "description": "George Robertson promised devolution would kill the SNP stone dead. A quarter century on, with independence support approaching 50% and three pro-independence First Ministers aligned, the verdict looks rather different.",
-        "published": "Tue, 06 Oct 2026 17:38:07 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21546820/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.thescottishsun.co.uk/?p=16906595",
-        "title": "Man rushed to hospital after being found with serious injuries on Glasgow street",
-        "link": "https://www.thescottishsun.co.uk/news/16906595/man-hospitalised-serious-injuries-glasgow-street/",
-        "description": "A MAN has been rushed to hospital after being found heavily injured on a Scots street. Cops rushed to the scene in Glasgow at around 8.10pm on Friday, May 1 2026 when the alarm was raised about a 32-year-old in a serious condition. Detectives have launched a probe into assault on Maryhill Road, sharing the...",
-        "published": "Tue, 06 Oct 2026 17:09:07 +0100",
-        "image_url": "https://www.thescottishsun.co.uk/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-gshxkxpee-1791301771972.jpg?quality%3D90%26"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
