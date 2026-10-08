@@ -2373,6 +2373,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9275618",
+        "title": "Glasgow City Council grants GlasGLOW public entertainment licence despite community concerns",
+        "link": "https://www.glasgowworld.com/news/glasgow-glow-halloween-event-9275618",
+        "description": "<p>Glasgow City Council has granted GlasGLOW a public entertainment licence, despite concerns from the local community council about the impact of the event on the environment and local wildlife.</p>",
+        "published": "Thu, 08 Oct 2026 16:09:51 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/10/24/15/17/DSC08967.jpeg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/glasgow-just-lost-uks-friendliest-34737335",
+        "title": "Glasgow just lost its 'UK's friendliest' crown to another Scottish city",
+        "link": "https://www.glasgowlive.co.uk/whats-on/glasgow-just-lost-uks-friendliest-34737335",
+        "description": "Glasgow has been beating to the title of the UK's friendliest city, despite claiming the top spot for the last two years, and it's even found itself dropping three places on the acclaimed list",
+        "published": "Thu, 8 Oct 2026 16:09:26 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34737700.ece/ALTERNATES/s98/0_JS420614556.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=532400",
+        "title": "More than 16,000 unsafe toys removed from sale in west of Scotland by Trading Standards",
+        "link": "https://news.stv.tv/west-central/more-than-16000-unsafe-toys-removed-from-sale-in-west-of-scotland-by-trading-standards",
+        "description": "Over 32,000 toys were inspected as part of the Trading Standards crackdown",
+        "published": "Thu, 08 Oct 2026 16:01:59 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/d6392e9b282bbe9772f88ac0d8cc403f-1791466064-960x720.jpg"
+      },
+      {
+        "id": "6fb04881bf85f146d5aa0a54c3251d08",
+        "title": "I went for pizza in Glasgow and stumbled into Scotland's weirdest row",
+        "link": "https://www.heraldscotland.com/opinion/26620296.sears-pizza-battling-glasgow-city-council-hot-food-rules/",
+        "description": "Popular Glasgow pizza shop is fighting council enforcement action in a row that has become one of Scotland's strangest local battles",
+        "published": "Thu, 08 Oct 2026 17:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20772696/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/talks-glasgow-bar-owners-over-34737519",
         "title": "Talks with Glasgow bar owners over sale of council land for flats agreed despite 'wild leap'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/talks-glasgow-bar-owners-over-34737519",
@@ -2411,6 +2443,14 @@
         "description": "<p>Klodian Ferizolli, a 32-year-old car wash owner and director of a property management company, has been struck off the city\u2019s landlords register after being convicted of supplying and selling cocaine and cannabis.</p>",
         "published": "Thu, 08 Oct 2026 15:00:30 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/02/16/cs-219a8b61-f574-43f8-85c0-ff757d47a51b.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "bf56aff7f89079341c6c474930d427b4",
+        "title": "Four in 10 Scottish families not ready for financial impact of dementia",
+        "link": "https://www.heraldscotland.com/news/26620053.four-10-scots-unprepared-dementia-financial-costs/",
+        "description": "More than four in 10 families in Scotland feel financially unprepared to deal with the impact of dementia.",
+        "published": "Thu, 08 Oct 2026 15:49:02 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/16838750/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-city-council-continue-relationship-34736880",
@@ -2571,6 +2611,14 @@
         "description": "Tributes paid to Canon John McGrorry, former priest at St Joseph\u2019s Milngavie and St Kessog\u2019s Balloch, who has died aged 67 after a long career in Glasgow.",
         "published": "Thu, 08 Oct 2026 14:24:08 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21555227/?type=app&htype=56"
+      },
+      {
+        "id": "4b83d6c12b2f54478cd18ff4cedf70f6",
+        "title": "North Lanarkshire Council urged by business group to pause visitor levy plans",
+        "link": "https://www.heraldscotland.com/news/26619472.north-lanarkshire-urged-pause-visitor-levy-plans/",
+        "description": "The Federation of Small Businesses Scotland says the council should not move forward with the proposed tourism tax",
+        "published": "Thu, 08 Oct 2026 14:23:56 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21403403/?type=app&htype=0"
       },
       {
         "id": "f0ea56b0f1b96340554be84da63f032e",
