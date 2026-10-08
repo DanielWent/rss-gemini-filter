@@ -1001,6 +1001,14 @@
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
       {
+        "id": "https://the5krunner.com/?p=136263",
+        "title": "Connect IQ Developer Reports GPS Faults on Fenix 9 Pro",
+        "link": "https://the5krunner.com/2026/10/08/fenix-9-pro-gps-problem/",
+        "description": "<p><img alt=\"Connect IQ Developer Reports GPS Faults on Fenix 9 Pro\" class=\"attachment-large size-large\" height=\"620\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/Garmin-Fenix-9-Pro-loses-GPS-conenctions-regularly-on-Conenct-IQ-apps-trying-to-conenct-to-gnss.jpg/w=1110,h=620\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Some Connect IQ apps lose GPS on Fenix 9 Pro after about 14 seconds, according to a developer. Garmin's own sports profiles are unaffected. Garmin has also confirmed that Forerunner 170 hides its gyroscope from apps.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/08/fenix-9-pro-gps-problem/\">Connect IQ Developer Reports GPS Faults on Fenix 9 Pro</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Thu, 08 Oct 2026 14:06:05 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/Garmin-Fenix-9-Pro-loses-GPS-conenctions-regularly-on-Conenct-IQ-apps-trying-to-conenct-to-gnss.jpg/w=1110,h=620"
+      },
+      {
         "id": "https://the5krunner.com/?p=135513",
         "title": "Last Day: Garmin Prime Day Deals End Tonight",
         "link": "https://the5krunner.com/2026/10/07/garmin-prime-day-deals-last-day-october-2026/",
@@ -2348,6 +2356,22 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "faf4501594324b1c9ef0a920d1dc0533",
+        "title": "Global chain to take over Glasgow hotel an open first Scottish spot",
+        "link": "https://www.glasgowtimes.co.uk/news/26619747.glasgow-holiday-inn-taken-international-chain/",
+        "description": "Garner by IHG will open its first Scottish hotel in Glasgow, replacing the Holiday Inn on West Nile Street, subject to council approval of signage.",
+        "published": "Thu, 08 Oct 2026 15:05:59 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/15947499/?type=app&htype=0"
+      },
+      {
+        "id": "d367c45c0f555c8920f7408e2c6d972e",
+        "title": "West End pizzeria appeals council order claiming its pizza slices are sold cold",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26619598.glasgow-pizzeria-appeals-council-order-hot-takeaway/",
+        "description": "A Partick pizzeria is insisting slices are sold cold unless just baked, as it appeals against a council order to stop running a \u201chot food takeaway\u201d.",
+        "published": "Thu, 08 Oct 2026 14:44:38 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18614593/?type=app&htype=0"
+      },
       {
         "id": "e8644e73c5cfbe6c376fad1efaf6c375",
         "title": "Glasgow hosting major European summit alongside mayor of twin city Mykolaiv",
