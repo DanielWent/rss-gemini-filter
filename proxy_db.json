@@ -2373,6 +2373,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "d6fe8c46e4698af9fe31d1a0ecbb6a47",
+        "title": "Former footballer accused of culpable homicide of 21-year-old Glasgow barman",
+        "link": "https://www.glasgowtimes.co.uk/news/26620706.former-footballer-accused-culpable-homicide-21-year-old-barman/",
+        "description": "A FORMER Partick Thistle youth goalkeeper was granted bail today after appearing in court charged with a hit and run killing of a barman",
+        "published": "Thu, 08 Oct 2026 17:46:30 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21546359/?type=app&htype=0"
+      },
+      {
         "id": "9275618",
         "title": "Glasgow City Council grants GlasGLOW public entertainment licence despite community concerns",
         "link": "https://www.glasgowworld.com/news/glasgow-glow-halloween-event-9275618",
@@ -2597,28 +2605,12 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19347166/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasglow-disruption-increases-year-year-34736030",
-        "title": "Glasglow disruption 'increases year on year' complain neighbours  as Botanics event licence granted",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasglow-disruption-increases-year-year-34736030",
-        "description": "There are concerns the event is causing environmental damage to a beloved park.",
-        "published": "Thu, 8 Oct 2026 13:25:52 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article15499633.ece/ALTERNATES/s98/1_GlasGLOW-2.jpg"
-      },
-      {
         "id": "8dc7f2dc768f61eb3c91ed7a69bfc0a5",
         "title": "Touching tributes paid to 'great priest' who served parish for decades dies aged 67",
         "link": "https://www.glasgowtimes.co.uk/news/26619474.tributes-paid-former-milngavie-priest-canon-john-mcgrorry/",
         "description": "Tributes paid to Canon John McGrorry, former priest at St Joseph\u2019s Milngavie and St Kessog\u2019s Balloch, who has died aged 67 after a long career in Glasgow.",
         "published": "Thu, 08 Oct 2026 14:24:08 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21555227/?type=app&htype=56"
-      },
-      {
-        "id": "4b83d6c12b2f54478cd18ff4cedf70f6",
-        "title": "North Lanarkshire Council urged by business group to pause visitor levy plans",
-        "link": "https://www.heraldscotland.com/news/26619472.north-lanarkshire-urged-pause-visitor-levy-plans/",
-        "description": "The Federation of Small Businesses Scotland says the council should not move forward with the proposed tourism tax",
-        "published": "Thu, 08 Oct 2026 14:23:56 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21403403/?type=app&htype=0"
       },
       {
         "id": "f0ea56b0f1b96340554be84da63f032e",
@@ -2867,14 +2859,6 @@
         "description": "\u201cThe sight of a masked mob running through the streets of the east end, chanting anti-migrant slurs, is deeply unsettling to our community.&quot;",
         "published": "Thu, 8 Oct 2026 09:44:12 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34734177.ece/ALTERNATES/s98/1_Police.png"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-appear-court-charged-attempted-34734183",
-        "title": "Man to appear in court charged with 'attempted murder' on Glasgow street",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-appear-court-charged-attempted-34734183",
-        "description": "Police were alerted to a crash involving a male pedestrian and a car on Glassford street at around 4.35am",
-        "published": "Thu, 8 Oct 2026 09:38:27 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34713837.ece/ALTERNATES/s98/829034420_1660129882431283_7687997763367908789_n.jpg"
       },
       {
         "id": "af150ab7d499c4fa0017632304edf3ca",
