@@ -2389,6 +2389,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "0a298fa03cd2ba603f6eb59ebfeecd8e",
+        "title": "New motorway closures announced as Kingston Bridge works enter second phase",
+        "link": "https://www.glasgowtimes.co.uk/news/26624513.new-closures-m8-kingston-bridge-works-enter-phase-2/",
+        "description": "Glasgow\u2019s M8 Kingston Bridge faces overnight closures from October 5 as Transport Scotland surveys trigger diversions around Dalintober and Carnoustie streets.",
+        "published": "Fri, 09 Oct 2026 17:26:57 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20992232/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/milestone-listed-springburn-winter-gardens-34743703",
         "title": "Milestone for A-listed Springburn Winter Gardens campaign as revamp approved",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/milestone-listed-springburn-winter-gardens-34743703",
@@ -2403,6 +2411,14 @@
         "description": "Bearsden Bookmonger wins approval for online alcohol, book and food deliveries.",
         "published": "Fri, 09 Oct 2026 16:26:41 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21561602/?type=app&htype=0"
+      },
+      {
+        "id": "3a3847ed88775b161190da3912474b74",
+        "title": "The day Glasgow\u2019s Irish Catholic heart was told half its churches must go",
+        "link": "https://www.heraldscotland.com/news/26623581.glasgow-catholic-church-closures-empty-pews/",
+        "description": "Half of Glasgow's Catholic churches face closure under radical archdiocese plans. Kevin McKenna examines what will be lost and why it matters",
+        "published": "Fri, 09 Oct 2026 16:25:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19357200/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/loud-explosion-heard-early-hours-34743384",
@@ -2445,6 +2461,14 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/509342f4b8d687e14ed05a78bd10f3ea-1791556019-1200x720.jpeg"
       },
       {
+        "id": "7d13d6b3a674490ec6069ab472bca3e7",
+        "title": "Hidden 'uranium hotspot' discovered beneath Aberdeen by researchers",
+        "link": "https://www.heraldscotland.com/news/26623808.hidden-uranium-hotspot-discovered-beneath-aberdeen/",
+        "description": "A hidden 'uranium hotspot' has been discovered beneath Aberdeen by University of Aberdeen researchers - shedding new light on the geological history of the region.",
+        "published": "Fri, 09 Oct 2026 15:40:17 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18001207/?type=app&htype=0"
+      },
+      {
         "id": "7566a57c0555ff0ef76ff7edb6de62db",
         "title": "Mystery surrounds theft of lorry carrying 41,000 bottles of Irn-Bru",
         "link": "https://www.glasgowtimes.co.uk/news/26623702.41-000-bottles-irn-bru-stolen-lorry-theft-cumbernauld/",
@@ -2459,14 +2483,6 @@
         "description": "Passengers were left to make their own way home after landing at Edinburgh Airport instead of Glasgow in the middle of the night",
         "published": "Fri, 09 Oct 2026 14:36:35 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/05/c385454b5eec7f7391c7fe9b60f4562d-1778592549-1280x720.jpeg"
-      },
-      {
-        "id": "1055a2d3984e88ae79b26f178267d50d",
-        "title": "Bearsden bookshop now permitted to deliver alcohol to customers",
-        "link": "https://www.heraldscotland.com/news/26623647.bearsden-bookshop-now-permitted-deliver-alcohol/",
-        "description": "A bookshop in Bearsden which also sells cheese and wine is now permitted to deliver alcohol to customers.",
-        "published": "Fri, 09 Oct 2026 15:20:51 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21494796/?type=app&htype=244"
       },
       {
         "id": "62c623dfba1eb3ae3f5c14480c428127",
@@ -3171,22 +3187,6 @@
         "description": "Plans for 52 homes on Strathaven Road in Stonehouse, South Lanarkshire, include bungalows, play areas and open space. A planning decision is pending at present.",
         "published": "Thu, 08 Oct 2026 15:06:33 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21037595/?type=app&htype=202"
-      },
-      {
-        "id": "faf4501594324b1c9ef0a920d1dc0533",
-        "title": "Global chain to take over Glasgow hotel an open first Scottish spot",
-        "link": "https://www.glasgowtimes.co.uk/news/26619747.glasgow-holiday-inn-taken-international-chain/",
-        "description": "Garner by IHG will open its first Scottish hotel in Glasgow, replacing the Holiday Inn on West Nile Street, subject to council approval of signage.",
-        "published": "Thu, 08 Oct 2026 15:05:59 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/15947499/?type=app&htype=0"
-      },
-      {
-        "id": "d7038aebb914719e02e8eac0c2fb034f",
-        "title": "Fatal accident inquiry to examine death of prisoner at HMP Shotts",
-        "link": "https://www.glasgowtimes.co.uk/news/26619711.fai-examine-death-hmp-shotts-prisoner-robert-dickie-hospital/",
-        "description": "A fatal accident inquiry will examine the death of a prisoner who died in custody.",
-        "published": "Thu, 08 Oct 2026 15:00:15 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21555671/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
