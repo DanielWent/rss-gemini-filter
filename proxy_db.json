@@ -2381,6 +2381,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=532512",
+        "title": "Suspect appears in court after man hit by car in Glasgow city centre",
+        "link": "https://news.stv.tv/west-central/suspect-appears-in-court-after-man-hit-by-car-in-glasgow-city-centre",
+        "description": "A 34-year-old man appeared in court on Thursday following the incident in Glasgow city centre",
+        "published": "Fri, 09 Oct 2026 08:47:30 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2023/05/d170e81d0e58dcd0c17a1e144b2c6953-1683727170-1120x720.jpg"
+      },
+      {
+        "id": "79f7f688b0bdff5544c122efeea5bb8b",
+        "title": "Susan Boyle documentary to air on BBC One Scotland this Hogmanay",
+        "link": "https://www.glasgowtimes.co.uk/entertainment/tv_radio/26621475.susan-boyle-documentary-air-bbc-one-scotland/",
+        "description": "Susan Boyle\u2019s rise from West Lothian to global fame is explored in a 45-minute BBC One Scotland documentary airing on Hogmanay, also on BBC iPlayer.",
+        "published": "Fri, 09 Oct 2026 09:37:32 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21557980/?type=app&htype=0"
+      },
+      {
         "id": "533e5ee92f6a4562b1590d7cc0aa92a4",
         "title": "\u00a31m pledged to create \u2018areas of linguistic significance\u2019 to help Gaelic thrive",
         "link": "https://www.heraldscotland.com/news/26621146.1m-funding-announced-gaelic-language-areas/",
