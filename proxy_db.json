@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo#1",
+        "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+        "link": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
+        "description": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
+        "published": "Fri, 09 Oct 2026 15:32:30 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b04d/live/ba559970-c3f2-11f1-bc2e-018d645d8d21.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo#1",
         "title": "Anthropic bans users from being 'cruel' to its AI systems",
         "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
@@ -723,14 +731,6 @@
         "description": "The performers are asking the government to give every person in the UK a legal right to own their voice.",
         "published": "Fri, 28 Aug 2026 07:11:16 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a34/live/922d2fb0-a234-11f1-a291-b542ee92de7c.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo#0",
-        "title": "Trump administration illegally retaliated against Anthropic, judge rules",
-        "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
-        "description": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
-        "published": "Fri, 28 Aug 2026 03:15:45 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f75a/live/b47df1f0-a28c-11f1-8826-af7227376736.jpg"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/c74g2j83dx1o#2",
