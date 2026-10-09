@@ -1826,6 +1826,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "af0478005ae0080674c35f7d2b8fe889",
+        "title": "Bearsden bookshop wins approval to deliver alcohol, books and food to customers",
+        "link": "https://www.glasgowtimes.co.uk/news/26624131.bearsden-bookshop-wins-approval-alcohol-deliveries/",
+        "description": "Bearsden Bookmonger wins approval for online alcohol, book and food deliveries.",
+        "published": "Fri, 09 Oct 2026 16:26:41 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21561602/?type=app&htype=0"
+      },
+      {
         "id": "6048d39c038d561172a2c4c52508faf0",
         "title": "East Dunbartonshire 20mph speed limit plans delayed after council vote",
         "link": "https://www.glasgowtimes.co.uk/news/26619904.milngavie-20mph-speed-limit-plans-deferred-december/",
@@ -2381,6 +2389,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/milestone-listed-springburn-winter-gardens-34743703",
+        "title": "Milestone for A-listed Springburn Winter Gardens campaign as revamp approved",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/milestone-listed-springburn-winter-gardens-34743703",
+        "description": "Work on the A-listed structure is expected to start early in the new year and finish over the summer.",
+        "published": "Fri, 9 Oct 2026 15:48:06 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33791488.ece/ALTERNATES/s98/0_Springburn-Winter-Gardens-2026-1JPG.jpg"
+      },
+      {
+        "id": "af0478005ae0080674c35f7d2b8fe889",
+        "title": "Bearsden bookshop wins approval to deliver alcohol, books and food to customers",
+        "link": "https://www.glasgowtimes.co.uk/news/26624131.bearsden-bookshop-wins-approval-alcohol-deliveries/",
+        "description": "Bearsden Bookmonger wins approval for online alcohol, book and food deliveries.",
+        "published": "Fri, 09 Oct 2026 16:26:41 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21561602/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/loud-explosion-heard-early-hours-34743384",
         "title": "'Loud explosion' heard in early hours as Glasgow fire crews rush to scene",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/loud-explosion-heard-early-hours-34743384",
@@ -2395,6 +2419,14 @@
         "description": "Kirkintilloch\u2019s Lion and Star Bar wins a new three-month music trial from East Dunbartonshire Licensing Board.",
         "published": "Fri, 09 Oct 2026 16:08:14 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/8664161/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/sport/football/articles/c5djvd3j74n7o#0",
+        "title": "'Not Celtic' - O'Neill condemns Desmond protest",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c5djvd3j74n7o?at_medium=RSS&at_campaign=rss",
+        "description": "\"This is not Celtic at all,\" is manager Martin O'Neill's response to the rising tensions between sections of the fan base and the club's board.",
+        "published": "Fri, 09 Oct 2026 15:01:41 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4716/live/ddab8760-c3e1-11f1-badc-154546719036.jpg"
       },
       {
         "id": "a3e10d5eb58150a1e0f92b5c2dcecf31",
@@ -3155,30 +3187,6 @@
         "description": "A fatal accident inquiry will examine the death of a prisoner who died in custody.",
         "published": "Thu, 08 Oct 2026 15:00:15 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21555671/?type=app&htype=0"
-      },
-      {
-        "id": "31f9f747a761da46433f6f15eb4ba9c4",
-        "title": "SNP demands Burnham act now as reports warn of record fall in living standards",
-        "link": "https://www.heraldscotland.com/news/26619099.burnham-urged-act-incomes-face-historic-squeeze/",
-        "description": "Two major think tanks warn that typical disposable incomes are nearly \u00a33,000 lower than before the crisis, with Labour now on course to preside over the worst parliament for living standards since modern records began in 1961.",
-        "published": "Thu, 08 Oct 2026 15:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21235034/?type=app&htype=0"
-      },
-      {
-        "id": "ec97e27a590ca5069f0cd0e248a93cd5",
-        "title": "Edinburgh councillors pledge help for 200 tenants facing St Margaret\u2019s House eviction",
-        "link": "https://www.heraldscotland.com/news/26619542.edinburgh-councillors-pledge-help-st-margarets-house-tenants/",
-        "description": "Caledonian Trust told The Herald that it is in discussions with a 'preferred party' about purchasing the site, which has been used by Scot-ART since 2008.",
-        "published": "Thu, 08 Oct 2026 14:47:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21516645/?type=app&htype=0"
-      },
-      {
-        "id": "e8644e73c5cfbe6c376fad1efaf6c375",
-        "title": "Glasgow hosting major European summit alongside mayor of twin city Mykolaiv",
-        "link": "https://www.glasgowtimes.co.uk/news/26619522.glasgow-hosting-2026-european-local-links-conference/",
-        "description": "Glasgow City Council is hosting the 2026 European Local Links conference welcoming European delegates and Mykolaiv Mayor Oleksandr Syenkevych.",
-        "published": "Thu, 08 Oct 2026 14:33:08 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19347166/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
