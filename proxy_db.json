@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cr5ye4p86d21o#4",
+        "title": "'People use AI to avoid paying for school photos, but they don't realise the consequences'",
+        "link": "https://www.bbc.co.uk/news/articles/cr5ye4p86d21o?at_medium=RSS&at_campaign=rss",
+        "description": "Ian Gilbert says he's heard parents boasting about using AI to take the watermark off his photos.",
+        "published": "Fri, 09 Oct 2026 05:08:09 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97d4/live/fe6f7990-c240-11f1-bc2e-018d645d8d21.png"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo#1",
         "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
         "link": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "There has been disagreement between queuers and others skipping the line to reach the top of Yr Wyddfa.",
         "published": "Mon, 24 Aug 2026 05:15:25 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7191/live/600d5190-9f7d-11f1-994f-5b14ccb35057.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c0m7mv0xkkro#3",
-        "title": "Scottish climber completes 'full house' of 1,072 peaks around UK",
-        "link": "https://www.bbc.co.uk/news/articles/c0m7mv0xkkro?at_medium=RSS&at_campaign=rss",
-        "description": "The 38-year-old becomes one of just over 100 people who have stood on all 1,072 summits.",
-        "published": "Sun, 23 Aug 2026 16:00:34 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c73/live/a8bb2dc0-9e44-11f1-a291-b542ee92de7c.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2381,6 +2381,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "533e5ee92f6a4562b1590d7cc0aa92a4",
+        "title": "\u00a31m pledged to create \u2018areas of linguistic significance\u2019 to help Gaelic thrive",
+        "link": "https://www.heraldscotland.com/news/26621146.1m-funding-announced-gaelic-language-areas/",
+        "description": "Could this help Gaelic thrive? More than \u00a31 million is being allocated",
+        "published": "Fri, 09 Oct 2026 08:23:28 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/11541607/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/former-glasgow-rangers-star-borna-34738788",
         "title": "Former Glasgow Rangers star Borna Barisic 'charged with money laundering' after raid",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/former-glasgow-rangers-star-borna-34738788",
@@ -2451,14 +2459,6 @@
         "description": "Spey Bay Golf Club has been put up for sale at offers over \u00a31.5m for the historic Moray links and its associated facilities",
         "published": "Fri, 09 Oct 2026 06:30:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21551543/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c85ynw5k0p0go#0",
-        "title": "Midges' role in spreading disease to be investigated",
-        "link": "https://www.bbc.co.uk/news/articles/c85ynw5k0p0go?at_medium=RSS&at_campaign=rss",
-        "description": "Scientists from Glasgow University will look at the more serious health risks posed by one of Scotland's greatest natural nuisances.",
-        "published": "Fri, 09 Oct 2026 05:07:51 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a89/live/66f0e440-c327-11f1-9981-cf94ea240e40.jpg"
       },
       {
         "id": "f5869cbf550247292cbac49953f68d42",
