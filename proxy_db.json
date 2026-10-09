@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1791575415609521",
+        "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+        "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+        "description": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
+        "published": "Fri, 09 Oct 2026 21:39:52 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ae5/live/091da400-c419-11f1-9a39-31b474234113.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo#1",
         "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
         "link": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
         "published": "Tue, 25 Aug 2026 06:54:01 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c04d/live/a8f841c0-a03c-11f1-b7fb-bd20bd7c1336.jpg"
-      },
-      {
-        "id": "1787621708817493",
-        "title": "Tornado tears through French village leaving dozens injured",
-        "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
-        "description": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
-        "published": "Tue, 25 Aug 2026 03:27:21 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/940f/live/15a64300-a00e-11f1-9bf0-5f4ec548648d.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2404,6 +2404,22 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/two-teens-woman-arrested-glasgow-34744814",
+        "title": "Two teens and woman arrested in Glasgow motorbike theft crackdown",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/two-teens-woman-arrested-glasgow-34744814",
+        "description": "Police have said that more than 70 motorcycles have been reported stolen in the Greater Glasgow area since April 2026.",
+        "published": "Fri, 9 Oct 2026 19:48:45 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article24546515.ece/ALTERNATES/s98/6_JS183291711jpgpoljpgl.jpg"
+      },
+      {
+        "id": "6da2d8749d4b707aabb5c98d9e80373a",
+        "title": "Eight Glasgow homes raided as teens arrested over 'stolen motorcycles'",
+        "link": "https://www.glasgowtimes.co.uk/news/26624749.eight-glasgow-homes-raided-teens-arrested-stolen-motorcycles/",
+        "description": "Eight Glasgow homes have been raided and three have been arrested amid a major investigation into 'stolen motorcycles'",
+        "published": "Fri, 09 Oct 2026 20:25:46 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16206885/?type=app&htype=0"
+      },
       {
         "id": "743be9d62d94f3e2e83406a49cb832c7",
         "title": "Residents 'threatened and intimidated' after balaclava-clad anti-immigration protest",
