@@ -2381,6 +2381,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "241c27190df1ee50cdaab87f174d1f3c",
+        "title": "Barlinnie prisoners left without water overnight as families slam 'inhumane' ordeal",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26622028.barlinnie-prisoners-left-without-water-overnight-cells/",
+        "description": "HMP Barlinnie prisoners faced overnight water loss affecting taps and toilets after a supply fault. Scottish Water fixed the issue at the ageing Glasgow jail.",
+        "published": "Fri, 09 Oct 2026 11:07:44 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20084349/?type=app&htype=0"
+      },
+      {
+        "id": "f255622715df3ce71a4e6a05a6f08b01",
+        "title": "Glasgow shopping centre hosting week-long Black History Month celebration",
+        "link": "https://www.glasgowtimes.co.uk/news/26621983.buchanan-galleries-hosting-black-history-month-celebration/",
+        "description": "Buchanan Galleries\u00a0is marking Black History Month with a week-long cultural celebration.",
+        "published": "Fri, 09 Oct 2026 11:00:25 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21188809/?type=app&htype=0"
+      },
+      {
+        "id": "149412222bef1bc967c7f6723a41fa5c",
+        "title": "Major news revealed about Glasgow's Christmas light switch-on and markets",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26621882.george-square-christmas-village-announced-glasgow-festive-programme/",
+        "description": "Plans have been unveiled for Glasgow's festive season, with George Square returning to the heart of this year's Christmas celebrations - but there will be no light switch-on event.",
+        "published": "Fri, 09 Oct 2026 10:45:42 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17514360/?type=app&htype=0"
+      },
+      {
         "id": "284f53f3adeaf23e3a91aef3daa0fe9d",
         "title": "Drivers warned as five days of disruption set to hit roads near Ibrox next week",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26621649.helen-street-lane-closures-near-ibrox-improvement-works/",
