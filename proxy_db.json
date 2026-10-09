@@ -2381,6 +2381,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/loud-explosion-heard-early-hours-34743384",
+        "title": "'Loud explosion' heard in early hours as Glasgow fire crews rush to scene",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/loud-explosion-heard-early-hours-34743384",
+        "description": "Locals reported hearing a &quot;bang like a bomb going off&quot; at the time of the incident.",
+        "published": "Fri, 9 Oct 2026 15:19:07 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34743478.ece/ALTERNATES/s98/3_Fire_StEdumund_9thOctober_MarkMcGuinness-3JPG.jpg"
+      },
+      {
+        "id": "93c2f05bf06bac0c278ae6427ae5a176",
+        "title": "Kirkintilloch pub granted new three-month music trial after noise complaints",
+        "link": "https://www.glasgowtimes.co.uk/news/26624003.kirkintilloch-pub-granted-new-three-month-music-trial/",
+        "description": "Kirkintilloch\u2019s Lion and Star Bar wins a new three-month music trial from East Dunbartonshire Licensing Board.",
+        "published": "Fri, 09 Oct 2026 16:08:14 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/8664161/?type=app&htype=0"
+      },
+      {
+        "id": "a3e10d5eb58150a1e0f92b5c2dcecf31",
+        "title": "LIVE updates as disruption plagues major Glasgow trains ahead of rush hour",
+        "link": "https://www.glasgowtimes.co.uk/news/26623941.live-updates-rush-hour-glasgow-central-trains-cancelled/",
+        "description": "A signalling fault at Kilwinning has caused services from Glasgow Central to Ayr, Ardrossan Harbour and Largs to be delayed or revised.",
+        "published": "Fri, 09 Oct 2026 15:57:52 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17651420/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=532597",
         "title": "Will there be a Christmas market at George Square in Glasgow this year?",
         "link": "https://news.stv.tv/west-central/will-there-be-a-christmas-market-at-george-square-in-glasgow-this-year",
@@ -2443,14 +2467,6 @@
         "description": "Little-known rule means certain passengers get free parking and discounted Priority Security",
         "published": "Fri, 9 Oct 2026 13:26:26 +0000",
         "image_url": "https://i2-prod.liverpoolecho.co.uk/incoming/article34742382.ece/ALTERNATES/s98/0_GettyImages-2157973651.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/irn-bru-lorry-stolen-cumbernauld-34742297",
-        "title": "IRN-BRU lorry stolen from Cumbernauld depot with \u00a330K worth of drink inside",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/irn-bru-lorry-stolen-cumbernauld-34742297",
-        "description": "Bosses joked that the thieves had taken 'enough BRU to quench the thirst of a packed Hampden' before asking for the public's help in tracing the missing stock.",
-        "published": "Fri, 9 Oct 2026 13:21:12 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34742328.ece/ALTERNATES/s98/0_unnamed-1.png"
       },
       {
         "id": "209138981db97217887dde6d6b492159",
@@ -2571,6 +2587,14 @@
         "description": "Glasgow has been transformed into the \"City of the Gaels\" as the Royal National M\u00f2d begins.",
         "published": "Fri, 09 Oct 2026 12:48:40 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21559516/?type=app&htype=0"
+      },
+      {
+        "id": "2b606758d1902cb5dacab1271c5d61d9",
+        "title": "A 40ft shipping container is helping create the next generation of cyber defenders",
+        "link": "https://www.glasgowtimes.co.uk/news/26622660.glasgow-clyde-college-hosts-40ft-cyber-security-escape-room/",
+        "description": "A 40ft shipping container is doubling as a cyber security escape room to train the next generation of digital defenders.",
+        "published": "Fri, 09 Oct 2026 12:43:45 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21559460/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/coloursfest-bringing-george-bowie-scooter-34740805",
@@ -3155,30 +3179,6 @@
         "description": "Glasgow City Council is hosting the 2026 European Local Links conference welcoming European delegates and Mykolaiv Mayor Oleksandr Syenkevych.",
         "published": "Thu, 08 Oct 2026 14:33:08 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19347166/?type=app&htype=0"
-      },
-      {
-        "id": "8dc7f2dc768f61eb3c91ed7a69bfc0a5",
-        "title": "Touching tributes paid to 'great priest' who served parish for decades dies aged 67",
-        "link": "https://www.glasgowtimes.co.uk/news/26619474.tributes-paid-former-milngavie-priest-canon-john-mcgrorry/",
-        "description": "Tributes paid to Canon John McGrorry, former priest at St Joseph\u2019s Milngavie and St Kessog\u2019s Balloch, who has died aged 67 after a long career in Glasgow.",
-        "published": "Thu, 08 Oct 2026 14:24:08 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21555227/?type=app&htype=56"
-      },
-      {
-        "id": "f0ea56b0f1b96340554be84da63f032e",
-        "title": "'Up to 50' Police Scotland officers suspended due to violence against women and girls",
-        "link": "https://www.heraldscotland.com/news/26619467.up-50-police-scotland-officers-suspended-abusing-women/",
-        "description": "Up to 50 serving officers with Police Scotland are currently suspended from their job over allegations of violence against women and girls",
-        "published": "Thu, 08 Oct 2026 14:23:07 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21336231/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/camra-names-glasgows-best-traditional-34735336",
-        "title": "CAMRA names Glasgow's best traditional beer pubs and asks members to help pick a winner",
-        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/camra-names-glasgows-best-traditional-34735336",
-        "description": "The Campaign for Real Ale (CAMRA) is looking to name the best beer pub in the city.",
-        "published": "Thu, 8 Oct 2026 13:19:46 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34735340.ece/ALTERNATES/s98/4_JS363515860jpgt.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
