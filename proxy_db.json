@@ -2381,6 +2381,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-airport-offers-one-hour-34742343",
+        "title": "Glasgow Airport offers one hour free parking for these passengers",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-airport-offers-one-hour-34742343",
+        "description": "Little-known rule means certain passengers get free parking and discounted Priority Security",
+        "published": "Fri, 9 Oct 2026 13:26:26 +0000",
+        "image_url": "https://i2-prod.liverpoolecho.co.uk/incoming/article34742382.ece/ALTERNATES/s98/0_GettyImages-2157973651.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/irn-bru-lorry-stolen-cumbernauld-34742297",
+        "title": "IRN-BRU lorry stolen from Cumbernauld depot with \u00a330K worth of drink inside",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/irn-bru-lorry-stolen-cumbernauld-34742297",
+        "description": "Bosses joked that the thieves had taken 'enough BRU to quench the thirst of a packed Hampden' before asking for the public's help in tracing the missing stock.",
+        "published": "Fri, 9 Oct 2026 13:21:12 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34742328.ece/ALTERNATES/s98/0_unnamed-1.png"
+      },
+      {
+        "id": "836fb184238b1fa4c0b0bbf56d092fed",
+        "title": "Nickelback announce huge world tour with stop at Glasgow's OVO Hydro",
+        "link": "https://www.glasgowtimes.co.uk/news/26623119.nickelback-announce-glasgow-hydro-date-2027-world-tour/",
+        "description": "Nickelback have announced a Glasgow OVO Hydro show as part of a huge new world tour. Find out when tickets go on sale and how to secure seats",
+        "published": "Fri, 09 Oct 2026 14:03:33 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21560415/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=532544",
         "title": "Glasgow studio \u2018incredibly honoured\u2019 to take on Batman legacy in new state-of-art Amazon video game",
         "link": "https://news.stv.tv/west-central/glasgow-studio-incredibly-honoured-to-take-on-batman-legacy-in-new-state-of-art-amazon-video-game",
@@ -2435,6 +2459,14 @@
         "description": "A Roma fan involved in a 'mass disturbance' with Celtic supporters before a European match has been banned from football games for two years",
         "published": "Fri, 09 Oct 2026 13:15:38 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21559740/?type=app&htype=0"
+      },
+      {
+        "id": "2205df0efc00b9571c148bee014e893f",
+        "title": "Stephen Flynn was emailed about CalMac gas leak before denying knowledge to MSPs",
+        "link": "https://www.heraldscotland.com/news/26622756.emails-show-stephen-flynn-briefed-calmac-gas-leak/",
+        "description": "Stephen Flynn was briefed on CalMac\u2019s highly flammable gas leak \u2013 despite controversially telling a Holyrood committee he had had no knowledge of the high-profile incident.",
+        "published": "Fri, 09 Oct 2026 13:05:35 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18795607/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/free-pumpkin-decorating-workshops-glasgow-34741229",
@@ -3147,38 +3179,6 @@
         "description": "Plans revealed for a new Hill House visitor centre in Helensburgh include a caf\u00e9, shop and interpretation facilities, with public drop-in session on October 15.",
         "published": "Thu, 08 Oct 2026 13:08:07 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21547811/?type=app&htype=0"
-      },
-      {
-        "id": "70817ef85b9afe6d01e1700aab57e31f",
-        "title": "Woman thought she was \u2018watching someone being killed\u2019 during savage Glasgow attack",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26619079.mark-heggie-jailed-five-years-glasgow-buchanan-street-attack/",
-        "description": "Mark Heggie has been jailed for five years after a brutal assault on Buchanan Street in Glasgow left a man with life-threatening injuries, skull fractures and a brain bleed.",
-        "published": "Thu, 08 Oct 2026 13:05:40 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17330521/?type=app&htype=0"
-      },
-      {
-        "id": "bae7fdaf6dff842e01385313b2998523",
-        "title": "'Like a zombie film' - Airbnb host's stark warning over Glasgow city centre",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26619023.airbnb-host-warns-glasgow-city-centre-unsafe-night/",
-        "description": "Glasgow Airbnb host raises safety concerns after city-centre murder investigation and alleged hit-and-run leave visitors questioning night-time safety.",
-        "published": "Thu, 08 Oct 2026 12:55:35 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21535699/?type=app&htype=0"
-      },
-      {
-        "id": "9100bff4e876eff7620237ae1d18577e",
-        "title": "More than 1000 Glasgow memorials found to pose immediate safety risk",
-        "link": "https://www.glasgowtimes.co.uk/news/26619012.1000-glasgow-memorials-pose-immediate-safety-risks/",
-        "description": "More than 1000 memorials across Glasgow have been found to pose an immediate safety risk.",
-        "published": "Thu, 08 Oct 2026 12:54:17 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21554616/?type=app&htype=0"
-      },
-      {
-        "id": "7d54a4feb585d83060ebb07667d8ca9e",
-        "title": "Busy city centre road to shut until tomorrow amid ongoing 'emergency'",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26619009.west-regent-street-glasgow-close-tomorrow/",
-        "description": "West Regent Street in Glasgow to close until tomorrow",
-        "published": "Thu, 08 Oct 2026 12:53:23 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19342883/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
