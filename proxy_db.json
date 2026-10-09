@@ -2381,6 +2381,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/former-glasgow-rangers-star-borna-34738788",
+        "title": "Former Glasgow Rangers star Borna Barisic 'charged with money laundering' after raid",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/former-glasgow-rangers-star-borna-34738788",
+        "description": "Borna Barisic, who spent six seasons at Ibrox, is the son of Stipe 'The Moth' Barisic who is allegedly a top figure in the Cepin Mafia clan.",
+        "published": "Fri, 9 Oct 2026 07:04:59 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34738794.ece/ALTERNATES/s98/0_Rangers-v-Ross-County-cinch-Premiership-Ibrox-StadiumjpgRangers-Borna-Barisic.jpg"
+      },
+      {
+        "id": "461f5de17d06e10d942fb7c029d8723b",
+        "title": "Glasgow research project to assess risk of mosquito and midge-borne diseases in UK",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26621103.scientists-secure-3-75m-assess-uk-mosquito-disease-risks/",
+        "description": "University of Glasgow secures \u00a33.75m for PAMEC, a four-year project assessing climate-driven mosquito and midge-borne disease risks across the UK and public health.",
+        "published": "Fri, 09 Oct 2026 07:57:44 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21557653/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-gangland-murder-victims-family-34738736",
         "title": "Glasgow gangland murder victim's family \u2018pop champagne and celebrate\u2019 in wake of Paul Ferris' death",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-gangland-murder-victims-family-34738736",
@@ -2413,12 +2429,60 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21475912/?type=app&htype=0"
       },
       {
+        "id": "5062123d94d9a7e515de3ef0700e6945",
+        "title": "Scots free speech U-turn - ethics watchdog backs ban it said was \u2018not justified\u2019",
+        "link": "https://www.heraldscotland.com/news/26620090.greg-lennon-watchdog-reversed-article-10-freedom-speech-position/",
+        "description": "An ethics watchdog concluded that restricting a councillor\u2019s freedom of speech was \u201cnot justified\u201d \u2013 only to reverse its position at his disciplinary hearing and support a decision that ended with him being suspended for two months, The Herald can...",
+        "published": "Fri, 09 Oct 2026 06:34:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21556426/?type=app&htype=0"
+      },
+      {
+        "id": "33cca841ba54fde45b967b645e3e57e7",
+        "title": "Sex crime cases in Scotland take nearly three years to conclude, auditors warn",
+        "link": "https://www.heraldscotland.com/news/26620647.scots-sex-crime-cases-face-almost-three-year-wait-justice/",
+        "description": "Sexual crimes in Scotland hit a record high as victims face a median two-year 11-month wait for cases to conclude amid growing High Court delays.",
+        "published": "Fri, 09 Oct 2026 06:33:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21431598/?type=app&htype=0"
+      },
+      {
+        "id": "005f12d9fba7ecb523ae5a54d13fcb11",
+        "title": "Three years after headline-grabbing takeover, Scottish golf club is up for sale again",
+        "link": "https://www.heraldscotland.com/news/26616341.spey-bay-golf-club-sale-three-years-linksdao-deal/",
+        "description": "Spey Bay Golf Club has been put up for sale at offers over \u00a31.5m for the historic Moray links and its associated facilities",
+        "published": "Fri, 09 Oct 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21551543/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c85ynw5k0p0go#0",
         "title": "Midges' role in spreading disease to be investigated",
         "link": "https://www.bbc.co.uk/news/articles/c85ynw5k0p0go?at_medium=RSS&at_campaign=rss",
         "description": "Scientists from Glasgow University will look at the more serious health risks posed by one of Scotland's greatest natural nuisances.",
         "published": "Fri, 09 Oct 2026 05:07:51 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a89/live/66f0e440-c327-11f1-9981-cf94ea240e40.jpg"
+      },
+      {
+        "id": "f5869cbf550247292cbac49953f68d42",
+        "title": "The historic buildings earmarked for demolition under Summerhall redevelopment plans",
+        "link": "https://www.heraldscotland.com/news/26620734.summerhall-plans-partial-demolition-means-arts-hub/",
+        "description": "Could new proposals to turn some of the arts and culture hub into a hotel and student accommodation scupper the creative future of the complex?",
+        "published": "Fri, 09 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18584734/?type=app&htype=0"
+      },
+      {
+        "id": "80fb6bee183efb56d1e6bf619585f6c4",
+        "title": "\u2018No red lines, nothing off the table\u2019 in university transformation talks",
+        "link": "https://www.heraldscotland.com/news/26619968.no-red-lines-nothing-off-table-university-reform/",
+        "description": "Sally Mapstone leads Scotland\u2019s university reform, with mergers, collaboration and shared services on the table amid a \u00a3200m sector sustainability gap.",
+        "published": "Fri, 09 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21001748/?type=app&htype=0"
+      },
+      {
+        "id": "d98b3d2c8d9c21b49870ac4b878cbe57",
+        "title": "Inside the Irvine Valley where Scotland\u2019s historic lace-making tradition lives on",
+        "link": "https://www.heraldscotland.com/life_style/26620603.fight-save-irvine-valleys-historic-lace-making-industry/",
+        "description": "The Irvine Valley is home to the world\u2019s last working Nottingham lace looms, but the skills that have sustained them for generations are at risk of disappearing. Can this remarkable textile heritage be saved?",
+        "published": "Fri, 09 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21556952/?type=app&htype=0"
       },
       {
         "id": "27feffc428679af83470225eaf1c4f48",
