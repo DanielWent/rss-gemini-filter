@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo#1",
+        "title": "Anthropic bans users from being 'cruel' to its AI systems",
+        "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+        "description": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
+        "published": "Fri, 09 Oct 2026 12:34:27 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e673/live/aabc5740-c3db-11f1-95ba-dba767ffba7e.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo#4",
         "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
         "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Keely Hodgkinson withdraws from the women's 800 metres at Thursday's Diamond League meeting in Zurich because her \"body is not quite ready\".",
         "published": "Mon, 24 Aug 2026 18:49:51 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9a0/live/f63244a0-9fe6-11f1-8ed1-41aaf1fca4f2.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c62m4gpnp78o#0",
-        "title": "World's oceans hit highest temperature on record as El Ni\u00f1o grows",
-        "link": "https://www.bbc.co.uk/news/articles/c62m4gpnp78o?at_medium=RSS&at_campaign=rss",
-        "description": "The record \"is another clear signal of an ocean under growing stress\", according to Dr Samantha Burgess from the European Copernicus climate change service.",
-        "published": "Mon, 24 Aug 2026 15:17:48 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e1c/live/bc7158a0-9fc3-11f1-8648-8d7b77845e6d.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2381,6 +2381,54 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=532544",
+        "title": "Glasgow studio \u2018incredibly honoured\u2019 to take on Batman legacy in new state-of-art Amazon video game",
+        "link": "https://news.stv.tv/west-central/glasgow-studio-incredibly-honoured-to-take-on-batman-legacy-in-new-state-of-art-amazon-video-game",
+        "description": "Blazing Griffin, based in Kinning Park, are the brains behind Batman: Caped Crusader - Chronicles",
+        "published": "Fri, 09 Oct 2026 12:44:45 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/2d687de60bc446a1664a4bffe57f0483-1791548243-1280x720.jpeg"
+      },
+      {
+        "id": "e0a5cbacec720a3fd4bfbef853e55a38",
+        "title": "MSP raises fears Emma Caldwell inquiry could \u2018cover up\u2019 full truth",
+        "link": "https://www.glasgowtimes.co.uk/news/26622948.msp-warns-emma-caldwell-inquiry-must-not-cover-up/",
+        "description": "A public inquiry into the death of a Glasgow woman more than 20 years ago must not be allowed to be a cover up an MSP has said.",
+        "published": "Fri, 09 Oct 2026 13:34:52 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20299088/?type=app&htype=0"
+      },
+      {
+        "id": "3e53d34a02d39e5b613491510261f62a",
+        "title": "Labour gain two seats as councillors make switch",
+        "link": "https://www.glasgowtimes.co.uk/news/26622908.north-lanarkshire-councillors-michael-sophia-coyle-join-labour/",
+        "description": "Two councillors who previously sat as independents have joined Labour, saying the move will help them continue delivering for their communities.",
+        "published": "Fri, 09 Oct 2026 13:27:09 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21559800/?type=app&htype=398"
+      },
+      {
+        "id": "1a84d333ab1a466c3a0efab208d6b264",
+        "title": "Major change proposed for former vehicle showroom in East Dunbartonshire",
+        "link": "https://www.glasgowtimes.co.uk/news/26622874.east-dunbartonshire-council-considers-plans-former-garage-site/",
+        "description": "A planning application has been submitted to East Dunbartonshire Council for the subdivision of a former vehicle showroom and repair garage.",
+        "published": "Fri, 09 Oct 2026 13:21:40 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21559776/?type=app&htype=0"
+      },
+      {
+        "id": "50aa77093002e2307fe8b27312c3c7c3",
+        "title": "Major Glasgow road to shut for four days as diversion route announced.",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26622853.glasgows-great-western-road-close-next-week-resurfacing/",
+        "description": "Major Glasgow road to shut for four days as drivers warned to use diversions.",
+        "published": "Fri, 09 Oct 2026 13:18:46 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17882119/?type=app&htype=0"
+      },
+      {
+        "id": "9ed079e328385a4d64738927ff92fa82",
+        "title": "Popular 230-seat buffet restaurant hits the market for \u00a3150k",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26622845.ayr-buffet-restaurant-mr-basrais-lease-150-000/",
+        "description": "A popular buffet restaurant accommodating around 230 covers is up for lease.",
+        "published": "Fri, 09 Oct 2026 13:16:52 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21559749/?type=app&htype=0"
+      },
+      {
         "id": "04d5ce73648e4b80d7920e4a283f6c24",
         "title": "Roma fan given football ban after 'mass disturbance' at Celtic Park",
         "link": "https://www.heraldscotland.com/news/26622835.roma-fan-given-football-ban-mass-disturbance-celtic-park/",
@@ -2451,6 +2499,14 @@
         "description": "<p>The sale will allow Sanctuary Scotland to build a mix of flats and houses on the site, with at least some of the properties available for social rent, as the city continues to face a housing shortage.</p>",
         "published": "Fri, 09 Oct 2026 11:18:18 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/09/11/28/onecms_e66c5698-8815-4891-ae2e-30b855b0f6e0_0b79f280-b746-4897-83f0-ce72115d8967.jpeg?width=1200&auto=webp&trim=0%2C8%2C0%2C7"
+      },
+      {
+        "id": "299d6459b27518ccbcd64f50042dea1d",
+        "title": "Green MSP Manivannan allowed to continue working in UK after visa extended",
+        "link": "https://www.heraldscotland.com/news/26622493.green-msp-manivannan-allowed-continue-working-uk/",
+        "description": "The 30-year-old, originally from India, was elected to Holyrood in May",
+        "published": "Fri, 09 Oct 2026 12:13:41 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21029824/?type=app&htype=0"
       },
       {
         "id": "5603307",
@@ -2715,14 +2771,6 @@
         "description": "New study finds Chaetomium globosum fungus in wheat seeds reduces Septoria tritici blotch, offering a potential alternative to chemical fungicides.",
         "published": "Fri, 09 Oct 2026 00:01:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21557263/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c6rmyzk8819ro#0",
-        "title": "'Record-breaking' M\u00f2d returns to Glasgow for Gaelic celebration",
-        "link": "https://www.bbc.co.uk/news/articles/c6rmyzk8819ro?at_medium=RSS&at_campaign=rss",
-        "description": "Thousands of people will gather this week in Glasgow for the annual celebration of Gaelic culture",
-        "published": "Thu, 08 Oct 2026 22:08:55 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/010c/live/d2ee6820-c322-11f1-bd97-fbe5a3482cde.jpg"
       },
       {
         "id": "7a3d0c1a6e9912abf7af65e3a5fbd5ce",
@@ -3131,54 +3179,6 @@
         "description": "West Regent Street in Glasgow to close until tomorrow",
         "published": "Thu, 08 Oct 2026 12:53:23 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19342883/?type=app&htype=0"
-      },
-      {
-        "id": "9274876",
-        "title": "Glasgow Airport: New Citylink service set to link Glasgow Airport with Edinburgh City Centre",
-        "link": "https://www.glasgowworld.com/news/glasgow-airport-new-citylink-service-set-to-link-glasgow-airport-with-edinburgh-city-centre-9274876",
-        "description": "<p>A new bus route will link Edinburgh City Centre with Glasgow Airport</p>",
-        "published": "Thu, 08 Oct 2026 11:50:06 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/08/11/48/Group-image-for-903-Citylink-route-launch.jpeg?width=1200&auto=webp&trim=701%2C0%2C702%2C0"
-      },
-      {
-        "id": "34fd785a8e2ec2a9fe20f34e32113885",
-        "title": "Community left devastated after vandals attack \u00a335k kids sensory play area",
-        "link": "https://www.glasgowtimes.co.uk/news/26618966.cumbernauld-sensory-board-removed-vandalism/",
-        "description": "Volunteers behind a \u00a335,000 Cumbernauld community project say a sensory board could be removed after being vandalised again.",
-        "published": "Thu, 08 Oct 2026 12:46:13 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21554823/?type=app&htype=437"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c6kg7nkp18w7o#0",
-        "title": "Council short of drivers for winter gritting and maintenance jobs",
-        "link": "https://www.bbc.co.uk/news/articles/c6kg7nkp18w7o?at_medium=RSS&at_campaign=rss",
-        "description": "Argyll and Bute Council is 13 drivers short of the 72 it needs to cover the winter period.",
-        "published": "Thu, 08 Oct 2026 11:41:58 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07b5/live/0ac7bc20-c309-11f1-8f04-85217d686658.jpg"
-      },
-      {
-        "id": "9274528",
-        "title": "Kris Boyd plots path to Rangers piling pressure on Celtic this weekend as McInnes can hand Hoops a challenge",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/kris-boyd-plots-path-to-rangers-piling-pressure-on-celtic-this-weekend-9274528",
-        "description": "<p>Rangers return to action this weekend after the international break.</p>",
-        "published": "Thu, 08 Oct 2026 11:30:04 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/05/11/15/GettyImages-2296226631.jpg?width=1200&auto=webp&trim=14%2C0%2C14%2C0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/still-game-star-pleads-guilty-34734888",
-        "title": "Still Game star pleads guilty to making indecent images of children",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/still-game-star-pleads-guilty-34734888",
-        "description": "The Scottish-born actor is best known for playing eccentric baker Diggory Compton in 50 episodes of Coronation Street.",
-        "published": "Thu, 8 Oct 2026 11:17:38 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34735014.ece/ALTERNATES/s98/0_Screenshot-2026-10-08-073732.png"
-      },
-      {
-        "id": "8aa5a1167b113bf22becde7daa4fe354",
-        "title": "Love Island winner joins 300 young stars for huge Glasgow Christmas panto",
-        "link": "https://www.glasgowtimes.co.uk/news/26618791.glasgow-christmas-panto-star-paige-turley-tiktok-duo/",
-        "description": "Theatre School of Scotland (TSOS) is bringing its largest-ever production, Jack and the Beanstalk, to the SEC Lomond Auditorium in Glasgow.",
-        "published": "Thu, 08 Oct 2026 12:17:23 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21554277/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
