@@ -2381,6 +2381,62 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=532597",
+        "title": "Will there be a Christmas market at George Square in Glasgow this year?",
+        "link": "https://news.stv.tv/west-central/will-there-be-a-christmas-market-at-george-square-in-glasgow-this-year",
+        "description": "Following the completion of its multi-million-pound transformation, the square will host a new Christmas village.",
+        "published": "Fri, 09 Oct 2026 14:54:32 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/509342f4b8d687e14ed05a78bd10f3ea-1791556019-1200x720.jpeg"
+      },
+      {
+        "id": "7566a57c0555ff0ef76ff7edb6de62db",
+        "title": "Mystery surrounds theft of lorry carrying 41,000 bottles of Irn-Bru",
+        "link": "https://www.glasgowtimes.co.uk/news/26623702.41-000-bottles-irn-bru-stolen-lorry-theft-cumbernauld/",
+        "description": "A lorry carrying 41,000 bottles of Irn-Bru has been stolen.",
+        "published": "Fri, 09 Oct 2026 15:38:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21560939/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=532579",
+        "title": "Easyjet passengers \u2018abandoned\u2019 at airport after Edinburgh flight diverted to Glasgow",
+        "link": "https://news.stv.tv/west-central/easyjet-passengers-abandoned-at-airport-after-edinburgh-flight-diverted-to-glasgow",
+        "description": "Passengers were left to make their own way home after landing at Edinburgh Airport instead of Glasgow in the middle of the night",
+        "published": "Fri, 09 Oct 2026 14:36:35 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/05/c385454b5eec7f7391c7fe9b60f4562d-1778592549-1280x720.jpeg"
+      },
+      {
+        "id": "1055a2d3984e88ae79b26f178267d50d",
+        "title": "Bearsden bookshop now permitted to deliver alcohol to customers",
+        "link": "https://www.heraldscotland.com/news/26623647.bearsden-bookshop-now-permitted-deliver-alcohol/",
+        "description": "A bookshop in Bearsden which also sells cheese and wine is now permitted to deliver alcohol to customers.",
+        "published": "Fri, 09 Oct 2026 15:20:51 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21494796/?type=app&htype=244"
+      },
+      {
+        "id": "62c623dfba1eb3ae3f5c14480c428127",
+        "title": "Glasgow Taxi has introduced a new pricing system for journeys within the city.",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26622634.glasgow-taxis-introduce-meter-guarantee-city-journeys/",
+        "description": "Glasgow Taxi's introduces meter pricing guarantee for journey's within the city.",
+        "published": "Fri, 09 Oct 2026 15:18:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21559436/?type=app&htype=0"
+      },
+      {
+        "id": "c66f61c37529d1b3d8466fdd8a41882f",
+        "title": "Major town centre car park and footbridges to close for good",
+        "link": "https://www.glasgowtimes.co.uk/news/26623583.cumbernauld-town-centre-car-park-footbridges-permanently-close/",
+        "description": "A car park and two pedestrian footbridges at The Centre Cumbernauld will permanently close from Monday, November 2.",
+        "published": "Fri, 09 Oct 2026 15:14:01 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21560923/?type=app&htype=182"
+      },
+      {
+        "id": "c66bf49f84365774a869bfbd4f734df7",
+        "title": "BBC pulls Still Game episode from iPlayer after actor's child sex offences plea",
+        "link": "https://www.glasgowtimes.co.uk/entertainment/tv_radio/26623507.bbc-removes-still-game-episode-iplayer-actor-guilty-plea/",
+        "description": "BBC removes Still Game episode Recipe from iPlayer after actor Eric Potts pleaded guilty at court to making and distributing indecent images of children.",
+        "published": "Fri, 09 Oct 2026 15:04:12 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21560718/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-airport-offers-one-hour-34742343",
         "title": "Glasgow Airport offers one hour free parking for these passengers",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-airport-offers-one-hour-34742343",
@@ -2395,6 +2451,30 @@
         "description": "Bosses joked that the thieves had taken 'enough BRU to quench the thirst of a packed Hampden' before asking for the public's help in tracing the missing stock.",
         "published": "Fri, 9 Oct 2026 13:21:12 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34742328.ece/ALTERNATES/s98/0_unnamed-1.png"
+      },
+      {
+        "id": "209138981db97217887dde6d6b492159",
+        "title": "East Dunbartonshire planning bid aims to turn offices into flats",
+        "link": "https://www.glasgowtimes.co.uk/news/26623222.plans-submitted-convert-kirkintilloch-offices-flats/",
+        "description": "A planning application has been submitted to East Dunbartonshire Council for a site in Kirkintilloch.",
+        "published": "Fri, 09 Oct 2026 14:19:56 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21560284/?type=app&htype=0"
+      },
+      {
+        "id": "0ef8e132cd1828e6efbc66d6d91e0376",
+        "title": "'Free to leave': Unhappy civil servants told to quit over office working rules",
+        "link": "https://www.heraldscotland.com/news/26623209.unhappy-civil-servants-told-leave-hybrid-working-row/",
+        "description": "Scottish Government civil servants have been told they are 'free to leave' by a senior official if they are not happy with new hybrid working rules.",
+        "published": "Fri, 09 Oct 2026 14:18:16 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20555113/?type=app&htype=0"
+      },
+      {
+        "id": "0d6781ab153b0140d94b9aafc22c188d",
+        "title": "Star of US Office bidding to become new rector of St Andrews University",
+        "link": "https://www.heraldscotland.com/news/26623134.us-office-star-bidding-become-new-rector-st-andrews-uni/",
+        "description": "An actor best known for playing Kevin Malone in the US version of The Office is among the candidates seeking to become the next Rector of the University of St\u00a0Andrews.",
+        "published": "Fri, 09 Oct 2026 14:05:41 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21560383/?type=app&htype=0"
       },
       {
         "id": "836fb184238b1fa4c0b0bbf56d092fed",
@@ -2643,6 +2723,14 @@
         "description": "Plans have been unveiled for Glasgow's festive season, with George Square returning to the heart of this year's Christmas celebrations - but there will be no light switch-on event.",
         "published": "Fri, 09 Oct 2026 10:45:42 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17514360/?type=app&htype=0"
+      },
+      {
+        "id": "00f61dd533060e05d04d6b4baa55a512",
+        "title": "Thousands of rare X-Men and Batman comics found in Glasgow flat go to auction",
+        "link": "https://www.glasgowtimes.co.uk/news/26621772.glasgow-comic-collectors-30-000-comics-go-auction/",
+        "description": "30,000-strong Glasgow comic collection, including rare X-Men and Avengers issues worth thousands, goes to auction on October 20.",
+        "published": "Fri, 09 Oct 2026 10:27:53 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21558441/?type=app&htype=0"
       },
       {
         "id": "284f53f3adeaf23e3a91aef3daa0fe9d",
@@ -3091,94 +3179,6 @@
         "description": "The Campaign for Real Ale (CAMRA) is looking to name the best beer pub in the city.",
         "published": "Thu, 8 Oct 2026 13:19:46 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34735340.ece/ALTERNATES/s98/4_JS363515860jpgt.jpg"
-      },
-      {
-        "id": "a06e712efc2ca8f7ebc306355d1b20ee",
-        "title": "Glasgow homes and businesses urged to prepare for winter power cuts",
-        "link": "https://www.glasgowtimes.co.uk/news/26619416.glasgow-homes-businesses-urged-prepare-power-cuts/",
-        "description": "More than 3.5 million homes and businesses are being urged to prepare for possible power cuts.",
-        "published": "Thu, 08 Oct 2026 14:14:20 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21555173/?type=app&htype=0"
-      },
-      {
-        "id": "1e45ec0451803d869657833634f7b0fc",
-        "title": "CCTV shows missing schoolboy in Glasgow station amid desperate appeal to find him",
-        "link": "https://www.glasgowtimes.co.uk/news/26619411.cctv-shows-missing-lanark-schoolboy-motherwell-visit/",
-        "description": "Desperate detectives searching for a missing schoolboy have released a CCTV image of him inside a Glasgow station as efforts to trace his whereabouts continues.",
-        "published": "Thu, 08 Oct 2026 14:13:03 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21555088/?type=app&htype=0"
-      },
-      {
-        "id": "511d28aa7326e0da65e53b3e246950da",
-        "title": "Eyesore Sauchiehall Street unit could receive massive facelift under new plans",
-        "link": "https://www.glasgowtimes.co.uk/news/26619393.new-glasgow-nightlife-hotspot-open-sauchiehall-street/",
-        "description": "Plans reveal Roxy Ball Room signage for a new entertainment venue at Glasgow\u2019s former Sports Direct on Sauchiehall Street, pending Glasgow City Council approval.",
-        "published": "Thu, 08 Oct 2026 14:10:20 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16873508/?type=app&htype=0"
-      },
-      {
-        "id": "9275125",
-        "title": "ZEISS acquires Ceres Holographics to drive holography industrialisation",
-        "link": "https://www.glasgowworld.com/must-read/zeiss-buys-ceres-holographics-to-accelerate-holography-industrialisation-9275125",
-        "description": "<p>  According to ZEISS, the move will help bring holographic windscreen displays into mainstream use more quickly.  </p>",
-        "published": "Thu, 08 Oct 2026 13:05:02 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/08/12/39/assets_MS2005023_000001_20261008034658EDT_image_1.jpg?width=1200&auto=webp&trim=124%2C0%2C125%2C0"
-      },
-      {
-        "id": "30511b4d0840ecd146a4181a19c48316",
-        "title": "Woman drove off with workman clinging to bonnet after row over Glasgow parking space",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26619350.woman-admitted-driving-workman-bonnet-glasgow/",
-        "description": "Tracey Kelly, 56, of Clydebank, admitted assaulting a workman after driving with him clinging to the bonnet of her car following a dispute over parking in Glasgow's Partick.",
-        "published": "Thu, 08 Oct 2026 14:02:10 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21194148/?type=app&htype=0"
-      },
-      {
-        "id": "a240d7d74ff2a95c9451868a7ebed15d",
-        "title": "Full list of 24 Glasgow Catholic churches facing closure as parishes halved",
-        "link": "https://www.glasgowtimes.co.uk/news/26619332.full-list-24-glasgow-catholic-churches-facing-closure/",
-        "description": "The Archdiocese of Glasgow has confirmed plans to close 24 churches and halve its parishes due to declining priest numbers. Here is the full list of every parish affected across the city and Dunbartonshire",
-        "published": "Thu, 08 Oct 2026 13:58:39 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19434764/?type=app&htype=0"
-      },
-      {
-        "id": "a383b71dc08b7577f538a0be600ab398",
-        "title": "Six cases of alleged corporate fraud at Dundee City Council reported to police",
-        "link": "https://www.heraldscotland.com/news/26619241.probe-alleged-corporate-fraud-involving-dundee-city-council-staff/",
-        "description": "Six cases of alleged corporate fraud involving staff at Dundee City Council were reported to police last year, it has emerged.",
-        "published": "Thu, 08 Oct 2026 13:38:44 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/13796941/?type=app&htype=0"
-      },
-      {
-        "id": "4f979145c3b93bfca8e460375696ed90",
-        "title": "This new takeaway could be coming to the Southside of Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26619208.new-takeaway-coming-southside-glasgow/",
-        "description": "A new takeaway could be coming to the Southside of Glasgow.",
-        "published": "Thu, 08 Oct 2026 13:32:40 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20305675/?type=app&htype=0"
-      },
-      {
-        "id": "7bfe3d2c50f66a305bebcdde54363a07",
-        "title": "Pitlochry's Enchanted Forest marks 25th anniversary with 'extra hour' light show",
-        "link": "https://www.heraldscotland.com/news/26619123.enchanted-forest-opens-25th-anniversary-light-show/",
-        "description": "One of Scotland\u2019s most-visited light shows has opened its 25th anniversary show with organisers marking a quarter of a century since the popular sound and light event was first staged.",
-        "published": "Thu, 08 Oct 2026 13:14:26 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21554712/?type=app&htype=0"
-      },
-      {
-        "id": "b8d44a85d485fa27d34d898af0b8250e",
-        "title": "Glasgow council explores fund to unlock stalled homes and regeneration projects",
-        "link": "https://www.heraldscotland.com/news/26619112.glasgow-growth-fund-unlock-stalled-housing-projects/",
-        "description": "Glasgow City Council has appointed CBRE to develop a business case for an impact fund aimed at boosting investment and regeneration in central Glasgow.",
-        "published": "Thu, 08 Oct 2026 13:12:54 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21554705/?type=app&htype=0"
-      },
-      {
-        "id": "1c307c38ceb30db6b0542d1ed1060571",
-        "title": "Plans revealed for new visitor centre at Mackintosh's Hill House",
-        "link": "https://www.heraldscotland.com/news/26619091.plans-revealed-hill-house-visitor-centre-project/",
-        "description": "Plans revealed for a new Hill House visitor centre in Helensburgh include a caf\u00e9, shop and interpretation facilities, with public drop-in session on October 15.",
-        "published": "Thu, 08 Oct 2026 13:08:07 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21547811/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
