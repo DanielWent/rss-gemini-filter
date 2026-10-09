@@ -2381,6 +2381,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-central-trains-replaced-buses-34732776",
+        "title": "Glasgow Central trains to be replaced with buses on busy route this weekend",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-central-trains-replaced-buses-34732776",
+        "description": "Passengers have been warned to check before they travel.",
+        "published": "Fri, 9 Oct 2026 06:06:45 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34608712.ece/ALTERNATES/s98/0_GettyImages-1241432591.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=532376",
+        "title": "Memories of Nelson Mandela\u2019s historic Glasgow visit as statue unveiled",
+        "link": "https://news.stv.tv/west-central/memories-of-nelson-mandelas-historic-glasgow-visit-as-statue-unveiled",
+        "description": "More than 10,000 packed into George Square in the pouring rain to witness Nelson Mandela accept his Freedom of the City in 1993.",
+        "published": "Fri, 09 Oct 2026 06:05:40 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/23f7d83eadb963452aabf4053599aff0-1791472586.jpg"
+      },
+      {
+        "id": "68c53d31f28e40d0fc8a67bde17dec7c",
+        "title": "Two busy Glasgow roads to close for nearly two weeks for resurfacing works",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26621031.two-glasgow-roads-close-roadworks-lighting/",
+        "description": "Glasgow roads Cathedral Square and John Knox Street close from October 12 to October 25 for resurfacing, relining and street lighting works.",
+        "published": "Fri, 09 Oct 2026 06:50:18 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21475912/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c85ynw5k0p0go#0",
         "title": "Midges' role in spreading disease to be investigated",
         "link": "https://www.bbc.co.uk/news/articles/c85ynw5k0p0go?at_medium=RSS&at_campaign=rss",
