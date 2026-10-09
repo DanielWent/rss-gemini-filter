@@ -2381,12 +2381,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=532523",
+        "title": "Scots influencer Danielle Quinn who shared cancer journey dies as \u2018heartbroken\u2019 partner pays tribute",
+        "link": "https://news.stv.tv/west-central/scots-influencer-danielle-quinn-who-shared-cancer-journey-dies-as-heartbroken-partner-pays-tribute",
+        "description": "Danielle Quinn, who was diagnosed with Stage 3 low-grade serous carcinoma in December 2022, passed away peacefully on Thursday",
+        "published": "Fri, 09 Oct 2026 10:53:58 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/5a99a652726e49078785a11910f0c013-1791282201-1119x720.jpeg"
+      },
+      {
+        "id": "10661f3dfe08ae1600e254691281f715",
+        "title": "Man appears in court following attemped murder bid in Glasgow city centre",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26622315.man-appears-court-glasgow-pedestrian-crash/",
+        "description": "Adeel Asim, 34, appeared at Glasgow Sheriff Court on October 8 charged with assault to the danger of life after a pedestrian was hit on Glassford Street.",
+        "published": "Fri, 09 Oct 2026 11:47:29 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21535328/?type=app&htype=0"
+      },
+      {
         "id": "241c27190df1ee50cdaab87f174d1f3c",
         "title": "Barlinnie prisoners left without water overnight as families slam 'inhumane' ordeal",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26622028.barlinnie-prisoners-left-without-water-overnight-cells/",
         "description": "HMP Barlinnie prisoners faced overnight water loss affecting taps and toilets after a supply fault. Scottish Water fixed the issue at the ageing Glasgow jail.",
         "published": "Fri, 09 Oct 2026 11:07:44 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20084349/?type=app&htype=0"
+      },
+      {
+        "id": "afecaef96c9e3e21bf9177bf732c3ac0",
+        "title": "Man jailed for atemoted murder after 'sex party' went wrong",
+        "link": "https://www.heraldscotland.com/news/26621992.man-jailed-five-years-sex-party-attempted-murder/",
+        "description": "The five-year sentence follows a brutal attack that left a man needing lifesaving surgery",
+        "published": "Fri, 09 Oct 2026 11:01:55 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/16674348/?type=app&htype=0"
       },
       {
         "id": "f255622715df3ce71a4e6a05a6f08b01",
@@ -2413,6 +2437,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19036953/?type=app&htype=0"
       },
       {
+        "id": "9621224f3a6632c4107ae1074e467919",
+        "title": "Glasgow restaurants named among top 10 best in Scotland",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26621621.two-glasgow-restaurants-named-among-scotlands-top-10/",
+        "description": "Two restaurants in Glasgow have been named among the top 10 best in Scotland.",
+        "published": "Fri, 09 Oct 2026 10:01:07 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13224843/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=532512",
         "title": "Suspect appears in court after man hit by car in Glasgow city centre",
         "link": "https://news.stv.tv/west-central/suspect-appears-in-court-after-man-hit-by-car-in-glasgow-city-centre",
@@ -2427,6 +2459,14 @@
         "description": "Susan Boyle\u2019s rise from West Lothian to global fame is explored in a 45-minute BBC One Scotland documentary airing on Hogmanay, also on BBC iPlayer.",
         "published": "Fri, 09 Oct 2026 09:37:32 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21557980/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cwm23le8dzr9o#0",
+        "title": "Orca found in Uist 'one of oldest males ever recorded' say scientists",
+        "link": "https://www.bbc.co.uk/news/articles/cwm23le8dzr9o?at_medium=RSS&at_campaign=rss",
+        "description": "A Scottish team of researchers analysed a tooth to work out its age.",
+        "published": "Fri, 09 Oct 2026 08:07:22 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce9e/live/95bdf910-c319-11f1-bd97-fbe5a3482cde.jpg"
       },
       {
         "id": "533e5ee92f6a4562b1590d7cc0aa92a4",
