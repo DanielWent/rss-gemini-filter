@@ -2397,12 +2397,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "743be9d62d94f3e2e83406a49cb832c7",
+        "title": "Residents 'threatened and intimidated' after balaclava-clad anti-immigration protest",
+        "link": "https://www.glasgowtimes.co.uk/news/26624678.shettleston-residents-intimidated-anti-migrant-protest/",
+        "description": "An East End Housing Association says residents felt \"threatened and intimidated\" by a masked mob which charged through the area this week",
+        "published": "Fri, 09 Oct 2026 18:51:27 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20702983/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-cops-launch-search-six-34744349",
         "title": "Glasgow cops launch search for six people after anti-immigration disorder",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-cops-launch-search-six-34744349",
         "description": "&quot;Violence and anti-social behaviour&quot; followed the protest at Glasgow Green on July 25.",
         "published": "Fri, 9 Oct 2026 17:18:35 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34744367.ece/ALTERNATES/s98/2_CCTV.png"
+      },
+      {
+        "id": "5f78a362ccbafc86346a2c68074e91c0",
+        "title": "Council approves plans to begin restoring Springburn Winter Gardens",
+        "link": "https://www.heraldscotland.com/news/26624614.springburn-winter-gardens-revamp-gets-council-approval/",
+        "description": "A major milestone has been reached in the 13-year fight to save the derelict Springburn Winter Gardens.",
+        "published": "Fri, 09 Oct 2026 18:07:01 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21562434/?type=app&htype=0"
       },
       {
         "id": "9278705",
@@ -2443,14 +2459,6 @@
         "description": "The smartly dressed good looking 28-year-old stood on the front steps with both arms raised to the acclaim of the waiting crowd.",
         "published": "Fri, 09 Oct 2026 17:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21548673/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/milestone-listed-springburn-winter-gardens-34743703",
-        "title": "Milestone for A-listed Springburn Winter Gardens campaign as revamp approved",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/milestone-listed-springburn-winter-gardens-34743703",
-        "description": "Work on the A-listed structure is expected to start early in the new year and finish over the summer.",
-        "published": "Fri, 9 Oct 2026 15:48:06 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33791488.ece/ALTERNATES/s98/0_Springburn-Winter-Gardens-2026-1JPG.jpg"
       },
       {
         "id": "af0478005ae0080674c35f7d2b8fe889",
@@ -2805,14 +2813,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21475912/?type=app&htype=0"
       },
       {
-        "id": "241c27190df1ee50cdaab87f174d1f3c",
-        "title": "Barlinnie prisoners left without water overnight as families slam 'inhumane' ordeal",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26622028.barlinnie-prisoners-left-without-water-overnight-cells/",
-        "description": "HMP Barlinnie prisoners faced overnight water loss affecting taps and toilets after a supply fault. Scottish Water fixed the issue at the ageing Glasgow jail.",
-        "published": "Fri, 09 Oct 2026 11:07:44 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20084349/?type=app&htype=0"
-      },
-      {
         "id": "9d44b546e6663567daa0ef16ff6aa0ed",
         "title": "Major laundry brand set for new location near Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26622012.speed-queen-self-service-launderette-planned-airdrie-town-centre/",
@@ -2915,14 +2915,6 @@
         "description": "Passengers have been warned to check before they travel.",
         "published": "Fri, 9 Oct 2026 06:06:45 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34608712.ece/ALTERNATES/s98/0_GettyImages-1241432591.jpg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=532376",
-        "title": "Memories of Nelson Mandela\u2019s historic Glasgow visit as statue unveiled",
-        "link": "https://news.stv.tv/west-central/memories-of-nelson-mandelas-historic-glasgow-visit-as-statue-unveiled",
-        "description": "More than 10,000 packed into George Square in the pouring rain to witness Nelson Mandela accept his Freedom of the City in 1993.",
-        "published": "Fri, 09 Oct 2026 06:05:40 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/23f7d83eadb963452aabf4053599aff0-1791472586.jpg"
       },
       {
         "id": "68c53d31f28e40d0fc8a67bde17dec7c",
