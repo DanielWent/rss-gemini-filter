@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo#4",
+        "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+        "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
+        "description": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
+        "published": "Fri, 09 Oct 2026 09:30:49 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e0e/live/a2f6be20-c3c1-11f1-9798-abffda1e61e7.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cr5ye4p86d21o#4",
         "title": "'People use AI to avoid paying for school photos, but they don't realise the consequences'",
         "link": "https://www.bbc.co.uk/news/articles/cr5ye4p86d21o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The record \"is another clear signal of an ocean under growing stress\", according to Dr Samantha Burgess from the European Copernicus climate change service.",
         "published": "Mon, 24 Aug 2026 15:17:48 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e1c/live/bc7158a0-9fc3-11f1-8648-8d7b77845e6d.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c1714xg2vr9o#0",
-        "title": "'It's not Alton Towers' - rows break out over queuing at Wales' highest mountain",
-        "link": "https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&at_campaign=rss",
-        "description": "There has been disagreement between queuers and others skipping the line to reach the top of Yr Wyddfa.",
-        "published": "Mon, 24 Aug 2026 05:15:25 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7191/live/600d5190-9f7d-11f1-994f-5b14ccb35057.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2381,12 +2381,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "04d5ce73648e4b80d7920e4a283f6c24",
+        "title": "Roma fan given football ban after 'mass disturbance' at Celtic Park",
+        "link": "https://www.heraldscotland.com/news/26622835.roma-fan-given-football-ban-mass-disturbance-celtic-park/",
+        "description": "A Roma fan involved in a 'mass disturbance' with Celtic supporters before a European match has been banned from football games for two years",
+        "published": "Fri, 09 Oct 2026 13:15:38 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21559740/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/free-pumpkin-decorating-workshops-glasgow-34741229",
+        "title": "Free pumpkin decorating workshops for Glasgow kids perfect for October half-term",
+        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/free-pumpkin-decorating-workshops-glasgow-34741229",
+        "description": "There\u2019s no need to book and everyone is welcome to come along to Botanic Gardens between 11am and 3pm.",
+        "published": "Fri, 9 Oct 2026 11:55:03 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34741405.ece/ALTERNATES/s98/0_SnapInstato_464762071_1270888721023269_4672367930187354888_n.jpg"
+      },
+      {
         "id": "eb4aa917e1ddda5ca9f2bdf3e6dc5df4",
         "title": "Knife thug tried to kill man after \u2018sex party\u2019 turned violent",
         "link": "https://www.glasgowtimes.co.uk/news/26622697.knife-thug-tried-kill-man-sex-party-johnstone/",
         "description": "A knife thug was captured trying to kill a man after a \u201csex party\u201d went wrong, a court heard.",
         "published": "Fri, 09 Oct 2026 12:51:58 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21559433/?type=app&htype=0"
+      },
+      {
+        "id": "78c203fc392fe3e29ad0ecc67cfa6734",
+        "title": "Glasgow transformed into 'City of the Gaels' as record-breaking festival begins",
+        "link": "https://www.glasgowtimes.co.uk/news/26622681.royal-national-m-d-returned-glasgow-nine-day-festiva/",
+        "description": "Glasgow has been transformed into the \"City of the Gaels\" as the Royal National M\u00f2d begins.",
+        "published": "Fri, 09 Oct 2026 12:48:40 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21559516/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/coloursfest-bringing-george-bowie-scooter-34740805",
@@ -2515,14 +2539,6 @@
         "description": "Plans for a new Speed Queen self-service launderette in Airdrie have emerged after signage was approved by North Lanarkshire Council.",
         "published": "Fri, 09 Oct 2026 11:04:58 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21558620/?type=app&htype=45"
-      },
-      {
-        "id": "afecaef96c9e3e21bf9177bf732c3ac0",
-        "title": "Man jailed for atemoted murder after 'sex party' went wrong",
-        "link": "https://www.heraldscotland.com/news/26621992.man-jailed-five-years-sex-party-attempted-murder/",
-        "description": "The five-year sentence follows a brutal attack that left a man needing lifesaving surgery",
-        "published": "Fri, 09 Oct 2026 11:01:55 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/16674348/?type=app&htype=0"
       },
       {
         "id": "f255622715df3ce71a4e6a05a6f08b01",
@@ -3163,22 +3179,6 @@
         "description": "Theatre School of Scotland (TSOS) is bringing its largest-ever production, Jack and the Beanstalk, to the SEC Lomond Auditorium in Glasgow.",
         "published": "Thu, 08 Oct 2026 12:17:23 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21554277/?type=app&htype=0"
-      },
-      {
-        "id": "9274375",
-        "title": "Celtic hero brands club a 'cesspit' of mud slinging and negativity as Dermot Desmond incident sparks new feud",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-hero-brands-club-cesspit-mud-slinging-negativity-dermot-desmond-9274375",
-        "description": "<p>The Celtic legend has concerns over the atmosphere at his former club right now.</p>",
-        "published": "Thu, 08 Oct 2026 11:00:33 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/20/13/10/GettyImages-2288931218.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "fd34c75e376a247dd7aa6236b8cc17af",
-        "title": "BBC filming closes popular Scots park for drama based on bestselling book",
-        "link": "https://www.glasgowtimes.co.uk/news/26618553.adaptation-graeme-armstrongs-young-team-films-coatbridge/",
-        "description": "Drumpellier Country Park, in Coatbridge has been partly closed, today October 8, for filming linked to a new BBC drama.",
-        "published": "Thu, 08 Oct 2026 11:42:49 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21554075/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
