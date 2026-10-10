@@ -2437,6 +2437,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8a8c73f701f26422be833b50b46bb0e0",
+        "title": "Major change for busy Glasgow bus service as all-day trial gets the green light",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26625394.stagecoach-x36-glasgow-ardrossan-bus-become-all-day-service/",
+        "description": "Stagecoach X36 Glasgow-Ardrossan bus route will run all day from November to March in an SPT pilot, serving Garnock Valley, Kilwinning and Three Towns.",
+        "published": "Sat, 10 Oct 2026 14:56:13 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17153730/?type=app&htype=0"
+      },
+      {
         "id": "72e9f298449827b3cd74fec2de7521c7",
         "title": "Residents of Glasgow area 'have had enough' of antisocial behaviour, MP warns",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26625303.glasgow-mp-warns-antisocial-behaviour-barmulloch/",
@@ -3227,14 +3235,6 @@
         "description": "New Public Health Scotland data shows 8.6 million antidepressant items were dispensed in 2025/26 \u2014 up nearly 10% since 2021 and 15% since 2020, despite a Scottish Government pledge dating to 2007 to bring annual rises to zero.",
         "published": "Fri, 09 Oct 2026 05:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/8695917/?type=app&htype=0"
-      },
-      {
-        "id": "b6159bc4dbec0a486f4374d4708fb810",
-        "title": "From Princes Street bookseller to aviation giant: CEO on a remarkable Scottish story",
-        "link": "https://www.heraldscotland.com/opinion/26619708.menzies-aviation-chief-edinburgh-glasgow-airports-roots/",
-        "description": "Menzies Aviation chief executive Hassan El-Houry offered his view on the future of Scottish airports as he reflected on how the business traces its roots to a bookseller founded on Edinburgh's Princes Street nearly 200 years ago.",
-        "published": "Fri, 09 Oct 2026 04:40:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21555674/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
