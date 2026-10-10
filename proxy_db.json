@@ -1842,6 +1842,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "9e3b94eb7f7015260a05933c370890c2",
+        "title": "Funeral date announced for much-loved priest who served communities across Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26625443.funeral-arrangements-announced-priest-canon-john-mcgrorry/",
+        "description": "Funeral arrangements announced for 67-year-old Canon John McGrorry, with a vigil in Dumbarton on October 26 and Funeral Mass and burial on October 27.",
+        "published": "Sat, 10 Oct 2026 15:49:01 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21563538/?type=app&htype=0"
+      },
+      {
         "id": "fff4be227d89a829e94278709d834792",
         "title": "Holyrood round-up -What Glasgow MSPs have been asking about",
         "link": "https://www.glasgowtimes.co.uk/news/26623622.glasgow-msps-week-holyrood---questions-round-up/",
@@ -2436,6 +2444,14 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "9e3b94eb7f7015260a05933c370890c2",
+        "title": "Funeral date announced for much-loved priest who served communities across Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26625443.funeral-arrangements-announced-priest-canon-john-mcgrorry/",
+        "description": "Funeral arrangements announced for 67-year-old Canon John McGrorry, with a vigil in Dumbarton on October 26 and Funeral Mass and burial on October 27.",
+        "published": "Sat, 10 Oct 2026 15:49:01 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21563538/?type=app&htype=0"
+      },
       {
         "id": "https://news.stv.tv/?p=532659",
         "title": "Ross Muir unveils new artwork to raise funds for Paisley school\u2019s art department",
@@ -3227,14 +3243,6 @@
         "description": "Could new proposals to turn some of the arts and culture hub into a hotel and student accommodation scupper the creative future of the complex?",
         "published": "Fri, 09 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/18584734/?type=app&htype=0"
-      },
-      {
-        "id": "80fb6bee183efb56d1e6bf619585f6c4",
-        "title": "\u2018No red lines, nothing off the table\u2019 in university transformation talks",
-        "link": "https://www.heraldscotland.com/news/26619968.no-red-lines-nothing-off-table-university-reform/",
-        "description": "Sally Mapstone leads Scotland\u2019s university reform, with mergers, collaboration and shared services on the table amid a \u00a3200m sector sustainability gap.",
-        "published": "Fri, 09 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21001748/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
