@@ -1842,6 +1842,30 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "fff4be227d89a829e94278709d834792",
+        "title": "Holyrood round-up -What Glasgow MSPs have been asking about",
+        "link": "https://www.glasgowtimes.co.uk/news/26623622.glasgow-msps-week-holyrood---questions-round-up/",
+        "description": "Glasgow MSPs have raised several questions on issues including student accommodation, homelessness, health and benefits for young people.",
+        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20894139/?type=app&htype=0"
+      },
+      {
+        "id": "52544bf3fa31c45add5b8eed16267ab4",
+        "title": "Drug dealing ex Glasgow cop busted after asking Chat GPT how to hide smells",
+        "link": "https://www.glasgowtimes.co.uk/news/26620225.drug-dealing-glasgow-cop-asked-chat-gpt-hide-smells/",
+        "description": "Former police officer Dilexan Aloysious admits drug dealing after three stops in Glasgow and Lanarkshire uncovered cocaine, cannabis and crack cocaine.",
+        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21244705/?type=app&htype=0"
+      },
+      {
+        "id": "ca1a3b659798371e07502bbb9896881e",
+        "title": "Woman found with \u00a358,000 linked to ex-drug dealer walks free from court",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26620218.debbie-hamilton-acquitted-58k-found-bishopbriggs-home/",
+        "description": "Bishopbriggs woman Debbie Hamilton acquitted after \u00a358,000 cash linked to former criminal Warren Hennelly was found at her East Dunbartonshire home.",
+        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21174258/?type=app&htype=0"
+      },
+      {
         "id": "af0478005ae0080674c35f7d2b8fe889",
         "title": "Bearsden bookshop wins approval to deliver alcohol, books and food to customers",
         "link": "https://www.glasgowtimes.co.uk/news/26624131.bearsden-bookshop-wins-approval-alcohol-deliveries/",
@@ -2412,6 +2436,94 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "fff4be227d89a829e94278709d834792",
+        "title": "Holyrood round-up -What Glasgow MSPs have been asking about",
+        "link": "https://www.glasgowtimes.co.uk/news/26623622.glasgow-msps-week-holyrood---questions-round-up/",
+        "description": "Glasgow MSPs have raised several questions on issues including student accommodation, homelessness, health and benefits for young people.",
+        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20894139/?type=app&htype=0"
+      },
+      {
+        "id": "52544bf3fa31c45add5b8eed16267ab4",
+        "title": "Drug dealing ex Glasgow cop busted after asking Chat GPT how to hide smells",
+        "link": "https://www.glasgowtimes.co.uk/news/26620225.drug-dealing-glasgow-cop-asked-chat-gpt-hide-smells/",
+        "description": "Former police officer Dilexan Aloysious admits drug dealing after three stops in Glasgow and Lanarkshire uncovered cocaine, cannabis and crack cocaine.",
+        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21244705/?type=app&htype=0"
+      },
+      {
+        "id": "13802fa97ae9a0fa16c614b8b45c520a",
+        "title": "Botanic Gardens 'not suitable' for GlasGLOW, community council claims",
+        "link": "https://www.glasgowtimes.co.uk/news/26620527.glasglow-criticised-litter-gatecrashers-park-damage-fears/",
+        "description": "People gaining entry without paying, litter on the streets and environmental damage to a park are some of the complaints made against an annual Halloween event",
+        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21252688/?type=app&htype=0"
+      },
+      {
+        "id": "4f872cdeec0c4b1cbf11dd5a9a0393cf",
+        "title": "Coatbridge traders say parking crackdown is driving customers away from town",
+        "link": "https://www.glasgowtimes.co.uk/news/26618117.north-lanarkshire-parking-policy-criticised-coatbridge-businesses/",
+        "description": "Coatbridge Main Street traders say stricter loading bay enforcement and instant PCNs are deterring customers, while North Lanarkshire Council defends rules.",
+        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21555141/?type=app&htype=0"
+      },
+      {
+        "id": "b796826dea2bee088cdd5d433f1cb801",
+        "title": "'Someone will be killed' - Residents demand action over dangerous junction",
+        "link": "https://www.glasgowtimes.co.uk/news/26618886.residents-warn-death-risk-bonhills-split-junction/",
+        "description": "Residents in Bonhill have urged West Dunbartonshire Council to act on safety concerns at a junction known as \"the split\", warning that poor visibility, parking issues and new disabled bays could lead to a fatal accident.",
+        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21542966/?type=app&htype=509"
+      },
+      {
+        "id": "33a94e2bbfa73d769a027fe2729cb901",
+        "title": "End of an era as Glasgow church to be demolished after 60 years",
+        "link": "https://www.glasgowtimes.co.uk/news/26623608.glasgow-church-demolished-60-years/",
+        "description": "St Clare's Church in Easterhouse is to be pulled down after six decades.",
+        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21561647/?type=app&htype=0"
+      },
+      {
+        "id": "81c1a690ca591f37a370f736f592733c",
+        "title": "North Lanarkshire schools get eco-friendly sports pitches in \u00a3300k upgrade",
+        "link": "https://www.glasgowtimes.co.uk/news/26624091.north-lanarkshire-installs-eco-friendly-3g-pitches-eight-sites/",
+        "description": "North Lanarkshire is leading the way in greener sports facilities with a new investment in sustainable 3G pitches.",
+        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21561474/?type=app&htype=0"
+      },
+      {
+        "id": "bbd2dc7e68d3591a358a72fc13931712",
+        "title": "Councillor warns cones on Duke of Wellington statue pose injury risk",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26619848.councillor-raises-safety-fears-cones-glasgow-statue/",
+        "description": "Concerns over the increasing number of traffic cones placed on top of the statue of the Duke of Wellington have been raised by a Glasgow councillor.",
+        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21355826/?type=app&htype=0"
+      },
+      {
+        "id": "ca1a3b659798371e07502bbb9896881e",
+        "title": "Woman found with \u00a358,000 linked to ex-drug dealer walks free from court",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26620218.debbie-hamilton-acquitted-58k-found-bishopbriggs-home/",
+        "description": "Bishopbriggs woman Debbie Hamilton acquitted after \u00a358,000 cash linked to former criminal Warren Hennelly was found at her East Dunbartonshire home.",
+        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21174258/?type=app&htype=0"
+      },
+      {
+        "id": "3ca10fc6a7c22a29711c00ea904b97a9",
+        "title": "The story of Glasgow's graverobbers and the city churchyards they targeted",
+        "link": "https://www.glasgowtimes.co.uk/news/26613055.glasgows-graverobbers-terrorised-city-churchyards/",
+        "description": "Glasgow City Archives explores the chilling history of the city's bodysnatchers, who targeted churchyards near the old university to supply anatomy schools with human corpses in the early 19th century.",
+        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21546619/?type=app&htype=0"
+      },
+      {
+        "id": "a2294ece1672a96b1fbe6eb5ce4f079f",
+        "title": "Glasgow taxi driver caught picking up passengers just hours after licence suspension",
+        "link": "https://www.glasgowtimes.co.uk/news/26619147.glasgow-taxi-driver-caught-picking-passengers-suspension/",
+        "description": "A Glasgow taxi driver got back behind the wheel again just hours after being suspended.",
+        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21132919/?type=app&htype=0"
+      },
       {
         "id": "895c423fa5e6915c5dc6ef92ed641795",
         "title": "The unanswered questions surrounding the Scottish Government's hybrid working change",
@@ -3123,94 +3235,6 @@
         "description": "Over 32,000 toys were inspected as part of the Trading Standards crackdown",
         "published": "Thu, 08 Oct 2026 16:01:59 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/d6392e9b282bbe9772f88ac0d8cc403f-1791466064-960x720.jpg"
-      },
-      {
-        "id": "6fb04881bf85f146d5aa0a54c3251d08",
-        "title": "I went for pizza in Glasgow and stumbled into Scotland's weirdest row",
-        "link": "https://www.heraldscotland.com/opinion/26620296.sears-pizza-battling-glasgow-city-council-hot-food-rules/",
-        "description": "Popular Glasgow pizza shop is fighting council enforcement action in a row that has become one of Scotland's strangest local battles",
-        "published": "Thu, 08 Oct 2026 17:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20772696/?type=app&htype=0"
-      },
-      {
-        "id": "8be7733c38127e190c16b0b89ad2fcb5",
-        "title": "Scottish firm lands multi-million deal after solving Network Rail fault problem",
-        "link": "https://www.heraldscotland.com/news/26619255.machines-vision-secures-multi-million-network-rail-deal/",
-        "description": "Machines With Vision has secured a valuable Network Rail contract after technology trials showed it could cut the time needed to locate suspected track defects",
-        "published": "Thu, 08 Oct 2026 17:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21555640/?type=app&htype=0"
-      },
-      {
-        "id": "d06b16914ea17f50692eefa52170a52a",
-        "title": "Former Glasgow waiter convicted of 10 rapes after targeting women for years",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26620367.glasgow-rogano-waiter-aaron-stewart-convicted-17-sex-offences/",
-        "description": "Former sommelier Aaron Stewart found guilty of 17 sex offences, including 10 rapes against five women in Edinburgh, Glasgow and abroad; sentence due November 6.",
-        "published": "Thu, 08 Oct 2026 16:33:48 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18005688/?type=app&htype=0"
-      },
-      {
-        "id": "a1bde0eeda3a353be87cf14a3f16e149",
-        "title": "Major update issued on roadworks near Glasgow Airport",
-        "link": "https://www.glasgowtimes.co.uk/news/weather/26620234.major-update-issued-roadworks-near-glasgow-airport/",
-        "description": "Roadworks near Glasgow Airport have been postponed.",
-        "published": "Thu, 08 Oct 2026 16:13:51 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17882119/?type=app&htype=0"
-      },
-      {
-        "id": "b4281f2056e51e0ff90fe6e3a23033bc",
-        "title": "Canadian carrier removes Glasgow route from sale months after relaunch",
-        "link": "https://www.heraldscotland.com/news/26620233.westjet-removes-glasgow-toronto-route-sale/",
-        "description": "Canadian carrier WestJet has removed its Glasgow to Toronto route from sale months after it relaunched.",
-        "published": "Thu, 08 Oct 2026 16:13:51 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/16233464/?type=app&htype=0"
-      },
-      {
-        "id": "9275594",
-        "title": "Glasgow landlord struck off after cocaine and cannabis supply conviction",
-        "link": "https://www.glasgowworld.com/news/glasgow-landlord-struck-off-after-cocaine-and-cannabis-supply-conviction-9275594",
-        "description": "<p>Klodian Ferizolli, a 32-year-old car wash owner and director of a property management company, has been struck off the city\u2019s landlords register after being convicted of supplying and selling cocaine and cannabis.</p>",
-        "published": "Thu, 08 Oct 2026 15:00:30 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/02/16/cs-219a8b61-f574-43f8-85c0-ff757d47a51b.jpg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "bf56aff7f89079341c6c474930d427b4",
-        "title": "Four in 10 Scottish families not ready for financial impact of dementia",
-        "link": "https://www.heraldscotland.com/news/26620053.four-10-scots-unprepared-dementia-financial-costs/",
-        "description": "More than four in 10 families in Scotland feel financially unprepared to deal with the impact of dementia.",
-        "published": "Thu, 08 Oct 2026 15:49:02 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/16838750/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-city-council-continue-relationship-34736880",
-        "title": "Glasgow City Council to continue relationship with BT in bid to remove old phone boxes",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-city-council-continue-relationship-34736880",
-        "description": "A report presented to members highlighted that with support from BT, several units had already been taken from the city centre.",
-        "published": "Thu, 8 Oct 2026 14:43:33 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33708212.ece/ALTERNATES/s98/0_phoneboxjpeg.jpg"
-      },
-      {
-        "id": "a18ec092c731ca54cd361c6ed3364b35",
-        "title": "Ten Glasgow chippies nominated for national award as Scotland's best go head to head",
-        "link": "https://www.glasgowtimes.co.uk/news/26619970.ten-glasgow-chippies-nominated-scottish-awards-ceremony/",
-        "description": "Ten Glasgow chippies are finalists in the Scottish Fish and Chip Awards, competing in categories including best fish supper, chip shop and family business.",
-        "published": "Thu, 08 Oct 2026 15:38:22 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16711200/?type=app&htype=0"
-      },
-      {
-        "id": "08cd5ac2b2b59d2e4af6e9c32c9d33bc",
-        "title": "Restoration of beavers to River Tweed a 'bad idea', councillor warns",
-        "link": "https://www.heraldscotland.com/news/26619960.beavers-restoration-river-tweed-bad-idea-councillor-warns/",
-        "description": "The restoration of beavers to the River Tweed is a \u201cbad idea\u201d, an East Berwickshire councillor has warned",
-        "published": "Thu, 08 Oct 2026 15:36:53 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21555944/?type=app&htype=0"
-      },
-      {
-        "id": "6c3a024cf048467a3b041aa0296b06d6",
-        "title": "New 324-home neighbourhood given green light at former Army barracks",
-        "link": "https://www.glasgowtimes.co.uk/news/26619958.324-new-homes-approved-former-army-barracks-lanark/",
-        "description": "Plans for 324 new homes at the former Winston Barracks in Lanark have been approved, paving the way for a major transformation of the site.",
-        "published": "Thu, 08 Oct 2026 15:36:32 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21556100/?type=app&htype=13"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
