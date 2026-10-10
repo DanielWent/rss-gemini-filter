@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo#1",
+        "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+        "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+        "description": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+        "published": "Sat, 10 Oct 2026 10:06:23 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d64/live/61119c60-c483-11f1-9323-b15f40d5009a.jpg"
+      },
+      {
         "id": "1791575415609521",
         "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
         "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Some artefacts are considered \"at risk\" as they are in, or near, churches earmarked for closure and sale.",
         "published": "Wed, 26 Aug 2026 07:28:23 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84c1/live/3173cad0-a086-11f1-bfeb-dfb02ea642ef.png"
-      },
-      {
-        "id": "1787635212110325",
-        "title": "Songs created by AI banned from Australia's music charts",
-        "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
-        "description": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
-        "published": "Tue, 25 Aug 2026 06:54:01 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c04d/live/a8f841c0-a03c-11f1-b7fb-bd20bd7c1336.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
