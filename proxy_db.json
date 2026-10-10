@@ -2413,6 +2413,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/south-street-fire-live-huge-34745012",
+        "title": "South Street fire LIVE: Huge blaze erupts in Glasgow scrap yard as 'explosions' heard",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/south-street-fire-live-huge-34745012",
+        "description": "Scottish Fire and Rescue are advising the public to avoid the area as crews work at the scene",
+        "published": "Sat, 10 Oct 2026 00:15:25 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34745011.ece/ALTERNATES/s98/1_Screenshot-2026-10-10-at-80320am.png"
+      },
+      {
         "id": "72f54cb6d7e19422f06987159cb92ad5",
         "title": "'The party isn't over yet': Boston Mayor announces Tartan Week in city next year",
         "link": "https://www.heraldscotland.com/news/26624794.boston-mayor-announces-tartan-week-city-next-year/",
