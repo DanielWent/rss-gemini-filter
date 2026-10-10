@@ -2437,6 +2437,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/widow-slain-glasgow-gangster-hunting-34745462",
+        "title": "Widow of slain Glasgow gangster hunting for 'nest egg' from Lyons gang",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/widow-slain-glasgow-gangster-hunting-34745462",
+        "description": "The widow of slain mobster Ross Monaghan is hunting for the 'nest egg' she claims was promised by the Lyons gang before his murder in Spain",
+        "published": "Sat, 10 Oct 2026 11:09:27 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34745456.ece/ALTERNATES/s98/0_image-52.jpg"
+      },
+      {
         "id": "ead1239b97efb34802de35d271b88a56",
         "title": "New pictures show masked fire crews at scene of Glasgow blaze 12 hours later",
         "link": "https://www.glasgowtimes.co.uk/news/26625144.emergency-crews-scene-glasgow-fire-12-hours-later/",
