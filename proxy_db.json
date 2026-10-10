@@ -2437,6 +2437,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "5219f6bcd1ee9c98a6ba2be1eef16e8f",
+        "title": "Glasgow residents warned of water disruption after burst main on busy road",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26625277.burst-water-main-disrupts-supplies-glasgows-southside/",
+        "description": "Glasgow water supply disruption affects G43 after a burst main on Pentland Road. Scottish Water repairs may cause traffic delays until around 4pm.",
+        "published": "Sat, 10 Oct 2026 13:21:08 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17119543/?type=app&htype=0"
+      },
+      {
         "id": "c0f043e5b437d014a8d98d93503819f4",
         "title": "LIVE updates as incident on Glasgow motorway causes massive tailbacks",
         "link": "https://www.glasgowtimes.co.uk/news/26625239.live-updates-amid-incident-glasgows-m77-motorway/",
