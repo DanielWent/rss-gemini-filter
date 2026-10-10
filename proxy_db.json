@@ -2445,6 +2445,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "06c4499a1c0c2d6c4f296562c7b847e1",
+        "title": "Glasgow ceremony honours volunteers who fought fascism in Spain",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26625525.crowds-honour-spanish-civil-war-volunteers-glasgow/",
+        "description": "Glasgow crowds honour International Brigade volunteers at the La Pasionaria memorial on Clyde Street, marking those who fought fascism in Spain on October 10.",
+        "published": "Sat, 10 Oct 2026 16:43:42 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21563659/?type=app&htype=0"
+      },
+      {
         "id": "9e3b94eb7f7015260a05933c370890c2",
         "title": "Funeral date announced for much-loved priest who served communities across Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26625443.funeral-arrangements-announced-priest-canon-john-mcgrorry/",
@@ -3235,14 +3243,6 @@
         "description": "Spey Bay Golf Club has been put up for sale at offers over \u00a31.5m for the historic Moray links and its associated facilities",
         "published": "Fri, 09 Oct 2026 06:30:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21551543/?type=app&htype=0"
-      },
-      {
-        "id": "f5869cbf550247292cbac49953f68d42",
-        "title": "The historic buildings earmarked for demolition under Summerhall redevelopment plans",
-        "link": "https://www.heraldscotland.com/news/26620734.summerhall-plans-partial-demolition-means-arts-hub/",
-        "description": "Could new proposals to turn some of the arts and culture hub into a hotel and student accommodation scupper the creative future of the complex?",
-        "published": "Fri, 09 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/18584734/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
