@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo#1",
+        "title": "Northern Lights stun UK down to England's south coast",
+        "link": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&at_campaign=rss",
+        "description": "The natural phenomenon, known as the Aurora Borealis, is the result of increased solar activity.",
+        "published": "Sat, 10 Oct 2026 20:57:29 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25d5/live/6d932560-c4e9-11f1-900e-31f5a5ac5102.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo#1",
         "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
         "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The Moon could glow an eerie red in the early hours of Friday but cloud cover may spoil the spectacle for some parts of the UK.",
         "published": "Thu, 27 Aug 2026 06:03:15 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b60/live/f6d62c90-a1e5-11f1-b132-bb16290da3a7.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cjwg5n7y68xo#0",
-        "title": "World's first patient to undergo live AI-assisted brain surgery has tumour removed",
-        "link": "https://www.bbc.co.uk/news/articles/cjwg5n7y68xo?at_medium=RSS&at_campaign=rss",
-        "description": "Without brain surgery guided by live AI assistance, Rhys Hibbert could have lost his sight to a tumour.",
-        "published": "Wed, 26 Aug 2026 23:07:22 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e381/live/15e71f90-8512-11f1-bee8-53ce494e1abc.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
