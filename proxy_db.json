@@ -2437,6 +2437,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=532659",
+        "title": "Ross Muir unveils new artwork to raise funds for Paisley school\u2019s art department",
+        "link": "https://news.stv.tv/west-central/ross-muir-unveils-new-artwork-to-raise-funds-for-paisley-schools-art-department",
+        "description": "The artist launched Prefect on Saturday as a tribute to Castlehead High School and late Scottish artist John Byrne",
+        "published": "Sat, 10 Oct 2026 14:33:52 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/6caad25e59f38fb84d0a550ec0e9934c-1791640639-1119x720.jpeg"
+      },
+      {
+        "id": "c7ba25ae11c4a5e4387f02b72e6d2fdf",
+        "title": "Glasgow October week guide - 7 ways to keep kids of all kinds entertained",
+        "link": "https://www.glasgowtimes.co.uk/news/26625406.7-things-around-glasgow-october-week/",
+        "description": "Glasgow October week ideas for kids and families: pumpkin picking, ceilidh dancing, fire engines, Barbie at Kelvingrove, \u00a32 films, parks and gaming.",
+        "published": "Sat, 10 Oct 2026 15:02:30 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21563515/?type=app&htype=0"
+      },
+      {
         "id": "8a8c73f701f26422be833b50b46bb0e0",
         "title": "Major change for busy Glasgow bus service as all-day trial gets the green light",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26625394.stagecoach-x36-glasgow-ardrossan-bus-become-all-day-service/",
@@ -3219,22 +3235,6 @@
         "description": "Sally Mapstone leads Scotland\u2019s university reform, with mergers, collaboration and shared services on the table amid a \u00a3200m sector sustainability gap.",
         "published": "Fri, 09 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21001748/?type=app&htype=0"
-      },
-      {
-        "id": "d98b3d2c8d9c21b49870ac4b878cbe57",
-        "title": "Inside the Irvine Valley where Scotland\u2019s historic lace-making tradition lives on",
-        "link": "https://www.heraldscotland.com/life_style/26620603.fight-save-irvine-valleys-historic-lace-making-industry/",
-        "description": "The Irvine Valley is home to the world\u2019s last working Nottingham lace looms, but the skills that have sustained them for generations are at risk of disappearing. Can this remarkable textile heritage be saved?",
-        "published": "Fri, 09 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21556952/?type=app&htype=0"
-      },
-      {
-        "id": "27feffc428679af83470225eaf1c4f48",
-        "title": "Scotland handing out 23,000 antidepressants a day \u2014 20 years after vow to halt rise",
-        "link": "https://www.heraldscotland.com/news/26620204.antidepressant-dispensing-scotland-rises-record-high/",
-        "description": "New Public Health Scotland data shows 8.6 million antidepressant items were dispensed in 2025/26 \u2014 up nearly 10% since 2021 and 15% since 2020, despite a Scottish Government pledge dating to 2007 to bring annual rises to zero.",
-        "published": "Fri, 09 Oct 2026 05:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/8695917/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
