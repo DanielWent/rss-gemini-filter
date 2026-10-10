@@ -2413,6 +2413,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "895c423fa5e6915c5dc6ef92ed641795",
+        "title": "The unanswered questions surrounding the Scottish Government's hybrid working change",
+        "link": "https://www.heraldscotland.com/news/26624660.real-test-40-office-target-proving-works/",
+        "description": "The Herald's Out of Office campaign helped force a change in policy. The next challenge is whether ministers can prove civil servants are meeting attendance targets.",
+        "published": "Sat, 10 Oct 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21335176/?type=app&htype=0"
+      },
+      {
+        "id": "be6adabad3b70a825d434381da4cea91",
+        "title": "SNP conference row looms over 'swift removal' of asylum seekers",
+        "link": "https://www.heraldscotland.com/politics/westminster/26620663.snp-conference-split-asylum-seeker-removal-policy/",
+        "description": "SNP members at next week's conference will debate asylum seeker removals, buffer zones and a legally untested plan to force Westminster's hand on immigration.",
+        "published": "Sat, 10 Oct 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/16524423/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/south-street-fire-live-huge-34745012",
         "title": "South Street fire LIVE: Huge blaze erupts in Glasgow scrap yard as 'explosions' heard",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/south-street-fire-live-huge-34745012",
@@ -3195,22 +3211,6 @@
         "description": "Plans for 324 new homes at the former Winston Barracks in Lanark have been approved, paving the way for a major transformation of the site.",
         "published": "Thu, 08 Oct 2026 15:36:32 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21556100/?type=app&htype=13"
-      },
-      {
-        "id": "37a6128647831c81cbce891ee61b1d26",
-        "title": "Glasgow to get 170 new homes as major housing plans approved",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26619919.glasgow-council-approves-scheme-around-170-new-homes/",
-        "description": "Glasgow City Council approves around 170 new homes in Maryhill, Partick and Yoker, including affordable housing and three empty homes converted to social rent.",
-        "published": "Thu, 08 Oct 2026 15:32:05 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20797430/?type=app&htype=0"
-      },
-      {
-        "id": "6048d39c038d561172a2c4c52508faf0",
-        "title": "East Dunbartonshire 20mph speed limit plans delayed after council vote",
-        "link": "https://www.glasgowtimes.co.uk/news/26619904.milngavie-20mph-speed-limit-plans-deferred-december/",
-        "description": "Councillors in East Dunbartonshire have voted to defer the implementation of new speed limits in Milngavie.",
-        "published": "Thu, 08 Oct 2026 15:29:46 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/9394489/?type=app&htype=44"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
