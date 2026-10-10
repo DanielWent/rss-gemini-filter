@@ -2437,6 +2437,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "c0f043e5b437d014a8d98d93503819f4",
+        "title": "LIVE updates as incident on Glasgow motorway causes massive tailbacks",
+        "link": "https://www.glasgowtimes.co.uk/news/26625239.live-updates-amid-incident-glasgows-m77-motorway/",
+        "description": "An incident on Glasgow's M77 motorway has caused major tailbacks for those heading towards the city centre and Silverburn Shopping Centre.",
+        "published": "Sat, 10 Oct 2026 12:48:12 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21563191/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/widow-slain-glasgow-gangster-hunting-34745462",
         "title": "Widow of slain Glasgow gangster hunting for 'nest egg' from Lyons gang",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/widow-slain-glasgow-gangster-hunting-34745462",
@@ -2451,6 +2459,14 @@
         "description": "Glasgow scrapyard fire on October 9: six appliances remain at South Street, Whiteinch, as firefighters tackle blaze. SFRS urges residents to keep windows closed.",
         "published": "Sat, 10 Oct 2026 11:35:19 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21563119/?type=app&htype=0"
+      },
+      {
+        "id": "10d2d9882064f042c113eecb85331e3e",
+        "title": "Edinburgh MSP urges Lib Dems to be \u2018bolder and braver\u2019 on climate change",
+        "link": "https://www.heraldscotland.com/news/26624268.edinburgh-msp-urges-lib-dems-bolder-climate/",
+        "description": "Sanne Dijkstra-Downie told delegates that \u201cabnormal\u201d summer weather in recent years were a harbinger of difficult times to come.",
+        "published": "Sat, 10 Oct 2026 11:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20891279/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=532639",
