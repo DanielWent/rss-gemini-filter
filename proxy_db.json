@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo#1",
+        "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+        "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+        "description": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
+        "published": "Sat, 10 Oct 2026 18:22:29 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c416/live/81c8f6c0-c4d7-11f1-9a39-31b474234113.png"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo#1",
         "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
         "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Without brain surgery guided by live AI assistance, Rhys Hibbert could have lost his sight to a tumour.",
         "published": "Wed, 26 Aug 2026 23:07:22 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e381/live/15e71f90-8512-11f1-bee8-53ce494e1abc.jpg"
-      },
-      {
-        "id": "1787722216062307",
-        "title": "Sculpted stone study could shed new light on lost kingdoms",
-        "link": "https://www.bbc.co.uk/news/articles/cx2zxv2vd70o?at_medium=RSS&at_campaign=rss",
-        "description": "Some artefacts are considered \"at risk\" as they are in, or near, churches earmarked for closure and sale.",
-        "published": "Wed, 26 Aug 2026 07:28:23 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84c1/live/3173cad0-a086-11f1-bfeb-dfb02ea642ef.png"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
