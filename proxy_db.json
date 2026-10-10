@@ -2437,6 +2437,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=532639",
+        "title": "Fire crews battle Glasgow scrapyard blaze as residents urged to close windows and doors",
+        "link": "https://news.stv.tv/west-central/fire-crews-battle-glasgow-scrapyard-blaze-as-residents-urged-to-close-windows-and-doors",
+        "description": "The alarm was raised late on Tuesday evening.",
+        "published": "Sat, 10 Oct 2026 09:17:50 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2021/11/965c5f404bb8309fc9a1d8d6169b169e-1084x720.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=532525",
+        "title": "Royal National M\u00f2d returns as thousands descend on Glasgow",
+        "link": "https://news.stv.tv/west-central/royal-national-mod-returns-as-thousands-descend-on-glasgow",
+        "description": "The world's largest Scottish Gaelic festival has returned to Glasgow for the first time since 2019",
+        "published": "Sat, 10 Oct 2026 09:03:17 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/dfa1387ce0fdff4629154361811fd29d-1791548528-1280x720.jpg"
+      },
+      {
+        "id": "56dc4cb9c3e820958f3ca4931acfe7a4",
+        "title": "Delay warning issued as Glasgow motorway to close over four weeks for essential works",
+        "link": "https://www.glasgowtimes.co.uk/news/26625002.m80-closures-set-plague-glasgow-drivers-four-weeks/",
+        "description": "M80 weekend closures start October 23 as Transport Scotland upgrades Robroyston Interchange at Junction 2, with planned overnight closures until November 15.",
+        "published": "Sat, 10 Oct 2026 10:02:21 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/9671644/?type=app&htype=0"
+      },
+      {
+        "id": "9279375",
+        "title": "Glasgow Fire: Crews still on scene of overnight scrap yard blaze in Glasgow amid 'protracted incident' warning",
+        "link": "https://www.glasgowworld.com/news/glasgow-fire-crews-still-on-scene-fire-9279375",
+        "description": "<p>Firefighters continue working to make the area safe after a large fire broke out at a scrap yard on South Street in Glasgow</p>",
+        "published": "Sat, 10 Oct 2026 08:55:42 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/10/8/45/843475248_29577483965188276_2374519464876043067_n.jpeg?width=1200&auto=webp&trim=39%2C0%2C40%2C0"
+      },
+      {
         "id": "d2b12536d118e6653bb6ed5f07f85f4f",
         "title": "Summerhall redevelopment: Why a hotel could secure the future of Edinburgh arts",
         "link": "https://www.heraldscotland.com/politics/viewpoint/26623306.hotels-key-saving-edinburghs-arts-venues/",
@@ -3203,38 +3235,6 @@
         "description": "Menzies Aviation chief executive Hassan El-Houry offered his view on the future of Scottish airports as he reflected on how the business traces its roots to a bookseller founded on Edinburgh's Princes Street nearly 200 years ago.",
         "published": "Fri, 09 Oct 2026 04:40:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21555674/?type=app&htype=0"
-      },
-      {
-        "id": "6fd462d9732fe0601e7f732096d3d03d",
-        "title": "Hidden wheat fungus offers hope against one of farming's biggest threats",
-        "link": "https://www.heraldscotland.com/news/26620848.fungus-found-wheat-seeds-fight-major-crop-disease/",
-        "description": "New study finds Chaetomium globosum fungus in wheat seeds reduces Septoria tritici blotch, offering a potential alternative to chemical fungicides.",
-        "published": "Fri, 09 Oct 2026 00:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21557263/?type=app&htype=0"
-      },
-      {
-        "id": "7a3d0c1a6e9912abf7af65e3a5fbd5ce",
-        "title": "Man hospitalised after daylight attack as busy Glasgow street cordoned off",
-        "link": "https://www.glasgowtimes.co.uk/news/26620903.man-hospitalised-daylight-attack-busy-glasgow-street/",
-        "description": "A man has been hospitalised following a daylight attack in the Southside of Glasgow",
-        "published": "Thu, 08 Oct 2026 20:54:30 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/14334594/?type=app&htype=0"
-      },
-      {
-        "id": "b0597269075c38ac43d3f9e33c5de00e",
-        "title": "Two more men charged over death of West Lothian man",
-        "link": "https://www.heraldscotland.com/news/26620840.two-charged-death-armadale-man-billy-watson/",
-        "description": "Two more men charged over Billy Watson\u2019s death in Armadale, West Lothian. Six people now face charges after his death on September 12, Police Scotland says.",
-        "published": "Thu, 08 Oct 2026 19:48:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21472751/?type=app&htype=0"
-      },
-      {
-        "id": "443a55ef37b651017430333df200786b",
-        "title": "\u2018Fascism in Action\u2019: Reform bid to ban burqa sparks angry Holyrood clashes",
-        "link": "https://www.heraldscotland.com/news/26620765.msps-condemn-reform-uk-holyrood-burqa-ban-bid/",
-        "description": "MSPs from the SNP, Labour and the Greens rounded on Reform UK at Holyrood on Thursday, condemning its push for restrictions on face coverings as Islamophobic and a calculated attack on Muslim women.",
-        "published": "Thu, 08 Oct 2026 18:28:32 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20866078/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
