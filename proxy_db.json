@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c5vgjm3gk7rzo#2",
+        "title": "AI is creating a 'human premium' for art made by people. But will it hold?",
+        "link": "https://www.bbc.co.uk/news/articles/c5vgjm3gk7rzo?at_medium=RSS&at_campaign=rss",
+        "description": "Amid a surge in AI content, many are placing extra value on art that's obviously made by a human. But can that last, asks Ros Atkins",
+        "published": "Sat, 10 Oct 2026 23:18:16 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fb8/live/8086eea0-c3cb-11f1-a64c-550be9e3c66b.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo#1",
         "title": "Northern Lights stun UK down to England's south coast",
         "link": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The letter warns cyber-attacks which use AI will become more sophisticated in a matter of months.",
         "published": "Thu, 27 Aug 2026 17:01:27 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76e0/live/18ba43f0-a236-11f1-80a2-67c89a95284e.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/weather/articles/c5y4n7y89w7o#2",
-        "title": "Moon set to turn red as rare partial lunar eclipse graces UK skies on Friday",
-        "link": "https://www.bbc.co.uk/weather/articles/c5y4n7y89w7o?at_medium=RSS&at_campaign=rss",
-        "description": "The Moon could glow an eerie red in the early hours of Friday but cloud cover may spoil the spectacle for some parts of the UK.",
-        "published": "Thu, 27 Aug 2026 06:03:15 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b60/live/f6d62c90-a1e5-11f1-b132-bb16290da3a7.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
