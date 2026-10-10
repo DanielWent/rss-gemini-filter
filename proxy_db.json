@@ -2437,6 +2437,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "d2b12536d118e6653bb6ed5f07f85f4f",
+        "title": "Summerhall redevelopment: Why a hotel could secure the future of Edinburgh arts",
+        "link": "https://www.heraldscotland.com/politics/viewpoint/26623306.hotels-key-saving-edinburghs-arts-venues/",
+        "description": "Two Edinburgh arts centres are up for redevelopment, but in Europe\u2019s busiest hospitality market, hotels could be key to saving at least one of them, writes John McLellan.",
+        "published": "Sat, 10 Oct 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19833248/?type=app&htype=0"
+      },
+      {
+        "id": "a1db7d124850494cf679114db70c7363",
+        "title": "Scots ethics code now a 'weapon' against freedom of speech, says Scots councillor",
+        "link": "https://www.heraldscotland.com/news/26623699.north-lanarkshire-councillor-challenges-ethics-watchdog-free-speech/",
+        "description": "North Lanarkshire councillor Greg Lennon has accused Scotland\u2019s Standards Commission of using its code of conduct to suppress scrutiny and threaten freedom of speech",
+        "published": "Sat, 10 Oct 2026 06:27:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21561644/?type=app&htype=0"
+      },
+      {
         "id": "fff4be227d89a829e94278709d834792",
         "title": "Holyrood round-up -What Glasgow MSPs have been asking about",
         "link": "https://www.glasgowtimes.co.uk/news/26623622.glasgow-msps-week-holyrood---questions-round-up/",
@@ -2523,6 +2539,38 @@
         "description": "A Glasgow taxi driver got back behind the wheel again just hours after being suspended.",
         "published": "Sat, 10 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21132919/?type=app&htype=0"
+      },
+      {
+        "id": "ae15e181ebbcd1d61048c4d5a4e94fca",
+        "title": "Scottish Lib Dems call for free exam access for home educated pupils",
+        "link": "https://www.heraldscotland.com/news/26623871.scottish-lib-dems-debate-cost-free-home-school-exams/",
+        "description": "Scottish Liberal Democrats will debate free, barrier-free exam access for home-educated pupils as numbers in Scotland rise by 79%, calling for a new framework.",
+        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21261995/?type=app&htype=0"
+      },
+      {
+        "id": "214d4f111c4cc3d97ace8daace24ddf8",
+        "title": "Inside the \u00a368.7m museum revamp helping to transform a Scottish town centre",
+        "link": "https://www.heraldscotland.com/life_style/26624109.inside-68-7m-museum-project-propelling-transformation-paisley/",
+        "description": "Finishing touches are being made to the \u00a368.7million redevelopment of Paisley Museum ahead of its reopening early next year.",
+        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21561922/?type=app&htype=0"
+      },
+      {
+        "id": "0dcb8efa678d4907dc1e056995bb31de",
+        "title": "University's arts closures will disproportionately affect women, warns craft body",
+        "link": "https://www.heraldscotland.com/news/26622847.edinburgh-college-art-cuts-criticised-impact-women/",
+        "description": "Ms Kernan questioned whether Edinburgh University management had carried out an equality impact assessment prior to making the decision to close the programmes.",
+        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20900118/?type=app&htype=0"
+      },
+      {
+        "id": "8cca9a3cd90367c26bf27673f98c5e8c",
+        "title": "'Harsh immigration rules' blamed for lack of Catholic priests as churches to close",
+        "link": "https://www.heraldscotland.com/news/26624316.harsh-immigration-rules-blamed-lack-catholic-priests/",
+        "description": "The Catholic Church has cited harsher rules on immigration as one of the reasons for its shock plans to close 24 churches in Glasgow.",
+        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/17055659/?type=app&htype=0"
       },
       {
         "id": "895c423fa5e6915c5dc6ef92ed641795",
@@ -2643,14 +2691,6 @@
         "description": "Half of Glasgow's Catholic churches face closure under radical archdiocese plans. Kevin McKenna examines what will be lost and why it matters",
         "published": "Fri, 09 Oct 2026 16:25:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/19357200/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/loud-explosion-heard-early-hours-34743384",
-        "title": "'Loud explosion' heard in early hours as Glasgow fire crews rush to scene",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/loud-explosion-heard-early-hours-34743384",
-        "description": "Locals reported hearing a &quot;bang like a bomb going off&quot; at the time of the incident.",
-        "published": "Fri, 9 Oct 2026 15:19:07 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34743478.ece/ALTERNATES/s98/3_Fire_StEdumund_9thOctober_MarkMcGuinness-3JPG.jpg"
       },
       {
         "id": "93c2f05bf06bac0c278ae6427ae5a176",
@@ -3195,46 +3235,6 @@
         "description": "MSPs from the SNP, Labour and the Greens rounded on Reform UK at Holyrood on Thursday, condemning its push for restrictions on face coverings as Islamophobic and a calculated attack on Muslim women.",
         "published": "Thu, 08 Oct 2026 18:28:32 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20866078/?type=app&htype=0"
-      },
-      {
-        "id": "37a47322e3a7cd2a6868317a63281db2",
-        "title": "Footballer granted bail over alleged killing of Glasgow barman",
-        "link": "https://www.heraldscotland.com/news/26620735.former-footballer-accused-culpable-homicide-daniel-colrain/",
-        "description": "Former Partick Thistle youth goalkeeper Luis Cameron granted bail at Glasgow Sheriff Court over alleged culpable homicide of barman Daniel Colrain after an assault.",
-        "published": "Thu, 08 Oct 2026 18:08:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21547305/?type=app&htype=0"
-      },
-      {
-        "id": "3457f66edac44e2c1a924bef45285977",
-        "title": "Vigilante ordered to quit paedophile hunter group after targeting innocent OAP",
-        "link": "https://www.glasgowtimes.co.uk/news/26620683.vigilante-ordered-quit-group-targeting-innocent-oap/",
-        "description": "A vigilante who wrongly accused a vulnerable pensioner of being a child rapist has been ordered to quit his post as leader of a group of paedophile hunters",
-        "published": "Thu, 08 Oct 2026 17:36:16 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21435782/?type=app&htype=0"
-      },
-      {
-        "id": "9275618",
-        "title": "Glasgow City Council grants GlasGLOW public entertainment licence despite community concerns",
-        "link": "https://www.glasgowworld.com/news/glasgow-glow-halloween-event-9275618",
-        "description": "<p>Glasgow City Council has granted GlasGLOW a public entertainment licence, despite concerns from the local community council about the impact of the event on the environment and local wildlife.</p>",
-        "published": "Thu, 08 Oct 2026 16:09:51 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/10/24/15/17/DSC08967.jpeg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/glasgow-just-lost-uks-friendliest-34737335",
-        "title": "Glasgow just lost its 'UK's friendliest' crown to another Scottish city",
-        "link": "https://www.glasgowlive.co.uk/whats-on/glasgow-just-lost-uks-friendliest-34737335",
-        "description": "Glasgow has been beating to the title of the UK's friendliest city, despite claiming the top spot for the last two years, and it's even found itself dropping three places on the acclaimed list",
-        "published": "Thu, 8 Oct 2026 16:09:26 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34737700.ece/ALTERNATES/s98/0_JS420614556.jpg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=532400",
-        "title": "More than 16,000 unsafe toys removed from sale in west of Scotland by Trading Standards",
-        "link": "https://news.stv.tv/west-central/more-than-16000-unsafe-toys-removed-from-sale-in-west-of-scotland-by-trading-standards",
-        "description": "Over 32,000 toys were inspected as part of the Trading Standards crackdown",
-        "published": "Thu, 08 Oct 2026 16:01:59 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/d6392e9b282bbe9772f88ac0d8cc403f-1791466064-960x720.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
