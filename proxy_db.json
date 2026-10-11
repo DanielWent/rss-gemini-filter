@@ -2469,6 +2469,30 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21556565/?type=app&htype=0"
       },
       {
+        "id": "https://news.stv.tv/?p=532692",
+        "title": "Fire crews spend second night battling Glasgow scrapyard blaze",
+        "link": "https://news.stv.tv/west-central/fire-crews-spend-second-night-battling-glasgow-scrapyard-blaze",
+        "description": "The fire, on Glasgow's South Street, took hold at around 11.30pm on Friday evening",
+        "published": "Sun, 11 Oct 2026 09:15:04 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/be803fbf734ac2bf465ee2f166c4c40c-1791624124-1119x720.jpeg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=532676",
+        "title": "Labour leader Marra accuses SNP of having \u2018underfunded\u2019 Glasgow City Council",
+        "link": "https://news.stv.tv/west-central/labour-leader-marra-accuses-snp-of-having-underfunded-glasgow-city-council",
+        "description": "Scottish Labour leader Michael Marra is calling for \u201cclarity\u201d from SNP ministers",
+        "published": "Sun, 11 Oct 2026 09:01:55 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2022/09/ea2fff28665eadfaa668ae272484dcce-1662650833.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/ive-been-waiting-seven-months-34736180",
+        "title": "'I've been waiting seven months to have my expired coil removed - the system is broken'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/ive-been-waiting-seven-months-34736180",
+        "description": "Laura, 51, from Newton Mearns uses the Mirena coil for hormone replacement therapy (HRT), helping with perimenopausal and menopausal symptoms.",
+        "published": "Sun, 11 Oct 2026 08:46:20 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34737651.ece/ALTERNATES/s98/0_gettyimages-2174656266-170667a.jpg"
+      },
+      {
         "id": "d71fd274f1e97ef85e16a31933b28bc5",
         "title": "High-risk appeal launched for missing 80-year-old as welfare fears grow",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26625928.search-find-80-year-old-charles-auld-tarbolton/",
@@ -3235,30 +3259,6 @@
         "description": "Danielle Quinn, who was diagnosed with Stage 3 low-grade serous carcinoma in December 2022, passed away peacefully on Thursday",
         "published": "Fri, 09 Oct 2026 10:53:58 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/5a99a652726e49078785a11910f0c013-1791282201-1119x720.jpeg"
-      },
-      {
-        "id": "10661f3dfe08ae1600e254691281f715",
-        "title": "Man appears in court following attemped murder bid in Glasgow city centre",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26622315.man-appears-court-glasgow-pedestrian-crash/",
-        "description": "Adeel Asim, 34, appeared at Glasgow Sheriff Court on October 8 charged with assault to the danger of life after a pedestrian was hit on Glassford Street.",
-        "published": "Fri, 09 Oct 2026 11:47:29 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21535328/?type=app&htype=0"
-      },
-      {
-        "id": "aa35b20e3f2ee0027ff13bd372cbb00e",
-        "title": "Sir Alex Ferguson dedicates new memoir to wife Cathy, calling her \u2018my everything'",
-        "link": "https://www.glasgowtimes.co.uk/news/26622314.sir-alex-fergusons-new-memoir-honours-late-wife-cathy/",
-        "description": "Throughout Alex Ferguson\u2019s decades of success, he played for six clubs, managed four and had hundreds of players under his tutelage.",
-        "published": "Fri, 09 Oct 2026 11:47:17 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21559016/?type=app&htype=0"
-      },
-      {
-        "id": "9f538dbeea7b7a9dfafdc01e0c5f4c4d",
-        "title": "Glasgow\u2019s M8 Kingston Bridge to close overnight for drainage surveys until November",
-        "link": "https://www.glasgowtimes.co.uk/news/26622089.overnight-glasgow-kingston-bridge-closures-start-drainage-works/",
-        "description": "Glasgow's M8 motorway to be shut for works.",
-        "published": "Fri, 09 Oct 2026 11:17:29 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21475912/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
