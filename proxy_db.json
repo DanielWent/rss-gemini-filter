@@ -1850,6 +1850,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "c3027a572526719180835cdcd3c8963c",
+        "title": "Northern Lights dazzle Greater Glasgow as aurora set to return tonight",
+        "link": "https://www.glasgowtimes.co.uk/news/weather/26626336.glasgow-northern-lights-captured-stunning-photos/",
+        "description": "Eager-eyed residents across Greater Glasgow caught a glimpse of the Northern Lights as it danced across the skies of Scotland with the phenomenon set to return tonight",
+        "published": "Sun, 11 Oct 2026 14:58:31 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21565333/?type=app&htype=0"
+      },
+      {
         "id": "7386d90b613e090392d8cae02dad99fb",
         "title": "Former detectives reveal real-life crime stories at free East Dunbartonshire event",
         "link": "https://www.glasgowtimes.co.uk/news/26624467.former-detectives-share-real-crime-stories-milngavie-library/",
@@ -2469,12 +2477,36 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21556565/?type=app&htype=0"
       },
       {
+        "id": "c3027a572526719180835cdcd3c8963c",
+        "title": "Northern Lights dazzle Greater Glasgow as aurora set to return tonight",
+        "link": "https://www.glasgowtimes.co.uk/news/weather/26626336.glasgow-northern-lights-captured-stunning-photos/",
+        "description": "Eager-eyed residents across Greater Glasgow caught a glimpse of the Northern Lights as it danced across the skies of Scotland with the phenomenon set to return tonight",
+        "published": "Sun, 11 Oct 2026 14:58:31 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21565333/?type=app&htype=0"
+      },
+      {
+        "id": "009285b76d13120f338876dff3d27417",
+        "title": "Health Secretary says corridor care is \u2018not acceptable\u2019 ahead of winter pressures",
+        "link": "https://www.heraldscotland.com/news/26626294.health-secretary-says-corridor-care-not-acceptable/",
+        "description": "Health Secretary Angela Constance says NHS corridor care is unacceptable as Scotland faces winter pressures, A&amp;E waits and calls to expand community care.",
+        "published": "Sun, 11 Oct 2026 14:29:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20391983/?type=app&htype=0"
+      },
+      {
         "id": "83c87d232864e75c8ed7afbe2a4c7482",
         "title": "49 new Glasgow flats planned beside iconic Tennent's brewery site",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26626289.plans-submitted-49-new-apartments-beside-glasgow-church/",
         "description": "Plans submitted to Glasgow City Council for 49 courtyard apartments in the East End, next to an A-listed church and overlooking Tennent\u2019s Wellpark Brewery.",
         "published": "Sun, 11 Oct 2026 14:22:15 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21565237/?type=app&htype=0"
+      },
+      {
+        "id": "40aa3f099ec630062fd9d113d40db6ff",
+        "title": "Forty years on, Glasgow's Gaelic success story sings loud and proud",
+        "link": "https://www.heraldscotland.com/life_style/26626195.review-m-d-2026-ar-c-nan-s-ar-ce-l-royal-glasgow-concert-hall/",
+        "description": "Mod Fringe in Glasgow celebrates 40 years of Gaelic-medium education with Ar C\u00e0nan \u2019s Ar Ce\u00f2l concert at the Royal Glasgow Concert Hall.",
+        "published": "Sun, 11 Oct 2026 14:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21563256/?type=app&htype=0"
       },
       {
         "id": "fcc1219e7e69eafe34ce5155cd4bc9fb",
@@ -3235,30 +3267,6 @@
         "description": "The German hard dance crew are heading back to Glasgow as part of the NRG Winter Weekender.",
         "published": "Fri, 9 Oct 2026 11:37:41 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34740605.ece/ALTERNATES/s98/1_Screenshot-2024-04-08-at-52106-PM.png"
-      },
-      {
-        "id": "https://news.stv.tv/?p=532547",
-        "title": "Man brutally attacked woman months after being released from prison",
-        "link": "https://news.stv.tv/west-central/man-brutally-attacked-woman-months-after-being-released-from-prison",
-        "description": "Daniel Torrie, 27, was jailed for six years for attacking the woman in Oban on November 17 last year",
-        "published": "Fri, 09 Oct 2026 11:29:27 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2023/03/83f4f1b52792aa2f8f54a74123929a3e-1677767975-1280x720.jpg"
-      },
-      {
-        "id": "b36d5362c590fc98c9cf991f86102b10",
-        "title": "New Glasgow home opens for women experiencing homelessness and trauma",
-        "link": "https://www.glasgowtimes.co.uk/news/26622576.new-glasgow-home-opened-women-experiencing-homelessness/",
-        "description": "A supported residential community has opened in Glasgow to help women experiencing homelessness and multiple disadvantage.",
-        "published": "Fri, 09 Oct 2026 12:28:19 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21559320/?type=app&htype=0"
-      },
-      {
-        "id": "9277097",
-        "title": "Glasgow City Council agrees sale of Yoker Primary School site for affordable homes",
-        "link": "https://www.glasgowworld.com/news/yoker-primary-school-site-sale-sanctuary-scotland-glasgow-city-council-9277097",
-        "description": "<p>The sale will allow Sanctuary Scotland to build a mix of flats and houses on the site, with at least some of the properties available for social rent, as the city continues to face a housing shortage.</p>",
-        "published": "Fri, 09 Oct 2026 11:18:18 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/09/11/28/onecms_e66c5698-8815-4891-ae2e-30b855b0f6e0_0b79f280-b746-4897-83f0-ce72115d8967.jpeg?width=1200&auto=webp&trim=0%2C8%2C0%2C7"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
