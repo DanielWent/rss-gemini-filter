@@ -1850,6 +1850,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "7386d90b613e090392d8cae02dad99fb",
+        "title": "Former detectives reveal real-life crime stories at free East Dunbartonshire event",
+        "link": "https://www.glasgowtimes.co.uk/news/26624467.former-detectives-share-real-crime-stories-milngavie-library/",
+        "description": "Crime fans are invited to an evening of real-life detective stories and criminal intrigue.",
+        "published": "Sun, 11 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21562157/?type=app&htype=0"
+      },
+      {
         "id": "9e3b94eb7f7015260a05933c370890c2",
         "title": "Funeral date announced for much-loved priest who served communities across Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26625443.funeral-arrangements-announced-priest-canon-john-mcgrorry/",
@@ -2453,12 +2461,68 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "3338ee30b85a6a54a2d8002c1bdbffc2",
+        "title": "I was inspired by Six and Hamilton to write a musical about Glasgow's witches",
+        "link": "https://www.glasgowtimes.co.uk/news/26620295.new-musical-brings-glasgows-pollok-witches-story-stage/",
+        "description": "Alyson Orr grew up on Glasgow\u2019s Southside, so she knew all about the disturbing tale of the Pollok witches.",
+        "published": "Mon, 12 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21556565/?type=app&htype=0"
+      },
+      {
         "id": "a53b03c756d13d674c3c5dffd447ab93",
         "title": "'Every good thing that\u2019s happened in my life is because of university'",
         "link": "https://www.heraldscotland.com/news/26624970.principal-reflects-career-decade-edinburgh/",
         "description": "Professor Sir Peter Mathieson spoke to The Herald about his career before his controversial tenure at the University of Edinburgh.",
         "published": "Sun, 11 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21562962/?type=app&htype=0"
+      },
+      {
+        "id": "924260735eed73d5f0920e2729462439",
+        "title": "Labour leader accuses SNP of having \u2018underfunded\u2019 Glasgow City Council by millions",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26625646.labour-claims-glasgow-council-underfunded-357m/",
+        "description": "Labour claims Glasgow City Council was underfunded by \u00a3357m, as SNP plans to replace Scotland\u2019s 32 councils prompt calls for clarity on local funding debate.",
+        "published": "Sun, 11 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21506927/?type=app&htype=0"
+      },
+      {
+        "id": "7386d90b613e090392d8cae02dad99fb",
+        "title": "Former detectives reveal real-life crime stories at free East Dunbartonshire event",
+        "link": "https://www.glasgowtimes.co.uk/news/26624467.former-detectives-share-real-crime-stories-milngavie-library/",
+        "description": "Crime fans are invited to an evening of real-life detective stories and criminal intrigue.",
+        "published": "Sun, 11 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21562157/?type=app&htype=0"
+      },
+      {
+        "id": "48f2bab31178e01f23f98d7cf49f9529",
+        "title": "Glasgow gang member struck off landlords register after cocaine operation",
+        "link": "https://www.glasgowtimes.co.uk/news/26622141.glasgow-gang-member-struck-off-landlords-register-drug-operation/",
+        "description": "A Glasgow crime gang member who supplied and sold cocaine and cannabis has been struck off from the city\u2019s landlords register.",
+        "published": "Sun, 11 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17950380/?type=app&htype=0"
+      },
+      {
+        "id": "e36e0690c7bedea93fad62204945766a",
+        "title": "'Wild leap' fears over Wunderbar owners' flats plan in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26622373.wild-leap-fears-wunderbar-owners-flats-plan/",
+        "description": "Talks over the sale of council-owned land to the owners of Wunderbar in Glasgow\u2019s West End have been approved, despite concerns over a \u201cwild leap\u201d from a beer garden to plans to build flats.",
+        "published": "Sun, 11 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21182290/?type=app&htype=0"
+      },
+      {
+        "id": "4fd90a471e4176d2747a770fa7135cb2",
+        "title": "Glasgow's 'eyesore' phone boxes disappearing - but councillors want more gone",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26622055.eyesore-phone-boxes-disappearing-councillors-want-gone/",
+        "description": "'Eyesore' phone boxes in Glasgow are disappearing - but councillors want more gone",
+        "published": "Sun, 11 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21093105/?type=app&htype=0"
+      },
+      {
+        "id": "0b8c024918c641eca9cbb7036021cf1e",
+        "title": "Councillor warns animated roadside adverts could distract drivers near schools",
+        "link": "https://www.glasgowtimes.co.uk/news/26624187.councillor-raised-concerns-animated-roadside-signs/",
+        "description": "Councillor Ken Andrew raised concerns over animated roadside advertising signs distracting drivers, particularly near schools.",
+        "published": "Sun, 11 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19277680/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/pretty-town-hour-glasgow-doorstep-34722498",
@@ -3195,62 +3259,6 @@
         "description": "Susan Boyle\u2019s rise from West Lothian to global fame is explored in a 45-minute BBC One Scotland documentary airing on Hogmanay, also on BBC iPlayer.",
         "published": "Fri, 09 Oct 2026 09:37:32 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21557980/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cwm23le8dzr9o#0",
-        "title": "Orca found in Uist 'one of oldest males ever recorded' say scientists",
-        "link": "https://www.bbc.co.uk/news/articles/cwm23le8dzr9o?at_medium=RSS&at_campaign=rss",
-        "description": "A Scottish team of researchers analysed a tooth to work out its age.",
-        "published": "Fri, 09 Oct 2026 08:07:22 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce9e/live/95bdf910-c319-11f1-bd97-fbe5a3482cde.jpg"
-      },
-      {
-        "id": "533e5ee92f6a4562b1590d7cc0aa92a4",
-        "title": "\u00a31m pledged to create \u2018areas of linguistic significance\u2019 to help Gaelic thrive",
-        "link": "https://www.heraldscotland.com/news/26621146.1m-funding-announced-gaelic-language-areas/",
-        "description": "Could this help Gaelic thrive? More than \u00a31 million is being allocated",
-        "published": "Fri, 09 Oct 2026 08:23:28 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/11541607/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/former-glasgow-rangers-star-borna-34738788",
-        "title": "Former Glasgow Rangers star Borna Barisic 'charged with money laundering' after raid",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/former-glasgow-rangers-star-borna-34738788",
-        "description": "Borna Barisic, who spent six seasons at Ibrox, is the son of Stipe 'The Moth' Barisic who is allegedly a top figure in the Cepin Mafia clan.",
-        "published": "Fri, 9 Oct 2026 07:04:59 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34738794.ece/ALTERNATES/s98/0_Rangers-v-Ross-County-cinch-Premiership-Ibrox-StadiumjpgRangers-Borna-Barisic.jpg"
-      },
-      {
-        "id": "461f5de17d06e10d942fb7c029d8723b",
-        "title": "Glasgow research project to assess risk of mosquito and midge-borne diseases in UK",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26621103.scientists-secure-3-75m-assess-uk-mosquito-disease-risks/",
-        "description": "University of Glasgow secures \u00a33.75m for PAMEC, a four-year project assessing climate-driven mosquito and midge-borne disease risks across the UK and public health.",
-        "published": "Fri, 09 Oct 2026 07:57:44 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21557653/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-gangland-murder-victims-family-34738736",
-        "title": "Glasgow gangland murder victim's family \u2018pop champagne and celebrate\u2019 in wake of Paul Ferris' death",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-gangland-murder-victims-family-34738736",
-        "description": "A family member of Arthur Thompson snr posted a photo of a bottle of champagne hours after news broke that Ferris had died.",
-        "published": "Fri, 9 Oct 2026 06:46:20 +0000",
-        "image_url": "https://i2-prod.edinburghlive.co.uk/incoming/article34729101.ece/ALTERNATES/s98/0_Screenshot-356.png"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-central-trains-replaced-buses-34732776",
-        "title": "Glasgow Central trains to be replaced with buses on busy route this weekend",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-central-trains-replaced-buses-34732776",
-        "description": "Passengers have been warned to check before they travel.",
-        "published": "Fri, 9 Oct 2026 06:06:45 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34608712.ece/ALTERNATES/s98/0_GettyImages-1241432591.jpg"
-      },
-      {
-        "id": "68c53d31f28e40d0fc8a67bde17dec7c",
-        "title": "Two busy Glasgow roads to close for nearly two weeks for resurfacing works",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26621031.two-glasgow-roads-close-roadworks-lighting/",
-        "description": "Glasgow roads Cathedral Square and John Knox Street close from October 12 to October 25 for resurfacing, relining and street lighting works.",
-        "published": "Fri, 09 Oct 2026 06:50:18 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21475912/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
