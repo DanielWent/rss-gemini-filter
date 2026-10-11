@@ -2477,12 +2477,36 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21556565/?type=app&htype=0"
       },
       {
+        "id": "https://www.bbc.co.uk/news/articles/c6073zdr159xo#0",
+        "title": "Barlinnie water supply issues resolved after three days of disruption",
+        "link": "https://www.bbc.co.uk/news/articles/c6073zdr159xo?at_medium=RSS&at_campaign=rss",
+        "description": "Some prisoners have been unable to shower or flush toilets during the disruption which began on Thursday night.",
+        "published": "Sun, 11 Oct 2026 16:55:34 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d8a/live/97224730-c58e-11f1-9f85-f12d8ada92dd.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/sport/football/articles/cqwy7nr5lry0o#0",
+        "title": "Jota comeback helps Celtic lift gloom in strong response",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cqwy7nr5lry0o?at_medium=RSS&at_campaign=rss",
+        "description": "Jota's comeback from long-term injury and Celtic's convincing victory over Motherwell provide positivity following the club's recent acrimony.",
+        "published": "Sun, 11 Oct 2026 16:55:21 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75d7/live/c1c36af0-c593-11f1-9a39-31b474234113.jpg"
+      },
+      {
         "id": "f24768dc720e05a53c791374ebd8fd57",
         "title": "Campaigners vow to keep fighting as original Hampden Park site goes to market",
         "link": "https://www.glasgowtimes.co.uk/news/26626464.historic-original-hampden-park-site-hits-market-lease/",
         "description": "The site of the first ever Hampden football field has been put on the market by City Property Glasgow",
         "published": "Sun, 11 Oct 2026 16:51:16 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20909366/?type=app&htype=0"
+      },
+      {
+        "id": "ad965801380a569a3d145a6ccbe0fbb5",
+        "title": "Northern Lights could return across the UK in the coming nights",
+        "link": "https://www.heraldscotland.com/news/26626460.northern-lights-may-return-across-uk-coming-nights/",
+        "description": "Northern Lights lit up skies from Northumberland to Kent and Surrey. Met Office says aurora borealis may return across the UK on Sunday and Monday nights.",
+        "published": "Sun, 11 Oct 2026 16:48:14 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21565774/?type=app&htype=0"
       },
       {
         "id": "9280575",
@@ -2611,14 +2635,6 @@
         "description": "ScotRail warns of Glasgow train disruption on October 11 after an Argyle Street signalling fault affects Glasgow Central Low Level services.",
         "published": "Sun, 11 Oct 2026 10:32:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/19599060/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=532692",
-        "title": "Fire crews spend second night battling Glasgow scrapyard blaze",
-        "link": "https://news.stv.tv/west-central/fire-crews-spend-second-night-battling-glasgow-scrapyard-blaze",
-        "description": "The fire, on Glasgow's South Street, took hold at around 11.30pm on Friday evening",
-        "published": "Sun, 11 Oct 2026 09:15:04 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/be803fbf734ac2bf465ee2f166c4c40c-1791624124-1119x720.jpeg"
       },
       {
         "id": "f108c87e89930eab9b79736f377e76e4",
@@ -3251,22 +3267,6 @@
         "description": "A knife thug was captured trying to kill a man after a \u201csex party\u201d went wrong, a court heard.",
         "published": "Fri, 09 Oct 2026 12:51:58 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21559433/?type=app&htype=0"
-      },
-      {
-        "id": "2b606758d1902cb5dacab1271c5d61d9",
-        "title": "A 40ft shipping container is helping create the next generation of cyber defenders",
-        "link": "https://www.glasgowtimes.co.uk/news/26622660.glasgow-clyde-college-hosts-40ft-cyber-security-escape-room/",
-        "description": "A 40ft shipping container is doubling as a cyber security escape room to train the next generation of digital defenders.",
-        "published": "Fri, 09 Oct 2026 12:43:45 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21559460/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/coloursfest-bringing-george-bowie-scooter-34740805",
-        "title": "Coloursfest bringing George Bowie and Scooter for an epic night of dance at the SEC",
-        "link": "https://www.glasgowlive.co.uk/whats-on/music-nightlife-news/coloursfest-bringing-george-bowie-scooter-34740805",
-        "description": "The German hard dance crew are heading back to Glasgow as part of the NRG Winter Weekender.",
-        "published": "Fri, 9 Oct 2026 11:37:41 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34740605.ece/ALTERNATES/s98/1_Screenshot-2024-04-08-at-52106-PM.png"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
