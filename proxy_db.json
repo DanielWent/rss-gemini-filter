@@ -2453,6 +2453,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "3b3d732c726bb5d24cf8841b7768761c",
+        "title": "Scotland maternity triage findings expected as taskforce prepares to reconvene",
+        "link": "https://www.heraldscotland.com/news/26623012.scotland-maternity-triage-review-findings-due-soon-amid-scrutiny/",
+        "description": "Scottish ministers are preparing to publish findings from a maternity triage review as the national taskforce prepares to reconvene despite calls for it to be scrapped.",
+        "published": "Sun, 11 Oct 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20569965/?type=app&htype=0"
+      },
+      {
         "id": "06c4499a1c0c2d6c4f296562c7b847e1",
         "title": "Glasgow ceremony honours volunteers who fought fascism in Spain",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26625525.crowds-honour-spanish-civil-war-volunteers-glasgow/",
@@ -3243,14 +3251,6 @@
         "description": "Sexual crimes in Scotland hit a record high as victims face a median two-year 11-month wait for cases to conclude amid growing High Court delays.",
         "published": "Fri, 09 Oct 2026 06:33:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21431598/?type=app&htype=0"
-      },
-      {
-        "id": "005f12d9fba7ecb523ae5a54d13fcb11",
-        "title": "Three years after headline-grabbing takeover, Scottish golf club is up for sale again",
-        "link": "https://www.heraldscotland.com/news/26616341.spey-bay-golf-club-sale-three-years-linksdao-deal/",
-        "description": "Spey Bay Golf Club has been put up for sale at offers over \u00a31.5m for the historic Moray links and its associated facilities",
-        "published": "Fri, 09 Oct 2026 06:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21551543/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
