@@ -2453,6 +2453,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/pretty-town-hour-glasgow-doorstep-34722498",
+        "title": "Pretty town an hour from Glasgow is on doorstep of UK's best walking routes",
+        "link": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/pretty-town-hour-glasgow-doorstep-34722498",
+        "description": "This beautiful location, around an hour from Glasgow, has drawn praise for its scenic walks, cosy tea shops and history. So would you ever visit for a staycation?",
+        "published": "Sun, 11 Oct 2026 04:43:00 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/whats-on/article34722497.ece/ALTERNATES/s98/0_Callander.jpg"
+      },
+      {
         "id": "3b3d732c726bb5d24cf8841b7768761c",
         "title": "Scotland maternity triage findings expected as taskforce prepares to reconvene",
         "link": "https://www.heraldscotland.com/news/26623012.scotland-maternity-triage-review-findings-due-soon-amid-scrutiny/",
@@ -3243,14 +3251,6 @@
         "description": "An ethics watchdog concluded that restricting a councillor\u2019s freedom of speech was \u201cnot justified\u201d \u2013 only to reverse its position at his disciplinary hearing and support a decision that ended with him being suspended for two months, The Herald can...",
         "published": "Fri, 09 Oct 2026 06:34:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21556426/?type=app&htype=0"
-      },
-      {
-        "id": "33cca841ba54fde45b967b645e3e57e7",
-        "title": "Sex crime cases in Scotland take nearly three years to conclude, auditors warn",
-        "link": "https://www.heraldscotland.com/news/26620647.scots-sex-crime-cases-face-almost-three-year-wait-justice/",
-        "description": "Sexual crimes in Scotland hit a record high as victims face a median two-year 11-month wait for cases to conclude amid growing High Court delays.",
-        "published": "Fri, 09 Oct 2026 06:33:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21431598/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
