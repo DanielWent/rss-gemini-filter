@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1791720614221102",
+        "title": "Homes and bridges swept away as fresh floods hit Nepal",
+        "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+        "description": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
+        "published": "Sun, 11 Oct 2026 14:03:52 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cf2/live/9cbf47b0-c56b-11f1-9a39-31b474234113.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/sport/athletics/articles/cm4g102vr5q8o#9",
         "title": "Kipchoge, 41, breaks course record at Melbourne Marathon",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/cm4g102vr5q8o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The performers are asking the government to give every person in the UK a legal right to own their voice.",
         "published": "Fri, 28 Aug 2026 07:11:16 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a34/live/922d2fb0-a234-11f1-a291-b542ee92de7c.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c74g2j83dx1o#2",
-        "title": "Jacob Elordi on why The Dog Stars had him asking 'What am I missing' in life?",
-        "link": "https://www.bbc.co.uk/news/articles/c74g2j83dx1o?at_medium=RSS&at_campaign=rss",
-        "description": "Sir Ridley Scott's post-apocalyptic epic explores the feeling of hope in a pandemic-riddled world.",
-        "published": "Thu, 27 Aug 2026 23:44:07 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc51/live/ebacb0b0-a207-11f1-b109-879e35c24276.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
