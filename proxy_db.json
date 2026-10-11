@@ -2469,12 +2469,36 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21556565/?type=app&htype=0"
       },
       {
+        "id": "fcc1219e7e69eafe34ce5155cd4bc9fb",
+        "title": "Derelict Glasgow tenement could double in height under student flats plan",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26626274.plans-double-maryhill-tenements-height-student-flats/",
+        "description": "Plans to double the height of a derelict Maryhill tenement could create 12 student flats and a dental surgery, as Glasgow City Council considers the bid.",
+        "published": "Sun, 11 Oct 2026 13:57:23 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21565196/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/five-things-expect-scotlands-biggest-34748349",
         "title": "Five things to expect as Scotland\u2019s biggest wedding show returns to Glasgow next weekend",
         "link": "https://www.glasgowlive.co.uk/whats-on/five-things-expect-scotlands-biggest-34748349",
         "description": "An exciting day for soon-to-be newlyweds!",
         "published": "Sun, 11 Oct 2026 12:39:21 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34748423.ece/ALTERNATES/s98/0_The-Scottish-Wedding-Show-Live-Band-Showcase.jpg"
+      },
+      {
+        "id": "45b3a06bba556d12bdfd5f00ce8a17bd",
+        "title": "What the rush for winter tee times reveals about Scottish golf's economy",
+        "link": "https://www.heraldscotland.com/news/26625795.scottish-golf-winter-tee-times-demand-remains-strong/",
+        "description": "Scottish Golf has launched its latest winter tee times ballot, offering access to leading courses including Royal Dornoch, Muirfield and Royal Troon",
+        "published": "Sun, 11 Oct 2026 13:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18113190/?type=app&htype=0"
+      },
+      {
+        "id": "140f94076fd261da500fd9106d9353b4",
+        "title": "Man on expired visa held elderly woman, 83, at gunpoint in her home",
+        "link": "https://www.heraldscotland.com/news/26626186.man-admits-holding-83-year-old-woman-gunpoint-thorntonhall-home/",
+        "description": "Chirag Solanki held an 83-year-old Thorntonhall woman at gunpoint during a break-in. The expired-visa holder admitted abduction, assault and burglary.",
+        "published": "Sun, 11 Oct 2026 12:45:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/16674348/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/mum-glasgow-teen-who-took-34748052",
@@ -3235,30 +3259,6 @@
         "description": "The 30-year-old, originally from India, was elected to Holyrood in May",
         "published": "Fri, 09 Oct 2026 12:13:41 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21029824/?type=app&htype=0"
-      },
-      {
-        "id": "5603307",
-        "title": "Dog-friendly Pubs: 26 of the best dog-friendly pubs in Glasgow to take your four-legged friends this weekend",
-        "link": "https://www.glasgowworld.com/lifestyle/food-and-drink/dog-friendly-pubs-glasgow-weekend-9277056",
-        "description": "<p>We take a look at 24 of the best dog-friendly pubs in Glasgow that are ready to welcome you this weekend.</p>",
-        "published": "Fri, 09 Oct 2026 11:12:35 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/02/18/14/31/Screenshot-2026-02-18-145657.jpeg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "99fed1c90506109864c074c7616e1066",
-        "title": "After 21 years, owners put thriving \u00a375,000 business up for sale",
-        "link": "https://www.glasgowtimes.co.uk/news/26622460.stonehouse-dry-cleaning-business-hits-market-75-000/",
-        "description": "A 21-year-old dry cleaning and laundry business in Stonehouse is being offered for sale for \u00a375,000.",
-        "published": "Fri, 09 Oct 2026 12:08:55 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21559158/?type=app&htype=0"
-      },
-      {
-        "id": "f43565fc07960bc14726747807b83002",
-        "title": "Popular rockers adds SECOND Glasgow date on tour amid 'phenomenal demand'",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26622455.keo-add-second-glasgow-date-barrowland-ballroom/",
-        "description": "Keo add second Glasgow date at Barrowland Ballroom",
-        "published": "Fri, 09 Oct 2026 12:08:45 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19032953/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
