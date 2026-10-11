@@ -2453,6 +2453,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "a53b03c756d13d674c3c5dffd447ab93",
+        "title": "'Every good thing that\u2019s happened in my life is because of university'",
+        "link": "https://www.heraldscotland.com/news/26624970.principal-reflects-career-decade-edinburgh/",
+        "description": "Professor Sir Peter Mathieson spoke to The Herald about his career before his controversial tenure at the University of Edinburgh.",
+        "published": "Sun, 11 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21562962/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/pretty-town-hour-glasgow-doorstep-34722498",
         "title": "Pretty town an hour from Glasgow is on doorstep of UK's best walking routes",
         "link": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/pretty-town-hour-glasgow-doorstep-34722498",
@@ -3243,14 +3251,6 @@
         "description": "Glasgow roads Cathedral Square and John Knox Street close from October 12 to October 25 for resurfacing, relining and street lighting works.",
         "published": "Fri, 09 Oct 2026 06:50:18 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21475912/?type=app&htype=0"
-      },
-      {
-        "id": "5062123d94d9a7e515de3ef0700e6945",
-        "title": "Scots free speech U-turn - ethics watchdog backs ban it said was \u2018not justified\u2019",
-        "link": "https://www.heraldscotland.com/news/26620090.greg-lennon-watchdog-reversed-article-10-freedom-speech-position/",
-        "description": "An ethics watchdog concluded that restricting a councillor\u2019s freedom of speech was \u201cnot justified\u201d \u2013 only to reverse its position at his disciplinary hearing and support a decision that ended with him being suspended for two months, The Herald can...",
-        "published": "Fri, 09 Oct 2026 06:34:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21556426/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
