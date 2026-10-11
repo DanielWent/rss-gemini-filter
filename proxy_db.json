@@ -5,6 +5,22 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/sport/athletics/articles/cm4g102vr5q8o#9",
+        "title": "Kipchoge, 41, breaks course record at Melbourne Marathon",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cm4g102vr5q8o?at_medium=RSS&at_campaign=rss",
+        "description": "Double Olympic champion Eliud Kipchoge says \"his body is still peaking\" after winning the Melbourne Marathon in a course record time at the age of 41.",
+        "published": "Sun, 11 Oct 2026 08:19:52 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd9d/live/26fc84c0-c543-11f1-b4f1-2359026a88ee.jpg"
+      },
+      {
+        "id": "1791707111046521",
+        "title": "Lost monastery masonry may have been reused for hospital's drain",
+        "link": "https://www.bbc.co.uk/news/articles/cmeq395p331no?at_medium=RSS&at_campaign=rss",
+        "description": "Archaeologists hope to uncover more fragments of the medieval site in Perth.",
+        "published": "Sun, 11 Oct 2026 10:05:38 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b37/live/ec2bb310-c3e5-11f1-badc-154546719036.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c5vgjm3gk7rzo#2",
         "title": "AI is creating a 'human premium' for art made by people. But will it hold?",
         "link": "https://www.bbc.co.uk/news/articles/c5vgjm3gk7rzo?at_medium=RSS&at_campaign=rss",
@@ -787,22 +803,6 @@
         "description": "Sir Ridley Scott's post-apocalyptic epic explores the feeling of hope in a pandemic-riddled world.",
         "published": "Thu, 27 Aug 2026 23:44:07 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc51/live/ebacb0b0-a207-11f1-b109-879e35c24276.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/athletics/articles/cgmrvyjn1nvo#8",
-        "title": "Werro edges closer to 800m mark as world records fall in Zurich",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/cgmrvyjn1nvo?at_medium=RSS&at_campaign=rss",
-        "description": "European champion Audrey Werro came tantalisingly close to downing the oldest outdoor world record in athletics, finishing a little more than four tenths of a second off Jarmila Kratochvilova's 800m mark.",
-        "published": "Thu, 27 Aug 2026 19:09:26 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6f1/live/9472a550-a254-11f1-a1d7-5567ac89ca4e.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cwyz11475l1o#4",
-        "title": "Google, Microsoft and OpenAI among 100 firms calling for better cyber defences",
-        "link": "https://www.bbc.co.uk/news/articles/cwyz11475l1o?at_medium=RSS&at_campaign=rss",
-        "description": "The letter warns cyber-attacks which use AI will become more sophisticated in a matter of months.",
-        "published": "Thu, 27 Aug 2026 17:01:27 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76e0/live/18ba43f0-a236-11f1-80a2-67c89a95284e.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2469,6 +2469,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21556565/?type=app&htype=0"
       },
       {
+        "id": "9280021",
+        "title": "Derek McInnes explains what 'annoyed' him despite victory over Kilmarnock as half-time Rangers sub clarified",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/derek-mcinnes-on-what-annoyed-him-despite-victory-over-kilmarnock-as-half-time-rangers-substitution-explained-9280021",
+        "description": "<p>Light Blues took their foot off the gas after the break</p>",
+        "published": "Sun, 11 Oct 2026 08:00:35 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/10/20/16/GettyImages-2299550423.jpeg?width=1200&auto=webp&trim=61%2C0%2C61%2C0"
+      },
+      {
         "id": "5e228f7015af4a64cbcaa2658ce55656",
         "title": "From 'disbelief' to fighting back: Craft body chief on university programme closures",
         "link": "https://www.heraldscotland.com/news/education/26622742.craft-scotland-chief-fighting-back-closure-specialist-courses/",
@@ -2563,6 +2571,22 @@
         "description": "Scottish ministers are preparing to publish findings from a maternity triage review as the national taskforce prepares to reconvene despite calls for it to be scrapped.",
         "published": "Sun, 11 Oct 2026 05:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20569965/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo#0",
+        "title": "Northern Lights stun UK with sightings in Orkney and Gourock",
+        "link": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&at_campaign=rss",
+        "description": "The natural phenomenon, known as the Aurora Borealis, is the result of increased solar activity.",
+        "published": "Sat, 10 Oct 2026 20:57:29 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25d5/live/6d932560-c4e9-11f1-900e-31f5a5ac5102.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/sport/football/articles/cqzjx3z4ljr0o#0",
+        "title": "'Reminds me of Muller' - Naderi proving worth in Rangers revival",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cqzjx3z4ljr0o?at_medium=RSS&at_campaign=rss",
+        "description": "After a slow start to his Rangers career, striker Ryan Naderi is playing an integral role in the club's title challenge and proving his doubters wrong.",
+        "published": "Sat, 10 Oct 2026 20:03:56 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fef6/live/96c713a0-c4e5-11f1-82ba-ff1ecf225248.jpg"
       },
       {
         "id": "06c4499a1c0c2d6c4f296562c7b847e1",
@@ -3235,30 +3259,6 @@
         "description": "Plans for a new Speed Queen self-service launderette in Airdrie have emerged after signage was approved by North Lanarkshire Council.",
         "published": "Fri, 09 Oct 2026 11:04:58 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21558620/?type=app&htype=45"
-      },
-      {
-        "id": "f255622715df3ce71a4e6a05a6f08b01",
-        "title": "Glasgow shopping centre hosting week-long Black History Month celebration",
-        "link": "https://www.glasgowtimes.co.uk/news/26621983.buchanan-galleries-hosting-black-history-month-celebration/",
-        "description": "Buchanan Galleries\u00a0is marking Black History Month with a week-long cultural celebration.",
-        "published": "Fri, 09 Oct 2026 11:00:25 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21188809/?type=app&htype=0"
-      },
-      {
-        "id": "149412222bef1bc967c7f6723a41fa5c",
-        "title": "Major news revealed about Glasgow's Christmas light switch-on and markets",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26621882.george-square-christmas-village-announced-glasgow-festive-programme/",
-        "description": "Plans have been unveiled for Glasgow's festive season, with George Square returning to the heart of this year's Christmas celebrations - but there will be no light switch-on event.",
-        "published": "Fri, 09 Oct 2026 10:45:42 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17514360/?type=app&htype=0"
-      },
-      {
-        "id": "00f61dd533060e05d04d6b4baa55a512",
-        "title": "Thousands of rare X-Men and Batman comics found in Glasgow flat go to auction",
-        "link": "https://www.glasgowtimes.co.uk/news/26621772.glasgow-comic-collectors-30-000-comics-go-auction/",
-        "description": "30,000-strong Glasgow comic collection, including rare X-Men and Avengers issues worth thousands, goes to auction on October 20.",
-        "published": "Fri, 09 Oct 2026 10:27:53 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21558441/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
