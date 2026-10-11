@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo#2",
+        "title": "AI is less regulated than milk, says Microsoft president",
+        "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+        "description": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
+        "published": "Sun, 11 Oct 2026 23:07:35 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc1a/live/a75b5120-c40b-11f1-9a39-31b474234113.jpg"
+      },
+      {
         "id": "1791720614221102",
         "title": "Homes and bridges swept away as fresh floods hit Nepal",
         "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The weather in space has the potential to impact our lives here on Earth in a fundamental way.",
         "published": "Fri, 28 Aug 2026 22:44:07 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e397/live/f7594f20-a2bd-11f1-aed2-8d6da8d75094.jpg"
-      },
-      {
-        "id": "1787897408673550",
-        "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
-        "link": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
-        "description": "The performers are asking the government to give every person in the UK a legal right to own their voice.",
-        "published": "Fri, 28 Aug 2026 07:11:16 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a34/live/922d2fb0-a234-11f1-a291-b542ee92de7c.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
