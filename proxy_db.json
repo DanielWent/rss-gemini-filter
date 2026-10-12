@@ -2469,6 +2469,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-street-reopens-three-days-34750423",
+        "title": "Glasgow street reopens three days after major blaze took hold of scrap yard",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-street-reopens-three-days-34750423",
+        "description": "No casualties have been reported and police say the fire is not being treated as 'wilful'.",
+        "published": "Mon, 12 Oct 2026 08:26:42 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34745537.ece/ALTERNATES/s98/0_Screenshot-82.png"
+      },
+      {
         "id": "9281063",
         "title": "Michael Nicholson accused of hanging key Celtic figure out to dry as silence amid Dermot Desmond row blasted",
         "link": "https://www.glasgowworld.com/sport/football/celtic/michael-nicholson-accused-of-hanging-key-celtic-figure-out-to-dry-9281063",
@@ -2477,12 +2485,28 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/12/8/49/GettyImages-2295012484.jpg?width=1200&auto=webp&trim=25%2C0%2C26%2C0"
       },
       {
+        "id": "bfd67e0e2c93955266040cd262e6883d",
+        "title": "A legendary UK ska band split in two \u2014 but which version had the magic in Scotland",
+        "link": "https://www.heraldscotland.com/life_style/26626874.review-beat-barrowland-glasgow/",
+        "description": "Dave Wakeling performs classic British ska hits at Barrowland in Glasgow as the front man of The Beat. Read our review discussing the enduring legacy of a legendary band.",
+        "published": "Mon, 12 Oct 2026 09:09:50 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21566531/?type=app&htype=0"
+      },
+      {
         "id": "05cabb3c1ada586f6e87411f34e49ad3",
         "title": "LIVE updates as Glasgow train services disrupted amid emergency incident",
         "link": "https://www.glasgowtimes.co.uk/news/26626859.live-updates-glasgow-train-services-disrupted-amid-emergency/",
         "description": "Glasgow train services are being disrupted amid an ongoing emergency incident.",
         "published": "Mon, 12 Oct 2026 09:05:11 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21566448/?type=app&htype=0"
+      },
+      {
+        "id": "11d1eb66bce93455db4b8f365fd700b3",
+        "title": "Glasgow MSP calls for \u00a32 fare cap to include night buses",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26626843.glasgow-msp-calls-2-bus-fare-cap-include-night-buses/",
+        "description": "The Scottish Greens MSP Holly Bruce is calling for the \u00a32 bus fare cap to apply to night buses in Strathclyde.",
+        "published": "Mon, 12 Oct 2026 09:01:19 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21426412/?type=app&htype=0"
       },
       {
         "id": "9280950",
@@ -3243,30 +3267,6 @@
         "description": "Glasgow Taxi's introduces meter pricing guarantee for journey's within the city.",
         "published": "Fri, 09 Oct 2026 15:18:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21559436/?type=app&htype=0"
-      },
-      {
-        "id": "c66f61c37529d1b3d8466fdd8a41882f",
-        "title": "Major town centre car park and footbridges to close for good",
-        "link": "https://www.glasgowtimes.co.uk/news/26623583.cumbernauld-town-centre-car-park-footbridges-permanently-close/",
-        "description": "A car park and two pedestrian footbridges at The Centre Cumbernauld will permanently close from Monday, November 2.",
-        "published": "Fri, 09 Oct 2026 15:14:01 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21560923/?type=app&htype=182"
-      },
-      {
-        "id": "c66bf49f84365774a869bfbd4f734df7",
-        "title": "BBC pulls Still Game episode from iPlayer after actor's child sex offences plea",
-        "link": "https://www.glasgowtimes.co.uk/entertainment/tv_radio/26623507.bbc-removes-still-game-episode-iplayer-actor-guilty-plea/",
-        "description": "BBC removes Still Game episode Recipe from iPlayer after actor Eric Potts pleaded guilty at court to making and distributing indecent images of children.",
-        "published": "Fri, 09 Oct 2026 15:04:12 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21560718/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-airport-offers-one-hour-34742343",
-        "title": "Glasgow Airport offers one hour free parking for these passengers",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-airport-offers-one-hour-34742343",
-        "description": "Little-known rule means certain passengers get free parking and discounted Priority Security",
-        "published": "Fri, 9 Oct 2026 13:26:26 +0000",
-        "image_url": "https://i2-prod.liverpoolecho.co.uk/incoming/article34742382.ece/ALTERNATES/s98/0_GettyImages-2157973651.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
