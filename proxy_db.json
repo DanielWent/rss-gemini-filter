@@ -1850,6 +1850,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "893051934e4ba170623774cd44fcb2ee",
+        "title": "115 postcodes left without electricity as residents face third day of power cuts",
+        "link": "https://www.glasgowtimes.co.uk/news/26627092.milngavie-power-cut-reaches-third-day-115-postcodes-hit/",
+        "description": "Parts of Milngavie are affected by an ongoing power cut, with 115 postcodes listed and ScottishPower extending the estimated restoration time.",
+        "published": "Mon, 12 Oct 2026 09:50:55 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21150424/?type=app&htype=0"
+      },
+      {
         "id": "c3027a572526719180835cdcd3c8963c",
         "title": "Northern Lights dazzle Greater Glasgow as aurora set to return tonight",
         "link": "https://www.glasgowtimes.co.uk/news/weather/26626336.glasgow-northern-lights-captured-stunning-photos/",
@@ -2468,6 +2476,38 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "183500b8095ced2747c6902ea3850ee3",
+        "title": "New floating island installed on River Clyde to boost water quality and biodiversity",
+        "link": "https://www.glasgowtimes.co.uk/news/26627144.new-floating-island-installed-clyde-boost-wildlife/",
+        "description": "A new floating island on the River Clyde was unveiled in Glasgow on October 9 by RSE and Biomatrix Water, improving water quality and boosting biodiversity.",
+        "published": "Mon, 12 Oct 2026 10:00:32 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21566829/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=532763",
+        "title": "Inquiry into death of former Celtic scout who abused boy at Hampden",
+        "link": "https://news.stv.tv/west-central/inquiry-into-death-of-former-celtic-scout-who-abused-boy-at-hampden",
+        "description": "Kenneth Divers, a former teacher and football coach, died in hospital last year while a prisoner at HMP Low Moss",
+        "published": "Mon, 12 Oct 2026 08:59:46 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/9295b01ba9e98bb29cda6b108b89b3db-1791794568-1120x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/thousands-xl-bullies-still-uk-34750608",
+        "title": "Thousands of XL Bullies still in UK - new law from November 1",
+        "link": "https://www.glasgowlive.co.uk/news/thousands-xl-bullies-still-uk-34750608",
+        "description": "Tens of thousands of people are still thought to own an XL Bully",
+        "published": "Mon, 12 Oct 2026 08:53:52 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/article34750607.ece/ALTERNATES/s98/0_A-large-friendly-puppy-dog-wearing-a-harness-looks-at-the-camera.jpg"
+      },
+      {
+        "id": "893051934e4ba170623774cd44fcb2ee",
+        "title": "115 postcodes left without electricity as residents face third day of power cuts",
+        "link": "https://www.glasgowtimes.co.uk/news/26627092.milngavie-power-cut-reaches-third-day-115-postcodes-hit/",
+        "description": "Parts of Milngavie are affected by an ongoing power cut, with 115 postcodes listed and ScottishPower extending the estimated restoration time.",
+        "published": "Mon, 12 Oct 2026 09:50:55 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21150424/?type=app&htype=0"
+      },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-street-reopens-three-days-34750423",
         "title": "Glasgow street reopens three days after major blaze took hold of scrap yard",
@@ -3235,38 +3275,6 @@
         "description": "A signalling fault at Kilwinning has caused services from Glasgow Central to Ayr, Ardrossan Harbour and Largs to be delayed or revised.",
         "published": "Fri, 09 Oct 2026 15:57:52 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17651420/?type=app&htype=0"
-      },
-      {
-        "id": "7d13d6b3a674490ec6069ab472bca3e7",
-        "title": "Hidden 'uranium hotspot' discovered beneath Aberdeen by researchers",
-        "link": "https://www.heraldscotland.com/news/26623808.hidden-uranium-hotspot-discovered-beneath-aberdeen/",
-        "description": "A hidden 'uranium hotspot' has been discovered beneath Aberdeen by University of Aberdeen researchers - shedding new light on the geological history of the region.",
-        "published": "Fri, 09 Oct 2026 15:40:17 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/18001207/?type=app&htype=0"
-      },
-      {
-        "id": "7566a57c0555ff0ef76ff7edb6de62db",
-        "title": "Mystery surrounds theft of lorry carrying 41,000 bottles of Irn-Bru",
-        "link": "https://www.glasgowtimes.co.uk/news/26623702.41-000-bottles-irn-bru-stolen-lorry-theft-cumbernauld/",
-        "description": "A lorry carrying 41,000 bottles of Irn-Bru has been stolen.",
-        "published": "Fri, 09 Oct 2026 15:38:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21560939/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=532579",
-        "title": "Easyjet passengers \u2018abandoned\u2019 at airport after Edinburgh flight diverted to Glasgow",
-        "link": "https://news.stv.tv/west-central/easyjet-passengers-abandoned-at-airport-after-edinburgh-flight-diverted-to-glasgow",
-        "description": "Passengers were left to make their own way home after landing at Edinburgh Airport instead of Glasgow in the middle of the night",
-        "published": "Fri, 09 Oct 2026 14:36:35 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/05/c385454b5eec7f7391c7fe9b60f4562d-1778592549-1280x720.jpeg"
-      },
-      {
-        "id": "62c623dfba1eb3ae3f5c14480c428127",
-        "title": "Glasgow Taxi has introduced a new pricing system for journeys within the city.",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26622634.glasgow-taxis-introduce-meter-guarantee-city-journeys/",
-        "description": "Glasgow Taxi's introduces meter pricing guarantee for journey's within the city.",
-        "published": "Fri, 09 Oct 2026 15:18:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21559436/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
