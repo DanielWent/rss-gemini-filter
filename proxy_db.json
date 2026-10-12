@@ -2469,6 +2469,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9b042954c0a87567317ab2ea07bbd046",
+        "title": "FAI begins into death of former football coach jailed for abusing boys in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26626741.fai-begins-death-kenneth-divers-jailed-abusing-boys/",
+        "description": "FAI begins into death of Low Moss prisoner Kenneth Divers.",
+        "published": "Mon, 12 Oct 2026 08:05:52 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21566294/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/listed-glasgow-church-hall-near-34743195",
         "title": "Listed Glasgow church hall near Tennent's brewery could be knocked down for flats",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/listed-glasgow-church-hall-near-34743195",
@@ -2483,6 +2491,14 @@
         "description": "Goodburn was diagnosed with brain cancer when he was 22",
         "published": "Mon, 12 Oct 2026 06:00:21 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/001bffc32ecb69b1b36dd497471e4dce-1791784642-1280x720.jpeg"
+      },
+      {
+        "id": "e9ac440408f8d45285b50a1dd585470c",
+        "title": "Push for independence has 'turned a corner', Swinney claims",
+        "link": "https://www.heraldscotland.com/news/26626682.push-independence-turned-corner---john-swinney/",
+        "description": "The push for Scottish independence has \u201cturned a corner\u201d, John Swinney has claimed.",
+        "published": "Mon, 12 Oct 2026 06:58:39 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21566199/?type=app&htype=0"
       },
       {
         "id": "481954aa70a918ab333b63c6d6da36c6",
@@ -3251,22 +3267,6 @@
         "description": "A planning application has been submitted to East Dunbartonshire Council for a site in Kirkintilloch.",
         "published": "Fri, 09 Oct 2026 14:19:56 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21560284/?type=app&htype=0"
-      },
-      {
-        "id": "0d6781ab153b0140d94b9aafc22c188d",
-        "title": "Star of US Office bidding to become new rector of St Andrews University",
-        "link": "https://www.heraldscotland.com/news/26623134.us-office-star-bidding-become-new-rector-st-andrews-uni/",
-        "description": "An actor best known for playing Kevin Malone in the US version of The Office is among the candidates seeking to become the next Rector of the University of St\u00a0Andrews.",
-        "published": "Fri, 09 Oct 2026 14:05:41 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21560383/?type=app&htype=0"
-      },
-      {
-        "id": "836fb184238b1fa4c0b0bbf56d092fed",
-        "title": "Nickelback announce huge world tour with stop at Glasgow's OVO Hydro",
-        "link": "https://www.glasgowtimes.co.uk/news/26623119.nickelback-announce-glasgow-hydro-date-2027-world-tour/",
-        "description": "Nickelback have announced a Glasgow OVO Hydro show as part of a huge new world tour. Find out when tickets go on sale and how to secure seats",
-        "published": "Fri, 09 Oct 2026 14:03:33 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21560415/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
