@@ -991,6 +991,46 @@
     "description": "AI Filtered Google Blog Sports, Wearables & Health Metrics.",
     "articles": [
       {
+        "id": "https://blog.google/products-and-platforms/products/google-health/google-health-partnership-athletes-creators/",
+        "title": "From game days to daily life: The familiar faces teaming up with Google Health",
+        "link": "https://blog.google/products-and-platforms/products/google-health/google-health-partnership-athletes-creators/",
+        "description": "<p><img alt=\"thumbnail\" src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Olive_Active_Lifestyle_Strength.max-600x600.format-webp.webp\" /></p>TBD",
+        "published": "Mon, 12 Oct 2026 13:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Olive_Active_Lifestyle_Strength.max-600x600.format-webp.webp"
+      },
+      {
+        "id": "https://blog.google/products-and-platforms/products/google-health/commitment-womens-health-flo-health-partnership/",
+        "title": "We\u2019re partnering with Flo Health to elevate women\u2019s health",
+        "link": "https://blog.google/products-and-platforms/products/google-health/commitment-womens-health-flo-health-partnership/",
+        "description": "<p><img alt=\"thumbnail\" src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Redefining_Reproductive_Wellnes.max-600x600.format-webp.webp\" /></p>Two women laughing together",
+        "published": "Mon, 12 Oct 2026 13:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Redefining_Reproductive_Wellnes.max-600x600.format-webp.webp"
+      },
+      {
+        "id": "https://blog.google/products-and-platforms/products/google-health/fitbit-google-health-updates/",
+        "title": "How we\u2019re making Google Health and Fitbit Air smarter than ever",
+        "link": "https://blog.google/products-and-platforms/products/google-health/fitbit-google-health-updates/",
+        "description": "<p><img alt=\"thumbnail\" src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Metal_Mesh_Band.max-600x600.format-webp.webp\" /></p>The photo shows Fitbit Air with a Metal Mesh band.",
+        "published": "Mon, 12 Oct 2026 13:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Metal_Mesh_Band.max-600x600.format-webp.webp"
+      },
+      {
+        "id": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge/",
+        "title": "Google Fitbit Edge: Our all-new smartest fitness tracker ever",
+        "link": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge/",
+        "description": "<p><img alt=\"thumbnail\" src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fitbit_Edge_thumb.max-600x600.format-webp.webp\" /></p>Fitbit Edge overview video",
+        "published": "Mon, 12 Oct 2026 13:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fitbit_Edge_thumb.max-600x600.format-webp.webp"
+      },
+      {
+        "id": "https://blog.google/products-and-platforms/products/google-health/google-health-updates/",
+        "title": "Google Health: Evolving so you can focus on living better",
+        "link": "https://blog.google/products-and-platforms/products/google-health/google-health-updates/",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_health_fitbit_edge_blog.max-600x600.format-webp.webp\" />What\u2019s new from Google Health: Explore the new Fitbit Edge, expanded workout tracking, and dedicated women's health insights.",
+        "published": "Mon, 12 Oct 2026 13:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_health_fitbit_edge_blog.max-600x600.format-webp.webp"
+      },
+      {
         "id": "https://blog.google/products-and-platforms/products/google-health/pixel-watch-health-guardian/",
         "title": "Track subtle changes in your body with Health Guardian features on Pixel and Fitbit",
         "link": "https://blog.google/products-and-platforms/products/google-health/pixel-watch-health-guardian/",
@@ -1890,6 +1930,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "1f9b7c1b1b30934206f6180c766a61a2",
+        "title": "Police appeal after car damaged outside award-winning restaurant near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26628800.car-damaged-outside-elements-restaurant-bearsden-police-appeal/",
+        "description": "Police are appealing for information after the wing mirrors of a Ford Fiesta were damaged outside Elements restaurant in Bearsden.",
+        "published": "Mon, 12 Oct 2026 14:18:55 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20654058/?type=app&htype=0"
+      },
+      {
         "id": "69ffd4df466d494aabedbb34abded116",
         "title": "Emotional farewell to much-loved Asda worker retiring at 82 after 30 years",
         "link": "https://www.glasgowtimes.co.uk/news/26627154.bearsden-asda-worker-retires-aged-82-30-years/",
@@ -2524,6 +2572,22 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://news.stv.tv/?p=532803",
+        "title": "Care worker who abused, mocked and threatened vulnerable residents struck off",
+        "link": "https://news.stv.tv/west-central/care-worker-who-abused-mocked-and-threatened-vulnerable-residents-struck-off",
+        "description": "Catherine Hepburn was heard calling one resident a 'big baby' and another a 'dirty dog'",
+        "published": "Mon, 12 Oct 2026 13:39:24 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/fc5322ae7779ebabdb0821488ffb6592-1791809155-1280x720.jpeg"
+      },
+      {
+        "id": "1f9b7c1b1b30934206f6180c766a61a2",
+        "title": "Police appeal after car damaged outside award-winning restaurant near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26628800.car-damaged-outside-elements-restaurant-bearsden-police-appeal/",
+        "description": "Police are appealing for information after the wing mirrors of a Ford Fiesta were damaged outside Elements restaurant in Bearsden.",
+        "published": "Mon, 12 Oct 2026 14:18:55 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20654058/?type=app&htype=0"
+      },
       {
         "id": "d9a31a06d9a80af69560c9872046c555",
         "title": "Sensory bus created in memory of six-year-old girl arrives at Silverburn",
@@ -3307,22 +3371,6 @@
         "description": "Glasgow MSPs have raised several questions on issues including student accommodation, homelessness, health and benefits for young people.",
         "published": "Sat, 10 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20894139/?type=app&htype=0"
-      },
-      {
-        "id": "52544bf3fa31c45add5b8eed16267ab4",
-        "title": "Drug dealing ex Glasgow cop busted after asking Chat GPT how to hide smells",
-        "link": "https://www.glasgowtimes.co.uk/news/26620225.drug-dealing-glasgow-cop-asked-chat-gpt-hide-smells/",
-        "description": "Former police officer Dilexan Aloysious admits drug dealing after three stops in Glasgow and Lanarkshire uncovered cocaine, cannabis and crack cocaine.",
-        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21244705/?type=app&htype=0"
-      },
-      {
-        "id": "13802fa97ae9a0fa16c614b8b45c520a",
-        "title": "Botanic Gardens 'not suitable' for GlasGLOW, community council claims",
-        "link": "https://www.glasgowtimes.co.uk/news/26620527.glasglow-criticised-litter-gatecrashers-park-damage-fears/",
-        "description": "People gaining entry without paying, litter on the streets and environmental damage to a park are some of the complaints made against an annual Halloween event",
-        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21252688/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
