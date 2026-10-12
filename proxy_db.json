@@ -1089,6 +1089,14 @@
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
       {
+        "id": "https://the5krunner.com/?p=136802",
+        "title": "Indie App Spotlight: GMT fixes the Garmin second time zone that goes wrong",
+        "link": "https://the5krunner.com/2026/10/12/gmt-garmin-watch-face-second-time-zone-summer-time/",
+        "description": "<p><img alt=\"GMT fixes the Garmin second time zone that goes wrong\" class=\"attachment-large size-large\" height=\"694\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/gmt-older-garmin-watches.jpg/w=1110,h=694\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>GMT carries the summer time rules for 50 cities inside the watch face, so a Garmin's second time zone changes by itself when the clocks do, even on a 2017 Fenix 5. Glass Cards and Terminal use the same rules.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/12/gmt-garmin-watch-face-second-time-zone-summer-time/\">Indie App Spotlight: GMT fixes the Garmin second time zone that goes wrong</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Mon, 12 Oct 2026 16:17:31 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/gmt-older-garmin-watches.jpg/w=1110,h=694"
+      },
+      {
         "id": "https://the5krunner.com/?p=136488",
         "title": "#16 Deep Dive Feature Files: Week Ending 10 October 2026",
         "link": "https://the5krunner.com/2026/10/10/16-deep-dive-feature-files-week-ending-10-october-2026/",
@@ -1930,6 +1938,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "2748b9826c6a6746736544c6a2997b0c",
+        "title": "Beloved event in memory of murdered Glasgow woman to return to city park",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26629451.moiras-run-returns-glasgows-queens-park-13th-year/",
+        "description": "The thirteenth Moira\u2019s Run is taking place at Glasgow\u2019s Queen\u2019s Park on October 18, raising funds for The Moira Fund and families bereaved by crime.",
+        "published": "Mon, 12 Oct 2026 15:55:45 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21570463/?type=app&htype=0"
+      },
+      {
         "id": "e27f656bd491f089457ada17ab6e0dfe",
         "title": "Next stage of controversial plans for historic property moves forward",
         "link": "https://www.glasgowtimes.co.uk/news/26628964.historic-east-dunbartonshire-site-faces-fresh-planning-move/",
@@ -2581,12 +2597,52 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "d8b71ea12aa8f4399ea262840a7f1195",
+        "title": "The Glasgow street where drivers are most likely to get a parking ticket revealed",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26629945.glasgow-parking-streets-recording-highest-number-fines/",
+        "description": "Sauchiehall Street has emerged as Glasgow's top parking fine hotspot, with more than 2,200 tickets issued in just five months, according to new figures obtained by The Herald.",
+        "published": "Mon, 12 Oct 2026 17:13:03 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17473836/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-truck-driver-couldve-been-34753597",
+        "title": "Glasgow truck driver \u2018could\u2019ve been killed\u2019 as teens \u2018throw bricks\u2019 from M8 footbridge",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-truck-driver-couldve-been-34753597",
+        "description": "&quot;I can only describe the smile on his face as evil. He had this big rock, and he just kind of dropped it right off the side, right in front of me.&quot;",
+        "published": "Mon, 12 Oct 2026 16:06:43 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34754634.ece/ALTERNATES/s98/1_Cammy.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-polish-store-can-sell-34754493",
+        "title": "Glasgow Polish store can sell alcohol despite community concerns over underage drinking",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-polish-store-can-sell-34754493",
+        "description": "Yoker Community Council objected to the application due to fears over young people drinking in the area.",
+        "published": "Mon, 12 Oct 2026 15:59:59 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34116532.ece/ALTERNATES/s98/0_Beer-cans-close-up.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/booze-bid-glasgow-building-used-34754437",
+        "title": "Booze bid for Glasgow building used by alcohol support charity rejected",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/booze-bid-glasgow-building-used-34754437",
+        "description": "Murray's Initiative urged the city's licensing board to throw out a bid for a convenience store's bid for an alcohol licence.",
+        "published": "Mon, 12 Oct 2026 15:59:02 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34754426.ece/ALTERNATES/s98/0_rbscliftonplace.png"
+      },
+      {
         "id": "https://news.stv.tv/?p=532891",
         "title": "Family of barman Daniel Colrain who died after city centre assault \u2018overwhelmed\u2019 as \u00a330,000 raised",
         "link": "https://news.stv.tv/west-central/family-of-barman-daniel-colrain-who-died-after-city-centre-assault-overwhelmed-as-30000-raised",
         "description": "Daniel Colrain, 21, died in hospital after being assaulted at Royal Exchange Square in the early hours of Sunday, October 4.",
         "published": "Mon, 12 Oct 2026 15:37:36 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/e25eab9764c96cb7b1978686daf09bec-1791817179.jpeg"
+      },
+      {
+        "id": "d814ad1ff246600669d55380a8c425a9",
+        "title": "New details revealed for 5-star luxury castle expansion near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26629731.crossbasket-castle-plans-reveal-next-phase-luxury-expansion/",
+        "description": "Crossbasket Castle in High Blantyre submits plans to South Lanarkshire Council for bedrooms, spa, riverside cabins and kitchen gardens in estate expansion.",
+        "published": "Mon, 12 Oct 2026 16:35:47 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21406642/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-banned-football-matches-after-34754110",
@@ -3339,46 +3395,6 @@
         "description": "Talks over the sale of council-owned land to the owners of Wunderbar in Glasgow\u2019s West End have been approved, despite concerns over a \u201cwild leap\u201d from a beer garden to plans to build flats.",
         "published": "Sun, 11 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21182290/?type=app&htype=0"
-      },
-      {
-        "id": "4fd90a471e4176d2747a770fa7135cb2",
-        "title": "Glasgow's 'eyesore' phone boxes disappearing - but councillors want more gone",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26622055.eyesore-phone-boxes-disappearing-councillors-want-gone/",
-        "description": "'Eyesore' phone boxes in Glasgow are disappearing - but councillors want more gone",
-        "published": "Sun, 11 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21093105/?type=app&htype=0"
-      },
-      {
-        "id": "0b8c024918c641eca9cbb7036021cf1e",
-        "title": "Councillor warns animated roadside adverts could distract drivers near schools",
-        "link": "https://www.glasgowtimes.co.uk/news/26624187.councillor-raised-concerns-animated-roadside-signs/",
-        "description": "Councillor Ken Andrew raised concerns over animated roadside advertising signs distracting drivers, particularly near schools.",
-        "published": "Sun, 11 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19277680/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/pretty-town-hour-glasgow-doorstep-34722498",
-        "title": "Pretty town an hour from Glasgow is on doorstep of UK's best walking routes",
-        "link": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/pretty-town-hour-glasgow-doorstep-34722498",
-        "description": "This beautiful location, around an hour from Glasgow, has drawn praise for its scenic walks, cosy tea shops and history. So would you ever visit for a staycation?",
-        "published": "Sun, 11 Oct 2026 04:43:00 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/whats-on/article34722497.ece/ALTERNATES/s98/0_Callander.jpg"
-      },
-      {
-        "id": "3b3d732c726bb5d24cf8841b7768761c",
-        "title": "Scotland maternity triage findings expected as taskforce prepares to reconvene",
-        "link": "https://www.heraldscotland.com/news/26623012.scotland-maternity-triage-review-findings-due-soon-amid-scrutiny/",
-        "description": "Scottish ministers are preparing to publish findings from a maternity triage review as the national taskforce prepares to reconvene despite calls for it to be scrapped.",
-        "published": "Sun, 11 Oct 2026 05:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20569965/?type=app&htype=0"
-      },
-      {
-        "id": "06c4499a1c0c2d6c4f296562c7b847e1",
-        "title": "Glasgow ceremony honours volunteers who fought fascism in Spain",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26625525.crowds-honour-spanish-civil-war-volunteers-glasgow/",
-        "description": "Glasgow crowds honour International Brigade volunteers at the La Pasionaria memorial on Clyde Street, marking those who fought fascism in Spain on October 10.",
-        "published": "Sat, 10 Oct 2026 16:43:42 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21563659/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
