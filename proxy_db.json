@@ -2469,6 +2469,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=532716",
+        "title": "Plea for brain tumour research funding as PM to meet with Archie Goodburn",
+        "link": "https://news.stv.tv/west-central/plea-for-brain-tumour-research-funding-as-pm-to-meet-with-archie-goodburn",
+        "description": "Goodburn was diagnosed with brain cancer when he was 22",
+        "published": "Mon, 12 Oct 2026 06:00:21 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/001bffc32ecb69b1b36dd497471e4dce-1791784642-1280x720.jpeg"
+      },
+      {
         "id": "3338ee30b85a6a54a2d8002c1bdbffc2",
         "title": "I was inspired by Six and Hamilton to write a musical about Glasgow's witches",
         "link": "https://www.glasgowtimes.co.uk/news/26620295.new-musical-brings-glasgows-pollok-witches-story-stage/",
@@ -3259,14 +3267,6 @@
         "description": "Nickelback have announced a Glasgow OVO Hydro show as part of a huge new world tour. Find out when tickets go on sale and how to secure seats",
         "published": "Fri, 09 Oct 2026 14:03:33 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21560415/?type=app&htype=0"
-      },
-      {
-        "id": "07df8f4790ddb959a4e006582e25b18f",
-        "title": "Eight Glasgow restaurants named finalists in 2026 'Curry Oscars'",
-        "link": "https://www.glasgowtimes.co.uk/news/26623064.eight-glasgow-restaurants-named-finalists-2026-curry-oscars/",
-        "description": "Eight Glasgow restaurants have been named finalists in the esteemed 'Curry Oscars' for 2026",
-        "published": "Fri, 09 Oct 2026 13:54:23 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20628683/?type=app&htype=111"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
