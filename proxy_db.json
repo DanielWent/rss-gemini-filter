@@ -2605,6 +2605,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c6zxj8grer7ro#0",
+        "title": "Student who spells by blinking is denied chance to sit exam",
+        "link": "https://www.bbc.co.uk/news/articles/c6zxj8grer7ro?at_medium=RSS&at_campaign=rss",
+        "description": "Romi Loffler is battling to take her history exam with reasonable adjustments allowing for her condition.",
+        "published": "Mon, 12 Oct 2026 21:58:02 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb46/live/74567f50-c3c7-11f1-8fc5-335d62f6730b.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=532938",
         "title": "Plans to transform 118-year-old building into flats given green light",
         "link": "https://news.stv.tv/west-central/plans-to-transform-118-year-old-building-into-flats-given-green-light",
@@ -2619,14 +2627,6 @@
         "description": "A protest to \u2018Reclaim the Night' heard that women are no longer tolerating violence and cuts to services.",
         "published": "Mon, 12 Oct 2026 20:18:24 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21571426/?type=app&htype=0"
-      },
-      {
-        "id": "0b8f47e4716154933454ddc4a0956f2d",
-        "title": "Alcohol licence bid rejected for shop in same building as addiction support charity",
-        "link": "https://www.heraldscotland.com/news/26630197.alcohol-licence-store-beside-glasgow-addiction-charity-rejected/",
-        "description": "Glasgow licensing board rejects a Finnieston convenience store\u2019s alcohol licence bid after Murray\u2019s Initiative warned it could threaten recovery support.",
-        "published": "Mon, 12 Oct 2026 20:13:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21571407/?type=app&htype=0"
       },
       {
         "id": "083ec5861b60f51cfab0df50d7d14e1d",
