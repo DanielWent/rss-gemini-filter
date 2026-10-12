@@ -2469,12 +2469,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/listed-glasgow-church-hall-near-34743195",
+        "title": "Listed Glasgow church hall near Tennent's brewery could be knocked down for flats",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/listed-glasgow-church-hall-near-34743195",
+        "description": "Plans state the demolition of the old United Presbyterian church hall on Duke Street is a &quot;last resort&quot;.",
+        "published": "Mon, 12 Oct 2026 06:20:18 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34743199.ece/ALTERNATES/s98/0_wellparkflats.png"
+      },
+      {
         "id": "https://news.stv.tv/?p=532716",
         "title": "Plea for brain tumour research funding as PM to meet with Archie Goodburn",
         "link": "https://news.stv.tv/west-central/plea-for-brain-tumour-research-funding-as-pm-to-meet-with-archie-goodburn",
         "description": "Goodburn was diagnosed with brain cancer when he was 22",
         "published": "Mon, 12 Oct 2026 06:00:21 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/001bffc32ecb69b1b36dd497471e4dce-1791784642-1280x720.jpeg"
+      },
+      {
+        "id": "481954aa70a918ab333b63c6d6da36c6",
+        "title": "Herald obituaries: Francois Foucart the 'father of physical fitness in Glasgow'",
+        "link": "https://www.heraldscotland.com/news/homenews/26620884.obituary-francois-foucart-father-physical-fitness-glasgow/",
+        "description": "Obituary of Fran\u00e7ois Foucart, fencing and gymnastics master who accompanied Napoleon in Russia and died in Glasgow, Scotland, after 40 years there.",
+        "published": "Mon, 12 Oct 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21557024/?type=app&htype=0"
       },
       {
         "id": "3338ee30b85a6a54a2d8002c1bdbffc2",
@@ -2893,14 +2909,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17153730/?type=app&htype=0"
       },
       {
-        "id": "72e9f298449827b3cd74fec2de7521c7",
-        "title": "Residents of Glasgow area 'have had enough' of antisocial behaviour, MP warns",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26625303.glasgow-mp-warns-antisocial-behaviour-barmulloch/",
-        "description": "Glasgow North East MP Maureen Burke says Barmulloch residents face antisocial behaviour, fireworks and car damage, with police patrols planned for October.",
-        "published": "Sat, 10 Oct 2026 13:48:05 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21563330/?type=app&htype=0"
-      },
-      {
         "id": "5219f6bcd1ee9c98a6ba2be1eef16e8f",
         "title": "Glasgow residents warned of water disruption after burst main on busy road",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26625277.burst-water-main-disrupts-supplies-glasgows-southside/",
@@ -3067,14 +3075,6 @@
         "description": "Scottish Liberal Democrats will debate free, barrier-free exam access for home-educated pupils as numbers in Scotland rise by 79%, calling for a new framework.",
         "published": "Sat, 10 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21261995/?type=app&htype=0"
-      },
-      {
-        "id": "0dcb8efa678d4907dc1e056995bb31de",
-        "title": "University's arts closures will disproportionately affect women, warns craft body",
-        "link": "https://www.heraldscotland.com/news/26622847.edinburgh-college-art-cuts-criticised-impact-women/",
-        "description": "Ms Kernan questioned whether Edinburgh University management had carried out an equality impact assessment prior to making the decision to close the programmes.",
-        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20900118/?type=app&htype=0"
       },
       {
         "id": "8cca9a3cd90367c26bf27673f98c5e8c",
