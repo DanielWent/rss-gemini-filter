@@ -2477,6 +2477,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=532812",
+        "title": "Man seriously injured following attack at Bellshill property as two charged",
+        "link": "https://news.stv.tv/west-central/man-seriously-injured-following-attack-at-bellshill-property-as-two-charged",
+        "description": "A man and a woman have been charged in connection with perverting the course of justice following the incident in Bellshill",
+        "published": "Mon, 12 Oct 2026 11:04:31 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/73c9d8cb2033b2fc44b26af5e500fdd7-1791800725-1280x720.jpeg"
+      },
+      {
+        "id": "9281101",
+        "title": "Celtic 'on alert' for Everton hero as behind the scenes decision breeds uncertain Toffees future",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-on-alert-for-everton-hero-amid-uncertain-toffees-future-as-owners-looks-to-sell-up-for-10-figure-fee-9281101",
+        "description": "<p>Former Sunderland, Manchester United and West Ham mentor could be considered for Hoops return</p>",
+        "published": "Mon, 12 Oct 2026 11:00:55 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/12/9/23/GettyImages-2298521241.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
         "id": "9281441",
         "title": "Glasgow Fire: Fire crews spend third day at fire hit scrapyard in Scotstoun",
         "link": "https://www.glasgowworld.com/news/glasgow-fire-fire-crews-spent-third-day-at-fire-hit-scrapyard-in-scotstoun-9281441",
@@ -3259,22 +3275,6 @@
         "description": "An East End Housing Association says residents felt \"threatened and intimidated\" by a masked mob which charged through the area this week",
         "published": "Fri, 09 Oct 2026 18:51:27 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20702983/?type=app&htype=0"
-      },
-      {
-        "id": "5f78a362ccbafc86346a2c68074e91c0",
-        "title": "Council approves plans to begin restoring Springburn Winter Gardens",
-        "link": "https://www.heraldscotland.com/news/26624614.springburn-winter-gardens-revamp-gets-council-approval/",
-        "description": "A major milestone has been reached in the 13-year fight to save the derelict Springburn Winter Gardens.",
-        "published": "Fri, 09 Oct 2026 18:07:01 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21562434/?type=app&htype=0"
-      },
-      {
-        "id": "9278705",
-        "title": "Martin O'Neill saddened by latest Celtic fan protest as verdict on Dermot Desmond St Andrews incident issued",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/martin-oneill-saddened-by-celtic-fan-protest-as-hoops-boss-issues-verdict-on-dermot-desmond-st-andrews-incident-9278705",
-        "description": "<p>Hoops boss condemned events off the field</p>",
-        "published": "Fri, 09 Oct 2026 17:00:31 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/09/15/10/GettyImages-2295020148.jpeg?width=1200&auto=webp&trim=222%2C0%2C222%2C0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
