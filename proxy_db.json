@@ -2477,6 +2477,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9281441",
+        "title": "Glasgow Fire: Fire crews spend third day at fire hit scrapyard in Scotstoun",
+        "link": "https://www.glasgowworld.com/news/glasgow-fire-fire-crews-spent-third-day-at-fire-hit-scrapyard-in-scotstoun-9281441",
+        "description": "<p>Fire crews have remained in attendance at a fire in the Scotstoun area of Glasgow for the third day in a row, with crews continuing to dampen down hot spots at the site of the blaze.</p>",
+        "published": "Mon, 12 Oct 2026 09:57:04 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/10/8/45/843475248_29577483965188276_2374519464876043067_n.jpeg?width=1200&auto=webp&trim=39%2C0%2C40%2C0"
+      },
+      {
+        "id": "bd489cbeabcd736114e0be2bd2ff1121",
+        "title": "Glasgow's new Nelson Mandela statue 'coned' within days as debate erupts",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26627449.nelson-mandela-statue-glasgow-coned-days-unveiling/",
+        "description": "Nelson Mandela statue in Glasgow is \u2018coned\u2019 days after unveiling, reviving the Duke of Wellington tradition and sparking debate over the Mandela memorial.",
+        "published": "Mon, 12 Oct 2026 10:48:13 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21567326/?type=app&htype=0"
+      },
+      {
         "id": "557f5438f99e077fb8e9169c41e959f0",
         "title": "Here's why two major Glasgow landmarks are lighting up blue today",
         "link": "https://www.glasgowtimes.co.uk/news/26627420.glasgow-landmarks-lit-blue-world-arthritis-day/",
@@ -3259,22 +3275,6 @@
         "description": "<p>Hoops boss condemned events off the field</p>",
         "published": "Fri, 09 Oct 2026 17:00:31 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/09/15/10/GettyImages-2295020148.jpeg?width=1200&auto=webp&trim=222%2C0%2C222%2C0"
-      },
-      {
-        "id": "de5ce386c979ec44047797c7475bc286",
-        "title": "Crowds gather for unveiling of Nelson Mandela statue in Glasgow city centre",
-        "link": "https://www.glasgowtimes.co.uk/news/26624463.nelson-mandela-statue-unveiled-glasgow-city-centre/",
-        "description": "A crowd gathered in Nelson Mandela Square on Friday to mark 33 years since he was granted Freedom of the City by unveiling a statue in his honour",
-        "published": "Fri, 09 Oct 2026 17:17:25 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21562471/?type=app&htype=0"
-      },
-      {
-        "id": "895d74d34c0e5e4c8cb75b8ec385cc3a",
-        "title": "How Paul Ferris became embroiled in a notorious murder trial",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/19517902.inside-glasgow-murder-trial-involving-paul-ferris/",
-        "description": "The smartly dressed good looking 28-year-old stood on the front steps with both arms raised to the acclaim of the waiting crowd.",
-        "published": "Fri, 09 Oct 2026 17:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21548673/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
