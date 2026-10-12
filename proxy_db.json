@@ -2605,6 +2605,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=532938",
+        "title": "Plans to transform 118-year-old building into flats given green light",
+        "link": "https://news.stv.tv/west-central/plans-to-transform-118-year-old-building-into-flats-given-green-light",
+        "description": "The New Street building, which was also once used by the YMCA, is said to date back to 1908",
+        "published": "Mon, 12 Oct 2026 19:36:09 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/b1780c8eee4e2475e890315dfe0325b6-1791833502-1200x720.jpeg"
+      },
+      {
+        "id": "91b5f248ed5084a0415b073a9da0b019",
+        "title": "Women take to Glasgow's streets over violence against women and girls",
+        "link": "https://www.glasgowtimes.co.uk/news/26630211.women-take-glasgow-streets-big-anti-violence-protest/",
+        "description": "A protest to \u2018Reclaim the Night' heard that women are no longer tolerating violence and cuts to services.",
+        "published": "Mon, 12 Oct 2026 20:18:24 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21571426/?type=app&htype=0"
+      },
+      {
         "id": "083ec5861b60f51cfab0df50d7d14e1d",
         "title": "New campaign to reopen ScotRail line launched after '24 years of talk'",
         "link": "https://www.heraldscotland.com/news/26630192.campaign-reopen-dunfermline---stirling-rail-line-launched/",
