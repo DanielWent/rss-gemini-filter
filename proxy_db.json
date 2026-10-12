@@ -1930,6 +1930,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "e27f656bd491f089457ada17ab6e0dfe",
+        "title": "Next stage of controversial plans for historic property moves forward",
+        "link": "https://www.glasgowtimes.co.uk/news/26628964.historic-east-dunbartonshire-site-faces-fresh-planning-move/",
+        "description": "New planning applications have been submitted to East Dunbartonshire Council for Huntershill House and two new homes within its grounds.",
+        "published": "Mon, 12 Oct 2026 14:44:42 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21569480/?type=app&htype=0"
+      },
+      {
         "id": "1f9b7c1b1b30934206f6180c766a61a2",
         "title": "Police appeal after car damaged outside award-winning restaurant near Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26628800.car-damaged-outside-elements-restaurant-bearsden-police-appeal/",
@@ -2573,12 +2581,60 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "06301911c3a6bb387dd385c4eb5805ca",
+        "title": "Glasgow \u2018less safe\u2019 as Labour leader warns city centre faces crime and decline",
+        "link": "https://www.glasgowtimes.co.uk/news/26629115.glasgow-less-safe-risks-falling-behind-says-marra/",
+        "description": "Glasgow is not as safe as it once was, said Michael Marra, Scottish Labour leader.",
+        "published": "Mon, 12 Oct 2026 15:07:13 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21569729/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/gangster-snared-ahead-glasgow-gangland-34753452",
+        "title": "Gangster snared ahead of Glasgow gangland hit boasts about easy jail time",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/gangster-snared-ahead-glasgow-gangland-34753452",
+        "description": "Cade Johnson shared numerous photographs and videos on TikTok, giving recognition to O'Hara and other prominent figures from Scotland's criminal underworld throughout his incarceration.",
+        "published": "Mon, 12 Oct 2026 14:04:35 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34753446.ece/ALTERNATES/s98/0_JS420521113.jpg"
+      },
+      {
+        "id": "e8f4f71ebaa935a1bd0857c4a0d40c2b",
+        "title": "Hundreds of seasonal jobs available at M&S stores across Glasgow and Renfrewshire",
+        "link": "https://www.glasgowtimes.co.uk/news/26629010.marks-spencer-hire-hundreds-christmas-staff-across-scotland/",
+        "description": "M&amp;S is hiring more than 1,000 Christmas staff across Scotland, including 436 roles in Glasgow and Renfrewshire, with 70 at Braehead, from \u00a313.41 an hour.",
+        "published": "Mon, 12 Oct 2026 14:51:52 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21569512/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/northern-lights-could-visible-over-34753322",
+        "title": "Northern Lights could be visible over Glasgow this week \u2013 here\u2019s how to spot them",
+        "link": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/northern-lights-could-visible-over-34753322",
+        "description": "The sun reached its solar maximum last year, meaning more activity, and the Aurora Borealis is being seen even further south \u2013 including Glasgow.",
+        "published": "Mon, 12 Oct 2026 13:50:32 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34753400.ece/ALTERNATES/s98/1_Autumn-weather-Oct-11th-2026.jpg"
+      },
+      {
+        "id": "e27f656bd491f089457ada17ab6e0dfe",
+        "title": "Next stage of controversial plans for historic property moves forward",
+        "link": "https://www.glasgowtimes.co.uk/news/26628964.historic-east-dunbartonshire-site-faces-fresh-planning-move/",
+        "description": "New planning applications have been submitted to East Dunbartonshire Council for Huntershill House and two new homes within its grounds.",
+        "published": "Mon, 12 Oct 2026 14:44:42 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21569480/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=532803",
         "title": "Care worker who abused, mocked and threatened vulnerable residents struck off",
         "link": "https://news.stv.tv/west-central/care-worker-who-abused-mocked-and-threatened-vulnerable-residents-struck-off",
         "description": "Catherine Hepburn was heard calling one resident a 'big baby' and another a 'dirty dog'",
         "published": "Mon, 12 Oct 2026 13:39:24 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/fc5322ae7779ebabdb0821488ffb6592-1791809155-1280x720.jpeg"
+      },
+      {
+        "id": "54a2e229b61cb3ac86ac58abae70248d",
+        "title": "Swinney urged to intervene as SNP faces legal action over 'unlawful' event ban",
+        "link": "https://www.heraldscotland.com/news/26628811.swinney-urged-intervene-amid-snp-conference-legal-row/",
+        "description": "John Swinney faces pressure to reverse the SNP's cancellation of an abortion coercion event amid the threat of legal action.",
+        "published": "Mon, 12 Oct 2026 14:20:56 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21390475/?type=app&htype=0"
       },
       {
         "id": "1f9b7c1b1b30934206f6180c766a61a2",
@@ -3323,54 +3379,6 @@
         "description": "The widow of slain mobster Ross Monaghan is hunting for the 'nest egg' she claims was promised by the Lyons gang before his murder in Spain",
         "published": "Sat, 10 Oct 2026 11:09:27 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34745456.ece/ALTERNATES/s98/0_image-52.jpg"
-      },
-      {
-        "id": "10d2d9882064f042c113eecb85331e3e",
-        "title": "Edinburgh MSP urges Lib Dems to be \u2018bolder and braver\u2019 on climate change",
-        "link": "https://www.heraldscotland.com/news/26624268.edinburgh-msp-urges-lib-dems-bolder-climate/",
-        "description": "Sanne Dijkstra-Downie told delegates that \u201cabnormal\u201d summer weather in recent years were a harbinger of difficult times to come.",
-        "published": "Sat, 10 Oct 2026 11:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20891279/?type=app&htype=0"
-      },
-      {
-        "id": "56dc4cb9c3e820958f3ca4931acfe7a4",
-        "title": "Delay warning issued as Glasgow motorway to close over four weeks for essential works",
-        "link": "https://www.glasgowtimes.co.uk/news/26625002.m80-closures-set-plague-glasgow-drivers-four-weeks/",
-        "description": "M80 weekend closures start October 23 as Transport Scotland upgrades Robroyston Interchange at Junction 2, with planned overnight closures until November 15.",
-        "published": "Sat, 10 Oct 2026 10:02:21 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/9671644/?type=app&htype=0"
-      },
-      {
-        "id": "213f3fb693ce962a0e85c90cd2299cb1",
-        "title": "NI Secretary Sir Chris Bryant bans Drumcree parade",
-        "link": "https://www.heraldscotland.com/politics/westminster/26624994.ni-secretary-sir-chris-bryant-bans-drumcree-parade/",
-        "description": "Northern Ireland Secretary Sir Chris Bryant has announced that he has banned the contentious Drumcree parade.",
-        "published": "Sat, 10 Oct 2026 09:55:13 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21540239/?type=app&htype=0"
-      },
-      {
-        "id": "d2b12536d118e6653bb6ed5f07f85f4f",
-        "title": "Summerhall redevelopment: Why a hotel could secure the future of Edinburgh arts",
-        "link": "https://www.heraldscotland.com/politics/viewpoint/26623306.hotels-key-saving-edinburghs-arts-venues/",
-        "description": "Two Edinburgh arts centres are up for redevelopment, but in Europe\u2019s busiest hospitality market, hotels could be key to saving at least one of them, writes John McLellan.",
-        "published": "Sat, 10 Oct 2026 06:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19833248/?type=app&htype=0"
-      },
-      {
-        "id": "a1db7d124850494cf679114db70c7363",
-        "title": "Scots ethics code now a 'weapon' against freedom of speech, says Scots councillor",
-        "link": "https://www.heraldscotland.com/news/26623699.north-lanarkshire-councillor-challenges-ethics-watchdog-free-speech/",
-        "description": "North Lanarkshire councillor Greg Lennon has accused Scotland\u2019s Standards Commission of using its code of conduct to suppress scrutiny and threaten freedom of speech",
-        "published": "Sat, 10 Oct 2026 06:27:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21561644/?type=app&htype=0"
-      },
-      {
-        "id": "fff4be227d89a829e94278709d834792",
-        "title": "Holyrood round-up -What Glasgow MSPs have been asking about",
-        "link": "https://www.glasgowtimes.co.uk/news/26623622.glasgow-msps-week-holyrood---questions-round-up/",
-        "description": "Glasgow MSPs have raised several questions on issues including student accommodation, homelessness, health and benefits for young people.",
-        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20894139/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
