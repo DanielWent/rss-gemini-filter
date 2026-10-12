@@ -2581,6 +2581,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-banned-football-matches-after-34754110",
+        "title": "Man banned from football matches after Celtic Premiership finale chaos",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-banned-football-matches-after-34754110",
+        "description": "Liam Connolly was also given a Community Payback Order consisting of 150 hours.",
+        "published": "Mon, 12 Oct 2026 15:02:58 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34325507.ece/ALTERNATES/s98/0_JS330634601-2.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/audi-stolen-torched-clydebank-break-34754141",
+        "title": "Audi stolen and torched in Clydebank break-in as manhunt launched",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/audi-stolen-torched-clydebank-break-34754141",
+        "description": "Police are looking for a suspect described as white, aged in his 30s, and of slim build.",
+        "published": "Mon, 12 Oct 2026 15:00:05 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34754217.ece/ALTERNATES/s98/2_Ocean-fld.png"
+      },
+      {
         "id": "https://news.stv.tv/?p=532886",
         "title": "Major investment to create 150 new jobs in Scotland\u2019s aerospace sector over five years",
         "link": "https://news.stv.tv/west-central/major-investment-to-create-150-new-jobs-in-scotlands-aerospace-sector-over-five-years",
@@ -2771,14 +2787,6 @@
         "description": "<p>Detectives in Bellshill are appealing for information following a serious assault, with a 25-year-old man found injured at an address in Thorndean Crescent</p>",
         "published": "Mon, 12 Oct 2026 11:50:35 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/12/11/50/Screenshot-2026-10-12-124736.png?width=1200&auto=webp&trim=0%2C138%2C0%2C138"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/prestwick-aircraft-repair-facility-given-34751167",
-        "title": "Prestwick aircraft repair facility given \u00a357m investment to boost economy and create 150 jobs",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/prestwick-aircraft-repair-facility-given-34751167",
-        "description": "&quot;The investment will retain high value skilled jobs, attract talent to the sector and reinforce Prestwick's position as a leading UK aerospace location&quot;",
-        "published": "Mon, 12 Oct 2026 11:47:50 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34751320.ece/ALTERNATES/s98/0_GettyImages-464363188.jpg"
       },
       {
         "id": "567f03a173c4d099e12d932971e0b513",
@@ -3371,14 +3379,6 @@
         "description": "Funeral arrangements announced for 67-year-old Canon John McGrorry, with a vigil in Dumbarton on October 26 and Funeral Mass and burial on October 27.",
         "published": "Sat, 10 Oct 2026 15:49:01 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21563538/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=532659",
-        "title": "Ross Muir unveils new artwork to raise funds for Paisley school\u2019s art department",
-        "link": "https://news.stv.tv/west-central/ross-muir-unveils-new-artwork-to-raise-funds-for-paisley-schools-art-department",
-        "description": "The artist launched Prefect on Saturday as a tribute to Castlehead High School and late Scottish artist John Byrne",
-        "published": "Sat, 10 Oct 2026 14:33:52 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/6caad25e59f38fb84d0a550ec0e9934c-1791640639-1119x720.jpeg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
