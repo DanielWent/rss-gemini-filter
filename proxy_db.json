@@ -2581,6 +2581,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=532891",
+        "title": "Family of barman Daniel Colrain who died after city centre assault \u2018overwhelmed\u2019 as \u00a330,000 raised",
+        "link": "https://news.stv.tv/west-central/family-of-barman-daniel-colrain-who-died-after-city-centre-assault-overwhelmed-as-30000-raised",
+        "description": "Daniel Colrain, 21, died in hospital after being assaulted at Royal Exchange Square in the early hours of Sunday, October 4.",
+        "published": "Mon, 12 Oct 2026 15:37:36 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/e25eab9764c96cb7b1978686daf09bec-1791817179.jpeg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-banned-football-matches-after-34754110",
         "title": "Man banned from football matches after Celtic Premiership finale chaos",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-banned-football-matches-after-34754110",
@@ -3371,14 +3379,6 @@
         "description": "Glasgow crowds honour International Brigade volunteers at the La Pasionaria memorial on Clyde Street, marking those who fought fascism in Spain on October 10.",
         "published": "Sat, 10 Oct 2026 16:43:42 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21563659/?type=app&htype=0"
-      },
-      {
-        "id": "9e3b94eb7f7015260a05933c370890c2",
-        "title": "Funeral date announced for much-loved priest who served communities across Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26625443.funeral-arrangements-announced-priest-canon-john-mcgrorry/",
-        "description": "Funeral arrangements announced for 67-year-old Canon John McGrorry, with a vigil in Dumbarton on October 26 and Funeral Mass and burial on October 27.",
-        "published": "Sat, 10 Oct 2026 15:49:01 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21563538/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
