@@ -2469,6 +2469,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9280950",
+        "title": "Rangers January transfer window plans emerge as 'significant' capital available to club amid key objective",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-january-transfer-window-plans-emerge-significant-capital-available-9280950",
+        "description": "<p>Rangers could be set for some January transfer business.</p>",
+        "published": "Mon, 12 Oct 2026 07:32:08 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/12/7/21/GettyImages-2299550082.jpg?width=1200&auto=webp&trim=20%2C0%2C21%2C0"
+      },
+      {
         "id": "9b042954c0a87567317ab2ea07bbd046",
         "title": "FAI begins into death of former football coach jailed for abusing boys in Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26626741.fai-begins-death-kenneth-divers-jailed-abusing-boys/",
@@ -2651,14 +2659,6 @@
         "description": "Vital repair work to fix severe structural issue to a roof of a Glasgow Library, may not be funded until 2028",
         "published": "Sun, 11 Oct 2026 15:52:42 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20201686/?type=app&htype=0"
-      },
-      {
-        "id": "c3027a572526719180835cdcd3c8963c",
-        "title": "Northern Lights dazzle Greater Glasgow as aurora set to return tonight",
-        "link": "https://www.glasgowtimes.co.uk/news/weather/26626336.glasgow-northern-lights-captured-stunning-photos/",
-        "description": "Eager-eyed residents across Greater Glasgow caught a glimpse of the Northern Lights as it danced across the skies of Scotland with the phenomenon set to return tonight",
-        "published": "Sun, 11 Oct 2026 14:58:31 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21565333/?type=app&htype=0"
       },
       {
         "id": "009285b76d13120f338876dff3d27417",
@@ -3123,14 +3123,6 @@
         "description": "The skirl of bagpipes became a familiar noise in Boston after an estimated 50,000 members of the Tartan Army descended on the city for the World Cup.",
         "published": "Fri, 09 Oct 2026 22:01:16 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21042677/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/two-teens-woman-arrested-glasgow-34744814",
-        "title": "Two teens and woman arrested in Glasgow motorbike theft crackdown",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/two-teens-woman-arrested-glasgow-34744814",
-        "description": "Police have said that more than 70 motorcycles have been reported stolen in the Greater Glasgow area since April 2026.",
-        "published": "Fri, 9 Oct 2026 19:48:45 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article24546515.ece/ALTERNATES/s98/6_JS183291711jpgpoljpgl.jpg"
       },
       {
         "id": "db9d0e24d8f1002bf7c452d1e33b6fce",
