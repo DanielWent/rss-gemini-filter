@@ -2477,6 +2477,54 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "557f5438f99e077fb8e9169c41e959f0",
+        "title": "Here's why two major Glasgow landmarks are lighting up blue today",
+        "link": "https://www.glasgowtimes.co.uk/news/26627420.glasgow-landmarks-lit-blue-world-arthritis-day/",
+        "description": "Landmarks across Scotland will be illuminated in blue to raise awareness of a major health condition,",
+        "published": "Mon, 12 Oct 2026 10:44:04 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21567278/?type=app&htype=0"
+      },
+      {
+        "id": "8656321",
+        "title": "Buildings of Glasgow: 9 amazing buildings in Glasgow with incredible stories built into them",
+        "link": "https://www.glasgowworld.com/best-in/glasgow-historic-buildings-9281375",
+        "description": "<p>Nine incredible buildings in Glasgow and what their storied histories tell us about the city</p>",
+        "published": "Mon, 12 Oct 2026 09:43:28 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/05/13/9/00/Peoples-Palace-in-Glasgow-Green.jpeg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "https://news.stv.tv/?p=532788",
+        "title": "Person dies after falling ill at Rutherglen train station",
+        "link": "https://news.stv.tv/west-central/person-dies-after-falling-ill-at-rutherglen-train-station",
+        "description": "The death is not being treated as suspicious",
+        "published": "Mon, 12 Oct 2026 09:33:36 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2022/09/37d448a757625b3758e901d4c6637195-1663419908.jpg"
+      },
+      {
+        "id": "bfa89cb7a55c819f606d16acb47631e7",
+        "title": "Herald Business LIVE: Today's top stories - October 12",
+        "link": "https://www.heraldscotland.com/news/26627240.herald-business-live-todays-top-stories---october-12/",
+        "description": "Welcome to The Herald's Business live blog, where we\u2019ll be bringing you the latest developments from across Scotland\u2019s business industry.",
+        "published": "Mon, 12 Oct 2026 10:15:41 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21394794/?type=app&htype=0"
+      },
+      {
+        "id": "9e6f44d24920f1fe857a7f8363f19e42",
+        "title": "Man to stand trial charged with murder of popular scientist",
+        "link": "https://www.heraldscotland.com/news/26627221.man-stand-trial-charged-murder-scientist-dundee/",
+        "description": "A man is to stand trial charged with the \"hate crime\" murder of a popular scientist.",
+        "published": "Mon, 12 Oct 2026 10:12:31 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19699412/?type=app&htype=0"
+      },
+      {
+        "id": "ed600efef499a49a01b25e2fcd850c3b",
+        "title": "'A very special lady': Tributes paid to matriarch of Edinburgh restaurant empire",
+        "link": "https://www.heraldscotland.com/news/26627080.tributes-paid-vittoria-group-matriarch-giacinta-nonna-dina-crolla/",
+        "description": "Giacinta Crolla, the co-founder of the city\u2019s Vittoria Group alongside her husband Alberto, died on September 27, her family said on social media.",
+        "published": "Mon, 12 Oct 2026 10:08:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21566803/?type=app&htype=0"
+      },
+      {
         "id": "183500b8095ced2747c6902ea3850ee3",
         "title": "New floating island installed on River Clyde to boost water quality and biodiversity",
         "link": "https://www.glasgowtimes.co.uk/news/26627144.new-floating-island-installed-clyde-boost-wildlife/",
@@ -2555,22 +2603,6 @@
         "description": "<p>Rangers could be set for some January transfer business.</p>",
         "published": "Mon, 12 Oct 2026 07:32:08 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/12/7/21/GettyImages-2299550082.jpg?width=1200&auto=webp&trim=20%2C0%2C21%2C0"
-      },
-      {
-        "id": "9b042954c0a87567317ab2ea07bbd046",
-        "title": "FAI begins into death of former football coach jailed for abusing boys in Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26626741.fai-begins-death-kenneth-divers-jailed-abusing-boys/",
-        "description": "FAI begins into death of Low Moss prisoner Kenneth Divers.",
-        "published": "Mon, 12 Oct 2026 08:05:52 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21566294/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/listed-glasgow-church-hall-near-34743195",
-        "title": "Listed Glasgow church hall near Tennent's brewery could be knocked down for flats",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/listed-glasgow-church-hall-near-34743195",
-        "description": "Plans state the demolition of the old United Presbyterian church hall on Duke Street is a &quot;last resort&quot;.",
-        "published": "Mon, 12 Oct 2026 06:20:18 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34743199.ece/ALTERNATES/s98/0_wellparkflats.png"
       },
       {
         "id": "https://news.stv.tv/?p=532716",
@@ -2795,14 +2827,6 @@
         "description": "Chirag Solanki held an 83-year-old Thorntonhall woman at gunpoint during a break-in. The expired-visa holder admitted abduction, assault and burglary.",
         "published": "Sun, 11 Oct 2026 12:45:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/16674348/?type=app&htype=0"
-      },
-      {
-        "id": "076ac81111a81c6fb16c25c9b271b5cc",
-        "title": "Firefighters still tackling major Glasgow scrapyard fire days on",
-        "link": "https://www.glasgowtimes.co.uk/news/26626191.firefighters-remain-scene-glasgow-scrapyard-fire/",
-        "description": "Firefighters remain at the scene of a blaze at a scrapyard in Glasgow after spending a second night tackling the fire",
-        "published": "Sun, 11 Oct 2026 12:44:04 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21563118/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/mum-glasgow-teen-who-took-34748052",
@@ -3251,30 +3275,6 @@
         "description": "The smartly dressed good looking 28-year-old stood on the front steps with both arms raised to the acclaim of the waiting crowd.",
         "published": "Fri, 09 Oct 2026 17:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21548673/?type=app&htype=0"
-      },
-      {
-        "id": "af0478005ae0080674c35f7d2b8fe889",
-        "title": "Bearsden bookshop wins approval to deliver alcohol, books and food to customers",
-        "link": "https://www.glasgowtimes.co.uk/news/26624131.bearsden-bookshop-wins-approval-alcohol-deliveries/",
-        "description": "Bearsden Bookmonger wins approval for online alcohol, book and food deliveries.",
-        "published": "Fri, 09 Oct 2026 16:26:41 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21561602/?type=app&htype=0"
-      },
-      {
-        "id": "93c2f05bf06bac0c278ae6427ae5a176",
-        "title": "Kirkintilloch pub granted new three-month music trial after noise complaints",
-        "link": "https://www.glasgowtimes.co.uk/news/26624003.kirkintilloch-pub-granted-new-three-month-music-trial/",
-        "description": "Kirkintilloch\u2019s Lion and Star Bar wins a new three-month music trial from East Dunbartonshire Licensing Board.",
-        "published": "Fri, 09 Oct 2026 16:08:14 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/8664161/?type=app&htype=0"
-      },
-      {
-        "id": "a3e10d5eb58150a1e0f92b5c2dcecf31",
-        "title": "LIVE updates as disruption plagues major Glasgow trains ahead of rush hour",
-        "link": "https://www.glasgowtimes.co.uk/news/26623941.live-updates-rush-hour-glasgow-central-trains-cancelled/",
-        "description": "A signalling fault at Kilwinning has caused services from Glasgow Central to Ayr, Ardrossan Harbour and Largs to be delayed or revised.",
-        "published": "Fri, 09 Oct 2026 15:57:52 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17651420/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
