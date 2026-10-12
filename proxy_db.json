@@ -2581,6 +2581,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=532886",
+        "title": "Major investment to create 150 new jobs in Scotland\u2019s aerospace sector over five years",
+        "link": "https://news.stv.tv/west-central/major-investment-to-create-150-new-jobs-in-scotlands-aerospace-sector-over-five-years",
+        "description": "GE Aerospace is investing \u00a330m to expand its site in Prestwick, supported by \u00a327m from the Ayrshire Growth Deal",
+        "published": "Mon, 12 Oct 2026 14:47:21 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/9a99eeb7b4700ad6383c73bb06256ddc-1791816337-1095x720.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-dad-pulls-schoolgirls-hijab-34753723",
+        "title": "Glasgow dad 'pulls off schoolgirl's hijab' and calls her P-word in racist attack",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-dad-pulls-schoolgirls-hijab-34753723",
+        "description": "A video of the young girl, without her hijab on, has now been shared across the school, with children calling her racial slurs.",
+        "published": "Mon, 12 Oct 2026 14:41:59 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34753834.ece/ALTERNATES/s98/0_TOPSHOT-BRITAIN-SCOTLAND-STORM-EOWYN.jpg"
+      },
+      {
+        "id": "3e5b73273ae1f6be067d26476e7f3fbb",
+        "title": "Clydebank's Halloween king reveals why famous spooky spectacle won't return this year",
+        "link": "https://www.glasgowtimes.co.uk/news/26629308.clydebanks-iconic-halloween-spectacle-taking-break/",
+        "description": "The creator of Clydebank's famous Halloween house has revealed why the annual spectacle is taking a break this year and what keeps thousands of visitors returning every October.",
+        "published": "Mon, 12 Oct 2026 15:32:30 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20147610/?type=app&htype=114"
+      },
+      {
+        "id": "32f476510e5fce0a2f0c747cf236ce76",
+        "title": "NHSGGC welcomes 56 newly qualified midwives following \u00a34m investment",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26629264.nhsggc-welcomes-56-new-midwives-maternity-services/",
+        "description": "NHS Greater Glasgow and Clyde welcomes 56 newly qualified midwives after a \u00a34m maternity investment, with roles across hospitals and community services.",
+        "published": "Mon, 12 Oct 2026 15:26:49 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21569897/?type=app&htype=0"
+      },
+      {
         "id": "06301911c3a6bb387dd385c4eb5805ca",
         "title": "Glasgow \u2018less safe\u2019 as Labour leader warns city centre faces crime and decline",
         "link": "https://www.glasgowtimes.co.uk/news/26629115.glasgow-less-safe-risks-falling-behind-says-marra/",
@@ -2595,6 +2627,14 @@
         "description": "Cade Johnson shared numerous photographs and videos on TikTok, giving recognition to O'Hara and other prominent figures from Scotland's criminal underworld throughout his incarceration.",
         "published": "Mon, 12 Oct 2026 14:04:35 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34753446.ece/ALTERNATES/s98/0_JS420521113.jpg"
+      },
+      {
+        "id": "e712d27d8fc5052e194775a090e49e17",
+        "title": "Aldi to invest \u00a319.5 million in Scotland with new store and five extensions",
+        "link": "https://www.heraldscotland.com/news/26629036.aldi-invest-19-5m-scotland-open-new-store/",
+        "description": "Aldi will invest \u00a319.5m in Scotland in 2027, opening a new Uddingston store and extending five existing supermarkets.",
+        "published": "Mon, 12 Oct 2026 14:55:41 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21340263/?type=app&htype=0"
       },
       {
         "id": "e8f4f71ebaa935a1bd0857c4a0d40c2b",
@@ -2619,6 +2659,14 @@
         "description": "New planning applications have been submitted to East Dunbartonshire Council for Huntershill House and two new homes within its grounds.",
         "published": "Mon, 12 Oct 2026 14:44:42 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21569480/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/sport/football/articles/c50mew3yw79no#0",
+        "title": "Alcohol allowed at seats for Scotland's World Cup play-off",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c50mew3yw79no?at_medium=RSS&at_campaign=rss",
+        "description": "Spectators will be able to consume alcohol at their seats when Scotland host the Czech Republic in the second leg of their Women's World Cup play-off in Paisley on Tuesday.",
+        "published": "Mon, 12 Oct 2026 13:44:18 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc1d/live/05f01c50-c63e-11f1-abff-0d918239b2e3.jpg"
       },
       {
         "id": "https://news.stv.tv/?p=532803",
@@ -3331,54 +3379,6 @@
         "description": "The artist launched Prefect on Saturday as a tribute to Castlehead High School and late Scottish artist John Byrne",
         "published": "Sat, 10 Oct 2026 14:33:52 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/6caad25e59f38fb84d0a550ec0e9934c-1791640639-1119x720.jpeg"
-      },
-      {
-        "id": "c7ba25ae11c4a5e4387f02b72e6d2fdf",
-        "title": "Glasgow October week guide - 7 ways to keep kids of all kinds entertained",
-        "link": "https://www.glasgowtimes.co.uk/news/26625406.7-things-around-glasgow-october-week/",
-        "description": "Glasgow October week ideas for kids and families: pumpkin picking, ceilidh dancing, fire engines, Barbie at Kelvingrove, \u00a32 films, parks and gaming.",
-        "published": "Sat, 10 Oct 2026 15:02:30 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21563515/?type=app&htype=0"
-      },
-      {
-        "id": "8a8c73f701f26422be833b50b46bb0e0",
-        "title": "Major change for busy Glasgow bus service as all-day trial gets the green light",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26625394.stagecoach-x36-glasgow-ardrossan-bus-become-all-day-service/",
-        "description": "Stagecoach X36 Glasgow-Ardrossan bus route will run all day from November to March in an SPT pilot, serving Garnock Valley, Kilwinning and Three Towns.",
-        "published": "Sat, 10 Oct 2026 14:56:13 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17153730/?type=app&htype=0"
-      },
-      {
-        "id": "5219f6bcd1ee9c98a6ba2be1eef16e8f",
-        "title": "Glasgow residents warned of water disruption after burst main on busy road",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26625277.burst-water-main-disrupts-supplies-glasgows-southside/",
-        "description": "Glasgow water supply disruption affects G43 after a burst main on Pentland Road. Scottish Water repairs may cause traffic delays until around 4pm.",
-        "published": "Sat, 10 Oct 2026 13:21:08 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17119543/?type=app&htype=0"
-      },
-      {
-        "id": "e6ddb484226b3d8389e1c2496e5da30b",
-        "title": "Review urged of Scotland\u2019s fire service after \u2018devastating\u2019 Cairngorms blaze",
-        "link": "https://www.heraldscotland.com/news/26625256.review-urged-scotlands-fire-service-cairngorms-blaze/",
-        "description": "Could Scotland be better prepared before the next wildfire strikes?",
-        "published": "Sat, 10 Oct 2026 13:08:15 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21196369/?type=app&htype=0"
-      },
-      {
-        "id": "c0f043e5b437d014a8d98d93503819f4",
-        "title": "LIVE updates as incident on Glasgow motorway causes massive tailbacks",
-        "link": "https://www.glasgowtimes.co.uk/news/26625239.live-updates-amid-incident-glasgows-m77-motorway/",
-        "description": "An incident on Glasgow's M77 motorway has caused major tailbacks for those heading towards the city centre and Silverburn Shopping Centre.",
-        "published": "Sat, 10 Oct 2026 12:48:12 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21563191/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/widow-slain-glasgow-gangster-hunting-34745462",
-        "title": "Widow of slain Glasgow gangster hunting for 'nest egg' from Lyons gang",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/widow-slain-glasgow-gangster-hunting-34745462",
-        "description": "The widow of slain mobster Ross Monaghan is hunting for the 'nest egg' she claims was promised by the Lyons gang before his murder in Spain",
-        "published": "Sat, 10 Oct 2026 11:09:27 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34745456.ece/ALTERNATES/s98/0_image-52.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
