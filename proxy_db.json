@@ -814,6 +814,46 @@
     "description": "AI Filtered Google Blog Updates.",
     "articles": [
       {
+        "id": "https://blog.google/products-and-platforms/products/google-health/google-health-updates/",
+        "title": "Google Health: Evolving so you can focus on living better",
+        "link": "https://blog.google/products-and-platforms/products/google-health/google-health-updates/",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_health_fitbit_edge_blog.max-600x600.format-webp.webp\" />What\u2019s new from Google Health: Explore the new Fitbit Edge, expanded workout tracking, and dedicated women's health insights.",
+        "published": "Mon, 12 Oct 2026 13:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_health_fitbit_edge_blog.max-600x600.format-webp.webp"
+      },
+      {
+        "id": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge/",
+        "title": "Google Fitbit Edge: Our all-new smartest fitness tracker ever",
+        "link": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge/",
+        "description": "Fitbit Edge overview video",
+        "published": "Mon, 12 Oct 2026 13:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fitbit_Edge_thumb.max-600x600.format-webp.webp"
+      },
+      {
+        "id": "https://blog.google/products-and-platforms/products/google-health/fitbit-google-health-updates/",
+        "title": "How we\u2019re making Google Health and Fitbit Air smarter than ever",
+        "link": "https://blog.google/products-and-platforms/products/google-health/fitbit-google-health-updates/",
+        "description": "The photo shows Fitbit Air with a Metal Mesh band.",
+        "published": "Mon, 12 Oct 2026 13:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Metal_Mesh_Band.max-600x600.format-webp.webp"
+      },
+      {
+        "id": "https://blog.google/products-and-platforms/products/google-health/commitment-womens-health-flo-health-partnership/",
+        "title": "We\u2019re partnering with Flo Health to elevate women\u2019s health",
+        "link": "https://blog.google/products-and-platforms/products/google-health/commitment-womens-health-flo-health-partnership/",
+        "description": "Two women laughing together",
+        "published": "Mon, 12 Oct 2026 13:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Redefining_Reproductive_Wellnes.max-600x600.format-webp.webp"
+      },
+      {
+        "id": "https://blog.google/products-and-platforms/products/google-health/google-health-partnership-athletes-creators/",
+        "title": "From game days to daily life: The familiar faces teaming up with Google Health",
+        "link": "https://blog.google/products-and-platforms/products/google-health/google-health-partnership-athletes-creators/",
+        "description": "TBD",
+        "published": "Mon, 12 Oct 2026 13:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Olive_Active_Lifestyle_Strength.max-600x600.format-webp.webp"
+      },
+      {
         "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
         "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
         "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
@@ -2485,6 +2525,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "d9a31a06d9a80af69560c9872046c555",
+        "title": "Sensory bus created in memory of six-year-old girl arrives at Silverburn",
+        "link": "https://www.glasgowtimes.co.uk/news/26628718.aoifes-sensory-bus-arrived-silverburn-half-term/",
+        "description": "A sensory bus created in memory of a young girl has arrived at a shopping centre as a safe and calming space for children.",
+        "published": "Mon, 12 Oct 2026 14:06:02 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21569114/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/i-quit-job-due-lack-34751924",
+        "title": "'I had to quit my job due to lack of childcare for my son with complex needs'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/i-quit-job-due-lack-34751924",
+        "description": "Jenna Greenhill and Gary Reidman's son, Oran, attended three different nurseries, none of which could meet his complex needs.",
+        "published": "Mon, 12 Oct 2026 13:02:49 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34752262.ece/ALTERNATES/s98/0_unnamed-5.png"
+      },
+      {
+        "id": "4119d52516395b514e35536fe19f25cd",
+        "title": "Plans submitted to transform office space in Glasgow's West End into THIS",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26628642.plans-transform-office-space-dumbarton-road-glasgow/",
+        "description": "Plans to transform office space on Dumbarton Road in Glasgow's West End.",
+        "published": "Mon, 12 Oct 2026 13:52:58 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21182290/?type=app&htype=0"
+      },
+      {
+        "id": "cf61abf790b4bd31714fe77ddba8c444",
+        "title": "Summerhall Arts chief urges developers to \u2018repair, not demolish\u2019 much-loved arts hub",
+        "link": "https://www.heraldscotland.com/news/26628509.summerhall-arts-chief-urges-developers-repair-not-demolish-venue/",
+        "description": "Plans unveiled last week by Edinburgh-based luxury homes developer AMA call for the demolition of several buildings at the Summerhall site.",
+        "published": "Mon, 12 Oct 2026 13:47:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21568852/?type=app&htype=0"
+      },
+      {
+        "id": "a8a1468b62f9a27a0f7da4477d7451f6",
+        "title": "Patient complaints to NHS Ayrshire & Arran rise by 13 per cent in a year",
+        "link": "https://www.heraldscotland.com/news/26628424.nhs-ayrshire-arran-patient-complaints-rise-13-per-cent-year/",
+        "description": "The number of complaints made to NHS Ayrshire and Arran increased by more than 13 per cent in a year.",
+        "published": "Mon, 12 Oct 2026 13:12:18 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/13776148/?type=app&htype=0"
+      },
+      {
         "id": "9282049",
         "title": "Glasgow City Council approves plans to restore Springburn Winter Gardens",
         "link": "https://www.glasgowworld.com/news/glasgow-city-council-springburn-winter-gardens-restoration-9282049",
@@ -2499,6 +2579,14 @@
         "description": "New greenspaces at Glasgow\u2019s St Vincent Studios bring colourful planting, street trees and terraces to St Vincent Street ahead of the 2026 academic year.",
         "published": "Mon, 12 Oct 2026 13:03:02 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20963287/?type=app&htype=0"
+      },
+      {
+        "id": "bb89d7db5d77232c3ec042ff745a44eb",
+        "title": "First national memorial for Arandora Star takes place in Glasgow",
+        "link": "https://www.heraldscotland.com/news/26627959.first-national-memorial-arandora-star-takes-place-glasgow/",
+        "description": "An event first national commemoration of the sinking of the Arandora Star has taken place in Glasgow",
+        "published": "Mon, 12 Oct 2026 13:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21568487/?type=app&htype=0"
       },
       {
         "id": "3891d212de54b690bee52b1cf5434e26",
@@ -2523,6 +2611,14 @@
         "description": "&quot;The investment will retain high value skilled jobs, attract talent to the sector and reinforce Prestwick's position as a leading UK aerospace location&quot;",
         "published": "Mon, 12 Oct 2026 11:47:50 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34751320.ece/ALTERNATES/s98/0_GettyImages-464363188.jpg"
+      },
+      {
+        "id": "567f03a173c4d099e12d932971e0b513",
+        "title": "Edinburgh councillor calls for referendum on major council boundary changes",
+        "link": "https://www.heraldscotland.com/news/26628155.edinburgh-councillor-calls-referendum-council-boundary-changes/",
+        "description": "Conservative Neil Cuthbert is seeking assurances that a referendum would be held in the event of \u201cany major change to the boundaries of Edinburgh\u201d.",
+        "published": "Mon, 12 Oct 2026 12:45:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21568310/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/sea-witch-haunts-little-visitors-34751766",
@@ -2587,6 +2683,14 @@
         "description": "A thriving, well-funded higher education sector is just as affordable as the triple lock on pensions; we just need leadership from universities and the political class to value the role of higher education just as much as workers do, writes Roz Foyer.",
         "published": "Mon, 12 Oct 2026 11:30:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21538990/?type=app&htype=0"
+      },
+      {
+        "id": "73a90fd6f36fd4c644df245fefe9715d",
+        "title": "Top 10 must-see events at this year's Royal National M\u00f2d",
+        "link": "https://www.heraldscotland.com/news/26627581.royal-national-m-d-glasgow-top-10-must-see-events/",
+        "description": "The Royal National M\u00f2d is now under way in Glasgow and The Herald has hand-picked the top ten must-see events.",
+        "published": "Mon, 12 Oct 2026 11:07:43 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19141538/?type=app&htype=0"
       },
       {
         "id": "9281441",
@@ -2981,14 +3085,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21504266/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/ive-been-waiting-seven-months-34736180",
-        "title": "'I've been waiting seven months to have my expired coil removed - the system is broken'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/ive-been-waiting-seven-months-34736180",
-        "description": "Laura, 51, from Newton Mearns uses the Mirena coil for hormone replacement therapy (HRT), helping with perimenopausal and menopausal symptoms.",
-        "published": "Sun, 11 Oct 2026 08:46:20 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34737651.ece/ALTERNATES/s98/0_gettyimages-2174656266-170667a.jpg"
-      },
-      {
         "id": "d71fd274f1e97ef85e16a31933b28bc5",
         "title": "High-risk appeal launched for missing 80-year-old as welfare fears grow",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26625928.search-find-80-year-old-charles-auld-tarbolton/",
@@ -3227,54 +3323,6 @@
         "description": "People gaining entry without paying, litter on the streets and environmental damage to a park are some of the complaints made against an annual Halloween event",
         "published": "Sat, 10 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21252688/?type=app&htype=0"
-      },
-      {
-        "id": "4f872cdeec0c4b1cbf11dd5a9a0393cf",
-        "title": "Coatbridge traders say parking crackdown is driving customers away from town",
-        "link": "https://www.glasgowtimes.co.uk/news/26618117.north-lanarkshire-parking-policy-criticised-coatbridge-businesses/",
-        "description": "Coatbridge Main Street traders say stricter loading bay enforcement and instant PCNs are deterring customers, while North Lanarkshire Council defends rules.",
-        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21555141/?type=app&htype=0"
-      },
-      {
-        "id": "b796826dea2bee088cdd5d433f1cb801",
-        "title": "'Someone will be killed' - Residents demand action over dangerous junction",
-        "link": "https://www.glasgowtimes.co.uk/news/26618886.residents-warn-death-risk-bonhills-split-junction/",
-        "description": "Residents in Bonhill have urged West Dunbartonshire Council to act on safety concerns at a junction known as \"the split\", warning that poor visibility, parking issues and new disabled bays could lead to a fatal accident.",
-        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21542966/?type=app&htype=509"
-      },
-      {
-        "id": "33a94e2bbfa73d769a027fe2729cb901",
-        "title": "End of an era as Glasgow church to be demolished after 60 years",
-        "link": "https://www.glasgowtimes.co.uk/news/26623608.glasgow-church-demolished-60-years/",
-        "description": "St Clare's Church in Easterhouse is to be pulled down after six decades.",
-        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21561647/?type=app&htype=0"
-      },
-      {
-        "id": "81c1a690ca591f37a370f736f592733c",
-        "title": "North Lanarkshire schools get eco-friendly sports pitches in \u00a3300k upgrade",
-        "link": "https://www.glasgowtimes.co.uk/news/26624091.north-lanarkshire-installs-eco-friendly-3g-pitches-eight-sites/",
-        "description": "North Lanarkshire is leading the way in greener sports facilities with a new investment in sustainable 3G pitches.",
-        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21561474/?type=app&htype=0"
-      },
-      {
-        "id": "bbd2dc7e68d3591a358a72fc13931712",
-        "title": "Councillor warns cones on Duke of Wellington statue pose injury risk",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26619848.councillor-raises-safety-fears-cones-glasgow-statue/",
-        "description": "Concerns over the increasing number of traffic cones placed on top of the statue of the Duke of Wellington have been raised by a Glasgow councillor.",
-        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21355826/?type=app&htype=0"
-      },
-      {
-        "id": "ca1a3b659798371e07502bbb9896881e",
-        "title": "Woman found with \u00a358,000 linked to ex-drug dealer walks free from court",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26620218.debbie-hamilton-acquitted-58k-found-bishopbriggs-home/",
-        "description": "Bishopbriggs woman Debbie Hamilton acquitted after \u00a358,000 cash linked to former criminal Warren Hennelly was found at her East Dunbartonshire home.",
-        "published": "Sat, 10 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21174258/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
