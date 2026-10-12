@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo#4",
+        "title": "AI minister warns 'likely' UK's cyber defences will be breached",
+        "link": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
+        "description": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
+        "published": "Mon, 12 Oct 2026 12:11:41 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d7/live/ff638950-c62c-11f1-af2e-773141c7e84a.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo#2",
         "title": "AI is less regulated than milk, says Microsoft president",
         "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
         "published": "Sun, 30 Aug 2026 17:28:08 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd8f/live/ebc7fcb0-a47f-11f1-bed8-470734b5b662.jpg"
-      },
-      {
-        "id": "1787952310066958",
-        "title": "How the weather in space can affect us on Earth - and the team trying to protect us",
-        "link": "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o?at_medium=RSS&at_campaign=rss",
-        "description": "The weather in space has the potential to impact our lives here on Earth in a fundamental way.",
-        "published": "Fri, 28 Aug 2026 22:44:07 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e397/live/f7594f20-a2bd-11f1-aed2-8d6da8d75094.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -1850,6 +1850,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "69ffd4df466d494aabedbb34abded116",
+        "title": "Emotional farewell to much-loved Asda worker retiring at 82 after 30 years",
+        "link": "https://www.glasgowtimes.co.uk/news/26627154.bearsden-asda-worker-retires-aged-82-30-years/",
+        "description": "A much-loved Asda worker has retired aged 82 after more than 30 years at the store, prompting hundreds of touching messages from customers.",
+        "published": "Mon, 12 Oct 2026 10:03:27 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21566846/?type=app&htype=102"
+      },
+      {
         "id": "893051934e4ba170623774cd44fcb2ee",
         "title": "115 postcodes left without electricity as residents face third day of power cuts",
         "link": "https://www.glasgowtimes.co.uk/news/26627092.milngavie-power-cut-reaches-third-day-115-postcodes-hit/",
@@ -2477,6 +2485,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9282049",
+        "title": "Glasgow City Council approves plans to restore Springburn Winter Gardens",
+        "link": "https://www.glasgowworld.com/news/glasgow-city-council-springburn-winter-gardens-restoration-9282049",
+        "description": "<p>Glasgow City Council has approved plans to restore the derelict Springburn Winter Gardens, a 25-year lease over the site is currently being finalised with the council, and construction work is expected to start early next year.</p>",
+        "published": "Mon, 12 Oct 2026 12:09:09 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/12/12/17/onecms_31448712-accf-4270-a83d-fb5721d2028b_9511808a-a0a3-463d-b520-c348b84cfd61.jpeg?width=1200&auto=webp&trim=0%2C38%2C0%2C38"
+      },
+      {
+        "id": "3891d212de54b690bee52b1cf5434e26",
+        "title": "First families move into new Glasgow housing development as community grows",
+        "link": "https://www.glasgowtimes.co.uk/news/26628314.first-residents-move-glasgows-dalmarnock-quarter/",
+        "description": "First residents move into CCG Homes\u2019 54-home Dalmarnock Quarter in Glasgow\u2019s East End on October 8.",
+        "published": "Mon, 12 Oct 2026 12:54:59 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21568520/?type=app&htype=0"
+      },
+      {
         "id": "9281964",
         "title": "Bellshill: Police launch manhunt after 25-year-old man found injured at Bellshill property",
         "link": "https://www.glasgowworld.com/news/crime/bellshill-police-launch-manhunt-after-man-found-injured-at-bellshill-property-9281964",
@@ -2509,14 +2533,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20195853/?type=app&htype=0"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/cmly02vgd9v6o#0",
-        "title": "Firm announces \u00a357m boost for Prestwick aircraft repair facility",
-        "link": "https://www.bbc.co.uk/news/articles/cmly02vgd9v6o?at_medium=RSS&at_campaign=rss",
-        "description": "GE Aerospace says the investment will create about 150 new jobs over the next five years.",
-        "published": "Mon, 12 Oct 2026 11:35:57 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70cd/live/f11fa450-c61d-11f1-8c89-b96b8469b965.jpg"
-      },
-      {
         "id": "https://news.stv.tv/?p=532834",
         "title": "Barlinnie prisoners \u2018without hot showers and heating\u2019 amid ongoing water problems",
         "link": "https://news.stv.tv/west-central/barlinnie-prisoners-without-hot-showers-and-heating-amid-ongoing-water-problems",
@@ -2533,12 +2549,12 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21557286/?type=app&htype=0"
       },
       {
-        "id": "https://news.stv.tv/?p=532812",
-        "title": "Man seriously injured following attack at Bellshill property as two charged",
-        "link": "https://news.stv.tv/west-central/man-seriously-injured-following-attack-at-bellshill-property-as-two-charged",
-        "description": "A man and a woman have been charged in connection with perverting the course of justice following the incident in Bellshill",
-        "published": "Mon, 12 Oct 2026 11:04:31 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/73c9d8cb2033b2fc44b26af5e500fdd7-1791800725-1280x720.jpeg"
+        "id": "fabdf8787df3b4e8e317a1b94a008486",
+        "title": "Major bookmaker set to move into vacant shopping centre unit",
+        "link": "https://www.glasgowtimes.co.uk/news/26628094.ladbrokes-move-centre-antonine-shopping-centre/",
+        "description": "Ladbrokes is set to relocate to the Antonine Shopping Centre in Cumbernauld after plans to transform a vacant retail unit were approved.",
+        "published": "Mon, 12 Oct 2026 12:15:26 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21462702/?type=app&htype=0"
       },
       {
         "id": "9281101",
@@ -2659,14 +2675,6 @@
         "description": "Parts of Milngavie are affected by an ongoing power cut, with 115 postcodes listed and ScottishPower extending the estimated restoration time.",
         "published": "Mon, 12 Oct 2026 09:50:55 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21150424/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-street-reopens-three-days-34750423",
-        "title": "Glasgow street reopens three days after major blaze took hold of scrap yard",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-street-reopens-three-days-34750423",
-        "description": "No casualties have been reported and police say the fire is not being treated as 'wilful'.",
-        "published": "Mon, 12 Oct 2026 08:26:42 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34745537.ece/ALTERNATES/s98/0_Screenshot-82.png"
       },
       {
         "id": "9281063",
@@ -2819,22 +2827,6 @@
         "description": "Daniel Boyle, who absconded from the Roughmussel area, was last heard from on Thursday",
         "published": "Sun, 11 Oct 2026 17:42:21 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2022/06/39d0c011b0b0f1de22d62a90fc93792c-1080x720.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c6073zdr159xo#0",
-        "title": "Barlinnie water supply issues resolved after three days of disruption",
-        "link": "https://www.bbc.co.uk/news/articles/c6073zdr159xo?at_medium=RSS&at_campaign=rss",
-        "description": "Some prisoners have been unable to shower or flush toilets during the disruption which began on Thursday night.",
-        "published": "Sun, 11 Oct 2026 16:55:34 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d8a/live/97224730-c58e-11f1-9f85-f12d8ada92dd.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/football/articles/cqwy7nr5lry0o#0",
-        "title": "Jota comeback helps Celtic lift gloom in strong response",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cqwy7nr5lry0o?at_medium=RSS&at_campaign=rss",
-        "description": "Jota's comeback from long-term injury and Celtic's convincing victory over Motherwell provide positivity following the club's recent acrimony.",
-        "published": "Sun, 11 Oct 2026 16:55:21 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75d7/live/c1c36af0-c593-11f1-9a39-31b474234113.jpg"
       },
       {
         "id": "f24768dc720e05a53c791374ebd8fd57",
