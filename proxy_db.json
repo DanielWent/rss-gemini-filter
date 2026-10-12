@@ -2597,6 +2597,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9281783",
+        "title": "Celtic handed Europa League boost as Benfica boss explains 'B team' possibility ahead of clash",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-handed-europa-league-boost-as-benfica-boss-explains-why-he-might-need-to-dip-into-the-b-team-9281783",
+        "description": "<p>Hoops set for European glory tie on Thursday night</p>",
+        "published": "Mon, 12 Oct 2026 17:00:10 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/12/12/43/GettyImages-2295058325.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
         "id": "d8b71ea12aa8f4399ea262840a7f1195",
         "title": "The Glasgow street where drivers are most likely to get a parking ticket revealed",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26629945.glasgow-parking-streets-recording-highest-number-fines/",
@@ -2669,14 +2677,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21570679/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-banned-football-matches-after-34754110",
-        "title": "Man banned from football matches after Celtic Premiership finale chaos",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-banned-football-matches-after-34754110",
-        "description": "Liam Connolly was also given a Community Payback Order consisting of 150 hours.",
-        "published": "Mon, 12 Oct 2026 15:02:58 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34325507.ece/ALTERNATES/s98/0_JS330634601-2.jpg"
-      },
-      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/audi-stolen-torched-clydebank-break-34754141",
         "title": "Audi stolen and torched in Clydebank break-in as manhunt launched",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/audi-stolen-torched-clydebank-break-34754141",
@@ -2715,14 +2715,6 @@
         "description": "NHS Greater Glasgow and Clyde welcomes 56 newly qualified midwives after a \u00a34m maternity investment, with roles across hospitals and community services.",
         "published": "Mon, 12 Oct 2026 15:26:49 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21569897/?type=app&htype=0"
-      },
-      {
-        "id": "6643ac9f9ebfe997b5bcdec5e49488e7",
-        "title": "Revealed: The Glasgow streets that rake in the most parking cash for council",
-        "link": "https://www.heraldscotland.com/news/26629146.glasgow-parking-streets-recording-highest-number-fines/",
-        "description": "The Glasgow streets that pull in the highest amount of parking fine cash for the city council have been revealed.",
-        "published": "Mon, 12 Oct 2026 15:11:14 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/17907408/?type=app&htype=0"
       },
       {
         "id": "06301911c3a6bb387dd385c4eb5805ca",
@@ -3221,14 +3213,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20909366/?type=app&htype=0"
       },
       {
-        "id": "ad965801380a569a3d145a6ccbe0fbb5",
-        "title": "Northern Lights could return across the UK in the coming nights",
-        "link": "https://www.heraldscotland.com/news/26626460.northern-lights-may-return-across-uk-coming-nights/",
-        "description": "Northern Lights lit up skies from Northumberland to Kent and Surrey. Met Office says aurora borealis may return across the UK on Sunday and Monday nights.",
-        "published": "Sun, 11 Oct 2026 16:48:14 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21565774/?type=app&htype=0"
-      },
-      {
         "id": "9280575",
         "title": "Martin O'Neill outlines what was 'vital' in Motherwell win as Celtic boss celebrates personal milestone",
         "link": "https://www.glasgowworld.com/sport/football/celtic/martin-oneill-outlines-what-was-vital-in-motherwell-win-as-celtic-boss-celebrates-personal-milestone-9280575",
@@ -3387,14 +3371,6 @@
         "description": ". ScotWind's flawed penalty regime faces scrutiny as Audit Scotland warns \u00a3250,000 fines may not deter offshore wind developers from missing supply chain commitments.",
         "published": "Sun, 11 Oct 2026 06:34:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/17300922/?type=app&htype=0"
-      },
-      {
-        "id": "bfc758edb3cc2ec511eb0ced0b46a85a",
-        "title": "American pensioners enrolling at Scottish universities to secure student visas",
-        "link": "https://www.heraldscotland.com/news/26622991.retired-americans-using-student-visas-move-scotland/",
-        "description": "According to the most recent figures, Scottish universities enrolled 6,160 American students during the 2024/25 academic year.",
-        "published": "Sun, 11 Oct 2026 06:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20897648/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
