@@ -1048,6 +1048,14 @@
     "description": "AI Filtered DC Rainmaker Sports Tech & Wearable Updates.",
     "articles": [
       {
+        "id": "https://www.dcrainmaker.com/?p=170390",
+        "title": "Garmin MARQ Gen3 In-Depth Review: Worth It?",
+        "link": "https://www.dcrainmaker.com/2026/10/garmin-marq-gen3-in-depth-review.html",
+        "description": "The first thing to understand about Fight Club\u2026err\u2026MARQ Club, is that it\u2019s oddly not about the price. Nor is it supposed to be a classical timepiece meant to hand down to your grandchildren. Just like people who buy a business &#8230;  <a class=\"read_more\" href=\"https://www.dcrainmaker.com/2026/10/garmin-marq-gen3-in-depth-review.html\">Read More Here <span class=\"meta-nav\">&#8594;</span></a>",
+        "published": "Tue, 13 Oct 2026 11:00:49 +0000",
+        "image_url": "https://www.dcrainmaker.com/images/2026/10/DSC07844-1-720x480.jpg"
+      },
+      {
         "id": "https://www.dcrainmaker.com/?p=170242",
         "title": "Garmin Enduro 4 Everything You Need To Know: What\u2019s Actually New?",
         "link": "https://www.dcrainmaker.com/2026/10/garmin-enduro-4-vs-fenix9-vs-enduro3-detailed-comparison-review.html",
@@ -1954,6 +1962,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "c4a466c31379c45865294118a25a1b2b",
+        "title": "Award-winning deli celebrates another major Scottish food accolade",
+        "link": "https://www.glasgowtimes.co.uk/news/26631911.family-run-east-dunbartonshire-cafe-celebrates-major-award-win/",
+        "description": "An award-winning deli and cafe is celebrating another major accolade after being recognised for its outstanding food.",
+        "published": "Tue, 13 Oct 2026 12:19:46 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21573756/?type=app&htype=0"
+      },
+      {
         "id": "b39379bd70813ab2864bb64aa78951a0",
         "title": "Glasgow archaeologists uncover remains of wall at centre of historic battle",
         "link": "https://www.glasgowtimes.co.uk/news/26631423.historic-glasgow-wall-uncovered-dalmarnock-dig/",
@@ -2605,12 +2621,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "96970c8d32d2997eb0febab0eedf8982",
+        "title": "Opening date revealed as Chick-fil-A set to open near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26632017.chick-fil-a-hamilton-opening-date-revealed-first-scotland-chain/",
+        "description": "Chick-fil-A has confirmed the opening date for its first restaurant in Scotland at Hamilton Palace Grounds near Glasgow.",
+        "published": "Tue, 13 Oct 2026 12:33:51 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21467970/?type=app&htype=0"
+      },
+      {
+        "id": "c736af3ff1d4ec2484232e9b929f3cdf",
+        "title": "ScotRail sees record surge with over 48 million journeys made in just six months",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26631927.scotrail-recorded-48-million-journeys-six-months/",
+        "description": "ScotRail recorded 48 million journeys in six months, up 7% year on year, with ORR data showing the highest growth of any large UK rail operator.",
+        "published": "Tue, 13 Oct 2026 12:21:24 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19846632/?type=app&htype=0"
+      },
+      {
         "id": "9284391",
         "title": "Plans submitted for new Broomhill coffee shop in former butcher's unit",
         "link": "https://www.glasgowworld.com/news/plans-submitted-for-new-broomhill-coffee-shop-in-former-butchers-unit-9284391",
         "description": "<p>Plans have been lofged for a new coffee shop on Crow Road in Glasgow</p>",
         "published": "Tue, 13 Oct 2026 11:20:02 GMT",
         "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOmMzNzBkZjBiLWZmY2QtNGMzNS1iMWVhLTFhYjY2ZTZhMjM4ZDowNTY4MmRlYS01NTdkLTQ0YzctOGIwOC04MDk4ZjhhZjc2MTQ=.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "c4a466c31379c45865294118a25a1b2b",
+        "title": "Award-winning deli celebrates another major Scottish food accolade",
+        "link": "https://www.glasgowtimes.co.uk/news/26631911.family-run-east-dunbartonshire-cafe-celebrates-major-award-win/",
+        "description": "An award-winning deli and cafe is celebrating another major accolade after being recognised for its outstanding food.",
+        "published": "Tue, 13 Oct 2026 12:19:46 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21573756/?type=app&htype=0"
+      },
+      {
+        "id": "bcddd57d233aeb089e32d718af5988ff",
+        "title": "Radio 1 DJ Tony Blackburn to bring Sounds of the 60s Live to Scotland next year",
+        "link": "https://www.heraldscotland.com/news/26631730.tony-blackburn-announces-glasgow-show-september-2027/",
+        "description": "Tony Blackburn will bring Sounds of the 60s Live to Glasgow\u2019s King\u2019s Theatre on September 1, 2027, with a second Scottish date in Edinburgh.",
+        "published": "Tue, 13 Oct 2026 11:58:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21573481/?type=app&htype=0"
       },
       {
         "id": "9284246",
@@ -2635,6 +2683,14 @@
         "description": "&quot;Further repair work has been identified&quot;.",
         "published": "Tue, 13 Oct 2026 10:31:39 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34757075.ece/ALTERNATES/s98/0_Prisoner-early-release-scheme.jpg"
+      },
+      {
+        "id": "03d404fa10e75ef9b88304d9de7cdce6",
+        "title": "BBC announces two-part documentary series on J.K. Rowling",
+        "link": "https://www.heraldscotland.com/news/26631515.two-part-documentary-series-j-k-rowling-announced-bbc/",
+        "description": "BBC Factual and BBC Scotland have announced a two-part documentary series on Harry Potter author J.K. Rowling.",
+        "published": "Tue, 13 Oct 2026 11:27:09 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21573218/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=532986",
@@ -2739,14 +2795,6 @@
         "description": "Kula Shaker to perform at SWG3 in Glasgow's West End",
         "published": "Tue, 13 Oct 2026 10:07:15 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20655741/?type=app&htype=0"
-      },
-      {
-        "id": "f6e9d0033210b250047c81acd6854309",
-        "title": "New Glasgow coffee shop could be coming to busy street",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26630874.plans-submitted-new-coffee-shop-glasgows-crow-road/",
-        "description": "New coffee shop plans submitted for 334 Crow Road in Glasgow\u2019s West End, featuring an illuminated fascia sign and retractable awning, pending council validation.",
-        "published": "Tue, 13 Oct 2026 09:58:11 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17947561/?type=app&htype=0"
       },
       {
         "id": "e241608c1e605325f35783c6ef80e7c6",
@@ -3371,38 +3419,6 @@
         "description": "Tens of thousands of people are still thought to own an XL Bully",
         "published": "Mon, 12 Oct 2026 08:53:52 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/article34750607.ece/ALTERNATES/s98/0_A-large-friendly-puppy-dog-wearing-a-harness-looks-at-the-camera.jpg"
-      },
-      {
-        "id": "893051934e4ba170623774cd44fcb2ee",
-        "title": "115 postcodes left without electricity as residents face third day of power cuts",
-        "link": "https://www.glasgowtimes.co.uk/news/26627092.milngavie-power-cut-reaches-third-day-115-postcodes-hit/",
-        "description": "Parts of Milngavie are affected by an ongoing power cut, with 115 postcodes listed and ScottishPower extending the estimated restoration time.",
-        "published": "Mon, 12 Oct 2026 09:50:55 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21150424/?type=app&htype=0"
-      },
-      {
-        "id": "9281063",
-        "title": "Michael Nicholson accused of hanging key Celtic figure out to dry as silence amid Dermot Desmond row blasted",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/michael-nicholson-accused-of-hanging-key-celtic-figure-out-to-dry-9281063",
-        "description": "<p>Celtic were back in action over the weekend at Motherwell.</p>",
-        "published": "Mon, 12 Oct 2026 08:19:15 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/12/8/49/GettyImages-2295012484.jpg?width=1200&auto=webp&trim=25%2C0%2C26%2C0"
-      },
-      {
-        "id": "bfd67e0e2c93955266040cd262e6883d",
-        "title": "A legendary UK ska band split in two \u2014 but which version had the magic in Scotland",
-        "link": "https://www.heraldscotland.com/life_style/26626874.review-beat-barrowland-glasgow/",
-        "description": "Dave Wakeling performs classic British ska hits at Barrowland in Glasgow as the front man of The Beat. Read our review discussing the enduring legacy of a legendary band.",
-        "published": "Mon, 12 Oct 2026 09:09:50 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21566531/?type=app&htype=0"
-      },
-      {
-        "id": "05cabb3c1ada586f6e87411f34e49ad3",
-        "title": "LIVE updates as Glasgow train services disrupted amid emergency incident",
-        "link": "https://www.glasgowtimes.co.uk/news/26626859.live-updates-glasgow-train-services-disrupted-amid-emergency/",
-        "description": "Glasgow train services are being disrupted amid an ongoing emergency incident.",
-        "published": "Mon, 12 Oct 2026 09:05:11 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21566448/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
