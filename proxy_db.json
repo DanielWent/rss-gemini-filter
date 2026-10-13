@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cvj6j812dg4no#4",
+        "title": "Fortnite-maker Epic Games confirms 'huge pivot' towards using AI",
+        "link": "https://www.bbc.co.uk/news/articles/cvj6j812dg4no?at_medium=RSS&at_campaign=rss",
+        "description": "The US firm's boss responds to critics, saying \"much of the room wants it to be 2016, but it's not\".",
+        "published": "Tue, 13 Oct 2026 10:20:08 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4415/live/d40ba720-1c9e-11f1-bcb6-d5b9a36c13b4.png"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo#4",
         "title": "AI minister warns 'likely' UK's cyber defences will be breached",
         "link": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The governor of the Bank of England warned of AI's \u201cvolatility\u201d caused by energy shocks from the US-Iran war.",
         "published": "Mon, 31 Aug 2026 16:49:11 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg"
-      },
-      {
-        "id": "1788106808851678",
-        "title": "Nasa launches powerful new space telescope to explore mysteries of the Universe",
-        "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
-        "description": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
-        "published": "Sun, 30 Aug 2026 17:28:08 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd8f/live/ebc7fcb0-a47f-11f1-bed8-470734b5b662.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -1946,6 +1946,22 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "b39379bd70813ab2864bb64aa78951a0",
+        "title": "Glasgow archaeologists uncover remains of wall at centre of historic battle",
+        "link": "https://www.glasgowtimes.co.uk/news/26631423.historic-glasgow-wall-uncovered-dalmarnock-dig/",
+        "description": "Harvie\u2019s Dyke remains unearthed in Dalmarnock, Glasgow, revealing a 19th-century public right of way battle and rare Let Glasgow Flourish token.",
+        "published": "Tue, 13 Oct 2026 11:14:46 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21573082/?type=app&htype=0"
+      },
+      {
+        "id": "2f4059e11228636013a287b5d23aed60",
+        "title": "Parking signs go up as council confirms controversial charges WILL begin",
+        "link": "https://www.glasgowtimes.co.uk/news/26631225.kirkintilloch-parking-charges-confirmed-new-signs-go/",
+        "description": "Kirkintilloch parking charges will begin on November 2, 2026, despite 490 objections and petitions. East Dunbartonshire Council expects \u00a3231,369 annually.",
+        "published": "Tue, 13 Oct 2026 10:48:31 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21530519/?type=app&htype=0"
+      },
+      {
         "id": "2748b9826c6a6746736544c6a2997b0c",
         "title": "Beloved event in memory of murdered Glasgow woman to return to city park",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26629451.moiras-run-returns-glasgows-queens-park-13th-year/",
@@ -2000,14 +2016,6 @@
         "description": "Crime fans are invited to an evening of real-life detective stories and criminal intrigue.",
         "published": "Sun, 11 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21562157/?type=app&htype=0"
-      },
-      {
-        "id": "9e3b94eb7f7015260a05933c370890c2",
-        "title": "Funeral date announced for much-loved priest who served communities across Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26625443.funeral-arrangements-announced-priest-canon-john-mcgrorry/",
-        "description": "Funeral arrangements announced for 67-year-old Canon John McGrorry, with a vigil in Dumbarton on October 26 and Funeral Mass and burial on October 27.",
-        "published": "Sat, 10 Oct 2026 15:49:01 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21563538/?type=app&htype=0"
       },
       {
         "id": "fff4be227d89a829e94278709d834792",
@@ -2128,14 +2136,6 @@
         "description": "East Dunbartonshire Council is considering a planning application for a 20m telecoms mast with six antennas at Canniesburn Toll roundabout, Bearsden.",
         "published": "Tue, 06 Oct 2026 10:26:26 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21542837/?type=app&htype=0"
-      },
-      {
-        "id": "18d1545ab015f7774e48ec2082aa4a19",
-        "title": "'It's a bad idea'- MSP calls for halt to controversial town centre parking charges",
-        "link": "https://www.glasgowtimes.co.uk/news/26608633.msp-urges-council-halt-kirkintilloch-bearsden-parking-charges/",
-        "description": "Strathkelvin and Bearsden MSP Adam Harley has called on East Dunbartonshire Council to pause controversial parking charges in Kirkintilloch and Bearsden, warning they could harm local businesses.",
-        "published": "Mon, 05 Oct 2026 15:19:20 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21540080/?type=app&htype=44"
       },
       {
         "id": "edef40d80624a8c8fca72ff15df61b0e",
@@ -2288,14 +2288,6 @@
         "description": "A care home has unveiled a new garden designed to promote wellbeing, connection, and time spent outdoors.",
         "published": "Wed, 02 Sep 2026 15:06:06 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21402617/?type=app&htype=0"
-      },
-      {
-        "id": "0a2910b307a495730a27a91e294b2813",
-        "title": "Burst water main in Glasgow causes huge disruption as drivers asked to avoid area",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26515887.burst-water-main-baldric-road-affects-anniesland-knightswood/",
-        "description": "Scottish Water is repairing a burst water main on Baldric Road affecting customers in Anniesland, Knightswood and Yoker.",
-        "published": "Wed, 02 Sep 2026 13:45:05 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19075005/?type=app&htype=0"
       },
       {
         "id": "50c06e70c553faec94750866e55206b5",
@@ -2605,12 +2597,60 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=532986",
+        "title": "SNP invites Burnham to party conference during Scotland visit",
+        "link": "https://news.stv.tv/west-central/snp-invites-burnham-to-party-conference-during-scotland-visit",
+        "description": "The Labour leader will reportedly arrive on Friday",
+        "published": "Tue, 13 Oct 2026 10:21:23 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/75f816c79bc1765632d91396a3836d40-1791886844-1119x720.jpeg"
+      },
+      {
+        "id": "b39379bd70813ab2864bb64aa78951a0",
+        "title": "Glasgow archaeologists uncover remains of wall at centre of historic battle",
+        "link": "https://www.glasgowtimes.co.uk/news/26631423.historic-glasgow-wall-uncovered-dalmarnock-dig/",
+        "description": "Harvie\u2019s Dyke remains unearthed in Dalmarnock, Glasgow, revealing a 19th-century public right of way battle and rare Let Glasgow Flourish token.",
+        "published": "Tue, 13 Oct 2026 11:14:46 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21573082/?type=app&htype=0"
+      },
+      {
+        "id": "29bed0ecfd22c84e8aa02dc31ca5d149",
+        "title": "Q Manivannan enters race to become next University of St Andrews rector",
+        "link": "https://www.heraldscotland.com/news/26631397.q-manivannan-joins-university-st-andrews-rector-election/",
+        "description": "Q Manivannan, who received a PhD from the institution earlier this year, will be challenged by American actor Brian Baumgartner and AI tech boss Mark Brunner.",
+        "published": "Tue, 13 Oct 2026 11:11:18 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20897179/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/cowboy-builder-lanarkshire-con-29k-34756478",
+        "title": "Cowboy builder conned Lanarkshire homeowners out of \u00a329K for work he didn't do",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/cowboy-builder-lanarkshire-con-29k-34756478",
+        "description": "Four victims were in Calder Avenue, Newmains, including two women aged 75 and 72, and a 72-year-old man",
+        "published": "Tue, 13 Oct 2026 10:08:46 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34569320.ece/ALTERNATES/s98/1_dmp_ham_090421court_007JPG.jpg"
+      },
+      {
+        "id": "155cb63865a3a01cfcca02653504469f",
+        "title": "Driver avoids jail for 'brutal' hit-and-run that left woman seriously injured",
+        "link": "https://www.heraldscotland.com/news/26631285.glasgow-hit-and-run-driver-seriously-injured-woman-avoids-jail/",
+        "description": "A driver who carried out a brutal hit-and-run on a woman that ended up severely injured avoided jail today.",
+        "published": "Tue, 13 Oct 2026 10:56:14 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18861560/?type=app&htype=0"
+      },
+      {
         "id": "5236540",
         "title": "17 ways our readers would improve Glasgow and make it a better place to live",
         "link": "https://www.glasgowworld.com/news/17-ways-improve-glasgow-9284010",
         "description": "<p>Glasgow is a great and beautiful city in the world but, as the saying goes, there is always room for improvement.</p>",
         "published": "Tue, 13 Oct 2026 09:53:51 GMT",
         "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOmIzMDgwMGM0LTM5YTktNDZkZi1hNmQ2LWQyOWNmNmIxMzNmZDo1NDkyZTA2ZC0yNGU5LTRjYWItYTMxYi0xMzRjMmM0OGNlMWQ=.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "2f4059e11228636013a287b5d23aed60",
+        "title": "Parking signs go up as council confirms controversial charges WILL begin",
+        "link": "https://www.glasgowtimes.co.uk/news/26631225.kirkintilloch-parking-charges-confirmed-new-signs-go/",
+        "description": "Kirkintilloch parking charges will begin on November 2, 2026, despite 490 objections and petitions. East Dunbartonshire Council expects \u00a3231,369 annually.",
+        "published": "Tue, 13 Oct 2026 10:48:31 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21530519/?type=app&htype=0"
       },
       {
         "id": "15cea7b8db85a62f789bc4cb1cb5ea49",
@@ -3355,54 +3395,6 @@
         "description": "Obituary of Fran\u00e7ois Foucart, fencing and gymnastics master who accompanied Napoleon in Russia and died in Glasgow, Scotland, after 40 years there.",
         "published": "Mon, 12 Oct 2026 06:30:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21557024/?type=app&htype=0"
-      },
-      {
-        "id": "3338ee30b85a6a54a2d8002c1bdbffc2",
-        "title": "I was inspired by Six and Hamilton to write a musical about Glasgow's witches",
-        "link": "https://www.glasgowtimes.co.uk/news/26620295.new-musical-brings-glasgows-pollok-witches-story-stage/",
-        "description": "Alyson Orr grew up on Glasgow\u2019s Southside, so she knew all about the disturbing tale of the Pollok witches.",
-        "published": "Mon, 12 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21556565/?type=app&htype=0"
-      },
-      {
-        "id": "03dac7e69897cfae2dcbb19598601ccb",
-        "title": "Glasgow man left in tears after finding his mother's grave overgrown",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26622624.glasgow-man-left-tears-overgrown-lambhill-cemetery-grave/",
-        "description": "A Glasgow man says he was left in tears after going to visit his mother's grave and finding it overgrown.",
-        "published": "Mon, 12 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21560740/?type=app&htype=0"
-      },
-      {
-        "id": "eed89e5b87f2419b40142baed0439a91",
-        "title": "Residents' fury as rats infest Glasgow tenement following missed bin lifts",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26622615.shettleston-residents-fury-rats-infest-glasgow-tenement/",
-        "description": "A Shettleston resident has been left furious at Glasgow City Council as missed bin collections have brought rats to the area.",
-        "published": "Mon, 12 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21561088/?type=app&htype=0"
-      },
-      {
-        "id": "815dfafbbf85873bcc6099cc51448dc4",
-        "title": "Ministers have 'appetite' to weaken no compulsory redundancy protection, union claims",
-        "link": "https://www.heraldscotland.com/news/26626130.union-warns-snp-may-weaken-no-compulsory-redundancy-policy/",
-        "description": "Scottish civil servants face uncertainty as no compulsory redundancy protection expires on March 31, 2027, amid plans to cut 20% of core civil service jobs.",
-        "published": "Mon, 12 Oct 2026 05:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20258709/?type=app&htype=0"
-      },
-      {
-        "id": "042dab47d624216a9706d880d642a9a6",
-        "title": "Battle for \u00a31bn Scottish company intensifies as investors urged to act in crunch vote",
-        "link": "https://www.heraldscotland.com/opinion/26623728.baillie-gifford-us-growth-trust-battle-builds-crunch-vote-looms/",
-        "description": "Shareholders have been urged to act as a battle over the future of a \u00a31 billion Scottish company reaches a crucial stage.",
-        "published": "Mon, 12 Oct 2026 04:40:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21561102/?type=app&htype=0"
-      },
-      {
-        "id": "fee2d6b20f1c34d8ce89e56e56b17b51",
-        "title": "Sold in 30 countries: inside Nairn\u2019s plans for the next chapter of growth",
-        "link": "https://www.heraldscotland.com/news/26622810.nairns-targets-export-growth-130-years-business/",
-        "description": "The Scottish oatcake maker's products are sold in more than 30 countries. Colin Dingwall explains the opportunities and challenges facing Nairn\u2019s",
-        "published": "Mon, 12 Oct 2026 04:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21560248/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
