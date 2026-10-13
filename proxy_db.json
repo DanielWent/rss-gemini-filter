@@ -2605,6 +2605,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "4a3e7e24c05851297940e3e1d0611c6b",
+        "title": "Swinney recommits to triple lock for an independent Scotland despite backlash",
+        "link": "https://www.heraldscotland.com/news/26630219.swinney-recommits-triple-lock-independent-scotland/",
+        "description": "SNP First Minister John Swinney recommits to the pension triple lock in an independent Scotland amid a row over UK pension changes and claims of misleading Scots.",
+        "published": "Tue, 13 Oct 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20071875/?type=app&htype=0"
+      },
+      {
+        "id": "0497d484efd44f977bf6f09ce075b6cc",
+        "title": "Scottish homeowners \u00a3279 a month worse off as SNP says Burnham broke promise",
+        "link": "https://www.heraldscotland.com/news/26629952.snp-accuses-andy-burnham-breaking-cost-of-living-promise/",
+        "description": "SNP accuses Andy Burnham of breaking cost-of-living promises as five-year mortgage rates hit 6%, leaving Scottish homeowners \u00a3279 a month worse off.",
+        "published": "Tue, 13 Oct 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21571201/?type=app&htype=0"
+      },
+      {
+        "id": "01dac64c14fc5029a152fe5696de42da",
+        "title": "New study finds Scottish pubs closing every four and a half days as 585 jobs are lost",
+        "link": "https://www.heraldscotland.com/news/26629980.scotland-loses-62-pubs-nine-months-585-jobs-go/",
+        "description": "Scottish Beer &amp; Pub Association figures show 62 pubs closed between January and September 2026, costing 585 jobs and more than \u00a36m in tax revenue.",
+        "published": "Tue, 13 Oct 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20863506/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c6zxj8grer7ro#0",
         "title": "Student who spells by blinking is denied chance to sit exam",
         "link": "https://www.bbc.co.uk/news/articles/c6zxj8grer7ro?at_medium=RSS&at_campaign=rss",
@@ -3379,30 +3403,6 @@
         "description": "Scottish Labour claims Glasgow City Council was underfunded by \u00a3357m, as SNP ministers face calls for clarity over plans to reform local government in Scotland.",
         "published": "Sun, 11 Oct 2026 09:50:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21504266/?type=app&htype=0"
-      },
-      {
-        "id": "d71fd274f1e97ef85e16a31933b28bc5",
-        "title": "High-risk appeal launched for missing 80-year-old as welfare fears grow",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26625928.search-find-80-year-old-charles-auld-tarbolton/",
-        "description": "Police Scotland launches a high-risk appeal to find missing 80-year-old Charles Stuart Auld, last seen in Tarbolton on October 10. Call 101 for information.",
-        "published": "Sun, 11 Oct 2026 09:43:43 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21564536/?type=app&htype=0"
-      },
-      {
-        "id": "9280021",
-        "title": "Derek McInnes explains what 'annoyed' him despite victory over Kilmarnock as half-time Rangers sub clarified",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/derek-mcinnes-on-what-annoyed-him-despite-victory-over-kilmarnock-as-half-time-rangers-substitution-explained-9280021",
-        "description": "<p>Light Blues took their foot off the gas after the break</p>",
-        "published": "Sun, 11 Oct 2026 08:00:35 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/10/20/16/GettyImages-2299550423.jpeg?width=1200&auto=webp&trim=61%2C0%2C61%2C0"
-      },
-      {
-        "id": "5e228f7015af4a64cbcaa2658ce55656",
-        "title": "From 'disbelief' to fighting back: Craft body chief on university programme closures",
-        "link": "https://www.heraldscotland.com/news/education/26622742.craft-scotland-chief-fighting-back-closure-specialist-courses/",
-        "description": "The director of Scotland\u2019s national development agency for craft, Ms Kernan is at the tip of the spear in a rapidly changing industry beset by existential challenges.",
-        "published": "Sun, 11 Oct 2026 08:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21559596/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
