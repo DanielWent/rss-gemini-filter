@@ -2605,6 +2605,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9282902",
+        "title": "Rangers answer three huge overhanging question marks under Derek McInnes as winning run silences critics",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-answer-three-big-question-marks-under-derek-mcinnes-as-winning-run-silences-recent-criticisms-9282902",
+        "description": "<p>Former striker believes they\u2019ve improved in three aspects</p>",
+        "published": "Tue, 13 Oct 2026 07:00:10 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/12/21/58/GettyImages-2296222100.jpeg?width=1200&auto=webp&trim=0%2C96%2C0%2C96"
+      },
+      {
+        "id": "9282932",
+        "title": "Former Celtic striker thanks lucky stars for international break as Hoops 'really needed' extended lay-off",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/former-celtic-striker-thanks-lucky-stars-for-international-break-as-hoops-really-needed-extended-lay-off-9282932",
+        "description": "<p>Hoops got back to winning ways against Motherwell after three successive defeats</p>",
+        "published": "Tue, 13 Oct 2026 07:00:00 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/12/22/49/GettyImages-2299663324.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C1"
+      },
+      {
+        "id": "https://runabc.co.uk/hot-chocolate-5k-10k-returns-to-edinburgh-after-a-soggy-debut",
+        "title": "Hot Chocolate 5K & 10K Returns To Edinburgh After A Soggy Debut",
+        "link": "https://runabc.co.uk/hot-chocolate-5k-10k-returns-to-edinburgh-after-a-soggy-debut",
+        "description": "<p><img alt=\"Hot Chocolate 5K and 10K 2026\" src=\"https://runabc.co.uk/images/2026/10/hot-chocolate-5k-10k-2026.jpg\" /></p>\n\t\t\t\t<p>Edinburgh's Hot Chocolate 5K & 10K returns on 22 November after more than 380 runners braved the rain for last year's inaugural event...</p>",
+        "published": "Tue, 13 Oct 2026 07:55:00 +0100",
+        "image_url": "https://runabc.co.uk/images/2026/10/hot-chocolate-5k-10k-2026.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-charity-face-massive-bill-34752576",
         "title": "Glasgow charity face massive bill over fears walls could collapse 'with little warning'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-charity-face-massive-bill-34752576",
@@ -3379,30 +3403,6 @@
         "description": "Health Secretary Angela Constance says NHS corridor care is unacceptable as Scotland faces winter pressures, A&amp;E waits and calls to expand community care.",
         "published": "Sun, 11 Oct 2026 14:29:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20391983/?type=app&htype=0"
-      },
-      {
-        "id": "83c87d232864e75c8ed7afbe2a4c7482",
-        "title": "49 new Glasgow flats planned beside iconic Tennent's brewery site",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26626289.plans-submitted-49-new-apartments-beside-glasgow-church/",
-        "description": "Plans submitted to Glasgow City Council for 49 courtyard apartments in the East End, next to an A-listed church and overlooking Tennent\u2019s Wellpark Brewery.",
-        "published": "Sun, 11 Oct 2026 14:22:15 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21565237/?type=app&htype=0"
-      },
-      {
-        "id": "40aa3f099ec630062fd9d113d40db6ff",
-        "title": "Forty years on, Glasgow's Gaelic success story sings loud and proud",
-        "link": "https://www.heraldscotland.com/life_style/26626195.review-m-d-2026-ar-c-nan-s-ar-ce-l-royal-glasgow-concert-hall/",
-        "description": "Mod Fringe in Glasgow celebrates 40 years of Gaelic-medium education with Ar C\u00e0nan \u2019s Ar Ce\u00f2l concert at the Royal Glasgow Concert Hall.",
-        "published": "Sun, 11 Oct 2026 14:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21563256/?type=app&htype=0"
-      },
-      {
-        "id": "fcc1219e7e69eafe34ce5155cd4bc9fb",
-        "title": "Derelict Glasgow tenement could double in height under student flats plan",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26626274.plans-double-maryhill-tenements-height-student-flats/",
-        "description": "Plans to double the height of a derelict Maryhill tenement could create 12 student flats and a dental surgery, as Glasgow City Council considers the bid.",
-        "published": "Sun, 11 Oct 2026 13:57:23 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21565196/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
