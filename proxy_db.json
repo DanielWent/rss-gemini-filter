@@ -2605,6 +2605,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-charity-face-massive-bill-34752576",
+        "title": "Glasgow charity face massive bill over fears walls could collapse 'with little warning'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-charity-face-massive-bill-34752576",
+        "description": "The charity now faces a massive \u00a3300,000 bill to remove the material that has forced them to close half of the building.",
+        "published": "Tue, 13 Oct 2026 06:25:06 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34755775.ece/ALTERNATES/s98/1_Screenshot-87.png"
+      },
+      {
         "id": "f94aef441c1aec09ac3dea2c487eab01",
         "title": "Six Scottish RNLI stations to receive new lifeboats by 2030 as demand increases",
         "link": "https://www.heraldscotland.com/news/26630365.six-scottish-rnli-stations-receive-new-lifeboats-2030/",
@@ -3395,14 +3403,6 @@
         "description": "Plans to double the height of a derelict Maryhill tenement could create 12 student flats and a dental surgery, as Glasgow City Council considers the bid.",
         "published": "Sun, 11 Oct 2026 13:57:23 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21565196/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/five-things-expect-scotlands-biggest-34748349",
-        "title": "Five things to expect as Scotland\u2019s biggest wedding show returns to Glasgow next weekend",
-        "link": "https://www.glasgowlive.co.uk/whats-on/five-things-expect-scotlands-biggest-34748349",
-        "description": "An exciting day for soon-to-be newlyweds!",
-        "published": "Sun, 11 Oct 2026 12:39:21 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34748423.ece/ALTERNATES/s98/0_The-Scottish-Wedding-Show-Live-Band-Showcase.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
