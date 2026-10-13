@@ -2605,12 +2605,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "f6e9d0033210b250047c81acd6854309",
+        "title": "New Glasgow coffee shop could be coming to busy street",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26630874.plans-submitted-new-coffee-shop-glasgows-crow-road/",
+        "description": "New coffee shop plans submitted for 334 Crow Road in Glasgow\u2019s West End, featuring an illuminated fascia sign and retractable awning, pending council validation.",
+        "published": "Tue, 13 Oct 2026 09:58:11 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17947561/?type=app&htype=0"
+      },
+      {
+        "id": "e241608c1e605325f35783c6ef80e7c6",
+        "title": "Major phone and broadband changes coming to three Glasgow areas",
+        "link": "https://www.glasgowtimes.co.uk/news/26630857.three-glasgow-areas-face-copper-phone-order-changes/",
+        "description": "Three telephone exchange areas in and around Glasgow have been named in the latest phase of the UK\u2019s transition away from copper-based networks",
+        "published": "Tue, 13 Oct 2026 09:55:12 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21271908/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/former-glasgow-gangster-paul-ferris-34755933",
         "title": "Former Glasgow gangster Paul Ferris to be laid to rest at same site as hated rival",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/former-glasgow-gangster-paul-ferris-34755933",
         "description": "Daldowie is the very same venue where Ferris's sworn enemy, crime boss Tam &quot;The Licensee&quot; McGraw, was cremated following his death 19 years ago.",
         "published": "Tue, 13 Oct 2026 07:36:34 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34755967.ece/ALTERNATES/s98/0_JS13235280.jpg"
+      },
+      {
+        "id": "68ddd8d94b6c379b198b78b018b635be",
+        "title": "Celtic announce date of annual mass celebrating the club's formation",
+        "link": "https://www.glasgowtimes.co.uk/sport/26630481.celtic-announce-date-annual-mass-celebrating-anniversary/",
+        "description": "Celtic have confirmed the date of their annual mass in celebration of the club's formation.",
+        "published": "Tue, 13 Oct 2026 08:24:39 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20500804/?type=app&htype=0"
       },
       {
         "id": "9282902",
@@ -3379,30 +3403,6 @@
         "description": "Daniel Boyle, who absconded from the Roughmussel area, was last heard from on Thursday",
         "published": "Sun, 11 Oct 2026 17:42:21 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2022/06/39d0c011b0b0f1de22d62a90fc93792c-1080x720.jpg"
-      },
-      {
-        "id": "f24768dc720e05a53c791374ebd8fd57",
-        "title": "Campaigners vow to keep fighting as original Hampden Park site goes to market",
-        "link": "https://www.glasgowtimes.co.uk/news/26626464.historic-original-hampden-park-site-hits-market-lease/",
-        "description": "The site of the first ever Hampden football field has been put on the market by City Property Glasgow",
-        "published": "Sun, 11 Oct 2026 16:51:16 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20909366/?type=app&htype=0"
-      },
-      {
-        "id": "9280575",
-        "title": "Martin O'Neill outlines what was 'vital' in Motherwell win as Celtic boss celebrates personal milestone",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/martin-oneill-outlines-what-was-vital-in-motherwell-win-as-celtic-boss-celebrates-personal-milestone-9280575",
-        "description": "<p>Hoops boss spoke after 2-0 win at Fir Park</p>",
-        "published": "Sun, 11 Oct 2026 15:08:03 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/11/15/12/GettyImages-2299644663.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "90d32f26b00e6214fb661c9a566c8104",
-        "title": "Glasgow spends more than \u00a336m on cycle routes as compensation claims top \u00a3110,000",
-        "link": "https://www.heraldscotland.com/news/26626391.glasgow-spends-36m-cycle-routes-since-2020/",
-        "description": "Glasgow City Council spent \u00a336.2m on 109 cycle route schemes since 2020, while \u00a3110,858.98 went on compensation claims and a detailed breakdown was refused.",
-        "published": "Sun, 11 Oct 2026 15:56:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20577190/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
