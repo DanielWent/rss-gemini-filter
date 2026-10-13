@@ -1097,6 +1097,14 @@
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
       {
+        "id": "https://the5krunner.com/?p=137176",
+        "title": "MARQ Gen 3 vs Gen 2 \u2013 what $600 more buys you",
+        "link": "https://the5krunner.com/2026/10/13/garmin-marq-gen-3-vs-gen-2/",
+        "description": "<p><img alt=\"MARQ Gen 3 vs Gen 2 &#8211; what $600 more buys you\" class=\"attachment-large size-large\" height=\"810\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/garmin-marq-gen-3-athelte-product.png/w=672,h=810\" style=\"height: auto;\" width=\"672\" /></p>\n<p>MARQ Gen 3 adds LTE calls, satellite SOS, a flashlight, ECG, a dive computer and a bigger screen over Gen 2, for $600 more. Here is what\u2019s new, what Gen 2 still does well and which to buy.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/13/garmin-marq-gen-3-vs-gen-2/\">MARQ Gen 3 vs Gen 2 &#8211; what $600 more buys you</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Tue, 13 Oct 2026 13:43:49 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/garmin-marq-gen-3-athelte-product.png/w=672,h=810"
+      },
+      {
         "id": "https://the5krunner.com/?p=136957",
         "title": "Indie Spotlight: SYMPATHETIC turns a Polar H10 into a breathing coach",
         "link": "https://the5krunner.com/2026/10/13/resonance-breathing-recovery-sympathetic/",
@@ -1962,6 +1970,22 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "862b6a880395326a0dde242f54d5cb4d",
+        "title": "Bursary scheme offering grants of up to \u00a31000 to East Dunbartonshire artists",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26632748.east-dunbartonshire-artists-offered-500-1-000-bursaries/",
+        "description": "A bursary scheme is offering financial support to visual artists and craft makers.",
+        "published": "Tue, 13 Oct 2026 14:37:56 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21574971/?type=app&htype=0"
+      },
+      {
+        "id": "759eaaaec9c0bf768adf5462a5eca47c",
+        "title": "The Scottish love story that helped create a global whisky empire",
+        "link": "https://www.glasgowtimes.co.uk/news/26632578.east-dunbartonshires-unique-role-story-japanese-whisky/",
+        "description": "A Japanese diplomat has visited Kirkintilloch to learn more about the Scottish woman celebrated as the \u201cMother of Japanese Whisky\u201d.",
+        "published": "Tue, 13 Oct 2026 14:10:55 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21574762/?type=app&htype=0"
+      },
+      {
         "id": "6b30450152a464b85bcc2721c8905098",
         "title": "Update issued after police swarmed residential street",
         "link": "https://www.glasgowtimes.co.uk/news/26631988.bearsden-man-charged-disturbance-prompts-police/",
@@ -2629,6 +2653,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=532955",
+        "title": "What is the giant spaceship structure being built next to the M8?",
+        "link": "https://news.stv.tv/west-central/what-is-the-giant-spaceship-structure-being-built-next-to-the-m8",
+        "description": "The South Clyde Energy Centre will supply thousands of homes with electricity from unrecyclable waste",
+        "published": "Tue, 13 Oct 2026 13:55:11 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/4b9532b60d39e91fb3c4ea862651dc2e-1791897805-1280x720.jpeg"
+      },
+      {
+        "id": "9be136bbe322428d5c3bac4ffe98a66f",
+        "title": "Scottish-founded fintech firm wins King's Award after lending \u00a332m in Scotland",
+        "link": "https://www.heraldscotland.com/news/26632659.alad-wins-kings-award-lending-32m-scotland/",
+        "description": "Fintech firm Salad has received a King's Award for Enterprise after lending more than \u00a332m to customers in Scotland and supporting 200,000 people across the UK.",
+        "published": "Tue, 13 Oct 2026 14:35:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21574914/?type=app&htype=0"
+      },
+      {
+        "id": "9284930",
+        "title": "Drumchapel teenager recognised with award for CPR skills that saved young boy's life",
+        "link": "https://www.glasgowworld.com/news/drumchapel-teenager-recognised-with-award-for-cpr-skills-that-saved-young-boys-life-9284930",
+        "description": "<p>Jordan Kerr, a 15-year-old army cadet, used CPR skills he had learnt to help save the life of a young boy who collapsed at a train station</p>",
+        "published": "Tue, 13 Oct 2026 13:30:14 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/13/13/58/55576869388_997b41df45_o-Copy.jpeg?width=1200&auto=webp&trim=208%2C0%2C208%2C0"
+      },
+      {
+        "id": "74c22631452243f470a619c2d2d77339",
+        "title": "Glasgow innovation district spin-outs secure \u00a3149.5m in investment",
+        "link": "https://www.heraldscotland.com/news/26632550.glasgow-innovation-district-reports-149-5m-spin-out-investment/",
+        "description": "Glasgow Riverside Innovation District's first annual report highlights \u00a3149.5m in spin-out investment, new research facilities and community projects.",
+        "published": "Tue, 13 Oct 2026 14:20:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21574777/?type=app&htype=0"
+      },
+      {
         "id": "759eaaaec9c0bf768adf5462a5eca47c",
         "title": "The Scottish love story that helped create a global whisky empire",
         "link": "https://www.glasgowtimes.co.uk/news/26632578.east-dunbartonshires-unique-role-story-japanese-whisky/",
@@ -2669,12 +2725,28 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34755455.ece/ALTERNATES/s98/2_council1.jpg"
       },
       {
+        "id": "aaa3a1edf6881cbe025c4007e185632e",
+        "title": "Scottish founder launches free app to help plan UK hill and mountain trips",
+        "link": "https://www.heraldscotland.com/news/26632400.new-hillcast-app-combines-weather-routes-uk-hills/",
+        "description": "The free Hillcast app brings UK hill weather forecasts, walking routes and parking information together for 2,000+ summits across Scotland, England and Wales.",
+        "published": "Tue, 13 Oct 2026 13:50:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21574502/?type=app&htype=0"
+      },
+      {
         "id": "39366ba6aa90d858fa596cb76f0d1e1c",
         "title": "Thug pointed 'loaded gun' at police officer before being tackled outside Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26632345.man-sentenced-pointing-loaded-air-revolver-officer/",
         "description": "Sean McAvoy pointed a loaded air revolver at PC Jamie Petrie in Rutherglen on June 14, 2025. The Cambuslang man received unpaid work plus supervision.",
         "published": "Tue, 13 Oct 2026 13:28:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20630151/?type=app&htype=0"
+      },
+      {
+        "id": "29f3f7c7506ef3c0360b202d039bb46c",
+        "title": "Scottish Jewish body urges Edinburgh University to retain antisemitism definition",
+        "link": "https://www.heraldscotland.com/news/26632301.jewish-council-urges-edinburgh-university-retain-ihra-definition/",
+        "description": "Timothy Lovat, chair of the Jewish Council of Scotland (JCoS), said the university should not abandon the IHRA definition of antisemitism.",
+        "published": "Tue, 13 Oct 2026 13:28:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21551866/?type=app&htype=0"
       },
       {
         "id": "92480619de3acaa832a2cc4eb6fefa32",
@@ -2701,12 +2773,20 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20084349/?type=app&htype=0"
       },
       {
-        "id": "cc3ace37371321cdf00533af25925510",
-        "title": "Remarkable story of Kirkintilloch woman dubbed 'Mother of Japanese Whisky' celebrated",
-        "link": "https://www.glasgowtimes.co.uk/news/26632183.diplomatic-visit-celebrated-mother-japanese-whisky/",
-        "description": "The remarkable story of a Scotswoman known as the 'Mother of Japanese Whisky' has been celebrated through a special diplomatic visit.",
-        "published": "Tue, 13 Oct 2026 12:54:59 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21574085/?type=app&htype=0"
+        "id": "6f41f2778ace8334cf1a23374e145047",
+        "title": "The most rat infested areas of Glasgow revealed",
+        "link": "https://www.heraldscotland.com/news/26632147.glasgows-rat-infested-areas-revealed-herald-data/",
+        "description": "A freedom of information request by The Herald has revealed Glasgow's most rat infested areas.",
+        "published": "Tue, 13 Oct 2026 12:50:54 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21574770/?type=app&htype=0"
+      },
+      {
+        "id": "e1d17cb98b471eebfd86d870ed6daec6",
+        "title": "Scottish dog honoured for breakthrough discovery in sniffing out invasive \u2018sea vomit\u2019",
+        "link": "https://www.heraldscotland.com/news/26632123.scottish-dog-trained-sniff-sea-vomit-world-first/",
+        "description": "A detection dog trained to identify a highly invasive marine species is being recognised with an international award for her work to protect UK coastlines.",
+        "published": "Tue, 13 Oct 2026 12:47:15 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21574167/?type=app&htype=0"
       },
       {
         "id": "6de0128aa0400e193d23e59ac83f6fa2",
@@ -3371,62 +3451,6 @@
         "description": "First residents move into CCG Homes\u2019 54-home Dalmarnock Quarter in Glasgow\u2019s East End on October 8.",
         "published": "Mon, 12 Oct 2026 12:54:59 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21568520/?type=app&htype=0"
-      },
-      {
-        "id": "9281964",
-        "title": "Bellshill: Police launch manhunt after 25-year-old man found injured at Bellshill property",
-        "link": "https://www.glasgowworld.com/news/crime/bellshill-police-launch-manhunt-after-man-found-injured-at-bellshill-property-9281964",
-        "description": "<p>Detectives in Bellshill are appealing for information following a serious assault, with a 25-year-old man found injured at an address in Thorndean Crescent</p>",
-        "published": "Mon, 12 Oct 2026 11:50:35 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/12/11/50/Screenshot-2026-10-12-124736.png?width=1200&auto=webp&trim=0%2C138%2C0%2C138"
-      },
-      {
-        "id": "567f03a173c4d099e12d932971e0b513",
-        "title": "Edinburgh councillor calls for referendum on major council boundary changes",
-        "link": "https://www.heraldscotland.com/news/26628155.edinburgh-councillor-calls-referendum-council-boundary-changes/",
-        "description": "Conservative Neil Cuthbert is seeking assurances that a referendum would be held in the event of \u201cany major change to the boundaries of Edinburgh\u201d.",
-        "published": "Mon, 12 Oct 2026 12:45:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21568310/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/sea-witch-haunts-little-visitors-34751766",
-        "title": "Sea Witch haunts little visitors during scary trail at Loch Lomond beauty spot",
-        "link": "https://www.glasgowlive.co.uk/whats-on/sea-witch-haunts-little-visitors-34751766",
-        "description": "Visitors are tasked with completing &quot;magical&quot; activities as they navigate through the marine life before coming face-to-face with the Sea Witch herself.",
-        "published": "Mon, 12 Oct 2026 11:41:03 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34752087.ece/ALTERNATES/s98/0_Screenshot-2026-10-12-121455.png"
-      },
-      {
-        "id": "a555593c7abeb7cb41d574ee447e6aca",
-        "title": "Glasgow Voi users brand removal of monthly pass option a \u2018genuine disgrace\u2019",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26618175.glasgow-voi-e-bike-monthly-pass-removal-called-disgrace/",
-        "description": "A Glasgow Voi e-bike user has called the recent removal of a monthly pass option a \"genuine disgrace\".",
-        "published": "Mon, 12 Oct 2026 12:40:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20195853/?type=app&htype=0"
-      },
-      {
-        "id": "afdddb68bfa114e75f653a51e657e633",
-        "title": "Mum says she was left 'in agony' for days before giving birth at hospital",
-        "link": "https://www.glasgowtimes.co.uk/news/26628146.mum-left-agony-days-birth-paisley-hospital/",
-        "description": "A traumatised mum who was \"left in agony\" for days after repeated delays at the Royal Alexandra Hospital has complained to the health board of her treatment",
-        "published": "Mon, 12 Oct 2026 12:26:05 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21557286/?type=app&htype=0"
-      },
-      {
-        "id": "fabdf8787df3b4e8e317a1b94a008486",
-        "title": "Major bookmaker set to move into vacant shopping centre unit",
-        "link": "https://www.glasgowtimes.co.uk/news/26628094.ladbrokes-move-centre-antonine-shopping-centre/",
-        "description": "Ladbrokes is set to relocate to the Antonine Shopping Centre in Cumbernauld after plans to transform a vacant retail unit were approved.",
-        "published": "Mon, 12 Oct 2026 12:15:26 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21462702/?type=app&htype=0"
-      },
-      {
-        "id": "9281101",
-        "title": "Celtic 'on alert' for Everton hero as behind the scenes decision breeds uncertain Toffees future",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-on-alert-for-everton-hero-amid-uncertain-toffees-future-as-owners-looks-to-sell-up-for-10-figure-fee-9281101",
-        "description": "<p>Former Sunderland, Manchester United and West Ham mentor could be considered for Hoops return</p>",
-        "published": "Mon, 12 Oct 2026 11:00:55 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/12/9/23/GettyImages-2298521241.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
