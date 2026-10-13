@@ -2653,12 +2653,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9285114",
+        "title": "Star Bar: Pub known for serving one of Glasgow's best value lunches taken over by leisure group",
+        "link": "https://www.glasgowworld.com/news/g12-leisure-takes-over-glasgows-star-bar-pub-9285114",
+        "description": "<p>G12 Leisure, the group behind The Left Bank, has taken over the Star Bar pub in Glasgow</p>",
+        "published": "Tue, 13 Oct 2026 14:11:06 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/13/14/44/star-bar-night.jpeg?width=1200&auto=webp&trim=0%2C0%2C1%2C0"
+      },
+      {
         "id": "https://news.stv.tv/?p=532955",
         "title": "What is the giant spaceship structure being built next to the M8?",
         "link": "https://news.stv.tv/west-central/what-is-the-giant-spaceship-structure-being-built-next-to-the-m8",
         "description": "The South Clyde Energy Centre will supply thousands of homes with electricity from unrecyclable waste",
         "published": "Tue, 13 Oct 2026 13:55:11 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/4b9532b60d39e91fb3c4ea862651dc2e-1791897805-1280x720.jpeg"
+      },
+      {
+        "id": "b1f37d2e80ebb04a445f99e04f7c3f12",
+        "title": "New homes approved on Hamilton green space despite 21 resident objections",
+        "link": "https://www.glasgowtimes.co.uk/news/26632811.four-homes-approved-hamilton-green-space-objections/",
+        "description": "South Lanarkshire Council\u2019s planning committee backed the application by Hamilton and Kinneil Estates on October 6 by 13 votes to five.",
+        "published": "Tue, 13 Oct 2026 14:48:13 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19119725/?type=app&htype=0"
+      },
+      {
+        "id": "862b6a880395326a0dde242f54d5cb4d",
+        "title": "Bursary scheme offering grants of up to \u00a31000 to East Dunbartonshire artists",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26632748.east-dunbartonshire-artists-offered-500-1-000-bursaries/",
+        "description": "A bursary scheme is offering financial support to visual artists and craft makers.",
+        "published": "Tue, 13 Oct 2026 14:37:56 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21574971/?type=app&htype=0"
       },
       {
         "id": "9be136bbe322428d5c3bac4ffe98a66f",
@@ -2869,14 +2893,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/11756655/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/barlinnie-water-supply-disrupted-again-34756782",
-        "title": "Barlinnie water supply 'disrupted' again hours after Glasgow prisoners get it back",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/barlinnie-water-supply-disrupted-again-34756782",
-        "description": "&quot;Further repair work has been identified&quot;.",
-        "published": "Tue, 13 Oct 2026 10:31:39 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34757075.ece/ALTERNATES/s98/0_Prisoner-early-release-scheme.jpg"
-      },
-      {
         "id": "03d404fa10e75ef9b88304d9de7cdce6",
         "title": "BBC announces two-part documentary series on J.K. Rowling",
         "link": "https://www.heraldscotland.com/news/26631515.two-part-documentary-series-j-k-rowling-announced-bbc/",
@@ -2955,14 +2971,6 @@
         "description": "Glasgow comedian Susie McCabe brings Myth Informed to King\u2019s Theatre on March 26 and March 27, following Edinburgh Fringe acclaim.",
         "published": "Tue, 13 Oct 2026 10:44:37 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21572770/?type=app&htype=0"
-      },
-      {
-        "id": "5f246b5d17215c6d1cb9bdb0da09c97e",
-        "title": "Major changes planned for three Glasgow streets as public urged to have say",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26631137.public-invited-shape-plans-three-kelvingrove-streets/",
-        "description": "Glasgow City Council launches Kelvingrove consultation on safer, greener streets for walking and cycling on Corunna, Minerva and St Vincent Crescent.",
-        "published": "Tue, 13 Oct 2026 10:37:52 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21572834/?type=app&htype=0"
       },
       {
         "id": "fa07a329a5eb7a7c7f1615a76efd48b2",
@@ -3443,14 +3451,6 @@
         "description": "An event first national commemoration of the sinking of the Arandora Star has taken place in Glasgow",
         "published": "Mon, 12 Oct 2026 13:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21568487/?type=app&htype=0"
-      },
-      {
-        "id": "3891d212de54b690bee52b1cf5434e26",
-        "title": "First families move into new Glasgow housing development as community grows",
-        "link": "https://www.glasgowtimes.co.uk/news/26628314.first-residents-move-glasgows-dalmarnock-quarter/",
-        "description": "First residents move into CCG Homes\u2019 54-home Dalmarnock Quarter in Glasgow\u2019s East End on October 8.",
-        "published": "Mon, 12 Oct 2026 12:54:59 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21568520/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
