@@ -2629,6 +2629,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "39366ba6aa90d858fa596cb76f0d1e1c",
+        "title": "Thug pointed 'loaded gun' at police officer before being tackled outside Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26632345.man-sentenced-pointing-loaded-air-revolver-officer/",
+        "description": "Sean McAvoy pointed a loaded air revolver at PC Jamie Petrie in Rutherglen on June 14, 2025. The Cambuslang man received unpaid work plus supervision.",
+        "published": "Tue, 13 Oct 2026 13:28:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20630151/?type=app&htype=0"
+      },
+      {
+        "id": "92480619de3acaa832a2cc4eb6fefa32",
+        "title": "Iconic musician to reunite with band after 50 years as Glasgow show announced",
+        "link": "https://www.glasgowtimes.co.uk/news/26632324.herb-alpert-tijuana-brass-glasgow-concert-announced/",
+        "description": "Herb Alpert and the Tijuana Brass reunite for Glasgow Royal Concert Hall show on May 7, 2027, during his first UK tour in over 50 years. Tickets October 16.",
+        "published": "Tue, 13 Oct 2026 13:21:08 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21574363/?type=app&htype=0"
+      },
+      {
         "id": "9284618",
         "title": "Legendary 70s rockers set for 60th anniversary show in Glasgow",
         "link": "https://www.glasgowworld.com/news/blue-oyster-cult-set-for-60th-anniversary-show-in-glasgow-9284618",
@@ -3397,14 +3413,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/19141538/?type=app&htype=0"
       },
       {
-        "id": "9281441",
-        "title": "Glasgow Fire: Fire crews spend third day at fire hit scrapyard in Scotstoun",
-        "link": "https://www.glasgowworld.com/news/glasgow-fire-fire-crews-spent-third-day-at-fire-hit-scrapyard-in-scotstoun-9281441",
-        "description": "<p>Fire crews have remained in attendance at a fire in the Scotstoun area of Glasgow for the third day in a row, with crews continuing to dampen down hot spots at the site of the blaze.</p>",
-        "published": "Mon, 12 Oct 2026 09:57:04 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/10/8/45/843475248_29577483965188276_2374519464876043067_n.jpeg?width=1200&auto=webp&trim=39%2C0%2C40%2C0"
-      },
-      {
         "id": "bd489cbeabcd736114e0be2bd2ff1121",
         "title": "Glasgow's new Nelson Mandela statue 'coned' within days as debate erupts",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26627449.nelson-mandela-statue-glasgow-coned-days-unveiling/",
@@ -3419,14 +3427,6 @@
         "description": "Landmarks across Scotland will be illuminated in blue to raise awareness of a major health condition,",
         "published": "Mon, 12 Oct 2026 10:44:04 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21567278/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=532788",
-        "title": "Person dies after falling ill at Rutherglen train station",
-        "link": "https://news.stv.tv/west-central/person-dies-after-falling-ill-at-rutherglen-train-station",
-        "description": "The death is not being treated as suspicious",
-        "published": "Mon, 12 Oct 2026 09:33:36 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2022/09/37d448a757625b3758e901d4c6637195-1663419908.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
