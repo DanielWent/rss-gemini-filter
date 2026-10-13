@@ -1089,6 +1089,14 @@
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
       {
+        "id": "https://the5krunner.com/?p=136957",
+        "title": "Indie Spotlight: SYMPATHETIC turns a Polar H10 into a breathing coach",
+        "link": "https://the5krunner.com/2026/10/13/resonance-breathing-recovery-sympathetic/",
+        "description": "<p><img alt=\"Indie Spotlight: SYMPATHETIC turns a Polar H10 into a breathing coach\" class=\"attachment-large size-large\" height=\"993\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/sympathetic-ecg-interface-and-data.png/w=1110,h=993\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Sympathetic is a free iPhone app that pairs guided slow breathing with live heart rate, HRV and ECG from a Polar H10, so runners can see a cool-down settle the heart and find the breathing pace that suits them.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/13/resonance-breathing-recovery-sympathetic/\">Indie Spotlight: SYMPATHETIC turns a Polar H10 into a breathing coach</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Tue, 13 Oct 2026 10:35:33 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/sympathetic-ecg-interface-and-data.png/w=1110,h=993"
+      },
+      {
         "id": "https://the5krunner.com/?p=136909",
         "title": "Best Fitness Tracker of 2026  \u2013 a new kid on the block",
         "link": "https://the5krunner.com/2026/10/12/best-fitness-tracker-2026/",
@@ -2597,12 +2605,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9284246",
+        "title": "NHSGGC staff take 15 sick days on average in 2025/26, with anxiety and stress costing \u00a341m",
+        "link": "https://www.glasgowworld.com/news/nhsggc-staff-sick-days-9284246",
+        "description": "<p>NHS Greater Glasgow and Clyde (NHSGGC) took on average 15 sick days during 2025/26, according to new statistics</p>",
+        "published": "Tue, 13 Oct 2026 10:46:45 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/04/24/22/iconic-upload-pa-2023_05_28-1685229920387_1.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "4a9f8848f5ae0626e12eda0be3e05783",
+        "title": "Update issued after restricted patient went missing from Glasgow area",
+        "link": "https://www.glasgowtimes.co.uk/news/26631587.update-issued-patient-went-missing-glasgow-area/",
+        "description": "Daniel Boyle, a 52-year-old restricted patient missing from Roughmussel, Glasgow, has been traced, Police Scotland confirms after his October 8 disappearance.",
+        "published": "Tue, 13 Oct 2026 11:36:22 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/11756655/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/barlinnie-water-supply-disrupted-again-34756782",
+        "title": "Barlinnie water supply 'disrupted' again hours after Glasgow prisoners get it back",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/barlinnie-water-supply-disrupted-again-34756782",
+        "description": "&quot;Further repair work has been identified&quot;.",
+        "published": "Tue, 13 Oct 2026 10:31:39 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34757075.ece/ALTERNATES/s98/0_Prisoner-early-release-scheme.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=532986",
         "title": "SNP invites Burnham to party conference during Scotland visit",
         "link": "https://news.stv.tv/west-central/snp-invites-burnham-to-party-conference-during-scotland-visit",
         "description": "The Labour leader will reportedly arrive on Friday",
         "published": "Tue, 13 Oct 2026 10:21:23 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/75f816c79bc1765632d91396a3836d40-1791886844-1119x720.jpeg"
+      },
+      {
+        "id": "95eb9f90cad9c92bb7e5b0fa45b9d0a5",
+        "title": "Glasgow street taped by cops after incident on bus leaves one man in hospital",
+        "link": "https://www.glasgowtimes.co.uk/news/26631464.man-hospitalised-charged-glasgow-bus-assault/",
+        "description": "Man charged after passenger seriously assaulted on a bus in Glasgow\u2019s East End on Tollcross Road; Police Scotland say enquiries into the attack remain ongoing.",
+        "published": "Tue, 13 Oct 2026 11:20:53 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16083119/?type=app&htype=0"
       },
       {
         "id": "b39379bd70813ab2864bb64aa78951a0",
@@ -3363,38 +3403,6 @@
         "description": "The Scottish Greens MSP Holly Bruce is calling for the \u00a32 bus fare cap to apply to night buses in Strathclyde.",
         "published": "Mon, 12 Oct 2026 09:01:19 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21426412/?type=app&htype=0"
-      },
-      {
-        "id": "9280950",
-        "title": "Rangers January transfer window plans emerge as 'significant' capital available to club amid key objective",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-january-transfer-window-plans-emerge-significant-capital-available-9280950",
-        "description": "<p>Rangers could be set for some January transfer business.</p>",
-        "published": "Mon, 12 Oct 2026 07:32:08 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/12/7/21/GettyImages-2299550082.jpg?width=1200&auto=webp&trim=20%2C0%2C21%2C0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=532716",
-        "title": "Plea for brain tumour research funding as PM to meet with Archie Goodburn",
-        "link": "https://news.stv.tv/west-central/plea-for-brain-tumour-research-funding-as-pm-to-meet-with-archie-goodburn",
-        "description": "Goodburn was diagnosed with brain cancer when he was 22",
-        "published": "Mon, 12 Oct 2026 06:00:21 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/001bffc32ecb69b1b36dd497471e4dce-1791784642-1280x720.jpeg"
-      },
-      {
-        "id": "e9ac440408f8d45285b50a1dd585470c",
-        "title": "Push for independence has 'turned a corner', Swinney claims",
-        "link": "https://www.heraldscotland.com/news/26626682.push-independence-turned-corner---john-swinney/",
-        "description": "The push for Scottish independence has \u201cturned a corner\u201d, John Swinney has claimed.",
-        "published": "Mon, 12 Oct 2026 06:58:39 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21566199/?type=app&htype=0"
-      },
-      {
-        "id": "481954aa70a918ab333b63c6d6da36c6",
-        "title": "Herald obituaries: Francois Foucart the 'father of physical fitness in Glasgow'",
-        "link": "https://www.heraldscotland.com/news/homenews/26620884.obituary-francois-foucart-father-physical-fitness-glasgow/",
-        "description": "Obituary of Fran\u00e7ois Foucart, fencing and gymnastics master who accompanied Napoleon in Russia and died in Glasgow, Scotland, after 40 years there.",
-        "published": "Mon, 12 Oct 2026 06:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21557024/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
