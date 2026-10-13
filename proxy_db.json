@@ -2677,6 +2677,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/urgent-search-elderly-renfrew-woman-34760442",
+        "title": "Urgent search for elderly Renfrew woman last seen in Glasgow city centre",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/urgent-search-elderly-renfrew-woman-34760442",
+        "description": "83-year-old Mary Dimeo was last seen around 5pm on Tuesday (October 13) in Glasgow city centre.",
+        "published": "Tue, 13 Oct 2026 19:10:06 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34760451.ece/ALTERNATES/s98/1_mary-dimeo.png"
+      },
+      {
         "id": "9285097",
         "title": "Pundit identifies major Rangers flaw despite winning run as post-international break 'leggy' puzzler explained",
         "link": "https://www.glasgowworld.com/sport/football/rangers/pundit-identifies-major-rangers-flaw-despite-winning-run-as-post-international-break-leggy-puzzler-explained-9285097",
@@ -2691,6 +2699,22 @@
         "description": "<p>McAvennie wades into Celtic fallout after Rangers defeat and raises two other concerns</p>",
         "published": "Tue, 13 Oct 2026 19:00:34 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/20/16/33/GettyImages-2295280014.jpg?width=1200&auto=webp&trim=7%2C0%2C7%2C0"
+      },
+      {
+        "id": "87c25fdf6a91c51fa817e9a75f2fcaf0",
+        "title": "Taxpayers could be out \u00a340,000 if Moray councillor who moved to Cairo quits",
+        "link": "https://www.heraldscotland.com/news/26634042.moray-councillor-resignation-cost-taxpayers-40-000/",
+        "description": "If an under-fire Moray councillor decided to resign in the next three weeks, it would cost the taxpayer up to \u00a340,000.",
+        "published": "Tue, 13 Oct 2026 19:36:42 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21520873/?type=app&htype=0"
+      },
+      {
+        "id": "b17f8f87394a3d74daf726f7ee2b70ac",
+        "title": "Glasgow area could be completely transformed under new green plans",
+        "link": "https://www.heraldscotland.com/news/26634032.glasgow-anderston-station-transformation-plans-unveiled/",
+        "description": "Glasgow City Council consults on greener Anderston Station plans, with a new plaza, safer crossings and cycle link connecting the city centre and West End.",
+        "published": "Tue, 13 Oct 2026 19:27:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21575281/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=533115",
@@ -2803,14 +2827,6 @@
         "description": "Kirkintilloch BID directors are facing calls to resign after business owners raised concerns over finances, transparency and communication.",
         "published": "Tue, 13 Oct 2026 15:37:25 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21407113/?type=app&htype=427"
-      },
-      {
-        "id": "be6e7e195e0d6b442d99c6db135c6b3d",
-        "title": "Historic Glasgow pub dating back to 1892 set for new era under fresh ownership",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26633118.historic-glasgow-star-bar-change-hands-new-deal/",
-        "description": "Historic Glasgow pub Star Bar in the Southside is set for new ownership as G12 Leisure plans a light refresh, while keeping its lunch and live entertainment.",
-        "published": "Tue, 13 Oct 2026 15:32:19 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21575590/?type=app&htype=0"
       },
       {
         "id": "9285114",
@@ -3459,22 +3475,6 @@
         "description": "GE Aerospace is investing \u00a330m to expand its site in Prestwick, supported by \u00a327m from the Ayrshire Growth Deal",
         "published": "Mon, 12 Oct 2026 14:47:21 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/9a99eeb7b4700ad6383c73bb06256ddc-1791816337-1095x720.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-dad-pulls-schoolgirls-hijab-34753723",
-        "title": "Glasgow dad 'pulls off schoolgirl's hijab' and calls her P-word in racist attack",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-dad-pulls-schoolgirls-hijab-34753723",
-        "description": "A video of the young girl, without her hijab on, has now been shared across the school, with children calling her racial slurs.",
-        "published": "Mon, 12 Oct 2026 14:41:59 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34753834.ece/ALTERNATES/s98/0_TOPSHOT-BRITAIN-SCOTLAND-STORM-EOWYN.jpg"
-      },
-      {
-        "id": "3e5b73273ae1f6be067d26476e7f3fbb",
-        "title": "Clydebank's Halloween king reveals why famous spooky spectacle won't return this year",
-        "link": "https://www.glasgowtimes.co.uk/news/26629308.clydebanks-iconic-halloween-spectacle-taking-break/",
-        "description": "The creator of Clydebank's famous Halloween house has revealed why the annual spectacle is taking a break this year and what keeps thousands of visitors returning every October.",
-        "published": "Mon, 12 Oct 2026 15:32:30 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20147610/?type=app&htype=114"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
