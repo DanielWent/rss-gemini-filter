@@ -2605,6 +2605,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9284391",
+        "title": "Plans submitted for new Broomhill coffee shop in former butcher's unit",
+        "link": "https://www.glasgowworld.com/news/plans-submitted-for-new-broomhill-coffee-shop-in-former-butchers-unit-9284391",
+        "description": "<p>Plans have been lofged for a new coffee shop on Crow Road in Glasgow</p>",
+        "published": "Tue, 13 Oct 2026 11:20:02 GMT",
+        "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOmMzNzBkZjBiLWZmY2QtNGMzNS1iMWVhLTFhYjY2ZTZhMjM4ZDowNTY4MmRlYS01NTdkLTQ0YzctOGIwOC04MDk4ZjhhZjc2MTQ=.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
         "id": "9284246",
         "title": "NHSGGC staff take 15 sick days on average in 2025/26, with anxiety and stress costing \u00a341m",
         "link": "https://www.glasgowworld.com/news/nhsggc-staff-sick-days-9284246",
@@ -2699,6 +2707,14 @@
         "description": "Glasgow comedian Susie McCabe brings Myth Informed to King\u2019s Theatre on March 26 and March 27, following Edinburgh Fringe acclaim.",
         "published": "Tue, 13 Oct 2026 10:44:37 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21572770/?type=app&htype=0"
+      },
+      {
+        "id": "5f246b5d17215c6d1cb9bdb0da09c97e",
+        "title": "Major changes planned for three Glasgow streets as public urged to have say",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26631137.public-invited-shape-plans-three-kelvingrove-streets/",
+        "description": "Glasgow City Council launches Kelvingrove consultation on safer, greener streets for walking and cycling on Corunna, Minerva and St Vincent Crescent.",
+        "published": "Tue, 13 Oct 2026 10:37:52 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21572834/?type=app&htype=0"
       },
       {
         "id": "fa07a329a5eb7a7c7f1615a76efd48b2",
@@ -3221,14 +3237,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20195853/?type=app&htype=0"
       },
       {
-        "id": "https://news.stv.tv/?p=532834",
-        "title": "Barlinnie prisoners \u2018without hot showers and heating\u2019 amid ongoing water problems",
-        "link": "https://news.stv.tv/west-central/barlinnie-prisoners-without-hot-showers-and-heating-amid-ongoing-water-problems",
-        "description": "The family of one prisoner told STV News their loved one had not had a hot shower in 11 days",
-        "published": "Mon, 12 Oct 2026 11:33:37 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2025/02/384904029f67797398229a6ceb4acd96-1738783089-1280x720.jpeg"
-      },
-      {
         "id": "afdddb68bfa114e75f653a51e657e633",
         "title": "Mum says she was left 'in agony' for days before giving birth at hospital",
         "link": "https://www.glasgowtimes.co.uk/news/26628146.mum-left-agony-days-birth-paisley-hospital/",
@@ -3395,14 +3403,6 @@
         "description": "Glasgow train services are being disrupted amid an ongoing emergency incident.",
         "published": "Mon, 12 Oct 2026 09:05:11 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21566448/?type=app&htype=0"
-      },
-      {
-        "id": "11d1eb66bce93455db4b8f365fd700b3",
-        "title": "Glasgow MSP calls for \u00a32 fare cap to include night buses",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26626843.glasgow-msp-calls-2-bus-fare-cap-include-night-buses/",
-        "description": "The Scottish Greens MSP Holly Bruce is calling for the \u00a32 bus fare cap to apply to night buses in Strathclyde.",
-        "published": "Mon, 12 Oct 2026 09:01:19 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21426412/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
