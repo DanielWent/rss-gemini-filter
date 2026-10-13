@@ -2605,6 +2605,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/former-glasgow-gangster-paul-ferris-34755933",
+        "title": "Former Glasgow gangster Paul Ferris to be laid to rest at same site as hated rival",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/former-glasgow-gangster-paul-ferris-34755933",
+        "description": "Daldowie is the very same venue where Ferris's sworn enemy, crime boss Tam &quot;The Licensee&quot; McGraw, was cremated following his death 19 years ago.",
+        "published": "Tue, 13 Oct 2026 07:36:34 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34755967.ece/ALTERNATES/s98/0_JS13235280.jpg"
+      },
+      {
         "id": "9282902",
         "title": "Rangers answer three huge overhanging question marks under Derek McInnes as winning run silences critics",
         "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-answer-three-big-question-marks-under-derek-mcinnes-as-winning-run-silences-recent-criticisms-9282902",
@@ -3395,14 +3403,6 @@
         "description": "Vital repair work to fix severe structural issue to a roof of a Glasgow Library, may not be funded until 2028",
         "published": "Sun, 11 Oct 2026 15:52:42 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20201686/?type=app&htype=0"
-      },
-      {
-        "id": "009285b76d13120f338876dff3d27417",
-        "title": "Health Secretary says corridor care is \u2018not acceptable\u2019 ahead of winter pressures",
-        "link": "https://www.heraldscotland.com/news/26626294.health-secretary-says-corridor-care-not-acceptable/",
-        "description": "Health Secretary Angela Constance says NHS corridor care is unacceptable as Scotland faces winter pressures, A&amp;E waits and calls to expand community care.",
-        "published": "Sun, 11 Oct 2026 14:29:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20391983/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
