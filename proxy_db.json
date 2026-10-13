@@ -814,6 +814,22 @@
     "description": "AI Filtered Google Blog Updates.",
     "articles": [
       {
+        "id": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/",
+        "title": "Developing Gemini 4 Argon responsibly and safely",
+        "link": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/",
+        "description": "Gemini 4 Argon logo next to a large white \"4\", all on a gradient blue background",
+        "published": "Tue, 13 Oct 2026 18:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_lockup.max-600x600.format-webp.webp"
+      },
+      {
+        "id": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
+        "title": "Gemini 4 Argon is now available for developers.",
+        "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_neutra.max-600x600.format-webp.webp\" />Build complex software and cybersecurity workflows with Google Gemini 4 Argon. Check out the Gemini API Developer Guide and read the Google Antigravity and Android Studi\u2026",
+        "published": "Tue, 13 Oct 2026 16:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_neutra.max-600x600.format-webp.webp"
+      },
+      {
         "id": "https://blog.google/products-and-platforms/products/google-health/google-health-updates/",
         "title": "Google Health: Evolving so you can focus on living better",
         "link": "https://blog.google/products-and-platforms/products/google-health/google-health-updates/",
@@ -1970,6 +1986,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "1f7f42a03caac5803462e587c9196cfc",
+        "title": "Residents warned as burst water main hits supplies near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26633402.burst-water-main-disrupts-supplies-traffic-milngavie/",
+        "description": "Burst water main on Campsie Drive, Milngavie, disrupts supplies and causes traffic delays as Scottish Water works to restore services by 6.45pm today.",
+        "published": "Tue, 13 Oct 2026 16:14:35 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21108552/?type=app&htype=0"
+      },
+      {
         "id": "862b6a880395326a0dde242f54d5cb4d",
         "title": "Bursary scheme offering grants of up to \u00a31000 to East Dunbartonshire artists",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26632748.east-dunbartonshire-artists-offered-500-1-000-bursaries/",
@@ -2653,12 +2677,156 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9285097",
+        "title": "Pundit identifies major Rangers flaw despite winning run as post-international break 'leggy' puzzler explained",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/pundit-identifies-major-rangers-flaw-despite-winning-run-as-post-international-break-leggy-puzzler-explained-9285097",
+        "description": "<p>Light Blues have won seven games on the bounce</p>",
+        "published": "Tue, 13 Oct 2026 19:00:56 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/13/15/35/GettyImages-2254963018.jpeg?width=1200&auto=webp&trim=0%2C146%2C0%2C145"
+      },
+      {
+        "id": "9285254",
+        "title": "Celtic icon voices different take on star's controversial Rangers verdict after 'cheap shots' jibe",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-icon-voices-different-take-stars-controversial-rangers-verdict-cheap-shots-jibe-9285254",
+        "description": "<p>McAvennie wades into Celtic fallout after Rangers defeat and raises two other concerns</p>",
+        "published": "Tue, 13 Oct 2026 19:00:34 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/20/16/33/GettyImages-2295280014.jpg?width=1200&auto=webp&trim=7%2C0%2C7%2C0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=533115",
+        "title": "Historians discover remains of Glasgow wall torn down more than 200 years ago",
+        "link": "https://news.stv.tv/west-central/historians-discover-remains-of-glasgow-wall-torn-down-more-than-200-years-ago",
+        "description": "Thomas \u201cLang Tam\u201d Harvie, a flamboyant, wealthy Glasgow distiller, bought the estate of Westthorn in Dalmarnock in the 1820s",
+        "published": "Tue, 13 Oct 2026 18:15:32 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/8fe1a46982fa53fc13f4f7804c413229-1791914891-1200x720.jpeg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=533110",
+        "title": "Scotland records second-worst week for long A&E waits",
+        "link": "https://news.stv.tv/west-central/scotland-records-second-worst-week-for-long-ae-waits",
+        "description": "Some 12,074 patients waited more than four hours at emergency departments in the week ending October 4.",
+        "published": "Tue, 13 Oct 2026 17:36:44 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/20496e04ccb572de1b6af9fa7ac6e098-1791912740-1120x720.jpeg"
+      },
+      {
+        "id": "2e072b949b170d27c97d9f9596cc3512",
+        "title": "ECHR rules in favour of BBC Scotland over journalist barred from court hearing",
+        "link": "https://www.heraldscotland.com/news/26633962.echr-backs-bbc-scotland-journalist-court-access-case/",
+        "description": "ECHR rules for BBC Scotland after journalist Steven Duff was excluded from Aberdeen Sheriff Court, finding a breach of Article 10, media freedom and open justice.",
+        "published": "Tue, 13 Oct 2026 18:20:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19531191/?type=app&htype=0"
+      },
+      {
+        "id": "9285127",
+        "title": "Steven Gerrard explains why he'd rethink Rangers exit decision in a heartbeat after Premier League reality check",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/steven-gerrard-explains-rethink-rangers-exit-decision-heartbeat-premier-league-reality-check-9285127",
+        "description": "<p>Liverpool legend concedes he would have benefited from more time in Scotland before moving to Aston Villa</p>",
+        "published": "Tue, 13 Oct 2026 17:00:12 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/13/14/13/GettyImages-2270425107.jpeg?width=1200&auto=webp&trim=0%2C9%2C0%2C9"
+      },
+      {
+        "id": "9284197",
+        "title": "Celtic can't afford leave out star against Benfica if available as 'discipline' hypothetical answered",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-cant-afford-leave-out-star-against-benfica-as-discipline-hypothetical-answered-amid-speculation-9284197",
+        "description": "<p>Hoops face the Portuguese giants in the Europa League on Thursday night</p>",
+        "published": "Tue, 13 Oct 2026 17:00:06 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/13/11/50/GettyImages-2194705242.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "1480b909ab6523b63797fccb09c937ba",
+        "title": "John Cleese urges St Andrews students not to vote for Green MSP Q Manivannan",
+        "link": "https://www.heraldscotland.com/news/26633906.john-cleese-urges-students-not-back-q-manivannan/",
+        "description": "John Cleese urges University of St Andrews students not to elect Green MSP Q Manivannan as rector, citing comments about rape and its psychological effects.",
+        "published": "Tue, 13 Oct 2026 17:57:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/16436738/?type=app&htype=0"
+      },
+      {
+        "id": "1943f7b692400d4a07c58dda872c1fc0",
+        "title": "Final bell rings at school as pupils prepare to move to new site",
+        "link": "https://www.glasgowtimes.co.uk/news/26633537.north-lanarkshire-school-closes-new-plans-emerge-site/",
+        "description": "A primary school has closed its doors for the final time as pupils prepare to move to a new community hub.",
+        "published": "Tue, 13 Oct 2026 16:37:58 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21576260/?type=app&htype=0"
+      },
+      {
+        "id": "9588fe1a0d8d8234bc7b802800ab6729",
+        "title": "BBC legend announces huge 60s tour with dates across Scotland",
+        "link": "https://www.glasgowtimes.co.uk/news/26633437.tony-blackburn-announces-sounds-60s-2027-uk-tour/",
+        "description": "Broadcasting legend Tony Blackburn has announced a major UK tour for 2027.",
+        "published": "Tue, 13 Oct 2026 16:20:56 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20139953/?type=app&htype=0"
+      },
+      {
+        "id": "9537f2ac4fbacf7636b130ae257e2b59",
+        "title": "Funeral date set for 'beloved' Glasgow dad murdered at West End flat",
+        "link": "https://www.glasgowtimes.co.uk/news/26633422.funeral-held-partick-murder-victim-paul-lafferty/",
+        "description": "The funeral details for a Glasgow dad who was murdered in a flat in the West End, has been announced, after thousands were raised to fund the service",
+        "published": "Tue, 13 Oct 2026 16:17:40 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21576285/?type=app&htype=0"
+      },
+      {
+        "id": "1f7f42a03caac5803462e587c9196cfc",
+        "title": "Residents warned as burst water main hits supplies near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26633402.burst-water-main-disrupts-supplies-traffic-milngavie/",
+        "description": "Burst water main on Campsie Drive, Milngavie, disrupts supplies and causes traffic delays as Scottish Water works to restore services by 6.45pm today.",
+        "published": "Tue, 13 Oct 2026 16:14:35 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21108552/?type=app&htype=0"
+      },
+      {
+        "id": "abb3422711502c8c8044afc62b460bbb",
+        "title": "Epic BBC underwater experience with live orchestra is coming to Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/entertainment/tv_radio/26633375.blue-planet-iii-live-concert-coming-glasgow-2027/",
+        "description": "Blue Planet III Live in Concert arrives at Glasgow\u2019s OVO Hydro on May 23, 2027, with ocean footage, Hans Zimmer\u2019s score and a live orchestra performance.",
+        "published": "Tue, 13 Oct 2026 16:11:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21576008/?type=app&htype=0"
+      },
+      {
+        "id": "3f27a3888c9e1c2ff5a0337cf23bb763",
+        "title": "Irish republican march to take place on Glasgow streets this month",
+        "link": "https://www.glasgowtimes.co.uk/news/26633337.irish-republican-march-take-place-glasgow-month/",
+        "description": "Cairde na h\u00c9ireann will lead a march on October 24, with 150 people expected in the city.",
+        "published": "Tue, 13 Oct 2026 16:04:50 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21242645/?type=app&htype=0"
+      },
+      {
+        "id": "020bfa0a0c780ee8fe125cb278a2a1ed",
+        "title": "Avoid area warning in place from tomorrow as key Glasgow road to shut",
+        "link": "https://www.glasgowtimes.co.uk/news/26633225.maryhill-road-glasgow-close-resurfacing-work/",
+        "description": "A major road in Glasgow is set to close for resurfacing work.",
+        "published": "Tue, 13 Oct 2026 15:48:12 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20514097/?type=app&htype=0"
+      },
+      {
+        "id": "7de0383bcdd0ff7344756676715c8a40",
+        "title": "Business owner calls for BID directors to resign after heated meeting",
+        "link": "https://www.glasgowtimes.co.uk/news/26633151.kirkintilloch-bid-directors-face-calls-resign-meeting/",
+        "description": "Kirkintilloch BID directors are facing calls to resign after business owners raised concerns over finances, transparency and communication.",
+        "published": "Tue, 13 Oct 2026 15:37:25 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21407113/?type=app&htype=427"
+      },
+      {
+        "id": "be6e7e195e0d6b442d99c6db135c6b3d",
+        "title": "Historic Glasgow pub dating back to 1892 set for new era under fresh ownership",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26633118.historic-glasgow-star-bar-change-hands-new-deal/",
+        "description": "Historic Glasgow pub Star Bar in the Southside is set for new ownership as G12 Leisure plans a light refresh, while keeping its lunch and live entertainment.",
+        "published": "Tue, 13 Oct 2026 15:32:19 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21575590/?type=app&htype=0"
+      },
+      {
         "id": "9285114",
         "title": "Star Bar: Pub known for serving one of Glasgow's best value lunches taken over by leisure group",
         "link": "https://www.glasgowworld.com/news/g12-leisure-takes-over-glasgows-star-bar-pub-9285114",
         "description": "<p>G12 Leisure, the group behind The Left Bank, has taken over the Star Bar pub in Glasgow</p>",
         "published": "Tue, 13 Oct 2026 14:11:06 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/13/14/44/star-bar-night.jpeg?width=1200&auto=webp&trim=0%2C0%2C1%2C0"
+      },
+      {
+        "id": "bb0836c08e6f45e5d8b7be477c9531e9",
+        "title": "Glasgow's Anderston could be completely transformed under ambitious new plans",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26632921.glasgow-anderston-station-transformation-plans-unveiled/",
+        "description": "Glasgow City Council consults on greener Anderston Station plaza, safer crossings and cycle links between the city centre and West End. Views sought by November 22.",
+        "published": "Tue, 13 Oct 2026 15:03:14 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21575281/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=532955",
@@ -2691,6 +2859,14 @@
         "description": "Fintech firm Salad has received a King's Award for Enterprise after lending more than \u00a332m to customers in Scotland and supporting 200,000 people across the UK.",
         "published": "Tue, 13 Oct 2026 14:35:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21574914/?type=app&htype=0"
+      },
+      {
+        "id": "1a8e858c8f262170d8cfdb7b78ab0173",
+        "title": "Takeaway worker wins Commonwealth gold then goes straight back to work",
+        "link": "https://www.glasgowtimes.co.uk/news/26632719.cumbernauld-athlete-strikes-commonwealth-gold-breaks-records/",
+        "description": "A champion powerlifter who claimed gold at the 2026 Commonwealth Powerlifting Championships was back at work just days later.",
+        "published": "Tue, 13 Oct 2026 14:34:12 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21575018/?type=app&htype=642"
       },
       {
         "id": "9284930",
@@ -3299,158 +3475,6 @@
         "description": "The creator of Clydebank's famous Halloween house has revealed why the annual spectacle is taking a break this year and what keeps thousands of visitors returning every October.",
         "published": "Mon, 12 Oct 2026 15:32:30 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20147610/?type=app&htype=114"
-      },
-      {
-        "id": "32f476510e5fce0a2f0c747cf236ce76",
-        "title": "NHSGGC welcomes 56 newly qualified midwives following \u00a34m investment",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26629264.nhsggc-welcomes-56-new-midwives-maternity-services/",
-        "description": "NHS Greater Glasgow and Clyde welcomes 56 newly qualified midwives after a \u00a34m maternity investment, with roles across hospitals and community services.",
-        "published": "Mon, 12 Oct 2026 15:26:49 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21569897/?type=app&htype=0"
-      },
-      {
-        "id": "06301911c3a6bb387dd385c4eb5805ca",
-        "title": "Glasgow \u2018less safe\u2019 as Labour leader warns city centre faces crime and decline",
-        "link": "https://www.glasgowtimes.co.uk/news/26629115.glasgow-less-safe-risks-falling-behind-says-marra/",
-        "description": "Glasgow is not as safe as it once was, said Michael Marra, Scottish Labour leader.",
-        "published": "Mon, 12 Oct 2026 15:07:13 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21569729/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/gangster-snared-ahead-glasgow-gangland-34753452",
-        "title": "Gangster snared ahead of Glasgow gangland hit boasts about easy jail time",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/gangster-snared-ahead-glasgow-gangland-34753452",
-        "description": "Cade Johnson shared numerous photographs and videos on TikTok, giving recognition to O'Hara and other prominent figures from Scotland's criminal underworld throughout his incarceration.",
-        "published": "Mon, 12 Oct 2026 14:04:35 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34753446.ece/ALTERNATES/s98/0_JS420521113.jpg"
-      },
-      {
-        "id": "e712d27d8fc5052e194775a090e49e17",
-        "title": "Aldi to invest \u00a319.5 million in Scotland with new store and five extensions",
-        "link": "https://www.heraldscotland.com/news/26629036.aldi-invest-19-5m-scotland-open-new-store/",
-        "description": "Aldi will invest \u00a319.5m in Scotland in 2027, opening a new Uddingston store and extending five existing supermarkets.",
-        "published": "Mon, 12 Oct 2026 14:55:41 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21340263/?type=app&htype=0"
-      },
-      {
-        "id": "e8f4f71ebaa935a1bd0857c4a0d40c2b",
-        "title": "Hundreds of seasonal jobs available at M&S stores across Glasgow and Renfrewshire",
-        "link": "https://www.glasgowtimes.co.uk/news/26629010.marks-spencer-hire-hundreds-christmas-staff-across-scotland/",
-        "description": "M&amp;S is hiring more than 1,000 Christmas staff across Scotland, including 436 roles in Glasgow and Renfrewshire, with 70 at Braehead, from \u00a313.41 an hour.",
-        "published": "Mon, 12 Oct 2026 14:51:52 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21569512/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/northern-lights-could-visible-over-34753322",
-        "title": "Northern Lights could be visible over Glasgow this week \u2013 here\u2019s how to spot them",
-        "link": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/northern-lights-could-visible-over-34753322",
-        "description": "The sun reached its solar maximum last year, meaning more activity, and the Aurora Borealis is being seen even further south \u2013 including Glasgow.",
-        "published": "Mon, 12 Oct 2026 13:50:32 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34753400.ece/ALTERNATES/s98/1_Autumn-weather-Oct-11th-2026.jpg"
-      },
-      {
-        "id": "e27f656bd491f089457ada17ab6e0dfe",
-        "title": "Next stage of controversial plans for historic property moves forward",
-        "link": "https://www.glasgowtimes.co.uk/news/26628964.historic-east-dunbartonshire-site-faces-fresh-planning-move/",
-        "description": "New planning applications have been submitted to East Dunbartonshire Council for Huntershill House and two new homes within its grounds.",
-        "published": "Mon, 12 Oct 2026 14:44:42 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21569480/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/football/articles/c50mew3yw79no#0",
-        "title": "Alcohol allowed at seats for Scotland's World Cup play-off",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c50mew3yw79no?at_medium=RSS&at_campaign=rss",
-        "description": "Spectators will be able to consume alcohol at their seats when Scotland host the Czech Republic in the second leg of their Women's World Cup play-off in Paisley on Tuesday.",
-        "published": "Mon, 12 Oct 2026 13:44:18 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc1d/live/05f01c50-c63e-11f1-abff-0d918239b2e3.jpg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=532803",
-        "title": "Care worker who abused, mocked and threatened vulnerable residents struck off",
-        "link": "https://news.stv.tv/west-central/care-worker-who-abused-mocked-and-threatened-vulnerable-residents-struck-off",
-        "description": "Catherine Hepburn was heard calling one resident a 'big baby' and another a 'dirty dog'",
-        "published": "Mon, 12 Oct 2026 13:39:24 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/fc5322ae7779ebabdb0821488ffb6592-1791809155-1280x720.jpeg"
-      },
-      {
-        "id": "54a2e229b61cb3ac86ac58abae70248d",
-        "title": "Swinney urged to intervene as SNP faces legal action over 'unlawful' event ban",
-        "link": "https://www.heraldscotland.com/news/26628811.swinney-urged-intervene-amid-snp-conference-legal-row/",
-        "description": "John Swinney faces pressure to reverse the SNP's cancellation of an abortion coercion event amid the threat of legal action.",
-        "published": "Mon, 12 Oct 2026 14:20:56 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21390475/?type=app&htype=0"
-      },
-      {
-        "id": "1f9b7c1b1b30934206f6180c766a61a2",
-        "title": "Police appeal after car damaged outside award-winning restaurant near Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/26628800.car-damaged-outside-elements-restaurant-bearsden-police-appeal/",
-        "description": "Police are appealing for information after the wing mirrors of a Ford Fiesta were damaged outside Elements restaurant in Bearsden.",
-        "published": "Mon, 12 Oct 2026 14:18:55 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20654058/?type=app&htype=0"
-      },
-      {
-        "id": "d9a31a06d9a80af69560c9872046c555",
-        "title": "Sensory bus created in memory of six-year-old girl arrives at Silverburn",
-        "link": "https://www.glasgowtimes.co.uk/news/26628718.aoifes-sensory-bus-arrived-silverburn-half-term/",
-        "description": "A sensory bus created in memory of a young girl has arrived at a shopping centre as a safe and calming space for children.",
-        "published": "Mon, 12 Oct 2026 14:06:02 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21569114/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/i-quit-job-due-lack-34751924",
-        "title": "'I had to quit my job due to lack of childcare for my son with complex needs'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/i-quit-job-due-lack-34751924",
-        "description": "Jenna Greenhill and Gary Reidman's son, Oran, attended three different nurseries, none of which could meet his complex needs.",
-        "published": "Mon, 12 Oct 2026 13:02:49 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34752262.ece/ALTERNATES/s98/0_unnamed-5.png"
-      },
-      {
-        "id": "4119d52516395b514e35536fe19f25cd",
-        "title": "Plans submitted to transform office space in Glasgow's West End into THIS",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26628642.plans-transform-office-space-dumbarton-road-glasgow/",
-        "description": "Plans to transform office space on Dumbarton Road in Glasgow's West End.",
-        "published": "Mon, 12 Oct 2026 13:52:58 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21182290/?type=app&htype=0"
-      },
-      {
-        "id": "cf61abf790b4bd31714fe77ddba8c444",
-        "title": "Summerhall Arts chief urges developers to \u2018repair, not demolish\u2019 much-loved arts hub",
-        "link": "https://www.heraldscotland.com/news/26628509.summerhall-arts-chief-urges-developers-repair-not-demolish-venue/",
-        "description": "Plans unveiled last week by Edinburgh-based luxury homes developer AMA call for the demolition of several buildings at the Summerhall site.",
-        "published": "Mon, 12 Oct 2026 13:47:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21568852/?type=app&htype=0"
-      },
-      {
-        "id": "a8a1468b62f9a27a0f7da4477d7451f6",
-        "title": "Patient complaints to NHS Ayrshire & Arran rise by 13 per cent in a year",
-        "link": "https://www.heraldscotland.com/news/26628424.nhs-ayrshire-arran-patient-complaints-rise-13-per-cent-year/",
-        "description": "The number of complaints made to NHS Ayrshire and Arran increased by more than 13 per cent in a year.",
-        "published": "Mon, 12 Oct 2026 13:12:18 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/13776148/?type=app&htype=0"
-      },
-      {
-        "id": "9282049",
-        "title": "Glasgow City Council approves plans to restore Springburn Winter Gardens",
-        "link": "https://www.glasgowworld.com/news/glasgow-city-council-springburn-winter-gardens-restoration-9282049",
-        "description": "<p>Glasgow City Council has approved plans to restore the derelict Springburn Winter Gardens, a 25-year lease over the site is currently being finalised with the council, and construction work is expected to start early next year.</p>",
-        "published": "Mon, 12 Oct 2026 12:09:09 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/12/12/17/onecms_31448712-accf-4270-a83d-fb5721d2028b_9511808a-a0a3-463d-b520-c348b84cfd61.jpeg?width=1200&auto=webp&trim=0%2C38%2C0%2C38"
-      },
-      {
-        "id": "55bb99cc90ec5797969b7a58a7db1ff3",
-        "title": "New green spaces transform busy Glasgow city centre street in major makeover",
-        "link": "https://www.glasgowtimes.co.uk/news/26628364.new-green-spaces-added-st-vincent-street-student-flats/",
-        "description": "New greenspaces at Glasgow\u2019s St Vincent Studios bring colourful planting, street trees and terraces to St Vincent Street ahead of the 2026 academic year.",
-        "published": "Mon, 12 Oct 2026 13:03:02 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20963287/?type=app&htype=0"
-      },
-      {
-        "id": "bb89d7db5d77232c3ec042ff745a44eb",
-        "title": "First national memorial for Arandora Star takes place in Glasgow",
-        "link": "https://www.heraldscotland.com/news/26627959.first-national-memorial-arandora-star-takes-place-glasgow/",
-        "description": "An event first national commemoration of the sinking of the Arandora Star has taken place in Glasgow",
-        "published": "Mon, 12 Oct 2026 13:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21568487/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
