@@ -2677,6 +2677,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "5f2971433b35c5a00580d5445e3b6650",
+        "title": "Historic dyke remains found after 200 years, including possible fortified summerhouse",
+        "link": "https://www.heraldscotland.com/news/26634070.fortified-harvies-dyke-wall-remains-found-glasgow/",
+        "description": "Archaeologists uncover 1823 Harvie\u2019s Dyke remains in Dalmarnock, Glasgow, finding a rare trade token and possible fortified summerhouse in historic dig.",
+        "published": "Tue, 13 Oct 2026 20:37:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21577021/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/urgent-search-elderly-renfrew-woman-34760442",
         "title": "Urgent search for elderly Renfrew woman last seen in Glasgow city centre",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/urgent-search-elderly-renfrew-woman-34760442",
@@ -2835,14 +2843,6 @@
         "description": "<p>G12 Leisure, the group behind The Left Bank, has taken over the Star Bar pub in Glasgow</p>",
         "published": "Tue, 13 Oct 2026 14:11:06 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/13/14/44/star-bar-night.jpeg?width=1200&auto=webp&trim=0%2C0%2C1%2C0"
-      },
-      {
-        "id": "bb0836c08e6f45e5d8b7be477c9531e9",
-        "title": "Glasgow's Anderston could be completely transformed under ambitious new plans",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26632921.glasgow-anderston-station-transformation-plans-unveiled/",
-        "description": "Glasgow City Council consults on greener Anderston Station plaza, safer crossings and cycle links between the city centre and West End. Views sought by November 22.",
-        "published": "Tue, 13 Oct 2026 15:03:14 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21575281/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=532955",
@@ -3107,14 +3107,6 @@
         "description": "Man charged after passenger seriously assaulted on a bus in Glasgow\u2019s East End on Tollcross Road; Police Scotland say enquiries into the attack remain ongoing.",
         "published": "Tue, 13 Oct 2026 11:20:53 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/16083119/?type=app&htype=0"
-      },
-      {
-        "id": "b39379bd70813ab2864bb64aa78951a0",
-        "title": "Glasgow archaeologists uncover remains of wall at centre of historic battle",
-        "link": "https://www.glasgowtimes.co.uk/news/26631423.historic-glasgow-wall-uncovered-dalmarnock-dig/",
-        "description": "Harvie\u2019s Dyke remains unearthed in Dalmarnock, Glasgow, revealing a 19th-century public right of way battle and rare Let Glasgow Flourish token.",
-        "published": "Tue, 13 Oct 2026 11:14:46 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21573082/?type=app&htype=0"
       },
       {
         "id": "29bed0ecfd22c84e8aa02dc31ca5d149",
