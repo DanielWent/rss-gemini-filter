@@ -1962,6 +1962,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "6b30450152a464b85bcc2721c8905098",
+        "title": "Update issued after police swarmed residential street",
+        "link": "https://www.glasgowtimes.co.uk/news/26631988.bearsden-man-charged-disturbance-prompts-police/",
+        "description": "Police Scotland responded to a disturbance on Spey Drive, Bearsden, Glasgow, on October 1. A man was taken to hospital, charged and reported to prosecutors.",
+        "published": "Tue, 13 Oct 2026 12:29:55 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21574010/?type=app&htype=97"
+      },
+      {
         "id": "c4a466c31379c45865294118a25a1b2b",
         "title": "Award-winning deli celebrates another major Scottish food accolade",
         "link": "https://www.glasgowtimes.co.uk/news/26631911.family-run-east-dunbartonshire-cafe-celebrates-major-award-win/",
@@ -2621,12 +2629,60 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9284618",
+        "title": "Legendary 70s rockers set for 60th anniversary show in Glasgow",
+        "link": "https://www.glasgowworld.com/news/blue-oyster-cult-set-for-60th-anniversary-show-in-glasgow-9284618",
+        "description": "<p>Legendary 70s rockers set for 60th anniversary show in Glasgow</p>",
+        "published": "Tue, 13 Oct 2026 12:10:28 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/13/12/02/unnamed-(16).jpeg?width=1200&auto=webp&trim=0%2C58%2C0%2C58"
+      },
+      {
+        "id": "08488dc26c218a27a373fae1d23accf8",
+        "title": "'We can't even wash our hands' - Barlinnie water crisis continues days after 'fix'",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26632253.barlinnie-prisoners-reportedly-face-ongoing-water-issues/",
+        "description": "Barlinnie prisoners reportedly face ongoing water and sanitation problems, with taps and toilets affected after an internal supply issue at the Glasgow jail.",
+        "published": "Tue, 13 Oct 2026 13:07:52 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20084349/?type=app&htype=0"
+      },
+      {
+        "id": "cc3ace37371321cdf00533af25925510",
+        "title": "Remarkable story of Kirkintilloch woman dubbed 'Mother of Japanese Whisky' celebrated",
+        "link": "https://www.glasgowtimes.co.uk/news/26632183.diplomatic-visit-celebrated-mother-japanese-whisky/",
+        "description": "The remarkable story of a Scotswoman known as the 'Mother of Japanese Whisky' has been celebrated through a special diplomatic visit.",
+        "published": "Tue, 13 Oct 2026 12:54:59 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21574085/?type=app&htype=0"
+      },
+      {
+        "id": "6de0128aa0400e193d23e59ac83f6fa2",
+        "title": "Fire officials issue final update on South Street scrapyard blaze",
+        "link": "https://www.glasgowtimes.co.uk/news/26632075.final-update-issued-glasgow-south-street-scrapyard-fire/",
+        "description": "Scottish Fire and Rescue Service crews leave Glasgow scrapyard fire scene after three days, thanking Whiteinch residents for their patience. No injuries reported.",
+        "published": "Tue, 13 Oct 2026 12:40:24 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21563117/?type=app&htype=0"
+      },
+      {
         "id": "96970c8d32d2997eb0febab0eedf8982",
         "title": "Opening date revealed as Chick-fil-A set to open near Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26632017.chick-fil-a-hamilton-opening-date-revealed-first-scotland-chain/",
         "description": "Chick-fil-A has confirmed the opening date for its first restaurant in Scotland at Hamilton Palace Grounds near Glasgow.",
         "published": "Tue, 13 Oct 2026 12:33:51 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21467970/?type=app&htype=0"
+      },
+      {
+        "id": "6b30450152a464b85bcc2721c8905098",
+        "title": "Update issued after police swarmed residential street",
+        "link": "https://www.glasgowtimes.co.uk/news/26631988.bearsden-man-charged-disturbance-prompts-police/",
+        "description": "Police Scotland responded to a disturbance on Spey Drive, Bearsden, Glasgow, on October 1. A man was taken to hospital, charged and reported to prosecutors.",
+        "published": "Tue, 13 Oct 2026 12:29:55 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21574010/?type=app&htype=97"
+      },
+      {
+        "id": "587c28bf3d1921de5fd31be0fdbfb457",
+        "title": "Pharmacists told to ration THIS medication amid national shortage",
+        "link": "https://www.glasgowtimes.co.uk/news/26631986.uk-pharmacists-told-ration-key-hrt-patch-supplies/",
+        "description": "UK pharmacists have been told to ration supplies of a key HRT medication due to a national shortage.",
+        "published": "Tue, 13 Oct 2026 12:29:49 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/14236331/?type=app&htype=0"
       },
       {
         "id": "c736af3ff1d4ec2484232e9b929f3cdf",
@@ -2779,6 +2835,14 @@
         "description": "Strathclyde Partnership for Transport (SPT) has announced that more than \u00a33.7 million in funding will support new projects across the region.",
         "published": "Tue, 13 Oct 2026 10:30:36 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21125550/?type=app&htype=0"
+      },
+      {
+        "id": "0b4ce0832a843485882f13a1577825a7",
+        "title": "MSP steps in as roadworks delays leave residents frustrated",
+        "link": "https://www.glasgowtimes.co.uk/news/26631041.bargeddie-roadworks-delays-spark-calls-answers-msp/",
+        "description": "Delays to roadworks have caused months of disruption and frustration for residents and businesses.",
+        "published": "Tue, 13 Oct 2026 10:25:51 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21572621/?type=app&htype=0"
       },
       {
         "id": "1ae754547bb1318c952a742618434067",
@@ -3357,68 +3421,12 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21567278/?type=app&htype=0"
       },
       {
-        "id": "8656321",
-        "title": "Buildings of Glasgow: 9 amazing buildings in Glasgow with incredible stories built into them",
-        "link": "https://www.glasgowworld.com/best-in/glasgow-historic-buildings-9281375",
-        "description": "<p>Nine incredible buildings in Glasgow and what their storied histories tell us about the city</p>",
-        "published": "Mon, 12 Oct 2026 09:43:28 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/05/13/9/00/Peoples-Palace-in-Glasgow-Green.jpeg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
         "id": "https://news.stv.tv/?p=532788",
         "title": "Person dies after falling ill at Rutherglen train station",
         "link": "https://news.stv.tv/west-central/person-dies-after-falling-ill-at-rutherglen-train-station",
         "description": "The death is not being treated as suspicious",
         "published": "Mon, 12 Oct 2026 09:33:36 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2022/09/37d448a757625b3758e901d4c6637195-1663419908.jpg"
-      },
-      {
-        "id": "bfa89cb7a55c819f606d16acb47631e7",
-        "title": "Herald Business LIVE: Today's top stories - October 12",
-        "link": "https://www.heraldscotland.com/news/26627240.herald-business-live-todays-top-stories---october-12/",
-        "description": "Welcome to The Herald's Business live blog, where we\u2019ll be bringing you the latest developments from across Scotland\u2019s business industry.",
-        "published": "Mon, 12 Oct 2026 10:15:41 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21394794/?type=app&htype=0"
-      },
-      {
-        "id": "9e6f44d24920f1fe857a7f8363f19e42",
-        "title": "Man to stand trial charged with murder of popular scientist",
-        "link": "https://www.heraldscotland.com/news/26627221.man-stand-trial-charged-murder-scientist-dundee/",
-        "description": "A man is to stand trial charged with the \"hate crime\" murder of a popular scientist.",
-        "published": "Mon, 12 Oct 2026 10:12:31 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19699412/?type=app&htype=0"
-      },
-      {
-        "id": "ed600efef499a49a01b25e2fcd850c3b",
-        "title": "'A very special lady': Tributes paid to matriarch of Edinburgh restaurant empire",
-        "link": "https://www.heraldscotland.com/news/26627080.tributes-paid-vittoria-group-matriarch-giacinta-nonna-dina-crolla/",
-        "description": "Giacinta Crolla, the co-founder of the city\u2019s Vittoria Group alongside her husband Alberto, died on September 27, her family said on social media.",
-        "published": "Mon, 12 Oct 2026 10:08:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21566803/?type=app&htype=0"
-      },
-      {
-        "id": "183500b8095ced2747c6902ea3850ee3",
-        "title": "New floating island installed on River Clyde to boost water quality and biodiversity",
-        "link": "https://www.glasgowtimes.co.uk/news/26627144.new-floating-island-installed-clyde-boost-wildlife/",
-        "description": "A new floating island on the River Clyde was unveiled in Glasgow on October 9 by RSE and Biomatrix Water, improving water quality and boosting biodiversity.",
-        "published": "Mon, 12 Oct 2026 10:00:32 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21566829/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=532763",
-        "title": "Inquiry into death of former Celtic scout who abused boy at Hampden",
-        "link": "https://news.stv.tv/west-central/inquiry-into-death-of-former-celtic-scout-who-abused-boy-at-hampden",
-        "description": "Kenneth Divers, a former teacher and football coach, died in hospital last year while a prisoner at HMP Low Moss",
-        "published": "Mon, 12 Oct 2026 08:59:46 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/9295b01ba9e98bb29cda6b108b89b3db-1791794568-1120x720.jpeg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/thousands-xl-bullies-still-uk-34750608",
-        "title": "Thousands of XL Bullies still in UK - new law from November 1",
-        "link": "https://www.glasgowlive.co.uk/news/thousands-xl-bullies-still-uk-34750608",
-        "description": "Tens of thousands of people are still thought to own an XL Bully",
-        "published": "Mon, 12 Oct 2026 08:53:52 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/article34750607.ece/ALTERNATES/s98/0_A-large-friendly-puppy-dog-wearing-a-harness-looks-at-the-camera.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
