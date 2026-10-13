@@ -2605,6 +2605,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "1987a7ea59adde5e8a6395cce93efe87",
+        "title": "After a year of gloom, Scottish firms see signs the economy is turning",
+        "link": "https://www.heraldscotland.com/news/26628823.gloom-eases-scottish-firms-optimistic-economy/",
+        "description": "Business sentiment has climbed to its strongest level in more than a year, while expectations for sales and profits have also improved",
+        "published": "Tue, 13 Oct 2026 04:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21042147/?type=app&htype=0"
+      },
+      {
         "id": "4a3e7e24c05851297940e3e1d0611c6b",
         "title": "Swinney recommits to triple lock for an independent Scotland despite backlash",
         "link": "https://www.heraldscotland.com/news/26630219.swinney-recommits-triple-lock-independent-scotland/",
@@ -3395,14 +3403,6 @@
         "description": "The majority are from the United States, Ms Fraser\u2019s colleague, immigration law specialist and firm partner Jacqueline Moore explains.",
         "published": "Sun, 11 Oct 2026 10:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21559951/?type=app&htype=0"
-      },
-      {
-        "id": "377150e67624ed87c930b7657e9c6f84",
-        "title": "Labour claims Glasgow council was underfunded by \u00a3357m last year",
-        "link": "https://www.heraldscotland.com/news/26625929.labour-claims-glasgow-council-underfunded-357m/",
-        "description": "Scottish Labour claims Glasgow City Council was underfunded by \u00a3357m, as SNP ministers face calls for clarity over plans to reform local government in Scotland.",
-        "published": "Sun, 11 Oct 2026 09:50:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21504266/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
