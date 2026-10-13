@@ -2605,6 +2605,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "5236540",
+        "title": "17 ways our readers would improve Glasgow and make it a better place to live",
+        "link": "https://www.glasgowworld.com/news/17-ways-improve-glasgow-9284010",
+        "description": "<p>Glasgow is a great and beautiful city in the world but, as the saying goes, there is always room for improvement.</p>",
+        "published": "Tue, 13 Oct 2026 09:53:51 GMT",
+        "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOmIzMDgwMGM0LTM5YTktNDZkZi1hNmQ2LWQyOWNmNmIxMzNmZDo1NDkyZTA2ZC0yNGU5LTRjYWItYTMxYi0xMzRjMmM0OGNlMWQ=.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "15cea7b8db85a62f789bc4cb1cb5ea49",
+        "title": "Glasgow comedy favourite to bring new tour to King's Theatre in 2027",
+        "link": "https://www.glasgowtimes.co.uk/news/26631196.susie-mccabe-bringing-myth-informed-comedy-tour-glasgow/",
+        "description": "Glasgow comedian Susie McCabe brings Myth Informed to King\u2019s Theatre on March 26 and March 27, following Edinburgh Fringe acclaim.",
+        "published": "Tue, 13 Oct 2026 10:44:37 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21572770/?type=app&htype=0"
+      },
+      {
+        "id": "fa07a329a5eb7a7c7f1615a76efd48b2",
+        "title": "Low-income families could benefit from free travel in \u00a33.7m transport boost",
+        "link": "https://www.glasgowtimes.co.uk/news/26631080.glasgow-families-benefit-3-7m-transport-funding/",
+        "description": "Strathclyde Partnership for Transport (SPT) has announced that more than \u00a33.7 million in funding will support new projects across the region.",
+        "published": "Tue, 13 Oct 2026 10:30:36 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21125550/?type=app&htype=0"
+      },
+      {
+        "id": "1ae754547bb1318c952a742618434067",
+        "title": "Rock LEGENDS announce Glasgow show celebrating 55 years on tour",
+        "link": "https://www.glasgowtimes.co.uk/news/26631028.blue-oyster-cult-perform-glasgow-concert-2027/",
+        "description": "Blue \u00d6yster Cult will play Glasgow Royal Concert Hall on April 3, 2027, their only Scottish show, with When Rivers Meet. Tickets go on sale October 16.",
+        "published": "Tue, 13 Oct 2026 10:24:26 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21572574/?type=app&htype=0"
+      },
+      {
+        "id": "c6addab315975a2597d7a140e6fda341",
+        "title": "Popular psychedelic rock band announces anniversary tour with Glasgow date",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26630927.kula-shaker-perform-swg3-glasgows-west-end/",
+        "description": "Kula Shaker to perform at SWG3 in Glasgow's West End",
+        "published": "Tue, 13 Oct 2026 10:07:15 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20655741/?type=app&htype=0"
+      },
+      {
         "id": "f6e9d0033210b250047c81acd6854309",
         "title": "New Glasgow coffee shop could be coming to busy street",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26630874.plans-submitted-new-coffee-shop-glasgows-crow-road/",
@@ -3363,46 +3403,6 @@
         "description": "The Scottish oatcake maker's products are sold in more than 30 countries. Colin Dingwall explains the opportunities and challenges facing Nairn\u2019s",
         "published": "Mon, 12 Oct 2026 04:30:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21560248/?type=app&htype=0"
-      },
-      {
-        "id": "721a69e011484136304d715d3ccd71a1",
-        "title": "Britain\u2019s productivity puzzle may not be as bad as we thought",
-        "link": "https://www.heraldscotland.com/news/26621762.ons-statistical-revision-reshapes-uks-productivity-story/",
-        "description": "New ONS labour market estimates suggest UK productivity growth was stronger than previously thought, but the wider challenge of raising living standards remains",
-        "published": "Mon, 12 Oct 2026 04:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/17651420/?type=app&htype=0"
-      },
-      {
-        "id": "0f9ed38a09caad580feea2255142c675",
-        "title": "Majority of Scots say country is heading in the wrong direction, poll finds",
-        "link": "https://www.heraldscotland.com/news/26626411.ipsos-poll-finds-51-scots-fear-wrong-direction/",
-        "description": "Ipsos polling finds 51% of Scots think Scotland is heading in the wrong direction, challenging John Swinney as support for Holyrood-Westminster ties rises.",
-        "published": "Mon, 12 Oct 2026 00:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20476757/?type=app&htype=0"
-      },
-      {
-        "id": "82531e9ddefce4e3534418a77888408a",
-        "title": "Michael Marra accuses SNP ministers of shortchanging councils by \u00a32bn",
-        "link": "https://www.heraldscotland.com/news/26626424.michael-marra-accuses-snp-ministers-2bn-council-shortfall/",
-        "description": "Scottish Labour leader Michael Marra accuses SNP ministers of shortchanging councils by \u00a32 billion as debate over funding and local government reform grows.",
-        "published": "Mon, 12 Oct 2026 00:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21343798/?type=app&htype=0"
-      },
-      {
-        "id": "f0b0ebe367006ab4f80f54150e24aa27",
-        "title": "\u00a335m Heriot-Watt brewing hub could create 1,570 jobs and boost economy by \u00a353m a year",
-        "link": "https://www.heraldscotland.com/news/26626310.new-heriot-watt-centre-could-add-53m-year-economy/",
-        "description": "Heriot-Watt\u2019s proposed \u00a335m brewing and distilling centre could add \u00a353.4m to Scotland\u2019s economy annually and support 1,570 jobs within 10 years.",
-        "published": "Mon, 12 Oct 2026 00:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21565396/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=532745",
-        "title": "Patient absconds from Glasgow as public warned \u2018not to approach\u2019",
-        "link": "https://news.stv.tv/west-central/patient-absconds-from-glasgow-as-public-warned-not-to-approach",
-        "description": "Daniel Boyle, who absconded from the Roughmussel area, was last heard from on Thursday",
-        "published": "Sun, 11 Oct 2026 17:42:21 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2022/06/39d0c011b0b0f1de22d62a90fc93792c-1080x720.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
