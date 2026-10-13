@@ -2605,6 +2605,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "f94aef441c1aec09ac3dea2c487eab01",
+        "title": "Six Scottish RNLI stations to receive new lifeboats by 2030 as demand increases",
+        "link": "https://www.heraldscotland.com/news/26630365.six-scottish-rnli-stations-receive-new-lifeboats-2030/",
+        "description": "Six RNLI stations across Scotland are set to receive new lifeboats by the end of the decade amid increasing demand.",
+        "published": "Tue, 13 Oct 2026 06:37:52 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20899696/?type=app&htype=0"
+      },
+      {
+        "id": "4546601ea2b219e699aca6d61d11d981",
+        "title": "\u2018Does Scotland\u2019s ethics watchdog understand the law on free speech?\u2019",
+        "link": "https://www.heraldscotland.com/news/26629719.university-glasgow-professor-warns-councillors-free-speech/",
+        "description": "University of Glasgow professor Adam Tomkins has raised serious concerns about Scotland\u2019s Standards Commission and its approach to freedom of speech and Article 10 rights.",
+        "published": "Tue, 13 Oct 2026 06:33:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/12680669/?type=app&htype=0"
+      },
+      {
+        "id": "05cb04f727642fcd3b4585f3333fdf57",
+        "title": "ScotRail makes over \u00a3250k on \u00a310 minimum fare tickets as staff pocket thousands",
+        "link": "https://www.heraldscotland.com/news/26628894.scotrail-makes-268-560-10-minimum-fares-3-months/",
+        "description": "ScotRail raised \u00a3268,560 from \u00a310 minimum fares between July 1 and September 29, with conductors earning \u00a313,428 commission, an FOI reveals in Scotland.",
+        "published": "Tue, 13 Oct 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21570138/?type=app&htype=0"
+      },
+      {
         "id": "fdaafbd72ddfc599b4f03fac106463d5",
         "title": "Kenmure Street protest play brings community voices to Glasgow's Citizens Theatre",
         "link": "https://www.glasgowtimes.co.uk/news/26629680.kenmure-street-inspired-play-premieres-glasgow-citizens-theatre/",
@@ -3379,30 +3403,6 @@
         "description": "An exciting day for soon-to-be newlyweds!",
         "published": "Sun, 11 Oct 2026 12:39:21 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34748423.ece/ALTERNATES/s98/0_The-Scottish-Wedding-Show-Live-Band-Showcase.jpg"
-      },
-      {
-        "id": "45b3a06bba556d12bdfd5f00ce8a17bd",
-        "title": "What the rush for winter tee times reveals about Scottish golf's economy",
-        "link": "https://www.heraldscotland.com/news/26625795.scottish-golf-winter-tee-times-demand-remains-strong/",
-        "description": "Scottish Golf has launched its latest winter tee times ballot, offering access to leading courses including Royal Dornoch, Muirfield and Royal Troon",
-        "published": "Sun, 11 Oct 2026 13:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/18113190/?type=app&htype=0"
-      },
-      {
-        "id": "140f94076fd261da500fd9106d9353b4",
-        "title": "Man on expired visa held elderly woman, 83, at gunpoint in her home",
-        "link": "https://www.heraldscotland.com/news/26626186.man-admits-holding-83-year-old-woman-gunpoint-thorntonhall-home/",
-        "description": "Chirag Solanki held an 83-year-old Thorntonhall woman at gunpoint during a break-in. The expired-visa holder admitted abduction, assault and burglary.",
-        "published": "Sun, 11 Oct 2026 12:45:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/16674348/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/mum-glasgow-teen-who-took-34748052",
-        "title": "Mum of Glasgow teen who took her own life after social media bullying shares powerful message",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/mum-glasgow-teen-who-took-34748052",
-        "description": "Annette McKenzie shared a powerful message this World Mental Health Day.",
-        "published": "Sun, 11 Oct 2026 11:23:26 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34748225.ece/ALTERNATES/s98/1_Screenshot-2026-10-11-121354.png"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
