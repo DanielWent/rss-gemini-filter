@@ -2693,6 +2693,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "856b98797e0aa9c44a586194d490bf81",
+        "title": "Children at risk of criminal exploitation more than double in four years",
+        "link": "https://www.heraldscotland.com/news/26633698.hundreds-children-risk-child-exploitation/",
+        "description": "Police Scotland figures show that almost 2,000 children are vulnerable to sexual or criminal exploitation in Scotland.",
+        "published": "Wed, 14 Oct 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19259485/?type=app&htype=0"
+      },
+      {
+        "id": "f09ff64d645eb0026c68495462bb3566",
+        "title": "Scotland's fund managers face an AI test that could reshape the industry",
+        "link": "https://www.heraldscotland.com/opinion/26631437.scottish-investment-firms-weigh-ai-risks-rewards/",
+        "description": "Scotland's investment sector is embracing AI for research and efficiency, but human judgement and innovation remain crucial to the industry's future",
+        "published": "Wed, 14 Oct 2026 04:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/8115755/?type=app&htype=0"
+      },
+      {
         "id": "62a9529827b08992b7c6259c1b3e28bf",
         "title": "Glasgow medtech firm secures \u00a33.4 million to advance robotic surgery technology",
         "link": "https://www.heraldscotland.com/news/26632971.nami-surgical-secures-3-4m-develop-robotic-surgery-tools/",
@@ -3475,22 +3491,6 @@
         "description": "Nicola Sturgeon warned the SNP about the rise of the Scottish Greens. And yet, the leadership have given their rivals a major conference platform.",
         "published": "Mon, 12 Oct 2026 16:26:06 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21570679/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/audi-stolen-torched-clydebank-break-34754141",
-        "title": "Audi stolen and torched in Clydebank break-in as manhunt launched",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/audi-stolen-torched-clydebank-break-34754141",
-        "description": "Police are looking for a suspect described as white, aged in his 30s, and of slim build.",
-        "published": "Mon, 12 Oct 2026 15:00:05 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34754217.ece/ALTERNATES/s98/2_Ocean-fld.png"
-      },
-      {
-        "id": "https://news.stv.tv/?p=532886",
-        "title": "Major investment to create 150 new jobs in Scotland\u2019s aerospace sector over five years",
-        "link": "https://news.stv.tv/west-central/major-investment-to-create-150-new-jobs-in-scotlands-aerospace-sector-over-five-years",
-        "description": "GE Aerospace is investing \u00a330m to expand its site in Prestwick, supported by \u00a327m from the Ayrshire Growth Deal",
-        "published": "Mon, 12 Oct 2026 14:47:21 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/9a99eeb7b4700ad6383c73bb06256ddc-1791816337-1095x720.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
