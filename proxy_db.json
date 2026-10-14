@@ -2733,6 +2733,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21574032/?type=app&htype=0"
       },
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mp-calls-andy-burnhams-34764974",
+        "title": "Glasgow MP calls for Andy Burnham's help over city centre 'violence, drug dealing and exploitation'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mp-calls-andy-burnhams-34764974",
+        "description": "&quot;We must have an honest discussion about the city's pressures, including addiction, deprivation, immigration, and community cohesion.&quot;",
+        "published": "Wed, 14 Oct 2026 15:58:49 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34386719.ece/ALTERNATES/s98/2_JS413391857.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=533266",
         "title": "Mountain rescue team assists four lost hillwalkers on Ben Venue",
         "link": "https://news.stv.tv/west-central/mountain-rescue-team-assists-four-lost-hillwalkers-on-ben-venue",
@@ -2755,6 +2763,14 @@
         "description": "Joseph Gorman struck Craig Wilson while he was walking with his fiancee, her mother and their dog in Strathaven",
         "published": "Wed, 14 Oct 2026 15:39:28 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2025/05/f80552903122b112511c63c30c41a9fc-1746179781.jpg"
+      },
+      {
+        "id": "3c2d34eebacd28caf229c2d5d79d0d42",
+        "title": "Barack Obama arrives in Glasgow ahead of huge OVO Hydro appearance tonight",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26637407.barack-obama-arrives-glasgow-one-night-ovo-hydro-event/",
+        "description": "Former US president Barack Obama has arrived in Glasgow ahead of his one-night appearance at the OVO Hydro tonight.",
+        "published": "Wed, 14 Oct 2026 16:35:02 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21581551/?type=app&htype=0"
       },
       {
         "id": "7a0b435604851a21882227456b945113",
@@ -3507,22 +3523,6 @@
         "description": "Glasgow Riverside Innovation District's first annual report highlights \u00a3149.5m in spin-out investment, new research facilities and community projects.",
         "published": "Tue, 13 Oct 2026 14:20:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21574777/?type=app&htype=0"
-      },
-      {
-        "id": "759eaaaec9c0bf768adf5462a5eca47c",
-        "title": "The Scottish love story that helped create a global whisky empire",
-        "link": "https://www.glasgowtimes.co.uk/news/26632578.east-dunbartonshires-unique-role-story-japanese-whisky/",
-        "description": "A Japanese diplomat has visited Kirkintilloch to learn more about the Scottish woman celebrated as the \u201cMother of Japanese Whisky\u201d.",
-        "published": "Tue, 13 Oct 2026 14:10:55 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21574762/?type=app&htype=0"
-      },
-      {
-        "id": "6ec1f4016db5e2b58e3225ce0538411e",
-        "title": "Canadian rock duo announce exciting Glasgow show next year",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26632546.cleopatrick-perform-swg3-tv-studio-glasgow/",
-        "description": "Canadian rock duo Cleopatrick to perform at SWG3 TV Studio in Glasgow's West End.",
-        "published": "Tue, 13 Oct 2026 14:06:01 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17761523/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
