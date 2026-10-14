@@ -2733,12 +2733,84 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21574032/?type=app&htype=0"
       },
       {
+        "id": "https://news.stv.tv/?p=533266",
+        "title": "Mountain rescue team assists four lost hillwalkers on Ben Venue",
+        "link": "https://news.stv.tv/west-central/mountain-rescue-team-assists-four-lost-hillwalkers-on-ben-venue",
+        "description": "Lomond Mountain Rescue Team was deployed to meet the walkers on Ben Venue.",
+        "published": "Wed, 14 Oct 2026 15:41:16 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/23cd18f91c2236b669d7ed0fe89c6488-1791990796-960x720.jpg"
+      },
+      {
+        "id": "739fc24585d77ffad7b15ba054f3e624",
+        "title": "Glasgow residents warned of water disruption after burst main hits busy area",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26637443.glasgow-residents-warned-disruption-burst-main/",
+        "description": "Glasgow residents in G69 face water supply disruption as Scottish Water repairs a burst main on October 14, with service and pressure returning gradually.",
+        "published": "Wed, 14 Oct 2026 16:40:58 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21108552/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=533227",
+        "title": "Van driver \u2018distracted by dog\u2019 mounted kerb and hit couple killing fianc\u00e9",
+        "link": "https://news.stv.tv/west-central/van-driver-distracted-by-dog-mounted-kerb-and-hit-couple-killing-fiance",
+        "description": "Joseph Gorman struck Craig Wilson while he was walking with his fiancee, her mother and their dog in Strathaven",
+        "published": "Wed, 14 Oct 2026 15:39:28 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2025/05/f80552903122b112511c63c30c41a9fc-1746179781.jpg"
+      },
+      {
+        "id": "7a0b435604851a21882227456b945113",
+        "title": "\u00a34m cocaine gang behind 'Breaking Bad' Glasgow drugs lab handed punishment",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26637394.five-men-4m-cocaine-gang-given-three-year-orders/",
+        "description": "Five men in a \u00a34m cocaine and money-laundering gang receive three-year Serious Crime Prevention Orders after Operation Silhouette raids in Glasgow.",
+        "published": "Wed, 14 Oct 2026 16:33:04 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20098675/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/official-fireworks-displays-around-glasgow-34757875",
+        "title": "Official fireworks displays around Glasgow this Bonfire Night - all the dates you need",
+        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/official-fireworks-displays-around-glasgow-34757875",
+        "description": "The full list of firework displays and events to enjoy this Bonfire Night, with Glasgow's own official one yet again not set for a return.",
+        "published": "Wed, 14 Oct 2026 15:32:03 +0000",
+        "image_url": "https://i2-prod.edinburghlive.co.uk/incoming/article34759851.ece/ALTERNATES/s98/1_JS386808658.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c98rzg7mlxxdo#0",
+        "title": "I do not have confidence UK is safe from Russian threats - Swinney",
+        "link": "https://www.bbc.co.uk/news/articles/c98rzg7mlxxdo?at_medium=RSS&at_campaign=rss",
+        "description": "The first minister speaks to BBC Scotland News ahead of the SNP's annual conference in Aberdeen.",
+        "published": "Wed, 14 Oct 2026 15:30:03 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daf7/live/48a3be30-c7d8-11f1-bc2e-018d645d8d21.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/housing-association-slams-glasgow-anti-34764846",
         "title": "Housing association slams Glasgow anti-immigration protest that left residents feeling 'threatened'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/housing-association-slams-glasgow-anti-34764846",
         "description": "It comes after a masked mob stormed through traffic in the Shettleston area, chanting &quot;our streets&quot;.",
         "published": "Wed, 14 Oct 2026 15:20:23 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34735999.ece/ALTERNATES/s98/1_Screenshot-2026-10-08-140126.png"
+      },
+      {
+        "id": "d7106659fa657b51b64bd2407bbde036",
+        "title": "Councillor cleared of standards breach after forwarding constituent's email to boss",
+        "link": "https://www.heraldscotland.com/news/26637089.edinburgh-councillor-cleared-email-sent-constituents-employer/",
+        "description": "Councillor James Dalgleish, the capital\u2019s education convener, had been reported to the Ethical Standards Commissioner after the incident in September 2025.",
+        "published": "Wed, 14 Oct 2026 16:07:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20771301/?type=app&htype=0"
+      },
+      {
+        "id": "f9ded067c6a2431c43c91853065ff75a",
+        "title": "Ministers must step up to help creatives facing eviction from Scotland's arts spaces",
+        "link": "https://www.heraldscotland.com/news/26635581.time-action-creatives-face-eviction-nations-arts-spaces/",
+        "description": "Bit by bit, the nation\u2019s creative spaces are being sold off, plunging Scotland\u2019s artists and makers into an uncertain future.\u00a0Urgent action must be taken.",
+        "published": "Wed, 14 Oct 2026 16:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21580396/?type=app&htype=0"
+      },
+      {
+        "id": "39853a4f8fb66168364843a1acd38327",
+        "title": "Scottish Greens call for \u2018Amazon tax\u2019 on big online retailers",
+        "link": "https://www.heraldscotland.com/news/26636965.scottish-greens-call-amazon-tax-online-retailers/",
+        "description": "Scottish Greens call for an \u2018Amazon tax\u2019 on major online retailers, saying it could support local businesses and high streets; retail chiefs oppose the plan.",
+        "published": "Wed, 14 Oct 2026 15:43:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18730943/?type=app&htype=0"
       },
       {
         "id": "013aa58910f181c9ddcf08569c8ca30c",
@@ -3451,78 +3523,6 @@
         "description": "Canadian rock duo Cleopatrick to perform at SWG3 TV Studio in Glasgow's West End.",
         "published": "Tue, 13 Oct 2026 14:06:01 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17761523/?type=app&htype=0"
-      },
-      {
-        "id": "8b07aec9434bdd5641dac77973accaa4",
-        "title": "Glasgow Airport passengers to see huge changes soon as new technology tested",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26632465.three-firms-selected-trial-airport-technology-glasgow-airport/",
-        "description": "Glasgow Airport trials AI, robotics and connectivity technology from Beam Connectivity, Createc and Wordnerds to improve operations and passenger experience.",
-        "published": "Tue, 13 Oct 2026 13:55:04 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18140724/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glaswegians-invited-shape-renovation-plans-34755433",
-        "title": "Glaswegians invited to shape renovation plans for three Kelvingrove streets",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glaswegians-invited-shape-renovation-plans-34755433",
-        "description": "\u201cThese proposals are an opportunity to create safer, more accessible and more welcoming streets in Kelvingrove.&quot;",
-        "published": "Tue, 13 Oct 2026 12:54:05 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34755455.ece/ALTERNATES/s98/2_council1.jpg"
-      },
-      {
-        "id": "aaa3a1edf6881cbe025c4007e185632e",
-        "title": "Scottish founder launches free app to help plan UK hill and mountain trips",
-        "link": "https://www.heraldscotland.com/news/26632400.new-hillcast-app-combines-weather-routes-uk-hills/",
-        "description": "The free Hillcast app brings UK hill weather forecasts, walking routes and parking information together for 2,000+ summits across Scotland, England and Wales.",
-        "published": "Tue, 13 Oct 2026 13:50:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21574502/?type=app&htype=0"
-      },
-      {
-        "id": "39366ba6aa90d858fa596cb76f0d1e1c",
-        "title": "Thug pointed 'loaded gun' at police officer before being tackled outside Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26632345.man-sentenced-pointing-loaded-air-revolver-officer/",
-        "description": "Sean McAvoy pointed a loaded air revolver at PC Jamie Petrie in Rutherglen on June 14, 2025. The Cambuslang man received unpaid work plus supervision.",
-        "published": "Tue, 13 Oct 2026 13:28:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20630151/?type=app&htype=0"
-      },
-      {
-        "id": "29f3f7c7506ef3c0360b202d039bb46c",
-        "title": "Scottish Jewish body urges Edinburgh University to retain antisemitism definition",
-        "link": "https://www.heraldscotland.com/news/26632301.jewish-council-urges-edinburgh-university-retain-ihra-definition/",
-        "description": "Timothy Lovat, chair of the Jewish Council of Scotland (JCoS), said the university should not abandon the IHRA definition of antisemitism.",
-        "published": "Tue, 13 Oct 2026 13:28:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21551866/?type=app&htype=0"
-      },
-      {
-        "id": "92480619de3acaa832a2cc4eb6fefa32",
-        "title": "Iconic musician to reunite with band after 50 years as Glasgow show announced",
-        "link": "https://www.glasgowtimes.co.uk/news/26632324.herb-alpert-tijuana-brass-glasgow-concert-announced/",
-        "description": "Herb Alpert and the Tijuana Brass reunite for Glasgow Royal Concert Hall show on May 7, 2027, during his first UK tour in over 50 years. Tickets October 16.",
-        "published": "Tue, 13 Oct 2026 13:21:08 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21574363/?type=app&htype=0"
-      },
-      {
-        "id": "6f41f2778ace8334cf1a23374e145047",
-        "title": "The most rat infested areas of Glasgow revealed",
-        "link": "https://www.heraldscotland.com/news/26632147.glasgows-rat-infested-areas-revealed-herald-data/",
-        "description": "A freedom of information request by The Herald has revealed Glasgow's most rat infested areas.",
-        "published": "Tue, 13 Oct 2026 12:50:54 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21574770/?type=app&htype=0"
-      },
-      {
-        "id": "e1d17cb98b471eebfd86d870ed6daec6",
-        "title": "Scottish dog honoured for breakthrough discovery in sniffing out invasive \u2018sea vomit\u2019",
-        "link": "https://www.heraldscotland.com/news/26632123.scottish-dog-trained-sniff-sea-vomit-world-first/",
-        "description": "A detection dog trained to identify a highly invasive marine species is being recognised with an international award for her work to protect UK coastlines.",
-        "published": "Tue, 13 Oct 2026 12:47:15 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21574167/?type=app&htype=0"
-      },
-      {
-        "id": "6de0128aa0400e193d23e59ac83f6fa2",
-        "title": "Fire officials issue final update on South Street scrapyard blaze",
-        "link": "https://www.glasgowtimes.co.uk/news/26632075.final-update-issued-glasgow-south-street-scrapyard-fire/",
-        "description": "Scottish Fire and Rescue Service crews leave Glasgow scrapyard fire scene after three days, thanking Whiteinch residents for their patience. No injuries reported.",
-        "published": "Tue, 13 Oct 2026 12:40:24 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21563117/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
