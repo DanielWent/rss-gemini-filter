@@ -2628,6 +2628,14 @@
     "icon_url": "https://runabc.co.uk/favicon.ico",
     "articles": [
       {
+        "id": "https://runabc.co.uk/glasgow-morun-celebrates-14-years-of-running-for-movember",
+        "title": "Glasgow MoRun Celebrates 14 Years Of Running For Movember",
+        "link": "https://runabc.co.uk/glasgow-morun-celebrates-14-years-of-running-for-movember",
+        "description": "<p><img alt=\"Glasgow MoRun 2026\" src=\"https://runabc.co.uk/images/2026/10/glasgow-morun-2026.jpg\" /></p>\n\t\t\t\t<p>Glasgow MoRun returns on 29 November, 14 years after the Movember running series first brought its moustaches to Scotland...</p>",
+        "published": "Wed, 14 Oct 2026 07:55:00 +0100",
+        "image_url": "https://runabc.co.uk/images/2026/10/glasgow-morun-2026.jpg"
+      },
+      {
         "id": "https://runabc.co.uk/run-with-the-wind-10k-has-changed-but-the-name-lives-on",
         "title": "Run With The Wind 10K Has Changed But The Name Lives On",
         "link": "https://runabc.co.uk/run-with-the-wind-10k-has-changed-but-the-name-lives-on",
@@ -2701,6 +2709,38 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21574032/?type=app&htype=0"
       },
       {
+        "id": "9285467",
+        "title": "Rangers assemble 'a team full of captains' as Ibrox hero names seven stars leading from the front",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-assemble-a-team-full-of-captains-as-ibrox-hero-names-seven-stars-leading-from-the-front-9285467",
+        "description": "<p>Manager Derek McInnes had the ambition of leaders all over the pitch since his appointment</p>",
+        "published": "Wed, 14 Oct 2026 07:00:35 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/13/16/16/GettyImages-2290373483.jpeg?width=1200&auto=webp&trim=15%2C0%2C16%2C0"
+      },
+      {
+        "id": "9284732",
+        "title": "How to watch Benfica vs Celtic: TV channel, live stream, team news, referee and VAR for Europa League clash",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/how-to-watch-benfica-vs-celtic-tv-channel-live-stream-team-news-referee-and-var-for-europa-league-clash-9284732",
+        "description": "<p>Everything you need to know about how to watch Celtic\u2019s trip to Lisbon</p>",
+        "published": "Wed, 14 Oct 2026 07:00:15 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/13/13/56/GettyImages-2295800999.jpeg?width=1200&auto=webp&trim=90%2C0%2C92%2C0"
+      },
+      {
+        "id": "https://runabc.co.uk/glasgow-morun-celebrates-14-years-of-running-for-movember",
+        "title": "Glasgow MoRun Celebrates 14 Years Of Running For Movember",
+        "link": "https://runabc.co.uk/glasgow-morun-celebrates-14-years-of-running-for-movember",
+        "description": "<p><img alt=\"Glasgow MoRun 2026\" src=\"https://runabc.co.uk/images/2026/10/glasgow-morun-2026.jpg\" /></p>\n\t\t\t\t<p>Glasgow MoRun returns on 29 November, 14 years after the Movember running series first brought its moustaches to Scotland...</p>",
+        "published": "Wed, 14 Oct 2026 07:55:00 +0100",
+        "image_url": "https://runabc.co.uk/images/2026/10/glasgow-morun-2026.jpg"
+      },
+      {
+        "id": "c1d22500a08fe6ad9874265e69cc7223",
+        "title": "Prices slashed on train tickets as ScotRail announces Glasgow event coming tomorrow",
+        "link": "https://www.glasgowtimes.co.uk/news/26634276.glasgow-event-announced-scotrail-slash-ticket-prices/",
+        "description": "ScotRail releases 100,000 discounted Advance Single tickets with fares up to 60% off winter journeys across Scotland as Glasgow Queen Street event announced.",
+        "published": "Wed, 14 Oct 2026 07:54:19 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21577322/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgows-historic-buildings-falling-apart-34758444",
         "title": "'Glasgow's historic buildings are falling apart and falling masonry is an accident waiting to happen'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgows-historic-buildings-falling-apart-34758444",
@@ -2715,14 +2755,6 @@
         "description": "A report commissioned by the Scottish Government recommended new local schools authorities take over responsibility from councils.",
         "published": "Wed, 14 Oct 2026 06:32:47 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34599856.ece/ALTERNATES/s98/3_Nursery.jpg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=533136",
-        "title": "Glasgow Subway suspended due to \u2018failed train\u2019 at the depot",
-        "link": "https://news.stv.tv/west-central/glasgow-subway-suspended-due-to-failed-train-at-the-depot",
-        "description": "Both the Inner and Outer lines are not running ahead of rush hour",
-        "published": "Wed, 14 Oct 2026 06:29:11 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2021/05/88127068a67c572bfedfba4d9fdb9de4.jpg"
       },
       {
         "id": "6c62ec5091d682a72475ca4940ddacef",
@@ -2779,14 +2811,6 @@
         "description": "Parents have hit out after a creep who sexually assaulted four schoolgirls in a swimming pool was jailed for just four months.",
         "published": "Wed, 14 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21573873/?type=app&htype=99"
-      },
-      {
-        "id": "a4fb76305f50cd39215630590a9363c3",
-        "title": "Major new sustainability strategy launched at Glasgow Airport",
-        "link": "https://www.glasgowtimes.co.uk/news/26633792.major-new-sustainability-strategy-launched-glasgow-airport/",
-        "description": "A new sustainability strategy has launched at Glasgow Airport.",
-        "published": "Wed, 14 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21576586/?type=app&htype=0"
       },
       {
         "id": "a84acbe29f90be66fdd394bb87c39d0a",
@@ -3133,14 +3157,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21574363/?type=app&htype=0"
       },
       {
-        "id": "9284618",
-        "title": "Legendary 70s rockers set for 60th anniversary show in Glasgow",
-        "link": "https://www.glasgowworld.com/news/blue-oyster-cult-set-for-60th-anniversary-show-in-glasgow-9284618",
-        "description": "<p>Legendary 70s rockers set for 60th anniversary show in Glasgow</p>",
-        "published": "Tue, 13 Oct 2026 12:10:28 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/13/12/02/unnamed-(16).jpeg?width=1200&auto=webp&trim=0%2C58%2C0%2C58"
-      },
-      {
         "id": "08488dc26c218a27a373fae1d23accf8",
         "title": "'We can't even wash our hands' - Barlinnie water crisis continues days after 'fix'",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26632253.barlinnie-prisoners-reportedly-face-ongoing-water-issues/",
@@ -3219,14 +3235,6 @@
         "description": "An award-winning deli and cafe is celebrating another major accolade after being recognised for its outstanding food.",
         "published": "Tue, 13 Oct 2026 12:19:46 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21573756/?type=app&htype=0"
-      },
-      {
-        "id": "bcddd57d233aeb089e32d718af5988ff",
-        "title": "Radio 1 DJ Tony Blackburn to bring Sounds of the 60s Live to Scotland next year",
-        "link": "https://www.heraldscotland.com/news/26631730.tony-blackburn-announces-glasgow-show-september-2027/",
-        "description": "Tony Blackburn will bring Sounds of the 60s Live to Glasgow\u2019s King\u2019s Theatre on September 1, 2027, with a second Scottish date in Edinburgh.",
-        "published": "Tue, 13 Oct 2026 11:58:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21573481/?type=app&htype=0"
       },
       {
         "id": "9284246",
