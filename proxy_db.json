@@ -2717,6 +2717,22 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21574032/?type=app&htype=0"
       },
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-barlinnie-prisoners-serious-risk-34761426",
+        "title": "Glasgow Barlinnie prisoners at 'serious risk' over water supply issues",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-barlinnie-prisoners-serious-risk-34761426",
+        "description": "Families of prisoners at HMP Barlinnie claim the health of inmates is being put at risk by an ongoing water supply crisis, with concerns raised over hygiene and dignity in the Glasgow jail",
+        "published": "Wed, 14 Oct 2026 08:12:12 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34761424.ece/ALTERNATES/s98/0_7-4-25_Jail_50JPG.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=533144",
+        "title": "Strong winds hit Western Scotland causing disruption on ferry and rail networks",
+        "link": "https://news.stv.tv/west-central/strong-winds-hit-western-scotland-causing-disruption-on-ferry-and-rail-networks",
+        "description": "ScotRail has been forced to introduce speed restrictions on the West Highland Line",
+        "published": "Wed, 14 Oct 2026 08:07:12 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/c1af67ac250dad263423532ad37d1dd4-1791965130-1080x720.jpeg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/untouchable-youth-gangs-rampage-glasgow-34761227",
         "title": "'Untouchable' youth gangs rampage at Glasgow shops as staff attacked in new crime wave",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/untouchable-youth-gangs-rampage-glasgow-34761227",
@@ -3491,22 +3507,6 @@
         "description": "Business sentiment has climbed to its strongest level in more than a year, while expectations for sales and profits have also improved",
         "published": "Tue, 13 Oct 2026 04:30:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21042147/?type=app&htype=0"
-      },
-      {
-        "id": "4a3e7e24c05851297940e3e1d0611c6b",
-        "title": "Swinney recommits to triple lock for an independent Scotland despite backlash",
-        "link": "https://www.heraldscotland.com/news/26630219.swinney-recommits-triple-lock-independent-scotland/",
-        "description": "SNP First Minister John Swinney recommits to the pension triple lock in an independent Scotland amid a row over UK pension changes and claims of misleading Scots.",
-        "published": "Tue, 13 Oct 2026 00:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20071875/?type=app&htype=0"
-      },
-      {
-        "id": "0497d484efd44f977bf6f09ce075b6cc",
-        "title": "Scottish homeowners \u00a3279 a month worse off as SNP says Burnham broke promise",
-        "link": "https://www.heraldscotland.com/news/26629952.snp-accuses-andy-burnham-breaking-cost-of-living-promise/",
-        "description": "SNP accuses Andy Burnham of breaking cost-of-living promises as five-year mortgage rates hit 6%, leaving Scottish homeowners \u00a3279 a month worse off.",
-        "published": "Tue, 13 Oct 2026 00:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21571201/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"

@@ -3,7 +3,7 @@
   "keys": {
     "ff8b60d30e0f970d": {
       "gemini-3.5-flash-lite": {
-        "daily_requests": 4,
+        "daily_requests": 5,
         "exhausted": false
       },
       "gemini-2.5-flash": {
@@ -25,7 +25,7 @@
     },
     "7c9375937803a7a0": {
       "gemini-3.5-flash-lite": {
-        "daily_requests": 4,
+        "daily_requests": 5,
         "exhausted": false
       },
       "gemini-2.5-flash": {
@@ -55,8 +55,16 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 4,
+        "daily_requests": 5,
         "exhausted": false
+      },
+      "gemini-3.6-flash": {
+        "daily_requests": 0,
+        "exhausted": true
+      },
+      "gemini-3.5-flash": {
+        "daily_requests": 0,
+        "exhausted": true
       }
     },
     "f540f7bc05bc955e": {
@@ -69,8 +77,16 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 4,
+        "daily_requests": 5,
         "exhausted": false
+      },
+      "gemini-3.6-flash": {
+        "daily_requests": 0,
+        "exhausted": true
+      },
+      "gemini-3.5-flash": {
+        "daily_requests": 0,
+        "exhausted": true
       }
     },
     "aa95c5aa8b848d9c": {
@@ -83,7 +99,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 3,
+        "daily_requests": 5,
         "exhausted": false
       }
     },
@@ -97,7 +113,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 3,
+        "daily_requests": 5,
         "exhausted": false
       }
     },
@@ -111,7 +127,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 3,
+        "daily_requests": 5,
         "exhausted": false
       }
     },
@@ -125,7 +141,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 3,
+        "daily_requests": 5,
         "exhausted": false
       }
     },
@@ -139,7 +155,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 3,
+        "daily_requests": 5,
         "exhausted": false
       }
     },
@@ -153,7 +169,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 3,
+        "daily_requests": 4,
         "exhausted": false
       }
     },
@@ -167,7 +183,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 3,
+        "daily_requests": 4,
         "exhausted": false
       }
     }
