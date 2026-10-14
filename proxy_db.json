@@ -2693,6 +2693,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "62a9529827b08992b7c6259c1b3e28bf",
+        "title": "Glasgow medtech firm secures \u00a33.4 million to advance robotic surgery technology",
+        "link": "https://www.heraldscotland.com/news/26632971.nami-surgical-secures-3-4m-develop-robotic-surgery-tools/",
+        "description": "Glasgow-based Nami Surgical has secured \u00a33.4m in funding, including \u00a32m from the Scottish National Investment Bank, to advance its robotic surgery technology and create five jobs.",
+        "published": "Wed, 14 Oct 2026 00:05:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21575362/?type=app&htype=0"
+      },
+      {
+        "id": "46ed10718b1f98edb90c90d2ab55b86d",
+        "title": "Scots back renewables but reject immediate end to North Sea drilling, study shows",
+        "link": "https://www.heraldscotland.com/news/26633082.majority-scots-support-move-towards-net-zero-energy/",
+        "description": "Most Scots back net zero and renewable energy investment, while IPPR Scotland research finds support for case-by-case North Sea oil and gas decisions.",
+        "published": "Wed, 14 Oct 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20573527/?type=app&htype=0"
+      },
+      {
         "id": "5f2971433b35c5a00580d5445e3b6650",
         "title": "Historic dyke remains found after 200 years, including possible fortified summerhouse",
         "link": "https://www.heraldscotland.com/news/26634070.fortified-harvies-dyke-wall-remains-found-glasgow/",
@@ -2739,14 +2755,6 @@
         "description": "Glasgow City Council consults on greener Anderston Station plans, with a new plaza, safer crossings and cycle link connecting the city centre and West End.",
         "published": "Tue, 13 Oct 2026 19:27:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21575281/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=533115",
-        "title": "Historians discover remains of Glasgow wall torn down more than 200 years ago",
-        "link": "https://news.stv.tv/west-central/historians-discover-remains-of-glasgow-wall-torn-down-more-than-200-years-ago",
-        "description": "Thomas \u201cLang Tam\u201d Harvie, a flamboyant, wealthy Glasgow distiller, bought the estate of Westthorn in Dalmarnock in the 1820s",
-        "published": "Tue, 13 Oct 2026 18:15:32 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/8fe1a46982fa53fc13f4f7804c413229-1791914891-1200x720.jpeg"
       },
       {
         "id": "https://news.stv.tv/?p=533110",
