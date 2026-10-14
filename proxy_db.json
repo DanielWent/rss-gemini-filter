@@ -2701,6 +2701,30 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21574032/?type=app&htype=0"
       },
       {
+        "id": "6c62ec5091d682a72475ca4940ddacef",
+        "title": "LIVE updates as Glasgow Subway goes down ahead of rush hour",
+        "link": "https://www.glasgowtimes.co.uk/news/26634239.live-updates-glasgow-subway-goes-ahead-rush-hour/",
+        "description": "Glasgow Subway has been suspended due to a failed train in the depot, leaving many commuters stranded.",
+        "published": "Wed, 14 Oct 2026 07:15:29 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19117137/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=533069",
+        "title": "Glasgow Airport opens solar farm set to supply 25% of its electricity",
+        "link": "https://news.stv.tv/west-central/glasgow-airport-opens-solar-farm-set-to-supply-25-of-its-electricity",
+        "description": "The 10MW development is expected to save around 1,100 tonnes of CO2 equivalent every year",
+        "published": "Wed, 14 Oct 2026 05:58:45 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/d185ed6f4682e0f4c7d7f6e170e06eac-1791906664-1280x720.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=533108",
+        "title": "Scotland\u2019s largest rape crisis centre appeals for cash to mark 50th anniversary",
+        "link": "https://news.stv.tv/west-central/scotlands-largest-rape-crisis-centre-appeals-for-cash-to-mark-50th-anniversary",
+        "description": "The centre has already been forced to close some of its waiting lists, revealing in February that survivors face waiting times of up to 226 days",
+        "published": "Wed, 14 Oct 2026 05:57:57 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2022/11/4e3b8c9692758ff1399dbef6d445317e-1669734080.jpg"
+      },
+      {
         "id": "84a2a8f21fe7b8f9a78f437e0fbafff2",
         "title": "\u2018They\u2019ve had it in for us\u2019 - Anger over Glasgow plans to cut 24 churches",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26631422.clydebank-campaigner-hits-archdiocese-church-closures/",
@@ -3011,14 +3035,6 @@
         "description": "A Japanese diplomat has visited Kirkintilloch to learn more about the Scottish woman celebrated as the \u201cMother of Japanese Whisky\u201d.",
         "published": "Tue, 13 Oct 2026 14:10:55 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21574762/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/plea-install-battery-collection-bins-34758294",
-        "title": "Plea to install battery collection bins across Glasgow after spate of bin lorry fires",
-        "link": "https://www.glasgowlive.co.uk/news/plea-install-battery-collection-bins-34758294",
-        "description": "Batteries, particularly lithium, can cause fires if they are crushed or damaged during waste collection or at recycling and waste-processing facilities.",
-        "published": "Tue, 13 Oct 2026 13:07:26 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/article34444837.ece/ALTERNATES/s98/1_A-bin-lorry-like-this-one-went-on-fire-this-morning-on-Jamaica-Street.jpg"
       },
       {
         "id": "6ec1f4016db5e2b58e3225ce0538411e",
@@ -3475,22 +3491,6 @@
         "description": "A campaign has been launched to re-open the Stirling-Dunfermline rail line to allow passengers to travel between the two cities.",
         "published": "Mon, 12 Oct 2026 19:58:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/14304339/?type=app&htype=0"
-      },
-      {
-        "id": "9281783",
-        "title": "Celtic handed Europa League boost as Benfica boss explains 'B team' possibility ahead of clash",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-handed-europa-league-boost-as-benfica-boss-explains-why-he-might-need-to-dip-into-the-b-team-9281783",
-        "description": "<p>Hoops set for European glory tie on Thursday night</p>",
-        "published": "Mon, 12 Oct 2026 17:00:10 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/12/12/43/GettyImages-2295058325.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "d8b71ea12aa8f4399ea262840a7f1195",
-        "title": "The Glasgow street where drivers are most likely to get a parking ticket revealed",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26629945.glasgow-parking-streets-recording-highest-number-fines/",
-        "description": "Sauchiehall Street has emerged as Glasgow's top parking fine hotspot, with more than 2,200 tickets issued in just five months, according to new figures obtained by The Herald.",
-        "published": "Mon, 12 Oct 2026 17:13:03 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17473836/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
