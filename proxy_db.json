@@ -2733,6 +2733,22 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21574032/?type=app&htype=0"
       },
       {
+        "id": "013aa58910f181c9ddcf08569c8ca30c",
+        "title": "Established university in Glasgow set to 'close' as four unions join forces to strike",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26636948.glasgow-caledonian-staff-strike-proposed-job-cuts/",
+        "description": "Glasgow Caledonian University faces strike action on October 15 as four campus unions oppose 50 proposed job cuts and warn lecture rooms could close.",
+        "published": "Wed, 14 Oct 2026 15:34:03 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17068956/?type=app&htype=0"
+      },
+      {
+        "id": "9287794",
+        "title": "Glasgow City Council unveils plans for new Drumchapel town hall and library",
+        "link": "https://www.glasgowworld.com/news/drumchapel-regeneration-glasgow-city-council-garscadden-house-9287794",
+        "description": "<p>Plans for a new town hall and library in Drumchapel have been revealed by Glasgow City Council</p>",
+        "published": "Wed, 14 Oct 2026 14:27:05 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/14/14/40/onecms_8fcf56ad-7097-4450-8aa6-89f3c9d24ca2_f99d7e53-f0e5-450b-b9b8-717220de4a95.jpeg?width=1200&auto=webp&trim=68%2C0%2C69%2C0"
+      },
+      {
         "id": "https://news.stv.tv/?p=533143",
         "title": "Gallery: Kingston Bridge bursting with colour once again as new murals painted after Batman filming",
         "link": "https://news.stv.tv/west-central/gallery-kingston-bridge-bursting-with-colour-once-again-as-new-murals-painted-after-batman-filming",
@@ -2755,6 +2771,14 @@
         "description": "The car was discovered burnt out in a bunker on the second hole of Overtoun Golf Club",
         "published": "Wed, 14 Oct 2026 14:10:47 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/29ac1d7eb5fad7b9e49ffc39aa0a1eb0-1791980176-1080x720.jpeg"
+      },
+      {
+        "id": "d9c6e967db6395b25919d876d47a630d",
+        "title": "Plans for five new industrial units given green light near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26636732.five-new-industrial-units-given-green-light-lanark/",
+        "description": "Plans for five new industrial units at Caldwellside Industrial Estate in Lanark have been approved by South Lanarkshire Council.",
+        "published": "Wed, 14 Oct 2026 15:07:20 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21580489/?type=app&htype=480"
       },
       {
         "id": "7e5182fc1e72e0534a3fc02823c946e9",
@@ -3499,30 +3523,6 @@
         "description": "Scottish Fire and Rescue Service crews leave Glasgow scrapyard fire scene after three days, thanking Whiteinch residents for their patience. No injuries reported.",
         "published": "Tue, 13 Oct 2026 12:40:24 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21563117/?type=app&htype=0"
-      },
-      {
-        "id": "96970c8d32d2997eb0febab0eedf8982",
-        "title": "Opening date revealed as Chick-fil-A set to open near Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/26632017.chick-fil-a-hamilton-opening-date-revealed-first-scotland-chain/",
-        "description": "Chick-fil-A has confirmed the opening date for its first restaurant in Scotland at Hamilton Palace Grounds near Glasgow.",
-        "published": "Tue, 13 Oct 2026 12:33:51 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21467970/?type=app&htype=0"
-      },
-      {
-        "id": "6b30450152a464b85bcc2721c8905098",
-        "title": "Update issued after police swarmed residential street",
-        "link": "https://www.glasgowtimes.co.uk/news/26631988.bearsden-man-charged-disturbance-prompts-police/",
-        "description": "Police Scotland responded to a disturbance on Spey Drive, Bearsden, Glasgow, on October 1. A man was taken to hospital, charged and reported to prosecutors.",
-        "published": "Tue, 13 Oct 2026 12:29:55 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21574010/?type=app&htype=97"
-      },
-      {
-        "id": "587c28bf3d1921de5fd31be0fdbfb457",
-        "title": "Pharmacists told to ration THIS medication amid national shortage",
-        "link": "https://www.glasgowtimes.co.uk/news/26631986.uk-pharmacists-told-ration-key-hrt-patch-supplies/",
-        "description": "UK pharmacists have been told to ration supplies of a key HRT medication due to a national shortage.",
-        "published": "Tue, 13 Oct 2026 12:29:49 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/14236331/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
