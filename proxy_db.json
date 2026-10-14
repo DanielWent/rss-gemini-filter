@@ -2010,6 +2010,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "c154d7da643065145780c82346146f4b",
+        "title": "East Dunbartonshire library transforms unused space into community reading garden",
+        "link": "https://www.glasgowtimes.co.uk/news/26635718.bishopbriggs-library-launched-new-outdoor-reading-garden/",
+        "description": "Bishopbriggs Library is bringing books to life with an outdoor space designed for reading, relaxation and community activities.",
+        "published": "Wed, 14 Oct 2026 12:22:32 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21579072/?type=app&htype=0"
+      },
+      {
         "id": "f2517976eb151588162ff0f37fc34c0f",
         "title": "'Tinder Swindler' ex-council leader could be stripped of \u00a3197k after romance fraud",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26635185.prosecutors-seek-197k-ex-council-leader-andrew-polson/",
@@ -2725,6 +2733,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21574032/?type=app&htype=0"
       },
       {
+        "id": "https://news.stv.tv/?p=533188",
+        "title": "Ally McCoist brands council\u2019s reason for rejecting luxury housing plans \u2018very loose\u2019",
+        "link": "https://news.stv.tv/west-central/ally-mccoist-brands-councils-reason-for-rejecting-luxury-housing-plans-very-loose",
+        "description": "The Rangers icon has been in a row with Renfrewshire Council over proposals to build 33 houses in Bridge of Weir",
+        "published": "Wed, 14 Oct 2026 11:36:59 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2024/08/dba369cb38dfc9709c7e59e0858d5b09-1724066549-1276x720.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/loch-lomond-rescue-boat-scrambled-34762590",
         "title": "Loch Lomond rescue boat scrambled over early hours reports of person in the water",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/loch-lomond-rescue-boat-scrambled-34762590",
@@ -2749,14 +2765,6 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/09/14/29/GettyImages-2288007644.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       },
       {
-        "id": "https://news.stv.tv/?p=533172",
-        "title": "Section of Glasgow rail line to close for \u00a31.7m Network Rail improvement works",
-        "link": "https://news.stv.tv/west-central/section-of-glasgow-rail-line-to-close-for-1-7m-network-rail-improvement-works",
-        "description": "ScotRail services between Rutherglen and Partick will be affected by the works.",
-        "published": "Wed, 14 Oct 2026 10:56:51 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/f01b153015f76b0c22eeff6e9529a274-1791972411.jpg"
-      },
-      {
         "id": "9286889",
         "title": "34-year-old man arrested and charged after car stolen and set alight in Clydebank",
         "link": "https://www.glasgowworld.com/news/crime/34-year-old-man-charged-over-clydebank-car-theft-and-fire-9286889",
@@ -2779,6 +2787,14 @@
         "description": "Three men jailed for almost 14 years after armed Coatbridge raid on wrong family home, while a fourth gang member has sentencing deferred at Glasgow High Court.",
         "published": "Wed, 14 Oct 2026 11:47:39 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21056124/?type=app&htype=70"
+      },
+      {
+        "id": "baf2dd846934ba7eefb5717e8cf1ac3b",
+        "title": "Erskine shopping centre changes hands for first time since 1980s in \u00a321m deal",
+        "link": "https://www.heraldscotland.com/news/26635428.bridgewater-shopping-centre-erskine-sold-around-21m/",
+        "description": "Bridgewater Shopping Centre in Erskine, near Glasgow, has been sold to Greenridge Investment Management for around \u00a321m in its first ownership change since the 1980s.",
+        "published": "Wed, 14 Oct 2026 11:45:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21578638/?type=app&htype=0"
       },
       {
         "id": "fb04df697b26ae264390d492320f0828",
@@ -2853,12 +2869,12 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17824430/?type=app&htype=0"
       },
       {
-        "id": "bf6880843f2ad57e816016bf8ef3cbe0",
-        "title": "Crown seeks to recover \u00a3197,000 from ex-council leader jailed over romance fraud",
-        "link": "https://www.heraldscotland.com/news/26634957.crown-seeks-recover-197-000-ex-council-leader/",
-        "description": "Andrew Polson, 54, duped his lover Ann Kelly, 72, into handing him the cash in a property scam between May 2021 and March 2022",
-        "published": "Wed, 14 Oct 2026 10:31:12 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/12157971/?type=app&htype=0"
+        "id": "3e18408111203ae0cc5cc7107c9b7043",
+        "title": "Former Glasgow DWP JobCentre being transformed into 49 new flats",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26634910.bridgeton-jobcentre-glasgow-transformed-49-flats/",
+        "description": "The conversion of the former DWP JobCentre in Muslin Street, Bridgeton, into 49 flats is underway.",
+        "published": "Wed, 14 Oct 2026 10:23:21 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21578881/?type=app&htype=0"
       },
       {
         "id": "5492060",
@@ -2899,14 +2915,6 @@
         "description": "Mary\u2019s Meals Christmas market returns to Glasgow\u2019s Trades Hall on November 14 and 15.",
         "published": "Wed, 14 Oct 2026 09:32:31 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21577609/?type=app&htype=0"
-      },
-      {
-        "id": "cf076fa7a050b1bbc4614b1666fc5269",
-        "title": "Glasgow Central Low Level to close over two weekends for improvement works",
-        "link": "https://www.heraldscotland.com/news/26634570.glasgow-central-low-level-close-two-weekends-works/",
-        "description": "Network Rail engineers are to carry out essential work across Glasgow's Argyle line and Central Low Level station over two weekends later this month.",
-        "published": "Wed, 14 Oct 2026 09:31:24 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21577646/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-barlinnie-prisoners-serious-risk-34761426",
@@ -3483,14 +3491,6 @@
         "description": "BBC Factual and BBC Scotland have announced a two-part documentary series on Harry Potter author J.K. Rowling.",
         "published": "Tue, 13 Oct 2026 11:27:09 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21573218/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=532986",
-        "title": "SNP invites Burnham to party conference during Scotland visit",
-        "link": "https://news.stv.tv/west-central/snp-invites-burnham-to-party-conference-during-scotland-visit",
-        "description": "The Labour leader will reportedly arrive on Friday",
-        "published": "Tue, 13 Oct 2026 10:21:23 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/75f816c79bc1765632d91396a3836d40-1791886844-1119x720.jpeg"
       },
       {
         "id": "95eb9f90cad9c92bb7e5b0fa45b9d0a5",
