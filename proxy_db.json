@@ -2717,6 +2717,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21574032/?type=app&htype=0"
       },
       {
+        "id": "a44f8270d5bfd1cc3f42d5b6583071ec",
+        "title": "Glasgow Christmas market to raise funds for Mary\u2019s Meals in November",
+        "link": "https://www.glasgowtimes.co.uk/news/26634580.marys-meals-christmas-market-returns-glasgow-november/",
+        "description": "Mary\u2019s Meals Christmas market returns to Glasgow\u2019s Trades Hall on November 14 and 15.",
+        "published": "Wed, 14 Oct 2026 09:32:31 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21577609/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-barlinnie-prisoners-serious-risk-34761426",
         "title": "Glasgow Barlinnie prisoners at 'serious risk' over water supply issues",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-barlinnie-prisoners-serious-risk-34761426",
@@ -2739,6 +2747,14 @@
         "description": "Business owners say perpetrators are getting younger and thefts more frequent.",
         "published": "Wed, 14 Oct 2026 07:43:58 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34761225.ece/ALTERNATES/s98/0_shop3.jpg"
+      },
+      {
+        "id": "464fb545375af5a1e929218edb7d014f",
+        "title": "Historic watercolour unearthed on back of geological field map",
+        "link": "https://www.heraldscotland.com/news/26634284.painting-scottish-borders-landmark-discovered-back-field-map/",
+        "description": "A 150-year-old painting of Dryburgh Suspension Bridge and the River Tweed offers an insight into the Scottish Borders landmark shortly after it was built in the 1870s",
+        "published": "Wed, 14 Oct 2026 08:02:49 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21577413/?type=app&htype=0"
       },
       {
         "id": "9285467",
@@ -3491,22 +3507,6 @@
         "description": "Teenage \u201chardcore\u201d football fans in Glasgow are to benefit from a new programme run by anti-sectarian campaigners.",
         "published": "Tue, 13 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21568421/?type=app&htype=0"
-      },
-      {
-        "id": "a5c80aba4eade9552b15ab80910b5a3e",
-        "title": "Glasgow theatre director to receive honorary doctorate for 'outstanding' work in arts",
-        "link": "https://www.glasgowtimes.co.uk/news/26628906.glasgow-theatre-director-receive-honorary-doctorate/",
-        "description": "Dominic Hill, artistic director and joint chief executive of Glasgow\u2019s Citizens Theatre, will receive an honorary doctorate from the Royal Conservatoire of Scotland.",
-        "published": "Tue, 13 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21569346/?type=app&htype=0"
-      },
-      {
-        "id": "1987a7ea59adde5e8a6395cce93efe87",
-        "title": "After a year of gloom, Scottish firms see signs the economy is turning",
-        "link": "https://www.heraldscotland.com/news/26628823.gloom-eases-scottish-firms-optimistic-economy/",
-        "description": "Business sentiment has climbed to its strongest level in more than a year, while expectations for sales and profits have also improved",
-        "published": "Tue, 13 Oct 2026 04:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21042147/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
