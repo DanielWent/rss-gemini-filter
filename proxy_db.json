@@ -2701,6 +2701,30 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21574032/?type=app&htype=0"
       },
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgows-historic-buildings-falling-apart-34758444",
+        "title": "'Glasgow's historic buildings are falling apart and falling masonry is an accident waiting to happen'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgows-historic-buildings-falling-apart-34758444",
+        "description": "A stonemason has warned of a hidden danger lurking about the heads of Glasgow residents every day.",
+        "published": "Wed, 14 Oct 2026 06:45:02 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34761133.ece/ALTERNATES/s98/0_unnamed-5.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/education-reforms-could-undermine-success-34759273",
+        "title": "Education reforms could 'undermine' success of East Renfrewshire schools, councillors say",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/education-reforms-could-undermine-success-34759273",
+        "description": "A report commissioned by the Scottish Government recommended new local schools authorities take over responsibility from councils.",
+        "published": "Wed, 14 Oct 2026 06:32:47 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34599856.ece/ALTERNATES/s98/3_Nursery.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=533136",
+        "title": "Glasgow Subway suspended due to \u2018failed train\u2019 at the depot",
+        "link": "https://news.stv.tv/west-central/glasgow-subway-suspended-due-to-failed-train-at-the-depot",
+        "description": "Both the Inner and Outer lines are not running ahead of rush hour",
+        "published": "Wed, 14 Oct 2026 06:29:11 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2021/05/88127068a67c572bfedfba4d9fdb9de4.jpg"
+      },
+      {
         "id": "6c62ec5091d682a72475ca4940ddacef",
         "title": "LIVE updates as Glasgow Subway goes down ahead of rush hour",
         "link": "https://www.glasgowtimes.co.uk/news/26634239.live-updates-glasgow-subway-goes-ahead-rush-hour/",
@@ -2725,6 +2749,22 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2022/11/4e3b8c9692758ff1399dbef6d445317e-1669734080.jpg"
       },
       {
+        "id": "5b83d2a5eec9aa4a7025c3b91bbb9f1b",
+        "title": "Scot court toilet shame: wheelchair user forced to cling to urinal",
+        "link": "https://www.heraldscotland.com/news/26633643.glasgow-sheriff-court-disabled-toilet-issue-unresolved-years/",
+        "description": "A Glasgow Sheriff Court inspection found disabled toilet facilities still inadequate years after HMIPS first recommended improvements.",
+        "published": "Wed, 14 Oct 2026 06:27:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18773367/?type=app&htype=0"
+      },
+      {
+        "id": "db98efd34acd6d8949ffc7e39d25aa20",
+        "title": "Scots ethics watchdog defends decision to shred councillor freedom of speech files",
+        "link": "https://www.heraldscotland.com/news/26633467.standards-commission-defends-councillor-freedom-speech-files-shred/",
+        "description": "Scotland\u2019s Standards Commission defends its decision to retain councillor hearing case files for 12 months, arguing that detailed written rulings are preserved permanently.",
+        "published": "Wed, 14 Oct 2026 06:26:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21576152/?type=app&htype=0"
+      },
+      {
         "id": "84a2a8f21fe7b8f9a78f437e0fbafff2",
         "title": "\u2018They\u2019ve had it in for us\u2019 - Anger over Glasgow plans to cut 24 churches",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26631422.clydebank-campaigner-hits-archdiocese-church-closures/",
@@ -2739,14 +2779,6 @@
         "description": "Parents have hit out after a creep who sexually assaulted four schoolgirls in a swimming pool was jailed for just four months.",
         "published": "Wed, 14 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21573873/?type=app&htype=99"
-      },
-      {
-        "id": "90e401d52bc7e142944115446e816f4f",
-        "title": "Rape Crisis faces cuts to services within weeks amid funding emergency",
-        "link": "https://www.glasgowtimes.co.uk/news/26632022.rape-crisis-glasgow-funding-emergency-amid-sex-crime-rise/",
-        "description": "Glasgow Rape Crisis shuts specialist support waiting list after waits reach 226 days, appealing for urgent funding as sexual crime hits record high.",
-        "published": "Wed, 14 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21573888/?type=app&htype=0"
       },
       {
         "id": "a4fb76305f50cd39215630590a9363c3",
@@ -2779,6 +2811,14 @@
         "description": "GMB urges Glasgow City Council to install battery collection bins after bin lorry fires, helping residents recycle batteries safely and protect workers.",
         "published": "Wed, 14 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20340770/?type=app&htype=0"
+      },
+      {
+        "id": "4406f5e440e9ee3fc570274d330176e9",
+        "title": "Independent school pioneering AI says teaching comes first, tools second",
+        "link": "https://www.heraldscotland.com/news/26632751.esm-ai-policy-puts-classroom-teaching-ahead-technology/",
+        "description": "ESM has developed a policy on the use of AI in classrooms that has specific guidance for grade levels, but keeps teaching at the forefront.",
+        "published": "Wed, 14 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20523783/?type=app&htype=0"
       },
       {
         "id": "856b98797e0aa9c44a586194d490bf81",
@@ -3451,46 +3491,6 @@
         "description": "Scottish Beer &amp; Pub Association figures show 62 pubs closed between January and September 2026, costing 585 jobs and more than \u00a36m in tax revenue.",
         "published": "Tue, 13 Oct 2026 00:01:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20863506/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c6zxj8grer7ro#0",
-        "title": "Student who spells by blinking is denied chance to sit exam",
-        "link": "https://www.bbc.co.uk/news/articles/c6zxj8grer7ro?at_medium=RSS&at_campaign=rss",
-        "description": "Romi Loffler is battling to take her history exam with reasonable adjustments allowing for her condition.",
-        "published": "Mon, 12 Oct 2026 21:58:02 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb46/live/74567f50-c3c7-11f1-8fc5-335d62f6730b.jpg"
-      },
-      {
-        "id": "32f1cc83641770f6cf34b1a1ba43c97f",
-        "title": "Education Secretary apologises after disabled teen after 15-week wait for help",
-        "link": "https://www.glasgowtimes.co.uk/news/26630240.education-secretary-apologises-blantyre-family-support-delay/",
-        "description": "Scotland's Education Secretary has apologised to a Blantyre family after disabled teenager Erin has been left waiting around 15 weeks for support.",
-        "published": "Mon, 12 Oct 2026 21:13:58 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21572267/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=532938",
-        "title": "Plans to transform 118-year-old building into flats given green light",
-        "link": "https://news.stv.tv/west-central/plans-to-transform-118-year-old-building-into-flats-given-green-light",
-        "description": "The New Street building, which was also once used by the YMCA, is said to date back to 1908",
-        "published": "Mon, 12 Oct 2026 19:36:09 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/b1780c8eee4e2475e890315dfe0325b6-1791833502-1200x720.jpeg"
-      },
-      {
-        "id": "91b5f248ed5084a0415b073a9da0b019",
-        "title": "Women take to Glasgow's streets over violence against women and girls",
-        "link": "https://www.glasgowtimes.co.uk/news/26630211.women-take-glasgow-streets-big-anti-violence-protest/",
-        "description": "A protest to \u2018Reclaim the Night' heard that women are no longer tolerating violence and cuts to services.",
-        "published": "Mon, 12 Oct 2026 20:18:24 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21571426/?type=app&htype=0"
-      },
-      {
-        "id": "083ec5861b60f51cfab0df50d7d14e1d",
-        "title": "New campaign to reopen ScotRail line launched after '24 years of talk'",
-        "link": "https://www.heraldscotland.com/news/26630192.campaign-reopen-dunfermline---stirling-rail-line-launched/",
-        "description": "A campaign has been launched to re-open the Stirling-Dunfermline rail line to allow passengers to travel between the two cities.",
-        "published": "Mon, 12 Oct 2026 19:58:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/14304339/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
