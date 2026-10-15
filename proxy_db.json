@@ -2741,6 +2741,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "697f9527bb4e168bc14b4d17d69b035d",
+        "title": "Glasgow road forced to close entirely as fire breaks out at petrol station",
+        "link": "https://www.glasgowtimes.co.uk/news/26638089.glasgow-petrol-station-fire-forces-road-close-entirely/",
+        "description": "Woodlands Road in Glasgow reopened after a fire at Sainsbury\u2019s petrol station on October 14, with police closing the route as emergency crews tackled the blaze.",
+        "published": "Thu, 15 Oct 2026 06:53:50 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/14937634/?type=app&htype=0"
+      },
+      {
         "id": "c5bb1ed327ab83b8b3f2b0650175440c",
         "title": "Revealed: Audit Scotland warned ethical standards watchdog was risking public trust",
         "link": "https://www.heraldscotland.com/news/26636872.audit-scotland-warned-scottish-ethical-standards-watchdog-2021/",
@@ -3315,14 +3323,6 @@
         "description": "A stonemason has warned of a hidden danger lurking about the heads of Glasgow residents every day.",
         "published": "Wed, 14 Oct 2026 06:45:02 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34761133.ece/ALTERNATES/s98/0_unnamed-5.png"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/education-reforms-could-undermine-success-34759273",
-        "title": "Education reforms could 'undermine' success of East Renfrewshire schools, councillors say",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/education-reforms-could-undermine-success-34759273",
-        "description": "A report commissioned by the Scottish Government recommended new local schools authorities take over responsibility from councils.",
-        "published": "Wed, 14 Oct 2026 06:32:47 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34599856.ece/ALTERNATES/s98/3_Nursery.jpg"
       },
       {
         "id": "6c62ec5091d682a72475ca4940ddacef",
