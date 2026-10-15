@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1792064138103323",
+        "title": "Severe drought declared in parts of southern England",
+        "link": "https://www.bbc.co.uk/news/articles/cwm243lrgdpgo?at_medium=RSS&at_campaign=rss",
+        "description": "Reservoir levels continue to drop after a hot summer and less September rain than normal.",
+        "published": "Thu, 15 Oct 2026 13:28:11 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7106/live/b9cf8280-c871-11f1-971b-634f423608e9.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c0rezqpnekro#2",
         "title": "How backlash against data centres could shape the US midterm elections",
         "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
         "published": "Thu, 03 Sep 2026 18:32:03 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9176/live/0e5ba530-a5a5-11f1-b109-879e35c24276.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o#0",
-        "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-        "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-        "description": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
-        "published": "Thu, 03 Sep 2026 16:01:39 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9a5/live/f7099cf0-a7a9-11f1-aed2-8d6da8d75094.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2765,6 +2765,62 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=533444",
+        "title": "Man charged for murder bid on Steven Daniel jailed for slashing stranger",
+        "link": "https://news.stv.tv/west-central/man-charged-for-murder-bid-on-steven-daniel-jailed-for-slashing-stranger",
+        "description": "Robert Bennett scarred the victim for life after the attack in Glasgow's Possilpark",
+        "published": "Thu, 15 Oct 2026 11:46:55 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2023/05/d170e81d0e58dcd0c17a1e144b2c6953-1683727170-1120x720.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-mum-says-mental-health-34768228",
+        "title": "Lanarkshire mum says mental health services failed kids after death of dad",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-mum-says-mental-health-34768228",
+        "description": "Karen McKeown says Luke Henderson died after reaching out to healthcare professionals for assistance on eight separate occasions in December 2017.",
+        "published": "Thu, 15 Oct 2026 11:43:56 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34768225.ece/ALTERNATES/s98/0_14-10-26_Court_12JPG.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=533409",
+        "title": "All four unions at Glasgow Caledonian University walk out on \u2018historic\u2019 strike",
+        "link": "https://news.stv.tv/west-central/all-four-unions-at-glasgow-caledonian-university-walk-out-on-historic-strike",
+        "description": "Around 50 staff walked out at Glasgow Caledonian University on Thursday",
+        "published": "Thu, 15 Oct 2026 11:39:24 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/2b0ab7ddcfc2d311a9d8185760cd5530-1792058575-957x720.jpeg"
+      },
+      {
+        "id": "cc91fc1fea766fd03c2e5877c889a0e1",
+        "title": "Number of Scots getting weight-loss jabs on NHS revealed amid Mounjaro boom",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26639644.just-705-scots-given-mounjaro-wegovy-weight-loss-jabs-nhs/",
+        "description": "Fewer than 800 people in Scotland received NHS weight-loss injections by September 2026, as Mounjaro and Wegovy remain limited to pilot schemes.",
+        "published": "Thu, 15 Oct 2026 12:36:51 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21584968/?type=app&htype=0"
+      },
+      {
+        "id": "989a3fcfcdc727c4208c161b8c78d635",
+        "title": "Glasgow refuse vehicles transformed to spread message of Hate Crime Awareness Week",
+        "link": "https://www.glasgowtimes.co.uk/news/26639568.glasgow-refuse-vehicles-raising-awareness-hate-crime/",
+        "description": "Glasgow City Council turns refuse vehicles into mobile billboards promoting inclusion and raising awareness of hate crime.",
+        "published": "Thu, 15 Oct 2026 12:24:01 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21584840/?type=app&htype=0"
+      },
+      {
+        "id": "cf6b0e1cdd3aed53f29e513146f3cedc",
+        "title": "Steven 'Bonzo' Daniel murder plot suspect jailed for slashing stranger",
+        "link": "https://www.heraldscotland.com/news/26639535.steven-bonzo-daniel-murder-plot-suspect-jailed-slashing-stranger/",
+        "description": "A man once charged with a murder bid on Steven 'Bonzo' Daniel has been jailed for slashing a stranger.",
+        "published": "Thu, 15 Oct 2026 12:18:43 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/13467137/?type=app&htype=0"
+      },
+      {
+        "id": "6b4c1451ba56ee7917773fe89bfb6cfe",
+        "title": "Leithers bid for \u00a33m Town of Culture prize as residents invited to shape plans",
+        "link": "https://www.heraldscotland.com/news/26639472.leith-ramps-efforts-secure-3m-uk-town-culture-award/",
+        "description": "Leithers of all ages have been invited to Leith Imaginarium on Sunday, October 25 from 12 pm to 4 pm to contribute to the bid, which will net \u00a33m if successful.",
+        "published": "Thu, 15 Oct 2026 12:18:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21260574/?type=app&htype=0"
+      },
+      {
         "id": "185c4d6ee10606628ae1c422d5ef7019",
         "title": "Airport drop-off charges set to be reviewed by UK Government after increase",
         "link": "https://www.glasgowtimes.co.uk/news/26639517.airport-drop-off-charges-set-reviewed-increase/",
@@ -2795,6 +2851,14 @@
         "description": "Cambuslang Gate Health Centre suspends Treatment Room services after an incident, with urgent patients redirected to Rutherglen Health Centre. Police informed.",
         "published": "Thu, 15 Oct 2026 11:49:02 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/14129133/?type=app&htype=0"
+      },
+      {
+        "id": "9025e742418d6d4da3247d1262455a70",
+        "title": "Nearly half of Scotland\u2019s flowering plants in decline as new strategy launched",
+        "link": "https://www.heraldscotland.com/news/26639302.scotland-launches-strategy-tackle-plant-biodiversity-loss/",
+        "description": "NatureScot and the Royal Botanic Garden Edinburgh have launched a strategy to reverse plant losses, with 47% of flowering species in decline.",
+        "published": "Thu, 15 Oct 2026 11:48:32 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21584432/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=533432",
@@ -3499,70 +3563,6 @@
         "description": "Millions of passengers arriving at Glasgow Airport will use a new eGate system that doesn't require a passport.",
         "published": "Wed, 14 Oct 2026 10:11:07 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21578077/?type=app&htype=0"
-      },
-      {
-        "id": "2fe11104aff1a9c3c46407836d9e4972",
-        "title": "Rangers thugs face jail after stamping on Celtic fans head in brutal Old Firm attack",
-        "link": "https://www.glasgowtimes.co.uk/sport/26634729.three-rangers-fans-face-jail-celtic-supporter-attack/",
-        "description": "Three Rangers fans pleaded guilty over a brutal attack on a Celtic supporter outside Ibrox on March 8 2026, leaving him with a brain bleed and facing jail.",
-        "published": "Wed, 14 Oct 2026 09:55:17 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21577796/?type=app&htype=0"
-      },
-      {
-        "id": "11f7fc09d02e324063ae57350381548c",
-        "title": "Council 'short-changed' by \u00a3111m as MSP demands fair funding",
-        "link": "https://www.glasgowtimes.co.uk/news/26634694.south-lanarkshire-council-short-changed-111m-funding-says-msp/",
-        "description": "Scottish Labour MSP Joe Fagan claims South Lanarkshire Council was underfunded by \u00a3111 million, as row grows over Scottish Government council funding.",
-        "published": "Wed, 14 Oct 2026 09:50:41 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21577771/?type=app&htype=178"
-      },
-      {
-        "id": "a44f8270d5bfd1cc3f42d5b6583071ec",
-        "title": "Glasgow Christmas market to raise funds for Mary\u2019s Meals in November",
-        "link": "https://www.glasgowtimes.co.uk/news/26634580.marys-meals-christmas-market-returns-glasgow-november/",
-        "description": "Mary\u2019s Meals Christmas market returns to Glasgow\u2019s Trades Hall on November 14 and 15.",
-        "published": "Wed, 14 Oct 2026 09:32:31 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21577609/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=533144",
-        "title": "Strong winds hit Western Scotland causing disruption on ferry and rail networks",
-        "link": "https://news.stv.tv/west-central/strong-winds-hit-western-scotland-causing-disruption-on-ferry-and-rail-networks",
-        "description": "ScotRail has been forced to introduce speed restrictions on the West Highland Line",
-        "published": "Wed, 14 Oct 2026 08:07:12 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/c1af67ac250dad263423532ad37d1dd4-1791965130-1080x720.jpeg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/untouchable-youth-gangs-rampage-glasgow-34761227",
-        "title": "'Untouchable' youth gangs rampage at Glasgow shops as staff attacked in new crime wave",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/untouchable-youth-gangs-rampage-glasgow-34761227",
-        "description": "Business owners say perpetrators are getting younger and thefts more frequent.",
-        "published": "Wed, 14 Oct 2026 07:43:58 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34761225.ece/ALTERNATES/s98/0_shop3.jpg"
-      },
-      {
-        "id": "464fb545375af5a1e929218edb7d014f",
-        "title": "Historic watercolour unearthed on back of geological field map",
-        "link": "https://www.heraldscotland.com/news/26634284.painting-scottish-borders-landmark-discovered-back-field-map/",
-        "description": "A 150-year-old painting of Dryburgh Suspension Bridge and the River Tweed offers an insight into the Scottish Borders landmark shortly after it was built in the 1870s",
-        "published": "Wed, 14 Oct 2026 08:02:49 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21577413/?type=app&htype=0"
-      },
-      {
-        "id": "9285467",
-        "title": "Rangers assemble 'a team full of captains' as Ibrox hero names seven stars leading from the front",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-assemble-a-team-full-of-captains-as-ibrox-hero-names-seven-stars-leading-from-the-front-9285467",
-        "description": "<p>Manager Derek McInnes had the ambition of leaders all over the pitch since his appointment</p>",
-        "published": "Wed, 14 Oct 2026 07:00:35 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/13/16/16/GettyImages-2290373483.jpeg?width=1200&auto=webp&trim=15%2C0%2C16%2C0"
-      },
-      {
-        "id": "9284732",
-        "title": "How to watch Benfica vs Celtic: TV channel, live stream, team news, referee and VAR for Europa League clash",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/how-to-watch-benfica-vs-celtic-tv-channel-live-stream-team-news-referee-and-var-for-europa-league-clash-9284732",
-        "description": "<p>Everything you need to know about how to watch Celtic\u2019s trip to Lisbon</p>",
-        "published": "Wed, 14 Oct 2026 07:00:15 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/13/13/56/GettyImages-2295800999.jpeg?width=1200&auto=webp&trim=90%2C0%2C92%2C0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
