@@ -2789,6 +2789,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8438daa66f7e68f31882e4b7e5414f8c",
+        "title": "Rare Charles Rennie Mackintosh piece sells for \u00a3609,850 at auction",
+        "link": "https://www.heraldscotland.com/news/26640705.mackintosh-lantern-sells-609-850-auction-edinburgh/",
+        "description": "Rare Charles Rennie Mackintosh lantern sells for \u00a3609,850 at Lyon &amp; Turnbull auction in Edinburgh, more than 20 times its estimate, alongside Mackintosh works.",
+        "published": "Thu, 15 Oct 2026 17:19:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21587420/?type=app&htype=0"
+      },
+      {
+        "id": "9290300",
+        "title": "Celtic flop claims Parkhead chiefs cost him World Cup dream as he reveals Rangers reality and eyes \u00a320m payday",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-flop-parkhead-chiefs-world-cup-dream-rangers-reality-ps20m-payday-9290300",
+        "description": "<p>Winger lifts lid on his Parkhead struggles and explains why Gent move could be a win-win for all parties</p>",
+        "published": "Thu, 15 Oct 2026 16:00:18 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/15/15/17/GettyImages-2294582953.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
         "id": "https://news.stv.tv/?p=533490",
         "title": "Ongoing water supply issues highlight inadequacies at Scotland\u2019s largest prison HMP Barlinnie, say inspectors",
         "link": "https://news.stv.tv/west-central/ongoing-water-supply-issues-highlight-inadequacies-at-scotlands-largest-prison-hmp-barlinnie-say-inspectors",
@@ -2797,12 +2813,44 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2021/10/63bf41f392fa83b29059a2aa32a23123-41.jpg"
       },
       {
+        "id": "d316dcc0813f8bcd336d1228c0cd9ec2",
+        "title": "Major Glasgow route to close for 10 days as resurfacing gets underway",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26641268.dumbreck-road-glasgow-close-10-days-resurfacing-works/",
+        "description": "Dumbreck Road in Glasgow will close for resurfacing from October 19 to October 29, 2026. Drivers are urged to avoid the area during 10 days of disruption.",
+        "published": "Thu, 15 Oct 2026 16:48:19 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13951087/?type=app&htype=0"
+      },
+      {
+        "id": "ba1ad07f7b61869ee31a271aad26af76",
+        "title": "'Devolution's not a religion' Badenoch raises prospect of nuclear Holyrood power grab",
+        "link": "https://www.heraldscotland.com/news/26641229.badenoch-opens-door-scotland-act-reform-new-nuclear/",
+        "description": "Kemi Badenoch has raised the prospect of rewriting the Scotland Act to end what she calls the SNP's use of planning rules to veto reserved energy policy, while branding John Swinney a broken record with no answers on drug deaths or education.",
+        "published": "Thu, 15 Oct 2026 16:41:06 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21587476/?type=app&htype=0"
+      },
+      {
         "id": "5f32b84ce6f75e4b04c87e0728699723",
         "title": "Two hectic Glasgow roads to CLOSE this weekend as drivers asked to avoid area",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26641194.paisley-road-west-corkerhill-road-close-resurfacing-works/",
         "description": "Glasgow road closures: Paisley Road West and Corkerhill Road shut from October 17 to October 19 for resurfacing, with diversions in place.",
         "published": "Thu, 15 Oct 2026 16:35:27 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19036953/?type=app&htype=0"
+      },
+      {
+        "id": "cd886be5b5fba0353b9e11bea62befdb",
+        "title": "Scotland could crackdown on e-bikes and balaclavas amid crime fears",
+        "link": "https://www.heraldscotland.com/news/26641164.ministers-eye-new-powers-tackle-masked-e-bike-gangs/",
+        "description": "Scotland considers balaclava exclusion zones as Neil Gray backs action on masked gangs, e-bike crime and calls for off-road vehicle licensing schemes.",
+        "published": "Thu, 15 Oct 2026 16:31:55 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21478970/?type=app&htype=0"
+      },
+      {
+        "id": "f06be2cd299c06722a23aa9e64d52626",
+        "title": "Latest George Square images reveal striking progress on \u00a320m revamp",
+        "link": "https://www.glasgowtimes.co.uk/news/26641155.fresh-turf-laid-20m-george-square-redevelopment-update/",
+        "description": "Fresh turf is being laid as part of the ongoing transformation of one of Scotland\u2019s most recognisable public spaces.",
+        "published": "Thu, 15 Oct 2026 16:30:50 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21587175/?type=app&htype=0"
       },
       {
         "id": "6ba43202fb9a9bdb4768fb49a1510e84",
@@ -3429,14 +3477,6 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34765538.ece/ALTERNATES/s98/0_Screenshot-2026-10-14-at-52553PM.png"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/cmy56el1zddpo#0",
-        "title": "Barlinnie water problems continue for seventh day",
-        "link": "https://www.bbc.co.uk/news/articles/cmy56el1zddpo?at_medium=RSS&at_campaign=rss",
-        "description": "Most areas of the prison have now suffered disruption to the water supply since the issue was reported last Thursday.",
-        "published": "Wed, 14 Oct 2026 16:38:13 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3815/live/23a64890-c4b9-11f1-9ce9-55293bd7f0d9.jpg"
-      },
-      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mp-calls-andy-burnhams-34764974",
         "title": "Glasgow MP calls for Andy Burnham's help over city centre 'violence, drug dealing and exploitation'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mp-calls-andy-burnhams-34764974",
@@ -3547,46 +3587,6 @@
         "description": "Plans for five new industrial units at Caldwellside Industrial Estate in Lanark have been approved by South Lanarkshire Council.",
         "published": "Wed, 14 Oct 2026 15:07:20 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21580489/?type=app&htype=480"
-      },
-      {
-        "id": "3be6b0e349ce03b229bbd37341a8f778",
-        "title": "Huge '\u00a31.6m cocaine' haul and 'six-figure cash sum seized' in Glasgow raid",
-        "link": "https://www.glasgowtimes.co.uk/news/26636519.police-seize-1-6m-cocaine-cash-glasgow-flat/",
-        "description": "Cocaine worth an estimated \u00a31.6 million has been seized by police.",
-        "published": "Wed, 14 Oct 2026 14:36:35 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13876417/?type=app&htype=0"
-      },
-      {
-        "id": "f3c74421b9884c87bddc4e7dc0daaf29",
-        "title": "Ally McCoist appeals 'very loose' refusal of 33-home Bridge of Weir development",
-        "link": "https://www.heraldscotland.com/news/26636199.ally-mccoist-hits-renfrewshire-council-planning-rejection/",
-        "description": "Ally McCoist appeals Renfrewshire Council\u2019s refusal of plans for 33 homes in Bridge of Weir, with the Scottish Government to decide the case.",
-        "published": "Wed, 14 Oct 2026 14:05:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20758693/?type=app&htype=0"
-      },
-      {
-        "id": "9cbcde446671bd128d4418d1033b9aa7",
-        "title": "Glasgow's Remembrance Sunday parade details for George Square revealed",
-        "link": "https://www.glasgowtimes.co.uk/news/26636268.remembrance-sunday-parade-details-glasgow-revealed/",
-        "description": "Details of the Remembrance Day parade in George Square, Glasgow this year have been revealed.",
-        "published": "Wed, 14 Oct 2026 13:58:57 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20116445/?type=app&htype=0"
-      },
-      {
-        "id": "52533a654f1a50451aad1db6f5cd988d",
-        "title": "Former Barlinnie inmate's remarkable journey celebrated at Glasgow awards",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26636008.scottish-recovery-awards-celebrate-addiction-support-work/",
-        "description": "Scotland\u2019s inaugural Recovery Awards in Glasgow honour Alex Foy and others supporting drug and alcohol addiction recovery, including volunteers and advocates.",
-        "published": "Wed, 14 Oct 2026 13:09:51 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21579513/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/underground-hospital-built-near-glasgow-34763144",
-        "title": "Underground hospital built near Glasgow by commandos to combat drones on battlefield",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/underground-hospital-built-near-glasgow-34763144",
-        "description": "The Renfrewshire site is a landmark test, allowing commandos to resuscitate 'casualties' and perform 'surgery' on troops taking part.",
-        "published": "Wed, 14 Oct 2026 12:04:31 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34763131.ece/ALTERNATES/s98/0_JS421202505.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
