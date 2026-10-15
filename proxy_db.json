@@ -2749,6 +2749,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "7b9e427a996bf84c5acc6204e3dc6646",
+        "title": "LIVE updates as emergency crews race to scene of petrol station blaze",
+        "link": "https://www.glasgowtimes.co.uk/news/26638403.live-updates-emergency-crews-race-anderston-glasgow/",
+        "description": "A busy Glasgow road has been closed following a fire at a petrol station.",
+        "published": "Thu, 15 Oct 2026 09:24:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19679258/?type=app&htype=0"
+      },
+      {
+        "id": "2c6c3d70e29db0257dd3eef0b47521ff",
+        "title": "LIVE updates as cops swarm Glasgow street amid ongoing incident",
+        "link": "https://www.glasgowtimes.co.uk/news/26638344.live-updates-police-close-ashgill-road-glasgow/",
+        "description": "A Glasgow street has been locked down by police for over ten hours.",
+        "published": "Thu, 15 Oct 2026 09:09:14 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19652255/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/death-glasgow-barlinnie-prisoner-probed-34766753",
         "title": "Death of Glasgow Barlinnie prisoner to be probed next month",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/death-glasgow-barlinnie-prisoner-probed-34766753",
@@ -2803,6 +2819,14 @@
         "description": "JJ* was told that her attacker had rented the account from another person \u2013 a 'grey area' of the law that allows anyone to turn up at doors with little checks in place.",
         "published": "Thu, 15 Oct 2026 06:39:13 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34763182.ece/ALTERNATES/s98/0_JS235280365-1.jpg"
+      },
+      {
+        "id": "03e27ecc1376d7ad3188f8c6b36c6dbe",
+        "title": "Barack Obama shouts out Scottish band he saw live as a youngster at Glasgow show",
+        "link": "https://www.glasgowtimes.co.uk/news/26638104.barack-obama-shows-love-scottish-band-glasgow-show/",
+        "description": "Barack Obama sings praises of Scottish band at Glasgow\u2019s OVO Hydro, recalling seeing them open for Earth, Wind &amp; Fire at his first concert.",
+        "published": "Thu, 15 Oct 2026 07:18:36 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21583035/?type=app&htype=0"
       },
       {
         "id": "9d8ca75d4b0b316542f6eb20d418e20e",
@@ -3523,30 +3547,6 @@
         "description": "Glasgow-based Nami Surgical has secured \u00a33.4m in funding, including \u00a32m from the Scottish National Investment Bank, to advance its robotic surgery technology and create five jobs.",
         "published": "Wed, 14 Oct 2026 00:05:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21575362/?type=app&htype=0"
-      },
-      {
-        "id": "46ed10718b1f98edb90c90d2ab55b86d",
-        "title": "Scots back renewables but reject immediate end to North Sea drilling, study shows",
-        "link": "https://www.heraldscotland.com/news/26633082.majority-scots-support-move-towards-net-zero-energy/",
-        "description": "Most Scots back net zero and renewable energy investment, while IPPR Scotland research finds support for case-by-case North Sea oil and gas decisions.",
-        "published": "Wed, 14 Oct 2026 00:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20573527/?type=app&htype=0"
-      },
-      {
-        "id": "5f2971433b35c5a00580d5445e3b6650",
-        "title": "Historic dyke remains found after 200 years, including possible fortified summerhouse",
-        "link": "https://www.heraldscotland.com/news/26634070.fortified-harvies-dyke-wall-remains-found-glasgow/",
-        "description": "Archaeologists uncover 1823 Harvie\u2019s Dyke remains in Dalmarnock, Glasgow, finding a rare trade token and possible fortified summerhouse in historic dig.",
-        "published": "Tue, 13 Oct 2026 20:37:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21577021/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/urgent-search-elderly-renfrew-woman-34760442",
-        "title": "Urgent search for elderly Renfrew woman last seen in Glasgow city centre",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/urgent-search-elderly-renfrew-woman-34760442",
-        "description": "83-year-old Mary Dimeo was last seen around 5pm on Tuesday (October 13) in Glasgow city centre.",
-        "published": "Tue, 13 Oct 2026 19:10:06 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34760451.ece/ALTERNATES/s98/1_mary-dimeo.png"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
