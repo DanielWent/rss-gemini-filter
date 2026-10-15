@@ -2773,6 +2773,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "53170604f5ac75f1b78b875a43abe1f4",
+        "title": "Murder trial set after man died more than a year after brutal 'attack'",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26640019.stuart-keeling-face-murder-trial-alleged-clydebank-attack/",
+        "description": "Stuart Keeling denies murdering Aram Ahmed after an alleged Clydebank assault. Becky Ahmed denies perverting justice; High Court trial set for January 2028.",
+        "published": "Thu, 15 Oct 2026 13:48:01 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20098675/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cry83dldg452o#0",
+        "title": "Controversial supermarket plan for Helensburgh waterfront rejected",
+        "link": "https://www.bbc.co.uk/news/articles/cry83dldg452o?at_medium=RSS&at_campaign=rss",
+        "description": "The plan prompted fierce local opposition, including a community council seeking  a judicial review.",
+        "published": "Thu, 15 Oct 2026 12:47:49 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/904b/live/21bcfc90-c892-11f1-a64c-550be9e3c66b.jpg"
+      },
+      {
+        "id": "514579f767e095d8497c35679a4b0413",
+        "title": "Glasgow binman loses 37-year council career after hockey stick and car attacks",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26639981.glasgow-binman-albert-glass-jailed-bargeddie/",
+        "description": "A Glasgow binman battered a street nuisance with a hockey stick and ran over him with his car three months later.",
+        "published": "Thu, 15 Oct 2026 13:40:47 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21334993/?type=app&htype=0"
+      },
+      {
         "id": "7623e5a57db011f2578ee64b247ad412",
         "title": "Urgent search for missing 17-year-old boy last seen outside Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26639874.search-underway-missing-17-year-old-milngavie/",
@@ -2885,14 +2909,6 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/03/093a6ac10a751f7110da28897f3f85a9-1772997000.jpeg"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-stand-guard-glasgow-street-34768077",
-        "title": "Police stand guard on Glasgow street as tent erected following death of boy",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-stand-guard-glasgow-street-34768077",
-        "description": "A 22-year-old man has been arrested in connection with the incident.",
-        "published": "Thu, 15 Oct 2026 10:42:48 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34768089.ece/ALTERNATES/s98/0_JS421310938.jpg"
-      },
-      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/fresh-plea-sale-public-fireworks-34767881",
         "title": "Fresh plea for sale of public fireworks to have 'tighter regulation' issued by Glasgow councillor",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/fresh-plea-sale-public-fireworks-34767881",
@@ -2931,14 +2947,6 @@
         "description": "Finance ministers and central bank governors will meet at the Edinburgh International Conference Centre on July 8 and 9.",
         "published": "Thu, 15 Oct 2026 11:28:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21491005/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/scottish-car-giant-collapses-administration-34767180",
-        "title": "Scottish car giant collapses into administration with all jobs lost \u2014 family business since 2016",
-        "link": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/scottish-car-giant-collapses-administration-34767180",
-        "description": "The family-run Edinburgh car dealership had sites in Edinburgh West, Straiton, Dunfermline and Falkirk before entering administration on October 2",
-        "published": "Thu, 15 Oct 2026 10:26:59 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/whats-on/article34767179.ece/ALTERNATES/s98/0_Car-salesperson-showing-cars-to-a-couple-shopping-at-the-dealership.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/little-spider-man-fans-can-34767917",
