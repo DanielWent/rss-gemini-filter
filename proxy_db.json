@@ -2789,6 +2789,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-glasgow-homes-site-former-34770842",
+        "title": "New Glasgow homes at site of former Wyndford high-rises recommended for approval",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/new-glasgow-homes-site-former-34770842",
+        "description": "Councillors will consider an application to build 400 homes in Maryhill at a meeting next week.",
+        "published": "Thu, 15 Oct 2026 14:44:32 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article33604242.ece/ALTERNATES/s98/0_Wyndford-2-use.jpg"
+      },
+      {
+        "id": "e0c2adcd1a1d3b80913f56fda2e460ae",
+        "title": "Major \u00a316.6m plans could transform part of Glasgow with new community hub",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26640680.drumchapel-town-hall-library-plans-move-forward/",
+        "description": "Glasgow City Council plans a new Drumchapel town hall and library at Garscadden House as part of a \u00a316.6m regeneration programme, with \u00a315m UK Government backing.",
+        "published": "Thu, 15 Oct 2026 15:23:11 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21586664/?type=app&htype=0"
+      },
+      {
         "id": "b378c370827cc3c128b374543855ce74",
         "title": "Cannabis smoker 'passed out' before \u00a3220k tower block inferno",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26640637.jet-li-pentecost-caused-coatbridge-tower-block-fire-smoking/",
@@ -2819,6 +2835,14 @@
         "description": "Action on face masks and e bikes is needed now to tackle rising concerns over anti-social behaviour and crime, a Glasgow MSP has said.",
         "published": "Thu, 15 Oct 2026 14:53:18 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21586501/?type=app&htype=0"
+      },
+      {
+        "id": "5f495258e038f8f5711fd4e4ebfeacab",
+        "title": "First look inside the stunning new venue set to transform Glasgow dining",
+        "link": "https://www.glasgowtimes.co.uk/news/26640436.first-look-inside-new-ivy-restaurants-opening-glasgow/",
+        "description": "The Ivy has unveiled a first look inside its stunning new Glasgow home ahead of next week's grand opening.",
+        "published": "Thu, 15 Oct 2026 14:47:46 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21586309/?type=app&htype=0"
       },
       {
         "id": "0a65997ffc6f5c73e9795425e4f1f774",
@@ -3563,30 +3587,6 @@
         "description": "<p>The Chelsea youngster has finally arrived at Celtic following his summer switch.</p>",
         "published": "Wed, 14 Oct 2026 11:00:40 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/09/14/29/GettyImages-2288007644.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "9286889",
-        "title": "34-year-old man arrested and charged after car stolen and set alight in Clydebank",
-        "link": "https://www.glasgowworld.com/news/crime/34-year-old-man-charged-over-clydebank-car-theft-and-fire-9286889",
-        "description": "<p>A 34-year-old man is due to appear at Dumbarton Sheriff Court on Thursday, 15 October, after being charged in connection with the theft of a car from a property in Clydebank</p>",
-        "published": "Wed, 14 Oct 2026 10:51:09 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/12/18/13/Screenshot-2026-10-12-193926.png?width=1200&auto=webp&trim=0%2C81%2C0%2C80"
-      },
-      {
-        "id": "f397779c01491c551f40a7db68c2d3bf",
-        "title": "Bungling armed gang jailed after raiding wrong house and terrorising family",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26635478.three-jailed-wrong-house-armed-raid-coatbridge-family-home/",
-        "description": "Three men jailed for almost 14 years after armed Coatbridge raid on wrong family home, while a fourth gang member has sentencing deferred at Glasgow High Court.",
-        "published": "Wed, 14 Oct 2026 11:47:39 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21056124/?type=app&htype=70"
-      },
-      {
-        "id": "baf2dd846934ba7eefb5717e8cf1ac3b",
-        "title": "Erskine shopping centre changes hands for first time since 1980s in \u00a321m deal",
-        "link": "https://www.heraldscotland.com/news/26635428.bridgewater-shopping-centre-erskine-sold-around-21m/",
-        "description": "Bridgewater Shopping Centre in Erskine, near Glasgow, has been sold to Greenridge Investment Management for around \u00a321m in its first ownership change since the 1980s.",
-        "published": "Wed, 14 Oct 2026 11:45:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21578638/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
