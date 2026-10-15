@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/crk661074ejo#2",
+        "title": "Severe drought declared and hosepipe bans in force - is your area affected?",
+        "link": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
+        "description": "Parts of southern England have entered \"severe drought\", while about 30 million people are under hosepipe ban.",
+        "published": "Thu, 15 Oct 2026 15:42:37 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c74b/live/69a57380-7fa8-11f1-a5f4-433bb9aa2e5a.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o#1",
         "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
         "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Researchers said the tools - which record consultations - could miss vital things like a patient's facial expressions or emotional state.",
         "published": "Thu, 03 Sep 2026 22:32:09 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7b5/live/959247e0-a7bf-11f1-a291-b542ee92de7c.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c305qn2jeggo#0",
-        "title": "Transplanted pig kidney works in US man's body for record 271 days",
-        "link": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
-        "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
-        "published": "Thu, 03 Sep 2026 22:31:23 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7ac/live/9ea66460-a7b5-11f1-b5cf-8556ae508a51.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2789,6 +2789,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "338a638cfabf79240ce2ef0211184af0",
+        "title": "Police reveal why they swarmed to Glasgow property amid emergency response",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26641495.police-attend-glasgow-flat-incident-drumlaken-street/",
+        "description": "Police and fire crews attend Drumlaken Street, Glasgow, after concerns for a man inside a flat. Police Scotland says the October 15 incident is contained.",
+        "published": "Thu, 15 Oct 2026 17:32:56 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21587748/?type=app&htype=0"
+      },
+      {
+        "id": "9290313",
+        "title": "Why \u00a33.5m Rangers ace sought fresh start abroad as shock Ibrox transfer exit after just one season explained",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/why-ps35m-rangers-ace-sought-fresh-start-abroad-shock-ibrox-transfer-exit-one-season-explained-9290313",
+        "description": "<p>Norway international explains why he felt the time was right to leave Rangers after just one season at Ibrox</p>",
+        "published": "Thu, 15 Oct 2026 16:30:17 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/15/15/47/GettyImages-2298972779.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
         "id": "8438daa66f7e68f31882e4b7e5414f8c",
         "title": "Rare Charles Rennie Mackintosh piece sells for \u00a3609,850 at auction",
         "link": "https://www.heraldscotland.com/news/26640705.mackintosh-lantern-sells-609-850-auction-edinburgh/",
@@ -3571,22 +3587,6 @@
         "description": "Scottish Greens call for an \u2018Amazon tax\u2019 on major online retailers, saying it could support local businesses and high streets; retail chiefs oppose the plan.",
         "published": "Wed, 14 Oct 2026 15:43:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/18730943/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=533143",
-        "title": "Gallery: Kingston Bridge bursting with colour once again as new murals painted after Batman filming",
-        "link": "https://news.stv.tv/west-central/gallery-kingston-bridge-bursting-with-colour-once-again-as-new-murals-painted-after-batman-filming",
-        "description": "Artworks had been painted over in preparation for The Batman: Part II filming earlier this year",
-        "published": "Wed, 14 Oct 2026 14:20:09 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/06537926fbd1337192d581a61aa1e5c7-1791975521-1280x720.jpeg"
-      },
-      {
-        "id": "d9c6e967db6395b25919d876d47a630d",
-        "title": "Plans for five new industrial units given green light near Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/26636732.five-new-industrial-units-given-green-light-lanark/",
-        "description": "Plans for five new industrial units at Caldwellside Industrial Estate in Lanark have been approved by South Lanarkshire Council.",
-        "published": "Wed, 14 Oct 2026 15:07:20 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21580489/?type=app&htype=480"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
