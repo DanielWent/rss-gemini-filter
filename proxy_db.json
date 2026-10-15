@@ -2757,6 +2757,78 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o#0",
+        "title": "Obama says drift towards extremism 'not inevitable'",
+        "link": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
+        "description": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing. .",
+        "published": "Thu, 15 Oct 2026 10:51:53 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baf4/live/d48f4dd0-c87b-11f1-bf46-d13a9e06695d.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=533432",
+        "title": "Rangers fan jumped railing and challenged Celtic supporters to fight at Old Firm",
+        "link": "https://news.stv.tv/west-central/rangers-fan-jumped-railing-and-challenged-celtic-supporters-to-fight-at-old-firm",
+        "description": "Wilson Martin, 60, was identified as one of the fans involved in disorder following the match on March 8",
+        "published": "Thu, 15 Oct 2026 10:48:28 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/03/093a6ac10a751f7110da28897f3f85a9-1772997000.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-stand-guard-glasgow-street-34768077",
+        "title": "Police stand guard on Glasgow street as tent erected following death of boy",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-stand-guard-glasgow-street-34768077",
+        "description": "A 22-year-old man has been arrested in connection with the incident.",
+        "published": "Thu, 15 Oct 2026 10:42:48 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34768089.ece/ALTERNATES/s98/0_JS421310938.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/fresh-plea-sale-public-fireworks-34767881",
+        "title": "Fresh plea for sale of public fireworks to have 'tighter regulation' issued by Glasgow councillor",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/fresh-plea-sale-public-fireworks-34767881",
+        "description": "Councillor Paul Carey BEM believes that without organised firework displays there is a risk of increased anti-social behaviour, noise and distress as well as an impact on animals.",
+        "published": "Thu, 15 Oct 2026 10:34:33 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34759859.ece/ALTERNATES/s98/4_GettyImages-752173349.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/staff-glasgow-childrens-houses-claim-34767804",
+        "title": "Staff at Glasgow children's houses claim hundreds of violent incidents in last five years",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/staff-glasgow-childrens-houses-claim-34767804",
+        "description": "Councillor Paul Carey BEM who worked in children\u2019s homes for a number of years says he knows just how \u201cchallenging and emotionally demanding\u201d the work can be and these figures are \u201cdeeply\u201d concerning.",
+        "published": "Thu, 15 Oct 2026 10:33:04 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article32749558.ece/ALTERNATES/s98/0_olderhouse1.jpg"
+      },
+      {
+        "id": "f8dc8103db4a09f2947315101bb21512",
+        "title": "LIVE updates as train commuters face disruption amid ongoing issue",
+        "link": "https://www.glasgowtimes.co.uk/news/26639196.live-updates-amid-knightswood-tunnel-fault/",
+        "description": "Glasgow commuters are facing disruption and delays this morning.",
+        "published": "Thu, 15 Oct 2026 11:32:34 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19783747/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/scottish-car-giant-collapses-administration-34767180",
+        "title": "Scottish car giant collapses into administration with all jobs lost \u2014 family business since 2016",
+        "link": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/scottish-car-giant-collapses-administration-34767180",
+        "description": "The family-run Edinburgh car dealership had sites in Edinburgh West, Straiton, Dunfermline and Falkirk before entering administration on October 2",
+        "published": "Thu, 15 Oct 2026 10:26:59 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/whats-on/article34767179.ece/ALTERNATES/s98/0_Car-salesperson-showing-cars-to-a-couple-shopping-at-the-dealership.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/little-spider-man-fans-can-34767917",
+        "title": "Little Spider-Man fans can meet their hero at Glasgow's Riverside Museum",
+        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/little-spider-man-fans-can-34767917",
+        "description": "With Spider-Man filming taking over Glasgow recently, the webbed crusader will be making an appearance in person for fans to grab a photo or two.",
+        "published": "Thu, 15 Oct 2026 10:25:27 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34767862.ece/ALTERNATES/s98/1_Screenshot-2026-10-15-at-110809AM.png"
+      },
+      {
+        "id": "9289197",
+        "title": "Glasgow councillor calls for tighter firework regulation ahead of Bonfire Night",
+        "link": "https://www.glasgowworld.com/news/glasgow-councillor-calls-for-tighter-firework-regulation-ahead-of-bonfire-night-9289197",
+        "description": "<p>There have been calls for further regulation on the sale of fireworks in Glasgow ahead of Bonfire night</p>",
+        "published": "Thu, 15 Oct 2026 10:23:27 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/10/28/9/05/Nae-Fireworks.png?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
         "id": "9289163",
         "title": "'I thought my symptoms were menopause but it was deadly blood cancer': Balloch mum welcomes new research",
         "link": "https://www.glasgowworld.com/news/glasgow-mum-welcomes-new-research-into-deadly-blood-cancer-treatments-9289163",
@@ -3483,78 +3555,6 @@
         "description": "Glasgow Subway has been suspended due to a failed train in the depot, leaving many commuters stranded.",
         "published": "Wed, 14 Oct 2026 07:15:29 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19117137/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=533069",
-        "title": "Glasgow Airport opens solar farm set to supply 25% of its electricity",
-        "link": "https://news.stv.tv/west-central/glasgow-airport-opens-solar-farm-set-to-supply-25-of-its-electricity",
-        "description": "The 10MW development is expected to save around 1,100 tonnes of CO2 equivalent every year",
-        "published": "Wed, 14 Oct 2026 05:58:45 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/d185ed6f4682e0f4c7d7f6e170e06eac-1791906664-1280x720.jpg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=533108",
-        "title": "Scotland\u2019s largest rape crisis centre appeals for cash to mark 50th anniversary",
-        "link": "https://news.stv.tv/west-central/scotlands-largest-rape-crisis-centre-appeals-for-cash-to-mark-50th-anniversary",
-        "description": "The centre has already been forced to close some of its waiting lists, revealing in February that survivors face waiting times of up to 226 days",
-        "published": "Wed, 14 Oct 2026 05:57:57 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2022/11/4e3b8c9692758ff1399dbef6d445317e-1669734080.jpg"
-      },
-      {
-        "id": "5b83d2a5eec9aa4a7025c3b91bbb9f1b",
-        "title": "Scot court toilet shame: wheelchair user forced to cling to urinal",
-        "link": "https://www.heraldscotland.com/news/26633643.glasgow-sheriff-court-disabled-toilet-issue-unresolved-years/",
-        "description": "A Glasgow Sheriff Court inspection found disabled toilet facilities still inadequate years after HMIPS first recommended improvements.",
-        "published": "Wed, 14 Oct 2026 06:27:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/18773367/?type=app&htype=0"
-      },
-      {
-        "id": "db98efd34acd6d8949ffc7e39d25aa20",
-        "title": "Scots ethics watchdog defends decision to shred councillor freedom of speech files",
-        "link": "https://www.heraldscotland.com/news/26633467.standards-commission-defends-councillor-freedom-speech-files-shred/",
-        "description": "Scotland\u2019s Standards Commission defends its decision to retain councillor hearing case files for 12 months, arguing that detailed written rulings are preserved permanently.",
-        "published": "Wed, 14 Oct 2026 06:26:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21576152/?type=app&htype=0"
-      },
-      {
-        "id": "84a2a8f21fe7b8f9a78f437e0fbafff2",
-        "title": "\u2018They\u2019ve had it in for us\u2019 - Anger over Glasgow plans to cut 24 churches",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26631422.clydebank-campaigner-hits-archdiocese-church-closures/",
-        "description": "A worshipper has hit out at plans by the Archdiocese of Glasgow to reduce its churches, amid fears Our Holy Redeemer in Clydebank could close.",
-        "published": "Wed, 14 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20521932/?type=app&htype=140"
-      },
-      {
-        "id": "f1e4f2ea8de5a8e3116a9368e00cf773",
-        "title": "Parents hit out after creep sexually assaulted girls at swimming pool",
-        "link": "https://www.glasgowtimes.co.uk/news/26629916.time-capsule-sex-attacker-jailed-airdrie-sheriff-court/",
-        "description": "Parents have hit out after a creep who sexually assaulted four schoolgirls in a swimming pool was jailed for just four months.",
-        "published": "Wed, 14 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21573873/?type=app&htype=99"
-      },
-      {
-        "id": "a84acbe29f90be66fdd394bb87c39d0a",
-        "title": "Glasgow licensing board grants alcohol licence despite underage drinking fears",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26632614.yoker-polish-grocery-shop-wins-permission-sell-alcohol/",
-        "description": "Yoker Polish grocery shop Koszyk wins permission to sell alcohol.",
-        "published": "Wed, 14 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20465363/?type=app&htype=0"
-      },
-      {
-        "id": "132917c5676eeb0c32b38d56966ba30f",
-        "title": "Booze licence refused for Glasgow shop in same building as recovery charity",
-        "link": "https://www.glasgowtimes.co.uk/news/26632561.glasgow-shops-alcohol-licence-bid-rejected-objections/",
-        "description": "Glasgow licensing board rejects alcohol licence for a Finnieston shop after Murray\u2019s Initiative warned sales could undermine recovery and force relocation.",
-        "published": "Wed, 14 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20465363/?type=app&htype=0"
-      },
-      {
-        "id": "e29dd602740cb3fc0e107b534ce47b48",
-        "title": "Glasgow bin lorry fires prompt plea for safer battery disposal across city",
-        "link": "https://www.glasgowtimes.co.uk/news/26633290.glasgow-bin-lorry-fires-prompt-battery-recycling-plea/",
-        "description": "GMB urges Glasgow City Council to install battery collection bins after bin lorry fires, helping residents recycle batteries safely and protect workers.",
-        "published": "Wed, 14 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20340770/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
