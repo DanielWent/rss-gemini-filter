@@ -2757,6 +2757,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9289163",
+        "title": "'I thought my symptoms were menopause but it was deadly blood cancer': Balloch mum welcomes new research",
+        "link": "https://www.glasgowworld.com/news/glasgow-mum-welcomes-new-research-into-deadly-blood-cancer-treatments-9289163",
+        "description": "<p>Caroline Sweeney, a 55-year-old Balloch woman, welcomed new research into more effective treatments for acute myeloid leukaemia (AML) after being diagnosed with the deadly blood cancer in 2022.</p>",
+        "published": "Thu, 15 Oct 2026 10:15:54 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/15/10/42/Untitled-design-(98).png?width=1200&auto=webp&trim=0%2C10%2C0%2C10"
+      },
+      {
+        "id": "1ea85bc6f46fe979c2cf944138ed5138",
+        "title": "Man once charged with Steven 'Bonzo' Daniel murder bid jailed for Glasgow slashing",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26639036.robert-bennett-jailed-slashing-man-glasgows-possilpark/",
+        "description": "Robert Bennett jailed for 584 days after slashing Ayub Hamed in the face in Glasgow\u2019s Possilpark on March 3, admitting aggravated assault in court.",
+        "published": "Thu, 15 Oct 2026 11:05:46 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18861560/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-sexually-assaulted-woman-glasgow-34767212",
         "title": "Man sexually assaulted by woman on Glasgow train as police probe incident",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-sexually-assaulted-woman-glasgow-34767212",
@@ -3539,22 +3555,6 @@
         "description": "GMB urges Glasgow City Council to install battery collection bins after bin lorry fires, helping residents recycle batteries safely and protect workers.",
         "published": "Wed, 14 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20340770/?type=app&htype=0"
-      },
-      {
-        "id": "4406f5e440e9ee3fc570274d330176e9",
-        "title": "Independent school pioneering AI says teaching comes first, tools second",
-        "link": "https://www.heraldscotland.com/news/26632751.esm-ai-policy-puts-classroom-teaching-ahead-technology/",
-        "description": "ESM has developed a policy on the use of AI in classrooms that has specific guidance for grade levels, but keeps teaching at the forefront.",
-        "published": "Wed, 14 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20523783/?type=app&htype=0"
-      },
-      {
-        "id": "856b98797e0aa9c44a586194d490bf81",
-        "title": "Children at risk of criminal exploitation more than double in four years",
-        "link": "https://www.heraldscotland.com/news/26633698.hundreds-children-risk-child-exploitation/",
-        "description": "Police Scotland figures show that almost 2,000 children are vulnerable to sexual or criminal exploitation in Scotland.",
-        "published": "Wed, 14 Oct 2026 05:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19259485/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
