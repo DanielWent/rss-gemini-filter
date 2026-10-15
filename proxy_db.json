@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o#1",
+        "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
+        "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
+        "description": "A 75,000-year-old Neanderthal spear wound may be evidence violence shaped human life far earlier than thought.",
+        "published": "Thu, 15 Oct 2026 15:00:05 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/052f/live/ca6f9ca0-c8a4-11f1-929c-0b57deb4f9df.jpg"
+      },
+      {
         "id": "1792064138103323",
         "title": "Severe drought declared in parts of southern England",
         "link": "https://www.bbc.co.uk/news/articles/cwm243lrgdpgo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
         "published": "Thu, 03 Sep 2026 22:31:23 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7ac/live/9ea66460-a7b5-11f1-b5cf-8556ae508a51.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o#1",
-        "title": "Data centres are booming in Australia - but at what cost?",
-        "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
-        "description": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
-        "published": "Thu, 03 Sep 2026 18:32:03 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9176/live/0e5ba530-a5a5-11f1-b109-879e35c24276.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2789,6 +2789,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "3c2fb7c40246b064e05ba6b44c9dd3e5",
+        "title": "Drivers warned to avoid one of Glasgow's busiest roads amid five-day disruption",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26641018.great-western-road-lane-closure-resurfacing-works/",
+        "description": "Glasgow drivers face disruption on Great Western Road as resurfacing cuts westbound traffic to one lane from October 19 to October 24, with diversions.",
+        "published": "Thu, 15 Oct 2026 16:11:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17882119/?type=app&htype=74"
+      },
+      {
+        "id": "cb96986e846440e030026b08f4476b60",
+        "title": "LIVE updates as 'armed cops' swarm attend incident near Glasgow school",
+        "link": "https://www.glasgowtimes.co.uk/news/26640953.live-updates-armed-cops-swarm-glasgows-drumlaken-street/",
+        "description": "'Armed police' are currently in attendance at an ongoing incident near a Glasgow school.",
+        "published": "Thu, 15 Oct 2026 16:00:57 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21586806/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-glasgow-homes-site-former-34770842",
         "title": "New Glasgow homes at site of former Wyndford high-rises recommended for approval",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/new-glasgow-homes-site-former-34770842",
@@ -3493,14 +3509,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/18730943/?type=app&htype=0"
       },
       {
-        "id": "9287794",
-        "title": "Glasgow City Council unveils plans for new Drumchapel town hall and library",
-        "link": "https://www.glasgowworld.com/news/drumchapel-regeneration-glasgow-city-council-garscadden-house-9287794",
-        "description": "<p>Plans for a new town hall and library in Drumchapel have been revealed by Glasgow City Council</p>",
-        "published": "Wed, 14 Oct 2026 14:27:05 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/14/14/40/onecms_8fcf56ad-7097-4450-8aa6-89f3c9d24ca2_f99d7e53-f0e5-450b-b9b8-717220de4a95.jpeg?width=1200&auto=webp&trim=68%2C0%2C69%2C0"
-      },
-      {
         "id": "https://news.stv.tv/?p=533143",
         "title": "Gallery: Kingston Bridge bursting with colour once again as new murals painted after Batman filming",
         "link": "https://news.stv.tv/west-central/gallery-kingston-bridge-bursting-with-colour-once-again-as-new-murals-painted-after-batman-filming",
@@ -3579,14 +3587,6 @@
         "description": "\u201cThere will be changes to services across both weekends, so we\u2019re asking customers to check their journey before travelling and allow some extra time.&quot;",
         "published": "Wed, 14 Oct 2026 11:03:03 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34762348.ece/ALTERNATES/s98/0_9b37930eaad84bc5b169c9d7ac3c5a75.jpg"
-      },
-      {
-        "id": "9285781",
-        "title": "Chelsea player insists he can play three positions as ace buzzing after Celtic move finally up and running",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/chelsea-player-insists-he-can-play-three-positions-ace-buzzing-celtic-9285781",
-        "description": "<p>The Chelsea youngster has finally arrived at Celtic following his summer switch.</p>",
-        "published": "Wed, 14 Oct 2026 11:00:40 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/09/14/29/GettyImages-2288007644.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
