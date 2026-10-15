@@ -2789,6 +2789,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "cb45db893ad30d1a514757de4b1926a5",
+        "title": "Lockerbie bombing suspect\u2019s alleged confession can be used at US trial",
+        "link": "https://www.heraldscotland.com/news/26641599.lockerbie-bombing-suspects-alleged-confession-allowed-trial/",
+        "description": "A US judge in Washington rules an alleged confession can be used at Abu Agila Masud\u2019s Lockerbie bombing trial over Pan Am Flight 103 on January 19.",
+        "published": "Thu, 15 Oct 2026 18:46:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/3819390/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgow-winners-first-ever-nations-34770179",
         "title": "Glasgow winners at the first ever Nation's Choice Food Awards named by public including best chippy",
         "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgow-winners-first-ever-nations-34770179",
@@ -3579,14 +3587,6 @@
         "description": "It comes after a masked mob stormed through traffic in the Shettleston area, chanting &quot;our streets&quot;.",
         "published": "Wed, 14 Oct 2026 15:20:23 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34735999.ece/ALTERNATES/s98/1_Screenshot-2026-10-08-140126.png"
-      },
-      {
-        "id": "d7106659fa657b51b64bd2407bbde036",
-        "title": "Councillor cleared of standards breach after forwarding constituent's email to boss",
-        "link": "https://www.heraldscotland.com/news/26637089.edinburgh-councillor-cleared-email-sent-constituents-employer/",
-        "description": "Councillor James Dalgleish, the capital\u2019s education convener, had been reported to the Ethical Standards Commissioner after the incident in September 2025.",
-        "published": "Wed, 14 Oct 2026 16:07:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20771301/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
