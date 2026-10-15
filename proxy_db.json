@@ -2789,6 +2789,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=533551",
+        "title": "Plans to build 400 homes on Glasgow\u2019s\u00a0Wyndford estate set to be approved",
+        "link": "https://news.stv.tv/west-central/plans-to-build-400-homes-on-glasgows-wyndford-estate-set-to-be-approved",
+        "description": "The application from Wheatley Homes follows the controversial demolition of four high-rise blocks on the site last year.",
+        "published": "Thu, 15 Oct 2026 19:28:16 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/c08b8d520e5c686c8f4ee5da75c994ae-1792092302-1200x720.jpeg"
+      },
+      {
         "id": "cb45db893ad30d1a514757de4b1926a5",
         "title": "Lockerbie bombing suspect\u2019s alleged confession can be used at US trial",
         "link": "https://www.heraldscotland.com/news/26641599.lockerbie-bombing-suspects-alleged-confession-allowed-trial/",
@@ -2915,14 +2923,6 @@
         "description": "'Armed police' are currently in attendance at an ongoing incident near a Glasgow school.",
         "published": "Thu, 15 Oct 2026 16:00:57 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21586806/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-glasgow-homes-site-former-34770842",
-        "title": "New Glasgow homes at site of former Wyndford high-rises recommended for approval",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/new-glasgow-homes-site-former-34770842",
-        "description": "Councillors will consider an application to build 400 homes in Maryhill at a meeting next week.",
-        "published": "Thu, 15 Oct 2026 14:44:32 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article33604242.ece/ALTERNATES/s98/0_Wyndford-2-use.jpg"
       },
       {
         "id": "e0c2adcd1a1d3b80913f56fda2e460ae",
