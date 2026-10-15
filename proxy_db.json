@@ -2789,12 +2789,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "b378c370827cc3c128b374543855ce74",
+        "title": "Cannabis smoker 'passed out' before \u00a3220k tower block inferno",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26640637.jet-li-pentecost-caused-coatbridge-tower-block-fire-smoking/",
+        "description": "Coatbridge tower block evacuated after cannabis smoker Jet Li Pentecost started a 14th-floor fire, causing \u00a3220,000 damage, Airdrie Sheriff Court heard.",
+        "published": "Thu, 15 Oct 2026 15:17:30 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21586475/?type=app&htype=0"
+      },
+      {
         "id": "7aec143b1beb39c552278fe2fdf5d387",
         "title": "New Glasgow tech hub to help visually impaired people use digital device",
         "link": "https://www.glasgowtimes.co.uk/news/26640551.new-glasgow-tech-hub-support-people-sight-loss/",
         "description": "RNIB Scotland launches a Tech Hub at Glasgow\u2019s Mitchell Library, offering digital support for blind and partially sighted people using devices and apps.",
         "published": "Thu, 15 Oct 2026 15:05:02 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21586363/?type=app&htype=0"
+      },
+      {
+        "id": "8f05ee04415d3484a437e5f5f446ea3c",
+        "title": "Former Rockstar Games staff rally in Glasgow as dismissal case continues",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26640487.former-rockstar-games-staff-rally-glasgow-amid-dismissal-case/",
+        "description": "Former Rockstar Games employees held a rally outside Glasgow Tribunals Centre today.",
+        "published": "Thu, 15 Oct 2026 14:54:32 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21586367/?type=app&htype=0"
+      },
+      {
+        "id": "669497e13df7ffe49b09960c9006566b",
+        "title": "MSP wants action to deal with masked 'Temu Tommy Robinsons' on Glasgow streets",
+        "link": "https://www.glasgowtimes.co.uk/news/26640476.call-deal-masked-temu-tommy-robinsons-streets/",
+        "description": "Action on face masks and e bikes is needed now to tackle rising concerns over anti-social behaviour and crime, a Glasgow MSP has said.",
+        "published": "Thu, 15 Oct 2026 14:53:18 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21586501/?type=app&htype=0"
+      },
+      {
+        "id": "0a65997ffc6f5c73e9795425e4f1f774",
+        "title": "NHS Tayside clarifies status of Emergency Department amid closure rumours",
+        "link": "https://www.heraldscotland.com/news/26640314.nhs-tayside-says-perth-royal-infirmary-e-will-not-close/",
+        "description": "NHS Tayside says Perth Royal Infirmary Emergency Department will not close as patient numbers rise, urging residents to call NHS 24 on 111 for urgent care.",
+        "published": "Thu, 15 Oct 2026 14:47:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21585917/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=533484",
@@ -3555,38 +3587,6 @@
         "description": "Bridgewater Shopping Centre in Erskine, near Glasgow, has been sold to Greenridge Investment Management for around \u00a321m in its first ownership change since the 1980s.",
         "published": "Wed, 14 Oct 2026 11:45:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21578638/?type=app&htype=0"
-      },
-      {
-        "id": "9af9c94f2b153cf6de04e617276310fb",
-        "title": "Glasgow football venue parking row escalates as police launch enforcement crackdown",
-        "link": "https://www.glasgowtimes.co.uk/news/26635396.glasgow-parking-dispute-escalates-police-get-involved/",
-        "description": "Police Scotland parking checks at Pollok United\u2019s Nethercraigs football facility in Glasgow, Glasgow, follow complaints over cycle lane parking.",
-        "published": "Wed, 14 Oct 2026 11:36:13 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21579030/?type=app&htype=0"
-      },
-      {
-        "id": "fb04df697b26ae264390d492320f0828",
-        "title": "White Stuff to open new store at Frasers Plus Braehead this autumn",
-        "link": "https://www.heraldscotland.com/news/26635315.white-stuff-open-new-store-braehead-autumn/",
-        "description": "White Stuff will open a new 2,741 sq ft store at Frasers Plus Braehead this autumn, expanding the British fashion brand\u2019s retail presence in Scotland.",
-        "published": "Wed, 14 Oct 2026 11:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21578460/?type=app&htype=0"
-      },
-      {
-        "id": "201afcc8a72cbcfa493795c96161c7d0",
-        "title": "Scottish swimmer Archie Goodburn to meet PM to discuss brain tumours",
-        "link": "https://www.heraldscotland.com/news/26635286.archie-goodburn-meet-prime-minister-discuss-brain-tumours/",
-        "description": "Scottish swimmer Archie Goodburn has said his meeting with Prime Minister Andy Burnham is a \u201cunique opportunity for change\u201d.",
-        "published": "Wed, 14 Oct 2026 11:18:53 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21273982/?type=app&htype=0"
-      },
-      {
-        "id": "815a28d64f6482609a9de60627d40f32",
-        "title": "Glasgow exhibition to explore Scotland and South Asia\u2019s textile histories",
-        "link": "https://www.heraldscotland.com/news/26635157.glasgow-exhibition-explores-scotland-south-asia-textile-ties/",
-        "description": "House of The Stolen Weavers opens at Glasgow\u2019s Tramway on November 20, exploring colonial trade, textile traditions and Scotland\u2019s links with South Asia.",
-        "published": "Wed, 14 Oct 2026 11:13:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21578355/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
