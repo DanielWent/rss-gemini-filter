@@ -2789,6 +2789,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=533490",
+        "title": "Ongoing water supply issues highlight inadequacies at Scotland\u2019s largest prison HMP Barlinnie, say inspectors",
+        "link": "https://news.stv.tv/west-central/ongoing-water-supply-issues-highlight-inadequacies-at-scotlands-largest-prison-hmp-barlinnie-say-inspectors",
+        "description": "Scotland's largest prison continues to face ongoing water disruption following an outage last week",
+        "published": "Thu, 15 Oct 2026 15:50:22 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2021/10/63bf41f392fa83b29059a2aa32a23123-41.jpg"
+      },
+      {
+        "id": "5f32b84ce6f75e4b04c87e0728699723",
+        "title": "Two hectic Glasgow roads to CLOSE this weekend as drivers asked to avoid area",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26641194.paisley-road-west-corkerhill-road-close-resurfacing-works/",
+        "description": "Glasgow road closures: Paisley Road West and Corkerhill Road shut from October 17 to October 19 for resurfacing, with diversions in place.",
+        "published": "Thu, 15 Oct 2026 16:35:27 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19036953/?type=app&htype=0"
+      },
+      {
+        "id": "6ba43202fb9a9bdb4768fb49a1510e84",
+        "title": "Former SNP MP urges people to invite migrants for mince and tatties",
+        "link": "https://www.glasgowtimes.co.uk/news/26641096.former-snp-mp-says-migrants-enrich-glasgow-society/",
+        "description": "Former SNP MP Anne McLaughlin praised immigration\u2019s impact on Glasgow, challenges asylum myths and backs SNP calls to devolve migration powers to Holyrood.",
+        "published": "Thu, 15 Oct 2026 16:21:17 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21587133/?type=app&htype=0"
+      },
+      {
         "id": "3c2fb7c40246b064e05ba6b44c9dd3e5",
         "title": "Drivers warned to avoid one of Glasgow's busiest roads amid five-day disruption",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26641018.great-western-road-lane-closure-resurfacing-works/",
@@ -3563,30 +3587,6 @@
         "description": "The Renfrewshire site is a landmark test, allowing commandos to resuscitate 'casualties' and perform 'surgery' on troops taking part.",
         "published": "Wed, 14 Oct 2026 12:04:31 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34763131.ece/ALTERNATES/s98/0_JS421202505.jpg"
-      },
-      {
-        "id": "86da98d850bfb3bf3684e98df0d2cf6f",
-        "title": "I moved into Glasgow's transformed Bellgrove Hotel and couldn't be happier",
-        "link": "https://www.glasgowtimes.co.uk/news/26635809.first-tenants-move-transformed-bellgrove-hotel-flats/",
-        "description": "First tenants move into energy-efficient flats at Glasgow\u2019s restored Bellgrove Hotel, part of Wheatley Group\u2019s \u00a320.3m Gallowgate regeneration project.",
-        "published": "Wed, 14 Oct 2026 12:38:31 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21579230/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/loch-lomond-rescue-boat-scrambled-34762590",
-        "title": "Loch Lomond rescue boat scrambled over early hours reports of person in the water",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/loch-lomond-rescue-boat-scrambled-34762590",
-        "description": "Rescuers raced to the scene near Luss Campsite.",
-        "published": "Wed, 14 Oct 2026 11:18:15 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34762945.ece/ALTERNATES/s98/849694778_1932359584409644_2954470435510316178_njfif.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-central-low-level-disruption-34762289",
-        "title": "Glasgow Central low level disruption warning as \u00a31.7m upgrade underway",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-central-low-level-disruption-34762289",
-        "description": "\u201cThere will be changes to services across both weekends, so we\u2019re asking customers to check their journey before travelling and allow some extra time.&quot;",
-        "published": "Wed, 14 Oct 2026 11:03:03 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34762348.ece/ALTERNATES/s98/0_9b37930eaad84bc5b169c9d7ac3c5a75.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
