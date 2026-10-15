@@ -2757,12 +2757,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-sexually-assaulted-woman-glasgow-34767212",
+        "title": "Man sexually assaulted by woman on Glasgow train as police probe incident",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-sexually-assaulted-woman-glasgow-34767212",
+        "description": "The incident happened just before 9.30pm on a train between Dalmuir and Larkhall",
+        "published": "Thu, 15 Oct 2026 09:37:35 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34527069.ece/ALTERNATES/s98/2_JS379497539-9.jpg"
+      },
+      {
         "id": "512f4e00e68eb8d5ddecc0329e4fc701",
         "title": "Glasgow conference to explore controversial legacy of Scottish literary giant",
         "link": "https://www.glasgowtimes.co.uk/news/26638635.glasgow-conference-examine-hugh-macdiarmids-legacy/",
         "description": "A major cultural conference is set to take place in Glasgow this month to examine the legacy of a literary giant.",
         "published": "Thu, 15 Oct 2026 10:03:59 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17169233/?type=app&htype=0"
+      },
+      {
+        "id": "f404afabc4c7794c7d02226322ee4e62",
+        "title": "Paul Ferris' cause of death revealed after Glasgow gangster dies aged 62",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26638608.glasgow-gangster-paul-ferris-cause-death-revealed/",
+        "description": "Glasgow gangland figure Paul Ferris died aged 62 from multiple organ failure caused by decompensated alcoholic liver disease, death certificate confirms.",
+        "published": "Thu, 15 Oct 2026 10:00:42 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/8432961/?type=app&htype=0"
       },
       {
         "id": "1c53b0937590d164f15a1714fd7f2c09",
