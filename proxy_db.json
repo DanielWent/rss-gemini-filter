@@ -2789,6 +2789,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "5bbf3b32b59807e5193d5d8573ce02e7",
+        "title": "MPs back island tunnels and bridges as answer to 'unreliable' ferry crisis",
+        "link": "https://www.heraldscotland.com/news/26641507.bridges-tunnels-transform-scotlands-islands/",
+        "description": "Westminster MPs say bridges and tunnels could transform Scotland\u2019s islands, while urging urgent ferry upgrades and UK Government support for Shetland and Western Isles.",
+        "published": "Fri, 16 Oct 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19629833/?type=app&htype=0"
+      },
+      {
         "id": "70199734fd2096ebd06d12f1dba7053c",
         "title": "Andy Burnham to offer John Swinney deal to 'hand more power to Scotland's regions'",
         "link": "https://www.heraldscotland.com/politics/westminster/26641553.burnham-offers-deal-power-scotland-not-stop-holyrood/",
@@ -3579,14 +3587,6 @@
         "description": "Five men in a \u00a34m cocaine and money-laundering gang receive three-year Serious Crime Prevention Orders after Operation Silhouette raids in Glasgow.",
         "published": "Wed, 14 Oct 2026 16:33:04 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20098675/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/official-fireworks-displays-around-glasgow-34757875",
-        "title": "Official fireworks displays around Glasgow this Bonfire Night - all the dates you need",
-        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/official-fireworks-displays-around-glasgow-34757875",
-        "description": "The full list of firework displays and events to enjoy this Bonfire Night, with Glasgow's own official one yet again not set for a return.",
-        "published": "Wed, 14 Oct 2026 15:32:03 +0000",
-        "image_url": "https://i2-prod.edinburghlive.co.uk/incoming/article34759851.ece/ALTERNATES/s98/1_JS386808658.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
