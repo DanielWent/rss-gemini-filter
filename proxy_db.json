@@ -2789,6 +2789,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgow-winners-first-ever-nations-34770179",
+        "title": "Glasgow winners at the first ever Nation's Choice Food Awards named by public including best chippy",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/glasgow-winners-first-ever-nations-34770179",
+        "description": "Scotland's newest food and drink awards, which are voted for by the public, have just announced their first-ever winners, including the best chippy and fried chicken spot in Glasgow.",
+        "published": "Thu, 15 Oct 2026 16:55:59 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34771438.ece/ALTERNATES/s98/3_download-39.png"
+      },
+      {
+        "id": "933025f4e5815e21f921e52484642a08",
+        "title": "I love Glasgow but I\u2019m sick of waiting for it to get better and I'm sick of that cone",
+        "link": "https://www.heraldscotland.com/opinion/26641444.still-love-glasgow---just-tired-waiting-get-better/",
+        "description": "Maybe when the sewers of Glasgow stop exploding, and the endless roadworks end, that god damn cone will make me laugh again. For now, the joke is as tired as the city",
+        "published": "Thu, 15 Oct 2026 17:38:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/16889783/?type=app&htype=0"
+      },
+      {
         "id": "338a638cfabf79240ce2ef0211184af0",
         "title": "Police reveal why they swarmed to Glasgow property amid emergency response",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26641495.police-attend-glasgow-flat-incident-drumlaken-street/",
@@ -3571,22 +3587,6 @@
         "description": "Councillor James Dalgleish, the capital\u2019s education convener, had been reported to the Ethical Standards Commissioner after the incident in September 2025.",
         "published": "Wed, 14 Oct 2026 16:07:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20771301/?type=app&htype=0"
-      },
-      {
-        "id": "f9ded067c6a2431c43c91853065ff75a",
-        "title": "Ministers must step up to help creatives facing eviction from Scotland's arts spaces",
-        "link": "https://www.heraldscotland.com/news/26635581.time-action-creatives-face-eviction-nations-arts-spaces/",
-        "description": "Bit by bit, the nation\u2019s creative spaces are being sold off, plunging Scotland\u2019s artists and makers into an uncertain future.\u00a0Urgent action must be taken.",
-        "published": "Wed, 14 Oct 2026 16:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21580396/?type=app&htype=0"
-      },
-      {
-        "id": "39853a4f8fb66168364843a1acd38327",
-        "title": "Scottish Greens call for \u2018Amazon tax\u2019 on big online retailers",
-        "link": "https://www.heraldscotland.com/news/26636965.scottish-greens-call-amazon-tax-online-retailers/",
-        "description": "Scottish Greens call for an \u2018Amazon tax\u2019 on major online retailers, saying it could support local businesses and high streets; retail chiefs oppose the plan.",
-        "published": "Wed, 14 Oct 2026 15:43:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/18730943/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
