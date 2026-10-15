@@ -1113,6 +1113,14 @@
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
       {
+        "id": "https://the5krunner.com/?p=137437",
+        "title": "Indie App Spotlight: Ready to Run shows Garmin runners when heat makes a run risky",
+        "link": "https://the5krunner.com/2026/10/15/ready-to-run-garmin-watch-face/",
+        "description": "<p><img alt=\"Indie App Spotlight: Ready to Run shows Garmin runners when heat makes a run risky\" class=\"attachment-large size-large\" height=\"617\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/image2.jpg/w=1110,h=617\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Ready to Run is a Garmin watch face that shows body readiness, training goals and the weather, including WBGT heat stress, with red, amber and green colours, so one glance before a run shows whether today is a go.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/15/ready-to-run-garmin-watch-face/\">Indie App Spotlight: Ready to Run shows Garmin runners when heat makes a run risky</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Thu, 15 Oct 2026 10:57:26 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/image2.jpg/w=1110,h=617"
+      },
+      {
         "id": "https://the5krunner.com/?p=135347",
         "title": "Suunto Race 3S vs Garmin Forerunner 570 and 970",
         "link": "https://the5krunner.com/2026/10/15/suunto-race-3s-vs-garmin-forerunner/",
@@ -2757,12 +2765,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "185c4d6ee10606628ae1c422d5ef7019",
+        "title": "Airport drop-off charges set to be reviewed by UK Government after increase",
+        "link": "https://www.glasgowtimes.co.uk/news/26639517.airport-drop-off-charges-set-reviewed-increase/",
+        "description": "Airport drop-off charges are to be reviewed by the UK Government.",
+        "published": "Thu, 15 Oct 2026 12:16:41 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18326424/?type=app&htype=0"
+      },
+      {
+        "id": "3e994ac83dde7594bfb16626558bc6f2",
+        "title": "Drivers warned as burst water main causes huge disruption on busy Glasgow road",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26639426.glasgow-water-disruption-burst-main-hapland-road/",
+        "description": "Glasgow residents in G53 face water supply disruption after a burst main on Hapland Road, with Scottish Water repairs and traffic delays on October 15.",
+        "published": "Thu, 15 Oct 2026 12:03:27 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17119543/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o#0",
         "title": "Obama says drift towards extremism 'not inevitable'",
         "link": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
         "description": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing. .",
         "published": "Thu, 15 Oct 2026 10:51:53 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baf4/live/d48f4dd0-c87b-11f1-bf46-d13a9e06695d.jpg"
+      },
+      {
+        "id": "e792fe5d2944ae97c3b7fc1b6c497666",
+        "title": "Police informed after incident shuts down health centre services",
+        "link": "https://www.glasgowtimes.co.uk/news/26639309.cambuslang-gate-health-centre-services-shut-incident/",
+        "description": "Cambuslang Gate Health Centre suspends Treatment Room services after an incident, with urgent patients redirected to Rutherglen Health Centre. Police informed.",
+        "published": "Thu, 15 Oct 2026 11:49:02 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/14129133/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=533432",
@@ -2789,6 +2821,14 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34759859.ece/ALTERNATES/s98/4_GettyImages-752173349.jpg"
       },
       {
+        "id": "c545595815549c265206f4c0f285d1ed",
+        "title": "Bid lodged for new Glasgow shop after Union Street inferno destroyed former unit",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26639197.shelter-scotland-submit-plans-glasgow-queen-street-shop/",
+        "description": "Shelter Scotland submit plans for Glasgow Queen Street shop after former unit destroyed in Union Street fire.",
+        "published": "Thu, 15 Oct 2026 11:33:07 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21584617/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/staff-glasgow-childrens-houses-claim-34767804",
         "title": "Staff at Glasgow children's houses claim hundreds of violent incidents in last five years",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/staff-glasgow-childrens-houses-claim-34767804",
@@ -2803,6 +2843,14 @@
         "description": "Glasgow commuters are facing disruption and delays this morning.",
         "published": "Thu, 15 Oct 2026 11:32:34 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19783747/?type=app&htype=0"
+      },
+      {
+        "id": "4f9d4693724635a974f6c8b65342b41c",
+        "title": "'A significant moment for Edinburgh': Capital to host G20 finance meeting next summer",
+        "link": "https://www.heraldscotland.com/news/26639089.edinburgh-host-g20-finance-ministers-next-summer/",
+        "description": "Finance ministers and central bank governors will meet at the Edinburgh International Conference Centre on July 8 and 9.",
+        "published": "Thu, 15 Oct 2026 11:28:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21491005/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/scottish-car-giant-collapses-administration-34767180",
@@ -2821,20 +2869,36 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34767862.ece/ALTERNATES/s98/1_Screenshot-2026-10-15-at-110809AM.png"
       },
       {
-        "id": "9289197",
-        "title": "Glasgow councillor calls for tighter firework regulation ahead of Bonfire Night",
-        "link": "https://www.glasgowworld.com/news/glasgow-councillor-calls-for-tighter-firework-regulation-ahead-of-bonfire-night-9289197",
-        "description": "<p>There have been calls for further regulation on the sale of fireworks in Glasgow ahead of Bonfire night</p>",
-        "published": "Thu, 15 Oct 2026 10:23:27 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/10/28/9/05/Nae-Fireworks.png?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
         "id": "9289163",
         "title": "'I thought my symptoms were menopause but it was deadly blood cancer': Balloch mum welcomes new research",
         "link": "https://www.glasgowworld.com/news/glasgow-mum-welcomes-new-research-into-deadly-blood-cancer-treatments-9289163",
         "description": "<p>Caroline Sweeney, a 55-year-old Balloch woman, welcomed new research into more effective treatments for acute myeloid leukaemia (AML) after being diagnosed with the deadly blood cancer in 2022.</p>",
         "published": "Thu, 15 Oct 2026 10:15:54 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/15/10/42/Untitled-design-(98).png?width=1200&auto=webp&trim=0%2C10%2C0%2C10"
+      },
+      {
+        "id": "bcc811cf962e0be90925431227c4a68d",
+        "title": "Bus service announces major new Glasgow bus route starting this month",
+        "link": "https://www.glasgowtimes.co.uk/news/26639094.new-citylink-route-links-aberdeen-glasgow-edinburgh-airport/",
+        "description": "Bus operator announces new route linking Glasgow with other Scottish cities and Airport.",
+        "published": "Thu, 15 Oct 2026 11:15:17 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21584041/?type=app&htype=0"
+      },
+      {
+        "id": "5a3c278c51a187fa6aa2643a461700a5",
+        "title": "Citylink launches Aberdeen to Glasgow coach route via Edinburgh Airport",
+        "link": "https://www.heraldscotland.com/news/26639057.new-citylink-coach-route-connect-aberdeen-glasgow/",
+        "description": "Scottish Citylink\u2019s M6 route launches October 24, linking Aberdeen, Glasgow, Perth and Falkirk with Edinburgh Airport in four daily services from \u00a335 return.",
+        "published": "Thu, 15 Oct 2026 11:14:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21584041/?type=app&htype=0"
+      },
+      {
+        "id": "b015c34cf9de8dfc686dd19be8d9859e",
+        "title": "'Significant step forward': New Lochaber Hospital moves to next stage of planning",
+        "link": "https://www.heraldscotland.com/news/26639076.new-lochaber-hospital-moves-next-stage-planning/",
+        "description": "Plans for the new Lochaber Hospital in Fort William have moved forward after the Scottish Government approved the project's outline business case.",
+        "published": "Thu, 15 Oct 2026 11:12:28 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20596789/?type=app&htype=0"
       },
       {
         "id": "1ea85bc6f46fe979c2cf944138ed5138",
@@ -2877,14 +2941,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21394794/?type=app&htype=0"
       },
       {
-        "id": "https://news.stv.tv/?p=533382",
-        "title": "Teenager dies and man arrested following disturbance in Glasgow",
-        "link": "https://news.stv.tv/west-central/teenager-dies-and-man-arrested-following-disturbance-in-glasgow",
-        "description": "A 22-year-old man has been arrested in connection with the incident",
-        "published": "Thu, 15 Oct 2026 08:54:44 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/03/bc2089af032947ab126c5207ef212680-1772544754-1280x720.jpeg"
-      },
-      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/west-end-road-reopens-after-34766876",
         "title": "West end road reopens after underground garage fire near Glasgow petrol station",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/west-end-road-reopens-after-34766876",
@@ -2899,14 +2955,6 @@
         "description": "Glasgow Clyde College achieved a pass rate of 77.1% in the 2025/26 academic year, marking the highest in the college\u2019s history.",
         "published": "Thu, 15 Oct 2026 09:26:09 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21583157/?type=app&htype=0"
-      },
-      {
-        "id": "2c6c3d70e29db0257dd3eef0b47521ff",
-        "title": "LIVE updates as cops swarm Glasgow street amid ongoing incident",
-        "link": "https://www.glasgowtimes.co.uk/news/26638344.live-updates-police-close-ashgill-road-glasgow/",
-        "description": "A Glasgow street has been locked down by police for over ten hours.",
-        "published": "Thu, 15 Oct 2026 09:09:14 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19652255/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/death-glasgow-barlinnie-prisoner-probed-34766753",
@@ -3333,14 +3381,6 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/12/18/13/Screenshot-2026-10-12-193926.png?width=1200&auto=webp&trim=0%2C81%2C0%2C80"
       },
       {
-        "id": "5e7bda842b04a09e84d0dc2066161828",
-        "title": "SNP call for Andy Burnham to give Scotland control of asylum and immigration policy",
-        "link": "https://www.glasgowtimes.co.uk/news/26635480.snp-call-andy-burnham-hand-asylum-powers-scotland/",
-        "description": "SNP Glasgow branch calls for Scotland to control immigration, asylum and refugee policy, urging Andy Burnham talks.",
-        "published": "Wed, 14 Oct 2026 11:48:40 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21226333/?type=app&htype=0"
-      },
-      {
         "id": "f397779c01491c551f40a7db68c2d3bf",
         "title": "Bungling armed gang jailed after raiding wrong house and terrorising family",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26635478.three-jailed-wrong-house-armed-raid-coatbridge-family-home/",
@@ -3523,38 +3563,6 @@
         "description": "<p>Everything you need to know about how to watch Celtic\u2019s trip to Lisbon</p>",
         "published": "Wed, 14 Oct 2026 07:00:15 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/13/13/56/GettyImages-2295800999.jpeg?width=1200&auto=webp&trim=90%2C0%2C92%2C0"
-      },
-      {
-        "id": "https://runabc.co.uk/glasgow-morun-celebrates-14-years-of-running-for-movember",
-        "title": "Glasgow MoRun Celebrates 14 Years Of Running For Movember",
-        "link": "https://runabc.co.uk/glasgow-morun-celebrates-14-years-of-running-for-movember",
-        "description": "<p><img alt=\"Glasgow MoRun 2026\" src=\"https://runabc.co.uk/images/2026/10/glasgow-morun-2026.jpg\" /></p>\n\t\t\t\t<p>Glasgow MoRun returns on 29 November, 14 years after the Movember running series first brought its moustaches to Scotland...</p>",
-        "published": "Wed, 14 Oct 2026 07:55:00 +0100",
-        "image_url": "https://runabc.co.uk/images/2026/10/glasgow-morun-2026.jpg"
-      },
-      {
-        "id": "c1d22500a08fe6ad9874265e69cc7223",
-        "title": "Prices slashed on train tickets as ScotRail announces Glasgow event coming tomorrow",
-        "link": "https://www.glasgowtimes.co.uk/news/26634276.glasgow-event-announced-scotrail-slash-ticket-prices/",
-        "description": "ScotRail releases 100,000 discounted Advance Single tickets with fares up to 60% off winter journeys across Scotland as Glasgow Queen Street event announced.",
-        "published": "Wed, 14 Oct 2026 07:54:19 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21577322/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgows-historic-buildings-falling-apart-34758444",
-        "title": "'Glasgow's historic buildings are falling apart and falling masonry is an accident waiting to happen'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgows-historic-buildings-falling-apart-34758444",
-        "description": "A stonemason has warned of a hidden danger lurking about the heads of Glasgow residents every day.",
-        "published": "Wed, 14 Oct 2026 06:45:02 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34761133.ece/ALTERNATES/s98/0_unnamed-5.png"
-      },
-      {
-        "id": "6c62ec5091d682a72475ca4940ddacef",
-        "title": "LIVE updates as Glasgow Subway goes down ahead of rush hour",
-        "link": "https://www.glasgowtimes.co.uk/news/26634239.live-updates-glasgow-subway-goes-ahead-rush-hour/",
-        "description": "Glasgow Subway has been suspended due to a failed train in the depot, leaving many commuters stranded.",
-        "published": "Wed, 14 Oct 2026 07:15:29 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19117137/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
