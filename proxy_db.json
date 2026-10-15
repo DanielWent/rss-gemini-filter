@@ -2757,6 +2757,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "512f4e00e68eb8d5ddecc0329e4fc701",
+        "title": "Glasgow conference to explore controversial legacy of Scottish literary giant",
+        "link": "https://www.glasgowtimes.co.uk/news/26638635.glasgow-conference-examine-hugh-macdiarmids-legacy/",
+        "description": "A major cultural conference is set to take place in Glasgow this month to examine the legacy of a literary giant.",
+        "published": "Thu, 15 Oct 2026 10:03:59 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17169233/?type=app&htype=0"
+      },
+      {
+        "id": "1c53b0937590d164f15a1714fd7f2c09",
+        "title": "Herald Business LIVE: Today's top stories - October 15",
+        "link": "https://www.heraldscotland.com/news/26637776.herald-business-live-todays-top-stories---october-15/",
+        "description": "Welcome to The Herald's Business live blog, where we\u2019ll be bringing you the latest developments from across Scotland\u2019s business industry.",
+        "published": "Thu, 15 Oct 2026 10:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21394794/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=533382",
         "title": "Teenager dies and man arrested following disturbance in Glasgow",
         "link": "https://news.stv.tv/west-central/teenager-dies-and-man-arrested-following-disturbance-in-glasgow",
@@ -2779,14 +2795,6 @@
         "description": "Glasgow Clyde College achieved a pass rate of 77.1% in the 2025/26 academic year, marking the highest in the college\u2019s history.",
         "published": "Thu, 15 Oct 2026 09:26:09 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21583157/?type=app&htype=0"
-      },
-      {
-        "id": "7b9e427a996bf84c5acc6204e3dc6646",
-        "title": "LIVE updates as emergency crews race to scene of petrol station blaze",
-        "link": "https://www.glasgowtimes.co.uk/news/26638403.live-updates-emergency-crews-race-anderston-glasgow/",
-        "description": "A busy Glasgow road has been closed following a fire at a petrol station.",
-        "published": "Thu, 15 Oct 2026 09:24:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19679258/?type=app&htype=0"
       },
       {
         "id": "2c6c3d70e29db0257dd3eef0b47521ff",
@@ -2869,14 +2877,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21582824/?type=app&htype=0"
       },
       {
-        "id": "697f9527bb4e168bc14b4d17d69b035d",
-        "title": "Glasgow road forced to close entirely as fire breaks out at petrol station",
-        "link": "https://www.glasgowtimes.co.uk/news/26638089.glasgow-petrol-station-fire-forces-road-close-entirely/",
-        "description": "Woodlands Road in Glasgow reopened after a fire at Sainsbury\u2019s petrol station on October 14, with police closing the route as emergency crews tackled the blaze.",
-        "published": "Thu, 15 Oct 2026 06:53:50 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/14937634/?type=app&htype=0"
-      },
-      {
         "id": "c5bb1ed327ab83b8b3f2b0650175440c",
         "title": "Revealed: Audit Scotland warned ethical standards watchdog was risking public trust",
         "link": "https://www.heraldscotland.com/news/26636872.audit-scotland-warned-scottish-ethical-standards-watchdog-2021/",
@@ -2957,14 +2957,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21580648/?type=app&htype=0"
       },
       {
-        "id": "68777e45c1819f8a9e759fb4bd0617ba",
-        "title": "The cost of living debate is missing a crucial part of the picture",
-        "link": "https://www.heraldscotland.com/opinion/26636030.cutting-business-costs-can-help-lower-prices-scotland/",
-        "description": "With almost three quarters of Scottish businesses expecting to raise prices, policymakers are being urged to tackle the cost of doing business",
-        "published": "Thu, 15 Oct 2026 04:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21574770/?type=app&htype=0"
-      },
-      {
         "id": "6ee1012a76acff2e50b20a2836d71aa4",
         "title": "ICS Learn announces Glasgow move and rebrand after 130 years of distance learning",
         "link": "https://www.heraldscotland.com/news/26637520.ics-learn-announces-rebrand-plans-new-glasgow-office/",
@@ -2979,14 +2971,6 @@
         "description": "Rockstar Games HR chief denies ordering staff to monitor IWGB membership as 23 former workers claim unfair dismissal over Discord posts at Scottish tribunal.",
         "published": "Wed, 14 Oct 2026 20:31:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21437543/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-fire-crews-race-blaze-34765886",
-        "title": "Glasgow fire crews race to blaze at underground garage near petrol station",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-fire-crews-race-blaze-34765886",
-        "description": "Any injuries sustained and full details of the incident have not been confirmed at this time.",
-        "published": "Wed, 14 Oct 2026 19:04:16 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34765896.ece/ALTERNATES/s98/2_fire.jpg"
       },
       {
         "id": "9287339",
