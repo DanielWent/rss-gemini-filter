@@ -2789,6 +2789,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "70199734fd2096ebd06d12f1dba7053c",
+        "title": "Andy Burnham to offer John Swinney deal to 'hand more power to Scotland's regions'",
+        "link": "https://www.heraldscotland.com/politics/westminster/26641553.burnham-offers-deal-power-scotland-not-stop-holyrood/",
+        "description": "Andy Burnham is set to offer John Swinney a deal to empower Scotland\u2019s regions, shifting power from Westminster and Holyrood to boost jobs and growth.",
+        "published": "Thu, 15 Oct 2026 22:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21587851/?type=app&htype=0"
+      },
+      {
         "id": "9290909",
         "title": "Celtic player ratings vs Benfica as stats experts rate top stars and flops from heavy Europa League defeat",
         "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-player-ratings-vs-benfica-europa-league-9290909",
@@ -3579,14 +3587,6 @@
         "description": "The full list of firework displays and events to enjoy this Bonfire Night, with Glasgow's own official one yet again not set for a return.",
         "published": "Wed, 14 Oct 2026 15:32:03 +0000",
         "image_url": "https://i2-prod.edinburghlive.co.uk/incoming/article34759851.ece/ALTERNATES/s98/1_JS386808658.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c98rzg7mlxxdo#0",
-        "title": "I do not have confidence UK is safe from Russian threats - Swinney",
-        "link": "https://www.bbc.co.uk/news/articles/c98rzg7mlxxdo?at_medium=RSS&at_campaign=rss",
-        "description": "The first minister speaks to BBC Scotland News ahead of the SNP's annual conference in Aberdeen.",
-        "published": "Wed, 14 Oct 2026 15:30:03 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daf7/live/48a3be30-c7d8-11f1-bc2e-018d645d8d21.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
