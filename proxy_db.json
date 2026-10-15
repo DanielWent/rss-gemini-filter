@@ -2668,6 +2668,14 @@
     "icon_url": "https://runabc.co.uk/favicon.ico",
     "articles": [
       {
+        "id": "https://runabc.co.uk/3k-on-the-green-november-continues-glasgows-lunchtime-running-tradition",
+        "title": "3K On The Green November Continues Glasgow's Lunchtime Running Tradition",
+        "link": "https://runabc.co.uk/3k-on-the-green-november-continues-glasgows-lunchtime-running-tradition",
+        "description": "<p><img alt=\"3K On The Green November\" src=\"https://runabc.co.uk/images/2026/10/3k-on-the-green-november-974343.jpg\" /></p>\n\t\t\t\t<p>Glasgow's 3K on the Green series reaches its November fixture on Friday 27 November, continuing a lunchtime running tradition that has raised thousands for charity...</p>",
+        "published": "Thu, 15 Oct 2026 07:55:00 +0100",
+        "image_url": "https://runabc.co.uk/images/2026/10/3k-on-the-green-november-974343.jpg"
+      },
+      {
         "id": "https://runabc.co.uk/glasgow-morun-celebrates-14-years-of-running-for-movember",
         "title": "Glasgow MoRun Celebrates 14 Years Of Running For Movember",
         "link": "https://runabc.co.uk/glasgow-morun-celebrates-14-years-of-running-for-movember",
@@ -2741,12 +2749,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-buyer-finds-live-bullets-34765431",
+        "title": "Glasgow buyer finds 'live bullets' in pockets of secondhand jacket from Vinted",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-buyer-finds-live-bullets-34765431",
+        "description": "Grant Bradford said it was &quot;very, very weird&quot; to find the jacket - which was listed as &quot;brand new&quot; - had arrived all the way from the US with &quot;ammunition&quot; inside it.",
+        "published": "Thu, 15 Oct 2026 07:12:43 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34765804.ece/ALTERNATES/s98/3_bullets.jpg"
+      },
+      {
+        "id": "https://runabc.co.uk/3k-on-the-green-november-continues-glasgows-lunchtime-running-tradition",
+        "title": "3K On The Green November Continues Glasgow's Lunchtime Running Tradition",
+        "link": "https://runabc.co.uk/3k-on-the-green-november-continues-glasgows-lunchtime-running-tradition",
+        "description": "<p><img alt=\"3K On The Green November\" src=\"https://runabc.co.uk/images/2026/10/3k-on-the-green-november-974343.jpg\" /></p>\n\t\t\t\t<p>Glasgow's 3K on the Green series reaches its November fixture on Friday 27 November, continuing a lunchtime running tradition that has raised thousands for charity...</p>",
+        "published": "Thu, 15 Oct 2026 07:55:00 +0100",
+        "image_url": "https://runabc.co.uk/images/2026/10/3k-on-the-green-november-974343.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-veteran-backs-calls-ban-34763150",
         "title": "Glasgow veteran backs calls for ban on delivery driver loophole after sex attack in her home",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-veteran-backs-calls-ban-34763150",
         "description": "JJ* was told that her attacker had rented the account from another person \u2013 a 'grey area' of the law that allows anyone to turn up at doors with little checks in place.",
         "published": "Thu, 15 Oct 2026 06:39:13 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34763182.ece/ALTERNATES/s98/0_JS235280365-1.jpg"
+      },
+      {
+        "id": "9d8ca75d4b0b316542f6eb20d418e20e",
+        "title": "Concern popular city play park gifted by Perth, Australia will be lost forever",
+        "link": "https://www.heraldscotland.com/news/26638093.concern-city-play-park-gifted-perth-australia-will-lost-forever/",
+        "description": "There is a concern a popular Fair City play park gifted by Perth, Australia will be lost forever and developed over.",
+        "published": "Thu, 15 Oct 2026 07:03:28 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21582824/?type=app&htype=0"
       },
       {
         "id": "697f9527bb4e168bc14b4d17d69b035d",
@@ -3515,30 +3547,6 @@
         "description": "Glasgow City Council consults on greener Anderston Station plans, with a new plaza, safer crossings and cycle link connecting the city centre and West End.",
         "published": "Tue, 13 Oct 2026 19:27:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21575281/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=533110",
-        "title": "Scotland records second-worst week for long A&E waits",
-        "link": "https://news.stv.tv/west-central/scotland-records-second-worst-week-for-long-ae-waits",
-        "description": "Some 12,074 patients waited more than four hours at emergency departments in the week ending October 4.",
-        "published": "Tue, 13 Oct 2026 17:36:44 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/20496e04ccb572de1b6af9fa7ac6e098-1791912740-1120x720.jpeg"
-      },
-      {
-        "id": "2e072b949b170d27c97d9f9596cc3512",
-        "title": "ECHR rules in favour of BBC Scotland over journalist barred from court hearing",
-        "link": "https://www.heraldscotland.com/news/26633962.echr-backs-bbc-scotland-journalist-court-access-case/",
-        "description": "ECHR rules for BBC Scotland after journalist Steven Duff was excluded from Aberdeen Sheriff Court, finding a breach of Article 10, media freedom and open justice.",
-        "published": "Tue, 13 Oct 2026 18:20:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19531191/?type=app&htype=0"
-      },
-      {
-        "id": "9285127",
-        "title": "Steven Gerrard explains why he'd rethink Rangers exit decision in a heartbeat after Premier League reality check",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/steven-gerrard-explains-rethink-rangers-exit-decision-heartbeat-premier-league-reality-check-9285127",
-        "description": "<p>Liverpool legend concedes he would have benefited from more time in Scotland before moving to Aston Villa</p>",
-        "published": "Tue, 13 Oct 2026 17:00:12 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/13/14/13/GettyImages-2270425107.jpeg?width=1200&auto=webp&trim=0%2C9%2C0%2C9"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
