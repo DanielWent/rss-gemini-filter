@@ -2042,6 +2042,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "7623e5a57db011f2578ee64b247ad412",
+        "title": "Urgent search for missing 17-year-old boy last seen outside Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26639874.search-underway-missing-17-year-old-milngavie/",
+        "description": "Police Scotland appeals for help to find missing 17-year-old Kristijonas Demcenko, last seen in Milngavie, Glasgow, on October 12, 2026. Call 101.",
+        "published": "Thu, 15 Oct 2026 13:18:29 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21585247/?type=app&htype=0"
+      },
+      {
         "id": "c154d7da643065145780c82346146f4b",
         "title": "East Dunbartonshire library transforms unused space into community reading garden",
         "link": "https://www.glasgowtimes.co.uk/news/26635718.bishopbriggs-library-launched-new-outdoor-reading-garden/",
@@ -2765,6 +2773,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "7623e5a57db011f2578ee64b247ad412",
+        "title": "Urgent search for missing 17-year-old boy last seen outside Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26639874.search-underway-missing-17-year-old-milngavie/",
+        "description": "Police Scotland appeals for help to find missing 17-year-old Kristijonas Demcenko, last seen in Milngavie, Glasgow, on October 12, 2026. Call 101.",
+        "published": "Thu, 15 Oct 2026 13:18:29 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21585247/?type=app&htype=0"
+      },
+      {
+        "id": "7db9c840a1093c1b1ecebf0f7ebdc036",
+        "title": "Glasgow drivers warned of delays as emergency works hits busy road for days",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26639773.glasgow-shawfield-drive-delays-due-emergency-scottish-water-works/",
+        "description": "Glasgow drivers face delays as Scottish Water carries out emergency repairs at Shawfield Drive and Shawfield Road, with temporary lights until October 21.",
+        "published": "Thu, 15 Oct 2026 13:00:52 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21475912/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=533444",
         "title": "Man charged for murder bid on Steven Daniel jailed for slashing stranger",
         "link": "https://news.stv.tv/west-central/man-charged-for-murder-bid-on-steven-daniel-jailed-for-slashing-stranger",
@@ -2803,14 +2827,6 @@
         "description": "Glasgow City Council turns refuse vehicles into mobile billboards promoting inclusion and raising awareness of hate crime.",
         "published": "Thu, 15 Oct 2026 12:24:01 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21584840/?type=app&htype=0"
-      },
-      {
-        "id": "cf6b0e1cdd3aed53f29e513146f3cedc",
-        "title": "Steven 'Bonzo' Daniel murder plot suspect jailed for slashing stranger",
-        "link": "https://www.heraldscotland.com/news/26639535.steven-bonzo-daniel-murder-plot-suspect-jailed-slashing-stranger/",
-        "description": "A man once charged with a murder bid on Steven 'Bonzo' Daniel has been jailed for slashing a stranger.",
-        "published": "Thu, 15 Oct 2026 12:18:43 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/13467137/?type=app&htype=0"
       },
       {
         "id": "6b4c1451ba56ee7917773fe89bfb6cfe",
@@ -2949,28 +2965,12 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21584041/?type=app&htype=0"
       },
       {
-        "id": "5a3c278c51a187fa6aa2643a461700a5",
-        "title": "Citylink launches Aberdeen to Glasgow coach route via Edinburgh Airport",
-        "link": "https://www.heraldscotland.com/news/26639057.new-citylink-coach-route-connect-aberdeen-glasgow/",
-        "description": "Scottish Citylink\u2019s M6 route launches October 24, linking Aberdeen, Glasgow, Perth and Falkirk with Edinburgh Airport in four daily services from \u00a335 return.",
-        "published": "Thu, 15 Oct 2026 11:14:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21584041/?type=app&htype=0"
-      },
-      {
         "id": "b015c34cf9de8dfc686dd19be8d9859e",
         "title": "'Significant step forward': New Lochaber Hospital moves to next stage of planning",
         "link": "https://www.heraldscotland.com/news/26639076.new-lochaber-hospital-moves-next-stage-planning/",
         "description": "Plans for the new Lochaber Hospital in Fort William have moved forward after the Scottish Government approved the project's outline business case.",
         "published": "Thu, 15 Oct 2026 11:12:28 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20596789/?type=app&htype=0"
-      },
-      {
-        "id": "1ea85bc6f46fe979c2cf944138ed5138",
-        "title": "Man once charged with Steven 'Bonzo' Daniel murder bid jailed for Glasgow slashing",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26639036.robert-bennett-jailed-slashing-man-glasgows-possilpark/",
-        "description": "Robert Bennett jailed for 584 days after slashing Ayub Hamed in the face in Glasgow\u2019s Possilpark on March 3, admitting aggravated assault in court.",
-        "published": "Thu, 15 Oct 2026 11:05:46 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18861560/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-sexually-assaulted-woman-glasgow-34767212",
@@ -3003,14 +3003,6 @@
         "description": "Welcome to The Herald's Business live blog, where we\u2019ll be bringing you the latest developments from across Scotland\u2019s business industry.",
         "published": "Thu, 15 Oct 2026 10:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21394794/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/west-end-road-reopens-after-34766876",
-        "title": "West end road reopens after underground garage fire near Glasgow petrol station",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/west-end-road-reopens-after-34766876",
-        "description": "Emergency services were called to Ashley Lane close to the Sainsburys petrol station on Woodlands Road at around 7pm on Wednesday.",
-        "published": "Thu, 15 Oct 2026 08:35:09 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34766905.ece/ALTERNATES/s98/0_fire.jpg"
       },
       {
         "id": "d195bd19373a9374f57ce63425fd25ed",
@@ -3213,14 +3205,6 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34765753.ece/ALTERNATES/s98/0_fireworks.png"
       },
       {
-        "id": "9288332",
-        "title": "Glasgow Caledonian University staff set for unprecedented walk outs over proposed job losses",
-        "link": "https://www.glasgowworld.com/news/glasgow-caledonian-university-job-losses-strike-action-9288332",
-        "description": "<p>The university will see unprecedented strike action with its four campus unions walking out over job losses</p>",
-        "published": "Wed, 14 Oct 2026 17:15:16 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/01/10/2026_10_01_09_01_48_549_01-10-2026-cale%2520uni%2520strike-sco-013.JPG?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
         "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/hidden-clothing-shop-thousands-secondhand-34765512",
         "title": "The hidden clothing shop with thousands of secondhand kids clothes ideal for families looking for a bargain",
         "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/hidden-clothing-shop-thousands-secondhand-34765512",
@@ -3275,14 +3259,6 @@
         "description": "Joseph Gorman struck Craig Wilson while he was walking with his fiancee, her mother and their dog in Strathaven",
         "published": "Wed, 14 Oct 2026 15:39:28 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2025/05/f80552903122b112511c63c30c41a9fc-1746179781.jpg"
-      },
-      {
-        "id": "3c2d34eebacd28caf229c2d5d79d0d42",
-        "title": "Barack Obama arrives in Glasgow ahead of huge OVO Hydro appearance tonight",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26637407.barack-obama-arrives-glasgow-one-night-ovo-hydro-event/",
-        "description": "Former US president Barack Obama has arrived in Glasgow ahead of his one-night appearance at the OVO Hydro tonight.",
-        "published": "Wed, 14 Oct 2026 16:35:02 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21581551/?type=app&htype=0"
       },
       {
         "id": "7a0b435604851a21882227456b945113",
