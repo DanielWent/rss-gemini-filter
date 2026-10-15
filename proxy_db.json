@@ -2733,12 +2733,60 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "c5bb1ed327ab83b8b3f2b0650175440c",
+        "title": "Revealed: Audit Scotland warned ethical standards watchdog was risking public trust",
+        "link": "https://www.heraldscotland.com/news/26636872.audit-scotland-warned-scottish-ethical-standards-watchdog-2021/",
+        "description": ". Audit Scotland warned in 2021 that serious failings at Scotland\u2019s Ethical Standards Commissioner\u2019s office risked public trust. A follow-up report found significant challenges remained.",
+        "published": "Thu, 15 Oct 2026 06:38:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21580817/?type=app&htype=0"
+      },
+      {
+        "id": "c6f6ab34f51e845cd1bcff2388813b32",
+        "title": "Scots \u00a31.7bn pension scandal branded \u2018national disgrace\u2019 amidst more delays",
+        "link": "https://www.heraldscotland.com/news/26629867.scottish-public-sector-pensions-fresh-delays-hit-retired-workers/",
+        "description": "Scotland's McCloud pension scandal deepens as 37,832 retired public sector workers wait for remedy statements, with further delays for police and teachers.",
+        "published": "Thu, 15 Oct 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20126331/?type=app&htype=0"
+      },
+      {
         "id": "dc2a38465b69c8f0cf0ddbc08f8b43bb",
         "title": "Primary school wipes out attainment gap with 'excellent' strategy say inspectors",
         "link": "https://www.glasgowtimes.co.uk/news/26632100.neilsland-primary-praised-closing-attainment-gap-hmie/",
         "description": "Neilsland Primary in Hamilton has been praised by HMIE for its sector-leading strategy, with inspectors reporting no gap in listening and talking attainment.",
         "published": "Thu, 15 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21574032/?type=app&htype=0"
+      },
+      {
+        "id": "95665893721be1616e77aed0ac6d2cda",
+        "title": "Scotland's hybrid working crackdown for civil servants is 'unworkable', union warns",
+        "link": "https://www.heraldscotland.com/news/26637501.civil-service-hybrid-working-crackdown-unworkable/",
+        "description": "The Scottish Government has been told its hybrid working crackdown for civil servants is unworkable, according to a trade union chief.",
+        "published": "Thu, 15 Oct 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21335176/?type=app&htype=0"
+      },
+      {
+        "id": "40103d7da47b5719ed74a936a41fd8a3",
+        "title": "Teachers doubt Scotland can meet 2030 child poverty target amid rising pupil hardship",
+        "link": "https://www.heraldscotland.com/news/26636812.teachers-doubt-john-swinney-can-hit-child-poverty-targets/",
+        "description": "Scottish teachers report rising child poverty, hunger and financial stress among pupils, while only 34% trust ministers to meet 2030 targets.",
+        "published": "Thu, 15 Oct 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20842220/?type=app&htype=0"
+      },
+      {
+        "id": "45dad2b449535ef57aea28ed321fe55e",
+        "title": "Three in four Scottish firms expect price rises as costs pile on pressure",
+        "link": "https://www.heraldscotland.com/news/26636282.three-four-scottish-firms-expect-prices-rise/",
+        "description": "Scottish business confidence has returned to positive territory, but most firms still expect to raise prices amid continuing pressure on revenues and profits",
+        "published": "Thu, 15 Oct 2026 04:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21580648/?type=app&htype=0"
+      },
+      {
+        "id": "68777e45c1819f8a9e759fb4bd0617ba",
+        "title": "The cost of living debate is missing a crucial part of the picture",
+        "link": "https://www.heraldscotland.com/opinion/26636030.cutting-business-costs-can-help-lower-prices-scotland/",
+        "description": "With almost three quarters of Scottish businesses expecting to raise prices, policymakers are being urged to tackle the cost of doing business",
+        "published": "Thu, 15 Oct 2026 04:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21574770/?type=app&htype=0"
       },
       {
         "id": "6ee1012a76acff2e50b20a2836d71aa4",
@@ -3483,54 +3531,6 @@
         "description": "The funeral details for a Glasgow dad who was murdered in a flat in the West End, has been announced, after thousands were raised to fund the service",
         "published": "Tue, 13 Oct 2026 16:17:40 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21576285/?type=app&htype=0"
-      },
-      {
-        "id": "1f7f42a03caac5803462e587c9196cfc",
-        "title": "Residents warned as burst water main hits supplies near Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/26633402.burst-water-main-disrupts-supplies-traffic-milngavie/",
-        "description": "Burst water main on Campsie Drive, Milngavie, disrupts supplies and causes traffic delays as Scottish Water works to restore services by 6.45pm today.",
-        "published": "Tue, 13 Oct 2026 16:14:35 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21108552/?type=app&htype=0"
-      },
-      {
-        "id": "abb3422711502c8c8044afc62b460bbb",
-        "title": "Epic BBC underwater experience with live orchestra is coming to Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/entertainment/tv_radio/26633375.blue-planet-iii-live-concert-coming-glasgow-2027/",
-        "description": "Blue Planet III Live in Concert arrives at Glasgow\u2019s OVO Hydro on May 23, 2027, with ocean footage, Hans Zimmer\u2019s score and a live orchestra performance.",
-        "published": "Tue, 13 Oct 2026 16:11:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21576008/?type=app&htype=0"
-      },
-      {
-        "id": "3f27a3888c9e1c2ff5a0337cf23bb763",
-        "title": "Irish republican march to take place on Glasgow streets this month",
-        "link": "https://www.glasgowtimes.co.uk/news/26633337.irish-republican-march-take-place-glasgow-month/",
-        "description": "Cairde na h\u00c9ireann will lead a march on October 24, with 150 people expected in the city.",
-        "published": "Tue, 13 Oct 2026 16:04:50 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21242645/?type=app&htype=0"
-      },
-      {
-        "id": "020bfa0a0c780ee8fe125cb278a2a1ed",
-        "title": "Avoid area warning in place from tomorrow as key Glasgow road to shut",
-        "link": "https://www.glasgowtimes.co.uk/news/26633225.maryhill-road-glasgow-close-resurfacing-work/",
-        "description": "A major road in Glasgow is set to close for resurfacing work.",
-        "published": "Tue, 13 Oct 2026 15:48:12 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20514097/?type=app&htype=0"
-      },
-      {
-        "id": "7de0383bcdd0ff7344756676715c8a40",
-        "title": "Business owner calls for BID directors to resign after heated meeting",
-        "link": "https://www.glasgowtimes.co.uk/news/26633151.kirkintilloch-bid-directors-face-calls-resign-meeting/",
-        "description": "Kirkintilloch BID directors are facing calls to resign after business owners raised concerns over finances, transparency and communication.",
-        "published": "Tue, 13 Oct 2026 15:37:25 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21407113/?type=app&htype=427"
-      },
-      {
-        "id": "9285114",
-        "title": "Star Bar: Pub known for serving one of Glasgow's best value lunches taken over by leisure group",
-        "link": "https://www.glasgowworld.com/news/g12-leisure-takes-over-glasgows-star-bar-pub-9285114",
-        "description": "<p>G12 Leisure, the group behind The Left Bank, has taken over the Star Bar pub in Glasgow</p>",
-        "published": "Tue, 13 Oct 2026 14:11:06 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/13/14/44/star-bar-night.jpeg?width=1200&auto=webp&trim=0%2C0%2C1%2C0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
