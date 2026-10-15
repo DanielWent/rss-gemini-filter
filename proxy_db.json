@@ -2741,6 +2741,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-veteran-backs-calls-ban-34763150",
+        "title": "Glasgow veteran backs calls for ban on delivery driver loophole after sex attack in her home",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-veteran-backs-calls-ban-34763150",
+        "description": "JJ* was told that her attacker had rented the account from another person \u2013 a 'grey area' of the law that allows anyone to turn up at doors with little checks in place.",
+        "published": "Thu, 15 Oct 2026 06:39:13 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34763182.ece/ALTERNATES/s98/0_JS235280365-1.jpg"
+      },
+      {
         "id": "697f9527bb4e168bc14b4d17d69b035d",
         "title": "Glasgow road forced to close entirely as fire breaks out at petrol station",
         "link": "https://www.glasgowtimes.co.uk/news/26638089.glasgow-petrol-station-fire-forces-road-close-entirely/",
@@ -2763,6 +2771,22 @@
         "description": "Scotland's McCloud pension scandal deepens as 37,832 retired public sector workers wait for remedy statements, with further delays for police and teachers.",
         "published": "Thu, 15 Oct 2026 06:30:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20126331/?type=app&htype=0"
+      },
+      {
+        "id": "08843c528cd212a0388d5b47db4df3ad",
+        "title": "Reform UK candidate resigns over claims of \u2018nepotism, cronyism and bullying\u2019",
+        "link": "https://www.heraldscotland.com/news/26637563.reform-uk-candidate-resigns-nepotism-cronyism-bullying/",
+        "description": "Former Reform UK candidate Paul Bennie resigns, accusing its Scottish leadership of \"nepotism, cronyism and bullying\" while questioning deputy leader Thomas Kerr\u2019s \"fitness for his role\".",
+        "published": "Thu, 15 Oct 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20688037/?type=app&htype=0"
+      },
+      {
+        "id": "039df5323e97c2234f4e1586e7bfeeea",
+        "title": "University bosses warned of serious reputational damage over 90 programme closures",
+        "link": "https://www.heraldscotland.com/news/26636618.edinburgh-university-closures-spark-warnings-reputational-damage/",
+        "description": "A motion submitted ahead of the next staff and student Senate meeting calls on university leadership to \"reconsider\" the decision to close 90 programmes.",
+        "published": "Thu, 15 Oct 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20897649/?type=app&htype=0"
       },
       {
         "id": "dc2a38465b69c8f0cf0ddbc08f8b43bb",
@@ -3515,30 +3539,6 @@
         "description": "<p>Liverpool legend concedes he would have benefited from more time in Scotland before moving to Aston Villa</p>",
         "published": "Tue, 13 Oct 2026 17:00:12 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/13/14/13/GettyImages-2270425107.jpeg?width=1200&auto=webp&trim=0%2C9%2C0%2C9"
-      },
-      {
-        "id": "9284197",
-        "title": "Celtic can't afford leave out star against Benfica if available as 'discipline' hypothetical answered",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-cant-afford-leave-out-star-against-benfica-as-discipline-hypothetical-answered-amid-speculation-9284197",
-        "description": "<p>Hoops face the Portuguese giants in the Europa League on Thursday night</p>",
-        "published": "Tue, 13 Oct 2026 17:00:06 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/13/11/50/GettyImages-2194705242.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "1480b909ab6523b63797fccb09c937ba",
-        "title": "John Cleese urges St Andrews students not to vote for Green MSP Q Manivannan",
-        "link": "https://www.heraldscotland.com/news/26633906.john-cleese-urges-students-not-back-q-manivannan/",
-        "description": "John Cleese urges University of St Andrews students not to elect Green MSP Q Manivannan as rector, citing comments about rape and its psychological effects.",
-        "published": "Tue, 13 Oct 2026 17:57:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/16436738/?type=app&htype=0"
-      },
-      {
-        "id": "1943f7b692400d4a07c58dda872c1fc0",
-        "title": "Final bell rings at school as pupils prepare to move to new site",
-        "link": "https://www.glasgowtimes.co.uk/news/26633537.north-lanarkshire-school-closes-new-plans-emerge-site/",
-        "description": "A primary school has closed its doors for the final time as pupils prepare to move to a new community hub.",
-        "published": "Tue, 13 Oct 2026 16:37:58 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21576260/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
