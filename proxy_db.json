@@ -2789,6 +2789,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "7aec143b1beb39c552278fe2fdf5d387",
+        "title": "New Glasgow tech hub to help visually impaired people use digital device",
+        "link": "https://www.glasgowtimes.co.uk/news/26640551.new-glasgow-tech-hub-support-people-sight-loss/",
+        "description": "RNIB Scotland launches a Tech Hub at Glasgow\u2019s Mitchell Library, offering digital support for blind and partially sighted people using devices and apps.",
+        "published": "Thu, 15 Oct 2026 15:05:02 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21586363/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=533484",
         "title": "Barack Obama leaves Glasgow after speaking at arena show",
         "link": "https://news.stv.tv/west-central/barack-obama-leaves-glasgow-after-speaking-at-arena-show",
@@ -2893,6 +2901,14 @@
         "image_url": "https://www.heraldscotland.com/resources/images/13109950/?type=app&htype=0"
       },
       {
+        "id": "6c010047ca90e2ccbac019fbfb09bd96",
+        "title": "Daughter\u2019s plea for legal justice after dad dies from asbestos cancer",
+        "link": "https://www.glasgowtimes.co.uk/news/26639908.daughters-plea-clydebank-dad-dies-asbestos-cancer/",
+        "description": "The daughter of a Clydebank dad who died from asbestos-related cancer pleads for his former colleagues to give information to secure legal justice.",
+        "published": "Thu, 15 Oct 2026 13:25:16 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21585136/?type=app&htype=0"
+      },
+      {
         "id": "7623e5a57db011f2578ee64b247ad412",
         "title": "Urgent search for missing 17-year-old boy last seen outside Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26639874.search-underway-missing-17-year-old-milngavie/",
@@ -2989,14 +3005,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17119543/?type=app&htype=0"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o#0",
-        "title": "Obama says drift towards extremism 'not inevitable'",
-        "link": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
-        "description": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing. .",
-        "published": "Thu, 15 Oct 2026 10:51:53 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baf4/live/d48f4dd0-c87b-11f1-bf46-d13a9e06695d.jpg"
-      },
-      {
         "id": "e792fe5d2944ae97c3b7fc1b6c497666",
         "title": "Police informed after incident shuts down health centre services",
         "link": "https://www.glasgowtimes.co.uk/news/26639309.cambuslang-gate-health-centre-services-shut-incident/",
@@ -3035,14 +3043,6 @@
         "description": "Shelter Scotland submit plans for Glasgow Queen Street shop after former unit destroyed in Union Street fire.",
         "published": "Thu, 15 Oct 2026 11:33:07 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21584617/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/staff-glasgow-childrens-houses-claim-34767804",
-        "title": "Staff at Glasgow children's houses claim hundreds of violent incidents in last five years",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/staff-glasgow-childrens-houses-claim-34767804",
-        "description": "Councillor Paul Carey BEM who worked in children\u2019s homes for a number of years says he knows just how \u201cchallenging and emotionally demanding\u201d the work can be and these figures are \u201cdeeply\u201d concerning.",
-        "published": "Thu, 15 Oct 2026 10:33:04 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article32749558.ece/ALTERNATES/s98/0_olderhouse1.jpg"
       },
       {
         "id": "f8dc8103db4a09f2947315101bb21512",
