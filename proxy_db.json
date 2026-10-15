@@ -2789,12 +2789,76 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=533484",
+        "title": "Barack Obama leaves Glasgow after speaking at arena show",
+        "link": "https://news.stv.tv/west-central/barack-obama-leaves-glasgow-after-speaking-at-arena-show",
+        "description": "The former US president waved to a small crowd as he departed his hotel in central Glasgow",
+        "published": "Thu, 15 Oct 2026 13:42:24 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/eb25f1caf95691dab218706adac359a7-1792071646-1119x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/first-look-inside-glasglows-zombie-34768927",
+        "title": "First look inside GlasGLOW's Zombie Zoo as iconic Halloween event returns",
+        "link": "https://www.glasgowlive.co.uk/whats-on/first-look-inside-glasglows-zombie-34768927",
+        "description": "Featuring an eight-metre dancing zombie god, live zombie encounters and a spectacular new Halloween adventure, this year's GlasGlow is set to be plenty of fun.",
+        "published": "Thu, 15 Oct 2026 13:33:41 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34768950.ece/ALTERNATES/s98/0_Screenshot-2026-10-15-at-123531PM.png"
+      },
+      {
+        "id": "b0495ec6bbe4a0f905ca7b6e7eebc59e",
+        "title": "Scottish actor joins cast of hit musical coming to Glasgow next month",
+        "link": "https://www.glasgowtimes.co.uk/news/26640300.scottish-actor-joins-cast-matilda-musical-coming-glasgow/",
+        "description": "Scotty Armstrong, originally from Aberdeen and now based in Glasgow, will join the Royal Shakespeare Company\u2019s touring production of Matilda The Musical.",
+        "published": "Thu, 15 Oct 2026 14:29:15 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21585970/?type=app&htype=0"
+      },
+      {
+        "id": "6a9e8a4c72e0785b0eeae648145f863c",
+        "title": "Glasgow 'Blue Plague' drug kingpin tagged after flouting super ASBO in Audi",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26640260.drug-kingpin-gary-jamieson-tagged-super-asbo-breach/",
+        "description": "Drug kingpin Gary Jamieson is tagged for three months after breaching a super ASBO by travelling in an Audi in Glasgow without notifying police officers.",
+        "published": "Thu, 15 Oct 2026 14:24:05 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21194148/?type=app&htype=0"
+      },
+      {
+        "id": "706cce65e8ef03c44f38fe663e33045c",
+        "title": "Three Scottish farms chosen to test climate-resilient farming methods",
+        "link": "https://www.heraldscotland.com/news/26640158.three-scottish-farms-chosen-climate-resilience-programme/",
+        "description": "Three Scottish farms join Loch Lomond &amp; The Trossachs\u2019 Resilient Farm Network, testing regenerative farming and climate resilience from 2026-2030.",
+        "published": "Thu, 15 Oct 2026 14:24:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21585812/?type=app&htype=0"
+      },
+      {
+        "id": "d09759a8fdd2b15ca95e0b4e8e28cf4f",
+        "title": "Nearly 1,000 hectares of peatland set for restoration across four local authorities",
+        "link": "https://www.heraldscotland.com/news/26640190.plans-restore-985-hectares-pentland-peatland/",
+        "description": "Project L plans to restore nearly 1,000 hectares of peatland across the Pentland Hills, spanning Edinburgh, Midlothian, West Lothian and Scottish Borders.",
+        "published": "Thu, 15 Oct 2026 14:22:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21585735/?type=app&htype=0"
+      },
+      {
+        "id": "4903323927ed50c3013cc6000cfbdb47",
+        "title": "Still Game pop-up to return as Glasgow shopping centre welcomes six new stores",
+        "link": "https://www.glasgowtimes.co.uk/news/26640216.six-new-stores-coming-glasgow-buchanan-galleries/",
+        "description": "Buchanan Galleries in Glasgow welcomes six new and returning retailers before Christmas, including the returning Still Game pop up.",
+        "published": "Thu, 15 Oct 2026 14:17:46 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19105439/?type=app&htype=0"
+      },
+      {
         "id": "1cbb20e6ce28158c64abdd82bd60fe2f",
         "title": "Exhibition celebrating artists with complex needs to open in Glasgow this month",
         "link": "https://www.glasgowtimes.co.uk/news/26640202.glasgow-exhibition-celebrates-artists-complex-needs/",
         "description": "Perceptions, a public showcase supported by Scottish disability charity Sense Scotland, will run in Glasgow from October 27 to 30",
         "published": "Thu, 15 Oct 2026 14:16:08 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21559765/?type=app&htype=0"
+      },
+      {
+        "id": "f835db802830a2cda72cc89089f2bccf",
+        "title": "Almost 500 violent incident injury claims made by Glasgow children's house staff",
+        "link": "https://www.heraldscotland.com/news/26640123.nearly-500-violent-claims-glasgow-childrens-homes/",
+        "description": "Almost 500 violent incident claims were made by staff in Glasgow children\u2019s houses. FOI figures show 98 cases between January and September 2026 alone.",
+        "published": "Thu, 15 Oct 2026 14:11:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19960370/?type=app&htype=0"
       },
       {
         "id": "53170604f5ac75f1b78b875a43abe1f4",
@@ -2819,6 +2883,14 @@
         "description": "A Glasgow binman battered a street nuisance with a hockey stick and ran over him with his car three months later.",
         "published": "Thu, 15 Oct 2026 13:40:47 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21334993/?type=app&htype=0"
+      },
+      {
+        "id": "7d94efc1eda4436acc0915dbdf18fd4f",
+        "title": "A737 closed and homes evacuated over gas leak incident",
+        "link": "https://www.heraldscotland.com/news/26639923.a737-closed-homes-evacuated-gas-leak-incident/",
+        "description": "The A737 has been closed to traffic due to a gas leak incident. Police said they received a report of a potential gas leak around 10.45am on Thursday, October 15.",
+        "published": "Thu, 15 Oct 2026 13:28:45 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/13109950/?type=app&htype=0"
       },
       {
         "id": "7623e5a57db011f2578ee64b247ad412",
@@ -3515,78 +3587,6 @@
         "description": "House of The Stolen Weavers opens at Glasgow\u2019s Tramway on November 20, exploring colonial trade, textile traditions and Scotland\u2019s links with South Asia.",
         "published": "Wed, 14 Oct 2026 11:13:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21578355/?type=app&htype=0"
-      },
-      {
-        "id": "7dd60397f94644a5e67a989c33bbc1a3",
-        "title": "Two Glasgow primary pupils win international titles at global maths competition",
-        "link": "https://www.glasgowtimes.co.uk/news/26635248.two-glasgow-pupils-win-top-international-maths-titles/",
-        "description": "Two young Glasgow pupils have been named international champions in a major maths competition.",
-        "published": "Wed, 14 Oct 2026 11:12:35 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21578401/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=533171",
-        "title": "Ex-Tory council leader Andrew Polson jailed for romance scam ordered to repay \u00a3197,000",
-        "link": "https://news.stv.tv/west-central/ex-tory-council-leader-andrew-polson-jailed-for-romance-scam-ordered-to-repay-197000",
-        "description": "Andrew Polson, 54, duped his partner into handing him the cash in a property scam",
-        "published": "Wed, 14 Oct 2026 09:56:11 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/ecc4e9724e4152bfbb8bea8df36f4571-1791971249.jpeg"
-      },
-      {
-        "id": "ebf79e0f367f0d696d609034c5edfe90",
-        "title": "Much-loved Glasgow pub to reopen after refurb that took months to complete",
-        "link": "https://www.glasgowtimes.co.uk/news/26635122.crookston-hotel-pub-reopen-months-long-refurb/",
-        "description": "The Crookston Hotel in Glasgow will reopen its refurbished bar on October 19 after closing in July, with a soft launch and formal event on October 25.",
-        "published": "Wed, 14 Oct 2026 10:55:16 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17002045/?type=app&htype=0"
-      },
-      {
-        "id": "ffa42ef3437044a601ae36a24b7b200f",
-        "title": "Defence firm in bid to convert Mossmorran site into weapons factory",
-        "link": "https://www.heraldscotland.com/news/26635097.defence-firm-submits-proposal-weapons-factory-mossmorran-site/",
-        "description": "A defence firm has submitted proposals to convert the former Mossmorran chemical plant into a factory producing weapons components.",
-        "published": "Wed, 14 Oct 2026 10:51:29 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20524520/?type=app&htype=0"
-      },
-      {
-        "id": "7c7211df8e95d5a02f633d2f3178a264",
-        "title": "Netflix offering Glasgow youngsters free workshops to break into film and TV industry",
-        "link": "https://www.glasgowtimes.co.uk/news/26634988.netflix-offering-free-film-tv-workshops-glasgow/",
-        "description": "Career workshops are set to offer young people in Glasgow a route into the film and TV industry.",
-        "published": "Wed, 14 Oct 2026 10:35:51 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20430970/?type=app&htype=0"
-      },
-      {
-        "id": "d722baef3e7a8b30e11e4b8fa9def65f",
-        "title": "Glasgow pensioners urged to check Pension Credit as thousands could be missed",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26634978.glasgow-pensioners-urged-check-pension-credit-eligibility/",
-        "description": "Glasgow pensioners urged to check Pension Credit eligibility as government campaign highlights support worth \u00a34,500 a year and help with household bills.",
-        "published": "Wed, 14 Oct 2026 10:34:22 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17824430/?type=app&htype=0"
-      },
-      {
-        "id": "3e18408111203ae0cc5cc7107c9b7043",
-        "title": "Former Glasgow DWP JobCentre being transformed into 49 new flats",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26634910.bridgeton-jobcentre-glasgow-transformed-49-flats/",
-        "description": "The conversion of the former DWP JobCentre in Muslin Street, Bridgeton, into 49 flats is underway.",
-        "published": "Wed, 14 Oct 2026 10:23:21 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21578881/?type=app&htype=0"
-      },
-      {
-        "id": "5492060",
-        "title": "Things to Do in Glasgow: 6 family friendly things to do with the kids this October holiday in Glasgow",
-        "link": "https://www.glasgowworld.com/whats-on/family-friendly-activities-glasgow-october-9286433",
-        "description": "<p>Looking for family friendly fun in Glasgow to keep the kids entertained his October?</p>",
-        "published": "Wed, 14 Oct 2026 09:14:01 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/04/04/12/20/480974375_1038177958345729_4931757074336382864_n.jpg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "13411ff16c41562a4735fc164571b857",
-        "title": "New passport rules implemented for all passengers at Glasgow Airport",
-        "link": "https://www.glasgowtimes.co.uk/news/26634827.glasgow-airport-rollout-new-egate-system-passports/",
-        "description": "Millions of passengers arriving at Glasgow Airport will use a new eGate system that doesn't require a passport.",
-        "published": "Wed, 14 Oct 2026 10:11:07 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21578077/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
