@@ -2805,6 +2805,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/family-missing-glasgow-teen-extremely-34776105",
+        "title": "Family of missing Glasgow teen 'extremely worried' as police continue frantic search",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/family-missing-glasgow-teen-extremely-34776105",
+        "description": "17-year-old Kristijonas Demcenko has been missing since Monday (October 12).",
+        "published": "Fri, 16 Oct 2026 14:12:22 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34769360.ece/ALTERNATES/s98/1_Misper17.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-bottled-outside-glasgow-homeless-34775952",
+        "title": "Man 'bottled' outside Glasgow homeless shelter and rushed to hospital",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-bottled-outside-glasgow-homeless-34775952",
+        "description": "Emergency crews raced to the scene and the man was taken to hospital in an ambulance.",
+        "published": "Fri, 16 Oct 2026 14:10:19 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34776064.ece/ALTERNATES/s98/2_bottled3.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/brother-teen-17-who-died-34775964",
+        "title": "Brother of teen, 17, who died on Glasgow street issues heartbreaking tribute",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/brother-teen-17-who-died-34775964",
+        "description": "Jack Mellon, 17, died following an alleged disturbance in the Ashgill Road area of Milton.",
+        "published": "Fri, 16 Oct 2026 14:07:03 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34775962.ece/ALTERNATES/s98/0_mellon1.jpg"
+      },
+      {
         "id": "d7b1322503b41e2c1b88fc17acb3d35d",
         "title": "Glasgow councillors raise fresh concerns over safety of women and girls",
         "link": "https://www.glasgowtimes.co.uk/news/26644168.glasgow-labour-councillors-raised-concerns-womens-safety/",
@@ -3579,22 +3603,6 @@
         "description": "Bus operator announces new route linking Glasgow with other Scottish cities and Airport.",
         "published": "Thu, 15 Oct 2026 11:15:17 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21584041/?type=app&htype=0"
-      },
-      {
-        "id": "b015c34cf9de8dfc686dd19be8d9859e",
-        "title": "'Significant step forward': New Lochaber Hospital moves to next stage of planning",
-        "link": "https://www.heraldscotland.com/news/26639076.new-lochaber-hospital-moves-next-stage-planning/",
-        "description": "Plans for the new Lochaber Hospital in Fort William have moved forward after the Scottish Government approved the project's outline business case.",
-        "published": "Thu, 15 Oct 2026 11:12:28 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20596789/?type=app&htype=0"
-      },
-      {
-        "id": "27f2a3f787e7f87966047474665b581e",
-        "title": "Campaigners raise alarm over plans they say threaten Green Belt land",
-        "link": "https://www.glasgowtimes.co.uk/news/26639045.campaigners-oppose-east-dunbartonshire-plans-environmental-fears/",
-        "description": "Community groups are calling for a planning application to be refused due to concerns about environmental impact and Green Belt protection.",
-        "published": "Thu, 15 Oct 2026 11:07:45 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21584167/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
