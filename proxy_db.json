@@ -2789,6 +2789,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "1c56722e9dde0f1dd134f05497a102d3",
+        "title": "Could you get \u00a3150 off your energy bills? Letters landing across Scotland",
+        "link": "https://www.glasgowtimes.co.uk/news/26640831.345-000-scottish-households-get-150-energy-discount/",
+        "description": "Households are being urged to keep an eye on their post as thousands across Scotland receive confirmation of a \u00a3150 energy bill discount this winter.",
+        "published": "Fri, 16 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20228206/?type=app&htype=0"
+      },
+      {
+        "id": "e1057af7a1b8069baaefbc69901e406f",
+        "title": "Why Glasgow tenement owners face rising repair bills and insurance issues",
+        "link": "https://www.glasgowtimes.co.uk/news/26640413.glasgow-homeowners-face-soaring-repair-bills-ageing-buildings/",
+        "description": "Glasgow homeowners are facing a \"perfect storm\" of hidden building defects, worsening weather damage and insurance claim rejections, a masonry expert has warned",
+        "published": "Fri, 16 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19922673/?type=app&htype=0"
+      },
+      {
         "id": "14785885421d47f74acce0536448dd66",
         "title": "Scottish Government to abandon 12-week orthopaedic target, leaked NHS plan reveals",
         "link": "https://www.heraldscotland.com/news/26641661.leaked-plan-reveals-huge-shake-up-scottish-orthopaedics/",
@@ -3571,22 +3587,6 @@
         "description": "The Apparel Exchange is squirrelled away in the city centre, but not too far from Central Station and offers thousands of pieces of second-hand kids clothing and footwear.",
         "published": "Wed, 14 Oct 2026 16:40:07 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34765538.ece/ALTERNATES/s98/0_Screenshot-2026-10-14-at-52553PM.png"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mp-calls-andy-burnhams-34764974",
-        "title": "Glasgow MP calls for Andy Burnham's help over city centre 'violence, drug dealing and exploitation'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mp-calls-andy-burnhams-34764974",
-        "description": "&quot;We must have an honest discussion about the city's pressures, including addiction, deprivation, immigration, and community cohesion.&quot;",
-        "published": "Wed, 14 Oct 2026 15:58:49 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34386719.ece/ALTERNATES/s98/2_JS413391857.jpg"
-      },
-      {
-        "id": "921d01144d545cd9c7a3367f9853141c",
-        "title": "Work begins on facility to arm future multi-billion-pound nuclear submarines",
-        "link": "https://www.heraldscotland.com/news/26637101.work-begins-coulport-building-dreadnought-submarines/",
-        "description": "Work began October 5 at RNAD Coulport on a Vertical Embarkation System to arm Royal Navy Dreadnought submarines and handle Spearfish torpedoes at HMNB Clyde.",
-        "published": "Wed, 14 Oct 2026 16:51:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/17328115/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
