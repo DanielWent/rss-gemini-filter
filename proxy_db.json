@@ -2805,6 +2805,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "d7b1322503b41e2c1b88fc17acb3d35d",
+        "title": "Glasgow councillors raise fresh concerns over safety of women and girls",
+        "link": "https://www.glasgowtimes.co.uk/news/26644168.glasgow-labour-councillors-raised-concerns-womens-safety/",
+        "description": "Glasgow Labour councillors seek action on women\u2019s safety, CCTV and policing amid concerns over trafficking, exploitation and drug activity in city hotspots.",
+        "published": "Fri, 16 Oct 2026 14:40:43 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19347166/?type=app&htype=0"
+      },
+      {
         "id": "65c169b93ee28d50002c8707b71d0a2f",
         "title": "Major update issued on proposal to rename Glasgow Airport",
         "link": "https://www.glasgowtimes.co.uk/news/26644164.glasgow-airport-brand-stay-bosses-reject-renaming-proposal/",
@@ -2827,14 +2835,6 @@
         "description": "Reform are an \u201cawful bunch of people\u201d a Scottish Government minister has said.",
         "published": "Fri, 16 Oct 2026 14:25:31 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20971839/?type=app&htype=0"
-      },
-      {
-        "id": "a187aab1be05355deafbdf46d6cf96fb",
-        "title": "400 new homes could be built on site of controversially demolished Glasgow block",
-        "link": "https://www.glasgowtimes.co.uk/news/26644016.new-homes-set-controversially-demolished-glasgow-block/",
-        "description": "Plans for 400 affordable homes at Glasgow\u2019s Wyndford estate are recommended for approval, following high-rise demolitions and residents\u2019 objections.",
-        "published": "Fri, 16 Oct 2026 14:18:39 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21591536/?type=app&htype=0"
       },
       {
         "id": "0b503e55e3e51c10861d1075720cff3f",
@@ -2883,14 +2883,6 @@
         "description": "A new junction on the A7 between Hawick and Selkirk has been completed to provide access to the planned Center Parcs Scottish Borders holiday village.",
         "published": "Fri, 16 Oct 2026 13:20:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21591018/?type=app&htype=0"
-      },
-      {
-        "id": "a8dda8a344304c5dd9710a1df6a940ba",
-        "title": "Man faces jail after \u00a32.6m cocaine and heroin haul found among Christmas gifts",
-        "link": "https://www.heraldscotland.com/news/26643675.man-pleads-guilty-2-6m-cocaine-heroin-haul/",
-        "description": "A man was caught in a \u00a32.6m class A drugs bust just days before Christmas",
-        "published": "Fri, 16 Oct 2026 13:13:17 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/15944916/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=533472",
