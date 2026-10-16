@@ -2805,6 +2805,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "65c169b93ee28d50002c8707b71d0a2f",
+        "title": "Major update issued on proposal to rename Glasgow Airport",
+        "link": "https://www.glasgowtimes.co.uk/news/26644164.glasgow-airport-brand-stay-bosses-reject-renaming-proposal/",
+        "description": "Glasgow Airport bosses have set out why they have \u201cno plans\u201d to change its name after the subject was recently debated by councillors.",
+        "published": "Fri, 16 Oct 2026 14:40:22 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18326424/?type=app&htype=0"
+      },
+      {
+        "id": "a3479394145df2c4676b9291ab9f709d",
+        "title": "Major demolition progresses as shopping centre comes down near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26644147.east-kilbride-shopping-centre-demolition-way/",
+        "description": "New pictures show the scale of demolition work at Centre West as a major transformation of East Kilbride town centre moves forward.",
+        "published": "Fri, 16 Oct 2026 14:38:05 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21591523/?type=app&htype=462"
+      },
+      {
+        "id": "30350d96803ea41b15553b07ba1a5a37",
+        "title": "'Awful bunch of people' Minister takes aim at opponents at SNP conference",
+        "link": "https://www.glasgowtimes.co.uk/news/26644065.reform-branded-awful-bunch-people-snp-minister/",
+        "description": "Reform are an \u201cawful bunch of people\u201d a Scottish Government minister has said.",
+        "published": "Fri, 16 Oct 2026 14:25:31 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20971839/?type=app&htype=0"
+      },
+      {
+        "id": "a187aab1be05355deafbdf46d6cf96fb",
+        "title": "400 new homes could be built on site of controversially demolished Glasgow block",
+        "link": "https://www.glasgowtimes.co.uk/news/26644016.new-homes-set-controversially-demolished-glasgow-block/",
+        "description": "Plans for 400 affordable homes at Glasgow\u2019s Wyndford estate are recommended for approval, following high-rise demolitions and residents\u2019 objections.",
+        "published": "Fri, 16 Oct 2026 14:18:39 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21591536/?type=app&htype=0"
+      },
+      {
         "id": "0b503e55e3e51c10861d1075720cff3f",
         "title": "Burnham offers Scotland 'deeper devolution' and declines to rule out indyref2",
         "link": "https://www.heraldscotland.com/news/26643874.burnham-declines-rule-new-independence-referendum/",
@@ -3571,22 +3603,6 @@
         "description": "Community groups are calling for a planning application to be refused due to concerns about environmental impact and Green Belt protection.",
         "published": "Thu, 15 Oct 2026 11:07:45 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21584167/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-sexually-assaulted-woman-glasgow-34767212",
-        "title": "Man sexually assaulted by woman on Glasgow train as police probe incident",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-sexually-assaulted-woman-glasgow-34767212",
-        "description": "The incident happened just before 9.30pm on a train between Dalmuir and Larkhall",
-        "published": "Thu, 15 Oct 2026 09:37:35 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34527069.ece/ALTERNATES/s98/2_JS379497539-9.jpg"
-      },
-      {
-        "id": "512f4e00e68eb8d5ddecc0329e4fc701",
-        "title": "Glasgow conference to explore controversial legacy of Scottish literary giant",
-        "link": "https://www.glasgowtimes.co.uk/news/26638635.glasgow-conference-examine-hugh-macdiarmids-legacy/",
-        "description": "A major cultural conference is set to take place in Glasgow this month to examine the legacy of a literary giant.",
-        "published": "Thu, 15 Oct 2026 10:03:59 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17169233/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
