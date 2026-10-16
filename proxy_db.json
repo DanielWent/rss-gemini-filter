@@ -2821,6 +2821,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/hidden-cafe-just-named-glasgows-34775184",
+        "title": "The hidden cafe just named Glasgow's best at top Scottish awards",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/hidden-cafe-just-named-glasgows-34775184",
+        "description": "If you fancy the very best bakes in the city, then it looks like you should be heading to the southside.",
+        "published": "Fri, 16 Oct 2026 15:42:04 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34775211.ece/ALTERNATES/s98/0_Screenshot-2026-10-16-at-10546PM.png"
+      },
+      {
+        "id": "https://www.bbc.co.uk/sport/football/articles/cqev30d0dngno#0",
+        "title": "'A bit early' for Rangers to put pressure on Celtic & Hearts - McInnes",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cqev30d0dngno?at_medium=RSS&at_campaign=rss",
+        "description": "Derek McInnes dismissed the idea that Rangers could put pressure on Celtic and Hearts with a win against Dundee on Saturday evening.",
+        "published": "Fri, 16 Oct 2026 15:32:27 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/168e/live/c3624c90-c972-11f1-80fc-ab418b149008.jpg"
+      },
+      {
+        "id": "4568b0015fd06e4828e99ce7395837e9",
+        "title": "Drivers warned of SIX months of delays as major bridge works begin",
+        "link": "https://www.glasgowtimes.co.uk/news/26644980.a725-roadworks-bellshill-last-six-months/",
+        "description": "Drivers are being warned of significant delays as six months of major bridge maintenance works get underway on the A725 at Bellshill.",
+        "published": "Fri, 16 Oct 2026 16:31:51 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21593006/?type=app&htype=126"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c60rlv5729ylo#0",
+        "title": "Care home could close unless 'significant improvement' occurs",
+        "link": "https://www.bbc.co.uk/news/articles/c60rlv5729ylo?at_medium=RSS&at_campaign=rss",
+        "description": "Shalom Nursing Home in Irvine has been issued with an improvement notice by the Care Inspectorate.",
+        "published": "Fri, 16 Oct 2026 15:29:54 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b3a/live/4a133c80-c974-11f1-80fc-ab418b149008.png"
+      },
+      {
+        "id": "https://news.stv.tv/?p=533667",
+        "title": "Four men face trial over Rome B&B explosion that killed Scots tourist",
+        "link": "https://news.stv.tv/west-central/four-men-face-trial-over-rome-bb-explosion-that-killed-scots-tourist",
+        "description": "Grant Paterson was visiting the Italian capital when the blast tore through his accommodation",
+        "published": "Fri, 16 Oct 2026 15:28:50 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2025/04/bad7f8b402efd99f727c58dad173150c-1743609020.jpeg"
+      },
+      {
         "id": "https://news.stv.tv/?p=533673",
         "title": "Batman director Matt Reeves delivers update after Glasgow transformed into Gotham",
         "link": "https://news.stv.tv/west-central/batman-director-matt-reeves-delivers-update-after-glasgow-transformed-into-gotham",
@@ -2861,6 +2901,14 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/03975bc1c1343941418c123dec63e0b3-1792160092-1280x720.jpeg"
       },
       {
+        "id": "41ae6a8b9f664fbe3fb98940af1ad999",
+        "title": "Glasgow City Council spent \u00a342.5m on taxis and private hire vehicles in five years",
+        "link": "https://www.heraldscotland.com/news/26644450.glasgow-council-spent-42-5m-taxis-five-years/",
+        "description": "Glasgow City Council spent \u00a342.5m on taxis and private hire vehicles in five years, including \u00a338.1m on education transport, an FOI reveals.",
+        "published": "Fri, 16 Oct 2026 15:25:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21202193/?type=app&htype=0"
+      },
+      {
         "id": "e6bfe81125a65d8d4edcb912d245f5f5",
         "title": "Glasgow office block set to be transformed into 81 student flats with cinema and gym",
         "link": "https://www.glasgowtimes.co.uk/news/26644406.glasgow-city-council-approved-plans-convert-offices/",
@@ -2883,6 +2931,22 @@
         "description": "Emergency crews raced to the scene and the man was taken to hospital in an ambulance.",
         "published": "Fri, 16 Oct 2026 14:10:19 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34776064.ece/ALTERNATES/s98/2_bottled3.png"
+      },
+      {
+        "id": "0c0641348390310f19b6ee357e4f72fb",
+        "title": "Sir Alex Ferguson would make 'effective' mayor of Aberdeen says PM",
+        "link": "https://www.heraldscotland.com/news/26644381.fergie-time-burnhams-pitch-united-hero-manage-city/",
+        "description": "Andy Burnham invoked Sir Alex Ferguson's name during a Motherwell speech on deepening Scottish devolution, but stopped short of calling for elected mayors \u2014 as Glasgow's \u00a37.3bn productivity gap sharpens the debate.",
+        "published": "Fri, 16 Oct 2026 15:09:58 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20868627/?type=app&htype=0"
+      },
+      {
+        "id": "50315553e57d9344c569ed738a7feeb6",
+        "title": "Anti-Zionist Jewish student group backs proposal to drop antisemitism definition",
+        "link": "https://www.heraldscotland.com/news/26644236.jewish-group-urges-edinburgh-university-drop-ihra-definition/",
+        "description": "On Friday, the university\u2019s Kehillah society released a statement saying that the removal of the definition was a \u201ccore aim\u201d of the group.",
+        "published": "Fri, 16 Oct 2026 15:08:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21551426/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/brother-teen-17-who-died-34775964",
@@ -2917,6 +2981,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21591949/?type=app&htype=0"
       },
       {
+        "id": "32e98d8aa30eac1256f483aceea2dc92",
+        "title": "Review: These Are Our Neighbours brings Kenmure Street protest to life five years on",
+        "link": "https://www.heraldscotland.com/life_style/26644272.review-neighbours-citizens-theatre-glasgow/",
+        "description": "New RUPTURE Theatre play dramatises the 2021 Kenmure Street protest, when Glasgow residents rallied to stop Home Office officials removing two men.",
+        "published": "Fri, 16 Oct 2026 14:56:42 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21591872/?type=app&htype=0"
+      },
+      {
         "id": "571eb6cf10b809ac2e633462bd922751",
         "title": "Glasgow City Council spent more than \u00a342.5m on taxis in last five years",
         "link": "https://www.glasgowtimes.co.uk/news/26644270.glasgow-council-spent-42-5m-taxis-past-five-years/",
@@ -2939,6 +3011,14 @@
         "description": "Michelle McManus will perform with a full band for the first time in her career at Glasgow's Pavilion Theatre.",
         "published": "Fri, 16 Oct 2026 14:50:35 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20606637/?type=app&htype=0"
+      },
+      {
+        "id": "b5240ad4b5cdc3d70ba289e2bd6fea4d",
+        "title": "Celebration of culture, colour and community coming to town hall next month",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26644216.rutherglen-mela-celebrate-culture-colour-community/",
+        "description": "A celebration of culture, colour and community is coming to Rutherglen next month.",
+        "published": "Fri, 16 Oct 2026 14:49:22 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21144871/?type=app&htype=0"
       },
       {
         "id": "d7b1322503b41e2c1b88fc17acb3d35d",
@@ -3269,14 +3349,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21133207/?type=app&htype=0"
       },
       {
-        "id": "70199734fd2096ebd06d12f1dba7053c",
-        "title": "Andy Burnham to offer John Swinney deal to 'hand more power to Scotland's regions'",
-        "link": "https://www.heraldscotland.com/politics/westminster/26641553.burnham-offers-deal-power-scotland-not-stop-holyrood/",
-        "description": "Andy Burnham is set to offer John Swinney a deal to empower Scotland\u2019s regions, shifting power from Westminster and Holyrood to boost jobs and growth.",
-        "published": "Thu, 15 Oct 2026 22:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21587851/?type=app&htype=0"
-      },
-      {
         "id": "https://news.stv.tv/?p=533551",
         "title": "Plans to build 400 homes on Glasgow\u2019s\u00a0Wyndford estate set to be approved",
         "link": "https://news.stv.tv/west-central/plans-to-build-400-homes-on-glasgows-wyndford-estate-set-to-be-approved",
@@ -3547,78 +3619,6 @@
         "description": "The daughter of a Clydebank dad who died from asbestos-related cancer pleads for his former colleagues to give information to secure legal justice.",
         "published": "Thu, 15 Oct 2026 13:25:16 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21585136/?type=app&htype=0"
-      },
-      {
-        "id": "7623e5a57db011f2578ee64b247ad412",
-        "title": "Urgent search for missing 17-year-old boy last seen outside Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26639874.search-underway-missing-17-year-old-milngavie/",
-        "description": "Police Scotland appeals for help to find missing 17-year-old Kristijonas Demcenko, last seen in Milngavie, Glasgow, on October 12, 2026. Call 101.",
-        "published": "Thu, 15 Oct 2026 13:18:29 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21585247/?type=app&htype=0"
-      },
-      {
-        "id": "fce86419eed195368a3259006e131739",
-        "title": "Scottish social historian to launch new history of British working class in Edinburgh",
-        "link": "https://www.heraldscotland.com/news/26639695.scottish-historian-launch-new-history-working-class-edinburgh/",
-        "description": "An Injury to All, described as \u201cthe definitive history of British post war working-class life\u201d, will be released at an event run by Argonaut Books.",
-        "published": "Thu, 15 Oct 2026 13:07:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21358255/?type=app&htype=0"
-      },
-      {
-        "id": "7db9c840a1093c1b1ecebf0f7ebdc036",
-        "title": "Glasgow drivers warned of delays as emergency works hits busy road for days",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26639773.glasgow-shawfield-drive-delays-due-emergency-scottish-water-works/",
-        "description": "Glasgow drivers face delays as Scottish Water carries out emergency repairs at Shawfield Drive and Shawfield Road, with temporary lights until October 21.",
-        "published": "Thu, 15 Oct 2026 13:00:52 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21475912/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=533444",
-        "title": "Man charged for murder bid on Steven Daniel jailed for slashing stranger",
-        "link": "https://news.stv.tv/west-central/man-charged-for-murder-bid-on-steven-daniel-jailed-for-slashing-stranger",
-        "description": "Robert Bennett scarred the victim for life after the attack in Glasgow's Possilpark",
-        "published": "Thu, 15 Oct 2026 11:46:55 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2023/05/d170e81d0e58dcd0c17a1e144b2c6953-1683727170-1120x720.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-mum-says-mental-health-34768228",
-        "title": "Lanarkshire mum says mental health services failed kids after death of dad",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-mum-says-mental-health-34768228",
-        "description": "Karen McKeown says Luke Henderson died after reaching out to healthcare professionals for assistance on eight separate occasions in December 2017.",
-        "published": "Thu, 15 Oct 2026 11:43:56 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34768225.ece/ALTERNATES/s98/0_14-10-26_Court_12JPG.jpg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=533409",
-        "title": "All four unions at Glasgow Caledonian University walk out on \u2018historic\u2019 strike",
-        "link": "https://news.stv.tv/west-central/all-four-unions-at-glasgow-caledonian-university-walk-out-on-historic-strike",
-        "description": "Around 50 staff walked out at Glasgow Caledonian University on Thursday",
-        "published": "Thu, 15 Oct 2026 11:39:24 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/2b0ab7ddcfc2d311a9d8185760cd5530-1792058575-957x720.jpeg"
-      },
-      {
-        "id": "9e430827558c1939f28ad537d3e9a5f2",
-        "title": "Police officer found guilty of rape in Shetland",
-        "link": "https://www.heraldscotland.com/news/26639654.police-officer-found-guilty-rape-shetland/",
-        "description": "A serving officer has been convicted of numerous sexual offences at the High Court in Edinburgh.",
-        "published": "Thu, 15 Oct 2026 12:39:07 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21585049/?type=app&htype=0"
-      },
-      {
-        "id": "cc91fc1fea766fd03c2e5877c889a0e1",
-        "title": "Number of Scots getting weight-loss jabs on NHS revealed amid Mounjaro boom",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26639644.just-705-scots-given-mounjaro-wegovy-weight-loss-jabs-nhs/",
-        "description": "Fewer than 800 people in Scotland received NHS weight-loss injections by September 2026, as Mounjaro and Wegovy remain limited to pilot schemes.",
-        "published": "Thu, 15 Oct 2026 12:36:51 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21584968/?type=app&htype=0"
-      },
-      {
-        "id": "989a3fcfcdc727c4208c161b8c78d635",
-        "title": "Glasgow refuse vehicles transformed to spread message of Hate Crime Awareness Week",
-        "link": "https://www.glasgowtimes.co.uk/news/26639568.glasgow-refuse-vehicles-raising-awareness-hate-crime/",
-        "description": "Glasgow City Council turns refuse vehicles into mobile billboards promoting inclusion and raising awareness of hate crime.",
-        "published": "Thu, 15 Oct 2026 12:24:01 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21584840/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
