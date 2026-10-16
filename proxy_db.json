@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1792148814512763",
+        "title": "Minister warns people to save water amid drought",
+        "link": "https://www.bbc.co.uk/news/articles/cq0ld4g0309go?at_medium=RSS&at_campaign=rss",
+        "description": "Severe drought was declared across parts of southern England after months of low rainfall.",
+        "published": "Fri, 16 Oct 2026 13:15:00 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ff1/live/8afea9d0-c953-11f1-9a39-31b474234113.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cq0ld4g0309go#1",
         "title": "Action needed to save water, minister urges",
         "link": "https://www.bbc.co.uk/news/articles/cq0ld4g0309go?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "More than 1,300 people have died and thousands are missing, but rescuers' hopes have risen after finding survivors in a tunnel.",
         "published": "Fri, 04 Sep 2026 14:30:56 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c65/live/034c61b0-a830-11f1-b808-43cdd10f38ce.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o#0",
-        "title": "Stock up on food to prepare for extreme weather, minister warns",
-        "link": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
-        "description": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
-        "published": "Fri, 04 Sep 2026 10:40:23 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa83/live/066833c0-a848-11f1-b3a7-d5de760fef6e.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2805,6 +2805,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "dae5081e97042df227cc59f181fdf3c1",
+        "title": "Plans approved for major new road serving future hospital",
+        "link": "https://www.glasgowtimes.co.uk/news/26643453.new-monklands-hospital-access-road-plans-approved-airdrie/",
+        "description": "Plans for a new access road serving the future University Hospital Monklands have taken a major step forward after planning permission and funding were confirmed.",
+        "published": "Fri, 16 Oct 2026 12:32:53 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21590521/?type=app&htype=29"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/visitor-centre-plans-house-built-34774509",
+        "title": "Visitor centre plans for house built by Glasgow's most famous architect kept in chain mail box",
+        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/visitor-centre-plans-house-built-34774509",
+        "description": "Hill House in Helensburgh is an architectural marvel, built in 1902, which mixed Charles Rennie Mackintosh's designs with Margaret's artworks to create a stunning family home.",
+        "published": "Fri, 16 Oct 2026 11:32:01 +0000",
+        "image_url": "https://i2-prod.edinburghlive.co.uk/incoming/article34774500.ece/ALTERNATES/s98/3_JS184425480.jpg"
+      },
+      {
+        "id": "4acec501fb9b423c4711cc7236568f76",
+        "title": "Airdrie hospital access road secures planning approval and funding",
+        "link": "https://www.heraldscotland.com/news/26643247.airdrie-hospital-link-road-approved-ahead-2028-start/",
+        "description": "The \u00a32.3km Towers Road Link in Airdrie has secured planning approval and Scottish Government funding to support access to the new University Hospital Monklands.",
+        "published": "Fri, 16 Oct 2026 12:02:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21590523/?type=app&htype=0"
+      },
+      {
         "id": "106edc8fa9d1736a2d08e4309a46928d",
         "title": "'Very worrying' MSP speaks after death of 17 year-old in Milton",
         "link": "https://www.glasgowtimes.co.uk/news/26643220.msp-speaks-jack-mellons-death-treated-murder/",
@@ -3579,30 +3603,6 @@
         "description": "Glasgow gangland figure Paul Ferris died aged 62 from multiple organ failure caused by decompensated alcoholic liver disease, death certificate confirms.",
         "published": "Thu, 15 Oct 2026 10:00:42 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/8432961/?type=app&htype=0"
-      },
-      {
-        "id": "1c53b0937590d164f15a1714fd7f2c09",
-        "title": "Herald Business LIVE: Today's top stories - October 15",
-        "link": "https://www.heraldscotland.com/news/26637776.herald-business-live-todays-top-stories---october-15/",
-        "description": "Welcome to The Herald's Business live blog, where we\u2019ll be bringing you the latest developments from across Scotland\u2019s business industry.",
-        "published": "Thu, 15 Oct 2026 10:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21394794/?type=app&htype=0"
-      },
-      {
-        "id": "d195bd19373a9374f57ce63425fd25ed",
-        "title": "Glasgow college hails 'exceptional results' as pass rate hits record high",
-        "link": "https://www.glasgowtimes.co.uk/news/26638416.glasgow-college-achieved-highest-ever-student-pass-rate/",
-        "description": "Glasgow Clyde College achieved a pass rate of 77.1% in the 2025/26 academic year, marking the highest in the college\u2019s history.",
-        "published": "Thu, 15 Oct 2026 09:26:09 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21583157/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/death-glasgow-barlinnie-prisoner-probed-34766753",
-        "title": "Death of Glasgow Barlinnie prisoner to be probed next month",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/death-glasgow-barlinnie-prisoner-probed-34766753",
-        "description": "Marc Boyle died on May 19, 2024, while housed within the High Dependency Unit of the Glasgow prison.",
-        "published": "Thu, 15 Oct 2026 07:54:10 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33631721.ece/ALTERNATES/s98/2_JS388388447.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
