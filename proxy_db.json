@@ -2805,6 +2805,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "0b503e55e3e51c10861d1075720cff3f",
+        "title": "Burnham offers Scotland 'deeper devolution' and declines to rule out indyref2",
+        "link": "https://www.heraldscotland.com/news/26643874.burnham-declines-rule-new-independence-referendum/",
+        "description": "Andy Burnham made a \"deeper devolution\" pitch to John Swinney in Motherwell, offering DWP and employment powers to Scotland \u2014 but his refusal to explicitly rule out a second independence referendum was described as \"a significant moment\" by Stephen Flynn.",
+        "published": "Fri, 16 Oct 2026 13:54:44 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21591290/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/questions-raised-over-future-womens-34775234",
         "title": "Questions raised over future of women's safety in Glasgow",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/questions-raised-over-future-womens-34775234",
@@ -2835,6 +2843,22 @@
         "description": "A Glasgow man was caught in a \u00a32.6million class A drugs bust just days before Christmas.",
         "published": "Fri, 16 Oct 2026 13:24:32 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/18875177/?type=app&htype=0"
+      },
+      {
+        "id": "60411f03530d90907afafba0f09c484e",
+        "title": "Center Parcs Scottish Borders reaches milestone as A7 junction opens",
+        "link": "https://www.heraldscotland.com/news/26643628.a7-junction-completed-new-center-parcs-borders-village/",
+        "description": "A new junction on the A7 between Hawick and Selkirk has been completed to provide access to the planned Center Parcs Scottish Borders holiday village.",
+        "published": "Fri, 16 Oct 2026 13:20:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21591018/?type=app&htype=0"
+      },
+      {
+        "id": "a8dda8a344304c5dd9710a1df6a940ba",
+        "title": "Man faces jail after \u00a32.6m cocaine and heroin haul found among Christmas gifts",
+        "link": "https://www.heraldscotland.com/news/26643675.man-pleads-guilty-2-6m-cocaine-heroin-haul/",
+        "description": "A man was caught in a \u00a32.6m class A drugs bust just days before Christmas",
+        "published": "Fri, 16 Oct 2026 13:13:17 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/15944916/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=533472",
@@ -2891,14 +2915,6 @@
         "description": "<p>Glaswegians have named Great Western Road as one of their top streets in 2026, praising its vibrant mix of bars, restaurants and unique neighbourhood spots.</p>",
         "published": "Fri, 16 Oct 2026 10:24:38 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2024/07/24/12/22/301518772_1904988599699071_6181411695247215379_n.jpg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "e7df2714bf12b30430fe8e04ef952ef7",
-        "title": "Major Glasgow road to close for 10 days as drivers face delays",
-        "link": "https://www.glasgowtimes.co.uk/news/26642974.battlefield-road-glasgow-close-10-days-essential-works/",
-        "description": "A main road in Glasgow will be closing later this month for essential upgrade works.",
-        "published": "Fri, 16 Oct 2026 11:21:35 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19036953/?type=app&htype=0"
       },
       {
         "id": "5b9db0e0580c6693a961a0b4792de08e",
