@@ -2789,6 +2789,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "5a703c774edddd21103f683fc6a76c51",
+        "title": "Before Scotland redraws its councils, ministers must prove the benefits",
+        "link": "https://www.heraldscotland.com/opinion/26639329.scottish-council-reform-needs-stronger-business-case/",
+        "description": "A major overhaul of Scottish local government could bring years of disruption. The case for reform needs to be tested far more rigorously before lines are redrawn",
+        "published": "Fri, 16 Oct 2026 04:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21586228/?type=app&htype=0"
+      },
+      {
         "id": "5a8afa514815a0e626b494a43669e40f",
         "title": "Aberdeen researchers launch two-year study into male breast cancer",
         "link": "https://www.heraldscotland.com/news/26639893.aberdeen-study-aims-improve-treatment-male-breast-cancer/",
@@ -3579,14 +3587,6 @@
         "description": "Lomond Mountain Rescue Team was deployed to meet the walkers on Ben Venue.",
         "published": "Wed, 14 Oct 2026 15:41:16 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/23cd18f91c2236b669d7ed0fe89c6488-1791990796-960x720.jpg"
-      },
-      {
-        "id": "739fc24585d77ffad7b15ba054f3e624",
-        "title": "Glasgow residents warned of water disruption after burst main hits busy area",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26637443.glasgow-residents-warned-disruption-burst-main/",
-        "description": "Glasgow residents in G69 face water supply disruption as Scottish Water repairs a burst main on October 14, with service and pressure returning gradually.",
-        "published": "Wed, 14 Oct 2026 16:40:58 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21108552/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
