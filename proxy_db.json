@@ -2789,6 +2789,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=533392",
+        "title": "Boy, six, \u2018fascinated by science\u2019 becomes first child to tour Glasgow hospital lab",
+        "link": "https://news.stv.tv/west-central/boy-six-fascinated-by-science-becomes-first-child-to-tour-glasgow-hospital-lab",
+        "description": "Matthew, who attends the children's hospital,  got a behind-the-scenes look behind laboratory doors with biomedical scientists",
+        "published": "Fri, 16 Oct 2026 05:57:02 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/a9773a8fd48bda514203d90a91ec0b5b-1792057229-1280x720.jpeg"
+      },
+      {
         "id": "1c56722e9dde0f1dd134f05497a102d3",
         "title": "Could you get \u00a3150 off your energy bills? Letters landing across Scotland",
         "link": "https://www.glasgowtimes.co.uk/news/26640831.345-000-scottish-households-get-150-energy-discount/",
@@ -3579,14 +3587,6 @@
         "description": "Fans described &quot;mad&quot; scenes as fireworks &quot;kept getting closer to the pitch&quot; until the referee was forced to stop the game.",
         "published": "Wed, 14 Oct 2026 17:47:11 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34765753.ece/ALTERNATES/s98/0_fireworks.png"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/hidden-clothing-shop-thousands-secondhand-34765512",
-        "title": "The hidden clothing shop with thousands of secondhand kids clothes ideal for families looking for a bargain",
-        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/hidden-clothing-shop-thousands-secondhand-34765512",
-        "description": "The Apparel Exchange is squirrelled away in the city centre, but not too far from Central Station and offers thousands of pieces of second-hand kids clothing and footwear.",
-        "published": "Wed, 14 Oct 2026 16:40:07 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34765538.ece/ALTERNATES/s98/0_Screenshot-2026-10-14-at-52553PM.png"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
