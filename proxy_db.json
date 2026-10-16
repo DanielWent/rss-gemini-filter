@@ -2805,6 +2805,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=533472",
+        "title": "Youths who launched fireworks onto Clydebank pitch a \u2018blight on football\u2019 says club",
+        "link": "https://news.stv.tv/west-central/youths-who-launched-fireworks-onto-clydebank-pitch-a-blight-on-football-says-club",
+        "description": "Police confirmed there were no injuries or damage reported, but enquiries are ongoing to trace the youths involved.",
+        "published": "Fri, 16 Oct 2026 12:02:44 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/c110ba5fbb1cc66cf7eddb3b85419696-1792151476-1200x720.jpeg"
+      },
+      {
         "id": "dae5081e97042df227cc59f181fdf3c1",
         "title": "Plans approved for major new road serving future hospital",
         "link": "https://www.glasgowtimes.co.uk/news/26643453.new-monklands-hospital-access-road-plans-approved-airdrie/",
@@ -3595,14 +3603,6 @@
         "description": "A major cultural conference is set to take place in Glasgow this month to examine the legacy of a literary giant.",
         "published": "Thu, 15 Oct 2026 10:03:59 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17169233/?type=app&htype=0"
-      },
-      {
-        "id": "f404afabc4c7794c7d02226322ee4e62",
-        "title": "Paul Ferris' cause of death revealed after Glasgow gangster dies aged 62",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26638608.glasgow-gangster-paul-ferris-cause-death-revealed/",
-        "description": "Glasgow gangland figure Paul Ferris died aged 62 from multiple organ failure caused by decompensated alcoholic liver disease, death certificate confirms.",
-        "published": "Thu, 15 Oct 2026 10:00:42 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/8432961/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
