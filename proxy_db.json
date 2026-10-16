@@ -2829,6 +2829,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21593951/?type=app&htype=0"
       },
       {
+        "id": "8db9562d9e20626888bdec67e7a23b7e",
+        "title": "Exhibition celebrating work of Agatha Christie coming to Glasgow library",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26645443.agatha-christie-exhibition-coming-mitchell-library/",
+        "description": "An exhibition celebrating the life and work of Agatha Christie is coming to Glasgow's Mitchell Library.",
+        "published": "Fri, 16 Oct 2026 18:23:14 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20609384/?type=app&htype=0"
+      },
+      {
         "id": "9292843",
         "title": "Rangers' injury list grows by one as Derek McInnes outlines January transfer window expectations amid crisis",
         "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-injury-list-adds-by-one-as-derek-mcinnes-tells-supporters-what-to-expect-in-january-transfer-window-9292843",
@@ -2853,12 +2861,20 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34775962.ece/ALTERNATES/s98/0_mellon1.jpg"
       },
       {
-        "id": "https://news.stv.tv/?p=533726",
-        "title": "Man in court accused of murder after teenager \u2018repeatedly stabbed\u2019 in Glasgow",
-        "link": "https://news.stv.tv/west-central/man-in-court-accused-of-murder-after-teenager-repeatedly-stabbed-in-glasgow",
-        "description": "Jack Dragsnes appeared in court on Friday in connection with 17-year-old Jack Mellon's death",
-        "published": "Fri, 16 Oct 2026 16:40:10 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/de1a580eb6b6879bfb8705007bb161eb-1792132239-1280x720.jpeg"
+        "id": "d63d4fd86eb398f4e87bc199e3de70c7",
+        "title": "Diver exclusion zone imposed off Lewis as two fishermen remain missing",
+        "link": "https://www.heraldscotland.com/news/26645384.exclusion-zone-imposed-search-missing-lewis-fishermen/",
+        "description": "Police Scotland searches continue for two men missing after fishing boat FV Kilda went missing off Lewis. MAIB imposes diver exclusion zone near Port of Ness.",
+        "published": "Fri, 16 Oct 2026 17:54:03 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21586930/?type=app&htype=0"
+      },
+      {
+        "id": "21ecf4b0103808c74c8f624219f99188",
+        "title": "Funding nearly doubled to help refugee doctors return to work in Scotland's NHS",
+        "link": "https://www.heraldscotland.com/news/26645250.scottish-funding-nearly-doubles-refugee-doctors-scheme/",
+        "description": "Scottish Government nearly doubles funding for Bridges Programmes\u2019 Refugee Doctors Programme, helping refugee doctors gain GMC registration and join NHS Scotland.",
+        "published": "Fri, 16 Oct 2026 17:40:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21030065/?type=app&htype=342"
       },
       {
         "id": "fed280eebd2f68a26a3d42e592a75d99",
@@ -2869,20 +2885,20 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17824287/?type=app&htype=0"
       },
       {
+        "id": "2dd3a5ad07e05ec34d591858cb4aa52b",
+        "title": "Man appears in court accused of murdering 17-year-old in Glasgow",
+        "link": "https://www.heraldscotland.com/news/26645249.man-appears-court-accused-murdering-jack-mellon-glasgow/",
+        "description": "Jack Dragsnes, 22, appears at Glasgow Sheriff Court accused of murdering 17-year-old Jack Mellon in Milton on October 14, and attempting to pervert justice.",
+        "published": "Fri, 16 Oct 2026 17:26:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21588629/?type=app&htype=0"
+      },
+      {
         "id": "29d167ea799743a90fc6bccf375dee17",
         "title": "MP demands urgent firework action as Glasgow disorder sparks fears",
         "link": "https://www.glasgowtimes.co.uk/news/26645232.mp-demands-action-fireworks-amid-rising-glasgow-disorder/",
         "description": "Glasgow MP Patricia Ferguson has urged urgent fireworks law reform as residents warn antisocial behaviour is \u201cout of hand\u201d.",
         "published": "Fri, 16 Oct 2026 17:17:45 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20476949/?type=app&htype=0"
-      },
-      {
-        "id": "598f1bf76781adcff38bd8ab5e557b05",
-        "title": "Man appears in court accused of murdering 17-year-old in Milton",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26645183.man-appears-court-accused-murdering-jack-mellon-glasgow/",
-        "description": "A man appeared in court on Friday accused of murdering 17-year-old Jack Mellon in Glasgow.",
-        "published": "Fri, 16 Oct 2026 17:06:24 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21588629/?type=app&htype=0"
       },
       {
         "id": "80ad60cb5e391ffd8c2595e3c616d41b",
@@ -2923,14 +2939,6 @@
         "description": "It appears that most voters know very little about our political leaders and care even less about their policies. A huge gulf has opened up when it comes to the public and politicians, writes Neil Mackay.",
         "published": "Fri, 16 Oct 2026 16:40:39 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21593091/?type=app&htype=0"
-      },
-      {
-        "id": "d2a3aacef3ecb100a51d5ea193d14d5f",
-        "title": "Ashgill Road reopens after 'murder' of teen, 17, in Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26644996.ashgill-road-reopens-alleged-murder-glasgow-teen/",
-        "description": "A road has reopened following the alleged murder of a teenager in Glasgow on Wednesday.",
-        "published": "Fri, 16 Oct 2026 16:35:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21585283/?type=app&htype=0"
       },
       {
         "id": "https://www.bbc.co.uk/sport/football/articles/cqev30d0dngno#0",
@@ -3125,22 +3133,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21591111/?type=app&htype=8"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/council-spends-millions-pounds-taxi-34775001",
-        "title": "Council spends millions of pounds on taxi and private hire fares, new figures reveal",
-        "link": "https://www.glasgowlive.co.uk/news/council-spends-millions-pounds-taxi-34775001",
-        "description": "The FOI demonstrates that a total of \u00a338.1 million has been spent on taxis and private hire fares in education services over the past five years.",
-        "published": "Fri, 16 Oct 2026 12:26:07 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33058601.ece/ALTERNATES/s98/0_TXE-street.png"
-      },
-      {
-        "id": "ee549374ab5d7f2bd9be694892c36723",
-        "title": "Man caught in \u00a32.6m class A drugs bust days before Christmas",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26643725.glasgow-man-caught-2-6m-cocaine-heroin-bust/",
-        "description": "A Glasgow man was caught in a \u00a32.6million class A drugs bust just days before Christmas.",
-        "published": "Fri, 16 Oct 2026 13:24:32 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18875177/?type=app&htype=0"
-      },
-      {
         "id": "60411f03530d90907afafba0f09c484e",
         "title": "Center Parcs Scottish Borders reaches milestone as A7 junction opens",
         "link": "https://www.heraldscotland.com/news/26643628.a7-junction-completed-new-center-parcs-borders-village/",
@@ -3275,14 +3267,6 @@
         "description": "Temporary traffic lights will operate at a Glasgow city-centre junction for one week from October 20.",
         "published": "Fri, 16 Oct 2026 09:06:45 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/16783333/?type=app&htype=0"
-      },
-      {
-        "id": "9291167",
-        "title": "Glasgow councillor raises concerns over lack of family discount membership options at Glasgow Club",
-        "link": "https://www.glasgowworld.com/news/glasgow-councillor-glasgow-club-membership-prices-9291167",
-        "description": "<p>Councillor Paul Carey is asking Glasgow Life to consider introducing a family membership option at the Glasgow Club</p>",
-        "published": "Fri, 16 Oct 2026 07:40:52 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/16/7/56/624534127_1298169162340892_9029241356466107662_n.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       },
       {
         "id": "18ba8297d12b639a643646d305e67bcd",
