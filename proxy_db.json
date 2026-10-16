@@ -2805,6 +2805,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/questions-raised-over-future-womens-34775234",
+        "title": "Questions raised over future of women's safety in Glasgow",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/questions-raised-over-future-womens-34775234",
+        "description": "Members of the Labour group took part in a late night walk of the city centre last month to see the challenges that police officers and members of the public face, particularly at the weekend.",
+        "published": "Fri, 16 Oct 2026 12:53:20 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/article34608644.ece/ALTERNATES/s98/1_Glasgow-Labour-councillors-before-the-night-time-patrol.png"
+      },
+      {
+        "id": "b8a56da3971a83c30e49627b5fb0d55b",
+        "title": "Council addresses BID concerns after board falls below minimum",
+        "link": "https://www.glasgowtimes.co.uk/news/26643755.kirkintilloch-bid-governance-concerns-addressed-council/",
+        "description": "East Dunbartonshire Council confirms Kirkintilloch BID\u2019s board is below six directors, amid business concerns over governance, finances and transparency.",
+        "published": "Fri, 16 Oct 2026 13:31:56 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21591111/?type=app&htype=8"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/council-spends-millions-pounds-taxi-34775001",
+        "title": "Council spends millions of pounds on taxi and private hire fares, new figures reveal",
+        "link": "https://www.glasgowlive.co.uk/news/council-spends-millions-pounds-taxi-34775001",
+        "description": "The FOI demonstrates that a total of \u00a338.1 million has been spent on taxis and private hire fares in education services over the past five years.",
+        "published": "Fri, 16 Oct 2026 12:26:07 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33058601.ece/ALTERNATES/s98/0_TXE-street.png"
+      },
+      {
+        "id": "ee549374ab5d7f2bd9be694892c36723",
+        "title": "Man caught in \u00a32.6m class A drugs bust days before Christmas",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26643725.glasgow-man-caught-2-6m-cocaine-heroin-bust/",
+        "description": "A Glasgow man was caught in a \u00a32.6million class A drugs bust just days before Christmas.",
+        "published": "Fri, 16 Oct 2026 13:24:32 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18875177/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=533472",
         "title": "Youths who launched fireworks onto Clydebank pitch a \u2018blight on football\u2019 says club",
         "link": "https://news.stv.tv/west-central/youths-who-launched-fireworks-onto-clydebank-pitch-a-blight-on-football-says-club",
@@ -2829,12 +2861,12 @@
         "image_url": "https://i2-prod.edinburghlive.co.uk/incoming/article34774500.ece/ALTERNATES/s98/3_JS184425480.jpg"
       },
       {
-        "id": "4acec501fb9b423c4711cc7236568f76",
-        "title": "Airdrie hospital access road secures planning approval and funding",
-        "link": "https://www.heraldscotland.com/news/26643247.airdrie-hospital-link-road-approved-ahead-2028-start/",
-        "description": "The \u00a32.3km Towers Road Link in Airdrie has secured planning approval and Scottish Government funding to support access to the new University Hospital Monklands.",
-        "published": "Fri, 16 Oct 2026 12:02:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21590523/?type=app&htype=0"
+        "id": "02830b9b096011b46da77906cd8620db",
+        "title": "Glasgow motorists face disruption for 11 days as Duke Street shuts for works",
+        "link": "https://www.glasgowtimes.co.uk/news/26643427.duke-street-glasgow-close-resurfacing-works/",
+        "description": "Drivers in Glasgow should prepare for significant disruptions as Duke Street is set to close for essential resurfacing works.",
+        "published": "Fri, 16 Oct 2026 12:28:15 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21475912/?type=app&htype=0"
       },
       {
         "id": "106edc8fa9d1736a2d08e4309a46928d",
@@ -2867,14 +2899,6 @@
         "description": "A main road in Glasgow will be closing later this month for essential upgrade works.",
         "published": "Fri, 16 Oct 2026 11:21:35 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19036953/?type=app&htype=0"
-      },
-      {
-        "id": "bb6571b4df37c2d60f202055cd3b3856",
-        "title": "New visitor centre planned for Charles Rennie Mackintosh\u2019s Hill House in Helensburgh",
-        "link": "https://www.heraldscotland.com/news/26642963.new-visitor-centre-planned-mackintoshs-hill-house/",
-        "description": "he National Trust for Scotland plans a new visitor centre at Charles Rennie Mackintosh\u2019s Hill House in Helensburgh as part of a \u00a320m conservation project.",
-        "published": "Fri, 16 Oct 2026 11:20:15 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21008947/?type=app&htype=0"
       },
       {
         "id": "5b9db0e0580c6693a961a0b4792de08e",
@@ -2933,14 +2957,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21589438/?type=app&htype=0"
       },
       {
-        "id": "https://news.stv.tv/?p=533579",
-        "title": "Rapist police officer\u00a0Campbell Petrie who preyed on sleeping colleague jailed",
-        "link": "https://news.stv.tv/west-central/rapist-police-officer-campbell-petrie-who-preyed-on-sleeping-colleague-jailed",
-        "description": "Campbell Petrie was initially arrested in 2009 over allegations of threatening behaviour, but the case was dropped and he was promoted to sergeant",
-        "published": "Fri, 16 Oct 2026 09:23:05 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/4099dfaa41027e72688bacdefb2096b0-1792138620.jpg"
-      },
-      {
         "id": "f6265257c23e8c19d135d9a8c4e9b643",
         "title": "Lulu has announced a three-date UK tour including a Glasgow homecoming show",
         "link": "https://www.glasgowtimes.co.uk/news/26642341.lulu-announced-2027-uk-tour-glasgow-homecoming-included/",
@@ -2971,14 +2987,6 @@
         "description": "Scottish singer announces her biggest headline tour, including Glasgow\u2019s Barrowland Ballroom in 2027 following the release of new album Too Late For Tears.",
         "published": "Fri, 16 Oct 2026 08:33:08 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19032953/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/murder-probe-police-name-teen-34772650",
-        "title": "Murder probe as police name teen who died in 'disturbance' on Glasgow street",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/murder-probe-police-name-teen-34772650",
-        "description": "Officers say that death is now being treated as a 'murder' following a post-mortem examination.",
-        "published": "Fri, 16 Oct 2026 07:23:45 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34772653.ece/ALTERNATES/s98/0_f38e574f-a2e8-4425-8cd6-4f66320e9e77.jpg"
       },
       {
         "id": "9291101",
@@ -3077,14 +3085,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21133207/?type=app&htype=0"
       },
       {
-        "id": "5bbf3b32b59807e5193d5d8573ce02e7",
-        "title": "MPs back island tunnels and bridges as answer to 'unreliable' ferry crisis",
-        "link": "https://www.heraldscotland.com/news/26641507.bridges-tunnels-transform-scotlands-islands/",
-        "description": "Westminster MPs say bridges and tunnels could transform Scotland\u2019s islands, while urging urgent ferry upgrades and UK Government support for Shetland and Western Isles.",
-        "published": "Fri, 16 Oct 2026 00:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19629833/?type=app&htype=0"
-      },
-      {
         "id": "70199734fd2096ebd06d12f1dba7053c",
         "title": "Andy Burnham to offer John Swinney deal to 'hand more power to Scotland's regions'",
         "link": "https://www.heraldscotland.com/politics/westminster/26641553.burnham-offers-deal-power-scotland-not-stop-holyrood/",
@@ -3141,28 +3141,12 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/15/15/47/GettyImages-2298972779.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       },
       {
-        "id": "8438daa66f7e68f31882e4b7e5414f8c",
-        "title": "Rare Charles Rennie Mackintosh piece sells for \u00a3609,850 at auction",
-        "link": "https://www.heraldscotland.com/news/26640705.mackintosh-lantern-sells-609-850-auction-edinburgh/",
-        "description": "Rare Charles Rennie Mackintosh lantern sells for \u00a3609,850 at Lyon &amp; Turnbull auction in Edinburgh, more than 20 times its estimate, alongside Mackintosh works.",
-        "published": "Thu, 15 Oct 2026 17:19:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21587420/?type=app&htype=0"
-      },
-      {
         "id": "9290300",
         "title": "Celtic flop claims Parkhead chiefs cost him World Cup dream as he reveals Rangers reality and eyes \u00a320m payday",
         "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-flop-parkhead-chiefs-world-cup-dream-rangers-reality-ps20m-payday-9290300",
         "description": "<p>Winger lifts lid on his Parkhead struggles and explains why Gent move could be a win-win for all parties</p>",
         "published": "Thu, 15 Oct 2026 16:00:18 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/15/15/17/GettyImages-2294582953.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=533490",
-        "title": "Ongoing water supply issues highlight inadequacies at Scotland\u2019s largest prison HMP Barlinnie, say inspectors",
-        "link": "https://news.stv.tv/west-central/ongoing-water-supply-issues-highlight-inadequacies-at-scotlands-largest-prison-hmp-barlinnie-say-inspectors",
-        "description": "Scotland's largest prison continues to face ongoing water disruption following an outage last week",
-        "published": "Thu, 15 Oct 2026 15:50:22 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2021/10/63bf41f392fa83b29059a2aa32a23123-41.jpg"
       },
       {
         "id": "d316dcc0813f8bcd336d1228c0cd9ec2",
@@ -3259,22 +3243,6 @@
         "description": "Former Rockstar Games employees held a rally outside Glasgow Tribunals Centre today.",
         "published": "Thu, 15 Oct 2026 14:54:32 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21586367/?type=app&htype=0"
-      },
-      {
-        "id": "669497e13df7ffe49b09960c9006566b",
-        "title": "MSP wants action to deal with masked 'Temu Tommy Robinsons' on Glasgow streets",
-        "link": "https://www.glasgowtimes.co.uk/news/26640476.call-deal-masked-temu-tommy-robinsons-streets/",
-        "description": "Action on face masks and e bikes is needed now to tackle rising concerns over anti-social behaviour and crime, a Glasgow MSP has said.",
-        "published": "Thu, 15 Oct 2026 14:53:18 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21586501/?type=app&htype=0"
-      },
-      {
-        "id": "5f495258e038f8f5711fd4e4ebfeacab",
-        "title": "First look inside the stunning new venue set to transform Glasgow dining",
-        "link": "https://www.glasgowtimes.co.uk/news/26640436.first-look-inside-new-ivy-restaurants-opening-glasgow/",
-        "description": "The Ivy has unveiled a first look inside its stunning new Glasgow home ahead of next week's grand opening.",
-        "published": "Thu, 15 Oct 2026 14:47:46 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21586309/?type=app&htype=0"
       },
       {
         "id": "0a65997ffc6f5c73e9795425e4f1f774",
