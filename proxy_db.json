@@ -2066,6 +2066,22 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "781f44726ec3d82bcbe899a1b4fa7b78",
+        "title": "Plans revealed for new detached homes beside primary school outside Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26644303.four-detached-homes-planned-beside-lennoxtown-primary-school/",
+        "description": "Fresh plans have been lodged for four detached homes on a former derelict site beside Lennoxtown Primary School.",
+        "published": "Fri, 16 Oct 2026 15:01:29 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21591974/?type=app&htype=0"
+      },
+      {
+        "id": "3fbe521e7df62ca57a74aa9406ab4f99",
+        "title": "Family 'extremely worried' for missing 17-year-old boy who missed Glasgow appointment",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26644247.missing-milngavie-teen-kristijonas-demcenko-sparks-growing-concern/",
+        "description": "Police Scotland urges Milngavie residents to check CCTV, doorbells and sheds as search continues for missing 17-year-old Kristijonas Demcenko, last seen October 12.",
+        "published": "Fri, 16 Oct 2026 14:53:10 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21585247/?type=app&htype=0"
+      },
+      {
         "id": "7623e5a57db011f2578ee64b247ad412",
         "title": "Urgent search for missing 17-year-old boy last seen outside Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26639874.search-underway-missing-17-year-old-milngavie/",
@@ -2805,6 +2821,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/clydebank-fc-condemns-young-team-34776383",
+        "title": "Clydebank FC condemns \u2018young team\u2019 who set off fireworks that landed on pitch during game",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/clydebank-fc-condemns-young-team-34776383",
+        "description": "&quot;Their behaviour has nothing to do with football, and those wishing to act this way are simply not welcome at Clydebank FC. &quot;",
+        "published": "Fri, 16 Oct 2026 14:53:52 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34765748.ece/ALTERNATES/s98/1_Clydebank-FC.png"
+      },
+      {
+        "id": "https://news.stv.tv/?p=533685",
+        "title": "Glasgow\u2019s biggest Halloween event returns with immersive \u2018zombie zoo\u2019",
+        "link": "https://news.stv.tv/west-central/glasgows-biggest-halloween-event-returns-with-immersive-zombie-zoo",
+        "description": "The event will feature the 'world\u2019s first ever zombie containment and conservation facility'",
+        "published": "Fri, 16 Oct 2026 14:42:11 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/03975bc1c1343941418c123dec63e0b3-1792160092-1280x720.jpeg"
+      },
+      {
+        "id": "e6bfe81125a65d8d4edcb912d245f5f5",
+        "title": "Glasgow office block set to be transformed into 81 student flats with cinema and gym",
+        "link": "https://www.glasgowtimes.co.uk/news/26644406.glasgow-city-council-approved-plans-convert-offices/",
+        "description": "Glasgow City Council approved plans for offices near Charing Cross to be turned into student accommodation after",
+        "published": "Fri, 16 Oct 2026 15:14:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20481517/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/family-missing-glasgow-teen-extremely-34776105",
         "title": "Family of missing Glasgow teen 'extremely worried' as police continue frantic search",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/family-missing-glasgow-teen-extremely-34776105",
@@ -2827,6 +2867,54 @@
         "description": "Jack Mellon, 17, died following an alleged disturbance in the Ashgill Road area of Milton.",
         "published": "Fri, 16 Oct 2026 14:07:03 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34775962.ece/ALTERNATES/s98/0_mellon1.jpg"
+      },
+      {
+        "id": "ad88c96d941c31301b324abd1db1ab3c",
+        "title": "Glasgow families face huge annual gym bill as councillor calls for change",
+        "link": "https://www.glasgowtimes.co.uk/news/26644347.glasgow-club-urged-introduce-cheaper-family-memberships/",
+        "description": "Concerns over the lack of family discount membership options at the Glasgow Club has been raised by a local councillor.",
+        "published": "Fri, 16 Oct 2026 15:05:50 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20983961/?type=app&htype=0"
+      },
+      {
+        "id": "781f44726ec3d82bcbe899a1b4fa7b78",
+        "title": "Plans revealed for new detached homes beside primary school outside Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26644303.four-detached-homes-planned-beside-lennoxtown-primary-school/",
+        "description": "Fresh plans have been lodged for four detached homes on a former derelict site beside Lennoxtown Primary School.",
+        "published": "Fri, 16 Oct 2026 15:01:29 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21591974/?type=app&htype=0"
+      },
+      {
+        "id": "0b3278dba0580e43323a2d1839a34a3b",
+        "title": "Years of waiting end in disappointment as Cumbernauld opening fails to happen",
+        "link": "https://www.glasgowtimes.co.uk/news/26644277.tony-macaroni-cumbernauld-opening-fails-years-delays/",
+        "description": "A long-delayed restaurant launch has ended in disappointment after years of anticipation.",
+        "published": "Fri, 16 Oct 2026 14:57:27 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21591949/?type=app&htype=0"
+      },
+      {
+        "id": "571eb6cf10b809ac2e633462bd922751",
+        "title": "Glasgow City Council spent more than \u00a342.5m on taxis in last five years",
+        "link": "https://www.glasgowtimes.co.uk/news/26644270.glasgow-council-spent-42-5m-taxis-past-five-years/",
+        "description": "FOI figures show Glasgow City Council spent \u00a342.5m on taxis and private hire vehicles over five years, including \u00a338.1m on education services.",
+        "published": "Fri, 16 Oct 2026 14:56:18 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/9648251/?type=app&htype=0"
+      },
+      {
+        "id": "3fbe521e7df62ca57a74aa9406ab4f99",
+        "title": "Family 'extremely worried' for missing 17-year-old boy who missed Glasgow appointment",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26644247.missing-milngavie-teen-kristijonas-demcenko-sparks-growing-concern/",
+        "description": "Police Scotland urges Milngavie residents to check CCTV, doorbells and sheds as search continues for missing 17-year-old Kristijonas Demcenko, last seen October 12.",
+        "published": "Fri, 16 Oct 2026 14:53:10 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21585247/?type=app&htype=0"
+      },
+      {
+        "id": "fad95d8f95bc6c40693102029f9f0da6",
+        "title": "Glasgow favourite Michelle McManus returns to stage for one-night show",
+        "link": "https://www.glasgowtimes.co.uk/news/26644228.michelle-mcmanus-announces-first-full-band-glasgow-concert/",
+        "description": "Michelle McManus will perform with a full band for the first time in her career at Glasgow's Pavilion Theatre.",
+        "published": "Fri, 16 Oct 2026 14:50:35 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20606637/?type=app&htype=0"
       },
       {
         "id": "d7b1322503b41e2c1b88fc17acb3d35d",
@@ -3531,78 +3619,6 @@
         "description": "Cambuslang Gate Health Centre suspends Treatment Room services after an incident, with urgent patients redirected to Rutherglen Health Centre. Police informed.",
         "published": "Thu, 15 Oct 2026 11:49:02 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/14129133/?type=app&htype=0"
-      },
-      {
-        "id": "9025e742418d6d4da3247d1262455a70",
-        "title": "Nearly half of Scotland\u2019s flowering plants in decline as new strategy launched",
-        "link": "https://www.heraldscotland.com/news/26639302.scotland-launches-strategy-tackle-plant-biodiversity-loss/",
-        "description": "NatureScot and the Royal Botanic Garden Edinburgh have launched a strategy to reverse plant losses, with 47% of flowering species in decline.",
-        "published": "Thu, 15 Oct 2026 11:48:32 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21584432/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=533432",
-        "title": "Rangers fan jumped railing and challenged Celtic supporters to fight at Old Firm",
-        "link": "https://news.stv.tv/west-central/rangers-fan-jumped-railing-and-challenged-celtic-supporters-to-fight-at-old-firm",
-        "description": "Wilson Martin, 60, was identified as one of the fans involved in disorder following the match on March 8",
-        "published": "Thu, 15 Oct 2026 10:48:28 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/03/093a6ac10a751f7110da28897f3f85a9-1772997000.jpeg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/fresh-plea-sale-public-fireworks-34767881",
-        "title": "Fresh plea for sale of public fireworks to have 'tighter regulation' issued by Glasgow councillor",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/fresh-plea-sale-public-fireworks-34767881",
-        "description": "Councillor Paul Carey BEM believes that without organised firework displays there is a risk of increased anti-social behaviour, noise and distress as well as an impact on animals.",
-        "published": "Thu, 15 Oct 2026 10:34:33 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34759859.ece/ALTERNATES/s98/4_GettyImages-752173349.jpg"
-      },
-      {
-        "id": "c545595815549c265206f4c0f285d1ed",
-        "title": "Bid lodged for new Glasgow shop after Union Street inferno destroyed former unit",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26639197.shelter-scotland-submit-plans-glasgow-queen-street-shop/",
-        "description": "Shelter Scotland submit plans for Glasgow Queen Street shop after former unit destroyed in Union Street fire.",
-        "published": "Thu, 15 Oct 2026 11:33:07 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21584617/?type=app&htype=0"
-      },
-      {
-        "id": "f8dc8103db4a09f2947315101bb21512",
-        "title": "LIVE updates as train commuters face disruption amid ongoing issue",
-        "link": "https://www.glasgowtimes.co.uk/news/26639196.live-updates-amid-knightswood-tunnel-fault/",
-        "description": "Glasgow commuters are facing disruption and delays this morning.",
-        "published": "Thu, 15 Oct 2026 11:32:34 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19783747/?type=app&htype=0"
-      },
-      {
-        "id": "4f9d4693724635a974f6c8b65342b41c",
-        "title": "'A significant moment for Edinburgh': Capital to host G20 finance meeting next summer",
-        "link": "https://www.heraldscotland.com/news/26639089.edinburgh-host-g20-finance-ministers-next-summer/",
-        "description": "Finance ministers and central bank governors will meet at the Edinburgh International Conference Centre on July 8 and 9.",
-        "published": "Thu, 15 Oct 2026 11:28:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21491005/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/little-spider-man-fans-can-34767917",
-        "title": "Little Spider-Man fans can meet their hero at Glasgow's Riverside Museum",
-        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/little-spider-man-fans-can-34767917",
-        "description": "With Spider-Man filming taking over Glasgow recently, the webbed crusader will be making an appearance in person for fans to grab a photo or two.",
-        "published": "Thu, 15 Oct 2026 10:25:27 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34767862.ece/ALTERNATES/s98/1_Screenshot-2026-10-15-at-110809AM.png"
-      },
-      {
-        "id": "9289163",
-        "title": "'I thought my symptoms were menopause but it was deadly blood cancer': Balloch mum welcomes new research",
-        "link": "https://www.glasgowworld.com/news/glasgow-mum-welcomes-new-research-into-deadly-blood-cancer-treatments-9289163",
-        "description": "<p>Caroline Sweeney, a 55-year-old Balloch woman, welcomed new research into more effective treatments for acute myeloid leukaemia (AML) after being diagnosed with the deadly blood cancer in 2022.</p>",
-        "published": "Thu, 15 Oct 2026 10:15:54 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/15/10/42/Untitled-design-(98).png?width=1200&auto=webp&trim=0%2C10%2C0%2C10"
-      },
-      {
-        "id": "bcc811cf962e0be90925431227c4a68d",
-        "title": "Bus service announces major new Glasgow bus route starting this month",
-        "link": "https://www.glasgowtimes.co.uk/news/26639094.new-citylink-route-links-aberdeen-glasgow-edinburgh-airport/",
-        "description": "Bus operator announces new route linking Glasgow with other Scottish cities and Airport.",
-        "published": "Thu, 15 Oct 2026 11:15:17 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21584041/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
