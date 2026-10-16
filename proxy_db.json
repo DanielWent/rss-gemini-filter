@@ -2805,6 +2805,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "4fc78dfae8e6379d1f48f5f3f18b53fd",
+        "title": "'Affordable' festive pantomime featuring River City star heading to Maryhill",
+        "link": "https://www.glasgowtimes.co.uk/news/26642799.community-pantomime-coming-maryhill-december/",
+        "description": "Halo Arts, a Glasgow-based community arts organisation, has announced its 2026 pantomime.",
+        "published": "Fri, 16 Oct 2026 10:59:42 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20324189/?type=app&htype=0"
+      },
+      {
+        "id": "e6fd2c2c78f47b33eaa8c764b3d6b53a",
+        "title": "Person rushed to hospital after incident on Glasgow residential street",
+        "link": "https://www.glasgowtimes.co.uk/news/26642669.person-hospitalised-incident-quiet-cadder-street/",
+        "description": "One person was taken to Glasgow Royal Infirmary after an incident in Glasgow, prompting a Scottish Ambulance Service response on October 15.",
+        "published": "Fri, 16 Oct 2026 10:42:23 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17603485/?type=app&htype=0"
+      },
+      {
         "id": "eec77c83882c14c19027dbe4d4804e9a",
         "title": "Glasgow cathedral to host silent horror classic with live organ music this October",
         "link": "https://www.glasgowtimes.co.uk/news/26642634.glasgow-cathedral-host-silent-horror-film-screening/",
@@ -3587,22 +3603,6 @@
         "description": "Barack Obama sings praises of Scottish band at Glasgow\u2019s OVO Hydro, recalling seeing them open for Earth, Wind &amp; Fire at his first concert.",
         "published": "Thu, 15 Oct 2026 07:18:36 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21583035/?type=app&htype=0"
-      },
-      {
-        "id": "9d8ca75d4b0b316542f6eb20d418e20e",
-        "title": "Concern popular city play park gifted by Perth, Australia will be lost forever",
-        "link": "https://www.heraldscotland.com/news/26638093.concern-city-play-park-gifted-perth-australia-will-lost-forever/",
-        "description": "There is a concern a popular Fair City play park gifted by Perth, Australia will be lost forever and developed over.",
-        "published": "Thu, 15 Oct 2026 07:03:28 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21582824/?type=app&htype=0"
-      },
-      {
-        "id": "c5bb1ed327ab83b8b3f2b0650175440c",
-        "title": "Revealed: Audit Scotland warned ethical standards watchdog was risking public trust",
-        "link": "https://www.heraldscotland.com/news/26636872.audit-scotland-warned-scottish-ethical-standards-watchdog-2021/",
-        "description": ". Audit Scotland warned in 2021 that serious failings at Scotland\u2019s Ethical Standards Commissioner\u2019s office risked public trust. A follow-up report found significant challenges remained.",
-        "published": "Thu, 15 Oct 2026 06:38:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21580817/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
