@@ -2789,6 +2789,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9291167",
+        "title": "Glasgow councillor raises concerns over lack of family discount membership options at Glasgow Club",
+        "link": "https://www.glasgowworld.com/news/glasgow-councillor-glasgow-club-membership-prices-9291167",
+        "description": "<p>Councillor Paul Carey is asking Glasgow Life to consider introducing a family membership option at the Glasgow Club</p>",
+        "published": "Fri, 16 Oct 2026 07:40:52 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/16/7/56/624534127_1298169162340892_9029241356466107662_n.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "18ba8297d12b639a643646d305e67bcd",
+        "title": "Popular Scottish singer announces biggest tour yet with show at iconic Glasgow venue",
+        "link": "https://www.glasgowtimes.co.uk/news/26641969.scottish-singer-announces-glasgow-concert-iconic-venue/",
+        "description": "Scottish singer announces her biggest headline tour, including Glasgow\u2019s Barrowland Ballroom in 2027 following the release of new album Too Late For Tears.",
+        "published": "Fri, 16 Oct 2026 08:33:08 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19032953/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/murder-probe-police-name-teen-34772650",
+        "title": "Murder probe as police name teen who died in 'disturbance' on Glasgow street",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/murder-probe-police-name-teen-34772650",
+        "description": "Officers say that death is now being treated as a 'murder' following a post-mortem examination.",
+        "published": "Fri, 16 Oct 2026 07:23:45 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34772653.ece/ALTERNATES/s98/0_f38e574f-a2e8-4425-8cd6-4f66320e9e77.jpg"
+      },
+      {
         "id": "9291101",
         "title": "Martin O'Neill put on the spot over Celtic's European failings as he holds Europa League hope",
         "link": "https://www.glasgowworld.com/sport/football/celtic/martin-oneill-put-on-the-spot-over-celtic-european-failings-9291101",
@@ -3563,30 +3587,6 @@
         "description": "According to the local authority, improvements to the public hygiene facilities could cost as much as \u00a323.5 million in capital funding over a ten-year span.",
         "published": "Thu, 15 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20503933/?type=app&htype=0"
-      },
-      {
-        "id": "df62015f14514f72fce754712ca75b44",
-        "title": "NHSGGC specialist team recognised as one of UK's top neuro-oncology services",
-        "link": "https://www.glasgowtimes.co.uk/news/26637057.glasgow-brain-tumour-team-gains-centre-excellence-status/",
-        "description": "The adult neuro-oncology service at NHS Greater Glasgow and Clyde has been awarded Tessa Jowell Centre of Excellence status",
-        "published": "Thu, 15 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21580864/?type=app&htype=0"
-      },
-      {
-        "id": "95665893721be1616e77aed0ac6d2cda",
-        "title": "Scotland's hybrid working crackdown for civil servants is 'unworkable', union warns",
-        "link": "https://www.heraldscotland.com/news/26637501.civil-service-hybrid-working-crackdown-unworkable/",
-        "description": "The Scottish Government has been told its hybrid working crackdown for civil servants is unworkable, according to a trade union chief.",
-        "published": "Thu, 15 Oct 2026 05:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21335176/?type=app&htype=0"
-      },
-      {
-        "id": "40103d7da47b5719ed74a936a41fd8a3",
-        "title": "Teachers doubt Scotland can meet 2030 child poverty target amid rising pupil hardship",
-        "link": "https://www.heraldscotland.com/news/26636812.teachers-doubt-john-swinney-can-hit-child-poverty-targets/",
-        "description": "Scottish teachers report rising child poverty, hunger and financial stress among pupils, while only 34% trust ministers to meet 2030 targets.",
-        "published": "Thu, 15 Oct 2026 05:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20842220/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
