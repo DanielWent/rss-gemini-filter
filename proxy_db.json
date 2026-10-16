@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cq0ld4g0309go#1",
+        "title": "Action needed to save water, minister urges",
+        "link": "https://www.bbc.co.uk/news/articles/cq0ld4g0309go?at_medium=RSS&at_campaign=rss",
+        "description": "Severe drought was declared across parts of southern England after months of low rainfall.",
+        "published": "Fri, 16 Oct 2026 10:51:25 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6d3/live/169ec7e0-c94f-11f1-8879-9d9deeb686e1.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo#1",
         "title": "Same-day test helps doctors detect hidden infections in critically ill children",
         "link": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
         "published": "Fri, 04 Sep 2026 10:40:23 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa83/live/066833c0-a848-11f1-b3a7-d5de760fef6e.jpg"
-      },
-      {
-        "id": "1788499516792044",
-        "title": "Is a whale fossil the leftovers of a Bronze Age Sunday roast?",
-        "link": "https://www.bbc.co.uk/news/articles/cly4zkpvl4wo?at_medium=RSS&at_campaign=rss",
-        "description": "A 10-year-old boy was out looking for fossils along the shore in Islandmagee when he spotted the back of the skull.",
-        "published": "Fri, 04 Sep 2026 07:13:54 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a19c/live/eae2b780-a6c9-11f1-ae1e-219da1d6451a.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2805,6 +2805,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "5482649",
+        "title": "Great Western Road: 8 reasons why Glaswegians say Great Western Road is one of their favourite streets",
+        "link": "https://www.glasgowworld.com/best-in/great-western-road-glasgow-favourite-street-9291695",
+        "description": "<p>Glaswegians have named Great Western Road as one of their top streets in 2026, praising its vibrant mix of bars, restaurants and unique neighbourhood spots.</p>",
+        "published": "Fri, 16 Oct 2026 10:24:38 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2024/07/24/12/22/301518772_1904988599699071_6181411695247215379_n.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "e7df2714bf12b30430fe8e04ef952ef7",
+        "title": "Major Glasgow road to close for 10 days as drivers face delays",
+        "link": "https://www.glasgowtimes.co.uk/news/26642974.battlefield-road-glasgow-close-10-days-essential-works/",
+        "description": "A main road in Glasgow will be closing later this month for essential upgrade works.",
+        "published": "Fri, 16 Oct 2026 11:21:35 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19036953/?type=app&htype=0"
+      },
+      {
+        "id": "bb6571b4df37c2d60f202055cd3b3856",
+        "title": "New visitor centre planned for Charles Rennie Mackintosh\u2019s Hill House in Helensburgh",
+        "link": "https://www.heraldscotland.com/news/26642963.new-visitor-centre-planned-mackintoshs-hill-house/",
+        "description": "he National Trust for Scotland plans a new visitor centre at Charles Rennie Mackintosh\u2019s Hill House in Helensburgh as part of a \u00a320m conservation project.",
+        "published": "Fri, 16 Oct 2026 11:20:15 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21008947/?type=app&htype=0"
+      },
+      {
+        "id": "5b9db0e0580c6693a961a0b4792de08e",
+        "title": "Vile former Police Scotland officer jailed for 12 years for rape and violent abuse",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26642933.former-police-scotland-officer-jailed-12-years/",
+        "description": "Former Police Scotland officer Campbell Petrie jailed for 12 years on October 16 for rape, indecent assault and violent offences against women.",
+        "published": "Fri, 16 Oct 2026 11:17:17 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21465112/?type=app&htype=0"
+      },
+      {
+        "id": "b9710e824f2d9f2b9a578bac5612b7d3",
+        "title": "National march against hyperscale data centres to be held in Edinburgh",
+        "link": "https://www.heraldscotland.com/news/26642878.march-hyperscale-data-centres-set-edinburgh/",
+        "description": "People from across Scotland will march down the Royal Mile on Saturday, November 14, culminating in a rally outside the Scottish Parliament.",
+        "published": "Fri, 16 Oct 2026 11:09:47 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21519677/?type=app&htype=0"
+      },
+      {
         "id": "4fc78dfae8e6379d1f48f5f3f18b53fd",
         "title": "'Affordable' festive pantomime featuring River City star heading to Maryhill",
         "link": "https://www.glasgowtimes.co.uk/news/26642799.community-pantomime-coming-maryhill-december/",
@@ -3563,46 +3603,6 @@
         "description": "Officers believe someone forced entry into the flat before starting the fire.",
         "published": "Thu, 15 Oct 2026 07:25:43 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34766629.ece/ALTERNATES/s98/0_Screenshot-88.png"
-      },
-      {
-        "id": "3ab8f9703716e6390eeb4338a223ecdc",
-        "title": "'My sister has been missing for 50 years. I know who killed her'",
-        "link": "https://www.heraldscotland.com/news/26638201.brother-claims-knows-killed-missing-ayrshire-sister-1976/",
-        "description": "Patricia Black vanished in Irvine on October 9, 1976. Her brother says he knows who killed the Saltcoats woman, ruling out Angus Sinclair.",
-        "published": "Thu, 15 Oct 2026 08:17:21 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21582911/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-buyer-finds-live-bullets-34765431",
-        "title": "Glasgow buyer finds 'live bullets' in pockets of secondhand jacket from Vinted",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-buyer-finds-live-bullets-34765431",
-        "description": "Grant Bradford said it was &quot;very, very weird&quot; to find the jacket - which was listed as &quot;brand new&quot; - had arrived all the way from the US with &quot;ammunition&quot; inside it.",
-        "published": "Thu, 15 Oct 2026 07:12:43 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34765804.ece/ALTERNATES/s98/3_bullets.jpg"
-      },
-      {
-        "id": "https://runabc.co.uk/3k-on-the-green-november-continues-glasgows-lunchtime-running-tradition",
-        "title": "3K On The Green November Continues Glasgow's Lunchtime Running Tradition",
-        "link": "https://runabc.co.uk/3k-on-the-green-november-continues-glasgows-lunchtime-running-tradition",
-        "description": "<p><img alt=\"3K On The Green November\" src=\"https://runabc.co.uk/images/2026/10/3k-on-the-green-november-974343.jpg\" /></p>\n\t\t\t\t<p>Glasgow's 3K on the Green series reaches its November fixture on Friday 27 November, continuing a lunchtime running tradition that has raised thousands for charity...</p>",
-        "published": "Thu, 15 Oct 2026 07:55:00 +0100",
-        "image_url": "https://runabc.co.uk/images/2026/10/3k-on-the-green-november-974343.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-veteran-backs-calls-ban-34763150",
-        "title": "Glasgow veteran backs calls for ban on delivery driver loophole after sex attack in her home",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-veteran-backs-calls-ban-34763150",
-        "description": "JJ* was told that her attacker had rented the account from another person \u2013 a 'grey area' of the law that allows anyone to turn up at doors with little checks in place.",
-        "published": "Thu, 15 Oct 2026 06:39:13 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34763182.ece/ALTERNATES/s98/0_JS235280365-1.jpg"
-      },
-      {
-        "id": "03e27ecc1376d7ad3188f8c6b36c6dbe",
-        "title": "Barack Obama shouts out Scottish band he saw live as a youngster at Glasgow show",
-        "link": "https://www.glasgowtimes.co.uk/news/26638104.barack-obama-shows-love-scottish-band-glasgow-show/",
-        "description": "Barack Obama sings praises of Scottish band at Glasgow\u2019s OVO Hydro, recalling seeing them open for Earth, Wind &amp; Fire at his first concert.",
-        "published": "Thu, 15 Oct 2026 07:18:36 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21583035/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
