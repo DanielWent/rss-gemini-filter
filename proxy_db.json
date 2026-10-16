@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo#1",
+        "title": "Same-day test helps doctors detect hidden infections in critically ill children",
+        "link": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss",
+        "description": "Metagenomics offers a new way of detecting infections in intensive care patients.",
+        "published": "Fri, 16 Oct 2026 00:34:45 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4b2/live/3a5050b0-c8f9-11f1-a64c-550be9e3c66b.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/crk661074ejo#2",
         "title": "Severe drought declared and hosepipe bans in force - is your area affected?",
         "link": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "A 10-year-old boy was out looking for fossils along the shore in Islandmagee when he spotted the back of the skull.",
         "published": "Fri, 04 Sep 2026 07:13:54 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a19c/live/eae2b780-a6c9-11f1-ae1e-219da1d6451a.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cy0zylpdveqo#0",
-        "title": "AI tools that take notes for GPs could miss vital information, study suggests",
-        "link": "https://www.bbc.co.uk/news/articles/cy0zylpdveqo?at_medium=RSS&at_campaign=rss",
-        "description": "Researchers said the tools - which record consultations - could miss vital things like a patient's facial expressions or emotional state.",
-        "published": "Thu, 03 Sep 2026 22:32:09 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7b5/live/959247e0-a7bf-11f1-a291-b542ee92de7c.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2789,6 +2789,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "5a8afa514815a0e626b494a43669e40f",
+        "title": "Aberdeen researchers launch two-year study into male breast cancer",
+        "link": "https://www.heraldscotland.com/news/26639893.aberdeen-study-aims-improve-treatment-male-breast-cancer/",
+        "description": "University of Aberdeen researchers will study why breast cancer behaves differently in men, with \u00a3300,000 in Scottish Government funding.",
+        "published": "Fri, 16 Oct 2026 00:05:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21406484/?type=app&htype=0"
+      },
+      {
+        "id": "bd1f9d6709d7f6a28c887360918db93b",
+        "title": "Scottish retail sales fall 0.7 per cent in real terms as shoppers rein in spending",
+        "link": "https://www.heraldscotland.com/news/26639995.new-report-shows-scottish-retail-sales-fell-0-7-per-cent/",
+        "description": "Scottish retail sales rose 0.7% year on year in September, but fell in real terms as shoppers cut spending on non-food goods ahead of Christmas.",
+        "published": "Fri, 16 Oct 2026 00:05:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21133207/?type=app&htype=0"
+      },
+      {
         "id": "5bbf3b32b59807e5193d5d8573ce02e7",
         "title": "MPs back island tunnels and bridges as answer to 'unreliable' ferry crisis",
         "link": "https://www.heraldscotland.com/news/26641507.bridges-tunnels-transform-scotlands-islands/",
@@ -3571,22 +3587,6 @@
         "description": "Glasgow residents in G69 face water supply disruption as Scottish Water repairs a burst main on October 14, with service and pressure returning gradually.",
         "published": "Wed, 14 Oct 2026 16:40:58 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21108552/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=533227",
-        "title": "Van driver \u2018distracted by dog\u2019 mounted kerb and hit couple killing fianc\u00e9",
-        "link": "https://news.stv.tv/west-central/van-driver-distracted-by-dog-mounted-kerb-and-hit-couple-killing-fiance",
-        "description": "Joseph Gorman struck Craig Wilson while he was walking with his fiancee, her mother and their dog in Strathaven",
-        "published": "Wed, 14 Oct 2026 15:39:28 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2025/05/f80552903122b112511c63c30c41a9fc-1746179781.jpg"
-      },
-      {
-        "id": "7a0b435604851a21882227456b945113",
-        "title": "\u00a34m cocaine gang behind 'Breaking Bad' Glasgow drugs lab handed punishment",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26637394.five-men-4m-cocaine-gang-given-three-year-orders/",
-        "description": "Five men in a \u00a34m cocaine and money-laundering gang receive three-year Serious Crime Prevention Orders after Operation Silhouette raids in Glasgow.",
-        "published": "Wed, 14 Oct 2026 16:33:04 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20098675/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
