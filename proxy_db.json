@@ -2789,6 +2789,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9291101",
+        "title": "Martin O'Neill put on the spot over Celtic's European failings as he holds Europa League hope",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/martin-oneill-put-on-the-spot-over-celtic-european-failings-9291101",
+        "description": "<p>Celtic lost their most recent Europa League match against Benfica on Thursday.</p>",
+        "published": "Fri, 16 Oct 2026 07:00:27 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/16/6/33/GettyImages-2299815921.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "4981d9d6094c0b3a39dd0c428306a207",
+        "title": "Glaswegian actor expected to join hit Netflix series for its next season",
+        "link": "https://www.glasgowtimes.co.uk/news/26641900.glaswegian-actor-expected-join-gentlemen-series-three/",
+        "description": "The Maryhill born actor is expected to join Netflix\u2019s The Gentlemen series three with Theo James and Vinnie Jones, while Meghan Markle is reportedly ruled out.",
+        "published": "Fri, 16 Oct 2026 07:57:26 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20694800/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-offices-near-charing-cross-34770713",
         "title": "Glasgow offices near Charing Cross to be converted into student flats",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-offices-near-charing-cross-34770713",
@@ -3571,22 +3587,6 @@
         "description": "Scottish teachers report rising child poverty, hunger and financial stress among pupils, while only 34% trust ministers to meet 2030 targets.",
         "published": "Thu, 15 Oct 2026 05:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20842220/?type=app&htype=0"
-      },
-      {
-        "id": "45dad2b449535ef57aea28ed321fe55e",
-        "title": "Three in four Scottish firms expect price rises as costs pile on pressure",
-        "link": "https://www.heraldscotland.com/news/26636282.three-four-scottish-firms-expect-prices-rise/",
-        "description": "Scottish business confidence has returned to positive territory, but most firms still expect to raise prices amid continuing pressure on revenues and profits",
-        "published": "Thu, 15 Oct 2026 04:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21580648/?type=app&htype=0"
-      },
-      {
-        "id": "6ee1012a76acff2e50b20a2836d71aa4",
-        "title": "ICS Learn announces Glasgow move and rebrand after 130 years of distance learning",
-        "link": "https://www.heraldscotland.com/news/26637520.ics-learn-announces-rebrand-plans-new-glasgow-office/",
-        "description": "Glasgow-based ICS Learn is refreshing its brand and moving to a new Nelson Mandela Place office as it targets further growth in online education.",
-        "published": "Thu, 15 Oct 2026 00:05:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21582171/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
