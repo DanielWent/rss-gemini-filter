@@ -2821,12 +2821,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=533673",
+        "title": "Batman director Matt Reeves delivers update after Glasgow transformed into Gotham",
+        "link": "https://news.stv.tv/west-central/batman-director-matt-reeves-delivers-update-after-glasgow-transformed-into-gotham",
+        "description": "Glasgow was once again transformed into the fictional Gotham City this summer for The Batman: Part II",
+        "published": "Fri, 16 Oct 2026 15:26:01 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/c6a0d3016270d515d67864dec75f7a97-1792163958-1200x720.jpeg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cqd09v2jxr1eo#0",
+        "title": "Man caught with \u00a32.6m of cocaine among Santa gift bags",
+        "link": "https://www.bbc.co.uk/news/articles/cqd09v2jxr1eo?at_medium=RSS&at_campaign=rss",
+        "description": "Jordan Wetherill, 23, was found to have more than 100 blocks of cocaine and heroin during a police raid at a flat in Glasgow.",
+        "published": "Fri, 16 Oct 2026 15:14:47 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f93e/live/632ec0f0-c96e-11f1-a6e6-417671ef62cb.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/clydebank-fc-condemns-young-team-34776383",
         "title": "Clydebank FC condemns \u2018young team\u2019 who set off fireworks that landed on pitch during game",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/clydebank-fc-condemns-young-team-34776383",
         "description": "&quot;Their behaviour has nothing to do with football, and those wishing to act this way are simply not welcome at Clydebank FC. &quot;",
         "published": "Fri, 16 Oct 2026 14:53:52 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34765748.ece/ALTERNATES/s98/1_Clydebank-FC.png"
+      },
+      {
+        "id": "3f9b6576c56f3189e1c25e488e923d3d",
+        "title": "'Too much emphasis on potholes not enough on pavements' says Glasgow councillor",
+        "link": "https://www.glasgowtimes.co.uk/news/26644641.glasgow-councillor-calls-money-pavements/",
+        "description": "Too much emphasis is put on potholes and not enough on the need for better pavements a senior Glasgow councillor said.",
+        "published": "Fri, 16 Oct 2026 15:44:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20917702/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=533685",
@@ -2995,6 +3019,14 @@
         "description": "A new junction on the A7 between Hawick and Selkirk has been completed to provide access to the planned Center Parcs Scottish Borders holiday village.",
         "published": "Fri, 16 Oct 2026 13:20:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21591018/?type=app&htype=0"
+      },
+      {
+        "id": "32a71eef65f2032c9e7a8ae7a227cc92",
+        "title": "Road closures extended on busy Glasgow M8 route after weather setbacks",
+        "link": "https://www.glasgowtimes.co.uk/news/26643662.glasgow-drivers-warned-disruption-roadworks-delayed/",
+        "description": "Drivers warned of further disruption after adverse weather delays resurfacing works in Glasgow.",
+        "published": "Fri, 16 Oct 2026 13:11:33 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19926560/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=533472",
@@ -3587,38 +3619,6 @@
         "description": "Glasgow City Council turns refuse vehicles into mobile billboards promoting inclusion and raising awareness of hate crime.",
         "published": "Thu, 15 Oct 2026 12:24:01 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21584840/?type=app&htype=0"
-      },
-      {
-        "id": "6b4c1451ba56ee7917773fe89bfb6cfe",
-        "title": "Leithers bid for \u00a33m Town of Culture prize as residents invited to shape plans",
-        "link": "https://www.heraldscotland.com/news/26639472.leith-ramps-efforts-secure-3m-uk-town-culture-award/",
-        "description": "Leithers of all ages have been invited to Leith Imaginarium on Sunday, October 25 from 12 pm to 4 pm to contribute to the bid, which will net \u00a33m if successful.",
-        "published": "Thu, 15 Oct 2026 12:18:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21260574/?type=app&htype=0"
-      },
-      {
-        "id": "185c4d6ee10606628ae1c422d5ef7019",
-        "title": "Airport drop-off charges set to be reviewed by UK Government after increase",
-        "link": "https://www.glasgowtimes.co.uk/news/26639517.airport-drop-off-charges-set-reviewed-increase/",
-        "description": "Airport drop-off charges are to be reviewed by the UK Government.",
-        "published": "Thu, 15 Oct 2026 12:16:41 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18326424/?type=app&htype=0"
-      },
-      {
-        "id": "3e994ac83dde7594bfb16626558bc6f2",
-        "title": "Drivers warned as burst water main causes huge disruption on busy Glasgow road",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26639426.glasgow-water-disruption-burst-main-hapland-road/",
-        "description": "Glasgow residents in G53 face water supply disruption after a burst main on Hapland Road, with Scottish Water repairs and traffic delays on October 15.",
-        "published": "Thu, 15 Oct 2026 12:03:27 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17119543/?type=app&htype=0"
-      },
-      {
-        "id": "e792fe5d2944ae97c3b7fc1b6c497666",
-        "title": "Police informed after incident shuts down health centre services",
-        "link": "https://www.glasgowtimes.co.uk/news/26639309.cambuslang-gate-health-centre-services-shut-incident/",
-        "description": "Cambuslang Gate Health Centre suspends Treatment Room services after an incident, with urgent patients redirected to Rutherglen Health Centre. Police informed.",
-        "published": "Thu, 15 Oct 2026 11:49:02 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/14129133/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
