@@ -2805,6 +2805,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "106edc8fa9d1736a2d08e4309a46928d",
+        "title": "'Very worrying' MSP speaks after death of 17 year-old in Milton",
+        "link": "https://www.glasgowtimes.co.uk/news/26643220.msp-speaks-jack-mellons-death-treated-murder/",
+        "description": "Bob Doris speaks after teenager Jack Mellon\u2019s death on Ashgill Road, Glasgow, was treated as murder.",
+        "published": "Fri, 16 Oct 2026 11:53:58 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21590546/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-thug-dragged-woman-hair-34774144",
+        "title": "Glasgow thug dragged woman by her hair before stabbing her in the chest",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-thug-dragged-woman-hair-34774144",
+        "description": "The thug, who already had a string of convictions including for violence, had initially faced an attempted murder accusation.",
+        "published": "Fri, 16 Oct 2026 10:52:53 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34192385.ece/ALTERNATES/s98/1_JS117174120-3.jpg"
+      },
+      {
         "id": "5482649",
         "title": "Great Western Road: 8 reasons why Glaswegians say Great Western Road is one of their favourite streets",
         "link": "https://www.glasgowworld.com/best-in/great-western-road-glasgow-favourite-street-9291695",
@@ -3587,22 +3603,6 @@
         "description": "Marc Boyle died on May 19, 2024, while housed within the High Dependency Unit of the Glasgow prison.",
         "published": "Thu, 15 Oct 2026 07:54:10 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33631721.ece/ALTERNATES/s98/2_JS388388447.jpg"
-      },
-      {
-        "id": "c5deb89808317d75235018ff0e72ee27",
-        "title": "'Avoid the area' warning issued to drivers after police swarm Glasgow street",
-        "link": "https://www.glasgowtimes.co.uk/news/26638251.police-incident-ashgill-road-glasgow-forces-road-close/",
-        "description": "Ashgill Road in Glasgow was closed on October 14 after a police incident, with nearby Chapleton Street and Birsay Road also shut to traffic.",
-        "published": "Thu, 15 Oct 2026 08:38:54 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/12714858/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/fire-started-lanarkshire-flat-after-34766604",
-        "title": "Fire started in Lanarkshire flat after entry forced as police probe incident",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/fire-started-lanarkshire-flat-after-34766604",
-        "description": "Officers believe someone forced entry into the flat before starting the fire.",
-        "published": "Thu, 15 Oct 2026 07:25:43 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34766629.ece/ALTERNATES/s98/0_Screenshot-88.png"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
