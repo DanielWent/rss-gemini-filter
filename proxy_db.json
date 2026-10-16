@@ -21,6 +21,14 @@
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6d3/live/169ec7e0-c94f-11f1-8879-9d9deeb686e1.jpg"
       },
       {
+        "id": "https://www.bbc.co.uk/news/articles/cq2d6e56n85go#2",
+        "title": "'People call them pervert glasses': Blind users fear backlash over smart tech",
+        "link": "https://www.bbc.co.uk/news/articles/cq2d6e56n85go?at_medium=RSS&at_campaign=rss",
+        "description": "Concerns about the use of smart glasses are having an affect on visually-impaired users.",
+        "published": "Fri, 16 Oct 2026 05:23:00 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42cb/live/1cc1fab0-c8b0-11f1-a64c-550be9e3c66b.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo#1",
         "title": "Same-day test helps doctors detect hidden infections in critically ill children",
         "link": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "During the most recent Ice Age, researchers believe there was a \"lost land bridge\" between Wales and Ireland.",
         "published": "Sat, 05 Sep 2026 00:01:41 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e01/live/e9948ee0-a885-11f1-824a-0fc4c5d895ae.png"
-      },
-      {
-        "id": "1788600015899939",
-        "title": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
-        "link": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss",
-        "description": "More than 1,300 people have died and thousands are missing, but rescuers' hopes have risen after finding survivors in a tunnel.",
-        "published": "Fri, 04 Sep 2026 14:30:56 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c65/live/034c61b0-a830-11f1-b808-43cdd10f38ce.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2820,6 +2820,14 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "a1f1620c05253f4ac058abf392bc2773",
+        "title": "Scottish union warns 20,000 public service jobs could be lost in reforms",
+        "link": "https://www.glasgowtimes.co.uk/news/26645463.unison-warns-20-000-public-sector-jobs-lost/",
+        "description": "Tens of thousands of jobs will be cut across the public sector as part of the Scottish Governments plans for reform a union leader has said.",
+        "published": "Fri, 16 Oct 2026 18:37:41 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21593951/?type=app&htype=0"
+      },
       {
         "id": "9292843",
         "title": "Rangers' injury list grows by one as Derek McInnes outlines January transfer window expectations amid crisis",
