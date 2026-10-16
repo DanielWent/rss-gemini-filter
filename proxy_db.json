@@ -2789,12 +2789,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-offices-near-charing-cross-34770713",
+        "title": "Glasgow offices near Charing Cross to be converted into student flats",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-offices-near-charing-cross-34770713",
+        "description": "Glasgow City Council has approved a plan to convert Sycamore House on Bath Street.",
+        "published": "Fri, 16 Oct 2026 06:54:38 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34770685.ece/ALTERNATES/s98/0_sycamorehouse.png"
+      },
+      {
+        "id": "9290138",
+        "title": "Look inside Ivy Asia as first Scottish restaurant set to open in Glasgow",
+        "link": "https://www.glasgowworld.com/lifestyle/food-and-drink/look-inside-ivy-asia-ahead-of-first-scottish-restaurant-opening-in-glasgow-9290142",
+        "description": "<p>The first Ivy Asia will open in Scotland on 20 October.</p>",
+        "published": "Fri, 16 Oct 2026 06:49:27 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/15/13/58/The-Ivy-Glasgow-unveils-first-look-inside-its-spectacular-new-St-Vincent-Place-home(6)-8cc57692.jpeg?width=1200&auto=webp&trim=1%2C0%2C1%2C0"
+      },
+      {
+        "id": "7798fe260d8d076af52c36e8c92b00d7",
+        "title": "Glasgow teenager named as man, 22, charged over Ashgill Road incident",
+        "link": "https://www.glasgowtimes.co.uk/news/26641873.man-charged-ashgill-road-glasgow-murder-victim-named/",
+        "description": "Glasgow teenager Jack Mellon, 17, died after a disturbance in Milton on October 14. A 22-year-old man has been charged and is due at Glasgow Sheriff Court.",
+        "published": "Fri, 16 Oct 2026 07:30:13 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21588629/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=533392",
         "title": "Boy, six, \u2018fascinated by science\u2019 becomes first child to tour Glasgow hospital lab",
         "link": "https://news.stv.tv/west-central/boy-six-fascinated-by-science-becomes-first-child-to-tour-glasgow-hospital-lab",
         "description": "Matthew, who attends the children's hospital,  got a behind-the-scenes look behind laboratory doors with biomedical scientists",
         "published": "Fri, 16 Oct 2026 05:57:02 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/a9773a8fd48bda514203d90a91ec0b5b-1792057229-1280x720.jpeg"
+      },
+      {
+        "id": "b1bef7fa6e0b0fa06e2796905b9699b3",
+        "title": "Scots islands face depopulation crisis amidst ferry problems",
+        "link": "https://www.heraldscotland.com/news/26641241.scots-islands-face-depopulation-crisis-amidst-ferry-chaos/",
+        "description": "Scotland\u2019s island communities face a depopulation crisis, with Western Isles workforce projections raising fears as MPs call for better ferry and fixed links.",
+        "published": "Fri, 16 Oct 2026 06:33:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/9046617/?type=app&htype=0"
       },
       {
         "id": "1c56722e9dde0f1dd134f05497a102d3",
@@ -3555,38 +3587,6 @@
         "description": "Glasgow-based ICS Learn is refreshing its brand and moving to a new Nelson Mandela Place office as it targets further growth in online education.",
         "published": "Thu, 15 Oct 2026 00:05:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21582171/?type=app&htype=0"
-      },
-      {
-        "id": "d623f69ce58120199560e1a622e4588f",
-        "title": "Rockstar HR chief denies asking staff to \u2018keep tabs\u2019 on union membership",
-        "link": "https://www.heraldscotland.com/news/26637943.rockstar-hr-chief-denies-monitoring-staff-union-membership/",
-        "description": "Rockstar Games HR chief denies ordering staff to monitor IWGB membership as 23 former workers claim unfair dismissal over Discord posts at Scottish tribunal.",
-        "published": "Wed, 14 Oct 2026 20:31:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21437543/?type=app&htype=0"
-      },
-      {
-        "id": "9287339",
-        "title": "'Bring him back' - Rangers legend left stunned by Ibrox loanee's lack of minutes as next steps considered",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/bring-him-back-rangers-legend-left-stunned-by-ibrox-loanees-lack-of-minutes-as-next-steps-considered-9287339",
-        "description": "<p>Rangers player hasn\u2019t featured in the EFL Championship yet</p>",
-        "published": "Wed, 14 Oct 2026 19:00:15 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/14/12/50/GettyImages-2210099900-(1).jpeg?width=1200&auto=webp&trim=179%2C0%2C181%2C0"
-      },
-      {
-        "id": "40c674cecb8459aa58e433858706f217",
-        "title": "Software breakthrough could spur quantum computer advances, Edinburgh study suggests",
-        "link": "https://www.heraldscotland.com/news/26635535.software-breakthrough-spur-quantum-computer-advances/",
-        "description": "Researchers have developed an algorithm that enables off-the-shelf computers to run quantum simulations previously only possible using the world\u2019s most powerful supercomputers",
-        "published": "Wed, 14 Oct 2026 19:06:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19718166/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/clydebank-football-match-chaos-fireworks-34765721",
-        "title": "Clydebank football match chaos as fireworks land on pitch before game halted",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/clydebank-football-match-chaos-fireworks-34765721",
-        "description": "Fans described &quot;mad&quot; scenes as fireworks &quot;kept getting closer to the pitch&quot; until the referee was forced to stop the game.",
-        "published": "Wed, 14 Oct 2026 17:47:11 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34765753.ece/ALTERNATES/s98/0_fireworks.png"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
