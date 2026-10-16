@@ -2805,12 +2805,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "eec77c83882c14c19027dbe4d4804e9a",
+        "title": "Glasgow cathedral to host silent horror classic with live organ music this October",
+        "link": "https://www.glasgowtimes.co.uk/news/26642634.glasgow-cathedral-host-silent-horror-film-screening/",
+        "description": "The Phantom of the Opera with live organ music at Glasgow\u2019s St Mary\u2019s Cathedral on October 24, raising funds to restore its historic Willis II organ.",
+        "published": "Fri, 16 Oct 2026 10:38:30 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20388547/?type=app&htype=0"
+      },
+      {
+        "id": "b3e6c5a12d0d92ddfa74b93fd77c7210",
+        "title": "Prison watchdog sounds alarm over Barlinnie as water crisis exposes wider problem",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26642553.barlinnie-water-crisis-prompts-prison-watchdog-overcrowding-warning/",
+        "description": "HMP Barlinnie water crisis leaves toilets unflushable and showers cold as Scotland\u2019s prison watchdog warns overcrowding is exposing ageing infrastructure risks.",
+        "published": "Fri, 16 Oct 2026 10:29:25 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20084349/?type=app&htype=0"
+      },
+      {
+        "id": "520bd5bb40a8a2dba35b32b94b2799f4",
+        "title": "10-metre spider Webster takes over popular shopping centre this Halloween",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26642529.10-metre-spider-takes-silverburn-shopping-centre/",
+        "description": "A giant spider named Webster is taking over Silverburn shopping centre this Halloween.",
+        "published": "Fri, 16 Oct 2026 10:27:10 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21589438/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=533579",
         "title": "Rapist police officer\u00a0Campbell Petrie who preyed on sleeping colleague jailed",
         "link": "https://news.stv.tv/west-central/rapist-police-officer-campbell-petrie-who-preyed-on-sleeping-colleague-jailed",
         "description": "Campbell Petrie was initially arrested in 2009 over allegations of threatening behaviour, but the case was dropped and he was promoted to sergeant",
         "published": "Fri, 16 Oct 2026 09:23:05 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/4099dfaa41027e72688bacdefb2096b0-1792138620.jpg"
+      },
+      {
+        "id": "f6265257c23e8c19d135d9a8c4e9b643",
+        "title": "Lulu has announced a three-date UK tour including a Glasgow homecoming show",
+        "link": "https://www.glasgowtimes.co.uk/news/26642341.lulu-announced-2027-uk-tour-glasgow-homecoming-included/",
+        "description": "Lulu has announced a 2027 UK tour including dates in Glasgow, Cardiff, and London.",
+        "published": "Fri, 16 Oct 2026 09:57:55 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21436201/?type=app&htype=0"
       },
       {
         "id": "5d980aaa024594f81e48c2b7353af4ce",
@@ -3571,38 +3603,6 @@
         "description": ". Audit Scotland warned in 2021 that serious failings at Scotland\u2019s Ethical Standards Commissioner\u2019s office risked public trust. A follow-up report found significant challenges remained.",
         "published": "Thu, 15 Oct 2026 06:38:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21580817/?type=app&htype=0"
-      },
-      {
-        "id": "c6f6ab34f51e845cd1bcff2388813b32",
-        "title": "Scots \u00a31.7bn pension scandal branded \u2018national disgrace\u2019 amidst more delays",
-        "link": "https://www.heraldscotland.com/news/26629867.scottish-public-sector-pensions-fresh-delays-hit-retired-workers/",
-        "description": "Scotland's McCloud pension scandal deepens as 37,832 retired public sector workers wait for remedy statements, with further delays for police and teachers.",
-        "published": "Thu, 15 Oct 2026 06:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20126331/?type=app&htype=0"
-      },
-      {
-        "id": "08843c528cd212a0388d5b47db4df3ad",
-        "title": "Reform UK candidate resigns over claims of \u2018nepotism, cronyism and bullying\u2019",
-        "link": "https://www.heraldscotland.com/news/26637563.reform-uk-candidate-resigns-nepotism-cronyism-bullying/",
-        "description": "Former Reform UK candidate Paul Bennie resigns, accusing its Scottish leadership of \"nepotism, cronyism and bullying\" while questioning deputy leader Thomas Kerr\u2019s \"fitness for his role\".",
-        "published": "Thu, 15 Oct 2026 06:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20688037/?type=app&htype=0"
-      },
-      {
-        "id": "039df5323e97c2234f4e1586e7bfeeea",
-        "title": "University bosses warned of serious reputational damage over 90 programme closures",
-        "link": "https://www.heraldscotland.com/news/26636618.edinburgh-university-closures-spark-warnings-reputational-damage/",
-        "description": "A motion submitted ahead of the next staff and student Senate meeting calls on university leadership to \"reconsider\" the decision to close 90 programmes.",
-        "published": "Thu, 15 Oct 2026 06:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20897649/?type=app&htype=0"
-      },
-      {
-        "id": "dc2a38465b69c8f0cf0ddbc08f8b43bb",
-        "title": "Primary school wipes out attainment gap with 'excellent' strategy say inspectors",
-        "link": "https://www.glasgowtimes.co.uk/news/26632100.neilsland-primary-praised-closing-attainment-gap-hmie/",
-        "description": "Neilsland Primary in Hamilton has been praised by HMIE for its sector-leading strategy, with inspectors reporting no gap in listening and talking attainment.",
-        "published": "Thu, 15 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21574032/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
