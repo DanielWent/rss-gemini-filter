@@ -2074,6 +2074,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21585247/?type=app&htype=0"
       },
       {
+        "id": "27f2a3f787e7f87966047474665b581e",
+        "title": "Campaigners raise alarm over plans they say threaten Green Belt land",
+        "link": "https://www.glasgowtimes.co.uk/news/26639045.campaigners-oppose-east-dunbartonshire-plans-environmental-fears/",
+        "description": "Community groups are calling for a planning application to be refused due to concerns about environmental impact and Green Belt protection.",
+        "published": "Thu, 15 Oct 2026 11:07:45 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21584167/?type=app&htype=0"
+      },
+      {
         "id": "c154d7da643065145780c82346146f4b",
         "title": "East Dunbartonshire library transforms unused space into community reading garden",
         "link": "https://www.glasgowtimes.co.uk/news/26635718.bishopbriggs-library-launched-new-outdoor-reading-garden/",
@@ -2797,6 +2805,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=533579",
+        "title": "Rapist police officer\u00a0Campbell Petrie who preyed on sleeping colleague jailed",
+        "link": "https://news.stv.tv/west-central/rapist-police-officer-campbell-petrie-who-preyed-on-sleeping-colleague-jailed",
+        "description": "Campbell Petrie was initially arrested in 2009 over allegations of threatening behaviour, but the case was dropped and he was promoted to sergeant",
+        "published": "Fri, 16 Oct 2026 09:23:05 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/4099dfaa41027e72688bacdefb2096b0-1792138620.jpg"
+      },
+      {
         "id": "5d980aaa024594f81e48c2b7353af4ce",
         "title": "Glasgow drivers warned as temporary traffic lights set for busy city centre junction",
         "link": "https://www.glasgowtimes.co.uk/news/26642067.temporary-traffic-lights-glasgow-city-centre-junction/",
@@ -3429,6 +3445,14 @@
         "image_url": "https://www.heraldscotland.com/resources/images/20596789/?type=app&htype=0"
       },
       {
+        "id": "27f2a3f787e7f87966047474665b581e",
+        "title": "Campaigners raise alarm over plans they say threaten Green Belt land",
+        "link": "https://www.glasgowtimes.co.uk/news/26639045.campaigners-oppose-east-dunbartonshire-plans-environmental-fears/",
+        "description": "Community groups are calling for a planning application to be refused due to concerns about environmental impact and Green Belt protection.",
+        "published": "Thu, 15 Oct 2026 11:07:45 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21584167/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-sexually-assaulted-woman-glasgow-34767212",
         "title": "Man sexually assaulted by woman on Glasgow train as police probe incident",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-sexually-assaulted-woman-glasgow-34767212",
@@ -3579,14 +3603,6 @@
         "description": "Neilsland Primary in Hamilton has been praised by HMIE for its sector-leading strategy, with inspectors reporting no gap in listening and talking attainment.",
         "published": "Thu, 15 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21574032/?type=app&htype=0"
-      },
-      {
-        "id": "1275a918c136b369e93140f88b01521c",
-        "title": "Council plans \u00a323.5m hygiene facilities overhaul after EHRC single-sex guidance",
-        "link": "https://www.heraldscotland.com/news/26636186.edinburgh-toilets-overhaul-planned-ehrc-single-sex-guidance/",
-        "description": "According to the local authority, improvements to the public hygiene facilities could cost as much as \u00a323.5 million in capital funding over a ten-year span.",
-        "published": "Thu, 15 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20503933/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
