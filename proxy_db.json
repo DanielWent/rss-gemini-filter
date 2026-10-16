@@ -2821,6 +2821,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c6m2d0n2xz1do#0",
+        "title": "Hidden stained-glass masterpieces go on display in Glasgow",
+        "link": "https://www.bbc.co.uk/news/articles/c6m2d0n2xz1do?at_medium=RSS&at_campaign=rss",
+        "description": "A new museum recognising the work of artist Alf Webster is set to open in  Lansdowne Church next year.",
+        "published": "Fri, 16 Oct 2026 21:50:17 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c6e/live/585f3c00-c97c-11f1-80fc-ab418b149008.jpg"
+      },
+      {
         "id": "5443b0fbfb146ea234ec7d2003106766",
         "title": "Glasgow city centre street closed after 'accident' as emergency services at scene",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26645593.glasgows-jamaica-street-closed-due-accident/",
