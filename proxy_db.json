@@ -2066,20 +2066,20 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "f46648298015422bdd07a77902049f39",
+        "title": "Body found in park outside Glasgow in search for missing 17-year-old boy",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26646264.body-found-milngavie-police-search-missing-teen/",
+        "description": "Police Scotland found a man\u2019s body at Mugdock Country Park, Milngavie, during the search for missing 17-year-old Kristijonas Demcenko on October 16.",
+        "published": "Sat, 17 Oct 2026 15:14:27 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16562345/?type=app&htype=0"
+      },
+      {
         "id": "781f44726ec3d82bcbe899a1b4fa7b78",
         "title": "Plans revealed for new detached homes beside primary school outside Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26644303.four-detached-homes-planned-beside-lennoxtown-primary-school/",
         "description": "Fresh plans have been lodged for four detached homes on a former derelict site beside Lennoxtown Primary School.",
         "published": "Fri, 16 Oct 2026 15:01:29 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21591974/?type=app&htype=0"
-      },
-      {
-        "id": "3fbe521e7df62ca57a74aa9406ab4f99",
-        "title": "Family 'extremely worried' for missing 17-year-old boy who missed Glasgow appointment",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26644247.missing-milngavie-teen-kristijonas-demcenko-sparks-growing-concern/",
-        "description": "Police Scotland urges Milngavie residents to check CCTV, doorbells and sheds as search continues for missing 17-year-old Kristijonas Demcenko, last seen October 12.",
-        "published": "Fri, 16 Oct 2026 14:53:10 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21585247/?type=app&htype=0"
       },
       {
         "id": "7623e5a57db011f2578ee64b247ad412",
@@ -2820,6 +2820,22 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "f46648298015422bdd07a77902049f39",
+        "title": "Body found in park outside Glasgow in search for missing 17-year-old boy",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26646264.body-found-milngavie-police-search-missing-teen/",
+        "description": "Police Scotland found a man\u2019s body at Mugdock Country Park, Milngavie, during the search for missing 17-year-old Kristijonas Demcenko on October 16.",
+        "published": "Sat, 17 Oct 2026 15:14:27 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16562345/?type=app&htype=0"
+      },
+      {
+        "id": "0eb3e1ab0bcc5e2d64df06c07f06e89e",
+        "title": "Glasgow council leader tells Andy Burnham: \u2018We\u2019re watching you'",
+        "link": "https://www.glasgowtimes.co.uk/news/26646263.watching-you-ricky-bells-message-andy-burnham/",
+        "description": "Glasgow council leader Ricky Bell urges Andy Burnham to give Scottish cities the same devolution and economic powers as English cities.",
+        "published": "Sat, 17 Oct 2026 15:14:02 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21523715/?type=app&htype=0"
+      },
       {
         "id": "https://news.stv.tv/?p=533766",
         "title": "Body of man recovered from water at Isle of Bute marina",
@@ -3603,22 +3619,6 @@
         "description": "Kemi Badenoch has raised the prospect of rewriting the Scotland Act to end what she calls the SNP's use of planning rules to veto reserved energy policy, while branding John Swinney a broken record with no answers on drug deaths or education.",
         "published": "Thu, 15 Oct 2026 16:41:06 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21587476/?type=app&htype=0"
-      },
-      {
-        "id": "5f32b84ce6f75e4b04c87e0728699723",
-        "title": "Two hectic Glasgow roads to CLOSE this weekend as drivers asked to avoid area",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26641194.paisley-road-west-corkerhill-road-close-resurfacing-works/",
-        "description": "Glasgow road closures: Paisley Road West and Corkerhill Road shut from October 17 to October 19 for resurfacing, with diversions in place.",
-        "published": "Thu, 15 Oct 2026 16:35:27 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19036953/?type=app&htype=0"
-      },
-      {
-        "id": "cd886be5b5fba0353b9e11bea62befdb",
-        "title": "Scotland could crackdown on e-bikes and balaclavas amid crime fears",
-        "link": "https://www.heraldscotland.com/news/26641164.ministers-eye-new-powers-tackle-masked-e-bike-gangs/",
-        "description": "Scotland considers balaclava exclusion zones as Neil Gray backs action on masked gangs, e-bike crime and calls for off-road vehicle licensing schemes.",
-        "published": "Thu, 15 Oct 2026 16:31:55 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21478970/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
