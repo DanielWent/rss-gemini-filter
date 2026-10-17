@@ -2821,6 +2821,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "12fa2622da4eb1b63ba6a7dcb4bf962c",
+        "title": "Boy, 15, rushed to hospital after accident on busy Glasgow street",
+        "link": "https://www.glasgowtimes.co.uk/news/26646080.15-year-old-hospitalised-accident-jamaica-street/",
+        "description": "A 15-year-old boy was taken to hospital after being hit by a bus on Jamaica Street, Glasgow, on October 16. Police Scotland enquiries continue.",
+        "published": "Sat, 17 Oct 2026 13:18:58 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20576397/?type=app&htype=0"
+      },
+      {
         "id": "bc93020a92189a393df06a1fbc246d8d",
         "title": "Chance to see iconic ship and mystery yacht set to pass Glasgow bridge",
         "link": "https://www.glasgowtimes.co.uk/news/26645991.govan-partick-footbridge-close-passing-two-boats/",
@@ -3611,14 +3619,6 @@
         "description": "Fresh turf is being laid as part of the ongoing transformation of one of Scotland\u2019s most recognisable public spaces.",
         "published": "Thu, 15 Oct 2026 16:30:50 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21587175/?type=app&htype=0"
-      },
-      {
-        "id": "6ba43202fb9a9bdb4768fb49a1510e84",
-        "title": "Former SNP MP urges people to invite migrants for mince and tatties",
-        "link": "https://www.glasgowtimes.co.uk/news/26641096.former-snp-mp-says-migrants-enrich-glasgow-society/",
-        "description": "Former SNP MP Anne McLaughlin praised immigration\u2019s impact on Glasgow, challenges asylum myths and backs SNP calls to devolve migration powers to Holyrood.",
-        "published": "Thu, 15 Oct 2026 16:21:17 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21587133/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
