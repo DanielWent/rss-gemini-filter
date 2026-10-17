@@ -2821,6 +2821,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/racist-glasgow-thug-threw-coffee-34774345",
+        "title": "Racist Glasgow thug threw coffee over volunteer, spat on cop and threatened to stab black person",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/racist-glasgow-thug-threw-coffee-34774345",
+        "description": "&quot;This must have been utterly terrifying for a woman giving up her time as a volunteer for vulnerable people in the city.&quot;",
+        "published": "Sat, 17 Oct 2026 08:19:52 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33229537.ece/ALTERNATES/s98/0_Screenshot-2026-01-14-140159.jpg"
+      },
+      {
         "id": "a4b30e8bdd789a980b6b13bfa50760f2",
         "title": "Royal National M\u00f2d in pictures as it closes with hundreds of choristers in Glasgow",
         "link": "https://www.heraldscotland.com/news/26638580.pictures-royal-national-m-d-2026-highlights-closes/",
@@ -3611,14 +3619,6 @@
         "description": "RNIB Scotland launches a Tech Hub at Glasgow\u2019s Mitchell Library, offering digital support for blind and partially sighted people using devices and apps.",
         "published": "Thu, 15 Oct 2026 15:05:02 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21586363/?type=app&htype=0"
-      },
-      {
-        "id": "8f05ee04415d3484a437e5f5f446ea3c",
-        "title": "Former Rockstar Games staff rally in Glasgow as dismissal case continues",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26640487.former-rockstar-games-staff-rally-glasgow-amid-dismissal-case/",
-        "description": "Former Rockstar Games employees held a rally outside Glasgow Tribunals Centre today.",
-        "published": "Thu, 15 Oct 2026 14:54:32 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21586367/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
