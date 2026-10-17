@@ -2829,6 +2829,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "f1541b08e484ce3e4dc4f66e6dcc1d36",
+        "title": "LIVE updates as Glasgow road CLOSED amid ongoing police incident",
+        "link": "https://www.glasgowtimes.co.uk/news/26646655.live-updates-hillington-quadrant-closed-amid-incident/",
+        "description": "Hillington Quadrant is currently closed off by police amid a suspected hit-and-run.",
+        "published": "Sat, 17 Oct 2026 18:36:03 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21597015/?type=app&htype=0"
+      },
+      {
         "id": "9291525",
         "title": "Predicted Celtic XI vs Hearts: Attacking duo stake strong claims as nine-goal summer recruit favoured up front",
         "link": "https://www.glasgowworld.com/sport/football/celtic/predicted-celtic-xi-hearts-attacking-duo-stake-strong-claims-nine-goal-summer-recruit-favoured-up-front-9291525",
@@ -3619,14 +3627,6 @@
         "description": "University of Aberdeen researchers will study why breast cancer behaves differently in men, with \u00a3300,000 in Scottish Government funding.",
         "published": "Fri, 16 Oct 2026 00:05:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21406484/?type=app&htype=0"
-      },
-      {
-        "id": "bd1f9d6709d7f6a28c887360918db93b",
-        "title": "Scottish retail sales fall 0.7 per cent in real terms as shoppers rein in spending",
-        "link": "https://www.heraldscotland.com/news/26639995.new-report-shows-scottish-retail-sales-fell-0-7-per-cent/",
-        "description": "Scottish retail sales rose 0.7% year on year in September, but fell in real terms as shoppers cut spending on non-food goods ahead of Christmas.",
-        "published": "Fri, 16 Oct 2026 00:05:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21133207/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
