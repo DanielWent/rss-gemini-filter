@@ -2821,6 +2821,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "814204b13f5b7a8ec8f37dec1fd9ab32",
+        "title": "John Swinney launches fund to fight the far right in Scotland",
+        "link": "https://www.glasgowtimes.co.uk/news/26646321.john-swinney-launches-fund-fight-far-right-scotland/",
+        "description": "John Swinney has announced \u00a330m for community groups to fund projects to tackle racism and the far right.",
+        "published": "Sat, 17 Oct 2026 15:39:45 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20709011/?type=app&htype=0"
+      },
+      {
         "id": "f46648298015422bdd07a77902049f39",
         "title": "Body found in park outside Glasgow in search for missing 17-year-old boy",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26646264.body-found-milngavie-police-search-missing-teen/",
@@ -3107,14 +3115,6 @@
         "description": "DRIVERS in Glasgow should prepare for delays over the next seven weeks due to planned upgrade works at a busy junction.",
         "published": "Fri, 16 Oct 2026 17:05:34 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20514097/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=533718",
-        "title": "Concerns grow for missing teenager who disappeared from Milngavie four days ago",
-        "link": "https://news.stv.tv/west-central/concerns-grow-for-missing-teenager-who-disappeared-from-milngavie-four-days-ago",
-        "description": "Kristijonas Demcenko, 17, was last seen at around 2.30pm on Monday",
-        "published": "Fri, 16 Oct 2026 16:00:51 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/8d8cc56c4ba66427fc0cd1f417adae5a-1792165574-1120x720.jpeg"
       },
       {
         "id": "9969d6a5e1892fe64ff84b633498ec57",
