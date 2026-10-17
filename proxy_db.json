@@ -2821,12 +2821,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "01324569e4a11a4191fdb34f659f6a7a",
+        "title": "Women\u2019s health champion rubbishes SNP plan to tackle gynaecology crisis",
+        "link": "https://www.heraldscotland.com/news/26644201.womens-health-champion-rejects-snp-gynaecology-scheme/",
+        "description": "Scotland\u2019s women\u2019s health champion has pushed back on an SNP-backed gynaecology workforce scheme as Maree Todd pledged action on rural care and abortion services.",
+        "published": "Sat, 17 Oct 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20576778/?type=app&htype=0"
+      },
+      {
+        "id": "9960eabe8c74d8b53743c18c1f430a76",
+        "title": "NHS staff anger over bombshell plan to reshape orthopaedic surgery across Scotland",
+        "link": "https://www.heraldscotland.com/news/26645333.orthopaedic-surgery-plan-kept-secret-nhs-staff/",
+        "description": "A confidential Scottish Government blueprint for orthopaedic surgery \u2014 revealed by The Herald \u2014 calls for 100 extra clinics and 15 extra theatres monthly, while surgeons, nurses and unions say they were never consulted.",
+        "published": "Sat, 17 Oct 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/11448795/?type=app&htype=0"
+      },
+      {
         "id": "9293511",
         "title": "Bin hubs boost as Glasgow City Council plans expansion from April",
         "link": "https://www.glasgowworld.com/news/glasgow-city-council-bin-hubs-expansion-9293511",
         "description": "<p>The Glasgow City Council is enhancing its recycling services with the installation of more bin hubs, which will benefit around 21,000 properties across the city, according to a new report.</p>",
         "published": "Sat, 17 Oct 2026 03:45:20 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2023/10/20/08/newFile.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "1488208f7433a499ecfbd9709ee7578b",
+        "title": "Call for action as Scottish housing developer placed into administration",
+        "link": "https://www.heraldscotland.com/news/26644890.call-action-new-homes-developer-administration/",
+        "description": "Industry chief raises concerns after housing developer placed into administration",
+        "published": "Sat, 17 Oct 2026 04:44:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21593142/?type=app&htype=0"
+      },
+      {
+        "id": "845a85990a7094f4479e43a7fdbe6c44",
+        "title": "The \u00a378m windfall that could stay in Scotland\u2019s wind farm communities",
+        "link": "https://www.heraldscotland.com/news/26643829.call-wind-farm-communities-retain-78m-year/",
+        "description": "Renewable energy developers are backing proposals that could allow Scottish councils to retain \u00a378m a year from new onshore wind farms",
+        "published": "Sat, 17 Oct 2026 04:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21592078/?type=app&htype=0"
       },
       {
         "id": "e39a882440e5bd1b2d9bb93eade088bf",
