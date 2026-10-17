@@ -2821,6 +2821,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "f441e087b83aa1b55e0c3841c1f14da1",
+        "title": "Swinney pledges 'action not words' to tackle violence against women",
+        "link": "https://www.glasgowtimes.co.uk/news/26646362.swinney-pledges-bill-make-misogyny-criminal-offence/",
+        "description": "John Swinney has announced new measures to tackle misogyny and rising violence against women and girls.",
+        "published": "Sat, 17 Oct 2026 16:02:48 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20750511/?type=app&htype=0"
+      },
+      {
         "id": "814204b13f5b7a8ec8f37dec1fd9ab32",
         "title": "John Swinney launches fund to fight the far right in Scotland",
         "link": "https://www.glasgowtimes.co.uk/news/26646321.john-swinney-launches-fund-fight-far-right-scotland/",
@@ -3611,14 +3619,6 @@
         "description": "Dumbreck Road in Glasgow will close for resurfacing from October 19 to October 29, 2026. Drivers are urged to avoid the area during 10 days of disruption.",
         "published": "Thu, 15 Oct 2026 16:48:19 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/13951087/?type=app&htype=0"
-      },
-      {
-        "id": "ba1ad07f7b61869ee31a271aad26af76",
-        "title": "'Devolution's not a religion' Badenoch raises prospect of nuclear Holyrood power grab",
-        "link": "https://www.heraldscotland.com/news/26641229.badenoch-opens-door-scotland-act-reform-new-nuclear/",
-        "description": "Kemi Badenoch has raised the prospect of rewriting the Scotland Act to end what she calls the SNP's use of planning rules to veto reserved energy policy, while branding John Swinney a broken record with no answers on drug deaths or education.",
-        "published": "Thu, 15 Oct 2026 16:41:06 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21587476/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
