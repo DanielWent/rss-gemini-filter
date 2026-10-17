@@ -2074,6 +2074,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/16562345/?type=app&htype=0"
       },
       {
+        "id": "c4f8ebbd860276f30d03580336b2c220",
+        "title": "Glasgow Times readers reveal the once great nightclubs they want to see return",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26645764.glasgow-readers-name-nightclubs-want-see-return/",
+        "description": "From wild nights to weddings, Glasgow Times readers have shared the nightclubs that they'd like to see return to the city.",
+        "published": "Sat, 17 Oct 2026 09:12:26 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21596396/?type=app&htype=0"
+      },
+      {
         "id": "781f44726ec3d82bcbe899a1b4fa7b78",
         "title": "Plans revealed for new detached homes beside primary school outside Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26644303.four-detached-homes-planned-beside-lennoxtown-primary-school/",
@@ -2821,6 +2829,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "647b562a6ffd7ce12f7403ced32a786b",
+        "title": "Swinney says Scottish independence referendum campaign has already begun",
+        "link": "https://www.glasgowtimes.co.uk/news/26646427.swinney-says-independence-referendum-campaign-begun/",
+        "description": "The referendum campaign on Scottish independence has already begun, John Swinney said.",
+        "published": "Sat, 17 Oct 2026 16:40:12 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20371027/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/majority-glasgow-residents-against-increasing-34759281",
+        "title": "Majority of Glasgow residents are against increasing motorway speed limit",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/majority-glasgow-residents-against-increasing-34759281",
+        "description": "Respondents in Glasgow were the second strongest of the main UK cities in their backing to keep the limit at 70mph.",
+        "published": "Sat, 17 Oct 2026 15:34:39 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34759484.ece/ALTERNATES/s98/0_gettyimages-830520036-170667a.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/life-stopped-lost-one-twins-34760531",
+        "title": "'Life stopped when I lost one of my twins - now I'm breaking the stigma around stillbirth'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/life-stopped-lost-one-twins-34760531",
+        "description": "A Glasgow opera singer has opened up on losing one of her twin babies, saying &quot;life stopped&quot; when she was told her daughter had passed in the womb.",
+        "published": "Sat, 17 Oct 2026 15:28:11 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34770969.ece/ALTERNATES/s98/1_Stephanie.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-dad-battling-mnd-meets-34779831",
+        "title": "Lanarkshire dad battling MND meets Prime Minister Andy Burnham in plea to find cure",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-dad-battling-mnd-meets-34779831",
+        "description": "Mark Sommerville was given just 18 months to live after being diagnosed with MND in October 2023.",
+        "published": "Sat, 17 Oct 2026 15:25:42 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34779869.ece/ALTERNATES/s98/0_JS421520412.jpg"
+      },
+      {
         "id": "f441e087b83aa1b55e0c3841c1f14da1",
         "title": "Swinney pledges 'action not words' to tackle violence against women",
         "link": "https://www.glasgowtimes.co.uk/news/26646362.swinney-pledges-bill-make-misogyny-criminal-offence/",
@@ -2835,6 +2875,14 @@
         "description": "John Swinney has announced \u00a330m for community groups to fund projects to tackle racism and the far right.",
         "published": "Sat, 17 Oct 2026 15:39:45 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20709011/?type=app&htype=0"
+      },
+      {
+        "id": "d8f4817514e5d82305cb3277be377395",
+        "title": "Swinney vows to bring Scotland\u2019s bus network back into public control by 2031",
+        "link": "https://www.heraldscotland.com/news/26646307.scotland-bus-franchising-swinney-pledges-public-control/",
+        "description": "John Swinney used his SNP conference speech to pledge bus franchising across Scotland by 2031, a new misogyny criminal offence before next summer, and a \u00a330 million fund to tackle racism in communities.",
+        "published": "Sat, 17 Oct 2026 15:34:49 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/13168385/?type=app&htype=0"
       },
       {
         "id": "f46648298015422bdd07a77902049f39",
@@ -2931,6 +2979,14 @@
         "description": "Kate Davenport, 49, contracted the painful skin infestation after moving into the temporary property in the Pollokshaws area of Glasgow on October 2",
         "published": "Sat, 17 Oct 2026 09:49:10 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34778926.ece/ALTERNATES/s98/0_AMP_SDR_151026_SCABIES_00010-copy.jpg"
+      },
+      {
+        "id": "c4f8ebbd860276f30d03580336b2c220",
+        "title": "Glasgow Times readers reveal the once great nightclubs they want to see return",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26645764.glasgow-readers-name-nightclubs-want-see-return/",
+        "description": "From wild nights to weddings, Glasgow Times readers have shared the nightclubs that they'd like to see return to the city.",
+        "published": "Sat, 17 Oct 2026 09:12:26 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21596396/?type=app&htype=0"
       },
       {
         "id": "03f66ea8f5b874b709bf52c39dec4e5f",
@@ -3571,54 +3627,6 @@
         "description": "The application from Wheatley Homes follows the controversial demolition of four high-rise blocks on the site last year.",
         "published": "Thu, 15 Oct 2026 19:28:16 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/c08b8d520e5c686c8f4ee5da75c994ae-1792092302-1200x720.jpeg"
-      },
-      {
-        "id": "cb45db893ad30d1a514757de4b1926a5",
-        "title": "Lockerbie bombing suspect\u2019s alleged confession can be used at US trial",
-        "link": "https://www.heraldscotland.com/news/26641599.lockerbie-bombing-suspects-alleged-confession-allowed-trial/",
-        "description": "A US judge in Washington rules an alleged confession can be used at Abu Agila Masud\u2019s Lockerbie bombing trial over Pan Am Flight 103 on January 19.",
-        "published": "Thu, 15 Oct 2026 18:46:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/3819390/?type=app&htype=0"
-      },
-      {
-        "id": "933025f4e5815e21f921e52484642a08",
-        "title": "I love Glasgow but I\u2019m sick of waiting for it to get better and I'm sick of that cone",
-        "link": "https://www.heraldscotland.com/opinion/26641444.still-love-glasgow---just-tired-waiting-get-better/",
-        "description": "Maybe when the sewers of Glasgow stop exploding, and the endless roadworks end, that god damn cone will make me laugh again. For now, the joke is as tired as the city",
-        "published": "Thu, 15 Oct 2026 17:38:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/16889783/?type=app&htype=0"
-      },
-      {
-        "id": "338a638cfabf79240ce2ef0211184af0",
-        "title": "Police reveal why they swarmed to Glasgow property amid emergency response",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26641495.police-attend-glasgow-flat-incident-drumlaken-street/",
-        "description": "Police and fire crews attend Drumlaken Street, Glasgow, after concerns for a man inside a flat. Police Scotland says the October 15 incident is contained.",
-        "published": "Thu, 15 Oct 2026 17:32:56 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21587748/?type=app&htype=0"
-      },
-      {
-        "id": "9290313",
-        "title": "Why \u00a33.5m Rangers ace sought fresh start abroad as shock Ibrox transfer exit after just one season explained",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/why-ps35m-rangers-ace-sought-fresh-start-abroad-shock-ibrox-transfer-exit-one-season-explained-9290313",
-        "description": "<p>Norway international explains why he felt the time was right to leave Rangers after just one season at Ibrox</p>",
-        "published": "Thu, 15 Oct 2026 16:30:17 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/15/15/47/GettyImages-2298972779.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "9290300",
-        "title": "Celtic flop claims Parkhead chiefs cost him World Cup dream as he reveals Rangers reality and eyes \u00a320m payday",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-flop-parkhead-chiefs-world-cup-dream-rangers-reality-ps20m-payday-9290300",
-        "description": "<p>Winger lifts lid on his Parkhead struggles and explains why Gent move could be a win-win for all parties</p>",
-        "published": "Thu, 15 Oct 2026 16:00:18 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/15/15/17/GettyImages-2294582953.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "d316dcc0813f8bcd336d1228c0cd9ec2",
-        "title": "Major Glasgow route to close for 10 days as resurfacing gets underway",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26641268.dumbreck-road-glasgow-close-10-days-resurfacing-works/",
-        "description": "Dumbreck Road in Glasgow will close for resurfacing from October 19 to October 29, 2026. Drivers are urged to avoid the area during 10 days of disruption.",
-        "published": "Thu, 15 Oct 2026 16:48:19 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13951087/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
