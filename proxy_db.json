@@ -2821,6 +2821,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "66716d7dce3ff303dc525457b9266853",
+        "title": "Call for action as Glasgow housing developer placed into administration",
+        "link": "https://www.glasgowtimes.co.uk/news/26645936.call-action-new-homes-developer-administration/",
+        "description": "Homes for Scotland urges Holyrood to act as housebuilder administrations deepen Scotland\u2019s housing emergency, with SME numbers at a 20-year low amid collapses.",
+        "published": "Sat, 17 Oct 2026 11:24:43 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21593142/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-dies-hospital-hours-34778995",
         "title": "Glasgow mum dies in hospital hours after family claim she was 'given wrong treatment'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-dies-hospital-hours-34778995",
@@ -2843,14 +2851,6 @@
         "description": "Kate Davenport, 49, contracted the painful skin infestation after moving into the temporary property in the Pollokshaws area of Glasgow on October 2",
         "published": "Sat, 17 Oct 2026 09:49:10 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34778926.ece/ALTERNATES/s98/0_AMP_SDR_151026_SCABIES_00010-copy.jpg"
-      },
-      {
-        "id": "85df0381b91af54088f592c4c0bff5c5",
-        "title": "Two, aged 16 and 80, dead after plane believed to have left Glasgow Airport crashes",
-        "link": "https://www.glasgowtimes.co.uk/news/26645808.two-16-80-dead-light-airplane-crash-near-drymen/",
-        "description": "Two males, aged 16 and 80, died after a light aircraft crashed near Drymen on October 16. Police Scotland and the AAIB are investigating.",
-        "published": "Sat, 17 Oct 2026 09:40:22 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13735045/?type=app&htype=0"
       },
       {
         "id": "03f66ea8f5b874b709bf52c39dec4e5f",
@@ -3323,14 +3323,6 @@
         "description": "Drivers in Glasgow should prepare for significant disruptions as Duke Street is set to close for essential resurfacing works.",
         "published": "Fri, 16 Oct 2026 12:28:15 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21475912/?type=app&htype=0"
-      },
-      {
-        "id": "106edc8fa9d1736a2d08e4309a46928d",
-        "title": "'Very worrying' MSP speaks after death of 17 year-old in Milton",
-        "link": "https://www.glasgowtimes.co.uk/news/26643220.msp-speaks-jack-mellons-death-treated-murder/",
-        "description": "Bob Doris speaks after teenager Jack Mellon\u2019s death on Ashgill Road, Glasgow, was treated as murder.",
-        "published": "Fri, 16 Oct 2026 11:53:58 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21590546/?type=app&htype=0"
       },
       {
         "id": "5482649",
