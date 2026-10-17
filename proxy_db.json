@@ -2821,6 +2821,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-scabies-told-cover-34778929",
+        "title": "Glasgow mum with scabies told to cover wounds with bin bags in filthy council flat",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-scabies-told-cover-34778929",
+        "description": "Kate Davenport, 49, contracted the painful skin infestation after moving into the temporary property in the Pollokshaws area of Glasgow on October 2",
+        "published": "Sat, 17 Oct 2026 09:49:10 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34778926.ece/ALTERNATES/s98/0_AMP_SDR_151026_SCABIES_00010-copy.jpg"
+      },
+      {
+        "id": "85df0381b91af54088f592c4c0bff5c5",
+        "title": "Two, aged 16 and 80, dead after plane believed to have left Glasgow Airport crashes",
+        "link": "https://www.glasgowtimes.co.uk/news/26645808.two-16-80-dead-light-airplane-crash-near-drymen/",
+        "description": "Two males, aged 16 and 80, died after a light aircraft crashed near Drymen on October 16. Police Scotland and the AAIB are investigating.",
+        "published": "Sat, 17 Oct 2026 09:40:22 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13735045/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/boy-16-pensioner-killed-light-34778743",
         "title": "Boy, 16 and pensioner killed in light aircraft crash near Loch Lomond",
         "link": "https://www.glasgowlive.co.uk/news/boy-16-pensioner-killed-light-34778743",
@@ -3603,22 +3619,6 @@
         "description": "Glasgow drivers face disruption on Great Western Road as resurfacing cuts westbound traffic to one lane from October 19 to October 24, with diversions.",
         "published": "Thu, 15 Oct 2026 16:11:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17882119/?type=app&htype=74"
-      },
-      {
-        "id": "cb96986e846440e030026b08f4476b60",
-        "title": "LIVE updates as 'armed cops' swarm attend incident near Glasgow school",
-        "link": "https://www.glasgowtimes.co.uk/news/26640953.live-updates-armed-cops-swarm-glasgows-drumlaken-street/",
-        "description": "'Armed police' are currently in attendance at an ongoing incident near a Glasgow school.",
-        "published": "Thu, 15 Oct 2026 16:00:57 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21586806/?type=app&htype=0"
-      },
-      {
-        "id": "e0c2adcd1a1d3b80913f56fda2e460ae",
-        "title": "Major \u00a316.6m plans could transform part of Glasgow with new community hub",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26640680.drumchapel-town-hall-library-plans-move-forward/",
-        "description": "Glasgow City Council plans a new Drumchapel town hall and library at Garscadden House as part of a \u00a316.6m regeneration programme, with \u00a315m UK Government backing.",
-        "published": "Thu, 15 Oct 2026 15:23:11 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21586664/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
