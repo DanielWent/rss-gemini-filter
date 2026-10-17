@@ -2821,12 +2821,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=533766",
+        "title": "Body of man recovered from water at Isle of Bute marina",
+        "link": "https://news.stv.tv/west-central/body-of-man-recovered-from-water-at-isle-of-bute-marina",
+        "description": "Police are treating the death as 'unexplained'",
+        "published": "Sat, 17 Oct 2026 13:42:58 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/ad48b8629a26fc7b96d6c69c89fdabd0-1792244164.jpg"
+      },
+      {
         "id": "12fa2622da4eb1b63ba6a7dcb4bf962c",
         "title": "Boy, 15, rushed to hospital after accident on busy Glasgow street",
         "link": "https://www.glasgowtimes.co.uk/news/26646080.15-year-old-hospitalised-accident-jamaica-street/",
         "description": "A 15-year-old boy was taken to hospital after being hit by a bus on Jamaica Street, Glasgow, on October 16. Police Scotland enquiries continue.",
         "published": "Sat, 17 Oct 2026 13:18:58 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20576397/?type=app&htype=0"
+      },
+      {
+        "id": "6dcc05a633a9d1cea2cedc2969ca6d5b",
+        "title": "Organisers thank Glasgow as record breaking festival wraps up in the city",
+        "link": "https://www.glasgowtimes.co.uk/news/26646039.thousands-attend-record-breaking-festival-glasgow/",
+        "description": "Glasgow\u2019s 2026 Royal National M\u00f2d welcomed 11,500 people over nine days, celebrating Gaelic language and culture; the festival moves to Western Isles in 2027.",
+        "published": "Sat, 17 Oct 2026 12:50:13 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21595454/?type=app&htype=0"
       },
       {
         "id": "bc93020a92189a393df06a1fbc246d8d",
@@ -3603,14 +3619,6 @@
         "description": "Scotland considers balaclava exclusion zones as Neil Gray backs action on masked gangs, e-bike crime and calls for off-road vehicle licensing schemes.",
         "published": "Thu, 15 Oct 2026 16:31:55 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21478970/?type=app&htype=0"
-      },
-      {
-        "id": "f06be2cd299c06722a23aa9e64d52626",
-        "title": "Latest George Square images reveal striking progress on \u00a320m revamp",
-        "link": "https://www.glasgowtimes.co.uk/news/26641155.fresh-turf-laid-20m-george-square-redevelopment-update/",
-        "description": "Fresh turf is being laid as part of the ongoing transformation of one of Scotland\u2019s most recognisable public spaces.",
-        "published": "Thu, 15 Oct 2026 16:30:50 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21587175/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
