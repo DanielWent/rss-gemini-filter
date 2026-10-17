@@ -2821,12 +2821,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/boy-16-pensioner-killed-light-34778743",
+        "title": "Boy, 16 and pensioner killed in light aircraft crash near Loch Lomond",
+        "link": "https://www.glasgowlive.co.uk/news/boy-16-pensioner-killed-light-34778743",
+        "description": "Emergency services were called to reports of a collision north-east of Drymen at around 4.45pm on Friday",
+        "published": "Sat, 17 Oct 2026 08:39:17 +0000",
+        "image_url": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34765717.ece/ALTERNATES/s98/0_BR050422crime_scenePAG-5.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/racist-glasgow-thug-threw-coffee-34774345",
         "title": "Racist Glasgow thug threw coffee over volunteer, spat on cop and threatened to stab black person",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/racist-glasgow-thug-threw-coffee-34774345",
         "description": "&quot;This must have been utterly terrifying for a woman giving up her time as a volunteer for vulnerable people in the city.&quot;",
         "published": "Sat, 17 Oct 2026 08:19:52 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33229537.ece/ALTERNATES/s98/0_Screenshot-2026-01-14-140159.jpg"
+      },
+      {
+        "id": "03f66ea8f5b874b709bf52c39dec4e5f",
+        "title": "Police Scotland told to produce vetting timeline after latest convictions",
+        "link": "https://www.heraldscotland.com/news/26645763.police-scotland-told-produce-vetting-timeline-urgently/",
+        "description": "Police Scotland have been told to publish a timeline for the re-vetting of officers, after the latest conviction for sexual assault",
+        "published": "Sat, 17 Oct 2026 09:11:56 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21222202/?type=app&htype=0"
       },
       {
         "id": "a4b30e8bdd789a980b6b13bfa50760f2",
@@ -3603,22 +3619,6 @@
         "description": "Glasgow City Council plans a new Drumchapel town hall and library at Garscadden House as part of a \u00a316.6m regeneration programme, with \u00a315m UK Government backing.",
         "published": "Thu, 15 Oct 2026 15:23:11 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21586664/?type=app&htype=0"
-      },
-      {
-        "id": "b378c370827cc3c128b374543855ce74",
-        "title": "Cannabis smoker 'passed out' before \u00a3220k tower block inferno",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26640637.jet-li-pentecost-caused-coatbridge-tower-block-fire-smoking/",
-        "description": "Coatbridge tower block evacuated after cannabis smoker Jet Li Pentecost started a 14th-floor fire, causing \u00a3220,000 damage, Airdrie Sheriff Court heard.",
-        "published": "Thu, 15 Oct 2026 15:17:30 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21586475/?type=app&htype=0"
-      },
-      {
-        "id": "7aec143b1beb39c552278fe2fdf5d387",
-        "title": "New Glasgow tech hub to help visually impaired people use digital device",
-        "link": "https://www.glasgowtimes.co.uk/news/26640551.new-glasgow-tech-hub-support-people-sight-loss/",
-        "description": "RNIB Scotland launches a Tech Hub at Glasgow\u2019s Mitchell Library, offering digital support for blind and partially sighted people using devices and apps.",
-        "published": "Thu, 15 Oct 2026 15:05:02 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21586363/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
