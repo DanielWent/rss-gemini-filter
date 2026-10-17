@@ -2821,6 +2821,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9293511",
+        "title": "Bin hubs boost as Glasgow City Council plans expansion from April",
+        "link": "https://www.glasgowworld.com/news/glasgow-city-council-bin-hubs-expansion-9293511",
+        "description": "<p>The Glasgow City Council is enhancing its recycling services with the installation of more bin hubs, which will benefit around 21,000 properties across the city, according to a new report.</p>",
+        "published": "Sat, 17 Oct 2026 03:45:20 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2023/10/20/08/newFile.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
         "id": "e39a882440e5bd1b2d9bb93eade088bf",
         "title": "Swinney says the 'stars are aligning' for independence but polls show Scots split",
         "link": "https://www.heraldscotland.com/news/26645505.john-swinney-snp-conference-speech-unionists-panic/",
@@ -3598,6 +3606,14 @@
     "icon_url": "https://www.glasgowworld.com/favicon.ico",
     "output_file": "Glasgow_World_AI_Filtered.xml",
     "articles": [
+      {
+        "id": "9293493",
+        "title": "For Sale: This incredible Bearsden villa is on the market for \u00a31.25m and it's a must see",
+        "link": "https://www.glasgowworld.com/lifestyle/homes-and-gardens/for-sale-this-incredible-bearsden-9293493",
+        "description": "<p>The Bearsden villa, a must-see property, is on the market for \u00a31.25m, offering a unique opportunity for potential buyers.</p>",
+        "published": "Sat, 17 Oct 2026 03:45:51 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/16/19/43/154ea2eea2834a5c647c8725ab21ecfb-dd85dd18.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C1"
+      },
       {
         "id": "9286496",
         "title": "Glasgow archaeologists uncover Harvie's Dyke remains in Dalmarnock",
