@@ -2821,6 +2821,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "a4b30e8bdd789a980b6b13bfa50760f2",
+        "title": "Royal National M\u00f2d in pictures as it closes with hundreds of choristers in Glasgow",
+        "link": "https://www.heraldscotland.com/news/26638580.pictures-royal-national-m-d-2026-highlights-closes/",
+        "description": "Tuesday saw the junior competition programme reach its climax with the fluent learner events at the Royal National M\u00f2d in Glasgow. In the Solo Traditional Singing Girls and Boys 13-15 categories, 15-year-old Flora Scott from Sir E Scott School in Harris, collected both the Traditional Silver",
+        "published": "Sat, 17 Oct 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21584269/?type=app&htype=0"
+      },
+      {
         "id": "39fc6742525d085a7a0498bdcdf38d3e",
         "title": "The forgotten Napoleon soldier who transformed fitness in Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26631362.napoleonic-veteran-honoured-glasgows-father-fitness/",
@@ -2851,6 +2859,14 @@
         "description": "A fresh plea for the sale of fireworks to the public to be \"tightly regulated\" has been issued by a Glasgow councillor.",
         "published": "Sat, 17 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20983961/?type=app&htype=0"
+      },
+      {
+        "id": "e71e03db4c2255fa752ba3b227e2fe20",
+        "title": "Attacks on Edinburgh secondary school teachers more than double in four years",
+        "link": "https://www.heraldscotland.com/news/26644394.attacks-edinburgh-secondary-school-teachers-double/",
+        "description": "In total, 210 attacks were recorded, including 39 instances of teachers being hit with a thrown object and 14 cases of an item being used as a weapon.",
+        "published": "Sat, 17 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20947907/?type=app&htype=0"
       },
       {
         "id": "01324569e4a11a4191fdb34f659f6a7a",
@@ -3603,22 +3619,6 @@
         "description": "Former Rockstar Games employees held a rally outside Glasgow Tribunals Centre today.",
         "published": "Thu, 15 Oct 2026 14:54:32 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21586367/?type=app&htype=0"
-      },
-      {
-        "id": "0a65997ffc6f5c73e9795425e4f1f774",
-        "title": "NHS Tayside clarifies status of Emergency Department amid closure rumours",
-        "link": "https://www.heraldscotland.com/news/26640314.nhs-tayside-says-perth-royal-infirmary-e-will-not-close/",
-        "description": "NHS Tayside says Perth Royal Infirmary Emergency Department will not close as patient numbers rise, urging residents to call NHS 24 on 111 for urgent care.",
-        "published": "Thu, 15 Oct 2026 14:47:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21585917/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=533484",
-        "title": "Barack Obama leaves Glasgow after speaking at arena show",
-        "link": "https://news.stv.tv/west-central/barack-obama-leaves-glasgow-after-speaking-at-arena-show",
-        "description": "The former US president waved to a small crowd as he departed his hotel in central Glasgow",
-        "published": "Thu, 15 Oct 2026 13:42:24 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/eb25f1caf95691dab218706adac359a7-1792071646-1119x720.jpeg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
