@@ -2829,6 +2829,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=533759",
+        "title": "Royal National M\u00f2d closes after welcoming record number of attendees",
+        "link": "https://news.stv.tv/west-central/royal-national-mod-closes-after-welcoming-record-number-of-attendees",
+        "description": "Organisers said the festival 'shone a spotlight on how important Gaelic is to our nation'",
+        "published": "Sat, 17 Oct 2026 18:49:43 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/c5cd86d60df73d6c18cd0ca29e1e774a-1792262742.jpeg"
+      },
+      {
         "id": "f1541b08e484ce3e4dc4f66e6dcc1d36",
         "title": "LIVE updates as Glasgow road CLOSED amid ongoing police incident",
         "link": "https://www.glasgowtimes.co.uk/news/26646655.live-updates-hillington-quadrant-closed-amid-incident/",
@@ -3619,14 +3627,6 @@
         "description": "A major overhaul of Scottish local government could bring years of disruption. The case for reform needs to be tested far more rigorously before lines are redrawn",
         "published": "Fri, 16 Oct 2026 04:30:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21586228/?type=app&htype=0"
-      },
-      {
-        "id": "5a8afa514815a0e626b494a43669e40f",
-        "title": "Aberdeen researchers launch two-year study into male breast cancer",
-        "link": "https://www.heraldscotland.com/news/26639893.aberdeen-study-aims-improve-treatment-male-breast-cancer/",
-        "description": "University of Aberdeen researchers will study why breast cancer behaves differently in men, with \u00a3300,000 in Scottish Government funding.",
-        "published": "Fri, 16 Oct 2026 00:05:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21406484/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
