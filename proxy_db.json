@@ -2821,6 +2821,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "bc93020a92189a393df06a1fbc246d8d",
+        "title": "Chance to see iconic ship and mystery yacht set to pass Glasgow bridge",
+        "link": "https://www.glasgowtimes.co.uk/news/26645991.govan-partick-footbridge-close-passing-two-boats/",
+        "description": "Glasgow\u2019s Govan-Partick footbridge will close from 5pm to 7.30pm as the P.S. Waverley and a mystery yacht pass, with Riverside Museum also shutting.",
+        "published": "Sat, 17 Oct 2026 12:04:29 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21420512/?type=app&htype=0"
+      },
+      {
+        "id": "9293396",
+        "title": "Celtic warned about Hearts revenge mission as O'Neill explains why last season's title charge isn't a one off",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-warned-about-hearts-revenge-mission-as-martin-oneill-explains-why-last-seasons-title-charge-isnt-a-one-off-9293396",
+        "description": "<p>Hoops host the Jambos this Sunday in a repeat of last season\u2019s title decider</p>",
+        "published": "Sat, 17 Oct 2026 11:00:49 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/16/17/38/GettyImages-2276553163.jpeg?width=1200&auto=webp&trim=65%2C0%2C65%2C0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/film-news/free-film-tv-career-workshops-34775364",
+        "title": "Free film and TV career workshops coming to Glasgow from Netflix and National Youth Theatre",
+        "link": "https://www.glasgowlive.co.uk/whats-on/film-news/free-film-tv-career-workshops-34775364",
+        "description": "Young people in Glasgow will have the opportunity to build their bank of skills and explore a career in the creative industries.",
+        "published": "Sat, 17 Oct 2026 10:59:52 +0000",
+        "image_url": "https://i2-prod.edinburghlive.co.uk/news/celebs-tv/article34775347.ece/ALTERNATES/s98/1_JS277692927.jpg"
+      },
+      {
         "id": "66716d7dce3ff303dc525457b9266853",
         "title": "Call for action as Glasgow housing developer placed into administration",
         "link": "https://www.glasgowtimes.co.uk/news/26645936.call-action-new-homes-developer-administration/",
@@ -2931,14 +2955,6 @@
         "description": "<p>The Glasgow City Council is enhancing its recycling services with the installation of more bin hubs, which will benefit around 21,000 properties across the city, according to a new report.</p>",
         "published": "Sat, 17 Oct 2026 03:45:20 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2023/10/20/08/newFile.jpg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "1488208f7433a499ecfbd9709ee7578b",
-        "title": "Call for action as Scottish housing developer placed into administration",
-        "link": "https://www.heraldscotland.com/news/26644890.call-action-new-homes-developer-administration/",
-        "description": "Industry chief raises concerns after housing developer placed into administration",
-        "published": "Sat, 17 Oct 2026 04:44:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21593142/?type=app&htype=0"
       },
       {
         "id": "845a85990a7094f4479e43a7fdbe6c44",
@@ -3603,14 +3619,6 @@
         "description": "Former SNP MP Anne McLaughlin praised immigration\u2019s impact on Glasgow, challenges asylum myths and backs SNP calls to devolve migration powers to Holyrood.",
         "published": "Thu, 15 Oct 2026 16:21:17 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21587133/?type=app&htype=0"
-      },
-      {
-        "id": "3c2fb7c40246b064e05ba6b44c9dd3e5",
-        "title": "Drivers warned to avoid one of Glasgow's busiest roads amid five-day disruption",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26641018.great-western-road-lane-closure-resurfacing-works/",
-        "description": "Glasgow drivers face disruption on Great Western Road as resurfacing cuts westbound traffic to one lane from October 19 to October 24, with diversions.",
-        "published": "Thu, 15 Oct 2026 16:11:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17882119/?type=app&htype=74"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
