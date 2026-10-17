@@ -2821,6 +2821,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-dies-hospital-hours-34778995",
+        "title": "Glasgow mum dies in hospital hours after family claim she was 'given wrong treatment'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-dies-hospital-hours-34778995",
+        "description": "Kirsty Storrie passed away at Glasgow Royal Infirmary after being treated for a perforated bowel but her family claim medics later admitted they found no evidence of the condition.",
+        "published": "Sat, 17 Oct 2026 10:15:21 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34778994.ece/ALTERNATES/s98/0_kirsty1.jpg"
+      },
+      {
+        "id": "722427228a24c5acbcb48eb089a1d924",
+        "title": "Glasgow Airport boss speaks out after teen and pensioner died in plane crash",
+        "link": "https://www.glasgowtimes.co.uk/news/26645910.glasgow-airport-boss-speaks-drymen-plane-crash/",
+        "description": "Glasgow Airport boss speaks after light aircraft crash near Drymen killed a 16-year-old and 80-year-old. AAIB investigates amid airspace restrictions.",
+        "published": "Sat, 17 Oct 2026 11:05:54 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20483148/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-scabies-told-cover-34778929",
         "title": "Glasgow mum with scabies told to cover wounds with bin bags in filthy council flat",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-scabies-told-cover-34778929",
@@ -2835,22 +2851,6 @@
         "description": "Two males, aged 16 and 80, died after a light aircraft crashed near Drymen on October 16. Police Scotland and the AAIB are investigating.",
         "published": "Sat, 17 Oct 2026 09:40:22 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/13735045/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/boy-16-pensioner-killed-light-34778743",
-        "title": "Boy, 16 and pensioner killed in light aircraft crash near Loch Lomond",
-        "link": "https://www.glasgowlive.co.uk/news/boy-16-pensioner-killed-light-34778743",
-        "description": "Emergency services were called to reports of a collision north-east of Drymen at around 4.45pm on Friday",
-        "published": "Sat, 17 Oct 2026 08:39:17 +0000",
-        "image_url": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34765717.ece/ALTERNATES/s98/0_BR050422crime_scenePAG-5.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/racist-glasgow-thug-threw-coffee-34774345",
-        "title": "Racist Glasgow thug threw coffee over volunteer, spat on cop and threatened to stab black person",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/racist-glasgow-thug-threw-coffee-34774345",
-        "description": "&quot;This must have been utterly terrifying for a woman giving up her time as a volunteer for vulnerable people in the city.&quot;",
-        "published": "Sat, 17 Oct 2026 08:19:52 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33229537.ece/ALTERNATES/s98/0_Screenshot-2026-01-14-140159.jpg"
       },
       {
         "id": "03f66ea8f5b874b709bf52c39dec4e5f",
