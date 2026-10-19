@@ -2861,6 +2861,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-trans-teens-say-theyve-34786884",
+        "title": "Glasgow trans teens say they've been 'spat at' and had \u2018stones thrown at them\u2019 in city centre",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-trans-teens-say-theyve-34786884",
+        "description": "Trans teenagers have opened up about the abuse they have faced in Glasgow city centre for presenting differently from the &quot;norm&quot;.",
+        "published": "Mon, 19 Oct 2026 16:04:57 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34737700.ece/ALTERNATES/s98/2_JS420614556.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/calls-faded-glasgow-road-markings-34787441",
+        "title": "Calls for faded Glasgow road markings to be upgraded amid safety fears",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/calls-faded-glasgow-road-markings-34787441",
+        "description": "Glasgow City Council is struggling to find contractors for 'wee jobs' on the city's roads, a councillor said.",
+        "published": "Mon, 19 Oct 2026 15:54:15 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34787444.ece/ALTERNATES/s98/0_IMG-20261015-WA0004.jpg"
+      },
+      {
+        "id": "dad3d6f63130ce25b2faf65b60a13086",
+        "title": "Glasgow pupils with additional support needs benefit from independent travel skills",
+        "link": "https://www.glasgowtimes.co.uk/news/26650898.glasgow-asn-pupils-learning-independent-travel-skills/",
+        "description": "Children across Glasgow with ASN have been learning independent travel skills in a bid to build their confidence and life skills.",
+        "published": "Mon, 19 Oct 2026 16:38:37 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21118135/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-school-bomb-threat-sees-34787458",
+        "title": "Glasgow school 'bomb threat' sees Police Scotland receive over 300 worried calls",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-school-bomb-threat-sees-34787458",
+        "description": "Parents have been advised to &quot;contact the relevant authority&quot; for information about specific schools.",
+        "published": "Mon, 19 Oct 2026 15:37:08 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34787553.ece/ALTERNATES/s98/0_BRITAIN-MUSIC-FESTIVAL.jpg"
+      },
+      {
+        "id": "4d1d20516c2baca086a59f8b0fca853e",
+        "title": "Glasgow play Snuff returns to Scottish stages after more than 20 years",
+        "link": "https://www.heraldscotland.com/news/26650590.snuff-returns-glasgow-edinburgh-theatres-2027/",
+        "description": "Davey Anderson\u2019s play Snuff returns to the Traverse Theatre and Glasgow\u2019s Tron Theatre in February and March 2027, exploring violence, masculinity and social division.",
+        "published": "Mon, 19 Oct 2026 16:10:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21603137/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/posh-hotel-popular-tourist-town-34786010",
         "title": "Posh hotel in popular tourist town shuts down leaving all staff redundant",
         "link": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/posh-hotel-popular-tourist-town-34786010",
@@ -2869,12 +2909,36 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/whats-on/article34786005.ece/ALTERNATES/s98/1_Kinnettles-Hotel-in-St-Andrews.jpg"
       },
       {
+        "id": "2d002e2f69983ab9fd51f65c2266916b",
+        "title": "Hundreds more bin hubs could be installed across Glasgow from next April",
+        "link": "https://www.glasgowtimes.co.uk/news/26650552.glasgow-bin-hubs-expected-installed-april/",
+        "description": "More bin hubs, designed to improve recycling rates across Glasgow, are expected to be installed from next April.",
+        "published": "Mon, 19 Oct 2026 15:49:59 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19651276/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=533958",
         "title": "Patient developed sepsis after being discharged from hospital without adequate follow-up treatment",
         "link": "https://news.stv.tv/west-central/patient-developed-sepsis-after-being-discharged-from-hospital-without-adequate-follow-up-treatment",
         "description": "The patient was readmitted to hospital around five weeks later and required surgery to have their spleen removed",
         "published": "Mon, 19 Oct 2026 14:39:26 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2022/08/4459a7e783de4f93dc38a03555f4191f-1659736274.jpg"
+      },
+      {
+        "id": "36f0e3bcd6ebd02eab6cd29414e3f09f",
+        "title": "Hot Chip announce Glasgow SWG3 show ahead of Sub Club DJ set",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26650443.hot-chip-announce-glasgow-swg3-show-2027-uk-tour/",
+        "description": "Visionary electronic band Hot Chip have announced they will perform at Glasgow's SWG3 next year.",
+        "published": "Mon, 19 Oct 2026 15:38:12 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21602802/?type=app&htype=0"
+      },
+      {
+        "id": "cb2b96043fd83c94c07db5514159a834",
+        "title": "Tour de France opening ceremony to take place at Edinburgh Castle",
+        "link": "https://www.heraldscotland.com/news/26650389.tour-de-france-opening-ceremony-tickets-set-go-sale/",
+        "description": "Edinburgh Castle will host the Tour de France opening ceremony on June 30, 2027, ahead of the race's Grand D\u00e9part in Scotland.",
+        "published": "Mon, 19 Oct 2026 15:28:59 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21334087/?type=app&htype=0"
       },
       {
         "id": "583b8afef59a90dd21d384b0cbc6cb5f",
@@ -2893,28 +2957,12 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21516755/?type=app&htype=2"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/pupil-safety-top-priority-glasgow-34786319",
-        "title": "'Pupil safety our top priority' as Glasgow City Council issues update on school bomb threat hoax",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/pupil-safety-top-priority-glasgow-34786319",
-        "description": "The local authority has said that &quot;the safety of children, young people and staff&quot; is their &quot;top priority&quot; as police investigate the hoax bomb threat.",
-        "published": "Mon, 19 Oct 2026 14:01:57 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34720978.ece/ALTERNATES/s98/2_JS328856523.jpg"
-      },
-      {
         "id": "9718bcd9e15e8a5712eed4d7eb6971a2",
         "title": "'Radical' bookshop in row with travel writer over alleged 'antisemitic' posts",
         "link": "https://www.heraldscotland.com/news/26650019.edinburgh-bookshops-row-author-alleged-antisemitic-posts/",
         "description": "The bookstore pulled the October 21 event after becoming aware of several \"problematic\" social media posts by Mr Sayarer.",
         "published": "Mon, 19 Oct 2026 14:59:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21056163/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cj040r0g2v1zo#0",
-        "title": "Funeral of former gangland enforcer Paul Ferris takes place in Glasgow",
-        "link": "https://www.bbc.co.uk/news/articles/cj040r0g2v1zo?at_medium=RSS&at_campaign=rss",
-        "description": "The convicted gun runner, who was cleared of murder in 1992, died aged 62 following a short illness.",
-        "published": "Mon, 19 Oct 2026 13:56:55 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fc5/live/6ce11a10-cba5-11f1-9ee2-f74dfb8e54e5.jpg"
       },
       {
         "id": "02cc6159ea1921c029ff8899f2094603",
@@ -3043,14 +3091,6 @@
         "description": "<p>Celtic have provided their support to one star amid a tough start to life in Glasgow.</p>",
         "published": "Mon, 19 Oct 2026 11:00:42 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/19/9/54/GettyImages-2300809802.jpg?width=1200&auto=webp&trim=4%2C0%2C4%2C0"
-      },
-      {
-        "id": "fe232e48bb6a51862f50e1dbee2512b2",
-        "title": "Police investigating 'threatening messages' sent to schools across Scotland",
-        "link": "https://www.heraldscotland.com/politics/westminster/26649032.scotland-school-bomb-threats-treated-hoax-police/",
-        "description": "Police Scotland is treating threatening messages sent to several schools as a hoax after staff were evacuated during an in-service day. The incidents coincided with more than 150 schools in Northern Ireland receiving similar emails.",
-        "published": "Mon, 19 Oct 2026 11:47:45 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/17555615/?type=app&htype=0"
       },
       {
         "id": "335a4c53b876cdcb3cd89b7cca187844",
