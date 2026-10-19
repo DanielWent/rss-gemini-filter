@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1792451718093047",
+        "title": "Five ways El Ni\u00f1o is affecting the weather around the world",
+        "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
+        "description": "As the strongest El Ni\u00f1o on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
+        "published": "Tue, 20 Oct 2026 01:08:25 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be75/live/52212cf0-b73d-11f1-aa9c-3d062fa3aea7.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo#4",
         "title": "US bans DeepSeek AI from government use as tech tension with China continues",
         "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
         "published": "Sat, 05 Sep 2026 13:46:02 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e80e/live/d224a510-a92f-11f1-bb81-8fbd2d2d397c.jpg"
-      },
-      {
-        "id": "1788561028493900",
-        "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
-        "link": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
-        "description": "More than 10% of Nepal's energy generation capacity was knocked out by last week's floods.",
-        "published": "Sat, 05 Sep 2026 00:02:52 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/490f/live/cf76c760-a864-11f1-aed2-8d6da8d75094.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
