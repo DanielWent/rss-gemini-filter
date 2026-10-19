@@ -2066,6 +2066,22 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "aa6b8d706856e0116434dacf886872a8",
+        "title": "New boss appointed to protect Scotland\u2019s most famous walking route",
+        "link": "https://www.glasgowtimes.co.uk/news/26649515.west-highland-way-trust-appoints-new-director-lead-route/",
+        "description": "A new director has been appointed to protect and promote one of Scotland's most famous long-distance walking routes.",
+        "published": "Mon, 19 Oct 2026 13:17:53 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21590295/?type=app&htype=0"
+      },
+      {
+        "id": "0091b0b8378f161a37ac963cd47eb202",
+        "title": "Full list of Remembrance Sunday parades planned across East Dunbartonshire",
+        "link": "https://www.glasgowtimes.co.uk/news/26649309.full-list-east-dunbartonshire-remembrance-sunday-events/",
+        "description": "Remembrance Sunday events will take place across East Dunbartonshire on November 8, including services and parades in Bearsden, Milngavie, Torrance and Kirkintilloch.",
+        "published": "Mon, 19 Oct 2026 12:35:21 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21551479/?type=app&htype=0"
+      },
+      {
         "id": "9809ba1b82cc7511e8e3b1b4811889fd",
         "title": "Drivers warned as busy road outside Glasgow to close for five nights",
         "link": "https://www.glasgowtimes.co.uk/news/26648625.lennoxtown-main-street-close-overnight-resurfacing/",
@@ -2845,6 +2861,246 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/pupil-safety-top-priority-glasgow-34786319",
+        "title": "'Pupil safety our top priority' as Glasgow City Council issues update on school bomb threat hoax",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/pupil-safety-top-priority-glasgow-34786319",
+        "description": "The local authority has said that &quot;the safety of children, young people and staff&quot; is their &quot;top priority&quot; as police investigate the hoax bomb threat.",
+        "published": "Mon, 19 Oct 2026 14:01:57 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34720978.ece/ALTERNATES/s98/2_JS328856523.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cj040r0g2v1zo#0",
+        "title": "Funeral of former gangland enforcer Paul Ferris takes place in Glasgow",
+        "link": "https://www.bbc.co.uk/news/articles/cj040r0g2v1zo?at_medium=RSS&at_campaign=rss",
+        "description": "The convicted gun runner, who was cleared of murder in 1992, died aged 62 following a short illness.",
+        "published": "Mon, 19 Oct 2026 13:56:55 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fc5/live/6ce11a10-cba5-11f1-9ee2-f74dfb8e54e5.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/stunning-glasgow-property-nicknamed-the-34785960",
+        "title": "Stunning Glasgow property nicknamed \"The Knowe\" hits the market overlooking Queen's Park",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/stunning-glasgow-property-nicknamed-the-34785960",
+        "description": "Built in 1879 for Thomas Binnie, a prominent Glasgow property valuer and former builder, it was later extended in 1892 by architect Henry Edward Clifford before being subdivided into upper and lower dwellings in 1939.",
+        "published": "Mon, 19 Oct 2026 13:48:45 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34785939.ece/ALTERNATES/s98/0_0c4ad6663d7c57a7b30df08991d9cd16jpeg.jpg"
+      },
+      {
+        "id": "fb26f6687635a94765781f9a4e27afd8",
+        "title": "Breaking Bad and Grey\u2019s Anatomy stars spotted filming new BBC drama in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26650030.bbcs-young-team-drama-begins-filming-glasgows-govan/",
+        "description": "BBC drama The Young Team films in Govan, starring Jakob James Smith, Connor Newall and Scot Greenan, adapting Graeme Armstrong\u2019s novel about gang violence.",
+        "published": "Mon, 19 Oct 2026 14:42:18 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21602108/?type=app&htype=0"
+      },
+      {
+        "id": "0b575df516c7573533337373aae5095a",
+        "title": "\u00a31 million scheme launched to bring Glasgow\u2019s empty listed buildings back into use",
+        "link": "https://www.heraldscotland.com/news/26649939.1m-scheme-launched-revive-glasgows-empty-listed-buildings/",
+        "description": "Glasgow launches a \u00a31m grant scheme offering \u00a315,000-\u00a3350,000 to bring vacant listed buildings back into use and protect the city\u2019s heritage.",
+        "published": "Mon, 19 Oct 2026 14:38:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19347166/?type=app&htype=0"
+      },
+      {
+        "id": "f5dd7587c65634c75bca4b2b5312c3dc",
+        "title": "\u00a3900m Scottish refurbishment framework opens for contractor applications",
+        "link": "https://www.heraldscotland.com/news/26649835.900m-scottish-refurbishment-framework-opens-contractors/",
+        "description": "Scottish Procurement Alliance opens \u00a3900m RM4 refurbishment framework, inviting contractors to bid for housing and public building repairs by December 11, 2026.",
+        "published": "Mon, 19 Oct 2026 14:18:09 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21601848/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/ckwy4549y0eqo#0",
+        "title": "Police investigating hoax threat emails sent to Scottish schools",
+        "link": "https://www.bbc.co.uk/news/articles/ckwy4549y0eqo?at_medium=RSS&at_campaign=rss",
+        "description": "The message was received by schools in areas including Glasgow, Edinburgh and East Renfrewshire.",
+        "published": "Mon, 19 Oct 2026 13:12:58 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f54/live/e09f4fb0-cba7-11f1-9ee2-f74dfb8e54e5.jpg"
+      },
+      {
+        "id": "0aeb271df43eed72555b79b5ec2d6a8d",
+        "title": "Helicopters, lifeboats and ferry join search for man overboard near Isle of Arran",
+        "link": "https://www.heraldscotland.com/news/26649718.search-man-overboard-off-arran-stood-eight-hours/",
+        "description": "HM Coastguard search for missing man reported overboard off Arran stood down after eight hours; CalMac ferry services disrupted on October 19 following incident.",
+        "published": "Mon, 19 Oct 2026 14:11:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20696889/?type=app&htype=0"
+      },
+      {
+        "id": "109fe370f35d402d07c95a64aeb580c8",
+        "title": "Royal Bank of Scotland appoints new executive chair ahead of 300th anniversary",
+        "link": "https://www.heraldscotland.com/news/26649682.robert-begbie-named-executive-chair-scotland-rbs/",
+        "description": "Robert Begbie will become Royal Bank of Scotland\u2019s executive chair for Scotland on January 1, 2027, ahead of the bank\u2019s 300th anniversary.",
+        "published": "Mon, 19 Oct 2026 14:10:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21601568/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/huge-turnout-glasgow-gangland-funeral-34785797",
+        "title": "Huge turnout for Glasgow gangland funeral as 'legend' Paul Ferris laid to rest",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/huge-turnout-glasgow-gangland-funeral-34785797",
+        "description": "Amongst mourners were Johnny 'Mad Dog' Adair, ex-boxer Alex Arthur and the actor Paul Branngian who had their heads bowed as the family exited the cars at Daldowie Crematorium.",
+        "published": "Mon, 19 Oct 2026 13:07:43 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34785888.ece/ALTERNATES/s98/0_19-10-26_02JPG.jpg"
+      },
+      {
+        "id": "ddd133db3af845c7d902359fb7700b55",
+        "title": "Everything we know about Scotland school hoax bomb threats and evacuations",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26649744.bomb-threat-schools-scotland-today-police-scotland/",
+        "description": "Police Scotland investigates hoax emails sent to schools across Scotland on October 19, prompting precautionary evacuations in Glasgow and widespread disruption.",
+        "published": "Mon, 19 Oct 2026 14:04:44 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21504098/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=533935",
+        "title": "Mourners say farewell to former gangster turned author Paul Ferris",
+        "link": "https://news.stv.tv/west-central/mourners-say-farewell-to-former-gangster-turned-author-paul-ferris",
+        "description": "The story of Mr Ferris\u2019s life was the inspiration for the film The Wee Man starring Martin Compston",
+        "published": "Mon, 19 Oct 2026 13:04:34 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/c8f19d6ca542f1907795c18d3661bdf5-1792415035-1119x720.jpeg"
+      },
+      {
+        "id": "bf93a4287a0452d6f8633ccbab21fcc3",
+        "title": "Best friend of murdered Glasgow teen tells of playground stabbing 35 years on",
+        "link": "https://www.glasgowtimes.co.uk/news/26649653.best-friend-murdered-diane-watson-tells-teens-death/",
+        "description": "A woman who witnessed the murder of her best friend in the playground of a Glasgow school has spoken out for the first time about one of the cities more shocking cases",
+        "published": "Mon, 19 Oct 2026 13:49:15 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21527486/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-charged-after-police-officer-34785691",
+        "title": "Man charged after police officer injured during mass Hearts and Celtic brawl",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-charged-after-police-officer-34785691",
+        "description": "Chaos broke out on the Celtic Way as a group of Hearts fans made their way along London Road before kick-off, as footage shared online showed a number of fights breaking out between the rival fans.",
+        "published": "Mon, 19 Oct 2026 12:33:59 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34784112.ece/ALTERNATES/s98/2_Brawl.png"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cr0qkljy7lydo#0",
+        "title": "Search for man who fell overboard from CalMac ferry stood down",
+        "link": "https://www.bbc.co.uk/news/articles/cr0qkljy7lydo?at_medium=RSS&at_campaign=rss",
+        "description": "Police Scotland confirmed they are assisting partners with a missing persons case.",
+        "published": "Mon, 19 Oct 2026 12:14:28 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a0b/live/071ba4c0-cbb4-11f1-81ef-39e22b578b80.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cm1wv8r2780go#0",
+        "title": "Teacher who sexually abused 12 pupils jailed for four years",
+        "link": "https://www.bbc.co.uk/news/articles/cm1wv8r2780go?at_medium=RSS&at_campaign=rss",
+        "description": "Martin Gallacher, 46, used clubs he ran to groom and abuse vulnerable boys over an 11-year period.",
+        "published": "Mon, 19 Oct 2026 12:03:08 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0921/live/768a3670-bb3b-11f1-a9b8-670e5d9d8eee.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=533901",
+        "title": "Major search overnight for man who fell overboard from CalMac ferry near Arran",
+        "link": "https://news.stv.tv/west-central/major-search-overnight-for-man-who-fell-overboard-from-calmac-ferry-near-arran",
+        "description": "The Coastguard said no one was found, and the search was stood down in the early hours of Monday morning",
+        "published": "Mon, 19 Oct 2026 11:57:55 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2021/08/a766a496b8373f8c3996c20728184e67-1078x720.jpg"
+      },
+      {
+        "id": "5140666",
+        "title": "Great Glaswegians: The life and times of the amazing Rikki Fulton in 6 brilliant pictures",
+        "link": "https://www.glasgowworld.com/retro/glasgow-rikki-fulton-great-glaswegian-9294267",
+        "description": "<p>There was much more than just laughs to one of Glasgow\u2019s great comedy heroes.</p>",
+        "published": "Mon, 19 Oct 2026 11:50:50 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/01/14/12/32/onecms_80f4cba3-7af8-45dd-b4ad-af16806cb675_5ddd67ac-5623-4c21-9bbf-ec52e9066bcf.jpeg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "0091b0b8378f161a37ac963cd47eb202",
+        "title": "Full list of Remembrance Sunday parades planned across East Dunbartonshire",
+        "link": "https://www.glasgowtimes.co.uk/news/26649309.full-list-east-dunbartonshire-remembrance-sunday-events/",
+        "description": "Remembrance Sunday events will take place across East Dunbartonshire on November 8, including services and parades in Bearsden, Milngavie, Torrance and Kirkintilloch.",
+        "published": "Mon, 19 Oct 2026 12:35:21 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21551479/?type=app&htype=0"
+      },
+      {
+        "id": "6408656f58107c73800462dc1d7633e0",
+        "title": "Mourners gather for funeral of notorious Glasgow gangster Paul Ferris",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26649299.mourners-gather-funeral-notorious-glasgow-gangster-paul-ferris/",
+        "description": "Mourners have gathered at Daldowie Crematorium to say a final farewell to notorious Glasgow gangster Paul Ferris following his death aged 62.",
+        "published": "Mon, 19 Oct 2026 12:33:09 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21600850/?type=app&htype=0"
+      },
+      {
+        "id": "f4a04f83d97cc794bb464617e7fa1df6",
+        "title": "Flight school 'devastated' after boy, 16, and instructor die in plane crash",
+        "link": "https://www.glasgowtimes.co.uk/news/26649271.flight-school-speaks-drymen-plane-crash-glasgow-loch-lomond/",
+        "description": "Flight school pays tribute after light aircraft crash kills a 16-year-old boy and 80-year-old man after take-off from Glasgow Airport.",
+        "published": "Mon, 19 Oct 2026 12:28:36 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21597568/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=533879",
+        "title": "Police officer assaulted outside Celtic Park after mass brawl between fans",
+        "link": "https://news.stv.tv/west-central/police-officer-assaulted-outside-celtic-park-after-mass-brawl-between-fans",
+        "description": "Footage shared on social media showed a mass brawl taking place on Celtic Way outside the stadium.",
+        "published": "Mon, 19 Oct 2026 11:18:05 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2025/11/78a3a4438bcbada3e5d36dbec6ece6bf-1763723453-1115x720.jpg"
+      },
+      {
+        "id": "069febf2b82e1eb968c96384ae4bb4f5",
+        "title": "Glasgow launches \u00a31m fund to transform city's vacant historic buildings",
+        "link": "https://www.glasgowtimes.co.uk/news/26649142.1m-glasgow-grant-scheme-launched-vacant-listed-buildings/",
+        "description": "A new \u00a31 million grant scheme has been launched to help bring vacant listed buildings back into use.",
+        "published": "Mon, 19 Oct 2026 12:04:07 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19277680/?type=app&htype=0"
+      },
+      {
+        "id": "9295246",
+        "title": "Celtic summer signing 'feeling a bit down' amid form slump but ace backed with defiant prediction",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-summer-signing-feeling-a-bit-down-form-slump-ace-backed-defiant-prediction-9295246",
+        "description": "<p>Celtic have provided their support to one star amid a tough start to life in Glasgow.</p>",
+        "published": "Mon, 19 Oct 2026 11:00:42 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/19/9/54/GettyImages-2300809802.jpg?width=1200&auto=webp&trim=4%2C0%2C4%2C0"
+      },
+      {
+        "id": "fe232e48bb6a51862f50e1dbee2512b2",
+        "title": "Police investigating 'threatening messages' sent to schools across Scotland",
+        "link": "https://www.heraldscotland.com/politics/westminster/26649032.scotland-school-bomb-threats-treated-hoax-police/",
+        "description": "Police Scotland is treating threatening messages sent to several schools as a hoax after staff were evacuated during an in-service day. The incidents coincided with more than 150 schools in Northern Ireland receiving similar emails.",
+        "published": "Mon, 19 Oct 2026 11:47:45 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/17555615/?type=app&htype=0"
+      },
+      {
+        "id": "335a4c53b876cdcb3cd89b7cca187844",
+        "title": "Public invited to help create Queen Elizabeth memorial in Scotland",
+        "link": "https://www.heraldscotland.com/news/26649030.scots-invited-shape-permanent-queen-elizabeth-memorial-scotland/",
+        "description": "What should Scotland\u2019s permanent memorial to Queen Elizabeth look like?",
+        "published": "Mon, 19 Oct 2026 11:47:28 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/15078215/?type=app&htype=0"
+      },
+      {
+        "id": "d38c4966c01e450ac0935cacf40a8aad",
+        "title": "Reform loses joint second place at Holyrood after MSP Amanda Bland quits party",
+        "link": "https://www.glasgowtimes.co.uk/news/26649026.labour-becomes-second-party-reform-msp-quits/",
+        "description": "Reform has lost its status as joint second biggest party in Holyrood following the resignation of an MSP.",
+        "published": "Mon, 19 Oct 2026 11:46:45 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20895921/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/flight-school-pays-tribute-instructor-34784403",
+        "title": "Flight school pays tribute to instructor and teen killed in plane crash near Loch Lomond",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/flight-school-pays-tribute-instructor-34784403",
+        "description": "&quot;Our thoughts and deepest sympathies are with the families, friends and loved ones of those who lost their lives.&quot;",
+        "published": "Mon, 19 Oct 2026 10:45:09 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34781466.ece/ALTERNATES/s98/0_JS421578161.jpg"
+      },
+      {
+        "id": "afa2dcc32f33956e6ac1774159a6cd62",
+        "title": "Police officer hospitalised following 'assault' after Celtic v Hearts match",
+        "link": "https://www.glasgowtimes.co.uk/sport/26649006.police-officer-assaulted-celtic-v-hearts-match/",
+        "description": "A police officer was taken to hospital following an alleged assault after the Celtic V Hearts match this weekend",
+        "published": "Mon, 19 Oct 2026 11:43:39 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/12714858/?type=app&htype=0"
+      },
+      {
+        "id": "439f28ff32b85ef8bb4238f6fb2ff5ab",
+        "title": "Glasgow and Midlothian libraries shortlisted for national awards",
+        "link": "https://www.heraldscotland.com/news/26648659.glasgow-midlothian-libraries-shortlisted-slic-awards/",
+        "description": "Glasgow Life and Midlothian Library Service have been shortlisted for the 2026 SLIC Awards, recognising projects supporting communities across Scotland.",
+        "published": "Mon, 19 Oct 2026 11:14:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21600175/?type=app&htype=0"
+      },
+      {
         "id": "1bd328c80b9ac17d3d73279c578b6355",
         "title": "Hot Potato! The Wiggles are heading to Glasgow for huge live show",
         "link": "https://www.glasgowtimes.co.uk/news/26648681.wiggles-bring-sparkle-tour-glasgow-2027/",
@@ -2867,6 +3123,14 @@
         "description": "Amanda Bland, Reform Scotland's justice spokeswoman, has left the party to sit as an independent at Holyrood, reducing Malcolm Offord's group to 16 MSPs. No explanation has yet been given for the split.",
         "published": "Mon, 19 Oct 2026 10:46:31 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21600057/?type=app&htype=0"
+      },
+      {
+        "id": "a61d0c69e513ff431b5d69a9f6264ef6",
+        "title": "Week-long crackdown on illegal e-bikes and e-scooters launched",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26648551.police-start-action-week-illegal-e-bikes-e-scooters/",
+        "description": "A dedicated week of action targeting the illegal use of e-bikes and e-scooters in Scotland is underway.",
+        "published": "Mon, 19 Oct 2026 10:43:37 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21599976/?type=app&htype=0"
       },
       {
         "id": "82c1995502ffbc28efb0c2ff098b30f5",
