@@ -5,6 +5,22 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o#2",
+        "title": "Don't fall for this - how to protect yourself from AI scams",
+        "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+        "description": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+        "published": "Sun, 18 Oct 2026 23:24:59 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f70/live/9a6f8400-c98c-11f1-adc3-01d8629f0470.jpg"
+      },
+      {
+        "id": "1792365912675511",
+        "title": "Mission set to blast off for Mars to grab a piece of its moon",
+        "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+        "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
+        "published": "Mon, 19 Oct 2026 01:00:48 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e5/live/791ac150-c8ad-11f1-9c75-6ff1271de385.jpg"
+      },
+      {
         "id": "1792336511660603",
         "title": "More than 23,000 take part in the Great South Run",
         "link": "https://www.bbc.co.uk/news/articles/cmreyvqnyjyeo?at_medium=RSS&at_campaign=rss",
@@ -163,14 +179,6 @@
         "description": "The natural phenomenon, known as the Aurora Borealis, is the result of increased solar activity.",
         "published": "Sat, 10 Oct 2026 20:57:29 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25d5/live/6d932560-c4e9-11f1-900e-31f5a5ac5102.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo#1",
-        "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
-        "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
-        "description": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
-        "published": "Sat, 10 Oct 2026 18:22:29 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c416/live/81c8f6c0-c4d7-11f1-9a39-31b474234113.png"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo#1",
@@ -2812,6 +2820,22 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "ad307a5b7364ca01581af873ce236c7a",
+        "title": "West Highland Way Trust appoints new director to secure trail\u2019s future",
+        "link": "https://www.heraldscotland.com/news/26643113.west-highland-way-trust-appoints-james-allan-director/",
+        "description": "James Allan has been appointed director of the West Highland Way Trust, which aims to secure funding and protect the 96-mile Scottish trail.",
+        "published": "Mon, 19 Oct 2026 00:05:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21590295/?type=app&htype=0"
+      },
+      {
+        "id": "9ca23591e94573be2310c9c5430a3fcb",
+        "title": "Tens of thousands of Scots waiting more than a year for NHS treatment",
+        "link": "https://www.heraldscotland.com/news/26647553.30-000-nhs-waits-still-exceed-year-scotland/",
+        "description": "More than 30,000 Scottish NHS waits still exceed a year, six months after John Swinney\u2019s March 2026 target was missed, with ministers giving no new date.",
+        "published": "Mon, 19 Oct 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20151892/?type=app&htype=0"
+      },
       {
         "id": "https://news.stv.tv/?p=533810",
         "title": "Daughter hopes dad\u2019s former colleagues can help asbestos compensation claim",
