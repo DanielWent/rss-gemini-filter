@@ -1113,6 +1113,14 @@
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
       {
+        "id": "https://the5krunner.com/?p=137835",
+        "title": "Indie App Spotlight: Trimetra asks before it changes your thresholds",
+        "link": "https://the5krunner.com/2026/10/18/trimetra-adaptive-training-plan/",
+        "description": "<p><img alt=\"Indie App Spotlight: Trimetra asks before it changes your thresholds\" class=\"attachment-large size-large\" height=\"1147\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/trimetra-hero-threshold-pace-proposal-apply-or-ignore.png/w=1110,h=1147\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>A 5 km time trial moved one runner's easy pace band from 6:06 to 5:54 per km overnight, and a knee injury from a bike crash slowed the plan without lowering his load tolerance.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/18/trimetra-adaptive-training-plan/\">Indie App Spotlight: Trimetra asks before it changes your thresholds</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Sun, 18 Oct 2026 18:38:26 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/trimetra-hero-threshold-pace-proposal-apply-or-ignore.png/w=1110,h=1147"
+      },
+      {
         "id": "https://the5krunner.com/?p=137706",
         "title": "openExpress brings Garmin updates, maps and apps to Linux",
         "link": "https://the5krunner.com/2026/10/17/openexpress-garmin-express-linux/",
@@ -1903,14 +1911,6 @@
         "description": "<p><img alt=\"#11 The Deep Dive Fix Files: Week Ending 14 August 2026\" class=\"attachment-large size-large\" height=\"583\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2010/06/Deep-dive-Fix-Files-Asset-2The-Deep-Dive-Fix-files.png/w=1110,h=583\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Issue 11 covers Suunto Vertical 2 and Race 2 power meter reconnection, heart rate broadcast to Wahoo head units and the Coros armband conflict with a Stages power meter, alongside Suunto Race S battery drain and Intervals.icu fetch errors. The Garmin entries cover Edge 840 Connect IQ data fields and elevation profile redraw, Edge 1050 and 840 reversed compass, Edge 1050 Varia 820 false connection, Edge recognition failure after beta 32.10, Forerunner 570 menu stutter, Forerunner 955 Solar sensor hub failure, Fenix 8 Pro Messenger notifications, Instinct 3 button freezes and intensity minutes undercounting. Wahoo entries cover Roam 3 Strava Live Segments, Bolt V3 FIT file access and Kickr resistance in Zwift.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/08/14/11-the-deep-dive-fix-files-week-ending-14-august-2026/\">#11 The Deep Dive Fix Files: Week Ending 14 August 2026</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
         "published": "Fri, 14 Aug 2026 08:31:48 +0000",
         "image_url": "https://the5krunner.com/wp-content/uploads/2010/06/Deep-dive-Fix-Files-Asset-2The-Deep-Dive-Fix-files.png?wsr"
-      },
-      {
-        "id": "https://the5krunner.com/?p=126410",
-        "title": "Pixel Watch 5 best ever GPS: what\u2019s the point of postprocessing accuracy?",
-        "link": "https://the5krunner.com/2026/08/13/pixel-watch-5-gps-accuracy-postprocessing/",
-        "description": "<p><img alt=\"Pixel Watch 5 best ever GPS: what&#8217;s the point of postprocessing accuracy?\" class=\"attachment-large size-large\" height=\"606\" src=\"https://the5krunner.com/wp-content/uploads/2026/08/Gemini-generated-GPS-image-showing-multipath-errors-for-runners-1200x655.png\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Google reckons the Pixel Watch 5 has the best GPS route tracking it has ever built, and it may well be right. The catch is when it arrives.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/08/13/pixel-watch-5-gps-accuracy-postprocessing/\">Pixel Watch 5 best ever GPS: what&#8217;s the point of postprocessing accuracy?</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
-        "published": "Thu, 13 Aug 2026 18:31:16 +0000",
-        "image_url": "https://the5krunner.com/wp-content/uploads/2026/08/Gemini-generated-GPS-image-showing-multipath-errors-for-runners-1200x655.png"
       }
     ],
     "icon_url": "https://the5krunner.com/favicon.ico",
@@ -2861,6 +2861,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=533958",
+        "title": "Patient developed sepsis after being discharged from hospital without adequate follow-up treatment",
+        "link": "https://news.stv.tv/west-central/patient-developed-sepsis-after-being-discharged-from-hospital-without-adequate-follow-up-treatment",
+        "description": "The patient was readmitted to hospital around five weeks later and required surgery to have their spleen removed",
+        "published": "Mon, 19 Oct 2026 14:39:26 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2022/08/4459a7e783de4f93dc38a03555f4191f-1659736274.jpg"
+      },
+      {
+        "id": "583b8afef59a90dd21d384b0cbc6cb5f",
+        "title": "Glasgow man caught with \u00a3131k cannabis haul in suitcases at airport",
+        "link": "https://www.glasgowtimes.co.uk/news/26650332.glasgow-man-caught-131k-cannabis-haul-suitcases-airport/",
+        "description": "A Glasgow man is facing a possible jail term after Border Force officers discovered \u00a3131,100 worth of cannabis in his luggage at Glasgow Airport.",
+        "published": "Mon, 19 Oct 2026 15:20:59 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17684424/?type=app&htype=0"
+      },
+      {
+        "id": "0e88dd809c1998b8e07d3d894b31cdc9",
+        "title": "160 offshore workers to strike over pay in dispute 'threatening UK fuel supplies'",
+        "link": "https://www.heraldscotland.com/news/26650228.160-scottish-offshore-workers-set-strike-pay/",
+        "description": "More than 160 Apache offshore workers will strike on October 21 and November 4 over pay, as Unite warns of risks to UK fuel supplies and the Forties pipeline.",
+        "published": "Mon, 19 Oct 2026 15:11:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21516755/?type=app&htype=2"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/pupil-safety-top-priority-glasgow-34786319",
         "title": "'Pupil safety our top priority' as Glasgow City Council issues update on school bomb threat hoax",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/pupil-safety-top-priority-glasgow-34786319",
@@ -2869,12 +2893,28 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34720978.ece/ALTERNATES/s98/2_JS328856523.jpg"
       },
       {
+        "id": "9718bcd9e15e8a5712eed4d7eb6971a2",
+        "title": "'Radical' bookshop in row with travel writer over alleged 'antisemitic' posts",
+        "link": "https://www.heraldscotland.com/news/26650019.edinburgh-bookshops-row-author-alleged-antisemitic-posts/",
+        "description": "The bookstore pulled the October 21 event after becoming aware of several \"problematic\" social media posts by Mr Sayarer.",
+        "published": "Mon, 19 Oct 2026 14:59:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21056163/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cj040r0g2v1zo#0",
         "title": "Funeral of former gangland enforcer Paul Ferris takes place in Glasgow",
         "link": "https://www.bbc.co.uk/news/articles/cj040r0g2v1zo?at_medium=RSS&at_campaign=rss",
         "description": "The convicted gun runner, who was cleared of murder in 1992, died aged 62 following a short illness.",
         "published": "Mon, 19 Oct 2026 13:56:55 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fc5/live/6ce11a10-cba5-11f1-9ee2-f74dfb8e54e5.jpg"
+      },
+      {
+        "id": "02cc6159ea1921c029ff8899f2094603",
+        "title": "Loyalist parade set to take place near Glasgow on Halloween",
+        "link": "https://www.glasgowtimes.co.uk/news/26650114.flute-band-procession-planned-near-coatbridge-halloween/",
+        "description": "Sons of William Flute Band will hold a procession in Glenmavis near Coatbridge on October 31, with around 60 people expected to take part.",
+        "published": "Mon, 19 Oct 2026 14:52:58 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20460981/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/stunning-glasgow-property-nicknamed-the-34785960",
@@ -2909,14 +2949,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21601848/?type=app&htype=0"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/ckwy4549y0eqo#0",
-        "title": "Police investigating hoax threat emails sent to Scottish schools",
-        "link": "https://www.bbc.co.uk/news/articles/ckwy4549y0eqo?at_medium=RSS&at_campaign=rss",
-        "description": "The message was received by schools in areas including Glasgow, Edinburgh and East Renfrewshire.",
-        "published": "Mon, 19 Oct 2026 13:12:58 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f54/live/e09f4fb0-cba7-11f1-9ee2-f74dfb8e54e5.jpg"
-      },
-      {
         "id": "0aeb271df43eed72555b79b5ec2d6a8d",
         "title": "Helicopters, lifeboats and ferry join search for man overboard near Isle of Arran",
         "link": "https://www.heraldscotland.com/news/26649718.search-man-overboard-off-arran-stood-eight-hours/",
@@ -2933,28 +2965,12 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21601568/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/huge-turnout-glasgow-gangland-funeral-34785797",
-        "title": "Huge turnout for Glasgow gangland funeral as 'legend' Paul Ferris laid to rest",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/huge-turnout-glasgow-gangland-funeral-34785797",
-        "description": "Amongst mourners were Johnny 'Mad Dog' Adair, ex-boxer Alex Arthur and the actor Paul Branngian who had their heads bowed as the family exited the cars at Daldowie Crematorium.",
-        "published": "Mon, 19 Oct 2026 13:07:43 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34785888.ece/ALTERNATES/s98/0_19-10-26_02JPG.jpg"
-      },
-      {
         "id": "ddd133db3af845c7d902359fb7700b55",
         "title": "Everything we know about Scotland school hoax bomb threats and evacuations",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26649744.bomb-threat-schools-scotland-today-police-scotland/",
         "description": "Police Scotland investigates hoax emails sent to schools across Scotland on October 19, prompting precautionary evacuations in Glasgow and widespread disruption.",
         "published": "Mon, 19 Oct 2026 14:04:44 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21504098/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=533935",
-        "title": "Mourners say farewell to former gangster turned author Paul Ferris",
-        "link": "https://news.stv.tv/west-central/mourners-say-farewell-to-former-gangster-turned-author-paul-ferris",
-        "description": "The story of Mr Ferris\u2019s life was the inspiration for the film The Wee Man starring Martin Compston",
-        "published": "Mon, 19 Oct 2026 13:04:34 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/c8f19d6ca542f1907795c18d3661bdf5-1792415035-1119x720.jpeg"
       },
       {
         "id": "bf93a4287a0452d6f8633ccbab21fcc3",
@@ -2973,12 +2989,12 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34784112.ece/ALTERNATES/s98/2_Brawl.png"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/cr0qkljy7lydo#0",
-        "title": "Search for man who fell overboard from CalMac ferry stood down",
-        "link": "https://www.bbc.co.uk/news/articles/cr0qkljy7lydo?at_medium=RSS&at_campaign=rss",
-        "description": "Police Scotland confirmed they are assisting partners with a missing persons case.",
-        "published": "Mon, 19 Oct 2026 12:14:28 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a0b/live/071ba4c0-cbb4-11f1-81ef-39e22b578b80.jpg"
+        "id": "aa6b8d706856e0116434dacf886872a8",
+        "title": "New boss appointed to protect Scotland\u2019s most famous walking route",
+        "link": "https://www.glasgowtimes.co.uk/news/26649515.west-highland-way-trust-appoints-new-director-lead-route/",
+        "description": "A new director has been appointed to protect and promote one of Scotland's most famous long-distance walking routes.",
+        "published": "Mon, 19 Oct 2026 13:17:53 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21590295/?type=app&htype=0"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/cm1wv8r2780go#0",
@@ -2989,20 +3005,20 @@
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0921/live/768a3670-bb3b-11f1-a9b8-670e5d9d8eee.jpg"
       },
       {
-        "id": "https://news.stv.tv/?p=533901",
-        "title": "Major search overnight for man who fell overboard from CalMac ferry near Arran",
-        "link": "https://news.stv.tv/west-central/major-search-overnight-for-man-who-fell-overboard-from-calmac-ferry-near-arran",
-        "description": "The Coastguard said no one was found, and the search was stood down in the early hours of Monday morning",
-        "published": "Mon, 19 Oct 2026 11:57:55 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2021/08/a766a496b8373f8c3996c20728184e67-1078x720.jpg"
-      },
-      {
         "id": "5140666",
         "title": "Great Glaswegians: The life and times of the amazing Rikki Fulton in 6 brilliant pictures",
         "link": "https://www.glasgowworld.com/retro/glasgow-rikki-fulton-great-glaswegian-9294267",
         "description": "<p>There was much more than just laughs to one of Glasgow\u2019s great comedy heroes.</p>",
         "published": "Mon, 19 Oct 2026 11:50:50 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/01/14/12/32/onecms_80f4cba3-7af8-45dd-b4ad-af16806cb675_5ddd67ac-5623-4c21-9bbf-ec52e9066bcf.jpeg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "e0a7b1d534e78e1164e075af26cedf6b",
+        "title": "Abandoned hotel entered by youths as community group calls for action",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26649339.empty-glasgow-virgin-hotel-accessed-almost-three-years/",
+        "description": "A Glasgow community group has said it is \"not surprising\" an empty riverside hotel has attracted \"illegal occupiers\".",
+        "published": "Mon, 19 Oct 2026 12:40:49 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20429513/?type=app&htype=0"
       },
       {
         "id": "0091b0b8378f161a37ac963cd47eb202",
@@ -3027,14 +3043,6 @@
         "description": "Flight school pays tribute after light aircraft crash kills a 16-year-old boy and 80-year-old man after take-off from Glasgow Airport.",
         "published": "Mon, 19 Oct 2026 12:28:36 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21597568/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=533879",
-        "title": "Police officer assaulted outside Celtic Park after mass brawl between fans",
-        "link": "https://news.stv.tv/west-central/police-officer-assaulted-outside-celtic-park-after-mass-brawl-between-fans",
-        "description": "Footage shared on social media showed a mass brawl taking place on Celtic Way outside the stadium.",
-        "published": "Mon, 19 Oct 2026 11:18:05 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2025/11/78a3a4438bcbada3e5d36dbec6ece6bf-1763723453-1115x720.jpg"
       },
       {
         "id": "069febf2b82e1eb968c96384ae4bb4f5",
@@ -3077,22 +3085,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20895921/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/flight-school-pays-tribute-instructor-34784403",
-        "title": "Flight school pays tribute to instructor and teen killed in plane crash near Loch Lomond",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/flight-school-pays-tribute-instructor-34784403",
-        "description": "&quot;Our thoughts and deepest sympathies are with the families, friends and loved ones of those who lost their lives.&quot;",
-        "published": "Mon, 19 Oct 2026 10:45:09 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34781466.ece/ALTERNATES/s98/0_JS421578161.jpg"
-      },
-      {
-        "id": "afa2dcc32f33956e6ac1774159a6cd62",
-        "title": "Police officer hospitalised following 'assault' after Celtic v Hearts match",
-        "link": "https://www.glasgowtimes.co.uk/sport/26649006.police-officer-assaulted-celtic-v-hearts-match/",
-        "description": "A police officer was taken to hospital following an alleged assault after the Celtic V Hearts match this weekend",
-        "published": "Mon, 19 Oct 2026 11:43:39 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/12714858/?type=app&htype=0"
-      },
-      {
         "id": "439f28ff32b85ef8bb4238f6fb2ff5ab",
         "title": "Glasgow and Midlothian libraries shortlisted for national awards",
         "link": "https://www.heraldscotland.com/news/26648659.glasgow-midlothian-libraries-shortlisted-slic-awards/",
@@ -3117,14 +3109,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19939203/?type=app&htype=0"
       },
       {
-        "id": "e8690e086ab41ff1da9c9333d6ce547c",
-        "title": "Reform Scotland loses its first MSP just months after Holyrood breakthrough",
-        "link": "https://www.heraldscotland.com/news/26648568.reform-scotland-msp-amanda-bland-sits-independent/",
-        "description": "Amanda Bland, Reform Scotland's justice spokeswoman, has left the party to sit as an independent at Holyrood, reducing Malcolm Offord's group to 16 MSPs. No explanation has yet been given for the split.",
-        "published": "Mon, 19 Oct 2026 10:46:31 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21600057/?type=app&htype=0"
-      },
-      {
         "id": "a61d0c69e513ff431b5d69a9f6264ef6",
         "title": "Week-long crackdown on illegal e-bikes and e-scooters launched",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26648551.police-start-action-week-illegal-e-bikes-e-scooters/",
@@ -3147,14 +3131,6 @@
         "description": "Hamilton Sheriff Court hears Simon MacPhail drank a bottle of rum at Vue Cinema while caring for a nine-year-old boy; sheriff orders electronic tagging.",
         "published": "Mon, 19 Oct 2026 10:22:48 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21133167/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/celtic-hearts-fans-clash-outside-34784046",
-        "title": "Celtic and Hearts fans clash outside stadium in mass brawl before league match",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/celtic-hearts-fans-clash-outside-34784046",
-        "description": "In shocking footage widely shared online, a woman could be heard screaming as a number of fights broke out between the rival fans.",
-        "published": "Mon, 19 Oct 2026 09:21:08 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34784112.ece/ALTERNATES/s98/2_Brawl.png"
       },
       {
         "id": "d7a15040e995dd4a435d905baabd912b",
@@ -3197,6 +3173,14 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34755967.ece/ALTERNATES/s98/0_JS13235280.jpg"
       },
       {
+        "id": "https://www.bbc.co.uk/news/articles/cqde83w4l932o#0",
+        "title": "Douglas Dunn obituary: Poet and teacher who wrote about class and grief",
+        "link": "https://www.bbc.co.uk/news/articles/cqde83w4l932o?at_medium=RSS&at_campaign=rss",
+        "description": "Dunn was a friend of the poet Philip Larkin and taught creative writing at Dundee at St Andrews universities.",
+        "published": "Mon, 19 Oct 2026 08:27:54 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c826/live/930af840-cb83-11f1-bba6-c7bcff195158.jpg"
+      },
+      {
         "id": "9295199",
         "title": "Ex Sunderland ace backed after brutal Rangers error as he overcomes criticism to become 'excellent signing'",
         "link": "https://www.glasgowworld.com/sport/football/rangers/ex-sunderland-ace-backed-brutal-rangers-error-overcomes-criticism-excellent-signing-9295199",
@@ -3219,14 +3203,6 @@
         "description": "Rutherglen's Vogue Bar is set for a major makeover after being acquired by Punch Pubs &amp; Co, with the popular Main Street venue reopening in November",
         "published": "Mon, 19 Oct 2026 08:33:59 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21599050/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-woman-speaks-out-35-34783514",
-        "title": "Glasgow woman speaks out 35 years after best pal stabbed to death in playground",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-woman-speaks-out-35-34783514",
-        "description": "Pauline Love was just 16 when her friend Diane Watson was fatally stabbed by fellow 15-year-old pupil Barbara Glover at Whitehill Secondary in Dennistoun",
-        "published": "Mon, 19 Oct 2026 07:10:57 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34783505.ece/ALTERNATES/s98/0_DIANE-AND-PAULINE-jpeg.jpg"
       },
       {
         "id": "9295051",
@@ -3379,14 +3355,6 @@
         "description": "John Sinclair, 58, said he was told his son had a drug debt of \u00a318,000 and that his family would be harmed if it was not paid",
         "published": "Sun, 18 Oct 2026 12:34:08 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/fd456406745d816a45cae554c788e754-1792326174.jpg"
-      },
-      {
-        "id": "5ab3712b3c8ac5038902ec9d1ad1fa63",
-        "title": "Flying instructor who died in Drymen plane crash named",
-        "link": "https://www.heraldscotland.com/news/26647280.flying-instructor-died-drymen-plane-crash-named/",
-        "description": "An 80-year-old man who died in a light aircraft crash near Loch Lomond alongside a 16-year-old boy has been named locally as Ian Haggis",
-        "published": "Sun, 18 Oct 2026 13:12:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21595021/?type=app&htype=0"
       },
       {
         "id": "ac227a34d42b4abef130be205b1e0d27",
