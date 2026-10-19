@@ -2861,6 +2861,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/posh-hotel-popular-tourist-town-34786010",
+        "title": "Posh hotel in popular tourist town shuts down leaving all staff redundant",
+        "link": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/posh-hotel-popular-tourist-town-34786010",
+        "description": "A boutique hotel in the heart of Scotland has closed permanently after its parent firm, Kinnettles Hotel Limited, entered liquidation",
+        "published": "Mon, 19 Oct 2026 15:03:22 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/whats-on/article34786005.ece/ALTERNATES/s98/1_Kinnettles-Hotel-in-St-Andrews.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=533958",
         "title": "Patient developed sepsis after being discharged from hospital without adequate follow-up treatment",
         "link": "https://news.stv.tv/west-central/patient-developed-sepsis-after-being-discharged-from-hospital-without-adequate-follow-up-treatment",
@@ -2965,14 +2973,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21601568/?type=app&htype=0"
       },
       {
-        "id": "ddd133db3af845c7d902359fb7700b55",
-        "title": "Everything we know about Scotland school hoax bomb threats and evacuations",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26649744.bomb-threat-schools-scotland-today-police-scotland/",
-        "description": "Police Scotland investigates hoax emails sent to schools across Scotland on October 19, prompting precautionary evacuations in Glasgow and widespread disruption.",
-        "published": "Mon, 19 Oct 2026 14:04:44 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21504098/?type=app&htype=0"
-      },
-      {
         "id": "bf93a4287a0452d6f8633ccbab21fcc3",
         "title": "Best friend of murdered Glasgow teen tells of playground stabbing 35 years on",
         "link": "https://www.glasgowtimes.co.uk/news/26649653.best-friend-murdered-diane-watson-tells-teens-death/",
@@ -3029,28 +3029,12 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21551479/?type=app&htype=0"
       },
       {
-        "id": "6408656f58107c73800462dc1d7633e0",
-        "title": "Mourners gather for funeral of notorious Glasgow gangster Paul Ferris",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26649299.mourners-gather-funeral-notorious-glasgow-gangster-paul-ferris/",
-        "description": "Mourners have gathered at Daldowie Crematorium to say a final farewell to notorious Glasgow gangster Paul Ferris following his death aged 62.",
-        "published": "Mon, 19 Oct 2026 12:33:09 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21600850/?type=app&htype=0"
-      },
-      {
         "id": "f4a04f83d97cc794bb464617e7fa1df6",
         "title": "Flight school 'devastated' after boy, 16, and instructor die in plane crash",
         "link": "https://www.glasgowtimes.co.uk/news/26649271.flight-school-speaks-drymen-plane-crash-glasgow-loch-lomond/",
         "description": "Flight school pays tribute after light aircraft crash kills a 16-year-old boy and 80-year-old man after take-off from Glasgow Airport.",
         "published": "Mon, 19 Oct 2026 12:28:36 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21597568/?type=app&htype=0"
-      },
-      {
-        "id": "069febf2b82e1eb968c96384ae4bb4f5",
-        "title": "Glasgow launches \u00a31m fund to transform city's vacant historic buildings",
-        "link": "https://www.glasgowtimes.co.uk/news/26649142.1m-glasgow-grant-scheme-launched-vacant-listed-buildings/",
-        "description": "A new \u00a31 million grant scheme has been launched to help bring vacant listed buildings back into use.",
-        "published": "Mon, 19 Oct 2026 12:04:07 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19277680/?type=app&htype=0"
       },
       {
         "id": "9295246",
@@ -3099,14 +3083,6 @@
         "description": "Children\u2019s entertainment icons The Wiggles are bringing their biggest and brightest UK and Ireland tour yet to Glasgow next year.",
         "published": "Mon, 19 Oct 2026 11:00:08 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21600132/?type=app&htype=0"
-      },
-      {
-        "id": "b566a3ba63a71f02d1ca42761a06bf6f",
-        "title": "LIVE as Police Scotland release statement after 'malicious threat' to schools",
-        "link": "https://www.glasgowtimes.co.uk/news/26648649.live-malicious-threat-sent-schools-across-scotland/",
-        "description": "East Renfrewshire Council has confirmed a 'malicious threat' was sent to schools across the area which has now been deemed a hoax",
-        "published": "Mon, 19 Oct 2026 10:54:47 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19939203/?type=app&htype=0"
       },
       {
         "id": "a61d0c69e513ff431b5d69a9f6264ef6",
@@ -3299,14 +3275,6 @@
         "description": "Paul Sheerin argues that reducing post-Brexit trade friction with Europe would help Scottish engineering and manufacturing compete",
         "published": "Mon, 19 Oct 2026 04:30:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21591150/?type=app&htype=0"
-      },
-      {
-        "id": "ad307a5b7364ca01581af873ce236c7a",
-        "title": "West Highland Way Trust appoints new director to secure trail\u2019s future",
-        "link": "https://www.heraldscotland.com/news/26643113.west-highland-way-trust-appoints-james-allan-director/",
-        "description": "James Allan has been appointed director of the West Highland Way Trust, which aims to secure funding and protect the 96-mile Scottish trail.",
-        "published": "Mon, 19 Oct 2026 00:05:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21590295/?type=app&htype=0"
       },
       {
         "id": "9ca23591e94573be2310c9c5430a3fcb",
