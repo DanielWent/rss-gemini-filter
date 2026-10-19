@@ -1113,6 +1113,14 @@
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
       {
+        "id": "https://the5krunner.com/?p=137864",
+        "title": "Science says: Garmin HR 99.1% accurate. But let\u2019s talk about HRV",
+        "link": "https://the5krunner.com/2026/10/18/forerunner-955-hrv-study/",
+        "description": "<p><img alt=\"Science says: Garmin HR 99.1% accurate. But let&#8217;s talk about HRV\" class=\"attachment-large size-large\" height=\"815\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2020/10/IMG_1453-scaled.jpg/w=1110,h=815\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>A Spanish laboratory wired 23 people to a hospital ECG and compared the readings. Resting pulse came back within half a beat. The variability number was out by up to 118 per cent, and worst in the fittest.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/18/forerunner-955-hrv-study/\">Science says: Garmin HR 99.1% accurate. But let&#8217;s talk about HRV</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Sun, 18 Oct 2026 22:36:06 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2020/10/IMG_1453-scaled.jpg/w=1110,h=815"
+      },
+      {
         "id": "https://the5krunner.com/?p=137835",
         "title": "Indie App Spotlight: Trimetra asks before it changes your thresholds",
         "link": "https://the5krunner.com/2026/10/18/trimetra-adaptive-training-plan/",
@@ -1903,14 +1911,6 @@
         "description": "<p><img alt=\"Garmin CIRQA Band: Is its sleep data accurate? A 2-Week Test\" class=\"attachment-large size-large\" height=\"760\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/08/example-of-garmin-connect-sleep-data-for-the5krunner-using-garmin-cirqa.png/w=1104,h=760\" style=\"height: auto;\" width=\"1104\" /></p>\n<p>Yes, broadly, at least for total sleep duration. CIRQA's night-to-night timing holds up well against five other trackers over 15 nights, but its sleep-stage breakdown shows no consistent pattern, which is typical for a wrist-worn device.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/08/15/garmin-cirqa-sleep-accuracy/\">Garmin CIRQA Band: Is its sleep data accurate? A 2-Week Test</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
         "published": "Sat, 15 Aug 2026 20:58:32 +0000",
         "image_url": "https://the5krunner.com/wp-content/uploads/2026/08/example-of-garmin-connect-sleep-data-for-the5krunner-using-garmin-cirqa.png?wsr"
-      },
-      {
-        "id": "https://the5krunner.com/?p=126427",
-        "title": "#11 The Deep Dive Fix Files: Week Ending 14 August 2026",
-        "link": "https://the5krunner.com/2026/08/14/11-the-deep-dive-fix-files-week-ending-14-august-2026/",
-        "description": "<p><img alt=\"#11 The Deep Dive Fix Files: Week Ending 14 August 2026\" class=\"attachment-large size-large\" height=\"583\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2010/06/Deep-dive-Fix-Files-Asset-2The-Deep-Dive-Fix-files.png/w=1110,h=583\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Issue 11 covers Suunto Vertical 2 and Race 2 power meter reconnection, heart rate broadcast to Wahoo head units and the Coros armband conflict with a Stages power meter, alongside Suunto Race S battery drain and Intervals.icu fetch errors. The Garmin entries cover Edge 840 Connect IQ data fields and elevation profile redraw, Edge 1050 and 840 reversed compass, Edge 1050 Varia 820 false connection, Edge recognition failure after beta 32.10, Forerunner 570 menu stutter, Forerunner 955 Solar sensor hub failure, Fenix 8 Pro Messenger notifications, Instinct 3 button freezes and intensity minutes undercounting. Wahoo entries cover Roam 3 Strava Live Segments, Bolt V3 FIT file access and Kickr resistance in Zwift.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/08/14/11-the-deep-dive-fix-files-week-ending-14-august-2026/\">#11 The Deep Dive Fix Files: Week Ending 14 August 2026</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
-        "published": "Fri, 14 Aug 2026 08:31:48 +0000",
-        "image_url": "https://the5krunner.com/wp-content/uploads/2010/06/Deep-dive-Fix-Files-Asset-2The-Deep-Dive-Fix-files.png?wsr"
       }
     ],
     "icon_url": "https://the5krunner.com/favicon.ico",
@@ -2861,6 +2861,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9296321",
+        "title": "Celtic 'contact' over rising star manager emerges but boss approach came 'far too late' amid alternate switch",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-contact-rising-star-manager-emerges-boss-approach-far-too-late-9296321",
+        "description": "<p>Celtic opted to go with Martin O\u2019Neill in the summer but reportedly asked about another gaffer.</p>",
+        "published": "Mon, 19 Oct 2026 17:00:57 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/19/13/42/GettyImages-2261924730.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "3a30303296573e85e2d3c13a904992ae",
+        "title": "Glasgow law student wins scholarship offering Pinsent Masons placements",
+        "link": "https://www.heraldscotland.com/news/26650990.glasgow-student-wins-pinsent-masons-law-scholarship/",
+        "description": "Strathclyde law student Arisha Asghar has won the 2026 Kirk Murdoch Scholarship, offering financial support, mentoring and placements at Pinsent Masons.",
+        "published": "Mon, 19 Oct 2026 17:08:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21603716/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-trans-teens-say-theyve-34786884",
         "title": "Glasgow trans teens say they've been 'spat at' and had \u2018stones thrown at them\u2019 in city centre",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-trans-teens-say-theyve-34786884",
@@ -2869,12 +2885,36 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34737700.ece/ALTERNATES/s98/2_JS420614556.jpg"
       },
       {
+        "id": "e1a2c9c0a8074284cb192ed55e7fb10b",
+        "title": "Andy Burnham is looking for a Scottish adviser \u2014 they'll have their work cut out",
+        "link": "https://www.heraldscotland.com/news/26651047.andy-burnham-looking-scottish-special-advisor/",
+        "description": "Last week, Andy Burnham made three devolution offers to Scotland at Motherwell but his pitch for contained little detail on funding.",
+        "published": "Mon, 19 Oct 2026 17:02:54 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21603742/?type=app&htype=0"
+      },
+      {
+        "id": "43f86960e7ce0fe8eed161af27fbf0f3",
+        "title": "Beeks sees further growth as AI products gain traction with financial firms",
+        "link": "https://www.heraldscotland.com/news/26648943.beeks-financial-targets-10m-analytics-revenue-business/",
+        "description": "The Renfrew-based technology group reported record revenue of \u00a340m and said demand for its analytics and AI products is exceeding expectations",
+        "published": "Mon, 19 Oct 2026 17:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21601481/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/calls-faded-glasgow-road-markings-34787441",
         "title": "Calls for faded Glasgow road markings to be upgraded amid safety fears",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/calls-faded-glasgow-road-markings-34787441",
         "description": "Glasgow City Council is struggling to find contractors for 'wee jobs' on the city's roads, a councillor said.",
         "published": "Mon, 19 Oct 2026 15:54:15 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34787444.ece/ALTERNATES/s98/0_IMG-20261015-WA0004.jpg"
+      },
+      {
+        "id": "dce4e1197e8f6d8f356a7aa5df9cd7ab",
+        "title": "UK's first subsea HVDC cable plant opens at Port of Nigg with \u00a3350m investment",
+        "link": "https://www.heraldscotland.com/news/26650919.350m-scotland-plant-makes-uks-first-subsea-hvdc-cables/",
+        "description": "Sumitomo Electric has opened the UK's first subsea high-voltage cable factory at Port of Nigg, with up to 250 direct jobs expected.",
+        "published": "Mon, 19 Oct 2026 16:49:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21603567/?type=app&htype=0"
       },
       {
         "id": "cc6efa5372d0d253a8b940ed5ed5a3a3",
@@ -2915,6 +2955,14 @@
         "description": "A boutique hotel in the heart of Scotland has closed permanently after its parent firm, Kinnettles Hotel Limited, entered liquidation",
         "published": "Mon, 19 Oct 2026 15:03:22 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/whats-on/article34786005.ece/ALTERNATES/s98/1_Kinnettles-Hotel-in-St-Andrews.jpg"
+      },
+      {
+        "id": "afcb745aa7b2837616d002649118fcb3",
+        "title": "Email reveals what Peter Mathieson really thinks about university programme closures",
+        "link": "https://www.heraldscotland.com/news/26649439.edinburgh-university-chief-really-thinks-programme-cuts/",
+        "description": "Sir Peter Mathieson defended recent programme closures at Edinburgh University in an email sent to a student and a number of regional MSPs.",
+        "published": "Mon, 19 Oct 2026 16:03:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21601133/?type=app&htype=0"
       },
       {
         "id": "2d002e2f69983ab9fd51f65c2266916b",
