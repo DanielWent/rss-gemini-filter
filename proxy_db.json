@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cm2kez327gdko#4",
+        "title": "Musk and Anthropic pledge public share giveaways",
+        "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+        "description": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
+        "published": "Mon, 19 Oct 2026 09:38:25 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/075f/live/77a0d170-cba0-11f1-9ee2-f74dfb8e54e5.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o#2",
         "title": "Don't fall for this - how to protect yourself from AI scams",
         "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
@@ -2058,6 +2066,22 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "9809ba1b82cc7511e8e3b1b4811889fd",
+        "title": "Drivers warned as busy road outside Glasgow to close for five nights",
+        "link": "https://www.glasgowtimes.co.uk/news/26648625.lennoxtown-main-street-close-overnight-resurfacing/",
+        "description": "Lennoxtown\u2019s Main Street will close overnight from October 19 to October 27 for resurfacing between Service Street and School Lane in East Dunbartonshire.",
+        "published": "Mon, 19 Oct 2026 10:51:47 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19036953/?type=app&htype=61"
+      },
+      {
+        "id": "61959fb02e162d167c0789699f850e02",
+        "title": "Glasgow could see 20 meteors an hour as debris from Halley's comet returns",
+        "link": "https://www.glasgowtimes.co.uk/news/weather/26648316.halleys-comet-orionid-meteor-shower-may-seen-glasgow/",
+        "description": "The Orionid meteor shower may be seen over Glasgow later this week as the Earth passes through a stream of tiny debris left behind by Halley's comet.",
+        "published": "Mon, 19 Oct 2026 10:09:37 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18412298/?type=app&htype=0"
+      },
+      {
         "id": "f46648298015422bdd07a77902049f39",
         "title": "Body found in park outside Glasgow in search for missing 17-year-old boy",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26646264.body-found-milngavie-police-search-missing-teen/",
@@ -2820,6 +2844,206 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "1bd328c80b9ac17d3d73279c578b6355",
+        "title": "Hot Potato! The Wiggles are heading to Glasgow for huge live show",
+        "link": "https://www.glasgowtimes.co.uk/news/26648681.wiggles-bring-sparkle-tour-glasgow-2027/",
+        "description": "Children\u2019s entertainment icons The Wiggles are bringing their biggest and brightest UK and Ireland tour yet to Glasgow next year.",
+        "published": "Mon, 19 Oct 2026 11:00:08 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21600132/?type=app&htype=0"
+      },
+      {
+        "id": "b566a3ba63a71f02d1ca42761a06bf6f",
+        "title": "LIVE as Police Scotland release statement after 'malicious threat' to schools",
+        "link": "https://www.glasgowtimes.co.uk/news/26648649.live-malicious-threat-sent-schools-across-scotland/",
+        "description": "East Renfrewshire Council has confirmed a 'malicious threat' was sent to schools across the area which has now been deemed a hoax",
+        "published": "Mon, 19 Oct 2026 10:54:47 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19939203/?type=app&htype=0"
+      },
+      {
+        "id": "e8690e086ab41ff1da9c9333d6ce547c",
+        "title": "Reform Scotland loses its first MSP just months after Holyrood breakthrough",
+        "link": "https://www.heraldscotland.com/news/26648568.reform-scotland-msp-amanda-bland-sits-independent/",
+        "description": "Amanda Bland, Reform Scotland's justice spokeswoman, has left the party to sit as an independent at Holyrood, reducing Malcolm Offord's group to 16 MSPs. No explanation has yet been given for the split.",
+        "published": "Mon, 19 Oct 2026 10:46:31 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21600057/?type=app&htype=0"
+      },
+      {
+        "id": "82c1995502ffbc28efb0c2ff098b30f5",
+        "title": "Man jailed over \u00a3421k cannabis farm after Glasgow Central abduction claim",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26648458.li-minh-jailed-421k-cannabis-farm-glasgow-abduction-claim/",
+        "description": "Li Minh jailed for 30 months after a jury rejected his claim he was abducted and forced to tend a \u00a3421,000 cannabis farm in Kilsyth.",
+        "published": "Mon, 19 Oct 2026 10:30:13 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19969863/?type=app&htype=0"
+      },
+      {
+        "id": "e468bff5349e50a23d22b3f04987328b",
+        "title": "Man passed out after drinking entire bottle of rum at cinema with boy, 9",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26648400.simon-macphail-tagged-passing-drunk-nine-year-old/",
+        "description": "Hamilton Sheriff Court hears Simon MacPhail drank a bottle of rum at Vue Cinema while caring for a nine-year-old boy; sheriff orders electronic tagging.",
+        "published": "Mon, 19 Oct 2026 10:22:48 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21133167/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/celtic-hearts-fans-clash-outside-34784046",
+        "title": "Celtic and Hearts fans clash outside stadium in mass brawl before league match",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/celtic-hearts-fans-clash-outside-34784046",
+        "description": "In shocking footage widely shared online, a woman could be heard screaming as a number of fights broke out between the rival fans.",
+        "published": "Mon, 19 Oct 2026 09:21:08 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34784112.ece/ALTERNATES/s98/2_Brawl.png"
+      },
+      {
+        "id": "d7a15040e995dd4a435d905baabd912b",
+        "title": "Russia to be invited to G20 finance summit in Edinburgh despite European tensions",
+        "link": "https://www.heraldscotland.com/news/26648231.russia-invited-g20-finance-summit-edinburgh/",
+        "description": "Last week, the UK Government announced that finance ministers and central bank governors from the world\u2019s leading economies will gather in Scotland\u2019s capital.",
+        "published": "Mon, 19 Oct 2026 10:12:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21599532/?type=app&htype=0"
+      },
+      {
+        "id": "61959fb02e162d167c0789699f850e02",
+        "title": "Glasgow could see 20 meteors an hour as debris from Halley's comet returns",
+        "link": "https://www.glasgowtimes.co.uk/news/weather/26648316.halleys-comet-orionid-meteor-shower-may-seen-glasgow/",
+        "description": "The Orionid meteor shower may be seen over Glasgow later this week as the Earth passes through a stream of tiny debris left behind by Halley's comet.",
+        "published": "Mon, 19 Oct 2026 10:09:37 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18412298/?type=app&htype=0"
+      },
+      {
+        "id": "327afd47722b26f48a287b3eb6f1b71e",
+        "title": "Trongate 103 issue 'has not been resolved' as council leader urged to step in",
+        "link": "https://www.glasgowtimes.co.uk/news/26648285.stuc-leader-urges-council-action-trongate-103-rents/",
+        "description": "The leader of Scotland\u2019s trades unions has called on the council to take action to save arts groups at risk of closure at a city arts and culture venue.",
+        "published": "Mon, 19 Oct 2026 10:03:07 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21599509/?type=app&htype=0"
+      },
+      {
+        "id": "7010072e977ef6146de447ebf5c05490",
+        "title": "New bus service to give town direct airport and major city connections",
+        "link": "https://www.glasgowtimes.co.uk/news/26648190.new-citylink-service-links-cumbernauld-edinburgh-airport/",
+        "description": "Citylink launches M6 service from Cumbernauld on October 24, linking residents with Edinburgh Airport, Falkirk, Perth, Dundee and Aberdeen each day.",
+        "published": "Mon, 19 Oct 2026 09:47:04 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20241289/?type=app&htype=89"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/former-gangster-paul-ferris-laid-34783841",
+        "title": "Former gangster Paul Ferris to be laid to rest at funeral in Glasgow today",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/former-gangster-paul-ferris-laid-34783841",
+        "description": "Daldowie is the very same venue where Ferris's sworn enemy, crime boss Tam &quot;The Licensee&quot; McGraw, was cremated following his death 19 years ago.",
+        "published": "Mon, 19 Oct 2026 08:31:28 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34755967.ece/ALTERNATES/s98/0_JS13235280.jpg"
+      },
+      {
+        "id": "9295199",
+        "title": "Ex Sunderland ace backed after brutal Rangers error as he overcomes criticism to become 'excellent signing'",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/ex-sunderland-ace-backed-brutal-rangers-error-overcomes-criticism-excellent-signing-9295199",
+        "description": "<p>The star swapped Sunderland for Rangers in the summer transfer window.</p>",
+        "published": "Mon, 19 Oct 2026 08:12:49 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/19/8/21/GettyImages-2300703712.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "42282de92238236c8fd97d224be5e1fa",
+        "title": "Fish crime crackdown as Operation Salmo seeks to protect amorous anamniotes",
+        "link": "https://www.heraldscotland.com/news/26647167.fish-crime-crackdown-protect-spawning-salmon-scotland/",
+        "description": "A week long enforcement campaign has been launched across Scotland in an effort to crack down on fish crime",
+        "published": "Mon, 19 Oct 2026 09:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20715811/?type=app&htype=0"
+      },
+      {
+        "id": "13e9507e999c71244c8f9b45ce99a159",
+        "title": "'Lots of potential' - Vacant pub to be be given makeover before reopening next month",
+        "link": "https://www.glasgowtimes.co.uk/news/26647890.rutherglen-pub-vogue-set-reopen-new-owners/",
+        "description": "Rutherglen's Vogue Bar is set for a major makeover after being acquired by Punch Pubs &amp; Co, with the popular Main Street venue reopening in November",
+        "published": "Mon, 19 Oct 2026 08:33:59 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21599050/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-woman-speaks-out-35-34783514",
+        "title": "Glasgow woman speaks out 35 years after best pal stabbed to death in playground",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-woman-speaks-out-35-34783514",
+        "description": "Pauline Love was just 16 when her friend Diane Watson was fatally stabbed by fellow 15-year-old pupil Barbara Glover at Whitehill Secondary in Dennistoun",
+        "published": "Mon, 19 Oct 2026 07:10:57 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34783505.ece/ALTERNATES/s98/0_DIANE-AND-PAULINE-jpeg.jpg"
+      },
+      {
+        "id": "9295051",
+        "title": "Next Celtic manager claim emerges as BBC pundit states Martin O'Neill alternative had job in palm of his hand",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/next-celtic-manager-claim-bbc-pundit-martin-oneill-alternative-9295051",
+        "description": "<p>The man in question has formerly represented Tottenham, Leeds United and Celtic as a player.</p>",
+        "published": "Mon, 19 Oct 2026 06:58:29 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/19/6/26/GettyImages-2258935998.jpg?width=1200&auto=webp&trim=0%2C32%2C0%2C32"
+      },
+      {
+        "id": "61b3c8d25af4a5daa606bd70defd9bec",
+        "title": "Commuters warned as signal fault hits busy route near Glasgow",
+        "link": "https://www.heraldscotland.com/news/26647808.rail-services-disrupted-motherwell-signalling-fault-newton/",
+        "description": "Rail passengers: check before travelling as disruption hits some routes",
+        "published": "Mon, 19 Oct 2026 07:33:11 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/13005148/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-actor-gary-lamont-backs-34782165",
+        "title": "Glasgow actor Gary Lamont backs campaign to secure future of local charity",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-actor-gary-lamont-backs-34782165",
+        "description": "Jeely Piece Club is aiming to raise \u00a3150,000 to sustain existing services, invest in its facilities and develop new ways of supporting local children and families.",
+        "published": "Mon, 19 Oct 2026 06:31:06 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34782226.ece/ALTERNATES/s98/0_JS348498497.jpg"
+      },
+      {
+        "id": "c417737d46b12d73d7aa95838c9ebbd8",
+        "title": "'Scandal' - Homeless deaths in Scotland soar 38% in a year as housing crisis deepens",
+        "link": "https://www.heraldscotland.com/news/26641567.scotland-homelessness-crisis-deaths-rise-38-year/",
+        "description": "The number of homeless people dying in Scotland has soared by 38% in just one year with 232 deaths recorded in 2025 as the country\u2019s housing emergency claims an ever more devastating toll.",
+        "published": "Mon, 19 Oct 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18285691/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cq4g18jn7jx3o#0",
+        "title": "Families 'left in the dark' over council plan to axe day care centres",
+        "link": "https://www.bbc.co.uk/news/articles/cq4g18jn7jx3o?at_medium=RSS&at_campaign=rss",
+        "description": "Glasgow City Council intends to cut the number of centres from 10 to four in a bid to save money.",
+        "published": "Mon, 19 Oct 2026 05:03:07 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd4d/live/a1580ec0-c952-11f1-8879-9d9deeb686e1.jpg"
+      },
+      {
+        "id": "b1fdb2697149bf667d319d813921665e",
+        "title": "Campaigners taking Glasgow City Council to court amid 7 year planning battle",
+        "link": "https://www.glasgowtimes.co.uk/news/26644101.mount-florida-campaigners-take-civil-action-amid-planning-battle/",
+        "description": "A local campaign group is set to go head to head with Glasgow City Council as they start the process of taking the local authority to court over devising housing plans",
+        "published": "Mon, 19 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21592547/?type=app&htype=0"
+      },
+      {
+        "id": "4653bd58dcbe5f236b227d8e53fcebb1",
+        "title": "'Nightmare' for family as great-grandad's burial was never recorded despite funeral",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26641008.glasgow-family-find-great-grandads-burial-not-recorded/",
+        "description": "A Glasgow family say\u00a0they have been in a \"nightmare situation\" after finding out a relative's burial had not been recorded.",
+        "published": "Mon, 19 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21591418/?type=app&htype=0"
+      },
+      {
+        "id": "9b63198f43d35802c953f06d9be762fe",
+        "title": "Major mental health arts festival returns to Glasgow for its 20th year",
+        "link": "https://www.glasgowtimes.co.uk/news/26643455.scottish-mental-health-arts-festival-returning-glasgow/",
+        "description": "The Scottish Mental Health Arts Festival (SMHAF) begins on October 19, and runs until Sunday, November 9.",
+        "published": "Mon, 19 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21590763/?type=app&htype=0"
+      },
+      {
+        "id": "edf5be37fdb2ccd907109314fc0f2f7d",
+        "title": "Inside the exclusive Glasgow district with 30 private health clinics",
+        "link": "https://www.heraldscotland.com/life_style/26592580.inside-glasgow-district-30-private-health-wellness-clinics/",
+        "description": "From healthcare to wellness, Glasgow\u2019s Blythswood Square is experiencing a boom in private clinics. Here\u2019s what is driving the trend",
+        "published": "Mon, 19 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21517513/?type=app&htype=0"
+      },
+      {
+        "id": "b488b9daefd39870b23adae2c53a6b65",
+        "title": "Inside the union compromises that left hybrid working for civil servants unenforced",
+        "link": "https://www.heraldscotland.com/news/26647476.inside-union-deal-civil-servants-hybrid-working/",
+        "description": "Scottish Government papers reveal the union compromises behind civil servants\u2019 hybrid working as ministers move to mandatory attendance.",
+        "published": "Mon, 19 Oct 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20555113/?type=app&htype=0"
+      },
       {
         "id": "9293758",
         "title": "\u201cThey saved my life\u201d: Glasgow care leaver launching mental health platform to help others",
