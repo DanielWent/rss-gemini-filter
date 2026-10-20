@@ -2869,12 +2869,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=534086",
+        "title": "A83 closed in both directions after incident near recycling centre",
+        "link": "https://news.stv.tv/west-central/a83-closed-in-both-directions-after-incident-near-recycling-centre",
+        "description": "Emergency services are in attendance, with traffic being diverted via Oban",
+        "published": "Tue, 20 Oct 2026 10:51:44 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/23d1d1e7311ca732e1d1af11341b0bbb-1792491844.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=534075",
+        "title": "Man seriously injured after attacker forces entry to property in Paisley",
+        "link": "https://news.stv.tv/west-central/man-seriously-injured-after-attacker-forces-entry-to-property-in-paisley",
+        "description": "Police are appealing for CCTV and dash-cam footage following the incident",
+        "published": "Tue, 20 Oct 2026 10:41:11 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/01/235f6d6135a9d1cc759d20ab2678e146-1767794483-995x720.jpeg"
+      },
+      {
+        "id": "c0fa43ed245147f2c8282395c5c65026",
+        "title": "Venice Biennale art exhibition Shame Parade to open on Isle of Bute",
+        "link": "https://www.heraldscotland.com/news/26652618.shame-parade-exhibition-open-mount-stuart-2027/",
+        "description": "Scotland\u2019s Venice Biennale exhibition, Shame Parade, will open at Mount Stuart on the Isle of Bute in April 2027 before touring the UK and Europe.",
+        "published": "Tue, 20 Oct 2026 11:22:52 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21605943/?type=app&htype=0"
+      },
+      {
         "id": "0be2f9a6ecbd33320635fc20d33e1cab",
         "title": "Major Glasgow road to close for FOUR DAYS as esurfacing works begin",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26652569.maryhill-road-closure-glasgow-resurfacing-works/",
         "description": "Glasgow drivers face Maryhill Road closure from October 20 to October 23 for resurfacing works, with diversions via Garscube Road and Great Western Road.",
         "published": "Tue, 20 Oct 2026 11:16:51 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21475912/?type=app&htype=0"
+      },
+      {
+        "id": "e7276161a5835f2fdd94059457b70254",
+        "title": "Latest data: Almost 1,000 people aged more than 100 living in Scotland",
+        "link": "https://www.heraldscotland.com/news/26652415.scotland-almost-1-000-centenarians-figures-show/",
+        "description": "The figures raise questions about the impact on social care and health services from the aging population",
+        "published": "Tue, 20 Oct 2026 10:53:34 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21538166/?type=app&htype=0"
       },
       {
         "id": "70a3a753b55c1eb0df188ac87c64270a",
@@ -3043,14 +3075,6 @@
         "description": "A growing hostility to Catholicism has been evident inside the SNP during the Sturgeon/Swinney era, writes Kevin McKenna",
         "published": "Tue, 20 Oct 2026 06:30:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21601326/?type=app&htype=0"
-      },
-      {
-        "id": "d6eb4083bdfae9911bbaf61fa78c1e33",
-        "title": "People living with arthritis deserve much better from the SNP",
-        "link": "https://www.heraldscotland.com/opinion/26651233.people-living-arthritis-deserve-much-better-snp/",
-        "description": "'People living with arthritis don't need longer waiting-time targets. They need shorter waits, better care and a proper plan'",
-        "published": "Tue, 20 Oct 2026 06:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21604078/?type=app&htype=0"
       },
       {
         "id": "fc6c7d3ca863610699ef2976c980e50a",
@@ -3643,30 +3667,6 @@
         "description": "More than 30,000 Scottish NHS waits still exceed a year, six months after John Swinney\u2019s March 2026 target was missed, with ministers giving no new date.",
         "published": "Mon, 19 Oct 2026 00:01:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20151892/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=533810",
-        "title": "Daughter hopes dad\u2019s former colleagues can help asbestos compensation claim",
-        "link": "https://news.stv.tv/west-central/daughter-hopes-dads-former-colleagues-can-help-asbestos-compensation-claim",
-        "description": "Jim Campbell, 76, passed away just five months after being diagnosed with a tumour that is feared to be an asbestos-related cancer",
-        "published": "Sun, 18 Oct 2026 18:29:01 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/5b98c77a8b8964972a4a85d58af14de9-1792347316-1100x720.jpg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=533819",
-        "title": "Homes of defence industry figures \u2018vandalised by pro-Palestinian group\u2019",
-        "link": "https://news.stv.tv/west-central/homes-of-defence-industry-figures-vandalised-by-pro-palestinian-group",
-        "description": "Police are investigating a string of incidents thought to be linked to a group called The List",
-        "published": "Sun, 18 Oct 2026 17:51:21 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/9a99eeb7b4700ad6383c73bb06256ddc-1792345860-1080x720.jpg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=533816",
-        "title": "Kilwinning residents without water for over 24 hours amid \u2018complex\u2019 main repair",
-        "link": "https://news.stv.tv/west-central/kilwinning-residents-without-water-for-over-24-hours-amid-complex-main-repair",
-        "description": "Scottish Water said repairing the burst water main in Kilwinning had proved more complex than expected",
-        "published": "Sun, 18 Oct 2026 16:37:10 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2023/02/2b9a288690780d227eda50a1d0dcc923-1675358153-1280x720.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
