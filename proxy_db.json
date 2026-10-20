@@ -2780,6 +2780,14 @@
     "icon_url": "https://runabc.co.uk/favicon.ico",
     "articles": [
       {
+        "id": "https://runabc.co.uk/william-wallace-running-festival-opens-entries-for-2027-after-stirling-success",
+        "title": "William Wallace Running Festival Opens Entries For 2027 After Stirling Success",
+        "link": "https://runabc.co.uk/william-wallace-running-festival-opens-entries-for-2027-after-stirling-success",
+        "description": "<p><img alt=\"William Wallace Running Festival 2027\" src=\"https://runabc.co.uk/images/2026/10/william-wallace-running-festival-2027.jpg\" /></p>\n\t\t\t\t<p>Following its second staging in Stirling on 10 October, the William Wallace Running Festival has already opened entries for 9 October 2027...</p>",
+        "published": "Tue, 20 Oct 2026 07:55:00 +0100",
+        "image_url": "https://runabc.co.uk/images/2026/10/william-wallace-running-festival-2027.jpg"
+      },
+      {
         "id": "https://runabc.co.uk/3k-on-the-green-november-continues-glasgows-lunchtime-running-tradition",
         "title": "3K On The Green November Continues Glasgow's Lunchtime Running Tradition",
         "link": "https://runabc.co.uk/3k-on-the-green-november-continues-glasgows-lunchtime-running-tradition",
@@ -2860,6 +2868,30 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "9296053",
+        "title": "How confronting demons, family foundation and Celtic love affair helped star overcome 18-month injury hell",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/how-confronting-demons-family-foundation-and-celtic-love-affair-helped-star-overcome-18-month-injury-hell-9296053",
+        "description": "<p>Returning Portuguese winger opens up on the mental battle behind his 18-month injury nightmare</p>",
+        "published": "Tue, 20 Oct 2026 07:00:43 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/19/7/13/21822513.jpeg?width=1200&auto=webp&trim=0%2C274%2C0%2C274"
+      },
+      {
+        "id": "9296055",
+        "title": "Rangers injury latest: Expected return dates when Derek McInnes could welcome back quintet of Ibrox stars",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-injury-latest-expected-return-dates-when-derek-mcinnes-could-welcome-back-quintet-ibrox-stars-9296055",
+        "description": "<p>A breakdown of the latest reported recovery timelines with five players still in the treatment room</p>",
+        "published": "Tue, 20 Oct 2026 07:00:41 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/08/13/26/21771167.jpg?width=1200&auto=webp&trim=0%2C10%2C0%2C9"
+      },
+      {
+        "id": "https://runabc.co.uk/william-wallace-running-festival-opens-entries-for-2027-after-stirling-success",
+        "title": "William Wallace Running Festival Opens Entries For 2027 After Stirling Success",
+        "link": "https://runabc.co.uk/william-wallace-running-festival-opens-entries-for-2027-after-stirling-success",
+        "description": "<p><img alt=\"William Wallace Running Festival 2027\" src=\"https://runabc.co.uk/images/2026/10/william-wallace-running-festival-2027.jpg\" /></p>\n\t\t\t\t<p>Following its second staging in Stirling on 10 October, the William Wallace Running Festival has already opened entries for 9 October 2027...</p>",
+        "published": "Tue, 20 Oct 2026 07:55:00 +0100",
+        "image_url": "https://runabc.co.uk/images/2026/10/william-wallace-running-festival-2027.jpg"
+      },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/before-after-shots-argyle-street-34785215",
         "title": "'Before and after\u2019 shots of Argyle Street transformation as Glasgow Avenues project continues",
