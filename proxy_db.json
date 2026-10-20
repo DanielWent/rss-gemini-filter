@@ -2869,12 +2869,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=534078",
+        "title": "Man to stand trial over murder of Shona Stevens in 1994",
+        "link": "https://news.stv.tv/west-central/man-to-stand-trial-over-murder-of-shona-stevens-in-1994",
+        "description": "Fraser Kilpatrick faces 15 charges ranging from rape, and assault to the killing of the 31-year-old mum in Irvine",
+        "published": "Tue, 20 Oct 2026 09:46:24 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2024/11/bd0a8feabe4347184b28b3e9474c60a6-1731073597-1120x720.jpg"
+      },
+      {
+        "id": "2b164db311272b56c3f5210d08420d50",
+        "title": "How Scottish families could receive more than \u00a32600 in support for a new baby",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26652284.scottish-parents-can-claim-2600-support/",
+        "description": "The Scottish Government is offering funding through a package of benefits aimed at easing the costs of early parenthood.",
+        "published": "Tue, 20 Oct 2026 10:36:12 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20346995/?type=app&htype=0"
+      },
+      {
+        "id": "807e38524a4f3d38b5b02b1e2db9125a",
+        "title": "Manhunt underway after serious assault in residential area",
+        "link": "https://www.glasgowtimes.co.uk/news/26652252.manhunt-underway-serious-assault-paisley-property/",
+        "description": "A man was seriously injured in an assault after a break-in at a property.",
+        "published": "Tue, 20 Oct 2026 10:31:47 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16803364/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=534071",
         "title": "Councillors to consider proposals for M&S Food store at Queens Drive Retail Park in Kilmarnock",
         "link": "https://news.stv.tv/west-central/councillors-to-consider-proposals-for-ms-food-store-at-queens-drive-retail-park-in-kilmarnock",
         "description": "More than 360 representations have been submitted backing the plans for the Kilmarnock store",
         "published": "Tue, 20 Oct 2026 09:24:59 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/c2c9c042c4baf56d41ce572f55c5e4c6-1792487982-1120x720.jpg"
+      },
+      {
+        "id": "f2810c72b9e58978d5f95206f8a40c4b",
+        "title": "Further travel disruption in Glasgow as part of George Square to CLOSE for four days",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26652164.george-square-north-close-four-days-hoarding/",
+        "description": "Glasgow drivers face George Square North closure from October 26-29, 2026, for George Square Avenue Project planned works, with diversions via key city routes.",
+        "published": "Tue, 20 Oct 2026 10:19:08 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21198914/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=534062",
@@ -2885,12 +2917,28 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/88b64d63612211e17a8ba229ad212204-1792487518-1120x720.jpg"
       },
       {
+        "id": "f09c69d0216e1bc3a0afea8ce1d83cbd",
+        "title": "More Scots reaching milestone 100th birthday as new figures reveal growing trend",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26651988.number-people-scotland-living-100-continues-rise/",
+        "description": "Scotland had an estimated 950 centenarians in mid-2025, up 5% in a decade, with women outnumbering men four to one amid the ageing population.",
+        "published": "Tue, 20 Oct 2026 09:52:33 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21586925/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=534041",
         "title": "Firefighters battle early morning blaze in Irvine as nearby residents evacuated",
         "link": "https://news.stv.tv/west-central/firefighters-battle-early-morning-blaze-in-irvine-as-nearby-residents-evacuated",
         "description": "Emergency services were called around 5.30am on Tuesday to a fire at a premises on High Street.",
         "published": "Tue, 20 Oct 2026 08:21:57 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/fe0190b0b10de320f216a3030da76575-1792483750-1200x720.jpeg"
+      },
+      {
+        "id": "e44c63f780e8337a80c9d012ecf1662a",
+        "title": "Comedian Jimmy Carr coming to Glasgow as he releases tour dates",
+        "link": "https://www.glasgowtimes.co.uk/news/26651773.comedian-jimmy-carr-coming-glasgow-may-next-year/",
+        "description": "Comedian Jimmy Carr is heading to Glasgow next year as part of his Killing Jokes tour",
+        "published": "Tue, 20 Oct 2026 09:15:20 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20381711/?type=app&htype=0"
       },
       {
         "id": "324a624186fc6c519b3d6b868b6600d3",
@@ -3619,14 +3667,6 @@
         "description": "John Sinclair, 58, said he was told his son had a drug debt of \u00a318,000 and that his family would be harmed if it was not paid",
         "published": "Sun, 18 Oct 2026 12:34:08 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/fd456406745d816a45cae554c788e754-1792326174.jpg"
-      },
-      {
-        "id": "ac227a34d42b4abef130be205b1e0d27",
-        "title": "John Swinney compared to dictator as bus plans branded \u2018business confiscation\u2019",
-        "link": "https://www.heraldscotland.com/news/26647133.swinney-compared-dictators-bus-public-control-plan/",
-        "description": "John Swinney has been compared to dictators as McGill's Group threatens legal action over plans to bring buses in Scotland under public control.",
-        "published": "Sun, 18 Oct 2026 11:20:47 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21597756/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
