@@ -2877,6 +2877,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-school-absences-soar-parents-34793963",
+        "title": "Glasgow school absences soar as parents keep children home after 'bomb threat' hoax",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-school-absences-soar-parents-34793963",
+        "description": "More than 300 schools across Scotland received bomb threat messages, with many evacuated or closed as Police Scotland investigates",
+        "published": "Tue, 20 Oct 2026 23:47:43 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34793962.ece/ALTERNATES/s98/0_GettyImages-1498426360.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c6n9r5dl3zpno#0",
         "title": "'My children think I've lost my mind': The Scot prepping for when the lights go out",
         "link": "https://www.bbc.co.uk/news/articles/c6n9r5dl3zpno?at_medium=RSS&at_campaign=rss",
@@ -3667,14 +3675,6 @@
         "description": "A Glasgow man is facing a possible jail term after Border Force officers discovered \u00a3131,100 worth of cannabis in his luggage at Glasgow Airport.",
         "published": "Mon, 19 Oct 2026 15:20:59 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17684424/?type=app&htype=0"
-      },
-      {
-        "id": "0e88dd809c1998b8e07d3d894b31cdc9",
-        "title": "160 offshore workers to strike over pay in dispute 'threatening UK fuel supplies'",
-        "link": "https://www.heraldscotland.com/news/26650228.160-scottish-offshore-workers-set-strike-pay/",
-        "description": "More than 160 Apache offshore workers will strike on October 21 and November 4 over pay, as Unite warns of risks to UK fuel supplies and the Forties pipeline.",
-        "published": "Mon, 19 Oct 2026 15:11:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21516755/?type=app&htype=2"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
