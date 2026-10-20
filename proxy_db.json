@@ -2869,6 +2869,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "bccfe4c6d1ea69b445eff239a477d880",
+        "title": "BBC Scotland channel to disappear from TV screens as broadcaster unveils major cuts",
+        "link": "https://www.glasgowtimes.co.uk/news/26653643.bbc-scotland-tv-channel-close-amid-major-budget-cuts/",
+        "description": "BBC Scotland\u2019s linear TV channel will move online-only on BBC iPlayer from spring, with News at Seven axed and around 10 jobs at risk amid \u00a3500m cuts.",
+        "published": "Tue, 20 Oct 2026 14:07:39 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21607301/?type=app&htype=0"
+      },
+      {
+        "id": "e270aafc1ea18cb52967c5c8e13f704b",
+        "title": "LEGO announces free festive event in Glasgow with surprise gifts 'for all ages'",
+        "link": "https://www.glasgowtimes.co.uk/news/26653574.free-lego-event-glasgow-promises-gifts-ages/",
+        "description": "LEGO Giftmas Workshop comes to Glasgow from November 26 to November 29, with free festive family fun, personalised builds and no tickets required for all ages.",
+        "published": "Tue, 20 Oct 2026 13:53:31 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21607382/?type=app&htype=0"
+      },
+      {
+        "id": "27b92046d5bd5471fd8c18966192ac40",
+        "title": "Patient developed sepsis after kidney infection as NHS board to apologise",
+        "link": "https://www.glasgowtimes.co.uk/news/26653553.patient-developed-sepsis-kidney-infection-discharge/",
+        "description": "A patient who developed sepsis and required surgery to remove their spleen following a kidney infection is to receive an apology from NHS Greater Glasgow and Clyde",
+        "published": "Tue, 20 Oct 2026 13:50:43 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16005120/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/scotlands-home-halloween-gets-ready-34790383",
         "title": "Scotland's 'home of Halloween' gets ready to party as Paisley's two day festival returns",
         "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/scotlands-home-halloween-gets-ready-34790383",
@@ -3037,14 +3061,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20346995/?type=app&htype=0"
       },
       {
-        "id": "807e38524a4f3d38b5b02b1e2db9125a",
-        "title": "Manhunt underway after serious assault in residential area",
-        "link": "https://www.glasgowtimes.co.uk/news/26652252.manhunt-underway-serious-assault-paisley-property/",
-        "description": "A man was seriously injured in an assault after a break-in at a property.",
-        "published": "Tue, 20 Oct 2026 10:31:47 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16803364/?type=app&htype=0"
-      },
-      {
         "id": "https://news.stv.tv/?p=534071",
         "title": "Councillors to consider proposals for M&S Food store at Queens Drive Retail Park in Kilmarnock",
         "link": "https://news.stv.tv/west-central/councillors-to-consider-proposals-for-ms-food-store-at-queens-drive-retail-park-in-kilmarnock",
@@ -3139,14 +3155,6 @@
         "description": "The west side of Argyle Street's makeover has seen the addition of more greenery, cycle lanes and refurbished roads and pavements.",
         "published": "Tue, 20 Oct 2026 06:46:54 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34785562.ece/ALTERNATES/s98/0_Argyle-st-west.jpg"
-      },
-      {
-        "id": "8cd5e0c2cf3db45b1167ca6189d3a209",
-        "title": "LIVE updates as trains cancelled as emergency services 'dealing with incident'",
-        "link": "https://www.glasgowtimes.co.uk/news/26651570.live-balloch-airdrie-trains-cancelled-amid-incident/",
-        "description": "Trains running between Balloch and Airdrie are currently facing cancellation as emergency services deal with an incident near the line.",
-        "published": "Tue, 20 Oct 2026 07:29:46 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21212050/?type=app&htype=0"
       },
       {
         "id": "9324805f1c30e503264b3feca0ecb239",
@@ -3355,14 +3363,6 @@
         "description": "Sir Peter Mathieson defended recent programme closures at Edinburgh University in an email sent to a student and a number of regional MSPs.",
         "published": "Mon, 19 Oct 2026 16:03:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21601133/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=533958",
-        "title": "Patient developed sepsis after being discharged from hospital without adequate follow-up treatment",
-        "link": "https://news.stv.tv/west-central/patient-developed-sepsis-after-being-discharged-from-hospital-without-adequate-follow-up-treatment",
-        "description": "The patient was readmitted to hospital around five weeks later and required surgery to have their spleen removed",
-        "published": "Mon, 19 Oct 2026 14:39:26 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2022/08/4459a7e783de4f93dc38a03555f4191f-1659736274.jpg"
       },
       {
         "id": "36f0e3bcd6ebd02eab6cd29414e3f09f",
