@@ -2066,6 +2066,22 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "98df5b037f8edd8f18b8c4a1be24e5c9",
+        "title": "What some parents were told today following school bomb hoax",
+        "link": "https://www.glasgowtimes.co.uk/news/26654333.east-dunbartonshire-parents-updated-school-bomb-hoax/",
+        "description": "Parents in East Dunbartonshire have been told schools will remain vigilant as police continue to investigate a hoax threatening email.",
+        "published": "Tue, 20 Oct 2026 15:38:57 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21608105/?type=app&htype=494"
+      },
+      {
+        "id": "33db0b51f24db995801cba16599d1683",
+        "title": "East Dunbartonshire Council launches recruitment drive for key roles",
+        "link": "https://www.glasgowtimes.co.uk/news/26654053.new-jobs-available-across-east-dunbartonshire-council-departments/",
+        "description": "Fresh job opportunities have opened up at East Dunbartonshire Council.",
+        "published": "Tue, 20 Oct 2026 15:06:07 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21607799/?type=app&htype=0"
+      },
+      {
         "id": "661f92c73ebf854f505bbd3f132dfde3",
         "title": "East Dunbartonshire care home earns glowing inspection report",
         "link": "https://www.glasgowtimes.co.uk/news/26653723.east-dunbartonshire-care-home-recognised-helping-residents-thrive/",
@@ -2104,14 +2120,6 @@
         "description": "The Orionid meteor shower may be seen over Glasgow later this week as the Earth passes through a stream of tiny debris left behind by Halley's comet.",
         "published": "Mon, 19 Oct 2026 10:09:37 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/18412298/?type=app&htype=0"
-      },
-      {
-        "id": "f46648298015422bdd07a77902049f39",
-        "title": "Body found in park outside Glasgow in search for missing 17-year-old boy",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26646264.body-found-milngavie-police-search-missing-teen/",
-        "description": "Police Scotland found a man\u2019s body at Mugdock Country Park, Milngavie, during the search for missing 17-year-old Kristijonas Demcenko on October 16.",
-        "published": "Sat, 17 Oct 2026 15:14:27 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16562345/?type=app&htype=0"
       },
       {
         "id": "c4f8ebbd860276f30d03580336b2c220",
@@ -2877,6 +2885,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/new-pizza-spot-rudys-set-34792068",
+        "title": "New pizza spot Rudy's set to open as signs go up close to Glasgow Central",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/new-pizza-spot-rudys-set-34792068",
+        "description": "The globally-renowned pizzeria will start welcoming pizza lovers this October at 35 Gordon Street later this month, with the new restaurant taking shape.",
+        "published": "Tue, 20 Oct 2026 14:53:37 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34792036.ece/ALTERNATES/s98/0_Screenshot-2026-10-20-at-23033PM.png"
+      },
+      {
+        "id": "https://news.stv.tv/?p=534159",
+        "title": "\u2018Stupid\u2019 rider spotted on e-scooter on Glasgow\u2019s M8 Kingston Bridge",
+        "link": "https://news.stv.tv/west-central/stupid-rider-spotted-on-e-scooter-on-glasgows-m8-kingston-bridge",
+        "description": "Dashcam footage appears to show a figure zooming across lanes on the M8 Kingston Bridge",
+        "published": "Tue, 20 Oct 2026 14:43:57 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/786961ffaace352433cde2c635128d44-1792507200-1119x720.jpeg"
+      },
+      {
+        "id": "98df5b037f8edd8f18b8c4a1be24e5c9",
+        "title": "What some parents were told today following school bomb hoax",
+        "link": "https://www.glasgowtimes.co.uk/news/26654333.east-dunbartonshire-parents-updated-school-bomb-hoax/",
+        "description": "Parents in East Dunbartonshire have been told schools will remain vigilant as police continue to investigate a hoax threatening email.",
+        "published": "Tue, 20 Oct 2026 15:38:57 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21608105/?type=app&htype=494"
+      },
+      {
+        "id": "1196b41c93d0ddfa7684178e2fb08bcc",
+        "title": "EastEnders stars to lead smash hit musical coming to Glasgow's King's Theatre",
+        "link": "https://www.glasgowtimes.co.uk/news/26654208.eastenders-stars-lead-smash-hit-musical-coming-glasgow/",
+        "description": "EastEnders stars are set to lead a touring production of a smash hit musical coming to Glasgow.",
+        "published": "Tue, 20 Oct 2026 15:25:03 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21607986/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/vacant-derelict-land-brought-back-34791771",
         "title": "Vacant and derelict land to be brought back to life through affordable homes",
         "link": "https://www.glasgowlive.co.uk/news/vacant-derelict-land-brought-back-34791771",
@@ -2893,6 +2933,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21607854/?type=app&htype=0"
       },
       {
+        "id": "b1ae0422e9e49c1dfddad4b014808305",
+        "title": "Glasgow site set for dramatic makeover as \u00a3100m regeneration plan wins approval",
+        "link": "https://www.glasgowtimes.co.uk/news/26654021.glasgow-wyndford-areas-100m-makeover-plans-approved/",
+        "description": "\u00a3100m Wyndford regeneration in north Glasgow approved: Wheatley will build 401 energy-efficient homes, community facilities and green spaces from spring 2027.",
+        "published": "Tue, 20 Oct 2026 14:59:42 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21607910/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/arts-culture-news/gallery/glasgow-murals-under-m8-now-34791256",
         "title": "Glasgow murals under M8 now fully restored after fans left in uproar over Batman filming cover up",
         "link": "https://www.glasgowlive.co.uk/whats-on/arts-culture-news/gallery/glasgow-murals-under-m8-now-34791256",
@@ -2901,12 +2949,12 @@
         "image_url": "https://i2-prod.edinburghlive.co.uk/incoming/article34791076.ece/ALTERNATES/s98/0_9d3c35dc-a258-4066-a9fe-ac80e0cc4260.jpg"
       },
       {
-        "id": "9299167",
-        "title": "Glasgow City Council approves \u00a3100m Wheatley Group development for North Glasgow",
-        "link": "https://www.glasgowworld.com/news/scottish-government-glasgow-property-9299167",
-        "description": "<p>The \u00a3100m development will include 401 new homes, a community centre and green spaces, with work expected to start in mid 2027.</p>",
-        "published": "Tue, 20 Oct 2026 13:48:18 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/20/13/08/Wyndford-artist-impression2.png?width=1200&auto=webp&trim=0%2C138%2C0%2C138"
+        "id": "b917d0fd6cb095d8cd3e0cc0db4cb6dc",
+        "title": "Summerhall developers must 'guarantee' future arts space, councillor demands",
+        "link": "https://www.heraldscotland.com/news/26653886.councillor-calls-arts-space-guarantee-summerhall/",
+        "description": "AMA managing director Dr Ali Afshar has been asked to outline how much of the site\u2019s \u201carts and creative floorspace\u201d would be retained.",
+        "published": "Tue, 20 Oct 2026 14:51:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21568852/?type=app&htype=0"
       },
       {
         "id": "8a974d57fc392867a72b4f15ce585594",
@@ -3179,14 +3227,6 @@
         "description": "The Scottish Government is offering funding through a package of benefits aimed at easing the costs of early parenthood.",
         "published": "Tue, 20 Oct 2026 10:36:12 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20346995/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=534071",
-        "title": "Councillors to consider proposals for M&S Food store at Queens Drive Retail Park in Kilmarnock",
-        "link": "https://news.stv.tv/west-central/councillors-to-consider-proposals-for-ms-food-store-at-queens-drive-retail-park-in-kilmarnock",
-        "description": "More than 360 representations have been submitted backing the plans for the Kilmarnock store",
-        "published": "Tue, 20 Oct 2026 09:24:59 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/c2c9c042c4baf56d41ce572f55c5e4c6-1792487982-1120x720.jpg"
       },
       {
         "id": "f2810c72b9e58978d5f95206f8a40c4b",
@@ -3643,38 +3683,6 @@
         "description": "Flight school pays tribute after light aircraft crash kills a 16-year-old boy and 80-year-old man after take-off from Glasgow Airport.",
         "published": "Mon, 19 Oct 2026 12:28:36 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21597568/?type=app&htype=0"
-      },
-      {
-        "id": "9295246",
-        "title": "Celtic summer signing 'feeling a bit down' amid form slump but ace backed with defiant prediction",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-summer-signing-feeling-a-bit-down-form-slump-ace-backed-defiant-prediction-9295246",
-        "description": "<p>Celtic have provided their support to one star amid a tough start to life in Glasgow.</p>",
-        "published": "Mon, 19 Oct 2026 11:00:42 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/19/9/54/GettyImages-2300809802.jpg?width=1200&auto=webp&trim=4%2C0%2C4%2C0"
-      },
-      {
-        "id": "335a4c53b876cdcb3cd89b7cca187844",
-        "title": "Public invited to help create Queen Elizabeth memorial in Scotland",
-        "link": "https://www.heraldscotland.com/news/26649030.scots-invited-shape-permanent-queen-elizabeth-memorial-scotland/",
-        "description": "What should Scotland\u2019s permanent memorial to Queen Elizabeth look like?",
-        "published": "Mon, 19 Oct 2026 11:47:28 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/15078215/?type=app&htype=0"
-      },
-      {
-        "id": "d38c4966c01e450ac0935cacf40a8aad",
-        "title": "Reform loses joint second place at Holyrood after MSP Amanda Bland quits party",
-        "link": "https://www.glasgowtimes.co.uk/news/26649026.labour-becomes-second-party-reform-msp-quits/",
-        "description": "Reform has lost its status as joint second biggest party in Holyrood following the resignation of an MSP.",
-        "published": "Mon, 19 Oct 2026 11:46:45 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20895921/?type=app&htype=0"
-      },
-      {
-        "id": "439f28ff32b85ef8bb4238f6fb2ff5ab",
-        "title": "Glasgow and Midlothian libraries shortlisted for national awards",
-        "link": "https://www.heraldscotland.com/news/26648659.glasgow-midlothian-libraries-shortlisted-slic-awards/",
-        "description": "Glasgow Life and Midlothian Library Service have been shortlisted for the 2026 SLIC Awards, recognising projects supporting communities across Scotland.",
-        "published": "Mon, 19 Oct 2026 11:14:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21600175/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
