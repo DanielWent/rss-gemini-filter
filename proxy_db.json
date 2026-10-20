@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo#1",
+        "title": "Storm Austen to bring severe gales to UK as weather warning issued",
+        "link": "https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo?at_medium=RSS&at_campaign=rss",
+        "description": "The first named storm of the season - Austen - will bring damaging winds and heavy rain to parts of the UK on Friday.",
+        "published": "Tue, 20 Oct 2026 09:42:56 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58e2/live/9434c270-cc58-11f1-9b08-37acac6be953.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/sport/articles/ck054n5nqlv5o#8",
         "title": "Race, illness, injury, repeat - REDs and why men are suffering in silence",
         "link": "https://www.bbc.co.uk/sport/articles/ck054n5nqlv5o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Britain's Eilish McColgan returns to competitive action after five months out with a fractured foot to win the London Big Half for a fourth time.",
         "published": "Sun, 06 Sep 2026 12:00:10 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b909/live/13aa1620-a9d8-11f1-803f-7f2a9199ddc4.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/athletics/articles/cgk5drzm54xo#8",
-        "title": "Hunt 'not afraid of anyone' after second podium in two days",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/cgk5drzm54xo?at_medium=RSS&at_campaign=rss",
-        "description": "Amy Hunt says she is \"on the up\" and \"not afraid of anyone\" after finishing second in the 100m at the Diamond League final in Brussels.",
-        "published": "Sat, 05 Sep 2026 21:03:10 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70f3/live/e6afe270-a96a-11f1-b850-096ea2f533db.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2869,6 +2869,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "0be2f9a6ecbd33320635fc20d33e1cab",
+        "title": "Major Glasgow road to close for FOUR DAYS as esurfacing works begin",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26652569.maryhill-road-closure-glasgow-resurfacing-works/",
+        "description": "Glasgow drivers face Maryhill Road closure from October 20 to October 23 for resurfacing works, with diversions via Garscube Road and Great Western Road.",
+        "published": "Tue, 20 Oct 2026 11:16:51 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21475912/?type=app&htype=0"
+      },
+      {
+        "id": "70a3a753b55c1eb0df188ac87c64270a",
+        "title": "Water disruption in busy Glasgow area sparks emergency response",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26652397.glasgow-water-disruption-burst-main-discovered/",
+        "description": "Scottish Water warns of supply disruption in Glasgow's G33 area after a burst main on Elibank Street, with repairs and traffic delays expected on October 20.",
+        "published": "Tue, 20 Oct 2026 10:51:14 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20409063/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=534078",
         "title": "Man to stand trial over murder of Shona Stevens in 1994",
         "link": "https://news.stv.tv/west-central/man-to-stand-trial-over-murder-of-shona-stevens-in-1994",
@@ -3651,22 +3667,6 @@
         "description": "Scottish Water said repairing the burst water main in Kilwinning had proved more complex than expected",
         "published": "Sun, 18 Oct 2026 16:37:10 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2023/02/2b9a288690780d227eda50a1d0dcc923-1675358153-1280x720.jpg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=533811",
-        "title": "Family welcomes inquiry into death of man murdered by neighbour on bail",
-        "link": "https://news.stv.tv/west-central/family-welcomes-inquiry-into-death-of-man-murdered-by-neighbour-on-bail",
-        "description": "Nicholas Henry was on bail and arrested twice in the months before murdering Daniel Greer in North Lanarkshire in 2020",
-        "published": "Sun, 18 Oct 2026 13:30:51 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/218b197a837d13c2d2a9efa95972943c-1792329653-1120x720.jpeg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=533806",
-        "title": "Man caught with \u00a3160,000 tells court he was paying back murdered son\u2019s drug debt",
-        "link": "https://news.stv.tv/west-central/man-caught-with-160000-was-paying-back-murdered-sons-drug-debt-court-hears",
-        "description": "John Sinclair, 58, said he was told his son had a drug debt of \u00a318,000 and that his family would be harmed if it was not paid",
-        "published": "Sun, 18 Oct 2026 12:34:08 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/fd456406745d816a45cae554c788e754-1792326174.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
