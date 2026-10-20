@@ -2885,6 +2885,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9d09620ee0781efc280be6ecda51b049",
+        "title": "Glasgow City Council and Wheatley Group pledge on affordable housing",
+        "link": "https://www.glasgowtimes.co.uk/news/26655108.glasgow-wheatley-reaffirm-affordable-housing-pledge/",
+        "description": "Glasgow City Council and Wheatley Housing Group have reaffirmed their commitment to developing affordable housing, a new report has confirmed.",
+        "published": "Tue, 20 Oct 2026 17:42:14 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/5993712/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqwyrw8dp2dmo#0",
+        "title": "GB men and women to make history in Glasgow",
+        "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqwyrw8dp2dmo?at_medium=RSS&at_campaign=rss",
+        "description": "Great Britain's men and women will make history in February when they compete in the European Cup of Nations at Braehead Arena in Glasgow.",
+        "published": "Tue, 20 Oct 2026 16:22:13 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d28/live/98a65fb0-cca0-11f1-a64c-550be9e3c66b.jpg"
+      },
+      {
+        "id": "6d69a18fb91f13397a02649b77f18bc0",
+        "title": "Police issue update after bomb threat messages forced Scotland schools to evacuate",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26655036.police-give-update-scottish-schools-evacuated-hoax-emails/",
+        "description": "Police have issued an update on the threatening messages which forced evacuations and caused widespread disruption at schools across Scotland.",
+        "published": "Tue, 20 Oct 2026 17:21:04 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21401638/?type=app&htype=0"
+      },
+      {
         "id": "9298191",
         "title": "Rangers can\u2019t keep shooting themselves in the foot as Dundee draw exposes familiar flaws",
         "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-cant-keep-shooting-themselves-in-the-foot-as-dundee-draw-exposes-familiar-flaws-9298191",
@@ -3659,14 +3683,6 @@
         "description": "Scottish Procurement Alliance opens \u00a3900m RM4 refurbishment framework, inviting contractors to bid for housing and public building repairs by December 11, 2026.",
         "published": "Mon, 19 Oct 2026 14:18:09 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21601848/?type=app&htype=0"
-      },
-      {
-        "id": "0aeb271df43eed72555b79b5ec2d6a8d",
-        "title": "Helicopters, lifeboats and ferry join search for man overboard near Isle of Arran",
-        "link": "https://www.heraldscotland.com/news/26649718.search-man-overboard-off-arran-stood-eight-hours/",
-        "description": "HM Coastguard search for missing man reported overboard off Arran stood down after eight hours; CalMac ferry services disrupted on October 19 following incident.",
-        "published": "Mon, 19 Oct 2026 14:11:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20696889/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
