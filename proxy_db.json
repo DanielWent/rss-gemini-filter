@@ -2885,6 +2885,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "3f4dadd3ae71add44b394732b2b16660",
+        "title": "Glasgow schools face threat of overcrowding as councillors propose city-wide shakeup",
+        "link": "https://www.glasgowtimes.co.uk/news/26655164.glasgow-schools-facing-overcrowding-councillors-say/",
+        "description": "Glasgow City Council will propose P1 and S1 class caps for 2027/28, as pupil numbers, school capacity and catchment demand shape enrolment plans across the city.",
+        "published": "Tue, 20 Oct 2026 17:58:05 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17617804/?type=app&htype=0"
+      },
+      {
         "id": "9d09620ee0781efc280be6ecda51b049",
         "title": "Glasgow City Council and Wheatley Group pledge on affordable housing",
         "link": "https://www.glasgowtimes.co.uk/news/26655108.glasgow-wheatley-reaffirm-affordable-housing-pledge/",
@@ -2917,6 +2925,14 @@
         "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOmEyOTQ2ODlmLTZjMDgtNDNjZi04ZDVkLWY4NzNjYmFjMWRhNzplMWNmNGI1MC00YTYxLTQxY2ItYmM5Ny03MTI2YTBjODM5MGE=.jpg?width=1200&auto=webp&crop=3%3A2"
       },
       {
+        "id": "68dae948ecd681ca0f8e73a6d93d8481",
+        "title": "Scottish couple lose 12-year legal battle against Diageo over whisky fungus",
+        "link": "https://www.heraldscotland.com/news/26654691.scottish-couple-lose-legal-battle-diageo-whisky-fungus/",
+        "description": "Court of Session rules for Diageo in Bonnybridge whisky fungus case, accepting ethanol emissions caused Baudoinia growth but not an actionable nuisance.",
+        "published": "Tue, 20 Oct 2026 16:50:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20908320/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-rush-hour-trains-delayed-34792672",
         "title": "Glasgow rush hour trains delayed amid 'emergency incident' on line",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-rush-hour-trains-delayed-34792672",
@@ -2931,6 +2947,14 @@
         "description": "Sky watchers should keep their eyes peeled in the coming nights for a stunning display of shooting stars, as the next annual meteor showers are set to light up the night sky.",
         "published": "Tue, 20 Oct 2026 15:39:17 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34792654.ece/ALTERNATES/s98/0_Screenshot-2026-10-20-at-34523PM.png"
+      },
+      {
+        "id": "ad2a1e047428998a142341192c767a45",
+        "title": "Motherwell-based firms set to close with over 200 jobs at risk",
+        "link": "https://www.heraldscotland.com/news/26654728.motherwell-based-firms-set-close-200-jobs-risk/",
+        "description": "More than 200 jobs are at risk after two Motherwell-based firms announced plans to move their production from Scotland.",
+        "published": "Tue, 20 Oct 2026 16:32:41 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/11374145/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/iconic-glasgow-building-built-citys-34792088",
@@ -3659,30 +3683,6 @@
         "description": "Built in 1879 for Thomas Binnie, a prominent Glasgow property valuer and former builder, it was later extended in 1892 by architect Henry Edward Clifford before being subdivided into upper and lower dwellings in 1939.",
         "published": "Mon, 19 Oct 2026 13:48:45 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34785939.ece/ALTERNATES/s98/0_0c4ad6663d7c57a7b30df08991d9cd16jpeg.jpg"
-      },
-      {
-        "id": "fb26f6687635a94765781f9a4e27afd8",
-        "title": "Breaking Bad and Grey\u2019s Anatomy stars spotted filming new BBC drama in Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/26650030.bbcs-young-team-drama-begins-filming-glasgows-govan/",
-        "description": "BBC drama The Young Team films in Govan, starring Jakob James Smith, Connor Newall and Scot Greenan, adapting Graeme Armstrong\u2019s novel about gang violence.",
-        "published": "Mon, 19 Oct 2026 14:42:18 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21602108/?type=app&htype=0"
-      },
-      {
-        "id": "0b575df516c7573533337373aae5095a",
-        "title": "\u00a31 million scheme launched to bring Glasgow\u2019s empty listed buildings back into use",
-        "link": "https://www.heraldscotland.com/news/26649939.1m-scheme-launched-revive-glasgows-empty-listed-buildings/",
-        "description": "Glasgow launches a \u00a31m grant scheme offering \u00a315,000-\u00a3350,000 to bring vacant listed buildings back into use and protect the city\u2019s heritage.",
-        "published": "Mon, 19 Oct 2026 14:38:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19347166/?type=app&htype=0"
-      },
-      {
-        "id": "f5dd7587c65634c75bca4b2b5312c3dc",
-        "title": "\u00a3900m Scottish refurbishment framework opens for contractor applications",
-        "link": "https://www.heraldscotland.com/news/26649835.900m-scottish-refurbishment-framework-opens-contractors/",
-        "description": "Scottish Procurement Alliance opens \u00a3900m RM4 refurbishment framework, inviting contractors to bid for housing and public building repairs by December 11, 2026.",
-        "published": "Mon, 19 Oct 2026 14:18:09 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21601848/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
