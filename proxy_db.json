@@ -2869,6 +2869,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=534120",
+        "title": "More bin hubs expected to be installed in Glasgow following sucessful pilot",
+        "link": "https://news.stv.tv/west-central/more-bin-hubs-expected-to-be-installed-in-glasgow-following-sucessful-pilot",
+        "description": "Around 700 bin hubs have been installed in areas in Glasgow, serving around 21,000 properties",
+        "published": "Tue, 20 Oct 2026 11:21:52 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2025/01/09d42f39bd2758ced9cd6a3bad3e9205-1737378457-1120x720.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/breaking-bad-actor-star-tv-34789927",
+        "title": "Breaking Bad actor to star in TV adaptation of Airdrie author's best-selling novel",
+        "link": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/breaking-bad-actor-star-tv-34789927",
+        "description": "Grey's Anatomy's Kevin McKidd and Breaking Bad's Laura Fraser are both set to star in the TV adaptation of The Young Team.",
+        "published": "Tue, 20 Oct 2026 11:16:19 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34790565.ece/ALTERNATES/s98/0_580814.jpg"
+      },
+      {
+        "id": "9298421",
+        "title": "'End of an era' for popular Glasgow neighbourhood cafe & deli as owners seek to retire",
+        "link": "https://www.glasgowworld.com/news/end-of-an-era-as-popular-glasgow-cafe-deli-goes-up-for-sale-9298421",
+        "description": "<p>The business is located in one of Glasgow\u2019s most thriving and diverse neighbourhoods</p>",
+        "published": "Tue, 20 Oct 2026 11:13:42 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/20/10/50/MixCollage-20-Oct-2026-11-31-AM-7404.jpg?width=1200&auto=webp&trim=0%2C175%2C0%2C175"
+      },
+      {
+        "id": "https://news.stv.tv/?p=534112",
+        "title": "Glasgow City Council spent over \u00a342.5m on taxis and private hires in last five years",
+        "link": "https://news.stv.tv/west-central/glasgow-city-council-spent-over-42-5m-on-taxis-and-private-hires-in-last-five-years",
+        "description": "It comes as Audit Scotland reported Glasgow faces a budget gap of at least \u00a3110m between 2026/27 and 2027/28",
+        "published": "Tue, 20 Oct 2026 11:12:24 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2021/10/67ecb487f3b0a6c25257f373609fcb30-5.jpg"
+      },
+      {
+        "id": "8d03d9760df0d203b54cffd77f5c8090",
+        "title": "BID \u2018confident\u2019 of filling board seats despite business blowback",
+        "link": "https://www.glasgowtimes.co.uk/news/26652938.kirkintilloch-bid-gives-update-search-new-directors/",
+        "description": "Kirkintilloch BID has issued an update on its search for new directors following recent criticism from businesses.",
+        "published": "Tue, 20 Oct 2026 12:08:24 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21591111/?type=app&htype=8"
+      },
+      {
         "id": "https://news.stv.tv/?p=534086",
         "title": "A83 closed in both directions after incident near recycling centre",
         "link": "https://news.stv.tv/west-central/a83-closed-in-both-directions-after-incident-near-recycling-centre",
@@ -2883,6 +2923,22 @@
         "description": "Police are appealing for CCTV and dash-cam footage following the incident",
         "published": "Tue, 20 Oct 2026 10:41:11 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/01/235f6d6135a9d1cc759d20ab2678e146-1767794483-995x720.jpeg"
+      },
+      {
+        "id": "8e35d3a5192e179184b7423d5c23206d",
+        "title": "How Storm Austen will affect Glasgow as first named storm of autumn arrives",
+        "link": "https://www.glasgowtimes.co.uk/news/weather/26652718.storm-austen-first-named-storm-2026-27-season/",
+        "description": "Storm Austen has been named as the first named storm of the season.",
+        "published": "Tue, 20 Oct 2026 11:37:41 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20471854/?type=app&htype=0"
+      },
+      {
+        "id": "2a49144fa9a0b2201130f0fc3e619a72",
+        "title": "Busy Glasgow city centre road to remain closed as emergency works extended",
+        "link": "https://www.glasgowtimes.co.uk/news/26652652.busy-glasgow-city-centre-road-remain-closed-works-extended/",
+        "description": "West Regent Street will remain closed after emergency power supply works were extended.",
+        "published": "Tue, 20 Oct 2026 11:27:07 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17882119/?type=app&htype=74"
       },
       {
         "id": "c0fa43ed245147f2c8282395c5c65026",
@@ -3611,62 +3667,6 @@
         "description": "A local campaign group is set to go head to head with Glasgow City Council as they start the process of taking the local authority to court over devising housing plans",
         "published": "Mon, 19 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21592547/?type=app&htype=0"
-      },
-      {
-        "id": "4653bd58dcbe5f236b227d8e53fcebb1",
-        "title": "'Nightmare' for family as great-grandad's burial was never recorded despite funeral",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26641008.glasgow-family-find-great-grandads-burial-not-recorded/",
-        "description": "A Glasgow family say\u00a0they have been in a \"nightmare situation\" after finding out a relative's burial had not been recorded.",
-        "published": "Mon, 19 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21591418/?type=app&htype=0"
-      },
-      {
-        "id": "9b63198f43d35802c953f06d9be762fe",
-        "title": "Major mental health arts festival returns to Glasgow for its 20th year",
-        "link": "https://www.glasgowtimes.co.uk/news/26643455.scottish-mental-health-arts-festival-returning-glasgow/",
-        "description": "The Scottish Mental Health Arts Festival (SMHAF) begins on October 19, and runs until Sunday, November 9.",
-        "published": "Mon, 19 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21590763/?type=app&htype=0"
-      },
-      {
-        "id": "edf5be37fdb2ccd907109314fc0f2f7d",
-        "title": "Inside the exclusive Glasgow district with 30 private health clinics",
-        "link": "https://www.heraldscotland.com/life_style/26592580.inside-glasgow-district-30-private-health-wellness-clinics/",
-        "description": "From healthcare to wellness, Glasgow\u2019s Blythswood Square is experiencing a boom in private clinics. Here\u2019s what is driving the trend",
-        "published": "Mon, 19 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21517513/?type=app&htype=0"
-      },
-      {
-        "id": "b488b9daefd39870b23adae2c53a6b65",
-        "title": "Inside the union compromises that left hybrid working for civil servants unenforced",
-        "link": "https://www.heraldscotland.com/news/26647476.inside-union-deal-civil-servants-hybrid-working/",
-        "description": "Scottish Government papers reveal the union compromises behind civil servants\u2019 hybrid working as ministers move to mandatory attendance.",
-        "published": "Mon, 19 Oct 2026 05:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20555113/?type=app&htype=0"
-      },
-      {
-        "id": "9293758",
-        "title": "\u201cThey saved my life\u201d: Glasgow care leaver launching mental health platform to help others",
-        "link": "https://www.glasgowworld.com/news/glasgow-rutherglen-care-leaver-mental-health-human-story-initiative-9293758",
-        "description": "<p>A 23-year-old Glasgow man who experienced a mental health crisis said the public\u2019s support has encouraged him to create a platform for others in his position</p>",
-        "published": "Mon, 19 Oct 2026 03:45:22 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/17/11/04/1000001768.jpeg?width=1200&auto=webp&trim=205%2C0%2C205%2C0"
-      },
-      {
-        "id": "d44d20da4fb3c7aa2be387b3e01c94db",
-        "title": "Why closer ties with Europe would be welcomed by Scottish industry",
-        "link": "https://www.heraldscotland.com/politics/holyrood/26643660.paul-sheerin-scottish-industry-wants-closer-eu-ties/",
-        "description": "Paul Sheerin argues that reducing post-Brexit trade friction with Europe would help Scottish engineering and manufacturing compete",
-        "published": "Mon, 19 Oct 2026 04:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21591150/?type=app&htype=0"
-      },
-      {
-        "id": "9ca23591e94573be2310c9c5430a3fcb",
-        "title": "Tens of thousands of Scots waiting more than a year for NHS treatment",
-        "link": "https://www.heraldscotland.com/news/26647553.30-000-nhs-waits-still-exceed-year-scotland/",
-        "description": "More than 30,000 Scottish NHS waits still exceed a year, six months after John Swinney\u2019s March 2026 target was missed, with ministers giving no new date.",
-        "published": "Mon, 19 Oct 2026 00:01:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20151892/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
