@@ -2066,6 +2066,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "661f92c73ebf854f505bbd3f132dfde3",
+        "title": "East Dunbartonshire care home earns glowing inspection report",
+        "link": "https://www.glasgowtimes.co.uk/news/26653723.east-dunbartonshire-care-home-recognised-helping-residents-thrive/",
+        "description": "A care home has earned high praise for its support of residents' wellbeing.",
+        "published": "Tue, 20 Oct 2026 14:18:41 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21607429/?type=app&htype=0"
+      },
+      {
         "id": "aa6b8d706856e0116434dacf886872a8",
         "title": "New boss appointed to protect Scotland\u2019s most famous walking route",
         "link": "https://www.glasgowtimes.co.uk/news/26649515.west-highland-way-trust-appoints-new-director-lead-route/",
@@ -2869,12 +2877,76 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9299167",
+        "title": "Glasgow City Council approves \u00a3100m Wheatley Group development for North Glasgow",
+        "link": "https://www.glasgowworld.com/news/scottish-government-glasgow-property-9299167",
+        "description": "<p>The \u00a3100m development will include 401 new homes, a community centre and green spaces, with work expected to start in mid 2027.</p>",
+        "published": "Tue, 20 Oct 2026 13:48:18 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/20/13/08/Wyndford-artist-impression2.png?width=1200&auto=webp&trim=0%2C138%2C0%2C138"
+      },
+      {
+        "id": "8a974d57fc392867a72b4f15ce585594",
+        "title": "Cause of death revealed for Donna Brand after Caroline Glachans murder",
+        "link": "https://www.glasgowtimes.co.uk/news/26653870.cause-prison-death-revealed-caroline-glachan-murderer/",
+        "description": "Prison records have revealed the cause of death of Donna Brand, who was serving a life sentence for the murder of Renton schoolgirl Caroline Glachan.",
+        "published": "Tue, 20 Oct 2026 14:37:17 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21379362/?type=app&htype=0"
+      },
+      {
+        "id": "ef5f26563ed3b5a52eaa291c66f4c2a2",
+        "title": "More than 200 jobs at risk as two firms outside Glasgow plan to close",
+        "link": "https://www.glasgowtimes.co.uk/news/26653868.207-motherwell-jobs-risk-resideo-honeywell-plan-closures/",
+        "description": "More than 200 Motherwell manufacturing jobs are at risk as Resideo and Honeywell plan site closures, prompting Unite to urge UK and Scottish ministers to act.",
+        "published": "Tue, 20 Oct 2026 14:36:52 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21607510/?type=app&htype=437"
+      },
+      {
+        "id": "b33a173d148d0ba9c2e01220dee62157",
+        "title": "Police issue update on missing 82-year-old",
+        "link": "https://www.glasgowtimes.co.uk/news/26653807.police-issue-update-missing-82-year-old-johnstone/",
+        "description": "Police have issued an update on a missing man from Johnstone.",
+        "published": "Tue, 20 Oct 2026 14:31:06 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21606262/?type=app&htype=0"
+      },
+      {
+        "id": "bebfe6445763db5e88a3059631c4e359",
+        "title": "Glasgow depot to be demolished under plans to create future redevelopment",
+        "link": "https://www.glasgowtimes.co.uk/news/26653761.glasgow-depot-demolished-amid-future-redevelopment/",
+        "description": "A Glasgow depot is set to be demolished under new plans to create a future redevelopment on the site",
+        "published": "Tue, 20 Oct 2026 14:23:31 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21607448/?type=app&htype=0"
+      },
+      {
+        "id": "661f92c73ebf854f505bbd3f132dfde3",
+        "title": "East Dunbartonshire care home earns glowing inspection report",
+        "link": "https://www.glasgowtimes.co.uk/news/26653723.east-dunbartonshire-care-home-recognised-helping-residents-thrive/",
+        "description": "A care home has earned high praise for its support of residents' wellbeing.",
+        "published": "Tue, 20 Oct 2026 14:18:41 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21607429/?type=app&htype=0"
+      },
+      {
+        "id": "70849a361bdb0df708ef067ae9a058c2",
+        "title": "Arnold Clark admits data protection failures led to major cyber attack",
+        "link": "https://www.glasgowtimes.co.uk/news/26653700.glasgow-car-dealer-arnold-clark-admits-failures-led-cyber-attack/",
+        "description": "Arnold Clark admits customer data security failures led to its December 23 2022 cyber attack, as thousands pursue compensation in Scottish group action.",
+        "published": "Tue, 20 Oct 2026 14:15:47 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17403275/?type=app&htype=0"
+      },
+      {
         "id": "bccfe4c6d1ea69b445eff239a477d880",
         "title": "BBC Scotland channel to disappear from TV screens as broadcaster unveils major cuts",
         "link": "https://www.glasgowtimes.co.uk/news/26653643.bbc-scotland-tv-channel-close-amid-major-budget-cuts/",
         "description": "BBC Scotland\u2019s linear TV channel will move online-only on BBC iPlayer from spring, with News at Seven axed and around 10 jobs at risk amid \u00a3500m cuts.",
         "published": "Tue, 20 Oct 2026 14:07:39 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21607301/?type=app&htype=0"
+      },
+      {
+        "id": "d7c95f3b16432a4a60d45deff380d8b8",
+        "title": "Almost 70% of capital's licensed short-term lets lack planning permission",
+        "link": "https://www.heraldscotland.com/news/26653536.70-edinburgh-licensed-short-term-lets-lack-planning-consent/",
+        "description": "A review revealed that 1,225 (69 per cent) of Edinburgh\u2019s 1,754 licensed short-term lets (STLs) do not have secondary letting planning permission.",
+        "published": "Tue, 20 Oct 2026 14:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19040519/?type=app&htype=0"
       },
       {
         "id": "e270aafc1ea18cb52967c5c8e13f704b",
@@ -2901,6 +2973,22 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34790949.ece/ALTERNATES/s98/2_Paisley_Halloween_1JS0735_JS.jpg"
       },
       {
+        "id": "c9794ef39eac07a1335a2f6d98ecda90",
+        "title": "Plans submitted to expand luxury castle hotel outside Glasgow",
+        "link": "https://www.heraldscotland.com/news/26653334.plans-expand-luxury-castle-hotel-outside-glasgow/",
+        "description": "Plans have been submitted to expand Crossbasket Castle Hotel in High Blantyre, with proposals for additional bedrooms, leisure facilities and 12 cabins overlooking the River Calder.",
+        "published": "Tue, 20 Oct 2026 13:11:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18884839/?type=app&htype=0"
+      },
+      {
+        "id": "83cef96b38b2e966f7ce0c96b60b05e9",
+        "title": "New M&S store in Scottish town recommended for approval",
+        "link": "https://www.heraldscotland.com/news/26653315.plans-new-kilmarnock-m-s-store-set-key-decision/",
+        "description": "Proposals for a M&amp;S Food store at Queens Drive Retail Park in Kilmarnock are set to go before councillors this week.",
+        "published": "Tue, 20 Oct 2026 13:06:21 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20241794/?type=app&htype=0"
+      },
+      {
         "id": "02051ceba0ff928eaee4fcd8ec60090f",
         "title": "Mum hails bereavement service rule change after 'unimaginable' loss of baby daughter",
         "link": "https://www.glasgowtimes.co.uk/news/26653299.glasgow-families-get-automatic-bereavement-support/",
@@ -2923,6 +3011,14 @@
         "description": "Shona Stevens was left so severely injured that she died on November 13, 1994, at the Southern General Hospital in Glasgow.",
         "published": "Tue, 20 Oct 2026 11:42:35 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article32134001.ece/ALTERNATES/s98/1_Screenshot-2025-07-25-111921.jpg"
+      },
+      {
+        "id": "c8941d56900106223cb3c215cd90dc03",
+        "title": "Malcolm Offord: Losing MSP will not \u2018derail\u2019 Reform UK Scotland\u2019s plans",
+        "link": "https://www.heraldscotland.com/news/26653171.malcolm-offord-msp-loss-will-not-derail-reform-uk-scotlands-plans/",
+        "description": "The defection upsets the math at Holyrood - with Labour now second biggest party",
+        "published": "Tue, 20 Oct 2026 12:41:44 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20629931/?type=app&htype=0"
       },
       {
         "id": "b4b67437975860d4c33760fd7104fb28",
@@ -3579,70 +3675,6 @@
         "description": "Li Minh jailed for 30 months after a jury rejected his claim he was abducted and forced to tend a \u00a3421,000 cannabis farm in Kilsyth.",
         "published": "Mon, 19 Oct 2026 10:30:13 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19969863/?type=app&htype=0"
-      },
-      {
-        "id": "e468bff5349e50a23d22b3f04987328b",
-        "title": "Man passed out after drinking entire bottle of rum at cinema with boy, 9",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26648400.simon-macphail-tagged-passing-drunk-nine-year-old/",
-        "description": "Hamilton Sheriff Court hears Simon MacPhail drank a bottle of rum at Vue Cinema while caring for a nine-year-old boy; sheriff orders electronic tagging.",
-        "published": "Mon, 19 Oct 2026 10:22:48 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21133167/?type=app&htype=0"
-      },
-      {
-        "id": "d7a15040e995dd4a435d905baabd912b",
-        "title": "Russia to be invited to G20 finance summit in Edinburgh despite European tensions",
-        "link": "https://www.heraldscotland.com/news/26648231.russia-invited-g20-finance-summit-edinburgh/",
-        "description": "Last week, the UK Government announced that finance ministers and central bank governors from the world\u2019s leading economies will gather in Scotland\u2019s capital.",
-        "published": "Mon, 19 Oct 2026 10:12:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21599532/?type=app&htype=0"
-      },
-      {
-        "id": "61959fb02e162d167c0789699f850e02",
-        "title": "Glasgow could see 20 meteors an hour as debris from Halley's comet returns",
-        "link": "https://www.glasgowtimes.co.uk/news/weather/26648316.halleys-comet-orionid-meteor-shower-may-seen-glasgow/",
-        "description": "The Orionid meteor shower may be seen over Glasgow later this week as the Earth passes through a stream of tiny debris left behind by Halley's comet.",
-        "published": "Mon, 19 Oct 2026 10:09:37 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18412298/?type=app&htype=0"
-      },
-      {
-        "id": "327afd47722b26f48a287b3eb6f1b71e",
-        "title": "Trongate 103 issue 'has not been resolved' as council leader urged to step in",
-        "link": "https://www.glasgowtimes.co.uk/news/26648285.stuc-leader-urges-council-action-trongate-103-rents/",
-        "description": "The leader of Scotland\u2019s trades unions has called on the council to take action to save arts groups at risk of closure at a city arts and culture venue.",
-        "published": "Mon, 19 Oct 2026 10:03:07 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21599509/?type=app&htype=0"
-      },
-      {
-        "id": "7010072e977ef6146de447ebf5c05490",
-        "title": "New bus service to give town direct airport and major city connections",
-        "link": "https://www.glasgowtimes.co.uk/news/26648190.new-citylink-service-links-cumbernauld-edinburgh-airport/",
-        "description": "Citylink launches M6 service from Cumbernauld on October 24, linking residents with Edinburgh Airport, Falkirk, Perth, Dundee and Aberdeen each day.",
-        "published": "Mon, 19 Oct 2026 09:47:04 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20241289/?type=app&htype=89"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/former-gangster-paul-ferris-laid-34783841",
-        "title": "Former gangster Paul Ferris to be laid to rest at funeral in Glasgow today",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/former-gangster-paul-ferris-laid-34783841",
-        "description": "Daldowie is the very same venue where Ferris's sworn enemy, crime boss Tam &quot;The Licensee&quot; McGraw, was cremated following his death 19 years ago.",
-        "published": "Mon, 19 Oct 2026 08:31:28 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34755967.ece/ALTERNATES/s98/0_JS13235280.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cqde83w4l932o#0",
-        "title": "Douglas Dunn obituary: Poet and teacher who wrote about class and grief",
-        "link": "https://www.bbc.co.uk/news/articles/cqde83w4l932o?at_medium=RSS&at_campaign=rss",
-        "description": "Dunn was a friend of the poet Philip Larkin and taught creative writing at Dundee at St Andrews universities.",
-        "published": "Mon, 19 Oct 2026 08:27:54 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c826/live/930af840-cb83-11f1-bba6-c7bcff195158.jpg"
-      },
-      {
-        "id": "9295199",
-        "title": "Ex Sunderland ace backed after brutal Rangers error as he overcomes criticism to become 'excellent signing'",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/ex-sunderland-ace-backed-brutal-rangers-error-overcomes-criticism-excellent-signing-9295199",
-        "description": "<p>The star swapped Sunderland for Rangers in the summer transfer window.</p>",
-        "published": "Mon, 19 Oct 2026 08:12:49 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/19/8/21/GettyImages-2300703712.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
