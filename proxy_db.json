@@ -2861,6 +2861,62 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/before-after-shots-argyle-street-34785215",
+        "title": "'Before and after\u2019 shots of Argyle Street transformation as Glasgow Avenues project continues",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/before-after-shots-argyle-street-34785215",
+        "description": "The west side of Argyle Street's makeover has seen the addition of more greenery, cycle lanes and refurbished roads and pavements.",
+        "published": "Tue, 20 Oct 2026 06:46:54 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34785562.ece/ALTERNATES/s98/0_Argyle-st-west.jpg"
+      },
+      {
+        "id": "8cd5e0c2cf3db45b1167ca6189d3a209",
+        "title": "LIVE updates as trains cancelled as emergency services 'dealing with incident'",
+        "link": "https://www.glasgowtimes.co.uk/news/26651570.live-balloch-airdrie-trains-cancelled-amid-incident/",
+        "description": "Trains running between Balloch and Airdrie are currently facing cancellation as emergency services deal with an incident near the line.",
+        "published": "Tue, 20 Oct 2026 07:29:46 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21212050/?type=app&htype=0"
+      },
+      {
+        "id": "9324805f1c30e503264b3feca0ecb239",
+        "title": "Face of man who died in Roman Scotland 2,000 years ago revealed",
+        "link": "https://www.heraldscotland.com/news/26651554.face-roman-frontier-man-revealed-2-000-years-exhibition/",
+        "description": "The man's bones provided a grisly eye into his life - and death",
+        "published": "Tue, 20 Oct 2026 07:15:07 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21604550/?type=app&htype=0"
+      },
+      {
+        "id": "31b744e20c8cc3cd5b6f0267caa0e80c",
+        "title": "Motorway crash sparks long delays for commuters",
+        "link": "https://www.heraldscotland.com/news/26651548.m80-crash-causes-28-minute-delays-near-cumbernauld/",
+        "description": "Drivers face 28-minute delays on the motorway this morning",
+        "published": "Tue, 20 Oct 2026 07:00:08 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19842498/?type=app&htype=0"
+      },
+      {
+        "id": "ee57fd2d79dcb4368a357cfada069784",
+        "title": "Warning as backlash grows over leaked NHS orthopaedic care plans",
+        "link": "https://www.heraldscotland.com/news/26650767.arthritis-uk-warns-scotlands-orthopaedic-care-plans/",
+        "description": "Arthritis UK warns Scotland\u2019s leaked NHS orthopaedic plan could mean longer waits and travel for surgery, as unions and surgeons demand meaningful consultation.",
+        "published": "Tue, 20 Oct 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20707905/?type=app&htype=245"
+      },
+      {
+        "id": "1b78ba3e212bfbd3fde5ca39977bcf90",
+        "title": "Shame on them: the SNP has become a hostile place for Scotland's Catholics",
+        "link": "https://www.heraldscotland.com/politics/viewpoint/26649405.snp-become-hostile-place-scotlands-catholics/",
+        "description": "A growing hostility to Catholicism has been evident inside the SNP during the Sturgeon/Swinney era, writes Kevin McKenna",
+        "published": "Tue, 20 Oct 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21601326/?type=app&htype=0"
+      },
+      {
+        "id": "d6eb4083bdfae9911bbaf61fa78c1e33",
+        "title": "People living with arthritis deserve much better from the SNP",
+        "link": "https://www.heraldscotland.com/opinion/26651233.people-living-arthritis-deserve-much-better-snp/",
+        "description": "'People living with arthritis don't need longer waiting-time targets. They need shorter waits, better care and a proper plan'",
+        "published": "Tue, 20 Oct 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21604078/?type=app&htype=0"
+      },
+      {
         "id": "fc6c7d3ca863610699ef2976c980e50a",
         "title": "Glasgow pupils reveal what they love about their school as inspectors deliver verdict",
         "link": "https://www.glasgowtimes.co.uk/news/26649949.eastbank-primary-glasgow-praised-hmie-inspectors/",
