@@ -2877,6 +2877,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/vacant-derelict-land-brought-back-34791771",
+        "title": "Vacant and derelict land to be brought back to life through affordable homes",
+        "link": "https://www.glasgowlive.co.uk/news/vacant-derelict-land-brought-back-34791771",
+        "description": "Vacant and derelict land will be brought back into productive use in areas including Wyndford, Red Road/Barmulloch, Sighthill, Milton, Drumchapel, and the city centre.",
+        "published": "Tue, 20 Oct 2026 14:17:52 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33445571.ece/ALTERNATES/s98/2_Glasgow-City-Chambers.jpg"
+      },
+      {
+        "id": "ce90e3b7a5f50b0bf7623636fb12b21c",
+        "title": "LIVE updates as emergency crews race to railway after person struck by train",
+        "link": "https://www.glasgowtimes.co.uk/news/26654149.live-updates-glasgow-trains-affected-amid-emergency/",
+        "description": "An ongoing emergency incident on the railway is affecting multiple rail services.",
+        "published": "Tue, 20 Oct 2026 15:15:35 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21607854/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/arts-culture-news/gallery/glasgow-murals-under-m8-now-34791256",
+        "title": "Glasgow murals under M8 now fully restored after fans left in uproar over Batman filming cover up",
+        "link": "https://www.glasgowlive.co.uk/whats-on/arts-culture-news/gallery/glasgow-murals-under-m8-now-34791256",
+        "description": "Filming of The Batman: Part II, which recently turned Glasgow into Gotham, saw the selection of new street murals below the M8 painted over - but now they've been completely restored.",
+        "published": "Tue, 20 Oct 2026 13:56:28 +0000",
+        "image_url": "https://i2-prod.edinburghlive.co.uk/incoming/article34791076.ece/ALTERNATES/s98/0_9d3c35dc-a258-4066-a9fe-ac80e0cc4260.jpg"
+      },
+      {
         "id": "9299167",
         "title": "Glasgow City Council approves \u00a3100m Wheatley Group development for North Glasgow",
         "link": "https://www.glasgowworld.com/news/scottish-government-glasgow-property-9299167",
@@ -3651,30 +3675,6 @@
         "description": "Glasgow Life and Midlothian Library Service have been shortlisted for the 2026 SLIC Awards, recognising projects supporting communities across Scotland.",
         "published": "Mon, 19 Oct 2026 11:14:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21600175/?type=app&htype=0"
-      },
-      {
-        "id": "1bd328c80b9ac17d3d73279c578b6355",
-        "title": "Hot Potato! The Wiggles are heading to Glasgow for huge live show",
-        "link": "https://www.glasgowtimes.co.uk/news/26648681.wiggles-bring-sparkle-tour-glasgow-2027/",
-        "description": "Children\u2019s entertainment icons The Wiggles are bringing their biggest and brightest UK and Ireland tour yet to Glasgow next year.",
-        "published": "Mon, 19 Oct 2026 11:00:08 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21600132/?type=app&htype=0"
-      },
-      {
-        "id": "a61d0c69e513ff431b5d69a9f6264ef6",
-        "title": "Week-long crackdown on illegal e-bikes and e-scooters launched",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26648551.police-start-action-week-illegal-e-bikes-e-scooters/",
-        "description": "A dedicated week of action targeting the illegal use of e-bikes and e-scooters in Scotland is underway.",
-        "published": "Mon, 19 Oct 2026 10:43:37 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21599976/?type=app&htype=0"
-      },
-      {
-        "id": "82c1995502ffbc28efb0c2ff098b30f5",
-        "title": "Man jailed over \u00a3421k cannabis farm after Glasgow Central abduction claim",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26648458.li-minh-jailed-421k-cannabis-farm-glasgow-abduction-claim/",
-        "description": "Li Minh jailed for 30 months after a jury rejected his claim he was abducted and forced to tend a \u00a3421,000 cannabis farm in Kilsyth.",
-        "published": "Mon, 19 Oct 2026 10:30:13 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19969863/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
