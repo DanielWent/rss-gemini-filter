@@ -2885,12 +2885,52 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/iconic-glasgow-building-built-citys-34792088",
+        "title": "Iconic Glasgow building built for city's elite hits the market on River Clyde",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/iconic-glasgow-building-built-citys-34792088",
+        "description": "Carlton House was built by property developer brothers John and David Laurie who purchased the land with the grand vision to build an ultra-exclusive, upscale suburb for Glasgow's elite.",
+        "published": "Tue, 20 Oct 2026 15:12:30 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34792177.ece/ALTERNATES/s98/0_2f103d550618c0610f50b9f90315e189jpeg.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/missing-renfrewshire-pensioner-82-believed-34792446",
+        "title": "Missing Renfrewshire pensioner, 82, believed to have fallen overboard ferry to Arran",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/missing-renfrewshire-pensioner-82-believed-34792446",
+        "description": "Jim Wither, 82, was reported missing from Johnstone in Renfrewshire on Sunday, October 18,",
+        "published": "Tue, 20 Oct 2026 15:05:04 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34792445.ece/ALTERNATES/s98/0_Screenshot-2026-10-20-150444.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-brute-subjected-three-young-34790711",
+        "title": "Glasgow brute subjected three young women to eight year campaign of abuse",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-brute-subjected-three-young-34790711",
+        "description": "Paul Donachy appeared at Glasgow Sheriff Court on Tuesday, October 20, after being found guilty of subjecting three girls, now aged 20, 14 and seven, to multiple assaults as well as threatening and controlling behaviour.",
+        "published": "Tue, 20 Oct 2026 15:03:12 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34304211.ece/ALTERNATES/s98/0_JS330634601-1.jpg"
+      },
+      {
+        "id": "b337d8ee594fae4486c5bfc29c79d394",
+        "title": "School threat email sparks fear as Glasgow parents back safety response",
+        "link": "https://www.glasgowtimes.co.uk/news/26653993.glasgow-parents-react-school-hoax-threat-disruption/",
+        "description": "Parents in Glasgow and South Lanarkshire have praised schools' response after a hoax threat email caused disruption at hundreds of schools and prompted a police investigation.",
+        "published": "Tue, 20 Oct 2026 16:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20232041/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/new-pizza-spot-rudys-set-34792068",
         "title": "New pizza spot Rudy's set to open as signs go up close to Glasgow Central",
         "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/new-pizza-spot-rudys-set-34792068",
         "description": "The globally-renowned pizzeria will start welcoming pizza lovers this October at 35 Gordon Street later this month, with the new restaurant taking shape.",
         "published": "Tue, 20 Oct 2026 14:53:37 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34792036.ece/ALTERNATES/s98/0_Screenshot-2026-10-20-at-23033PM.png"
+      },
+      {
+        "id": "d351bb48c5979701d2cda708d298170a",
+        "title": "Major Glasgow road to close for seven weeks as cycle lane work begins",
+        "link": "https://www.glasgowtimes.co.uk/news/26654397.seven-week-road-closure-planned-cycle-lane-works/",
+        "description": "Wishart Street will close to traffic for seven weeks while work takes place on a cycle lane and footways.",
+        "published": "Tue, 20 Oct 2026 15:47:03 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21475912/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=534159",
@@ -2923,6 +2963,14 @@
         "description": "Vacant and derelict land will be brought back into productive use in areas including Wyndford, Red Road/Barmulloch, Sighthill, Milton, Drumchapel, and the city centre.",
         "published": "Tue, 20 Oct 2026 14:17:52 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33445571.ece/ALTERNATES/s98/2_Glasgow-City-Chambers.jpg"
+      },
+      {
+        "id": "528d58532adb31383959a8196282889b",
+        "title": "Parts of Glasgow's M8 motorway to close for two weekends amid major works",
+        "link": "https://www.glasgowtimes.co.uk/news/26654151.parts-m8-glasgow-close-two-weekends-amid-major-works/",
+        "description": "A major motorway will shut down for two weekends to allow for the reinstatement of two footbridges.",
+        "published": "Tue, 20 Oct 2026 15:15:38 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21462449/?type=app&htype=0"
       },
       {
         "id": "ce90e3b7a5f50b0bf7623636fb12b21c",
@@ -3635,54 +3683,6 @@
         "description": "Chaos broke out on the Celtic Way as a group of Hearts fans made their way along London Road before kick-off, as footage shared online showed a number of fights breaking out between the rival fans.",
         "published": "Mon, 19 Oct 2026 12:33:59 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34784112.ece/ALTERNATES/s98/2_Brawl.png"
-      },
-      {
-        "id": "aa6b8d706856e0116434dacf886872a8",
-        "title": "New boss appointed to protect Scotland\u2019s most famous walking route",
-        "link": "https://www.glasgowtimes.co.uk/news/26649515.west-highland-way-trust-appoints-new-director-lead-route/",
-        "description": "A new director has been appointed to protect and promote one of Scotland's most famous long-distance walking routes.",
-        "published": "Mon, 19 Oct 2026 13:17:53 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21590295/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cm1wv8r2780go#0",
-        "title": "Teacher who sexually abused 12 pupils jailed for four years",
-        "link": "https://www.bbc.co.uk/news/articles/cm1wv8r2780go?at_medium=RSS&at_campaign=rss",
-        "description": "Martin Gallacher, 46, used clubs he ran to groom and abuse vulnerable boys over an 11-year period.",
-        "published": "Mon, 19 Oct 2026 12:03:08 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0921/live/768a3670-bb3b-11f1-a9b8-670e5d9d8eee.jpg"
-      },
-      {
-        "id": "5140666",
-        "title": "Great Glaswegians: The life and times of the amazing Rikki Fulton in 6 brilliant pictures",
-        "link": "https://www.glasgowworld.com/retro/glasgow-rikki-fulton-great-glaswegian-9294267",
-        "description": "<p>There was much more than just laughs to one of Glasgow\u2019s great comedy heroes.</p>",
-        "published": "Mon, 19 Oct 2026 11:50:50 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/01/14/12/32/onecms_80f4cba3-7af8-45dd-b4ad-af16806cb675_5ddd67ac-5623-4c21-9bbf-ec52e9066bcf.jpeg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "e0a7b1d534e78e1164e075af26cedf6b",
-        "title": "Abandoned hotel entered by youths as community group calls for action",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26649339.empty-glasgow-virgin-hotel-accessed-almost-three-years/",
-        "description": "A Glasgow community group has said it is \"not surprising\" an empty riverside hotel has attracted \"illegal occupiers\".",
-        "published": "Mon, 19 Oct 2026 12:40:49 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20429513/?type=app&htype=0"
-      },
-      {
-        "id": "0091b0b8378f161a37ac963cd47eb202",
-        "title": "Full list of Remembrance Sunday parades planned across East Dunbartonshire",
-        "link": "https://www.glasgowtimes.co.uk/news/26649309.full-list-east-dunbartonshire-remembrance-sunday-events/",
-        "description": "Remembrance Sunday events will take place across East Dunbartonshire on November 8, including services and parades in Bearsden, Milngavie, Torrance and Kirkintilloch.",
-        "published": "Mon, 19 Oct 2026 12:35:21 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21551479/?type=app&htype=0"
-      },
-      {
-        "id": "f4a04f83d97cc794bb464617e7fa1df6",
-        "title": "Flight school 'devastated' after boy, 16, and instructor die in plane crash",
-        "link": "https://www.glasgowtimes.co.uk/news/26649271.flight-school-speaks-drymen-plane-crash-glasgow-loch-lomond/",
-        "description": "Flight school pays tribute after light aircraft crash kills a 16-year-old boy and 80-year-old man after take-off from Glasgow Airport.",
-        "published": "Mon, 19 Oct 2026 12:28:36 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21597568/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
