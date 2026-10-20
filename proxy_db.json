@@ -2869,6 +2869,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/scotlands-home-halloween-gets-ready-34790383",
+        "title": "Scotland's 'home of Halloween' gets ready to party as Paisley's two day festival returns",
+        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/scotlands-home-halloween-gets-ready-34790383",
+        "description": "The town will host live performances and Scotland's largest Halloween parade, as well as spooky light installations and plenty of fun experiences.",
+        "published": "Tue, 20 Oct 2026 12:20:41 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34790949.ece/ALTERNATES/s98/2_Paisley_Halloween_1JS0735_JS.jpg"
+      },
+      {
         "id": "5179886",
         "title": "River Kelvin: A fascinating look at 130 years of history on the River Kelvin in 12 pictures",
         "link": "https://www.glasgowworld.com/retro/river-kelvin-history-photos-9294274",
@@ -2909,14 +2917,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21606471/?type=app&htype=0"
       },
       {
-        "id": "https://news.stv.tv/?p=534120",
-        "title": "More bin hubs expected to be installed in Glasgow following sucessful pilot",
-        "link": "https://news.stv.tv/west-central/more-bin-hubs-expected-to-be-installed-in-glasgow-following-sucessful-pilot",
-        "description": "Around 700 bin hubs have been installed in areas in Glasgow, serving around 21,000 properties",
-        "published": "Tue, 20 Oct 2026 11:21:52 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2025/01/09d42f39bd2758ced9cd6a3bad3e9205-1737378457-1120x720.jpg"
-      },
-      {
         "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/breaking-bad-actor-star-tv-34789927",
         "title": "Breaking Bad actor to star in TV adaptation of Airdrie author's best-selling novel",
         "link": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/breaking-bad-actor-star-tv-34789927",
@@ -2947,14 +2947,6 @@
         "description": "Kirkintilloch BID has issued an update on its search for new directors following recent criticism from businesses.",
         "published": "Tue, 20 Oct 2026 12:08:24 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21591111/?type=app&htype=8"
-      },
-      {
-        "id": "2f523d41cf78b25323c7dafb72eb4b2a",
-        "title": "Man accused of murdering woman more than 30 years ago faces trial",
-        "link": "https://www.heraldscotland.com/news/26652927.man-accused-murdering-woman-30-years-ago-faces-trial/",
-        "description": "A man accused of murdering a woman more than 30 years ago is to go on trial in January 2028.",
-        "published": "Tue, 20 Oct 2026 12:06:54 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/16674348/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=534086",
@@ -3021,28 +3013,12 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21475912/?type=app&htype=0"
       },
       {
-        "id": "e7276161a5835f2fdd94059457b70254",
-        "title": "Latest data: Almost 1,000 people aged more than 100 living in Scotland",
-        "link": "https://www.heraldscotland.com/news/26652415.scotland-almost-1-000-centenarians-figures-show/",
-        "description": "The figures raise questions about the impact on social care and health services from the aging population",
-        "published": "Tue, 20 Oct 2026 10:53:34 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21538166/?type=app&htype=0"
-      },
-      {
         "id": "70a3a753b55c1eb0df188ac87c64270a",
         "title": "Water disruption in busy Glasgow area sparks emergency response",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26652397.glasgow-water-disruption-burst-main-discovered/",
         "description": "Scottish Water warns of supply disruption in Glasgow's G33 area after a burst main on Elibank Street, with repairs and traffic delays expected on October 20.",
         "published": "Tue, 20 Oct 2026 10:51:14 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20409063/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=534078",
-        "title": "Man to stand trial over murder of Shona Stevens in 1994",
-        "link": "https://news.stv.tv/west-central/man-to-stand-trial-over-murder-of-shona-stevens-in-1994",
-        "description": "Fraser Kilpatrick faces 15 charges ranging from rape, and assault to the killing of the 31-year-old mum in Irvine",
-        "published": "Tue, 20 Oct 2026 09:46:24 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2024/11/bd0a8feabe4347184b28b3e9474c60a6-1731073597-1120x720.jpg"
       },
       {
         "id": "2b164db311272b56c3f5210d08420d50",
@@ -3371,14 +3347,6 @@
         "description": "Sir Peter Mathieson defended recent programme closures at Edinburgh University in an email sent to a student and a number of regional MSPs.",
         "published": "Mon, 19 Oct 2026 16:03:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21601133/?type=app&htype=0"
-      },
-      {
-        "id": "2d002e2f69983ab9fd51f65c2266916b",
-        "title": "Hundreds more bin hubs could be installed across Glasgow from next April",
-        "link": "https://www.glasgowtimes.co.uk/news/26650552.glasgow-bin-hubs-expected-installed-april/",
-        "description": "More bin hubs, designed to improve recycling rates across Glasgow, are expected to be installed from next April.",
-        "published": "Mon, 19 Oct 2026 15:49:59 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19651276/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=533958",
