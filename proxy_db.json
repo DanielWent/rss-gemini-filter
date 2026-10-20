@@ -2869,6 +2869,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "5179886",
+        "title": "River Kelvin: A fascinating look at 130 years of history on the River Kelvin in 12 pictures",
+        "link": "https://www.glasgowworld.com/retro/river-kelvin-history-photos-9294274",
+        "description": "<p>Explore the rich history of the River Kelvin through 12 extraordinary photos capturing its 130-year journey, from industrial powerhouse to revitalised urban waterway.</p>",
+        "published": "Tue, 20 Oct 2026 11:52:20 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/06/16/15/42/c0430.png?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-accused-murdering-ayrshire-woman-34790672",
+        "title": "Man accused of murdering Ayrshire woman over 30 years ago faces trial in 2028",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-accused-murdering-ayrshire-woman-34790672",
+        "description": "Shona Stevens was left so severely injured that she died on November 13, 1994, at the Southern General Hospital in Glasgow.",
+        "published": "Tue, 20 Oct 2026 11:42:35 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article32134001.ece/ALTERNATES/s98/1_Screenshot-2025-07-25-111921.jpg"
+      },
+      {
+        "id": "b4b67437975860d4c33760fd7104fb28",
+        "title": "Community group explores buyout of capital's A-listed Reid Memorial Church",
+        "link": "https://www.heraldscotland.com/news/26653046.community-group-explores-buyout-a-listed-edinburgh-church/",
+        "description": "The former Reid Memorial Church in Edinburgh could be purchased from the Church of Scotland in a community buyout.",
+        "published": "Tue, 20 Oct 2026 12:34:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21606492/?type=app&htype=0"
+      },
+      {
+        "id": "8089138bc500fe25ba6561e6d8774ff3",
+        "title": "Glasgow bin hub roll-out set to resume after 'pause for evaluation'",
+        "link": "https://www.heraldscotland.com/news/26653057.glasgow-bin-hub-rollout-expected-resume-april/",
+        "description": "More bin hubs, designed to improve recycling rates across Glasgow, are expected to be installed from next April, a new report has suggested.",
+        "published": "Tue, 20 Oct 2026 12:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/19651276/?type=app&htype=0"
+      },
+      {
+        "id": "86bc923261273020b8f83d30cb283fe7",
+        "title": "Four Glasgow library services shortlisted for major national awards",
+        "link": "https://www.glasgowtimes.co.uk/news/26653041.four-glasgow-library-services-shortlisted-slic-awards/",
+        "description": "Four Glasgow library services shortlisted for 2026 SLIC Awards, recognising Wee Write, inclusive leadership training and Audubon digitisation project.",
+        "published": "Tue, 20 Oct 2026 12:22:29 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21606471/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=534120",
         "title": "More bin hubs expected to be installed in Glasgow following sucessful pilot",
         "link": "https://news.stv.tv/west-central/more-bin-hubs-expected-to-be-installed-in-glasgow-following-sucessful-pilot",
@@ -2909,12 +2949,28 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21591111/?type=app&htype=8"
       },
       {
+        "id": "2f523d41cf78b25323c7dafb72eb4b2a",
+        "title": "Man accused of murdering woman more than 30 years ago faces trial",
+        "link": "https://www.heraldscotland.com/news/26652927.man-accused-murdering-woman-30-years-ago-faces-trial/",
+        "description": "A man accused of murdering a woman more than 30 years ago is to go on trial in January 2028.",
+        "published": "Tue, 20 Oct 2026 12:06:54 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/16674348/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=534086",
         "title": "A83 closed in both directions after incident near recycling centre",
         "link": "https://news.stv.tv/west-central/a83-closed-in-both-directions-after-incident-near-recycling-centre",
         "description": "Emergency services are in attendance, with traffic being diverted via Oban",
         "published": "Tue, 20 Oct 2026 10:51:44 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/23d1d1e7311ca732e1d1af11341b0bbb-1792491844.jpg"
+      },
+      {
+        "id": "943c54eb050932d1b139348fa2a857fa",
+        "title": "Royal Scottish Pipe Band Association appoints new chief executive",
+        "link": "https://www.heraldscotland.com/news/26652781.meaghan-lyons-appointed-rspba-chief-executive-30-years/",
+        "description": "Meaghan Lyons appointed chief executive of Royal Scottish Pipe Band Association (RSPBA), relocating to Glasgow in January 2027 after 30 years in pipe banding.",
+        "published": "Tue, 20 Oct 2026 11:45:16 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21606135/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=534075",
@@ -2931,6 +2987,14 @@
         "description": "Storm Austen has been named as the first named storm of the season.",
         "published": "Tue, 20 Oct 2026 11:37:41 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20471854/?type=app&htype=0"
+      },
+      {
+        "id": "bea5aae8154f60405d98cdf66a463991",
+        "title": "'Falls on us as a nation to restore building to its glory': MP's Mack cash plea",
+        "link": "https://www.heraldscotland.com/news/26652681.mp-urges-governments-fund-glasgow-school-art-rebuild/",
+        "description": "Labour MP Torcuil Crichton has called for a state-backed, Notre-Dame-style rescue of the fire-ravaged Mackintosh Building, but the UK Government says it cannot promise new money for the \u00a3265m restoration.",
+        "published": "Tue, 20 Oct 2026 11:31:10 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21220529/?type=app&htype=0"
       },
       {
         "id": "2a49144fa9a0b2201130f0fc3e619a72",
@@ -3603,70 +3667,6 @@
         "description": "<p>The star swapped Sunderland for Rangers in the summer transfer window.</p>",
         "published": "Mon, 19 Oct 2026 08:12:49 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/19/8/21/GettyImages-2300703712.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "42282de92238236c8fd97d224be5e1fa",
-        "title": "Fish crime crackdown as Operation Salmo seeks to protect amorous anamniotes",
-        "link": "https://www.heraldscotland.com/news/26647167.fish-crime-crackdown-protect-spawning-salmon-scotland/",
-        "description": "A week long enforcement campaign has been launched across Scotland in an effort to crack down on fish crime",
-        "published": "Mon, 19 Oct 2026 09:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20715811/?type=app&htype=0"
-      },
-      {
-        "id": "13e9507e999c71244c8f9b45ce99a159",
-        "title": "'Lots of potential' - Vacant pub to be be given makeover before reopening next month",
-        "link": "https://www.glasgowtimes.co.uk/news/26647890.rutherglen-pub-vogue-set-reopen-new-owners/",
-        "description": "Rutherglen's Vogue Bar is set for a major makeover after being acquired by Punch Pubs &amp; Co, with the popular Main Street venue reopening in November",
-        "published": "Mon, 19 Oct 2026 08:33:59 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21599050/?type=app&htype=0"
-      },
-      {
-        "id": "9295051",
-        "title": "Next Celtic manager claim emerges as BBC pundit states Martin O'Neill alternative had job in palm of his hand",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/next-celtic-manager-claim-bbc-pundit-martin-oneill-alternative-9295051",
-        "description": "<p>The man in question has formerly represented Tottenham, Leeds United and Celtic as a player.</p>",
-        "published": "Mon, 19 Oct 2026 06:58:29 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/19/6/26/GettyImages-2258935998.jpg?width=1200&auto=webp&trim=0%2C32%2C0%2C32"
-      },
-      {
-        "id": "61b3c8d25af4a5daa606bd70defd9bec",
-        "title": "Commuters warned as signal fault hits busy route near Glasgow",
-        "link": "https://www.heraldscotland.com/news/26647808.rail-services-disrupted-motherwell-signalling-fault-newton/",
-        "description": "Rail passengers: check before travelling as disruption hits some routes",
-        "published": "Mon, 19 Oct 2026 07:33:11 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/13005148/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-actor-gary-lamont-backs-34782165",
-        "title": "Glasgow actor Gary Lamont backs campaign to secure future of local charity",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-actor-gary-lamont-backs-34782165",
-        "description": "Jeely Piece Club is aiming to raise \u00a3150,000 to sustain existing services, invest in its facilities and develop new ways of supporting local children and families.",
-        "published": "Mon, 19 Oct 2026 06:31:06 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34782226.ece/ALTERNATES/s98/0_JS348498497.jpg"
-      },
-      {
-        "id": "c417737d46b12d73d7aa95838c9ebbd8",
-        "title": "'Scandal' - Homeless deaths in Scotland soar 38% in a year as housing crisis deepens",
-        "link": "https://www.heraldscotland.com/news/26641567.scotland-homelessness-crisis-deaths-rise-38-year/",
-        "description": "The number of homeless people dying in Scotland has soared by 38% in just one year with 232 deaths recorded in 2025 as the country\u2019s housing emergency claims an ever more devastating toll.",
-        "published": "Mon, 19 Oct 2026 06:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/18285691/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cq4g18jn7jx3o#0",
-        "title": "Families 'left in the dark' over council plan to axe day care centres",
-        "link": "https://www.bbc.co.uk/news/articles/cq4g18jn7jx3o?at_medium=RSS&at_campaign=rss",
-        "description": "Glasgow City Council intends to cut the number of centres from 10 to four in a bid to save money.",
-        "published": "Mon, 19 Oct 2026 05:03:07 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd4d/live/a1580ec0-c952-11f1-8879-9d9deeb686e1.jpg"
-      },
-      {
-        "id": "b1fdb2697149bf667d319d813921665e",
-        "title": "Campaigners taking Glasgow City Council to court amid 7 year planning battle",
-        "link": "https://www.glasgowtimes.co.uk/news/26644101.mount-florida-campaigners-take-civil-action-amid-planning-battle/",
-        "description": "A local campaign group is set to go head to head with Glasgow City Council as they start the process of taking the local authority to court over devising housing plans",
-        "published": "Mon, 19 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21592547/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
