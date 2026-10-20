@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/sport/articles/ck054n5nqlv5o#8",
+        "title": "Race, illness, injury, repeat - REDs and why men are suffering in silence",
+        "link": "https://www.bbc.co.uk/sport/articles/ck054n5nqlv5o?at_medium=RSS&at_campaign=rss",
+        "description": "British long-distance runner Jake Smith was enduring a relentless pattern of race, illness, injury, repeat - he had no idea he had REDs and was under-fuelling.",
+        "published": "Tue, 20 Oct 2026 05:45:34 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eee/live/9ed65800-c975-11f1-80fc-ab418b149008.jpg"
+      },
+      {
         "id": "1792451718093047",
         "title": "Five ways El Ni\u00f1o is affecting the weather around the world",
         "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Amy Hunt says she is \"on the up\" and \"not afraid of anyone\" after finishing second in the 100m at the Diamond League final in Brussels.",
         "published": "Sat, 05 Sep 2026 21:03:10 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70f3/live/e6afe270-a96a-11f1-b850-096ea2f533db.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cly5r60v4mro#1",
-        "title": "What different world maps get right - and what they get wrong",
-        "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-        "description": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
-        "published": "Sat, 05 Sep 2026 13:46:02 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e80e/live/d224a510-a92f-11f1-bb81-8fbd2d2d397c.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2860,6 +2860,38 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "fc6c7d3ca863610699ef2976c980e50a",
+        "title": "Glasgow pupils reveal what they love about their school as inspectors deliver verdict",
+        "link": "https://www.glasgowtimes.co.uk/news/26649949.eastbank-primary-glasgow-praised-hmie-inspectors/",
+        "description": "Eastbank Primary is celebrating after inspectors awarded a very good rating for raising attainment and achievement, praising its inclusive ethos, motivated staff and proud pupils.",
+        "published": "Tue, 20 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21602061/?type=app&htype=0"
+      },
+      {
+        "id": "a2879229053b55fa276279ee9d6f1721",
+        "title": "Ex cabinet minister launches attack on SNP government on homelessness",
+        "link": "https://www.glasgowtimes.co.uk/news/26650354.former-minister-attacks-snp-homelessness-crisis/",
+        "description": "A former Scottish Government cabinet minister launched a scathing attack on the current administration over homelessness.",
+        "published": "Tue, 20 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21263035/?type=app&htype=0"
+      },
+      {
+        "id": "ec5fdde858c57a59e8b249e5f71d97ee",
+        "title": "Safety fears raised over Glasgow zebra crossing where drivers \u2018often don\u2019t stop\u2019",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26650968.safety-fears-worn-away-glasgow-crossing/",
+        "description": "Safety concerns have been raised over faded road markings across Glasgow after residents warned drivers often fail to stop at a Baillieston zebra crossing.",
+        "published": "Tue, 20 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21603616/?type=app&htype=0"
+      },
+      {
+        "id": "180c5c3385408bc1871977102d8cb8f9",
+        "title": "Public helping to shape future of dementia research in groundbreaking new study",
+        "link": "https://www.glasgowtimes.co.uk/news/26648548.glasgow-study-using-public-voices-shape-dementia-research/",
+        "description": "University of Glasgow study sets Scotland\u2019s dementia and brain health research priorities, highlighting brain resilience and lived experiences of dementia care.",
+        "published": "Tue, 20 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19240345/?type=app&htype=0"
+      },
       {
         "id": "bd1c1613e1fe1f355dc389f8dcd4ca45",
         "title": "Seven of UK's 10 worst areas for dying before 60 are in Scotland, figures reveal",
