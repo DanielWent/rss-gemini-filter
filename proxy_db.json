@@ -2885,12 +2885,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "912fb7f7faed4f3e390d95203dca8cee",
+        "title": "Celtic fans warned of delays before Celta Vigo clash as emergency works hit key route",
+        "link": "https://www.glasgowtimes.co.uk/sport/26655293.celtic-park-road-works-cause-delays-celta-vigo-game/",
+        "description": "Celtic fans face travel delays travelling to Celtic Park for Celta Vigo match as Scottish Water repairs bring temporary traffic lights near Shawfield Drive.",
+        "published": "Tue, 20 Oct 2026 19:32:34 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19394107/?type=app&htype=0"
+      },
+      {
         "id": "3f4dadd3ae71add44b394732b2b16660",
         "title": "Glasgow schools face threat of overcrowding as councillors propose city-wide shakeup",
         "link": "https://www.glasgowtimes.co.uk/news/26655164.glasgow-schools-facing-overcrowding-councillors-say/",
         "description": "Glasgow City Council will propose P1 and S1 class caps for 2027/28, as pupil numbers, school capacity and catchment demand shape enrolment plans across the city.",
         "published": "Tue, 20 Oct 2026 17:58:05 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17617804/?type=app&htype=0"
+      },
+      {
+        "id": "6f185100c163d8cd20ebde4a59a0ea42",
+        "title": "UK Government set to approve controversial Jackdaw gas field off coast of Aberdeen",
+        "link": "https://www.heraldscotland.com/news/26655119.uk-government-announce-jackdaw-gas-field-approval/",
+        "description": "The UK Government is expected to approve the controversial Jackdaw gas field off the coast of Aberdeen on Wednesday.",
+        "published": "Tue, 20 Oct 2026 17:44:16 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21158885/?type=app&htype=0"
       },
       {
         "id": "9d09620ee0781efc280be6ecda51b049",
@@ -2987,14 +3003,6 @@
         "description": "Paul Donachy appeared at Glasgow Sheriff Court on Tuesday, October 20, after being found guilty of subjecting three girls, now aged 20, 14 and seven, to multiple assaults as well as threatening and controlling behaviour.",
         "published": "Tue, 20 Oct 2026 15:03:12 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34304211.ece/ALTERNATES/s98/0_JS330634601-1.jpg"
-      },
-      {
-        "id": "b337d8ee594fae4486c5bfc29c79d394",
-        "title": "School threat email sparks fear as Glasgow parents back safety response",
-        "link": "https://www.glasgowtimes.co.uk/news/26653993.glasgow-parents-react-school-hoax-threat-disruption/",
-        "description": "Parents in Glasgow and South Lanarkshire have praised schools' response after a hoax threat email caused disruption at hundreds of schools and prompted a police investigation.",
-        "published": "Tue, 20 Oct 2026 16:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20232041/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/new-pizza-spot-rudys-set-34792068",
@@ -3675,14 +3683,6 @@
         "description": "Sons of William Flute Band will hold a procession in Glenmavis near Coatbridge on October 31, with around 60 people expected to take part.",
         "published": "Mon, 19 Oct 2026 14:52:58 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20460981/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/stunning-glasgow-property-nicknamed-the-34785960",
-        "title": "Stunning Glasgow property nicknamed \"The Knowe\" hits the market overlooking Queen's Park",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/stunning-glasgow-property-nicknamed-the-34785960",
-        "description": "Built in 1879 for Thomas Binnie, a prominent Glasgow property valuer and former builder, it was later extended in 1892 by architect Henry Edward Clifford before being subdivided into upper and lower dwellings in 1939.",
-        "published": "Mon, 19 Oct 2026 13:48:45 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34785939.ece/ALTERNATES/s98/0_0c4ad6663d7c57a7b30df08991d9cd16jpeg.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
