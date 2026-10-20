@@ -2885,6 +2885,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9298994",
+        "title": "Celtic star given 'world class' label on specific attribute as Hoops hero hopes for no future injuries",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-star-given-world-class-label-on-specific-attribute-as-hoops-hero-hopes-for-minimal-future-injuries-9298994",
+        "description": "<p>Attacker returned to the action against Hearts in emphatic fashion</p>",
+        "published": "Tue, 20 Oct 2026 19:00:42 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/20/13/56/GettyImages-2292589841.jpeg?width=1200&auto=webp&trim=0%2C55%2C0%2C54"
+      },
+      {
+        "id": "4b9653cbdd8d7429ad2642f2816eb7c6",
+        "title": "Scottish Culture Secretary brands BBC Scotland shakeup 'wholly unacceptable'",
+        "link": "https://www.glasgowtimes.co.uk/news/26655313.culture-chief-calls-bbc-scotland-shift-wholly-unacceptable/",
+        "description": "BBC Scotland will move exclusively to iPlayer next spring, prompting Scottish Culture Secretary Mairi McAllan to call the plan \u2018wholly unacceptable\u2019.",
+        "published": "Tue, 20 Oct 2026 19:58:38 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21356363/?type=app&htype=0"
+      },
+      {
         "id": "912fb7f7faed4f3e390d95203dca8cee",
         "title": "Celtic fans warned of delays before Celta Vigo clash as emergency works hit key route",
         "link": "https://www.glasgowtimes.co.uk/sport/26655293.celtic-park-road-works-cause-delays-celta-vigo-game/",
@@ -3195,14 +3211,6 @@
         "description": "<p>Explore the rich history of the River Kelvin through 12 extraordinary photos capturing its 130-year journey, from industrial powerhouse to revitalised urban waterway.</p>",
         "published": "Tue, 20 Oct 2026 11:52:20 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/06/16/15/42/c0430.png?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-accused-murdering-ayrshire-woman-34790672",
-        "title": "Man accused of murdering Ayrshire woman over 30 years ago faces trial in 2028",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-accused-murdering-ayrshire-woman-34790672",
-        "description": "Shona Stevens was left so severely injured that she died on November 13, 1994, at the Southern General Hospital in Glasgow.",
-        "published": "Tue, 20 Oct 2026 11:42:35 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article32134001.ece/ALTERNATES/s98/1_Screenshot-2025-07-25-111921.jpg"
       },
       {
         "id": "c8941d56900106223cb3c215cd90dc03",
@@ -3675,14 +3683,6 @@
         "description": "The bookstore pulled the October 21 event after becoming aware of several \"problematic\" social media posts by Mr Sayarer.",
         "published": "Mon, 19 Oct 2026 14:59:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21056163/?type=app&htype=0"
-      },
-      {
-        "id": "02cc6159ea1921c029ff8899f2094603",
-        "title": "Loyalist parade set to take place near Glasgow on Halloween",
-        "link": "https://www.glasgowtimes.co.uk/news/26650114.flute-band-procession-planned-near-coatbridge-halloween/",
-        "description": "Sons of William Flute Band will hold a procession in Glenmavis near Coatbridge on October 31, with around 60 people expected to take part.",
-        "published": "Mon, 19 Oct 2026 14:52:58 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20460981/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
