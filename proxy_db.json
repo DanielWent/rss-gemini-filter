@@ -2909,6 +2909,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9dc061d5afb1b0a45b6f49bf6a55a3d1",
+        "title": "Chicago Bears bring American football fever to Glasgow for first-ever UK tour",
+        "link": "https://www.glasgowtimes.co.uk/news/26657156.chicago-bears-bring-nfl-fever-glasgow-last-weekend/",
+        "description": "NFL fever arrived in Glasgow last weekend as part of the Chicago Bears\u2019 UK Grand Tour.",
+        "published": "Wed, 21 Oct 2026 12:47:54 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21612244/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/another-school-bomb-threat-made-34795881",
+        "title": "Another school 'bomb threat' made in Lanarkshire as staff contact police",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/another-school-bomb-threat-made-34795881",
+        "description": "Council bosses have said there is nothing to yet suggest the latest message is linked to the threats across Scotland on Monday.",
+        "published": "Wed, 21 Oct 2026 11:35:19 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34796024.ece/ALTERNATES/s98/2_Coltness.png"
+      },
+      {
+        "id": "c132f7c56481d19829ae9c37eae6940c",
+        "title": "Rare show in night sky as meteor shower set to peak over Scotland",
+        "link": "https://www.heraldscotland.com/news/26656766.scotlands-skies-see-spectacular-show-tonight/",
+        "description": "Scotland's skies could see a spectacular show tonight",
+        "published": "Wed, 21 Oct 2026 11:44:10 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/5351145/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/one-uks-leading-circuses-named-34795173",
         "title": "One of the UK\u2019s leading circuses named as first attraction for this year's Winter Wonderland at Glasgow Green",
         "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/one-uks-leading-circuses-named-34795173",
@@ -3683,22 +3707,6 @@
         "description": "Seven of the UK's 10 worst areas for deaths before 60 are in Scotland, with Glasgow recording the second-highest estimated rate, new analysis reveals.",
         "published": "Tue, 20 Oct 2026 05:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/10438493/?type=app&htype=0"
-      },
-      {
-        "id": "31cf58b40b04d0f65df43898650aeb71",
-        "title": "Courts, police and prosecutors told not to destroy sex crimes files as appeals loom",
-        "link": "https://www.heraldscotland.com/news/26650668.courts-prosecutors-told-not-destroy-sex-crimes-files/",
-        "description": "Scotland\u2019s SCCRC tells courts, police and lawyers to preserve sex offence files as rape shield ruling prompts possible appeals over convictions since 2013.",
-        "published": "Tue, 20 Oct 2026 05:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21114089/?type=app&htype=0"
-      },
-      {
-        "id": "a6d38dc930df3427465e1f2767190b82",
-        "title": "Reform comms chief wears Meta smart glasses at Holyrood as Lib Dems demand ban",
-        "link": "https://www.heraldscotland.com/news/26649897.reform-comms-chief-wears-smart-glasses-holyrood-amid-calls-ban/",
-        "description": "Reform UK\u2019s communications chief in Scotland says he wears Meta smart glasses at Holyrood as Lib Dems call for a ban over privacy and security fears.",
-        "published": "Tue, 20 Oct 2026 05:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21603574/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
