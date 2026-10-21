@@ -2885,6 +2885,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "e69a4e0920c05dd239cd546b37087692",
+        "title": "Clydesmill upgrades set to strengthen electricity network across central Scotland",
+        "link": "https://www.glasgowtimes.co.uk/news/26631677.clydesmill-upgrades-set-strengthen-electricity-network/",
+        "description": "As communities across Scotland shift towards cleaner power, the wires and substations running quietly in the background face their biggest transformation in decades.",
+        "published": "Wed, 21 Oct 2026 10:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21573384/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-school-attendance-plummets-after-34794317",
         "title": "Glasgow school attendance plummets after 'bomb hoax' as parents refuse to send children back",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-school-attendance-plummets-after-34794317",
@@ -2901,6 +2909,14 @@
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a81/live/0fd66540-cd2c-11f1-b752-9be65d1a31ea.png"
       },
       {
+        "id": "f2fe80a4dd06e88b5e2002b378278950",
+        "title": "Power cut hits eight Glasgow postcodes - is your area affected?",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26655979.power-outage-affects-eight-glasgow-postcodes-fault/",
+        "description": "Many Glasgow residents have been left without power following a network fault.",
+        "published": "Wed, 21 Oct 2026 09:40:06 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19410391/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/specially-trained-cops-deployed-tackle-34794268",
         "title": "'Specially trained' cops deployed to tackle firework-related crime in Glasgow",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/specially-trained-cops-deployed-tackle-34794268",
@@ -2915,6 +2931,14 @@
         "description": "Mr Sayarer\u2019s talk was cancelled after the bookshop became aware of social media posts which violated the venue\u2019s 'safe spaces' policy.",
         "published": "Wed, 21 Oct 2026 09:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21608973/?type=app&htype=0"
+      },
+      {
+        "id": "62a9bf78aa30156ce77043b631063200",
+        "title": "Bonfire Night thugs using 'fireworks as weapons' will be brought to justice, say cops",
+        "link": "https://www.glasgowtimes.co.uk/news/26655702.bonfire-night-disorder-warning-issued-police-scotland/",
+        "description": "Reckless thugs who use \"fireworks as weapons\" on Bonfire Night will be \"brought to justice\" in a stark warning ahead of this years celebrations",
+        "published": "Wed, 21 Oct 2026 08:37:09 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20164719/?type=app&htype=0"
       },
       {
         "id": "9282933",
@@ -2947,14 +2971,6 @@
         "description": "Stephen Gethins said cash should be saved in a fund for the future",
         "published": "Wed, 21 Oct 2026 07:23:08 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/13430433/?type=app&htype=0"
-      },
-      {
-        "id": "0a4a25d3afb91086930d1bb91ec049fa",
-        "title": "Glasgow school attendance 'drops by 50%' after bomb threat email",
-        "link": "https://www.glasgowtimes.co.uk/news/26655566.glasgow-school-attendance-drops-50--bomb-threat/",
-        "description": "Schools across Glasgow saw their attendance rates fall by an estimated 50% as parents raise concerns over sending their children to the classroom",
-        "published": "Wed, 21 Oct 2026 07:05:13 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19461088/?type=app&htype=0"
       },
       {
         "id": "4e280df43041fdcb28444409f27ebd3a",
@@ -3035,14 +3051,6 @@
         "description": "The announcement from SSE adds fresh evidence to the debate over whether renewable energy can replace employment lost in the North Sea oil and gas sector",
         "published": "Wed, 21 Oct 2026 04:30:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21607917/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-school-absences-soar-parents-34793963",
-        "title": "Glasgow school absences soar as parents keep children home after 'bomb threat' hoax",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-school-absences-soar-parents-34793963",
-        "description": "More than 300 schools across Scotland received bomb threat messages, with many evacuated or closed as Police Scotland investigates",
-        "published": "Tue, 20 Oct 2026 23:47:43 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34793962.ece/ALTERNATES/s98/0_GettyImages-1498426360.jpg"
       },
       {
         "id": "03f027b295aac99e775267348968080d",
@@ -3131,14 +3139,6 @@
         "description": "Sky watchers should keep their eyes peeled in the coming nights for a stunning display of shooting stars, as the next annual meteor showers are set to light up the night sky.",
         "published": "Tue, 20 Oct 2026 15:39:17 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34792654.ece/ALTERNATES/s98/0_Screenshot-2026-10-20-at-34523PM.png"
-      },
-      {
-        "id": "ad2a1e047428998a142341192c767a45",
-        "title": "Motherwell-based firms set to close with over 200 jobs at risk",
-        "link": "https://www.heraldscotland.com/news/26654728.motherwell-based-firms-set-close-200-jobs-risk/",
-        "description": "More than 200 jobs are at risk after two Motherwell-based firms announced plans to move their production from Scotland.",
-        "published": "Tue, 20 Oct 2026 16:32:41 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/11374145/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/missing-renfrewshire-pensioner-82-believed-34792446",
