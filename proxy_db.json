@@ -2877,6 +2877,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9282933",
+        "title": "\u201cWe are fighting a losing battle\u201d - Scottish hospitality business owners call for VAT reduction in UK Budget",
+        "link": "https://www.glasgowworld.com/lifestyle/food-and-drink/we-are-fighting-a-losing-battle-scottish-hospitality-business-owners-call-for-vat-reduction-in-uk-budget-9282933",
+        "description": "<p>With the UK Budget taking place at the end of the month, Scottish hospitality owners are calling for VAT and national insurance reduction, as new analysis shows the cost of businesses closing.</p>",
+        "published": "Wed, 21 Oct 2026 07:17:30 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/12/16/27/Tigerlily-exterior.png?width=1200&auto=webp&trim=29%2C0%2C30%2C0"
+      },
+      {
+        "id": "9299243",
+        "title": "How to watch Celtic vs Celta Vigo: TV channel, live stream, team news, referee and VAR for Europa League clash",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/how-to-watch-celtic-vs-celta-vigo-tv-channel-live-stream-team-news-referee-and-var-for-europa-league-clash-9299243",
+        "description": "<p>Everything you need to know about how to watch Celtic in Europe</p>",
+        "published": "Wed, 21 Oct 2026 07:00:52 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/20/14/29/GettyImages-2277317485.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "fc4dc95be132d6575b735bbbef76d8fc",
+        "title": "Landmark B-listed Glasgow riverside building dating back to early 1800s up for sale",
+        "link": "https://www.glasgowtimes.co.uk/news/26655614.landmark-b-listed-glasgow-riverside-building-goes-sale/",
+        "description": "A landmark Glasgow riverside building, which dates back to the early 1800s, has hit the market offering a space for potential development",
+        "published": "Wed, 21 Oct 2026 07:44:41 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21610087/?type=app&htype=0"
+      },
+      {
         "id": "0a4a25d3afb91086930d1bb91ec049fa",
         "title": "Glasgow school attendance 'drops by 50%' after bomb threat email",
         "link": "https://www.glasgowtimes.co.uk/news/26655566.glasgow-school-attendance-drops-50--bomb-threat/",
@@ -3019,14 +3043,6 @@
         "description": "Glasgow City Council and Wheatley Housing Group have reaffirmed their commitment to developing affordable housing, a new report has confirmed.",
         "published": "Tue, 20 Oct 2026 17:42:14 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/5993712/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqwyrw8dp2dmo#0",
-        "title": "GB men and women to make history in Glasgow",
-        "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqwyrw8dp2dmo?at_medium=RSS&at_campaign=rss",
-        "description": "Great Britain's men and women will make history in February when they compete in the European Cup of Nations at Braehead Arena in Glasgow.",
-        "published": "Tue, 20 Oct 2026 16:22:13 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d28/live/98a65fb0-cca0-11f1-a64c-550be9e3c66b.jpg"
       },
       {
         "id": "9298191",
@@ -3237,14 +3253,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21607382/?type=app&htype=0"
       },
       {
-        "id": "27b92046d5bd5471fd8c18966192ac40",
-        "title": "Patient developed sepsis after kidney infection as NHS board to apologise",
-        "link": "https://www.glasgowtimes.co.uk/news/26653553.patient-developed-sepsis-kidney-infection-discharge/",
-        "description": "A patient who developed sepsis and required surgery to remove their spleen following a kidney infection is to receive an apology from NHS Greater Glasgow and Clyde",
-        "published": "Tue, 20 Oct 2026 13:50:43 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16005120/?type=app&htype=0"
-      },
-      {
         "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/scotlands-home-halloween-gets-ready-34790383",
         "title": "Scotland's 'home of Halloween' gets ready to party as Paisley's two day festival returns",
         "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/scotlands-home-halloween-gets-ready-34790383",
@@ -3427,14 +3435,6 @@
         "description": "Glasgow drivers face George Square North closure from October 26-29, 2026, for George Square Avenue Project planned works, with diversions via key city routes.",
         "published": "Tue, 20 Oct 2026 10:19:08 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21198914/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=534062",
-        "title": "Langside library garden in Glasgow to be revamped using cash from flat developers",
-        "link": "https://news.stv.tv/west-central/langside-library-garden-in-glasgow-to-be-revamped-using-cash-from-flat-developers",
-        "description": "Langside Library in the Southside of Glasgow is currently being refurbished, and its gardens will be revamped once the project is complete",
-        "published": "Tue, 20 Oct 2026 09:14:02 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/88b64d63612211e17a8ba229ad212204-1792487518-1120x720.jpg"
       },
       {
         "id": "f09c69d0216e1bc3a0afea8ce1d83cbd",
