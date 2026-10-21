@@ -1072,6 +1072,14 @@
     "description": "AI Filtered DC Rainmaker Sports Tech & Wearable Updates.",
     "articles": [
       {
+        "id": "https://www.dcrainmaker.com/?p=170559",
+        "title": "Garmin Revamps and Opens Up Connect Developer API Program: All the Details",
+        "link": "https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html",
+        "description": "After some 7 months of being \u2018closed\u2019 to new entrants, Garmin has re-opened and revamped the Garmin Connect API developer program, focused specifically on 3rd-party platforms that want to receive data files from Garmin devices via Garmin Connect, or send &#8230;  <a class=\"read_more\" href=\"https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html\">Read More Here <span class=\"meta-nav\">&#8594;</span></a>",
+        "published": "Wed, 21 Oct 2026 15:41:36 +0000",
+        "image_url": "https://www.dcrainmaker.com/images/2026/10/GarminConnectAPI-720x385.png"
+      },
+      {
         "id": "https://www.dcrainmaker.com/?p=170541",
         "title": "Garmin Edge 1060 Cycling GPS Hands-On: Everything You Need to Know!",
         "link": "https://www.dcrainmaker.com/2026/10/garmin-edge-1060-cycling-gps-full-hands-on-details.html",
@@ -2933,6 +2941,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "5ed42995b48213aab2b6f172ae82a1b0",
+        "title": "A&E departments across region 'extremely busy\u2019, Scotland's largest health board warns",
+        "link": "https://www.heraldscotland.com/news/26658354.nhs-greater-glasgow-clyde-warns-e-departments-extremely-busy/",
+        "description": "Scotland's largest health board has warned the public that accident and emergency departments across the region are \u201cextremely busy\u201d at the moment.",
+        "published": "Wed, 21 Oct 2026 16:02:40 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/16881005/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=534362",
         "title": "Council to consult residents on future of four East Dunbartonshire schools",
         "link": "https://news.stv.tv/west-central/council-to-consult-residents-on-future-of-four-east-dunbartonshire-schools",
@@ -2987,6 +3003,14 @@
         "description": "Stephen Jardine has spoken out over the closure of the BBC Scotland TV channel, saying the broadcaster needs to adapt to changing viewing habits.",
         "published": "Wed, 21 Oct 2026 15:00:22 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21527303/?type=app&htype=0"
+      },
+      {
+        "id": "9597722f7c139b50118fb643543c3f5d",
+        "title": "Council to look into vape shop next to Glasgow\u2019s historic Mackintosh Tearooms",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26657892.planning-investigation-opened-vape-shop-beside-glasgow-tearooms/",
+        "description": "A planning enforcement investigation has been opened into a vape shop located next to a historic Glasgow tearoom.",
+        "published": "Wed, 21 Oct 2026 14:55:23 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21488102/?type=app&htype=0"
       },
       {
         "id": "e75d6d1277018e5688d65d88ca426e75",
@@ -3133,14 +3157,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21612244/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/another-school-bomb-threat-made-34795881",
-        "title": "Another school 'bomb threat' made in Lanarkshire as staff contact police",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/another-school-bomb-threat-made-34795881",
-        "description": "Council bosses have said there is nothing to yet suggest the latest message is linked to the threats across Scotland on Monday.",
-        "published": "Wed, 21 Oct 2026 11:35:19 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34796024.ece/ALTERNATES/s98/2_Coltness.png"
-      },
-      {
         "id": "8725cc40978bb9ccb7be1909ba0467f1",
         "title": "Glasgow council leader 'keen' for citizens' assembly on 'big issues facing the city'",
         "link": "https://www.heraldscotland.com/news/26656636.glasgow-council-leader-keen-citizens-assembly/",
@@ -3189,14 +3205,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21611137/?type=app&htype=0"
       },
       {
-        "id": "a7ec319ea6481e90f966b54ffb9724e5",
-        "title": "Baby Reindeer star Richard Gadd praised by sheriff after Glasgow attack trial",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26656424.sheriff-praises-richard-gadd-lucas-bains-guilty-glasgow-attack/",
-        "description": "Baby Reindeer star Richard Gadd praised as an \u2018impressive witness\u2019 after Lucas Bains was convicted of attacking a woman in Glasgow on November 1, 2023.",
-        "published": "Wed, 21 Oct 2026 10:51:28 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21529301/?type=app&htype=0"
-      },
-      {
         "id": "c0a6aee68e6613999b2444dd2ab48d5e",
         "title": "Storm Austen to batter Glasgow as yellow rain warning issued",
         "link": "https://www.glasgowtimes.co.uk/news/weather/26656423.north-lanarkshire-yellow-weather-warning-issued-storm-austen/",
@@ -3219,14 +3227,6 @@
         "description": "Irvine Welsh, Armando Iannucci and Young Fathers are among the signatories of an open letter to the government in support of Sally Rooney",
         "published": "Wed, 21 Oct 2026 10:38:20 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21586547/?type=app&htype=0"
-      },
-      {
-        "id": "8319f183353b8b2fb30c4ac1df736422",
-        "title": "Future of four East Dunbartonshire schools under review as residents consulted",
-        "link": "https://www.glasgowtimes.co.uk/news/26656263.parents-consulted-future-four-east-dunbartonshire-schools/",
-        "description": "Four East Dunbartonshire schools could be replaced, and residents are being asked for their views.",
-        "published": "Wed, 21 Oct 2026 10:26:36 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21610911/?type=app&htype=0"
       },
       {
         "id": "178c336a2d197a1340c28a7522085237",
@@ -3475,14 +3475,6 @@
         "description": "Alternative routes and replacement buses have been put in place.",
         "published": "Tue, 20 Oct 2026 15:45:43 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34608712.ece/ALTERNATES/s98/0_GettyImages-1241432591.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/orionid-meteor-shower-over-glasgow-34792620",
-        "title": "Orionid meteor shower over Glasgow: When and how to see the peak of this stunning display",
-        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/orionid-meteor-shower-over-glasgow-34792620",
-        "description": "Sky watchers should keep their eyes peeled in the coming nights for a stunning display of shooting stars, as the next annual meteor showers are set to light up the night sky.",
-        "published": "Tue, 20 Oct 2026 15:39:17 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34792654.ece/ALTERNATES/s98/0_Screenshot-2026-10-20-at-34523PM.png"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/missing-renfrewshire-pensioner-82-believed-34792446",
