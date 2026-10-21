@@ -2917,6 +2917,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cq33xpvvgrpeo#0",
+        "title": "Offenders 'will face justice' warning as firework control zones return",
+        "link": "https://www.bbc.co.uk/news/articles/cq33xpvvgrpeo?at_medium=RSS&at_campaign=rss",
+        "description": "Areas where the use of fireworks is prohibited will again be introduced in parts of Edinburgh and Glasgow.",
+        "published": "Wed, 21 Oct 2026 14:17:27 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/468d/live/21d58040-b4f6-11f0-84d4-c180d485f685.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/bbc-the-young-team-spotted-34797190",
+        "title": "BBC 'The Young Team' spotted filming in Glasgow as stars cling to ice cream van",
+        "link": "https://www.glasgowlive.co.uk/whats-on/bbc-the-young-team-spotted-34797190",
+        "description": "The six-part fictional drama, which will be available to watch on the BBC, was spotted being filmed on Mallaig Road in Govan on Monday.",
+        "published": "Wed, 21 Oct 2026 14:08:06 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34797262.ece/ALTERNATES/s98/855221072_1444439844456606_4205831569274294724_n.jpg"
+      },
+      {
+        "id": "d9d7eeb7762ba866f2a9fc6ea89294c1",
+        "title": "Stephen Jardine breaks silence on BBC Scotland channel closure",
+        "link": "https://www.glasgowtimes.co.uk/news/26657929.debate-night-host-stephen-jardine-defends-bbc-scotland-channel-axe/",
+        "description": "Stephen Jardine has spoken out over the closure of the BBC Scotland TV channel, saying the broadcaster needs to adapt to changing viewing habits.",
+        "published": "Wed, 21 Oct 2026 15:00:22 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21527303/?type=app&htype=0"
+      },
+      {
+        "id": "9af031ca035d5ab0852d8685e8ea10ee",
+        "title": "Inside North Lanarkshire's new \u00a3multi-million primary school and hub",
+        "link": "https://www.glasgowtimes.co.uk/news/26657868.new-north-lanarkshire-community-hub-welcomes-first-pupils/",
+        "description": "A multi-million-pound education and community centre has officially opened.",
+        "published": "Wed, 21 Oct 2026 14:51:32 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21613244/?type=app&htype=0"
+      },
+      {
         "id": "949f7c5acad3b1d8532effdbeb6db2e6",
         "title": "Stephen Flynn vows to 'explore all options' to save 207 factory jobs near Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26657770.minister-vows-explore-options-save-207-motherwell-jobs/",
@@ -3683,38 +3715,6 @@
         "description": "Scotland\u2019s Venice Biennale exhibition, Shame Parade, will open at Mount Stuart on the Isle of Bute in April 2027 before touring the UK and Europe.",
         "published": "Tue, 20 Oct 2026 11:22:52 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21605943/?type=app&htype=0"
-      },
-      {
-        "id": "0be2f9a6ecbd33320635fc20d33e1cab",
-        "title": "Major Glasgow road to close for FOUR DAYS as esurfacing works begin",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26652569.maryhill-road-closure-glasgow-resurfacing-works/",
-        "description": "Glasgow drivers face Maryhill Road closure from October 20 to October 23 for resurfacing works, with diversions via Garscube Road and Great Western Road.",
-        "published": "Tue, 20 Oct 2026 11:16:51 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21475912/?type=app&htype=0"
-      },
-      {
-        "id": "70a3a753b55c1eb0df188ac87c64270a",
-        "title": "Water disruption in busy Glasgow area sparks emergency response",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26652397.glasgow-water-disruption-burst-main-discovered/",
-        "description": "Scottish Water warns of supply disruption in Glasgow's G33 area after a burst main on Elibank Street, with repairs and traffic delays expected on October 20.",
-        "published": "Tue, 20 Oct 2026 10:51:14 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20409063/?type=app&htype=0"
-      },
-      {
-        "id": "2b164db311272b56c3f5210d08420d50",
-        "title": "How Scottish families could receive more than \u00a32600 in support for a new baby",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26652284.scottish-parents-can-claim-2600-support/",
-        "description": "The Scottish Government is offering funding through a package of benefits aimed at easing the costs of early parenthood.",
-        "published": "Tue, 20 Oct 2026 10:36:12 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20346995/?type=app&htype=0"
-      },
-      {
-        "id": "f2810c72b9e58978d5f95206f8a40c4b",
-        "title": "Further travel disruption in Glasgow as part of George Square to CLOSE for four days",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26652164.george-square-north-close-four-days-hoarding/",
-        "description": "Glasgow drivers face George Square North closure from October 26-29, 2026, for George Square Avenue Project planned works, with diversions via key city routes.",
-        "published": "Tue, 20 Oct 2026 10:19:08 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21198914/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"

@@ -1,8 +1,5 @@
 {
   "strict": {
-    "1787407235711531": 1787408330.6477928,
-    "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss": 1787408330.6477928,
-    "Fourteen killed in strike on Myanmar monastery": 1787408330.6477928,
     "1787408712560647": 1787410066.4813275,
     "https://www.bbc.co.uk/sport/darts/articles/c4gwg9nnx36o?at_medium=RSS&at_campaign=rss": 1787410066.4813275,
     "Wade wins first World Series title in Australia": 1787410066.4813275,
@@ -14975,7 +14972,10 @@
     "Kildunne drops to bench as England ring changes": 1792589138.0391827,
     "1792590115011480": 1792590939.9187741,
     "https://www.bbc.co.uk/news/articles/c6m2dw39jx1do?at_medium=RSS&at_campaign=rss": 1792590939.9187741,
-    "Belfast comedian criticised for rape 'joke' about assault victim": 1792590939.9187741
+    "Belfast comedian criticised for rape 'joke' about assault victim": 1792590939.9187741,
+    "1792591512549763": 1792592732.804815,
+    "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss": 1792592732.804815,
+    "Nigeria confirms Ebola case linked to East Africa": 1792592732.804815
   },
   "lenient": {
     "https://www.bbc.co.uk/sport/football/articles/cq6d627y8g7o#8": 1787410066.4813275,
@@ -22884,7 +22884,13 @@
     "Kildunne drops to bench as England ring changes": 1792587338.122409,
     "https://www.bbc.co.uk/news/articles/c6m2dw39jx1do#4": 1792590939.9187741,
     "https://www.bbc.co.uk/news/articles/c6m2dw39jx1do?at_medium=RSS&at_campaign=rss": 1792590939.9187741,
-    "Belfast comedian criticised for rape 'joke' about assault victim": 1792590939.9187741
+    "Belfast comedian criticised for rape 'joke' about assault victim": 1792590939.9187741,
+    "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko#1": 1792592732.804815,
+    "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss": 1792592732.804815,
+    "Jeffrey Donaldson to be interviewed over alleged rape inside Houses of Parliament": 1792592732.804815,
+    "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o#1": 1792592732.804815,
+    "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss": 1792592732.804815,
+    "Websites taken down across Europe ahead of critical cyber-security update": 1792592732.804815
   },
   "google": {
     "https://blog.google/innovation-and-ai/products/gemini-app/enable-intelligent-dictation-macos/": 1787673617.79308,
@@ -23806,9 +23812,6 @@
     "Impaled by His Own Trekking Pole, David Cifaldi Hiked 10 Miles Off Montana's Highest Peak": 1792146336.1371937
   },
   "glasgow_times": {
-    "54b0f9f8eb60926d477bce23fdc2b9f6": 1787408330.6477928,
-    "https://www.glasgowtimes.co.uk/news/scottish-news/26487129.calmac-crew-praised-overboard-rescue-security-threat/": 1787408330.6477928,
-    "Person rescued from water as security threat leads to arrest on CalMac ferry": 1787408330.6477928,
     "7fa855ec7d23bd650dc8742d9abd3950": 1787410066.4813275,
     "https://www.glasgowtimes.co.uk/news/26487204.live-updates-trains-ayr-station-impacted-due-trespasser/": 1787410066.4813275,
     "LIVE updates as NO TRAINS at busy station due to trespasser emergency": 1787410066.4813275,
@@ -29621,7 +29624,16 @@
     "Another Glasgow water main bursts as several homes hit by supply disruption": 1792590939.9187741,
     "7911d31910885ae193539c63f1c8e828": 1792590939.9187741,
     "https://www.glasgowtimes.co.uk/news/26657675.former-glasgow-cop-dilexan-aloysious-jailed-drug-dealing/": 1792590939.9187741,
-    "Ex-cop stopped by former colleagues in East Kilbride before bizarre ChatGPT search": 1792590939.9187741
+    "Ex-cop stopped by former colleagues in East Kilbride before bizarre ChatGPT search": 1792590939.9187741,
+    "d9d7eeb7762ba866f2a9fc6ea89294c1": 1792592732.804815,
+    "https://www.glasgowtimes.co.uk/news/26657929.debate-night-host-stephen-jardine-defends-bbc-scotland-channel-axe/": 1792592732.804815,
+    "Stephen Jardine breaks silence on BBC Scotland channel closure": 1792592732.804815,
+    "9af031ca035d5ab0852d8685e8ea10ee": 1792592732.804815,
+    "https://www.glasgowtimes.co.uk/news/26657868.new-north-lanarkshire-community-hub-welcomes-first-pupils/": 1792592732.804815,
+    "Inside North Lanarkshire's new \u00a3multi-million primary school and hub": 1792592732.804815,
+    "2adf3a1791e61383b783542800d25799": 1792592732.804815,
+    "https://www.glasgowtimes.co.uk/sport/26657732.four-men-deny-charges-old-firm-cup-match-disorder-ibrox/": 1792592732.804815,
+    "Four men in court accused over ugly scenes at Rangers v Celtic Old Firm clash": 1792592732.804815
   },
   "runabc_scotland": {
     "https://runabc.co.uk/parkrun-code-of-conduct-reminder-for-runners": 1787558214.5492067,
@@ -29678,9 +29690,6 @@
     "Inverness Half Marathon & 5K Opens Entries For March 2027": 1792567537.8699062
   },
   "newsletter_candidates": {
-    "54b0f9f8eb60926d477bce23fdc2b9f6": 1787408330.6477928,
-    "https://www.glasgowtimes.co.uk/news/scottish-news/26487129.calmac-crew-praised-overboard-rescue-security-threat/": 1787408330.6477928,
-    "Person rescued from water as security threat leads to arrest on CalMac ferry": 1787408330.6477928,
     "7fa855ec7d23bd650dc8742d9abd3950": 1787410066.4813275,
     "https://www.glasgowtimes.co.uk/news/26487204.live-updates-trains-ayr-station-impacted-due-trespasser/": 1787410066.4813275,
     "LIVE updates as NO TRAINS at busy station due to trespasser emergency": 1787410066.4813275,
@@ -47768,7 +47777,30 @@
     "'I was abducted by evil dentist in frightening Halloween experience near Glasgow'": 1792590939.9187741,
     "9301995": 1792590939.9187741,
     "https://www.glasgowworld.com/must-read/chinese-language-music-hits-a-global-note-as-adapted-song-surpasses-2-billion-streams-9301995": 1792590939.9187741,
-    "Chinese-language music hits a global note as adapted song surpasses 2 billion streams": 1792590939.9187741
+    "Chinese-language music hits a global note as adapted song surpasses 2 billion streams": 1792590939.9187741,
+    "d9d7eeb7762ba866f2a9fc6ea89294c1": 1792592732.804815,
+    "https://www.glasgowtimes.co.uk/news/26657929.debate-night-host-stephen-jardine-defends-bbc-scotland-channel-axe/": 1792592732.804815,
+    "Stephen Jardine breaks silence on BBC Scotland channel closure": 1792592732.804815,
+    "9af031ca035d5ab0852d8685e8ea10ee": 1792592732.804815,
+    "https://www.glasgowtimes.co.uk/news/26657868.new-north-lanarkshire-community-hub-welcomes-first-pupils/": 1792592732.804815,
+    "Inside North Lanarkshire's new \u00a3multi-million primary school and hub": 1792592732.804815,
+    "https://news.stv.tv/?p=534374": 1792592732.804815,
+    "https://news.stv.tv/west-central/man-who-kept-dogs-for-animal-fighting-filmed-pets-attacking-wildlife": 1792592732.804815,
+    "Man who kept dogs for animal fighting filmed pets attacking wildlife": 1792592732.804815,
+    "https://www.bbc.co.uk/news/articles/cq33xpvvgrpeo#0": 1792592732.804815,
+    "https://www.bbc.co.uk/news/articles/cq33xpvvgrpeo?at_medium=RSS&at_campaign=rss": 1792592732.804815,
+    "Offenders 'will face justice' warning as firework control zones return": 1792592732.804815,
+    "https://www.glasgowlive.co.uk/news/glasgow-news/wishaw-school-bomb-threat-being-34797261": 1792592732.804815,
+    "Wishaw school 'bomb threat' being treated as latest hoax": 1792592732.804815,
+    "https://www.glasgowlive.co.uk/news/glasgow-news/inspirational-glasgow-boy-spina-bifida-34796684": 1792592732.804815,
+    "'Inspirational' Glasgow boy with Spina Bifida makes 'miracle' swimming achievement": 1792592732.804815,
+    "https://www.glasgowlive.co.uk/whats-on/bbc-the-young-team-spotted-34797190": 1792592732.804815,
+    "BBC 'The Young Team' spotted filming in Glasgow as stars cling to ice cream van": 1792592732.804815,
+    "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-southside-sandwich-shop-closed-34796949": 1792592732.804815,
+    "Glasgow southside sandwich shop closed after cruel vandals break in overnight": 1792592732.804815,
+    "9302137": 1792592732.804815,
+    "https://www.glasgowworld.com/must-read/kevel-secures-ps39-million-to-scale-ai-driven-infrastructure-for-the-future-of-commerce-media-9302137": 1792592732.804815,
+    "Kevel secures \u00a339 million to scale AI-driven infrastructure for the future of commerce media": 1792592732.804815
   },
   "glasgow_live": {},
   "glasgow_world": {
@@ -50588,6 +50620,12 @@
     "Glasgow Winter Wonderland 2026: Circus Zyair to bring festive Big Top show to Glasgow": 1792585536.2681317,
     "9301879": 1792590939.9187741,
     "https://www.glasgowworld.com/read-this/mystery-keys-and-failing-relationships-are-the-things-brits-hold-onto-for-too-long-9301879": 1792590939.9187741,
-    "Mystery keys and failing relationships are the things Brits hold onto for too long": 1792590939.9187741
+    "Mystery keys and failing relationships are the things Brits hold onto for too long": 1792590939.9187741,
+    "9302137": 1792592732.804815,
+    "https://www.glasgowworld.com/must-read/kevel-secures-ps39-million-to-scale-ai-driven-infrastructure-for-the-future-of-commerce-media-9302137": 1792592732.804815,
+    "Kevel secures \u00a339 million to scale AI-driven infrastructure for the future of commerce media": 1792592732.804815,
+    "9301995": 1792592732.804815,
+    "https://www.glasgowworld.com/must-read/chinese-language-music-hits-a-global-note-as-adapted-song-surpasses-2-billion-streams-9301995": 1792592732.804815,
+    "Chinese-language music hits a global note as adapted song surpasses 2 billion streams": 1792592732.804815
   }
 }
