@@ -2885,12 +2885,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-school-attendance-plummets-after-34794317",
+        "title": "Glasgow school attendance plummets after 'bomb hoax' as parents refuse to send children back",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-school-attendance-plummets-after-34794317",
+        "description": "Glasgow City Council said that some of their schools had 50% fewer pupils than normal",
+        "published": "Wed, 21 Oct 2026 08:52:24 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34794641.ece/ALTERNATES/s98/0_gettyimages-2247132310-170667a.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cm86z7ldveneo#0",
+        "title": "Firearm discharged in 'targeted attack' in Kilmarnock",
+        "link": "https://www.bbc.co.uk/news/articles/cm86z7ldveneo?at_medium=RSS&at_campaign=rss",
+        "description": "Officers said the incident, which resulted in damage to a window, happened on 12 October.",
+        "published": "Wed, 21 Oct 2026 08:48:26 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a81/live/0fd66540-cd2c-11f1-b752-9be65d1a31ea.png"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/specially-trained-cops-deployed-tackle-34794268",
         "title": "'Specially trained' cops deployed to tackle firework-related crime in Glasgow",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/specially-trained-cops-deployed-tackle-34794268",
         "description": "Operation Moonbeam was launched in 2017 following a surge in anti-social behaviour and violence involving fireworks across Scotland.",
         "published": "Wed, 21 Oct 2026 08:18:32 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34794365.ece/ALTERNATES/s98/2_firework.jpg"
+      },
+      {
+        "id": "b6c78372905f9e0f9e99ca51652fbbba",
+        "title": "Author defends views after Edinburgh bookshop cancels talk over social media posts",
+        "link": "https://www.heraldscotland.com/news/26654847.travel-writer-defends-views-edinburgh-talk-cancelled/",
+        "description": "Mr Sayarer\u2019s talk was cancelled after the bookshop became aware of social media posts which violated the venue\u2019s 'safe spaces' policy.",
+        "published": "Wed, 21 Oct 2026 09:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21608973/?type=app&htype=0"
       },
       {
         "id": "9282933",
@@ -3117,22 +3141,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/11374145/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/iconic-glasgow-building-built-citys-34792088",
-        "title": "Iconic Glasgow building built for city's elite hits the market on River Clyde",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/iconic-glasgow-building-built-citys-34792088",
-        "description": "Carlton House was built by property developer brothers John and David Laurie who purchased the land with the grand vision to build an ultra-exclusive, upscale suburb for Glasgow's elite.",
-        "published": "Tue, 20 Oct 2026 15:12:30 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34792177.ece/ALTERNATES/s98/0_2f103d550618c0610f50b9f90315e189jpeg.jpg"
-      },
-      {
-        "id": "ed5de9479e064f7502b8c7a79ddc9146",
-        "title": "Full list of Bonfire Night fireworks displays in and around Glasgow for 2026",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26654533.list-bonfire-night-firework-displays-around-glasgow-2026/",
-        "description": "Bonfire Night 2026 fireworks near Glasgow include Giffnock, Lenzie, Hamilton, Dumbarton and Helensburgh on November 5, while Glasgow Green remains unconfirmed.",
-        "published": "Tue, 20 Oct 2026 16:05:50 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17374951/?type=app&htype=0"
-      },
-      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/missing-renfrewshire-pensioner-82-believed-34792446",
         "title": "Missing Renfrewshire pensioner, 82, believed to have fallen overboard ferry to Arran",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/missing-renfrewshire-pensioner-82-believed-34792446",
@@ -3179,14 +3187,6 @@
         "description": "EastEnders stars are set to lead a touring production of a smash hit musical coming to Glasgow.",
         "published": "Tue, 20 Oct 2026 15:25:03 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21607986/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/vacant-derelict-land-brought-back-34791771",
-        "title": "Vacant and derelict land to be brought back to life through affordable homes",
-        "link": "https://www.glasgowlive.co.uk/news/vacant-derelict-land-brought-back-34791771",
-        "description": "Vacant and derelict land will be brought back into productive use in areas including Wyndford, Red Road/Barmulloch, Sighthill, Milton, Drumchapel, and the city centre.",
-        "published": "Tue, 20 Oct 2026 14:17:52 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33445571.ece/ALTERNATES/s98/2_Glasgow-City-Chambers.jpg"
       },
       {
         "id": "528d58532adb31383959a8196282889b",
