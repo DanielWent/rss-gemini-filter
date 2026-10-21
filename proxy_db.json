@@ -2877,6 +2877,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "12cab6420b1a82ffad569884512582e7",
+        "title": "\u2018I feel like we don't matter\u2019 - Backlash grows against \u00a3900k 3G pitch plans",
+        "link": "https://www.glasgowtimes.co.uk/news/26653542.clydebank-3g-pitch-plans-face-growing-residential-opposition/",
+        "description": "Clydebank residents say they feel ignored as opposition grows to plans for a second 3G pitch, which they fear will worsen \"madness and chaos\".",
+        "published": "Wed, 21 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21602938/?type=app&htype=0"
+      },
+      {
+        "id": "6d60241299de6447b2e19b53481069f5",
+        "title": "Glasgow man fears safety of housing development after flooding destroyed his car",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26643244.glasgow-residents-fear-flooding-risk-housing-development/",
+        "description": "Glasgow man raises flooding concerns over Wheatley Homes\u2019 St Edmund Court in Pollok. Wheatley says inspections found no flooding; van fire had no casualties.",
+        "published": "Wed, 21 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21606814/?type=app&htype=0"
+      },
+      {
+        "id": "b5d918dee4f9f49899484f855e23cfe2",
+        "title": "Manufacturer reveals reason for closure as hundreds of jobs at risk outside Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26654852.resideo-responds-116-motherwell-jobs-risk-factory-move/",
+        "description": "Resideo says it must adapt to remain competitive as 116 jobs are at risk amid plans to move manufacturing operations from Motherwell.",
+        "published": "Wed, 21 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21608743/?type=app&htype=0"
+      },
+      {
+        "id": "2abe4315e0827c168d651eed4f1b118b",
+        "title": "Scottish social care providers warn reform needs fair funding to avert crisis",
+        "link": "https://www.glasgowtimes.co.uk/news/26654605.social-care-providers-call-funding-scottish-reform/",
+        "description": "Scottish Government public sector reform plans could merge health boards and councils, Ivan McKee hears third sector calls for fair social care funding.",
+        "published": "Wed, 21 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21608630/?type=app&htype=0"
+      },
+      {
         "id": "2851a4af2781e9472a1aa6ae5bd049c5",
         "title": "'No appetite to remove her': MSP to remain on justice committee after Reform exit",
         "link": "https://www.heraldscotland.com/news/26654639.msp-remain-justice-committee-reform-exit/",
@@ -3643,38 +3675,6 @@
         "description": "Davey Anderson\u2019s play Snuff returns to the Traverse Theatre and Glasgow\u2019s Tron Theatre in February and March 2027, exploring violence, masculinity and social division.",
         "published": "Mon, 19 Oct 2026 16:10:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21603137/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/posh-hotel-popular-tourist-town-34786010",
-        "title": "Posh hotel in popular tourist town shuts down leaving all staff redundant",
-        "link": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/posh-hotel-popular-tourist-town-34786010",
-        "description": "A boutique hotel in the heart of Scotland has closed permanently after its parent firm, Kinnettles Hotel Limited, entered liquidation",
-        "published": "Mon, 19 Oct 2026 15:03:22 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/whats-on/article34786005.ece/ALTERNATES/s98/1_Kinnettles-Hotel-in-St-Andrews.jpg"
-      },
-      {
-        "id": "afcb745aa7b2837616d002649118fcb3",
-        "title": "Email reveals what Peter Mathieson really thinks about university programme closures",
-        "link": "https://www.heraldscotland.com/news/26649439.edinburgh-university-chief-really-thinks-programme-cuts/",
-        "description": "Sir Peter Mathieson defended recent programme closures at Edinburgh University in an email sent to a student and a number of regional MSPs.",
-        "published": "Mon, 19 Oct 2026 16:03:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21601133/?type=app&htype=0"
-      },
-      {
-        "id": "36f0e3bcd6ebd02eab6cd29414e3f09f",
-        "title": "Hot Chip announce Glasgow SWG3 show ahead of Sub Club DJ set",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26650443.hot-chip-announce-glasgow-swg3-show-2027-uk-tour/",
-        "description": "Visionary electronic band Hot Chip have announced they will perform at Glasgow's SWG3 next year.",
-        "published": "Mon, 19 Oct 2026 15:38:12 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21602802/?type=app&htype=0"
-      },
-      {
-        "id": "cb2b96043fd83c94c07db5514159a834",
-        "title": "Tour de France opening ceremony to take place at Edinburgh Castle",
-        "link": "https://www.heraldscotland.com/news/26650389.tour-de-france-opening-ceremony-tickets-set-go-sale/",
-        "description": "Edinburgh Castle will host the Tour de France opening ceremony on June 30, 2027, ahead of the race's Grand D\u00e9part in Scotland.",
-        "published": "Mon, 19 Oct 2026 15:28:59 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21334087/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
