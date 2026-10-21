@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1792584019244288",
+        "title": "Irish weather warning ahead of Storm Austen",
+        "link": "https://www.bbc.co.uk/news/articles/ck98z6e4l725o?at_medium=RSS&at_campaign=rss",
+        "description": "The Republic of Ireland's weather service warns of potential of flooding and travel disruption.",
+        "published": "Wed, 21 Oct 2026 13:48:46 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee6b/live/e3c1caa0-cd42-11f1-8177-0f8bd59b54c4.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cwvg0vjj5e2vo#4",
         "title": "Missing German WW2 U-boat found 82 years on",
         "link": "https://www.bbc.co.uk/news/articles/cwvg0vjj5e2vo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Flags flew at half mast on the 13th day since the disaster, the last day of the Hindu mourning period.",
         "published": "Mon, 07 Sep 2026 09:31:26 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0043/live/461239b0-aa93-11f1-a291-b542ee92de7c.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/czezydp4l97o#3",
-        "title": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
-        "link": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
-        "description": "Anak Krakatau, which lies about 150km from the capital Jakarta, began erupting late on Friday.",
-        "published": "Mon, 07 Sep 2026 05:20:39 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/795f/live/1420e5d0-aa72-11f1-8fb5-49eca7c7c503.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2909,6 +2909,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "fd4284aa83e52f99a902f93975f10d34",
+        "title": "Fresh 'threatening message' sent to school amid Scotland-wide investigation",
+        "link": "https://www.heraldscotland.com/news/26657299.fresh-threatening-message-sent-wishaw-school-police-contacted/",
+        "description": "Coltness High School in North Lanarkshire remains open after a malicious message, as Police Scotland investigates hoax threats sent to schools across Scotland.",
+        "published": "Wed, 21 Oct 2026 13:21:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/17950147/?type=app&htype=0"
+      },
+      {
+        "id": "9087fa790043b337e39c7b6dc0db4261",
+        "title": "Rapist taxi driver's wife applies for her own taxi licence after controversy",
+        "link": "https://www.heraldscotland.com/news/26657186.wife-convicted-inverness-taxi-driver-applies-licence/",
+        "description": "Anne-Marie Brown, wife of convicted Inverness rapist taxi driver David Brown, applies for a taxi operator\u2019s licence as Highland Council considers her case October 27.",
+        "published": "Wed, 21 Oct 2026 13:02:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20997786/?type=app&htype=0"
+      },
+      {
+        "id": "bb1f97f63958235a581df1a7c4a3db08",
+        "title": "Popular Glasgow bus route gets major boost with more services from next week",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26657208.three-return-buses-added-daily-glasgow-fort-william-route/",
+        "description": "Ember will add three daily return services to its Glasgow-Fort William bus route from October 28, offering seven services a day, with pets and bike spaces available.",
+        "published": "Wed, 21 Oct 2026 12:57:40 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21612400/?type=app&htype=0"
+      },
+      {
+        "id": "fb8e7b76a15084316758931a0d066d97",
+        "title": "'Broadcasting is changing at breakneck speed': BBC Scotland host defends channel axe",
+        "link": "https://www.heraldscotland.com/news/26657191.debate-night-host-stephen-jardine-defends-bbc-scotland-channel-axe/",
+        "description": "Debate Night presenter Stephen Jardine has defended the closure of the BBC Scotland TV channel citing the 'breakneck speed' of changing viewing habits.",
+        "published": "Wed, 21 Oct 2026 12:54:25 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21527303/?type=app&htype=0"
+      },
+      {
         "id": "361e1e726f75020209939289e23fdb3c",
         "title": "Fresh 'threatening message' sent to school amid investigation",
         "link": "https://www.glasgowtimes.co.uk/news/26657187.fresh-threatening-message-sent-wishaw-school-police-contacted/",
@@ -2939,6 +2971,22 @@
         "description": "Council bosses have said there is nothing to yet suggest the latest message is linked to the threats across Scotland on Monday.",
         "published": "Wed, 21 Oct 2026 11:35:19 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34796024.ece/ALTERNATES/s98/2_Coltness.png"
+      },
+      {
+        "id": "8725cc40978bb9ccb7be1909ba0467f1",
+        "title": "Glasgow council leader 'keen' for citizens' assembly on 'big issues facing the city'",
+        "link": "https://www.heraldscotland.com/news/26656636.glasgow-council-leader-keen-citizens-assembly/",
+        "description": "Glasgow City Council leader Ricky Bell backs exploring a citizens\u2019 assembly as residents raise concerns over PBSA, bin hubs and community engagement.",
+        "published": "Wed, 21 Oct 2026 12:08:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21459472/?type=app&htype=0"
+      },
+      {
+        "id": "3769b90bd34a4ac61011ff01fe0cfdc7",
+        "title": "Tesco submits plans for first Skye supermarket and petrol station with 100 jobs",
+        "link": "https://www.heraldscotland.com/news/26656680.tesco-submits-plans-first-isle-skye-supermarket/",
+        "description": "Tesco has submitted plans for a 32,356 sq ft supermarket and petrol station in Portree, with around 100 jobs expected if the development receives planning permission.",
+        "published": "Wed, 21 Oct 2026 12:08:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20675749/?type=app&htype=0"
       },
       {
         "id": "c132f7c56481d19829ae9c37eae6940c",
@@ -3659,54 +3707,6 @@
         "description": "The west side of Argyle Street's makeover has seen the addition of more greenery, cycle lanes and refurbished roads and pavements.",
         "published": "Tue, 20 Oct 2026 06:46:54 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34785562.ece/ALTERNATES/s98/0_Argyle-st-west.jpg"
-      },
-      {
-        "id": "9324805f1c30e503264b3feca0ecb239",
-        "title": "Face of man who died in Roman Scotland 2,000 years ago revealed",
-        "link": "https://www.heraldscotland.com/news/26651554.face-roman-frontier-man-revealed-2-000-years-exhibition/",
-        "description": "The man's bones provided a grisly eye into his life - and death",
-        "published": "Tue, 20 Oct 2026 07:15:07 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21604550/?type=app&htype=0"
-      },
-      {
-        "id": "31b744e20c8cc3cd5b6f0267caa0e80c",
-        "title": "Motorway crash sparks long delays for commuters",
-        "link": "https://www.heraldscotland.com/news/26651548.m80-crash-causes-28-minute-delays-near-cumbernauld/",
-        "description": "Drivers face 28-minute delays on the motorway this morning",
-        "published": "Tue, 20 Oct 2026 07:00:08 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19842498/?type=app&htype=0"
-      },
-      {
-        "id": "ee57fd2d79dcb4368a357cfada069784",
-        "title": "Warning as backlash grows over leaked NHS orthopaedic care plans",
-        "link": "https://www.heraldscotland.com/news/26650767.arthritis-uk-warns-scotlands-orthopaedic-care-plans/",
-        "description": "Arthritis UK warns Scotland\u2019s leaked NHS orthopaedic plan could mean longer waits and travel for surgery, as unions and surgeons demand meaningful consultation.",
-        "published": "Tue, 20 Oct 2026 06:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20707905/?type=app&htype=245"
-      },
-      {
-        "id": "1b78ba3e212bfbd3fde5ca39977bcf90",
-        "title": "Shame on them: the SNP has become a hostile place for Scotland's Catholics",
-        "link": "https://www.heraldscotland.com/politics/viewpoint/26649405.snp-become-hostile-place-scotlands-catholics/",
-        "description": "A growing hostility to Catholicism has been evident inside the SNP during the Sturgeon/Swinney era, writes Kevin McKenna",
-        "published": "Tue, 20 Oct 2026 06:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21601326/?type=app&htype=0"
-      },
-      {
-        "id": "fc6c7d3ca863610699ef2976c980e50a",
-        "title": "Glasgow pupils reveal what they love about their school as inspectors deliver verdict",
-        "link": "https://www.glasgowtimes.co.uk/news/26649949.eastbank-primary-glasgow-praised-hmie-inspectors/",
-        "description": "Eastbank Primary is celebrating after inspectors awarded a very good rating for raising attainment and achievement, praising its inclusive ethos, motivated staff and proud pupils.",
-        "published": "Tue, 20 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21602061/?type=app&htype=0"
-      },
-      {
-        "id": "a2879229053b55fa276279ee9d6f1721",
-        "title": "Ex cabinet minister launches attack on SNP government on homelessness",
-        "link": "https://www.glasgowtimes.co.uk/news/26650354.former-minister-attacks-snp-homelessness-crisis/",
-        "description": "A former Scottish Government cabinet minister launched a scathing attack on the current administration over homelessness.",
-        "published": "Tue, 20 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21263035/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
