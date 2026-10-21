@@ -2941,6 +2941,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=534395",
+        "title": "Cycling charity forced to move out of Finnieston hub after 14 years due to redevelopment",
+        "link": "https://news.stv.tv/west-central/cycling-charity-forced-to-move-out-of-finnieston-hub-after-14-years-due-to-redevelopment",
+        "description": "Bike for Good will move its operations to its second location in Govanhill",
+        "published": "Wed, 21 Oct 2026 16:07:58 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/2eaeef60f82b3a29c3402c9e7d26c28c-1792598100-1280x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/neil-lennon-says-scottish-football-34796397",
+        "title": "Neil Lennon says Scottish football faces 'big questions' ahead of special Glasgow event",
+        "link": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/neil-lennon-says-scottish-football-34796397",
+        "description": "The former Celtic boss, who has called Glasgow home for more than 20 years, will join Aiden McGeady and James McFadden at SWG3 for a one-off evening lifting the lid on Scottish football.",
+        "published": "Wed, 21 Oct 2026 16:03:12 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34798059.ece/ALTERNATES/s98/0_Neil-Lennon.jpg"
+      },
+      {
+        "id": "ce77712c315b18cb9c3e3f29b94375d7",
+        "title": "Calls for crackdown as fly-tipping continues to blight local area",
+        "link": "https://www.glasgowtimes.co.uk/news/26658668.calls-action-persistent-fly-tipping-cumbernauld-road/",
+        "description": "Residents are calling for action to tackle persistent fly-tipping.",
+        "published": "Wed, 21 Oct 2026 16:54:23 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21614449/?type=app&htype=0"
+      },
+      {
+        "id": "c5797cd06693679b9723e4454205be9f",
+        "title": "MP says council taking \u2018far too long\u2019 to reopen Glasgow park entrance",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26658547.glasgow-mp-says-linn-park-entrance-closure-taken-far-long/",
+        "description": "An MP says Glasgow City Council has taken \"far too long\" to reopen an entrance to a Glasgow park.",
+        "published": "Wed, 21 Oct 2026 16:33:09 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13609569/?type=app&htype=0"
+      },
+      {
         "id": "5ed42995b48213aab2b6f172ae82a1b0",
         "title": "A&E departments across region 'extremely busy\u2019, Scotland's largest health board warns",
         "link": "https://www.heraldscotland.com/news/26658354.nhs-greater-glasgow-clyde-warns-e-departments-extremely-busy/",
@@ -3707,22 +3739,6 @@
         "description": "Emergency services are in attendance, with traffic being diverted via Oban",
         "published": "Tue, 20 Oct 2026 10:51:44 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/23d1d1e7311ca732e1d1af11341b0bbb-1792491844.jpg"
-      },
-      {
-        "id": "943c54eb050932d1b139348fa2a857fa",
-        "title": "Royal Scottish Pipe Band Association appoints new chief executive",
-        "link": "https://www.heraldscotland.com/news/26652781.meaghan-lyons-appointed-rspba-chief-executive-30-years/",
-        "description": "Meaghan Lyons appointed chief executive of Royal Scottish Pipe Band Association (RSPBA), relocating to Glasgow in January 2027 after 30 years in pipe banding.",
-        "published": "Tue, 20 Oct 2026 11:45:16 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21606135/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=534075",
-        "title": "Man seriously injured after attacker forces entry to property in Paisley",
-        "link": "https://news.stv.tv/west-central/man-seriously-injured-after-attacker-forces-entry-to-property-in-paisley",
-        "description": "Police are appealing for CCTV and dash-cam footage following the incident",
-        "published": "Tue, 20 Oct 2026 10:41:11 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/01/235f6d6135a9d1cc759d20ab2678e146-1767794483-995x720.jpeg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
