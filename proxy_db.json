@@ -2877,6 +2877,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "2e1f0ee50dffa7700b7fb4144065f275",
+        "title": "Scots councillor warns freedom of speech suspension risks local democracy",
+        "link": "https://www.heraldscotland.com/news/26654899.alastair-redman-warns-councillor-suspension-risks-local-democracy/",
+        "description": "Argyll and Bute councillor Alastair Redman says his two-month suspension risks creating a climate of fear and undermining local democracy.",
+        "published": "Wed, 21 Oct 2026 06:33:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/13235148/?type=app&htype=0"
+      },
+      {
+        "id": "aed3734bf36dfd1629261bfbc7402533",
+        "title": "Bridges or island identity? Scots inquiry head says locals must decide future",
+        "link": "https://www.heraldscotland.com/news/26654572.island-bridges-scots-iquiry-chief-says-islanders-must-decide/",
+        "description": "Patricia Ferguson says Scotland's island communities must decide whether bridges and tunnels are right for them, amid concerns over depopulation and island identity.",
+        "published": "Wed, 21 Oct 2026 06:31:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21128593/?type=app&htype=0"
+      },
+      {
         "id": "12cab6420b1a82ffad569884512582e7",
         "title": "\u2018I feel like we don't matter\u2019 - Backlash grows against \u00a3900k 3G pitch plans",
         "link": "https://www.glasgowtimes.co.uk/news/26653542.clydebank-3g-pitch-plans-face-growing-residential-opposition/",
@@ -3659,22 +3675,6 @@
         "description": "A Glasgow Fort jewellery retailer has announced it will not open on Boxing Day.",
         "published": "Mon, 19 Oct 2026 16:46:45 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/18893557/?type=app&htype=0"
-      },
-      {
-        "id": "dad3d6f63130ce25b2faf65b60a13086",
-        "title": "Glasgow pupils with additional support needs benefit from independent travel skills",
-        "link": "https://www.glasgowtimes.co.uk/news/26650898.glasgow-asn-pupils-learning-independent-travel-skills/",
-        "description": "Children across Glasgow with ASN have been learning independent travel skills in a bid to build their confidence and life skills.",
-        "published": "Mon, 19 Oct 2026 16:38:37 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21118135/?type=app&htype=0"
-      },
-      {
-        "id": "4d1d20516c2baca086a59f8b0fca853e",
-        "title": "Glasgow play Snuff returns to Scottish stages after more than 20 years",
-        "link": "https://www.heraldscotland.com/news/26650590.snuff-returns-glasgow-edinburgh-theatres-2027/",
-        "description": "Davey Anderson\u2019s play Snuff returns to the Traverse Theatre and Glasgow\u2019s Tron Theatre in February and March 2027, exploring violence, masculinity and social division.",
-        "published": "Mon, 19 Oct 2026 16:10:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21603137/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
