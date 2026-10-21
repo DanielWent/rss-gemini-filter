@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cwvg0vjj5e2vo#4",
+        "title": "Missing German WW2 U-boat found 82 years on",
+        "link": "https://www.bbc.co.uk/news/articles/cwvg0vjj5e2vo?at_medium=RSS&at_campaign=rss",
+        "description": "The U-672 sub was identified 20 miles (32km) off Salcombe after divers discovered it in August.",
+        "published": "Wed, 21 Oct 2026 05:19:47 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e167/live/09f5b500-cc9f-11f1-9a39-31b474234113.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo#1",
         "title": "Storm Austen to bring severe gales to UK as weather warning issued",
         "link": "https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Anak Krakatau, which lies about 150km from the capital Jakarta, began erupting late on Friday.",
         "published": "Mon, 07 Sep 2026 05:20:39 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/795f/live/1420e5d0-aa72-11f1-8fb5-49eca7c7c503.jpg"
-      },
-      {
-        "id": "1788689717741413",
-        "title": "McColgan wins London Big Half after five months out",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/c1kxv18jxw4o?at_medium=RSS&at_campaign=rss",
-        "description": "Britain's Eilish McColgan returns to competitive action after five months out with a fractured foot to win the London Big Half for a fourth time.",
-        "published": "Sun, 06 Sep 2026 12:00:10 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b909/live/13aa1620-a9d8-11f1-803f-7f2a9199ddc4.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2901,12 +2901,28 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21610087/?type=app&htype=0"
       },
       {
+        "id": "822d91c734d770b53e7021c207065ed3",
+        "title": "Scotland's energy minister calls for Jackdaw profits to fund renewables",
+        "link": "https://www.heraldscotland.com/news/26655583.scotlands-energy-minister-calls-jackdaw-profits-futures-fund/",
+        "description": "Stephen Gethins said cash should be saved in a fund for the future",
+        "published": "Wed, 21 Oct 2026 07:23:08 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/13430433/?type=app&htype=0"
+      },
+      {
         "id": "0a4a25d3afb91086930d1bb91ec049fa",
         "title": "Glasgow school attendance 'drops by 50%' after bomb threat email",
         "link": "https://www.glasgowtimes.co.uk/news/26655566.glasgow-school-attendance-drops-50--bomb-threat/",
         "description": "Schools across Glasgow saw their attendance rates fall by an estimated 50% as parents raise concerns over sending their children to the classroom",
         "published": "Wed, 21 Oct 2026 07:05:13 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19461088/?type=app&htype=0"
+      },
+      {
+        "id": "4e280df43041fdcb28444409f27ebd3a",
+        "title": "UK Government approves North Sea Jackdaw gas field drilling project",
+        "link": "https://www.heraldscotland.com/news/26655563.uk-government-approves-jackdaw-north-sea-gas-drilling/",
+        "description": "The Jackdaw decision puts Labour\u2019s North Sea approach under fresh scrutiny",
+        "published": "Wed, 21 Oct 2026 07:04:33 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/16715806/?type=app&htype=0"
       },
       {
         "id": "2e1f0ee50dffa7700b7fb4144065f275",
@@ -3659,14 +3675,6 @@
         "description": "Sumitomo Electric has opened the UK's first subsea high-voltage cable factory at Port of Nigg, with up to 250 direct jobs expected.",
         "published": "Mon, 19 Oct 2026 16:49:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21603567/?type=app&htype=0"
-      },
-      {
-        "id": "cc6efa5372d0d253a8b940ed5ed5a3a3",
-        "title": "Glasgow jewellery store to close on Boxing Day and give staff extra week's pay",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26650943.glasgow-jeweller-gives-staff-boxing-day-off-bonus-pay/",
-        "description": "A Glasgow Fort jewellery retailer has announced it will not open on Boxing Day.",
-        "published": "Mon, 19 Oct 2026 16:46:45 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18893557/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
