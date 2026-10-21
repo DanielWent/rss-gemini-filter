@@ -1,8 +1,5 @@
 {
   "strict": {
-    "1787395215756731": 1787395725.8450325,
-    "https://www.bbc.co.uk/news/articles/c1d1v63ngz1o?at_medium=RSS&at_campaign=rss": 1787395725.8450325,
-    "Council set to axe climate emergency declaration": 1787395725.8450325,
     "1787396712805016": 1787397552.112079,
     "https://www.bbc.co.uk/sport/formula1/articles/cn0n03rn711o?at_medium=RSS&at_campaign=rss": 1787397552.112079,
     "Russell wins Dutch GP sprint from pole position": 1787397552.112079,
@@ -14936,12 +14933,15 @@
     "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge": 1792578331.7025862,
     "1792578020157086": 1792578331.7025862,
     "https://www.bbc.co.uk/news/articles/cqd094zj2j4jo?at_medium=RSS&at_campaign=rss": 1792578331.7025862,
-    "Rapist who spiked baby's bottle with vodka before abuse jailed for 12 years": 1792578331.7025862
+    "Rapist who spiked baby's bottle with vodka before abuse jailed for 12 years": 1792578331.7025862,
+    "1792579515781260": 1792580137.15342,
+    "https://www.bbc.co.uk/news/articles/cwe8lz018pe1o?at_medium=RSS&at_campaign=rss": 1792580137.15342,
+    "MNEK cancels tour over lack of ticket sales and high production costs": 1792580137.15342,
+    "1792578020157088": 1792580137.15342,
+    "https://www.bbc.co.uk/news/articles/cm3wv9pdj33zo?at_medium=RSS&at_campaign=rss": 1792580137.15342,
+    "Storm Austen to batter Wales coast with 70mph winds": 1792580137.15342
   },
   "lenient": {
-    "https://www.bbc.co.uk/sport/formula1/articles/cn0n03rn711o#8": 1787395725.8450325,
-    "https://www.bbc.co.uk/sport/formula1/articles/cn0n03rn711o?at_medium=RSS&at_campaign=rss": 1787395725.8450325,
-    "Russell wins Dutch GP sprint from pole position": 1787395725.8450325,
     "https://www.bbc.co.uk/sport/cricket/articles/cly9yzrgp21o#8": 1787397552.112079,
     "https://www.bbc.co.uk/sport/cricket/articles/cly9yzrgp21o?at_medium=RSS&at_campaign=rss": 1787397552.112079,
     "'We're not Brendon and Ben' - Root's calmness praised": 1787397552.112079,
@@ -22815,7 +22815,13 @@
     "PSG's Kvaratskhelia to have surgery on ruptured ACL": 1792576536.24457,
     "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o#2": 1792578331.7025862,
     "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss": 1792578331.7025862,
-    "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge": 1792578331.7025862
+    "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge": 1792578331.7025862,
+    "https://www.bbc.co.uk/news/articles/cm0j0q9znzdlo#4": 1792580137.15342,
+    "https://www.bbc.co.uk/news/articles/cm0j0q9znzdlo?at_medium=RSS&at_campaign=rss": 1792580137.15342,
+    "Masked boy guilty of trying to murder schoolgirl": 1792580137.15342,
+    "https://www.bbc.co.uk/news/articles/c6wyd53yg9n1o#4": 1792580137.15342,
+    "https://www.bbc.co.uk/news/articles/c6wyd53yg9n1o?at_medium=RSS&at_campaign=rss": 1792580137.15342,
+    "Author Helen Fielding launches award to find the next Bridget Jones's Diary": 1792580137.15342
   },
   "google": {
     "https://blog.google/innovation-and-ai/products/gemini-app/enable-intelligent-dictation-macos/": 1787673617.79308,
@@ -23719,9 +23725,6 @@
     "Impaled by His Own Trekking Pole, David Cifaldi Hiked 10 Miles Off Montana's Highest Peak": 1792146336.1371937
   },
   "glasgow_times": {
-    "488f0fc7e50ac901231f8feb8c3e61c9": 1787395725.8450325,
-    "https://www.glasgowtimes.co.uk/news/scottish-news/26486877.1-4-million-illegal-cigarettes-seized-glasgow/": 1787395725.8450325,
-    "Millions of illegal cigarettes seized in Glasgow in five years": 1787395725.8450325,
     "52b52a2b56e9b5ea8188e65adae42600": 1787397552.112079,
     "https://www.glasgowtimes.co.uk/news/scottish-news/26486928.tributes-paid-death-glasgow-canal-cat-ziggy/": 1787397552.112079,
     "Tributes pour in for beloved 'Glasgow Canal Cat' Ziggy following his death": 1787397552.112079,
@@ -29492,7 +29495,16 @@
     "Baby Reindeer star Richard Gadd praised by sheriff after Glasgow attack trial": 1792578331.7025862,
     "b74b688a9a954a91e564186e7ba341aa": 1792578331.7025862,
     "https://www.glasgowtimes.co.uk/news/26656558.poppy-appeals-youngest-volunteer-helps-launch-2026-campaign/": 1792578331.7025862,
-    "Young Glasgow girl helps launch Scottish Poppy Appeal after six years of volunteering": 1792578331.7025862
+    "Young Glasgow girl helps launch Scottish Poppy Appeal after six years of volunteering": 1792578331.7025862,
+    "65c36f547cc062823f414a166c797945": 1792580137.15342,
+    "https://www.glasgowtimes.co.uk/entertainment/tv_radio/26656452.glasgow-volunteer-urges-bbc-save-diy-sos-programme/": 1792580137.15342,
+    "Glasgow DIY SOS volunteer urges BBC to save show as she says 'it changes lives'": 1792580137.15342,
+    "1fa4b04e2961af0e43455462c55b4b9b": 1792580137.15342,
+    "https://www.glasgowtimes.co.uk/news/26656494.new-night-bus-hub-marshalled-monitored-cctv/": 1792580137.15342,
+    "New Glasgow Night Bus Hubs to be marshalled and CCTV-monitored in safety drive": 1792580137.15342,
+    "cdb9a5cdf08773aba38e01c055f9b299": 1792580137.15342,
+    "https://www.glasgowtimes.co.uk/news/26656667.sandy-sistas-witches-meet-glasgow-families-weekend/": 1792580137.15342,
+    "Three mischievous witches set to cast a spell on Glasgow shopping centre": 1792580137.15342
   },
   "runabc_scotland": {
     "https://runabc.co.uk/parkrun-code-of-conduct-reminder-for-runners": 1787558214.5492067,
@@ -29549,11 +29561,6 @@
     "Inverness Half Marathon & 5K Opens Entries For March 2027": 1792567537.8699062
   },
   "newsletter_candidates": {
-    "488f0fc7e50ac901231f8feb8c3e61c9": 1787395725.8450325,
-    "https://www.glasgowtimes.co.uk/news/scottish-news/26486877.1-4-million-illegal-cigarettes-seized-glasgow/": 1787395725.8450325,
-    "Millions of illegal cigarettes seized in Glasgow in five years": 1787395725.8450325,
-    "https://www.glasgowlive.co.uk/news/tv/bbc-iplayer-western-tv-drama-34500655": 1787395725.8450325,
-    "BBC Western revenge drama 'obsessed' fans say 'haunts them for days'": 1787395725.8450325,
     "52b52a2b56e9b5ea8188e65adae42600": 1787397552.112079,
     "https://www.glasgowtimes.co.uk/news/scottish-news/26486928.tributes-paid-death-glasgow-canal-cat-ziggy/": 1787397552.112079,
     "Tributes pour in for beloved 'Glasgow Canal Cat' Ziggy following his death": 1787397552.112079,
@@ -47525,7 +47532,23 @@
     "Major EV rule change could save millions of drivers \u00a3300": 1792578331.7025862,
     "9300944": 1792578331.7025862,
     "https://www.glasgowworld.com/must-read/aviva-and-insuremo-launch-embedded-insurance-platform-across-europe-9300944": 1792578331.7025862,
-    "Aviva and insureMO launch embedded insurance platform across Europe": 1792578331.7025862
+    "Aviva and insureMO launch embedded insurance platform across Europe": 1792578331.7025862,
+    "65c36f547cc062823f414a166c797945": 1792580137.15342,
+    "https://www.glasgowtimes.co.uk/entertainment/tv_radio/26656452.glasgow-volunteer-urges-bbc-save-diy-sos-programme/": 1792580137.15342,
+    "Glasgow DIY SOS volunteer urges BBC to save show as she says 'it changes lives'": 1792580137.15342,
+    "1fa4b04e2961af0e43455462c55b4b9b": 1792580137.15342,
+    "https://www.glasgowtimes.co.uk/news/26656494.new-night-bus-hub-marshalled-monitored-cctv/": 1792580137.15342,
+    "New Glasgow Night Bus Hubs to be marshalled and CCTV-monitored in safety drive": 1792580137.15342,
+    "cdb9a5cdf08773aba38e01c055f9b299": 1792580137.15342,
+    "https://www.glasgowtimes.co.uk/news/26656667.sandy-sistas-witches-meet-glasgow-families-weekend/": 1792580137.15342,
+    "Three mischievous witches set to cast a spell on Glasgow shopping centre": 1792580137.15342,
+    "https://news.stv.tv/?p=534319": 1792580137.15342,
+    "https://news.stv.tv/west-central/american-neurosurgeon-camilo-molina-jailed-for-sexually-assaulting-woman-at-glasgow-nightclub": 1792580137.15342,
+    "American neurosurgeon Camilo Molina jailed for sexually assaulting woman at Glasgow nightclub": 1792580137.15342,
+    "https://www.glasgowlive.co.uk/whats-on/whats-on-news/love-island-star-ekin-su-34795391": 1792580137.15342,
+    "Love Island star Ekin-Su pictured enjoying night out in Glasgow": 1792580137.15342,
+    "https://www.glasgowlive.co.uk/news/glasgow-news/i-bullied-badly-moved-schools-34795010": 1792580137.15342,
+    "'I was bullied so badly I moved schools - now I'm Miss Teen Great Britain'": 1792580137.15342
   },
   "glasgow_live": {},
   "glasgow_world": {
@@ -50318,6 +50341,9 @@
     "Best tickets to see Liverpool in Champions League action on upcoming European nights at Anfield": 1792574737.0877154,
     "9300803": 1792576536.24457,
     "https://www.glasgowworld.com/whats-on/music/sharleen-spiteris-texas-announce-2027-glasgow-ovo-hydro-gig-heres-how-you-can-get-tickets-9300803": 1792576536.24457,
-    "Sharleen Spiteri's Texas announce 2027 Glasgow OVO Hydro gig - here's what to know about tickets & presales": 1792576536.24457
+    "Sharleen Spiteri's Texas announce 2027 Glasgow OVO Hydro gig - here's what to know about tickets & presales": 1792576536.24457,
+    "9300944": 1792580137.15342,
+    "https://www.glasgowworld.com/must-read/aviva-and-insuremo-launch-embedded-insurance-platform-across-europe-9300944": 1792580137.15342,
+    "Aviva and insureMO launch embedded insurance platform across Europe": 1792580137.15342
   }
 }
