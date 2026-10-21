@@ -2909,6 +2909,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "361e1e726f75020209939289e23fdb3c",
+        "title": "Fresh 'threatening message' sent to school amid investigation",
+        "link": "https://www.glasgowtimes.co.uk/news/26657187.fresh-threatening-message-sent-wishaw-school-police-contacted/",
+        "description": "A fresh threatening message was made to a school outside Glasgow following malicious threats across Scotland, with Police Scotland immediately contacted.",
+        "published": "Wed, 21 Oct 2026 12:54:03 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19729479/?type=app&htype=0"
+      },
+      {
+        "id": "5105699",
+        "title": "Buildings of Glasgow: 8 A-listed Glasgow buildings and their importance to the city",
+        "link": "https://www.glasgowworld.com/retro/8-a-listed-glasgow-buildings-important-9294275",
+        "description": "<p>A look at just some of Glasgow\u2019s A-Listed buildings.</p>",
+        "published": "Wed, 21 Oct 2026 11:53:53 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/10/07/6/54/529921062_1076402444665918_1989878568973161186_n.jpg?width=1200&auto=webp&trim=373%2C0%2C68%2C0"
+      },
+      {
         "id": "9dc061d5afb1b0a45b6f49bf6a55a3d1",
         "title": "Chicago Bears bring American football fever to Glasgow for first-ever UK tour",
         "link": "https://www.glasgowtimes.co.uk/news/26657156.chicago-bears-bring-nfl-fever-glasgow-last-weekend/",
@@ -3691,22 +3707,6 @@
         "description": "A former Scottish Government cabinet minister launched a scathing attack on the current administration over homelessness.",
         "published": "Tue, 20 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21263035/?type=app&htype=0"
-      },
-      {
-        "id": "180c5c3385408bc1871977102d8cb8f9",
-        "title": "Public helping to shape future of dementia research in groundbreaking new study",
-        "link": "https://www.glasgowtimes.co.uk/news/26648548.glasgow-study-using-public-voices-shape-dementia-research/",
-        "description": "University of Glasgow study sets Scotland\u2019s dementia and brain health research priorities, highlighting brain resilience and lived experiences of dementia care.",
-        "published": "Tue, 20 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19240345/?type=app&htype=0"
-      },
-      {
-        "id": "bd1c1613e1fe1f355dc389f8dcd4ca45",
-        "title": "Seven of UK's 10 worst areas for dying before 60 are in Scotland, figures reveal",
-        "link": "https://www.heraldscotland.com/news/26649643.scotland-seven-uks-10-worst-areas-deaths-60/",
-        "description": "Seven of the UK's 10 worst areas for deaths before 60 are in Scotland, with Glasgow recording the second-highest estimated rate, new analysis reveals.",
-        "published": "Tue, 20 Oct 2026 05:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/10438493/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
