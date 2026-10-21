@@ -5,6 +5,22 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/crz981p0klvgo#3",
+        "title": "Chip muffin? Bacon and egg soda? How Just Eat's AI struggled to depict Britain's regional dishes",
+        "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
+        "description": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.",
+        "published": "Wed, 21 Oct 2026 17:04:13 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f80b/live/ce035410-cd6d-11f1-bc2e-018d645d8d21.png"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cmreyvepnv0po#1",
+        "title": "Google staff resign in backlash over its AI contracts with military",
+        "link": "https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.",
+        "published": "Wed, 21 Oct 2026 15:41:25 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ad8/live/cd13e390-cbc3-11f1-aba9-2bb2608f11d9.jpg"
+      },
+      {
         "id": "1792584019244288",
         "title": "Irish weather warning ahead of Storm Austen",
         "link": "https://www.bbc.co.uk/news/articles/ck98z6e4l725o?at_medium=RSS&at_campaign=rss",
@@ -787,22 +803,6 @@
         "description": "The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.",
         "published": "Mon, 07 Sep 2026 12:22:07 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9408/live/98bd0c70-aaa8-11f1-9eba-7de947fa7cd1.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo#0",
-        "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
-        "link": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
-        "description": "Since Parton's death in late August, dozens of AI-generated songs, images and videos have appeared online.",
-        "published": "Mon, 07 Sep 2026 11:30:27 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/787a/live/cae3e7b0-aaa7-11f1-9eba-7de947fa7cd1.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo#3",
-        "title": "Nepal observes national day of mourning for victims of flash flood disaster",
-        "link": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
-        "description": "Flags flew at half mast on the 13th day since the disaster, the last day of the Hindu mourning period.",
-        "published": "Mon, 07 Sep 2026 09:31:26 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0043/live/461239b0-aa93-11f1-a291-b542ee92de7c.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -1136,6 +1136,14 @@
     "link": "https://the5krunner.com",
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
+      {
+        "id": "https://the5krunner.com/?p=138166",
+        "title": "Edge Explore 3 beats Edge 850 on screen and battery",
+        "link": "https://the5krunner.com/2026/10/21/garmin-edge-explore-3-vs-edge-850/",
+        "description": "<p><img alt=\"Edge Explore 3 beats Edge 850 on screen and battery\" class=\"attachment-large size-large\" height=\"598\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/garmin-edge-explore-3-on-bars-out-front-map-hero.png/w=1110,h=598\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>The Edge 850 costs \u00a3120 more than the Edge Explore 3 and has the smaller screen, less battery and older routing. What it does have is the analysis layer, multi-band positioning and Garmin Pay, which is the whole question for a rider choosing between them.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/21/garmin-edge-explore-3-vs-edge-850/\">Edge Explore 3 beats Edge 850 on screen and battery</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Wed, 21 Oct 2026 18:33:38 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/garmin-edge-explore-3-on-bars-out-front-map-hero.png/w=1110,h=598"
+      },
       {
         "id": "https://the5krunner.com/?p=138104",
         "title": "Garmin Edge Explore 3 vs Explore 2 \u2013 what \u00a3120 more buys",
@@ -1927,14 +1935,6 @@
         "description": "<p><img alt=\"Oura&#8217;s Sleep Stage Accuracy: Its Science Director Confirms Claims\" class=\"attachment-large size-large\" height=\"740\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/05/Oura-Ring-5-In-Nature.png/w=1110,h=740\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>A lawsuit challenges Oura's sleep-stage accuracy claims. Here's what the 79%, 88%, 95% and 53% figures actually mean, and how they compare across the wearable industry.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/08/23/oura-sleep-accuracy-lawsuit/\">Oura&#8217;s Sleep Stage Accuracy: Its Science Director Confirms Claims</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
         "published": "Sun, 23 Aug 2026 14:35:38 +0000",
         "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/05/Oura-Ring-5-In-Nature.png/w=1110,h=740"
-      },
-      {
-        "id": "https://the5krunner.com/?p=126911",
-        "title": "Garmin HUD MicroLED: RayNeo Proves the Tech Is Now Feasible",
-        "link": "https://the5krunner.com/2026/08/22/garmin-hud-microled-rayneo/",
-        "description": "<p><img alt=\"Garmin HUD MicroLED: RayNeo Proves the Tech Is Now Feasible\" class=\"attachment-large size-large\" height=\"624\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/08/Frame_2147242014_11.png/w=1110,h=624\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>RayNeo's iO Smart Glasses ship September 4 at $479, on a 33-gram frame with a microLED waveguide display. This site flagged the same tech for a Garmin HUD comeback in February. RayNeo just proved it works at consumer price and weight.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/08/22/garmin-hud-microled-rayneo/\">Garmin HUD MicroLED: RayNeo Proves the Tech Is Now Feasible</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
-        "published": "Sat, 22 Aug 2026 17:33:06 +0000",
-        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/08/Frame_2147242014_11.png/w=1110,h=624"
       }
     ],
     "icon_url": "https://the5krunner.com/favicon.ico",
