@@ -2909,6 +2909,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "e9f6fe99d2f00840f7c2896d8596c836",
+        "title": "Andy Burnham responds after MP says Royal Mail post held up for 'weeks' near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26657538.hamilton-mp-challenges-pm-weeks-long-royal-mail-delays/",
+        "description": "Hamilton MP Imogen Walker challenges the Prime Minister over weeks-long Royal Mail delays, as ministers demand action to meet Ofcom delivery targets in Scotland.",
+        "published": "Wed, 21 Oct 2026 13:58:59 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21612726/?type=app&htype=0"
+      },
+      {
         "id": "bb06947a53a9b97d9d02a828b9baa4fa",
         "title": "Glasgow man filmed \u2018offering to arrange killings\u2019 in far-right investigation",
         "link": "https://www.glasgowtimes.co.uk/news/26657453.al-jazeera-films-glasgow-man-alleged-contract-killing-offer/",
@@ -3699,14 +3707,6 @@
         "description": "Edinburgh has overtaken Glasgow as Scotland's biggest source of business-rates income, but a dramatic rise in East Lothian raises fresh questions",
         "published": "Tue, 20 Oct 2026 08:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21600448/?type=app&htype=0"
-      },
-      {
-        "id": "https://runabc.co.uk/william-wallace-running-festival-opens-entries-for-2027-after-stirling-success",
-        "title": "William Wallace Running Festival Opens Entries For 2027 After Stirling Success",
-        "link": "https://runabc.co.uk/william-wallace-running-festival-opens-entries-for-2027-after-stirling-success",
-        "description": "<p><img alt=\"William Wallace Running Festival 2027\" src=\"https://runabc.co.uk/images/2026/10/william-wallace-running-festival-2027.jpg\" /></p>\n\t\t\t\t<p>Following its second staging in Stirling on 10 October, the William Wallace Running Festival has already opened entries for 9 October 2027...</p>",
-        "published": "Tue, 20 Oct 2026 07:55:00 +0100",
-        "image_url": "https://runabc.co.uk/images/2026/10/william-wallace-running-festival-2027.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
