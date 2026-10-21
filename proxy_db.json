@@ -2893,12 +2893,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/one-uks-leading-circuses-named-34795173",
+        "title": "One of the UK\u2019s leading circuses named as first attraction for this year's Winter Wonderland at Glasgow Green",
+        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/one-uks-leading-circuses-named-34795173",
+        "description": "Circus Zyair will perform a \u2018Very Merry Circus\u2019 in a Winter Wonderland's centrally heated Big Top with plenty of family fun on offer.",
+        "published": "Wed, 21 Oct 2026 10:18:21 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34795062.ece/ALTERNATES/s98/0_Circus5.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/tv-sting-catches-glaswegian-right-34794936",
+        "title": "TV sting catches Glaswegian right-wing Loyalist offering to arrange killings for cash",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/tv-sting-catches-glaswegian-right-34794936",
+        "description": "Allan Nesbitt, from Glasgow, was filmed boasting he can \u201carrange \u00adwhatever you need done\u201d",
+        "published": "Wed, 21 Oct 2026 10:14:56 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34795264.ece/ALTERNATES/s98/0_Screenshot-2026-10-21-110151.png"
+      },
+      {
         "id": "275454aa8798f04df54378c00f6813c3",
         "title": "Bohemian Symphony Orchestra Prague to perform Vivaldi\u2019s Four Seasons in Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26656429.bohemian-symphony-orchestra-perform-vivaldi-glasgow/",
         "description": "Bohemian Symphony Orchestra Prague brings Vivaldi\u2019s The Four Seasons and classical favourites to Glasgow\u2019s Destiny Church.",
         "published": "Wed, 21 Oct 2026 10:52:07 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21611137/?type=app&htype=0"
+      },
+      {
+        "id": "a7ec319ea6481e90f966b54ffb9724e5",
+        "title": "Baby Reindeer star Richard Gadd praised by sheriff after Glasgow attack trial",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26656424.sheriff-praises-richard-gadd-lucas-bains-guilty-glasgow-attack/",
+        "description": "Baby Reindeer star Richard Gadd praised as an \u2018impressive witness\u2019 after Lucas Bains was convicted of attacking a woman in Glasgow on November 1, 2023.",
+        "published": "Wed, 21 Oct 2026 10:51:28 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21529301/?type=app&htype=0"
       },
       {
         "id": "c0a6aee68e6613999b2444dd2ab48d5e",
@@ -2917,20 +2941,20 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/07/24/08/v2-image-production-468e681612bfa07bf8cab4520c791f07Y29udGVudHNlYXJjaGFwaSwxNzM1NjYzODg5-2.37415305.jpg?width=1200&auto=webp&crop=3%3A2"
       },
       {
+        "id": "b647b882567cccac387a16ef8c2962c1",
+        "title": "Armando Iannucci, Irvine Welsh and more sign letter in support of Sally Rooney",
+        "link": "https://www.heraldscotland.com/news/26656340.armando-iannucci-irvine-welsh-sign-letter-support-sally-rooney/",
+        "description": "Irvine Welsh, Armando Iannucci and Young Fathers are among the signatories of an open letter to the government in support of Sally Rooney",
+        "published": "Wed, 21 Oct 2026 10:38:20 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21586547/?type=app&htype=0"
+      },
+      {
         "id": "07c415e5f7af2b1cbfac29738f726ae8",
         "title": "Top neurosurgeon jailed for predatory sex attack at Glasgow nightclub",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26656335.camilo-molina-jailed-sex-attack-glasgows-kong-nightclub/",
         "description": "US neurosurgeon Camilo Molina jailed for two years over sexual assault at Glasgow nightclub Kong on April 5, 2025; licence revoked, sex offenders register.",
         "published": "Wed, 21 Oct 2026 10:37:02 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/18861560/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-set-battered-heavy-rain-34794891",
-        "title": "Glasgow set to be battered by heavy rain as Storm Austen rumbles in",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-set-battered-heavy-rain-34794891",
-        "description": "The Met Office has issued a yellow weather warning for the city.",
-        "published": "Wed, 21 Oct 2026 09:35:48 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34794978.ece/ALTERNATES/s98/1_Screenshot-2026-10-21-102623.png"
       },
       {
         "id": "8319f183353b8b2fb30c4ac1df736422",
@@ -2997,6 +3021,14 @@
         "image_url": "https://www.heraldscotland.com/resources/images/20027429/?type=app&htype=0"
       },
       {
+        "id": "2e282ac1661eaf498f9fcb9fa4e4e885",
+        "title": "Specialist police officers for Halloween and Bonfire Night disorder",
+        "link": "https://www.heraldscotland.com/news/26655944.extra-police-deployed-halloween-bonfire-disorder/",
+        "description": "Specially trained police officers could be drafted in to support local police facing disorder and violence around Halloween and Bonfire Night.",
+        "published": "Wed, 21 Oct 2026 09:34:53 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18731670/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/specially-trained-cops-deployed-tackle-34794268",
         "title": "'Specially trained' cops deployed to tackle firework-related crime in Glasgow",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/specially-trained-cops-deployed-tackle-34794268",
@@ -3011,14 +3043,6 @@
         "description": "Mr Sayarer\u2019s talk was cancelled after the bookshop became aware of social media posts which violated the venue\u2019s 'safe spaces' policy.",
         "published": "Wed, 21 Oct 2026 09:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21608973/?type=app&htype=0"
-      },
-      {
-        "id": "62a9bf78aa30156ce77043b631063200",
-        "title": "Bonfire Night thugs using 'fireworks as weapons' will be brought to justice, say cops",
-        "link": "https://www.glasgowtimes.co.uk/news/26655702.bonfire-night-disorder-warning-issued-police-scotland/",
-        "description": "Reckless thugs who use \"fireworks as weapons\" on Bonfire Night will be \"brought to justice\" in a stark warning ahead of this years celebrations",
-        "published": "Wed, 21 Oct 2026 08:37:09 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20164719/?type=app&htype=0"
       },
       {
         "id": "9282933",
@@ -3043,14 +3067,6 @@
         "description": "A landmark Glasgow riverside building, which dates back to the early 1800s, has hit the market offering a space for potential development",
         "published": "Wed, 21 Oct 2026 07:44:41 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21610087/?type=app&htype=0"
-      },
-      {
-        "id": "822d91c734d770b53e7021c207065ed3",
-        "title": "Scotland's energy minister calls for Jackdaw profits to fund renewables",
-        "link": "https://www.heraldscotland.com/news/26655583.scotlands-energy-minister-calls-jackdaw-profits-futures-fund/",
-        "description": "Stephen Gethins said cash should be saved in a fund for the future",
-        "published": "Wed, 21 Oct 2026 07:23:08 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/13430433/?type=app&htype=0"
       },
       {
         "id": "4e280df43041fdcb28444409f27ebd3a",
@@ -3171,14 +3187,6 @@
         "description": "Glasgow City Council will propose P1 and S1 class caps for 2027/28, as pupil numbers, school capacity and catchment demand shape enrolment plans across the city.",
         "published": "Tue, 20 Oct 2026 17:58:05 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17617804/?type=app&htype=0"
-      },
-      {
-        "id": "6f185100c163d8cd20ebde4a59a0ea42",
-        "title": "UK Government set to approve controversial Jackdaw gas field off coast of Aberdeen",
-        "link": "https://www.heraldscotland.com/news/26655119.uk-government-announce-jackdaw-gas-field-approval/",
-        "description": "The UK Government is expected to approve the controversial Jackdaw gas field off the coast of Aberdeen on Wednesday.",
-        "published": "Tue, 20 Oct 2026 17:44:16 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21158885/?type=app&htype=0"
       },
       {
         "id": "9d09620ee0781efc280be6ecda51b049",
@@ -3483,14 +3491,6 @@
         "description": "Police are appealing for CCTV and dash-cam footage following the incident",
         "published": "Tue, 20 Oct 2026 10:41:11 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/01/235f6d6135a9d1cc759d20ab2678e146-1767794483-995x720.jpeg"
-      },
-      {
-        "id": "8e35d3a5192e179184b7423d5c23206d",
-        "title": "How Storm Austen will affect Glasgow as first named storm of autumn arrives",
-        "link": "https://www.glasgowtimes.co.uk/news/weather/26652718.storm-austen-first-named-storm-2026-27-season/",
-        "description": "Storm Austen has been named as the first named storm of the season.",
-        "published": "Tue, 20 Oct 2026 11:37:41 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20471854/?type=app&htype=0"
       },
       {
         "id": "bea5aae8154f60405d98cdf66a463991",
