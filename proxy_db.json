@@ -2066,6 +2066,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "8319f183353b8b2fb30c4ac1df736422",
+        "title": "Future of four East Dunbartonshire schools under review as residents consulted",
+        "link": "https://www.glasgowtimes.co.uk/news/26656263.parents-consulted-future-four-east-dunbartonshire-schools/",
+        "description": "Four East Dunbartonshire schools could be replaced, and residents are being asked for their views.",
+        "published": "Wed, 21 Oct 2026 10:26:36 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21610911/?type=app&htype=0"
+      },
+      {
         "id": "98df5b037f8edd8f18b8c4a1be24e5c9",
         "title": "What some parents were told today following school bomb hoax",
         "link": "https://www.glasgowtimes.co.uk/news/26654333.east-dunbartonshire-parents-updated-school-bomb-hoax/",
@@ -2885,12 +2893,76 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "275454aa8798f04df54378c00f6813c3",
+        "title": "Bohemian Symphony Orchestra Prague to perform Vivaldi\u2019s Four Seasons in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26656429.bohemian-symphony-orchestra-perform-vivaldi-glasgow/",
+        "description": "Bohemian Symphony Orchestra Prague brings Vivaldi\u2019s The Four Seasons and classical favourites to Glasgow\u2019s Destiny Church.",
+        "published": "Wed, 21 Oct 2026 10:52:07 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21611137/?type=app&htype=0"
+      },
+      {
+        "id": "c0a6aee68e6613999b2444dd2ab48d5e",
+        "title": "Storm Austen to batter Glasgow as yellow rain warning issued",
+        "link": "https://www.glasgowtimes.co.uk/news/weather/26656423.north-lanarkshire-yellow-weather-warning-issued-storm-austen/",
+        "description": "Storm Austen brings heavy rain and flooding risks to Scotland, with a Met Office yellow warning for Glasgow and possible travel disruption on October 23.",
+        "published": "Wed, 21 Oct 2026 10:51:27 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21610975/?type=app&htype=0"
+      },
+      {
+        "id": "9300803",
+        "title": "Sharleen Spiteri's Texas announce 2027 Glasgow OVO Hydro gig - here's what to know about tickets & presales",
+        "link": "https://www.glasgowworld.com/whats-on/music/sharleen-spiteris-texas-announce-2027-glasgow-ovo-hydro-gig-heres-how-you-can-get-tickets-9300803",
+        "description": "<p>Much-loved Glasgow band Texas announce massive homecoming gig and the re-release of hit album White On Blonde</p>",
+        "published": "Wed, 21 Oct 2026 09:45:40 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/07/24/08/v2-image-production-468e681612bfa07bf8cab4520c791f07Y29udGVudHNlYXJjaGFwaSwxNzM1NjYzODg5-2.37415305.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "07c415e5f7af2b1cbfac29738f726ae8",
+        "title": "Top neurosurgeon jailed for predatory sex attack at Glasgow nightclub",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26656335.camilo-molina-jailed-sex-attack-glasgows-kong-nightclub/",
+        "description": "US neurosurgeon Camilo Molina jailed for two years over sexual assault at Glasgow nightclub Kong on April 5, 2025; licence revoked, sex offenders register.",
+        "published": "Wed, 21 Oct 2026 10:37:02 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18861560/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-set-battered-heavy-rain-34794891",
+        "title": "Glasgow set to be battered by heavy rain as Storm Austen rumbles in",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-set-battered-heavy-rain-34794891",
+        "description": "The Met Office has issued a yellow weather warning for the city.",
+        "published": "Wed, 21 Oct 2026 09:35:48 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34794978.ece/ALTERNATES/s98/1_Screenshot-2026-10-21-102623.png"
+      },
+      {
+        "id": "8319f183353b8b2fb30c4ac1df736422",
+        "title": "Future of four East Dunbartonshire schools under review as residents consulted",
+        "link": "https://www.glasgowtimes.co.uk/news/26656263.parents-consulted-future-four-east-dunbartonshire-schools/",
+        "description": "Four East Dunbartonshire schools could be replaced, and residents are being asked for their views.",
+        "published": "Wed, 21 Oct 2026 10:26:36 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21610911/?type=app&htype=0"
+      },
+      {
+        "id": "178c336a2d197a1340c28a7522085237",
+        "title": "Herald Business LIVE: Today's top stories - October 21",
+        "link": "https://www.heraldscotland.com/news/26656196.herald-business-live-todays-top-stories---october-21/",
+        "description": "Welcome to The Herald's Business live blog, where we\u2019ll be bringing you the latest developments from across Scotland\u2019s business industry.",
+        "published": "Wed, 21 Oct 2026 10:16:16 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21394794/?type=app&htype=0"
+      },
+      {
         "id": "e69a4e0920c05dd239cd546b37087692",
         "title": "Clydesmill upgrades set to strengthen electricity network across central Scotland",
         "link": "https://www.glasgowtimes.co.uk/news/26631677.clydesmill-upgrades-set-strengthen-electricity-network/",
         "description": "As communities across Scotland shift towards cleaner power, the wires and substations running quietly in the background face their biggest transformation in decades.",
         "published": "Wed, 21 Oct 2026 10:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21573384/?type=app&htype=0"
+      },
+      {
+        "id": "896d1abbfd2bdc020541cbad2c98425a",
+        "title": "Catholic theologian from Edinburgh appointed by Pope Leo to advise Vatican",
+        "link": "https://www.heraldscotland.com/news/26655450.pope-leo-appoints-edinburgh-university-academic-vatican-commission/",
+        "description": "Dr Sara Parvis has been appointed to serve on the Holy See's International Theological Commission during its new five-year term.",
+        "published": "Wed, 21 Oct 2026 10:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21609870/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-school-attendance-plummets-after-34794317",
@@ -2915,6 +2987,14 @@
         "description": "Many Glasgow residents have been left without power following a network fault.",
         "published": "Wed, 21 Oct 2026 09:40:06 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19410391/?type=app&htype=0"
+      },
+      {
+        "id": "4f14e34f505c8fea9b8403efc1a8a772",
+        "title": "'This is not the end of it': BBC Scotland boss warns more cuts are coming",
+        "link": "https://www.heraldscotland.com/news/26655963.bbc-scotland-boss-hayley-valentine-warns-cuts-coming/",
+        "description": "BBC Scotland director Hayley Valentine has warned the closure of its TV channel will not be a 'silver bullet' which will avoid the need for further cuts.",
+        "published": "Wed, 21 Oct 2026 09:37:58 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20027429/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/specially-trained-cops-deployed-tackle-34794268",
@@ -3611,78 +3691,6 @@
         "description": "Reform UK\u2019s communications chief in Scotland says he wears Meta smart glasses at Holyrood as Lib Dems call for a ban over privacy and security fears.",
         "published": "Tue, 20 Oct 2026 05:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21603574/?type=app&htype=0"
-      },
-      {
-        "id": "5245440",
-        "title": "Glasgow's Oldest Restaurant: How Glasgow's food legacy has survived through it's 12 oldest restaurants",
-        "link": "https://www.glasgowworld.com/lifestyle/food-and-drink/glasgow-oldest-restaurants-culinary-history-9293502",
-        "description": "<p>Discover the rich culinary heritage of Glasgow by exploring its 12 oldest restaurants.</p>",
-        "published": "Tue, 20 Oct 2026 03:45:00 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/08/16/2023-11-Ubiquitous-Chip-1.10_lower-res-scaled.jpg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "597fb61f660c28779be704d85f3697c5",
-        "title": "Drivers to get new rights to challenge \u2018rip-off\u2019 private parking charges",
-        "link": "https://www.heraldscotland.com/news/26651390.drivers-get-new-rights-challenge-unfair-parking-fines/",
-        "description": "Drivers are set to get new rights to challenge unfair private parking charges, including a guaranteed five minutes to decide whether to park, the Government has announced.",
-        "published": "Mon, 19 Oct 2026 22:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/13883714/?type=app&htype=0"
-      },
-      {
-        "id": "0115bd771ca80b4e80abec44b58fa71e",
-        "title": "Inverness MSP calls for standalone city council amid Scottish local government reform",
-        "link": "https://www.heraldscotland.com/news/26651400.msp-urges-standalone-inverness-council-reform-plans/",
-        "description": "Emma Roddick urges Scottish Government to create a standalone Inverness City Council as local government reform sparks debate over Highland Council\u2019s future.",
-        "published": "Mon, 19 Oct 2026 20:48:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21604318/?type=app&htype=0"
-      },
-      {
-        "id": "9296321",
-        "title": "Celtic 'contact' over rising star manager emerges but boss approach came 'far too late' amid alternate switch",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-contact-rising-star-manager-emerges-boss-approach-far-too-late-9296321",
-        "description": "<p>Celtic opted to go with Martin O\u2019Neill in the summer but reportedly asked about another gaffer.</p>",
-        "published": "Mon, 19 Oct 2026 17:00:57 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/19/13/42/GettyImages-2261924730.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "3a30303296573e85e2d3c13a904992ae",
-        "title": "Glasgow law student wins scholarship offering Pinsent Masons placements",
-        "link": "https://www.heraldscotland.com/news/26650990.glasgow-student-wins-pinsent-masons-law-scholarship/",
-        "description": "Strathclyde law student Arisha Asghar has won the 2026 Kirk Murdoch Scholarship, offering financial support, mentoring and placements at Pinsent Masons.",
-        "published": "Mon, 19 Oct 2026 17:08:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21603716/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-trans-teens-say-theyve-34786884",
-        "title": "Glasgow trans teens say they've been 'spat at' and had \u2018stones thrown at them\u2019 in city centre",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-trans-teens-say-theyve-34786884",
-        "description": "Trans teenagers have opened up about the abuse they have faced in Glasgow city centre for presenting differently from the &quot;norm&quot;.",
-        "published": "Mon, 19 Oct 2026 16:04:57 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34737700.ece/ALTERNATES/s98/2_JS420614556.jpg"
-      },
-      {
-        "id": "e1a2c9c0a8074284cb192ed55e7fb10b",
-        "title": "Andy Burnham is looking for a Scottish adviser \u2014 they'll have their work cut out",
-        "link": "https://www.heraldscotland.com/news/26651047.andy-burnham-looking-scottish-special-advisor/",
-        "description": "Last week, Andy Burnham made three devolution offers to Scotland at Motherwell but his pitch for contained little detail on funding.",
-        "published": "Mon, 19 Oct 2026 17:02:54 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21603742/?type=app&htype=0"
-      },
-      {
-        "id": "43f86960e7ce0fe8eed161af27fbf0f3",
-        "title": "Beeks sees further growth as AI products gain traction with financial firms",
-        "link": "https://www.heraldscotland.com/news/26648943.beeks-financial-targets-10m-analytics-revenue-business/",
-        "description": "The Renfrew-based technology group reported record revenue of \u00a340m and said demand for its analytics and AI products is exceeding expectations",
-        "published": "Mon, 19 Oct 2026 17:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21601481/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/calls-faded-glasgow-road-markings-34787441",
-        "title": "Calls for faded Glasgow road markings to be upgraded amid safety fears",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/calls-faded-glasgow-road-markings-34787441",
-        "description": "Glasgow City Council is struggling to find contractors for 'wee jobs' on the city's roads, a councillor said.",
-        "published": "Mon, 19 Oct 2026 15:54:15 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34787444.ece/ALTERNATES/s98/0_IMG-20261015-WA0004.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
