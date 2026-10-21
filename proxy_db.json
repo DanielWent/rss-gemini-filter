@@ -2941,6 +2941,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "4860f188e97e8b2fce7dabd8b26fec50",
+        "title": "Tartan Noir: New online course examines Scotland\u2019s crime-writing tradition",
+        "link": "https://www.heraldscotland.com/news/26658989.new-online-course-examines-scotlands-crime-writing-tradition/",
+        "description": "Murder, mystery and some of Scotland\u2019s best-known crime writers take centre stage in a new online course from the University of Glasgow",
+        "published": "Wed, 21 Oct 2026 18:39:21 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/12225689/?type=app&htype=0"
+      },
+      {
+        "id": "84aebce018cfe36af0c1276c03a0c667",
+        "title": "University staff balloted on strike action over job cuts and union rep dismissal",
+        "link": "https://www.heraldscotland.com/news/26658967.university-aberdeen-staff-balloted-strike-action/",
+        "description": "Union members at a university are being balloted on industrial action over job cuts and for \u201cvictimising\u201d a union rep staffer who was dismissed.",
+        "published": "Wed, 21 Oct 2026 18:19:57 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/17487495/?type=app&htype=0"
+      },
+      {
         "id": "2d86e34aaf4921227c373bce6826a25a",
         "title": "Education chief speaks out as Glasgow school attendances drop after 'hoax' email",
         "link": "https://www.glasgowtimes.co.uk/news/26658932.education-chief-speaks-hoax-targets-glasgow-schools/",
@@ -3723,22 +3739,6 @@
         "description": "The defection upsets the math at Holyrood - with Labour now second biggest party",
         "published": "Tue, 20 Oct 2026 12:41:44 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20629931/?type=app&htype=0"
-      },
-      {
-        "id": "b4b67437975860d4c33760fd7104fb28",
-        "title": "Community group explores buyout of capital's A-listed Reid Memorial Church",
-        "link": "https://www.heraldscotland.com/news/26653046.community-group-explores-buyout-a-listed-edinburgh-church/",
-        "description": "The former Reid Memorial Church in Edinburgh could be purchased from the Church of Scotland in a community buyout.",
-        "published": "Tue, 20 Oct 2026 12:34:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21606492/?type=app&htype=0"
-      },
-      {
-        "id": "8089138bc500fe25ba6561e6d8774ff3",
-        "title": "Glasgow bin hub roll-out set to resume after 'pause for evaluation'",
-        "link": "https://www.heraldscotland.com/news/26653057.glasgow-bin-hub-rollout-expected-resume-april/",
-        "description": "More bin hubs, designed to improve recycling rates across Glasgow, are expected to be installed from next April, a new report has suggested.",
-        "published": "Tue, 20 Oct 2026 12:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19651276/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
