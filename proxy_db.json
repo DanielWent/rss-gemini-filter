@@ -2941,6 +2941,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "2d86e34aaf4921227c373bce6826a25a",
+        "title": "Education chief speaks out as Glasgow school attendances drop after 'hoax' email",
+        "link": "https://www.glasgowtimes.co.uk/news/26658932.education-chief-speaks-hoax-targets-glasgow-schools/",
+        "description": "Glasgow school attendance fell to 76.4% on October 20 after hoax explosive device emails were sent to 148 schools, Police Scotland confirms.",
+        "published": "Wed, 21 Oct 2026 17:55:25 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20686211/?type=app&htype=0"
+      },
+      {
+        "id": "6ec5483e173d290b50a5fa033cc767b2",
+        "title": "Glasgow launches new night bus scheme to boost hospitality industry",
+        "link": "https://www.heraldscotland.com/news/26658898.glasgow-launches-new-night-bus-scheme---stops-times/",
+        "description": "A new bus scheme in Glasgow city centre aims to help the city's night life",
+        "published": "Wed, 21 Oct 2026 17:39:17 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21611449/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=534395",
         "title": "Cycling charity forced to move out of Finnieston hub after 14 years due to redevelopment",
         "link": "https://news.stv.tv/west-central/cycling-charity-forced-to-move-out-of-finnieston-hub-after-14-years-due-to-redevelopment",
@@ -3083,14 +3099,6 @@
         "description": "A planning enforcement investigation has been opened into a vape shop located next to a historic Glasgow tearoom.",
         "published": "Wed, 21 Oct 2026 14:55:23 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21488102/?type=app&htype=0"
-      },
-      {
-        "id": "e75d6d1277018e5688d65d88ca426e75",
-        "title": "'Great news for Aberdeen': Donald Trump applauds approval of Jackdaw gas field",
-        "link": "https://www.heraldscotland.com/news/26657875.donald-trump-says-jackdaw-gas-project-great-news-aberdeen/",
-        "description": "Allowing new gas drilling in the North Sea is \u201cgreat news for the wealth and prosperity of the United Kingdom, and the wonderful region of Aberdeen\u201d, Donald Trump has said.",
-        "published": "Wed, 21 Oct 2026 14:51:54 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21613237/?type=app&htype=0"
       },
       {
         "id": "9af031ca035d5ab0852d8685e8ea10ee",
@@ -3323,14 +3331,6 @@
         "description": "Dr Sara Parvis has been appointed to serve on the Holy See's International Theological Commission during its new five-year term.",
         "published": "Wed, 21 Oct 2026 10:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21609870/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-school-attendance-plummets-after-34794317",
-        "title": "Glasgow school attendance plummets after 'bomb hoax' as parents refuse to send children back",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-school-attendance-plummets-after-34794317",
-        "description": "Glasgow City Council said that some of their schools had 50% fewer pupils than normal",
-        "published": "Wed, 21 Oct 2026 08:52:24 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34794641.ece/ALTERNATES/s98/0_gettyimages-2247132310-170667a.jpg"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/cm86z7ldveneo#0",
