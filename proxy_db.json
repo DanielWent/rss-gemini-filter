@@ -2877,6 +2877,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "2851a4af2781e9472a1aa6ae5bd049c5",
+        "title": "'No appetite to remove her': MSP to remain on justice committee after Reform exit",
+        "link": "https://www.heraldscotland.com/news/26654639.msp-remain-justice-committee-reform-exit/",
+        "description": "MSP Amanda Bland who quit Reform to sit as an independent is set to remain a member of Holyrood's justice committee, The Herald can reveal.",
+        "published": "Wed, 21 Oct 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21608959/?type=app&htype=0"
+      },
+      {
+        "id": "9de617aa30badef10ce50a574a595c60",
+        "title": "Scotland cannot track surrogate pregnancies or outcomes for mothers and babies",
+        "link": "https://www.heraldscotland.com/news/26653631.scotland-cannot-track-surrogacy-national-maternity-data/",
+        "description": "Public Health Scotland cannot identify surrogate pregnancies in national maternity data, leaving officials unable to track numbers or analyse outcomes for mothers and babies.",
+        "published": "Wed, 21 Oct 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/9469149/?type=app&htype=0"
+      },
+      {
         "id": "04e63a4d0ffb33c1e2a0cf512a445019",
         "title": "Rare green jobs boost offers fresh evidence in North Sea transition debate",
         "link": "https://www.heraldscotland.com/news/26653638.berwick-bank-offshore-wind-project-backs-400-scottish-jobs/",
@@ -3659,14 +3675,6 @@
         "description": "Edinburgh Castle will host the Tour de France opening ceremony on June 30, 2027, ahead of the race's Grand D\u00e9part in Scotland.",
         "published": "Mon, 19 Oct 2026 15:28:59 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21334087/?type=app&htype=0"
-      },
-      {
-        "id": "583b8afef59a90dd21d384b0cbc6cb5f",
-        "title": "Glasgow man caught with \u00a3131k cannabis haul in suitcases at airport",
-        "link": "https://www.glasgowtimes.co.uk/news/26650332.glasgow-man-caught-131k-cannabis-haul-suitcases-airport/",
-        "description": "A Glasgow man is facing a possible jail term after Border Force officers discovered \u00a3131,100 worth of cannabis in his luggage at Glasgow Airport.",
-        "published": "Mon, 19 Oct 2026 15:20:59 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17684424/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
