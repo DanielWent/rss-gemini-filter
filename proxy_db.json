@@ -2949,6 +2949,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cw4g17plp75eo#0",
+        "title": "'We dress women for court to empower them on their darkest days'",
+        "link": "https://www.bbc.co.uk/news/articles/cw4g17plp75eo?at_medium=RSS&at_campaign=rss",
+        "description": "A new campaign will help women feel confident to give evidence in sex assault trials.",
+        "published": "Thu, 22 Oct 2026 22:04:59 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd48/live/7a91ba70-cd4e-11f1-8177-0f8bd59b54c4.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o#0",
+        "title": "Heavy rain warning as Storm Austen sweeps across Scotland",
+        "link": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
+        "description": "The Met Office has issued a yellow warning for rain across most of central and eastern Scotland on Friday.",
+        "published": "Thu, 22 Oct 2026 21:59:43 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222f/live/188b1970-ce2f-11f1-9f18-490cec60aa0f.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c6073dk35rlzo#0",
+        "title": "Why does Paisley love the spooks and scares of Halloween so much?",
+        "link": "https://www.bbc.co.uk/news/articles/c6073dk35rlzo?at_medium=RSS&at_campaign=rss",
+        "description": "A two day Halloween festival will take place this weekend in the town.",
+        "published": "Thu, 22 Oct 2026 21:56:24 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d46/live/bc1b4a90-c95e-11f1-9081-f19b8af087ed.jpg"
+      },
+      {
         "id": "96eb989841ec649446c279a91d84eda3",
         "title": "Detective issues stark warning after supporter who threw bottle at Ibrox gets jailed",
         "link": "https://www.glasgowtimes.co.uk/news/26662736.detecitve-issues-warning-rangers-fan-gets-jailed/",
@@ -3083,14 +3107,6 @@
         "description": "Ranking the UK's best and lowest-rated soft play centres from Google reviews, one wee spot in Glasgow has come out on top when it comes to where to go.",
         "published": "Thu, 22 Oct 2026 15:05:50 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34803244.ece/ALTERNATES/s98/1_Screenshot-2026-10-22-at-33152PM.png"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/rangers-fan-jailed-encouraging-glasgow-34803187",
-        "title": "Rangers fan jailed for encouraging Glasgow Old Firm mass pitch invasion",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/rangers-fan-jailed-encouraging-glasgow-34803187",
-        "description": "Jordan Hadden also picked up and threw a bottle at Celtic fans, which narrowly avoided a police officer.",
-        "published": "Thu, 22 Oct 2026 14:59:57 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34803270.ece/ALTERNATES/s98/0_image-2026-10-22T153453660.jpg"
       },
       {
         "id": "474d597e156e14dd57a42a77bd81c8a1",
