@@ -2949,12 +2949,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/wee-glasgow-soft-play-designed-34802389",
+        "title": "Wee Glasgow soft play designed to be 'calm and inclusive' rated the 'best in UK'",
+        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/wee-glasgow-soft-play-designed-34802389",
+        "description": "Ranking the UK's best and lowest-rated soft play centres from Google reviews, one wee spot in Glasgow has come out on top when it comes to where to go.",
+        "published": "Thu, 22 Oct 2026 15:05:50 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34803244.ece/ALTERNATES/s98/1_Screenshot-2026-10-22-at-33152PM.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/rangers-fan-jailed-encouraging-glasgow-34803187",
+        "title": "Rangers fan jailed for encouraging Glasgow Old Firm mass pitch invasion",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/rangers-fan-jailed-encouraging-glasgow-34803187",
+        "description": "Jordan Hadden also picked up and threw a bottle at Celtic fans, which narrowly avoided a police officer.",
+        "published": "Thu, 22 Oct 2026 14:59:57 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34803270.ece/ALTERNATES/s98/0_image-2026-10-22T153453660.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=534568",
+        "title": "Former Scotland rugby player to stand trial accused of raping and abusing woman over 14 years",
+        "link": "https://news.stv.tv/west-central/former-scotland-rugby-player-to-stand-trial-accused-of-raping-and-abusing-woman-over-14-years",
+        "description": "Tim Visser is alleged to have subjected the woman to rape attacks and controlling behaviour over a 14-year period",
+        "published": "Thu, 22 Oct 2026 14:36:03 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2022/09/9e3d53942e2788fcd15898747689d1f7-1662474316.jpg"
+      },
+      {
         "id": "c55f4b1be80a72f1138bc2aab47585c2",
         "title": "Glasgow dental clinic with 5,000 patients sold to expanding English company",
         "link": "https://www.glasgowtimes.co.uk/news/26661480.glasgow-dental-clinic-sold-expanding-english-company/",
         "description": "Glasgow\u2019s 1 Smile Dental Clinic, serving 5,000 patients, has been sold to Smile Rooms, marking its first-ever Scottish practice in a Christie &amp; Co deal.",
         "published": "Thu, 22 Oct 2026 14:48:34 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20366546/?type=app&htype=0"
+      },
+      {
+        "id": "58683239ef01700c0e5165a9d6ea6674",
+        "title": "Stuart Cosgrove: BBC Scotland channel was an opportunity 'needlessly squandered'",
+        "link": "https://www.heraldscotland.com/news/26661454.bbc-scotland-presenter-says-tv-channel-became-absolute-basket-case/",
+        "description": "BBC Scotland presenter Stuart Cosgrove has suggested its axed TV channel was 'a fantastic opportunity for Scotland that has been needlessly squandered'.",
+        "published": "Thu, 22 Oct 2026 14:44:57 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/10660333/?type=app&htype=0"
       },
       {
         "id": "c650bf3507d33144e250291bfb0ddac7",
@@ -3045,28 +3077,20 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34794369.ece/ALTERNATES/s98/4_Fireworks.jpg"
       },
       {
-        "id": "https://news.stv.tv/?p=534558",
-        "title": "Where to see the Tour de France in Scotland as full route announced",
-        "link": "https://news.stv.tv/west-central/where-to-see-the-tour-de-france-in-scotland-as-full-route-announced",
-        "description": "Cycling fans will be able to catch a glimpse of the race after it sets off from Edinburgh in July next year",
-        "published": "Thu, 22 Oct 2026 12:28:11 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/6bc21032dbd3a50a7cf4f11305359f26-1792672227-1120x720.jpeg"
-      },
-      {
-        "id": "4fbcbd2c8b8d8e4b008d17ee06f0e179",
-        "title": "Halloween and Bonfire Night dispersal zone to be implemented in Glasgow area",
-        "link": "https://www.heraldscotland.com/news/26661008.police-implement-pollokshields-dispersal-zone-glasgow/",
-        "description": "Police are to implement a dispersal zone within the Pollokshields area of Glasgow over the Halloween and Bonfire Night.",
-        "published": "Thu, 22 Oct 2026 13:24:38 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20828716/?type=app&htype=0"
-      },
-      {
         "id": "a4d1e4082bb7a77216856352c2087b46",
         "title": "Major Glasgow rail line closures planned over Christmas and New Year",
         "link": "https://www.glasgowtimes.co.uk/news/26660932.glasgow-train-lines-close-christmas-new-year/",
         "description": "Engineering works are set to close railway lines across Glasgow as passengers are being urged to check their line is open before travelling",
         "published": "Thu, 22 Oct 2026 13:08:38 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21618256/?type=app&htype=0"
+      },
+      {
+        "id": "acb24669293cbaff8d9e02b4b03aa133",
+        "title": "Glasgow drivers could see parking charges slashed to \u00a320 under new rules",
+        "link": "https://www.glasgowtimes.co.uk/news/26660899.proposed-private-parking-code-protect-glasgow-motorists/",
+        "description": "Glasgow motorists could gain protection from private parking charges under a Government code, with grace periods, fairer appeals and a proposed \u00a3100 cap.",
+        "published": "Thu, 22 Oct 2026 13:02:03 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21265340/?type=app&htype=0"
       },
       {
         "id": "d0fa0d203fae435c5736a91085f8a17e",
@@ -3125,6 +3149,14 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21617273/?type=app&htype=0"
       },
       {
+        "id": "59951af506934bc5248c763c84fa962e",
+        "title": "Historic Glasgow ballet school building set for major transformation",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26660504.former-glasgow-ballet-school-become-student-accommodation/",
+        "description": "A former ballet school in Glasgow is set to be converted into student accommodation.",
+        "published": "Thu, 22 Oct 2026 11:54:59 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21220248/?type=app&htype=0"
+      },
+      {
         "id": "9303396",
         "title": "Glasgow food: Chef swaps late nights for shelves of carefully chosen food at Glasgow deli Kramer's",
         "link": "https://www.glasgowworld.com/lifestyle/food-and-drink/chef-swaps-late-nights-for-shelves-of-carefully-chosen-food-at-glasgow-deli-kramers-9303445",
@@ -3163,6 +3195,14 @@
         "description": "Supporters said the championship course could create millions of pounds in economic activity, but ministers ruled this did not outweigh the environmental harm",
         "published": "Thu, 22 Oct 2026 11:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20940804/?type=app&htype=0"
+      },
+      {
+        "id": "88c0df86dd48b7ae73e565d96f8ef7a9",
+        "title": "Concern over derelict Glasgow buildings after Argyle Street fire",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26660042.fire-breaks-derelict-tj-hughes-store-glasgow/",
+        "description": "A fire has reignited concerns about Glasgow\u2019s empty buildings.",
+        "published": "Thu, 22 Oct 2026 10:50:16 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19679258/?type=app&htype=0"
       },
       {
         "id": "1c41b14da470b92d10bc3814ddb520a0",
