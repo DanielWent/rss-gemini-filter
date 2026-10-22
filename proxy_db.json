@@ -2949,12 +2949,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "753db00b319ac43efbfbe38987fe169b",
+        "title": "Campaigners call for Glasgow School of Art to give up ownership of 'The Mack'",
+        "link": "https://www.heraldscotland.com/news/26662491.glasgow-school-art-urged-give-ownership-the-mack/",
+        "description": "Campaigners want Glasgow School of Art to relinquish ownership of the Mackintosh Building to help reconstruction efforts.",
+        "published": "Thu, 22 Oct 2026 17:35:57 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21220530/?type=app&htype=0"
+      },
+      {
         "id": "4b49831307917b01e650efc723b8531c",
         "title": "Glasgow city centre road reduced to one lane for two weeks as delays expected",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26662465.glasgow-road-reduced-one-lane-gas-works/",
         "description": "Glasgow\u2019s St Vincent Street will be reduced to one lane for Smart Utilities and SGN gas works from October 26 to November 8, with delays expected.",
         "published": "Thu, 22 Oct 2026 17:29:33 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/13951087/?type=app&htype=105"
+      },
+      {
+        "id": "745bc538c53c8218fb163026396b958f",
+        "title": "Sorry, but has Kelvingrove become Britain\u2019s most apologetic museum?",
+        "link": "https://www.heraldscotland.com/politics/holyrood/26662417.kelvingrove-become-britains-apologetic-museum/",
+        "description": "Kelvingrove Museum\u2019s slavery history displays and removal of Egyptian human remains fuel debate over ethics, apologies and \u2018woke\u2019 culture wars in Glasgow.",
+        "published": "Thu, 22 Oct 2026 17:16:46 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20654176/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=534667",
