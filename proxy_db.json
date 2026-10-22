@@ -2925,6 +2925,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9303396",
+        "title": "Glasgow food: Chef swaps late nights for shelves of carefully chosen food at Glasgow deli Kramer's",
+        "link": "https://www.glasgowworld.com/lifestyle/food-and-drink/chef-swaps-late-nights-for-shelves-of-carefully-chosen-food-at-glasgow-deli-kramers-9303445",
+        "description": "<p>A Glasgow deli is expanding into meal preparation, subscriptions and pop-up events as its owners seek to establish Kramer\u2019s as a wider food brand</p>",
+        "published": "Thu, 22 Oct 2026 10:43:12 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/22/10/08/DSC06390-3.jpeg?width=1200&auto=webp&trim=1389%2C0%2C1389%2C0"
+      },
+      {
+        "id": "0aaa8a36234ee36b1e48a8b906319fd5",
+        "title": "Major Glasgow road to close overnight with changes planned for Celtic games",
+        "link": "https://www.glasgowtimes.co.uk/sport/26660331.glasgow-duke-street-closure-planned-changes-celtic-games/",
+        "description": "Overnight closures will affect Duke Street in Glasgow from October 28 as Scottish Power upgrades its cable network.",
+        "published": "Thu, 22 Oct 2026 11:31:25 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19036953/?type=app&htype=61"
+      },
+      {
+        "id": "2eb52c9c2946be7f86bc42eb17ff8fc9",
+        "title": "Glasgow braced for Storm Boelo as second weather warning issued",
+        "link": "https://www.glasgowtimes.co.uk/news/weather/26660298.glasgow-yellow-weather-warning-issued-storm-boelo/",
+        "description": "Glasgow faces strong winds and heavy rain as Storm Boelo hits Scotland, with a Met Office yellow warning from October 24 to October 25 and travel disruption.",
+        "published": "Thu, 22 Oct 2026 11:24:53 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20471854/?type=app&htype=0"
+      },
+      {
         "id": "8d2910626aebd167a5abcfc7f103c56a",
         "title": "Fresh changes revealed for major 69-home development on historic Glasgow site",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26660178.changes-proposed-69-home-glasgow-development-site/",
