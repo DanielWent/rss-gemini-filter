@@ -2949,6 +2949,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "012203a47391a12bbc5fe387a2e26793",
+        "title": "Glasgow chippy franchise visited by celebrities opens first ever branch in England",
+        "link": "https://www.glasgowtimes.co.uk/news/26661243.glasgow-chippy-blue-lagoon-opens-first-ever-shop-england/",
+        "description": "Glasgow-born Blue Lagoon fish and chip chain opens its first English branch on Grainger Street, Newcastle, near Newcastle United\u2019s St James\u2019 Park.",
+        "published": "Thu, 22 Oct 2026 14:09:33 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21618349/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo#0",
+        "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+        "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+        "description": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+        "published": "Thu, 22 Oct 2026 12:54:36 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d20/live/5fb48ff0-622b-11f0-8e4a-613b923287ab.jpg"
+      },
+      {
         "id": "7c33f47159c0cc2e508f6ce506a120cb",
         "title": "Glasgow estate agents could face action over \u2018For Sale\u2019 signs left behind",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26661151.calls-action-for-sale-signs-left-across-glasgow/",
