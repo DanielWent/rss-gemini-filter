@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1792695422180473",
+        "title": "Aga banned for fake prescription from family member",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/ckm23eqy595zo?at_medium=RSS&at_campaign=rss",
+        "description": "Ruti Aga tried to explain a positive test for a banned substance with a fake prescription from a non-existent clinic.",
+        "published": "Thu, 22 Oct 2026 20:25:41 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de1e/live/ebe84ff0-ce42-11f1-a86f-f78305ec9987.jpg"
+      },
+      {
         "id": "1792673713219822",
         "title": "Weather warning in place ahead of Storm Boelo",
         "link": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Women have beaten men in some high-profile endurance events in recent months - are they better suited to these challenges?",
         "published": "Wed, 09 Sep 2026 06:27:02 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9881/live/864cfb20-ab63-11f1-9647-01c7ddc5a2b1.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c20917w25n4o#0",
-        "title": "The trail of clues that our planet might be heating faster than we realised",
-        "link": "https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss",
-        "description": "A curious online row over this summer's heatwaves points to a wider - and worrying - shift in climate science.",
-        "published": "Tue, 08 Sep 2026 23:11:52 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba25/live/699e3f00-ab83-11f1-a291-b542ee92de7c.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2948,6 +2948,14 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "119b439005263aa4a25c634a59ef2ff3",
+        "title": "Train speed restrictions in place as Scotland braces for stormy weekend",
+        "link": "https://www.heraldscotland.com/news/26662681.train-speed-restrictions-scotland-braces-stormy-weekend/",
+        "description": "Network Rail Scotland said that trains on Friday will be slowed down to keep people safe in the areas expected to see the heaviest rain.",
+        "published": "Thu, 22 Oct 2026 19:47:59 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21620446/?type=app&htype=0"
+      },
       {
         "id": "ab85beb442cc973d969bddd7db9de9e0",
         "title": "Celta Vigo fans reveal why their game against Celtic means so much",
