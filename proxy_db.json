@@ -2941,6 +2941,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "c8aa23339a527bdd32bd279cd737a441",
+        "title": "Swinney told to end \u2018failed\u2019 bus privatisation as council costs soar to \u00a365m",
+        "link": "https://www.heraldscotland.com/news/26641767.campaigners-demand-public-ownership-buses-scotland/",
+        "description": "Bus campaigners have branded Scotland\u2019s bus system a \u201cfailed experiment\u201d and demanded public ownership as council spending on buses and tendered services rose by \u00a39.5million since before the pandemic.",
+        "published": "Thu, 22 Oct 2026 06:32:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21125756/?type=app&htype=0"
+      },
+      {
+        "id": "a920938ed5ebdb72993cea32a93bcbf0",
+        "title": "TV quota \u2018sham\u2019 row as London firms cash in on Scots BBC productions",
+        "link": "https://www.heraldscotland.com/news/26658411.scottish-tv-production-quotas-branded-a-work-fiction/",
+        "description": "Scottish TV production quotas scrutiny after an investigation records claims of loopholes, token offices and weak checks on regional productions.",
+        "published": "Thu, 22 Oct 2026 06:31:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21607740/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/ck3r5jw78dw3o#0",
+        "title": "Want to look confident when you speak? It's all in the eyebrows",
+        "link": "https://www.bbc.co.uk/news/articles/ck3r5jw78dw3o?at_medium=RSS&at_campaign=rss",
+        "description": "Researchers in Glasgow say raised eyebrow or a slow blink could project self- assurance to your audience.",
+        "published": "Thu, 22 Oct 2026 05:12:04 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9728/live/6d6d5db0-cdd8-11f1-a64c-550be9e3c66b.jpg"
+      },
+      {
+        "id": "00ef4460f51a932cdc06611d7cf45bee",
+        "title": "Rising star's journey from singing on a Glasgow bus to stages around the world",
+        "link": "https://www.glasgowtimes.co.uk/news/26656716.glasgow-singer-daniel-barrett-stars-scottish-operas-turandot/",
+        "description": "Glasgow-born opera singer Daniel Barrett returns home to perform in Scottish Opera's Turandot, reflecting on his journey from school shows to international stages.",
+        "published": "Thu, 22 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21611562/?type=app&htype=0"
+      },
+      {
         "id": "b683b1a66391ed4d2dde49d24eb5daeb",
         "title": "The \u00a37bn prize Glasgow wants the Chancellor to unlock in next week's Budget",
         "link": "https://www.heraldscotland.com/opinion/26656397.glasgow-wants-chancellors-budget-next-week/",
@@ -3707,38 +3739,6 @@
         "description": "BBC Scotland\u2019s linear TV channel will move online-only on BBC iPlayer from spring, with News at Seven axed and around 10 jobs at risk amid \u00a3500m cuts.",
         "published": "Tue, 20 Oct 2026 14:07:39 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21607301/?type=app&htype=0"
-      },
-      {
-        "id": "d7c95f3b16432a4a60d45deff380d8b8",
-        "title": "Almost 70% of capital's licensed short-term lets lack planning permission",
-        "link": "https://www.heraldscotland.com/news/26653536.70-edinburgh-licensed-short-term-lets-lack-planning-consent/",
-        "description": "A review revealed that 1,225 (69 per cent) of Edinburgh\u2019s 1,754 licensed short-term lets (STLs) do not have secondary letting planning permission.",
-        "published": "Tue, 20 Oct 2026 14:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/19040519/?type=app&htype=0"
-      },
-      {
-        "id": "e270aafc1ea18cb52967c5c8e13f704b",
-        "title": "LEGO announces free festive event in Glasgow with surprise gifts 'for all ages'",
-        "link": "https://www.glasgowtimes.co.uk/news/26653574.free-lego-event-glasgow-promises-gifts-ages/",
-        "description": "LEGO Giftmas Workshop comes to Glasgow from November 26 to November 29, with free festive family fun, personalised builds and no tickets required for all ages.",
-        "published": "Tue, 20 Oct 2026 13:53:31 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21607382/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/scotlands-home-halloween-gets-ready-34790383",
-        "title": "Scotland's 'home of Halloween' gets ready to party as Paisley's two day festival returns",
-        "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/scotlands-home-halloween-gets-ready-34790383",
-        "description": "The town will host live performances and Scotland's largest Halloween parade, as well as spooky light installations and plenty of fun experiences.",
-        "published": "Tue, 20 Oct 2026 12:20:41 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34790949.ece/ALTERNATES/s98/2_Paisley_Halloween_1JS0735_JS.jpg"
-      },
-      {
-        "id": "c9794ef39eac07a1335a2f6d98ecda90",
-        "title": "Plans submitted to expand luxury castle hotel outside Glasgow",
-        "link": "https://www.heraldscotland.com/news/26653334.plans-expand-luxury-castle-hotel-outside-glasgow/",
-        "description": "Plans have been submitted to expand Crossbasket Castle Hotel in High Blantyre, with proposals for additional bedrooms, leisure facilities and 12 cabins overlooking the River Calder.",
-        "published": "Tue, 20 Oct 2026 13:11:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/18884839/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
