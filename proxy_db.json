@@ -2941,6 +2941,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-ae-experiencing-high-demand-34798545",
+        "title": "Glasgow A&E experiencing 'high demand' as NHS issues urgent warning to stay home",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-ae-experiencing-high-demand-34798545",
+        "description": "If you do not have a life or limb-threatening injury or illness, the NHS has advised to access other services closer to home, including community pharmacies and online support.",
+        "published": "Thu, 22 Oct 2026 06:30:22 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34798593.ece/ALTERNATES/s98/0_UK-Accident-and-Emergency-Service-Stretched-Close-to-Breaking-Point.jpg"
+      },
+      {
+        "id": "55cf3a9397f0cbe9f725f00276ede84c",
+        "title": "Officers bash in door amid recovery of \u00a362,000 of drugs near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26659195.officers-bash-door-amid-recovery-62-000-drugs/",
+        "description": "Officers clamping down on the illegal drug trade have bashed in a door in Kirkintilloch and recovered \u00a362,000",
+        "published": "Thu, 22 Oct 2026 07:24:40 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21615466/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-rail-users-face-disruption-34797653",
+        "title": "Glasgow rail users face disruption during festive engineering works",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-rail-users-face-disruption-34797653",
+        "description": "More than \u00a315 million is being invested in upgrades around Glasgow, Edinburgh, Dundee and Fife.",
+        "published": "Thu, 22 Oct 2026 06:21:55 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34797718.ece/ALTERNATES/s98/0_Hyndland-Glasgow_cropped.jpg"
+      },
+      {
+        "id": "4ce0b992b7a207bd25637fd534296028",
+        "title": "Church to retrace final footsteps of soldier killed just days before end of WW1",
+        "link": "https://www.heraldscotland.com/news/26658880.motherwell-church-retrace-final-footsteps-ww1-soldier/",
+        "description": "40 people from Motherwell are to travel to Belgium to retrace the final footsteps of a young soldier who was killed during the closing days of the First World War \u2013 just 11 days before the Armistice.",
+        "published": "Thu, 22 Oct 2026 06:35:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21614983/?type=app&htype=0"
+      },
+      {
         "id": "c8aa23339a527bdd32bd279cd737a441",
         "title": "Swinney told to end \u2018failed\u2019 bus privatisation as council costs soar to \u00a365m",
         "link": "https://www.heraldscotland.com/news/26641767.campaigners-demand-public-ownership-buses-scotland/",
@@ -2987,6 +3019,14 @@
         "description": "Glasgow residents say commuter parking in Sighthill is leaving them struggling to find spaces near their own homes.",
         "published": "Thu, 22 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21610643/?type=app&htype=0"
+      },
+      {
+        "id": "8429e59b8977ab3b0205014605a4f5eb",
+        "title": "Edinburgh University provost nominated for role on capital's tourist tax board",
+        "link": "https://www.heraldscotland.com/news/26657842.edinburgh-university-provost-nominated-tourist-tax-role/",
+        "description": "Professor Kim Graham, the university\u2019s chief academic officer, has been asked to sit on the Edinburgh Visitor Levy Advisory Forum.",
+        "published": "Thu, 22 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21614140/?type=app&htype=0"
       },
       {
         "id": "b683b1a66391ed4d2dde49d24eb5daeb",
@@ -3699,46 +3739,6 @@
         "description": "Filming of The Batman: Part II, which recently turned Glasgow into Gotham, saw the selection of new street murals below the M8 painted over - but now they've been completely restored.",
         "published": "Tue, 20 Oct 2026 13:56:28 +0000",
         "image_url": "https://i2-prod.edinburghlive.co.uk/incoming/article34791076.ece/ALTERNATES/s98/0_9d3c35dc-a258-4066-a9fe-ac80e0cc4260.jpg"
-      },
-      {
-        "id": "b917d0fd6cb095d8cd3e0cc0db4cb6dc",
-        "title": "Summerhall developers must 'guarantee' future arts space, councillor demands",
-        "link": "https://www.heraldscotland.com/news/26653886.councillor-calls-arts-space-guarantee-summerhall/",
-        "description": "AMA managing director Dr Ali Afshar has been asked to outline how much of the site\u2019s \u201carts and creative floorspace\u201d would be retained.",
-        "published": "Tue, 20 Oct 2026 14:51:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21568852/?type=app&htype=0"
-      },
-      {
-        "id": "8a974d57fc392867a72b4f15ce585594",
-        "title": "Cause of death revealed for Donna Brand after Caroline Glachans murder",
-        "link": "https://www.glasgowtimes.co.uk/news/26653870.cause-prison-death-revealed-caroline-glachan-murderer/",
-        "description": "Prison records have revealed the cause of death of Donna Brand, who was serving a life sentence for the murder of Renton schoolgirl Caroline Glachan.",
-        "published": "Tue, 20 Oct 2026 14:37:17 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21379362/?type=app&htype=0"
-      },
-      {
-        "id": "bebfe6445763db5e88a3059631c4e359",
-        "title": "Glasgow depot to be demolished under plans to create future redevelopment",
-        "link": "https://www.glasgowtimes.co.uk/news/26653761.glasgow-depot-demolished-amid-future-redevelopment/",
-        "description": "A Glasgow depot is set to be demolished under new plans to create a future redevelopment on the site",
-        "published": "Tue, 20 Oct 2026 14:23:31 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21607448/?type=app&htype=0"
-      },
-      {
-        "id": "661f92c73ebf854f505bbd3f132dfde3",
-        "title": "East Dunbartonshire care home earns glowing inspection report",
-        "link": "https://www.glasgowtimes.co.uk/news/26653723.east-dunbartonshire-care-home-recognised-helping-residents-thrive/",
-        "description": "A care home has earned high praise for its support of residents' wellbeing.",
-        "published": "Tue, 20 Oct 2026 14:18:41 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21607429/?type=app&htype=0"
-      },
-      {
-        "id": "70849a361bdb0df708ef067ae9a058c2",
-        "title": "Arnold Clark admits data protection failures led to major cyber attack",
-        "link": "https://www.glasgowtimes.co.uk/news/26653700.glasgow-car-dealer-arnold-clark-admits-failures-led-cyber-attack/",
-        "description": "Arnold Clark admits customer data security failures led to its December 23 2022 cyber attack, as thousands pursue compensation in Scottish group action.",
-        "published": "Tue, 20 Oct 2026 14:15:47 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17403275/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
