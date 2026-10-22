@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o#1",
+        "title": "What is PHP and why did it spark an international cyber-security alert?",
+        "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+        "description": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+        "published": "Thu, 22 Oct 2026 06:24:59 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f65f/live/a84db480-cddc-11f1-bc2e-018d645d8d21.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/crz981p0klvgo#3",
         "title": "Chip muffin? Bacon and egg soda? How Just Eat's AI struggled to depict Britain's regional dishes",
         "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Scotland's Jemma Reekie vows to come back stronger after \"a really tricky season\", which included a lingering concussion and a disappointing home Commonwealth Games.",
         "published": "Mon, 07 Sep 2026 18:47:27 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ae/live/494efd40-aad7-11f1-aa35-df10e5ff32f4.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o#3",
-        "title": "OpenAI chief scientist warns no one is prepared for consequences of AI",
-        "link": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
-        "description": "The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.",
-        "published": "Mon, 07 Sep 2026 12:22:07 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9408/live/98bd0c70-aaa8-11f1-9eba-7de947fa7cd1.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2941,6 +2941,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9301935",
+        "title": "Rangers undertake EFL League One scouting mission as Under-21 international remains on Ibrox radar",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-undertake-efl-league-one-scouting-mission-as-under-21-international-remains-on-ibrox-radar-9301935",
+        "description": "<p>Ibrox side reportedly sent representatives to Doncaster Rovers vs Stockport County on Tuesday night</p>",
+        "published": "Thu, 22 Oct 2026 07:00:48 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/21/14/51/GettyImages-2241895575.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "9302388",
+        "title": "Celtic issue injury update on key duo as mood in camp revealed during Martin O'Neill's 'reflection' period",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-issue-injury-update-on-key-duo-as-mood-in-camp-revealed-during-martin-oneills-reflection-period-9302388",
+        "description": "<p>Hoops issued update ahead of their European clash with Celta Vigo</p>",
+        "published": "Thu, 22 Oct 2026 07:00:28 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/21/16/13/GettyImages-2292562569.jpeg?width=1200&auto=webp&trim=28%2C0%2C28%2C0"
+      },
+      {
+        "id": "974871d73916693c7e52a3e736557dc2",
+        "title": "FAI begins into death of Barlinnie prisoner who raped and murdered woman",
+        "link": "https://www.glasgowtimes.co.uk/news/26659204.fai-begins-death-prisoner-raped-murdered-woman/",
+        "description": "A Fatal Accident Inquiry (FAI) has begun into the death of a Barlinnie prisoner who was jailed raping and murdering a woman",
+        "published": "Thu, 22 Oct 2026 07:33:02 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21260067/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-ae-experiencing-high-demand-34798545",
         "title": "Glasgow A&E experiencing 'high demand' as NHS issues urgent warning to stay home",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-ae-experiencing-high-demand-34798545",
@@ -3029,6 +3053,14 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21614140/?type=app&htype=0"
       },
       {
+        "id": "https://www.glasgowlive.co.uk/news/universal-credit-pip-could-replaced-34798541",
+        "title": "Universal Credit and PIP 'could be replaced for 1m people in plan to be sent to Andy Burnham'",
+        "link": "https://www.glasgowlive.co.uk/news/universal-credit-pip-could-replaced-34798541",
+        "description": "Prime Minister Andy Burnham has said there will be a 'huge change' and now the DWP is preparing for major new recommendations",
+        "published": "Thu, 22 Oct 2026 04:30:00 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34798554.ece/ALTERNATES/s98/0_burnham37.jpg"
+      },
+      {
         "id": "b683b1a66391ed4d2dde49d24eb5daeb",
         "title": "The \u00a37bn prize Glasgow wants the Chancellor to unlock in next week's Budget",
         "link": "https://www.heraldscotland.com/opinion/26656397.glasgow-wants-chancellors-budget-next-week/",
@@ -3059,14 +3091,6 @@
         "description": "Energy Secretary Miatta Fahnbulleh has approved the Jackdaw gasfield on a legal technicality, but the harder call \u2014 Rosebank, seven times the carbon and majority export-bound \u2014 now looms over Labour's North Sea policy.",
         "published": "Wed, 21 Oct 2026 19:13:41 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21614965/?type=app&htype=0"
-      },
-      {
-        "id": "35582856bf911313d82ae1bbe1cd8e30",
-        "title": "Glasgow health board urges residents to avoid A and E unless it's 'life or limb'",
-        "link": "https://www.glasgowtimes.co.uk/news/26659005.glaswegians-urged-avoid-e-unless-life-limb/",
-        "description": "NHS Greater Glasgow and Clyde warns A&amp;E is extremely busy, urging patients with non-life-threatening conditions to use NHS 24, pharmacies or local care.",
-        "published": "Wed, 21 Oct 2026 18:56:56 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18988762/?type=app&htype=0"
       },
       {
         "id": "4860f188e97e8b2fce7dabd8b26fec50",
@@ -3715,30 +3739,6 @@
         "description": "EastEnders stars are set to lead a touring production of a smash hit musical coming to Glasgow.",
         "published": "Tue, 20 Oct 2026 15:25:03 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21607986/?type=app&htype=0"
-      },
-      {
-        "id": "528d58532adb31383959a8196282889b",
-        "title": "Parts of Glasgow's M8 motorway to close for two weekends amid major works",
-        "link": "https://www.glasgowtimes.co.uk/news/26654151.parts-m8-glasgow-close-two-weekends-amid-major-works/",
-        "description": "A major motorway will shut down for two weekends to allow for the reinstatement of two footbridges.",
-        "published": "Tue, 20 Oct 2026 15:15:38 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21462449/?type=app&htype=0"
-      },
-      {
-        "id": "b1ae0422e9e49c1dfddad4b014808305",
-        "title": "Glasgow site set for dramatic makeover as \u00a3100m regeneration plan wins approval",
-        "link": "https://www.glasgowtimes.co.uk/news/26654021.glasgow-wyndford-areas-100m-makeover-plans-approved/",
-        "description": "\u00a3100m Wyndford regeneration in north Glasgow approved: Wheatley will build 401 energy-efficient homes, community facilities and green spaces from spring 2027.",
-        "published": "Tue, 20 Oct 2026 14:59:42 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21607910/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/arts-culture-news/gallery/glasgow-murals-under-m8-now-34791256",
-        "title": "Glasgow murals under M8 now fully restored after fans left in uproar over Batman filming cover up",
-        "link": "https://www.glasgowlive.co.uk/whats-on/arts-culture-news/gallery/glasgow-murals-under-m8-now-34791256",
-        "description": "Filming of The Batman: Part II, which recently turned Glasgow into Gotham, saw the selection of new street murals below the M8 painted over - but now they've been completely restored.",
-        "published": "Tue, 20 Oct 2026 13:56:28 +0000",
-        "image_url": "https://i2-prod.edinburghlive.co.uk/incoming/article34791076.ece/ALTERNATES/s98/0_9d3c35dc-a258-4066-a9fe-ac80e0cc4260.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
