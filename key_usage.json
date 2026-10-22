@@ -25,11 +25,15 @@
       "gemini-3.1-flash-lite": {
         "daily_requests": 1,
         "exhausted": false
+      },
+      "gemini-2.5-flash-lite": {
+        "daily_requests": 0,
+        "exhausted": true
       }
     },
     "7c9375937803a7a0": {
       "gemini-3.5-flash-lite": {
-        "daily_requests": 20,
+        "daily_requests": 21,
         "exhausted": false
       },
       "gemini-2.5-flash": {
@@ -51,11 +55,15 @@
       "gemini-3.1-flash-lite": {
         "daily_requests": 1,
         "exhausted": false
+      },
+      "gemini-2.5-flash-lite": {
+        "daily_requests": 0,
+        "exhausted": true
       }
     },
     "552b9a0c435a4789": {
       "gemini-3.5-flash-lite": {
-        "daily_requests": 20,
+        "daily_requests": 21,
         "exhausted": false
       },
       "gemini-2.5-flash": {
@@ -73,11 +81,15 @@
       "gemini-3.5-flash": {
         "daily_requests": 1,
         "exhausted": false
+      },
+      "gemini-2.5-flash-lite": {
+        "daily_requests": 0,
+        "exhausted": true
       }
     },
     "f540f7bc05bc955e": {
       "gemini-3.5-flash-lite": {
-        "daily_requests": 20,
+        "daily_requests": 21,
         "exhausted": false
       },
       "gemini-2.5-flash": {
@@ -95,6 +107,10 @@
       "gemini-3.5-flash": {
         "daily_requests": 1,
         "exhausted": false
+      },
+      "gemini-2.5-flash-lite": {
+        "daily_requests": 0,
+        "exhausted": true
       }
     },
     "aa95c5aa8b848d9c": {
@@ -107,7 +123,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 20,
+        "daily_requests": 21,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -117,6 +133,10 @@
       "gemini-3.5-flash": {
         "daily_requests": 1,
         "exhausted": false
+      },
+      "gemini-2.5-flash-lite": {
+        "daily_requests": 0,
+        "exhausted": true
       }
     },
     "8d8e6e0c4fccc2bf": {
@@ -129,7 +149,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 20,
+        "daily_requests": 21,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -139,6 +159,10 @@
       "gemini-3.5-flash": {
         "daily_requests": 1,
         "exhausted": false
+      },
+      "gemini-2.5-flash-lite": {
+        "daily_requests": 0,
+        "exhausted": true
       }
     },
     "6c7f2bf297b8e3cf": {
@@ -157,6 +181,10 @@
       "gemini-3.6-flash": {
         "daily_requests": 1,
         "exhausted": false
+      },
+      "gemini-2.5-flash-lite": {
+        "daily_requests": 0,
+        "exhausted": true
       }
     },
     "b567919d0c3a5a85": {
@@ -175,6 +203,10 @@
       "gemini-3.6-flash": {
         "daily_requests": 1,
         "exhausted": false
+      },
+      "gemini-2.5-flash-lite": {
+        "daily_requests": 0,
+        "exhausted": true
       }
     },
     "db2eec90e606bab8": {
@@ -193,6 +225,10 @@
       "gemini-3.6-flash": {
         "daily_requests": 1,
         "exhausted": false
+      },
+      "gemini-2.5-flash-lite": {
+        "daily_requests": 0,
+        "exhausted": true
       }
     },
     "522d41e96dd4fda8": {
@@ -211,6 +247,10 @@
       "gemini-3.6-flash": {
         "daily_requests": 1,
         "exhausted": false
+      },
+      "gemini-2.5-flash-lite": {
+        "daily_requests": 0,
+        "exhausted": true
       }
     },
     "6f6441973fb58689": {
@@ -229,6 +269,10 @@
       "gemini-3.6-flash": {
         "daily_requests": 1,
         "exhausted": false
+      },
+      "gemini-2.5-flash-lite": {
+        "daily_requests": 0,
+        "exhausted": true
       }
     }
   }
