@@ -37,28 +37,12 @@
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ad8/live/cd13e390-cbc3-11f1-aba9-2bb2608f11d9.jpg"
       },
       {
-        "id": "1792584019244288",
-        "title": "Irish weather warning ahead of Storm Austen",
-        "link": "https://www.bbc.co.uk/news/articles/ck98z6e4l725o?at_medium=RSS&at_campaign=rss",
-        "description": "The Republic of Ireland's weather service warns of potential of flooding and travel disruption.",
-        "published": "Wed, 21 Oct 2026 13:48:46 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee6b/live/e3c1caa0-cd42-11f1-8177-0f8bd59b54c4.jpg"
-      },
-      {
         "id": "https://www.bbc.co.uk/news/articles/cwvg0vjj5e2vo#4",
         "title": "Missing German WW2 U-boat found 82 years on",
         "link": "https://www.bbc.co.uk/news/articles/cwvg0vjj5e2vo?at_medium=RSS&at_campaign=rss",
         "description": "The U-672 sub was identified 20 miles (32km) off Salcombe after divers discovered it in August.",
         "published": "Wed, 21 Oct 2026 05:19:47 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e167/live/09f5b500-cc9f-11f1-9a39-31b474234113.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo#1",
-        "title": "Storm Austen to bring severe gales to UK as weather warning issued",
-        "link": "https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo?at_medium=RSS&at_campaign=rss",
-        "description": "The first named storm of the season - Austen - will bring damaging winds and heavy rain to parts of the UK on Friday.",
-        "published": "Tue, 20 Oct 2026 09:42:56 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58e2/live/9434c270-cc58-11f1-9b08-37acac6be953.jpg"
       },
       {
         "id": "https://www.bbc.co.uk/sport/articles/ck054n5nqlv5o#8",
@@ -2941,12 +2925,52 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8d2910626aebd167a5abcfc7f103c56a",
+        "title": "Fresh changes revealed for major 69-home development on historic Glasgow site",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26660178.changes-proposed-69-home-glasgow-development-site/",
+        "description": "Glasgow City Council considers changes to a 69-home development at former 100 Acre Road site, including Acre House, parking and bin store alterations.",
+        "published": "Thu, 22 Oct 2026 11:09:28 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21616774/?type=app&htype=0"
+      },
+      {
+        "id": "db3444c1c52036a824bdf967ee6b5401",
+        "title": "Glasgow Christmas markets 2026 Dates, ice skating and everything you need to know",
+        "link": "https://www.glasgowtimes.co.uk/news/26658208.glasgow-christmas-guide-markets-ice-skating/",
+        "description": "Glasgow Christmas 2026 guide: Winter Wonderlands, George Square\u2019s ice rink, festive markets, Princes Square lights and family events across the city.",
+        "published": "Thu, 22 Oct 2026 11:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20357685/?type=app&htype=0"
+      },
+      {
+        "id": "57cbd07bf01c66dec7e7f9e9be7f5c81",
+        "title": "Rangers fan JAILED after urging mass pitch invasion at Old Firm clash",
+        "link": "https://www.glasgowtimes.co.uk/news/26660065.rangers-fan-jailed-urging-mass-pitch-invasion-old-firm-clash/",
+        "description": "A Rangers fan caught encouraging a mass pitch invasion at an Old Firm match was jailed today for 16 months.",
+        "published": "Thu, 22 Oct 2026 10:53:44 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21496769/?type=app&htype=0"
+      },
+      {
+        "id": "1c41b14da470b92d10bc3814ddb520a0",
+        "title": "Glasgow traffic wardens 'ordered to spy on drug dealers' at notorious four corners",
+        "link": "https://www.glasgowtimes.co.uk/news/26659974.glasgow-traffic-wardens-ordered-spy-drug-dealers/",
+        "description": "Traffic wardens working in Glasgow city centre have been told to \"spy on drug dealers and thugs\" at the notorious Four Corners",
+        "published": "Thu, 22 Oct 2026 10:41:22 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17473836/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/person-rushed-hospital-firefighters-battle-34800261",
         "title": "Person rushed to hospital as firefighters battle Cambuslang flat fire",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/person-rushed-hospital-firefighters-battle-34800261",
         "description": "Crews were seen on the town\u2019s Main Street at around 4pm on Wednesday, October 21.",
         "published": "Thu, 22 Oct 2026 09:40:16 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34800425.ece/ALTERNATES/s98/0_Screenshot-2026-10-22-101908.png"
+      },
+      {
+        "id": "3a94b1f06fde9da527890195d2240950",
+        "title": "SNP opens door to voluntary NHS staff exits in major health board shake-up",
+        "link": "https://www.heraldscotland.com/news/26659929.snp-nhs-shake-up-see-staff-offered-voluntary-exits/",
+        "description": "NHS staff could be offered voluntary exits or redeployed under SNP plans to cut Scotland's health boards from 14 to two, new guidance reveals.",
+        "published": "Thu, 22 Oct 2026 10:35:06 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/16891310/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/trio-jailed-over-greenock-assault-34800304",
