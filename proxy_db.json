@@ -2973,6 +2973,22 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21611562/?type=app&htype=0"
       },
       {
+        "id": "081d853b823601ffadf41cf69a26dcbe",
+        "title": "Glasgow resident hits out as time between bin hub collections doubles",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26656165.glasgow-bin-hub-collection-times-doubled-resident-says/",
+        "description": "A Glasgow city centre resident has hit out after the length of time between bin hub collections was doubled.",
+        "published": "Thu, 22 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19558859/?type=app&htype=0"
+      },
+      {
+        "id": "41b94f2a58502eeed97adde47f6acb74",
+        "title": "Glasgow residents feel like 'prisoners' as commuters cause parking 'shambles'",
+        "link": "https://www.glasgowtimes.co.uk/news/26656089.glasgow-sighthill-residents-hit-commuter-parking-shambles/",
+        "description": "Glasgow residents say commuter parking in Sighthill is leaving them struggling to find spaces near their own homes.",
+        "published": "Thu, 22 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21610643/?type=app&htype=0"
+      },
+      {
         "id": "b683b1a66391ed4d2dde49d24eb5daeb",
         "title": "The \u00a37bn prize Glasgow wants the Chancellor to unlock in next week's Budget",
         "link": "https://www.heraldscotland.com/opinion/26656397.glasgow-wants-chancellors-budget-next-week/",
@@ -3059,14 +3075,6 @@
         "description": "The Scottish Castles Association and the University of Stirling are developing a digital archive to record Scotland\u2019s castles, preserve historic collections and identify sites at risk.",
         "published": "Wed, 21 Oct 2026 17:04:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21614492/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/neil-lennon-says-scottish-football-34796397",
-        "title": "Neil Lennon says Scottish football faces 'big questions' ahead of special Glasgow event",
-        "link": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/neil-lennon-says-scottish-football-34796397",
-        "description": "The former Celtic boss, who has called Glasgow home for more than 20 years, will join Aiden McGeady and James McFadden at SWG3 for a one-off evening lifting the lid on Scottish football.",
-        "published": "Wed, 21 Oct 2026 16:03:12 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34798059.ece/ALTERNATES/s98/0_Neil-Lennon.jpg"
       },
       {
         "id": "ce77712c315b18cb9c3e3f29b94375d7",
@@ -3731,14 +3739,6 @@
         "description": "Arnold Clark admits customer data security failures led to its December 23 2022 cyber attack, as thousands pursue compensation in Scottish group action.",
         "published": "Tue, 20 Oct 2026 14:15:47 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17403275/?type=app&htype=0"
-      },
-      {
-        "id": "bccfe4c6d1ea69b445eff239a477d880",
-        "title": "BBC Scotland channel to disappear from TV screens as broadcaster unveils major cuts",
-        "link": "https://www.glasgowtimes.co.uk/news/26653643.bbc-scotland-tv-channel-close-amid-major-budget-cuts/",
-        "description": "BBC Scotland\u2019s linear TV channel will move online-only on BBC iPlayer from spring, with News at Seven axed and around 10 jobs at risk amid \u00a3500m cuts.",
-        "published": "Tue, 20 Oct 2026 14:07:39 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21607301/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
