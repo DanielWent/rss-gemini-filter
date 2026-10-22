@@ -2941,6 +2941,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/person-rushed-hospital-firefighters-battle-34800261",
+        "title": "Person rushed to hospital as firefighters battle Cambuslang flat fire",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/person-rushed-hospital-firefighters-battle-34800261",
+        "description": "Crews were seen on the town\u2019s Main Street at around 4pm on Wednesday, October 21.",
+        "published": "Thu, 22 Oct 2026 09:40:16 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34800425.ece/ALTERNATES/s98/0_Screenshot-2026-10-22-101908.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/trio-jailed-over-greenock-assault-34800304",
+        "title": "Trio jailed over Greenock assault that caused 'permanent disfigurement' of victim",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/trio-jailed-over-greenock-assault-34800304",
+        "description": "Police have condemned the three men for their behaviour, adding that &quot;such violence is not acceptable in our communities.&quot;",
+        "published": "Thu, 22 Oct 2026 09:33:15 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34800381.ece/ALTERNATES/s98/3_Greenock-assault.png"
+      },
+      {
+        "id": "6b45621c456dcc0eb12d3e22bd26f0fa",
+        "title": "Scottish Wedding Show to return to Glasgow with more than 200 suppliers",
+        "link": "https://www.glasgowtimes.co.uk/news/26659903.scottish-wedding-show-return-glasgow-february/",
+        "description": "A major wedding showcase is set to return to Glasgow offering inspiration and expert advice for couples planning their big day.",
+        "published": "Thu, 22 Oct 2026 10:31:56 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21616315/?type=app&htype=0"
+      },
+      {
+        "id": "7378cb1cdf0189a90b90c859a73cb250",
+        "title": "Fresh plans submitted for major 49-home development in Glasgow's West End",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26659839.plans-submitted-amend-49-home-glasgow-west-end-scheme/",
+        "description": "Plans to amend conditions for Queensberry Properties\u2019 49-home Otago Lane development in Glasgow\u2019s West End have been submitted to Glasgow City Council.",
+        "published": "Thu, 22 Oct 2026 10:21:52 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21616211/?type=app&htype=0"
+      },
+      {
         "id": "9302884",
         "title": "Storm Austen: Exact time Storm Austen will batter Glasgow as Met Office warns of flooding and travel disruption",
         "link": "https://www.glasgowworld.com/news/storm-austen-glasgow-met-office-flooding-and-travel-disruption-9302884",
