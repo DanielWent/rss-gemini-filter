@@ -5,6 +5,30 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1792667713998764",
+        "title": "Yellow wind warning for Scotland in weekend of storms",
+        "link": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro?at_medium=RSS&at_campaign=rss",
+        "description": "The Met Office have named a new storm, Boelo, which is set to bring another round of stormy weather to the UK over the weekend.",
+        "published": "Thu, 22 Oct 2026 12:34:17 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2ef/live/525eab10-cdfa-11f1-97f7-a7674fb562de.jpg"
+      },
+      {
+        "id": "1792666215446432",
+        "title": "Two storms in two days as Austen and Boelo head for UK",
+        "link": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro?at_medium=RSS&at_campaign=rss",
+        "description": "The Met Office have named a new storm, Boelo, which is set to bring another round of stormy weather to the UK over the weekend.",
+        "published": "Thu, 22 Oct 2026 12:34:17 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2ef/live/525eab10-cdfa-11f1-97f7-a7674fb562de.jpg"
+      },
+      {
+        "id": "1792664709054125",
+        "title": "Two storms in two days as Austen and Boelo target UK",
+        "link": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro?at_medium=RSS&at_campaign=rss",
+        "description": "The Met Office have named a new storm, Boelo, which is set to bring another round of stormy weather to the UK over the weekend.",
+        "published": "Thu, 22 Oct 2026 12:05:41 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2ef/live/525eab10-cdfa-11f1-97f7-a7674fb562de.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c9gkvz72vmjlo#4",
         "title": "Devon and Cornwall battening down the hatches ahead of Storm Austen",
         "link": "https://www.bbc.co.uk/news/articles/c9gkvz72vmjlo?at_medium=RSS&at_campaign=rss",
@@ -779,14 +803,6 @@
         "description": "The funding will be used to build two more launchpads.",
         "published": "Tue, 08 Sep 2026 08:48:33 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dc0/live/cbfc7a70-aae5-11f1-99dd-5152b950d9db.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo#0",
-        "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-        "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-        "description": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
-        "published": "Mon, 07 Sep 2026 23:05:12 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/192e/live/85ed8b30-aaa1-11f1-aed2-8d6da8d75094.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2925,6 +2941,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/tv/glasgow-woman-facial-difference-warns-34801293",
+        "title": "Glasgow woman with facial difference warns against 'discriminatory' Halloween habit",
+        "link": "https://www.glasgowlive.co.uk/news/tv/glasgow-woman-facial-difference-warns-34801293",
+        "description": "The Glasgow woman appeared on This Morning to discuss the challenges people with visible differences face during Halloween",
+        "published": "Thu, 22 Oct 2026 11:22:08 +0000",
+        "image_url": "https://i2-prod.birminghammail.co.uk/incoming/article34801396.ece/ALTERNATES/s98/0_Kaylin-M.png"
+      },
+      {
+        "id": "9302955",
+        "title": "La Liga side 'continue to monitor' Rangers star as Light Blues refuse to budge on \u00a320m transfer valuation",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/la-liga-side-continue-to-monitor-rangers-star-beyond-window-as-light-blues-refuse-to-budge-on-ps20m-transfer-valuation-9302955",
+        "description": "<p>Premier League sides Aston Villa and Hull City have expressed previous interest in the player</p>",
+        "published": "Thu, 22 Oct 2026 11:00:50 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/22/9/30/GettyImages-2257037985.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
         "id": "9303396",
         "title": "Glasgow food: Chef swaps late nights for shelves of carefully chosen food at Glasgow deli Kramer's",
         "link": "https://www.glasgowworld.com/lifestyle/food-and-drink/chef-swaps-late-nights-for-shelves-of-carefully-chosen-food-at-glasgow-deli-kramers-9303445",
@@ -2963,6 +2995,14 @@
         "description": "Glasgow Christmas 2026 guide: Winter Wonderlands, George Square\u2019s ice rink, festive markets, Princes Square lights and family events across the city.",
         "published": "Thu, 22 Oct 2026 11:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20357685/?type=app&htype=0"
+      },
+      {
+        "id": "c212ed31e92f770f522565dae45ae8bf",
+        "title": "Coul Links ruling deals blow to hopes for major Highland golf development",
+        "link": "https://www.heraldscotland.com/news/26659984.coul-links-golf-course-rejection-hits-investment-hopes/",
+        "description": "Supporters said the championship course could create millions of pounds in economic activity, but ministers ruled this did not outweigh the environmental harm",
+        "published": "Thu, 22 Oct 2026 11:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20940804/?type=app&htype=0"
       },
       {
         "id": "57cbd07bf01c66dec7e7f9e9be7f5c81",
