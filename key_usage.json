@@ -131,7 +131,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 37,
+        "daily_requests": 38,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -161,7 +161,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 37,
+        "daily_requests": 38,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -187,7 +187,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 37,
+        "daily_requests": 38,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -213,7 +213,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 37,
+        "daily_requests": 38,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -239,12 +239,12 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 37,
+        "daily_requests": 38,
         "exhausted": false
       },
       "gemini-3.6-flash": {
         "daily_requests": 2,
-        "exhausted": false
+        "exhausted": true
       },
       "gemini-2.5-flash-lite": {
         "daily_requests": 0,
@@ -265,11 +265,11 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 37,
+        "daily_requests": 38,
         "exhausted": false
       },
       "gemini-3.6-flash": {
-        "daily_requests": 2,
+        "daily_requests": 3,
         "exhausted": false
       },
       "gemini-2.5-flash-lite": {
@@ -291,11 +291,11 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 37,
+        "daily_requests": 38,
         "exhausted": false
       },
       "gemini-3.6-flash": {
-        "daily_requests": 2,
+        "daily_requests": 3,
         "exhausted": false
       },
       "gemini-2.5-flash-lite": {
