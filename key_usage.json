@@ -175,7 +175,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 42,
+        "daily_requests": 43,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -201,7 +201,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 42,
+        "daily_requests": 43,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -227,7 +227,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 42,
+        "daily_requests": 43,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -253,7 +253,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 42,
+        "daily_requests": 43,
         "exhausted": false
       },
       "gemini-2.5-flash-lite": {
