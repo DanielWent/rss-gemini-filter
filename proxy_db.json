@@ -2941,20 +2941,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "e35f1907efc8996f34fb4da9840c8fa1",
+        "title": "School bomb threat hoax perpetrators may never be caught, experts warn",
+        "link": "https://www.glasgowtimes.co.uk/news/26659522.behind-bomb-threats-sent-hundreds-scottish-schools/",
+        "description": "THE perpetrators behind hundreds of hoax bomb threats targeting schools across Scotland and Northern Ireland may never be identified, experts have said, warning the operation could have been carried out \u201cquickly and easily\u201d by just one person",
+        "published": "Thu, 22 Oct 2026 09:28:53 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21607854/?type=app&htype=0"
+      },
+      {
+        "id": "9302884",
+        "title": "Storm Austen: Exact time Storm Austen will batter Glasgow as Met Office warns of flooding and travel disruption",
+        "link": "https://www.glasgowworld.com/news/storm-austen-glasgow-met-office-flooding-and-travel-disruption-9302884",
+        "description": "<p>Glasgow faces a risk of flooding and travel disruption when a yellow weather warning for Storm Austen comes into force</p>",
+        "published": "Thu, 22 Oct 2026 08:26:27 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/22/8/34/MixCollage-22-Oct-2026-09-14-AM-6011.jpg?width=1200&auto=webp&trim=0%2C175%2C0%2C175"
+      },
+      {
         "id": "c9e1e79558af0ee7e2046f0b5eeff9ca",
         "title": "Barclays to cut 5,000 jobs this year as AI makes work more efficient",
         "link": "https://www.glasgowtimes.co.uk/news/26659428.barclays-cut-5-000-jobs-year-ai-makes-work-efficient/",
         "description": "Barclays has revealed it expects to have cut around 5,000 staff by the end of 2026 after turning to artificial intelligence (AI) to make the bank more efficient",
         "published": "Thu, 22 Oct 2026 09:15:30 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21615648/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-traffic-wardens-ordered-spy-34799816",
-        "title": "Glasgow traffic wardens 'ordered to spy on drug dealers' at notorious crime hotspot",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-traffic-wardens-ordered-spy-34799816",
-        "description": "Furious enforcement officers say bosses have put a \u201ctarget on their backs\u201d.",
-        "published": "Thu, 22 Oct 2026 08:07:08 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34799858.ece/ALTERNATES/s98/0_Screenshot-2026-10-22-085721.png"
       },
       {
         "id": "ac27cad6bf65ae9c27181fce3298a281",
@@ -3075,14 +3083,6 @@
         "description": "Professor Kim Graham, the university\u2019s chief academic officer, has been asked to sit on the Edinburgh Visitor Levy Advisory Forum.",
         "published": "Thu, 22 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21614140/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/universal-credit-pip-could-replaced-34798541",
-        "title": "Universal Credit and PIP 'could be replaced for 1m people in plan to be sent to Andy Burnham'",
-        "link": "https://www.glasgowlive.co.uk/news/universal-credit-pip-could-replaced-34798541",
-        "description": "Prime Minister Andy Burnham has said there will be a 'huge change' and now the DWP is preparing for major new recommendations",
-        "published": "Thu, 22 Oct 2026 04:30:00 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34798554.ece/ALTERNATES/s98/0_burnham37.jpg"
       },
       {
         "id": "b683b1a66391ed4d2dde49d24eb5daeb",
