@@ -2106,6 +2106,22 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "7c33f47159c0cc2e508f6ce506a120cb",
+        "title": "Glasgow estate agents could face action over \u2018For Sale\u2019 signs left behind",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26661151.calls-action-for-sale-signs-left-across-glasgow/",
+        "description": "Concerns have been raised over abandoned \u2018For Sale\u2019 signs across Glasgow, with calls for estate agents to cover council removal costs.",
+        "published": "Thu, 22 Oct 2026 13:53:15 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21618213/?type=app&htype=0"
+      },
+      {
+        "id": "a4d1e4082bb7a77216856352c2087b46",
+        "title": "Major Glasgow rail line closures planned over Christmas and New Year",
+        "link": "https://www.glasgowtimes.co.uk/news/26660932.glasgow-train-lines-close-christmas-new-year/",
+        "description": "Engineering works are set to close railway lines across Glasgow as passengers are being urged to check their line is open before travelling",
+        "published": "Thu, 22 Oct 2026 13:08:38 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21618256/?type=app&htype=0"
+      },
+      {
         "id": "3d54469397fff8c0d95d82f88ea20a8d",
         "title": "Another Glasgow water main bursts as several homes hit by supply disruption",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26657714.glasgow-west-end-water-disruption-burst-main/",
@@ -2802,14 +2818,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21349268/?type=app&htype=0"
       },
       {
-        "id": "60f425f0e0b9569fec3441790306855d",
-        "title": "Bearsden cyclist with lifelong brain condition to tackle 3600km charity challenge",
-        "link": "https://www.glasgowtimes.co.uk/news/26480545.bearsden-cyclist-takes-3-600km-charity-challenge/",
-        "description": "A cyclist who discovered he had a lifelong brain condition after a serious bike accident is now riding 3600km for SBH Scotland",
-        "published": "Thu, 20 Aug 2026 10:54:47 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21346238/?type=app&htype=0"
-      },
-      {
         "id": "155424a3bc62ca004c10d3bf51706822",
         "title": "Glasgow City Council reveals huge budget gap for next two years",
         "link": "https://www.glasgowtimes.co.uk/news/26479263.glasgow-city-council-huge-budget-gap-next-two-years/",
@@ -2941,6 +2949,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "7c33f47159c0cc2e508f6ce506a120cb",
+        "title": "Glasgow estate agents could face action over \u2018For Sale\u2019 signs left behind",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26661151.calls-action-for-sale-signs-left-across-glasgow/",
+        "description": "Concerns have been raised over abandoned \u2018For Sale\u2019 signs across Glasgow, with calls for estate agents to cover council removal costs.",
+        "published": "Thu, 22 Oct 2026 13:53:15 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21618213/?type=app&htype=0"
+      },
+      {
+        "id": "1da7a569c5844c1589b69000c8033d5a",
+        "title": "Unused Glasgow land to be transformed into new community greenspace",
+        "link": "https://www.glasgowtimes.co.uk/news/26661107.glasgow-vacant-plot-approved-new-community-greenspace/",
+        "description": "Unused Glasgow land to be turned into community space.",
+        "published": "Thu, 22 Oct 2026 13:44:33 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21469861/?type=app&htype=0"
+      },
+      {
         "id": "212068bef83393a4b51d264904e6462e",
         "title": "Glasgow councillors reject bid to rethink \u00a31m McVitie\u2019s factory fund",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26661098.glasgow-councillors-reject-bid-rethink-1m-mcvities-factory-fund/",
@@ -2965,6 +2989,14 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/6bc21032dbd3a50a7cf4f11305359f26-1792672227-1120x720.jpeg"
       },
       {
+        "id": "a4d1e4082bb7a77216856352c2087b46",
+        "title": "Major Glasgow rail line closures planned over Christmas and New Year",
+        "link": "https://www.glasgowtimes.co.uk/news/26660932.glasgow-train-lines-close-christmas-new-year/",
+        "description": "Engineering works are set to close railway lines across Glasgow as passengers are being urged to check their line is open before travelling",
+        "published": "Thu, 22 Oct 2026 13:08:38 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21618256/?type=app&htype=0"
+      },
+      {
         "id": "d0fa0d203fae435c5736a91085f8a17e",
         "title": "Ex-youth coach locked up after attacking Celtic staff member during pitch invasion",
         "link": "https://www.glasgowtimes.co.uk/news/26660820.lanark-rangers-fan-locked-attacking-celtic-staff-member/",
@@ -2987,14 +3019,6 @@
         "description": "The remains of a priest, a hand, a head and a right foot have been removed from display due to a lack of 'consent from the deceased'",
         "published": "Thu, 22 Oct 2026 11:35:42 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/964bc9d9b733b7e9cff3faefbef31a2d-1792667834-1119x720.jpeg"
-      },
-      {
-        "id": "e1a4f8d6b3926a19f420d75ed60e1bc2",
-        "title": "Police launch new dispersal zone in THIS Glasgow neighbourhood",
-        "link": "https://www.glasgowtimes.co.uk/news/26660747.police-launch-dispersal-zone-pollokshields-ahead-bonfire-night/",
-        "description": "A new dispersal zone, which can allow officers to force people away from the area, has been launched in a Southside neighbourhood ahead of Bonfire Night",
-        "published": "Thu, 22 Oct 2026 12:31:15 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18732031/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/tv/glasgow-woman-facial-difference-warns-34801293",
@@ -3043,14 +3067,6 @@
         "description": "Overnight closures will affect Duke Street in Glasgow from October 28 as Scottish Power upgrades its cable network.",
         "published": "Thu, 22 Oct 2026 11:31:25 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19036953/?type=app&htype=61"
-      },
-      {
-        "id": "2eb52c9c2946be7f86bc42eb17ff8fc9",
-        "title": "Glasgow braced for Storm Boelo as second weather warning issued",
-        "link": "https://www.glasgowtimes.co.uk/news/weather/26660298.glasgow-yellow-weather-warning-issued-storm-boelo/",
-        "description": "Glasgow faces strong winds and heavy rain as Storm Boelo hits Scotland, with a Met Office yellow warning from October 24 to October 25 and travel disruption.",
-        "published": "Thu, 22 Oct 2026 11:24:53 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20471854/?type=app&htype=0"
       },
       {
         "id": "8d2910626aebd167a5abcfc7f103c56a",
