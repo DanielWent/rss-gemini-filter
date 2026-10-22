@@ -2941,6 +2941,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "c9e1e79558af0ee7e2046f0b5eeff9ca",
+        "title": "Barclays to cut 5,000 jobs this year as AI makes work more efficient",
+        "link": "https://www.glasgowtimes.co.uk/news/26659428.barclays-cut-5-000-jobs-year-ai-makes-work-efficient/",
+        "description": "Barclays has revealed it expects to have cut around 5,000 staff by the end of 2026 after turning to artificial intelligence (AI) to make the bank more efficient",
+        "published": "Thu, 22 Oct 2026 09:15:30 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21615648/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-traffic-wardens-ordered-spy-34799816",
+        "title": "Glasgow traffic wardens 'ordered to spy on drug dealers' at notorious crime hotspot",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-traffic-wardens-ordered-spy-34799816",
+        "description": "Furious enforcement officers say bosses have put a \u201ctarget on their backs\u201d.",
+        "published": "Thu, 22 Oct 2026 08:07:08 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34799858.ece/ALTERNATES/s98/0_Screenshot-2026-10-22-085721.png"
+      },
+      {
+        "id": "ac27cad6bf65ae9c27181fce3298a281",
+        "title": "LIVE updates as M74 BLOCKED as emergency services at scene of crash",
+        "link": "https://www.glasgowtimes.co.uk/news/26659385.live-updates-m74-blocked-rush-hour-crash/",
+        "description": "The M74 Southbound is currently blocked at junction 1A and 2 as emergency services respond to a crash",
+        "published": "Thu, 22 Oct 2026 09:03:28 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21615615/?type=app&htype=0"
+      },
+      {
         "id": "9301935",
         "title": "Rangers undertake EFL League One scouting mission as Under-21 international remains on Ibrox radar",
         "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-undertake-efl-league-one-scouting-mission-as-under-21-international-remains-on-ibrox-radar-9301935",
@@ -3715,30 +3739,6 @@
         "description": "The globally-renowned pizzeria will start welcoming pizza lovers this October at 35 Gordon Street later this month, with the new restaurant taking shape.",
         "published": "Tue, 20 Oct 2026 14:53:37 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34792036.ece/ALTERNATES/s98/0_Screenshot-2026-10-20-at-23033PM.png"
-      },
-      {
-        "id": "d351bb48c5979701d2cda708d298170a",
-        "title": "Major Glasgow road to close for seven weeks as cycle lane work begins",
-        "link": "https://www.glasgowtimes.co.uk/news/26654397.seven-week-road-closure-planned-cycle-lane-works/",
-        "description": "Wishart Street will close to traffic for seven weeks while work takes place on a cycle lane and footways.",
-        "published": "Tue, 20 Oct 2026 15:47:03 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21475912/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=534159",
-        "title": "\u2018Stupid\u2019 rider spotted on e-scooter on Glasgow\u2019s M8 Kingston Bridge",
-        "link": "https://news.stv.tv/west-central/stupid-rider-spotted-on-e-scooter-on-glasgows-m8-kingston-bridge",
-        "description": "Dashcam footage appears to show a figure zooming across lanes on the M8 Kingston Bridge",
-        "published": "Tue, 20 Oct 2026 14:43:57 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/786961ffaace352433cde2c635128d44-1792507200-1119x720.jpeg"
-      },
-      {
-        "id": "1196b41c93d0ddfa7684178e2fb08bcc",
-        "title": "EastEnders stars to lead smash hit musical coming to Glasgow's King's Theatre",
-        "link": "https://www.glasgowtimes.co.uk/news/26654208.eastenders-stars-lead-smash-hit-musical-coming-glasgow/",
-        "description": "EastEnders stars are set to lead a touring production of a smash hit musical coming to Glasgow.",
-        "published": "Tue, 20 Oct 2026 15:25:03 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21607986/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
