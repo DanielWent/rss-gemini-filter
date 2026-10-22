@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1792673713219822",
+        "title": "Weather warning in place ahead of Storm Boelo",
+        "link": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss",
+        "description": "A Met Office weather warning is in place from 18:00 BST on Saturday until 15:00 GMT on Sunday.",
+        "published": "Thu, 22 Oct 2026 14:43:39 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d7f/live/0d8bf270-ce10-11f1-9f55-cdc56e9c248c.png"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo#4",
         "title": "At least four dead after storm brings flooding to southern France",
         "link": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "A curious online row over this summer's heatwaves points to a wider - and worrying - shift in climate science.",
         "published": "Tue, 08 Sep 2026 23:11:52 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba25/live/699e3f00-ab83-11f1-a291-b542ee92de7c.jpg"
-      },
-      {
-        "id": "1788902413822996",
-        "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
-        "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
-        "description": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
-        "published": "Tue, 08 Sep 2026 22:57:09 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22b2/live/38d45d10-abc3-11f1-a601-7d96c5d5b6ea.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2941,12 +2941,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "212068bef83393a4b51d264904e6462e",
+        "title": "Glasgow councillors reject bid to rethink \u00a31m McVitie\u2019s factory fund",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26661098.glasgow-councillors-reject-bid-rethink-1m-mcvities-factory-fund/",
+        "description": "A bid to reconsider how \u00a31m in legacy funding from Glasgow\u2019s former McVitie\u2019s factory is being spent has been rejected by councillors.",
+        "published": "Thu, 22 Oct 2026 13:43:24 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21446750/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-police-dispersal-zone-set-34801880",
+        "title": "New police dispersal zone set for Glasgow area over Halloween and Bonfire Night",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/new-police-dispersal-zone-set-34801880",
+        "description": "The zone, which follows the introduction of similar measures in the city centre earlier this year, aims to deter fireworks-related disorder in the area.",
+        "published": "Thu, 22 Oct 2026 12:40:28 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34794369.ece/ALTERNATES/s98/4_Fireworks.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=534558",
+        "title": "Where to see the Tour de France in Scotland as full route announced",
+        "link": "https://news.stv.tv/west-central/where-to-see-the-tour-de-france-in-scotland-as-full-route-announced",
+        "description": "Cycling fans will be able to catch a glimpse of the race after it sets off from Edinburgh in July next year",
+        "published": "Thu, 22 Oct 2026 12:28:11 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/6bc21032dbd3a50a7cf4f11305359f26-1792672227-1120x720.jpeg"
+      },
+      {
         "id": "d0fa0d203fae435c5736a91085f8a17e",
         "title": "Ex-youth coach locked up after attacking Celtic staff member during pitch invasion",
         "link": "https://www.glasgowtimes.co.uk/news/26660820.lanark-rangers-fan-locked-attacking-celtic-staff-member/",
         "description": "A Rangers fan who invaded the pitch at Ibrox after an Old Firm game and attacked a Celtic staff member was locked up today.",
         "published": "Thu, 22 Oct 2026 12:47:38 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21617633/?type=app&htype=0"
+      },
+      {
+        "id": "f6b56702d2eaa482361078a2937a21b6",
+        "title": "Ayrshire Bakery sold as owners retire after more than 50 years in business",
+        "link": "https://www.heraldscotland.com/news/26660693.kandy-bar-bakery-sold-owners-retire-50-years/",
+        "description": "Saltcoats\u2019 Kandy Bar Bakery owners Stephen and Rona McAllister retire after 50 years, selling the Ayrshire business to Craig and Lesley McPhie.",
+        "published": "Thu, 22 Oct 2026 12:40:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21617626/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=534549",
@@ -2957,12 +2989,28 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/964bc9d9b733b7e9cff3faefbef31a2d-1792667834-1119x720.jpeg"
       },
       {
+        "id": "e1a4f8d6b3926a19f420d75ed60e1bc2",
+        "title": "Police launch new dispersal zone in THIS Glasgow neighbourhood",
+        "link": "https://www.glasgowtimes.co.uk/news/26660747.police-launch-dispersal-zone-pollokshields-ahead-bonfire-night/",
+        "description": "A new dispersal zone, which can allow officers to force people away from the area, has been launched in a Southside neighbourhood ahead of Bonfire Night",
+        "published": "Thu, 22 Oct 2026 12:31:15 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18732031/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/tv/glasgow-woman-facial-difference-warns-34801293",
         "title": "Glasgow woman with facial difference warns against 'discriminatory' Halloween habit",
         "link": "https://www.glasgowlive.co.uk/news/tv/glasgow-woman-facial-difference-warns-34801293",
         "description": "The Glasgow woman appeared on This Morning to discuss the challenges people with visible differences face during Halloween",
         "published": "Thu, 22 Oct 2026 11:22:08 +0000",
         "image_url": "https://i2-prod.birminghammail.co.uk/incoming/article34801396.ece/ALTERNATES/s98/0_Kaylin-M.png"
+      },
+      {
+        "id": "cd0f7f0413d55b1cdd51f091d64ecf14",
+        "title": "Scotland faces 80mph winds and heavy rain as Storm Boelo warning issued",
+        "link": "https://www.heraldscotland.com/news/26660672.storm-boelo-scotland-faces-80mph-weekend-winds-heavy-rain/",
+        "description": "The weather warning for wind follows one for rain on Friday",
+        "published": "Thu, 22 Oct 2026 12:18:41 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21617518/?type=app&htype=0"
       },
       {
         "id": "9302955",
