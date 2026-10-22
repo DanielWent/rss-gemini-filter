@@ -2949,6 +2949,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=534645",
+        "title": "Pollokshields dispersal zone to come into force to curb Bonfire Night disorder",
+        "link": "https://news.stv.tv/west-central/pollokshields-dispersal-zone-to-come-into-force-to-curb-bonfire-night-disorder",
+        "description": "Pollokshields will also be subject to a Firework Control Zone following anti-social behaviour in recent years",
+        "published": "Thu, 22 Oct 2026 15:47:23 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2025/10/22059c9e4c1f8066df965f60b32fc4bb-1761851574-1280x720.jpeg"
+      },
+      {
+        "id": "756eca5ca98c09e58b795cb333036e88",
+        "title": "15 arrested in immigration crackdown at Loch Ryan and Cairnryan ports",
+        "link": "https://www.heraldscotland.com/news/26662221.15-arrested-connection-immigration-offences-scottish-ports/",
+        "description": "Police have arrested 15 people in connection with immigration offences following two weeks of action at Loch Ryan and Cairnryan Ports.",
+        "published": "Thu, 22 Oct 2026 16:40:07 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/10417075/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-city-councils-staff-absence-34803769",
+        "title": "Glasgow City Council's staff absence levels 'nothing short of shocking'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-city-councils-staff-absence-34803769",
+        "description": "The report also highlights that sickness absence is higher than expected and exceeded the council\u2019s target of five days per year.",
+        "published": "Thu, 22 Oct 2026 15:36:08 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article32899655.ece/ALTERNATES/s98/0_City-Chambers.jpg"
+      },
+      {
+        "id": "b95f6ee851aff4bdf95b1409de088a52",
+        "title": "Six-week sewer works set to bring major disruption to busy Glasgow area",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26662130.six-week-sewer-works-cause-traffic-disruption-glasgow/",
+        "description": "Scottish Water sewer works begin on Argyle Street, Finnieston, Glasgow, on October 27, with six weeks of lane closures, traffic lights and parking restrictions.",
+        "published": "Thu, 22 Oct 2026 16:27:18 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20656699/?type=app&htype=0"
+      },
+      {
+        "id": "db147c848dab3dc6133f111e9c38e744",
+        "title": "Multi-vehicle collision sparks major delays on M8 motorway in Glasgow",
+        "link": "https://www.heraldscotland.com/news/26662038.multi-vehicle-collision-sparks-major-delays-m8-motorway/",
+        "description": "A multi-vehicle collision is causing major delays for motorists on the M8 motorway.",
+        "published": "Thu, 22 Oct 2026 16:15:13 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/13246506/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/wee-glasgow-soft-play-designed-34802389",
         "title": "Wee Glasgow soft play designed to be 'calm and inclusive' rated the 'best in UK'",
         "link": "https://www.glasgowlive.co.uk/whats-on/family-kids-news/wee-glasgow-soft-play-designed-34802389",
@@ -2963,6 +3003,22 @@
         "description": "Jordan Hadden also picked up and threw a bottle at Celtic fans, which narrowly avoided a police officer.",
         "published": "Thu, 22 Oct 2026 14:59:57 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34803270.ece/ALTERNATES/s98/0_image-2026-10-22T153453660.jpg"
+      },
+      {
+        "id": "474d597e156e14dd57a42a77bd81c8a1",
+        "title": "Barclays stays silent on Glasgow jobs as 5,000 roles face axe",
+        "link": "https://www.heraldscotland.com/news/26661732.barclays-silent-glasgow-impact-5-000-job-cuts/",
+        "description": "Barclays has declined to say whether workers at its flagship Glasgow campus will be affected by plans to cut around 5,000 jobs globally",
+        "published": "Thu, 22 Oct 2026 15:55:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21619474/?type=app&htype=0"
+      },
+      {
+        "id": "ee41686b0f697651e6e36f379a7aaa48",
+        "title": "If the SNP can't be convinced on public sector reform, we've got a problem",
+        "link": "https://www.heraldscotland.com/news/26661795.snp-conference-exposed-problem-ivan-mckee/",
+        "description": "Ivan McKee faced backlash from within his own party, making the Scottish Government's public sector reform plans even tougher.",
+        "published": "Thu, 22 Oct 2026 15:39:11 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21619191/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=534568",
