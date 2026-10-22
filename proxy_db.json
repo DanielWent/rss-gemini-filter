@@ -2949,12 +2949,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=534667",
+        "title": "Glasgow City Council investigating vape shop that opened beside historic Charles Rennie Mackintosh tearoom",
+        "link": "https://news.stv.tv/west-central/glasgow-city-council-investigating-vape-shop-that-opened-beside-historic-charles-rennie-mackintosh-tearoom",
+        "description": "The Mackintosh Tearooms claimed there was an 'increased risk of fire' to the historic building after a vape shop opened next door",
+        "published": "Thu, 22 Oct 2026 16:06:27 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/44464755147e115277177168dc30a17c-1792685988-1080x720.jpg"
+      },
+      {
+        "id": "d1387c65df8543708e452f78f253a2fd",
+        "title": "Rail bosses issue warning to Glasgow passengers ahead of stormy weekend",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26662345.network-rail-warns-glasgow-train-disruption-ahead-storm-boelo/",
+        "description": "Glasgow passengers are warned of delays as Network Rail and ScotRail prepare for Storms Austen and Boelo, with speed limits, flooding and disruption possible.",
+        "published": "Thu, 22 Oct 2026 17:03:51 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21212050/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=534645",
         "title": "Pollokshields dispersal zone to come into force to curb Bonfire Night disorder",
         "link": "https://news.stv.tv/west-central/pollokshields-dispersal-zone-to-come-into-force-to-curb-bonfire-night-disorder",
         "description": "Pollokshields will also be subject to a Firework Control Zone following anti-social behaviour in recent years",
         "published": "Thu, 22 Oct 2026 15:47:23 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2025/10/22059c9e4c1f8066df965f60b32fc4bb-1761851574-1280x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-padel-court-proposals-bowling-34803891",
+        "title": "Glasgow padel court proposals at bowling club face objections",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-padel-court-proposals-bowling-34803891",
+        "description": "Objectors worried about the impact on the conservation area while supporters claim it encourages an active lifestyle.",
+        "published": "Thu, 22 Oct 2026 15:47:06 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34803883.ece/ALTERNATES/s98/0_bowlingclub.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/concerns-whistleblowing-referrals-glasgow-city-34803690",
+        "title": "Concerns as whistleblowing referrals at Glasgow City Council soar compared to last year",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/concerns-whistleblowing-referrals-glasgow-city-34803690",
+        "description": "Many of these referrals included investigations on council tax and non domestic rates, parking for the disabled and complaints over staff/services.",
+        "published": "Thu, 22 Oct 2026 15:44:32 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33445571.ece/ALTERNATES/s98/2_Glasgow-City-Chambers.jpg"
       },
       {
         "id": "756eca5ca98c09e58b795cb333036e88",
@@ -3085,14 +3117,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21613812/?type=app&htype=0"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo#0",
-        "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-        "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-        "description": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
-        "published": "Thu, 22 Oct 2026 12:54:36 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d20/live/5fb48ff0-622b-11f0-8e4a-613b923287ab.jpg"
-      },
-      {
         "id": "7c33f47159c0cc2e508f6ce506a120cb",
         "title": "Glasgow estate agents could face action over \u2018For Sale\u2019 signs left behind",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26661151.calls-action-for-sale-signs-left-across-glasgow/",
@@ -3125,14 +3149,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21446750/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-police-dispersal-zone-set-34801880",
-        "title": "New police dispersal zone set for Glasgow area over Halloween and Bonfire Night",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/new-police-dispersal-zone-set-34801880",
-        "description": "The zone, which follows the introduction of similar measures in the city centre earlier this year, aims to deter fireworks-related disorder in the area.",
-        "published": "Thu, 22 Oct 2026 12:40:28 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34794369.ece/ALTERNATES/s98/4_Fireworks.jpg"
-      },
-      {
         "id": "a4d1e4082bb7a77216856352c2087b46",
         "title": "Major Glasgow rail line closures planned over Christmas and New Year",
         "link": "https://www.glasgowtimes.co.uk/news/26660932.glasgow-train-lines-close-christmas-new-year/",
@@ -3147,14 +3163,6 @@
         "description": "Glasgow motorists could gain protection from private parking charges under a Government code, with grace periods, fairer appeals and a proposed \u00a3100 cap.",
         "published": "Thu, 22 Oct 2026 13:02:03 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21265340/?type=app&htype=0"
-      },
-      {
-        "id": "d0fa0d203fae435c5736a91085f8a17e",
-        "title": "Ex-youth coach locked up after attacking Celtic staff member during pitch invasion",
-        "link": "https://www.glasgowtimes.co.uk/news/26660820.lanark-rangers-fan-locked-attacking-celtic-staff-member/",
-        "description": "A Rangers fan who invaded the pitch at Ibrox after an Old Firm game and attacked a Celtic staff member was locked up today.",
-        "published": "Thu, 22 Oct 2026 12:47:38 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21617633/?type=app&htype=0"
       },
       {
         "id": "f6b56702d2eaa482361078a2937a21b6",
