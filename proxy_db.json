@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c9gkvz72vmjlo#4",
+        "title": "Devon and Cornwall battening down the hatches ahead of Storm Austen",
+        "link": "https://www.bbc.co.uk/news/articles/c9gkvz72vmjlo?at_medium=RSS&at_campaign=rss",
+        "description": "Wind gusts of up to 80mph (130km/h) are forecast to bring disruption across the South West.",
+        "published": "Thu, 22 Oct 2026 06:35:52 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec88/live/04563de0-cd4e-11f1-8177-0f8bd59b54c4.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o#1",
         "title": "What is PHP and why did it spark an international cyber-security alert?",
         "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
         "published": "Mon, 07 Sep 2026 23:05:12 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/192e/live/85ed8b30-aaa1-11f1-aed2-8d6da8d75094.jpg"
-      },
-      {
-        "id": "1788800781901815",
-        "title": "Late season lift for Reekie after difficult summer",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/ckgv5l615z6o?at_medium=RSS&at_campaign=rss",
-        "description": "Scotland's Jemma Reekie vows to come back stronger after \"a really tricky season\", which included a lingering concussion and a disappointing home Commonwealth Games.",
-        "published": "Mon, 07 Sep 2026 18:47:27 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ae/live/494efd40-aad7-11f1-aa35-df10e5ff32f4.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
