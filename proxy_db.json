@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo#4",
+        "title": "At least four dead after storm brings flooding to southern France",
+        "link": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
+        "description": "The deaths include two women found drowned in a cellar in the Bouches-du-Rh\u00f4ne region.",
+        "published": "Thu, 22 Oct 2026 11:23:16 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba84/live/388ad750-cdf9-11f1-9a39-31b474234113.jpg"
+      },
+      {
         "id": "1792667713998764",
         "title": "Yellow wind warning for Scotland in weekend of storms",
         "link": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
         "published": "Tue, 08 Sep 2026 22:57:09 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22b2/live/38d45d10-abc3-11f1-a601-7d96c5d5b6ea.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cwyze8ed774o#3",
-        "title": "Shetland spaceport project secures \u00a330m of UK government investment",
-        "link": "https://www.bbc.co.uk/news/articles/cwyze8ed774o?at_medium=RSS&at_campaign=rss",
-        "description": "The funding will be used to build two more launchpads.",
-        "published": "Tue, 08 Sep 2026 08:48:33 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dc0/live/cbfc7a70-aae5-11f1-99dd-5152b950d9db.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2941,6 +2941,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "d0fa0d203fae435c5736a91085f8a17e",
+        "title": "Ex-youth coach locked up after attacking Celtic staff member during pitch invasion",
+        "link": "https://www.glasgowtimes.co.uk/news/26660820.lanark-rangers-fan-locked-attacking-celtic-staff-member/",
+        "description": "A Rangers fan who invaded the pitch at Ibrox after an Old Firm game and attacked a Celtic staff member was locked up today.",
+        "published": "Thu, 22 Oct 2026 12:47:38 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21617633/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=534549",
+        "title": "Why have Egyptian mummies at Glasgow\u2019s Kelvingrove Museum been removed from display?",
+        "link": "https://news.stv.tv/west-central/why-have-egyptian-mummies-at-glasgows-kelvingrove-museum-been-removed-from-display",
+        "description": "The remains of a priest, a hand, a head and a right foot have been removed from display due to a lack of 'consent from the deceased'",
+        "published": "Thu, 22 Oct 2026 11:35:42 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/964bc9d9b733b7e9cff3faefbef31a2d-1792667834-1119x720.jpeg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/tv/glasgow-woman-facial-difference-warns-34801293",
         "title": "Glasgow woman with facial difference warns against 'discriminatory' Halloween habit",
         "link": "https://www.glasgowlive.co.uk/news/tv/glasgow-woman-facial-difference-warns-34801293",
@@ -2955,6 +2971,14 @@
         "description": "<p>Premier League sides Aston Villa and Hull City have expressed previous interest in the player</p>",
         "published": "Thu, 22 Oct 2026 11:00:50 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/22/9/30/GettyImages-2257037985.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "f0e5a4a9ac33a270e79c07373035a49e",
+        "title": "Edinburgh\u2019s Aspect Building set for \u00a326 million refurbishment and rooftop pavilion",
+        "link": "https://www.heraldscotland.com/news/26660495.edinburghs-aspect-building-undergo-office-revamp/",
+        "description": "The Aspect Building in Edinburgh\u2019s West End will be refurbished to provide more than 26,000 sq ft of Grade A office space, landscaped gardens and a rooftop pavilion, with completion expected by the end of 2027.",
+        "published": "Thu, 22 Oct 2026 12:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21617273/?type=app&htype=0"
       },
       {
         "id": "9303396",
