@@ -2098,6 +2098,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "63e79f61541078e6e53dadeb9b01d561",
+        "title": "Weather warning forces cancellation of flagship Scottish athletics event",
+        "link": "https://www.glasgowtimes.co.uk/news/weather/26665115.scottish-athletics-axes-xc-relays-high-winds-pose-safety-risk/",
+        "description": "A national sporting event has been cancelled due to safety concerns.",
+        "published": "Fri, 23 Oct 2026 14:26:37 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21623947/?type=app&htype=0"
+      },
+      {
         "id": "15197c554b691e40741fff66b0dccb1c",
         "title": "School praised by UNICEF after achieving rare gold honour",
         "link": "https://www.glasgowtimes.co.uk/news/26664259.east-dunbartonshire-school-retains-top-unicef-childrens-rights-award/",
@@ -2957,6 +2965,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8b34c1b9e68279c14990d348f90a74c6",
+        "title": "Glasgow office buildings could be turned into four flats under new plan",
+        "link": "https://www.glasgowtimes.co.uk/news/26665163.b-listed-finnieston-offices-turned-four-flats/",
+        "description": "Glasgow City Council is considering plans to convert B-listed office buildings at 16 and 17 Fitzroy Place, Finnieston, into four flats, retaining the facade.",
+        "published": "Fri, 23 Oct 2026 14:34:58 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20271602/?type=app&htype=4"
+      },
+      {
+        "id": "63e79f61541078e6e53dadeb9b01d561",
+        "title": "Weather warning forces cancellation of flagship Scottish athletics event",
+        "link": "https://www.glasgowtimes.co.uk/news/weather/26665115.scottish-athletics-axes-xc-relays-high-winds-pose-safety-risk/",
+        "description": "A national sporting event has been cancelled due to safety concerns.",
+        "published": "Fri, 23 Oct 2026 14:26:37 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21623947/?type=app&htype=0"
+      },
+      {
         "id": "e46d09bd72071597f09525c5e718d9a6",
         "title": "Scottish mental health hub supports more than 8,500 visitors in first year",
         "link": "https://www.heraldscotland.com/news/26664929.glasgows-nook-mental-health-hub-celebrates-one-year/",
@@ -3739,22 +3763,6 @@
         "description": "The weather warning for wind follows one for rain on Friday",
         "published": "Thu, 22 Oct 2026 12:18:41 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21617518/?type=app&htype=0"
-      },
-      {
-        "id": "9302955",
-        "title": "La Liga side 'continue to monitor' Rangers star as Light Blues refuse to budge on \u00a320m transfer valuation",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/la-liga-side-continue-to-monitor-rangers-star-beyond-window-as-light-blues-refuse-to-budge-on-ps20m-transfer-valuation-9302955",
-        "description": "<p>Premier League sides Aston Villa and Hull City have expressed previous interest in the player</p>",
-        "published": "Thu, 22 Oct 2026 11:00:50 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/22/9/30/GettyImages-2257037985.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "f0e5a4a9ac33a270e79c07373035a49e",
-        "title": "Edinburgh\u2019s Aspect Building set for \u00a326 million refurbishment and rooftop pavilion",
-        "link": "https://www.heraldscotland.com/news/26660495.edinburghs-aspect-building-undergo-office-revamp/",
-        "description": "The Aspect Building in Edinburgh\u2019s West End will be refurbished to provide more than 26,000 sq ft of Grade A office space, landscaped gardens and a rooftop pavilion, with completion expected by the end of 2027.",
-        "published": "Thu, 22 Oct 2026 12:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21617273/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
