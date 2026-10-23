@@ -3005,6 +3005,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "0b6ab39ff5137bf6579fb6a92fd73e23",
+        "title": "Major M8 and M77 closures to hit Glasgow drivers over four weekends",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26666348.overnight-m8-m77-closures-planned-gantry-works/",
+        "description": "M8 and M77 overnight road closures in Glasgow begin on October 30 for gantry refurbishment. See diversion routes and Transport Scotland travel updates.",
+        "published": "Fri, 23 Oct 2026 17:15:14 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18844223/?type=app&htype=0"
+      },
+      {
         "id": "c1814fecfe5a74bd25fc2cebefbc2779",
         "title": "Glasgow primary school site left empty for 15 years set for major transformation",
         "link": "https://www.glasgowtimes.co.uk/news/26666119.former-glasgow-primary-school-site-set-transformed/",
@@ -3083,14 +3091,6 @@
         "description": "The UK Jewish Film Festival\u2019s 30th anniversary edition will take place in Glasgow this December.",
         "published": "Fri, 23 Oct 2026 15:14:48 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21521535/?type=app&htype=0"
-      },
-      {
-        "id": "0799a030698575262567a9c126b8ccb5",
-        "title": "Glasgow City Council whistleblowing referrals almost double to 272 in six months",
-        "link": "https://www.glasgowtimes.co.uk/news/26665315.glasgow-council-whistleblowing-referrals-almost-double/",
-        "description": "Glasgow City Council whistleblowing referrals almost doubled to 272 in six months, covering council tax, Blue Badges, fraud and staff misconduct amid concerns.",
-        "published": "Fri, 23 Oct 2026 14:59:03 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20090128/?type=app&htype=0"
       },
       {
         "id": "fed8816e7722e58cf5317d10a7421229",
@@ -3237,14 +3237,6 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/09/08/16/08/b25lY21zOjg2MWJiODBkLWQxOGUtNDk4NC1iNTdhLWM2NGU4MDI4MTU2ZTowN2E2ZTY5Ny04YjViLTQwZTQtOWI2Mi00MWQ4M2Jl.jpeg?width=1200&auto=webp&crop=3%3A2"
       },
       {
-        "id": "6a65dd1ae30dd2bf57de3bb04347acd2",
-        "title": "Fight for the Night marches to demand and end to violence against women",
-        "link": "https://www.glasgowtimes.co.uk/news/26664571.fight-night-march-glasgow-womens-safety/",
-        "description": "Students in Glasgow are leading marches next month to demand safer streets for women.",
-        "published": "Fri, 23 Oct 2026 12:49:48 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21623085/?type=app&htype=0"
-      },
-      {
         "id": "62614c8a257ffe0cc557fa2431173081",
         "title": "Future of historic house once described as 'Scotland's most at risk building' secured",
         "link": "https://www.heraldscotland.com/news/26664566.future-crumbling-historic-gem-midlothian-secured/",
@@ -3259,14 +3251,6 @@
         "description": "&quot;For us, this is about more than opening another store \u2014 it\u2019s about continued investment in Glasgow, its people, and its future.\u201d",
         "published": "Fri, 23 Oct 2026 11:44:40 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34806669.ece/ALTERNATES/s98/1_Black-Sheep-Coffee-Glasgow-Silverburn-35.jpg"
-      },
-      {
-        "id": "fb52e619976f6ef6e2b0f41f5c074834",
-        "title": "LIVE updates as Glasgow Airport speaks out on 'danger to life' weather warning",
-        "link": "https://www.glasgowtimes.co.uk/news/26664458.live-updates-glasgow-airport-issues-statement-storm-boelo/",
-        "description": "Glasgow Airport has issued a statement after the Met Office announced an amber weather warning for Glasgow. Storm Boelo is set to strike down on Saturday, right through into Sunday. Event organisers such as GlasGLOW have also spoken out regarding the looming stormy weather.",
-        "published": "Fri, 23 Oct 2026 12:29:16 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19003212/?type=app&htype=0"
       },
       {
         "id": "50937a54fdcc0ae230d1e7bb1cd658f1",
@@ -3339,6 +3323,14 @@
         "description": "A suspicious item found in Glasgow was taken to Irvine beach to be disposed of on Wednesday",
         "published": "Fri, 23 Oct 2026 09:35:17 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/6972e8799dad964aa584c26db39e84a1-1792746643-1120x720.jpeg"
+      },
+      {
+        "id": "54366b748712636dfd7e1670fac8c5f9",
+        "title": "OVO Hydro news, interviews and updates on the popular music venue",
+        "link": "https://www.glasgowtimes.co.uk/news/25176533.ovo-hydro-news-interviews-updates-music-venue/",
+        "description": "All the latest news, interviews, and updates on the OVO Hydro.",
+        "published": "Fri, 23 Oct 2026 10:20:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18993946/?type=app&htype=0"
       },
       {
         "id": "57e7c8b181a668c61309bf0baf2c61bb",
@@ -3763,14 +3755,6 @@
         "description": "he Flower and the Stone opens at Glasgow Art Club on Oct. 20, bringing together 18 works exploring Pictish symbolism, the Glasgow Style and Scottish identity.",
         "published": "Thu, 22 Oct 2026 13:52:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21618232/?type=app&htype=0"
-      },
-      {
-        "id": "1da7a569c5844c1589b69000c8033d5a",
-        "title": "Unused Glasgow land to be transformed into new community greenspace",
-        "link": "https://www.glasgowtimes.co.uk/news/26661107.glasgow-vacant-plot-approved-new-community-greenspace/",
-        "description": "Unused Glasgow land to be turned into community space.",
-        "published": "Thu, 22 Oct 2026 13:44:33 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21469861/?type=app&htype=0"
       },
       {
         "id": "212068bef83393a4b51d264904e6462e",
