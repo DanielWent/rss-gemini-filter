@@ -2997,6 +2997,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "997d7ec9bfc0c18bea0980219b064a26",
+        "title": "\u2018Let\u2019s fight for it\u2019 - worker speaks out amid threat to over 200 jobs near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26665702.honeywell-workers-speak-amid-jobs-threat-outisde-glasgow/",
+        "description": "A worker who has spent around 20 years at Honeywell has spoken out as Unite prepares to fight proposals affecting 91 jobs near Glasgow.",
+        "published": "Fri, 23 Oct 2026 15:51:11 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21624844/?type=app&htype=26"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c862yv953x04o#0",
         "title": "Glasgow museums remove mummified remains from public view",
         "link": "https://www.bbc.co.uk/news/articles/c862yv953x04o?at_medium=RSS&at_campaign=rss",
@@ -3013,20 +3021,20 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34808492.ece/ALTERNATES/s98/0_JS357574465.jpg"
       },
       {
-        "id": "https://news.stv.tv/?p=534837",
-        "title": "Scots who led crime gang jailed for 16 years over \u00a334m cocaine smuggling plot",
-        "link": "https://news.stv.tv/west-central/scots-who-led-crime-gang-jailed-for-16-years-over-34m-cocaine-smuggling-plot",
-        "description": "425kg of the Class A drug was seized after it was brought into Eastbourne Marina in East Sussex by fishing vessel",
-        "published": "Fri, 23 Oct 2026 14:33:22 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/eccbe98ae67418cb6d5f41668634653b-1792765113-1200x720.jpeg"
-      },
-      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-demands-safer-streets-women-34808413",
         "title": "Glasgow demands safer streets for women and girls as students to protest next month",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-demands-safer-streets-women-34808413",
         "description": "\u201cWe believe that, women, trans and non-binary people and those presenting as female, have the right to walk the streets at night without the fear of sexual and gendered violence.&quot;",
         "published": "Fri, 23 Oct 2026 14:22:47 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34808587.ece/ALTERNATES/s98/0_Screenshot-2026-10-23-143641.png"
+      },
+      {
+        "id": "04be513f7a481886f7d4d486a4dfae4c",
+        "title": "One Direction star visits popular Glasgow sporting venue",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26665450.niall-horan-visits-glasgow-golf-venues-disability-programme/",
+        "description": "Niall Horan's unexpected stop at Glasgow golf venue goes viral on TikTok.",
+        "published": "Fri, 23 Oct 2026 15:16:27 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20145501/?type=app&htype=0"
       },
       {
         "id": "6280baf81310cb8a37a9ac02b7b00ce0",
@@ -3077,12 +3085,28 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20271602/?type=app&htype=4"
       },
       {
+        "id": "71de913b958ba7c0312ccb9b95d1cad3",
+        "title": "'Nonsense': Fresh blow for Scottish Government over public service shake-up",
+        "link": "https://www.heraldscotland.com/news/26664692.ivan-mckee-warned-reforms-will-fail-without-social-care/",
+        "description": "The Scottish Government's public sector reform plans have faced more bruising criticism.",
+        "published": "Fri, 23 Oct 2026 14:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20893766/?type=app&htype=0"
+      },
+      {
         "id": "63e79f61541078e6e53dadeb9b01d561",
         "title": "Weather warning forces cancellation of flagship Scottish athletics event",
         "link": "https://www.glasgowtimes.co.uk/news/weather/26665115.scottish-athletics-axes-xc-relays-high-winds-pose-safety-risk/",
         "description": "A national sporting event has been cancelled due to safety concerns.",
         "published": "Fri, 23 Oct 2026 14:26:37 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21623947/?type=app&htype=0"
+      },
+      {
+        "id": "f8d9ed1217e04a6479b227daa06f64eb",
+        "title": "Rail lines to close as amber warning issued for Scotland",
+        "link": "https://www.heraldscotland.com/news/26665062.rail-lines-close-across-scotland-amber-warning-issued/",
+        "description": "Rail lines in the west and north of Scotland are to close during Storm Boelo, with speed restrictions also being introduced across the country as strong winds and heavy rain move in.",
+        "published": "Fri, 23 Oct 2026 14:17:21 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21623895/?type=app&htype=0"
       },
       {
         "id": "e46d09bd72071597f09525c5e718d9a6",
