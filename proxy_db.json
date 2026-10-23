@@ -69,14 +69,6 @@
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2ef/live/525eab10-cdfa-11f1-97f7-a7674fb562de.jpg"
       },
       {
-        "id": "1792664709054125",
-        "title": "Two storms in two days as Austen and Boelo target UK",
-        "link": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro?at_medium=RSS&at_campaign=rss",
-        "description": "The Met Office have named a new storm, Boelo, which is set to bring another round of stormy weather to the UK over the weekend.",
-        "published": "Thu, 22 Oct 2026 12:05:41 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2ef/live/525eab10-cdfa-11f1-97f7-a7674fb562de.jpg"
-      },
-      {
         "id": "https://www.bbc.co.uk/news/articles/c9gkvz72vmjlo#4",
         "title": "Devon and Cornwall battening down the hatches ahead of Storm Austen",
         "link": "https://www.bbc.co.uk/news/articles/c9gkvz72vmjlo?at_medium=RSS&at_campaign=rss",
@@ -2106,6 +2098,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "68434a137ba79ea4ba8ce6e97d57f29f",
+        "title": "Glasgow woman says 'SAD lamps' helped to stop her feeling 'crushed' by winter",
+        "link": "https://www.glasgowtimes.co.uk/news/26661219.wintering-well-box-helped-woman-not-feel-crushed-winter/",
+        "description": "A 76-year-old who was one of the first people to borrow a Wintering Well box said it has helped to stop her feeling \u201ccrushed\u201d by the winter",
+        "published": "Fri, 23 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21618397/?type=app&htype=0"
+      },
+      {
         "id": "7c33f47159c0cc2e508f6ce506a120cb",
         "title": "Glasgow estate agents could face action over \u2018For Sale\u2019 signs left behind",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26661151.calls-action-for-sale-signs-left-across-glasgow/",
@@ -2948,6 +2948,46 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "68434a137ba79ea4ba8ce6e97d57f29f",
+        "title": "Glasgow woman says 'SAD lamps' helped to stop her feeling 'crushed' by winter",
+        "link": "https://www.glasgowtimes.co.uk/news/26661219.wintering-well-box-helped-woman-not-feel-crushed-winter/",
+        "description": "A 76-year-old who was one of the first people to borrow a Wintering Well box said it has helped to stop her feeling \u201ccrushed\u201d by the winter",
+        "published": "Fri, 23 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21618397/?type=app&htype=0"
+      },
+      {
+        "id": "ad7c0baaf611575457238ac2c6f3ec56",
+        "title": "I tried Glasgow city centre's new subterranean spa - my verdict",
+        "link": "https://www.glasgowtimes.co.uk/news/26662081.new-underground-glasgow-spa-atera-opens-oswald-street/",
+        "description": "Underneath\u00a0Oswald Street may not be your first guess when I asked you to name where I've found one of the most relaxing places in Glasgow city centre, but a new spa has changed that.",
+        "published": "Fri, 23 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21619597/?type=app&htype=0"
+      },
+      {
+        "id": "5a688e31ba8fc642819252d96245b5f8",
+        "title": "'Platform has changed our community': Glasgow venue marks 20 years in Easterhouse",
+        "link": "https://www.glasgowtimes.co.uk/news/26661868.glasgows-platform-celebrates-20-years-heart-easterhouse/",
+        "description": "As Platform marks its 20th anniversary, artists, audiences and local residents reflect on how the Easterhouse venue has transformed lives, nurtured talent and built community.",
+        "published": "Fri, 23 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21619408/?type=app&htype=0"
+      },
+      {
+        "id": "4c7816e5dd3b6d0731893094eeada660",
+        "title": "New owners reveal plans for iconic Glasgow pub as they vow to protect its 'soul'",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26661433.new-owners-glasgows-star-bar-reveal-plans-keep-soul/",
+        "description": "The new owners of one of Glasgow\u2019s best-known traditional pubs have revealed how they plan to protect its \u201csoul\u201d while taking the institution into a new era.",
+        "published": "Fri, 23 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21619171/?type=app&htype=0"
+      },
+      {
+        "id": "05bdecae86ed465ab4b2edfe248e9d52",
+        "title": "\u2018I\u2019m not going to get everyone happy\u2019 Ivan McKee on public sector reform",
+        "link": "https://www.glasgowtimes.co.uk/news/26661249.ivan-mckee-public-sector-reform-i-wont-get-everyone-happy/",
+        "description": "Ivan McKee has, probably, the most difficult task of all John Swinney\u2019s Government ministers.",
+        "published": "Fri, 23 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21593951/?type=app&htype=0"
+      },
       {
         "id": "1a83997d880332473dfad0fafd42db99",
         "title": "Scottish Government handed Sanjeev Gupta \u00a32.3m grant despite minister being 'nervous'",
