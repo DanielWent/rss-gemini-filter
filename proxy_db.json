@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o#1",
+        "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
+        "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
+        "description": "Millions remain under yellow weather warnings for wind and rain, with a second storm expected to hit Scotland and parts of northern England on Saturday.",
+        "published": "Fri, 23 Oct 2026 18:48:18 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ed/live/357e0110-ceec-11f1-bdca-23c64447299f.jpg"
+      },
+      {
         "id": "1792774612650781",
         "title": "Thousands without power and travel disruption as Storm Austen batters southern UK",
         "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
         "published": "Thu, 10 Sep 2026 00:48:35 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4b9/live/69dbfa80-ac63-11f1-be57-03729df1d736.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c74edv9887eo#1",
-        "title": "AI is becoming harder to control \u2013 can humans stay in charge?",
-        "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
-        "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
-        "published": "Wed, 09 Sep 2026 23:17:33 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbe9/live/5e20f100-ac59-11f1-b1d1-571ed4d7ff2c.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -3005,6 +3005,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "bd751274355c5340b5006db6a7964881",
+        "title": "Road near Clyde Tunnel to close next week as essential works begin",
+        "link": "https://www.glasgowtimes.co.uk/news/26666626.crow-road-close-road-works-begin-near-clyde-tunnel/",
+        "description": "Crow Road near Glasgow\u2019s Clyde Tunnel will close from October 26 to November 5, 2026, for essential resurfacing, with traffic diversions in place for drivers.",
+        "published": "Fri, 23 Oct 2026 20:18:13 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17526366/?type=app&htype=0"
+      },
+      {
+        "id": "9306345",
+        "title": "Rangers 'monitoring the situation' of star for cut-price January transfer deal as summer interest resurfaces",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-monitoring-the-situation-of-star-for-cut-price-january-transfer-deal-as-summer-interest-resurfaces-9306345",
+        "description": "<p>Ibrox side are expecting a quiet January but are still looking in the market for reinforcements</p>",
+        "published": "Fri, 23 Oct 2026 19:00:22 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/23/13/36/GettyImages-2209677447.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
         "id": "https://news.stv.tv/?p=534898",
         "title": "Expansion of Prestwick Airport parking permit scheme moves ahead after resident backing",
         "link": "https://news.stv.tv/west-central/expansion-of-prestwick-airport-parking-permit-scheme-moves-ahead-after-resident-backing",
@@ -3093,14 +3109,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21338428/?type=app&htype=0"
       },
       {
-        "id": "1918a0fe3ab09be8bd00d2795eb9c91f",
-        "title": "Major Glasgow road near Hampden Stadium shut as resurfacing works get underway",
-        "link": "https://www.glasgowtimes.co.uk/news/26666058.roadworks-shut-busy-glasgow-southside-route-resurfacing/",
-        "description": "Busy South Side Glasgow Road to close October 26 to 31 for resurfacing. Check official diversions.",
-        "published": "Fri, 23 Oct 2026 16:32:41 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17882119/?type=app&htype=74"
-      },
-      {
         "id": "d7e92deef7138bfc1467b12215d68713",
         "title": "Glasgow city council uncovers nearly \u00a31m in savings from fraud investigations",
         "link": "https://www.glasgowtimes.co.uk/news/26665943.glasgow-city-council-identified-nearly-1m-fraud-savings/",
@@ -3123,14 +3131,6 @@
         "description": "Kelvingrove Museum and The Hunterian say they have removed human remains from display because of ethical concerns.",
         "published": "Fri, 23 Oct 2026 14:36:49 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2131/live/be378f10-cee9-11f1-bdca-23c64447299f.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-amber-weather-warning-live-34808332",
-        "title": "Glasgow amber weather warning LIVE as Storm Boelo to batter city this weekend",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-amber-weather-warning-live-34808332",
-        "description": "Winds of up to 80mph are set to batter Glasgow over the weekend, with a 'danger to life' warning in place.",
-        "published": "Fri, 23 Oct 2026 14:35:22 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34808492.ece/ALTERNATES/s98/0_JS357574465.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-demands-safer-streets-women-34808413",
@@ -3163,14 +3163,6 @@
         "description": "The UK Jewish Film Festival\u2019s 30th anniversary edition will take place in Glasgow this December.",
         "published": "Fri, 23 Oct 2026 15:14:48 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21521535/?type=app&htype=0"
-      },
-      {
-        "id": "fed8816e7722e58cf5317d10a7421229",
-        "title": "Council calls cops after video of person in school raises security concerns",
-        "link": "https://www.glasgowtimes.co.uk/news/26665289.school-footage-investigated-police-bomb-hoax-panic/",
-        "description": "A video uploaded to social media appears to show a member of the public walking freely through a school building.",
-        "published": "Fri, 23 Oct 2026 14:54:58 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21613980/?type=app&htype=0"
       },
       {
         "id": "e8299878bc2fe9093645e33467f373a6",
@@ -3219,14 +3211,6 @@
         "description": "A national sporting event has been cancelled due to safety concerns.",
         "published": "Fri, 23 Oct 2026 14:26:37 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21623947/?type=app&htype=0"
-      },
-      {
-        "id": "f8d9ed1217e04a6479b227daa06f64eb",
-        "title": "Rail lines to close as amber warning issued for Scotland",
-        "link": "https://www.heraldscotland.com/news/26665062.rail-lines-close-across-scotland-amber-warning-issued/",
-        "description": "Rail lines in the west and north of Scotland are to close during Storm Boelo, with speed restrictions also being introduced across the country as strong winds and heavy rain move in.",
-        "published": "Fri, 23 Oct 2026 14:17:21 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21623895/?type=app&htype=0"
       },
       {
         "id": "e46d09bd72071597f09525c5e718d9a6",
@@ -3589,14 +3573,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21431598/?type=app&htype=0"
       },
       {
-        "id": "cc001068e3194e4facba3d6d45ce0a06",
-        "title": "Warning shareholders of \u00a31 billion Scottish company risk 'sleepwalking' into a change",
-        "link": "https://www.heraldscotland.com/opinion/26658888.baillie-gifford-us-growth-trust-risk-sleepwalking-warning/",
-        "description": "Warning of 'significant risk' of shareholders of a \u00a31 billion Scottish company 'sleepwalking' into a change they 'did not seek or desire' ahead of crunch vote",
-        "published": "Fri, 23 Oct 2026 04:40:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21511383/?type=app&htype=0"
-      },
-      {
         "id": "b1a76e4fd150b2f1c728c03f925ea4f8",
         "title": "Inverurie named Scotland\u2019s Town of the Year after high street revival",
         "link": "https://www.heraldscotland.com/news/26661368.nverurie-wins-scotlands-town-year-award/",
@@ -3741,14 +3717,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21619474/?type=app&htype=0"
       },
       {
-        "id": "ee41686b0f697651e6e36f379a7aaa48",
-        "title": "If the SNP can't be convinced on public sector reform, we've got a problem",
-        "link": "https://www.heraldscotland.com/news/26661795.snp-conference-exposed-problem-ivan-mckee/",
-        "description": "Ivan McKee faced backlash from within his own party, making the Scottish Government's public sector reform plans even tougher.",
-        "published": "Thu, 22 Oct 2026 15:39:11 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21619191/?type=app&htype=0"
-      },
-      {
         "id": "https://news.stv.tv/?p=534568",
         "title": "Former Scotland rugby player to stand trial accused of raping and abusing woman over 14 years",
         "link": "https://news.stv.tv/west-central/former-scotland-rugby-player-to-stand-trial-accused-of-raping-and-abusing-woman-over-14-years",
@@ -3787,14 +3755,6 @@
         "description": "A new audio project is bringing unheard wartimes stories to life from Orkney's famous natural harbour.",
         "published": "Thu, 22 Oct 2026 14:10:09 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21618496/?type=app&htype=0"
-      },
-      {
-        "id": "012203a47391a12bbc5fe387a2e26793",
-        "title": "Glasgow chippy franchise visited by celebrities opens first ever branch in England",
-        "link": "https://www.glasgowtimes.co.uk/news/26661243.glasgow-chippy-blue-lagoon-opens-first-ever-shop-england/",
-        "description": "Glasgow-born Blue Lagoon fish and chip chain opens its first English branch on Grainger Street, Newcastle, near Newcastle United\u2019s St James\u2019 Park.",
-        "published": "Thu, 22 Oct 2026 14:09:33 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21618349/?type=app&htype=0"
       },
       {
         "id": "54522b799ed36665e187091094be2bac",
