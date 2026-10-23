@@ -2941,6 +2941,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "1e72ea176445cba6ff4bb03088629662",
+        "title": "Major road outside Glasgow set to close for up to seven days with diversion in place",
+        "link": "https://www.glasgowtimes.co.uk/news/26663992.a73-cloburn-quarry-close-seven-days/",
+        "description": "A73 Lanarkshire road closure at Cloburn Quarry begins October 26 for up to seven days, with motorists facing a lengthy A70, A721 and A702 diversion.",
+        "published": "Fri, 23 Oct 2026 11:24:09 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17882119/?type=app&htype=74"
+      },
+      {
+        "id": "0ff5b8bc316c9d0f6afdf6320f7c077a",
+        "title": "Glasgow mental health hub celebrates first year after welcoming 8500 visitors",
+        "link": "https://www.glasgowtimes.co.uk/news/26663973.glasgow-mental-health-hub-marked-first-anniversary/",
+        "description": "The Nook, based in Glasgow's Merchant City and run by Scottish Action for Mental Health (SAMH), has welcomed more than 8500 visitors.",
+        "published": "Fri, 23 Oct 2026 11:21:49 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21622264/?type=app&htype=0"
+      },
+      {
         "id": "9305452",
         "title": "Government's 3-day emergency kit advice explained: What you really need at home",
         "link": "https://www.glasgowworld.com/news/government-three-day-emergency-kit-checklist-what-you-need-9305513",
