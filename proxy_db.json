@@ -2949,6 +2949,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9305214",
+        "title": "Iconic Glasgow pub dating back to 1806 and recognised for its historic interiors up for sale",
+        "link": "https://www.glasgowworld.com/news/iconic-glasgow-pub-dating-back-to-1806-and-recognised-for-its-historic-interiors-up-for-sale-9305214",
+        "description": "<p>The Category B listed pub on Shettleston Road retains features including its 19th-century island bar, original snugs and jug bar.</p>",
+        "published": "Fri, 23 Oct 2026 07:41:06 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/23/7/57/MixCollage-23-Oct-2026-08-36-AM-1310.jpg?width=1200&auto=webp&trim=0%2C175%2C0%2C175"
+      },
+      {
+        "id": "efb297a63271209105fa4d2cb548da5f",
+        "title": "Scottish Greens call for new tax on frequent flyers to fund buses",
+        "link": "https://www.heraldscotland.com/news/26662927.scottish-greens-call-frequent-flyer-tax-fund-buses/",
+        "description": "Greens call for a tax on flights to fund buses",
+        "published": "Fri, 23 Oct 2026 08:11:54 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/6562901/?type=app&htype=0"
+      },
+      {
         "id": "9302216",
         "title": "Glasgow launches first staffed night bus 'hubs' with CCTV to boost safe late travel",
         "link": "https://www.glasgowworld.com/news/scotlands-first-staffed-night-bus-hubs-with-cctv-launched-in-glasgow-to-boost-safe-late-travel-9305187",
@@ -2979,6 +2995,14 @@
         "description": "A popular American singer who raked in over one billion streams on her biggest hit is bringing her tour to Glasgow next year",
         "published": "Fri, 23 Oct 2026 07:27:59 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19071040/?type=app&htype=0"
+      },
+      {
+        "id": "3b949ce6f2d05cf1da02a7c6e39e3216",
+        "title": "Scottish Greens to debate motion to extend legal rights to polyamorous relationships",
+        "link": "https://www.heraldscotland.com/news/26662841.scottish-greens-push-put-polyamory-statute-books/",
+        "description": "Hospital wards, mortgage lenders and divorce courts would all have to make room for polyamorous relationships under policy up for debate at the Scottish Greens conference.",
+        "published": "Fri, 23 Oct 2026 07:15:06 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20814820/?type=app&htype=0"
       },
       {
         "id": "d373f4420fae4fa4dd256c7a770d1eb1",
