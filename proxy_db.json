@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c862yv953x04o#4",
+        "title": "Glasgow museums remove mummified remains from public view over ethical concerns",
+        "link": "https://www.bbc.co.uk/news/articles/c862yv953x04o?at_medium=RSS&at_campaign=rss",
+        "description": "Kelvingrove Museum and The Hunterian say they have removed human remains from display because of ethical concerns.",
+        "published": "Fri, 23 Oct 2026 14:36:49 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f392/live/b1ca2050-cef1-11f1-accf-3309656ad0bb.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/sport/olympics/articles/cwz0vn1yk235o#8",
         "title": "World champion Jepchirchir fails drugs test",
         "link": "https://www.bbc.co.uk/sport/olympics/articles/cwz0vn1yk235o?at_medium=RSS&at_campaign=rss",
@@ -2997,6 +3005,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "c1814fecfe5a74bd25fc2cebefbc2779",
+        "title": "Glasgow primary school site left empty for 15 years set for major transformation",
+        "link": "https://www.glasgowtimes.co.uk/news/26666119.former-glasgow-primary-school-site-set-transformed/",
+        "description": "Glasgow Council approves plans to transform Easterhouse\u2019s former Rogerfield Primary School site into a community greenspace with play areas and planting.",
+        "published": "Fri, 23 Oct 2026 16:40:13 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21558988/?type=app&htype=0"
+      },
+      {
+        "id": "1918a0fe3ab09be8bd00d2795eb9c91f",
+        "title": "Major Glasgow road near Hampden Stadium shut as resurfacing works get underway",
+        "link": "https://www.glasgowtimes.co.uk/news/26666058.roadworks-shut-busy-glasgow-southside-route-resurfacing/",
+        "description": "Busy South Side Glasgow Road to close October 26 to 31 for resurfacing. Check official diversions.",
+        "published": "Fri, 23 Oct 2026 16:32:41 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17882119/?type=app&htype=74"
+      },
+      {
+        "id": "d7e92deef7138bfc1467b12215d68713",
+        "title": "Glasgow city council uncovers nearly \u00a31m in savings from fraud investigations",
+        "link": "https://www.glasgowtimes.co.uk/news/26665943.glasgow-city-council-identified-nearly-1m-fraud-savings/",
+        "description": "Concerns over the number of fraud investigations and false homeless applications made to Glasgow City Council have been raised.",
+        "published": "Fri, 23 Oct 2026 16:21:54 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19277680/?type=app&htype=0"
+      },
+      {
         "id": "997d7ec9bfc0c18bea0980219b064a26",
         "title": "\u2018Let\u2019s fight for it\u2019 - worker speaks out amid threat to over 200 jobs near Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26665702.honeywell-workers-speak-amid-jobs-threat-outisde-glasgow/",
@@ -3771,22 +3803,6 @@
         "description": "Saltcoats\u2019 Kandy Bar Bakery owners Stephen and Rona McAllister retire after 50 years, selling the Ayrshire business to Craig and Lesley McPhie.",
         "published": "Thu, 22 Oct 2026 12:40:00 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21617626/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/tv/glasgow-woman-facial-difference-warns-34801293",
-        "title": "Glasgow woman with facial difference warns against 'discriminatory' Halloween habit",
-        "link": "https://www.glasgowlive.co.uk/news/tv/glasgow-woman-facial-difference-warns-34801293",
-        "description": "The Glasgow woman appeared on This Morning to discuss the challenges people with visible differences face during Halloween",
-        "published": "Thu, 22 Oct 2026 11:22:08 +0000",
-        "image_url": "https://i2-prod.birminghammail.co.uk/incoming/article34801396.ece/ALTERNATES/s98/0_Kaylin-M.png"
-      },
-      {
-        "id": "cd0f7f0413d55b1cdd51f091d64ecf14",
-        "title": "Scotland faces 80mph winds and heavy rain as Storm Boelo warning issued",
-        "link": "https://www.heraldscotland.com/news/26660672.storm-boelo-scotland-faces-80mph-weekend-winds-heavy-rain/",
-        "description": "The weather warning for wind follows one for rain on Friday",
-        "published": "Thu, 22 Oct 2026 12:18:41 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21617518/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
