@@ -2941,6 +2941,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "f56a352b998f4785556fe4fd7cac058c",
+        "title": "Glasgow weather alert upgraded to AMBER with 'danger to life' warning",
+        "link": "https://www.glasgowtimes.co.uk/news/weather/26663849.glasgow-amber-warning-storm-boelo-brings-80mph/",
+        "description": "Glasgow faces a Met Office amber weather warning as Storm Boelo brings winds up to 80mph, heavy rain and travel disruption across Scotland from October 24.",
+        "published": "Fri, 23 Oct 2026 11:05:56 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21622090/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/amber-danger-life-glasgow-warning-34805859",
         "title": "Amber 'danger to life' Glasgow warning issued for wind as Storm Boelo to hit city",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/amber-danger-life-glasgow-warning-34805859",
@@ -2957,6 +2965,14 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/6972e8799dad964aa584c26db39e84a1-1792746643-1120x720.jpeg"
       },
       {
+        "id": "57e7c8b181a668c61309bf0baf2c61bb",
+        "title": "Herald Business LIVE: Today's top stories - October 23",
+        "link": "https://www.heraldscotland.com/news/26663512.herald-business-live-todays-top-stories---october-23/",
+        "description": "Welcome to The Herald's Business live blog, where we\u2019ll be bringing you the latest developments from across Scotland\u2019s business industry.",
+        "published": "Fri, 23 Oct 2026 10:17:47 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21616153/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/chaotic-scenes-glasgow-hooligans-clash-34805428",
         "title": "Chaotic scenes in Glasgow as hooligans clash ahead of Celtic v Celta Vigo match",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/chaotic-scenes-glasgow-hooligans-clash-34805428",
@@ -2971,6 +2987,14 @@
         "description": "Glasgow city centre road closures begin October 26 as Kyle Street and Dobbie\u2019s Loan undergo resurfacing for the Avenues Project, with signed diversions.",
         "published": "Fri, 23 Oct 2026 09:49:17 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19045460/?type=app&htype=0"
+      },
+      {
+        "id": "43ba740f3b55e81f34fec0311fbc2ccc",
+        "title": "Bomb squad called after 'possible ammunition' found in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26663215.controlled-explosion-possible-ammunition-glasgow/",
+        "description": "Bomb squads carried out a controlled explosion after the discovery of \"possible ammunition\" in Glasgow",
+        "published": "Fri, 23 Oct 2026 09:28:40 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21621975/?type=app&htype=0"
       },
       {
         "id": "dae63747c2ba4c6395a7294c882723cb",
@@ -3059,6 +3083,14 @@
         "description": "A popular American singer who raked in over one billion streams on her biggest hit is bringing her tour to Glasgow next year",
         "published": "Fri, 23 Oct 2026 07:27:59 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19071040/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/sport/football/articles/crp3gde84j4zo#0",
+        "title": "Flat-track bullies Celtic continue descent into European irrelevance",
+        "link": "https://www.bbc.co.uk/sport/football/articles/crp3gde84j4zo?at_medium=RSS&at_campaign=rss",
+        "description": "BBC Scotland's Tom English reviews another frustrating night in Europe for the Scottish champions.",
+        "published": "Fri, 23 Oct 2026 06:26:23 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/545f/live/40c6d750-ce73-11f1-bb2b-2dddb612ccda.jpg"
       },
       {
         "id": "3b949ce6f2d05cf1da02a7c6e39e3216",
