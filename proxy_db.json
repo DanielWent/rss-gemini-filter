@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1792784439559369",
+        "title": "Trains cancelled and roads warnings as Scotland prepares for Storm Boelo",
+        "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
+        "description": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast.",
+        "published": "Fri, 23 Oct 2026 21:31:02 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b118/live/2f6de9e0-cf03-11f1-b95c-310d5f3c558a.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o#1",
         "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
         "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Climate change and the rising influence of El Ni\u00f1o saw August reach the record for warmest month.",
         "published": "Thu, 10 Sep 2026 02:05:47 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eae1/live/3afbb100-ac5f-11f1-be57-03729df1d736.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo#4",
-        "title": "UK needs new laws for AI in healthcare, says watchdog",
-        "link": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
-        "description": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
-        "published": "Thu, 10 Sep 2026 00:48:35 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4b9/live/69dbfa80-ac63-11f1-be57-03729df1d736.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -1136,6 +1136,14 @@
     "link": "https://the5krunner.com",
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
+      {
+        "id": "https://the5krunner.com/?p=138626",
+        "title": "Indie App Spotlight: CAMIX 9 is a Garmin face built from owners\u2019 complaints",
+        "link": "https://the5krunner.com/2026/10/23/camix-9-garmin-watch-face/",
+        "description": "<p><img alt=\"Indie App Spotlight: CAMIX 9 is a Garmin face built from owners&#8217; complaints\" class=\"attachment-large size-large\" height=\"410\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/camix-9-hero-fenix-8-three-themes.jpg/w=1110,h=410\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Readers asked for bigger digits and got Big Time within five weeks, one of 24 requests shipped. Any of 65 metrics in either data slot, on 66 watches.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/23/camix-9-garmin-watch-face/\">Indie App Spotlight: CAMIX 9 is a Garmin face built from owners&#8217; complaints</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Fri, 23 Oct 2026 19:31:25 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/camix-9-hero-fenix-8-three-themes.jpg/w=1110,h=410"
+      },
       {
         "id": "https://the5krunner.com/?p=138612",
         "title": "Watch battery percentages are guesses, says chip CEO",
@@ -1927,14 +1935,6 @@
         "description": "<p><img alt=\"Garmin Forerunner 70 Review\" class=\"attachment-large size-large\" height=\"692\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/08/FR70-Watch-Face-.jpg/w=1110,h=692\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>The Forerunner 70 is Garmin's cheapest running watch at $249.99/\u00a3219.99, and it carries the full physiology stack. Tested across a parkrun, a 10-mile run and a 63km ride, producing the best single-frequency GPS accuracy I have recorded. Battery life is where it falls down.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/08/28/garmin-forerunner-70-review/\">Garmin Forerunner 70 Review</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
         "published": "Fri, 28 Aug 2026 18:15:26 +0000",
         "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/08/FR70-Watch-Face-.jpg/w=1110,h=692"
-      },
-      {
-        "id": "https://the5krunner.com/?p=127451",
-        "title": "Deep Dive Digest #24: Fenix 9 Launch \u2013 Hardware & Features Deep Dives and the Questions That Remain",
-        "link": "https://the5krunner.com/2026/08/28/deep-dive-digest-24-fenix-9-launch-hardware-features-deep-dives-and-the-questions-that-remain/",
-        "description": "<p><img alt=\"Deep Dive Digest #24: Fenix 9 Launch &#8211; Hardware &#038; Features Deep Dives and the Questions That Remain\" class=\"attachment-large size-large\" height=\"312\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/06/Deep-Dive-digest-Asset-6.png/w=581,h=312\" style=\"height: auto;\" width=\"581\" /></p>\n<p>Fenix 9 Pro vs Fenix 8 &#038; 9 compared deep dive, 6 feature deep dives, and what existing watch owners inherit.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/08/28/deep-dive-digest-24-fenix-9-launch-hardware-features-deep-dives-and-the-questions-that-remain/\">Deep Dive Digest #24: Fenix 9 Launch &#8211; Hardware &#038; Features Deep Dives and the Questions That Remain</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
-        "published": "Fri, 28 Aug 2026 08:53:22 +0000",
-        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/06/Deep-Dive-digest-Asset-6.png/w=581,h=312"
       }
     ],
     "icon_url": "https://the5krunner.com/favicon.ico",
@@ -3005,6 +3005,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "09249b44c32e1fade2d9c56ce786fb00",
+        "title": "New video shows motorcycle cops chasing down and seizing illegal E-bike in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26666641.video-shows-cops-chasing-seizing-illegal-e-bike/",
+        "description": "Police Scotland officers seize an illegal e-bike after a chase through Finnieston, Glasgow, as a city-wide crackdown targets modified bikes exceeding 15.5mph.",
+        "published": "Fri, 23 Oct 2026 20:46:05 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20007823/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo#0",
+        "title": "Trains cancelled and roads warnings as Scotland prepares for Storm Boelo",
+        "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
+        "description": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast.",
+        "published": "Fri, 23 Oct 2026 19:31:02 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b118/live/2f6de9e0-cf03-11f1-b95c-310d5f3c558a.jpg"
+      },
+      {
         "id": "bd751274355c5340b5006db6a7964881",
         "title": "Road near Clyde Tunnel to close next week as essential works begin",
         "link": "https://www.glasgowtimes.co.uk/news/26666626.crow-road-close-road-works-begin-near-clyde-tunnel/",
@@ -3037,12 +3053,28 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19342883/?type=app&htype=0"
       },
       {
+        "id": "870c745549242296d5eeb4b34971023c",
+        "title": "Glasgow City Council reassures parents after Scotland-wide hoax threats",
+        "link": "https://www.heraldscotland.com/news/26666577.council-reassures-parents-scotland-wide-hoax-threats/",
+        "description": "Questions over what Glasgow City Council is doing to reassure parents of their children\u2019s safety in the wake of \u201cthreatening messages\u201d have been raised by a local councillor.",
+        "published": "Fri, 23 Oct 2026 19:04:45 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/10487320/?type=app&htype=0"
+      },
+      {
         "id": "d9f5571b417041885c6796bd83305269",
         "title": "Everything you need to know as Glasgow heads from Storm Austen into Storm Boelo",
         "link": "https://www.glasgowtimes.co.uk/news/weather/26666571.everything-need-know-storm-boelo-reaches-glasgow/",
         "description": "Glasgow faces an amber warning as Storm Boelo brings 70mph winds, heavy rain, ScotRail disruption, flight delays and flooding over the weekend from October 24.",
         "published": "Fri, 23 Oct 2026 18:58:07 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/18669874/?type=app&htype=0"
+      },
+      {
+        "id": "6b6df0800478540756bd52bc8811b816",
+        "title": "Singers and musicians urge Scottish Government to rethink trad music company plans",
+        "link": "https://www.heraldscotland.com/news/26666546.scottish-government-urged-rethink-vision-new-trad-music-company/",
+        "description": "The Scottish Government\u2019s plans to give traditional music the 'same platform' as opera, ballet and classical music have sparked concerns.",
+        "published": "Fri, 23 Oct 2026 18:37:51 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/20725840/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-questioned-over-keeping-34810392",
