@@ -2949,6 +2949,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/black-sheep-coffee-open-newest-34806823",
+        "title": "Black Sheep Coffee to open newest Glasgow cafe across from Central Station",
+        "link": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/black-sheep-coffee-open-newest-34806823",
+        "description": "&quot;For us, this is about more than opening another store \u2014 it\u2019s about continued investment in Glasgow, its people, and its future.\u201d",
+        "published": "Fri, 23 Oct 2026 11:44:40 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34806669.ece/ALTERNATES/s98/1_Black-Sheep-Coffee-Glasgow-Silverburn-35.jpg"
+      },
+      {
+        "id": "fb52e619976f6ef6e2b0f41f5c074834",
+        "title": "LIVE updates as Glasgow Airport speaks out on 'danger to life' weather warning",
+        "link": "https://www.glasgowtimes.co.uk/news/26664458.live-updates-glasgow-airport-issues-statement-storm-boelo/",
+        "description": "Glasgow Airport has issued a statement after the Met Office announced an amber weather warning for Glasgow. Storm Boelo is set to strike down on Saturday, right through into Sunday. Event organisers such as GlasGLOW have also spoken out regarding the looming stormy weather.",
+        "published": "Fri, 23 Oct 2026 12:29:16 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19003212/?type=app&htype=0"
+      },
+      {
         "id": "1412236634ac2125cae886b559392891",
         "title": "East Dunbartonshire homes to benefit from major \u00a3175m broadband rollout",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26664332.work-way-deliver-full-fibre-broadband-torrance/",
@@ -2987,6 +3003,14 @@
         "description": "The Nook, based in Glasgow's Merchant City and run by Scottish Action for Mental Health (SAMH), has welcomed more than 8500 visitors.",
         "published": "Fri, 23 Oct 2026 11:21:49 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21622264/?type=app&htype=0"
+      },
+      {
+        "id": "4c118264eca1a7b52adf6ad9cb29ee32",
+        "title": "Tributes paid veteran Scottish Opera tenor John Robertson following death at 88",
+        "link": "https://www.heraldscotland.com/news/26663965.veteran-scottish-tenor-john-robertson-dies-aged-88/",
+        "description": "A remarkable 52-year Scottish Opera career remembered with heartfelt tributes",
+        "published": "Fri, 23 Oct 2026 11:20:58 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21622209/?type=app&htype=0"
       },
       {
         "id": "9305452",
@@ -3723,30 +3747,6 @@
         "description": "A Fatal Accident Inquiry (FAI) has begun into the death of a Barlinnie prisoner who was jailed raping and murdering a woman",
         "published": "Thu, 22 Oct 2026 07:33:02 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21260067/?type=app&htype=0"
-      },
-      {
-        "id": "55cf3a9397f0cbe9f725f00276ede84c",
-        "title": "Officers bash in door amid recovery of \u00a362,000 of drugs near Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/26659195.officers-bash-door-amid-recovery-62-000-drugs/",
-        "description": "Officers clamping down on the illegal drug trade have bashed in a door in Kirkintilloch and recovered \u00a362,000",
-        "published": "Thu, 22 Oct 2026 07:24:40 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21615466/?type=app&htype=0"
-      },
-      {
-        "id": "2d86e34aaf4921227c373bce6826a25a",
-        "title": "Education chief speaks out as Glasgow school attendances drop after 'hoax' email",
-        "link": "https://www.glasgowtimes.co.uk/news/26658932.education-chief-speaks-hoax-targets-glasgow-schools/",
-        "description": "Glasgow school attendance fell to 76.4% on October 20 after hoax explosive device emails were sent to 148 schools, Police Scotland confirms.",
-        "published": "Wed, 21 Oct 2026 17:55:25 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20686211/?type=app&htype=0"
-      },
-      {
-        "id": "949f7c5acad3b1d8532effdbeb6db2e6",
-        "title": "Stephen Flynn vows to 'explore all options' to save 207 factory jobs near Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/26657770.minister-vows-explore-options-save-207-motherwell-jobs/",
-        "description": "Scotland\u2019s Economy Secretary has vowed to explore all options to retain 207 jobs at risk across Resideo and Honeywell in Motherwell.",
-        "published": "Wed, 21 Oct 2026 14:36:29 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21403862/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
