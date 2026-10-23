@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1792736711728974",
+        "title": "The World Treadmill Championship - pitching elite runners against amateurs",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cmgel5vd5gqno?at_medium=RSS&at_campaign=rss",
+        "description": "Everyday runners are being given the chance to compete alongside elite athletes in the first World Treadmill Championship, a new global 5km competition.",
+        "published": "Fri, 23 Oct 2026 07:58:25 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8f5/live/2a6805b0-ce28-11f1-9f18-490cec60aa0f.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/ck7vp8g38y7vo#4",
         "title": "Don't leave AI to tech bros and oligarchs, UK's AI minister says",
         "link": "https://www.bbc.co.uk/news/articles/ck7vp8g38y7vo?at_medium=RSS&at_campaign=rss",
@@ -55,14 +63,6 @@
       {
         "id": "1792667713998764",
         "title": "Yellow wind warning for Scotland in weekend of storms",
-        "link": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro?at_medium=RSS&at_campaign=rss",
-        "description": "The Met Office have named a new storm, Boelo, which is set to bring another round of stormy weather to the UK over the weekend.",
-        "published": "Thu, 22 Oct 2026 12:34:17 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2ef/live/525eab10-cdfa-11f1-97f7-a7674fb562de.jpg"
-      },
-      {
-        "id": "1792666215446432",
-        "title": "Two storms in two days as Austen and Boelo head for UK",
         "link": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro?at_medium=RSS&at_campaign=rss",
         "description": "The Met Office have named a new storm, Boelo, which is set to bring another round of stormy weather to the UK over the weekend.",
         "published": "Thu, 22 Oct 2026 12:34:17 +0200",
