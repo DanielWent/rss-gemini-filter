@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/ck7vp8g38y7vo#4",
+        "title": "Don't leave AI to tech bros and oligarchs, UK's AI minister says",
+        "link": "https://www.bbc.co.uk/news/articles/ck7vp8g38y7vo?at_medium=RSS&at_campaign=rss",
+        "description": "Kanishka Narayan tells the BBC that dealing with the technology requires not only regulation, but \"building capability and capacity\".",
+        "published": "Fri, 23 Oct 2026 05:00:50 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52bb/live/59305530-ce3e-11f1-9a39-31b474234113.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o#1",
         "title": "Amber warning in place as Storm Austen hits parts of UK",
         "link": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The US tech giant says the \u20ac13bn data centre project will create tens of thousands of jobs.",
         "published": "Wed, 09 Sep 2026 17:06:48 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d61/live/80327fa0-ac6a-11f1-80f0-9795d1a5edbc.jpg"
-      },
-      {
-        "id": "1788966913611100",
-        "title": "'I'm not a robot' - Kerr responds to criticism before Ingebrigtsen reunion",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/cnvl7qe15z5o?at_medium=RSS&at_campaign=rss",
-        "description": "Josh Kerr says he is \"very happy\" to see Jakob Ingebrigtsen back competing - but he is \"not going to lose\" when they resume their fierce rivalry this weekend.",
-        "published": "Wed, 09 Sep 2026 17:00:03 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a2d/live/91c62980-ac45-11f1-bc1f-3f186ca4140c.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2948,6 +2948,30 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "1a83997d880332473dfad0fafd42db99",
+        "title": "Scottish Government handed Sanjeev Gupta \u00a32.3m grant despite minister being 'nervous'",
+        "link": "https://www.heraldscotland.com/news/26662285.gupta-estate-given-2-3m-grant-despite-ministers-concerns/",
+        "description": "Internal emails and grant documents obtained by The Herald reveal Scottish Forestry pressed ahead with a \u00a32.3 million award to Sanjeev Gupta's Highland estate, overriding a cabinet secretary's repeated concerns, partly to close a gap in Scotland's 30 by 30 nature target.",
+        "published": "Fri, 23 Oct 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/6071765/?type=app&htype=0"
+      },
+      {
+        "id": "6c288be93266cff80f5e5afa61316111",
+        "title": "Ministers 'can't determine' if any sex offenders will have appeal grounds",
+        "link": "https://www.heraldscotland.com/news/26660090.ministers-dark-sex-offenders-appeals-ruling/",
+        "description": "SNP ministers cannot identify how many convicted sex offenders - if any - may have grounds for appeal after a landmark court ruling as SCCRC applications rise to 44 and prospect of class action discussed.",
+        "published": "Fri, 23 Oct 2026 05:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21431598/?type=app&htype=0"
+      },
+      {
+        "id": "cc001068e3194e4facba3d6d45ce0a06",
+        "title": "Warning shareholders of \u00a31 billion Scottish company risk 'sleepwalking' into a change",
+        "link": "https://www.heraldscotland.com/opinion/26658888.baillie-gifford-us-growth-trust-risk-sleepwalking-warning/",
+        "description": "Warning of 'significant risk' of shareholders of a \u00a31 billion Scottish company 'sleepwalking' into a change they 'did not seek or desire' ahead of crunch vote",
+        "published": "Fri, 23 Oct 2026 04:40:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21511383/?type=app&htype=0"
+      },
       {
         "id": "b1a76e4fd150b2f1c728c03f925ea4f8",
         "title": "Inverurie named Scotland\u2019s Town of the Year after high street revival",
