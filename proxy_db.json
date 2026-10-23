@@ -2941,6 +2941,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/chaotic-scenes-glasgow-hooligans-clash-34805428",
+        "title": "Chaotic scenes in Glasgow as hooligans clash ahead of Celtic v Celta Vigo match",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/chaotic-scenes-glasgow-hooligans-clash-34805428",
+        "description": "Glass bottles were lobbed at supporters on Argyle Street before the Europa League mach at Parkhead last night.",
+        "published": "Fri, 23 Oct 2026 08:51:14 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34805523.ece/ALTERNATES/s98/0_Screenshot-2026-10-23-093525.png"
+      },
+      {
+        "id": "dae63747c2ba4c6395a7294c882723cb",
+        "title": "Storm Austen travel warning with roads rail and ferries disrupted",
+        "link": "https://www.heraldscotland.com/news/26663164.storm-austen-travel-warning-roads-rail-ferries-disrupted/",
+        "description": "Travellers have been warned to prepare for longer journey times as bad weather blows in",
+        "published": "Fri, 23 Oct 2026 09:20:43 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21293238/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-bakery-chain-denied-consent-34803730",
         "title": "Glasgow bakery chain denied consent for 'unnecessary' adverts again",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-bakery-chain-denied-consent-34803730",
@@ -2955,6 +2971,14 @@
         "description": "An application has been sent to Glasgow City Council to convert properties at Fitzroy Place.",
         "published": "Fri, 23 Oct 2026 08:15:53 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34803774.ece/ALTERNATES/s98/0_fitzroyplaceoffices.png"
+      },
+      {
+        "id": "59ef2592dfd91276ec7a7426a285e58b",
+        "title": "TV Festival moves dates to avoid Edinburgh festivals after moving out of Edinburgh",
+        "link": "https://www.heraldscotland.com/news/26662991.relocated-tv-festival-switches-dates-avoid-edinburgh-festivals/",
+        "description": "Organisers of the UK's biggest TV industry gathering say it will be staged a week later than normal after deciding to move out of Edinburgh.",
+        "published": "Fri, 23 Oct 2026 08:42:01 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21371432/?type=app&htype=0"
       },
       {
         "id": "9305214",
