@@ -2949,6 +2949,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/depression-isolated-world-glasgow-support-34802632",
+        "title": "'Depression isolated me from the world but Glasgow support hub gave me back my life'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/depression-isolated-world-glasgow-support-34802632",
+        "description": "Michael Harley feels like &quot;a totally different person&quot; after talking therapy with volunteers at The Nook in Glasgow, a free walk-in hub for people struggling with mental health.",
+        "published": "Fri, 23 Oct 2026 06:41:43 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34802906.ece/ALTERNATES/s98/0_Michael-Harley-2.jpg"
+      },
+      {
+        "id": "3d4da86fb211143d0aa5a99eb1fc475d",
+        "title": "Singer with 1bn streams on hit song announces Glasgow concert",
+        "link": "https://www.glasgowtimes.co.uk/news/26662857.american-singer-ashe-announces-o2-academy-concert-2027/",
+        "description": "A popular American singer who raked in over one billion streams on her biggest hit is bringing her tour to Glasgow next year",
+        "published": "Fri, 23 Oct 2026 07:27:59 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19071040/?type=app&htype=0"
+      },
+      {
+        "id": "d373f4420fae4fa4dd256c7a770d1eb1",
+        "title": "Scots call for booze tax hikes after post pandemic alcohol death toll spike",
+        "link": "https://www.heraldscotland.com/news/26662088.scottish-alcohol-deaths-prompt-calls-higher-alcohol-duty/",
+        "description": "Scotland's alcohol-specific deaths remain 16% above pre-pandemic levels as SHAAP calls for higher alcohol duty and tougher action on alcohol harm.",
+        "published": "Fri, 23 Oct 2026 06:32:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/18940698/?type=app&htype=0"
+      },
+      {
+        "id": "b66d31c720126fa05030b1b4875d8410",
+        "title": "Edinburgh councillors to debate Greens\u2019 controversial \u2018Zionism is racism\u2019 motion",
+        "link": "https://www.heraldscotland.com/news/26662279.edinburgh-councillors-urged-condemn-zionism-racism-motion/",
+        "description": "Conservative councillor Marie-Clair Munro has hit out at the \u201cdivisive language and implications\u201d of the GPEW motion, approved by the party earlier this month.",
+        "published": "Fri, 23 Oct 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21390247/?type=app&htype=0"
+      },
+      {
+        "id": "efff28c5722ce1a633cb34dd6f440e4e",
+        "title": "First Minister urged to act over ethics watchdog\u2019s freedom of speech file purge",
+        "link": "https://www.heraldscotland.com/news/26661838.alastair-redmans-freedom-speech-concerns-standards-commission/",
+        "description": "Argyll and Bute councillor Alastair Redman has urged John Swinney to intervene after the Standards Commission destroyed his case files, raising concerns about freedom of speech and transparency.",
+        "published": "Fri, 23 Oct 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21619202/?type=app&htype=0"
+      },
+      {
         "id": "68434a137ba79ea4ba8ce6e97d57f29f",
         "title": "Glasgow woman says 'SAD lamps' helped to stop her feeling 'crushed' by winter",
         "link": "https://www.glasgowtimes.co.uk/news/26661219.wintering-well-box-helped-woman-not-feel-crushed-winter/",
