@@ -2941,6 +2941,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/amber-danger-life-glasgow-warning-34805859",
+        "title": "Amber 'danger to life' Glasgow warning issued for wind as Storm Boelo to hit city",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/amber-danger-life-glasgow-warning-34805859",
+        "description": "The second named storm of the season will bring winds of up to 80mph.",
+        "published": "Fri, 23 Oct 2026 09:46:38 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34805935.ece/ALTERNATES/s98/0_Screenshot-2026-10-23-103129.png"
+      },
+      {
+        "id": "https://news.stv.tv/?p=534751",
+        "title": "Controlled explosion carried out on Irvine Beach after \u2018possible ammunition\u2019 found in Glasgow",
+        "link": "https://news.stv.tv/west-central/controlled-explosion-carried-out-on-irvine-beach-after-possible-ammunition-found-in-glasgow",
+        "description": "A suspicious item found in Glasgow was taken to Irvine beach to be disposed of on Wednesday",
+        "published": "Fri, 23 Oct 2026 09:35:17 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/6972e8799dad964aa584c26db39e84a1-1792746643-1120x720.jpeg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/chaotic-scenes-glasgow-hooligans-clash-34805428",
         "title": "Chaotic scenes in Glasgow as hooligans clash ahead of Celtic v Celta Vigo match",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/chaotic-scenes-glasgow-hooligans-clash-34805428",
