@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cq0ld9g9e913o#1",
+        "title": "First personalised cancer vaccine cuts risk of disease returning in major trial",
+        "link": "https://www.bbc.co.uk/news/articles/cq0ld9g9e913o?at_medium=RSS&at_campaign=rss",
+        "description": "The scientists involved say the results could mark a turning point in cancer treatment, bringing personalised medicine a step closer.",
+        "published": "Fri, 23 Oct 2026 07:49:02 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f379/live/0f348400-cead-11f1-bc2e-018d645d8d21.jpg"
+      },
+      {
         "id": "1792736711728974",
         "title": "The World Treadmill Championship - pitching elite runners against amateurs",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/cmgel5vd5gqno?at_medium=RSS&at_campaign=rss",
@@ -59,22 +67,6 @@
         "description": "The deaths include two women found drowned in a cellar in the Bouches-du-Rh\u00f4ne region.",
         "published": "Thu, 22 Oct 2026 11:23:16 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba84/live/388ad750-cdf9-11f1-9a39-31b474234113.jpg"
-      },
-      {
-        "id": "1792667713998764",
-        "title": "Yellow wind warning for Scotland in weekend of storms",
-        "link": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro?at_medium=RSS&at_campaign=rss",
-        "description": "The Met Office have named a new storm, Boelo, which is set to bring another round of stormy weather to the UK over the weekend.",
-        "published": "Thu, 22 Oct 2026 12:34:17 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2ef/live/525eab10-cdfa-11f1-97f7-a7674fb562de.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c9gkvz72vmjlo#4",
-        "title": "Devon and Cornwall battening down the hatches ahead of Storm Austen",
-        "link": "https://www.bbc.co.uk/news/articles/c9gkvz72vmjlo?at_medium=RSS&at_campaign=rss",
-        "description": "Wind gusts of up to 80mph (130km/h) are forecast to bring disruption across the South West.",
-        "published": "Thu, 22 Oct 2026 06:35:52 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec88/live/04563de0-cd4e-11f1-8177-0f8bd59b54c4.jpg"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o#1",
@@ -1129,6 +1121,22 @@
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
       {
+        "id": "https://the5krunner.com/?p=138368",
+        "title": "Indie App Spotlight: freddy puts your Garmin data in ChatGPT",
+        "link": "https://the5krunner.com/2026/10/23/freddy-ai-training-data/",
+        "description": "<p><img alt=\"Indie App Spotlight: freddy puts your Garmin data in ChatGPT\" class=\"attachment-large size-large\" height=\"740\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/hero-runner-phone-ai-answer-next-to-watch.jpg/w=1110,h=740\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Tom Tomaszewski's HRV fell from 45 to 35.5 ms in a week, and his own AI assistant cut the plan to a hold week. Sleep, runs and HRV from 100+ sources, free for one source.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/23/freddy-ai-training-data/\">Indie App Spotlight: freddy puts your Garmin data in ChatGPT</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Fri, 23 Oct 2026 08:24:54 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/hero-runner-phone-ai-answer-next-to-watch.jpg/w=1110,h=740"
+      },
+      {
+        "id": "https://the5krunner.com/?p=138376",
+        "title": "#21 The Deep Dive Fix Files: Week Ending 23 October 2026",
+        "link": "https://the5krunner.com/2026/10/23/21-the-deep-dive-fix-files-week-ending-23-october-2026/",
+        "description": "<p><img alt=\"#21 The Deep Dive Fix Files: Week Ending 23 October 2026\" class=\"attachment-large size-large\" height=\"583\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2010/06/Deep-dive-Fix-Files-Asset-2The-Deep-Dive-Fix-files.png/w=1110,h=583\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>This week covers Edge 1050 freezes, Varia 715 drops and lost Bosch eBike pairing, Wahoo ROAM 3 Auto Light with the Varia RTL515, Suunto Run 2 heart rate faults, and Fenix 8 distance, touchscreen, Iron Grit and Bluetooth problems. It also covers Forerunner 970 Bluetooth and skin temperature syncing, Forerunner 965 sensor failures, Enduro 3 goal alerts, the COROS iPhone sync fix, KICKR CORE v2 axle drag, Suunto oCycler distance, Suunto Vertical 2 sleep detection, and Edge 850 temperature and Di2 data. Each entry gives the best fix or workaround known so far.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/23/21-the-deep-dive-fix-files-week-ending-23-october-2026/\">#21 The Deep Dive Fix Files: Week Ending 23 October 2026</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Fri, 23 Oct 2026 08:19:36 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2010/06/Deep-dive-Fix-Files-Asset-2The-Deep-Dive-Fix-files.png/w=1110,h=583"
+      },
+      {
         "id": "https://the5krunner.com/?p=138305",
         "title": "#3 Trademark & Patent Filing: Week Ending 22 October 2026",
         "link": "https://the5krunner.com/2026/10/22/3-trademark-patent-filing-week-ending-22-october-2026/",
@@ -1911,22 +1919,6 @@
         "description": "<p><img alt=\"Garmin Fenix 9 vs Fenix 8: Which to Buy, and Base vs Pro, Solar or inReach\" class=\"attachment-large size-large\" height=\"600\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/08/fenix-9-pro-solar-the5krunner-47-cf-lg.jpg/w=600,h=600,fit=crop\" style=\"height: auto;\" width=\"600\" /></p>\n<p>The Garmin Fenix 9 comes as base, Pro, Solar and inReach across three sizes. The differences that matter when choosing, and what changed from the Fenix 8.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/08/25/garmin-fenix-9-which-to-buy/\">Garmin Fenix 9 vs Fenix 8: Which to Buy, and Base vs Pro, Solar or inReach</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
         "published": "Tue, 25 Aug 2026 17:13:55 +0000",
         "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/08/fenix-9-pro-solar-the5krunner-47-cf-lg.jpg/w=600,h=600,fit=crop"
-      },
-      {
-        "id": "https://the5krunner.com/?p=127226",
-        "title": "Garmin Locate Explained \u2013 It\u2019s not LiveTrack",
-        "link": "https://the5krunner.com/2026/08/25/garmin-locate-explained/",
-        "description": "<p><img alt=\"Garmin Locate Explained &#8211; It&#8217;s not LiveTrack\" class=\"attachment-large size-large\" height=\"624\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/08/87594-VID-M1.jpg/w=1110,h=624\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Garmin Locate lets a contact request your Fenix 9 Pro location through the Garmin Messenger app without you starting a LiveTrack session. LTE only, inReach plan required. How it differs from LiveTrack.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/08/25/garmin-locate-explained/\">Garmin Locate Explained &#8211; It&#8217;s not LiveTrack</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
-        "published": "Tue, 25 Aug 2026 12:44:19 +0000",
-        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/08/87594-VID-M1.jpg/w=1110,h=624"
-      },
-      {
-        "id": "https://the5krunner.com/?p=127215",
-        "title": "Garmin Website Struggles at f\u0113nix 9 Launch",
-        "link": "https://the5krunner.com/2026/08/25/garmin-website-struggles-at-fenix-9-launch/",
-        "description": "<p><img alt=\"Garmin Website Struggles at f\u0113nix 9 Launch\" class=\"attachment-large size-large\" height=\"585\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/08/Garmin-Site-Crashes-on-Fenix-9-Launch-Multiple-Regional-Outages.png/w=1110,h=585\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Garmin's website returned Error 500 errors on several regional sites during the Fenix 9 launch. What caused it, why traffic is probably not the explanation, and what to do if you cannot reach the product pages.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/08/25/garmin-website-struggles-at-fenix-9-launch/\">Garmin Website Struggles at f\u0113nix 9 Launch</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
-        "published": "Tue, 25 Aug 2026 12:02:32 +0000",
-        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/08/Garmin-Site-Crashes-on-Fenix-9-Launch-Multiple-Regional-Outages.png/w=1110,h=585"
       }
     ],
     "icon_url": "https://the5krunner.com/favicon.ico",
@@ -2949,12 +2941,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-bakery-chain-denied-consent-34803730",
+        "title": "Glasgow bakery chain denied consent for 'unnecessary' adverts again",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-bakery-chain-denied-consent-34803730",
+        "description": "Planners at Glasgow City Council say the signs at two venue are 'visual clutter.",
+        "published": "Fri, 23 Oct 2026 08:16:38 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33891785.ece/ALTERNATES/s98/0_Morbakehousejpeg.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-offices-could-turned-high-34803772",
+        "title": "Glasgow offices could be turned into 'high quality' Finnieston homes",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-offices-could-turned-high-34803772",
+        "description": "An application has been sent to Glasgow City Council to convert properties at Fitzroy Place.",
+        "published": "Fri, 23 Oct 2026 08:15:53 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34803774.ece/ALTERNATES/s98/0_fitzroyplaceoffices.png"
+      },
+      {
         "id": "9305214",
         "title": "Iconic Glasgow pub dating back to 1806 and recognised for its historic interiors up for sale",
         "link": "https://www.glasgowworld.com/news/iconic-glasgow-pub-dating-back-to-1806-and-recognised-for-its-historic-interiors-up-for-sale-9305214",
         "description": "<p>The Category B listed pub on Shettleston Road retains features including its 19th-century island bar, original snugs and jug bar.</p>",
         "published": "Fri, 23 Oct 2026 07:41:06 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/23/7/57/MixCollage-23-Oct-2026-08-36-AM-1310.jpg?width=1200&auto=webp&trim=0%2C175%2C0%2C175"
+      },
+      {
+        "id": "9cc0771e185baf25cb04f9237375a849",
+        "title": "Huge demand sees more tickets released for major Glasgow cycling event",
+        "link": "https://www.glasgowtimes.co.uk/news/26662949.extra-tickets-released-uci-cyclo-cross-world-cup-glasgow/",
+        "description": "A final 3,000 tickets have been released for the UCI Cyclo-cross World Cup round three in Kelvingrove Park, Glasgow as fans have snapped up 12,000 tickets for the event on Sunday 13 December 2026",
+        "published": "Fri, 23 Oct 2026 08:23:13 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21620978/?type=app&htype=0"
       },
       {
         "id": "efb297a63271209105fa4d2cb548da5f",
