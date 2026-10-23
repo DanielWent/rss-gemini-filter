@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1792774612650781",
+        "title": "Thousands without power and travel disruption as Storm Austen batters southern UK",
+        "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
+        "description": "On Saturday, Storm Boelo is forecast to bring more strong winds and heavy rain to Scotland and parts of northern England.",
+        "published": "Fri, 23 Oct 2026 18:39:46 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ed/live/357e0110-ceec-11f1-bdca-23c64447299f.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c862yv953x04o#4",
         "title": "Glasgow museums remove mummified remains from public view over ethical concerns",
         "link": "https://www.bbc.co.uk/news/articles/c862yv953x04o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "AI agents went on an uncontrolled hacking spree, leaving some in the industry worried",
         "published": "Wed, 09 Sep 2026 23:17:33 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbe9/live/5e20f100-ac59-11f1-b1d1-571ed4d7ff2c.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o#1",
-        "title": "Google picks Finland for its largest single investment in Europe",
-        "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
-        "description": "The US tech giant says the \u20ac13bn data centre project will create tens of thousands of jobs.",
-        "published": "Wed, 09 Sep 2026 17:06:48 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d61/live/80327fa0-ac6a-11f1-80f0-9795d1a5edbc.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -3005,6 +3005,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-questioned-over-keeping-34810392",
+        "title": "Glasgow council questioned over keeping school kids safe amid 'bomb threat hoax'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-questioned-over-keeping-34810392",
+        "description": "Officers and staff from Police Scotland\u2019s cyber and fraud unit confirmed earlier this week they were working closely with partners and carrying out extensive inquiries to establish the source.",
+        "published": "Fri, 23 Oct 2026 16:54:49 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34400265.ece/ALTERNATES/s98/0_CMP_SDR_080823CraigmountHighExamDay_008JPG.jpg"
+      },
+      {
+        "id": "20dc85b0112a1d4d6fbb4b9d40e9fb59",
+        "title": "Taxi boss loses licence renewal bid after abusive messages to ex revealed",
+        "link": "https://www.glasgowtimes.co.uk/news/26666420.abusive-glasgow-taxi-boss-loses-license-renewal/",
+        "description": "Glasgow taxi operator Steesh Singh refused licence renewal after Police Scotland cited abusive messages and physical intimidation of an ex-partner.",
+        "published": "Fri, 23 Oct 2026 17:32:42 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16351348/?type=app&htype=0"
+      },
+      {
         "id": "0b6ab39ff5137bf6579fb6a92fd73e23",
         "title": "Major M8 and M77 closures to hit Glasgow drivers over four weekends",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26666348.overnight-m8-m77-closures-planned-gantry-works/",
@@ -3787,22 +3803,6 @@
         "description": "A bid to reconsider how \u00a31m in legacy funding from Glasgow\u2019s former McVitie\u2019s factory is being spent has been rejected by councillors.",
         "published": "Thu, 22 Oct 2026 13:43:24 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21446750/?type=app&htype=0"
-      },
-      {
-        "id": "a4d1e4082bb7a77216856352c2087b46",
-        "title": "Major Glasgow rail line closures planned over Christmas and New Year",
-        "link": "https://www.glasgowtimes.co.uk/news/26660932.glasgow-train-lines-close-christmas-new-year/",
-        "description": "Engineering works are set to close railway lines across Glasgow as passengers are being urged to check their line is open before travelling",
-        "published": "Thu, 22 Oct 2026 13:08:38 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21618256/?type=app&htype=0"
-      },
-      {
-        "id": "acb24669293cbaff8d9e02b4b03aa133",
-        "title": "Glasgow drivers could see parking charges slashed to \u00a320 under new rules",
-        "link": "https://www.glasgowtimes.co.uk/news/26660899.proposed-private-parking-code-protect-glasgow-motorists/",
-        "description": "Glasgow motorists could gain protection from private parking charges under a Government code, with grace periods, fairer appeals and a proposed \u00a3100 cap.",
-        "published": "Thu, 22 Oct 2026 13:02:03 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21265340/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
