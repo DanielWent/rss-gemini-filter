@@ -2957,6 +2957,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "da59497ce2063ab576351b7db961d6b6",
+        "title": "Massive disruption coming to busy Glasgow junction all throughout next week",
+        "link": "https://www.glasgowtimes.co.uk/news/26664728.great-western-road-works-disrupt-glasgow-junction/",
+        "description": "Glasgow's Great Western Road faces lane restrictions from October 26-31 for resurfacing.",
+        "published": "Fri, 23 Oct 2026 13:17:46 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16590823/?type=app&htype=0"
+      },
+      {
         "id": "04b9b7b5bee4f93cb38face20e04864e",
         "title": "'Erasmus fiasco' as Edinburgh University to 'slash' study abroad team by 60 per cent",
         "link": "https://www.heraldscotland.com/news/26663684.shock-university-edinburgh-cut-60-study-abroad-jobs/",
@@ -3747,14 +3755,6 @@
         "description": "Glasgow Christmas 2026 guide: Winter Wonderlands, George Square\u2019s ice rink, festive markets, Princes Square lights and family events across the city.",
         "published": "Thu, 22 Oct 2026 11:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20357685/?type=app&htype=0"
-      },
-      {
-        "id": "c212ed31e92f770f522565dae45ae8bf",
-        "title": "Coul Links ruling deals blow to hopes for major Highland golf development",
-        "link": "https://www.heraldscotland.com/news/26659984.coul-links-golf-course-rejection-hits-investment-hopes/",
-        "description": "Supporters said the championship course could create millions of pounds in economic activity, but ministers ruled this did not outweigh the environmental harm",
-        "published": "Thu, 22 Oct 2026 11:00:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20940804/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
