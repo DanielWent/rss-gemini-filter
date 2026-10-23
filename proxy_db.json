@@ -5,6 +5,22 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o#1",
+        "title": "Amber warning in place as Storm Austen hits parts of UK",
+        "link": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
+        "description": "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday.",
+        "published": "Fri, 23 Oct 2026 00:08:43 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e2/live/63d08560-ce33-11f1-a86f-f78305ec9987.jpg"
+      },
+      {
+        "id": "1792713009659758",
+        "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+        "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+        "description": "The quake hit a mountainous, sparsely-populated region in north-eastern Tibet.",
+        "published": "Fri, 23 Oct 2026 01:22:45 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9bb/live/35523df0-ce6f-11f1-a64c-550be9e3c66b.jpg"
+      },
+      {
         "id": "1792695422180473",
         "title": "Aga banned for fake prescription from family member",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/ckm23eqy595zo?at_medium=RSS&at_campaign=rss",
@@ -787,22 +803,6 @@
         "description": "Josh Kerr says he is \"very happy\" to see Jakob Ingebrigtsen back competing - but he is \"not going to lose\" when they resume their fierce rivalry this weekend.",
         "published": "Wed, 09 Sep 2026 17:00:03 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a2d/live/91c62980-ac45-11f1-bc1f-3f186ca4140c.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o#0",
-        "title": "Anthropic safety researcher says more than 10% chance AI 'could kill all humans'",
-        "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-        "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence.",
-        "published": "Wed, 09 Sep 2026 08:59:52 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cace/live/40c59310-ac2a-11f1-9bd9-7b7da208bd5c.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/articles/cwyzx1gxwqlo#7",
-        "title": "Are women better than men at endurance running?",
-        "link": "https://www.bbc.co.uk/sport/articles/cwyzx1gxwqlo?at_medium=RSS&at_campaign=rss",
-        "description": "Women have beaten men in some high-profile endurance events in recent months - are they better suited to these challenges?",
-        "published": "Wed, 09 Sep 2026 06:27:02 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9881/live/864cfb20-ab63-11f1-9647-01c7ddc5a2b1.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2948,6 +2948,22 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "b1a76e4fd150b2f1c728c03f925ea4f8",
+        "title": "Inverurie named Scotland\u2019s Town of the Year after high street revival",
+        "link": "https://www.heraldscotland.com/news/26661368.nverurie-wins-scotlands-town-year-award/",
+        "description": "Inverurie has been named Scotland\u2019s Town of the Year after boosting footfall, growing its farmers\u2019 market and supporting independent businesses.",
+        "published": "Fri, 23 Oct 2026 00:05:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21618829/?type=app&htype=0"
+      },
+      {
+        "id": "7bd38d106d90d65f9bf1d120ad6cf96c",
+        "title": "Free boxes offering winter support for SAD sufferers roll out across libraries",
+        "link": "https://www.heraldscotland.com/news/26661157.wintering-well-boxes-expand-16-uk-library-services-winter/",
+        "description": "A library scheme offering Wintering Well Boxes to support people affected by seasonal affective disorder is expanding across the UK after a two-year pilot in Scotland.",
+        "published": "Fri, 23 Oct 2026 00:01:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21618339/?type=app&htype=0"
+      },
       {
         "id": "https://www.bbc.co.uk/news/articles/cw4g17plp75eo#0",
         "title": "'We dress women for court to empower them on their darkest days'",
