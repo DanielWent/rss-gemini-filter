@@ -2981,6 +2981,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9061fbb942873691134600470c4a351b",
+        "title": "Ryanair flight diverts 600 miles to Oslo after aborted landing in Edinburgh",
+        "link": "https://www.heraldscotland.com/news/26667606.ryanair-flight-faro-edinburgh-diverts-oslo/",
+        "description": "A Ryanair flight bound for Edinburgh Airport was forced to divert over 600 miles away after being unable to land.",
+        "published": "Sat, 24 Oct 2026 19:26:09 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/17768517/?type=app&htype=0"
+      },
+      {
         "id": "20b6d0d70054ba1c4252fcaad7e71b67",
         "title": "LIVE updates as busy Glasgow road closed following crash",
         "link": "https://www.glasgowtimes.co.uk/news/26667533.live-updates-pollokshaws-road-closed-following-crash/",
