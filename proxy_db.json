@@ -2965,6 +2965,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-police-launch-probe-unexplained-34811750",
+        "title": "Glasgow police launch probe into 'unexplained death' of man found on street",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-police-launch-probe-unexplained-34811750",
+        "description": "Emergency services attended but sadly, the man was pronounced dead at the scene.",
+        "published": "Sat, 24 Oct 2026 10:19:55 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34811771.ece/ALTERNATES/s98/2_Watson-Street.png"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-set-further-met-office-34811539",
         "title": "Glasgow set for further Met Office weather warnings next week",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-set-further-met-office-34811539",
