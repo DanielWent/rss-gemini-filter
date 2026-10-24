@@ -2973,6 +2973,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/huge-tailbacks-glasgow-motorways-amid-34812595",
+        "title": "Huge tailbacks on Glasgow motorways amid Storm Boelo as drivers warned to plan ahead",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/huge-tailbacks-glasgow-motorways-amid-34812595",
+        "description": "Traffic cameras show huge tailbacks of back-to-back traffic on the M8 and M74.",
+        "published": "Sat, 24 Oct 2026 14:25:55 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34812788.ece/ALTERNATES/s98/1_Traffic.png"
+      },
+      {
+        "id": "82eb5225387a07a7c5a053717e00115d",
+        "title": "Sam Fender calls out his own ticket prices after Instagram leak",
+        "link": "https://www.glasgowtimes.co.uk/news/26667302.sam-fender-ticket-calls-ticket-prices-ahead-2027-tour/",
+        "description": "Sam Fender calls out alleged ticket prices leaked for his Proper Massive Stadium Tour.",
+        "published": "Sat, 24 Oct 2026 15:22:25 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21610823/?type=app&htype=0"
+      },
+      {
+        "id": "ed02209f57f7b7a397220accf5ae045f",
+        "title": "Scottish Greens urge John Swinney to say where he stands on energy policy",
+        "link": "https://www.heraldscotland.com/news/26667222.greens-urge-john-swinney-say-stands-energy-policy/",
+        "description": "John Swinney must take a position on new oil and gas drilling, Gillian Mackay has said, as she hit out at the UK Government for approving the Jackdaw gas field.",
+        "published": "Sat, 24 Oct 2026 14:24:08 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21626787/?type=app&htype=0"
+      },
+      {
         "id": "08ae364ed6a655a80aa9456d32caf3f9",
         "title": "Scottish Greens promise \u2018millennial rail card\u2019 paid for by wealthy flyers",
         "link": "https://www.heraldscotland.com/news/26667218.greens-promise-millennial-rail-card-paid-wealthy-flyers/",
