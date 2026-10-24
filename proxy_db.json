@@ -1097,6 +1097,14 @@
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
       {
+        "id": "https://the5krunner.com/?p=138834",
+        "title": "#18 Deep Dive Feature Files: Week Ending 24 October 2026",
+        "link": "https://the5krunner.com/2026/10/24/18-deep-dive-feature-files-week-ending-24-october-2026/",
+        "description": "<p><img alt=\"#18 Deep Dive Feature Files: Week Ending 24 October 2026\" class=\"attachment-large size-large\" height=\"583\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/05/Deep-Dive-Feature-Files-Asset-2-1.png/w=1110,h=583\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>A weekly summary of new firmware features and improvements across Garmin and Amazfit. Bug fixes excluded. Week ending 24 October 2026.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/24/18-deep-dive-feature-files-week-ending-24-october-2026/\">#18 Deep Dive Feature Files: Week Ending 24 October 2026</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Sat, 24 Oct 2026 06:12:52 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/05/Deep-Dive-Feature-Files-Asset-2-1.png/w=1110,h=583"
+      },
+      {
         "id": "https://the5krunner.com/?p=138626",
         "title": "Indie App Spotlight: CAMIX 9 is a Garmin face built from owners\u2019 complaints",
         "link": "https://the5krunner.com/2026/10/23/camix-9-garmin-watch-face/",
@@ -1887,14 +1895,6 @@
         "description": "<p><img alt=\"#12 Deep Dive Feature Files: Week Ending 29 August 2026\" class=\"attachment-large size-large\" height=\"583\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/05/Deep-Dive-Feature-Files-Asset-2-1.png/w=1110,h=583\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>A weekly summary of new firmware features and improvements across Garmin, Amazfit, Hammerhead and Samsung. Bug fixes excluded. Week ending 29 August 2026.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/08/29/12-deep-dive-feature-files-week-ending-29-august-2026/\">#12 Deep Dive Feature Files: Week Ending 29 August 2026</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
         "published": "Sat, 29 Aug 2026 09:12:07 +0000",
         "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/05/Deep-Dive-Feature-Files-Asset-2-1.png/w=1110,h=583"
-      },
-      {
-        "id": "https://the5krunner.com/?p=127429",
-        "title": "Garmin Forerunner 70 Review",
-        "link": "https://the5krunner.com/2026/08/28/garmin-forerunner-70-review/",
-        "description": "<p><img alt=\"Garmin Forerunner 70 Review\" class=\"attachment-large size-large\" height=\"692\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/08/FR70-Watch-Face-.jpg/w=1110,h=692\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>The Forerunner 70 is Garmin's cheapest running watch at $249.99/\u00a3219.99, and it carries the full physiology stack. Tested across a parkrun, a 10-mile run and a 63km ride, producing the best single-frequency GPS accuracy I have recorded. Battery life is where it falls down.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/08/28/garmin-forerunner-70-review/\">Garmin Forerunner 70 Review</a>. Subscribe to <a href=\"https://the5krunner.com\">the5krunner</a> for detailed running tech reviews, sports science insights, and training analysis. </p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/?amp=1\">Suppporter Login</a></p>",
-        "published": "Fri, 28 Aug 2026 18:15:26 +0000",
-        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/08/FR70-Watch-Face-.jpg/w=1110,h=692"
       }
     ],
     "icon_url": "https://the5krunner.com/favicon.ico",
@@ -2965,6 +2965,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "30d22e05fb400d0a3176c1a97728c855",
+        "title": "As the clocks go back, why is Paisley more than 17 minutes behind Greenwich Meantime?",
+        "link": "https://www.heraldscotland.com/news/26665596.paisley-time-story-behind-17-minute-difference-gmt/",
+        "description": "As the clocks go back this weekend, buddies in Paisley could be forgiven for setting their alarms a little later than others if they decide to stay on 'Paisley time'.",
+        "published": "Sat, 24 Oct 2026 06:37:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/6287527/?type=app&htype=0"
+      },
+      {
+        "id": "607ff3bb11b93810514dacf8d8bf3f31",
+        "title": "Why poetry is suddenly cool with a new generation of Scots",
+        "link": "https://www.heraldscotland.com/life_style/26661988.poetry-open-mic-nights-booming-scotland/",
+        "description": "Scotland\u2019s poetry open mic scene is booming, as Biff Smith and Michael Pedersen explore spoken word, accessibility and human connection amid AI",
+        "published": "Sat, 24 Oct 2026 06:30:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21622055/?type=app&htype=0"
+      },
+      {
         "id": "d58e329542a8ef4464c1fe5c3aaef4e1",
         "title": "Popular Glasgow bakery loses latest battle over city centre signs",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26662116.popular-glasgow-bakery-loses-latest-battle-city-centre-signs/",
@@ -3003,6 +3019,14 @@
         "description": "Glasgow\u2019s new council leader has met with campaigners who have been vocal in their criticism of the local authority.",
         "published": "Sat, 24 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21625466/?type=app&htype=0"
+      },
+      {
+        "id": "a7960188fad197e715c2463afd5792fa",
+        "title": "Council admits FOI error over gift shops' rates arrears \u2014 but will not release emails",
+        "link": "https://www.heraldscotland.com/news/26664266.council-incorrectly-blocked-foi-request-gift-shops-rates-arrears/",
+        "description": "The Herald appealed a decision to block the release of correspondence between the council, Criterion Capital and tenants at the Princes Street fire site.",
+        "published": "Sat, 24 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21163661/?type=app&htype=0"
       },
       {
         "id": "09249b44c32e1fade2d9c56ce786fb00",
@@ -3739,30 +3763,6 @@
         "description": "Glasgow\u2019s 1 Smile Dental Clinic, serving 5,000 patients, has been sold to Smile Rooms, marking its first-ever Scottish practice in a Christie &amp; Co deal.",
         "published": "Thu, 22 Oct 2026 14:48:34 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20366546/?type=app&htype=0"
-      },
-      {
-        "id": "58683239ef01700c0e5165a9d6ea6674",
-        "title": "Stuart Cosgrove: BBC Scotland channel was an opportunity 'needlessly squandered'",
-        "link": "https://www.heraldscotland.com/news/26661454.bbc-scotland-presenter-says-tv-channel-became-absolute-basket-case/",
-        "description": "BBC Scotland presenter Stuart Cosgrove has suggested its axed TV channel was 'a fantastic opportunity for Scotland that has been needlessly squandered'.",
-        "published": "Thu, 22 Oct 2026 14:44:57 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/10660333/?type=app&htype=0"
-      },
-      {
-        "id": "c650bf3507d33144e250291bfb0ddac7",
-        "title": "Exact route of Tour de France stage one as race comes to Scotland for first time",
-        "link": "https://www.heraldscotland.com/news/26661091.tour-de-france-2027-scotland-exact-route-towns/",
-        "description": "The exact route for the Grand D\u00e9part of the Tour de France has been unveiled, showing which Scottish locations it will travel through",
-        "published": "Thu, 22 Oct 2026 14:28:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21618433/?type=app&htype=0"
-      },
-      {
-        "id": "68e5576808d287194c439f2d6de98c0c",
-        "title": "New audio project brings unheard wartimes stories from Orkney harbour to life",
-        "link": "https://www.heraldscotland.com/news/26661245.new-audio-project-shares-wartime-stories-scapa-flow/",
-        "description": "A new audio project is bringing unheard wartimes stories to life from Orkney's famous natural harbour.",
-        "published": "Thu, 22 Oct 2026 14:10:09 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21618496/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
