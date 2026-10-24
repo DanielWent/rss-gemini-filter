@@ -1,8 +1,5 @@
 {
   "strict": {
-    "1787684708882138": 1787686205.142448,
-    "https://www.bbc.co.uk/news/articles/ckgw5g435qjo?at_medium=RSS&at_campaign=rss": 1787686205.142448,
-    "Man charged following death of woman hit by van": 1787686205.142448,
     "1787687715704759": 1787687796.9595907,
     "https://www.bbc.co.uk/sport/football/articles/ckgwj62e5yno?at_medium=RSS&at_campaign=rss": 1787687796.9595907,
     "Fernandes and Shaw win PFA player of the year awards": 1787687796.9595907,
@@ -15194,9 +15191,6 @@
     "Barnet condemn racial abuse of Noel-Williams": 1792869939.277595
   },
   "lenient": {
-    "https://www.bbc.co.uk/news/articles/c1dl7dykrnvo#0": 1787686205.142448,
-    "https://www.bbc.co.uk/news/articles/c1dl7dykrnvo?at_medium=RSS&at_campaign=rss": 1787686205.142448,
-    "Spanish government says sorry to people of Ceuta for migrant crisis": 1787686205.142448,
     "https://www.bbc.co.uk/sport/football/articles/ckgwj62e5yno#7": 1787687796.9595907,
     "https://www.bbc.co.uk/sport/football/articles/ckgwj62e5yno?at_medium=RSS&at_campaign=rss": 1787687796.9595907,
     "Fernandes and Shaw win PFA player of the year awards": 1787687796.9595907,
@@ -30014,7 +30008,10 @@
     "LIVE updates as emergency crews rush to incident on motorway": 1792861819.57705,
     "20b6d0d70054ba1c4252fcaad7e71b67": 1792862736.5858455,
     "https://www.glasgowtimes.co.uk/news/26667533.live-updates-pollokshaws-road-closed-following-crash/": 1792862736.5858455,
-    "LIVE updates as busy Glasgow road closed following crash": 1792862736.5858455
+    "LIVE updates as busy Glasgow road closed following crash": 1792862736.5858455,
+    "0bd85b11fd032ebca1cfe3c85843547d": 1792870726.5876684,
+    "https://www.glasgowtimes.co.uk/news/weather/26667636.glasgow-disrupted-road-rail-day-one-storm-boelo/": 1792870726.5876684,
+    "Roads, rails and Rangers fans disrupted as day one of Storm Boelo batters Glasgow": 1792870726.5876684
   },
   "runabc_scotland": {
     "https://runabc.co.uk/aj-bell-great-scottish-run-reveals-2026-finisher-medal": 1787729548.106124,
@@ -30071,12 +30068,6 @@
     "Edinburgh Marathon Festival 2027 Offers Runners a Challenge Worth Sharing": 1792740340.8968794
   },
   "newsletter_candidates": {
-    "8940677": 1787686205.142448,
-    "https://www.glasgowworld.com/sport/football/rangers/how-to-watch-jablonec-vs-rangers-live-stream-team-news-referee-and-var-for-conference-league-decider-8940677": 1787686205.142448,
-    "How to watch Jablonec vs Rangers: Live stream, team news, referee and VAR for Conference League decider": 1787686205.142448,
-    "8938650": 1787686205.142448,
-    "https://www.glasgowworld.com/recommended/sekonda-smartwatch-sekonda-connect-smart-watch-affordable-smartwatch-sekonda-watches-8940674": 1787686205.142448,
-    "I tried the Sekonda Connect Smart Watch and it's a seriously stylish way to track my fitness": 1787686205.142448,
     "0643c558e579d595e2038758932fda76": 1787687796.9595907,
     "https://www.glasgowtimes.co.uk/news/scottish-news/26495436.john-swinney-leads-tributes-dolly-parton-dies-aged-80/": 1787687796.9595907,
     "Scotland mourns Dolly Parton as John Swinney leads emotional tributes": 1787687796.9595907,
@@ -48397,16 +48388,13 @@
     "Police investigate deliberate fire after car torched in Bellshill": 1792862736.5858455,
     "9061fbb942873691134600470c4a351b": 1792869939.277595,
     "https://www.heraldscotland.com/news/26667606.ryanair-flight-faro-edinburgh-diverts-oslo/": 1792869939.277595,
-    "Ryanair flight diverts 600 miles to Oslo after aborted landing in Edinburgh": 1792869939.277595
+    "Ryanair flight diverts 600 miles to Oslo after aborted landing in Edinburgh": 1792869939.277595,
+    "0bd85b11fd032ebca1cfe3c85843547d": 1792870726.5876684,
+    "https://www.glasgowtimes.co.uk/news/weather/26667636.glasgow-disrupted-road-rail-day-one-storm-boelo/": 1792870726.5876684,
+    "Roads, rails and Rangers fans disrupted as day one of Storm Boelo batters Glasgow": 1792870726.5876684
   },
   "glasgow_live": {},
   "glasgow_world": {
-    "8940677": 1787686205.142448,
-    "https://www.glasgowworld.com/sport/football/rangers/how-to-watch-jablonec-vs-rangers-live-stream-team-news-referee-and-var-for-conference-league-decider-8940677": 1787686205.142448,
-    "How to watch Jablonec vs Rangers: Live stream, team news, referee and VAR for Conference League decider": 1787686205.142448,
-    "8938650": 1787686205.142448,
-    "https://www.glasgowworld.com/recommended/sekonda-smartwatch-sekonda-connect-smart-watch-affordable-smartwatch-sekonda-watches-8940674": 1787686205.142448,
-    "I tried the Sekonda Connect Smart Watch and it's a seriously stylish way to track my fitness": 1787686205.142448,
     "8941807": 1787696680.4117339,
     "https://www.glasgowworld.com/sport/football/celtic/celtic-player-ratings-vs-lask-champions-league-implosion-costs-club-millions-8941807": 1787696680.4117339,
     "Celtic player ratings vs LASK as Champions League implosion costs club millions in sea of 4/10 shockers": 1787696680.4117339,

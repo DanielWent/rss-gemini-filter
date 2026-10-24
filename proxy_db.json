@@ -2981,6 +2981,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "0bd85b11fd032ebca1cfe3c85843547d",
+        "title": "Roads, rails and Rangers fans disrupted as day one of Storm Boelo batters Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/weather/26667636.glasgow-disrupted-road-rail-day-one-storm-boelo/",
+        "description": "Storm Boelo brings flooding and travel chaos to Glasgow on October 24, disrupting Rangers fans, ScotRail, M8 traffic and Glasgow Airport flights too.",
+        "published": "Sat, 24 Oct 2026 20:14:23 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21627391/?type=app&htype=0"
+      },
+      {
         "id": "9061fbb942873691134600470c4a351b",
         "title": "Ryanair flight diverts 600 miles to Oslo after aborted landing in Edinburgh",
         "link": "https://www.heraldscotland.com/news/26667606.ryanair-flight-faro-edinburgh-diverts-oslo/",
@@ -3013,14 +3021,6 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/24/15/12/GettyImages-2301776677.jpeg?width=1200&auto=webp&trim=56%2C0%2C57%2C0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/huge-tailbacks-glasgow-motorways-amid-34812595",
-        "title": "Huge tailbacks on Glasgow motorways amid Storm Boelo as drivers warned to plan ahead",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/huge-tailbacks-glasgow-motorways-amid-34812595",
-        "description": "Traffic cameras show huge tailbacks of back-to-back traffic on the M8 and M74.",
-        "published": "Sat, 24 Oct 2026 14:25:55 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34812788.ece/ALTERNATES/s98/1_Traffic.png"
-      },
-      {
         "id": "82eb5225387a07a7c5a053717e00115d",
         "title": "Sam Fender calls out his own ticket prices after Instagram leak",
         "link": "https://www.glasgowtimes.co.uk/news/26667302.sam-fender-ticket-calls-ticket-prices-ahead-2027-tour/",
@@ -3043,14 +3043,6 @@
         "description": "The Scottish Greens have promised a new railcard for millennials paid for by wealthy flyers.",
         "published": "Sat, 24 Oct 2026 14:18:38 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21626779/?type=app&htype=0"
-      },
-      {
-        "id": "669492d17f1db461d5f67f79fb44f780",
-        "title": "Yellow wind warning in effect as Storm Boelo threatens 80mph gusts in Scotland",
-        "link": "https://www.heraldscotland.com/news/26667055.scotland-yellow-warning-effect-storm-boelo-threatens-80mph-gusts/",
-        "description": "A yellow wind warning has taken effect as Storm Boelo threatens 80mph gusts this weekend. Forecasters have also issued an amber warning for much of Scotland on Saturday evening into Sunday as the storm hits.",
-        "published": "Sat, 24 Oct 2026 12:04:33 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21626534/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/scotlands-best-train-station-scenic-34807549",
@@ -3077,28 +3069,12 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34811771.ece/ALTERNATES/s98/2_Watson-Street.png"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-set-further-met-office-34811539",
-        "title": "Glasgow set for further Met Office weather warnings next week",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-set-further-met-office-34811539",
-        "description": "This weekend's storms won't be the last of the wintry weather for Glasgow.",
-        "published": "Sat, 24 Oct 2026 09:50:01 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34811633.ece/ALTERNATES/s98/1_weather.png"
-      },
-      {
         "id": "9909e2238efeb343fd6e19622e8559ee",
         "title": "Hotel where King Charles was served underage announces sudden closure",
         "link": "https://www.heraldscotland.com/news/26666847.hotel-king-charles-served-underage-announces-sudden-closure/",
         "description": "Management of the Crown Hotel in Stornoway announced on social media and a front-door notice that the business has closed until further notice",
         "published": "Sat, 24 Oct 2026 09:42:54 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21626341/?type=app&htype=0"
-      },
-      {
-        "id": "cc9db9db939c63d05e75d40481771f00",
-        "title": "Paisley Halloween Festival cancelled due to Storm Boelo",
-        "link": "https://www.heraldscotland.com/news/26666829.paisley-halloween-festival-cancelled-due-storm-boelo/",
-        "description": "Paisley Halloween Festival\u2019s Saturday programme was cancelled by Renfrewshire Council on October 24 due to severe weather and an amber wind warning.",
-        "published": "Sat, 24 Oct 2026 09:25:28 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21626292/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
