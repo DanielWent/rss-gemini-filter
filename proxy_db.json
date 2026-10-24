@@ -2965,6 +2965,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-set-further-met-office-34811539",
+        "title": "Glasgow set for further Met Office weather warnings next week",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-set-further-met-office-34811539",
+        "description": "This weekend's storms won't be the last of the wintry weather for Glasgow.",
+        "published": "Sat, 24 Oct 2026 09:50:01 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34811633.ece/ALTERNATES/s98/1_weather.png"
+      },
+      {
+        "id": "9909e2238efeb343fd6e19622e8559ee",
+        "title": "Hotel where King Charles was served underage announces sudden closure",
+        "link": "https://www.heraldscotland.com/news/26666847.hotel-king-charles-served-underage-announces-sudden-closure/",
+        "description": "Management of the Crown Hotel in Stornoway announced on social media and a front-door notice that the business has closed until further notice",
+        "published": "Sat, 24 Oct 2026 09:42:54 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21626341/?type=app&htype=0"
+      },
+      {
         "id": "cc9db9db939c63d05e75d40481771f00",
         "title": "Paisley Halloween Festival cancelled due to Storm Boelo",
         "link": "https://www.heraldscotland.com/news/26666829.paisley-halloween-festival-cancelled-due-storm-boelo/",
