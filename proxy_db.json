@@ -2965,6 +2965,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "a12d3fa45d4be64dfc2923e105b68a1c",
+        "title": "Glasgow drivers face four-day road closure as major resurfacing works begin",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26666857.possil-road-glasgow-close-resurfacing-works/",
+        "description": "Glasgow\u2019s Possil Road will close from October 25 to October 28, 2026, for essential resurfacing, with diversions via Craighall Road and Garscube Road.",
+        "published": "Sat, 24 Oct 2026 09:49:20 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18949457/?type=app&htype=0"
+      },
+      {
+        "id": "cc9db9db939c63d05e75d40481771f00",
+        "title": "Paisley Halloween Festival cancelled due to Storm Boelo",
+        "link": "https://www.heraldscotland.com/news/26666829.paisley-halloween-festival-cancelled-due-storm-boelo/",
+        "description": "Paisley Halloween Festival\u2019s Saturday programme was cancelled by Renfrewshire Council on October 24 due to severe weather and an amber wind warning.",
+        "published": "Sat, 24 Oct 2026 09:25:28 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21626292/?type=app&htype=0"
+      },
+      {
         "id": "2d583d88e54d4ac17b81527a1fc7a5ed",
         "title": "Council issues devastating update regarding Halloween event outside Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26666821.paisley-halloween-festival-cancelled-due-storm-boelo/",
@@ -3747,22 +3763,6 @@
         "description": "Ranking the UK's best and lowest-rated soft play centres from Google reviews, one wee spot in Glasgow has come out on top when it comes to where to go.",
         "published": "Thu, 22 Oct 2026 15:05:50 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34803244.ece/ALTERNATES/s98/1_Screenshot-2026-10-22-at-33152PM.png"
-      },
-      {
-        "id": "474d597e156e14dd57a42a77bd81c8a1",
-        "title": "Barclays stays silent on Glasgow jobs as 5,000 roles face axe",
-        "link": "https://www.heraldscotland.com/news/26661732.barclays-silent-glasgow-impact-5-000-job-cuts/",
-        "description": "Barclays has declined to say whether workers at its flagship Glasgow campus will be affected by plans to cut around 5,000 jobs globally",
-        "published": "Thu, 22 Oct 2026 15:55:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21619474/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=534568",
-        "title": "Former Scotland rugby player to stand trial accused of raping and abusing woman over 14 years",
-        "link": "https://news.stv.tv/west-central/former-scotland-rugby-player-to-stand-trial-accused-of-raping-and-abusing-woman-over-14-years",
-        "description": "Tim Visser is alleged to have subjected the woman to rape attacks and controlling behaviour over a 14-year period",
-        "published": "Thu, 22 Oct 2026 14:36:03 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2022/09/9e3d53942e2788fcd15898747689d1f7-1662474316.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
