@@ -2965,6 +2965,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/scotlands-best-train-station-scenic-34807549",
+        "title": "Scotland's 'best' train station is in a scenic village just 35 minutes from Glasgow",
+        "link": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/scotlands-best-train-station-scenic-34807549",
+        "description": "The wee station made it to the final of the nationwide competition, beating off hundreds of rival stations to make the final five in Britain.",
+        "published": "Sat, 24 Oct 2026 10:41:35 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34807456.ece/ALTERNATES/s98/0_Screenshot-2026-10-23-at-125116PM.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/old-easterhouse-primary-school-site-34810030",
+        "title": "Old Easterhouse primary school site to be transformed into 'community greenspace'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/old-easterhouse-primary-school-site-34810030",
+        "description": "Plans to regenerate the former Rogerfield Primary site have been approved by Glasgow City Council.",
+        "published": "Sat, 24 Oct 2026 10:26:10 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34810031.ece/ALTERNATES/s98/0_rogerfieldschoolsite.png"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-police-launch-probe-unexplained-34811750",
         "title": "Glasgow police launch probe into 'unexplained death' of man found on street",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-police-launch-probe-unexplained-34811750",
