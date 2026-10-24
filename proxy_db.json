@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1792840816187002",
+        "title": "Halloween festival cancelled by storm after one night of macabre mayhem",
+        "link": "https://www.bbc.co.uk/news/articles/c9p8g4060j6ko?at_medium=RSS&at_campaign=rss",
+        "description": "Storm forecasts have led to the cancellation of events in \"Scotland's Halloween capital\" of Paisley.",
+        "published": "Sat, 24 Oct 2026 13:09:53 +0200",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bb7/live/37d70b00-cf96-11f1-878e-95f884e98e77.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo#1",
         "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
         "link": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss",
