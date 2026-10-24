@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o#1",
+        "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
+        "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
+        "description": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
+        "published": "Sat, 24 Oct 2026 15:13:40 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7559/live/33cbd240-cfb2-11f1-9012-0172b9f73a72.jpg"
+      },
+      {
         "id": "1792840816187002",
         "title": "Halloween festival cancelled by storm after one night of macabre mayhem",
         "link": "https://www.bbc.co.uk/news/articles/c9p8g4060j6ko?at_medium=RSS&at_campaign=rss",
@@ -2972,6 +2980,14 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "20b6d0d70054ba1c4252fcaad7e71b67",
+        "title": "LIVE updates as busy Glasgow road closed following crash",
+        "link": "https://www.glasgowtimes.co.uk/news/26667533.live-updates-pollokshaws-road-closed-following-crash/",
+        "description": "Pollokshaws Road has been closed between Minard Road and Moss-Side Road after a crash. Police, fire and ambulance are understood to be in attendance",
+        "published": "Sat, 24 Oct 2026 18:11:09 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21627269/?type=app&htype=0"
+      },
       {
         "id": "https://news.stv.tv/?p=534924",
         "title": "Campaigners stage Rest and Be Thankful protest over A83 convoy plans",
