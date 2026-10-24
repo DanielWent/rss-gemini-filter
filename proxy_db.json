@@ -5,28 +5,20 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo#1",
+        "title": "UK to invest \u00a3100m in 'world first' AI Biosecurity Lab",
+        "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+        "description": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+        "published": "Sat, 24 Oct 2026 00:05:45 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg"
+      },
+      {
         "id": "1792784439559369",
         "title": "Trains cancelled and roads warnings as Scotland prepares for Storm Boelo",
         "link": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
         "description": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast.",
         "published": "Fri, 23 Oct 2026 21:31:02 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b118/live/2f6de9e0-cf03-11f1-b95c-310d5f3c558a.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o#1",
-        "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
-        "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
-        "description": "Millions remain under yellow weather warnings for wind and rain, with a second storm expected to hit Scotland and parts of northern England on Saturday.",
-        "published": "Fri, 23 Oct 2026 18:48:18 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ed/live/357e0110-ceec-11f1-bdca-23c64447299f.jpg"
-      },
-      {
-        "id": "1792774612650781",
-        "title": "Thousands without power and travel disruption as Storm Austen batters southern UK",
-        "link": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
-        "description": "On Saturday, Storm Boelo is forecast to bring more strong winds and heavy rain to Scotland and parts of northern England.",
-        "published": "Fri, 23 Oct 2026 18:39:46 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ed/live/357e0110-ceec-11f1-bdca-23c64447299f.jpg"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/c862yv953x04o#4",
@@ -69,14 +61,6 @@
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52bb/live/59305530-ce3e-11f1-9a39-31b474234113.jpg"
       },
       {
-        "id": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o#1",
-        "title": "Amber warning in place as Storm Austen hits parts of UK",
-        "link": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
-        "description": "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday.",
-        "published": "Fri, 23 Oct 2026 00:08:43 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2e2/live/63d08560-ce33-11f1-a86f-f78305ec9987.jpg"
-      },
-      {
         "id": "1792713009659758",
         "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
         "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
@@ -91,14 +75,6 @@
         "description": "Ruti Aga tried to explain a positive test for a banned substance with a fake prescription from a non-existent clinic.",
         "published": "Thu, 22 Oct 2026 20:25:41 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de1e/live/ebe84ff0-ce42-11f1-a86f-f78305ec9987.jpg"
-      },
-      {
-        "id": "1792673713219822",
-        "title": "Weather warning in place ahead of Storm Boelo",
-        "link": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss",
-        "description": "A Met Office weather warning is in place from 18:00 BST on Saturday until 15:00 GMT on Sunday.",
-        "published": "Thu, 22 Oct 2026 14:43:39 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d7f/live/0d8bf270-ce10-11f1-9f55-cdc56e9c248c.png"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo#4",
@@ -629,14 +605,6 @@
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c774/live/ea633370-b02e-11f1-a8a9-13be82d23441.jpg"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/c790xvnzgnno#2",
-        "title": "Why are there concerns AI could threaten humanity, and how real are they?",
-        "link": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
-        "description": "Existential fears about AI have once again reared their head - here's what you need to know.",
-        "published": "Mon, 14 Sep 2026 12:00:08 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2b6/live/889402c0-b036-11f1-9ae0-e316eeb4632d.jpg"
-      },
-      {
         "id": "1789387517613853",
         "title": "China criticises idea it is in 'malicious competition' over AI",
         "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
@@ -675,14 +643,6 @@
         "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
         "published": "Sun, 13 Sep 2026 18:20:22 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b55d/live/2989a230-afa0-11f1-b88f-8308bd3510af.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cew9n2j47ygo#1",
-        "title": "Andy Burnham among Great North Run finishers",
-        "link": "https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss",
-        "description": "This year's event sees 63,000 people take on the half marathon - including the prime minister.",
-        "published": "Sun, 13 Sep 2026 13:53:55 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1eb6/live/e9ac30d0-af70-11f1-aafc-c90fa48bb0ed.png"
       },
       {
         "id": "1789308315881317",
