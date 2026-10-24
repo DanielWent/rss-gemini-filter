@@ -2965,6 +2965,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "d58e329542a8ef4464c1fe5c3aaef4e1",
+        "title": "Popular Glasgow bakery loses latest battle over city centre signs",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26662116.popular-glasgow-bakery-loses-latest-battle-city-centre-signs/",
+        "description": "A popular Glasgow bakery has again been refused permission to keep unauthorised signs at its Argyle Street and Dundas Street city centre venues.",
+        "published": "Sat, 24 Oct 2026 06:00:00 +0100",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21619575/?type=app&htype=0"
+      },
+      {
         "id": "09249b44c32e1fade2d9c56ce786fb00",
         "title": "New video shows motorcycle cops chasing down and seizing illegal E-bike in Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26666641.video-shows-cops-chasing-seizing-illegal-e-bike/",
@@ -3021,28 +3029,12 @@
         "image_url": "https://www.heraldscotland.com/resources/images/10487320/?type=app&htype=0"
       },
       {
-        "id": "d9f5571b417041885c6796bd83305269",
-        "title": "Everything you need to know as Glasgow heads from Storm Austen into Storm Boelo",
-        "link": "https://www.glasgowtimes.co.uk/news/weather/26666571.everything-need-know-storm-boelo-reaches-glasgow/",
-        "description": "Glasgow faces an amber warning as Storm Boelo brings 70mph winds, heavy rain, ScotRail disruption, flight delays and flooding over the weekend from October 24.",
-        "published": "Fri, 23 Oct 2026 18:58:07 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18669874/?type=app&htype=0"
-      },
-      {
         "id": "6b6df0800478540756bd52bc8811b816",
         "title": "Singers and musicians urge Scottish Government to rethink trad music company plans",
         "link": "https://www.heraldscotland.com/news/26666546.scottish-government-urged-rethink-vision-new-trad-music-company/",
         "description": "The Scottish Government\u2019s plans to give traditional music the 'same platform' as opera, ballet and classical music have sparked concerns.",
         "published": "Fri, 23 Oct 2026 18:37:51 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/20725840/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-questioned-over-keeping-34810392",
-        "title": "Glasgow council questioned over keeping school kids safe amid 'bomb threat hoax'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-questioned-over-keeping-34810392",
-        "description": "Officers and staff from Police Scotland\u2019s cyber and fraud unit confirmed earlier this week they were working closely with partners and carrying out extensive inquiries to establish the source.",
-        "published": "Fri, 23 Oct 2026 16:54:49 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34400265.ece/ALTERNATES/s98/0_CMP_SDR_080823CraigmountHighExamDay_008JPG.jpg"
       },
       {
         "id": "a30f4a0f8f8b20eebecf73b61f855929",
@@ -3403,14 +3395,6 @@
         "description": "Travellers have been warned to prepare for longer journey times as bad weather blows in",
         "published": "Fri, 23 Oct 2026 09:20:43 +0100",
         "image_url": "https://www.heraldscotland.com/resources/images/21293238/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-bakery-chain-denied-consent-34803730",
-        "title": "Glasgow bakery chain denied consent for 'unnecessary' adverts again",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-bakery-chain-denied-consent-34803730",
-        "description": "Planners at Glasgow City Council say the signs at two venue are 'visual clutter.",
-        "published": "Fri, 23 Oct 2026 08:16:38 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33891785.ece/ALTERNATES/s98/0_Morbakehousejpeg.jpg"
       },
       {
         "id": "59ef2592dfd91276ec7a7426a285e58b",
