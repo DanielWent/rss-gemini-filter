@@ -2965,6 +2965,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8855c78aad0e12421447450f1f6dfb0f",
+        "title": "Edinburgh Diwali chief on need for guaranteed funding after decade of success",
+        "link": "https://www.heraldscotland.com/life_style/26665027.edinburgh-diwali-chief-guaranteed-funding-decade-success/",
+        "description": "\u201cIt\u2019s definitely something which we all are very proud of,\u201d said Rajnish Singh.\u00a0\u201cI've been a part of it right from day one.\u201d",
+        "published": "Sat, 24 Oct 2026 08:00:00 +0100",
+        "image_url": "https://www.heraldscotland.com/resources/images/21623825/?type=app&htype=0"
+      },
+      {
         "id": "30d22e05fb400d0a3176c1a97728c855",
         "title": "As the clocks go back, why is Paisley more than 17 minutes behind Greenwich Meantime?",
         "link": "https://www.heraldscotland.com/news/26665596.paisley-time-story-behind-17-minute-difference-gmt/",
@@ -3003,14 +3011,6 @@
         "description": "Glasgow City Archives uncovers the disturbing history of the city's Magdalene Institute, where so-called \"wayward\" women and girls were confined until its closure in 1958.",
         "published": "Sat, 24 Oct 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21612191/?type=app&htype=0"
-      },
-      {
-        "id": "1f146494a4e259db288ab7a22de870bb",
-        "title": "Here's why 'Paisley time' is nearly 18 minutes behind the rest of the UK",
-        "link": "https://www.glasgowtimes.co.uk/news/26665789.paisley-18-minutes-behind-rest-uk/",
-        "description": "As the clocks go back once again, Paisley could technically running nearly 18 minutes behind the rest of the country.",
-        "published": "Sat, 24 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21624987/?type=app&htype=0"
       },
       {
         "id": "83471b518706a3fa2cd3a82d16c33cb4",
@@ -3067,14 +3067,6 @@
         "description": "South Ayrshire Council is considering extending the town\u2019s existing permit parking scheme in response to concerns about long-stay parking by airport users",
         "published": "Fri, 23 Oct 2026 18:49:00 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/2f65737add6638097809c7421335e34c-1792781114-1280x720.jpeg"
-      },
-      {
-        "id": "6dfdf00a1f0828af4c0d03156cae58da",
-        "title": "Shoppers delayed as busy Glasgow road near supermarket to close for resurfacing",
-        "link": "https://www.glasgowtimes.co.uk/news/26666600.paisley-road-west-close-new-resurfacing-works/",
-        "description": "Paisley Road West in Glasgow will close westbound from October 26 to October 31 for resurfacing, with diversions and delays near Morrisons and bus services.",
-        "published": "Fri, 23 Oct 2026 19:38:06 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19342883/?type=app&htype=0"
       },
       {
         "id": "870c745549242296d5eeb4b34971023c",
@@ -3237,14 +3229,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20271602/?type=app&htype=4"
       },
       {
-        "id": "71de913b958ba7c0312ccb9b95d1cad3",
-        "title": "'Nonsense': Fresh blow for Scottish Government over public service shake-up",
-        "link": "https://www.heraldscotland.com/news/26664692.ivan-mckee-warned-reforms-will-fail-without-social-care/",
-        "description": "The Scottish Government's public sector reform plans have faced more bruising criticism.",
-        "published": "Fri, 23 Oct 2026 14:30:00 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20893766/?type=app&htype=0"
-      },
-      {
         "id": "63e79f61541078e6e53dadeb9b01d561",
         "title": "Weather warning forces cancellation of flagship Scottish athletics event",
         "link": "https://www.glasgowtimes.co.uk/news/weather/26665115.scottish-athletics-axes-xc-relays-high-winds-pose-safety-risk/",
@@ -3315,14 +3299,6 @@
         "description": "Bosses behind the event say they are 'keeping a close eye on the weather' as they look forward to welcoming people to the popular event.",
         "published": "Fri, 23 Oct 2026 12:05:52 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34807573.ece/ALTERNATES/s98/0_Screenshot-2026-10-15-at-123531PM.png"
-      },
-      {
-        "id": "18128c9017c1c4d88fdc4ac02480cdca",
-        "title": "RNLI issues coastal safety warning as Scotland faces 80mph storm gusts",
-        "link": "https://www.heraldscotland.com/news/26664662.rnli-urges-public-stay-safe-scotlands-coast-weekend/",
-        "description": "The Royal National Lifeboat Institution (RNLI) has issued a reminder to those along the coast to be aware of the dangers as Storms Austen and Boelo are expected to bring strong winds and heavy rain across Scotland this weekend.",
-        "published": "Fri, 23 Oct 2026 13:05:46 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/21623262/?type=app&htype=0"
       },
       {
         "id": "5308324",
