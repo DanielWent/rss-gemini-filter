@@ -2989,12 +2989,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "7c3e8a77ef7d7e2c41b7a185bea11a4f",
+        "title": "Body believed to be missing 82-year-old man who 'fell from CalMac ferry' found",
+        "link": "https://www.heraldscotland.com/news/26668118.body-believed-missing-man-fell-calmac-ferry-found/",
+        "description": "Body believed to be missing 82-year-old Jim Wither found on Largs beach after man fell from CalMac ferry near Arran; police say death is not suspicious.",
+        "published": "Sun, 25 Oct 2026 12:57:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20696889/?type=app&htype=0"
+      },
+      {
+        "id": "7bd7ccc4f8759889bbd9e834328c665e",
+        "title": "Govan man who claimed to be 'commanding officer' of banned UVF faces jail",
+        "link": "https://www.glasgowtimes.co.uk/news/26668104.govan-man-claimed-commanding-officer-banned-uvf/",
+        "description": "A terror suspect who claimed he was a \u201ccommanding officer\u201d of the loyalist Ulster Volunteer Force paramilitary group could be facing jail.",
+        "published": "Sun, 25 Oct 2026 12:42:11 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21194148/?type=app&htype=0"
+      },
+      {
+        "id": "5e3a6d0e4cd366e4f82eb790cbeaf6a9",
+        "title": "More than 30,000 Scottish homes without power after Storm Boelo hits Scotland",
+        "link": "https://www.heraldscotland.com/news/26668094.storm-boelo-leaves-30-000-scottish-homes-without-power/",
+        "description": "Storm Boelo leaves more than 30,000 Scottish homes without power as 80mph winds cause travel disruption, with SSEN and SP Energy teams repairing faults after storm damage.",
+        "published": "Sun, 25 Oct 2026 12:40:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21628146/?type=app&htype=0"
+      },
+      {
         "id": "2b7df4d813e78e536014853df2761788",
         "title": "Police officer tried to defraud ex-husband by forging documents",
         "link": "https://www.glasgowtimes.co.uk/news/26668083.police-officer-forged-documents-defraud-ex-husband/",
         "description": "A police officer was caught forging financial documents in front of a colleague in a bid to defraud her husband.",
         "published": "Sun, 25 Oct 2026 12:27:17 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17317808/?type=app&htype=0"
+      },
+      {
+        "id": "5881f11159b7c41dc8663af74c8afd1c",
+        "title": "SNP Cabinet Secretary say Jackdaw gas field approval was 'the right decision'",
+        "link": "https://www.heraldscotland.com/news/26668064.snp-minister-calls-jackdaw-approval-right-decision/",
+        "description": "Social Justice Secretary Shirley-Anne Somerville has called Jackdaw's approval the right decision \u2014 while warning Scotland receives no financial benefit from production in its own waters.",
+        "published": "Sun, 25 Oct 2026 12:17:26 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21628111/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=534944",
