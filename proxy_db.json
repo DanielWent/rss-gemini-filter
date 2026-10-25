@@ -2981,6 +2981,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=534944",
+        "title": "\u2018Heartbreaking\u2019: Coastal areas flooded overnight as Storm Boelo hits Scotland",
+        "link": "https://news.stv.tv/west-central/heartbreaking-coastal-areas-flooded-overnight-as-storm-boelo-hits-scotland",
+        "description": "Largs is among the towns deluged during storm as Scotland faces gusts exceeding 80mph, travel disruption and power outages",
+        "published": "Sun, 25 Oct 2026 12:13:32 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/390879286d563a8149e91f58a5eb2bac-1792929663.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/dramatic-footage-shows-loch-lomond-34814460",
+        "title": "Dramatic footage shows Loch Lomond rescuers battling Storm Boelo's strong winds",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/dramatic-footage-shows-loch-lomond-34814460",
+        "description": "Rescuers battled gusts of up to 55mph and waves reaching heights of 12ft.",
+        "published": "Sun, 25 Oct 2026 12:12:25 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34814476.ece/ALTERNATES/s98/0_Screenshot-2026-10-25-115707.png"
+      },
+      {
+        "id": "9307874",
+        "title": "Rangers hero expects star to stay beyond January unless 'ridiculous' fee met as transfer timeline predicted",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-hero-expects-sought-after-star-to-stay-beyond-january-unless-ridiculous-fee-met-as-transfer-timeline-predicted-9307874",
+        "description": "<p>Midfield mainstay was linked with a move away from Ibrox in the summer</p>",
+        "published": "Sun, 25 Oct 2026 12:00:26 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/24/17/31/GettyImages-2274479970.jpeg?width=1200&auto=webp&trim=24%2C0%2C25%2C0"
+      },
+      {
+        "id": "2f9094f2ec0c8529c57718d559cb45ab",
+        "title": "Glasgow MSPs included in Michael Marra's new Scottish Labour's top team",
+        "link": "https://www.glasgowtimes.co.uk/news/26668025.glasgow-msps-included-scottish-labours-new-top-team/",
+        "description": "Michael Marra has named his Scottish Labour new front bench team at the Scottish Parliament.",
+        "published": "Sun, 25 Oct 2026 11:52:23 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21506927/?type=app&htype=0"
+      },
+      {
+        "id": "9ce99a049f0d19b25d173575af129052",
+        "title": "Mackay admits she 'struggled to find the words' on Israel's right to exist question",
+        "link": "https://www.heraldscotland.com/news/26668000.gillian-mackay-states-dont-right-exist/",
+        "description": "Scottish Greens co-leader Gillian Mackay has attempted to clarify her view on Israel's right to exist, saying states have no such right but people do.",
+        "published": "Sun, 25 Oct 2026 11:37:29 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21580285/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=534941",
         "title": "Appeal launched for man missing from Stonehouse",
         "link": "https://news.stv.tv/west-central/appeal-launched-for-man-missing-from-stonehouse",
@@ -3005,6 +3045,14 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33077077.ece/ALTERNATES/s98/3_JS311079991.jpg"
       },
       {
+        "id": "9fc4fc9fd705016f13ddd928eb473812",
+        "title": "Marra hands finance brief to leadership rival Fagan in first shadow cabinet",
+        "link": "https://www.heraldscotland.com/news/26667916.michael-marra-names-scottish-labour-shadow-cabinet/",
+        "description": "Michael Marra has named his first shadow cabinet as Scottish Labour leader, handing rival Joe Fagan the finance brief and claiming official opposition status at Holyrood after Amanda Bland's departure from Malcolm Offord's group.",
+        "published": "Sun, 25 Oct 2026 10:44:13 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21533080/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/coatbridge-director-make-new-independent-34812469",
         "title": "Coatbridge director to make new independent film 'completely rooted in Glasgow'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/coatbridge-director-make-new-independent-34812469",
@@ -3019,6 +3067,14 @@
         "description": "&quot;It's great to see the community, and it's helped make a little Ukraine here - it's like a little heart.&quot;",
         "published": "Sun, 25 Oct 2026 10:24:48 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34809803.ece/ALTERNATES/s98/1_14887a59-63e9-4866-ac65-c05837b79df2jfif.jpg"
+      },
+      {
+        "id": "b0308416ed1232df914a0cb096f63399",
+        "title": "All the latest updates as Storm Boelo hits Scotland as thousands without power",
+        "link": "https://www.heraldscotland.com/news/26667823.live-updates-storm-boelo-hits-scotland-amid-disruption/",
+        "description": "Severe weather warnings for Storm Boelo have been issued across Scotland, with Amber warnings issued for Saturday night and Sunday and ScotRail and CalMac services disrupted.",
+        "published": "Sun, 25 Oct 2026 09:26:32 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21627831/?type=app&htype=0"
       },
       {
         "id": "32410c2981ffda43ee9789ac52a8bb80",
