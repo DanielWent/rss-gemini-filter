@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1792932032664838",
+        "title": "Police using AI risks making discrimination worse, researchers warn",
+        "link": "https://www.bbc.co.uk/news/articles/ckpdg4pl7pgvo?at_medium=RSS&at_campaign=rss",
+        "description": "AI tools learn from biased records and may deepen discrimination against minorities without oversight, researchers say.",
+        "published": "Sun, 25 Oct 2026 13:18:56 +0100",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/560f/live/b29654d0-c8ad-11f1-9c75-6ff1271de385.jpg"
+      },
+      {
         "id": "1792924810595373",
         "title": "More wet and windy weather to follow stormy weekend",
         "link": "https://www.bbc.co.uk/weather/articles/cwdd858z8ynlo?at_medium=RSS&at_campaign=rss",
@@ -2981,6 +2989,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "2b7df4d813e78e536014853df2761788",
+        "title": "Police officer tried to defraud ex-husband by forging documents",
+        "link": "https://www.glasgowtimes.co.uk/news/26668083.police-officer-forged-documents-defraud-ex-husband/",
+        "description": "A police officer was caught forging financial documents in front of a colleague in a bid to defraud her husband.",
+        "published": "Sun, 25 Oct 2026 12:27:17 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17317808/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=534944",
         "title": "\u2018Heartbreaking\u2019: Coastal areas flooded overnight as Storm Boelo hits Scotland",
         "link": "https://news.stv.tv/west-central/heartbreaking-coastal-areas-flooded-overnight-as-storm-boelo-hits-scotland",
@@ -3045,14 +3061,6 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33077077.ece/ALTERNATES/s98/3_JS311079991.jpg"
       },
       {
-        "id": "9fc4fc9fd705016f13ddd928eb473812",
-        "title": "Marra hands finance brief to leadership rival Fagan in first shadow cabinet",
-        "link": "https://www.heraldscotland.com/news/26667916.michael-marra-names-scottish-labour-shadow-cabinet/",
-        "description": "Michael Marra has named his first shadow cabinet as Scottish Labour leader, handing rival Joe Fagan the finance brief and claiming official opposition status at Holyrood after Amanda Bland's departure from Malcolm Offord's group.",
-        "published": "Sun, 25 Oct 2026 10:44:13 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21533080/?type=app&htype=0"
-      },
-      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/coatbridge-director-make-new-independent-34812469",
         "title": "Coatbridge director to make new independent film 'completely rooted in Glasgow'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/coatbridge-director-make-new-independent-34812469",
@@ -3067,14 +3075,6 @@
         "description": "&quot;It's great to see the community, and it's helped make a little Ukraine here - it's like a little heart.&quot;",
         "published": "Sun, 25 Oct 2026 10:24:48 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34809803.ece/ALTERNATES/s98/1_14887a59-63e9-4866-ac65-c05837b79df2jfif.jpg"
-      },
-      {
-        "id": "b0308416ed1232df914a0cb096f63399",
-        "title": "All the latest updates as Storm Boelo hits Scotland as thousands without power",
-        "link": "https://www.heraldscotland.com/news/26667823.live-updates-storm-boelo-hits-scotland-amid-disruption/",
-        "description": "Severe weather warnings for Storm Boelo have been issued across Scotland, with Amber warnings issued for Saturday night and Sunday and ScotRail and CalMac services disrupted.",
-        "published": "Sun, 25 Oct 2026 09:26:32 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21627831/?type=app&htype=0"
       },
       {
         "id": "32410c2981ffda43ee9789ac52a8bb80",
@@ -3179,14 +3179,6 @@
         "description": "Families caring for disabled children share how respite care at Aberlour Options in Elgin provides support, confidence and hope for the future.",
         "published": "Sun, 25 Oct 2026 05:00:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21625053/?type=app&htype=0"
-      },
-      {
-        "id": "0bd85b11fd032ebca1cfe3c85843547d",
-        "title": "Roads, rails and Rangers fans disrupted as day one of Storm Boelo batters Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/weather/26667636.glasgow-disrupted-road-rail-day-one-storm-boelo/",
-        "description": "Storm Boelo brings flooding and travel chaos to Glasgow on October 24, disrupting Rangers fans, ScotRail, M8 traffic and Glasgow Airport flights too.",
-        "published": "Sat, 24 Oct 2026 20:14:23 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21627391/?type=app&htype=0"
       },
       {
         "id": "9061fbb942873691134600470c4a351b",
