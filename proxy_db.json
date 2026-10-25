@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1792950015757124",
+        "title": "Man killed by falling tree as Storm Boelo brings more severe weather to UK",
+        "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+        "description": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.",
+        "published": "Sun, 25 Oct 2026 18:27:28 +0100",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3323/live/f31148a0-d085-11f1-a4ba-351760cfea6a.jpg"
+      },
+      {
         "id": "1792932032664838",
         "title": "Police using AI risks making discrimination worse, researchers warn",
         "link": "https://www.bbc.co.uk/news/articles/ckpdg4pl7pgvo?at_medium=RSS&at_campaign=rss",
@@ -2988,6 +2996,14 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "13262c7db07357c5dfbd04eaba1f3922",
+        "title": "Police issue update on Storm Boelo damage across the country",
+        "link": "https://www.glasgowtimes.co.uk/news/weather/26668501.police-issue-update-storm-boelo-damage-across-scotland/",
+        "description": "Police have advised people not to travel unless necessary as Storm Boelo continues to hit Scotland.",
+        "published": "Sun, 25 Oct 2026 17:35:26 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21628930/?type=app&htype=0"
+      },
       {
         "id": "3e6605e12444bf430f4328dee5290354",
         "title": "Flooding forces Glasgow pub to shut as Storm Boelo hits city",
