@@ -2989,6 +2989,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "3e6605e12444bf430f4328dee5290354",
+        "title": "Flooding forces Glasgow pub to shut as Storm Boelo hits city",
+        "link": "https://www.glasgowtimes.co.uk/news/weather/26668472.flooding-forces-glasgow-pub-shut-storm-boelo-hits/",
+        "description": "A popular Glasgow pub has been forced to close due to flooding during storm Boelo.",
+        "published": "Sun, 25 Oct 2026 17:13:13 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21628870/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=534960",
         "title": "Storm Boelo \u2018devastates\u2019 businesses after overnight flooding hits Largs",
         "link": "https://news.stv.tv/west-central/storm-boelo-devastates-businesses-after-overnight-flooding",
