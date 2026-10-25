@@ -2981,6 +2981,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=534541",
+        "title": "\u2018He was my everything\u2019: Mum seeks answers after son\u2019s death in foster care",
+        "link": "https://news.stv.tv/west-central/he-was-my-everything-mum-seeks-answers-after-sons-death-in-foster-care",
+        "description": "Maria Mutadiua says she has been left 'destroyed' by her son Quinton's death.",
+        "published": "Sun, 25 Oct 2026 11:09:25 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/5d5e46a2d7fe54332eec7aed01c5d4c9-1792673836-1280x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-bid-among-cleanest-city-34809991",
+        "title": "Glasgow bid to be among 'cleanest' city in Europe as litter awards could be launched",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-bid-among-cleanest-city-34809991",
+        "description": "A motion from a senior councillor says &quot;behavioural change&quot; is needed for improvement.",
+        "published": "Sun, 25 Oct 2026 10:57:07 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33077077.ece/ALTERNATES/s98/3_JS311079991.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/coatbridge-director-make-new-independent-34812469",
         "title": "Coatbridge director to make new independent film 'completely rooted in Glasgow'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/coatbridge-director-make-new-independent-34812469",
