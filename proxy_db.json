@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1792924810595373",
+        "title": "More wet and windy weather to follow stormy weekend",
+        "link": "https://www.bbc.co.uk/weather/articles/cwdd858z8ynlo?at_medium=RSS&at_campaign=rss",
+        "description": "Following the first two named storms of the season, wet and very windy conditions are set to continue into the start of the new week.",
+        "published": "Sun, 25 Oct 2026 11:16:20 +0100",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c58/live/4758dc50-cfa7-11f1-aadb-297fd0a130b9.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o#1",
         "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
         "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
@@ -2972,6 +2980,22 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/coatbridge-director-make-new-independent-34812469",
+        "title": "Coatbridge director to make new independent film 'completely rooted in Glasgow'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/coatbridge-director-make-new-independent-34812469",
+        "description": "\u201cWe don\u2019t want Glasgow pretending to be London or New York or somewhere else. The city is part of the film.&quot;",
+        "published": "Sun, 25 Oct 2026 10:28:58 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34812550.ece/ALTERNATES/s98/2_film.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/inside-mini-heart-ukraine-glasgow-34807299",
+        "title": "Inside the mini heart of Ukraine at Glasgow school teaching young refugees their history and culture",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/inside-mini-heart-ukraine-glasgow-34807299",
+        "description": "&quot;It's great to see the community, and it's helped make a little Ukraine here - it's like a little heart.&quot;",
+        "published": "Sun, 25 Oct 2026 10:24:48 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34809803.ece/ALTERNATES/s98/1_14887a59-63e9-4866-ac65-c05837b79df2jfif.jpg"
+      },
       {
         "id": "32410c2981ffda43ee9789ac52a8bb80",
         "title": "Inside the Scottish university strikes where students are 'teaching themselves'",
