@@ -2973,6 +2973,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "32410c2981ffda43ee9789ac52a8bb80",
+        "title": "Inside the Scottish university strikes where students are 'teaching themselves'",
+        "link": "https://www.heraldscotland.com/news/26657038.glasgow-caledonian-university-students-feel-abandoned-strikes/",
+        "description": "Glasgow Caledonian University students say they feel abandoned as UCU-led strikes disrupt teaching, assessments and nursing courses amid 100 proposed job cuts",
+        "published": "Sun, 25 Oct 2026 08:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20679183/?type=app&htype=0"
+      },
+      {
+        "id": "f0f5472c4e2c8467dc06ca49f206bbfb",
+        "title": "The future of Princes Street Gardens hangs in the balance. Can these Friends save it?",
+        "link": "https://www.heraldscotland.com/life_style/26666423.easy-wins-change-fate-princes-street-gardens/",
+        "description": "Princes Street Gardens has been in a sort of stasis for years, following an unceremonious end to the glitzy \u00a325m regeneration plan amid a global pandemic.",
+        "published": "Sun, 25 Oct 2026 08:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21625836/?type=app&htype=0"
+      },
+      {
         "id": "e7ef88c9bb9c29392cb8c1653ac05593",
         "title": "Live in a tenement? Then these are the warning signs you need to know",
         "link": "https://www.heraldscotland.com/news/26664826.tenement-maintenance-warning-signs-every-scots-owner-know/",
@@ -3059,14 +3075,6 @@
         "description": "Families caring for disabled children share how respite care at Aberlour Options in Elgin provides support, confidence and hope for the future.",
         "published": "Sun, 25 Oct 2026 05:00:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21625053/?type=app&htype=0"
-      },
-      {
-        "id": "608d5a9de42dd74f6730a4acf50442d6",
-        "title": "800 Scottish public sector workers being paid for jobs that don\u2019t exist \u2013 report",
-        "link": "https://www.heraldscotland.com/news/26667683.800-scots-public-sector-workers-being-paid-jobs-dont-exist/",
-        "description": "The Scottish Government says its \u201cno compulsory redundancies\u201d policy remains in place after reports that hundreds of public sector workers are being paid millions of pounds per year \u2013 despite the fact their jobs no longer exist.",
-        "published": "Sat, 24 Oct 2026 22:00:59 +0100",
-        "image_url": "https://www.heraldscotland.com/resources/images/20258709/?type=app&htype=0"
       },
       {
         "id": "0bd85b11fd032ebca1cfe3c85843547d",
