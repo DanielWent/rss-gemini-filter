@@ -2989,6 +2989,54 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=534960",
+        "title": "Storm Boelo \u2018devastates\u2019 businesses after overnight flooding hits Largs",
+        "link": "https://news.stv.tv/west-central/storm-boelo-devastates-businesses-after-overnight-flooding",
+        "description": "Businesses in Largs suffered 'devastating' damage and ruined stock after an overnight deluge",
+        "published": "Sun, 25 Oct 2026 16:47:27 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/1c8454fc34decc4ae925e61a8ac5032d-1792941710-1280x720.jpeg"
+      },
+      {
+        "id": "bf5c1e42c9c7e138698813cf6b4a8997",
+        "title": "Storm Boelo update as adverse weather to return early this week",
+        "link": "https://www.glasgowtimes.co.uk/news/weather/26668434.storm-boelo-update-adverse-weather-return-within-days/",
+        "description": "A warning has been issued that while the Storm Boelo should ease tonight there could be further weather-related disruption within days.",
+        "published": "Sun, 25 Oct 2026 16:37:08 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21627392/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/new-figures-show-two-young-34814607",
+        "title": "New figures show two young Scots dying every month in 'broken' care system",
+        "link": "https://www.glasgowlive.co.uk/news/new-figures-show-two-young-34814607",
+        "description": "Heartbreaking Scottish Centre for Crime and Justice Research figures show 22 looked-after children and young people died in Scotland in 2025",
+        "published": "Sun, 25 Oct 2026 16:26:56 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34815342.ece/ALTERNATES/s98/0_Screenshot-2026-10-25-162731.png"
+      },
+      {
+        "id": "e4ecb9441c90f8d5fd9001663d28c043",
+        "title": "Man dies after being struck by falling tree during Storm Boelo",
+        "link": "https://www.heraldscotland.com/news/26668399.man-dies-hit-tree-storm-boelo-castle-douglas/",
+        "description": "A 60-year-old man died after a falling tree struck him near Castle Douglas during Storm Boelo in Scotland, Police Scotland says, on October 25, 2026.",
+        "published": "Sun, 25 Oct 2026 16:20:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21627013/?type=app&htype=0"
+      },
+      {
+        "id": "4b9657a783dd1d26d9cbdaa3649e722d",
+        "title": "Full list of 133 Scottish flights cancelled amid Storm Boelo disruption",
+        "link": "https://www.heraldscotland.com/news/26668257.full-list-scottish-flights-cancelled-amid-storm-boelo/",
+        "description": "Storm Boelo cancels more than 100 flights across Scotland, disrupting Glasgow, Edinburgh, Aberdeen and other airports as 80mph winds batter the country.",
+        "published": "Sun, 25 Oct 2026 15:13:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20968403/?type=app&htype=0"
+      },
+      {
+        "id": "9ecc9848fc48bd2cab87a60e0fda2794",
+        "title": "Ex-Reform MSP: 'It feels like I have escaped a coercively controlled relationship'",
+        "link": "https://www.heraldscotland.com/news/26668287.ex-reform-msp-accuses-leadership-intimidation-misogyny/",
+        "description": "Amanda Bland, who served as Reform UK's justice spokesperson at Holyrood, has broken her silence to allege months of shouting, intimidation and the systematic sidelining of women by the party's Scottish leadership. Malcolm Offord rejects her account.",
+        "published": "Sun, 25 Oct 2026 15:11:16 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21600057/?type=app&htype=0"
+      },
+      {
         "id": "9308171",
         "title": "Celtic provide Alistair Johnston fitness update as reason injury comeback was cut short explained",
         "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-provide-alistair-johnston-fitness-update-as-reason-injury-comeback-was-cut-short-explained-9308171",
@@ -3003,6 +3051,14 @@
         "description": "Police appeal for help to find missing 63-year-old Tom Allan, last seen at Westmains Farm, Stonehouse, South Lanarkshire, on October 23. Check sheds and outbuildings.",
         "published": "Sun, 25 Oct 2026 14:36:46 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21628439/?type=app&htype=0"
+      },
+      {
+        "id": "ba55ccdf86b6d246c4c8dc2e8233154f",
+        "title": "Police urge residents to check sheds in search for missing 63-year-old man",
+        "link": "https://www.heraldscotland.com/news/26668222.police-appeal-find-missing-man-south-lanarkshire/",
+        "description": "Police are appealing to the public to assist in the search for a missing 63-year-old man in South Lanarkshire during Storm Boelo.",
+        "published": "Sun, 25 Oct 2026 14:34:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21628441/?type=app&htype=0"
       },
       {
         "id": "7c3e8a77ef7d7e2c41b7a185bea11a4f",
