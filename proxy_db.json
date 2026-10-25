@@ -2981,6 +2981,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "fdb5f79cd26341ae6e739edaeac1afd0",
+        "title": "Senior doctor warns SNP's NHS shake-up risks 'small death' of local hospitals",
+        "link": "https://www.heraldscotland.com/news/26660814.snp-nhs-reforms-threaten-local-hospitals-bma-warns/",
+        "description": "A leading BMA doctor warns SNP plans to centralise surgery could threaten local hospitals, emergency care and intensive care services across Scotland.",
+        "published": "Sun, 25 Oct 2026 05:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21393245/?type=app&htype=0"
+      },
+      {
+        "id": "77b1ec94163f8d9ed129f6b7556963fe",
+        "title": "'Horrific' - Mum's warning after disabled daughter\u2019s care support stopped overnight",
+        "link": "https://www.heraldscotland.com/news/26665176.family-warns-cliff-edge-move-adult-social-care/",
+        "description": "A mum has warned there is a 'cliff edge' in adult social care after support for her disabled daughter Amber, 20, stopped during transition from school.",
+        "published": "Sun, 25 Oct 2026 05:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21624066/?type=app&htype=0"
+      },
+      {
+        "id": "e5d7ab44bb7d6ac86b0edad77c7ec230",
+        "title": "The place where disabled children find friendship and families find respite in Elgin",
+        "link": "https://www.heraldscotland.com/politics/26665870.elgin-respite-centre-disabled-children-families/",
+        "description": "Families caring for disabled children share how respite care at Aberlour Options in Elgin provides support, confidence and hope for the future.",
+        "published": "Sun, 25 Oct 2026 05:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21625053/?type=app&htype=0"
+      },
+      {
         "id": "608d5a9de42dd74f6730a4acf50442d6",
         "title": "800 Scottish public sector workers being paid for jobs that don\u2019t exist \u2013 report",
         "link": "https://www.heraldscotland.com/news/26667683.800-scots-public-sector-workers-being-paid-jobs-dont-exist/",
