@@ -2997,6 +2997,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "a8f4128ba327aefdfa6c0205b64b7b47",
+        "title": "Storm Boelo forces evacuation of dangerous buildings and caravan park in Ayrshire",
+        "link": "https://www.heraldscotland.com/news/26668516.buildings-caravan-park-evacuated-ayrshire-due-storm-boelo/",
+        "description": "Police Scotland has carried out emergency evacuations in South Ayrshire due to severe weather and flooding caused by Storm Boelo.",
+        "published": "Sun, 25 Oct 2026 17:51:36 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/13109950/?type=app&htype=0"
+      },
+      {
         "id": "13262c7db07357c5dfbd04eaba1f3922",
         "title": "Police issue update on Storm Boelo damage across the country",
         "link": "https://www.glasgowtimes.co.uk/news/weather/26668501.police-issue-update-storm-boelo-damage-across-scotland/",
