@@ -5,20 +5,20 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1792963509478307",
+        "title": "In pictures: Storm Boelo leaves a trail of destruction across Scotland",
+        "link": "https://www.bbc.co.uk/news/articles/cmewe8ndn1q4o?at_medium=RSS&at_campaign=rss",
+        "description": "The severe weather brought strong winds and heavy rain to large parts of Scotland.",
+        "published": "Sun, 25 Oct 2026 22:11:43 +0100",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7ec/live/12a2d690-d0ac-11f1-b441-2b33b063138f.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o#1",
         "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
         "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
         "description": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.",
         "published": "Sun, 25 Oct 2026 19:40:26 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96f0/live/afc36800-d0ab-11f1-b0e6-83f7659e2aa2.jpg"
-      },
-      {
-        "id": "1792950015757124",
-        "title": "Man killed by falling tree as Storm Boelo brings more severe weather to UK",
-        "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
-        "description": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.",
-        "published": "Sun, 25 Oct 2026 18:27:28 +0100",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3323/live/f31148a0-d085-11f1-a4ba-351760cfea6a.jpg"
       },
       {
         "id": "1792932032664838",
