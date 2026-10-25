@@ -3005,6 +3005,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cmewe8ndn1q4o#0",
+        "title": "In pictures: Storm Boelo leaves a trail of destruction across Scotland",
+        "link": "https://www.bbc.co.uk/news/articles/cmewe8ndn1q4o?at_medium=RSS&at_campaign=rss",
+        "description": "The severe weather brought strong winds and heavy rain to large parts of Scotland.",
+        "published": "Sun, 25 Oct 2026 21:11:43 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7ec/live/12a2d690-d0ac-11f1-b441-2b33b063138f.jpg"
+      },
+      {
         "id": "a8f4128ba327aefdfa6c0205b64b7b47",
         "title": "Storm Boelo forces evacuation of dangerous buildings and caravan park in Ayrshire",
         "link": "https://www.heraldscotland.com/news/26668516.buildings-caravan-park-evacuated-ayrshire-due-storm-boelo/",
