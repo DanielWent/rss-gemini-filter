@@ -2122,6 +2122,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "b01cc0c736bf105a53997e9ffea00fcd",
+        "title": "Dozens take to streets as calls grow to complete long-awaited cycle route",
+        "link": "https://www.glasgowtimes.co.uk/news/26671319.east-dunbartonshire-cycle-route-campaign-backed-1-000/",
+        "description": "A luminous Glow Ride has lit up fresh calls to complete a long-awaited cycle route.",
+        "published": "Mon, 26 Oct 2026 15:52:54 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21632879/?type=app&htype=0"
+      },
+      {
         "id": "2551cd96f06b08e156eb4f8dfbe4f213",
         "title": "Burst water main leaves Milngavie residents facing supply disruption",
         "link": "https://www.glasgowtimes.co.uk/news/26670497.scottish-water-repairs-burst-water-main-milngavie/",
@@ -2912,14 +2920,6 @@
         "description": "A cyclist was checked over by paramedics after being struck by a car in a busy town centre.",
         "published": "Tue, 18 Aug 2026 18:05:52 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/18555865/?type=app&htype=0"
-      },
-      {
-        "id": "79694052c48144213523fec109a44857",
-        "title": "Meet the Milton of Campsie runner who raised nearly \u00a3800 for Breast Cancer UK",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26472817.trail-runner-raised-nearly-800-breast-cancer-uk/",
-        "description": "A fundraiser who took on a gruelling 26.5-mile trail run has raised almost \u00a3800 for Breast Cancer UK.",
-        "published": "Tue, 18 Aug 2026 09:10:21 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21333344/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3021,12 +3021,52 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/call-extend-consultation-east-renfrewshires-34820106",
+        "title": "Call to extend consultation on East Renfrewshire's plan for over 3,000 new homes",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/call-extend-consultation-east-renfrewshires-34820106",
+        "description": "The council's latest local development plan has sparked concerns in some communities and councillors want residents to have longer to give feedback.",
+        "published": "Mon, 26 Oct 2026 16:14:05 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article28695126.ece/ALTERNATES/s98/0_Builder-working-on-roof-of-house.jpg"
+      },
+      {
+        "id": "7658fe4996f24bb67a1357fe74ee85eb",
+        "title": "Consultants and specialist doctors balloted over strike action",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26671402.scottish-senior-doctors-ballot-possible-strike-action/",
+        "description": "Balloting consultants and senior doctors for strike action is the \"only route\" to make ministers \"take our concerns seriously\", medical leaders have insisted.",
+        "published": "Mon, 26 Oct 2026 16:04:23 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19306194/?type=app&htype=0"
+      },
+      {
+        "id": "500fde0a13c818716dcacf1be097886e",
+        "title": "Every Scottish child starting primary school in 2027 to receive free backpack",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26671382.scotlands-2027-primary-pupils-receive-new-school-bags/",
+        "description": "Every child starting primary school in Scotland in 2027 will receive a colourful backpack.",
+        "published": "Mon, 26 Oct 2026 16:01:06 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20353283/?type=app&htype=0"
+      },
+      {
+        "id": "b01cc0c736bf105a53997e9ffea00fcd",
+        "title": "Dozens take to streets as calls grow to complete long-awaited cycle route",
+        "link": "https://www.glasgowtimes.co.uk/news/26671319.east-dunbartonshire-cycle-route-campaign-backed-1-000/",
+        "description": "A luminous Glow Ride has lit up fresh calls to complete a long-awaited cycle route.",
+        "published": "Mon, 26 Oct 2026 15:52:54 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21632879/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/cambuslang-flat-fire-deliberate-say-34819516",
         "title": "Cambuslang flat fire was deliberate say police amid hunt for person responsible",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/cambuslang-flat-fire-deliberate-say-34819516",
         "description": "Cops have asked for doorbell or dash-cam footage of the incident and are now treating it as wilful.",
         "published": "Mon, 26 Oct 2026 15:34:55 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34800426.ece/ALTERNATES/s98/1_Screenshot-2026-10-22-101929.png"
+      },
+      {
+        "id": "cad9559df305d298db76109bc5b01c22",
+        "title": "Council looks to sell former bingo hall site for development outside Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26671178.former-vogue-bingo-hall-site-hamilton-sold/",
+        "description": "South Lanarkshire Council is consulting on plans to sell the site of the demolished former Vogue Bingo Hall in Hamilton for development.",
+        "published": "Mon, 26 Oct 2026 15:31:53 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21632568/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=535108",
@@ -3037,12 +3077,28 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/01/235f6d6135a9d1cc759d20ab2678e146-1767794483-995x720.jpeg"
       },
       {
+        "id": "5e67b142d45f5728381f2fe29aa5a6e8",
+        "title": "English rock band announce Glasgow show on Greatest Hits Tour 2027",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26671116.lightning-seeds-announce-glasgow-greatest-hits-show/",
+        "description": "The Lightning Seeds have announced a Glasgow show on their upcoming greatest hits tour.",
+        "published": "Mon, 26 Oct 2026 15:25:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19364148/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/paisley-social-service-worker-who-34818632",
         "title": "Paisley social service worker who threatened to 'knock 10 shades' out of young girl struck off",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/paisley-social-service-worker-who-34818632",
         "description": "Suzanne Elliott exchanged Facebook messages over a four-month period in 2024 in which she made comments about a young person she supported, disclosed personal information and used threatening language.",
         "published": "Mon, 26 Oct 2026 15:24:58 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33806741.ece/ALTERNATES/s98/5_JS297676344-6.jpg"
+      },
+      {
+        "id": "85fcefa4b60d5fc34d0c9274376a5263",
+        "title": "This comedy icon is heading to Glasgow in 2027",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26671107.ricky-gervais-fans-rush-tickets-glasgow-show-announced/",
+        "description": "Ricky Gervais is bringing his latest stand-up tour to Glasgow.",
+        "published": "Mon, 26 Oct 2026 15:22:14 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19112145/?type=app&htype=0"
       },
       {
         "id": "abbdf3e32351f50d9e2f87801e147093",
@@ -3061,14 +3117,6 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34519758.ece/ALTERNATES/s98/0_dmp_ham_090421court_005JPG.jpg"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/cm1wv5j9jqpyo#0",
-        "title": "Woman dead and three in hospital after crash",
-        "link": "https://www.bbc.co.uk/news/articles/cm1wv5j9jqpyo?at_medium=RSS&at_campaign=rss",
-        "description": "The woman, a passenger in a Vauxhall Astra, was pronounced dead at the scene following the incident.",
-        "published": "Mon, 26 Oct 2026 15:12:35 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4270/live/12084730-d14f-11f1-9eb5-811878e0f07d.png"
-      },
-      {
         "id": "68321d9b8565da061bbc77df464e91ca",
         "title": "\u2018We deserve better\u2019 as campaigners near Glasgow protest loss of town facilities",
         "link": "https://www.glasgowtimes.co.uk/news/26670966.motherwell-deserves-better-campaigners-protest-council-hq/",
@@ -3083,14 +3131,6 @@
         "description": "Woman dies and three people are taken to hospital after a crash on Kennishead Road, Thornliebank, near Glasgow, on October 25. Police appeal.",
         "published": "Mon, 26 Oct 2026 14:50:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/16434591/?type=app&htype=0"
-      },
-      {
-        "id": "bd5fef6687e01751d858ada531d28158",
-        "title": "Woman dies in crash as two women and driver taken to hospital",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26670790.woman-dies-crash-kennishead-road-thornliebank/",
-        "description": "A woman has died following a crash in Thornliebank on Sunday.",
-        "published": "Mon, 26 Oct 2026 14:33:22 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/12657601/?type=app&htype=0"
       },
       {
         "id": "46bb1a4c87f78edf78dd6f86ce811ad8",
@@ -3403,14 +3443,6 @@
         "description": "Scotland faces the prospect of a second named storm in days, with forecasters warning that Storm Chloe could bring damaging winds and fresh travel disruption across large parts of the country next week.",
         "published": "Sun, 25 Oct 2026 17:00:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21628837/?type=app&htype=0"
-      },
-      {
-        "id": "bf5c1e42c9c7e138698813cf6b4a8997",
-        "title": "Storm Boelo update as adverse weather to return early this week",
-        "link": "https://www.glasgowtimes.co.uk/news/weather/26668434.storm-boelo-update-adverse-weather-return-within-days/",
-        "description": "A warning has been issued that while the Storm Boelo should ease tonight there could be further weather-related disruption within days.",
-        "published": "Sun, 25 Oct 2026 16:37:08 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21627392/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/new-figures-show-two-young-34814607",
