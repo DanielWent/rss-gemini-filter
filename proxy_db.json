@@ -3005,6 +3005,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "f33a4f4a2631bb0698f66fa08d57c52a",
+        "title": "Scottish scientists develop tiny glass chip to help telescopes study distant stars",
+        "link": "https://www.heraldscotland.com/news/26664073.heriot-watt-scientists-develop-photonic-chip-astronomy/",
+        "description": "A glass chip developed at Heriot-Watt University has been used in observations at California\u2019s CHARA Array, combining light from multiple telescopes to study fainter stars.",
+        "published": "Mon, 26 Oct 2026 00:05:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21622461/?type=app&htype=0"
+      },
+      {
         "id": "71cc82d52576d06235a710914e37807d",
         "title": "Emergency crews attending flooding incident around Saltcoats care home",
         "link": "https://www.heraldscotland.com/news/26668628.emergency-crews-flooding-incident-around-saltcoats-care-home/",
