@@ -2114,6 +2114,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "edbd6eb1234cc7d93c8471797a7f4a4f",
+        "title": "Plans for 60-bed care home at former car dealership refused",
+        "link": "https://www.glasgowtimes.co.uk/news/26669628.milngavie-60-bed-care-home-plans-refused-council/",
+        "description": "Plans for a 60-bed care home at the former Arnold Clark site in Milngavie have been refused by East Dunbartonshire Council.",
+        "published": "Mon, 26 Oct 2026 11:21:33 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21630417/?type=app&htype=0"
+      },
+      {
         "id": "fed8816e7722e58cf5317d10a7421229",
         "title": "Council calls cops after video of person in school raises security concerns",
         "link": "https://www.glasgowtimes.co.uk/news/26665289.school-footage-investigated-police-bomb-hoax-panic/",
@@ -2997,6 +3005,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/storm-boelo-clears-more-wind-34817560",
+        "title": "Storm Boelo clears but more wind and rain to batter parts of greater Glasgow",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/storm-boelo-clears-more-wind-34817560",
+        "description": "Gusts of 50-60 mph is expected.",
+        "published": "Mon, 26 Oct 2026 11:44:23 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34817725.ece/ALTERNATES/s98/0_gettyimages-2301882423-594x594.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-footage-shows-dramatic-chase-34817227",
+        "title": "Police footage shows dramatic chase through Glasgow as four men charged",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-footage-shows-dramatic-chase-34817227",
+        "description": "Four men were eventually arrested by police.",
+        "published": "Mon, 26 Oct 2026 11:39:12 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34817620.ece/ALTERNATES/s98/0_Screenshot-2026-10-26-112512.png"
+      },
+      {
+        "id": "6c29bc6c85075da0ee10385d25476d2a",
+        "title": "Glasgow businessman hounded on-off partner with calls and threw TV stand at her",
+        "link": "https://www.glasgowtimes.co.uk/news/26669718.glasgow-businessman-hounded-partner-threw-tv-stand/",
+        "description": "A businessman hounded his 'on-off' partner with calls and texts after he became violent towards her.",
+        "published": "Mon, 26 Oct 2026 11:34:46 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13067424/?type=app&htype=0"
+      },
+      {
+        "id": "5062234",
+        "title": "Glasgow bakeries: 12 top spots for sourdough, doughnuts and more right now",
+        "link": "https://www.glasgowworld.com/best-in/12-top-spots-for-sourdough-doughnuts-and-more-9309332",
+        "description": "<p>Glasgow's bakeries are helping the city establish itself as a leader in the baking world, with 12 exceptional establishments offering unique takes on the craft.</p>",
+        "published": "Mon, 26 Oct 2026 11:25:49 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/01/08/12/57/476344860_1761028557800458_698244296638223724_n.jpeg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "edbd6eb1234cc7d93c8471797a7f4a4f",
+        "title": "Plans for 60-bed care home at former car dealership refused",
+        "link": "https://www.glasgowtimes.co.uk/news/26669628.milngavie-60-bed-care-home-plans-refused-council/",
+        "description": "Plans for a 60-bed care home at the former Arnold Clark site in Milngavie have been refused by East Dunbartonshire Council.",
+        "published": "Mon, 26 Oct 2026 11:21:33 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21630417/?type=app&htype=0"
+      },
+      {
         "id": "efc4c49ce7fe5e8483989c98ded2553f",
         "title": "UK MP speaks out in fight to save over 200 manufacturing jobs near Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26669466.mp-speaks-207-motherwell-manufacturing-jobs-risk/",
@@ -3550,6 +3598,14 @@
     "icon_url": "https://www.glasgowworld.com/favicon.ico",
     "output_file": "Glasgow_World_AI_Filtered.xml",
     "articles": [
+      {
+        "id": "5062234",
+        "title": "Glasgow bakeries: 12 top spots for sourdough, doughnuts and more right now",
+        "link": "https://www.glasgowworld.com/best-in/12-top-spots-for-sourdough-doughnuts-and-more-9309332",
+        "description": "<p>Glasgow's bakeries are helping the city establish itself as a leader in the baking world, with 12 exceptional establishments offering unique takes on the craft.</p>",
+        "published": "Mon, 26 Oct 2026 11:25:49 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/01/08/12/57/476344860_1761028557800458_698244296638223724_n.jpeg?width=1200&auto=webp&crop=3%3A2"
+      },
       {
         "id": "9293493",
         "title": "For Sale: This incredible Bearsden villa is on the market for \u00a31.25m and it's a must see",
