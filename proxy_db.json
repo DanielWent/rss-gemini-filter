@@ -3005,6 +3005,70 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "42af8a0246367db0a825a196b6af92e2",
+        "title": "Easterhouse man left stranger with brain injury after brutal street attack",
+        "link": "https://www.glasgowtimes.co.uk/news/26654075.man-left-stranger-brain-injury-brutal-glasgow-street-attack/",
+        "description": "A thug left a stranger with a brain injury after a brutal attack caught on camera.",
+        "published": "Mon, 26 Oct 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21019018/?type=app&htype=0"
+      },
+      {
+        "id": "98f81ecde7731e1146232ec278b37091",
+        "title": "The night hundreds of Glasgow children armed themselves to hunt a vampire",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26667202.hundreds-glasgow-children-hunted-seven-foot-vampire/",
+        "description": "Discover the bizarre story of Glasgow\u2019s Gorbals vampire scare, when hundreds of schoolchildren hunted a seven-foot monster in the Southern Necropolis.",
+        "published": "Mon, 26 Oct 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21626770/?type=app&htype=0"
+      },
+      {
+        "id": "f26aaba38061b20f220bdec9367e3e85",
+        "title": "Inside beloved Glasgow bakery making favourites from scratch for over 50 years",
+        "link": "https://www.glasgowtimes.co.uk/news/26662371.story-glasgows-newlands-home-bakery/",
+        "description": "Glasgow\u2019s Newlands Home Bakery celebrates more than 50 years, with five branches, handmade bread, pies and pineapple cakes driving its family-run success.",
+        "published": "Mon, 26 Oct 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21621316/?type=app&htype=0"
+      },
+      {
+        "id": "3c9d5837a31c0fd3f98106ec1b7ff8e6",
+        "title": "Warning issued to government over plans to axe Glasgow City Council",
+        "link": "https://www.glasgowtimes.co.uk/news/26667975.warning-issued-plans-axe-glasgow-city-council/",
+        "description": "Big changes that could see Glasgow City Council axed must not be driven by cost cutting a councillor has warned.",
+        "published": "Mon, 26 Oct 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20106183/?type=app&htype=0"
+      },
+      {
+        "id": "d78f74d381ce8b9118e8e711e9efd989",
+        "title": "There is no justification for Scotland's defence sector hiring workers from abroad",
+        "link": "https://www.heraldscotland.com/politics/holyrood/26668170.defence-spending-drive-must-benefit-scottish-workers/",
+        "description": "Writing in The Herald, Defence Secretary Wes Streeting argues that Britain's biggest sustained rise in defence spending since the Cold War offers Scotland a once-in-a-generation chance to rebuild its industrial base, create apprenticeships and retain young talent.",
+        "published": "Mon, 26 Oct 2026 05:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/19992894/?type=app&htype=0"
+      },
+      {
+        "id": "36098626a22d88e41656e963391665f3",
+        "title": "Streeting: 'No moral or economic case for defence firms hiring workers from abroad'",
+        "link": "https://www.heraldscotland.com/news/26668386.streeting-challenges-defence-firms-overseas-labour/",
+        "description": "Defence Secretary Wes Streeting has challenged firms building Royal Navy ships to hire British workers, after Babcock flew in 300 welders from the Philippines \u2014 as Scotland's defence sector faces a shortfall of nearly 9,000 apprenticeships.",
+        "published": "Mon, 26 Oct 2026 05:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20587067/?type=app&htype=0"
+      },
+      {
+        "id": "b5390abbd905068298d77183456424b7",
+        "title": "Scotland NHS shake-up risks worsening pressure on doctors, ministers warned",
+        "link": "https://www.heraldscotland.com/news/26667566.doctors-warn-scotland-nhs-reforms-harm-patient-care/",
+        "description": "Scotland\u2019s NHS reforms risk putting more pressure on doctors and patient care, experts warn, as John Swinney plans to cut health boards from 14 to two.",
+        "published": "Mon, 26 Oct 2026 05:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21498107/?type=app&htype=0"
+      },
+      {
+        "id": "096d2261201aafea0c2e8ea61437a542",
+        "title": "Police Scotland could lose 1,260 officers and staff in \u2018devastating\u2019 budget squeeze",
+        "link": "https://www.heraldscotland.com/news/26668511.police-scotland-faces-devastating-cuts-msps-warned/",
+        "description": "The Scottish Police Authority warns that a flat cash settlement would leave officer numbers at their lowest since 2003, as Police Scotland asks for an extra \u00a3110m to tackle rising domestic abuse, foreign state threats and a surge in mental health demand.",
+        "published": "Mon, 26 Oct 2026 05:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/16009652/?type=app&htype=0"
+      },
+      {
         "id": "4feebf45b274cde2c57f30e23e92b21a",
         "title": "Landmark Scottish hotels on market and 'exciting new chapter'",
         "link": "https://www.heraldscotland.com/opinion/26662127.scottish-hotels-sale-exciting-new-chapter-awards-hailed/",
