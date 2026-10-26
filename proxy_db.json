@@ -2997,6 +2997,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "a3b03973ffa2f6a3ff8758e55a4682d9",
+        "title": "Glasgow and Boston's historic friendship celebrated with brand new tartan design",
+        "link": "https://www.glasgowtimes.co.uk/news/26669130.new-tartan-marks-glasgow-bostons-city-twinning/",
+        "description": "A tartan has been created to celebrate the historic twinning of Glasgow and Boston.",
+        "published": "Mon, 26 Oct 2026 10:03:47 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21629766/?type=app&htype=0"
+      },
+      {
         "id": "fdc10ea1b8a0e26e994534dce68c7d42",
         "title": "Woman dies after flat fire as police launch probe",
         "link": "https://www.glasgowtimes.co.uk/news/26669062.woman-dies-flat-fire-paisley-police-investigate/",
@@ -3021,12 +3029,12 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34811771.ece/ALTERNATES/s98/2_Watson-Street.png"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/frontline-police-officers-call-power-34816476",
-        "title": "Frontline police officers call for power to unmask Scottish football hooligans",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/frontline-police-officers-call-power-34816476",
-        "description": "Clubs across Scotland have been hit by violence fuelled by Ultras.",
-        "published": "Mon, 26 Oct 2026 09:16:15 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34052573.ece/ALTERNATES/s98/0_JS399237271-1.jpg"
+        "id": "1b2f9d8b24dbb9eccd554f9c98d98629",
+        "title": "LIVE: Storm Boelo aftermath as roads closed and ferries disrupted",
+        "link": "https://www.heraldscotland.com/news/26668902.live-storm-boelo-aftermath-roads-closed-ferries-disrupted/",
+        "description": "Live news as the clean-up from the 80mph storm which hit Scotland on Sunday",
+        "published": "Mon, 26 Oct 2026 09:21:59 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21629435/?type=app&htype=0"
       },
       {
         "id": "9308690",
@@ -3043,14 +3051,6 @@
         "description": "A life-changing event led to a career switch and a new path to success",
         "published": "Mon, 26 Oct 2026 07:58:05 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21629240/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c6vgxnjg0lveo#0",
-        "title": "Thousands still without power after Storm Boelo batters Scotland",
-        "link": "https://www.bbc.co.uk/news/articles/c6vgxnjg0lveo?at_medium=RSS&at_campaign=rss",
-        "description": "An amber weather warning ended on Sunday evening but another alert is due to come into force later this week.",
-        "published": "Mon, 26 Oct 2026 07:45:38 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5c0/live/54403cb0-d0b5-11f1-960c-a30ffadcd9ea.jpg"
       },
       {
         "id": "ad59c8c2b1ea215a2301eec0af51730b",
