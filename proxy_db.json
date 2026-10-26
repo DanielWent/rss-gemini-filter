@@ -2997,6 +2997,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "efc4c49ce7fe5e8483989c98ded2553f",
+        "title": "UK MP speaks out in fight to save over 200 manufacturing jobs near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26669466.mp-speaks-207-motherwell-manufacturing-jobs-risk/",
+        "description": "Labour MP Kenneth Stevenson has spoken out over 207 jobs at risk at Honeywell and Resideo as the fight to protect manufacturing jobs continues.",
+        "published": "Mon, 26 Oct 2026 10:57:22 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21624843/?type=app&htype=0"
+      },
+      {
+        "id": "2c571d653200d05ddccfe5790e0d9db2",
+        "title": "Glasgow college leader honoured with major civic award for dedication to the city",
+        "link": "https://www.glasgowtimes.co.uk/news/26669439.city-glasgow-college-principal-received-loving-cup/",
+        "description": "Professor Paul Little, founding principal and chief executive of City of Glasgow College, received the Loving Cup from the Lord Provost of Glasgow.",
+        "published": "Mon, 26 Oct 2026 10:53:26 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21630191/?type=app&htype=0"
+      },
+      {
         "id": "54a3900640dbd812945f7a161a7dd2a6",
         "title": "Third bout of stormy weather in a week to hit Glasgow amid 60mph gusts",
         "link": "https://www.glasgowtimes.co.uk/news/weather/26669250.glasgow-weather-warning-third-stormy-spell-brings-60mph-winds/",
@@ -3067,14 +3083,6 @@
         "description": "A life-changing event led to a career switch and a new path to success",
         "published": "Mon, 26 Oct 2026 07:58:05 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21629240/?type=app&htype=0"
-      },
-      {
-        "id": "ad59c8c2b1ea215a2301eec0af51730b",
-        "title": "Rail lines, road closed and thousands without power as Storm Boelo clean-up begins",
-        "link": "https://www.heraldscotland.com/news/26668681.storm-boelo-leaves-rail-lines-shut-thousands-without-power/",
-        "description": "The storm brought widespread disruption across Scotland",
-        "published": "Mon, 26 Oct 2026 07:25:36 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21629216/?type=app&htype=0"
       },
       {
         "id": "42af8a0246367db0a825a196b6af92e2",
@@ -3173,52 +3181,12 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21629103/?type=app&htype=0"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/cmewe8ndn1q4o#0",
-        "title": "In pictures: Storm Boelo leaves a trail of destruction across Scotland",
-        "link": "https://www.bbc.co.uk/news/articles/cmewe8ndn1q4o?at_medium=RSS&at_campaign=rss",
-        "description": "The severe weather brought strong winds and heavy rain to large parts of Scotland.",
-        "published": "Sun, 25 Oct 2026 21:11:43 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7ec/live/12a2d690-d0ac-11f1-b441-2b33b063138f.jpg"
-      },
-      {
-        "id": "a8f4128ba327aefdfa6c0205b64b7b47",
-        "title": "Storm Boelo forces evacuation of dangerous buildings and caravan park in Ayrshire",
-        "link": "https://www.heraldscotland.com/news/26668516.buildings-caravan-park-evacuated-ayrshire-due-storm-boelo/",
-        "description": "Police Scotland has carried out emergency evacuations in South Ayrshire due to severe weather and flooding caused by Storm Boelo.",
-        "published": "Sun, 25 Oct 2026 17:51:36 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/13109950/?type=app&htype=0"
-      },
-      {
-        "id": "13262c7db07357c5dfbd04eaba1f3922",
-        "title": "Police issue update on Storm Boelo damage across the country",
-        "link": "https://www.glasgowtimes.co.uk/news/weather/26668501.police-issue-update-storm-boelo-damage-across-scotland/",
-        "description": "Police have advised people not to travel unless necessary as Storm Boelo continues to hit Scotland.",
-        "published": "Sun, 25 Oct 2026 17:35:26 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21628930/?type=app&htype=0"
-      },
-      {
-        "id": "3e6605e12444bf430f4328dee5290354",
-        "title": "Flooding forces Glasgow pub to shut as Storm Boelo hits city",
-        "link": "https://www.glasgowtimes.co.uk/news/weather/26668472.flooding-forces-glasgow-pub-shut-storm-boelo-hits/",
-        "description": "A popular Glasgow pub has been forced to close due to flooding during storm Boelo.",
-        "published": "Sun, 25 Oct 2026 17:13:13 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21628870/?type=app&htype=0"
-      },
-      {
         "id": "d892564f983b39494657f867a2480407",
         "title": "Storm Chloe poised to hit Scotland as fresh wind warning issued days after Boelo",
         "link": "https://www.heraldscotland.com/news/26668451.storm-chloe-scotland-faces-new-wind-warning-storm-boelo/",
         "description": "Scotland faces the prospect of a second named storm in days, with forecasters warning that Storm Chloe could bring damaging winds and fresh travel disruption across large parts of the country next week.",
         "published": "Sun, 25 Oct 2026 17:00:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21628837/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=534960",
-        "title": "Storm Boelo \u2018devastates\u2019 businesses after overnight flooding hits Largs",
-        "link": "https://news.stv.tv/west-central/storm-boelo-devastates-businesses-after-overnight-flooding",
-        "description": "Businesses in Largs suffered 'devastating' damage and ruined stock after an overnight deluge",
-        "published": "Sun, 25 Oct 2026 16:47:27 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/1c8454fc34decc4ae925e61a8ac5032d-1792941710-1280x720.jpeg"
       },
       {
         "id": "bf5c1e42c9c7e138698813cf6b4a8997",
