@@ -3005,6 +3005,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c6vgxnjg0lveo#0",
+        "title": "Thousands still without power after Storm Boelo batters Scotland",
+        "link": "https://www.bbc.co.uk/news/articles/c6vgxnjg0lveo?at_medium=RSS&at_campaign=rss",
+        "description": "An amber weather warning ended on Sunday evening but another alert is due to come into force later this week.",
+        "published": "Mon, 26 Oct 2026 07:45:38 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5c0/live/54403cb0-d0b5-11f1-960c-a30ffadcd9ea.jpg"
+      },
+      {
         "id": "42af8a0246367db0a825a196b6af92e2",
         "title": "Easterhouse man left stranger with brain injury after brutal street attack",
         "link": "https://www.glasgowtimes.co.uk/news/26654075.man-left-stranger-brain-injury-brutal-glasgow-street-attack/",
