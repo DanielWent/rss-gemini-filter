@@ -3005,6 +3005,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "4feebf45b274cde2c57f30e23e92b21a",
+        "title": "Landmark Scottish hotels on market and 'exciting new chapter'",
+        "link": "https://www.heraldscotland.com/opinion/26662127.scottish-hotels-sale-exciting-new-chapter-awards-hailed/",
+        "description": "The landmark Scottish hotels were put up for sale in a week in which an 'exciting new chapter' was hailed",
+        "published": "Mon, 26 Oct 2026 04:40:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/16740781/?type=app&htype=0"
+      },
+      {
+        "id": "13bc8820c588f2345f8a7401e1f4d5da",
+        "title": "Scotland\u2019s small firms are being squeezed. This Budget could offer a lifeline",
+        "link": "https://www.heraldscotland.com/opinion/26664821.budget-help-scotlands-struggling-small-firms/",
+        "description": "With business confidence near Covid-era lows, Scotland\u2019s small firms need action on rates and rising costs. This week\u2019s Budget could provide some answers",
+        "published": "Mon, 26 Oct 2026 04:30:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21623980/?type=app&htype=0"
+      },
+      {
         "id": "f33a4f4a2631bb0698f66fa08d57c52a",
         "title": "Scottish scientists develop tiny glass chip to help telescopes study distant stars",
         "link": "https://www.heraldscotland.com/news/26664073.heriot-watt-scientists-develop-photonic-chip-astronomy/",
