@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo#1",
+        "title": "Clean-up under way as Storm Boelo leaves thousands without power",
+        "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
+        "description": "Around 90,000 properties are without power after Scotland and north England is battered by strong winds.",
+        "published": "Mon, 26 Oct 2026 08:27:44 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3365/live/16d03480-d118-11f1-b441-2b33b063138f.jpg"
+      },
+      {
         "id": "1792963509478307",
         "title": "In pictures: Storm Boelo leaves a trail of destruction across Scotland",
         "link": "https://www.bbc.co.uk/news/articles/cmewe8ndn1q4o?at_medium=RSS&at_campaign=rss",
@@ -2988,6 +2996,14 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "9308690",
+        "title": "Rangers summer signing turns Ibrox side into 'excellent' team as he unlocks relentless weapon",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-summer-signing-turns-ibrox-side-into-excellent-team-9308690",
+        "description": "<p>Rangers are hitting form after a difficult summer.</p>",
+        "published": "Mon, 26 Oct 2026 08:27:32 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/26/8/47/GettyImages-2296222329.jpg?width=1200&auto=webp&trim=0%2C13%2C0%2C13"
+      },
       {
         "id": "https://www.bbc.co.uk/news/articles/c6vgxnjg0lveo#0",
         "title": "Thousands still without power after Storm Boelo batters Scotland",
