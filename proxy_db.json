@@ -2997,6 +2997,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "fdc10ea1b8a0e26e994534dce68c7d42",
+        "title": "Woman dies after flat fire as police launch probe",
+        "link": "https://www.glasgowtimes.co.uk/news/26669062.woman-dies-flat-fire-paisley-police-investigate/",
+        "description": "A woman has died after being recovered from a flat fire in Broomlands Street, Paisley, as police continue enquiries into the cause.",
+        "published": "Mon, 26 Oct 2026 09:50:28 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21629449/?type=app&htype=0"
+      },
+      {
+        "id": "869a9fa396915a5f7724695ed3ceda78",
+        "title": "Nearly half of Open University graduates in Scotland first in family to attend uni",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26669003.open-university-scotland-celebrated-first-generation-graduates/",
+        "description": "Nearly half of this year's Open University graduates in Scotland are the first in their families to attend university.",
+        "published": "Mon, 26 Oct 2026 09:40:25 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21629629/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-confirm-no-suspicious-circumstances-34816649",
+        "title": "Police confirm 'no suspicious circumstances' after man found dead on Glasgow street",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-confirm-no-suspicious-circumstances-34816649",
+        "description": "Emergency services raced to the scene in the early hours of Saturday.",
+        "published": "Mon, 26 Oct 2026 09:39:38 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34811771.ece/ALTERNATES/s98/2_Watson-Street.png"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/frontline-police-officers-call-power-34816476",
         "title": "Frontline police officers call for power to unmask Scottish football hooligans",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/frontline-police-officers-call-power-34816476",
@@ -3067,14 +3091,6 @@
         "description": "Big changes that could see Glasgow City Council axed must not be driven by cost cutting a councillor has warned.",
         "published": "Mon, 26 Oct 2026 06:00:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20106183/?type=app&htype=0"
-      },
-      {
-        "id": "d78f74d381ce8b9118e8e711e9efd989",
-        "title": "There is no justification for Scotland's defence sector hiring workers from abroad",
-        "link": "https://www.heraldscotland.com/politics/holyrood/26668170.defence-spending-drive-must-benefit-scottish-workers/",
-        "description": "Writing in The Herald, Defence Secretary Wes Streeting argues that Britain's biggest sustained rise in defence spending since the Cold War offers Scotland a once-in-a-generation chance to rebuild its industrial base, create apprenticeships and retain young talent.",
-        "published": "Mon, 26 Oct 2026 05:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/19992894/?type=app&htype=0"
       },
       {
         "id": "36098626a22d88e41656e963391665f3",
@@ -3235,14 +3251,6 @@
         "description": "<p>The Canadian right-back lasted only 21 minutes on his return to action in Sunday\u2019s 2-1 Premiership win over Hibs at Easter Road </p>",
         "published": "Sun, 25 Oct 2026 14:55:06 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/04/26/8/59/21666113.jpeg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "3a73952d54d212da667cbad302fa2ca4",
-        "title": "Major search for missing South Lanarkshire man as police issue urgent appeal",
-        "link": "https://www.glasgowtimes.co.uk/news/26668242.missing-south-lanarkshire-man-sparks-urgent-police-search/",
-        "description": "Police appeal for help to find missing 63-year-old Tom Allan, last seen at Westmains Farm, Stonehouse, South Lanarkshire, on October 23. Check sheds and outbuildings.",
-        "published": "Sun, 25 Oct 2026 14:36:46 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21628439/?type=app&htype=0"
       },
       {
         "id": "ba55ccdf86b6d246c4c8dc2e8233154f",
@@ -3531,14 +3539,6 @@
         "description": "Plans to regenerate the former Rogerfield Primary site have been approved by Glasgow City Council.",
         "published": "Sat, 24 Oct 2026 10:26:10 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34810031.ece/ALTERNATES/s98/0_rogerfieldschoolsite.png"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-police-launch-probe-unexplained-34811750",
-        "title": "Glasgow police launch probe into 'unexplained death' of man found on street",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-police-launch-probe-unexplained-34811750",
-        "description": "Emergency services attended but sadly, the man was pronounced dead at the scene.",
-        "published": "Sat, 24 Oct 2026 10:19:55 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34811771.ece/ALTERNATES/s98/2_Watson-Street.png"
       },
       {
         "id": "9909e2238efeb343fd6e19622e8559ee",
