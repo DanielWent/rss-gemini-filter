@@ -2114,6 +2114,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "2551cd96f06b08e156eb4f8dfbe4f213",
+        "title": "Burst water main leaves Milngavie residents facing supply disruption",
+        "link": "https://www.glasgowtimes.co.uk/news/26670497.scottish-water-repairs-burst-water-main-milngavie/",
+        "description": "A burst water main has disrupted supplies for residents in Milngavie.",
+        "published": "Mon, 26 Oct 2026 13:43:09 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21631666/?type=app&htype=0"
+      },
+      {
         "id": "d64dfd7ce51c51f16e2cacd3a67e80c3",
         "title": "Plans to breathe new life into vacant former hotel near Glasgow revealed",
         "link": "https://www.glasgowtimes.co.uk/news/26669967.plans-revealed-transform-former-bishopbriggs-hotel-nine-flats/",
@@ -2904,14 +2912,6 @@
         "description": "A fundraiser who took on a gruelling 26.5-mile trail run has raised almost \u00a3800 for Breast Cancer UK.",
         "published": "Tue, 18 Aug 2026 09:10:21 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21333344/?type=app&htype=0"
-      },
-      {
-        "id": "3f9b63be1da7259c9d56f593cb8015a7",
-        "title": "Police warn drug dealers in THIS area - 'you should expect a visit'",
-        "link": "https://www.glasgowtimes.co.uk/news/26467611.police-cracking-drug-dealing-east-dunbartonshire/?ref=rss",
-        "description": "Cops in East Dunbartonshire say they are continuing to target drug sales and supply in the area amid a recent crackdown",
-        "published": "Sat, 15 Aug 2026 13:26:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21244705/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3013,6 +3013,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "d41d38b828095a56f3832f62b15233d8",
+        "title": "Reclaim the Night protest at Holyrood to demand action on violence against women",
+        "link": "https://www.glasgowtimes.co.uk/news/26670513.reclaim-night-protest-planned-scottish-parliament/",
+        "description": "Campaigners are to stage a Reclaim the Night protest outside the Scottish Parliament.",
+        "published": "Mon, 26 Oct 2026 13:45:37 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21571429/?type=app&htype=0"
+      },
+      {
+        "id": "2551cd96f06b08e156eb4f8dfbe4f213",
+        "title": "Burst water main leaves Milngavie residents facing supply disruption",
+        "link": "https://www.glasgowtimes.co.uk/news/26670497.scottish-water-repairs-burst-water-main-milngavie/",
+        "description": "A burst water main has disrupted supplies for residents in Milngavie.",
+        "published": "Mon, 26 Oct 2026 13:43:09 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21631666/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cq5yn948plzeo#0",
         "title": "Campaigners call for new body to lead Mackintosh Building restoration",
         "link": "https://www.bbc.co.uk/news/articles/cq5yn948plzeo?at_medium=RSS&at_campaign=rss",
@@ -3037,6 +3053,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21631607/?type=app&htype=0"
       },
       {
+        "id": "5c93c8e4a506852561e6d01ea19d3bb5",
+        "title": "Edinburgh Airport workers celebrate as union secures pay rise and \u00a3230 bonus",
+        "link": "https://www.heraldscotland.com/news/26670069.edinburgh-airport-workers-secure-inflation-beating-pay-rise/",
+        "description": "EASL workers at the airport are involved in a number of roles, including customer services, baggage handling, and drivers.",
+        "published": "Mon, 26 Oct 2026 12:40:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21175998/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=535017",
         "title": "Woman dies in Paisley flat fire as police launch investigation",
         "link": "https://news.stv.tv/west-central/woman-dies-in-paisley-flat-fire-as-police-launch-investigation",
@@ -3059,6 +3083,22 @@
         "description": "How many of us have been caught out by this? Andy Burnham is fighting private parking firms from fining drivers over innocent slip-ups.",
         "published": "Mon, 26 Oct 2026 12:10:22 +0000",
         "image_url": "https://i2-prod.chroniclelive.co.uk/incoming/article34357111.ece/ALTERNATES/s98/0_GettyImages-121285690.jpg"
+      },
+      {
+        "id": "ab3339918366e42dd64db8837ea7aa99",
+        "title": "'Completely dismayed': Anger as council says footbridge may not reopen until 2028",
+        "link": "https://www.heraldscotland.com/news/26669834.calls-urgent-action-edinburgh-bridge-may-not-reopen-2028/",
+        "description": "The council has been urged to take urgent action to repair or replace St Mark\u2019s Footbridge, which closed in June 2026 after cracks were identified.",
+        "published": "Mon, 26 Oct 2026 12:03:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21630692/?type=app&htype=0"
+      },
+      {
+        "id": "748d4433b81daf33bd51917e563e3dba",
+        "title": "CalMac admits ageing fleet woes as it pledges to improve lifeline ferry reliability",
+        "link": "https://www.heraldscotland.com/news/26669810.calmac-lifeline-ferry-reliability-pledge-amid-ageing-fleet-problems/",
+        "description": "State-owned CalMac has pledged to improve ferry reliability as its parent company reports continuing problems with ageing vessels, technical faults and repairs.",
+        "published": "Mon, 26 Oct 2026 11:45:46 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/17569602/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/storm-boelo-clears-more-wind-34817560",
