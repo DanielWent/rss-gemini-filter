@@ -5,20 +5,20 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo#1",
+        "title": "AI giant Anthropic unveils plans for blockbuster share listing",
+        "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+        "description": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+        "published": "Mon, 26 Oct 2026 13:46:14 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/746e/live/6e0550b0-cec4-11f1-b9e0-e5f0da03dc7f.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo#1",
         "title": "Clean-up under way as Storm Boelo leaves thousands without power",
         "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
         "description": "Around 90,000 properties are without power after Scotland and north England is battered by strong winds.",
         "published": "Mon, 26 Oct 2026 08:27:44 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3365/live/16d03480-d118-11f1-b441-2b33b063138f.jpg"
-      },
-      {
-        "id": "1792963509478307",
-        "title": "In pictures: Storm Boelo leaves a trail of destruction across Scotland",
-        "link": "https://www.bbc.co.uk/news/articles/cmewe8ndn1q4o?at_medium=RSS&at_campaign=rss",
-        "description": "The severe weather brought strong winds and heavy rain to large parts of Scotland.",
-        "published": "Sun, 25 Oct 2026 22:11:43 +0100",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7ec/live/12a2d690-d0ac-11f1-b441-2b33b063138f.jpg"
       },
       {
         "id": "1792932032664838",
@@ -3013,12 +3013,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/prestwick-ryanair-passengers-sent-40miles-34817830",
-        "title": "Prestwick Ryanair passengers sent 40miles to Glasgow Airport with just two hours notice for check-in",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/prestwick-ryanair-passengers-sent-40miles-34817830",
-        "description": "The bemused passengers were told to check in at Glasgow Airport just two hours before departure.",
-        "published": "Mon, 26 Oct 2026 12:30:14 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34667879.ece/ALTERNATES/s98/0_Mum-gets-\u00a34k-payout-after-cup-of-tea-spills-on-her-lap-during-Ryanair-flight.jpg"
+        "id": "https://www.bbc.co.uk/news/articles/cq5yn948plzeo#0",
+        "title": "Campaigners call for new body to lead Mackintosh Building restoration",
+        "link": "https://www.bbc.co.uk/news/articles/cq5yn948plzeo?at_medium=RSS&at_campaign=rss",
+        "description": "The Charles Rennie Mackintosh Society said a special-purpose organisation should lead reconstruction of the landmark.",
+        "published": "Mon, 26 Oct 2026 13:30:49 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b94/live/b61b97f0-cf24-11f1-b8f0-99ad639f25e6.jpg"
+      },
+      {
+        "id": "ad1312aa2210bea18ef94257869193db",
+        "title": "University staff to start nine more days of strike action amid dispute over job cuts",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26669956.glasgow-caledonian-university-staff-start-nine-strike-days/",
+        "description": "University staff will take another nine days of strike action at Glasgow Caledonian University as the long-running dispute over up to 100 job losses and possible compulsory redundancies continues.",
+        "published": "Mon, 26 Oct 2026 13:30:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20999800/?type=app&htype=0"
+      },
+      {
+        "id": "db2805effb1ea52719c076c8427e77e9",
+        "title": "Marti Pellow announces huge homecoming show to celebrate 40 years in music",
+        "link": "https://www.glasgowtimes.co.uk/news/26670391.marti-pellow-announces-glasgow-hydro-show-huge-2027-uk-tour/",
+        "description": "Wet Wet Wet star Marti Pellow is heading to Glasgow's OVO Hydro as part of his newly announced No Marti No Party UK tour in 2027.",
+        "published": "Mon, 26 Oct 2026 13:22:42 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21631607/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=535017",
