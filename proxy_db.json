@@ -2997,6 +2997,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "54a3900640dbd812945f7a161a7dd2a6",
+        "title": "Third bout of stormy weather in a week to hit Glasgow amid 60mph gusts",
+        "link": "https://www.glasgowtimes.co.uk/news/weather/26669250.glasgow-weather-warning-third-stormy-spell-brings-60mph-winds/",
+        "description": "Glasgow faces another spell of stormy weather as strong winds of up to 60mph sweep across Scotland, bringing the risk of travel disruption.",
+        "published": "Mon, 26 Oct 2026 10:24:52 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21627391/?type=app&htype=0"
+      },
+      {
+        "id": "79da69e9f5fc2e4f95e4ef7837ccf879",
+        "title": "Three people taken to hospital after crash on busy Glasgow road",
+        "link": "https://www.glasgowtimes.co.uk/news/26669169.three-taken-hospital-crash-kennishead-road-glasgow/",
+        "description": "Three people were taken to Queen Elizabeth University Hospital after a crash on Kennishead Road near Thornliebank, Glasgow.",
+        "published": "Mon, 26 Oct 2026 10:10:13 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16022875/?type=app&htype=0"
+      },
+      {
         "id": "a3b03973ffa2f6a3ff8758e55a4682d9",
         "title": "Glasgow and Boston's historic friendship celebrated with brand new tartan design",
         "link": "https://www.glasgowtimes.co.uk/news/26669130.new-tartan-marks-glasgow-bostons-city-twinning/",
