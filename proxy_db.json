@@ -3013,6 +3013,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "aec98fad7417cea5fe4bbaffaf35d222",
+        "title": "Woman dies and three taken to hospital after crash near Glasgow",
+        "link": "https://www.heraldscotland.com/news/26670840.woman-dies-three-taken-hospital-glasgow-crash/",
+        "description": "Woman dies and three people are taken to hospital after a crash on Kennishead Road, Thornliebank, near Glasgow, on October 25. Police appeal.",
+        "published": "Mon, 26 Oct 2026 14:50:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/16434591/?type=app&htype=0"
+      },
+      {
+        "id": "46bb1a4c87f78edf78dd6f86ce811ad8",
+        "title": "Historic Glasgow Mackintosh Tearooms forced to close following Storm Boelo",
+        "link": "https://www.heraldscotland.com/news/26670508.mackintosh-tearooms-glasgow-closed-storm-boelo/",
+        "description": "Glasgow\u2019s historic Mackintosh Tearooms have closed after Storm Boelo disrupted the water supply. The Charles Rennie Mackintosh landmark hopes to reopen soon.",
+        "published": "Mon, 26 Oct 2026 14:02:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21488102/?type=app&htype=0"
+      },
+      {
         "id": "d41d38b828095a56f3832f62b15233d8",
         "title": "Reclaim the Night protest at Holyrood to demand action on violence against women",
         "link": "https://www.glasgowtimes.co.uk/news/26670513.reclaim-night-protest-planned-scottish-parliament/",
@@ -3035,6 +3051,14 @@
         "description": "The Charles Rennie Mackintosh Society said a special-purpose organisation should lead reconstruction of the landmark.",
         "published": "Mon, 26 Oct 2026 13:30:49 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b94/live/b61b97f0-cf24-11f1-b8f0-99ad639f25e6.jpg"
+      },
+      {
+        "id": "0f3463578b71d2bd9d1c646d3811c6f6",
+        "title": "Glasgow businessman admits assaulting 'on-off' girlfriend",
+        "link": "https://www.heraldscotland.com/news/26670428.bathroom-company-glasgow-boss-admits-on-off-girlfriend-assault/",
+        "description": "Bremner was banned from contacting her for five years after repeated harassment and violence",
+        "published": "Mon, 26 Oct 2026 13:30:24 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/16405573/?type=app&htype=0"
       },
       {
         "id": "ad1312aa2210bea18ef94257869193db",
@@ -3179,14 +3203,6 @@
         "description": "A tartan has been created to celebrate the historic twinning of Glasgow and Boston.",
         "published": "Mon, 26 Oct 2026 10:03:47 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21629766/?type=app&htype=0"
-      },
-      {
-        "id": "fdc10ea1b8a0e26e994534dce68c7d42",
-        "title": "Woman dies after flat fire as police launch probe",
-        "link": "https://www.glasgowtimes.co.uk/news/26669062.woman-dies-flat-fire-paisley-police-investigate/",
-        "description": "A woman has died after being recovered from a flat fire in Broomlands Street, Paisley, as police continue enquiries into the cause.",
-        "published": "Mon, 26 Oct 2026 09:50:28 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21629449/?type=app&htype=0"
       },
       {
         "id": "869a9fa396915a5f7724695ed3ceda78",
