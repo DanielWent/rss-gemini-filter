@@ -5,6 +5,22 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1793038817691206",
+        "title": "Renfrew flooded after council failed to activate barriers during Storm Boelo",
+        "link": "https://www.bbc.co.uk/news/articles/cq8jzx9v9dw9o?at_medium=RSS&at_campaign=rss",
+        "description": "Renfrewshire Council said \"predicted tide levels\" for the storm did not meet the threshold needed to use the flood barriers.",
+        "published": "Mon, 26 Oct 2026 18:58:20 +0100",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/947c/live/9f83a100-d162-11f1-87df-afb7a168a1f2.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o#2",
+        "title": "Surprising things we have learnt from Anthropic's blockbuster share listing",
+        "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+        "description": "Anthropic\u2019s IPO prospectus is 355 pages and full of never before disclosed company information.",
+        "published": "Mon, 26 Oct 2026 17:20:54 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a4/live/4c5ea950-d15a-11f1-9f24-99bf1cc18b1d.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cqkgl8rlmvn2o#4",
         "title": "Tributes paid to man killed by falling tree in Storm Boelo",
         "link": "https://www.bbc.co.uk/news/articles/cqkgl8rlmvn2o?at_medium=RSS&at_campaign=rss",
@@ -35,6 +51,14 @@
         "description": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
         "published": "Mon, 26 Oct 2026 13:46:14 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/746e/live/6e0550b0-cec4-11f1-b9e0-e5f0da03dc7f.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o#2",
+        "title": "Stunning photos capture October's Hunter's Moon around the world",
+        "link": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&at_campaign=rss",
+        "description": "October's full Moon, nicknamed the Hunter's Moon, lit up the night sky this weekend.",
+        "published": "Mon, 26 Oct 2026 11:27:39 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f993/live/5a4ff260-d125-11f1-9a61-7b8d75492b97.jpg"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo#1",
@@ -779,30 +803,6 @@
         "description": "The inaugural World Athletics Ultimate Championship begins on Friday. From the global stars competing to how it all works - here is everything you need to know.",
         "published": "Fri, 11 Sep 2026 06:45:18 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3bb/live/c81f3680-ad25-11f1-9bf8-27bb5a420b3e.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o#1",
-        "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons",
-        "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
-        "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
-        "published": "Fri, 11 Sep 2026 02:46:30 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/090c/live/88ca35f0-ad6d-11f1-8edd-ada2fcb84b27.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o#1",
-        "title": "New hurricane season record as 'historic' El Ni\u00f1o leaves Atlantic eerily quiet",
-        "link": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&at_campaign=rss",
-        "description": "The Atlantic hurricane season has reached its climatological peak, but a strong El Ni\u00f1o means no hurricanes have formed this year.",
-        "published": "Thu, 10 Sep 2026 23:22:33 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7955/live/89a9f220-ad6e-11f1-b6b8-91dc721cef9f.png"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cd792nll91eo#4",
-        "title": "Drug use may have begun 25,000 years ago in Indonesia, research finds",
-        "link": "https://www.bbc.co.uk/news/articles/cd792nll91eo?at_medium=RSS&at_campaign=rss",
-        "description": "Scientists have found evidence that early human foragers in Indonesia were using the betel nut as a drug.",
-        "published": "Thu, 10 Sep 2026 12:15:55 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52d8/live/c08c5810-ad09-11f1-a6a8-e924739dac6d.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
