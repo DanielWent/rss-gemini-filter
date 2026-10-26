@@ -3021,6 +3021,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=535175",
+        "title": "Firefighters pump away \u2018millions of litres of floodwater\u2019 surrounding care home",
+        "link": "https://news.stv.tv/west-central/firefighters-pump-away-millions-of-litres-of-floodwater-surrounding-care-home",
+        "description": "In Saltcoats, crews have worked since Sunday night to pump millions of litres of floodwater away from a care home on Sidney Street",
+        "published": "Mon, 26 Oct 2026 18:26:21 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/5d4e0d7f7e2130d0fb5b61c86ddf8eae-1793038124-1200x720.jpeg"
+      },
+      {
         "id": "9309672",
         "title": "Ex-refs slam 'bonkers' VAR in Rangers vs St Johnstone as decision highlights 'problem' with modern officiating",
         "link": "https://www.glasgowworld.com/sport/football/rangers/ex-referees-slam-bonkers-var-in-rangers-vs-st-johnstone-as-decision-highlights-problem-with-modern-officiating-9309672",
@@ -3101,12 +3109,12 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34820471.ece/ALTERNATES/s98/0_Brussels-Airport-Jet-fuel-prices-Europe-Aviation.jpg"
       },
       {
-        "id": "e2683e106c7edb097232fe4296095d41",
-        "title": "Union makes recommendation on council pay and grading package",
-        "link": "https://www.glasgowtimes.co.uk/news/26671617.unison-members-urged-reject-glasgow-city-council-offer/",
-        "description": "A union is recommending members reject Glasgow City Council\u2019s pay and grading offer as it opens a ballot.",
-        "published": "Mon, 26 Oct 2026 16:33:01 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20983190/?type=app&htype=0"
+        "id": "https://news.stv.tv/?p=534902",
+        "title": "Children\u2019s worker struck off over threatening messages about young people",
+        "link": "https://news.stv.tv/west-central/childrens-worker-struck-off-over-threatening-messages-about-young-people",
+        "description": "Suzanne Elliott made several threats and shared confidential information about the young people she was employed to support",
+        "published": "Mon, 26 Oct 2026 16:15:01 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/76df0893f58e37fa2fec8ba617745248-1793027307-1280x720.jpeg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/call-extend-consultation-east-renfrewshires-34820106",
@@ -3203,14 +3211,6 @@
         "description": "The Lightning Seeds have announced a Glasgow show on their upcoming greatest hits tour.",
         "published": "Mon, 26 Oct 2026 15:25:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19364148/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/paisley-social-service-worker-who-34818632",
-        "title": "Paisley social service worker who threatened to 'knock 10 shades' out of young girl struck off",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/paisley-social-service-worker-who-34818632",
-        "description": "Suzanne Elliott exchanged Facebook messages over a four-month period in 2024 in which she made comments about a young person she supported, disclosed personal information and used threatening language.",
-        "published": "Mon, 26 Oct 2026 15:24:58 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33806741.ece/ALTERNATES/s98/5_JS297676344-6.jpg"
       },
       {
         "id": "85fcefa4b60d5fc34d0c9274376a5263",
