@@ -2114,6 +2114,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "d64dfd7ce51c51f16e2cacd3a67e80c3",
+        "title": "Plans to breathe new life into vacant former hotel near Glasgow revealed",
+        "link": "https://www.glasgowtimes.co.uk/news/26669967.plans-revealed-transform-former-bishopbriggs-hotel-nine-flats/",
+        "description": "Plans have been lodged to transform the former Lion Hotel in Bishopbriggs into nine flats, with new dormer windows, parking and landscaping proposed.",
+        "published": "Mon, 26 Oct 2026 12:10:54 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21560284/?type=app&htype=240"
+      },
+      {
         "id": "edbd6eb1234cc7d93c8471797a7f4a4f",
         "title": "Plans for 60-bed care home at former car dealership refused",
         "link": "https://www.glasgowtimes.co.uk/news/26669628.milngavie-60-bed-care-home-plans-refused-council/",
@@ -3005,6 +3013,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/prestwick-ryanair-passengers-sent-40miles-34817830",
+        "title": "Prestwick Ryanair passengers sent 40miles to Glasgow Airport with just two hours notice for check-in",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/prestwick-ryanair-passengers-sent-40miles-34817830",
+        "description": "The bemused passengers were told to check in at Glasgow Airport just two hours before departure.",
+        "published": "Mon, 26 Oct 2026 12:30:14 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34667879.ece/ALTERNATES/s98/0_Mum-gets-\u00a34k-payout-after-cup-of-tea-spills-on-her-lap-during-Ryanair-flight.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=535017",
+        "title": "Woman dies in Paisley flat fire as police launch investigation",
+        "link": "https://news.stv.tv/west-central/woman-dies-in-paisley-flat-fire-as-police-launch-investigation",
+        "description": "Emergency services were called to a fire in a three-storey building on Sunday afternoon",
+        "published": "Mon, 26 Oct 2026 12:10:59 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/7e47649c79c104b7830fd3e410cb399a-1793010067-1280x720.jpeg"
+      },
+      {
+        "id": "d64dfd7ce51c51f16e2cacd3a67e80c3",
+        "title": "Plans to breathe new life into vacant former hotel near Glasgow revealed",
+        "link": "https://www.glasgowtimes.co.uk/news/26669967.plans-revealed-transform-former-bishopbriggs-hotel-nine-flats/",
+        "description": "Plans have been lodged to transform the former Lion Hotel in Bishopbriggs into nine flats, with new dormer windows, parking and landscaping proposed.",
+        "published": "Mon, 26 Oct 2026 12:10:54 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21560284/?type=app&htype=240"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/uk-drivers-could-soon-beat-34817733",
         "title": "UK drivers could soon beat 'unfair' private parking fines - everything you need to know",
         "link": "https://www.glasgowlive.co.uk/news/uk-drivers-could-soon-beat-34817733",
@@ -3075,14 +3107,6 @@
         "description": "Ian Hart, 37, preyed upon the girl when she was 13 and 14 in South Lanarkshire in 2024 and 2025.",
         "published": "Mon, 26 Oct 2026 10:35:36 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2025/05/f80552903122b112511c63c30c41a9fc-1746179781.jpg"
-      },
-      {
-        "id": "54a3900640dbd812945f7a161a7dd2a6",
-        "title": "Third bout of stormy weather in a week to hit Glasgow amid 60mph gusts",
-        "link": "https://www.glasgowtimes.co.uk/news/weather/26669250.glasgow-weather-warning-third-stormy-spell-brings-60mph-winds/",
-        "description": "Glasgow faces another spell of stormy weather as strong winds of up to 60mph sweep across Scotland, bringing the risk of travel disruption.",
-        "published": "Mon, 26 Oct 2026 10:24:52 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21627391/?type=app&htype=0"
       },
       {
         "id": "79da69e9f5fc2e4f95e4ef7837ccf879",
