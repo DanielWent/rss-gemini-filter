@@ -5,6 +5,22 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o#4",
+        "title": "Part of Antarctica named after former BBC science correspondent",
+        "link": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
+        "description": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
+        "published": "Mon, 26 Oct 2026 14:54:40 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85dc/live/45574340-ce23-11f1-9f18-490cec60aa0f.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c6rmyl0kxyxjo#4",
+        "title": "Owners of Elvis music rights sue Anthropic for copyright violations",
+        "link": "https://www.bbc.co.uk/news/articles/c6rmyl0kxyxjo?at_medium=RSS&at_campaign=rss",
+        "description": "The company is accused of using hundreds of songs by the American rock-and-roll star to train its Claude AI model.",
+        "published": "Mon, 26 Oct 2026 14:37:12 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cff9/live/da9e4b80-d0d3-11f1-8fac-17c9679d0cff.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo#1",
         "title": "AI giant Anthropic unveils plans for blockbuster share listing",
         "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
@@ -787,14 +803,6 @@
         "description": "The hearing heard that the 999 call from the 19 and 20-year-old was \"not escalated as it should have been\".",
         "published": "Thu, 10 Sep 2026 11:22:58 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c07c/live/9ef97c10-ad08-11f1-beae-535b95a24b3e.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o#1",
-        "title": "August was joint hottest month on record, says European climate agency",
-        "link": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o?at_medium=RSS&at_campaign=rss",
-        "description": "Climate change and the rising influence of El Ni\u00f1o saw August reach the record for warmest month.",
-        "published": "Thu, 10 Sep 2026 02:05:47 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eae1/live/3afbb100-ac5f-11f1-be57-03729df1d736.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -3013,12 +3021,52 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/paisley-social-service-worker-who-34818632",
+        "title": "Paisley social service worker who threatened to 'knock 10 shades' out of young girl struck off",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/paisley-social-service-worker-who-34818632",
+        "description": "Suzanne Elliott exchanged Facebook messages over a four-month period in 2024 in which she made comments about a young person she supported, disclosed personal information and used threatening language.",
+        "published": "Mon, 26 Oct 2026 15:24:58 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33806741.ece/ALTERNATES/s98/5_JS297676344-6.jpg"
+      },
+      {
+        "id": "abbdf3e32351f50d9e2f87801e147093",
+        "title": "Scottish music retailer celebrates 30 years as sales set to reach \u00a33.5m",
+        "link": "https://www.glasgowtimes.co.uk/news/26671059.scottish-hi-fi-retailer-eyes-3-5m-amid-vinyl-reviva/",
+        "description": "Loud &amp; Clear, which has stores in Glasgow and Edinburgh, is celebrating 30 years in business with turnover expected to reach \u00a33.5 million this year.",
+        "published": "Mon, 26 Oct 2026 15:14:55 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21632401/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/east-kilbride-grandfather-caught-26000-34819417",
+        "title": "East Kilbride grandfather caught with 26,000 child abuse images told shocked wife 'I'm diseased'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/east-kilbride-grandfather-caught-26000-34819417",
+        "description": "James Hall, 79, was put on the sex offenders' register at Hamilton Sheriff Court on Friday.",
+        "published": "Mon, 26 Oct 2026 15:13:42 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34519758.ece/ALTERNATES/s98/0_dmp_ham_090421court_005JPG.jpg"
+      },
+      {
+        "id": "68321d9b8565da061bbc77df464e91ca",
+        "title": "\u2018We deserve better\u2019 as campaigners near Glasgow protest loss of town facilities",
+        "link": "https://www.glasgowtimes.co.uk/news/26670966.motherwell-deserves-better-campaigners-protest-council-hq/",
+        "description": "Around 30 campaigners gathered outside North Lanarkshire Council headquarters amid concerns over the loss and future of facilities in Motherwell.",
+        "published": "Mon, 26 Oct 2026 14:58:50 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21631371/?type=app&htype=0"
+      },
+      {
         "id": "aec98fad7417cea5fe4bbaffaf35d222",
         "title": "Woman dies and three taken to hospital after crash near Glasgow",
         "link": "https://www.heraldscotland.com/news/26670840.woman-dies-three-taken-hospital-glasgow-crash/",
         "description": "Woman dies and three people are taken to hospital after a crash on Kennishead Road, Thornliebank, near Glasgow, on October 25. Police appeal.",
         "published": "Mon, 26 Oct 2026 14:50:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/16434591/?type=app&htype=0"
+      },
+      {
+        "id": "bd5fef6687e01751d858ada531d28158",
+        "title": "Woman dies in crash as two women and driver taken to hospital",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26670790.woman-dies-crash-kennishead-road-thornliebank/",
+        "description": "A woman has died following a crash in Thornliebank on Sunday.",
+        "published": "Mon, 26 Oct 2026 14:33:22 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/12657601/?type=app&htype=0"
       },
       {
         "id": "46bb1a4c87f78edf78dd6f86ce811ad8",
@@ -3141,14 +3189,6 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34817620.ece/ALTERNATES/s98/0_Screenshot-2026-10-26-112512.png"
       },
       {
-        "id": "6c29bc6c85075da0ee10385d25476d2a",
-        "title": "Glasgow businessman hounded on-off partner with calls and threw TV stand at her",
-        "link": "https://www.glasgowtimes.co.uk/news/26669718.glasgow-businessman-hounded-partner-threw-tv-stand/",
-        "description": "A businessman hounded his 'on-off' partner with calls and texts after he became violent towards her.",
-        "published": "Mon, 26 Oct 2026 11:34:46 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13067424/?type=app&htype=0"
-      },
-      {
         "id": "5062234",
         "title": "Glasgow bakeries: 12 top spots for sourdough, doughnuts and more right now",
         "link": "https://www.glasgowworld.com/best-in/12-top-spots-for-sourdough-doughnuts-and-more-9309332",
@@ -3187,14 +3227,6 @@
         "description": "Ian Hart, 37, preyed upon the girl when she was 13 and 14 in South Lanarkshire in 2024 and 2025.",
         "published": "Mon, 26 Oct 2026 10:35:36 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2025/05/f80552903122b112511c63c30c41a9fc-1746179781.jpg"
-      },
-      {
-        "id": "79da69e9f5fc2e4f95e4ef7837ccf879",
-        "title": "Three people taken to hospital after crash on busy Glasgow road",
-        "link": "https://www.glasgowtimes.co.uk/news/26669169.three-taken-hospital-crash-kennishead-road-glasgow/",
-        "description": "Three people were taken to Queen Elizabeth University Hospital after a crash on Kennishead Road near Thornliebank, Glasgow.",
-        "published": "Mon, 26 Oct 2026 10:10:13 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16022875/?type=app&htype=0"
       },
       {
         "id": "a3b03973ffa2f6a3ff8758e55a4682d9",
