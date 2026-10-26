@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cqkgl8rlmvn2o#4",
+        "title": "Tributes paid to man killed by falling tree in Storm Boelo",
+        "link": "https://www.bbc.co.uk/news/articles/cqkgl8rlmvn2o?at_medium=RSS&at_campaign=rss",
+        "description": "Richard Baines was the long-serving curator of Logan Botanic Garden near Stranraer.",
+        "published": "Mon, 26 Oct 2026 16:11:15 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a656/live/fdb75c70-d14f-11f1-9eb5-811878e0f07d.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o#4",
         "title": "Part of Antarctica named after former BBC science correspondent",
         "link": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Scientists have found evidence that early human foragers in Indonesia were using the betel nut as a drug.",
         "published": "Thu, 10 Sep 2026 12:15:55 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52d8/live/c08c5810-ad09-11f1-a6a8-e924739dac6d.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/czezwnz82jpo#4",
-        "title": "Two men who died on Yr Wyddfa tried calling 999, inquest hears",
-        "link": "https://www.bbc.co.uk/news/articles/czezwnz82jpo?at_medium=RSS&at_campaign=rss",
-        "description": "The hearing heard that the 999 call from the 19 and 20-year-old was \"not escalated as it should have been\".",
-        "published": "Thu, 10 Sep 2026 11:22:58 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c07c/live/9ef97c10-ad08-11f1-beae-535b95a24b3e.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -3021,6 +3021,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-ryanair-flight-declares-emergency-34820472",
+        "title": "Glasgow Ryanair flight declares emergency shortly after take-off",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-ryanair-flight-declares-emergency-34820472",
+        "description": "The Boeing 737 was scheduled to touch down in Eastern Spain at approximately 3pm, however the general emergency 7700 squawk procedure was triggered less than 15 minutes into the journey.",
+        "published": "Mon, 26 Oct 2026 16:40:43 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34820471.ece/ALTERNATES/s98/0_Brussels-Airport-Jet-fuel-prices-Europe-Aviation.jpg"
+      },
+      {
+        "id": "e2683e106c7edb097232fe4296095d41",
+        "title": "Union makes recommendation on council pay and grading package",
+        "link": "https://www.glasgowtimes.co.uk/news/26671617.unison-members-urged-reject-glasgow-city-council-offer/",
+        "description": "A union is recommending members reject Glasgow City Council\u2019s pay and grading offer as it opens a ballot.",
+        "published": "Mon, 26 Oct 2026 16:33:01 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20983190/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/call-extend-consultation-east-renfrewshires-34820106",
         "title": "Call to extend consultation on East Renfrewshire's plan for over 3,000 new homes",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/call-extend-consultation-east-renfrewshires-34820106",
@@ -3123,14 +3139,6 @@
         "description": "Around 30 campaigners gathered outside North Lanarkshire Council headquarters amid concerns over the loss and future of facilities in Motherwell.",
         "published": "Mon, 26 Oct 2026 14:58:50 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21631371/?type=app&htype=0"
-      },
-      {
-        "id": "aec98fad7417cea5fe4bbaffaf35d222",
-        "title": "Woman dies and three taken to hospital after crash near Glasgow",
-        "link": "https://www.heraldscotland.com/news/26670840.woman-dies-three-taken-hospital-glasgow-crash/",
-        "description": "Woman dies and three people are taken to hospital after a crash on Kennishead Road, Thornliebank, near Glasgow, on October 25. Police appeal.",
-        "published": "Mon, 26 Oct 2026 14:50:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/16434591/?type=app&htype=0"
       },
       {
         "id": "46bb1a4c87f78edf78dd6f86ce811ad8",
