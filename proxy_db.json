@@ -3021,6 +3021,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "56d1920c4c8fee8cd81ab9bad4b22054",
+        "title": "Full list of disruptions as fresh weather warning covers Scotland",
+        "link": "https://www.heraldscotland.com/news/26671946.scotland-weather-warning-full-list-ferry-rail-school-affected/",
+        "description": "Met Office issues yellow wind warning for Scotland from October 27 as strong winds and heavy rain threaten ScotRail, CalMac and travel disruption.",
+        "published": "Mon, 26 Oct 2026 19:22:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21634067/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=535175",
         "title": "Firefighters pump away \u2018millions of litres of floodwater\u2019 surrounding care home",
         "link": "https://news.stv.tv/west-central/firefighters-pump-away-millions-of-litres-of-floodwater-surrounding-care-home",
@@ -3531,14 +3539,6 @@
         "description": "A glass chip developed at Heriot-Watt University has been used in observations at California\u2019s CHARA Array, combining light from multiple telescopes to study fainter stars.",
         "published": "Mon, 26 Oct 2026 00:05:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21622461/?type=app&htype=0"
-      },
-      {
-        "id": "71cc82d52576d06235a710914e37807d",
-        "title": "Emergency crews attending flooding incident around Saltcoats care home",
-        "link": "https://www.heraldscotland.com/news/26668628.emergency-crews-flooding-incident-around-saltcoats-care-home/",
-        "description": "Emergency services are in attendance at an area of flooding around a care home in Saltcoats.",
-        "published": "Sun, 25 Oct 2026 23:14:51 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/13109950/?type=app&htype=0"
       },
       {
         "id": "e0b9d3a92498c4185600e92e4d6eecee",
