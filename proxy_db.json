@@ -3021,6 +3021,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/cambuslang-flat-fire-deliberate-say-34819516",
+        "title": "Cambuslang flat fire was deliberate say police amid hunt for person responsible",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/cambuslang-flat-fire-deliberate-say-34819516",
+        "description": "Cops have asked for doorbell or dash-cam footage of the incident and are now treating it as wilful.",
+        "published": "Mon, 26 Oct 2026 15:34:55 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34800426.ece/ALTERNATES/s98/1_Screenshot-2026-10-22-101929.png"
+      },
+      {
+        "id": "https://news.stv.tv/?p=535108",
+        "title": "Woman dead and three in hospital after crash closes East Renfrewshire road for nine hours",
+        "link": "https://news.stv.tv/west-central/woman-dead-and-three-in-hospital-after-crash-closes-east-renfrewshire-road-for-nine-hours",
+        "description": "A woman was pronounced dead at the scene while two other passengers and the driver were taken to hospital",
+        "published": "Mon, 26 Oct 2026 15:31:42 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/01/235f6d6135a9d1cc759d20ab2678e146-1767794483-995x720.jpeg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/paisley-social-service-worker-who-34818632",
         "title": "Paisley social service worker who threatened to 'knock 10 shades' out of young girl struck off",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/paisley-social-service-worker-who-34818632",
@@ -3043,6 +3059,14 @@
         "description": "James Hall, 79, was put on the sex offenders' register at Hamilton Sheriff Court on Friday.",
         "published": "Mon, 26 Oct 2026 15:13:42 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34519758.ece/ALTERNATES/s98/0_dmp_ham_090421court_005JPG.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cm1wv5j9jqpyo#0",
+        "title": "Woman dead and three in hospital after crash",
+        "link": "https://www.bbc.co.uk/news/articles/cm1wv5j9jqpyo?at_medium=RSS&at_campaign=rss",
+        "description": "The woman, a passenger in a Vauxhall Astra, was pronounced dead at the scene following the incident.",
+        "published": "Mon, 26 Oct 2026 15:12:35 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4270/live/12084730-d14f-11f1-9eb5-811878e0f07d.png"
       },
       {
         "id": "68321d9b8565da061bbc77df464e91ca",
