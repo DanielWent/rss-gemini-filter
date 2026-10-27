@@ -3037,6 +3037,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21173123/?type=app&htype=0"
       },
       {
+        "id": "https://news.stv.tv/?p=535085",
+        "title": "Glasgow Caledonian University staff begin nine days of strike action over job cuts",
+        "link": "https://news.stv.tv/west-central/glasgow-caledonian-university-staff-begin-nine-days-of-strike-action-over-job-cuts",
+        "description": "UCU members will walk out on Tuesday, Wednesday and Thursday before taking action for a further six days in November",
+        "published": "Tue, 27 Oct 2026 07:03:14 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/30f71c45274b31475b7e47604e3dd155-1789569523-1120x720.jpeg"
+      },
+      {
         "id": "5f2a933d9cd720b1e2614fd1ed878a1d",
         "title": "Fire crews and ambulance rush to scene of building fire at Glasgow shopping centre",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26672233.four-fire-appliances-attend-springburn-building-fire/",
@@ -3171,6 +3179,14 @@
         "description": "<p>Ex Ipswich Town and Manchester United man is currently out of work</p>",
         "published": "Mon, 26 Oct 2026 18:00:25 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/26/12/27/GettyImages-2270873423.jpeg?width=1200&auto=webp&trim=0%2C0%2C1%2C0"
+      },
+      {
+        "id": "e2ad7dec8f734a09807e35908822b083",
+        "title": "Four men charged after police chase involving 'stolen' car in Glasgow's East End",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26671957.four-men-appear-court-glasgow-police-pursuit/",
+        "description": "Four men have appeared in court after a police pursuit in Glasgow's East End.",
+        "published": "Mon, 26 Oct 2026 17:36:14 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13068909/?type=app&htype=0"
       },
       {
         "id": "4b1e6a695ebed18128acfe2e06a7eaaa",
@@ -3803,22 +3819,6 @@
         "description": "Scotland\u2019s tenement owners urged to inspect gutters, roofs and stonework, tackle damp and plants, and plan shared repairs to protect ageing homes nationwide.",
         "published": "Sun, 25 Oct 2026 07:00:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/19699235/?type=app&htype=0"
-      },
-      {
-        "id": "bd43115158e35fdbbd465e40e58fd775",
-        "title": "Billions to shareholders: Calls to nationalise Scots wind farms and buses",
-        "link": "https://www.heraldscotland.com/news/26665576.bus-services-wind-farms-scotland-urged-expand-public-ownership/",
-        "description": "Scottish wind farms made \u00a32.83bn profit, with 90% paid to shareholders, as bus funding rose 72%; campaigners demand public ownership of energy and transport.",
-        "published": "Sun, 25 Oct 2026 06:34:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21624767/?type=app&htype=0"
-      },
-      {
-        "id": "f2219dc9fc5c5c5621f1d30f2ad0bec7",
-        "title": "Cops find \u00a369k worth of drugs in East End carpet fitter's bedroom",
-        "link": "https://www.glasgowtimes.co.uk/news/26661335.cops-find-69k-worth-drugs-glasgow-carpet-fitters-bedroom/",
-        "description": "A man who had \u00a369,000 of drugs in his home faces jail.",
-        "published": "Sun, 25 Oct 2026 06:00:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21618549/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
