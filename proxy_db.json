@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1793097615892424",
+        "title": "What is Nasa's Artemis III mission? And what comes next?",
+        "link": "https://www.bbc.co.uk/news/articles/cr5j40ezgz4o?at_medium=RSS&at_campaign=rss",
+        "description": "Artemis III will help test crucial systems needed for the planned Artemis IV Moon landing in 2028.",
+        "published": "Tue, 27 Oct 2026 11:33:26 +0100",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50dc/live/8ebfb300-2d1f-11f1-b297-95b0a0a8331e.jpg"
+      },
+      {
         "id": "1793038817691206",
         "title": "Renfrew flooded after council failed to activate barriers during Storm Boelo",
         "link": "https://www.bbc.co.uk/news/articles/cq8jzx9v9dw9o?at_medium=RSS&at_campaign=rss",
@@ -43,14 +51,6 @@
         "description": "The company is accused of using hundreds of songs by the American rock-and-roll star to train its Claude AI model.",
         "published": "Mon, 26 Oct 2026 14:37:12 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cff9/live/da9e4b80-d0d3-11f1-8fac-17c9679d0cff.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo#1",
-        "title": "AI giant Anthropic unveils plans for blockbuster share listing",
-        "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-        "description": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-        "published": "Mon, 26 Oct 2026 13:46:14 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/746e/live/6e0550b0-cec4-11f1-b9e0-e5f0da03dc7f.jpg"
       },
       {
         "id": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o#2",
@@ -2122,6 +2122,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "df708f757e77bbfe626622bb91758d9a",
+        "title": "Have your say on council budget plans as \u00a37m shortfall looms",
+        "link": "https://www.glasgowtimes.co.uk/news/26673023.council-budget-consultation-opens-7m-shortfall-looms/",
+        "description": "East Dunbartonshire Council is inviting residents to take part in its latest budget consultation.",
+        "published": "Tue, 27 Oct 2026 10:30:48 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21635267/?type=app&htype=0"
+      },
+      {
         "id": "b01cc0c736bf105a53997e9ffea00fcd",
         "title": "Dozens take to streets as calls grow to complete long-awaited cycle route",
         "link": "https://www.glasgowtimes.co.uk/news/26671319.east-dunbartonshire-cycle-route-campaign-backed-1-000/",
@@ -2912,14 +2920,6 @@
         "description": "A rise in homelessness and a new pay and grading system is leading to a huge spending gap for Glasgow City Council.",
         "published": "Wed, 19 Aug 2026 16:54:07 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/5993712/?type=app&htype=0"
-      },
-      {
-        "id": "81e005989e1261f8b16c4468bdff32b6",
-        "title": "Emergency response after cyclist struck by vehicle in busy town centre",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26475918.cyclist-struck-vehicle-park-road-milngavie/",
-        "description": "A cyclist was checked over by paramedics after being struck by a car in a busy town centre.",
-        "published": "Tue, 18 Aug 2026 18:05:52 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18555865/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3020,6 +3020,38 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://news.stv.tv/?p=535241",
+        "title": "Man who handed boy lit flare during Old Firm fails to overturn football ban",
+        "link": "https://news.stv.tv/west-central/man-who-handed-boy-lit-flare-during-old-firm-fails-to-overturn-football-ban",
+        "description": "Jamie McPherson was handed a two-year football banning order after lighting two flares at Celtic Park",
+        "published": "Tue, 27 Oct 2026 10:39:28 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2025/11/78a3a4438bcbada3e5d36dbec6ece6bf-1763723453-1115x720.jpg"
+      },
+      {
+        "id": "b18cc80ea05546758d9f81b8f8336203",
+        "title": "The Social Hub submits plans for \u00a3200 million Edinburgh destination",
+        "link": "https://www.heraldscotland.com/news/26673053.social-hub-submits-200m-plans-edinburgh-site/",
+        "description": "The Social Hub has submitted plans to reimagine a long\u2011derelict site in Edinburgh as a \u00a3200 million hospitality and community 'powerhouse'.",
+        "published": "Tue, 27 Oct 2026 10:35:11 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21635301/?type=app&htype=0"
+      },
+      {
+        "id": "df708f757e77bbfe626622bb91758d9a",
+        "title": "Have your say on council budget plans as \u00a37m shortfall looms",
+        "link": "https://www.glasgowtimes.co.uk/news/26673023.council-budget-consultation-opens-7m-shortfall-looms/",
+        "description": "East Dunbartonshire Council is inviting residents to take part in its latest budget consultation.",
+        "published": "Tue, 27 Oct 2026 10:30:48 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21635267/?type=app&htype=0"
+      },
+      {
+        "id": "c6b4de27ee9a7729a6980da4fc673892",
+        "title": "Beloved Glasgow band announce long awaited return with new album and hometown show",
+        "link": "https://www.glasgowtimes.co.uk/news/26672946.glasvegas-announce-long-awaited-return-glasgow-show/",
+        "description": "Glasvegas announce Airy Fairy, their first album in six years, due April 2, 2027, plus a UK and Ireland tour with an O2 Academy Glasgow show.",
+        "published": "Tue, 27 Oct 2026 10:19:18 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19237118/?type=app&htype=0"
+      },
       {
         "id": "e22e9d1b8b7bd697d9a965c5e2e4f816",
         "title": "Number of alcohol-related deaths in Glasgow revealed as hundreds lose their lives",
@@ -3787,38 +3819,6 @@
         "description": "Michael Marra has named his Scottish Labour new front bench team at the Scottish Parliament.",
         "published": "Sun, 25 Oct 2026 11:52:23 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21506927/?type=app&htype=0"
-      },
-      {
-        "id": "9ce99a049f0d19b25d173575af129052",
-        "title": "Mackay admits she 'struggled to find the words' on Israel's right to exist question",
-        "link": "https://www.heraldscotland.com/news/26668000.gillian-mackay-states-dont-right-exist/",
-        "description": "Scottish Greens co-leader Gillian Mackay has attempted to clarify her view on Israel's right to exist, saying states have no such right but people do.",
-        "published": "Sun, 25 Oct 2026 11:37:29 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21580285/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=534541",
-        "title": "\u2018He was my everything\u2019: Mum seeks answers after son\u2019s death in foster care",
-        "link": "https://news.stv.tv/west-central/he-was-my-everything-mum-seeks-answers-after-sons-death-in-foster-care",
-        "description": "Maria Mutadiua says she has been left 'destroyed' by her son Quinton's death.",
-        "published": "Sun, 25 Oct 2026 11:09:25 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/5d5e46a2d7fe54332eec7aed01c5d4c9-1792673836-1280x720.jpeg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-bid-among-cleanest-city-34809991",
-        "title": "Glasgow bid to be among 'cleanest' city in Europe as litter awards could be launched",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-bid-among-cleanest-city-34809991",
-        "description": "A motion from a senior councillor says &quot;behavioural change&quot; is needed for improvement.",
-        "published": "Sun, 25 Oct 2026 10:57:07 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33077077.ece/ALTERNATES/s98/3_JS311079991.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/coatbridge-director-make-new-independent-34812469",
-        "title": "Coatbridge director to make new independent film 'completely rooted in Glasgow'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/coatbridge-director-make-new-independent-34812469",
-        "description": "\u201cWe don\u2019t want Glasgow pretending to be London or New York or somewhere else. The city is part of the film.&quot;",
-        "published": "Sun, 25 Oct 2026 10:28:58 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34812550.ece/ALTERNATES/s98/2_film.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
