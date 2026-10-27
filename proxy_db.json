@@ -3045,6 +3045,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "50f8c911d3e7caffc7c0eabe553f99a2",
+        "title": "Strike threat at Glasgow Airport as Loganair cabin crew back action",
+        "link": "https://www.glasgowtimes.co.uk/news/26675792.loganair-cabin-crew-back-strike-action-amid-pay-dispute/",
+        "description": "Strike action could be on the cards.",
+        "published": "Tue, 27 Oct 2026 19:31:43 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21044974/?type=app&htype=242"
+      },
+      {
+        "id": "0866a7a3b7db15758478c6faec51b2b0",
+        "title": "One of Scotland's oldest retailers' stores to close after being taken over by Frasers",
+        "link": "https://www.heraldscotland.com/news/26675773.glasgows-greaves-sports-close-50-years-business/",
+        "description": "Glasgow\u2019s iconic Greaves Sports launches a closing-down sale after its acquisition by Mike Ashley\u2019s Frasers Group, ending its historic Gordon Street presence.",
+        "published": "Tue, 27 Oct 2026 19:19:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21637641/?type=app&htype=0"
+      },
+      {
+        "id": "60187cc348324ba9a6af52727158119c",
+        "title": "Police appeal for witnesses after man enters sea off Largs and goes missing",
+        "link": "https://www.heraldscotland.com/news/26675733.police-appeal-man-enters-sea-off-largs-night/",
+        "description": "Police Scotland appeal for information after a man entered the sea near Largs, North Ayrshire. Witnesses, CCTV and dashcam footage sought as search continues.",
+        "published": "Tue, 27 Oct 2026 18:36:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/19891423/?type=app&htype=0"
+      },
+      {
+        "id": "2986670b5103f7a92e5eb411df683d7d",
+        "title": "Ministers accused of \u2018catastrophic\u2019 decision to approve new 900MW gas power station",
+        "link": "https://www.heraldscotland.com/news/26675713.snp-ministers-approve-new-gas-fired-peterhead-power-station/",
+        "description": "SNP ministers approve new SSE and Equinor\u2019s 900MW gas-fired Peterhead power station, prompting climate hypocrisy claims from Scottish environmental groups.",
+        "published": "Tue, 27 Oct 2026 18:23:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20582528/?type=app&htype=0"
+      },
+      {
         "id": "f46b3f7b1dc42f648c4fdb6d916098fc",
         "title": "FIRST LOOK inside Scotland's new Chick-fil-A as American fast food giant set to open",
         "link": "https://www.glasgowtimes.co.uk/news/26675719.first-look-inside-new-chick-fil-a-hamilton-ahead-opening/",
@@ -3301,14 +3333,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21637153/?type=app&htype=0"
       },
       {
-        "id": "0c978de181e9fe688cf41ba73bb964b4",
-        "title": "Full Chick-fil-A menu REVEALED days before first Scots restaurant opens near Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/26674284.full-chick-fil-a-hamilton-menu-prices-revealed-ahead-opening/",
-        "description": "Chick-fil-A's full Hamilton menu and prices have been revealed ahead of Scotland's first restaurant opening, including burgers, nuggets and milkshakes.",
-        "published": "Tue, 27 Oct 2026 14:01:35 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21467971/?type=app&htype=0"
-      },
-      {
         "id": "b7661cca81961efeb137ba3286ab8e16",
         "title": "Glasgow drivers warned as temporary traffic lights hit busy city centre junction",
         "link": "https://www.glasgowtimes.co.uk/news/26674239.temporary-traffic-lights-set-busy-glasgow-city-centre-junction/",
@@ -3515,14 +3539,6 @@
         "description": "The Social Hub has submitted plans to reimagine a long\u2011derelict site in Edinburgh as a \u00a3200 million hospitality and community 'powerhouse'.",
         "published": "Tue, 27 Oct 2026 10:35:11 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21635301/?type=app&htype=0"
-      },
-      {
-        "id": "df708f757e77bbfe626622bb91758d9a",
-        "title": "Have your say on council budget plans as \u00a37m shortfall looms",
-        "link": "https://www.glasgowtimes.co.uk/news/26673023.council-budget-consultation-opens-7m-shortfall-looms/",
-        "description": "East Dunbartonshire Council is inviting residents to take part in its latest budget consultation.",
-        "published": "Tue, 27 Oct 2026 10:30:48 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21635267/?type=app&htype=0"
       },
       {
         "id": "c6b4de27ee9a7729a6980da4fc673892",
@@ -3827,22 +3843,6 @@
         "description": "John Healey's first Budget brings a pension rise, possible energy bill relief and a defence cash injection \u2014 but Scotland's share of any new spending hinges on whether Barnett formula rules still apply in an era of mayoral deals.",
         "published": "Mon, 26 Oct 2026 15:45:50 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21632744/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/cambuslang-flat-fire-deliberate-say-34819516",
-        "title": "Cambuslang flat fire was deliberate say police amid hunt for person responsible",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/cambuslang-flat-fire-deliberate-say-34819516",
-        "description": "Cops have asked for doorbell or dash-cam footage of the incident and are now treating it as wilful.",
-        "published": "Mon, 26 Oct 2026 15:34:55 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34800426.ece/ALTERNATES/s98/1_Screenshot-2026-10-22-101929.png"
-      },
-      {
-        "id": "cad9559df305d298db76109bc5b01c22",
-        "title": "Council looks to sell former bingo hall site for development outside Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/26671178.former-vogue-bingo-hall-site-hamilton-sold/",
-        "description": "South Lanarkshire Council is consulting on plans to sell the site of the demolished former Vogue Bingo Hall in Hamilton for development.",
-        "published": "Mon, 26 Oct 2026 15:31:53 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21632568/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
