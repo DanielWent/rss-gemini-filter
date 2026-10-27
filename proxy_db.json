@@ -814,6 +814,14 @@
     "description": "AI Filtered Google Blog Updates.",
     "articles": [
       {
+        "id": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-edge-design/",
+        "title": "Fitbit Edge: Premium design for an active life",
+        "link": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-edge-design/",
+        "description": "TBD",
+        "published": "Tue, 27 Oct 2026 13:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FitEdge_Metal_Links_Matte_Black.max-600x600.format-webp.webp"
+      },
+      {
         "id": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/",
         "title": "Get hands-free personalized help on the road with Gemini",
         "link": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/",
@@ -3037,6 +3045,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-highest-alcohol-deaths-scotland-34823467",
+        "title": "Glasgow has highest alcohol deaths in Scotland but this is 'only part of the picture'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-highest-alcohol-deaths-scotland-34823467",
+        "description": "Over the last five years, Glasgow remains to have had the highest rate of alcohol deaths in Scotland.",
+        "published": "Tue, 27 Oct 2026 13:10:30 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34823922.ece/ALTERNATES/s98/0_gettyimages-1305790153-594x594.jpg"
+      },
+      {
         "id": "5f951b5e2d1d0619e51411b4f25b2c05",
         "title": "Crimestoppers urges reports of planned Bonfire Night attacks on emergency crews",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26673883.crimestoppers-urges-reports-planned-bonfire-night-attacks/",
@@ -3051,6 +3067,14 @@
         "description": "A Dumbarton caf\u00e9 owner has been left devastated just months after opening as Storm Boelo flooded High Street, with other traders also left in ruin.",
         "published": "Tue, 27 Oct 2026 12:12:31 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21631465/?type=app&htype=0"
+      },
+      {
+        "id": "0cdbfcbe786f31c2fa3bc938beea9c34",
+        "title": "Glasgow shopkeeper urges action on retail crime and illicit tobacco during MSP visit",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26673694.msp-meets-glasgow-shopkeeper-discuss-retail-crime/",
+        "description": "Retail crime, tobacco regulations, and recycling schemes were all on the agenda during a recent meeting between an MSP and a leading shopkeeper.",
+        "published": "Tue, 27 Oct 2026 12:07:22 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20417309/?type=app&htype=0"
       },
       {
         "id": "b11db64102d37593133706ec678e75a6",
@@ -3819,22 +3843,6 @@
         "description": "Heartbreaking Scottish Centre for Crime and Justice Research figures show 22 looked-after children and young people died in Scotland in 2025",
         "published": "Sun, 25 Oct 2026 16:26:56 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34815342.ece/ALTERNATES/s98/0_Screenshot-2026-10-25-162731.png"
-      },
-      {
-        "id": "4b9657a783dd1d26d9cbdaa3649e722d",
-        "title": "Full list of 133 Scottish flights cancelled amid Storm Boelo disruption",
-        "link": "https://www.heraldscotland.com/news/26668257.full-list-scottish-flights-cancelled-amid-storm-boelo/",
-        "description": "Storm Boelo cancels more than 100 flights across Scotland, disrupting Glasgow, Edinburgh, Aberdeen and other airports as 80mph winds batter the country.",
-        "published": "Sun, 25 Oct 2026 15:13:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/20968403/?type=app&htype=0"
-      },
-      {
-        "id": "9ecc9848fc48bd2cab87a60e0fda2794",
-        "title": "Ex-Reform MSP: 'It feels like I have escaped a coercively controlled relationship'",
-        "link": "https://www.heraldscotland.com/news/26668287.ex-reform-msp-accuses-leadership-intimidation-misogyny/",
-        "description": "Amanda Bland, who served as Reform UK's justice spokesperson at Holyrood, has broken her silence to allege months of shouting, intimidation and the systematic sidelining of women by the party's Scottish leadership. Malcolm Offord rejects her account.",
-        "published": "Sun, 25 Oct 2026 15:11:16 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21600057/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
