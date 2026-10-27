@@ -3045,6 +3045,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo#0",
+        "title": "Scotland's recycling rates at five-year low. How is your area doing?",
+        "link": "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo?at_medium=RSS&at_campaign=rss",
+        "description": "Environmental regulator Sepa says households recycled 42.8% of waste in 2025 - down from 44.3% the previous year.",
+        "published": "Tue, 27 Oct 2026 15:32:40 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8931/live/e4ac55b0-d1f8-11f1-8c9f-8d21fef6ffad.jpg"
+      },
+      {
+        "id": "afbf237400f2051f839c53568048c1cb",
+        "title": "Child protection concerns raised by inspectors at nursery near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26674763.child-protection-concerns-raised-inspectors-coatbridge-nursery/",
+        "description": "Child protection and recruitment concerns have been raised after inspectors identified a number of required improvements at a Coatbridge nursery.",
+        "published": "Tue, 27 Oct 2026 15:21:31 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21028863/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/calls-glasgow-block-ai-data-34824744",
         "title": "Calls for Glasgow to block AI data centres amid fears residents could foot the bills",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/calls-glasgow-block-ai-data-34824744",
@@ -3059,6 +3075,22 @@
         "description": "Disclosure Scotland warns online tutors, mentors and supervisors in Scotland may break the law: no online exemption from PVG checks for work with children.",
         "published": "Tue, 27 Oct 2026 15:18:35 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20395261/?type=app&htype=213"
+      },
+      {
+        "id": "917aac57c5e1ef0e30853b9cfe59b051",
+        "title": "Man found hiding in loft during \u00a3274k Glasgow drugs bust",
+        "link": "https://www.glasgowtimes.co.uk/news/26674720.man-found-hiding-loft-274k-glasgow-drugs-bust/",
+        "description": "A man tried to hide from police in an attic before he was caught with \u00a3274,000 worth of drugs.",
+        "published": "Tue, 27 Oct 2026 15:14:53 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21637679/?type=app&htype=0"
+      },
+      {
+        "id": "e5bb30dd9a2a5c6dc3ec4728ef553d33",
+        "title": "End of an era as iconic Glasgow retailer Greaves Sports launches closing down sale",
+        "link": "https://www.glasgowtimes.co.uk/news/26674715.glasgows-greaves-sports-close-50-years-business/",
+        "description": "Iconic Glasgow shop Greaves Sports is closing after its acquisition by Mike Ashley\u2019s Frasers Group, ending a family retail legacy dating to the 1930s.",
+        "published": "Tue, 27 Oct 2026 15:14:39 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21637642/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-temporary-flats-homeless-people-34823841",
@@ -3811,38 +3843,6 @@
         "description": "Plans for a 60-bed care home at the former Arnold Clark site in Milngavie have been refused by East Dunbartonshire Council.",
         "published": "Mon, 26 Oct 2026 11:21:33 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21630417/?type=app&htype=0"
-      },
-      {
-        "id": "efc4c49ce7fe5e8483989c98ded2553f",
-        "title": "UK MP speaks out in fight to save over 200 manufacturing jobs near Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/26669466.mp-speaks-207-motherwell-manufacturing-jobs-risk/",
-        "description": "Labour MP Kenneth Stevenson has spoken out over 207 jobs at risk at Honeywell and Resideo as the fight to protect manufacturing jobs continues.",
-        "published": "Mon, 26 Oct 2026 10:57:22 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21624843/?type=app&htype=0"
-      },
-      {
-        "id": "2c571d653200d05ddccfe5790e0d9db2",
-        "title": "Glasgow college leader honoured with major civic award for dedication to the city",
-        "link": "https://www.glasgowtimes.co.uk/news/26669439.city-glasgow-college-principal-received-loving-cup/",
-        "description": "Professor Paul Little, founding principal and chief executive of City of Glasgow College, received the Loving Cup from the Lord Provost of Glasgow.",
-        "published": "Mon, 26 Oct 2026 10:53:26 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21630191/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=535022",
-        "title": "Man secretly recorded images of his neighbour\u2019s teen daughter undressing",
-        "link": "https://news.stv.tv/west-central/man-secretly-recorded-images-of-his-neighbours-teen-daughter-undressing",
-        "description": "Ian Hart, 37, preyed upon the girl when she was 13 and 14 in South Lanarkshire in 2024 and 2025.",
-        "published": "Mon, 26 Oct 2026 10:35:36 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2025/05/f80552903122b112511c63c30c41a9fc-1746179781.jpg"
-      },
-      {
-        "id": "a3b03973ffa2f6a3ff8758e55a4682d9",
-        "title": "Glasgow and Boston's historic friendship celebrated with brand new tartan design",
-        "link": "https://www.glasgowtimes.co.uk/news/26669130.new-tartan-marks-glasgow-bostons-city-twinning/",
-        "description": "A tartan has been created to celebrate the historic twinning of Glasgow and Boston.",
-        "published": "Mon, 26 Oct 2026 10:03:47 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21629766/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
