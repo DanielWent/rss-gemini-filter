@@ -2138,6 +2138,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "f9cdc75c7bc36202e7127fc71beaf9a0",
+        "title": "Nine buildings at former private school could be demolished after fire and break-ins",
+        "link": "https://www.glasgowtimes.co.uk/news/26673401.fernhill-school-rutherglen-plans-demolish-nine-buildings/",
+        "description": "Plans have been lodged to demolish nine buildings at the former Fernhill School in Rutherglen after reports of break-ins, antisocial behaviour and a fire.",
+        "published": "Tue, 27 Oct 2026 12:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21636021/?type=app&htype=0"
+      },
+      {
         "id": "aa1531150649a4e692fba7b01ab9d860",
         "title": "Water supplies hit by burst main for second day in town outside Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26673260.burst-water-main-disrupts-milngavie-supplies-second-day/",
@@ -2928,14 +2936,6 @@
         "description": "Boclair Care Home in Bearsden received a grade of five following an unannounced inspection.",
         "published": "Sat, 22 Aug 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21355798/?type=app&htype=0"
-      },
-      {
-        "id": "cd20c5751638081fbff62a66e6532d7a",
-        "title": "Pupils and teachers return to Milngavie school as year-long refurbishment ends",
-        "link": "https://www.glasgowtimes.co.uk/news/26481515.milngavie-primary-pupils-teachers-return-year-long-refit/",
-        "description": "An East Dunbartonshire primary school has finally re-opened following a multi-million pound refurbishment.",
-        "published": "Fri, 21 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21349268/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3037,6 +3037,54 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "2ff4b56df719a3a217a8f64b61b6ed3c",
+        "title": "\u2018We couldn\u2019t do anything\u2019 - Dumbarton traders devastated as floods wreak havoc",
+        "link": "https://www.glasgowtimes.co.uk/news/26673730.dumbarton-shops-devastated-flooding-storm-boelo/",
+        "description": "A Dumbarton caf\u00e9 owner has been left devastated just months after opening as Storm Boelo flooded High Street, with other traders also left in ruin.",
+        "published": "Tue, 27 Oct 2026 12:12:31 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21631465/?type=app&htype=0"
+      },
+      {
+        "id": "b11db64102d37593133706ec678e75a6",
+        "title": "Two-year-old boy rushed to hopsital after dog attack inside Glasgow property",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26673683.two-year-old-boy-taken-hospital-glasgow-dog-attack/",
+        "description": "A two-year-old boy was taken to hospital after a dog attack at a Glasgow property on October 26. Police Scotland say the dog was euthanised and enquiries continue.",
+        "published": "Tue, 27 Oct 2026 12:05:46 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13757694/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=535250",
+        "title": "University Cafe owner celebrated as \u2018local royalty\u2019 with portrait by artist who painted King Charles",
+        "link": "https://news.stv.tv/west-central/university-cafe-owner-celebrated-as-local-royalty-with-portrait-by-artist-who-painted-king-charles",
+        "description": "Gino Verrecchia is one of four independent business owners to be painted for a new exhibition entitled Local Royalty at the Saatchi Gallery",
+        "published": "Tue, 27 Oct 2026 12:02:16 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/3fc3061022d051c2718566f2fadaa7d5-1793100438-1280x720.jpeg"
+      },
+      {
+        "id": "9311322",
+        "title": "Celtic won't 'entertain' January bids for star amid transfer speculation as potential exit timeline outlined",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-wont-entertain-january-bids-for-key-star-as-potential-exit-timeline-outlined-amid-transfer-speculation-9311322",
+        "description": "<p>Defender has been the subject of transfer speculation</p>",
+        "published": "Tue, 27 Oct 2026 12:00:50 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/27/10/35/GettyImages-2194705242.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "9311063",
+        "title": "Rangers legend calls on them to lay down Hearts marker as Tynecastle 'fist fight' match expected",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-legend-calls-on-them-to-lay-down-hearts-marker-as-tynecastle-fist-fight-match-expected-in-premiership-9311063",
+        "description": "<p>The Jambos dominated the title race last season but were pipped by Celtic on the final day</p>",
+        "published": "Tue, 27 Oct 2026 12:00:35 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/27/10/17/GettyImages-2274491348-(2).jpeg?width=1200&auto=webp&trim=0%2C0%2C1%2C0"
+      },
+      {
+        "id": "f9cdc75c7bc36202e7127fc71beaf9a0",
+        "title": "Nine buildings at former private school could be demolished after fire and break-ins",
+        "link": "https://www.glasgowtimes.co.uk/news/26673401.fernhill-school-rutherglen-plans-demolish-nine-buildings/",
+        "description": "Plans have been lodged to demolish nine buildings at the former Fernhill School in Rutherglen after reports of break-ins, antisocial behaviour and a fire.",
+        "published": "Tue, 27 Oct 2026 12:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21636021/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-trains-disrupted-after-tree-34823169",
         "title": "Glasgow trains disrupted after tree falls on line amid more stormy weather",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-trains-disrupted-after-tree-34823169",
@@ -3053,12 +3101,36 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/26/13/cs-8208c895-3b1d-4210-a41f-4e851650760a.jpg?width=1200&auto=webp&crop=3%3A2"
       },
       {
+        "id": "53b0609183895097f6e704e26258209c",
+        "title": "Homicide deaths rise by almost a fifth but remain Scotland\u2019s fourth-lowest on record",
+        "link": "https://www.heraldscotland.com/news/26673427.homicide-deaths-scotland-rise-56---fourth-lowest-record/",
+        "description": "Two-thirds of women were killed by a partner or ex-partner",
+        "published": "Tue, 27 Oct 2026 11:29:18 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20229488/?type=app&htype=0"
+      },
+      {
+        "id": "cd669406b5dc69850d9de78e57837af3",
+        "title": "Number of new homes in Scotland's housing stock at lowest since 2015, figures show",
+        "link": "https://www.heraldscotland.com/news/26673385.number-new-homes-scotlands-housing-stock-lowest-since-2015/",
+        "description": "The number of new homes in Scotland\u2019s housing stock is at the lowest level for more than a decade, statistics show.",
+        "published": "Tue, 27 Oct 2026 11:22:41 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/16643196/?type=app&htype=0"
+      },
+      {
         "id": "aa1531150649a4e692fba7b01ab9d860",
         "title": "Water supplies hit by burst main for second day in town outside Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26673260.burst-water-main-disrupts-milngavie-supplies-second-day/",
         "description": "Burst water main disrupts water supplies in Milngavie and G62 for a second day as Scottish Water repairs continue, with pressure expected to recover on October 27.",
         "published": "Tue, 27 Oct 2026 11:06:09 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20496663/?type=app&htype=0"
+      },
+      {
+        "id": "6ea0dd7305220c1cfac5f9ef41024edb",
+        "title": "Alcohol deaths in Scotland down 3 per cent as gap between richest and poorest widens",
+        "link": "https://www.heraldscotland.com/news/26673216.scotland-alcohol-deaths-fall-3-per-cent-inequality-widens/",
+        "description": "The total number of alcohol deaths in Scotland has dropped by 3%, new figures show, but the gap between the richest and poorest has increased.",
+        "published": "Tue, 27 Oct 2026 10:56:54 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/17403656/?type=app&htype=0"
       },
       {
         "id": "d322ec9d72072391741f920fd851c68e",
@@ -3125,14 +3197,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/20997786/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-city-council-staff-urged-34822103",
-        "title": "Glasgow City Council staff urged to reject 'not good enough' pay deal",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-city-council-staff-urged-34822103",
-        "description": "Unison says the proposed package &quot;does not go far enough&quot;.",
-        "published": "Tue, 27 Oct 2026 08:54:19 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article32899655.ece/ALTERNATES/s98/0_City-Chambers.jpg"
-      },
-      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-whose-daughter-died-34821905",
         "title": "Glasgow mum whose daughter died in asthma attack feared she'd go the same way",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-whose-daughter-died-34821905",
@@ -3163,14 +3227,6 @@
         "description": "Glasgow Labour leader Rashid Hussain has said residents across the city continue to raise community safety concerns.",
         "published": "Tue, 27 Oct 2026 07:11:36 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33562257.ece/ALTERNATES/s98/0_JS90445567-1.jpg"
-      },
-      {
-        "id": "7aa8a211791679c56c595498eecd5f86",
-        "title": "LIVE updates as several busy Glasgow train lines AXED all day amid 'severe weather'",
-        "link": "https://www.glasgowtimes.co.uk/news/26672238.live-updates-glasgow-train-lines-cancelled-due-severe-weather/",
-        "description": "Train lines at both Glasgow Central and Glasgow Queen Street are being impacted today due to 'severe weather'.",
-        "published": "Tue, 27 Oct 2026 07:04:52 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21173123/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=535085",
@@ -3251,14 +3307,6 @@
         "description": "Nationwide's latest job cuts are not blamed on AI, but they come as technology transforms entry-level work and reshapes the traditional career ladder",
         "published": "Tue, 27 Oct 2026 04:30:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/16742196/?type=app&htype=0"
-      },
-      {
-        "id": "5eafa8781b467abfd4a49703272122aa",
-        "title": "Glasgow cafe owner painted by artist who portrayed King Charles III",
-        "link": "https://www.heraldscotland.com/news/26663851.glasgow-cafe-owner-painted-royal-portrait-artist/",
-        "description": "Glasgow\u2019s University Cafe owner Gino Verrecchia is honoured in a Gareth Reid portrait for Coca-Cola\u2019s Local Royalty exhibition at London\u2019s Saatchi Gallery.",
-        "published": "Tue, 27 Oct 2026 00:05:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21622092/?type=app&htype=0"
       },
       {
         "id": "18e7e0b47cbf79efef553f67b9061dac",
@@ -3515,14 +3563,6 @@
         "description": "Campaigners are to stage a Reclaim the Night protest outside the Scottish Parliament.",
         "published": "Mon, 26 Oct 2026 13:45:37 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21571429/?type=app&htype=0"
-      },
-      {
-        "id": "2551cd96f06b08e156eb4f8dfbe4f213",
-        "title": "Burst water main leaves Milngavie residents facing supply disruption",
-        "link": "https://www.glasgowtimes.co.uk/news/26670497.scottish-water-repairs-burst-water-main-milngavie/",
-        "description": "A burst water main has disrupted supplies for residents in Milngavie.",
-        "published": "Mon, 26 Oct 2026 13:43:09 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21631666/?type=app&htype=0"
       },
       {
         "id": "0f3463578b71d2bd9d1c646d3811c6f6",
@@ -3795,46 +3835,6 @@
         "description": "<p>The Canadian right-back lasted only 21 minutes on his return to action in Sunday\u2019s 2-1 Premiership win over Hibs at Easter Road </p>",
         "published": "Sun, 25 Oct 2026 14:55:06 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/04/26/8/59/21666113.jpeg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "ba55ccdf86b6d246c4c8dc2e8233154f",
-        "title": "Police urge residents to check sheds in search for missing 63-year-old man",
-        "link": "https://www.heraldscotland.com/news/26668222.police-appeal-find-missing-man-south-lanarkshire/",
-        "description": "Police are appealing to the public to assist in the search for a missing 63-year-old man in South Lanarkshire during Storm Boelo.",
-        "published": "Sun, 25 Oct 2026 14:34:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21628441/?type=app&htype=0"
-      },
-      {
-        "id": "7c3e8a77ef7d7e2c41b7a185bea11a4f",
-        "title": "Body believed to be missing 82-year-old man who 'fell from CalMac ferry' found",
-        "link": "https://www.heraldscotland.com/news/26668118.body-believed-missing-man-fell-calmac-ferry-found/",
-        "description": "Body believed to be missing 82-year-old Jim Wither found on Largs beach after man fell from CalMac ferry near Arran; police say death is not suspicious.",
-        "published": "Sun, 25 Oct 2026 12:57:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/20696889/?type=app&htype=0"
-      },
-      {
-        "id": "7bd7ccc4f8759889bbd9e834328c665e",
-        "title": "Govan man who claimed to be 'commanding officer' of banned UVF faces jail",
-        "link": "https://www.glasgowtimes.co.uk/news/26668104.govan-man-claimed-commanding-officer-banned-uvf/",
-        "description": "A terror suspect who claimed he was a \u201ccommanding officer\u201d of the loyalist Ulster Volunteer Force paramilitary group could be facing jail.",
-        "published": "Sun, 25 Oct 2026 12:42:11 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21194148/?type=app&htype=0"
-      },
-      {
-        "id": "5e3a6d0e4cd366e4f82eb790cbeaf6a9",
-        "title": "More than 30,000 Scottish homes without power after Storm Boelo hits Scotland",
-        "link": "https://www.heraldscotland.com/news/26668094.storm-boelo-leaves-30-000-scottish-homes-without-power/",
-        "description": "Storm Boelo leaves more than 30,000 Scottish homes without power as 80mph winds cause travel disruption, with SSEN and SP Energy teams repairing faults after storm damage.",
-        "published": "Sun, 25 Oct 2026 12:40:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21628146/?type=app&htype=0"
-      },
-      {
-        "id": "2b7df4d813e78e536014853df2761788",
-        "title": "Police officer tried to defraud ex-husband by forging documents",
-        "link": "https://www.glasgowtimes.co.uk/news/26668083.police-officer-forged-documents-defraud-ex-husband/",
-        "description": "A police officer was caught forging financial documents in front of a colleague in a bid to defraud her husband.",
-        "published": "Sun, 25 Oct 2026 12:27:17 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17317808/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
