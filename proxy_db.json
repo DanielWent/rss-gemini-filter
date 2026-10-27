@@ -3045,12 +3045,52 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "a5e6a2c6d1d26e13ac7e54705322c042",
+        "title": "Reform UK reshuffles Holyrood front bench after MSP quits",
+        "link": "https://www.heraldscotland.com/news/26675286.reform-uk-reshuffles-holyrood-team-msp-quits/",
+        "description": "Reform UK Scottish leader Malcolm Offord reshuffles Holyrood front bench after MSP Amanda Bland quits, appointing new justice, education and finance spokespeople.",
+        "published": "Tue, 27 Oct 2026 16:46:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20903039/?type=app&htype=0"
+      },
+      {
+        "id": "ec3d45c77968048da98a89577a443d9b",
+        "title": "Man reported as missing checked in bag containing ketamine into Glasgow hotel",
+        "link": "https://www.heraldscotland.com/news/26675335.missing-man-checked-bag-containing-ketamine-glasgow-hotel/",
+        "description": "A missing man checked in a bag containing \u00a312,500 of drugs into the hotel where he was staying.",
+        "published": "Tue, 27 Oct 2026 16:42:14 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/16196411/?type=app&htype=0"
+      },
+      {
+        "id": "a6d82d41eb36d7e86563191958255378",
+        "title": "Volunteers race to record Glasgow's churches before heritage is lost",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26675039.volunteers-document-church-interiors-across-glasgow/",
+        "description": "A team of volunteers are recording the contents of churches in Glasgow to ensure items of cultural significance are not forgotten.",
+        "published": "Tue, 27 Oct 2026 16:30:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21638187/?type=app&htype=0"
+      },
+      {
+        "id": "2f69799b8183d56373a207bdc9ef4ed1",
+        "title": "Crash at busy Glasgow junction forces officials to switch off traffic lights",
+        "link": "https://www.glasgowtimes.co.uk/news/26675230.crash-glasgow-junction-forces-lights-switched-off/",
+        "description": "Glasgow traffic lights are out at Paisley Road West and Hillington Road South after a crash, causing disruption until damaged equipment is replaced.",
+        "published": "Tue, 27 Oct 2026 16:25:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20176549/?type=app&htype=0"
+      },
+      {
         "id": "9307462",
         "title": "VIDEO CHAT: Squeeze and Billy Bragg head this way with hits, memories and musical magic - get your tickets here",
         "link": "https://www.glasgowworld.com/sponsored/video-chat-squeeze-and-billy-bragg-head-this-way-with-hits-memories-and-musical-magic-get-your-tickets-here-9308255",
         "description": "<p>Squeeze legends Chris Difford and Glenn Tilbrook talk to Billy Bragg about teaming up for a blockbuster UK tour coming our way writes Graham Walker.</p>",
         "published": "Tue, 27 Oct 2026 16:20:56 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/25/14/38/Squeeze-stars-Chris-Difford-and-Glenn-Tilbrook-join-Billy-Bragg-for-a-special-video-chat-ahead-of-th.jpeg?width=1200&auto=webp&trim=0%2C150%2C0%2C150"
+      },
+      {
+        "id": "186c3fc15b4db28cbbc1560982eedbd9",
+        "title": "I tried Glasgow\u2019s lavish new underground spa \u2013 here\u2019s my honest verdict",
+        "link": "https://www.heraldscotland.com/life_style/26674595.atera-glasgow-review-prices-membership-spa-experience/",
+        "description": "Inside Glasgow\u2019s striking new subterranean spa: what Atera gets right, what still needs work and whether its costly memberships are worth it.",
+        "published": "Tue, 27 Oct 2026 16:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21637452/?type=app&htype=0"
       },
       {
         "id": "d8f1bfb753db99aed5f3aded73f74ebb",
@@ -3803,46 +3843,6 @@
         "description": "James Hall, 79, was put on the sex offenders' register at Hamilton Sheriff Court on Friday.",
         "published": "Mon, 26 Oct 2026 15:13:42 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34519758.ece/ALTERNATES/s98/0_dmp_ham_090421court_005JPG.jpg"
-      },
-      {
-        "id": "68321d9b8565da061bbc77df464e91ca",
-        "title": "\u2018We deserve better\u2019 as campaigners near Glasgow protest loss of town facilities",
-        "link": "https://www.glasgowtimes.co.uk/news/26670966.motherwell-deserves-better-campaigners-protest-council-hq/",
-        "description": "Around 30 campaigners gathered outside North Lanarkshire Council headquarters amid concerns over the loss and future of facilities in Motherwell.",
-        "published": "Mon, 26 Oct 2026 14:58:50 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21631371/?type=app&htype=0"
-      },
-      {
-        "id": "46bb1a4c87f78edf78dd6f86ce811ad8",
-        "title": "Historic Glasgow Mackintosh Tearooms forced to close following Storm Boelo",
-        "link": "https://www.heraldscotland.com/news/26670508.mackintosh-tearooms-glasgow-closed-storm-boelo/",
-        "description": "Glasgow\u2019s historic Mackintosh Tearooms have closed after Storm Boelo disrupted the water supply. The Charles Rennie Mackintosh landmark hopes to reopen soon.",
-        "published": "Mon, 26 Oct 2026 14:02:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21488102/?type=app&htype=0"
-      },
-      {
-        "id": "d41d38b828095a56f3832f62b15233d8",
-        "title": "Reclaim the Night protest at Holyrood to demand action on violence against women",
-        "link": "https://www.glasgowtimes.co.uk/news/26670513.reclaim-night-protest-planned-scottish-parliament/",
-        "description": "Campaigners are to stage a Reclaim the Night protest outside the Scottish Parliament.",
-        "published": "Mon, 26 Oct 2026 13:45:37 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21571429/?type=app&htype=0"
-      },
-      {
-        "id": "0f3463578b71d2bd9d1c646d3811c6f6",
-        "title": "Glasgow businessman admits assaulting 'on-off' girlfriend",
-        "link": "https://www.heraldscotland.com/news/26670428.bathroom-company-glasgow-boss-admits-on-off-girlfriend-assault/",
-        "description": "Bremner was banned from contacting her for five years after repeated harassment and violence",
-        "published": "Mon, 26 Oct 2026 13:30:24 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/16405573/?type=app&htype=0"
-      },
-      {
-        "id": "db2805effb1ea52719c076c8427e77e9",
-        "title": "Marti Pellow announces huge homecoming show to celebrate 40 years in music",
-        "link": "https://www.glasgowtimes.co.uk/news/26670391.marti-pellow-announces-glasgow-hydro-show-huge-2027-uk-tour/",
-        "description": "Wet Wet Wet star Marti Pellow is heading to Glasgow's OVO Hydro as part of his newly announced No Marti No Party UK tour in 2027.",
-        "published": "Mon, 26 Oct 2026 13:22:42 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21631607/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
