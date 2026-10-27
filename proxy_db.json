@@ -3021,6 +3021,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "2297d9f06886edc2aeab1ac22a0c02b9",
+        "title": "Glasgow foodbank warns demand 'will only get bigger' amid supermarket boycott",
+        "link": "https://www.glasgowtimes.co.uk/news/26669707.glasgow-foodbank-sees-14-rise-demand-amid-supermarket-boycott/",
+        "description": "The manager of a Glasgow foodbank says the cost of living crisis is brining continued pressure on services as campaigners set to hit supermarkets with planned boycott",
+        "published": "Tue, 27 Oct 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21631258/?type=app&htype=0"
+      },
+      {
+        "id": "999eeee72ce94abe3e10d231dfec4c2a",
+        "title": "Glasgow teen makes history with gold medal at European boxing championships",
+        "link": "https://www.glasgowtimes.co.uk/news/26669853.glasgow-teen-won-gold-medal-european-boxing-championships/",
+        "description": "Brodie Dow, from Glasgow's East End, claimed the top spot at the Under-15 Boxing European Championships inTurkey.",
+        "published": "Tue, 27 Oct 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21630714/?type=app&htype=0"
+      },
+      {
+        "id": "d2fc2724daee3816010362de462bff0e",
+        "title": "Former deep-sea diver transforms Scottish beach plastic into traditional sgian dubhs",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26671238.netherlee-dad-turns-beach-plastic-scottish-sgian-dubhs/",
+        "description": "A Netherlee deep-sea diver turned entrepreneur is transforming plastic pollution into traditional Scottish sgian dubhs.",
+        "published": "Tue, 27 Oct 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21632730/?type=app&htype=0"
+      },
+      {
+        "id": "c755d21cdc4c99ca8859fa0ceddb2941",
+        "title": "'Grayce has a rare genetic condition. There's a ten year wait for an accessible home'",
+        "link": "https://www.heraldscotland.com/news/26671139.dad-protesting-holyrood-lack-wheelchair-accessible-homes/",
+        "description": "Tony Pearson\u2019s three-year-old daughter Grayce lives with spinal muscular atrophy (SMA), a rare genetic condition which causes muscle wasting.",
+        "published": "Tue, 27 Oct 2026 06:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21632554/?type=app&htype=0"
+      },
+      {
+        "id": "5e1d487332a35411a6a1b58845a868e6",
+        "title": "UK Government backed English whisky protection without assessing impact on Scotch",
+        "link": "https://www.heraldscotland.com/news/26672023.english-whisky-gi-approved-no-scotch-impact-assessment/",
+        "description": "Ministers granted English whisky geographical indication status without assessing the impact on Scotch, as the Scotch Whisky Association appeals a definition that would allow multi-site producers to label their product single malt.",
+        "published": "Tue, 27 Oct 2026 05:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21187087/?type=app&htype=0"
+      },
+      {
         "id": "c33cec58731f6e30ca317f4f00144f27",
         "title": "Nationwide job cuts highlight a much bigger squeeze on white-collar careers",
         "link": "https://www.heraldscotland.com/news/26670454.nationwide-job-cuts-highlight-white-collar-jobs-squeeze/",
@@ -3061,14 +3101,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21634138/?type=app&htype=0"
       },
       {
-        "id": "https://news.stv.tv/?p=535192",
-        "title": "Businesses in Renfrew suffer thousands of pounds in damage due to Storm Boelo flooding",
-        "link": "https://news.stv.tv/west-central/businesses-in-renfrew-suffer-thousands-of-pounds-in-damage-due-to-storm-boelo-flooding",
-        "description": "Renfrewshire Council confirmed flood barriers were not used as water infiltrated businesses in the town",
-        "published": "Mon, 26 Oct 2026 20:32:40 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/0512e872cacf52cac39e68b0519482e3-1793046091-1280x720.jpg"
-      },
-      {
         "id": "56d1920c4c8fee8cd81ab9bad4b22054",
         "title": "Full list of disruptions as fresh weather warning covers Scotland",
         "link": "https://www.heraldscotland.com/news/26671946.scotland-weather-warning-full-list-ferry-rail-school-affected/",
@@ -3107,14 +3139,6 @@
         "description": "Unison urges Glasgow City Council staff to reject proposed pay and grading deal, citing lower-grade losses and unevaluated jobs as ballot runs to November 23.",
         "published": "Mon, 26 Oct 2026 17:14:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21633708/?type=app&htype=0"
-      },
-      {
-        "id": "981e7babdeade84bf324d2c48cd708d3",
-        "title": "'Serious questions' - Multi-million pound barrier NOT in use as businesses flooded",
-        "link": "https://www.glasgowtimes.co.uk/news/weather/26671841.renfrew-barrier-not-use-businesses-homes-flooded/",
-        "description": "Renfrewshire Council have confirmed their multi-million pound flood prevention barrier was not in use as water from the River Clyde spilled into Renfrew streets",
-        "published": "Mon, 26 Oct 2026 17:11:31 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21633619/?type=app&htype=0"
       },
       {
         "id": "9310598",
@@ -3325,14 +3349,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21631666/?type=app&htype=0"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/cq5yn948plzeo#0",
-        "title": "Campaigners call for new body to lead Mackintosh Building restoration",
-        "link": "https://www.bbc.co.uk/news/articles/cq5yn948plzeo?at_medium=RSS&at_campaign=rss",
-        "description": "The Charles Rennie Mackintosh Society said a special-purpose organisation should lead reconstruction of the landmark.",
-        "published": "Mon, 26 Oct 2026 13:30:49 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b94/live/b61b97f0-cf24-11f1-b8f0-99ad639f25e6.jpg"
-      },
-      {
         "id": "0f3463578b71d2bd9d1c646d3811c6f6",
         "title": "Glasgow businessman admits assaulting 'on-off' girlfriend",
         "link": "https://www.heraldscotland.com/news/26670428.bathroom-company-glasgow-boss-admits-on-off-girlfriend-assault/",
@@ -3365,14 +3381,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21175998/?type=app&htype=0"
       },
       {
-        "id": "https://news.stv.tv/?p=535017",
-        "title": "Woman dies in Paisley flat fire as police launch investigation",
-        "link": "https://news.stv.tv/west-central/woman-dies-in-paisley-flat-fire-as-police-launch-investigation",
-        "description": "Emergency services were called to a fire in a three-storey building on Sunday afternoon",
-        "published": "Mon, 26 Oct 2026 12:10:59 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/7e47649c79c104b7830fd3e410cb399a-1793010067-1280x720.jpeg"
-      },
-      {
         "id": "d64dfd7ce51c51f16e2cacd3a67e80c3",
         "title": "Plans to breathe new life into vacant former hotel near Glasgow revealed",
         "link": "https://www.glasgowtimes.co.uk/news/26669967.plans-revealed-transform-former-bishopbriggs-hotel-nine-flats/",
@@ -3403,14 +3411,6 @@
         "description": "State-owned CalMac has pledged to improve ferry reliability as its parent company reports continuing problems with ageing vessels, technical faults and repairs.",
         "published": "Mon, 26 Oct 2026 11:45:46 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/17569602/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/storm-boelo-clears-more-wind-34817560",
-        "title": "Storm Boelo clears but more wind and rain to batter parts of greater Glasgow",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/storm-boelo-clears-more-wind-34817560",
-        "description": "Gusts of 50-60 mph is expected.",
-        "published": "Mon, 26 Oct 2026 11:44:23 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34817725.ece/ALTERNATES/s98/0_gettyimages-2301882423-594x594.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-footage-shows-dramatic-chase-34817227",
@@ -3613,14 +3613,6 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34815342.ece/ALTERNATES/s98/0_Screenshot-2026-10-25-162731.png"
       },
       {
-        "id": "e4ecb9441c90f8d5fd9001663d28c043",
-        "title": "Man dies after being struck by falling tree during Storm Boelo",
-        "link": "https://www.heraldscotland.com/news/26668399.man-dies-hit-tree-storm-boelo-castle-douglas/",
-        "description": "A 60-year-old man died after a falling tree struck him near Castle Douglas during Storm Boelo in Scotland, Police Scotland says, on October 25, 2026.",
-        "published": "Sun, 25 Oct 2026 16:20:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21627013/?type=app&htype=0"
-      },
-      {
         "id": "4b9657a783dd1d26d9cbdaa3649e722d",
         "title": "Full list of 133 Scottish flights cancelled amid Storm Boelo disruption",
         "link": "https://www.heraldscotland.com/news/26668257.full-list-scottish-flights-cancelled-amid-storm-boelo/",
@@ -3755,14 +3747,6 @@
         "description": "&quot;It's great to see the community, and it's helped make a little Ukraine here - it's like a little heart.&quot;",
         "published": "Sun, 25 Oct 2026 10:24:48 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34809803.ece/ALTERNATES/s98/1_14887a59-63e9-4866-ac65-c05837b79df2jfif.jpg"
-      },
-      {
-        "id": "32410c2981ffda43ee9789ac52a8bb80",
-        "title": "Inside the Scottish university strikes where students are 'teaching themselves'",
-        "link": "https://www.heraldscotland.com/news/26657038.glasgow-caledonian-university-students-feel-abandoned-strikes/",
-        "description": "Glasgow Caledonian University students say they feel abandoned as UCU-led strikes disrupt teaching, assessments and nursing courses amid 100 proposed job cuts",
-        "published": "Sun, 25 Oct 2026 08:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/20679183/?type=app&htype=0"
       },
       {
         "id": "f0f5472c4e2c8467dc06ca49f206bbfb",
