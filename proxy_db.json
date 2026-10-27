@@ -3045,6 +3045,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=535270",
+        "title": "Lifeboat crew battle gale-force winds and rough seas to rescue island patient during Storm Boelo",
+        "link": "https://news.stv.tv/west-central/lifeboat-crew-battle-gale-force-winds-and-rough-seas-to-rescue-island-patient-during-storm-boelo",
+        "description": "Troon lifeboat was tasked with helping transport a medical team to the Isle of Cumbrae during Storm Boelo",
+        "published": "Tue, 27 Oct 2026 13:24:39 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/0427b15c4d0beb3c37a7999bdd2ebdc4-1793105395-1280x720.jpeg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-highest-alcohol-deaths-scotland-34823467",
         "title": "Glasgow has highest alcohol deaths in Scotland but this is 'only part of the picture'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-highest-alcohol-deaths-scotland-34823467",
@@ -3053,12 +3061,44 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34823922.ece/ALTERNATES/s98/0_gettyimages-1305790153-594x594.jpg"
       },
       {
+        "id": "c3354b669f6c2d03b7df12167cd435dd",
+        "title": "Suspected drug deaths in Scotland drop by 28 per cent, new figures show",
+        "link": "https://www.heraldscotland.com/news/26673938.suspected-drug-deaths-scotland-drop-28-per-cent/",
+        "description": "The number of suspected drug deaths in Scotland in the most recent quarter have dropped by 28%, figures show.",
+        "published": "Tue, 27 Oct 2026 12:53:07 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/12848859/?type=app&htype=0"
+      },
+      {
         "id": "5f951b5e2d1d0619e51411b4f25b2c05",
         "title": "Crimestoppers urges reports of planned Bonfire Night attacks on emergency crews",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26673883.crimestoppers-urges-reports-planned-bonfire-night-attacks/",
         "description": "Crimestoppers urges Scots to report planned Bonfire Night attacks, illegal fireworks and fire-raising targeting emergency workers anonymously in Scotland.",
         "published": "Tue, 27 Oct 2026 12:42:16 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/12443741/?type=app&htype=0"
+      },
+      {
+        "id": "7f2065e5a9650caaf25aabd45531662e",
+        "title": "Teenage girls who ambushed man and woman at Glasgow chip shop face jail",
+        "link": "https://www.heraldscotland.com/news/26673877.teenage-girls-face-jail-glasgow-city-centre-chip-shop-assaults/",
+        "description": "The 17-year-olds, who cannot be named for legal reasons, pounced on Chloe Rees and Blair McFarlane at Blue Lagoon on Glasgow city centre's Gordon Street on December 16, 2025",
+        "published": "Tue, 27 Oct 2026 12:40:41 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/17592764/?type=app&htype=0"
+      },
+      {
+        "id": "2ba5dccf52e2f319e5c3673dca60f25c",
+        "title": "Celtic fan fails to overturn football ban after handing boy pyro flare",
+        "link": "https://www.heraldscotland.com/news/26673822.celtic-fan-fails-overturn-football-ban-handing-boy-flare/",
+        "description": "Jamie McPherson, 39, lit two pyrotechnics during the clash at Celtic Park on September 1 2024",
+        "published": "Tue, 27 Oct 2026 12:28:55 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/19800862/?type=app&htype=0"
+      },
+      {
+        "id": "ef4105f745c57ecfdb191f548c1bf2c1",
+        "title": "Teens become youngest in recent Church of Scotland history to be ordained as elders",
+        "link": "https://www.heraldscotland.com/news/26673740.two-teenagers-ordained-church-scotland-elders/",
+        "description": "Two teenagers at a church in the east end of Glasgow have become the youngest people in recent Church of Scotland history to be appointed to key leadership roles.",
+        "published": "Tue, 27 Oct 2026 12:14:17 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21636215/?type=app&htype=0"
       },
       {
         "id": "2ff4b56df719a3a217a8f64b61b6ed3c",
@@ -3115,6 +3155,14 @@
         "description": "Plans have been lodged to demolish nine buildings at the former Fernhill School in Rutherglen after reports of break-ins, antisocial behaviour and a fire.",
         "published": "Tue, 27 Oct 2026 12:00:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21636021/?type=app&htype=0"
+      },
+      {
+        "id": "982160dc4fb75630b790308fa140cd65",
+        "title": "NHS Tayside scientist snooped on 386 patients\u2019 records 497 times without authority",
+        "link": "https://www.heraldscotland.com/news/26673569.questions-board-massive-ninewells-data-breach/",
+        "description": "A clinical scientist at Ninewells Hospital was sacked after accessing 386 patient records 497 times without authority \u2014 a breach the health board never made public, now exposed through an employment tribunal judgment.",
+        "published": "Tue, 27 Oct 2026 11:48:56 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21636190/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-trains-disrupted-after-tree-34823169",
@@ -3795,54 +3843,6 @@
         "description": "The Scottish Police Authority warns that a flat cash settlement would leave officer numbers at their lowest since 2003, as Police Scotland asks for an extra \u00a3110m to tackle rising domestic abuse, foreign state threats and a surge in mental health demand.",
         "published": "Mon, 26 Oct 2026 05:00:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/16009652/?type=app&htype=0"
-      },
-      {
-        "id": "4feebf45b274cde2c57f30e23e92b21a",
-        "title": "Landmark Scottish hotels on market and 'exciting new chapter'",
-        "link": "https://www.heraldscotland.com/opinion/26662127.scottish-hotels-sale-exciting-new-chapter-awards-hailed/",
-        "description": "The landmark Scottish hotels were put up for sale in a week in which an 'exciting new chapter' was hailed",
-        "published": "Mon, 26 Oct 2026 04:40:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/16740781/?type=app&htype=0"
-      },
-      {
-        "id": "13bc8820c588f2345f8a7401e1f4d5da",
-        "title": "Scotland\u2019s small firms are being squeezed. This Budget could offer a lifeline",
-        "link": "https://www.heraldscotland.com/opinion/26664821.budget-help-scotlands-struggling-small-firms/",
-        "description": "With business confidence near Covid-era lows, Scotland\u2019s small firms need action on rates and rising costs. This week\u2019s Budget could provide some answers",
-        "published": "Mon, 26 Oct 2026 04:30:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21623980/?type=app&htype=0"
-      },
-      {
-        "id": "f33a4f4a2631bb0698f66fa08d57c52a",
-        "title": "Scottish scientists develop tiny glass chip to help telescopes study distant stars",
-        "link": "https://www.heraldscotland.com/news/26664073.heriot-watt-scientists-develop-photonic-chip-astronomy/",
-        "description": "A glass chip developed at Heriot-Watt University has been used in observations at California\u2019s CHARA Array, combining light from multiple telescopes to study fainter stars.",
-        "published": "Mon, 26 Oct 2026 00:05:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21622461/?type=app&htype=0"
-      },
-      {
-        "id": "e0b9d3a92498c4185600e92e4d6eecee",
-        "title": "A78 closed for repair after Storm Boelo causes significant damage",
-        "link": "https://www.heraldscotland.com/news/26668619.a78-closed-storm-boelo-causes-significant-damage/",
-        "description": "The A78 road is to remain closed in both directions between Skelmorlie and Largs following significant damage to the carriageway and sea wall during Storm Boelo.",
-        "published": "Sun, 25 Oct 2026 22:24:11 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21629103/?type=app&htype=0"
-      },
-      {
-        "id": "d892564f983b39494657f867a2480407",
-        "title": "Storm Chloe poised to hit Scotland as fresh wind warning issued days after Boelo",
-        "link": "https://www.heraldscotland.com/news/26668451.storm-chloe-scotland-faces-new-wind-warning-storm-boelo/",
-        "description": "Scotland faces the prospect of a second named storm in days, with forecasters warning that Storm Chloe could bring damaging winds and fresh travel disruption across large parts of the country next week.",
-        "published": "Sun, 25 Oct 2026 17:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21628837/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/new-figures-show-two-young-34814607",
-        "title": "New figures show two young Scots dying every month in 'broken' care system",
-        "link": "https://www.glasgowlive.co.uk/news/new-figures-show-two-young-34814607",
-        "description": "Heartbreaking Scottish Centre for Crime and Justice Research figures show 22 looked-after children and young people died in Scotland in 2025",
-        "published": "Sun, 25 Oct 2026 16:26:56 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34815342.ece/ALTERNATES/s98/0_Screenshot-2026-10-25-162731.png"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
