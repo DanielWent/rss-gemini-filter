@@ -3021,6 +3021,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-city-council-staff-urged-34822103",
+        "title": "Glasgow City Council staff urged to reject 'not good enough' pay deal",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-city-council-staff-urged-34822103",
+        "description": "Unison says the proposed package &quot;does not go far enough&quot;.",
+        "published": "Tue, 27 Oct 2026 08:54:19 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article32899655.ece/ALTERNATES/s98/0_City-Chambers.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-whose-daughter-died-34821905",
         "title": "Glasgow mum whose daughter died in asthma attack feared she'd go the same way",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-whose-daughter-died-34821905",
@@ -3811,14 +3819,6 @@
         "description": "&quot;It's great to see the community, and it's helped make a little Ukraine here - it's like a little heart.&quot;",
         "published": "Sun, 25 Oct 2026 10:24:48 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34809803.ece/ALTERNATES/s98/1_14887a59-63e9-4866-ac65-c05837b79df2jfif.jpg"
-      },
-      {
-        "id": "f0f5472c4e2c8467dc06ca49f206bbfb",
-        "title": "The future of Princes Street Gardens hangs in the balance. Can these Friends save it?",
-        "link": "https://www.heraldscotland.com/life_style/26666423.easy-wins-change-fate-princes-street-gardens/",
-        "description": "Princes Street Gardens has been in a sort of stasis for years, following an unceremonious end to the glitzy \u00a325m regeneration plan amid a global pandemic.",
-        "published": "Sun, 25 Oct 2026 08:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21625836/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
