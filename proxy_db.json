@@ -3021,6 +3021,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "c33cec58731f6e30ca317f4f00144f27",
+        "title": "Nationwide job cuts highlight a much bigger squeeze on white-collar careers",
+        "link": "https://www.heraldscotland.com/news/26670454.nationwide-job-cuts-highlight-white-collar-jobs-squeeze/",
+        "description": "Nationwide's latest job cuts are not blamed on AI, but they come as technology transforms entry-level work and reshapes the traditional career ladder",
+        "published": "Tue, 27 Oct 2026 04:30:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/16742196/?type=app&htype=0"
+      },
+      {
         "id": "5eafa8781b467abfd4a49703272122aa",
         "title": "Glasgow cafe owner painted by artist who portrayed King Charles III",
         "link": "https://www.heraldscotland.com/news/26663851.glasgow-cafe-owner-painted-royal-portrait-artist/",
@@ -3811,14 +3819,6 @@
         "description": "A Glasgow thug who brandished an axe during a family feud, terrifying an 11-year-old boy, has been jailed for three years after admitting a string of offences.",
         "published": "Sun, 25 Oct 2026 06:00:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21612830/?type=app&htype=0"
-      },
-      {
-        "id": "f26a16ed3009feed0e3c4e8023541b1a",
-        "title": "Glasgow energy firm launches major recruitment drive for skilled workers",
-        "link": "https://www.glasgowtimes.co.uk/news/26663490.glasgow-energy-firm-launched-major-recruitment-drive/",
-        "description": "An energy firm has launched a major recruitment drive to expand its workforce and support Scotland\u2019s growing green economy.",
-        "published": "Sun, 25 Oct 2026 06:00:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21621526/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
