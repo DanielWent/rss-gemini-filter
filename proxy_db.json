@@ -3045,6 +3045,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/lindt-unveils-new-chocolate-boutique-34825485",
+        "title": "Lindt unveils new chocolate boutique in Glasgow city centre prime spot",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/lindt-unveils-new-chocolate-boutique-34825485",
+        "description": "The new 2,152 sq ft store is set to be a hit with chocolate lovers.",
+        "published": "Tue, 27 Oct 2026 17:02:17 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34825823.ece/ALTERNATES/s98/0_lOYNrHzAjpeg.jpg"
+      },
+      {
+        "id": "2ad5ade672bc56358bcec00c0583004c",
+        "title": "Third independence referendum should follow any Yes vote, says leading historian",
+        "link": "https://www.heraldscotland.com/news/26674483.historian-calls-third-scottish-independence-referendum/",
+        "description": "Colin Kidd, Professor of Modern History at St Andrews, argues Brexit shows voters deserve a second chance to judge the final deal \u2014 and proposes a binding third vote a decade after any Scottish independence, warning markets would force harsh economic choices on a new state.",
+        "published": "Tue, 27 Oct 2026 17:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21356776/?type=app&htype=0"
+      },
+      {
+        "id": "b6e76f9e447acbb8e71eff256627133a",
+        "title": "Scottish nursery tech firm raises \u00a3550,000 to take its next big step",
+        "link": "https://www.heraldscotland.com/news/26673176.scottish-nursery-technology-firm-nuuri-raises-550-000/",
+        "description": "Scottish childcare technology firm Nuuri has raised \u00a3550,000 to expand its nursery software and develop a new consumer app for parents",
+        "published": "Tue, 27 Oct 2026 17:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21635708/?type=app&htype=0"
+      },
+      {
+        "id": "b4bae8ce7f4da3c883cbb9007e80711d",
+        "title": "Flood-hit golf club faces fight to save its course after Storm Boelo",
+        "link": "https://www.glasgowtimes.co.uk/news/weather/26675403.storm-boelo-leaves-dumbarton-golf-club-submerged-days/",
+        "description": "Storm Boelo flooding has left Dumbarton Golf Club submerged, with members facing a costly battle to save the course.",
+        "published": "Tue, 27 Oct 2026 16:53:36 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21637610/?type=app&htype=0"
+      },
+      {
         "id": "a5e6a2c6d1d26e13ac7e54705322c042",
         "title": "Reform UK reshuffles Holyrood front bench after MSP quits",
         "link": "https://www.heraldscotland.com/news/26675286.reform-uk-reshuffles-holyrood-team-msp-quits/",
@@ -3275,14 +3307,6 @@
         "description": "A man who\u00a0handed a 13-year-old boy a flare during an Old Firm game failed today to have his football ban repealed.",
         "published": "Tue, 27 Oct 2026 13:39:42 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/14465588/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cr1ex9911121o#0",
-        "title": "'Missing man' left \u00a312k worth of ketamine in hotel's storage room",
-        "link": "https://www.bbc.co.uk/news/articles/cr1ex9911121o?at_medium=RSS&at_campaign=rss",
-        "description": "Michael Redmond handed over the holdall full of ketamine at a Glasgow hotel in April 2025.",
-        "published": "Tue, 27 Oct 2026 13:35:16 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ad4/live/f43bd810-d208-11f1-b3b6-c1e79e957e40.jpg"
       },
       {
         "id": "https://news.stv.tv/?p=535270",
@@ -3819,30 +3843,6 @@
         "description": "The Lightning Seeds have announced a Glasgow show on their upcoming greatest hits tour.",
         "published": "Mon, 26 Oct 2026 15:25:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19364148/?type=app&htype=0"
-      },
-      {
-        "id": "85fcefa4b60d5fc34d0c9274376a5263",
-        "title": "This comedy icon is heading to Glasgow in 2027",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26671107.ricky-gervais-fans-rush-tickets-glasgow-show-announced/",
-        "description": "Ricky Gervais is bringing his latest stand-up tour to Glasgow.",
-        "published": "Mon, 26 Oct 2026 15:22:14 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19112145/?type=app&htype=0"
-      },
-      {
-        "id": "abbdf3e32351f50d9e2f87801e147093",
-        "title": "Scottish music retailer celebrates 30 years as sales set to reach \u00a33.5m",
-        "link": "https://www.glasgowtimes.co.uk/news/26671059.scottish-hi-fi-retailer-eyes-3-5m-amid-vinyl-reviva/",
-        "description": "Loud &amp; Clear, which has stores in Glasgow and Edinburgh, is celebrating 30 years in business with turnover expected to reach \u00a33.5 million this year.",
-        "published": "Mon, 26 Oct 2026 15:14:55 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21632401/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/east-kilbride-grandfather-caught-26000-34819417",
-        "title": "East Kilbride grandfather caught with 26,000 child abuse images told shocked wife 'I'm diseased'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/east-kilbride-grandfather-caught-26000-34819417",
-        "description": "James Hall, 79, was put on the sex offenders' register at Hamilton Sheriff Court on Friday.",
-        "published": "Mon, 26 Oct 2026 15:13:42 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34519758.ece/ALTERNATES/s98/0_dmp_ham_090421court_005JPG.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
