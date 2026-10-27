@@ -3045,6 +3045,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "f46b3f7b1dc42f648c4fdb6d916098fc",
+        "title": "FIRST LOOK inside Scotland's new Chick-fil-A as American fast food giant set to open",
+        "link": "https://www.glasgowtimes.co.uk/news/26675719.first-look-inside-new-chick-fil-a-hamilton-ahead-opening/",
+        "description": "Take a first look inside the new Chick-fil-A at Hamilton Palace Grounds, featuring diner-style booths, special local touches and signature branding.",
+        "published": "Tue, 27 Oct 2026 18:22:06 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21639066/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/paedophile-who-plotted-abuse-boy-34826308",
         "title": "Paedophile who plotted to abuse boy near Loch Lomond jailed over 'horrific abuse'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/paedophile-who-plotted-abuse-boy-34826308",
@@ -3059,6 +3067,14 @@
         "description": "<p>Hostile reception is expected as Rangers boss returns to Tynecastle for the first time since leaving for Ibrox in June</p>",
         "published": "Tue, 27 Oct 2026 18:00:25 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/27/17/13/GettyImages-2237721474-(1).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "3c962722fc1aa3143f7c077028689cc8",
+        "title": "Sandie Peggie legal team seeks NHS Fife emails as 'highly relevant' to tribunal claim",
+        "link": "https://www.heraldscotland.com/news/26675651.peggie-lawyers-seek-nhs-fife-emails-released-herald/",
+        "description": "Internal emails released to The Herald show NHS Fife's chief executive personally rewrote a tribunal statement her own lawyer had doubts about. Now Sandie Peggie's legal team wants those documents and says they support her unlawful victimisation claim.",
+        "published": "Tue, 27 Oct 2026 17:46:12 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20298260/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/lindt-unveils-new-chocolate-boutique-34825485",
@@ -3827,22 +3843,6 @@
         "description": "South Lanarkshire Council is consulting on plans to sell the site of the demolished former Vogue Bingo Hall in Hamilton for development.",
         "published": "Mon, 26 Oct 2026 15:31:53 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21632568/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=535108",
-        "title": "Woman dead and three in hospital after crash closes East Renfrewshire road for nine hours",
-        "link": "https://news.stv.tv/west-central/woman-dead-and-three-in-hospital-after-crash-closes-east-renfrewshire-road-for-nine-hours",
-        "description": "A woman was pronounced dead at the scene while two other passengers and the driver were taken to hospital",
-        "published": "Mon, 26 Oct 2026 15:31:42 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/01/235f6d6135a9d1cc759d20ab2678e146-1767794483-995x720.jpeg"
-      },
-      {
-        "id": "9c1151f784346689b74cb155db57db35",
-        "title": "Burns scholar to challenge myths behind Scottish identity at major conference",
-        "link": "https://www.heraldscotland.com/news/26671145.burns-scholar-challenge-myths-scottish-identity/",
-        "description": "University of Glasgow Burns scholar Gerard Carruthers will challenge Scottish identity myths at a Glasgow conference marking MacDiarmid\u2019s poem centenary.",
-        "published": "Mon, 26 Oct 2026 15:27:24 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/17169233/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
