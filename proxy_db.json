@@ -2146,6 +2146,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "8fb7d532a829d8cb73e097b95b18959f",
+        "title": "Yellow wind warning sweeps area as busy road outside Glasgow closes over damaged tree",
+        "link": "https://www.glasgowtimes.co.uk/news/26674217.yellow-wind-warning-hits-busy-road-outside-glasgow-closes-tree/",
+        "description": "A busy road between Glasgow and Bearsden has been temporarily closed after high winds damaged a tree.",
+        "published": "Tue, 27 Oct 2026 13:48:24 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21636846/?type=app&htype=15"
+      },
+      {
         "id": "f9cdc75c7bc36202e7127fc71beaf9a0",
         "title": "Nine buildings at former private school could be demolished after fire and break-ins",
         "link": "https://www.glasgowtimes.co.uk/news/26673401.fernhill-school-rutherglen-plans-demolish-nine-buildings/",
@@ -2936,14 +2944,6 @@
         "description": "Free National 5 maths courses are being offered to adults at community centres across East Dunbartonshire this autumn.",
         "published": "Sat, 22 Aug 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21334201/?type=app&htype=0"
-      },
-      {
-        "id": "6f4ce064e614f8486c977220120c6109",
-        "title": "East Dunbartonshire care home rated 'very good' after unannounced inspection",
-        "link": "https://www.glasgowtimes.co.uk/news/26485592.bearsden-care-home-received-good-inpsection-rating/",
-        "description": "Boclair Care Home in Bearsden received a grade of five following an unannounced inspection.",
-        "published": "Sat, 22 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21355798/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3045,12 +3045,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8fb7d532a829d8cb73e097b95b18959f",
+        "title": "Yellow wind warning sweeps area as busy road outside Glasgow closes over damaged tree",
+        "link": "https://www.glasgowtimes.co.uk/news/26674217.yellow-wind-warning-hits-busy-road-outside-glasgow-closes-tree/",
+        "description": "A busy road between Glasgow and Bearsden has been temporarily closed after high winds damaged a tree.",
+        "published": "Tue, 27 Oct 2026 13:48:24 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21636846/?type=app&htype=15"
+      },
+      {
+        "id": "f7f3e0a276129dab8631885ae4177f47",
+        "title": "Fan who handed lit flare to boy, 13, during Old Firm LOSES bid to end football ban",
+        "link": "https://www.glasgowtimes.co.uk/news/26674158.old-firm-fan-handed-boy-13-lit-flare-loses-football-ban-bid/",
+        "description": "A man who\u00a0handed a 13-year-old boy a flare during an Old Firm game failed today to have his football ban repealed.",
+        "published": "Tue, 27 Oct 2026 13:39:42 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/14465588/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=535270",
         "title": "Lifeboat crew battle gale-force winds and rough seas to rescue island patient during Storm Boelo",
         "link": "https://news.stv.tv/west-central/lifeboat-crew-battle-gale-force-winds-and-rough-seas-to-rescue-island-patient-during-storm-boelo",
         "description": "Troon lifeboat was tasked with helping transport a medical team to the Isle of Cumbrae during Storm Boelo",
         "published": "Tue, 27 Oct 2026 13:24:39 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/0427b15c4d0beb3c37a7999bdd2ebdc4-1793105395-1280x720.jpeg"
+      },
+      {
+        "id": "6e34151c42b17321442d6fa9c30c2027",
+        "title": "Glasgow drivers face weeks of overnight disruption as M8 motorway closures begin",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26674059.m8-overnight-closures-planned-drainage-survey-work/",
+        "description": "M8 Kingston Bridge drainage surveys begin October 25, bringing overnight closures, M8 westbound J17 slip road restrictions and diversions near Glasgow.",
+        "published": "Tue, 27 Oct 2026 13:19:27 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19783586/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-highest-alcohol-deaths-scotland-34823467",
@@ -3219,14 +3243,6 @@
         "description": "Thenue Housing has introduced new measures to support tenants experiencing domestic abuse.",
         "published": "Tue, 27 Oct 2026 10:50:08 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21548595/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=535241",
-        "title": "Man who handed boy lit flare during Old Firm fails to overturn football ban",
-        "link": "https://news.stv.tv/west-central/man-who-handed-boy-lit-flare-during-old-firm-fails-to-overturn-football-ban",
-        "description": "Jamie McPherson was handed a two-year football banning order after lighting two flares at Celtic Park",
-        "published": "Tue, 27 Oct 2026 10:39:28 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2025/11/78a3a4438bcbada3e5d36dbec6ece6bf-1763723453-1115x720.jpg"
       },
       {
         "id": "b18cc80ea05546758d9f81b8f8336203",
@@ -3827,22 +3843,6 @@
         "description": "Defence Secretary Wes Streeting has challenged firms building Royal Navy ships to hire British workers, after Babcock flew in 300 welders from the Philippines \u2014 as Scotland's defence sector faces a shortfall of nearly 9,000 apprenticeships.",
         "published": "Mon, 26 Oct 2026 05:00:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/20587067/?type=app&htype=0"
-      },
-      {
-        "id": "b5390abbd905068298d77183456424b7",
-        "title": "Scotland NHS shake-up risks worsening pressure on doctors, ministers warned",
-        "link": "https://www.heraldscotland.com/news/26667566.doctors-warn-scotland-nhs-reforms-harm-patient-care/",
-        "description": "Scotland\u2019s NHS reforms risk putting more pressure on doctors and patient care, experts warn, as John Swinney plans to cut health boards from 14 to two.",
-        "published": "Mon, 26 Oct 2026 05:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21498107/?type=app&htype=0"
-      },
-      {
-        "id": "096d2261201aafea0c2e8ea61437a542",
-        "title": "Police Scotland could lose 1,260 officers and staff in \u2018devastating\u2019 budget squeeze",
-        "link": "https://www.heraldscotland.com/news/26668511.police-scotland-faces-devastating-cuts-msps-warned/",
-        "description": "The Scottish Police Authority warns that a flat cash settlement would leave officer numbers at their lowest since 2003, as Police Scotland asks for an extra \u00a3110m to tackle rising domestic abuse, foreign state threats and a surge in mental health demand.",
-        "published": "Mon, 26 Oct 2026 05:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/16009652/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
