@@ -2146,6 +2146,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "d8f1bfb753db99aed5f3aded73f74ebb",
+        "title": "East Dunbartonshire Council seeks public views on spending amid \u00a37m budget gap",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26675041.east-dunbartonshire-residents-asked-views-budget/",
+        "description": "East Dunbartonshire Council seeks residents\u2019 and businesses\u2019 views on spending priorities for its 2027/2028 budget.",
+        "published": "Tue, 27 Oct 2026 15:59:42 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19828210/?type=app&htype=0"
+      },
+      {
         "id": "8fb7d532a829d8cb73e097b95b18959f",
         "title": "Yellow wind warning sweeps area as busy road outside Glasgow closes over damaged tree",
         "link": "https://www.glasgowtimes.co.uk/news/26674217.yellow-wind-warning-hits-busy-road-outside-glasgow-closes-tree/",
@@ -2936,14 +2944,6 @@
         "description": "Glasgow researchers found virtual robot warnings helped distracted drivers identify road hazards as accurately as those watching the road.",
         "published": "Sun, 23 Aug 2026 16:28:43 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21360050/?type=app&htype=0"
-      },
-      {
-        "id": "6769aef826f2d868233d36b721b9d1b3",
-        "title": "Free National 5 maths courses offered to adults across East Dunbartonshire",
-        "link": "https://www.glasgowtimes.co.uk/news/26473489.free-national-5-maths-courses-offered-east-dunbartonshire/",
-        "description": "Free National 5 maths courses are being offered to adults at community centres across East Dunbartonshire this autumn.",
-        "published": "Sat, 22 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21334201/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3045,6 +3045,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9307462",
+        "title": "VIDEO CHAT: Squeeze and Billy Bragg head this way with hits, memories and musical magic - get your tickets here",
+        "link": "https://www.glasgowworld.com/sponsored/video-chat-squeeze-and-billy-bragg-head-this-way-with-hits-memories-and-musical-magic-get-your-tickets-here-9308255",
+        "description": "<p>Squeeze legends Chris Difford and Glenn Tilbrook talk to Billy Bragg about teaming up for a blockbuster UK tour coming our way writes Graham Walker.</p>",
+        "published": "Tue, 27 Oct 2026 16:20:56 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/25/14/38/Squeeze-stars-Chris-Difford-and-Glenn-Tilbrook-join-Billy-Bragg-for-a-special-video-chat-ahead-of-th.jpeg?width=1200&auto=webp&trim=0%2C150%2C0%2C150"
+      },
+      {
+        "id": "d8f1bfb753db99aed5f3aded73f74ebb",
+        "title": "East Dunbartonshire Council seeks public views on spending amid \u00a37m budget gap",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26675041.east-dunbartonshire-residents-asked-views-budget/",
+        "description": "East Dunbartonshire Council seeks residents\u2019 and businesses\u2019 views on spending priorities for its 2027/2028 budget.",
+        "published": "Tue, 27 Oct 2026 15:59:42 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19828210/?type=app&htype=0"
+      },
+      {
+        "id": "e75fd25d6f9286b952e7cd4556e4ef01",
+        "title": "New play caf\u00e9 and family events venue opens near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26674975.new-family-venue-offers-soft-play-parties-outside-glasgow/",
+        "description": "A new play caf\u00e9 and private events venue has opened its doors in Kirkintilloch, offering a fresh space for families.",
+        "published": "Tue, 27 Oct 2026 15:51:51 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21638036/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo#0",
         "title": "Scotland's recycling rates at five-year low. How is your area doing?",
         "link": "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo?at_medium=RSS&at_campaign=rss",
@@ -3075,6 +3099,14 @@
         "description": "Disclosure Scotland warns online tutors, mentors and supervisors in Scotland may break the law: no online exemption from PVG checks for work with children.",
         "published": "Tue, 27 Oct 2026 15:18:35 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20395261/?type=app&htype=213"
+      },
+      {
+        "id": "c0159b3f8b2a0ac08b5e8bf4a7889a21",
+        "title": "Historic golf club submerged after Storm Boelo as damage 'difficult to imagine'",
+        "link": "https://www.heraldscotland.com/news/26674668.dumbarton-golf-club-submerged-storm-boelo-flooding/",
+        "description": "Storm Boelo flooding submerged Dumbarton Golf Club, with major course damage feared as pumps are sought and operating hours reduced after embankment collapse.",
+        "published": "Tue, 27 Oct 2026 15:17:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21637607/?type=app&htype=0"
       },
       {
         "id": "917aac57c5e1ef0e30853b9cfe59b051",
@@ -3109,6 +3141,14 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article32899655.ece/ALTERNATES/s98/0_City-Chambers.jpg"
       },
       {
+        "id": "437d55239cf9fd09c27445316f11c27d",
+        "title": "New Glasgow-shot film lands star-studded cast",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26674640.james-mcavoy-stars-new-sci-fi-comedy-filming-glasgow/",
+        "description": "James McAvoy is starring in a new sci-fi comedy currently filming in Glasgow.",
+        "published": "Tue, 27 Oct 2026 15:01:45 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20745770/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=535314",
         "title": "Kayak instructor flew into a rage after finding Loch Lomond toilet occupied",
         "link": "https://news.stv.tv/west-central/kayak-instructor-flew-into-a-rage-after-finding-loch-lomond-toilet-occupied",
@@ -3117,12 +3157,28 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/0681a917b131a54931b64a50ce5127e0-1793109250-1120x720.jpg"
       },
       {
+        "id": "8aa77451ff8d9e86e0df9f4a9f8b8db9",
+        "title": "M\u00e0iri McAllan: Treatment of traditional music is an 'anomaly' in Scottish culture",
+        "link": "https://www.heraldscotland.com/news/26674562.m-iri-mcallan-trad-music-treatment-scottish-culture-anomaly/",
+        "description": "Culture secretary M\u00e0iri McAllan says a new national company dedicated to traditional music is needed to address a 'considerable anomaly' in the arts in Scotland.",
+        "published": "Tue, 27 Oct 2026 14:48:09 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21542511/?type=app&htype=0"
+      },
+      {
         "id": "d2404fbf135280c2f7107c2239f85935",
         "title": "'The council failed us by not deploying flood barriers - we're picking up the pieces'",
         "link": "https://www.glasgowtimes.co.uk/news/weather/26674543.renfrew-businesses-say-council-failed-flood-barriers-not-used/",
         "description": "Renfrew business owners who are picking up the pieces after their premises were submerged during Storm Boelo say the council \"failed them\" after multi-million pound flood prevention barriers were not raised",
         "published": "Tue, 27 Oct 2026 14:43:50 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21637001/?type=app&htype=0"
+      },
+      {
+        "id": "199240ed10c78bd0acea03f413275191",
+        "title": "Sheriff identifies safety lessons following adventure water activity deaths",
+        "link": "https://www.heraldscotland.com/news/26674519.sheriff-makes-safety-recommendations-water-deaths-inquiry/",
+        "description": "A sheriff has made recommendations aimed at improving safety for water adventure activities following an inquiry into the deaths of a 12-year-old boy and a man in incidents five years apart.",
+        "published": "Tue, 27 Oct 2026 14:40:56 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/10215204/?type=app&htype=0"
       },
       {
         "id": "5074ffd4c8b216e48cb90aa3ba7e54fa",
@@ -3787,62 +3843,6 @@
         "description": "Wet Wet Wet star Marti Pellow is heading to Glasgow's OVO Hydro as part of his newly announced No Marti No Party UK tour in 2027.",
         "published": "Mon, 26 Oct 2026 13:22:42 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21631607/?type=app&htype=0"
-      },
-      {
-        "id": "5c93c8e4a506852561e6d01ea19d3bb5",
-        "title": "Edinburgh Airport workers celebrate as union secures pay rise and \u00a3230 bonus",
-        "link": "https://www.heraldscotland.com/news/26670069.edinburgh-airport-workers-secure-inflation-beating-pay-rise/",
-        "description": "EASL workers at the airport are involved in a number of roles, including customer services, baggage handling, and drivers.",
-        "published": "Mon, 26 Oct 2026 12:40:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21175998/?type=app&htype=0"
-      },
-      {
-        "id": "d64dfd7ce51c51f16e2cacd3a67e80c3",
-        "title": "Plans to breathe new life into vacant former hotel near Glasgow revealed",
-        "link": "https://www.glasgowtimes.co.uk/news/26669967.plans-revealed-transform-former-bishopbriggs-hotel-nine-flats/",
-        "description": "Plans have been lodged to transform the former Lion Hotel in Bishopbriggs into nine flats, with new dormer windows, parking and landscaping proposed.",
-        "published": "Mon, 26 Oct 2026 12:10:54 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21560284/?type=app&htype=240"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/uk-drivers-could-soon-beat-34817733",
-        "title": "UK drivers could soon beat 'unfair' private parking fines - everything you need to know",
-        "link": "https://www.glasgowlive.co.uk/news/uk-drivers-could-soon-beat-34817733",
-        "description": "How many of us have been caught out by this? Andy Burnham is fighting private parking firms from fining drivers over innocent slip-ups.",
-        "published": "Mon, 26 Oct 2026 12:10:22 +0000",
-        "image_url": "https://i2-prod.chroniclelive.co.uk/incoming/article34357111.ece/ALTERNATES/s98/0_GettyImages-121285690.jpg"
-      },
-      {
-        "id": "ab3339918366e42dd64db8837ea7aa99",
-        "title": "'Completely dismayed': Anger as council says footbridge may not reopen until 2028",
-        "link": "https://www.heraldscotland.com/news/26669834.calls-urgent-action-edinburgh-bridge-may-not-reopen-2028/",
-        "description": "The council has been urged to take urgent action to repair or replace St Mark\u2019s Footbridge, which closed in June 2026 after cracks were identified.",
-        "published": "Mon, 26 Oct 2026 12:03:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21630692/?type=app&htype=0"
-      },
-      {
-        "id": "748d4433b81daf33bd51917e563e3dba",
-        "title": "CalMac admits ageing fleet woes as it pledges to improve lifeline ferry reliability",
-        "link": "https://www.heraldscotland.com/news/26669810.calmac-lifeline-ferry-reliability-pledge-amid-ageing-fleet-problems/",
-        "description": "State-owned CalMac has pledged to improve ferry reliability as its parent company reports continuing problems with ageing vessels, technical faults and repairs.",
-        "published": "Mon, 26 Oct 2026 11:45:46 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/17569602/?type=app&htype=0"
-      },
-      {
-        "id": "5062234",
-        "title": "Glasgow bakeries: 12 top spots for sourdough, doughnuts and more right now",
-        "link": "https://www.glasgowworld.com/best-in/12-top-spots-for-sourdough-doughnuts-and-more-9309332",
-        "description": "<p>Glasgow's bakeries are helping the city establish itself as a leader in the baking world, with 12 exceptional establishments offering unique takes on the craft.</p>",
-        "published": "Mon, 26 Oct 2026 11:25:49 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/01/08/12/57/476344860_1761028557800458_698244296638223724_n.jpeg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "edbd6eb1234cc7d93c8471797a7f4a4f",
-        "title": "Plans for 60-bed care home at former car dealership refused",
-        "link": "https://www.glasgowtimes.co.uk/news/26669628.milngavie-60-bed-care-home-plans-refused-council/",
-        "description": "Plans for a 60-bed care home at the former Arnold Clark site in Milngavie have been refused by East Dunbartonshire Council.",
-        "published": "Mon, 26 Oct 2026 11:21:33 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21630417/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
