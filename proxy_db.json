@@ -3021,6 +3021,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "e22e9d1b8b7bd697d9a965c5e2e4f816",
+        "title": "Number of alcohol-related deaths in Glasgow revealed as hundreds lose their lives",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26672842.glasgow-records-155-alcohol-specific-deaths-2025/",
+        "description": "Glasgow recorded 155 alcohol-specific deaths in 2025, while Scotland\u2019s rate remains among the UK\u2019s highest, with deprivation driving a stark health gap.",
+        "published": "Tue, 27 Oct 2026 10:03:49 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20465642/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=535214",
         "title": "Person \u2018swept out to sea\u2019 during strong winds in Largs as major search ongoing",
         "link": "https://news.stv.tv/west-central/person-swept-out-to-sea-during-strong-winds-in-largs-as-major-search-ongoing",
@@ -3811,14 +3819,6 @@
         "description": "\u201cWe don\u2019t want Glasgow pretending to be London or New York or somewhere else. The city is part of the film.&quot;",
         "published": "Sun, 25 Oct 2026 10:28:58 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34812550.ece/ALTERNATES/s98/2_film.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/inside-mini-heart-ukraine-glasgow-34807299",
-        "title": "Inside the mini heart of Ukraine at Glasgow school teaching young refugees their history and culture",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/inside-mini-heart-ukraine-glasgow-34807299",
-        "description": "&quot;It's great to see the community, and it's helped make a little Ukraine here - it's like a little heart.&quot;",
-        "published": "Sun, 25 Oct 2026 10:24:48 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34809803.ece/ALTERNATES/s98/1_14887a59-63e9-4866-ac65-c05837b79df2jfif.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
