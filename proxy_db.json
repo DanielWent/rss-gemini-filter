@@ -3021,6 +3021,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "7aa8a211791679c56c595498eecd5f86",
+        "title": "LIVE updates as several busy Glasgow train lines AXED all day amid 'severe weather'",
+        "link": "https://www.glasgowtimes.co.uk/news/26672238.live-updates-glasgow-train-lines-cancelled-due-severe-weather/",
+        "description": "Train lines at both Glasgow Central and Glasgow Queen Street are being impacted today due to 'severe weather'.",
+        "published": "Tue, 27 Oct 2026 07:04:52 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21173123/?type=app&htype=0"
+      },
+      {
+        "id": "5f2a933d9cd720b1e2614fd1ed878a1d",
+        "title": "Fire crews and ambulance rush to scene of building fire at Glasgow shopping centre",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26672233.four-fire-appliances-attend-springburn-building-fire/",
+        "description": "Fire crews tackle building fire on Atlas Way in Springburn, Glasgow, as Scottish Fire and Rescue Service sends four appliances and a high-reach unit on scene.",
+        "published": "Tue, 27 Oct 2026 06:50:03 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19679258/?type=app&htype=0"
+      },
+      {
+        "id": "fd324265ae5c099894ec4005b5aba01b",
+        "title": "\u2018Climate of fear\u2019 warning as Scots councillor fights freedom of speech ruling",
+        "link": "https://www.heraldscotland.com/news/26671838.jennifer-stewart-freedom-speech-fight-councillor-suspension/",
+        "description": "Aberdeen councillor Jennifer Stewart says her freedom of speech was restricted after a Standards Commission for Scotland hearing led to a four-month suspension.",
+        "published": "Tue, 27 Oct 2026 06:31:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21633834/?type=app&htype=0"
+      },
+      {
+        "id": "c700be469009fb929f8b83b55adf1dce",
+        "title": "Scotland's tourism agency axes a third of staff as income plunges by \u00a37.7m",
+        "link": "https://www.heraldscotland.com/news/26671526.visitscotland-cuts-workforce-third-funding-falls-7-7m/",
+        "description": "VisitScotland has cut its workforce by a third as total income falls \u00a37.7m. The tourism agency warns further funding cuts could threaten future plans.",
+        "published": "Tue, 27 Oct 2026 06:29:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/16191532/?type=app&htype=0"
+      },
+      {
         "id": "2297d9f06886edc2aeab1ac22a0c02b9",
         "title": "Glasgow foodbank warns demand 'will only get bigger' amid supermarket boycott",
         "link": "https://www.glasgowtimes.co.uk/news/26669707.glasgow-foodbank-sees-14-rise-demand-amid-supermarket-boycott/",
@@ -3787,22 +3819,6 @@
         "description": "Discover Hamilton Mausoleum near Strathclyde Loch, home to a 15-second echo, plus ghostly Cadzow Castle and autumn walks in South Lanarkshire.",
         "published": "Sun, 25 Oct 2026 06:00:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21617354/?type=app&htype=0"
-      },
-      {
-        "id": "881e635faec9f41fce996f5a1fa04496",
-        "title": "YouTuber visits 50 Glasgow landmarks in four hours in epic cycling challenge",
-        "link": "https://www.glasgowtimes.co.uk/news/26665451.glasgow-youtuber-visits-50-city-landmarks-cycling-challenge/",
-        "description": "Glasgow YouTuber Stuart Osborne cycled to 50 landmarks in one day using the city\u2019s bike lanes, from the Clyde to the West End, in a cycling challenge.",
-        "published": "Sun, 25 Oct 2026 06:00:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21624605/?type=app&htype=0"
-      },
-      {
-        "id": "5ef8b9d9f8bcc5e41c58582423fd7637",
-        "title": "11-year-old boy forced to swerve from axe thug during Glasgow family feud",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26657500.glasgow-axe-thug-colin-campbell-terrified-castlemilk-boy-jailed/",
-        "description": "A Glasgow thug who brandished an axe during a family feud, terrifying an 11-year-old boy, has been jailed for three years after admitting a string of offences.",
-        "published": "Sun, 25 Oct 2026 06:00:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21612830/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
