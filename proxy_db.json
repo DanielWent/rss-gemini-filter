@@ -3021,6 +3021,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "ebba2b9f8214c531296130d3db82fb89",
+        "title": "Glasgow flight to Spain declares emergency minutes after take-off and diverts",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26672309.glasgow-ryanair-flight-diverts-newcastle-emergency/",
+        "description": "Ryanair flight FR2522 from Glasgow to Alicante diverted to Newcastle after declaring an emergency shortly after take-off on October 26. Cause unknown.",
+        "published": "Tue, 27 Oct 2026 08:01:07 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19280860/?type=app&htype=0"
+      },
+      {
+        "id": "https://runabc.co.uk/west-lothian-shale-trail-2026-offers-four-ways-to-tackle-historic-route",
+        "title": "West Lothian Shale Trail 2026 Offers Four Ways To Tackle Historic Route",
+        "link": "https://runabc.co.uk/west-lothian-shale-trail-2026-offers-four-ways-to-tackle-historic-route",
+        "description": "<p><img alt=\"West Lothian Shale Trail 2026\" src=\"https://runabc.co.uk/images/2026/10/west-lothian-shale-trail-2026-v2.jpg\" /></p>\n\t\t\t\t<p>West Lothian Shale Trail takes place on 6 December, with four running challenges following a route through the region's industrial heritage, from a 9K introduction to a 50K ultra...</p>",
+        "published": "Tue, 27 Oct 2026 07:55:00 +0000",
+        "image_url": "https://runabc.co.uk/images/2026/10/west-lothian-shale-trail-2026-v2.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-call-extra-cash-strengthen-34820238",
         "title": "Glasgow call for extra cash to 'strengthen policing' by recruiting more officers",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-call-extra-cash-strengthen-34820238",
@@ -3469,14 +3485,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/17569602/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-footage-shows-dramatic-chase-34817227",
-        "title": "Police footage shows dramatic chase through Glasgow as four men charged",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-footage-shows-dramatic-chase-34817227",
-        "description": "Four men were eventually arrested by police.",
-        "published": "Mon, 26 Oct 2026 11:39:12 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34817620.ece/ALTERNATES/s98/0_Screenshot-2026-10-26-112512.png"
-      },
-      {
         "id": "5062234",
         "title": "Glasgow bakeries: 12 top spots for sourdough, doughnuts and more right now",
         "link": "https://www.glasgowworld.com/best-in/12-top-spots-for-sourdough-doughnuts-and-more-9309332",
@@ -3811,14 +3819,6 @@
         "description": "Princes Street Gardens has been in a sort of stasis for years, following an unceremonious end to the glitzy \u00a325m regeneration plan amid a global pandemic.",
         "published": "Sun, 25 Oct 2026 08:00:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21625836/?type=app&htype=0"
-      },
-      {
-        "id": "e7ef88c9bb9c29392cb8c1653ac05593",
-        "title": "Live in a tenement? Then these are the warning signs you need to know",
-        "link": "https://www.heraldscotland.com/news/26664826.tenement-maintenance-warning-signs-every-scots-owner-know/",
-        "description": "Scotland\u2019s tenement owners urged to inspect gutters, roofs and stonework, tackle damp and plants, and plan shared repairs to protect ageing homes nationwide.",
-        "published": "Sun, 25 Oct 2026 07:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/19699235/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
