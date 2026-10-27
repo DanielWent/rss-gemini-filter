@@ -3021,6 +3021,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "5eafa8781b467abfd4a49703272122aa",
+        "title": "Glasgow cafe owner painted by artist who portrayed King Charles III",
+        "link": "https://www.heraldscotland.com/news/26663851.glasgow-cafe-owner-painted-royal-portrait-artist/",
+        "description": "Glasgow\u2019s University Cafe owner Gino Verrecchia is honoured in a Gareth Reid portrait for Coca-Cola\u2019s Local Royalty exhibition at London\u2019s Saatchi Gallery.",
+        "published": "Tue, 27 Oct 2026 00:05:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21622092/?type=app&htype=0"
+      },
+      {
+        "id": "18e7e0b47cbf79efef553f67b9061dac",
+        "title": "National Theatre of Scotland to turn 'The Young Team' into new gang culture play",
+        "link": "https://www.heraldscotland.com/life_style/26671989.scottish-gang-culture-novel-the-young-team-become-new-stage-play/",
+        "description": "Playwright Kieran Hurley is to adapt author Graeme Armstrong's acclaimed debut novel 'The Young Team' into a new stage show exploring Scottish gang culture.",
+        "published": "Tue, 27 Oct 2026 00:01:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21633993/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo#0",
         "title": "New weather warnings as third storm set to hit Scotland",
         "link": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
@@ -3803,22 +3819,6 @@
         "description": "An energy firm has launched a major recruitment drive to expand its workforce and support Scotland\u2019s growing green economy.",
         "published": "Sun, 25 Oct 2026 06:00:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21621526/?type=app&htype=0"
-      },
-      {
-        "id": "f294e5d236fdd17badbe69b0e6f20a83",
-        "title": "Plans for new Glasgow padel courts face nearly 80 objections from residents",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26662366.plans-new-glasgow-padel-courts-face-nearly-80-objections/",
-        "description": "Nearly 80 objections have been lodged against plans for three new padel courts in Pollokshields amid concerns over noise, traffic and light pollution.",
-        "published": "Sun, 25 Oct 2026 06:00:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21280660/?type=app&htype=0"
-      },
-      {
-        "id": "fdb5f79cd26341ae6e739edaeac1afd0",
-        "title": "Senior doctor warns SNP's NHS shake-up risks 'small death' of local hospitals",
-        "link": "https://www.heraldscotland.com/news/26660814.snp-nhs-reforms-threaten-local-hospitals-bma-warns/",
-        "description": "A leading BMA doctor warns SNP plans to centralise surgery could threaten local hospitals, emergency care and intensive care services across Scotland.",
-        "published": "Sun, 25 Oct 2026 05:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21393245/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
