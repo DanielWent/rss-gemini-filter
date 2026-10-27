@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cmx28de233r2o#4",
+        "title": "Rare dinosaur skeleton goes to auction in New York with \u00a34.5m price tag",
+        "link": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
+        "description": "The auction of the rare skeleton comes amid debate in the scientific community about whether dinosaur remains should end up in private hands or public view.",
+        "published": "Tue, 27 Oct 2026 13:23:32 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a77/live/3552a3b0-d1ff-11f1-a701-fddedf244c16.jpg"
+      },
+      {
         "id": "1793097615892424",
         "title": "What is Nasa's Artemis III mission? And what comes next?",
         "link": "https://www.bbc.co.uk/news/articles/cr5j40ezgz4o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The Cabinet Office, which leads on AI safety, says the UK \"cannot simply turn AI off\".",
         "published": "Fri, 11 Sep 2026 17:07:07 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63e1/live/212f16d0-adeb-11f1-9a5c-a7a4083eb832.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/athletics/articles/c8enzz036leo#8",
-        "title": "$10m on line at inaugural Ultimate Championship",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/c8enzz036leo?at_medium=RSS&at_campaign=rss",
-        "description": "The inaugural World Athletics Ultimate Championship begins on Friday. From the global stars competing to how it all works - here is everything you need to know.",
-        "published": "Fri, 11 Sep 2026 06:45:18 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3bb/live/c81f3680-ad25-11f1-9bf8-27bb5a420b3e.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -3045,6 +3045,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cm5yngwr88lno#0",
+        "title": "Two teenagers ordained as Church of Scotland elders",
+        "link": "https://www.bbc.co.uk/news/articles/cm5yngwr88lno?at_medium=RSS&at_campaign=rss",
+        "description": "Erica Matteo and Luke Anderson - both 19 -  were ordained as elders at a special service in Sandyhills Parish Church in Baillieston.",
+        "published": "Tue, 27 Oct 2026 14:09:18 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0def/live/2784dd70-d20e-11f1-b3b6-c1e79e957e40.jpg"
+      },
+      {
+        "id": "0c978de181e9fe688cf41ba73bb964b4",
+        "title": "Full Chick-fil-A menu REVEALED days before first Scots restaurant opens near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26674284.full-chick-fil-a-hamilton-menu-prices-revealed-ahead-opening/",
+        "description": "Chick-fil-A's full Hamilton menu and prices have been revealed ahead of Scotland's first restaurant opening, including burgers, nuggets and milkshakes.",
+        "published": "Tue, 27 Oct 2026 14:01:35 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21467971/?type=app&htype=0"
+      },
+      {
         "id": "8fb7d532a829d8cb73e097b95b18959f",
         "title": "Yellow wind warning sweeps area as busy road outside Glasgow closes over damaged tree",
         "link": "https://www.glasgowtimes.co.uk/news/26674217.yellow-wind-warning-hits-busy-road-outside-glasgow-closes-tree/",
@@ -3059,6 +3075,14 @@
         "description": "A man who\u00a0handed a 13-year-old boy a flare during an Old Firm game failed today to have his football ban repealed.",
         "published": "Tue, 27 Oct 2026 13:39:42 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/14465588/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cr1ex9911121o#0",
+        "title": "'Missing man' left \u00a312k worth of ketamine in hotel's storage room",
+        "link": "https://www.bbc.co.uk/news/articles/cr1ex9911121o?at_medium=RSS&at_campaign=rss",
+        "description": "Michael Redmond handed over the holdall full of ketamine at a Glasgow hotel in April 2025.",
+        "published": "Tue, 27 Oct 2026 13:35:16 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ad4/live/f43bd810-d208-11f1-b3b6-c1e79e957e40.jpg"
       },
       {
         "id": "https://news.stv.tv/?p=535270",
@@ -3819,30 +3843,6 @@
         "description": "Discover the bizarre story of Glasgow\u2019s Gorbals vampire scare, when hundreds of schoolchildren hunted a seven-foot monster in the Southern Necropolis.",
         "published": "Mon, 26 Oct 2026 06:00:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21626770/?type=app&htype=0"
-      },
-      {
-        "id": "f26aaba38061b20f220bdec9367e3e85",
-        "title": "Inside beloved Glasgow bakery making favourites from scratch for over 50 years",
-        "link": "https://www.glasgowtimes.co.uk/news/26662371.story-glasgows-newlands-home-bakery/",
-        "description": "Glasgow\u2019s Newlands Home Bakery celebrates more than 50 years, with five branches, handmade bread, pies and pineapple cakes driving its family-run success.",
-        "published": "Mon, 26 Oct 2026 06:00:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21621316/?type=app&htype=0"
-      },
-      {
-        "id": "3c9d5837a31c0fd3f98106ec1b7ff8e6",
-        "title": "Warning issued to government over plans to axe Glasgow City Council",
-        "link": "https://www.glasgowtimes.co.uk/news/26667975.warning-issued-plans-axe-glasgow-city-council/",
-        "description": "Big changes that could see Glasgow City Council axed must not be driven by cost cutting a councillor has warned.",
-        "published": "Mon, 26 Oct 2026 06:00:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20106183/?type=app&htype=0"
-      },
-      {
-        "id": "36098626a22d88e41656e963391665f3",
-        "title": "Streeting: 'No moral or economic case for defence firms hiring workers from abroad'",
-        "link": "https://www.heraldscotland.com/news/26668386.streeting-challenges-defence-firms-overseas-labour/",
-        "description": "Defence Secretary Wes Streeting has challenged firms building Royal Navy ships to hire British workers, after Babcock flew in 300 welders from the Philippines \u2014 as Scotland's defence sector faces a shortfall of nearly 9,000 apprenticeships.",
-        "published": "Mon, 26 Oct 2026 05:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/20587067/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
