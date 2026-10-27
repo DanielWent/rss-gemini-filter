@@ -3045,6 +3045,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=535314",
+        "title": "Kayak instructor flew into a rage after finding Loch Lomond toilet occupied",
+        "link": "https://news.stv.tv/west-central/kayak-instructor-flew-into-a-rage-after-finding-loch-lomond-toilet-occupied",
+        "description": "Paul Richardson banged on the door of the lavatory, then followed the occupant to his campervan and verball abused him",
+        "published": "Tue, 27 Oct 2026 14:50:49 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/0681a917b131a54931b64a50ce5127e0-1793109250-1120x720.jpg"
+      },
+      {
+        "id": "d2404fbf135280c2f7107c2239f85935",
+        "title": "'The council failed us by not deploying flood barriers - we're picking up the pieces'",
+        "link": "https://www.glasgowtimes.co.uk/news/weather/26674543.renfrew-businesses-say-council-failed-flood-barriers-not-used/",
+        "description": "Renfrew business owners who are picking up the pieces after their premises were submerged during Storm Boelo say the council \"failed them\" after multi-million pound flood prevention barriers were not raised",
+        "published": "Tue, 27 Oct 2026 14:43:50 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21637001/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cm5yngwr88lno#0",
         "title": "Two teenagers ordained as Church of Scotland elders",
         "link": "https://www.bbc.co.uk/news/articles/cm5yngwr88lno?at_medium=RSS&at_campaign=rss",
@@ -3059,6 +3075,14 @@
         "description": "Chick-fil-A's full Hamilton menu and prices have been revealed ahead of Scotland's first restaurant opening, including burgers, nuggets and milkshakes.",
         "published": "Tue, 27 Oct 2026 14:01:35 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21467971/?type=app&htype=0"
+      },
+      {
+        "id": "b7661cca81961efeb137ba3286ab8e16",
+        "title": "Glasgow drivers warned as temporary traffic lights hit busy city centre junction",
+        "link": "https://www.glasgowtimes.co.uk/news/26674239.temporary-traffic-lights-set-busy-glasgow-city-centre-junction/",
+        "description": "Temporary traffic signals are set to be installed at a city centre junction as part of a streetscape upgrade.",
+        "published": "Tue, 27 Oct 2026 13:51:54 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16783333/?type=app&htype=0"
       },
       {
         "id": "8fb7d532a829d8cb73e097b95b18959f",
@@ -3101,6 +3125,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19783586/?type=app&htype=0"
       },
       {
+        "id": "4b3adce7b0e91bcb233ffadb9aff9eb6",
+        "title": "Edinburgh pubs seek permission to allow schoolkids to enter unaccompanied by adults",
+        "link": "https://www.heraldscotland.com/news/26674026.edinburgh-pubs-seeking-permission-unaccompanied-youths/",
+        "description": "A hospitality company is seeking licensing permission to allow children aged 12-15 to enter several Edinburgh pubs and restaurants unaccompanied by adults.",
+        "published": "Tue, 27 Oct 2026 13:13:02 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/10280015/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-highest-alcohol-deaths-scotland-34823467",
         "title": "Glasgow has highest alcohol deaths in Scotland but this is 'only part of the picture'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-highest-alcohol-deaths-scotland-34823467",
@@ -3131,22 +3163,6 @@
         "description": "The 17-year-olds, who cannot be named for legal reasons, pounced on Chloe Rees and Blair McFarlane at Blue Lagoon on Glasgow city centre's Gordon Street on December 16, 2025",
         "published": "Tue, 27 Oct 2026 12:40:41 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/17592764/?type=app&htype=0"
-      },
-      {
-        "id": "2ba5dccf52e2f319e5c3673dca60f25c",
-        "title": "Celtic fan fails to overturn football ban after handing boy pyro flare",
-        "link": "https://www.heraldscotland.com/news/26673822.celtic-fan-fails-overturn-football-ban-handing-boy-flare/",
-        "description": "Jamie McPherson, 39, lit two pyrotechnics during the clash at Celtic Park on September 1 2024",
-        "published": "Tue, 27 Oct 2026 12:28:55 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/19800862/?type=app&htype=0"
-      },
-      {
-        "id": "ef4105f745c57ecfdb191f548c1bf2c1",
-        "title": "Teens become youngest in recent Church of Scotland history to be ordained as elders",
-        "link": "https://www.heraldscotland.com/news/26673740.two-teenagers-ordained-church-scotland-elders/",
-        "description": "Two teenagers at a church in the east end of Glasgow have become the youngest people in recent Church of Scotland history to be appointed to key leadership roles.",
-        "published": "Tue, 27 Oct 2026 12:14:17 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21636215/?type=app&htype=0"
       },
       {
         "id": "2ff4b56df719a3a217a8f64b61b6ed3c",
@@ -3291,14 +3307,6 @@
         "description": "Glasvegas announce Airy Fairy, their first album in six years, due April 2, 2027, plus a UK and Ireland tour with an O2 Academy Glasgow show.",
         "published": "Tue, 27 Oct 2026 10:19:18 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19237118/?type=app&htype=0"
-      },
-      {
-        "id": "e22e9d1b8b7bd697d9a965c5e2e4f816",
-        "title": "Number of alcohol-related deaths in Glasgow revealed as hundreds lose their lives",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26672842.glasgow-records-155-alcohol-specific-deaths-2025/",
-        "description": "Glasgow recorded 155 alcohol-specific deaths in 2025, while Scotland\u2019s rate remains among the UK\u2019s highest, with deprivation driving a stark health gap.",
-        "published": "Tue, 27 Oct 2026 10:03:49 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20465642/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=535214",
@@ -3835,14 +3843,6 @@
         "description": "A thug left a stranger with a brain injury after a brutal attack caught on camera.",
         "published": "Mon, 26 Oct 2026 06:00:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21019018/?type=app&htype=0"
-      },
-      {
-        "id": "98f81ecde7731e1146232ec278b37091",
-        "title": "The night hundreds of Glasgow children armed themselves to hunt a vampire",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26667202.hundreds-glasgow-children-hunted-seven-foot-vampire/",
-        "description": "Discover the bizarre story of Glasgow\u2019s Gorbals vampire scare, when hundreds of schoolchildren hunted a seven-foot monster in the Southern Necropolis.",
-        "published": "Mon, 26 Oct 2026 06:00:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21626770/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
