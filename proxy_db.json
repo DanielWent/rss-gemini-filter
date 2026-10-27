@@ -3021,6 +3021,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-whose-daughter-died-34821905",
+        "title": "Glasgow mum whose daughter died in asthma attack feared she'd go the same way",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-whose-daughter-died-34821905",
+        "description": "Elaine Cunningham lost her 19-year-old daughter, Lauren, to an asthma attack in 2020.",
+        "published": "Tue, 27 Oct 2026 08:26:16 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34821956.ece/ALTERNATES/s98/0_JS231798703.jpg"
+      },
+      {
         "id": "ebba2b9f8214c531296130d3db82fb89",
         "title": "Glasgow flight to Spain declares emergency minutes after take-off and diverts",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26672309.glasgow-ryanair-flight-diverts-newcastle-emergency/",
@@ -3251,14 +3259,6 @@
         "description": "Internal emails released under freedom of information law show NHS Fife's senior solicitor raised doubts about the board's tribunal statement and believed he had not seen the final version \u2014 while chief executive Carol Potter shaped individual sentences hours before publication.",
         "published": "Mon, 26 Oct 2026 16:43:27 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/19761775/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-ryanair-flight-declares-emergency-34820472",
-        "title": "Glasgow Ryanair flight declares emergency shortly after take-off",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-ryanair-flight-declares-emergency-34820472",
-        "description": "The Boeing 737 was scheduled to touch down in Eastern Spain at approximately 3pm, however the general emergency 7700 squawk procedure was triggered less than 15 minutes into the journey.",
-        "published": "Mon, 26 Oct 2026 16:40:43 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34820471.ece/ALTERNATES/s98/0_Brussels-Airport-Jet-fuel-prices-Europe-Aviation.jpg"
       },
       {
         "id": "https://news.stv.tv/?p=534902",
