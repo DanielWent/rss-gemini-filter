@@ -3045,6 +3045,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/paedophile-who-plotted-abuse-boy-34826308",
+        "title": "Paedophile who plotted to abuse boy near Loch Lomond jailed over 'horrific abuse'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/paedophile-who-plotted-abuse-boy-34826308",
+        "description": "Andrew McAdam, 36, appeared at the High Court in Glasgow on Tuesday, October 27, after pleading guilty to nine charges.",
+        "published": "Tue, 27 Oct 2026 18:15:22 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34826317.ece/ALTERNATES/s98/0_406e515e-ac47-4ecf-a12a-3f6de08b897b.jpg"
+      },
+      {
+        "id": "9312663",
+        "title": "Rangers ready for 'cup-tie' Tynecastle atmosphere as Derek McInnes knows what to expect on Hearts return",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-ready-for-cup-tie-tynecastle-atmosphere-as-derek-mcinnes-knows-what-to-expect-on-hearts-return-9312663",
+        "description": "<p>Hostile reception is expected as Rangers boss returns to Tynecastle for the first time since leaving for Ibrox in June</p>",
+        "published": "Tue, 27 Oct 2026 18:00:25 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/27/17/13/GettyImages-2237721474-(1).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/lindt-unveils-new-chocolate-boutique-34825485",
         "title": "Lindt unveils new chocolate boutique in Glasgow city centre prime spot",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/lindt-unveils-new-chocolate-boutique-34825485",
@@ -3827,14 +3843,6 @@
         "description": "University of Glasgow Burns scholar Gerard Carruthers will challenge Scottish identity myths at a Glasgow conference marking MacDiarmid\u2019s poem centenary.",
         "published": "Mon, 26 Oct 2026 15:27:24 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/17169233/?type=app&htype=0"
-      },
-      {
-        "id": "5e67b142d45f5728381f2fe29aa5a6e8",
-        "title": "English rock band announce Glasgow show on Greatest Hits Tour 2027",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26671116.lightning-seeds-announce-glasgow-greatest-hits-show/",
-        "description": "The Lightning Seeds have announced a Glasgow show on their upcoming greatest hits tour.",
-        "published": "Mon, 26 Oct 2026 15:25:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19364148/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
