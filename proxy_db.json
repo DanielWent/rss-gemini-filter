@@ -3021,6 +3021,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-call-extra-cash-strengthen-34820238",
+        "title": "Glasgow call for extra cash to 'strengthen policing' by recruiting more officers",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-call-extra-cash-strengthen-34820238",
+        "description": "Glasgow Labour leader Rashid Hussain has said residents across the city continue to raise community safety concerns.",
+        "published": "Tue, 27 Oct 2026 07:11:36 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33562257.ece/ALTERNATES/s98/0_JS90445567-1.jpg"
+      },
+      {
         "id": "7aa8a211791679c56c595498eecd5f86",
         "title": "LIVE updates as several busy Glasgow train lines AXED all day amid 'severe weather'",
         "link": "https://www.glasgowtimes.co.uk/news/26672238.live-updates-glasgow-train-lines-cancelled-due-severe-weather/",
@@ -3811,14 +3819,6 @@
         "description": "A man who had \u00a369,000 of drugs in his home faces jail.",
         "published": "Sun, 25 Oct 2026 06:00:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21618549/?type=app&htype=0"
-      },
-      {
-        "id": "a95315204386c5155d5685f0540bcbb7",
-        "title": "Inside the eerie tomb where a Duke\u2019s legs were broken to fit his coffin",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26660569.hamilton-mausoleum-holds-15-second-echo-lanarkshire/",
-        "description": "Discover Hamilton Mausoleum near Strathclyde Loch, home to a 15-second echo, plus ghostly Cadzow Castle and autumn walks in South Lanarkshire.",
-        "published": "Sun, 25 Oct 2026 06:00:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21617354/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
