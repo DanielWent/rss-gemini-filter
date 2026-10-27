@@ -3021,6 +3021,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=535214",
+        "title": "Person \u2018swept out to sea\u2019 during strong winds in Largs as major search ongoing",
+        "link": "https://news.stv.tv/west-central/person-swept-out-to-sea-during-strong-winds-in-largs-as-major-search-ongoing",
+        "description": "HM Coastguard were called to Largs at around 12.20am on Tuesday after a person was reportedly to have been swept into the sea by large waves",
+        "published": "Tue, 27 Oct 2026 09:49:45 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/06/6bc21032dbd3a50a7cf4f11305359f26-1782557987-1120x720.jpeg"
+      },
+      {
+        "id": "8a4b26d4247bf71f1cc97bd6daa0aa62",
+        "title": "Council cuts expected as \u00a340 million budget blackhole revealed",
+        "link": "https://www.heraldscotland.com/news/26672532.highland-council-cuts-expected-budget-blackhole-revealed/",
+        "description": "Highland Council will need to save almost \u00a340 million over the next three years to balance its books \u2013 well over what had been an expected gap of \u00a35 million.",
+        "published": "Tue, 27 Oct 2026 09:18:45 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20997786/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-city-council-staff-urged-34822103",
         "title": "Glasgow City Council staff urged to reject 'not good enough' pay deal",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-city-council-staff-urged-34822103",
@@ -3219,14 +3235,6 @@
         "description": "Four men have appeared in court after a police pursuit in Glasgow's East End.",
         "published": "Mon, 26 Oct 2026 17:36:14 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/13068909/?type=app&htype=0"
-      },
-      {
-        "id": "4b1e6a695ebed18128acfe2e06a7eaaa",
-        "title": "Unison urges Glasgow council staff to reject pay and grading package",
-        "link": "https://www.heraldscotland.com/news/26671826.unison-urges-glasgow-council-staff-reject-pay-deal/",
-        "description": "Unison urges Glasgow City Council staff to reject proposed pay and grading deal, citing lower-grade losses and unevaluated jobs as ballot runs to November 23.",
-        "published": "Mon, 26 Oct 2026 17:14:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21633708/?type=app&htype=0"
       },
       {
         "id": "9310598",
@@ -3435,14 +3443,6 @@
         "description": "Bremner was banned from contacting her for five years after repeated harassment and violence",
         "published": "Mon, 26 Oct 2026 13:30:24 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/16405573/?type=app&htype=0"
-      },
-      {
-        "id": "ad1312aa2210bea18ef94257869193db",
-        "title": "University staff to start nine more days of strike action amid dispute over job cuts",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26669956.glasgow-caledonian-university-staff-start-nine-strike-days/",
-        "description": "University staff will take another nine days of strike action at Glasgow Caledonian University as the long-running dispute over up to 100 job losses and possible compulsory redundancies continues.",
-        "published": "Mon, 26 Oct 2026 13:30:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20999800/?type=app&htype=0"
       },
       {
         "id": "db2805effb1ea52719c076c8427e77e9",
