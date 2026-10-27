@@ -3045,6 +3045,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=535393",
+        "title": "Teenagers become youngest in recent history to be ordained as Church of Scotland elders",
+        "link": "https://news.stv.tv/west-central/teenagers-become-youngest-in-recent-history-to-be-ordained-as-church-of-scotland-elders",
+        "description": "Erica Matteo and Luke Anderson, both 19, were ordained at Sandyhills Parish Church in Glasgow",
+        "published": "Tue, 27 Oct 2026 20:38:23 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/f18caacaed51f71469f9f3f2b48e5ad6-1793133142-1156x720.jpg"
+      },
+      {
         "id": "50f8c911d3e7caffc7c0eabe553f99a2",
         "title": "Strike threat at Glasgow Airport as Loganair cabin crew back action",
         "link": "https://www.glasgowtimes.co.uk/news/26675792.loganair-cabin-crew-back-strike-action-amid-pay-dispute/",
@@ -3245,14 +3253,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21637679/?type=app&htype=0"
       },
       {
-        "id": "e5bb30dd9a2a5c6dc3ec4728ef553d33",
-        "title": "End of an era as iconic Glasgow retailer Greaves Sports launches closing down sale",
-        "link": "https://www.glasgowtimes.co.uk/news/26674715.glasgows-greaves-sports-close-50-years-business/",
-        "description": "Iconic Glasgow shop Greaves Sports is closing after its acquisition by Mike Ashley\u2019s Frasers Group, ending a family retail legacy dating to the 1930s.",
-        "published": "Tue, 27 Oct 2026 15:14:39 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21637642/?type=app&htype=0"
-      },
-      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-temporary-flats-homeless-people-34823841",
         "title": "New temporary flats for homeless people in Clarkston delayed by utilities issues",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/new-temporary-flats-homeless-people-34823841",
@@ -3315,14 +3315,6 @@
         "description": "There was confusion last week at reports of a wallaby spotted in the wild about 20 miles from Perth.",
         "published": "Tue, 27 Oct 2026 14:23:42 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/8248844/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cm5yngwr88lno#0",
-        "title": "Two teenagers ordained as Church of Scotland elders",
-        "link": "https://www.bbc.co.uk/news/articles/cm5yngwr88lno?at_medium=RSS&at_campaign=rss",
-        "description": "Erica Matteo and Luke Anderson - both 19 -  were ordained as elders at a special service in Sandyhills Parish Church in Baillieston.",
-        "published": "Tue, 27 Oct 2026 14:09:18 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0def/live/2784dd70-d20e-11f1-b3b6-c1e79e957e40.jpg"
       },
       {
         "id": "96882e26f29e4219c27c03188e7a76ff",
@@ -3549,14 +3541,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19237118/?type=app&htype=0"
       },
       {
-        "id": "https://news.stv.tv/?p=535214",
-        "title": "Person \u2018swept out to sea\u2019 during strong winds in Largs as major search ongoing",
-        "link": "https://news.stv.tv/west-central/person-swept-out-to-sea-during-strong-winds-in-largs-as-major-search-ongoing",
-        "description": "HM Coastguard were called to Largs at around 12.20am on Tuesday after a person was reportedly to have been swept into the sea by large waves",
-        "published": "Tue, 27 Oct 2026 09:49:45 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/06/6bc21032dbd3a50a7cf4f11305359f26-1782557987-1120x720.jpeg"
-      },
-      {
         "id": "8a4b26d4247bf71f1cc97bd6daa0aa62",
         "title": "Council cuts expected as \u00a340 million budget blackhole revealed",
         "link": "https://www.heraldscotland.com/news/26672532.highland-council-cuts-expected-budget-blackhole-revealed/",
@@ -3771,14 +3755,6 @@
         "description": "Tributes paid to 60-year-old Richard Baines, Logan Botanic Garden curator, who died after a falling tree hit him near Castle Douglas during Storm Boelo on October 25.",
         "published": "Mon, 26 Oct 2026 16:48:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21633343/?type=app&htype=0"
-      },
-      {
-        "id": "a78bdf68a7982774757053ad65c9380a",
-        "title": "Revealed: the secret emails behind NHS Fife's controversial Sandie Peggie statement",
-        "link": "https://www.heraldscotland.com/news/26671673.nhs-fife-lawyers-doubts-punchy-peggie-statement/",
-        "description": "Internal emails released under freedom of information law show NHS Fife's senior solicitor raised doubts about the board's tribunal statement and believed he had not seen the final version \u2014 while chief executive Carol Potter shaped individual sentences hours before publication.",
-        "published": "Mon, 26 Oct 2026 16:43:27 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/19761775/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=534902",
