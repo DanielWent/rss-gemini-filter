@@ -3045,6 +3045,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/calls-glasgow-block-ai-data-34824744",
+        "title": "Calls for Glasgow to block AI data centres amid fears residents could foot the bills",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/calls-glasgow-block-ai-data-34824744",
+        "description": "There are worries that data centres \u2013 which consume vast amounts of power \u2013 could leave Glasgow residents facing even greater energy bills.",
+        "published": "Tue, 27 Oct 2026 15:19:22 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34737700.ece/ALTERNATES/s98/5_JS420614556.jpg"
+      },
+      {
+        "id": "f756425f7f560b485327a5271967713f",
+        "title": "Online tutors and mentors in Scotland warned they could be breaking the law",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26674742.online-tutors-warned-pvg-membership-scotland/",
+        "description": "Disclosure Scotland warns online tutors, mentors and supervisors in Scotland may break the law: no online exemption from PVG checks for work with children.",
+        "published": "Tue, 27 Oct 2026 15:18:35 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20395261/?type=app&htype=213"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-temporary-flats-homeless-people-34823841",
+        "title": "New temporary flats for homeless people in Clarkston delayed by utilities issues",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/new-temporary-flats-homeless-people-34823841",
+        "description": "Five properties, which were expected to be ready this summer, are now set to be in use by 'the turn of the year'.",
+        "published": "Tue, 27 Oct 2026 15:09:11 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk//article16532055.ece/ALTERNATES/s98/0_gettyimages-667730113-170667a.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/axing-councils-like-glasgow-cut-34823824",
+        "title": "Axing councils like Glasgow to cut costs would be 'deeply misguided'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/axing-councils-like-glasgow-cut-34823824",
+        "description": "A motion to be debated by Glasgow councillors on Thursday states any council reforms should focus on 'empowering local government', not making savings.",
+        "published": "Tue, 27 Oct 2026 15:08:16 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article32899655.ece/ALTERNATES/s98/0_City-Chambers.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=535314",
         "title": "Kayak instructor flew into a rage after finding Loch Lomond toilet occupied",
         "link": "https://news.stv.tv/west-central/kayak-instructor-flew-into-a-rage-after-finding-loch-lomond-toilet-occupied",
@@ -3061,12 +3093,28 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21637001/?type=app&htype=0"
       },
       {
+        "id": "5074ffd4c8b216e48cb90aa3ba7e54fa",
+        "title": "'Not April Fool\u2019s Day': Confusion as wallaby spotted in the wild in Perthshire",
+        "link": "https://www.heraldscotland.com/news/26674401.confusion-wallaby-spotted-wild-perthshire/",
+        "description": "There was confusion last week at reports of a wallaby spotted in the wild about 20 miles from Perth.",
+        "published": "Tue, 27 Oct 2026 14:23:42 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/8248844/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cm5yngwr88lno#0",
         "title": "Two teenagers ordained as Church of Scotland elders",
         "link": "https://www.bbc.co.uk/news/articles/cm5yngwr88lno?at_medium=RSS&at_campaign=rss",
         "description": "Erica Matteo and Luke Anderson - both 19 -  were ordained as elders at a special service in Sandyhills Parish Church in Baillieston.",
         "published": "Tue, 27 Oct 2026 14:09:18 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0def/live/2784dd70-d20e-11f1-b3b6-c1e79e957e40.jpg"
+      },
+      {
+        "id": "96882e26f29e4219c27c03188e7a76ff",
+        "title": "Weather update: Scotland wind warning cut short after 70mph gusts ease",
+        "link": "https://www.heraldscotland.com/news/26674290.weather-update-scotland-wind-warning-cut-short-70mph-gusts-ease/",
+        "description": "A Met Office yellow warning for high winds covering the whole of Scotland and the far north-east of Northern Ireland has been cut short.",
+        "published": "Tue, 27 Oct 2026 14:02:48 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21637153/?type=app&htype=0"
       },
       {
         "id": "0c978de181e9fe688cf41ba73bb964b4",
@@ -3795,54 +3843,6 @@
         "description": "A tartan has been created to celebrate the historic twinning of Glasgow and Boston.",
         "published": "Mon, 26 Oct 2026 10:03:47 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21629766/?type=app&htype=0"
-      },
-      {
-        "id": "869a9fa396915a5f7724695ed3ceda78",
-        "title": "Nearly half of Open University graduates in Scotland first in family to attend uni",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26669003.open-university-scotland-celebrated-first-generation-graduates/",
-        "description": "Nearly half of this year's Open University graduates in Scotland are the first in their families to attend university.",
-        "published": "Mon, 26 Oct 2026 09:40:25 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21629629/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-confirm-no-suspicious-circumstances-34816649",
-        "title": "Police confirm 'no suspicious circumstances' after man found dead on Glasgow street",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-confirm-no-suspicious-circumstances-34816649",
-        "description": "Emergency services raced to the scene in the early hours of Saturday.",
-        "published": "Mon, 26 Oct 2026 09:39:38 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34811771.ece/ALTERNATES/s98/2_Watson-Street.png"
-      },
-      {
-        "id": "1b2f9d8b24dbb9eccd554f9c98d98629",
-        "title": "LIVE: Storm Boelo aftermath as roads closed and ferries disrupted",
-        "link": "https://www.heraldscotland.com/news/26668902.live-storm-boelo-aftermath-roads-closed-ferries-disrupted/",
-        "description": "Live news as the clean-up from the 80mph storm which hit Scotland on Sunday",
-        "published": "Mon, 26 Oct 2026 09:21:59 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21629435/?type=app&htype=0"
-      },
-      {
-        "id": "9308690",
-        "title": "Rangers summer signing turns Ibrox side into 'excellent' team as he unlocks relentless weapon",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-summer-signing-turns-ibrox-side-into-excellent-team-9308690",
-        "description": "<p>Rangers are hitting form after a difficult summer.</p>",
-        "published": "Mon, 26 Oct 2026 08:27:32 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/26/8/47/GettyImages-2296222329.jpg?width=1200&auto=webp&trim=0%2C13%2C0%2C13"
-      },
-      {
-        "id": "a4ee62dbf838a8be3b2f0404d3278eda",
-        "title": "Award-winning teacher reveals how cycling accident sparked career change",
-        "link": "https://www.heraldscotland.com/news/26668713.kelvinside-academy-teacher-reveals-accident-sparked-career-change/",
-        "description": "A life-changing event led to a career switch and a new path to success",
-        "published": "Mon, 26 Oct 2026 07:58:05 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21629240/?type=app&htype=0"
-      },
-      {
-        "id": "42af8a0246367db0a825a196b6af92e2",
-        "title": "Easterhouse man left stranger with brain injury after brutal street attack",
-        "link": "https://www.glasgowtimes.co.uk/news/26654075.man-left-stranger-brain-injury-brutal-glasgow-street-attack/",
-        "description": "A thug left a stranger with a brain injury after a brutal attack caught on camera.",
-        "published": "Mon, 26 Oct 2026 06:00:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21019018/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
