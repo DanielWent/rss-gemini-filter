@@ -5,6 +5,22 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1793229312643755",
+        "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
+        "link": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+        "description": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.",
+        "published": "Thu, 29 Oct 2026 00:11:59 +0100",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fa1/live/e95162f0-cdf6-11f1-9a39-31b474234113.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cmx28e44xxx7o#3",
+        "title": "'Super offensive' - We love how we look but AI tried to 'fix' our visible differences",
+        "link": "https://www.bbc.co.uk/news/articles/cmx28e44xxx7o?at_medium=RSS&at_campaign=rss",
+        "description": "An AI tool edited a photo of Rhiannon Morgan in a work newsletter and she was shocked by the results.",
+        "published": "Wed, 28 Oct 2026 23:02:56 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/162f/live/9c87ca10-d1fa-11f1-93e1-3b657b665bcf.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo#2",
         "title": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
         "link": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
@@ -787,22 +803,6 @@
         "description": "Jakob Ingebrigtsen will not contest the men's 1500m final at the World Athletics Ultimate Championship, putting his reunion with rival Josh Kerr on hold.",
         "published": "Sat, 12 Sep 2026 16:49:18 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4e1/live/5332e430-aeaf-11f1-ae38-d350b022f499.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o#3",
-        "title": "Record heatwaves in France set to make champagne stronger",
-        "link": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
-        "description": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
-        "published": "Sat, 12 Sep 2026 13:00:32 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6fd/live/129bea30-aea9-11f1-8972-d5c52a82c3b8.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c1wx8gg7xw1o#2",
-        "title": "When an avalanche killed climber Nirmal Purja, his friends faced the hardest mission of all",
-        "link": "https://www.bbc.co.uk/news/articles/c1wx8gg7xw1o?at_medium=RSS&at_campaign=rss",
-        "description": "Mountaineer Mingma G tells the BBC about the climb to bring home the bodies of his closest friends.",
-        "published": "Fri, 11 Sep 2026 23:39:01 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37fa/live/48f4dc90-ac1a-11f1-a291-b542ee92de7c.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
