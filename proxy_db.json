@@ -3045,6 +3045,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "76bbcd7cf808d84ada5771357e3e6ad2",
+        "title": "John Healey promises 'fresh hope' in first Budget but polls shows public pessimistic",
+        "link": "https://www.heraldscotland.com/news/26675582.chancellor-promises-breathing-space-first-budget/",
+        "description": "Chancellor John Healey delivers his first Budget promising resilience and relief, but with fiscal headroom potentially halved to \u00a312bn and public scepticism high, Scotland's leaders are demanding more than warm words.",
+        "published": "Wed, 28 Oct 2026 00:01:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21211877/?type=app&htype=0"
+      },
+      {
+        "id": "cf677e669eeef6abdf10b8ccdece521c",
+        "title": "John Swinney calls for \u2018substantial support\u2019 with energy bills in UK Budget",
+        "link": "https://www.heraldscotland.com/news/26675819.budget-2026-john-swinney-urges-healey-cut-energy-bills-300/",
+        "description": "John Swinney urges Chancellor John Healey to provide substantial energy bill support and fulfil Labour\u2019s \u00a3300 reduction pledge in the Budget.",
+        "published": "Wed, 28 Oct 2026 00:01:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21504267/?type=app&htype=0"
+      },
+      {
         "id": "c9e054793f026705add10dd95fdbc082",
         "title": "Glasgow council issues \u00a3178m contract for 1,000 homeless accommodation spots",
         "link": "https://www.heraldscotland.com/news/26675822.glasgow-city-council-issues-178m-contract-homeless-accommodation/",
