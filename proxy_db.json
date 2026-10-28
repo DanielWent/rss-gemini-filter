@@ -3021,6 +3021,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "3d7ef00b8acaaf80bd79c26b6310ea75",
+        "title": "Bonfire Night to have 'largest police deployment since Trump visit'",
+        "link": "https://www.heraldscotland.com/news/26676080.bonfire-night-largest-police-deployment-since-trump-visit/",
+        "description": "Police deploy resources from 18 forces for Bonfire Night",
+        "published": "Wed, 28 Oct 2026 08:23:10 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/19701871/?type=app&htype=0"
+      },
+      {
         "id": "https://runabc.co.uk/sidlaw-ultra-2026-takes-runners-69k-between-two-scottish-castles",
         "title": "Sidlaw Ultra 2026 Takes Runners 69K Between Two Scottish Castles",
         "link": "https://runabc.co.uk/sidlaw-ultra-2026-takes-runners-69k-between-two-scottish-castles",
@@ -3811,14 +3819,6 @@
         "description": "Met Office issues yellow wind warning for Scotland from October 27 as strong winds and heavy rain threaten ScotRail, CalMac and travel disruption.",
         "published": "Mon, 26 Oct 2026 19:22:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21634067/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=535175",
-        "title": "Firefighters pump away \u2018millions of litres of floodwater\u2019 surrounding care home",
-        "link": "https://news.stv.tv/west-central/firefighters-pump-away-millions-of-litres-of-floodwater-surrounding-care-home",
-        "description": "In Saltcoats, crews have worked since Sunday night to pump millions of litres of floodwater away from a care home on Sidney Street",
-        "published": "Mon, 26 Oct 2026 18:26:21 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/5d4e0d7f7e2130d0fb5b61c86ddf8eae-1793038124-1200x720.jpeg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
