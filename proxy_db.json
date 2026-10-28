@@ -3029,6 +3029,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "6c2c5f1bbebd0832179f203c6de561b7",
+        "title": "Rangers fan who ran across Ibrox pitch and kicked Glasgow Celtic supporter faces jail",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26677661.rangers-fan-kicked-celtic-supporter-faces-jail/",
+        "description": "A Rangers thug who ran on the pitch at Ibrox and kicked a Celtic fan after an Old Firm cup match faces jail.",
+        "published": "Wed, 28 Oct 2026 13:13:11 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21641434/?type=app&htype=0"
+      },
+      {
+        "id": "00e65141926caff3910c435e50b4ab10",
+        "title": "Threatening message sent to primary school near Glasgow as police called",
+        "link": "https://www.glasgowtimes.co.uk/news/26677625.threatening-message-sent-bellshill-primary-school/",
+        "description": "Police were contacted after a threatening message was made to Noble Primary School in Bellshill on Tuesday morning.",
+        "published": "Wed, 28 Oct 2026 13:06:30 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21641371/?type=app&htype=0"
+      },
+      {
+        "id": "4d956f5b5f5ba90fa9c16085fc8d8c2e",
+        "title": "Bomb squad called to Glasgow property after suspicious item found",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26677585.bomb-squad-called-glasgow-property-ordnance-find/",
+        "description": "Glasgow bomb squad called to Airlie Street after possible ordnance was found at a property on October 28. Police Scotland said EOD deemed items safe.",
+        "published": "Wed, 28 Oct 2026 12:57:13 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21607854/?type=app&htype=0"
+      },
+      {
         "id": "9315807",
         "title": "Glasgow incident: Bomb disposal unit descends on quiet Hyndland street",
         "link": "https://www.glasgowworld.com/news/bomb-disposal-unit-descends-on-quiet-hyndland-street-9315807",
