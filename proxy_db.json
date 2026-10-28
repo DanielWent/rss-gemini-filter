@@ -2146,6 +2146,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "11c3cd968328d7ed6929a833691d7333",
+        "title": "Burst water main found in busy area as motorists warned to AVOID area",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26675980.water-disruption-warning-issued-milngavie-residents/",
+        "description": "Milngavie residents face possible water supply disruption after Scottish Water finds a fault on Nethermains Road, with traffic delays expected during repairs.",
+        "published": "Wed, 28 Oct 2026 07:14:40 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20496663/?type=app&htype=0"
+      },
+      {
         "id": "d8f1bfb753db99aed5f3aded73f74ebb",
         "title": "East Dunbartonshire Council seeks public views on spending amid \u00a37m budget gap",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26675041.east-dunbartonshire-residents-asked-views-budget/",
@@ -2178,28 +2186,12 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20496663/?type=app&htype=0"
       },
       {
-        "id": "df708f757e77bbfe626622bb91758d9a",
-        "title": "Have your say on council budget plans as \u00a37m shortfall looms",
-        "link": "https://www.glasgowtimes.co.uk/news/26673023.council-budget-consultation-opens-7m-shortfall-looms/",
-        "description": "East Dunbartonshire Council is inviting residents to take part in its latest budget consultation.",
-        "published": "Tue, 27 Oct 2026 10:30:48 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21635267/?type=app&htype=0"
-      },
-      {
         "id": "b01cc0c736bf105a53997e9ffea00fcd",
         "title": "Dozens take to streets as calls grow to complete long-awaited cycle route",
         "link": "https://www.glasgowtimes.co.uk/news/26671319.east-dunbartonshire-cycle-route-campaign-backed-1-000/",
         "description": "A luminous Glow Ride has lit up fresh calls to complete a long-awaited cycle route.",
         "published": "Mon, 26 Oct 2026 15:52:54 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21632879/?type=app&htype=0"
-      },
-      {
-        "id": "2551cd96f06b08e156eb4f8dfbe4f213",
-        "title": "Burst water main leaves Milngavie residents facing supply disruption",
-        "link": "https://www.glasgowtimes.co.uk/news/26670497.scottish-water-repairs-burst-water-main-milngavie/",
-        "description": "A burst water main has disrupted supplies for residents in Milngavie.",
-        "published": "Mon, 26 Oct 2026 13:43:09 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21631666/?type=app&htype=0"
       },
       {
         "id": "d64dfd7ce51c51f16e2cacd3a67e80c3",
@@ -2394,14 +2386,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20220999/?type=app&htype=0"
       },
       {
-        "id": "1f7f42a03caac5803462e587c9196cfc",
-        "title": "Residents warned as burst water main hits supplies near Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/26633402.burst-water-main-disrupts-supplies-traffic-milngavie/",
-        "description": "Burst water main on Campsie Drive, Milngavie, disrupts supplies and causes traffic delays as Scottish Water works to restore services by 6.45pm today.",
-        "published": "Tue, 13 Oct 2026 16:14:35 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21108552/?type=app&htype=0"
-      },
-      {
         "id": "862b6a880395326a0dde242f54d5cb4d",
         "title": "Bursary scheme offering grants of up to \u00a31000 to East Dunbartonshire artists",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26632748.east-dunbartonshire-artists-offered-500-1-000-bursaries/",
@@ -2440,14 +2424,6 @@
         "description": "Harvie\u2019s Dyke remains unearthed in Dalmarnock, Glasgow, revealing a 19th-century public right of way battle and rare Let Glasgow Flourish token.",
         "published": "Tue, 13 Oct 2026 11:14:46 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21573082/?type=app&htype=0"
-      },
-      {
-        "id": "2f4059e11228636013a287b5d23aed60",
-        "title": "Parking signs go up as council confirms controversial charges WILL begin",
-        "link": "https://www.glasgowtimes.co.uk/news/26631225.kirkintilloch-parking-charges-confirmed-new-signs-go/",
-        "description": "Kirkintilloch parking charges will begin on November 2, 2026, despite 490 objections and petitions. East Dunbartonshire Council expects \u00a3231,369 annually.",
-        "published": "Tue, 13 Oct 2026 10:48:31 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21530519/?type=app&htype=0"
       },
       {
         "id": "2748b9826c6a6746736544c6a2997b0c",
@@ -3045,6 +3021,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "11c3cd968328d7ed6929a833691d7333",
+        "title": "Burst water main found in busy area as motorists warned to AVOID area",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26675980.water-disruption-warning-issued-milngavie-residents/",
+        "description": "Milngavie residents face possible water supply disruption after Scottish Water finds a fault on Nethermains Road, with traffic delays expected during repairs.",
+        "published": "Wed, 28 Oct 2026 07:14:40 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20496663/?type=app&htype=0"
+      },
+      {
+        "id": "2dc486b2a26e70c1ee0e0773061e7c57",
+        "title": "LIVE updates as several busy train lines impacted due to power failure",
+        "link": "https://www.glasgowtimes.co.uk/news/26675972.train-delays-balloch-airdrie-coatdyke-power-failure/",
+        "description": "Trains between Balloch and Airdrie this morning are being subjected to delays and revisions due to a failure of the electricity supply at Coatdyke.",
+        "published": "Wed, 28 Oct 2026 06:55:53 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19846632/?type=app&htype=0"
+      },
+      {
+        "id": "3e8acf133dc1bf7273c4537862ef9afb",
+        "title": "Budget 2026 live: John Healey\u2019s first Budget and what it means for Scotland",
+        "link": "https://www.heraldscotland.com/news/26675968.autumn-budget-2026-live/",
+        "description": "Chancellor John Healey is delivering his first Budget in the House of Commons, promising \u201cbreathing space\u201d for households alongside targeted cost-of-living fixes. Follow our live coverage for full coverage.",
+        "published": "Wed, 28 Oct 2026 06:20:14 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20240002/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cmgqwgpjpjngo#0",
         "title": "Bonfire Night policing will be 'largest operation since Trump visit'",
         "link": "https://www.bbc.co.uk/news/articles/cmgqwgpjpjngo?at_medium=RSS&at_campaign=rss",
@@ -3067,6 +3067,14 @@
         "description": "A resident has raised concerns that the local authority\u2019s planning office \u201cdid not follow normal process\u201d when deciding on an application for a residential development.",
         "published": "Wed, 28 Oct 2026 06:00:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21613521/?type=app&htype=0"
+      },
+      {
+        "id": "d555002c5e683a26412aa66da6464ed7",
+        "title": "Number of empty council houses in capital fall 66 per cent amid homelessness crisis",
+        "link": "https://www.heraldscotland.com/news/26675555.number-vacant-council-homes-edinburgh-66-per-cent/",
+        "description": "Just 474 council houses were recorded as vacant during the 2025/26 financial year, down from a high-water mark of 1,386 in 2022/23.",
+        "published": "Wed, 28 Oct 2026 06:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21492889/?type=app&htype=0"
       },
       {
         "id": "6fa6c62b5f683c4528e98ffba0c24aed",
@@ -3811,38 +3819,6 @@
         "description": "Tributes paid to 60-year-old Richard Baines, Logan Botanic Garden curator, who died after a falling tree hit him near Castle Douglas during Storm Boelo on October 25.",
         "published": "Mon, 26 Oct 2026 16:48:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21633343/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=534902",
-        "title": "Children\u2019s worker struck off over threatening messages about young people",
-        "link": "https://news.stv.tv/west-central/childrens-worker-struck-off-over-threatening-messages-about-young-people",
-        "description": "Suzanne Elliott made several threats and shared confidential information about the young people she was employed to support",
-        "published": "Mon, 26 Oct 2026 16:15:01 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/76df0893f58e37fa2fec8ba617745248-1793027307-1280x720.jpeg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/call-extend-consultation-east-renfrewshires-34820106",
-        "title": "Call to extend consultation on East Renfrewshire's plan for over 3,000 new homes",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/call-extend-consultation-east-renfrewshires-34820106",
-        "description": "The council's latest local development plan has sparked concerns in some communities and councillors want residents to have longer to give feedback.",
-        "published": "Mon, 26 Oct 2026 16:14:05 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article28695126.ece/ALTERNATES/s98/0_Builder-working-on-roof-of-house.jpg"
-      },
-      {
-        "id": "a0b76fbb04ce55e5a23f2206b0f5f7a5",
-        "title": "Update on appeal over Ally McCoist-backed 33-home development",
-        "link": "https://www.heraldscotland.com/news/26671373.new-reporter-appointed-ally-mccoist-backed-bridge-weir-appeal/",
-        "description": "New reporter Declan King will determine an appeal over Ally McCoist's plans for 33 homes in Bridge of Weir after a potential bias concern forced the original reporter\u2019s replacement.",
-        "published": "Mon, 26 Oct 2026 16:08:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/20335136/?type=app&htype=0"
-      },
-      {
-        "id": "7658fe4996f24bb67a1357fe74ee85eb",
-        "title": "Consultants and specialist doctors balloted over strike action",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26671402.scottish-senior-doctors-ballot-possible-strike-action/",
-        "description": "Balloting consultants and senior doctors for strike action is the \"only route\" to make ministers \"take our concerns seriously\", medical leaders have insisted.",
-        "published": "Mon, 26 Oct 2026 16:04:23 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19306194/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
