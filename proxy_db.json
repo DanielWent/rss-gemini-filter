@@ -814,6 +814,14 @@
     "description": "AI Filtered Google Blog Updates.",
     "articles": [
       {
+        "id": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/",
+        "title": "Dive into new topics with immersive explorations in the Gemini app.",
+        "link": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/immersiveView_quasars_16x9_01_2.max-600x600.format-webp.webp\" />Today, we are rolling out immersive explorations in the new Gemini student hub.",
+        "published": "Wed, 28 Oct 2026 18:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/immersiveView_quasars_16x9_01_2.max-600x600.format-webp.webp"
+      },
+      {
         "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
         "title": "Gemini 4 Carbon: our next frontier model",
         "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
@@ -3059,6 +3067,14 @@
         "description": "It was heard that the new \u00a3500,000 facility will bring benefits, but local people are worried about noise, traffic and other concerns",
         "published": "Wed, 28 Oct 2026 17:42:39 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/0eddd96d52239cfdd94dceb25f2b48b2-1793209162.jpeg"
+      },
+      {
+        "id": "88ebcd9f11c3df9aeb0e6466648047a1",
+        "title": "Gilruth says Burnham holding back for snap election as Budget 'leaves Scotland short'",
+        "link": "https://www.heraldscotland.com/news/26679305.scottish-government-pass-100-energy-payment/",
+        "description": "Deputy First Minister Jenny Gilruth has warned that Scotland faces a real-terms cut of around \u00a3650m next year despite the UK Budget's headline boost.",
+        "published": "Wed, 28 Oct 2026 17:36:11 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21643617/?type=app&htype=0"
       },
       {
         "id": "543644d0c8bc83b583ce372cdf66b430",
