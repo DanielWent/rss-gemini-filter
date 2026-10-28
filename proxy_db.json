@@ -3029,6 +3029,62 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/missing-moray-man-last-seen-34830244",
+        "title": "Missing Moray man last seen in Glasgow city centre as urgent search launched",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/missing-moray-man-last-seen-34830244",
+        "description": "Officers are growing increasingly concerned for the welfare of the 59-year-old and are asking for the public's help in tracing him.",
+        "published": "Wed, 28 Oct 2026 15:15:38 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34830267.ece/ALTERNATES/s98/0_mp-gordon-bowie.png"
+      },
+      {
+        "id": "https://news.stv.tv/?p=535443",
+        "title": "Largs Academy pupils face nearly four-hour round trip due to road closures caused by Storm Boelo",
+        "link": "https://news.stv.tv/west-central/largs-academy-pupils-face-nearly-four-hour-round-trip-due-to-road-closures-caused-by-storm-boelo",
+        "description": "The normal route to Largs Academy would take less than 20 minutes",
+        "published": "Wed, 28 Oct 2026 15:11:22 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/2a7a3a781d3228eea3c4772c7d24071f-1793192654-1280x720.jpeg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=535494",
+        "title": "Drivers warned of drifting smoke as vehicle fire closes stretch of M8",
+        "link": "https://news.stv.tv/west-central/drivers-warned-of-drifting-smoke-as-vehicle-fire-closes-stretch-of-m8",
+        "description": "Drivers are advised to expect delays on the eastbound carriageway",
+        "published": "Wed, 28 Oct 2026 15:05:03 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/848ad125e9467153f699a7deee85b37f-1793198819.jpg"
+      },
+      {
+        "id": "0a981b924b565fff651cdb303c7628f3",
+        "title": "Budget 2026 - what John Healey has promised pensioners and what it means for you",
+        "link": "https://www.glasgowtimes.co.uk/news/26678334.budget-2026---john-healey-promised-pensioners/",
+        "description": "The State Pension rise is part of a wider pledge from the Government to improve support for older people",
+        "published": "Wed, 28 Oct 2026 14:59:37 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21641621/?type=app&htype=0"
+      },
+      {
+        "id": "2cc4fb65fdf9bdbba73e94897e0aa2ba",
+        "title": "John Healey confirms Carer's Allowance reform to help thousands of working carers",
+        "link": "https://www.glasgowtimes.co.uk/news/26678327.john-healey-confirms-carers-allowance-reform-unpaid-carers/",
+        "description": "Carers could get a fairer deal under John Healey's Budget, with plans to replace the Carer's Allowance earnings cliff edge with a gradual taper.",
+        "published": "Wed, 28 Oct 2026 14:59:02 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21641687/?type=app&htype=0"
+      },
+      {
+        "id": "57e08e62021d6dbcc96db2e108327610",
+        "title": "Martin Lewis reacts as John Healey announces new State Pension tax allowance",
+        "link": "https://www.glasgowtimes.co.uk/news/26678322.martin-lewis-reacts-john-healey-new-state-pension-tax-rule/",
+        "description": "Chancellor John Healey announced a new pension tax allowance so pensioners will not pay Income Tax during this Parliament.",
+        "published": "Wed, 28 Oct 2026 14:58:15 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21480625/?type=app&htype=305"
+      },
+      {
+        "id": "15a86093538aa44bbeb9e7a368207744",
+        "title": "Minimum wage to increase to \u00a313.20 an hour as John Healey announces Budget pay boost",
+        "link": "https://www.glasgowtimes.co.uk/news/26678317.minimum-wage-increase-13-20-hour-budget-pay-boost/",
+        "description": "Chancellor John Healey has announced a 3.9% rise in the National Minimum Wage and National Living Wage, affecting 2.3 million of the lowest-paid workers.",
+        "published": "Wed, 28 Oct 2026 14:57:15 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21640808/?type=app&htype=0"
+      },
+      {
         "id": "b86ce4a6773917a58dac68f36c578db5",
         "title": "John Healey scraps Reeves' \u00a38,000 ISA cut as 'savers will be delighted'",
         "link": "https://www.glasgowtimes.co.uk/news/26678302.john-healey-scraps-reeves-8-000-isa-cut-budget-shock/",
@@ -3053,20 +3109,20 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21641598/?type=app&htype=0"
       },
       {
+        "id": "e42e9191e95b16f16aa8dfb688f5968c",
+        "title": "Plans submitted for brewery, taproom and event space on Gigha",
+        "link": "https://www.heraldscotland.com/news/26678196.bid-open-brewery-taproom-event-space-gigha/",
+        "description": "Anna and Dave Lannigan wish to install the facility in an existing building at Achavinish, having amended a previous application to do so last year",
+        "published": "Wed, 28 Oct 2026 14:39:50 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/3835750/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/three-northern-irish-men-jailed-34829980",
         "title": "Three Northern Irish men jailed after vicious attack on Celtic supporter outside Ibrox",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/three-northern-irish-men-jailed-34829980",
         "description": "The thugs were filmed on a police drone stamping on the head and body of a 48-year-old man as he was trying to get on a Celtic supporters\u2019 bus.",
         "published": "Wed, 28 Oct 2026 14:39:23 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34830023.ece/ALTERNATES/s98/0_Screenshot-102.png"
-      },
-      {
-        "id": "de8dbe3550c046064851e763eef0e542",
-        "title": "Glasgow Rangers trio jailed after Celtic fan left with brain bleed outside Ibrox",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26678189.rangers-trio-jailed-celtic-fan-left-brain-bleed/",
-        "description": "Three Rangers fans have been jailed after an attack on a Celtic supporter outside Ibrox following an Old Firm match.",
-        "published": "Wed, 28 Oct 2026 14:38:25 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21642064/?type=app&htype=0"
       },
       {
         "id": "b0ae04c1d416f015014890dbefebb7e6",
@@ -3149,6 +3205,14 @@
         "image_url": "https://www.heraldscotland.com/resources/images/20113996/?type=app&htype=0"
       },
       {
+        "id": "5fcf8801b52364ea20b0bd4434adda78",
+        "title": "Glasgow college welding fumes dispute raised at Scottish Parliament",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26677682.glasgow-college-welding-safety-dispute-raised-holyrood/",
+        "description": "A long-running health and safety dispute at City of Glasgow College has been raised at the Scottish Parliament.",
+        "published": "Wed, 28 Oct 2026 13:17:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21109439/?type=app&htype=0"
+      },
+      {
         "id": "6c2c5f1bbebd0832179f203c6de561b7",
         "title": "Rangers fan who ran across Ibrox pitch and kicked Glasgow Celtic supporter faces jail",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26677661.rangers-fan-kicked-celtic-supporter-faces-jail/",
@@ -3157,28 +3221,12 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21641434/?type=app&htype=0"
       },
       {
-        "id": "d33a634c81c84b9fc96325a007664dd5",
-        "title": "Budget 2026: UK Government backs new outdoor arena beside Hydro and Armadillo",
-        "link": "https://www.heraldscotland.com/news/26677383.budget-backs-new-outdoor-arena-beside-hydro-armadillo-glasgow/",
-        "description": "The UK Government has pledged \u00a36 million to unlock the first phase of an overhaul and expansion of the home of the Hydro and Armadillo venues in Glasgow.",
-        "published": "Wed, 28 Oct 2026 13:10:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21641324/?type=app&htype=0"
-      },
-      {
         "id": "00e65141926caff3910c435e50b4ab10",
         "title": "Threatening message sent to primary school near Glasgow as police called",
         "link": "https://www.glasgowtimes.co.uk/news/26677625.threatening-message-sent-bellshill-primary-school/",
         "description": "Police were contacted after a threatening message was made to Noble Primary School in Bellshill on Tuesday morning.",
         "published": "Wed, 28 Oct 2026 13:06:30 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21641371/?type=app&htype=0"
-      },
-      {
-        "id": "4d956f5b5f5ba90fa9c16085fc8d8c2e",
-        "title": "Bomb squad called to Glasgow property after suspicious item found",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26677585.bomb-squad-called-glasgow-property-ordnance-find/",
-        "description": "Glasgow bomb squad called to Airlie Street after possible ordnance was found at a property on October 28. Police Scotland said EOD deemed items safe.",
-        "published": "Wed, 28 Oct 2026 12:57:13 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21607854/?type=app&htype=0"
       },
       {
         "id": "7eb1423a0631bdda6ab6910d5a4f092c",
@@ -3315,6 +3363,14 @@
         "description": "Star Wars: A New Hope in Concert comes to Glasgow Royal Concert Hall on March 27, 2027, with a live orchestra performing John Williams\u2019 Oscar-winning score.",
         "published": "Wed, 28 Oct 2026 10:40:48 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21640405/?type=app&htype=0"
+      },
+      {
+        "id": "4bfb913d7dbc456ac3c86f78a7b88255",
+        "title": "Drivers warned as temporary lights planned near Glasgow Hampden stadium",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26676569.temporary-lights-glasgows-cathcart-road-repairs/",
+        "description": "Glasgow motorists face delays on near Hampden Park as Scottish Water repairs bring temporary lights for 8 days.",
+        "published": "Wed, 28 Oct 2026 10:20:13 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19069019/?type=app&htype=0"
       },
       {
         "id": "c52e8b7ebbc63f4162f6b06d4bd38ed4",
@@ -3771,62 +3827,6 @@
         "description": "Temporary traffic signals are set to be installed at a city centre junction as part of a streetscape upgrade.",
         "published": "Tue, 27 Oct 2026 13:51:54 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/16783333/?type=app&htype=0"
-      },
-      {
-        "id": "8fb7d532a829d8cb73e097b95b18959f",
-        "title": "Yellow wind warning sweeps area as busy road outside Glasgow closes over damaged tree",
-        "link": "https://www.glasgowtimes.co.uk/news/26674217.yellow-wind-warning-hits-busy-road-outside-glasgow-closes-tree/",
-        "description": "A busy road between Glasgow and Bearsden has been temporarily closed after high winds damaged a tree.",
-        "published": "Tue, 27 Oct 2026 13:48:24 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21636846/?type=app&htype=15"
-      },
-      {
-        "id": "f7f3e0a276129dab8631885ae4177f47",
-        "title": "Fan who handed lit flare to boy, 13, during Old Firm LOSES bid to end football ban",
-        "link": "https://www.glasgowtimes.co.uk/news/26674158.old-firm-fan-handed-boy-13-lit-flare-loses-football-ban-bid/",
-        "description": "A man who\u00a0handed a 13-year-old boy a flare during an Old Firm game failed today to have his football ban repealed.",
-        "published": "Tue, 27 Oct 2026 13:39:42 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/14465588/?type=app&htype=0"
-      },
-      {
-        "id": "6e34151c42b17321442d6fa9c30c2027",
-        "title": "Glasgow drivers face weeks of overnight disruption as M8 motorway closures begin",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26674059.m8-overnight-closures-planned-drainage-survey-work/",
-        "description": "M8 Kingston Bridge drainage surveys begin October 25, bringing overnight closures, M8 westbound J17 slip road restrictions and diversions near Glasgow.",
-        "published": "Tue, 27 Oct 2026 13:19:27 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19783586/?type=app&htype=0"
-      },
-      {
-        "id": "4b3adce7b0e91bcb233ffadb9aff9eb6",
-        "title": "Edinburgh pubs seek permission to allow schoolkids to enter unaccompanied by adults",
-        "link": "https://www.heraldscotland.com/news/26674026.edinburgh-pubs-seeking-permission-unaccompanied-youths/",
-        "description": "A hospitality company is seeking licensing permission to allow children aged 12-15 to enter several Edinburgh pubs and restaurants unaccompanied by adults.",
-        "published": "Tue, 27 Oct 2026 13:13:02 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/10280015/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-highest-alcohol-deaths-scotland-34823467",
-        "title": "Glasgow has highest alcohol deaths in Scotland but this is 'only part of the picture'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-highest-alcohol-deaths-scotland-34823467",
-        "description": "Over the last five years, Glasgow remains to have had the highest rate of alcohol deaths in Scotland.",
-        "published": "Tue, 27 Oct 2026 13:10:30 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34823922.ece/ALTERNATES/s98/0_gettyimages-1305790153-594x594.jpg"
-      },
-      {
-        "id": "c3354b669f6c2d03b7df12167cd435dd",
-        "title": "Suspected drug deaths in Scotland drop by 28 per cent, new figures show",
-        "link": "https://www.heraldscotland.com/news/26673938.suspected-drug-deaths-scotland-drop-28-per-cent/",
-        "description": "The number of suspected drug deaths in Scotland in the most recent quarter have dropped by 28%, figures show.",
-        "published": "Tue, 27 Oct 2026 12:53:07 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/12848859/?type=app&htype=0"
-      },
-      {
-        "id": "5f951b5e2d1d0619e51411b4f25b2c05",
-        "title": "Crimestoppers urges reports of planned Bonfire Night attacks on emergency crews",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26673883.crimestoppers-urges-reports-planned-bonfire-night-attacks/",
-        "description": "Crimestoppers urges Scots to report planned Bonfire Night attacks, illegal fireworks and fire-raising targeting emergency workers anonymously in Scotland.",
-        "published": "Tue, 27 Oct 2026 12:42:16 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/12443741/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
