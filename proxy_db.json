@@ -3029,6 +3029,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=535464",
+        "title": "Trio jailed for sectarian attack on Celtic supporter who suffered brain bleed",
+        "link": "https://news.stv.tv/west-central/trio-jailed-for-sectarian-attack-on-celtic-supporter-who-suffered-brain-bleed",
+        "description": "Ben Stanex, 24, Scott Dragsness, 55, and Andrew Graham, 21, all from Northern Ireland, have been banned from every football ground in the UK for seven years",
+        "published": "Wed, 28 Oct 2026 15:31:47 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/e8c48e817bd877b3b8609c29b223b790-1793201940-1120x720.jpeg"
+      },
+      {
+        "id": "582356f6701eba9f61f9427a48d5746c",
+        "title": "Glasgow councillor calls for moratorium on AI data centres over rising bills fears",
+        "link": "https://www.glasgowtimes.co.uk/news/26678535.glasgow-councillor-calls-ban-new-ai-data-centres/",
+        "description": "AI data centres should face a moratorium in Glasgow planning guidance, a councillor says.",
+        "published": "Wed, 28 Oct 2026 15:26:39 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21209097/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/missing-moray-man-last-seen-34830244",
         "title": "Missing Moray man last seen in Glasgow city centre as urgent search launched",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/missing-moray-man-last-seen-34830244",
@@ -3811,22 +3827,6 @@
         "description": "There was confusion last week at reports of a wallaby spotted in the wild about 20 miles from Perth.",
         "published": "Tue, 27 Oct 2026 14:23:42 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/8248844/?type=app&htype=0"
-      },
-      {
-        "id": "96882e26f29e4219c27c03188e7a76ff",
-        "title": "Weather update: Scotland wind warning cut short after 70mph gusts ease",
-        "link": "https://www.heraldscotland.com/news/26674290.weather-update-scotland-wind-warning-cut-short-70mph-gusts-ease/",
-        "description": "A Met Office yellow warning for high winds covering the whole of Scotland and the far north-east of Northern Ireland has been cut short.",
-        "published": "Tue, 27 Oct 2026 14:02:48 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21637153/?type=app&htype=0"
-      },
-      {
-        "id": "b7661cca81961efeb137ba3286ab8e16",
-        "title": "Glasgow drivers warned as temporary traffic lights hit busy city centre junction",
-        "link": "https://www.glasgowtimes.co.uk/news/26674239.temporary-traffic-lights-set-busy-glasgow-city-centre-junction/",
-        "description": "Temporary traffic signals are set to be installed at a city centre junction as part of a streetscape upgrade.",
-        "published": "Tue, 27 Oct 2026 13:51:54 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16783333/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
