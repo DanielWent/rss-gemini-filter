@@ -3021,6 +3021,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "c52e8b7ebbc63f4162f6b06d4bd38ed4",
+        "title": "Calls for urgent MND action taken directly to Prime Minister",
+        "link": "https://www.glasgowtimes.co.uk/news/26676545.mp-calls-national-mnd-strategy-prime-minister-meeting/",
+        "description": "A meeting with the Prime Minister has advanced calls for a national strategy on Motor Neurone Disease (MND).",
+        "published": "Wed, 28 Oct 2026 10:15:31 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21640110/?type=app&htype=0"
+      },
+      {
+        "id": "97b1f1073731af4dc46d614ac511d664",
+        "title": "Calls for tighter water safety after deaths of Glasgow boy, 12, and adventure guide",
+        "link": "https://www.glasgowtimes.co.uk/news/26676398.death-glasgow-boy-prompts-calls-tighter-water-safety/",
+        "description": "Sheriff recommends tighter safety rules for Scottish riverboarding and canyoning after deaths of Kayden Walker and Ruaridh Stevenson, with HSE and AALA review.",
+        "published": "Wed, 28 Oct 2026 09:49:02 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/10215204/?type=app&htype=0"
+      },
+      {
         "id": "fc5e0f993acb554a0d34a03a0b1e8802",
         "title": "King Tut\u2019s Glasgow venue hosts major emergency services training drill",
         "link": "https://www.glasgowtimes.co.uk/news/26676368.major-incident-training-drill-glasgow-hailed-success/",
@@ -3211,14 +3227,6 @@
         "description": "Strike action could be on the cards.",
         "published": "Tue, 27 Oct 2026 19:31:43 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21044974/?type=app&htype=242"
-      },
-      {
-        "id": "0866a7a3b7db15758478c6faec51b2b0",
-        "title": "One of Scotland's oldest retailers' stores to close after being taken over by Frasers",
-        "link": "https://www.heraldscotland.com/news/26675773.glasgows-greaves-sports-close-50-years-business/",
-        "description": "Glasgow\u2019s iconic Greaves Sports launches a closing-down sale after its acquisition by Mike Ashley\u2019s Frasers Group, ending its historic Gordon Street presence.",
-        "published": "Tue, 27 Oct 2026 19:19:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21637641/?type=app&htype=0"
       },
       {
         "id": "60187cc348324ba9a6af52727158119c",
@@ -3811,14 +3819,6 @@
         "description": "Nationwide's latest job cuts are not blamed on AI, but they come as technology transforms entry-level work and reshapes the traditional career ladder",
         "published": "Tue, 27 Oct 2026 04:30:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/16742196/?type=app&htype=0"
-      },
-      {
-        "id": "18e7e0b47cbf79efef553f67b9061dac",
-        "title": "National Theatre of Scotland to turn 'The Young Team' into new gang culture play",
-        "link": "https://www.heraldscotland.com/life_style/26671989.scottish-gang-culture-novel-the-young-team-become-new-stage-play/",
-        "description": "Playwright Kieran Hurley is to adapt author Graeme Armstrong's acclaimed debut novel 'The Young Team' into a new stage show exploring Scottish gang culture.",
-        "published": "Tue, 27 Oct 2026 00:01:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21633993/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
