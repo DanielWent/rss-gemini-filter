@@ -3029,6 +3029,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/raucous-glasgow-padel-courts-green-34830404",
+        "title": "'Raucous' Glasgow padel courts get green light despite objections over noise",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/raucous-glasgow-padel-courts-green-34830404",
+        "description": "The courts bring a \u00a3500,000 investment, a meeting heard.",
+        "published": "Wed, 28 Oct 2026 16:15:27 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34379779.ece/ALTERNATES/s98/0_titwoodbowlingclub.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/plea-support-glasgow-pupils-complex-34830396",
+        "title": "Plea to support Glasgow pupils with 'complex communication needs'",
+        "link": "https://www.glasgowlive.co.uk/news/plea-support-glasgow-pupils-complex-34830396",
+        "description": "It comes after a national report about a disabled student, who communicates by blinking, and was reportedly denied the opportunity to sit an examination.",
+        "published": "Wed, 28 Oct 2026 15:57:51 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article25554423.ece/ALTERNATES/s98/0_Exams-results-to-fall-his-year.jpg"
+      },
+      {
+        "id": "029259c485a870a02d0f770188ebd8da",
+        "title": "Police Scotland warns over 1260 officers and staff could be lost without funding",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26678759.scottish-government-urged-fund-350-new-police-officers/",
+        "description": "Extra money must be provided by the Scottish Government to help Police Scotland recruit new officers, the city\u2019s Labour leader has said.",
+        "published": "Wed, 28 Oct 2026 15:56:48 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21190813/?type=app&htype=0"
+      },
+      {
+        "id": "a01bc1eb05288162c3b072a8f9c28bb4",
+        "title": "Man caught plotting to abuse two boys in major cross-border police probe jailed",
+        "link": "https://www.heraldscotland.com/news/26678580.man-caught-plotting-abuse-two-boys-jailed-10-and-a-half-years/",
+        "description": "A Scots paedophile caught plotting to abuse two boys in a major cross-border police probe has been jailed for 10-and-a-half years.",
+        "published": "Wed, 28 Oct 2026 15:32:20 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/19141757/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=535464",
         "title": "Trio jailed for sectarian attack on Celtic supporter who suffered brain bleed",
         "link": "https://news.stv.tv/west-central/trio-jailed-for-sectarian-attack-on-celtic-supporter-who-suffered-brain-bleed",
@@ -3131,14 +3163,6 @@
         "description": "Anna and Dave Lannigan wish to install the facility in an existing building at Achavinish, having amended a previous application to do so last year",
         "published": "Wed, 28 Oct 2026 14:39:50 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/3835750/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/three-northern-irish-men-jailed-34829980",
-        "title": "Three Northern Irish men jailed after vicious attack on Celtic supporter outside Ibrox",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/three-northern-irish-men-jailed-34829980",
-        "description": "The thugs were filmed on a police drone stamping on the head and body of a 48-year-old man as he was trying to get on a Celtic supporters\u2019 bus.",
-        "published": "Wed, 28 Oct 2026 14:39:23 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34830023.ece/ALTERNATES/s98/0_Screenshot-102.png"
       },
       {
         "id": "b0ae04c1d416f015014890dbefebb7e6",
@@ -3757,14 +3781,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21028863/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/calls-glasgow-block-ai-data-34824744",
-        "title": "Calls for Glasgow to block AI data centres amid fears residents could foot the bills",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/calls-glasgow-block-ai-data-34824744",
-        "description": "There are worries that data centres \u2013 which consume vast amounts of power \u2013 could leave Glasgow residents facing even greater energy bills.",
-        "published": "Tue, 27 Oct 2026 15:19:22 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34737700.ece/ALTERNATES/s98/5_JS420614556.jpg"
-      },
-      {
         "id": "f756425f7f560b485327a5271967713f",
         "title": "Online tutors and mentors in Scotland warned they could be breaking the law",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26674742.online-tutors-warned-pvg-membership-scotland/",
@@ -3811,22 +3827,6 @@
         "description": "Paul Richardson banged on the door of the lavatory, then followed the occupant to his campervan and verball abused him",
         "published": "Tue, 27 Oct 2026 14:50:49 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/0681a917b131a54931b64a50ce5127e0-1793109250-1120x720.jpg"
-      },
-      {
-        "id": "8aa77451ff8d9e86e0df9f4a9f8b8db9",
-        "title": "M\u00e0iri McAllan: Treatment of traditional music is an 'anomaly' in Scottish culture",
-        "link": "https://www.heraldscotland.com/news/26674562.m-iri-mcallan-trad-music-treatment-scottish-culture-anomaly/",
-        "description": "Culture secretary M\u00e0iri McAllan says a new national company dedicated to traditional music is needed to address a 'considerable anomaly' in the arts in Scotland.",
-        "published": "Tue, 27 Oct 2026 14:48:09 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21542511/?type=app&htype=0"
-      },
-      {
-        "id": "5074ffd4c8b216e48cb90aa3ba7e54fa",
-        "title": "'Not April Fool\u2019s Day': Confusion as wallaby spotted in the wild in Perthshire",
-        "link": "https://www.heraldscotland.com/news/26674401.confusion-wallaby-spotted-wild-perthshire/",
-        "description": "There was confusion last week at reports of a wallaby spotted in the wild about 20 miles from Perth.",
-        "published": "Tue, 27 Oct 2026 14:23:42 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/8248844/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
