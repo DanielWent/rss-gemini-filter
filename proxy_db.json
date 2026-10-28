@@ -3045,6 +3045,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cmgqwgpjpjngo#0",
+        "title": "Bonfire Night policing will be 'largest operation since Trump visit'",
+        "link": "https://www.bbc.co.uk/news/articles/cmgqwgpjpjngo?at_medium=RSS&at_campaign=rss",
+        "description": "As many as 1,700 officers could be deployed to deal with fireworks-related disorder, a European football match and potential protests in Glasgow.",
+        "published": "Wed, 28 Oct 2026 06:15:15 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd62/live/bb345cf0-d225-11f1-93e1-3b657b665bcf.jpg"
+      },
+      {
         "id": "6fa6c62b5f683c4528e98ffba0c24aed",
         "title": "Showdown at \u00a31.1bn Scottish company flags urgent need for greater protections",
         "link": "https://www.heraldscotland.com/opinion/26674836.baillie-gifford-us-growth-trust-saba-saga-flags-urgent-need/",
@@ -3835,14 +3843,6 @@
         "description": "Every child starting primary school in Scotland in 2027 will receive a colourful backpack.",
         "published": "Mon, 26 Oct 2026 16:01:06 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20353283/?type=app&htype=0"
-      },
-      {
-        "id": "b01cc0c736bf105a53997e9ffea00fcd",
-        "title": "Dozens take to streets as calls grow to complete long-awaited cycle route",
-        "link": "https://www.glasgowtimes.co.uk/news/26671319.east-dunbartonshire-cycle-route-campaign-backed-1-000/",
-        "description": "A luminous Glow Ride has lit up fresh calls to complete a long-awaited cycle route.",
-        "published": "Mon, 26 Oct 2026 15:52:54 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21632879/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
