@@ -3029,6 +3029,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9315807",
+        "title": "Glasgow incident: Bomb disposal unit descends on quiet Hyndland street",
+        "link": "https://www.glasgowworld.com/news/bomb-disposal-unit-descends-on-quiet-hyndland-street-9315807",
+        "description": "<p>A bomb disposal unit was deployed to a quiet street in Glasgow's Hyndland area</p>",
+        "published": "Wed, 28 Oct 2026 12:49:27 GMT",
+        "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOmFmOWRiYjhiLTkyODItNGZkMC1iMTBjLTcwMzVlOGVkZmJiYjoxNzBlZDUwYy1iYjYwLTQ2MTctYjFiMi02ZTA4ZWQwZmFmYzI=.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
         "id": "https://news.stv.tv/?p=535451",
         "title": "Seven to stand trial accused of vandalising Trump Turnberry",
         "link": "https://news.stv.tv/west-central/seven-to-stand-trial-accused-of-vandalising-trump-turnberry",
@@ -3093,14 +3101,6 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/28/9/12/Whytes-011.jpeg?width=1200&auto=webp&trim=1389%2C0%2C1389%2C0"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/c9ly0r53jy4po#0",
-        "title": "Trial date set for seven accused of vandalism at Trump Turnberry",
-        "link": "https://www.bbc.co.uk/news/articles/c9ly0r53jy4po?at_medium=RSS&at_campaign=rss",
-        "description": "The group are suspected of causing \"malicious mischief\" during a protest at the luxury resort in March last year.",
-        "published": "Wed, 28 Oct 2026 11:42:38 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2df0/live/6de780a0-d2c3-11f1-8e79-5381b0a9d682.jpg"
-      },
-      {
         "id": "8af6a97a8ad5745df5a7a2417127d38d",
         "title": "New Glasgow research centre opens to expand patient access to clinical trials",
         "link": "https://www.glasgowtimes.co.uk/news/26677113.expanded-glasgow-clinical-research-centre-officially-opened/",
@@ -3139,14 +3139,6 @@
         "description": "Library users are being offered a dose of borrowed sunshine to help beat the winter blues.",
         "published": "Wed, 28 Oct 2026 10:58:19 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21640551/?type=app&htype=0"
-      },
-      {
-        "id": "1279f16b705de2ffd433775e61d65107",
-        "title": "SNP warns scrapping gas standing charges could raise bills for Scots",
-        "link": "https://www.heraldscotland.com/news/26676771.gas-standing-charges-scrapped-23m-homes-2027/",
-        "description": "Scottish households could end up paying more for gas under the Chancellor's plan to scrap standing charges, the SNP has warned.",
-        "published": "Wed, 28 Oct 2026 10:50:42 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21639756/?type=app&htype=0"
       },
       {
         "id": "8b20659d2237f9d22eb252a6185e62c2",
@@ -3347,14 +3339,6 @@
         "description": "Industry consultant Liam Greasley warns that rising costs and under-investment are putting pressure on Scotland's traditional member-owned golf clubs",
         "published": "Wed, 28 Oct 2026 04:30:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21614842/?type=app&htype=0"
-      },
-      {
-        "id": "cf677e669eeef6abdf10b8ccdece521c",
-        "title": "John Swinney calls for \u2018substantial support\u2019 with energy bills in UK Budget",
-        "link": "https://www.heraldscotland.com/news/26675819.budget-2026-john-swinney-urges-healey-cut-energy-bills-300/",
-        "description": "John Swinney urges Chancellor John Healey to provide substantial energy bill support and fulfil Labour\u2019s \u00a3300 reduction pledge in the Budget.",
-        "published": "Wed, 28 Oct 2026 00:01:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21504267/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=535393",
