@@ -3045,6 +3045,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "6fa6c62b5f683c4528e98ffba0c24aed",
+        "title": "Showdown at \u00a31.1bn Scottish company flags urgent need for greater protections",
+        "link": "https://www.heraldscotland.com/opinion/26674836.baillie-gifford-us-growth-trust-saba-saga-flags-urgent-need/",
+        "description": "The arithmetic looked daunting for the board of a \u00a31.1 billion Scottish company and the saga flags an urgent need for greater protections",
+        "published": "Wed, 28 Oct 2026 04:40:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21107118/?type=app&htype=0"
+      },
+      {
+        "id": "1f4535d66d7d68f9bf1afb8af03ea06b",
+        "title": "Can Scotland\u2019s traditional golf model survive pressures reshaping the game?",
+        "link": "https://www.heraldscotland.com/news/26658908.can-scotlands-member-owned-managed-golf-clubs-survive/",
+        "description": "Industry consultant Liam Greasley warns that rising costs and under-investment are putting pressure on Scotland's traditional member-owned golf clubs",
+        "published": "Wed, 28 Oct 2026 04:30:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21614842/?type=app&htype=0"
+      },
+      {
         "id": "76bbcd7cf808d84ada5771357e3e6ad2",
         "title": "John Healey promises 'fresh hope' in first Budget but polls shows public pessimistic",
         "link": "https://www.heraldscotland.com/news/26675582.chancellor-promises-breathing-space-first-budget/",
@@ -3827,22 +3843,6 @@
         "description": "A luminous Glow Ride has lit up fresh calls to complete a long-awaited cycle route.",
         "published": "Mon, 26 Oct 2026 15:52:54 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21632879/?type=app&htype=0"
-      },
-      {
-        "id": "190fce814fae7bfdff330044a6e92321",
-        "title": "Historic Military boarding school could lose registration over care concerns",
-        "link": "https://www.heraldscotland.com/news/26671226.dunblanes-queen-victoria-mod-school-warned-care-concerns/",
-        "description": "Queen Victoria School in Dunblane faces losing registration after Care Inspectorate concerns over pupil care, safeguarding, allergies and boarding safety.",
-        "published": "Mon, 26 Oct 2026 15:47:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21632000/?type=app&htype=0"
-      },
-      {
-        "id": "3ab453ac22a2b828e198a3fbe9cd8910",
-        "title": "Why working out what Scotland gets from this Budget may be a lot more complicated",
-        "link": "https://www.heraldscotland.com/news/26671273.know-dont-know-john-healeys-budget/",
-        "description": "John Healey's first Budget brings a pension rise, possible energy bill relief and a defence cash injection \u2014 but Scotland's share of any new spending hinges on whether Barnett formula rules still apply in an era of mayoral deals.",
-        "published": "Mon, 26 Oct 2026 15:45:50 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21632744/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
