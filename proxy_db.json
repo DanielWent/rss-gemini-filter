@@ -3029,12 +3029,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "65fff4cc85d61e72ce086c7898fa015d",
+        "title": "Major Clyde bridge to shut for months after Storm Boelo damage",
+        "link": "https://www.glasgowtimes.co.uk/news/weather/26679021.renfrew-bridge-close-for-months-storm-boelo-damage/",
+        "description": "Renfrew Bridge will close for several months after Storm Boelo caused extensive damage to electrical systems needed to operate the new crossing",
+        "published": "Wed, 28 Oct 2026 16:36:34 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20970228/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/raucous-glasgow-padel-courts-green-34830404",
         "title": "'Raucous' Glasgow padel courts get green light despite objections over noise",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/raucous-glasgow-padel-courts-green-34830404",
         "description": "The courts bring a \u00a3500,000 investment, a meeting heard.",
         "published": "Wed, 28 Oct 2026 16:15:27 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34379779.ece/ALTERNATES/s98/0_titwoodbowlingclub.png"
+      },
+      {
+        "id": "9aad69188508ba9965eb99c8a9e1723f",
+        "title": "Death of prisoner who killed former partner with hammer in Glasgow faces inquiry",
+        "link": "https://www.glasgowtimes.co.uk/news/26678877.death-prisoner-killed-woman-glasgow-probed/",
+        "description": "Fatal Accident Inquiry into prisoner Stuart Drury\u2019s death at HMP Edinburgh will examine the circumstances. Hearings begin at Edinburgh Sheriff Court December 3, 2026.",
+        "published": "Wed, 28 Oct 2026 16:12:37 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21643021/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/plea-support-glasgow-pupils-complex-34830396",
@@ -3051,6 +3067,14 @@
         "description": "Extra money must be provided by the Scottish Government to help Police Scotland recruit new officers, the city\u2019s Labour leader has said.",
         "published": "Wed, 28 Oct 2026 15:56:48 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21190813/?type=app&htype=0"
+      },
+      {
+        "id": "04ef2a2ef3012387f144188eb9063e2d",
+        "title": "Major UK retailer on brink of administration with 12 Glasgow stores affected",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26678630.poundland-brink-administration-11-000-jobs-risk/",
+        "description": "Poundland is on the brink of administration, putting 11,000 jobs at risk across the UK.",
+        "published": "Wed, 28 Oct 2026 15:41:27 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21332401/?type=app&htype=0"
       },
       {
         "id": "a01bc1eb05288162c3b072a8f9c28bb4",
@@ -3075,6 +3099,14 @@
         "description": "AI data centres should face a moratorium in Glasgow planning guidance, a councillor says.",
         "published": "Wed, 28 Oct 2026 15:26:39 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21209097/?type=app&htype=0"
+      },
+      {
+        "id": "f8716f15ae52ab01b05df3b97b8a8130",
+        "title": "Tour de France bosses honoured for role in bringing Grand D\u00e9part to Edinburgh",
+        "link": "https://www.heraldscotland.com/news/26678491.tour-de-france-bosses-honoured-edinburgh-napier-university/",
+        "description": "Two Tour de France bosses have been awarded honorary degrees by Edinburgh Napier University, ahead of the race setting off from the city next year.",
+        "published": "Wed, 28 Oct 2026 15:20:01 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21642920/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/missing-moray-man-last-seen-34830244",
@@ -3795,38 +3827,6 @@
         "description": "A man tried to hide from police in an attic before he was caught with \u00a3274,000 worth of drugs.",
         "published": "Tue, 27 Oct 2026 15:14:53 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21637679/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-temporary-flats-homeless-people-34823841",
-        "title": "New temporary flats for homeless people in Clarkston delayed by utilities issues",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/new-temporary-flats-homeless-people-34823841",
-        "description": "Five properties, which were expected to be ready this summer, are now set to be in use by 'the turn of the year'.",
-        "published": "Tue, 27 Oct 2026 15:09:11 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk//article16532055.ece/ALTERNATES/s98/0_gettyimages-667730113-170667a.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/axing-councils-like-glasgow-cut-34823824",
-        "title": "Axing councils like Glasgow to cut costs would be 'deeply misguided'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/axing-councils-like-glasgow-cut-34823824",
-        "description": "A motion to be debated by Glasgow councillors on Thursday states any council reforms should focus on 'empowering local government', not making savings.",
-        "published": "Tue, 27 Oct 2026 15:08:16 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article32899655.ece/ALTERNATES/s98/0_City-Chambers.jpg"
-      },
-      {
-        "id": "437d55239cf9fd09c27445316f11c27d",
-        "title": "New Glasgow-shot film lands star-studded cast",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26674640.james-mcavoy-stars-new-sci-fi-comedy-filming-glasgow/",
-        "description": "James McAvoy is starring in a new sci-fi comedy currently filming in Glasgow.",
-        "published": "Tue, 27 Oct 2026 15:01:45 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20745770/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=535314",
-        "title": "Kayak instructor flew into a rage after finding Loch Lomond toilet occupied",
-        "link": "https://news.stv.tv/west-central/kayak-instructor-flew-into-a-rage-after-finding-loch-lomond-toilet-occupied",
-        "description": "Paul Richardson banged on the door of the lavatory, then followed the occupant to his campervan and verball abused him",
-        "published": "Tue, 27 Oct 2026 14:50:49 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/0681a917b131a54931b64a50ce5127e0-1793109250-1120x720.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
