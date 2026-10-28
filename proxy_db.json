@@ -3021,6 +3021,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8df0337822a1809ce19bdb1a7741a277",
+        "title": "Huge Scottish band 'gutted' as final Glasgow show at SWG3 cancelled",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26676017.vida-cancel-final-glasgow-show-due-medical-issue/",
+        "description": "Scottish band VIDA cancel their December 18 SWG3 Warehouse show in Glasgow due to a medical issue, ahead of a planned break to focus on family life.",
+        "published": "Wed, 28 Oct 2026 07:46:32 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20655741/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/hundreds-kids-left-limbo-lanarkshire-34824186",
+        "title": "Hundreds of kids left in limbo as Lanarkshire football pitches flooded with sewage and vandalised",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/hundreds-kids-left-limbo-lanarkshire-34824186",
+        "description": "&quot;Why are we paying full price to use this park that's getting urinated on by dogs.&quot;",
+        "published": "Wed, 28 Oct 2026 07:35:24 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34824758.ece/ALTERNATES/s98/856055623_1585589459546741_5042150307545909851_njfif.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-deploying-officers-england-wales-34826441",
+        "title": "Police deploying officers from England and Wales on Glasgow streets amid Bonfire Night protest fears",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-deploying-officers-england-wales-34826441",
+        "description": "The &quot;enhanced deployment&quot; will see officers drafted in from 18 different UK police forces, as Police Scotland prepares for one of the busiest nights in its calendar.",
+        "published": "Wed, 28 Oct 2026 07:19:23 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34826454.ece/ALTERNATES/s98/0_GettyImages-2244663594.jpg"
+      },
+      {
         "id": "11c3cd968328d7ed6929a833691d7333",
         "title": "Burst water main found in busy area as motorists warned to AVOID area",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26675980.water-disruption-warning-issued-milngavie-residents/",
@@ -3795,30 +3819,6 @@
         "description": "<p>Jordan Ballantyne, 31, from Glasgow, has spoken out about the life-changing impact of his stroke, which was caused by an autoimmune condition, and the crucial role his partner played in saving his life.</p>",
         "published": "Mon, 26 Oct 2026 17:04:28 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/26/16/28/55606058869_160fb2ee77_o.jpeg?width=1200&auto=webp&trim=0%2C150%2C0%2C150"
-      },
-      {
-        "id": "9310559",
-        "title": "Late Rangers and Scotland boss remembered with major \u00a350,000 donation to cancer unit that cared for him",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/late-rangers-and-scotland-boss-remembered-with-major-ps50000-donation-to-cancer-unit-that-cared-for-him-9310559",
-        "description": "<p>Ethel Smith honours her late husband\u2019s memory with a \u00a350,000 donation to the cancer unit that cared for the Rangers legend.  </p>",
-        "published": "Mon, 26 Oct 2026 17:00:57 GMT",
-        "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOmY1ODIzYzUxLTUyMTItNGM3OC04MDkyLTY4MGMxMDJjZWFmNTo3OWU4M2NhZS1lNGEyLTRlN2MtOTM3MS1kYTQ0NWFhYmNmNTQ=.jpg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "9cc8a72653cfde813d73438a39752507",
-        "title": "ScotRail announces speed restrictions on eight routes amid strong winds and rain",
-        "link": "https://www.glasgowtimes.co.uk/news/weather/26671774.scotrail-warns-delays-winds-bring-speed-restrictions/",
-        "description": "ScotRail customers are being advised to check their journey before they travel as more strong winds and heavy rain are set to sweep across Scotland.",
-        "published": "Mon, 26 Oct 2026 17:00:27 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19784413/?type=app&htype=0"
-      },
-      {
-        "id": "9407a532b4ce9c47d867d790e455a1c0",
-        "title": "'Deeply missed': Tributes paid to man killed by falling tree in Storm Boelo",
-        "link": "https://www.heraldscotland.com/news/26671637.tributes-paid-curator-killed-tree-storm-boelo/",
-        "description": "Tributes paid to 60-year-old Richard Baines, Logan Botanic Garden curator, who died after a falling tree hit him near Castle Douglas during Storm Boelo on October 25.",
-        "published": "Mon, 26 Oct 2026 16:48:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21633343/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
