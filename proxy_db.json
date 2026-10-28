@@ -3021,6 +3021,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://runabc.co.uk/sidlaw-ultra-2026-takes-runners-69k-between-two-scottish-castles",
+        "title": "Sidlaw Ultra 2026 Takes Runners 69K Between Two Scottish Castles",
+        "link": "https://runabc.co.uk/sidlaw-ultra-2026-takes-runners-69k-between-two-scottish-castles",
+        "description": "<p><img alt=\"Sidlaw Ultra 2026\" src=\"https://runabc.co.uk/images/2026/10/sidlaw-ultra-2026.jpg\" /></p>\n\t\t\t\t<p>Sidlaw Ultra returns on 28 November for its fourth edition, challenging runners to cover 69K across the Sidlaw Hills between Glamis Castle and Scone Palace...</p>",
+        "published": "Wed, 28 Oct 2026 07:55:00 +0000",
+        "image_url": "https://runabc.co.uk/images/2026/10/sidlaw-ultra-2026.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-make-two-more-arrests-34826972",
         "title": "Police make two more arrests after man 'assaulted' in Paisley home",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-make-two-more-arrests-34826972",
@@ -3811,14 +3819,6 @@
         "description": "In Saltcoats, crews have worked since Sunday night to pump millions of litres of floodwater away from a care home on Sidney Street",
         "published": "Mon, 26 Oct 2026 18:26:21 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/5d4e0d7f7e2130d0fb5b61c86ddf8eae-1793038124-1200x720.jpeg"
-      },
-      {
-        "id": "9309672",
-        "title": "Ex-refs slam 'bonkers' VAR in Rangers vs St Johnstone as decision highlights 'problem' with modern officiating",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/ex-referees-slam-bonkers-var-in-rangers-vs-st-johnstone-as-decision-highlights-problem-with-modern-officiating-9309672",
-        "description": "<p>Heavily-scrutinised incident took place at Ibrox on Saturday</p>",
-        "published": "Mon, 26 Oct 2026 18:00:36 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/26/13/38/GettyImages-645274866.jpeg?width=1200&auto=webp&trim=28%2C0%2C28%2C0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
