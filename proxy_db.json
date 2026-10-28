@@ -3029,6 +3029,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=535451",
+        "title": "Seven to stand trial accused of vandalising Trump Turnberry",
+        "link": "https://news.stv.tv/west-central/seven-to-stand-trial-accused-of-vandalising-trump-turnberry",
+        "description": "The group's charge of causing malicious mischief is said to be aggravated by having a 'terrorist connection'",
+        "published": "Wed, 28 Oct 2026 12:17:34 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/e042cdb3706db627512ee279297620d0-1793189475.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-issue-update-after-two-34828830",
+        "title": "Police issue update after two-year-old Glasgow boy mauled by dog",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-issue-update-after-two-34828830",
+        "description": "The force has confirmed there will be no further police action.",
+        "published": "Wed, 28 Oct 2026 12:16:32 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34828929.ece/ALTERNATES/s98/0_Screenshot-2026-10-28-121006.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/martin-lewis-gives-verdict-108-34828849",
+        "title": "Martin Lewis gives verdict as \u00a3108 gas standing charge scrapped in Budget",
+        "link": "https://www.glasgowlive.co.uk/news/martin-lewis-gives-verdict-108-34828849",
+        "description": "An announcement was made this morning",
+        "published": "Wed, 28 Oct 2026 12:05:49 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/article34828848.ece/ALTERNATES/s98/0_A-Midsummer-Nights-Dream-Press-Night-VIP-Arrivals.jpg"
+      },
+      {
+        "id": "de1dbf20f3dbba43eb4e31a1ddd4becb",
+        "title": "Concern growing as 62-year-old reported missing from Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26677275.62-year-old-man-reported-missing-scotstoun-glasgow/",
+        "description": "Police appeal for information to find missing Glasgow man Zia Hussain, 62, last seen in Scotstoun on October 28 wearing a grey puffer jacket.",
+        "published": "Wed, 28 Oct 2026 12:04:43 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21641048/?type=app&htype=0"
+      },
+      {
+        "id": "9314280",
+        "title": "Pundit cracks the code of getting the best out of Rangers star as huge 'advantage' over Hearts identified",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/pundit-cracks-the-code-of-getting-the-best-out-of-rangers-star-as-huge-advantage-over-hearts-identified-9314280",
+        "description": "<p>Ex Aston Villa and Tottenham Hotspur man think Rangers\u2019 in-form striker needs a partner</p>",
+        "published": "Wed, 28 Oct 2026 12:00:21 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/28/11/25/GettyImages-2301812995.jpeg?width=1200&auto=webp&trim=30%2C0%2C30%2C0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/ca-building-glasgow-sauchiehall-street-34828414",
         "title": "C&A building on Glasgow Sauchiehall Street to become hotel as plans lodged",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/ca-building-glasgow-sauchiehall-street-34828414",
@@ -3101,6 +3141,22 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21640551/?type=app&htype=0"
       },
       {
+        "id": "1279f16b705de2ffd433775e61d65107",
+        "title": "SNP warns scrapping gas standing charges could raise bills for Scots",
+        "link": "https://www.heraldscotland.com/news/26676771.gas-standing-charges-scrapped-23m-homes-2027/",
+        "description": "Scottish households could end up paying more for gas under the Chancellor's plan to scrap standing charges, the SNP has warned.",
+        "published": "Wed, 28 Oct 2026 10:50:42 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21639756/?type=app&htype=0"
+      },
+      {
+        "id": "8b20659d2237f9d22eb252a6185e62c2",
+        "title": "Calmer weather follows in the wake of double-storm disruption",
+        "link": "https://www.heraldscotland.com/news/26676761.scotlands-weatherl-calm-days-ahead-dry-halloween-forecast/",
+        "description": "Scots are set for calmer weather after a battering of wind and rain from two autumn storms.",
+        "published": "Wed, 28 Oct 2026 10:49:19 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21629444/?type=app&htype=0"
+      },
+      {
         "id": "9572bbdde8a65a190cc8c550c86c432e",
         "title": "Iconic Star Wars experience coming to Glasgow to celebrate huge 50th anniversary",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26676698.star-wars-new-hope-concert-coming-glasgow-2027/",
@@ -3123,14 +3179,6 @@
         "description": "The Erskine Stewart Melville principal warns that political battles over private school VAT can create a false divide between the public and private sectors.",
         "published": "Wed, 28 Oct 2026 10:00:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21637457/?type=app&htype=0"
-      },
-      {
-        "id": "b60cbac0f6e6e5f7aa57043ecf578910",
-        "title": "See inside new-look ESM following historic merger",
-        "link": "https://www.heraldscotland.com/news/education/schools/26674600.inside-erskine-stewart-melville-following-historic-merger/",
-        "description": "The new-look campus at Erskine Stewart Melville offers pupils more opportunities to benefit from shared learning and teaching.",
-        "published": "Wed, 28 Oct 2026 10:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21637459/?type=app&htype=0"
       },
       {
         "id": "97b1f1073731af4dc46d614ac511d664",
@@ -3157,14 +3205,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21639923/?type=app&htype=0"
       },
       {
-        "id": "9eb3a0034ecf2db08e5021b725320cd5",
-        "title": "Christmas drive-in movie experience returning this December with 28 film screenings",
-        "link": "https://www.glasgowtimes.co.uk/news/26676314.drive-in-christmas-movie-event-returning-loch-lomond/",
-        "description": "A beloved drive-in Christmas movie experience is returning to Loch Lomond Shore this year with its biggest programme yet.",
-        "published": "Wed, 28 Oct 2026 09:32:12 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21639849/?type=app&htype=0"
-      },
-      {
         "id": "9313554",
         "title": "Iconic Glasgow sports shop set to close its doors after almost a century in business following Frasers Group buyout",
         "link": "https://www.glasgowworld.com/news/greaves-sports-close-store-glasgow-9313554",
@@ -3179,14 +3219,6 @@
         "description": "Scott Miller, 39, has been jailed for 11 years after being found guilty of serious violence and sexual abuse of women.",
         "published": "Wed, 28 Oct 2026 09:27:19 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/19ba288fefcb93c49778959ad6b09c77-1793178910-1120x720.jpeg"
-      },
-      {
-        "id": "854aab7d6e5d5726a350a31ad307ce4c",
-        "title": "Death of stalker who murdered ex-girlfriend with hammer to be probed",
-        "link": "https://www.heraldscotland.com/news/26676283.fatal-accident-inquiry-launched-prison-death-stuart-drury/",
-        "description": "The death of a man who killed his former girlfriend in a frenzied hammer attack is to be probed in a Fatal Accident Inquiry.",
-        "published": "Wed, 28 Oct 2026 09:25:52 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/20886714/?type=app&htype=0"
       },
       {
         "id": "3d7ef00b8acaaf80bd79c26b6310ea75",
@@ -3315,14 +3347,6 @@
         "description": "Industry consultant Liam Greasley warns that rising costs and under-investment are putting pressure on Scotland's traditional member-owned golf clubs",
         "published": "Wed, 28 Oct 2026 04:30:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21614842/?type=app&htype=0"
-      },
-      {
-        "id": "76bbcd7cf808d84ada5771357e3e6ad2",
-        "title": "John Healey promises 'fresh hope' in first Budget but polls shows public pessimistic",
-        "link": "https://www.heraldscotland.com/news/26675582.chancellor-promises-breathing-space-first-budget/",
-        "description": "Chancellor John Healey delivers his first Budget promising resilience and relief, but with fiscal headroom potentially halved to \u00a312bn and public scepticism high, Scotland's leaders are demanding more than warm words.",
-        "published": "Wed, 28 Oct 2026 00:01:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21211877/?type=app&htype=0"
       },
       {
         "id": "cf677e669eeef6abdf10b8ccdece521c",
@@ -3581,22 +3605,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21542511/?type=app&htype=0"
       },
       {
-        "id": "d2404fbf135280c2f7107c2239f85935",
-        "title": "'The council failed us by not deploying flood barriers - we're picking up the pieces'",
-        "link": "https://www.glasgowtimes.co.uk/news/weather/26674543.renfrew-businesses-say-council-failed-flood-barriers-not-used/",
-        "description": "Renfrew business owners who are picking up the pieces after their premises were submerged during Storm Boelo say the council \"failed them\" after multi-million pound flood prevention barriers were not raised",
-        "published": "Tue, 27 Oct 2026 14:43:50 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21637001/?type=app&htype=0"
-      },
-      {
-        "id": "199240ed10c78bd0acea03f413275191",
-        "title": "Sheriff identifies safety lessons following adventure water activity deaths",
-        "link": "https://www.heraldscotland.com/news/26674519.sheriff-makes-safety-recommendations-water-deaths-inquiry/",
-        "description": "A sheriff has made recommendations aimed at improving safety for water adventure activities following an inquiry into the deaths of a 12-year-old boy and a man in incidents five years apart.",
-        "published": "Tue, 27 Oct 2026 14:40:56 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/10215204/?type=app&htype=0"
-      },
-      {
         "id": "5074ffd4c8b216e48cb90aa3ba7e54fa",
         "title": "'Not April Fool\u2019s Day': Confusion as wallaby spotted in the wild in Perthshire",
         "link": "https://www.heraldscotland.com/news/26674401.confusion-wallaby-spotted-wild-perthshire/",
@@ -3635,14 +3643,6 @@
         "description": "A man who\u00a0handed a 13-year-old boy a flare during an Old Firm game failed today to have his football ban repealed.",
         "published": "Tue, 27 Oct 2026 13:39:42 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/14465588/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=535270",
-        "title": "Lifeboat crew battle gale-force winds and rough seas to rescue island patient during Storm Boelo",
-        "link": "https://news.stv.tv/west-central/lifeboat-crew-battle-gale-force-winds-and-rough-seas-to-rescue-island-patient-during-storm-boelo",
-        "description": "Troon lifeboat was tasked with helping transport a medical team to the Isle of Cumbrae during Storm Boelo",
-        "published": "Tue, 27 Oct 2026 13:24:39 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/0427b15c4d0beb3c37a7999bdd2ebdc4-1793105395-1280x720.jpeg"
       },
       {
         "id": "6e34151c42b17321442d6fa9c30c2027",
@@ -3693,28 +3693,12 @@
         "image_url": "https://www.heraldscotland.com/resources/images/17592764/?type=app&htype=0"
       },
       {
-        "id": "2ff4b56df719a3a217a8f64b61b6ed3c",
-        "title": "\u2018We couldn\u2019t do anything\u2019 - Dumbarton traders devastated as floods wreak havoc",
-        "link": "https://www.glasgowtimes.co.uk/news/26673730.dumbarton-shops-devastated-flooding-storm-boelo/",
-        "description": "A Dumbarton caf\u00e9 owner has been left devastated just months after opening as Storm Boelo flooded High Street, with other traders also left in ruin.",
-        "published": "Tue, 27 Oct 2026 12:12:31 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21631465/?type=app&htype=0"
-      },
-      {
         "id": "0cdbfcbe786f31c2fa3bc938beea9c34",
         "title": "Glasgow shopkeeper urges action on retail crime and illicit tobacco during MSP visit",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26673694.msp-meets-glasgow-shopkeeper-discuss-retail-crime/",
         "description": "Retail crime, tobacco regulations, and recycling schemes were all on the agenda during a recent meeting between an MSP and a leading shopkeeper.",
         "published": "Tue, 27 Oct 2026 12:07:22 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20417309/?type=app&htype=0"
-      },
-      {
-        "id": "b11db64102d37593133706ec678e75a6",
-        "title": "Two-year-old boy rushed to hopsital after dog attack inside Glasgow property",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26673683.two-year-old-boy-taken-hospital-glasgow-dog-attack/",
-        "description": "A two-year-old boy was taken to hospital after a dog attack at a Glasgow property on October 26. Police Scotland say the dog was euthanised and enquiries continue.",
-        "published": "Tue, 27 Oct 2026 12:05:46 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13757694/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=535250",
@@ -3795,14 +3779,6 @@
         "description": "Burst water main disrupts water supplies in Milngavie and G62 for a second day as Scottish Water repairs continue, with pressure expected to recover on October 27.",
         "published": "Tue, 27 Oct 2026 11:06:09 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20496663/?type=app&htype=0"
-      },
-      {
-        "id": "6ea0dd7305220c1cfac5f9ef41024edb",
-        "title": "Alcohol deaths in Scotland down 3 per cent as gap between richest and poorest widens",
-        "link": "https://www.heraldscotland.com/news/26673216.scotland-alcohol-deaths-fall-3-per-cent-inequality-widens/",
-        "description": "The total number of alcohol deaths in Scotland has dropped by 3%, new figures show, but the gap between the richest and poorest has increased.",
-        "published": "Tue, 27 Oct 2026 10:56:54 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/17403656/?type=app&htype=0"
       },
       {
         "id": "d322ec9d72072391741f920fd851c68e",
