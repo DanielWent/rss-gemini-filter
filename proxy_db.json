@@ -3029,6 +3029,126 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "b86ce4a6773917a58dac68f36c578db5",
+        "title": "John Healey scraps Reeves' \u00a38,000 ISA cut as 'savers will be delighted'",
+        "link": "https://www.glasgowtimes.co.uk/news/26678302.john-healey-scraps-reeves-8-000-isa-cut-budget-shock/",
+        "description": "Chancellor John Healey has reversed unpopular plans to cut the annual ISA allowance from \u00a320,000 to \u00a312,000 in a potential boost for savers.",
+        "published": "Wed, 28 Oct 2026 14:55:53 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21640900/?type=app&htype=0"
+      },
+      {
+        "id": "aaeb8801d89ca911b9edfe31231400b5",
+        "title": "\u00a3100 energy bill support to be sent directly to bank accounts for 20 million people",
+        "link": "https://www.glasgowtimes.co.uk/news/26678253.100-energy-bill-support-sent-directly-bank-accounts/",
+        "description": "John Healey has announced a \u00a3100 energy payment for 20 million households in council tax bands A to D, with money paid directly into bank accounts this winter.",
+        "published": "Wed, 28 Oct 2026 14:49:21 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21641346/?type=app&htype=0"
+      },
+      {
+        "id": "91756e55cdfa8b9e52de75f17fe02816",
+        "title": "12 ways John Healey\u2019s Budget 2026 plans could affect your money",
+        "link": "https://www.glasgowtimes.co.uk/news/26678222.budget-2026-12-ways-john-healeys-plans-affect-money/",
+        "description": "Find out what John Healey\u2019s Budget 2026 means for your money, from \u00a3100 bank payments and pension tax changes to cash ISAs, fuel duty and savings.",
+        "published": "Wed, 28 Oct 2026 14:44:21 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21641598/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/three-northern-irish-men-jailed-34829980",
+        "title": "Three Northern Irish men jailed after vicious attack on Celtic supporter outside Ibrox",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/three-northern-irish-men-jailed-34829980",
+        "description": "The thugs were filmed on a police drone stamping on the head and body of a 48-year-old man as he was trying to get on a Celtic supporters\u2019 bus.",
+        "published": "Wed, 28 Oct 2026 14:39:23 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34830023.ece/ALTERNATES/s98/0_Screenshot-102.png"
+      },
+      {
+        "id": "de8dbe3550c046064851e763eef0e542",
+        "title": "Glasgow Rangers trio jailed after Celtic fan left with brain bleed outside Ibrox",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26678189.rangers-trio-jailed-celtic-fan-left-brain-bleed/",
+        "description": "Three Rangers fans have been jailed after an attack on a Celtic supporter outside Ibrox following an Old Firm match.",
+        "published": "Wed, 28 Oct 2026 14:38:25 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21642064/?type=app&htype=0"
+      },
+      {
+        "id": "b0ae04c1d416f015014890dbefebb7e6",
+        "title": "'Hammer blow' as Acorn carbon capture funding commitment withdrawn in Budget",
+        "link": "https://www.heraldscotland.com/news/26678086.acorn-carbon-capture-project-st-fergus-loses-budget-cash/",
+        "description": "The Acorn carbon capture project at St Fergus has been left without confirmed grant funding in the Budget, as the UK Government diverted \u00a3200 million towards defence and prioritised clusters in Teesside, Merseyside and North Wales, putting 15,000 North Sea jobs at risk.",
+        "published": "Wed, 28 Oct 2026 14:20:52 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21641929/?type=app&htype=0"
+      },
+      {
+        "id": "82bfc832f5e32bc60cd8edf84d3849f8",
+        "title": "Prime Minister commits to return to Glasgow's East End",
+        "link": "https://www.glasgowtimes.co.uk/news/26678056.prime-minister-commits-return-visit-easterhouse/",
+        "description": "On October 27, Andy Burnham committed to visit FARE Scotland in Easterhouse, supporting its \u2018names, not numbers\u2019 approach to youth unemployment.",
+        "published": "Wed, 28 Oct 2026 14:15:04 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21226333/?type=app&htype=0"
+      },
+      {
+        "id": "ca22e1180293e6299313fd782104820b",
+        "title": "Rocky and Bowie amongst those coming to Glasgow cinema next month",
+        "link": "https://www.glasgowtimes.co.uk/news/26678026.rocky-david-bowie-return-screens-glasgow-cinema/",
+        "description": "Glasgow Film Theatre\u2019s November programme brings back Rocky and David Bowie\u2019s The Man Who Fell to Earth, plus festivals, family films and accessible screenings.",
+        "published": "Wed, 28 Oct 2026 14:10:33 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20398311/?type=app&htype=0"
+      },
+      {
+        "id": "d895cff26c11db9d451f0a587c18de0d",
+        "title": "Scottish Greens accuse 2026 Budget of letting oil and gas giants \u2018off the hook\u2019",
+        "link": "https://www.heraldscotland.com/news/26677833.scottish-greens-criticise-2026-budget-oil-gas-windfall-tax/",
+        "description": "Scottish Greens\u2019 Ross Greer accuses the UK Government of sparing oil and gas giants in the 2026 Budget as fuel poverty and energy bills soar in Scotland.",
+        "published": "Wed, 28 Oct 2026 14:07:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/18243236/?type=app&htype=0"
+      },
+      {
+        "id": "4fb62267c06008a4e986654533a2d815",
+        "title": "Glasgow SEC secures \u00a36m for major transformation of Hydro and Armadillo site",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26677957.glasgow-sec-secures-6m-first-phase-transformation/",
+        "description": "Glasgow SEC secures \u00a36m UK Government funding to transform the OVO Hydro campus, with a new East Plaza forming the first phase of Destination SEC plans.",
+        "published": "Wed, 28 Oct 2026 14:00:01 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21641769/?type=app&htype=0"
+      },
+      {
+        "id": "3647e473dfd887215b3824ab26317052",
+        "title": "Bomb squad called to report of possible ordnance at Glasgow tenement",
+        "link": "https://www.heraldscotland.com/news/26677942.bomb-squad-called-glasgow-tenement-ordnance-fears/",
+        "description": "Bomb squad officers were called to a Glasgow tenement after the discovery of a suspicious device.",
+        "published": "Wed, 28 Oct 2026 13:58:24 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21368750/?type=app&htype=47"
+      },
+      {
+        "id": "40118ea2f151fe2e33abafc5962a3b72",
+        "title": "Andy Murray surprises school pupils during visit to headquarters near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26677933.andy-murray-surprises-school-pupils-airdrie-hq-visit/",
+        "description": "Tennis legend Andy Murray surprised school pupils as he toured Albert Bartlett\u2019s Airdrie headquarters and met staff behind the brand.",
+        "published": "Wed, 28 Oct 2026 13:56:56 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21641755/?type=app&htype=0"
+      },
+      {
+        "id": "0479d6d0736048d7df919fae8fd05d05",
+        "title": "The Snuts to headline special Glasgow show with rising indie acts",
+        "link": "https://www.glasgowtimes.co.uk/news/26677856.snuts-announce-special-glasgow-show-coming-artists/",
+        "description": "The huge indie band has announced a new tour with a Glasgow date included.",
+        "published": "Wed, 28 Oct 2026 13:45:10 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21401687/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cmx2qr09r33yo#0",
+        "title": "Sensory maze park on Ayr seafront approved despite 110 objections",
+        "link": "https://www.bbc.co.uk/news/articles/cmx2qr09r33yo?at_medium=RSS&at_campaign=rss",
+        "description": "The proposed \u00a3400,000 park is on a former putting green at Ayr Low Green and is intended to provide an accessible space for different generations.",
+        "published": "Wed, 28 Oct 2026 13:43:26 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee4e/live/5252a8b0-d2d2-11f1-a701-fddedf244c16.jpg"
+      },
+      {
+        "id": "4404e5d0169b41ee361e1bb5fdfa96a9",
+        "title": "UK launches data centre covenant in 2026 Budget with jobs and water protection rules",
+        "link": "https://www.heraldscotland.com/news/26677668.budget-2026-uk-data-centre-covenant-announced-tied-grid-access/",
+        "description": "UK Government unveils British data centre covenant, requiring local jobs, community investment and water protection in return for faster grid connections.",
+        "published": "Wed, 28 Oct 2026 13:32:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20113996/?type=app&htype=0"
+      },
+      {
         "id": "6c2c5f1bbebd0832179f203c6de561b7",
         "title": "Rangers fan who ran across Ibrox pitch and kicked Glasgow Celtic supporter faces jail",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26677661.rangers-fan-kicked-celtic-supporter-faces-jail/",
@@ -3707,126 +3827,6 @@
         "description": "Crimestoppers urges Scots to report planned Bonfire Night attacks, illegal fireworks and fire-raising targeting emergency workers anonymously in Scotland.",
         "published": "Tue, 27 Oct 2026 12:42:16 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/12443741/?type=app&htype=0"
-      },
-      {
-        "id": "7f2065e5a9650caaf25aabd45531662e",
-        "title": "Teenage girls who ambushed man and woman at Glasgow chip shop face jail",
-        "link": "https://www.heraldscotland.com/news/26673877.teenage-girls-face-jail-glasgow-city-centre-chip-shop-assaults/",
-        "description": "The 17-year-olds, who cannot be named for legal reasons, pounced on Chloe Rees and Blair McFarlane at Blue Lagoon on Glasgow city centre's Gordon Street on December 16, 2025",
-        "published": "Tue, 27 Oct 2026 12:40:41 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/17592764/?type=app&htype=0"
-      },
-      {
-        "id": "0cdbfcbe786f31c2fa3bc938beea9c34",
-        "title": "Glasgow shopkeeper urges action on retail crime and illicit tobacco during MSP visit",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26673694.msp-meets-glasgow-shopkeeper-discuss-retail-crime/",
-        "description": "Retail crime, tobacco regulations, and recycling schemes were all on the agenda during a recent meeting between an MSP and a leading shopkeeper.",
-        "published": "Tue, 27 Oct 2026 12:07:22 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20417309/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=535250",
-        "title": "University Cafe owner celebrated as \u2018local royalty\u2019 with portrait by artist who painted King Charles",
-        "link": "https://news.stv.tv/west-central/university-cafe-owner-celebrated-as-local-royalty-with-portrait-by-artist-who-painted-king-charles",
-        "description": "Gino Verrecchia is one of four independent business owners to be painted for a new exhibition entitled Local Royalty at the Saatchi Gallery",
-        "published": "Tue, 27 Oct 2026 12:02:16 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/3fc3061022d051c2718566f2fadaa7d5-1793100438-1280x720.jpeg"
-      },
-      {
-        "id": "9311322",
-        "title": "Celtic won't 'entertain' January bids for star amid transfer speculation as potential exit timeline outlined",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-wont-entertain-january-bids-for-key-star-as-potential-exit-timeline-outlined-amid-transfer-speculation-9311322",
-        "description": "<p>Defender has been the subject of transfer speculation</p>",
-        "published": "Tue, 27 Oct 2026 12:00:50 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/27/10/35/GettyImages-2194705242.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "9311063",
-        "title": "Rangers legend calls on them to lay down Hearts marker as Tynecastle 'fist fight' match expected",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-legend-calls-on-them-to-lay-down-hearts-marker-as-tynecastle-fist-fight-match-expected-in-premiership-9311063",
-        "description": "<p>The Jambos dominated the title race last season but were pipped by Celtic on the final day</p>",
-        "published": "Tue, 27 Oct 2026 12:00:35 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/27/10/17/GettyImages-2274491348-(2).jpeg?width=1200&auto=webp&trim=0%2C0%2C1%2C0"
-      },
-      {
-        "id": "f9cdc75c7bc36202e7127fc71beaf9a0",
-        "title": "Nine buildings at former private school could be demolished after fire and break-ins",
-        "link": "https://www.glasgowtimes.co.uk/news/26673401.fernhill-school-rutherglen-plans-demolish-nine-buildings/",
-        "description": "Plans have been lodged to demolish nine buildings at the former Fernhill School in Rutherglen after reports of break-ins, antisocial behaviour and a fire.",
-        "published": "Tue, 27 Oct 2026 12:00:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21636021/?type=app&htype=0"
-      },
-      {
-        "id": "982160dc4fb75630b790308fa140cd65",
-        "title": "NHS Tayside scientist snooped on 386 patients\u2019 records 497 times without authority",
-        "link": "https://www.heraldscotland.com/news/26673569.questions-board-massive-ninewells-data-breach/",
-        "description": "A clinical scientist at Ninewells Hospital was sacked after accessing 386 patient records 497 times without authority \u2014 a breach the health board never made public, now exposed through an employment tribunal judgment.",
-        "published": "Tue, 27 Oct 2026 11:48:56 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21636190/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-trains-disrupted-after-tree-34823169",
-        "title": "Glasgow trains disrupted after tree falls on line amid more stormy weather",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-trains-disrupted-after-tree-34823169",
-        "description": "Passengers are being urged to check before they travel.",
-        "published": "Tue, 27 Oct 2026 11:31:14 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34823190.ece/ALTERNATES/s98/0_HVock18WMAA4nCijfif.jpg"
-      },
-      {
-        "id": "9311564",
-        "title": "Unison recommends Glasgow City Council staff reject pay and grading offer",
-        "link": "https://www.glasgowworld.com/news/glasgow-city-council-pay-offer-unison-recommendation-9311564",
-        "description": "<p>Unison has recommended its members at Glasgow City Council reject the local authority's pay and grading offer, citing concerns over thousands of jobs still to be evaluated and the impact on lower-grade staff.</p>",
-        "published": "Tue, 27 Oct 2026 11:29:25 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/26/13/cs-8208c895-3b1d-4210-a41f-4e851650760a.jpg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "53b0609183895097f6e704e26258209c",
-        "title": "Homicide deaths rise by almost a fifth but remain Scotland\u2019s fourth-lowest on record",
-        "link": "https://www.heraldscotland.com/news/26673427.homicide-deaths-scotland-rise-56---fourth-lowest-record/",
-        "description": "Two-thirds of women were killed by a partner or ex-partner",
-        "published": "Tue, 27 Oct 2026 11:29:18 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/20229488/?type=app&htype=0"
-      },
-      {
-        "id": "cd669406b5dc69850d9de78e57837af3",
-        "title": "Number of new homes in Scotland's housing stock at lowest since 2015, figures show",
-        "link": "https://www.heraldscotland.com/news/26673385.number-new-homes-scotlands-housing-stock-lowest-since-2015/",
-        "description": "The number of new homes in Scotland\u2019s housing stock is at the lowest level for more than a decade, statistics show.",
-        "published": "Tue, 27 Oct 2026 11:22:41 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/16643196/?type=app&htype=0"
-      },
-      {
-        "id": "aa1531150649a4e692fba7b01ab9d860",
-        "title": "Water supplies hit by burst main for second day in town outside Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/26673260.burst-water-main-disrupts-milngavie-supplies-second-day/",
-        "description": "Burst water main disrupts water supplies in Milngavie and G62 for a second day as Scottish Water repairs continue, with pressure expected to recover on October 27.",
-        "published": "Tue, 27 Oct 2026 11:06:09 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20496663/?type=app&htype=0"
-      },
-      {
-        "id": "d322ec9d72072391741f920fd851c68e",
-        "title": "Housing association launches measures to support tenants experiencing domestic abuse",
-        "link": "https://www.glasgowtimes.co.uk/news/26673163.thenue-housing-launched-domestic-abuse-support-policy/",
-        "description": "Thenue Housing has introduced new measures to support tenants experiencing domestic abuse.",
-        "published": "Tue, 27 Oct 2026 10:50:08 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21548595/?type=app&htype=0"
-      },
-      {
-        "id": "b18cc80ea05546758d9f81b8f8336203",
-        "title": "The Social Hub submits plans for \u00a3200 million Edinburgh destination",
-        "link": "https://www.heraldscotland.com/news/26673053.social-hub-submits-200m-plans-edinburgh-site/",
-        "description": "The Social Hub has submitted plans to reimagine a long\u2011derelict site in Edinburgh as a \u00a3200 million hospitality and community 'powerhouse'.",
-        "published": "Tue, 27 Oct 2026 10:35:11 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21635301/?type=app&htype=0"
-      },
-      {
-        "id": "c6b4de27ee9a7729a6980da4fc673892",
-        "title": "Beloved Glasgow band announce long awaited return with new album and hometown show",
-        "link": "https://www.glasgowtimes.co.uk/news/26672946.glasvegas-announce-long-awaited-return-glasgow-show/",
-        "description": "Glasvegas announce Airy Fairy, their first album in six years, due April 2, 2027, plus a UK and Ireland tour with an O2 Academy Glasgow show.",
-        "published": "Tue, 27 Oct 2026 10:19:18 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19237118/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
