@@ -3021,6 +3021,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-make-two-more-arrests-34826972",
+        "title": "Police make two more arrests after man 'assaulted' in Paisley home",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-make-two-more-arrests-34826972",
+        "description": "A 55-year-old man was rushed to hospital after being found seriously injured.",
+        "published": "Wed, 28 Oct 2026 07:54:21 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34789900.ece/ALTERNATES/s98/1_gettyimages-2149131222-170667a-1.jpg"
+      },
+      {
         "id": "8df0337822a1809ce19bdb1a7741a277",
         "title": "Huge Scottish band 'gutted' as final Glasgow show at SWG3 cancelled",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26676017.vida-cancel-final-glasgow-show-due-medical-issue/",
@@ -3061,20 +3069,36 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19846632/?type=app&htype=0"
       },
       {
+        "id": "c76afd4fe34c6d885efede31eee23c0e",
+        "title": "\u2018I had suicidal thoughts\u2019: Scots police watchdog exposes welfare failings",
+        "link": "https://www.heraldscotland.com/news/26675001.police-scotland-criticised-officer-welfare-support/",
+        "description": "HMICS has called for better welfare support for Police Scotland officers under investigation after hearing accounts of isolation, suicidal thoughts and fears of job loss.",
+        "published": "Wed, 28 Oct 2026 06:34:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/17555615/?type=app&htype=0"
+      },
+      {
+        "id": "9a027052fd773b4e0d2e30a07517fb6a",
+        "title": "Councillors set to adopt code of conduct cracking down on \u2018derogatory language'",
+        "link": "https://www.heraldscotland.com/news/26675386.edinburgh-councillors-set-adopt-new-code-conduct/",
+        "description": "The charter asks councillors to \"treat all individuals with dignity, courtesy, and respect, regardless of political affiliation, role, or background\".",
+        "published": "Wed, 28 Oct 2026 06:30:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20564748/?type=app&htype=0"
+      },
+      {
+        "id": "945bc67085b831c4f8a99d5518ec50bf",
+        "title": "OK, Police Scotland may have been a good idea - but a what shame it isn't working",
+        "link": "https://www.heraldscotland.com/politics/viewpoint/26672870.ok-police-scotland-may-good-idea---shame-isnt-working/",
+        "description": "If police reform is judged a success while the service itself struggles to meet public demand, what does that tell us about what wider public-sector reform might have in store, asks Calum Steele",
+        "published": "Wed, 28 Oct 2026 06:30:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/17614856/?type=app&htype=0"
+      },
+      {
         "id": "3e8acf133dc1bf7273c4537862ef9afb",
         "title": "Budget 2026 live: John Healey\u2019s first Budget and what it means for Scotland",
         "link": "https://www.heraldscotland.com/news/26675968.autumn-budget-2026-live/",
         "description": "Chancellor John Healey is delivering his first Budget in the House of Commons, promising \u201cbreathing space\u201d for households alongside targeted cost-of-living fixes. Follow our live coverage for full coverage.",
         "published": "Wed, 28 Oct 2026 06:20:14 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/20240002/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cmgqwgpjpjngo#0",
-        "title": "Bonfire Night policing will be 'largest operation since Trump visit'",
-        "link": "https://www.bbc.co.uk/news/articles/cmgqwgpjpjngo?at_medium=RSS&at_campaign=rss",
-        "description": "As many as 1,700 officers could be deployed to deal with fireworks-related disorder, a European football match and potential protests in Glasgow.",
-        "published": "Wed, 28 Oct 2026 06:15:15 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd62/live/bb345cf0-d225-11f1-93e1-3b657b665bcf.jpg"
       },
       {
         "id": "0f35fa9f36a6f8d9d2e53139c4f9430e",
@@ -3795,30 +3819,6 @@
         "description": "<p>Heavily-scrutinised incident took place at Ibrox on Saturday</p>",
         "published": "Mon, 26 Oct 2026 18:00:36 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/26/13/38/GettyImages-645274866.jpeg?width=1200&auto=webp&trim=28%2C0%2C28%2C0"
-      },
-      {
-        "id": "9309392",
-        "title": "Celtic stumble upon 'obstacle' for long-term manager target as Crystal Palace become latest competition",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-stumble-upon-obstacle-for-long-term-manager-target-as-crystal-palace-become-latest-competition-9309392",
-        "description": "<p>Ex Ipswich Town and Manchester United man is currently out of work</p>",
-        "published": "Mon, 26 Oct 2026 18:00:25 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/26/12/27/GettyImages-2270873423.jpeg?width=1200&auto=webp&trim=0%2C0%2C1%2C0"
-      },
-      {
-        "id": "e2ad7dec8f734a09807e35908822b083",
-        "title": "Four men charged after police chase involving 'stolen' car in Glasgow's East End",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26671957.four-men-appear-court-glasgow-police-pursuit/",
-        "description": "Four men have appeared in court after a police pursuit in Glasgow's East End.",
-        "published": "Mon, 26 Oct 2026 17:36:14 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13068909/?type=app&htype=0"
-      },
-      {
-        "id": "9310598",
-        "title": "'I owe my life to her': Glasgow dad who had stroke at 29 reflects on recovery as new art installation unveiled",
-        "link": "https://www.glasgowworld.com/news/glasgow-dad-reflects-on-life-saving-stroke-recovery-9310598",
-        "description": "<p>Jordan Ballantyne, 31, from Glasgow, has spoken out about the life-changing impact of his stroke, which was caused by an autoimmune condition, and the crucial role his partner played in saving his life.</p>",
-        "published": "Mon, 26 Oct 2026 17:04:28 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/26/16/28/55606058869_160fb2ee77_o.jpeg?width=1200&auto=webp&trim=0%2C150%2C0%2C150"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
