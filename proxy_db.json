@@ -3029,6 +3029,62 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/ca-building-glasgow-sauchiehall-street-34828414",
+        "title": "C&A building on Glasgow Sauchiehall Street to become hotel as plans lodged",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/ca-building-glasgow-sauchiehall-street-34828414",
+        "description": "Glasgow City Council is considering an application to convert the store, which was last used by Dunnes.",
+        "published": "Wed, 28 Oct 2026 11:47:59 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34828421.ece/ALTERNATES/s98/0_dunneshotel.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/itison-drive-movies-return-loch-34828047",
+        "title": "Itison Drive-In Movies return to Loch Lomond this Christmas - and tickets go on sale very soon",
+        "link": "https://www.glasgowlive.co.uk/whats-on/itison-drive-movies-return-loch-34828047",
+        "description": "Tickets go on sale next week!",
+        "published": "Wed, 28 Oct 2026 11:47:48 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34828367.ece/ALTERNATES/s98/0_ITISON_DRIVEIN_CINEMA_NP-1-2.jpg"
+      },
+      {
+        "id": "9313657",
+        "title": "Whyte's returns to Glasgow for one-night-only pop-up at new Southside venue",
+        "link": "https://www.glasgowworld.com/lifestyle/food-and-drink/whytes-returns-to-glasgow-for-one-night-only-pop-up-at-next-door-9314061",
+        "description": "<p>A chef and restaurateur from an acclaimed London restaurant are coming to Glasgow\u2019s Southside for a special pop-up in November</p>",
+        "published": "Wed, 28 Oct 2026 11:47:36 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/28/9/12/Whytes-011.jpeg?width=1200&auto=webp&trim=1389%2C0%2C1389%2C0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c9ly0r53jy4po#0",
+        "title": "Trial date set for seven accused of vandalism at Trump Turnberry",
+        "link": "https://www.bbc.co.uk/news/articles/c9ly0r53jy4po?at_medium=RSS&at_campaign=rss",
+        "description": "The group are suspected of causing \"malicious mischief\" during a protest at the luxury resort in March last year.",
+        "published": "Wed, 28 Oct 2026 11:42:38 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2df0/live/6de780a0-d2c3-11f1-8e79-5381b0a9d682.jpg"
+      },
+      {
+        "id": "8af6a97a8ad5745df5a7a2417127d38d",
+        "title": "New Glasgow research centre opens to expand patient access to clinical trials",
+        "link": "https://www.glasgowtimes.co.uk/news/26677113.expanded-glasgow-clinical-research-centre-officially-opened/",
+        "description": "A new clinical research centre has opened, expanding opportunities for patient involvement in medical trials.",
+        "published": "Wed, 28 Oct 2026 11:41:34 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21640888/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/death-notorious-glasgow-killer-who-34828315",
+        "title": "Death of notorious Glasgow killer who attacked ex with hammer to be probed after three years",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/death-notorious-glasgow-killer-who-34828315",
+        "description": "Stuart Drury was jailed for life in August 2001, having killed Marilyn McKenna near her Glasgow home.",
+        "published": "Wed, 28 Oct 2026 11:35:41 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34828505.ece/ALTERNATES/s98/0_JS422675777.jpg"
+      },
+      {
+        "id": "9315084",
+        "title": "Glasgow pub anderson's launches dog-friendly Sunday roast",
+        "link": "https://www.glasgowworld.com/news/glasgow-pub-andersons-launches-dog-friendly-sunday-roast-9315084",
+        "description": "<p>  King Street venue, anderson\u2019s pub + institute has teamed up with Barklove to offer a special Sunday roast for dogs.  </p>",
+        "published": "Wed, 28 Oct 2026 11:31:30 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/28/11/47/SpouseAndersonsDoggos1520.jpeg?width=1200&auto=webp&trim=315%2C0%2C315%2C0"
+      },
+      {
         "id": "https://news.stv.tv/?p=535417",
         "title": "Man charged after four-vehicle crash in Croftfoot during rush hour",
         "link": "https://news.stv.tv/west-central/man-charged-after-four-vehicle-crash-in-croftfoot-during-rush-hour",
@@ -3339,6 +3395,14 @@
         "description": "Internal emails released to The Herald show NHS Fife's chief executive personally rewrote a tribunal statement her own lawyer had doubts about. Now Sandie Peggie's legal team wants those documents and says they support her unlawful victimisation claim.",
         "published": "Tue, 27 Oct 2026 17:46:12 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/20298260/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/sport/football/articles/cmj47zzy4778o#0",
+        "title": "Where are Celtic & O'Neill a year after Rodgers exit?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cmj47zzy4778o?at_medium=RSS&at_campaign=rss",
+        "description": "How should Martin O'Neill and Celtic be assessed a year since his arrival in place of Brendan Rodgers as manager?",
+        "published": "Tue, 27 Oct 2026 17:15:11 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d9c/live/048c89c0-d228-11f1-b8e4-17c9744a7f8e.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/lindt-unveils-new-chocolate-boutique-34825485",
@@ -3763,70 +3827,6 @@
         "description": "Glasvegas announce Airy Fairy, their first album in six years, due April 2, 2027, plus a UK and Ireland tour with an O2 Academy Glasgow show.",
         "published": "Tue, 27 Oct 2026 10:19:18 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19237118/?type=app&htype=0"
-      },
-      {
-        "id": "8a4b26d4247bf71f1cc97bd6daa0aa62",
-        "title": "Council cuts expected as \u00a340 million budget blackhole revealed",
-        "link": "https://www.heraldscotland.com/news/26672532.highland-council-cuts-expected-budget-blackhole-revealed/",
-        "description": "Highland Council will need to save almost \u00a340 million over the next three years to balance its books \u2013 well over what had been an expected gap of \u00a35 million.",
-        "published": "Tue, 27 Oct 2026 09:18:45 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/20997786/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-whose-daughter-died-34821905",
-        "title": "Glasgow mum whose daughter died in asthma attack feared she'd go the same way",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-whose-daughter-died-34821905",
-        "description": "Elaine Cunningham lost her 19-year-old daughter, Lauren, to an asthma attack in 2020.",
-        "published": "Tue, 27 Oct 2026 08:26:16 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34821956.ece/ALTERNATES/s98/0_JS231798703.jpg"
-      },
-      {
-        "id": "ebba2b9f8214c531296130d3db82fb89",
-        "title": "Glasgow flight to Spain declares emergency minutes after take-off and diverts",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26672309.glasgow-ryanair-flight-diverts-newcastle-emergency/",
-        "description": "Ryanair flight FR2522 from Glasgow to Alicante diverted to Newcastle after declaring an emergency shortly after take-off on October 26. Cause unknown.",
-        "published": "Tue, 27 Oct 2026 08:01:07 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19280860/?type=app&htype=0"
-      },
-      {
-        "id": "https://runabc.co.uk/west-lothian-shale-trail-2026-offers-four-ways-to-tackle-historic-route",
-        "title": "West Lothian Shale Trail 2026 Offers Four Ways To Tackle Historic Route",
-        "link": "https://runabc.co.uk/west-lothian-shale-trail-2026-offers-four-ways-to-tackle-historic-route",
-        "description": "<p><img alt=\"West Lothian Shale Trail 2026\" src=\"https://runabc.co.uk/images/2026/10/west-lothian-shale-trail-2026-v2.jpg\" /></p>\n\t\t\t\t<p>West Lothian Shale Trail takes place on 6 December, with four running challenges following a route through the region's industrial heritage, from a 9K introduction to a 50K ultra...</p>",
-        "published": "Tue, 27 Oct 2026 07:55:00 +0000",
-        "image_url": "https://runabc.co.uk/images/2026/10/west-lothian-shale-trail-2026-v2.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-call-extra-cash-strengthen-34820238",
-        "title": "Glasgow call for extra cash to 'strengthen policing' by recruiting more officers",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-call-extra-cash-strengthen-34820238",
-        "description": "Glasgow Labour leader Rashid Hussain has said residents across the city continue to raise community safety concerns.",
-        "published": "Tue, 27 Oct 2026 07:11:36 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33562257.ece/ALTERNATES/s98/0_JS90445567-1.jpg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=535085",
-        "title": "Glasgow Caledonian University staff begin nine days of strike action over job cuts",
-        "link": "https://news.stv.tv/west-central/glasgow-caledonian-university-staff-begin-nine-days-of-strike-action-over-job-cuts",
-        "description": "UCU members will walk out on Tuesday, Wednesday and Thursday before taking action for a further six days in November",
-        "published": "Tue, 27 Oct 2026 07:03:14 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/30f71c45274b31475b7e47604e3dd155-1789569523-1120x720.jpeg"
-      },
-      {
-        "id": "5f2a933d9cd720b1e2614fd1ed878a1d",
-        "title": "Fire crews and ambulance rush to scene of building fire at Glasgow shopping centre",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26672233.four-fire-appliances-attend-springburn-building-fire/",
-        "description": "Fire crews tackle building fire on Atlas Way in Springburn, Glasgow, as Scottish Fire and Rescue Service sends four appliances and a high-reach unit on scene.",
-        "published": "Tue, 27 Oct 2026 06:50:03 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19679258/?type=app&htype=0"
-      },
-      {
-        "id": "fd324265ae5c099894ec4005b5aba01b",
-        "title": "\u2018Climate of fear\u2019 warning as Scots councillor fights freedom of speech ruling",
-        "link": "https://www.heraldscotland.com/news/26671838.jennifer-stewart-freedom-speech-fight-councillor-suspension/",
-        "description": "Aberdeen councillor Jennifer Stewart says her freedom of speech was restricted after a Standards Commission for Scotland hearing led to a four-month suspension.",
-        "published": "Tue, 27 Oct 2026 06:31:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21633834/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
