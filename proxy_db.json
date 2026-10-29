@@ -3061,6 +3061,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "c9d08fbc033f3b9a5a3ef9d1fd29e5ae",
+        "title": "Friday Night Dinner and Gavin & Stacey stars to bring classic comedy to Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26682128.gavin-stacey-star-join-scottish-premiere-hit-play/",
+        "description": "Tom Rosenthal and Adrian Scarborough will star in the Scottish premiere of a play based on the works of P.G. Wodehouse.",
+        "published": "Thu, 29 Oct 2026 15:16:04 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21647644/?type=app&htype=0"
+      },
+      {
+        "id": "f6f0b9af9655e614670a31e4809e0338",
+        "title": "Dozens of jobs set to be created by \u00a312bn Scotland electricity upgrade",
+        "link": "https://www.glasgowtimes.co.uk/news/26682042.dozens-jobs-created-scotland-energy-network-deal/",
+        "description": "Dozens of jobs will be created in Scotland as Linxon wins an SP Energy Networks contract.",
+        "published": "Thu, 29 Oct 2026 15:02:27 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20536605/?type=app&htype=0"
+      },
+      {
+        "id": "b56fec473aa20feb593793555b31e8de",
+        "title": "Two men jailed after children spot bag of five guns hidden in Glasgow bushes",
+        "link": "https://www.glasgowtimes.co.uk/news/26681943.two-men-arrested-firearms-found-glasgow-street/",
+        "description": "Two Glasgow men, Reece Brown and Daniel Curran, admit possessing five converted pistols, ammunition and homemade silencers after children alerted police on May 5, 2026.",
+        "published": "Thu, 29 Oct 2026 14:48:12 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21647108/?type=app&htype=0"
+      },
+      {
         "id": "6ff5c0c6939c6c7faeb561ca04add17f",
         "title": "Take That star to perform DJ set at Glasgow charity event this December",
         "link": "https://www.glasgowtimes.co.uk/news/26681780.take-star-perform-dj-set-glasgow-charity-event/",
