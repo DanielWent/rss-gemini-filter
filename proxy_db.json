@@ -814,6 +814,14 @@
     "description": "AI Filtered Google Blog Updates.",
     "articles": [
       {
+        "id": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/",
+        "title": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+        "link": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/fileGen2.0-thumbnail-resize.max-600x600.format-webp.webp\" />Generate, edit, and preview PDFs or Docs directly in Gemini. Use the new full-screen editor to refine your files today. See what's new in Gemini.",
+        "published": "Thu, 29 Oct 2026 16:15:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/fileGen2.0-thumbnail-resize.max-600x600.format-webp.webp"
+      },
+      {
         "id": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/",
         "title": "Dive into new topics with immersive explorations in the Gemini app.",
         "link": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/",
@@ -3061,12 +3069,68 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "03f0defffa4ac71f4d650b923a320fd2",
+        "title": "Glasgow Labour calls for review of support for pupils with complex needs",
+        "link": "https://www.glasgowtimes.co.uk/news/26682415.glasgow-labour-calls-review-support-pupils/",
+        "description": "Glasgow Labour calls for a review of support and exam access for pupils with complex communication needs, ensuring disabled learners can show their abilities.",
+        "published": "Thu, 29 Oct 2026 16:04:16 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20533385/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/cctv-four-men-released-cops-34835902",
+        "title": "CCTV of four men released as cops investigate Glasgow robbery in broad daylight",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/cctv-four-men-released-cops-34835902",
+        "description": "Officers wish to speak to the four pictured and say they \u2018may be able to assist with enquiries\u201d.",
+        "published": "Thu, 29 Oct 2026 16:03:44 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34836020.ece/ALTERNATES/s98/0_Screenshot-2026-10-29-at-155854.png"
+      },
+      {
+        "id": "https://news.stv.tv/?p=535731",
+        "title": "UK Government commits \u00a36m to support Scottish Event Campus expansion plans in Glasgow",
+        "link": "https://news.stv.tv/west-central/uk-government-commits-6m-to-support-scottish-event-campus-expansion-plans-in-glasgow",
+        "description": "Chancellor John Healey confirmed the cash in his Autumn Budget on Wednesday",
+        "published": "Thu, 29 Oct 2026 16:02:38 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/cde50a071fd29ce8ebf9813061a2db77-1793282548.jpg"
+      },
+      {
+        "id": "fd7279c61bda52363cc4254fbb9ff31e",
+        "title": "Edinburgh University provost blocked from tourist tax board over programme closures",
+        "link": "https://www.heraldscotland.com/news/26682193.edinburgh-university-provosts-tourist-tax-board-appointment-blocked/",
+        "description": "Labour, SNP and Green councillors voted against appointing Professor Kim Graham to the forum, which advises the council on the 5 per cent nightly tourist tax.",
+        "published": "Thu, 29 Oct 2026 15:43:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21614140/?type=app&htype=0"
+      },
+      {
+        "id": "9d9ece5a09870cdf88ff64ec86e4e7e7",
+        "title": "Southside Glasgow road to close for nine days as Glasgow resurfacing works begin",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26682296.dumbreck-road-glasgow-close-resurfacing-works/",
+        "description": "A major road is set to close for resurfacing works.",
+        "published": "Thu, 29 Oct 2026 15:42:55 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17882119/?type=app&htype=74"
+      },
+      {
         "id": "efd0f96a3021348a1785d631e4123119",
         "title": "Delays expected as emergency road works near Glasgow university to last a week",
         "link": "https://www.glasgowtimes.co.uk/news/26682291.road-works-begin-near-glasgows-royal-conservatoire/",
         "description": "Glasgow traffic delays expected on Cambridge Street near the Royal Conservatoire of Scotland as emergency utility repairs run from October 29 to November 5.",
         "published": "Thu, 29 Oct 2026 15:42:19 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/16783333/?type=app&htype=0"
+      },
+      {
+        "id": "aee71e51c5d3289e2d8f692a4ee720a2",
+        "title": "Stronger whisky fermentation 'could cut distillery emissions by up to 16 per cent'",
+        "link": "https://www.heraldscotland.com/news/26682280.stronger-whisky-fermentation-cut-distillery-emissions---study/",
+        "description": "Researchers at Heriot-Watt University have found that producing a stronger alcoholic liquid before distillation could make Scotch malt whisky production more efficient by cutting energy use, carbon emissions and volume of liquid residues.",
+        "published": "Thu, 29 Oct 2026 15:40:45 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21647841/?type=app&htype=0"
+      },
+      {
+        "id": "7bd73d8e3dc41541ab69c2622917dee2",
+        "title": "Two men convicted after firearms recovered in Glasgow",
+        "link": "https://www.heraldscotland.com/news/26682136.two-men-convicted-firearms-recovered-glasgow/",
+        "description": "Two men are behind bars after a couple of eagle-eyed children clocked one of them trying to hide a deadly gun stash.",
+        "published": "Thu, 29 Oct 2026 15:17:04 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21647649/?type=app&htype=0"
       },
       {
         "id": "c9d08fbc033f3b9a5a3ef9d1fd29e5ae",
@@ -3093,6 +3157,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21647108/?type=app&htype=0"
       },
       {
+        "id": "34086b0b4a64aca66889cfb08113d73d",
+        "title": "Overweight offshore workers could lose job under new rules, industry body warns",
+        "link": "https://www.heraldscotland.com/news/26681860.overweight-offshore-workers-lose-job-new-rules/",
+        "description": "Hundreds of offshore workers could be at risk of losing their jobs when a new weight limit comes into effect next week, an industry body has warned.",
+        "published": "Thu, 29 Oct 2026 14:37:58 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21257538/?type=app&htype=0"
+      },
+      {
         "id": "6ff5c0c6939c6c7faeb561ca04add17f",
         "title": "Take That star to perform DJ set at Glasgow charity event this December",
         "link": "https://www.glasgowtimes.co.uk/news/26681780.take-star-perform-dj-set-glasgow-charity-event/",
@@ -3115,6 +3187,14 @@
         "description": "As the Celebrity Traitors comes to its dramatic conclusion, VisitScotland has revealed that fans are driving online interest in Scotland \u2013 with UK searches more than double those during the run of the first Celebrity Traitors series.",
         "published": "Thu, 29 Oct 2026 13:52:31 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21573468/?type=app&htype=0"
+      },
+      {
+        "id": "56f247dccb2bcf4f71e68fec8bf97a43",
+        "title": "Historic 112-year-old bandstand to reopen after devastating fire near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26681519.overtoun-bandstand-rutherglen-reopen-fire/",
+        "description": "Rutherglen\u2019s historic 112-year-old Overtoun Bandstand is set to reopen after a major restoration following a devastating fire in 2024.",
+        "published": "Thu, 29 Oct 2026 13:43:50 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21648117/?type=app&htype=566"
       },
       {
         "id": "https://news.stv.tv/?p=535711",
@@ -3171,6 +3251,14 @@
         "description": "Complaints made to the Scottish Public Services Ombudsman have reached a record high.",
         "published": "Thu, 29 Oct 2026 12:35:05 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21646120/?type=app&htype=0"
+      },
+      {
+        "id": "0862396515a8b44b54ae965ae04f6d44",
+        "title": "Homes for Scotland announces two senior promotions within executive team",
+        "link": "https://www.heraldscotland.com/news/26681103.two-senior-team-promotions-made-within-homes-scotland/",
+        "description": "Two senior promotions have been made within the executive team of Homes for Scotland.",
+        "published": "Thu, 29 Oct 2026 12:22:42 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21646012/?type=app&htype=0"
       },
       {
         "id": "633f55a75641bfa1bc0a246c927d9640",
