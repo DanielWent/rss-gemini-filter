@@ -3061,6 +3061,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=535711",
+        "title": "Man who raped and abused six women over 14-year period jailed",
+        "link": "https://news.stv.tv/west-central/man-who-raped-and-abused-six-women-over-14-year-period-jailed",
+        "description": "Steven MacLean grabbed a woman's face as she drove, causing her to crash into a wall then made her lie to police about the collision",
+        "published": "Thu, 29 Oct 2026 13:16:20 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2025/05/f80552903122b112511c63c30c41a9fc-1746179781.jpg"
+      },
+      {
+        "id": "083f5aa6440ce477856d909335ac79d7",
+        "title": "American brand announces first ever Scottish store ahead of Christmas rush",
+        "link": "https://www.glasgowtimes.co.uk/news/26681339.bath-body-works-open-first-standalone-scottish-store/",
+        "description": "Bath &amp; Body Works will open its first standalone Scottish store at Frasers Plus Braehead near Glasgow this winter, offering fragrances, body care and gifts.",
+        "published": "Thu, 29 Oct 2026 13:05:09 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19512403/?type=app&htype=0"
+      },
+      {
+        "id": "a4fc367a2ede3bc5dd0b9c6101d132e3",
+        "title": "Complaints about Scottish public services hit record high amid growing pressure",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26681177.scottish-public-service-complaints-rise-31-record-high/",
+        "description": "Complaints made to the Scottish Public Services Ombudsman have reached a record high.",
+        "published": "Thu, 29 Oct 2026 12:35:05 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21646120/?type=app&htype=0"
+      },
+      {
+        "id": "633f55a75641bfa1bc0a246c927d9640",
+        "title": "Aldi launches plans to open new Glasgow store at former car showroom",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26681064.aldi-plans-14m-new-glasgow-store-maryhill-road/",
+        "description": "Aldi proposes a \u00a314m Glasgow store on Maryhill Road, creating up to 35 jobs with 99 parking spaces. Public consultation takes place November 12.",
+        "published": "Thu, 29 Oct 2026 12:16:17 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21646309/?type=app&htype=0"
+      },
+      {
+        "id": "3d15de95ef811168c2dd5024b14cb80f",
+        "title": "Teen Celtic fan faces jail after storming Ibrox pitch and waving pole",
+        "link": "https://www.glasgowtimes.co.uk/news/26681061.tollcross-celtic-fan-faces-jail-storming-ibrox-pitch/",
+        "description": "A teenage Celtic fan who invaded the pitch at Ibrox after an Old Firm game and brandished a pole faces jail.",
+        "published": "Thu, 29 Oct 2026 12:16:11 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21633929/?type=app&htype=0"
+      },
+      {
         "id": "9317453",
         "title": "Derek McInnes chuffed with 'vitally important' Rangers stat after Hearts as Ibrox star named as standout",
         "link": "https://www.glasgowworld.com/sport/football/rangers/derek-mcinnes-chuffed-with-vitally-important-rangers-stat-in-hearts-stalemate-as-ibrox-star-named-as-standout-9317453",
