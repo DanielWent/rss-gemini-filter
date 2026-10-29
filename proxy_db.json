@@ -3061,6 +3061,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8da1a9c7904b6ac26a4240d85df34f66",
+        "title": "Section of busy Glasgow road to close for five days for utility works",
+        "link": "https://www.glasgowtimes.co.uk/news/26680207.busy-glasgow-road-close-five-days-amid-scottish-power-works/",
+        "description": "A section of a busy Glasgow road will shut for five days in November as Scottish Power carries out utility works, with diversions in place.",
+        "published": "Thu, 29 Oct 2026 10:12:11 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17705465/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/rough-sleepers-glasgow-beg-john-34832678",
+        "title": "Rough sleepers in Glasgow beg John Swinney to battle homelessness",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/rough-sleepers-glasgow-beg-john-34832678",
+        "description": "It comes after UK Chancellor John Healey pledged a further \u00a3432million to tackle rough sleeping south of the border.",
+        "published": "Thu, 29 Oct 2026 10:09:42 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34832781.ece/ALTERNATES/s98/0_JS422699844.jpg"
+      },
+      {
+        "id": "3ec89f3e306ff9e4d409d5de4071b23f",
+        "title": "Plans withdrawn for four homes beside primary school near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26680139.plans-four-homes-beside-lennoxtown-school-withdrawn/",
+        "description": "Plans to build four detached homes beside Lennoxtown Primary School have been withdrawn, according to council planning records.",
+        "published": "Thu, 29 Oct 2026 10:02:24 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21591974/?type=app&htype=0"
+      },
+      {
         "id": "e5163da8f889e15225c328bcfdd36db1",
         "title": "LIVE updates as huge crash sparks 20-minute delays on Glasgow motorway",
         "link": "https://www.glasgowtimes.co.uk/news/26679841.live-updates-m8-motorway-glasgow-city-centre-blocked/",
