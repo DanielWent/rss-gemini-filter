@@ -3061,6 +3061,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "6ff5c0c6939c6c7faeb561ca04add17f",
+        "title": "Take That star to perform DJ set at Glasgow charity event this December",
+        "link": "https://www.glasgowtimes.co.uk/news/26681780.take-star-perform-dj-set-glasgow-charity-event/",
+        "description": "Take That star Howard Donald is set to perform a DJ set at a Glasgow charity event this December.",
+        "published": "Thu, 29 Oct 2026 14:25:25 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21647024/?type=app&htype=0"
+      },
+      {
         "id": "9349b9aad61edf3e1d38122ca11448b1",
         "title": "Boy who lost four fingers in tragic firework blast issues powerful warning",
         "link": "https://www.glasgowtimes.co.uk/news/26681668.paisley-boy-lost-four-fingers-firework-blast-warns-others/",
@@ -3075,14 +3083,6 @@
         "description": "As the Celebrity Traitors comes to its dramatic conclusion, VisitScotland has revealed that fans are driving online interest in Scotland \u2013 with UK searches more than double those during the run of the first Celebrity Traitors series.",
         "published": "Thu, 29 Oct 2026 13:52:31 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21573468/?type=app&htype=0"
-      },
-      {
-        "id": "9ae0b957cc330f823c090f6df86b27f2",
-        "title": "Glasgow\u2019s Voi bike hires pass two million in less than a year",
-        "link": "https://www.heraldscotland.com/news/26681517.glasgow-voi-bike-hires-pass-two-million-less-year/",
-        "description": "More than 119,000 people have used the scheme since its launch in November 2025, travelling a combined 6.3 million kilometres",
-        "published": "Thu, 29 Oct 2026 13:43:29 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/20195853/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=535711",
@@ -3221,14 +3221,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21645419/?type=app&htype=0"
       },
       {
-        "id": "061be8bf0d9abc2c63f4221f35724b10",
-        "title": "Aldi unveils plans for new Glasgow store in city's West End",
-        "link": "https://www.heraldscotland.com/news/26680731.aldi-plans-new-14m-glasgow-store-maryhill-road/",
-        "description": "The store could create 35 jobs - and enhance the area's supermarket choice",
-        "published": "Thu, 29 Oct 2026 11:28:51 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21645382/?type=app&htype=0"
-      },
-      {
         "id": "9317850",
         "title": "The Gorbals Vampire: How a children's crusade against a fanged monster gripped 1950s Glasgow",
         "link": "https://www.glasgowworld.com/retro/the-gorbals-vampire-1950s-glasgow-9317850",
@@ -3347,14 +3339,6 @@
         "description": "Services could be delayed or cancelled",
         "published": "Thu, 29 Oct 2026 08:13:29 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/12228203/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/storm-boelo-flood-victims-demand-34832122",
-        "title": "Storm Boelo flood victims demand answers over \u00a310m Renfrew defence 'failure'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/storm-boelo-flood-victims-demand-34832122",
-        "description": "It comes after flood gates were not raised by Renfrewshire Council during the storm.",
-        "published": "Thu, 29 Oct 2026 07:56:38 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34832140.ece/ALTERNATES/s98/0_JS422598367.jpg"
       },
       {
         "id": "https://runabc.co.uk/glamis-castle-festive-trail-runs-2026-bring-christmas-running-to-angus",
