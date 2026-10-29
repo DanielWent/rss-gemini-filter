@@ -3061,12 +3061,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-woman-robbed-facebook-marketplace-34829593",
+        "title": "Glasgow woman robbed by Facebook Marketplace thieves warns of multiple homes being targeted",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-woman-robbed-facebook-marketplace-34829593",
+        "description": "Donna and her husband were left feeling &quot;violated&quot; after letting the pair into their home while their children slept upstairs.",
+        "published": "Thu, 29 Oct 2026 07:10:51 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34830667.ece/ALTERNATES/s98/0_Screenshot-2026-10-28-155546.png"
+      },
+      {
         "id": "8abcbb673de6e17e34f42cb329bd6afb",
         "title": "Surprising Glasgow figures revealed for Ozempic and Mounjaro prescriptions",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26679633.glasgow-nhs-high-ozempic-prescribing-despite-low-obesity/",
         "description": "NHS Scotland prescribing of Ozempic and Mounjaro varies widely, with Greater Glasgow and Clyde among the highest despite low obesity levels, ABPI report finds.",
         "published": "Thu, 29 Oct 2026 06:38:28 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21644120/?type=app&htype=0"
+      },
+      {
+        "id": "602586e881b87d9f18d1aff37da1b45f",
+        "title": "Big Country and Jacob Alon lead latest GUITARGUITAR Scottish Music Awards winners",
+        "link": "https://www.heraldscotland.com/news/26679029.big-country-lead-latest-guitarguitar-scottish-music-awards-winners/",
+        "description": "They join previously announced winners David Byrne, Susan Boyle, The Fratellis and Cammy Barnes for this year's ceremony, which will take place at Glasgow's iconic Barrowland Ballroom on host on Saturday, November 7",
+        "published": "Thu, 29 Oct 2026 06:37:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21643425/?type=app&htype=0"
+      },
+      {
+        "id": "f1a38ef60de0f4da1b8d63153eff7034",
+        "title": "SNP independence strategy: Does the party really want another referendum?",
+        "link": "https://www.heraldscotland.com/politics/holyrood/26678888.kevin-mckenna-snp-really-want-scottish-independence/",
+        "description": "Kevin McKenna takes a caustic look at the SNP\u2019s independence strategy, questioning whether the party\u2019s leadership really wants a second referendum and what another vote would mean for Scottish politics.",
+        "published": "Thu, 29 Oct 2026 06:30:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21596146/?type=app&htype=0"
+      },
+      {
+        "id": "993aae6e53804251d05c506dc0dbf7d0",
+        "title": "74p in every pound goes to tax as Scot whisky industry sounds alarm",
+        "link": "https://www.heraldscotland.com/news/26678541.scotch-whisky-tax-rise-industry-warns-jobs-sales-slump/",
+        "description": "Scotch whisky drinkers are handing over 74p in every pound to the taxman as the industry warns that soaring costs and falling sales are threatening jobs across Scotland.",
+        "published": "Thu, 29 Oct 2026 06:27:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/16564775/?type=app&htype=0"
       },
       {
         "id": "4a145f2fed74363ba897b615ced5b9a4",
@@ -3147,14 +3179,6 @@
         "description": "Research by RAJAR shows the station\u2019s weekly reach has fallen 10.8% in three months, reversing gains made previously. The results follow a backlash from some listeners over axed shows and presenters.",
         "published": "Thu, 29 Oct 2026 00:01:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21607740/?type=app&htype=0"
-      },
-      {
-        "id": "4b520e4435e50c314b884af1e18f59a9",
-        "title": "Scottish patients face 'postcode lottery' in access to latest medicines",
-        "link": "https://www.heraldscotland.com/news/26676605.scottish-patients-face-postcode-lottery-medicines/",
-        "description": "ABPI report finds a postcode lottery in NHS Scotland access to SMC-approved medicines, with wide variation in GLP-1 and cholesterol drug prescribing rates.",
-        "published": "Thu, 29 Oct 2026 00:01:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/20714868/?type=app&htype=0"
       },
       {
         "id": "9513b1adca537eaee8b6fa015b5951e5",
