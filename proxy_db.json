@@ -3061,6 +3061,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9349b9aad61edf3e1d38122ca11448b1",
+        "title": "Boy who lost four fingers in tragic firework blast issues powerful warning",
+        "link": "https://www.glasgowtimes.co.uk/news/26681668.paisley-boy-lost-four-fingers-firework-blast-warns-others/",
+        "description": "Paisley boy Riley Luke, 12, lost four fingers in a firework accident aged eight. Ahead of Bonfire Night, he and Scottish Fire and Rescue urge safety.",
+        "published": "Thu, 29 Oct 2026 14:05:55 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21646773/?type=app&htype=0"
+      },
+      {
+        "id": "22dc43fb7f0629e769c742ab2b9cf023",
+        "title": "How Scotland\u2019s tourism board is capitalising on Celebrity Traitors' popularity",
+        "link": "https://www.heraldscotland.com/news/26681582.uk-searches-celebrity-traitors-double-first-series/",
+        "description": "As the Celebrity Traitors comes to its dramatic conclusion, VisitScotland has revealed that fans are driving online interest in Scotland \u2013 with UK searches more than double those during the run of the first Celebrity Traitors series.",
+        "published": "Thu, 29 Oct 2026 13:52:31 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21573468/?type=app&htype=0"
+      },
+      {
+        "id": "9ae0b957cc330f823c090f6df86b27f2",
+        "title": "Glasgow\u2019s Voi bike hires pass two million in less than a year",
+        "link": "https://www.heraldscotland.com/news/26681517.glasgow-voi-bike-hires-pass-two-million-less-year/",
+        "description": "More than 119,000 people have used the scheme since its launch in November 2025, travelling a combined 6.3 million kilometres",
+        "published": "Thu, 29 Oct 2026 13:43:29 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20195853/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=535711",
         "title": "Man who raped and abused six women over 14-year period jailed",
         "link": "https://news.stv.tv/west-central/man-who-raped-and-abused-six-women-over-14-year-period-jailed",
@@ -3069,12 +3093,44 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2025/05/f80552903122b112511c63c30c41a9fc-1746179781.jpg"
       },
       {
+        "id": "2bd38742f25e49be488cd7222759a592",
+        "title": "More than two million journeys made on Glasgow's Voi hire bikes in less than a year",
+        "link": "https://www.glasgowtimes.co.uk/news/26681358.glasgow-voi-e-bike-scheme-passed-two-million-hires/",
+        "description": "More than two million journeys have been made on Glasgow\u2019s Voi hire bikes.",
+        "published": "Thu, 29 Oct 2026 13:10:59 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21646376/?type=app&htype=0"
+      },
+      {
         "id": "083f5aa6440ce477856d909335ac79d7",
         "title": "American brand announces first ever Scottish store ahead of Christmas rush",
         "link": "https://www.glasgowtimes.co.uk/news/26681339.bath-body-works-open-first-standalone-scottish-store/",
         "description": "Bath &amp; Body Works will open its first standalone Scottish store at Frasers Plus Braehead near Glasgow this winter, offering fragrances, body care and gifts.",
         "published": "Thu, 29 Oct 2026 13:05:09 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19512403/?type=app&htype=0"
+      },
+      {
+        "id": "4f65fd172ddbbf5651ed06b272b29c31",
+        "title": "O'Neill claims DUP 'blocked' Glasgow Celtic Alliance summit with Swinney and Burnham",
+        "link": "https://www.heraldscotland.com/news/26681306.oneill-claims-dup-blocked-glasgow-summit-swinney-burnham/",
+        "description": "Michelle O\u2019Neill accuses Emma Little-Pengelly of blocking Northern Ireland representation at Glasgow Economic Forum amid DUP tensions over Drumcree protest.",
+        "published": "Thu, 29 Oct 2026 13:05:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20916654/?type=app&htype=0"
+      },
+      {
+        "id": "2d909fd910617c0726b1c8e71c7ff424",
+        "title": "Glasgow to host networking event for next generation of female entrepreneurs",
+        "link": "https://www.glasgowtimes.co.uk/news/26681299.womens-bootstrappers-breakfast-launches-glasgow/",
+        "description": "Bootstrappers Breakfast launches in Glasgow and Edinburgh on November 4, supporting Scotland\u2019s female entrepreneurs.",
+        "published": "Thu, 29 Oct 2026 12:57:07 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21522282/?type=app&htype=0"
+      },
+      {
+        "id": "961521342a2c203ae13e0be83b92fcb3",
+        "title": "Exhibition celebrating 50 years of the CCA to open in Glasgow",
+        "link": "https://www.heraldscotland.com/news/26681220.glasgow-cca-exhibition-marks-50-years-building-remains-sale/",
+        "description": "A Glasgow arts landmark is being remembered as its future remains uncertain",
+        "published": "Thu, 29 Oct 2026 12:41:36 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/16588635/?type=app&htype=0"
       },
       {
         "id": "a4fc367a2ede3bc5dd0b9c6101d132e3",
