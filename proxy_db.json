@@ -3061,6 +3061,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=535674",
+        "title": "East Ayrshire councillors approve plans for \u00a36.5m M&S foodhall\u00a0at Kilmarnock retail park",
+        "link": "https://news.stv.tv/west-central/east-ayrshire-councillors-approve-plans-for-6-5m-ms-foodhall-at-kilmarnock-retail-park",
+        "description": "Concerns had been raised over plans to shutter Kilmarnock's King Street premises to focus on the Queens Drive Retail Park site",
+        "published": "Thu, 29 Oct 2026 11:52:03 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/c2c9c042c4baf56d41ce572f55c5e4c6-1792487982-1120x720.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/motorcyclist-rushed-hospital-after-crash-34833124",
+        "title": "Motorcyclist rushed to hospital after crash in Clyde Tunnel as man charged",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/motorcyclist-rushed-hospital-after-crash-34833124",
+        "description": "Emergency services attended the incident on Wednesday evening.",
+        "published": "Thu, 29 Oct 2026 11:35:27 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34833232.ece/ALTERNATES/s98/0_JS99672080.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/former-glasgow-barlinnie-prisoner-claims-34832942",
+        "title": "Former Glasgow Barlinnie prisoner claims guards let him attack sex offenders",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/former-glasgow-barlinnie-prisoner-claims-34832942",
+        "description": "Frankie Higgins, nicknamed The Punisher, claimed he was allowed to pursue vigilante justice while locked up.",
+        "published": "Thu, 29 Oct 2026 11:32:24 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34833052.ece/ALTERNATES/s98/0_JS422599697.jpg"
+      },
+      {
         "id": "9317850",
         "title": "The Gorbals Vampire: How a children's crusade against a fanged monster gripped 1950s Glasgow",
         "link": "https://www.glasgowworld.com/retro/the-gorbals-vampire-1950s-glasgow-9317850",
@@ -3077,12 +3101,28 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/28/9/18/Screenshot-2026-10-28-092742.png?width=1200&auto=webp&trim=0%2C57%2C0%2C57"
       },
       {
+        "id": "befb16cd752d170935e0b341e9148c91",
+        "title": "North Lanarkshire bakery acquired as major firm expands into Scotland",
+        "link": "https://www.glasgowtimes.co.uk/news/26680562.north-lanarkshire-bakery-acquired-major-european-firm/",
+        "description": "Baker &amp; Baker has acquired Scottish bakery specialist Lazy Day Foods.",
+        "published": "Thu, 29 Oct 2026 11:03:24 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21645277/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/scotlands-best-worst-cities-ranked-34833016",
         "title": "Scotland\u2019s best and worst cities ranked - find out where Glasgow placed",
         "link": "https://www.glasgowlive.co.uk/whats-on/scotlands-best-worst-cities-ranked-34833016",
         "description": "A new ranking of all of the UK cities based on how good they are for a city break has been released by Which?, with readers praising some Scottish locations and slamming others",
         "published": "Thu, 29 Oct 2026 10:59:11 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34737700.ece/ALTERNATES/s98/5_JS420614556.jpg"
+      },
+      {
+        "id": "958011f7ddb193345c2bd667c53279ad",
+        "title": "'Taxpayers will expect answers' over Storm Boelo \u00a3117m Renfrew Bridge damage",
+        "link": "https://www.heraldscotland.com/news/26680434.labour-seeks-probe-storm-boelo-renfrew-bridge-damage/",
+        "description": "Renfrewshire Labour councillors seek a special meeting over Storm Boelo flooding, failed flood defences and months-long closure of \u00a3117m Renfrew Bridge.",
+        "published": "Thu, 29 Oct 2026 10:53:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20970228/?type=app&htype=0"
       },
       {
         "id": "58ff4b35fcd8c0f9f8313054e632bdb0",
@@ -3131,6 +3171,14 @@
         "description": "Plans to build four detached homes beside Lennoxtown Primary School have been withdrawn, according to council planning records.",
         "published": "Thu, 29 Oct 2026 10:02:24 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21591974/?type=app&htype=0"
+      },
+      {
+        "id": "4283572fb270ea20c61c10010dd1094e",
+        "title": "\u2018Difficult\u2019 decisions lie ahead amid \u00a3140m cuts bid, Edinburgh University chief warns",
+        "link": "https://www.heraldscotland.com/news/26680009.edinburgh-university-chief-warns-difficult-decisions-ahead/",
+        "description": "The principal and vice-chancellor has published a communique outlining his thoughts on Edinburgh University\u2019s future and addressing 'misconceptions'.",
+        "published": "Thu, 29 Oct 2026 09:58:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21540957/?type=app&htype=0"
       },
       {
         "id": "e5163da8f889e15225c328bcfdd36db1",
