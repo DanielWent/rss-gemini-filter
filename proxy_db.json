@@ -3069,6 +3069,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9319081",
+        "title": "Rangers vs Aberdeen injury news: 8 outs and 4 doubts for Premier Sports Cup semi-final showdown",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-aberdeen-injury-news-outs-doubts-premier-sports-cup-semi-final-showdown-9319081",
+        "description": "<p>Latest injury news ahead of Hampden tussle between Rangers and Aberdeen on Saturday</p>",
+        "published": "Thu, 29 Oct 2026 20:00:29 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/01/10/31/21776756.jpeg?width=1200&auto=webp&trim=63%2C0%2C63%2C0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cmkgkxg22pj8o#0",
         "title": "Delivery of new CalMac ferry MV Glen Rosa put back to February",
         "link": "https://www.bbc.co.uk/news/articles/cmkgkxg22pj8o?at_medium=RSS&at_campaign=rss",
@@ -3083,6 +3091,14 @@
         "description": "Glasgow City Council has received an application to convert the Art Deco property.",
         "published": "Thu, 29 Oct 2026 19:16:47 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/086bbbd3476a1715b7325410ab0e040d-1793300319.jpg"
+      },
+      {
+        "id": "a765dcd4142a75442ef44de2d5565083",
+        "title": "Bridge closure prompts calls for return of historic Clyde ferry crossing",
+        "link": "https://www.heraldscotland.com/news/26683070.renfrew-bridge-closure-prompts-calls-return-historic-ferry/",
+        "description": "The former operators of what was one of Scotland's oldest ferry crossings has floated the possibility of returning the service to operation due to a months-long bridge closure.",
+        "published": "Thu, 29 Oct 2026 18:54:40 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/19519945/?type=app&htype=0"
       },
       {
         "id": "4c07f3ee89f7bcb2f9f5986388ba41b8",
