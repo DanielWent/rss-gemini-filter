@@ -2162,6 +2162,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "43fce7e225efc3bae8fa9159c5c80e13",
+        "title": "\u2018Our hands are tied\u2019 - Community fights to transform vacant Glasgow land",
+        "link": "https://www.glasgowtimes.co.uk/news/26677771.fight-transform-vacant-glasgow-land-eight-year-wait/",
+        "description": "A community council is calling for action after a decade-long push for council permission to transform vacant land into a community green space.",
+        "published": "Thu, 29 Oct 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21643230/?type=app&htype=0"
+      },
+      {
         "id": "00e50b65e104bbfb522dcd60f8ac36eb",
         "title": "Traffic warning as busy Glasgow West End road faces overnight closure",
         "link": "https://www.glasgowtimes.co.uk/news/26679263.great-western-road-glasgow-close-overnight-works/",
@@ -3053,6 +3061,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8abcbb673de6e17e34f42cb329bd6afb",
+        "title": "Surprising Glasgow figures revealed for Ozempic and Mounjaro prescriptions",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26679633.glasgow-nhs-high-ozempic-prescribing-despite-low-obesity/",
+        "description": "NHS Scotland prescribing of Ozempic and Mounjaro varies widely, with Greater Glasgow and Clyde among the highest despite low obesity levels, ABPI report finds.",
+        "published": "Thu, 29 Oct 2026 06:38:28 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21644120/?type=app&htype=0"
+      },
+      {
         "id": "4a145f2fed74363ba897b615ced5b9a4",
         "title": "Edinburgh University study abroad cuts could cost nearly \u00a310m in lost tuition",
         "link": "https://www.heraldscotland.com/news/26678027.fears-edinburgh-university-study-abroad-cuts-cost-9-6m/",
@@ -3067,6 +3083,38 @@
         "description": "Dumfries and Galloway College generated an estimated \u00a31420 million in annual economic and social benefits for Scotland last year.",
         "published": "Thu, 29 Oct 2026 06:00:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21642925/?type=app&htype=0"
+      },
+      {
+        "id": "43fce7e225efc3bae8fa9159c5c80e13",
+        "title": "\u2018Our hands are tied\u2019 - Community fights to transform vacant Glasgow land",
+        "link": "https://www.glasgowtimes.co.uk/news/26677771.fight-transform-vacant-glasgow-land-eight-year-wait/",
+        "description": "A community council is calling for action after a decade-long push for council permission to transform vacant land into a community green space.",
+        "published": "Thu, 29 Oct 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21643230/?type=app&htype=0"
+      },
+      {
+        "id": "41a7444f41c2845afe58cc5281dc5b65",
+        "title": "Much-loved Glasgow cycling hub to close after 14 years in the West End",
+        "link": "https://www.glasgowtimes.co.uk/news/26674724.glasgow-cycling-hub-close-14-years-finnieston/",
+        "description": "A much-loved Glasgow cycling hub is closing after 14 years in Finnieston, with Bike for Good downsizing and moving to Govanhill.",
+        "published": "Thu, 29 Oct 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21642564/?type=app&htype=0"
+      },
+      {
+        "id": "f189f70df2cbc20e9777dedf0745ac99",
+        "title": "Thousands of Glasgow children stuck in temporary accommodation amid housing emergency",
+        "link": "https://www.glasgowtimes.co.uk/news/26671909.thousands-children-face-winter-homeless-glasgow/",
+        "description": "More than 9000 people are in temporary accommodation in Glasgow including three and half thousand children.",
+        "published": "Thu, 29 Oct 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17489535/?type=app&htype=0"
+      },
+      {
+        "id": "3dfc8e6b4167f39e35331dd750119127",
+        "title": "Glasgow's cutest Christmas event returns as parents urged to get involved",
+        "link": "https://www.glasgowtimes.co.uk/news/26678309.glasgow-families-invited-register-babys-first-christmas/",
+        "description": "Glasgow parents can now register babies for the Lord Provost's Baby's First Christmas celebration, with certificates, keepsakes and festive memories at the City Chambers.",
+        "published": "Thu, 29 Oct 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21642483/?type=app&htype=0"
       },
       {
         "id": "5c762504def4d3af29e9429f4cd4933e",
