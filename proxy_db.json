@@ -3061,12 +3061,52 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9317850",
+        "title": "The Gorbals Vampire: How a children's crusade against a fanged monster gripped 1950s Glasgow",
+        "link": "https://www.glasgowworld.com/retro/the-gorbals-vampire-1950s-glasgow-9317850",
+        "description": "<p>In September 1954, a rumour of a terrifying, seven-foot vampire with iron teeth sparked a mass hunt by hundreds of Glasgow schoolchildren, leading to a parliamentary debate and a lasting change in law.</p>",
+        "published": "Thu, 29 Oct 2026 11:16:48 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2022/10/24/15/Gorbals%20Vampire.png?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "9317809",
+        "title": "'Iconic and legendary': Our readers react ahead of closure of Greaves Sports shop in Glasgow",
+        "link": "https://www.glasgowworld.com/news/greaves-sports-shop-in-glasgow-faces-closure-after-frasers-group-takeover-9317809",
+        "description": "<p>Our readers have described their memories of iconic sports shop Greaves on Gordon Street.</p>",
+        "published": "Thu, 29 Oct 2026 11:06:28 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/28/9/18/Screenshot-2026-10-28-092742.png?width=1200&auto=webp&trim=0%2C57%2C0%2C57"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/scotlands-best-worst-cities-ranked-34833016",
+        "title": "Scotland\u2019s best and worst cities ranked - find out where Glasgow placed",
+        "link": "https://www.glasgowlive.co.uk/whats-on/scotlands-best-worst-cities-ranked-34833016",
+        "description": "A new ranking of all of the UK cities based on how good they are for a city break has been released by Which?, with readers praising some Scottish locations and slamming others",
+        "published": "Thu, 29 Oct 2026 10:59:11 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34737700.ece/ALTERNATES/s98/5_JS420614556.jpg"
+      },
+      {
+        "id": "58ff4b35fcd8c0f9f8313054e632bdb0",
+        "title": "Week-long Glasgow road closure to hit drivers as major works get underway",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26680377.glasgow-road-close-almost-week-resurfacing/",
+        "description": "Glasgow's Ashfield Street will close from November 1 to November 7 for essential resurfacing, with diversions via Hawthorn Street, Balmore Road and Ashgill Road.",
+        "published": "Thu, 29 Oct 2026 10:35:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21475912/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=535641",
         "title": "Serial thief who stole pensioner\u2019s bag causing her to fall from mobility scooter jailed",
         "link": "https://news.stv.tv/west-central/serial-thief-who-stole-pensioners-bag-causing-her-to-fall-from-mobility-scooter-jailed",
         "description": "Abel\u00a0Ghebrehiwret, 30, followed the 79-year-old after she withdrew cash from a Glasgow ATM",
         "published": "Thu, 29 Oct 2026 10:31:41 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2023/05/d170e81d0e58dcd0c17a1e144b2c6953-1683727170-1120x720.jpg"
+      },
+      {
+        "id": "85fdcbf43345e72b67665e666fdad57e",
+        "title": "Extra travel support announced for Premier Sports Cup semi-finals at Hampden",
+        "link": "https://www.glasgowtimes.co.uk/news/26680319.scotrail-announce-extra-trains-league-cup-semi-finals/",
+        "description": "ScotRail adds trains for Rangers v Aberdeen and Hearts v Hibs at Hampden on October 31 and November 1, with queues and engineering works expected.",
+        "published": "Thu, 29 Oct 2026 10:26:03 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16393121/?type=app&htype=0"
       },
       {
         "id": "8da1a9c7904b6ac26a4240d85df34f66",
@@ -3374,6 +3414,14 @@
     "icon_url": "https://www.glasgowworld.com/favicon.ico",
     "output_file": "Glasgow_World_AI_Filtered.xml",
     "articles": [
+      {
+        "id": "9317850",
+        "title": "The Gorbals Vampire: How a children's crusade against a fanged monster gripped 1950s Glasgow",
+        "link": "https://www.glasgowworld.com/retro/the-gorbals-vampire-1950s-glasgow-9317850",
+        "description": "<p>In September 1954, a rumour of a terrifying, seven-foot vampire with iron teeth sparked a mass hunt by hundreds of Glasgow schoolchildren, leading to a parliamentary debate and a lasting change in law.</p>",
+        "published": "Thu, 29 Oct 2026 11:16:48 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2022/10/24/15/Gorbals%20Vampire.png?width=1200&auto=webp&crop=3%3A2"
+      },
       {
         "id": "5062234",
         "title": "Glasgow bakeries: 12 top spots for sourdough, doughnuts and more right now",
