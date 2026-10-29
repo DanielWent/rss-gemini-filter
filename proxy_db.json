@@ -2162,6 +2162,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "cfdb879875ffa62ecc6c82d4c40f2d4c",
+        "title": "Inside the book club where tickets sell out in just 24 hours",
+        "link": "https://www.glasgowtimes.co.uk/news/26682182.popular-charity-book-club-marks-first-anniversary/",
+        "description": "A local charity book club is celebrating their first anniversary.",
+        "published": "Thu, 29 Oct 2026 15:23:48 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21647682/?type=app&htype=147"
+      },
+      {
         "id": "43fce7e225efc3bae8fa9159c5c80e13",
         "title": "\u2018Our hands are tied\u2019 - Community fights to transform vacant Glasgow land",
         "link": "https://www.glasgowtimes.co.uk/news/26677771.fight-transform-vacant-glasgow-land-eight-year-wait/",
@@ -2952,14 +2960,6 @@
         "description": "Glasgow researchers will test whether an existing Ebola vaccine could offer protection against Bundibugyo amid the escalating DRC outbreak.",
         "published": "Sun, 23 Aug 2026 16:55:47 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20943945/?type=app&htype=0"
-      },
-      {
-        "id": "3062fc22490ebdd81e3a4052425e9d2f",
-        "title": "Virtual robot 'co-pilots' could help distracted drivers spot danger, study finds",
-        "link": "https://www.glasgowtimes.co.uk/news/26488286.virtual-robot-warnings-make-semi-autonomous-cars-safer/",
-        "description": "Glasgow researchers found virtual robot warnings helped distracted drivers identify road hazards as accurately as those watching the road.",
-        "published": "Sun, 23 Aug 2026 16:28:43 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21360050/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3060,6 +3060,14 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "efd0f96a3021348a1785d631e4123119",
+        "title": "Delays expected as emergency road works near Glasgow university to last a week",
+        "link": "https://www.glasgowtimes.co.uk/news/26682291.road-works-begin-near-glasgows-royal-conservatoire/",
+        "description": "Glasgow traffic delays expected on Cambridge Street near the Royal Conservatoire of Scotland as emergency utility repairs run from October 29 to November 5.",
+        "published": "Thu, 29 Oct 2026 15:42:19 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16783333/?type=app&htype=0"
+      },
       {
         "id": "c9d08fbc033f3b9a5a3ef9d1fd29e5ae",
         "title": "Friday Night Dinner and Gavin & Stacey stars to bring classic comedy to Glasgow",
