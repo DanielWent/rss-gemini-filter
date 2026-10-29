@@ -3061,6 +3061,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "e5163da8f889e15225c328bcfdd36db1",
+        "title": "LIVE updates as huge crash sparks 20-minute delays on Glasgow motorway",
+        "link": "https://www.glasgowtimes.co.uk/news/26679841.live-updates-m8-motorway-glasgow-city-centre-blocked/",
+        "description": "Part of the M8 in Glasgow is blocked following a road traffic incident this morning. The incident is affecting the eastbound carriageway between Junctions 17 and 16, with traffic still able to pass slowly and with care. Delays of around 20 minutes are already being reported on approach.",
+        "published": "Thu, 29 Oct 2026 09:04:28 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21644294/?type=app&htype=0"
+      },
+      {
         "id": "70185dfd909a882ccea3195e937b50ef",
         "title": "LIVE updates as section of M77 blocked during rush hour due to traffic incident",
         "link": "https://www.glasgowtimes.co.uk/news/26679720.live-updates-m77-glasgow-blocked-amid-road-traffic-incident/",
