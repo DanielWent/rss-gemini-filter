@@ -3061,12 +3061,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9317453",
+        "title": "Derek McInnes chuffed with 'vitally important' Rangers stat after Hearts as Ibrox star named as standout",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/derek-mcinnes-chuffed-with-vitally-important-rangers-stat-in-hearts-stalemate-as-ibrox-star-named-as-standout-9317453",
+        "description": "<p>Light Blues scored a late equaliser at Tynecastle</p>",
+        "published": "Thu, 29 Oct 2026 12:00:37 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/29/10/37/GettyImages-2302434967.jpeg?width=1200&auto=webp&trim=0%2C64%2C0%2C63"
+      },
+      {
+        "id": "9317764",
+        "title": "Celtic called on to 'do better' defensively amid worrying stat as goalkeeping selection thinker addressed",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/martin-oneill-calls-on-celtic-to-do-better-defensively-amid-worrying-stat-as-goalkeeping-selection-thinker-addressed-9317764",
+        "description": "<p>Hoops were held to a 2-2 draw at home to Dundee United</p>",
+        "published": "Thu, 29 Oct 2026 12:00:02 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/29/11/24/GettyImages-2295794583.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0"
+      },
+      {
+        "id": "c949bf634a629e141cc8e0e19220209b",
+        "title": "Celtic fan hurled objects before striking Rangers supporter with belt",
+        "link": "https://www.glasgowtimes.co.uk/news/26680920.clydebank-celtic-fan-hurled-objects-hit-rangers-fan-belt/",
+        "description": "A Celtic thug repeatedly struck a Rangers fan with a belt after an Old Firm match at Ibrox.",
+        "published": "Thu, 29 Oct 2026 11:54:35 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21645518/?type=app&htype=183"
+      },
+      {
         "id": "https://news.stv.tv/?p=535674",
         "title": "East Ayrshire councillors approve plans for \u00a36.5m M&S foodhall\u00a0at Kilmarnock retail park",
         "link": "https://news.stv.tv/west-central/east-ayrshire-councillors-approve-plans-for-6-5m-ms-foodhall-at-kilmarnock-retail-park",
         "description": "Concerns had been raised over plans to shutter Kilmarnock's King Street premises to focus on the Queens Drive Retail Park site",
         "published": "Thu, 29 Oct 2026 11:52:03 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/c2c9c042c4baf56d41ce572f55c5e4c6-1792487982-1120x720.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cjn5v39p94eeo#0",
+        "title": "Scottish ministers to work with councils on \u00a3100 energy payment rollout",
+        "link": "https://www.bbc.co.uk/news/articles/cjn5v39p94eeo?at_medium=RSS&at_campaign=rss",
+        "description": "Deputy First Minister Jenny Gilruth says the Scottish government aims to replicate the UK government scheme but says it is \"not a perfect solution\".",
+        "published": "Thu, 29 Oct 2026 11:51:48 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfd2/live/ec13e370-d38a-11f1-b441-2b33b063138f.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/motorcyclist-rushed-hospital-after-crash-34833124",
@@ -3083,6 +3115,22 @@
         "description": "Frankie Higgins, nicknamed The Punisher, claimed he was allowed to pursue vigilante justice while locked up.",
         "published": "Thu, 29 Oct 2026 11:32:24 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34833052.ece/ALTERNATES/s98/0_JS422599697.jpg"
+      },
+      {
+        "id": "c4a5a6cbe3988fc5ce3870bc760e425d",
+        "title": "Queen\u2019s Park Food Festival to return in 2027 with even bigger line-up",
+        "link": "https://www.glasgowtimes.co.uk/news/26680746.queens-park-food-festival-return-glasgow-2027/",
+        "description": "Queen\u2019s Park Food Festival will return in 2027 following a successful debut.",
+        "published": "Thu, 29 Oct 2026 11:31:11 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21645419/?type=app&htype=0"
+      },
+      {
+        "id": "061be8bf0d9abc2c63f4221f35724b10",
+        "title": "Aldi unveils plans for new Glasgow store in city's West End",
+        "link": "https://www.heraldscotland.com/news/26680731.aldi-plans-new-14m-glasgow-store-maryhill-road/",
+        "description": "The store could create 35 jobs - and enhance the area's supermarket choice",
+        "published": "Thu, 29 Oct 2026 11:28:51 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21645382/?type=app&htype=0"
       },
       {
         "id": "9317850",
