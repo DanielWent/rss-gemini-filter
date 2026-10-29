@@ -3053,6 +3053,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "4a145f2fed74363ba897b615ced5b9a4",
+        "title": "Edinburgh University study abroad cuts could cost nearly \u00a310m in lost tuition",
+        "link": "https://www.heraldscotland.com/news/26678027.fears-edinburgh-university-study-abroad-cuts-cost-9-6m/",
+        "description": "Now, The Herald can reveal that an academic-led financial analysis claims that the ensuing reputational damage could cost the university millions of pounds.",
+        "published": "Thu, 29 Oct 2026 06:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20897648/?type=app&htype=0"
+      },
+      {
+        "id": "30dc578b827ad652af7addbee21cc7c4",
+        "title": "The Scottish college generating \u00a312 for every \u00a31 of public funding",
+        "link": "https://www.heraldscotland.com/news/26678825.report-shows-significant-impact-dumfries-galloway-college/",
+        "description": "Dumfries and Galloway College generated an estimated \u00a31420 million in annual economic and social benefits for Scotland last year.",
+        "published": "Thu, 29 Oct 2026 06:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21642925/?type=app&htype=0"
+      },
+      {
         "id": "5c762504def4d3af29e9429f4cd4933e",
         "title": "Watches of Switzerland reveals it has examined potential move to US market",
         "link": "https://www.heraldscotland.com/news/26678008.watches-switzerland-examined-potential-us-listing/",
