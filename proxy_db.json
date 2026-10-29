@@ -3069,6 +3069,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cmkgkxg22pj8o#0",
+        "title": "Delivery of new CalMac ferry MV Glen Rosa put back to February",
+        "link": "https://www.bbc.co.uk/news/articles/cmkgkxg22pj8o?at_medium=RSS&at_campaign=rss",
+        "description": "The state-owned Ferguson shipyard has now been asked to fit redesigned propellers to the ship prior to handover.",
+        "published": "Thu, 29 Oct 2026 19:23:05 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b001/live/06335270-d3c9-11f1-a701-fddedf244c16.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=535824",
+        "title": "Plans lodged for hotel at former C&A building on Glasgow\u2019s Sauchiehall Street",
+        "link": "https://news.stv.tv/west-central/plans-lodged-for-hotel-at-former-ca-building-on-glasgows-sauchiehall-street",
+        "description": "Glasgow City Council has received an application to convert the Art Deco property.",
+        "published": "Thu, 29 Oct 2026 19:16:47 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/086bbbd3476a1715b7325410ab0e040d-1793300319.jpg"
+      },
+      {
+        "id": "4c07f3ee89f7bcb2f9f5986388ba41b8",
+        "title": "Scottish Government considers 'temporary modular accommodation' to house prisoners",
+        "link": "https://www.heraldscotland.com/news/26683037.ministers-moot-temporary-modular-accommodation-house-prisoners/",
+        "description": "The Scottish Government is considering using \u201ctemporary modular accommodation\u201d to house prisoners, after a warning the number of inmates in the country\u2019s jails could reach almost 9,500 next summer.",
+        "published": "Thu, 29 Oct 2026 18:24:31 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20121108/?type=app&htype=0"
+      },
+      {
+        "id": "4f455dc045ba03c478d36f2675e690e8",
+        "title": "Acorn funding row branded 'spectacular shambles' as ministers contradict each other",
+        "link": "https://www.heraldscotland.com/news/26683003.acorn-carbon-capture-funding-changed-loans-equity/",
+        "description": "Business leaders have branded the UK Government's handling of the Acorn carbon capture project a \"spectacular shambles\" after ministers gave contradictory accounts of what the Budget means for the \u00a3200 million scheme.",
+        "published": "Thu, 29 Oct 2026 17:56:12 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21641346/?type=app&htype=0"
+      },
+      {
+        "id": "5545abc5d05af6c301bcd643b2a8e716",
+        "title": "Inside Edinburgh's Christmas ice rink collapse as \u00a31m cost is revealed",
+        "link": "https://www.heraldscotland.com/news/26682977.inside-collapse-edinburghs-1m-christmas-ice-rink/",
+        "description": "Poor profitability is blamed for the collapse of Edinburgh's 'unsustainable' \u00a31m Christmas ice rink.",
+        "published": "Thu, 29 Oct 2026 17:44:24 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21629905/?type=app&htype=0"
+      },
+      {
         "id": "6753acd330d17f34e6afecc023569419",
         "title": "Renfrew Ferry teases return after \u00a3117m bridge out of use for 'months'",
         "link": "https://www.glasgowtimes.co.uk/news/weather/26682797.renfrew-ferry-teases-return-clyde-bridge-months/",
