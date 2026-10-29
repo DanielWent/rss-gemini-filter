@@ -2170,6 +2170,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "135a37042d33a33ec38c06271bfc1de2",
+        "title": "Council reveals reason for 60-bed care home refusal near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26682628.council-reveals-milngavie-60-bed-care-home-plans-refused/",
+        "description": "East Dunbartonshire Council has revealed why plans for a 60-bed care home at a former car dealership in Milngavie were refused.",
+        "published": "Thu, 29 Oct 2026 16:34:40 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21630418/?type=app&htype=0"
+      },
+      {
         "id": "cfdb879875ffa62ecc6c82d4c40f2d4c",
         "title": "Inside the book club where tickets sell out in just 24 hours",
         "link": "https://www.glasgowtimes.co.uk/news/26682182.popular-charity-book-club-marks-first-anniversary/",
@@ -2256,14 +2264,6 @@
         "description": "Plans have been lodged to transform the former Lion Hotel in Bishopbriggs into nine flats, with new dormer windows, parking and landscaping proposed.",
         "published": "Mon, 26 Oct 2026 12:10:54 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21560284/?type=app&htype=240"
-      },
-      {
-        "id": "edbd6eb1234cc7d93c8471797a7f4a4f",
-        "title": "Plans for 60-bed care home at former car dealership refused",
-        "link": "https://www.glasgowtimes.co.uk/news/26669628.milngavie-60-bed-care-home-plans-refused-council/",
-        "description": "Plans for a 60-bed care home at the former Arnold Clark site in Milngavie have been refused by East Dunbartonshire Council.",
-        "published": "Mon, 26 Oct 2026 11:21:33 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21630417/?type=app&htype=0"
       },
       {
         "id": "fed8816e7722e58cf5317d10a7421229",
@@ -3069,6 +3069,62 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "1db8afcd4c3bccebe3ba75e24e979713",
+        "title": "Low-key Budget with many positives and no major shocks",
+        "link": "https://www.heraldscotland.com/news/26682721.low-key-budget-many-positives-no-major-shocks/",
+        "description": "AFTER the high drama of last year\u2019s Autumn Statement when the Office for Budget Responsibility (OBR) stole then chancellor Rachel Reeves\u2019s thunder by releasing its economic and fiscal outlook before she stood up in the House of Commons, this week\u2019s Budget was relatively low-key and, some might say, dull.",
+        "published": "Thu, 29 Oct 2026 16:48:16 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21648380/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-control-zone-short-term-34836277",
+        "title": "Glasgow control zone for short term lets suggested as '3000 listed on Airbnb without licenses'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-control-zone-short-term-34836277",
+        "description": "A meeting heard the council does not have the power to investigate unlicensed Airbnbs as responsibility sits with Police Scotland.",
+        "published": "Thu, 29 Oct 2026 16:44:27 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article33552175.ece/ALTERNATES/s98/0_The-Clyde-Arc-Sunrise-Clyde-River-Glasgow-Scotland.jpg"
+      },
+      {
+        "id": "bbfcbed23b35fef307a7b575841d596a",
+        "title": "SQA anticipated \u2018hostile\u2019 response to controversial exam grading, Covid inquiry hears",
+        "link": "https://www.heraldscotland.com/news/26682655.sqa-anticipated-hostile-response-controversial-exam-grading/",
+        "description": "The Scottish Qualifications Authority (SQA) expected a \u201chostile\u201d public response to its controversial means of grading pupils during 2020 when exams were cancelled, an inquiry has heard.",
+        "published": "Thu, 29 Oct 2026 16:38:11 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21647338/?type=app&htype=0"
+      },
+      {
+        "id": "135a37042d33a33ec38c06271bfc1de2",
+        "title": "Council reveals reason for 60-bed care home refusal near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26682628.council-reveals-milngavie-60-bed-care-home-plans-refused/",
+        "description": "East Dunbartonshire Council has revealed why plans for a 60-bed care home at a former car dealership in Milngavie were refused.",
+        "published": "Thu, 29 Oct 2026 16:34:40 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21630418/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/child-poverty-figures-deeply-worrying-34836222",
+        "title": "Child poverty figures 'deeply worrying' and 'number one priority' says Glasgow council leader",
+        "link": "https://www.glasgowlive.co.uk/news/child-poverty-figures-deeply-worrying-34836222",
+        "description": "During Thursday\u2019s full council meeting, leader Ricky Bell said many families are struggling with money as a result of low pay, income pressures and insecure work.",
+        "published": "Thu, 29 Oct 2026 16:33:40 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34735147.ece/ALTERNATES/s98/1_Children-in-poverty.jpg"
+      },
+      {
+        "id": "66dc564974f1540eaa22e7054f6ac393",
+        "title": "Forget Halloween, this is what\u2019s really frightening Scotland\u2019s hospitality industry",
+        "link": "https://www.heraldscotland.com/opinion/26680088.business-rates-reform-matters-scotlands-hospitality-industry/",
+        "description": "Why business rates reform matters for Scotland's hospitality industry following the launch of the Herald's Reset the Rates campaign.",
+        "published": "Thu, 29 Oct 2026 16:30:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21608191/?type=app&htype=0"
+      },
+      {
+        "id": "5cbd6001f2f327abb7b20b448d14509f",
+        "title": "Championing members, driving growth: Royal College seeks new director",
+        "link": "https://www.heraldscotland.com/news/26675453.championing-members-driving-growth-royal-college-seeks-new-director/",
+        "description": "The Royal College of Physicians and Surgeons of Glasgow is recruiting a Director of Membership and Governance to help shape the future of healthcare professionals",
+        "published": "Thu, 29 Oct 2026 16:30:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21647453/?type=app&htype=16"
+      },
+      {
         "id": "03f0defffa4ac71f4d650b923a320fd2",
         "title": "Glasgow Labour calls for review of support for pupils with complex needs",
         "link": "https://www.glasgowtimes.co.uk/news/26682415.glasgow-labour-calls-review-support-pupils/",
@@ -3091,6 +3147,22 @@
         "description": "Chancellor John Healey confirmed the cash in his Autumn Budget on Wednesday",
         "published": "Thu, 29 Oct 2026 16:02:38 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/cde50a071fd29ce8ebf9813061a2db77-1793282548.jpg"
+      },
+      {
+        "id": "b312f6f6c7d97b2fec7912302e87d13e",
+        "title": "Swinney declines four times to say he supports Rosebank oil field development",
+        "link": "https://www.heraldscotland.com/news/26682378.swinney-refuses-say-backs-rosebank-oil-field/",
+        "description": "First Minister John Swinney repeatedly declined to say whether he supports the Rosebank oil field at FMQs, as rivals accused him of evasion and the OBR warned a refusal could upend its North Sea tax forecasts.",
+        "published": "Thu, 29 Oct 2026 15:59:11 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21648068/?type=app&htype=0"
+      },
+      {
+        "id": "e1b11a4eaae352739c6257e0ac6d53e1",
+        "title": "Popular retailer to open flagship showroom in Glasgow\u2019s West End",
+        "link": "https://www.glasgowtimes.co.uk/news/26682370.iolla-open-new-flagship-showroom-glasgows-west-end/",
+        "description": "A flagship showroom is set to open in Glasgow\u2019s West End as part of a growing UK retail network.",
+        "published": "Thu, 29 Oct 2026 15:58:14 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20344526/?type=app&htype=0"
       },
       {
         "id": "fd7279c61bda52363cc4254fbb9ff31e",
@@ -3123,14 +3195,6 @@
         "description": "Researchers at Heriot-Watt University have found that producing a stronger alcoholic liquid before distillation could make Scotch malt whisky production more efficient by cutting energy use, carbon emissions and volume of liquid residues.",
         "published": "Thu, 29 Oct 2026 15:40:45 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21647841/?type=app&htype=0"
-      },
-      {
-        "id": "7bd73d8e3dc41541ab69c2622917dee2",
-        "title": "Two men convicted after firearms recovered in Glasgow",
-        "link": "https://www.heraldscotland.com/news/26682136.two-men-convicted-firearms-recovered-glasgow/",
-        "description": "Two men are behind bars after a couple of eagle-eyed children clocked one of them trying to hide a deadly gun stash.",
-        "published": "Thu, 29 Oct 2026 15:17:04 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21647649/?type=app&htype=0"
       },
       {
         "id": "c9d08fbc033f3b9a5a3ef9d1fd29e5ae",
