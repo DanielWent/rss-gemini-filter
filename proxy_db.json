@@ -3053,6 +3053,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "2e0f05022c89fc3e3cc914abc17d479c",
+        "title": "Scotland bans under-18s from buying all nicotine and herbal smoking products",
+        "link": "https://www.heraldscotland.com/news/26677295.scotland-bans-under-18s-buying-nicotine-products-pouches/",
+        "description": "Under new rules, Scotland bans under-18s from buying nicotine pouches, strips, pearls and herbal smoking products; retailers must register by April 29.",
+        "published": "Thu, 29 Oct 2026 00:01:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20395039/?type=app&htype=0"
+      },
+      {
+        "id": "beb0274ac74feb1c1061c1efbe414613",
+        "title": "BBC Radio Scotland\u2019s weekly audience falls by more than 90,000",
+        "link": "https://www.heraldscotland.com/news/26679283.bbc-radio-scotland-suffers-steep-drop-listeners/",
+        "description": "Research by RAJAR shows the station\u2019s weekly reach has fallen 10.8% in three months, reversing gains made previously. The results follow a backlash from some listeners over axed shows and presenters.",
+        "published": "Thu, 29 Oct 2026 00:01:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21607740/?type=app&htype=0"
+      },
+      {
+        "id": "4b520e4435e50c314b884af1e18f59a9",
+        "title": "Scottish patients face 'postcode lottery' in access to latest medicines",
+        "link": "https://www.heraldscotland.com/news/26676605.scottish-patients-face-postcode-lottery-medicines/",
+        "description": "ABPI report finds a postcode lottery in NHS Scotland access to SMC-approved medicines, with wide variation in GLP-1 and cholesterol drug prescribing rates.",
+        "published": "Thu, 29 Oct 2026 00:01:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20714868/?type=app&htype=0"
+      },
+      {
         "id": "9513b1adca537eaee8b6fa015b5951e5",
         "title": "Scotland\u2019s Top Employer Awards - full list of winners revealed",
         "link": "https://www.heraldscotland.com/news/26677770.collins-aerospace-wins-two-titles-top-employer-awards/",
