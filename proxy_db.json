@@ -3069,6 +3069,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-come-together-george-square-34836421",
+        "title": "Glasgow to come together in George Square for Remembrance Sunday",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-come-together-george-square-34836421",
+        "description": "This year's commemorations will see Glasgow's main Remembrance Sunday service return to George Square.",
+        "published": "Fri, 30 Oct 2026 07:09:08 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34836458.ece/ALTERNATES/s98/0_gettyimages-618731036-170667a.jpg"
+      },
+      {
         "id": "fa1381d53a6ec081dcdff999077b179c",
         "title": "Inside beloved Glasgow bakery famed for Scotch pies that's barely changed in decades",
         "link": "https://www.glasgowtimes.co.uk/news/26670397.traditional-glasgow-bakery-sir-alex-ferguson-couldnt-resist/",
@@ -3859,14 +3867,6 @@
         "description": "Whisky and hospitality leaders hit out at mounting costs as Scottish investors find reasons for optimism in the Chancellor\u2019s Budget",
         "published": "Wed, 28 Oct 2026 17:00:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/20248726/?type=app&htype=0"
-      },
-      {
-        "id": "65fff4cc85d61e72ce086c7898fa015d",
-        "title": "Major Clyde bridge to shut for months after Storm Boelo damage",
-        "link": "https://www.glasgowtimes.co.uk/news/weather/26679021.renfrew-bridge-close-for-months-storm-boelo-damage/",
-        "description": "Renfrew Bridge will close for several months after Storm Boelo caused extensive damage to electrical systems needed to operate the new crossing",
-        "published": "Wed, 28 Oct 2026 16:36:34 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20970228/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
