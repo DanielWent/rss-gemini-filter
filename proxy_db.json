@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cj1dw9dynn2xo#2",
+        "title": "A life in pictures",
+        "link": "https://www.bbc.co.uk/news/articles/cj1dw9dynn2xo?at_medium=RSS&at_campaign=rss",
+        "description": "His career on stages and screens spanned seven decades but came to be defined by his roles on some of the most popular sci-fi franchises in history.",
+        "published": "Fri, 30 Oct 2026 03:54:39 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85f7/live/793dcad0-d3ff-11f1-b497-e5f21e10c3e0.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o#1",
         "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
         "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
         "published": "Sat, 12 Sep 2026 17:28:53 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/203a/live/5d11e480-ae26-11f1-a540-61c3f7fc4e6c.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o#1",
-        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-        "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-        "description": "Amodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-        "published": "Sat, 12 Sep 2026 15:37:39 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -3077,6 +3077,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "f29c9e6ac1819487d4c2f00562f9f9a4",
+        "title": "Glasgow council condemns \u2018unacceptable\u2019 far-right stunt at new Nelson Mandela statue",
+        "link": "https://www.glasgowtimes.co.uk/news/26683506.glasgow-council-condemns-far-right-stunt-nelson-mandela-statue/",
+        "description": "Glasgow City Council has condemned an \u201cunacceptable\u201d far-right stunt after an anti-immigration sign was placed on the city\u2019s new Nelson Mandela statue.",
+        "published": "Fri, 30 Oct 2026 09:16:11 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21562281/?type=app&htype=0"
+      },
+      {
         "id": "c39ecf6d2bd5f1b53fbd9ea06865beb8",
         "title": "LIVE updates as busy motorway BLOCKED amid rush hour incident",
         "link": "https://www.glasgowtimes.co.uk/news/26683422.live-updates-m74-polmadie-blocked-due-traffic-incident/",
@@ -3867,14 +3875,6 @@
         "description": "Plans for 300 new homes in Glasgow have been approved by the Council, with Taylor Wimpey set to deliver two developments in Robroyston.",
         "published": "Wed, 28 Oct 2026 19:07:41 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21643750/?type=app&htype=0"
-      },
-      {
-        "id": "bdf71877c9fe3cb51e14d731a3bba349",
-        "title": "Hundreds of homes across Scotland still without power after Storm Boelo damage",
-        "link": "https://www.heraldscotland.com/news/26679410.hundreds-homes-scotland-still-without-power-storm-boelo/",
-        "description": "Hundreds of homes across Scotland are still without power on Wednesday following damage from Storm Boelo.",
-        "published": "Wed, 28 Oct 2026 18:49:41 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21643448/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
