@@ -3069,6 +3069,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "e49ab50dae23e6fefaa466949434992e",
+        "title": "LIVE updates as trains to Glasgow cancelled amid ongoing emergency incident",
+        "link": "https://www.glasgowtimes.co.uk/news/26683315.live-updates-trains-glasgow-cancelled-amid-incident-hairmyres/",
+        "description": "Trains from East Kilbride to Glasgow Central are being impacted this morning due to an emergency incident at Hairmyres.",
+        "published": "Fri, 30 Oct 2026 07:45:37 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20711366/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-come-together-george-square-34836421",
         "title": "Glasgow to come together in George Square for Remembrance Sunday",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-come-together-george-square-34836421",
@@ -3859,14 +3867,6 @@
         "description": "Deputy First Minister Jenny Gilruth has warned that Scotland faces a real-terms cut of around \u00a3650m next year despite the UK Budget's headline boost.",
         "published": "Wed, 28 Oct 2026 17:36:11 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21643617/?type=app&htype=0"
-      },
-      {
-        "id": "543644d0c8bc83b583ce372cdf66b430",
-        "title": "Westlife tribute singer jailed for 11 years for raping and abusing women",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26679272.hamilton-westlife-tribute-singer-jailed-11-years-abusing-women/",
-        "description": "A singer from a Scottish Westlife tribute act has been jailed for 11 years after being convicted of raping and abusing two women.",
-        "published": "Wed, 28 Oct 2026 17:25:23 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20226133/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
