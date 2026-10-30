@@ -3077,6 +3077,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "2ed89f693bf4ff06c7994ffa4c9abe7f",
+        "title": "Convoy system through storm-damaged road spares school pupils from lengthy detour",
+        "link": "https://www.heraldscotland.com/news/26685559.escorted-school-buses-run-a78-road-closure/",
+        "description": "Escorted school buses between Skelmorlie and Largs amid A78 closure after Storm Boelo damage, as emergency repairs continue and diversions remain.",
+        "published": "Fri, 30 Oct 2026 15:15:09 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/19702779/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=535917",
         "title": "Officer injured trying to catch masked teenager riding electric motorbike in Paisley",
         "link": "https://news.stv.tv/west-central/officer-injured-trying-to-catch-masked-teenager-riding-electric-motorbike-in-paisley",
@@ -3107,6 +3115,14 @@
         "description": "The Lindsays National XC Relays have been rescheduled following last weekend\u2019s cancellation.",
         "published": "Fri, 30 Oct 2026 14:21:30 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20738479/?type=app&htype=0"
+      },
+      {
+        "id": "c0cd73ee1d00af32279dd952d73d6400",
+        "title": "Technical glitch locks public watchdog out of case system for 10 days",
+        "link": "https://www.heraldscotland.com/news/26685111.scotlands-public-watchdog-locked-case-system-10-days/",
+        "description": "A technical issue has meant that Scotland\u2019s public sector ombudsman has been unable to access its case management system for the past 10 days, The Herald can reveal",
+        "published": "Fri, 30 Oct 2026 14:09:39 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21651809/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/new-prince--princess-wales-34839581",
@@ -3859,22 +3875,6 @@
         "description": "ScotRail adds trains for Rangers v Aberdeen and Hearts v Hibs at Hampden on October 31 and November 1, with queues and engineering works expected.",
         "published": "Thu, 29 Oct 2026 10:26:03 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/16393121/?type=app&htype=0"
-      },
-      {
-        "id": "8da1a9c7904b6ac26a4240d85df34f66",
-        "title": "Section of busy Glasgow road to close for five days for utility works",
-        "link": "https://www.glasgowtimes.co.uk/news/26680207.busy-glasgow-road-close-five-days-amid-scottish-power-works/",
-        "description": "A section of a busy Glasgow road will shut for five days in November as Scottish Power carries out utility works, with diversions in place.",
-        "published": "Thu, 29 Oct 2026 10:12:11 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17705465/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/rough-sleepers-glasgow-beg-john-34832678",
-        "title": "Rough sleepers in Glasgow beg John Swinney to battle homelessness",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/rough-sleepers-glasgow-beg-john-34832678",
-        "description": "It comes after UK Chancellor John Healey pledged a further \u00a3432million to tackle rough sleeping south of the border.",
-        "published": "Thu, 29 Oct 2026 10:09:42 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34832781.ece/ALTERNATES/s98/0_JS422699844.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
