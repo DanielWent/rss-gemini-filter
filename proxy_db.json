@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cj04032rp5wro#5",
+        "title": "Gruffalo illustrator considering legal action against AI firms",
+        "link": "https://www.bbc.co.uk/news/articles/cj04032rp5wro?at_medium=RSS&at_campaign=rss",
+        "description": "Axel Scheffler believes firms breach copyright by reproducing his work in AI-generated Gruffalo images.",
+        "published": "Fri, 30 Oct 2026 05:49:37 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3305/live/7cbf47b0-d3c3-11f1-93e1-3b657b665bcf.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cj1dw9dynn2xo#2",
         "title": "A life in pictures",
         "link": "https://www.bbc.co.uk/news/articles/cj1dw9dynn2xo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Keely Hodgkinson is again denied a major prize by rival Audrey Werro - but reveals she had to overcome a torn hamstring to make the start line at the World Athletics Ultimate Championship.",
         "published": "Sat, 12 Sep 2026 20:04:55 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffcd/live/fc6c5290-aee4-11f1-9031-9328289c9edb.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cq635037g18o#2",
-        "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-        "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-        "description": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
-        "published": "Sat, 12 Sep 2026 17:28:53 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/203a/live/5d11e480-ae26-11f1-a540-61c3f7fc4e6c.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -3069,6 +3069,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-site-empty-1988-garden-34840148",
+        "title": "Glasgow site empty since 1988 Garden Festival could be developed into flats",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-site-empty-1988-garden-34840148",
+        "description": "MSP Paul Sweeney said the design was &quot;inappropriate.&quot;",
+        "published": "Fri, 30 Oct 2026 13:35:27 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34840127.ece/ALTERNATES/s98/0_pacificquayflats.png"
+      },
+      {
+        "id": "https://news.stv.tv/?p=535896",
+        "title": "Renfrew Ferry could return after \u00a3117m bridge closes due to significant damage caused by Storm Boelo",
+        "link": "https://news.stv.tv/west-central/renfrew-ferry-could-return-after-117m-bridge-closes-due-to-significant-damage-caused-by-storm-boelo",
+        "description": "Ferry organisers are exploring whether the service could make a return due to the bridge's closure",
+        "published": "Fri, 30 Oct 2026 13:28:53 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/72eb6ca1f6901451160be6a14c305fe9-1793365426.jpg"
+      },
+      {
         "id": "af8bfd74ecf953252e900ef50bbe81dd",
         "title": "Council reveals 10-year plan to transform everyday journeys",
         "link": "https://www.glasgowtimes.co.uk/news/26684721.council-consults-east-dunbartonshire-active-travel-strategy/",
@@ -3163,14 +3179,6 @@
         "description": "Officers have appealed for witnesses to the attack, which happeed on a train",
         "published": "Fri, 30 Oct 2026 11:17:21 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/17402972/?type=app&htype=0"
-      },
-      {
-        "id": "9320107",
-        "title": "Police Scotland seizes 54 e-bikes and e-scooters in Glasgow crackdown",
-        "link": "https://www.glasgowworld.com/news/police-scotland-glasgow-crackdown-e-bikes-e-scooters-9320107",
-        "description": "<p>Police have launched a major crackdown on the illegal use of e-bikes and e-scooters in Glasgow</p>",
-        "published": "Fri, 30 Oct 2026 11:15:25 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/22/10/19/16800800-library.jpeg?width=1200&auto=webp&trim=0%2C94%2C0%2C94"
       },
       {
         "id": "132cf9134a1d303001aa07e614fefab5",
@@ -3859,14 +3867,6 @@
         "description": "<p><img alt=\"Glamis Castle Festive Trail Runs 2026 v2\" src=\"https://runabc.co.uk/images/2026/10/glamis-castle-festive-trail-runs-2026-v2.jpg\" /></p>\n\t\t\t\t<p>Glamis Castle welcomes runners of all ages on 6 December, with festive 5 mile and 10 mile trail races and a family mile through its historic Angus estate...</p>",
         "published": "Thu, 29 Oct 2026 07:55:00 +0000",
         "image_url": "https://runabc.co.uk/images/2026/10/glamis-castle-festive-trail-runs-2026-v2.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-woman-robbed-facebook-marketplace-34829593",
-        "title": "Glasgow woman robbed by Facebook Marketplace thieves warns of multiple homes being targeted",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-woman-robbed-facebook-marketplace-34829593",
-        "description": "Donna and her husband were left feeling &quot;violated&quot; after letting the pair into their home while their children slept upstairs.",
-        "published": "Thu, 29 Oct 2026 07:10:51 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34830667.ece/ALTERNATES/s98/0_Screenshot-2026-10-28-155546.png"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
