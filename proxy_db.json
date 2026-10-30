@@ -3077,6 +3077,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=535917",
+        "title": "Officer injured trying to catch masked teenager riding electric motorbike in Paisley",
+        "link": "https://news.stv.tv/west-central/officer-injured-trying-to-catch-masked-teenager-riding-electric-motorbike-in-paisley",
+        "description": "The suspect was described as white, wearing a mask, black beanie and CK hooded top, while the bike was off-road, black with no lights",
+        "published": "Fri, 30 Oct 2026 15:11:09 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/03/6694c16f987691dc965a38dd6609abf1-1772544631-1280x720.jpeg"
+      },
+      {
+        "id": "7ff0213df891b57c5106d512b8097dd9",
+        "title": "Andy Burnham calls for more powers for Glasgow after John Swinney meeting",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26685504.burnham-calls-powers-glasgow-john-swinney-meeting/",
+        "description": "ANDY Burnham has called for more powers to be devolved to Scottish cities after a meeting with John Swinney.",
+        "published": "Fri, 30 Oct 2026 15:09:20 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21652304/?type=app&htype=0"
+      },
+      {
         "id": "01d274b641cbf9a0fecadd6ea2dac801",
         "title": "Conman who made \u00a394k ripping off victims ordered to pay back just \u00a31",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26685382.serial-conman-raked-94-000-ordered-pay-back-just-1/",
@@ -3859,22 +3875,6 @@
         "description": "It comes after UK Chancellor John Healey pledged a further \u00a3432million to tackle rough sleeping south of the border.",
         "published": "Thu, 29 Oct 2026 10:09:42 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34832781.ece/ALTERNATES/s98/0_JS422699844.jpg"
-      },
-      {
-        "id": "3ec89f3e306ff9e4d409d5de4071b23f",
-        "title": "Plans withdrawn for four homes beside primary school near Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/26680139.plans-four-homes-beside-lennoxtown-school-withdrawn/",
-        "description": "Plans to build four detached homes beside Lennoxtown Primary School have been withdrawn, according to council planning records.",
-        "published": "Thu, 29 Oct 2026 10:02:24 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21591974/?type=app&htype=0"
-      },
-      {
-        "id": "4283572fb270ea20c61c10010dd1094e",
-        "title": "\u2018Difficult\u2019 decisions lie ahead amid \u00a3140m cuts bid, Edinburgh University chief warns",
-        "link": "https://www.heraldscotland.com/news/26680009.edinburgh-university-chief-warns-difficult-decisions-ahead/",
-        "description": "The principal and vice-chancellor has published a communique outlining his thoughts on Edinburgh University\u2019s future and addressing 'misconceptions'.",
-        "published": "Thu, 29 Oct 2026 09:58:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21540957/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
