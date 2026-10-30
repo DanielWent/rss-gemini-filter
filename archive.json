@@ -1,8 +1,5 @@
 {
   "strict": {
-    "1788169812388721": 1788170129.0348296,
-    "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss": 1788170129.0348296,
-    "Dolly Parton laid to rest alongside husband in Nashville": 1788170129.0348296,
     "1788171311213287": 1788171931.7826643,
     "https://www.bbc.co.uk/sport/tennis/articles/cy9zq3xn45yo?at_medium=RSS&at_campaign=rss": 1788171931.7826643,
     "From playing Serena Williams on screen to following in her footsteps": 1788171931.7826643,
@@ -15086,12 +15083,6 @@
     "Gruffalo illustrator considering legal action against AI firms": 1793350581.4454036
   },
   "lenient": {
-    "https://www.bbc.co.uk/news/articles/cew95ke74l7o#0": 1788170129.0348296,
-    "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss": 1788170129.0348296,
-    "Dolly Parton laid to rest alongside husband in Nashville": 1788170129.0348296,
-    "https://www.bbc.co.uk/news/articles/c2l80j2rdlxo#3": 1788170129.0348296,
-    "https://www.bbc.co.uk/news/articles/c2l80j2rdlxo?at_medium=RSS&at_campaign=rss": 1788170129.0348296,
-    "Business groups urge Swinney to scrap 'ineffective' food price cap plan": 1788170129.0348296,
     "https://www.bbc.co.uk/news/articles/c3rew8jqny5o#0": 1788175532.2728746,
     "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&at_campaign=rss": 1788175532.2728746,
     "South African airline defends low-altitude aerial stunt over packed stadium": 1788175532.2728746,
@@ -30284,7 +30275,16 @@
     "Iconic noughties band announce huge UK tour with opening night in Glasgow": 1793350581.4454036,
     "f29c9e6ac1819487d4c2f00562f9f9a4": 1793352339.0322185,
     "https://www.glasgowtimes.co.uk/news/26683506.glasgow-council-condemns-far-right-stunt-nelson-mandela-statue/": 1793352339.0322185,
-    "Glasgow council condemns \u2018unacceptable\u2019 far-right stunt at new Nelson Mandela statue": 1793352339.0322185
+    "Glasgow council condemns \u2018unacceptable\u2019 far-right stunt at new Nelson Mandela statue": 1793352339.0322185,
+    "0cf18958e8a661570798a30030f9ed76": 1793354140.5076604,
+    "https://www.glasgowtimes.co.uk/news/26683615.emergency-cumbernauld-road-closure-place-gas-leak/": 1793354140.5076604,
+    "Emergency road closure in town near Glasgow as gas leak repairs carried out": 1793354140.5076604,
+    "adeae02adff3494480a0becaa20deec2": 1793354140.5076604,
+    "https://www.glasgowtimes.co.uk/news/scottish-news/26683539.police-seize-142-e-bikes-e-scooters-scotland/": 1793354140.5076604,
+    "Glasgow tops Scotland for e-bike and e-scooter seizures in major police crackdown": 1793354140.5076604,
+    "15449aca7c33fb9d98ce5b15605e278b": 1793354140.5076604,
+    "https://www.glasgowtimes.co.uk/news/26683631.glasgow-mp-host-cost-living-advice-sessions-glasgow/": 1793354140.5076604,
+    "Glasgow MP to host community advice sessions to support residents with cost of living": 1793354140.5076604
   },
   "runabc_scotland": {
     "https://runabc.co.uk/talk-to-thompsons-linlithgow-10k-celebrates-33rd-edition": 1788247532.9936352,
@@ -48946,16 +48946,19 @@
     "Glasgow trains disrupted amid 'emergency incident' near Hairmyres": 1793352339.0322185,
     "9319669": 1793352339.0322185,
     "https://www.glasgowworld.com/travel/travel-news/emergency-services-hairmyres-station-east-kilbride-disruption-9319685": 1793352339.0322185,
-    "Hairmyres Station: Travel disruption as emergency services deal with incident in East Kilbride station": 1793352339.0322185
+    "Hairmyres Station: Travel disruption as emergency services deal with incident in East Kilbride station": 1793352339.0322185,
+    "0cf18958e8a661570798a30030f9ed76": 1793354140.5076604,
+    "https://www.glasgowtimes.co.uk/news/26683615.emergency-cumbernauld-road-closure-place-gas-leak/": 1793354140.5076604,
+    "Emergency road closure in town near Glasgow as gas leak repairs carried out": 1793354140.5076604,
+    "adeae02adff3494480a0becaa20deec2": 1793354140.5076604,
+    "https://www.glasgowtimes.co.uk/news/scottish-news/26683539.police-seize-142-e-bikes-e-scooters-scotland/": 1793354140.5076604,
+    "Glasgow tops Scotland for e-bike and e-scooter seizures in major police crackdown": 1793354140.5076604,
+    "15449aca7c33fb9d98ce5b15605e278b": 1793354140.5076604,
+    "https://www.glasgowtimes.co.uk/news/26683631.glasgow-mp-host-cost-living-advice-sessions-glasgow/": 1793354140.5076604,
+    "Glasgow MP to host community advice sessions to support residents with cost of living": 1793354140.5076604
   },
   "glasgow_live": {},
   "glasgow_world": {
-    "8950836": 1788170129.0348296,
-    "https://www.glasgowworld.com/news/exciting-new-facility-coming-to-calderglen-country-park-8950836": 1788170129.0348296,
-    "Exciting new facility coming to Calderglen Country Park": 1788170129.0348296,
-    "8950821": 1788170129.0348296,
-    "https://www.glasgowworld.com/news/national-trust-marks-major-milestone-in-project-to-save-mackintosh-designed-hill-house-8950821": 1788170129.0348296,
-    "National Trust marks major milestone in project to save Mackintosh-designed Hill House": 1788170129.0348296,
     "8946642": 1788173730.8973224,
     "https://www.glasgowworld.com/recommended/revlon-one-step-hair-dryer-brush-bouncy-blow-dry-hair-styling-amazon-beauty-deal-8948070": 1788173730.8973224,
     "Viral Revlon hair tool with 1,000+ recent buyers is now \u00a329.99 on Amazon": 1788173730.8973224,

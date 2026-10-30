@@ -3077,6 +3077,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "15449aca7c33fb9d98ce5b15605e278b",
+        "title": "Glasgow MP to host community advice sessions to support residents with cost of living",
+        "link": "https://www.glasgowtimes.co.uk/news/26683631.glasgow-mp-host-cost-living-advice-sessions-glasgow/",
+        "description": "A Glasgow MP is hosting a series of community advice sessions to help support people with the rising cost of living.",
+        "published": "Fri, 30 Oct 2026 09:46:36 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21649722/?type=app&htype=0"
+      },
+      {
+        "id": "adeae02adff3494480a0becaa20deec2",
+        "title": "Glasgow tops Scotland for e-bike and e-scooter seizures in major police crackdown",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26683539.police-seize-142-e-bikes-e-scooters-scotland/",
+        "description": "Police Scotland seized 142 illegal e-bikes and e-scooters in a week-long Operation Overlap crackdown across Scotland; all vehicles will be destroyed by police.",
+        "published": "Fri, 30 Oct 2026 09:25:24 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21599976/?type=app&htype=0"
+      },
+      {
         "id": "f29c9e6ac1819487d4c2f00562f9f9a4",
         "title": "Glasgow council condemns \u2018unacceptable\u2019 far-right stunt at new Nelson Mandela statue",
         "link": "https://www.glasgowtimes.co.uk/news/26683506.glasgow-council-condemns-far-right-stunt-nelson-mandela-statue/",
@@ -3859,22 +3875,6 @@
         "description": "Aviation specialists Collins Aerospace are flying high after being named as double winners when the results of this year\u2019s The Herald &amp; s1jobs Top Employer Awards 2026, in association with first bus, were announced on Wednesday night.",
         "published": "Wed, 28 Oct 2026 23:00:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21643795/?type=app&htype=0"
-      },
-      {
-        "id": "71a38ce3e2a799c2e98c57cb268633a2",
-        "title": "Fresh bid to develop car park near Glasgow Lidl could see 140 flats built",
-        "link": "https://www.heraldscotland.com/news/26679477.fresh-bid-build-140-flats-near-glasgow-finnieston-lidl/",
-        "description": "A fresh bid to develop an empty car park near Lidl in Finnieston could see 140 flats constructed.",
-        "published": "Wed, 28 Oct 2026 20:36:01 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21643812/?type=app&htype=0"
-      },
-      {
-        "id": "3c4fd6132e25d882f2b8fabab0008b03",
-        "title": "300 new homes approved for Glasgow as major plans given green light by Council",
-        "link": "https://www.glasgowtimes.co.uk/news/26679428.300-new-homes-approved-glasgow-major-development/",
-        "description": "Plans for 300 new homes in Glasgow have been approved by the Council, with Taylor Wimpey set to deliver two developments in Robroyston.",
-        "published": "Wed, 28 Oct 2026 19:07:41 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21643750/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
