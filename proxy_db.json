@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o#1",
+        "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+        "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+        "description": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
+        "published": "Thu, 29 Oct 2026 22:17:52 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg"
+      },
+      {
         "id": "1793229312643755",
         "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
         "link": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Amodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
         "published": "Sat, 12 Sep 2026 15:37:39 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg"
-      },
-      {
-        "id": "1789225814670139",
-        "title": "Ingebrigtsen withdraws from 1500m showdown with Kerr",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/clykzvnv686o?at_medium=RSS&at_campaign=rss",
-        "description": "Jakob Ingebrigtsen will not contest the men's 1500m final at the World Athletics Ultimate Championship, putting his reunion with rival Josh Kerr on hold.",
-        "published": "Sat, 12 Sep 2026 16:49:18 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4e1/live/5332e430-aeaf-11f1-ae38-d350b022f499.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
