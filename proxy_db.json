@@ -3093,6 +3093,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/ck5yn9n2v0g4o#0",
+        "title": "Why does the legend of Sawney Bean and Scotland's cannibal clan persist?",
+        "link": "https://www.bbc.co.uk/news/articles/ck5yn9n2v0g4o?at_medium=RSS&at_campaign=rss",
+        "description": "The legend of Sawney Bean and his family has chilled generations, telling of a murderous family who devoured people in South Ayrshire.",
+        "published": "Fri, 30 Oct 2026 23:01:33 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3ea/live/3283d8d0-d45b-11f1-93d9-89af68edb68a.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/ck62yny61552o#0",
+        "title": "Love, luck and magic: Why are young people turning to online witches?",
+        "link": "https://www.bbc.co.uk/news/articles/ck62yny61552o?at_medium=RSS&at_campaign=rss",
+        "description": "One online retailer has reported a sharp rise in the amount of people buying spells to help with luck.",
+        "published": "Fri, 30 Oct 2026 23:01:29 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48af/live/cb6c6c50-d39e-11f1-abc7-23eff3a47521.jpg"
+      },
+      {
         "id": "6b839efcf37ee22e0f85c5dccaf75e89",
         "title": "More than 70 GPs in Scotland back call for less iPad usage in schools",
         "link": "https://www.heraldscotland.com/news/26686603.70-gps-express-concerns-ipad-use-schools/",
