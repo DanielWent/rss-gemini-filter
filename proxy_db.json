@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo#5",
+        "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
+        "link": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
+        "description": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts.",
+        "published": "Fri, 30 Oct 2026 17:00:32 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b89/live/21c0d320-d485-11f1-a701-fddedf244c16.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cj04032rp5wro#5",
         "title": "Gruffalo illustrator considering legal action against AI firms",
         "link": "https://www.bbc.co.uk/news/articles/cj04032rp5wro?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "From meteor showers to a November supermoon, there are a number of impressive sights to behold in the autumn night sky.",
         "published": "Sat, 12 Sep 2026 23:53:07 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aff8/live/ce59c3a0-ad0f-11f1-a035-c91dffce51bf.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/athletics/articles/ckgwk3dz1z2o#9",
-        "title": "Hodgkinson second to Werro after hamstring tear",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/ckgwk3dz1z2o?at_medium=RSS&at_campaign=rss",
-        "description": "Keely Hodgkinson is again denied a major prize by rival Audrey Werro - but reveals she had to overcome a torn hamstring to make the start line at the World Athletics Ultimate Championship.",
-        "published": "Sat, 12 Sep 2026 20:04:55 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffcd/live/fc6c5290-aee4-11f1-9031-9328289c9edb.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -3077,12 +3077,60 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-iconic-egyptian-halls-receive-34842183",
+        "title": "Glasgow iconic Egyptian Halls to receive \u00a3600,000 as hotel plan continues",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-iconic-egyptian-halls-receive-34842183",
+        "description": "Work continues to save the historic city centre property.",
+        "published": "Fri, 30 Oct 2026 17:18:06 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34270996.ece/ALTERNATES/s98/742787039_2130742180824081_7074160183793313078_n.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-city-council-needs-more-34841990",
+        "title": "Glasgow City Council needs more 'regulatory power' over vape shops to protect historic buildings",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-city-council-needs-more-34841990",
+        "description": "The local authority is limited in its ability to regulate vape shops by the national planning legislation.",
+        "published": "Fri, 30 Oct 2026 17:12:53 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34831345.ece/ALTERNATES/s98/0_GettyImages-2266879962.jpg"
+      },
+      {
+        "id": "ccedb1567259259a2e9b1b785bf620ab",
+        "title": "LIVE updates as fire on M74 causes lane closure during Friday rush hour",
+        "link": "https://www.glasgowtimes.co.uk/news/26686266.m74-fire-causes-lane-closure-friday-rush-hour/",
+        "description": "M74 fire causes lane closure during Friday rush hour",
+        "published": "Fri, 30 Oct 2026 16:57:35 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21653393/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cqr7yp8dngn8o#0",
+        "title": "'No nation left behind' says Burnham after meeting first ministers in Glasgow",
+        "link": "https://www.bbc.co.uk/news/articles/cqr7yp8dngn8o?at_medium=RSS&at_campaign=rss",
+        "description": "The meeting involved representatives from the UK's four nations to discuss devolving more powers to regions and cities.",
+        "published": "Fri, 30 Oct 2026 16:56:33 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03b4/live/763d0920-d45b-11f1-93e1-3b657b665bcf.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=535954",
         "title": "Fire crews battling blaze at Glasgow city centre flat",
         "link": "https://news.stv.tv/west-central/fire-crews-battling-blaze-at-glasgow-city-centre-flat",
         "description": "Emergency services were called to Osborne Street on Friday afternoon",
         "published": "Fri, 30 Oct 2026 16:56:07 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/943359f44dc87f6a1679c987280e8dc7-1793378936-1280x720.jpeg"
+      },
+      {
+        "id": "1f322774a765d60cfe9178e483a9b1db",
+        "title": "Comedy legend adds extra Glasgow show after fans rush to buy tickets",
+        "link": "https://www.glasgowtimes.co.uk/news/26686218.ricky-gervais-adds-glasgow-date-ticket-demand/",
+        "description": "Ricky Gervais has added a Glasgow date after strong demand for tickets to his latest stand-up tour.",
+        "published": "Fri, 30 Oct 2026 16:50:50 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19112145/?type=app&htype=0"
+      },
+      {
+        "id": "d5affab2a77ae742821cff0d3277d504",
+        "title": "Hollywood star spotted snapping up nostalgic treat in Glasgow bakery",
+        "link": "https://www.glasgowtimes.co.uk/news/26686204.hollywood-star-james-mcavoy-spotted-glasgow-bakery/",
+        "description": "X-Men and Narnia star James McAvoy visits Glasgow bakery Lily Bakes Cakes, posing with the baker and revealing his favourite sweet treat: a slice of school cake.",
+        "published": "Fri, 30 Oct 2026 16:46:59 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20745770/?type=app&htype=0"
       },
       {
         "id": "9319831",
@@ -3827,54 +3875,6 @@
         "description": "A teenage Celtic fan who invaded the pitch at Ibrox after an Old Firm game and brandished a pole faces jail.",
         "published": "Thu, 29 Oct 2026 12:16:11 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21633929/?type=app&htype=0"
-      },
-      {
-        "id": "9317453",
-        "title": "Derek McInnes chuffed with 'vitally important' Rangers stat after Hearts as Ibrox star named as standout",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/derek-mcinnes-chuffed-with-vitally-important-rangers-stat-in-hearts-stalemate-as-ibrox-star-named-as-standout-9317453",
-        "description": "<p>Light Blues scored a late equaliser at Tynecastle</p>",
-        "published": "Thu, 29 Oct 2026 12:00:37 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/29/10/37/GettyImages-2302434967.jpeg?width=1200&auto=webp&trim=0%2C64%2C0%2C63"
-      },
-      {
-        "id": "9317764",
-        "title": "Celtic called on to 'do better' defensively amid worrying stat as goalkeeping selection thinker addressed",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/martin-oneill-calls-on-celtic-to-do-better-defensively-amid-worrying-stat-as-goalkeeping-selection-thinker-addressed-9317764",
-        "description": "<p>Hoops were held to a 2-2 draw at home to Dundee United</p>",
-        "published": "Thu, 29 Oct 2026 12:00:02 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/29/11/24/GettyImages-2295794583.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0"
-      },
-      {
-        "id": "c949bf634a629e141cc8e0e19220209b",
-        "title": "Celtic fan hurled objects before striking Rangers supporter with belt",
-        "link": "https://www.glasgowtimes.co.uk/news/26680920.clydebank-celtic-fan-hurled-objects-hit-rangers-fan-belt/",
-        "description": "A Celtic thug repeatedly struck a Rangers fan with a belt after an Old Firm match at Ibrox.",
-        "published": "Thu, 29 Oct 2026 11:54:35 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21645518/?type=app&htype=183"
-      },
-      {
-        "id": "https://news.stv.tv/?p=535674",
-        "title": "East Ayrshire councillors approve plans for \u00a36.5m M&S foodhall\u00a0at Kilmarnock retail park",
-        "link": "https://news.stv.tv/west-central/east-ayrshire-councillors-approve-plans-for-6-5m-ms-foodhall-at-kilmarnock-retail-park",
-        "description": "Concerns had been raised over plans to shutter Kilmarnock's King Street premises to focus on the Queens Drive Retail Park site",
-        "published": "Thu, 29 Oct 2026 11:52:03 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/c2c9c042c4baf56d41ce572f55c5e4c6-1792487982-1120x720.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cjn5v39p94eeo#0",
-        "title": "Scottish ministers to work with councils on \u00a3100 energy payment rollout",
-        "link": "https://www.bbc.co.uk/news/articles/cjn5v39p94eeo?at_medium=RSS&at_campaign=rss",
-        "description": "Deputy First Minister Jenny Gilruth says the Scottish government aims to replicate the UK government scheme but says it is \"not a perfect solution\".",
-        "published": "Thu, 29 Oct 2026 11:51:48 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfd2/live/ec13e370-d38a-11f1-b441-2b33b063138f.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/motorcyclist-rushed-hospital-after-crash-34833124",
-        "title": "Motorcyclist rushed to hospital after crash in Clyde Tunnel as man charged",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/motorcyclist-rushed-hospital-after-crash-34833124",
-        "description": "Emergency services attended the incident on Wednesday evening.",
-        "published": "Thu, 29 Oct 2026 11:35:27 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34833232.ece/ALTERNATES/s98/0_JS99672080.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
