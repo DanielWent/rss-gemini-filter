@@ -2218,14 +2218,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21640551/?type=app&htype=0"
       },
       {
-        "id": "11c3cd968328d7ed6929a833691d7333",
-        "title": "Burst water main found in busy area as motorists warned to AVOID area",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26675980.water-disruption-warning-issued-milngavie-residents/",
-        "description": "Milngavie residents face possible water supply disruption after Scottish Water finds a fault on Nethermains Road, with traffic delays expected during repairs.",
-        "published": "Wed, 28 Oct 2026 07:14:40 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20496663/?type=app&htype=0"
-      },
-      {
         "id": "d8f1bfb753db99aed5f3aded73f74ebb",
         "title": "East Dunbartonshire Council seeks public views on spending amid \u00a37m budget gap",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26675041.east-dunbartonshire-residents-asked-views-budget/",
@@ -3077,6 +3069,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "af8bfd74ecf953252e900ef50bbe81dd",
+        "title": "Council reveals 10-year plan to transform everyday journeys",
+        "link": "https://www.glasgowtimes.co.uk/news/26684721.council-consults-east-dunbartonshire-active-travel-strategy/",
+        "description": "A new plan to promote walking, wheeling, and cycling is gathering public feedback.",
+        "published": "Fri, 30 Oct 2026 12:54:38 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21651250/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c92032r6xpkdo#0",
+        "title": "Police to destroy electric bikes and scooters seized in crackdown",
+        "link": "https://www.bbc.co.uk/news/articles/c92032r6xpkdo?at_medium=RSS&at_campaign=rss",
+        "description": "Officers confiscated 99 e-bikes and 43 e-scooters during Operation Overlap, which ran between 19 and 25 October.",
+        "published": "Fri, 30 Oct 2026 12:52:04 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/965d/live/0684bca0-d45f-11f1-ab12-eb0c94f5b382.jpg"
+      },
+      {
         "id": "81a5716e80cc8ceaeef47e0e0d5b14fa",
         "title": "Inside Glasgow's Halloween night as iconic Barras market transformed",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26684255.inside-glasgows-halloween-night-iconic-barras-market-transformed/",
@@ -3093,6 +3101,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21651107/?type=app&htype=0"
       },
       {
+        "id": "6cd8bb419ca6ec0f8c3a9370c6818727",
+        "title": "Here are five reasons to subscribe to the Glasgow Times this week",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26684629.five-glasgow-stories-subscribers-reading-week/",
+        "description": "From Glasgow\u2019s deepening housing emergency to the loss of a much-loved community facility, our journalists have been reporting on the stories that matter to people across the city.",
+        "published": "Fri, 30 Oct 2026 12:37:12 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21638187/?type=app&htype=0"
+      },
+      {
         "id": "bfaa4a0680b04720d498107891b902f7",
         "title": "Glasgow theatre director received honorary doctorate for 'outstanding contribution'",
         "link": "https://www.glasgowtimes.co.uk/news/26684581.glasgow-theatre-director-awarded-honorary-doctorate/",
@@ -3107,6 +3123,22 @@
         "description": "\u201cUnlike that closed shop, my door will be open all day. The kettle is on, Andy \u2013 pop in&quot;",
         "published": "Fri, 30 Oct 2026 12:21:12 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34839133.ece/ALTERNATES/s98/870394167_2594028857765185_4753614215777699459_n.jpg"
+      },
+      {
+        "id": "345f615fcf58a2265c9a4a30f57ba48e",
+        "title": "Release of dozens of beavers to highland site gets go-ahead",
+        "link": "https://www.heraldscotland.com/news/26684513.15-beaver-families-approved-river-ness-release/",
+        "description": "Beavers could soon be reshaping this river's ecosystem",
+        "published": "Fri, 30 Oct 2026 12:15:29 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/16267864/?type=app&htype=0"
+      },
+      {
+        "id": "d80901b718397a363e433b968b437e7d",
+        "title": "Court of Session finds Information Commissioner erred in law over Salmond files",
+        "link": "https://www.heraldscotland.com/news/26684361.salmond-files-information-commissioner-erred-law/",
+        "description": "The Court of Session has ruled that the Scottish Information Commissioner applied the wrong legal test when ordering release of evidence from the Salmond ministerial code inquiry, finding that a real risk of identifying complainers is sufficient to block disclosure.",
+        "published": "Fri, 30 Oct 2026 12:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20148650/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=535869",
@@ -3835,46 +3867,6 @@
         "description": "Donna and her husband were left feeling &quot;violated&quot; after letting the pair into their home while their children slept upstairs.",
         "published": "Thu, 29 Oct 2026 07:10:51 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34830667.ece/ALTERNATES/s98/0_Screenshot-2026-10-28-155546.png"
-      },
-      {
-        "id": "8abcbb673de6e17e34f42cb329bd6afb",
-        "title": "Surprising Glasgow figures revealed for Ozempic and Mounjaro prescriptions",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26679633.glasgow-nhs-high-ozempic-prescribing-despite-low-obesity/",
-        "description": "NHS Scotland prescribing of Ozempic and Mounjaro varies widely, with Greater Glasgow and Clyde among the highest despite low obesity levels, ABPI report finds.",
-        "published": "Thu, 29 Oct 2026 06:38:28 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21644120/?type=app&htype=0"
-      },
-      {
-        "id": "602586e881b87d9f18d1aff37da1b45f",
-        "title": "Big Country and Jacob Alon lead latest GUITARGUITAR Scottish Music Awards winners",
-        "link": "https://www.heraldscotland.com/news/26679029.big-country-lead-latest-guitarguitar-scottish-music-awards-winners/",
-        "description": "They join previously announced winners David Byrne, Susan Boyle, The Fratellis and Cammy Barnes for this year's ceremony, which will take place at Glasgow's iconic Barrowland Ballroom on host on Saturday, November 7",
-        "published": "Thu, 29 Oct 2026 06:37:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21643425/?type=app&htype=0"
-      },
-      {
-        "id": "f1a38ef60de0f4da1b8d63153eff7034",
-        "title": "SNP independence strategy: Does the party really want another referendum?",
-        "link": "https://www.heraldscotland.com/politics/holyrood/26678888.kevin-mckenna-snp-really-want-scottish-independence/",
-        "description": "Kevin McKenna takes a caustic look at the SNP\u2019s independence strategy, questioning whether the party\u2019s leadership really wants a second referendum and what another vote would mean for Scottish politics.",
-        "published": "Thu, 29 Oct 2026 06:30:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21596146/?type=app&htype=0"
-      },
-      {
-        "id": "993aae6e53804251d05c506dc0dbf7d0",
-        "title": "74p in every pound goes to tax as Scot whisky industry sounds alarm",
-        "link": "https://www.heraldscotland.com/news/26678541.scotch-whisky-tax-rise-industry-warns-jobs-sales-slump/",
-        "description": "Scotch whisky drinkers are handing over 74p in every pound to the taxman as the industry warns that soaring costs and falling sales are threatening jobs across Scotland.",
-        "published": "Thu, 29 Oct 2026 06:27:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/16564775/?type=app&htype=0"
-      },
-      {
-        "id": "4a145f2fed74363ba897b615ced5b9a4",
-        "title": "Edinburgh University study abroad cuts could cost nearly \u00a310m in lost tuition",
-        "link": "https://www.heraldscotland.com/news/26678027.fears-edinburgh-university-study-abroad-cuts-cost-9-6m/",
-        "description": "Now, The Herald can reveal that an academic-led financial analysis claims that the ensuing reputational damage could cost the university millions of pounds.",
-        "published": "Thu, 29 Oct 2026 06:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/20897648/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
