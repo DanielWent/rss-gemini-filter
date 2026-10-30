@@ -2170,6 +2170,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "132cf9134a1d303001aa07e614fefab5",
+        "title": "Major East Dunbartonshire road set to temporarily close next weekend",
+        "link": "https://www.glasgowtimes.co.uk/news/26683981.major-east-dunbartonshire-road-temporarily-close/",
+        "description": "A major road in Bearsden will temporarily close after an order was approved by East Dunbartonshire Council.",
+        "published": "Fri, 30 Oct 2026 10:51:36 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20211497/?type=app&htype=0"
+      },
+      {
         "id": "135a37042d33a33ec38c06271bfc1de2",
         "title": "Council reveals reason for 60-bed care home refusal near Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26682628.council-reveals-milngavie-60-bed-care-home-plans-refused/",
@@ -2960,14 +2968,6 @@
         "description": "Elon Musk's SpaceX Starlink internet satellites have been filmed flying over Glasgow.",
         "published": "Sun, 23 Aug 2026 17:03:17 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21360273/?type=app&htype=0"
-      },
-      {
-        "id": "bb41ac5882dad61848991b26c6a2c22c",
-        "title": "Glasgow scientists join urgent Ebola vaccine research as outbreak intensifies",
-        "link": "https://www.glasgowtimes.co.uk/news/26488340.glasgow-scientists-test-existing-ebola-vaccine-bundibugyo/",
-        "description": "Glasgow researchers will test whether an existing Ebola vaccine could offer protection against Bundibugyo amid the escalating DRC outbreak.",
-        "published": "Sun, 23 Aug 2026 16:55:47 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20943945/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3077,6 +3077,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9320107",
+        "title": "Police Scotland seizes 54 e-bikes and e-scooters in Glasgow crackdown",
+        "link": "https://www.glasgowworld.com/news/police-scotland-glasgow-crackdown-e-bikes-e-scooters-9320107",
+        "description": "<p>Police have launched a major crackdown on the illegal use of e-bikes and e-scooters in Glasgow</p>",
+        "published": "Fri, 30 Oct 2026 11:15:25 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/22/10/19/16800800-library.jpeg?width=1200&auto=webp&trim=0%2C94%2C0%2C94"
+      },
+      {
+        "id": "132cf9134a1d303001aa07e614fefab5",
+        "title": "Major East Dunbartonshire road set to temporarily close next weekend",
+        "link": "https://www.glasgowtimes.co.uk/news/26683981.major-east-dunbartonshire-road-temporarily-close/",
+        "description": "A major road in Bearsden will temporarily close after an order was approved by East Dunbartonshire Council.",
+        "published": "Fri, 30 Oct 2026 10:51:36 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20211497/?type=app&htype=0"
+      },
+      {
         "id": "716b7c093f44edfcc6da1d918bb38588",
         "title": "Glasgow road plagued with closures set to shut again tomorrow for hours",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26683929.provanmill-road-glasgow-close-road-lining-works/",
@@ -3085,12 +3101,36 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19036953/?type=app&htype=61"
       },
       {
+        "id": "64083fa69c839222fc65d7cfea684b58",
+        "title": "Herald Business LIVE: Today's top stories - October 30",
+        "link": "https://www.heraldscotland.com/news/26683887.herald-business-live-todays-top-stories---october-30/",
+        "description": "Welcome to The Herald's Business live blog, where we\u2019ll be bringing you the latest developments from across Scotland\u2019s business industry.",
+        "published": "Fri, 30 Oct 2026 10:34:48 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21616153/?type=app&htype=0"
+      },
+      {
         "id": "15449aca7c33fb9d98ce5b15605e278b",
         "title": "Glasgow MP to host community advice sessions to support residents with cost of living",
         "link": "https://www.glasgowtimes.co.uk/news/26683631.glasgow-mp-host-cost-living-advice-sessions-glasgow/",
         "description": "A Glasgow MP is hosting a series of community advice sessions to help support people with the rising cost of living.",
         "published": "Fri, 30 Oct 2026 09:46:36 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21649722/?type=app&htype=0"
+      },
+      {
+        "id": "f029189e25cd395aaab67f65c9e385db",
+        "title": "Creative Scotland accused of favouring sale of CCA site as arts groups scrap bid",
+        "link": "https://www.heraldscotland.com/news/26683609.creative-scotland-faces-new-cca-backlash-arts-groups-scrap-bid/",
+        "description": "Creative Scotland is facing a new backlash over its handling of the former Centre for Contemporary Arts in Glasgow.",
+        "published": "Fri, 30 Oct 2026 09:43:52 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20575963/?type=app&htype=0"
+      },
+      {
+        "id": "6d1404f5eeb215387ca2187310b82faf",
+        "title": "Police launch probe into Andrew and Epstein\u2019s Balmoral visit",
+        "link": "https://www.heraldscotland.com/news/26683592.probe-andrew-epsteins-balmoral-visit/",
+        "description": "Police Scotland has begun early enquiries into the pair's time at Balmoral",
+        "published": "Fri, 30 Oct 2026 09:41:24 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/13281947/?type=app&htype=0"
       },
       {
         "id": "d45d5756becb05ab54b0211ea76a6508",
@@ -3835,46 +3875,6 @@
         "description": "Glasgow parents can now register babies for the Lord Provost's Baby's First Christmas celebration, with certificates, keepsakes and festive memories at the City Chambers.",
         "published": "Thu, 29 Oct 2026 06:00:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21642483/?type=app&htype=0"
-      },
-      {
-        "id": "5c762504def4d3af29e9429f4cd4933e",
-        "title": "Watches of Switzerland reveals it has examined potential move to US market",
-        "link": "https://www.heraldscotland.com/news/26678008.watches-switzerland-examined-potential-us-listing/",
-        "description": "Watches of Switzerland boss Brian Duffy reveals the group has examined a US listing as it expands its Rolex boutique in Glasgow",
-        "published": "Thu, 29 Oct 2026 04:30:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21643548/?type=app&htype=0"
-      },
-      {
-        "id": "ea03b3117460117048c9cfa0375c8663",
-        "title": "Why Scotland needs to rethink who really holds property factors to account",
-        "link": "https://www.heraldscotland.com/opinion/26675029.scotlands-property-factoring-system-needs-reform/",
-        "description": "Scotland\u2019s property factoring system needs a rethink, argues Derek MacDonald, with homeowners given a stronger collective voice over shared buildings",
-        "published": "Thu, 29 Oct 2026 04:30:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21638611/?type=app&htype=0"
-      },
-      {
-        "id": "2e0f05022c89fc3e3cc914abc17d479c",
-        "title": "Scotland bans under-18s from buying all nicotine and herbal smoking products",
-        "link": "https://www.heraldscotland.com/news/26677295.scotland-bans-under-18s-buying-nicotine-products-pouches/",
-        "description": "Under new rules, Scotland bans under-18s from buying nicotine pouches, strips, pearls and herbal smoking products; retailers must register by April 29.",
-        "published": "Thu, 29 Oct 2026 00:01:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/20395039/?type=app&htype=0"
-      },
-      {
-        "id": "beb0274ac74feb1c1061c1efbe414613",
-        "title": "BBC Radio Scotland\u2019s weekly audience falls by more than 90,000",
-        "link": "https://www.heraldscotland.com/news/26679283.bbc-radio-scotland-suffers-steep-drop-listeners/",
-        "description": "Research by RAJAR shows the station\u2019s weekly reach has fallen 10.8% in three months, reversing gains made previously. The results follow a backlash from some listeners over axed shows and presenters.",
-        "published": "Thu, 29 Oct 2026 00:01:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21607740/?type=app&htype=0"
-      },
-      {
-        "id": "9513b1adca537eaee8b6fa015b5951e5",
-        "title": "Scotland\u2019s Top Employer Awards - full list of winners revealed",
-        "link": "https://www.heraldscotland.com/news/26677770.collins-aerospace-wins-two-titles-top-employer-awards/",
-        "description": "Aviation specialists Collins Aerospace are flying high after being named as double winners when the results of this year\u2019s The Herald &amp; s1jobs Top Employer Awards 2026, in association with first bus, were announced on Wednesday night.",
-        "published": "Wed, 28 Oct 2026 23:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21643795/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
