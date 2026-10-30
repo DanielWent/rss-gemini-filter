@@ -3077,6 +3077,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cm4g18j81znqo#0",
+        "title": "Engineer shortage blamed for new delay for Turkish-built CalMac ferry",
+        "link": "https://www.bbc.co.uk/news/articles/cm4g18j81znqo?at_medium=RSS&at_campaign=rss",
+        "description": "The handover of MV Loch Indaal, being built at the Cemre shipyard, is put back to November while it awaits regulator approval.",
+        "published": "Fri, 30 Oct 2026 18:18:42 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faec/live/0f2e9530-7166-11f1-b1db-af71d47507d6.jpg"
+      },
+      {
+        "id": "6d45a0172f2cfe5bd44cff3e798b9c49",
+        "title": "Glasgow street closed as fire crews rush to tackle tenement blaze",
+        "link": "https://www.glasgowtimes.co.uk/news/26686486.glasgow-tenement-fire-forces-city-centre-road-closure/",
+        "description": "A Glasgow tenement was lit up by the lights of five fire engines after a blaze broke out in it this afternoon.",
+        "published": "Fri, 30 Oct 2026 18:00:31 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21653804/?type=app&htype=0"
+      },
+      {
         "id": "3a9329c0dbe4c0551b0e90ab25093d8b",
         "title": "Bid to construct up to 3,000 homes near Airdrie refused by council",
         "link": "https://www.heraldscotland.com/news/26686432.proposed-development-including-3-000-homes-near-airdrie-refused/",
@@ -3859,22 +3875,6 @@
         "description": "As the Celebrity Traitors comes to its dramatic conclusion, VisitScotland has revealed that fans are driving online interest in Scotland \u2013 with UK searches more than double those during the run of the first Celebrity Traitors series.",
         "published": "Thu, 29 Oct 2026 13:52:31 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21573468/?type=app&htype=0"
-      },
-      {
-        "id": "56f247dccb2bcf4f71e68fec8bf97a43",
-        "title": "Historic 112-year-old bandstand to reopen after devastating fire near Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/26681519.overtoun-bandstand-rutherglen-reopen-fire/",
-        "description": "Rutherglen\u2019s historic 112-year-old Overtoun Bandstand is set to reopen after a major restoration following a devastating fire in 2024.",
-        "published": "Thu, 29 Oct 2026 13:43:50 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21648117/?type=app&htype=566"
-      },
-      {
-        "id": "https://news.stv.tv/?p=535711",
-        "title": "Man who raped and abused six women over 14-year period jailed",
-        "link": "https://news.stv.tv/west-central/man-who-raped-and-abused-six-women-over-14-year-period-jailed",
-        "description": "Steven MacLean grabbed a woman's face as she drove, causing her to crash into a wall then made her lie to police about the collision",
-        "published": "Thu, 29 Oct 2026 13:16:20 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2025/05/f80552903122b112511c63c30c41a9fc-1746179781.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
