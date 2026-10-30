@@ -3077,6 +3077,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "716b7c093f44edfcc6da1d918bb38588",
+        "title": "Glasgow road plagued with closures set to shut again tomorrow for hours",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26683929.provanmill-road-glasgow-close-road-lining-works/",
+        "description": "Provanmill Road in Glasgow will close from 8am to 2pm on October 31 for road lining works, with bus access maintained and diversions via Cumbernauld Road.",
+        "published": "Fri, 30 Oct 2026 10:41:32 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19036953/?type=app&htype=61"
+      },
+      {
         "id": "15449aca7c33fb9d98ce5b15605e278b",
         "title": "Glasgow MP to host community advice sessions to support residents with cost of living",
         "link": "https://www.glasgowtimes.co.uk/news/26683631.glasgow-mp-host-cost-living-advice-sessions-glasgow/",
