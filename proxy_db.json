@@ -3077,6 +3077,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "01d274b641cbf9a0fecadd6ea2dac801",
+        "title": "Conman who made \u00a394k ripping off victims ordered to pay back just \u00a31",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26685382.serial-conman-raked-94-000-ordered-pay-back-just-1/",
+        "description": "A serial conman who made more than \u00a394,000 from frauds across Lanarkshire and Renfrewshire has been ordered to pay back just \u00a31 after being found to have no assets.",
+        "published": "Fri, 30 Oct 2026 14:52:12 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17315228/?type=app&htype=0"
+      },
+      {
         "id": "1b77fde80714650a4f32001f604f8c36",
         "title": "Huge sporting event near Glasgow gets new date after weather cancellation",
         "link": "https://www.glasgowtimes.co.uk/news/weather/26685189.new-date-confirmed-lindsays-national-xc-relays-cumbernauld/",
@@ -3867,14 +3875,6 @@
         "description": "The principal and vice-chancellor has published a communique outlining his thoughts on Edinburgh University\u2019s future and addressing 'misconceptions'.",
         "published": "Thu, 29 Oct 2026 09:58:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21540957/?type=app&htype=0"
-      },
-      {
-        "id": "e5163da8f889e15225c328bcfdd36db1",
-        "title": "LIVE updates as huge crash sparks 20-minute delays on Glasgow motorway",
-        "link": "https://www.glasgowtimes.co.uk/news/26679841.live-updates-m8-motorway-glasgow-city-centre-blocked/",
-        "description": "Part of the M8 in Glasgow is blocked following a road traffic incident this morning. The incident is affecting the eastbound carriageway between Junctions 17 and 16, with traffic still able to pass slowly and with care. Delays of around 20 minutes are already being reported on approach.",
-        "published": "Thu, 29 Oct 2026 09:04:28 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21644294/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
