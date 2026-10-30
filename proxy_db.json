@@ -3069,6 +3069,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "fa1381d53a6ec081dcdff999077b179c",
+        "title": "Inside beloved Glasgow bakery famed for Scotch pies that's barely changed in decades",
+        "link": "https://www.glasgowtimes.co.uk/news/26670397.traditional-glasgow-bakery-sir-alex-ferguson-couldnt-resist/",
+        "description": "A beloved bakery is being celebrated for its enduring place in the heart of the community.",
+        "published": "Fri, 30 Oct 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21637815/?type=app&htype=0"
+      },
+      {
+        "id": "947870b28adb0ba2a3ec9af93702f72d",
+        "title": "Andy Burnham to meet John Swinney in Glasgow today over major devolution plans",
+        "link": "https://www.glasgowtimes.co.uk/news/26683101.andy-burnham-meet-john-swinney-glasgow-today/",
+        "description": "Prime Minister Andy Burnham is to meet with First Minister John Swinney and other devolved leaders in Glasgow today.",
+        "published": "Fri, 30 Oct 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21226333/?type=app&htype=0"
+      },
+      {
         "id": "b11c204a52fc527dca52b131123e7a93",
         "title": "Swinney, Offord, Greer and Mackay to face off at Scotland's top political awards",
         "link": "https://www.heraldscotland.com/news/26682848.heralds-scottish-politician-year-2026-shortlist/",
