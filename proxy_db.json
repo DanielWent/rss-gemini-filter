@@ -2170,6 +2170,22 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "a882c53b0223397b68131c240d93a1c9",
+        "title": "Bearsden man took pictures of 16-year-old at Glasgow Central Station urinal",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26685291.man-took-pictures-16-year-old-glasgow-central-station-urinal/",
+        "description": "A former Asda manager took indecent pictures of a 16-year-old schoolboy standing beside him at a urinal.",
+        "published": "Fri, 30 Oct 2026 14:37:33 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20643823/?type=app&htype=0"
+      },
+      {
+        "id": "1b77fde80714650a4f32001f604f8c36",
+        "title": "Huge sporting event near Glasgow gets new date after weather cancellation",
+        "link": "https://www.glasgowtimes.co.uk/news/weather/26685189.new-date-confirmed-lindsays-national-xc-relays-cumbernauld/",
+        "description": "The Lindsays National XC Relays have been rescheduled following last weekend\u2019s cancellation.",
+        "published": "Fri, 30 Oct 2026 14:21:30 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20738479/?type=app&htype=0"
+      },
+      {
         "id": "132cf9134a1d303001aa07e614fefab5",
         "title": "Major East Dunbartonshire road set to temporarily close next weekend",
         "link": "https://www.glasgowtimes.co.uk/news/26683981.major-east-dunbartonshire-road-temporarily-close/",
@@ -2952,14 +2968,6 @@
         "description": "Glasgow suburbs known as 'commuter hotspot' are experiencing some of the sharpest price rises in the UK as homeowners look for easy access to the city without living in it",
         "published": "Mon, 24 Aug 2026 07:33:46 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21360958/?type=app&htype=0"
-      },
-      {
-        "id": "d6f59321ffbfbdc877ca0bb1b028a9c5",
-        "title": "Elon Musk's Starlight satellites spotted over Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26488345.elon-musks-spacex-starlight-satellites-spotted-glasgow/",
-        "description": "Elon Musk's SpaceX Starlink internet satellites have been filmed flying over Glasgow.",
-        "published": "Sun, 23 Aug 2026 17:03:17 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21360273/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3068,6 +3076,30 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "1b77fde80714650a4f32001f604f8c36",
+        "title": "Huge sporting event near Glasgow gets new date after weather cancellation",
+        "link": "https://www.glasgowtimes.co.uk/news/weather/26685189.new-date-confirmed-lindsays-national-xc-relays-cumbernauld/",
+        "description": "The Lindsays National XC Relays have been rescheduled following last weekend\u2019s cancellation.",
+        "published": "Fri, 30 Oct 2026 14:21:30 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20738479/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/new-prince--princess-wales-34839581",
+        "title": "New Prince & Princess of Wales Hospice opens its largest shop on Sauchiehall Street",
+        "link": "https://www.glasgowlive.co.uk/whats-on/new-prince--princess-wales-34839581",
+        "description": "A new exciting addition to Sauchiehall Street.",
+        "published": "Fri, 30 Oct 2026 14:00:57 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34840388.ece/ALTERNATES/s98/0_Sauchiehall-St-5196.jpg"
+      },
+      {
+        "id": "1044d1c9b773221b046da513e89f80e7",
+        "title": "Coire Glas hydro project could deliver \u00a31.5 billion boost to UK economy",
+        "link": "https://www.heraldscotland.com/news/26684886.coire-glas-project-create-3-000-uk-construction-jobs/",
+        "description": "SSE\u2019s Coire Glas pumped storage hydro project in the Highlands could create 3,000 UK jobs and deliver \u00a31.5bn in economic value, pending Ofgem approval.",
+        "published": "Fri, 30 Oct 2026 13:43:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21651515/?type=app&htype=0"
+      },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-site-empty-1988-garden-34840148",
         "title": "Glasgow site empty since 1988 Garden Festival could be developed into flats",
@@ -3843,30 +3875,6 @@
         "description": "Part of the M8 in Glasgow is blocked following a road traffic incident this morning. The incident is affecting the eastbound carriageway between Junctions 17 and 16, with traffic still able to pass slowly and with care. Delays of around 20 minutes are already being reported on approach.",
         "published": "Thu, 29 Oct 2026 09:04:28 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21644294/?type=app&htype=0"
-      },
-      {
-        "id": "70185dfd909a882ccea3195e937b50ef",
-        "title": "LIVE updates as section of M77 blocked during rush hour due to traffic incident",
-        "link": "https://www.glasgowtimes.co.uk/news/26679720.live-updates-m77-glasgow-blocked-amid-road-traffic-incident/",
-        "description": "A busy section of the M77 heading towards Glasgow is currently blocked due to a road traffic incident this morning.",
-        "published": "Thu, 29 Oct 2026 08:15:57 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21644192/?type=app&htype=0"
-      },
-      {
-        "id": "49ea73b90b5db1120db21d8dfff3a832",
-        "title": "Rail passengers warned as fault hits busy route in Glasgow",
-        "link": "https://www.heraldscotland.com/news/26679716.scotrail-warns-cancellations-neilston-line-fault/",
-        "description": "Services could be delayed or cancelled",
-        "published": "Thu, 29 Oct 2026 08:13:29 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/12228203/?type=app&htype=0"
-      },
-      {
-        "id": "https://runabc.co.uk/glamis-castle-festive-trail-runs-2026-bring-christmas-running-to-angus",
-        "title": "Glamis Castle Festive Trail Runs 2026 Bring Christmas Running To Angus",
-        "link": "https://runabc.co.uk/glamis-castle-festive-trail-runs-2026-bring-christmas-running-to-angus",
-        "description": "<p><img alt=\"Glamis Castle Festive Trail Runs 2026 v2\" src=\"https://runabc.co.uk/images/2026/10/glamis-castle-festive-trail-runs-2026-v2.jpg\" /></p>\n\t\t\t\t<p>Glamis Castle welcomes runners of all ages on 6 December, with festive 5 mile and 10 mile trail races and a family mile through its historic Angus estate...</p>",
-        "published": "Thu, 29 Oct 2026 07:55:00 +0000",
-        "image_url": "https://runabc.co.uk/images/2026/10/glamis-castle-festive-trail-runs-2026-v2.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
