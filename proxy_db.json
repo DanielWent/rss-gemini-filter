@@ -3077,6 +3077,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=535869",
+        "title": "Coastal road suffers \u2018widespread cracking\u2019 after Storm Boelo as drivers warned against rural road shortcut",
+        "link": "https://news.stv.tv/west-central/coastal-road-suffers-widespread-cracking-after-storm-boelo-as-drivers-warned-against-rural-road-shortcut",
+        "description": "Amey says investigation and emergency repairs are under way, but could not confirm when the road will reopen",
+        "published": "Fri, 30 Oct 2026 11:47:29 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/f5cbbe2bd815aa4785a4f19b7fb1e6b8-1793358749-1280x720.jpeg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=535874",
+        "title": "Train services in South Lanarkshire disrupted after person dies on track",
+        "link": "https://news.stv.tv/west-central/train-services-in-south-lanarkshire-disrupted-after-person-dies-on-track",
+        "description": "Emergency services were called to the line near Hairmyres at around 7.40am on Friday",
+        "published": "Fri, 30 Oct 2026 11:26:18 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2025/12/d7dfec3347c0556ac6be5c2c5b6bef8c-1764581376.jpeg"
+      },
+      {
         "id": "9320107",
         "title": "Police Scotland seizes 54 e-bikes and e-scooters in Glasgow crackdown",
         "link": "https://www.glasgowworld.com/news/police-scotland-glasgow-crackdown-e-bikes-e-scooters-9320107",
@@ -3859,22 +3875,6 @@
         "description": "A much-loved Glasgow cycling hub is closing after 14 years in Finnieston, with Bike for Good downsizing and moving to Govanhill.",
         "published": "Thu, 29 Oct 2026 06:00:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21642564/?type=app&htype=0"
-      },
-      {
-        "id": "f189f70df2cbc20e9777dedf0745ac99",
-        "title": "Thousands of Glasgow children stuck in temporary accommodation amid housing emergency",
-        "link": "https://www.glasgowtimes.co.uk/news/26671909.thousands-children-face-winter-homeless-glasgow/",
-        "description": "More than 9000 people are in temporary accommodation in Glasgow including three and half thousand children.",
-        "published": "Thu, 29 Oct 2026 06:00:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17489535/?type=app&htype=0"
-      },
-      {
-        "id": "3dfc8e6b4167f39e35331dd750119127",
-        "title": "Glasgow's cutest Christmas event returns as parents urged to get involved",
-        "link": "https://www.glasgowtimes.co.uk/news/26678309.glasgow-families-invited-register-babys-first-christmas/",
-        "description": "Glasgow parents can now register babies for the Lord Provost's Baby's First Christmas celebration, with certificates, keepsakes and festive memories at the City Chambers.",
-        "published": "Thu, 29 Oct 2026 06:00:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21642483/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
