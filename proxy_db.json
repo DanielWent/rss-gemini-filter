@@ -3077,6 +3077,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-city-council-leader-asks-34838499",
+        "title": "Glasgow City Council leader asks PM to 'pop in' for a cuppa and residents have plenty to say",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-city-council-leader-asks-34838499",
+        "description": "\u201cUnlike that closed shop, my door will be open all day. The kettle is on, Andy \u2013 pop in&quot;",
+        "published": "Fri, 30 Oct 2026 12:21:12 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34839133.ece/ALTERNATES/s98/870394167_2594028857765185_4753614215777699459_n.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=535869",
         "title": "Coastal road suffers \u2018widespread cracking\u2019 after Storm Boelo as drivers warned against rural road shortcut",
         "link": "https://news.stv.tv/west-central/coastal-road-suffers-widespread-cracking-after-storm-boelo-as-drivers-warned-against-rural-road-shortcut",
@@ -3091,6 +3099,14 @@
         "description": "Emergency services were called to the line near Hairmyres at around 7.40am on Friday",
         "published": "Fri, 30 Oct 2026 11:26:18 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2025/12/d7dfec3347c0556ac6be5c2c5b6bef8c-1764581376.jpeg"
+      },
+      {
+        "id": "032875349f7ef4900d18c5afb52a85a5",
+        "title": "Police seek woman after six-year-old boy 'slapped on train' to Scotland",
+        "link": "https://www.heraldscotland.com/news/26684120.police-seek-woman-six-year-old-slapped-edinburgh-waverley/",
+        "description": "Officers have appealed for witnesses to the attack, which happeed on a train",
+        "published": "Fri, 30 Oct 2026 11:17:21 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/17402972/?type=app&htype=0"
       },
       {
         "id": "9320107",
@@ -3149,14 +3165,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/13281947/?type=app&htype=0"
       },
       {
-        "id": "d45d5756becb05ab54b0211ea76a6508",
-        "title": "Police Scotland seize almost 150 e-bikes and e-scooters in week-long blitz",
-        "link": "https://www.heraldscotland.com/news/26683534.police-seize-almost-150-illegal-e-bikes-e-scooters-scotland/",
-        "description": "The illegal vehicles will be destroyed",
-        "published": "Fri, 30 Oct 2026 09:23:55 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/13199238/?type=app&htype=0"
-      },
-      {
         "id": "f29c9e6ac1819487d4c2f00562f9f9a4",
         "title": "Glasgow council condemns \u2018unacceptable\u2019 far-right stunt at new Nelson Mandela statue",
         "link": "https://www.glasgowtimes.co.uk/news/26683506.glasgow-council-condemns-far-right-stunt-nelson-mandela-statue/",
@@ -3203,14 +3211,6 @@
         "description": "The new showroom aims to 'feel more like home than a shop'",
         "published": "Fri, 30 Oct 2026 07:47:55 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21649361/?type=app&htype=0"
-      },
-      {
-        "id": "e49ab50dae23e6fefaa466949434992e",
-        "title": "LIVE updates as trains to Glasgow cancelled amid ongoing emergency incident",
-        "link": "https://www.glasgowtimes.co.uk/news/26683315.live-updates-trains-glasgow-cancelled-amid-incident-hairmyres/",
-        "description": "Trains from East Kilbride to Glasgow Central are being impacted this morning due to an emergency incident at Hairmyres.",
-        "published": "Fri, 30 Oct 2026 07:45:37 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20711366/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-come-together-george-square-34836421",
