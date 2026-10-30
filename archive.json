@@ -1,11 +1,5 @@
 {
   "strict": {
-    "1788210323313252": 1788211528.880962,
-    "https://www.bbc.co.uk/sport/football/articles/cpwlxkynjvno?at_medium=RSS&at_campaign=rss": 1788211528.880962,
-    "How did match-winner Saka do at Villa Park?": 1788211528.880962,
-    "1788210323313249": 1788211528.880962,
-    "https://www.bbc.co.uk/news/articles/c05rle7zqedo?at_medium=RSS&at_campaign=rss": 1788211528.880962,
-    "Twenty-seven people rescued from rollercoaster": 1788211528.880962,
     "1788213310303954": 1788213331.8526955,
     "https://www.bbc.co.uk/news/articles/crm97k120k7o?at_medium=RSS&at_campaign=rss": 1788213331.8526955,
     "Early release: What's happening with prisoners in Scotland?": 1788213331.8526955,
@@ -15113,15 +15107,15 @@
     "Leclerc fastest in Mexico City Grand Prix first practice": 1793389804.7585082,
     "1793391020149370": 1793391935.0202484,
     "https://www.bbc.co.uk/news/articles/cqp8gpw15e8yo?at_medium=RSS&at_campaign=rss": 1793391935.0202484,
-    "Party Rock Anthem singer struggled with mental health before death": 1793391935.0202484
+    "Party Rock Anthem singer struggled with mental health before death": 1793391935.0202484,
+    "1793394021904452": 1793395535.8555932,
+    "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss": 1793395535.8555932,
+    "Police deployed during stand-off over control of Poland's top court": 1793395535.8555932,
+    "1793394021904451": 1793395535.8555932,
+    "https://www.bbc.co.uk/news/articles/c693zxw11x1wo?at_medium=RSS&at_campaign=rss": 1793395535.8555932,
+    "King visits Guyanan slave rebellion site on Caribbean tour": 1793395535.8555932
   },
   "lenient": {
-    "https://www.bbc.co.uk/sport/football/articles/cpwlxkynjvno#7": 1788211528.880962,
-    "https://www.bbc.co.uk/sport/football/articles/cpwlxkynjvno?at_medium=RSS&at_campaign=rss": 1788211528.880962,
-    "How did match-winner Saka do at Villa Park?": 1788211528.880962,
-    "https://www.bbc.co.uk/sport/football/articles/ckgvrlme148o#7": 1788211528.880962,
-    "https://www.bbc.co.uk/sport/football/articles/ckgvrlme148o?at_medium=RSS&at_campaign=rss": 1788211528.880962,
-    "Man City open talks with Chelsea over Fernandez move": 1788211528.880962,
     "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo#0": 1788213331.8526955,
     "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss": 1788213331.8526955,
     "Festival honouring Dolly Parton set for Nashville and London": 1788213331.8526955,
@@ -23214,7 +23208,13 @@
     "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage": 1793381134.07175,
     "https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o#8": 1793389804.7585082,
     "https://www.bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o?at_medium=RSS&at_campaign=rss": 1793389804.7585082,
-    "Leclerc fastest in Mexico City Grand Prix first practice": 1793389804.7585082
+    "Leclerc fastest in Mexico City Grand Prix first practice": 1793389804.7585082,
+    "https://www.bbc.co.uk/news/articles/crz9824d5e88o#1": 1793395535.8555932,
+    "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss": 1793395535.8555932,
+    "Police deployed during stand-off over control of Poland's top court": 1793395535.8555932,
+    "https://www.bbc.co.uk/news/articles/c693zxw11x1wo#1": 1793395535.8555932,
+    "https://www.bbc.co.uk/news/articles/c693zxw11x1wo?at_medium=RSS&at_campaign=rss": 1793395535.8555932,
+    "King visits Guyanan slave rebellion site on Caribbean tour": 1793395535.8555932
   },
   "google": {
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/": 1788283548.2228472,
@@ -30412,9 +30412,6 @@
     "Babcock 10K Series 2027 Entries Open For Tenth Anniversary Celebrations": 1793348740.1211677
   },
   "newsletter_candidates": {
-    "fca4dc97fcf5c0839652938c0dd68379": 1788211528.880962,
-    "https://www.heraldscotland.com/life_style/26509147.river-city-cheerio-old-pal-scotland-will-miss/": 1788211528.880962,
-    "River City deserved better from the BBC bosses who never appreciated what they had": 1788211528.880962,
     "https://www.bbc.co.uk/news/articles/cd684219x6do#0": 1788213331.8526955,
     "https://www.bbc.co.uk/news/articles/cd684219x6do?at_medium=RSS&at_campaign=rss": 1788213331.8526955,
     "'Baby Tommy's here, Chelsea's not': First-time mum dies in childbirth": 1788213331.8526955,
@@ -49082,7 +49079,10 @@
     "More than 70 GPs in Scotland back call for less iPad usage in schools": 1793393740.3145723,
     "a5d7fea4bdb143dbfb8dce48121306ca": 1793393740.3145723,
     "https://www.heraldscotland.com/news/26686583.local-hero-village-post-office-turned-home-hits-market/": 1793393740.3145723,
-    "'Local Hero' village post office and store turned home hits the market": 1793393740.3145723
+    "'Local Hero' village post office and store turned home hits the market": 1793393740.3145723,
+    "f273e4b6d22bb8a71c82afad049e3192": 1793395535.8555932,
+    "https://www.heraldscotland.com/news/26686615.man-dies-hospital-following-crash-a947-aberdeenshire/": 1793395535.8555932,
+    "Man dies in hospital following crash in Aberdeenshire": 1793395535.8555932
   },
   "glasgow_live": {},
   "glasgow_world": {
