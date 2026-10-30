@@ -3077,6 +3077,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "3a9329c0dbe4c0551b0e90ab25093d8b",
+        "title": "Bid to construct up to 3,000 homes near Airdrie refused by council",
+        "link": "https://www.heraldscotland.com/news/26686432.proposed-development-including-3-000-homes-near-airdrie-refused/",
+        "description": "North Lanarkshire councillors have refused planning permission for a proposed development including thousands of homes near Airdrie.",
+        "published": "Fri, 30 Oct 2026 17:31:02 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/17200253/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cmn04pxl5jw9o#0",
+        "title": "'One disaster after another' - Renfrew locals frustrated by bridge closure",
+        "link": "https://www.bbc.co.uk/news/articles/cmn04pxl5jw9o?at_medium=RSS&at_campaign=rss",
+        "description": "People say the closure of the storm-damaged Renfrew Bridge is resulting in loss of business and making journeys to hospital longer.",
+        "published": "Fri, 30 Oct 2026 17:28:40 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2a/live/68cb4e20-d481-11f1-a701-fddedf244c16.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=535010",
+        "title": "Mountain rescue and divers searching for man who disappeared ahead of storm",
+        "link": "https://news.stv.tv/west-central/mountain-rescue-and-divers-searching-for-man-who-disappeared-ahead-of-storm",
+        "description": "Tom Allan was reported missing from Westmain Farm on Friday after being last seen by family at around 8.15am",
+        "published": "Fri, 30 Oct 2026 17:26:55 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/3d4b21936a716d5e5c72f5e94ff41b97-1793008913-1120x720.jpeg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-iconic-egyptian-halls-receive-34842183",
         "title": "Glasgow iconic Egyptian Halls to receive \u00a3600,000 as hotel plan continues",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-iconic-egyptian-halls-receive-34842183",
@@ -3091,6 +3115,22 @@
         "description": "The local authority is limited in its ability to regulate vape shops by the national planning legislation.",
         "published": "Fri, 30 Oct 2026 17:12:53 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34831345.ece/ALTERNATES/s98/0_GettyImages-2266879962.jpg"
+      },
+      {
+        "id": "ff41e41cadb303708a457fba6103567f",
+        "title": "Streeting attacks FM over claim Scotland 'being left defenceless' by UK Government",
+        "link": "https://www.heraldscotland.com/news/26686316.streeting-rejects-swinneys-defenceless-scotland-claim/",
+        "description": "Defence Secretary Wes Streeting said the SNP's anti-nuclear policy poses one of the greatest risks to UK and Nato security.",
+        "published": "Fri, 30 Oct 2026 17:06:25 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21653558/?type=app&htype=0"
+      },
+      {
+        "id": "c26b0d68e0fce30a749c2c0702c5e261",
+        "title": "Edinburgh University urged to halt redundancy talks with study abroad team",
+        "link": "https://www.heraldscotland.com/news/26685796.edinburgh-university-urged-halt-cuts-study-abroad-jobs/",
+        "description": "Writing to principal Sir Peter Mathieson and other senior leaders, staff warned that the cuts are likely to impact the university\u2019s international reputation.",
+        "published": "Fri, 30 Oct 2026 17:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20062369/?type=app&htype=0"
       },
       {
         "id": "ccedb1567259259a2e9b1b785bf620ab",
@@ -3133,12 +3173,28 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20745770/?type=app&htype=0"
       },
       {
+        "id": "91ba76cee95d465d5f72cf28babf6f7e",
+        "title": "Glasgow\u2019s rat problem shows 'encouraging signs' of easing, councillor says",
+        "link": "https://www.heraldscotland.com/news/26686129.glasgows-rat-problem-shows-encouraging-signs-easing/",
+        "description": "Glasgow\u2019s rat problem shows \u201cencouraging signs\u201d of easing as fewer reports of rodents have been made according to a senior councillor.",
+        "published": "Fri, 30 Oct 2026 16:33:33 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/16349910/?type=app&htype=0"
+      },
+      {
         "id": "9319831",
         "title": "What Rangers must do to end three-year trophy drought as star addresses inconsistency and recent setbacks",
         "link": "https://www.glasgowworld.com/sport/football/rangers/what-rangers-must-do-to-end-three-year-trophy-drought-as-star-addresses-inconsistency-and-recent-setbacks-9319831",
         "description": "<p>Midfielder reflects on the highs and lows of life at Ibrox as Rangers prepare for a crucial Hampden showdown with Aberdeen   </p>",
         "published": "Fri, 30 Oct 2026 16:30:58 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/09/22/13/25/21789577.jpg?width=1200&auto=webp&trim=0%2C19%2C0%2C19"
+      },
+      {
+        "id": "8a8320a671653d066dee495d4dd475fe",
+        "title": "V&A Dundee and Screen Scotland join forces to create Scottish cinema blockbuster",
+        "link": "https://www.heraldscotland.com/news/26686053.v-dundee-screen-scotland-create-scottish-cinema-blockbuster/",
+        "description": "V&amp;A Dundee and Screen Scotland are working on a major celebration exploring the nation's relationship with cinema.",
+        "published": "Fri, 30 Oct 2026 16:22:32 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20820638/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=535946",
@@ -3179,6 +3235,14 @@
         "description": "The number of people registering as homeless in the Highlands has reached a three-year high, a report shows.",
         "published": "Fri, 30 Oct 2026 16:07:40 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21652890/?type=app&htype=0"
+      },
+      {
+        "id": "8f9b3865156d28e053640ad73c50fee8",
+        "title": "Burnham says he and Swinney can 'find a way to work together' for Scotland's benefit",
+        "link": "https://www.heraldscotland.com/news/26685932.burnham-swinney-constructive-devolution-talks/",
+        "description": "Andy Burnham held talks with John Swinney in Glasgow, promising to explore fiscal devolution for Scottish cities and more control over employment support, as both leaders said they had found significant common ground,",
+        "published": "Fri, 30 Oct 2026 16:07:28 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21652306/?type=app&htype=0"
       },
       {
         "id": "ea7bcfe9fc8535cd9329c6ade0d9fcee",
@@ -3235,6 +3299,14 @@
         "description": "A serial conman who made more than \u00a394,000 from frauds across Lanarkshire and Renfrewshire has been ordered to pay back just \u00a31 after being found to have no assets.",
         "published": "Fri, 30 Oct 2026 14:52:12 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17315228/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/sport/football/articles/cwrkypzzp6xeo#0",
+        "title": "O'Neill agrees with McGregor about Celtic issues",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cwrkypzzp6xeo?at_medium=RSS&at_campaign=rss",
+        "description": "Manager Martin O'Neill says he is in \"full agreement\" with captain Callum McGregor's assessment of Celtic's issues, but insisted they will \"sort it out\".",
+        "published": "Fri, 30 Oct 2026 14:22:18 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd1b/live/4b429540-d46b-11f1-9dda-1ba6fcc7d159.jpg"
       },
       {
         "id": "1b77fde80714650a4f32001f604f8c36",
@@ -3803,78 +3875,6 @@
         "description": "Steven MacLean grabbed a woman's face as she drove, causing her to crash into a wall then made her lie to police about the collision",
         "published": "Thu, 29 Oct 2026 13:16:20 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2025/05/f80552903122b112511c63c30c41a9fc-1746179781.jpg"
-      },
-      {
-        "id": "2bd38742f25e49be488cd7222759a592",
-        "title": "More than two million journeys made on Glasgow's Voi hire bikes in less than a year",
-        "link": "https://www.glasgowtimes.co.uk/news/26681358.glasgow-voi-e-bike-scheme-passed-two-million-hires/",
-        "description": "More than two million journeys have been made on Glasgow\u2019s Voi hire bikes.",
-        "published": "Thu, 29 Oct 2026 13:10:59 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21646376/?type=app&htype=0"
-      },
-      {
-        "id": "083f5aa6440ce477856d909335ac79d7",
-        "title": "American brand announces first ever Scottish store ahead of Christmas rush",
-        "link": "https://www.glasgowtimes.co.uk/news/26681339.bath-body-works-open-first-standalone-scottish-store/",
-        "description": "Bath &amp; Body Works will open its first standalone Scottish store at Frasers Plus Braehead near Glasgow this winter, offering fragrances, body care and gifts.",
-        "published": "Thu, 29 Oct 2026 13:05:09 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19512403/?type=app&htype=0"
-      },
-      {
-        "id": "4f65fd172ddbbf5651ed06b272b29c31",
-        "title": "O'Neill claims DUP 'blocked' Glasgow Celtic Alliance summit with Swinney and Burnham",
-        "link": "https://www.heraldscotland.com/news/26681306.oneill-claims-dup-blocked-glasgow-summit-swinney-burnham/",
-        "description": "Michelle O\u2019Neill accuses Emma Little-Pengelly of blocking Northern Ireland representation at Glasgow Economic Forum amid DUP tensions over Drumcree protest.",
-        "published": "Thu, 29 Oct 2026 13:05:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/20916654/?type=app&htype=0"
-      },
-      {
-        "id": "2d909fd910617c0726b1c8e71c7ff424",
-        "title": "Glasgow to host networking event for next generation of female entrepreneurs",
-        "link": "https://www.glasgowtimes.co.uk/news/26681299.womens-bootstrappers-breakfast-launches-glasgow/",
-        "description": "Bootstrappers Breakfast launches in Glasgow and Edinburgh on November 4, supporting Scotland\u2019s female entrepreneurs.",
-        "published": "Thu, 29 Oct 2026 12:57:07 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21522282/?type=app&htype=0"
-      },
-      {
-        "id": "961521342a2c203ae13e0be83b92fcb3",
-        "title": "Exhibition celebrating 50 years of the CCA to open in Glasgow",
-        "link": "https://www.heraldscotland.com/news/26681220.glasgow-cca-exhibition-marks-50-years-building-remains-sale/",
-        "description": "A Glasgow arts landmark is being remembered as its future remains uncertain",
-        "published": "Thu, 29 Oct 2026 12:41:36 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/16588635/?type=app&htype=0"
-      },
-      {
-        "id": "a4fc367a2ede3bc5dd0b9c6101d132e3",
-        "title": "Complaints about Scottish public services hit record high amid growing pressure",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26681177.scottish-public-service-complaints-rise-31-record-high/",
-        "description": "Complaints made to the Scottish Public Services Ombudsman have reached a record high.",
-        "published": "Thu, 29 Oct 2026 12:35:05 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21646120/?type=app&htype=0"
-      },
-      {
-        "id": "0862396515a8b44b54ae965ae04f6d44",
-        "title": "Homes for Scotland announces two senior promotions within executive team",
-        "link": "https://www.heraldscotland.com/news/26681103.two-senior-team-promotions-made-within-homes-scotland/",
-        "description": "Two senior promotions have been made within the executive team of Homes for Scotland.",
-        "published": "Thu, 29 Oct 2026 12:22:42 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21646012/?type=app&htype=0"
-      },
-      {
-        "id": "633f55a75641bfa1bc0a246c927d9640",
-        "title": "Aldi launches plans to open new Glasgow store at former car showroom",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26681064.aldi-plans-14m-new-glasgow-store-maryhill-road/",
-        "description": "Aldi proposes a \u00a314m Glasgow store on Maryhill Road, creating up to 35 jobs with 99 parking spaces. Public consultation takes place November 12.",
-        "published": "Thu, 29 Oct 2026 12:16:17 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21646309/?type=app&htype=0"
-      },
-      {
-        "id": "3d15de95ef811168c2dd5024b14cb80f",
-        "title": "Teen Celtic fan faces jail after storming Ibrox pitch and waving pole",
-        "link": "https://www.glasgowtimes.co.uk/news/26681061.tollcross-celtic-fan-faces-jail-storming-ibrox-pitch/",
-        "description": "A teenage Celtic fan who invaded the pitch at Ibrox after an Old Firm game and brandished a pole faces jail.",
-        "published": "Thu, 29 Oct 2026 12:16:11 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21633929/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
