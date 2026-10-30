@@ -3093,6 +3093,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "6b839efcf37ee22e0f85c5dccaf75e89",
+        "title": "More than 70 GPs in Scotland back call for less iPad usage in schools",
+        "link": "https://www.heraldscotland.com/news/26686603.70-gps-express-concerns-ipad-use-schools/",
+        "description": "A Scottish Borders public health expert has received the support of more than 70 GPs over his plea to limit screen time in classrooms.",
+        "published": "Fri, 30 Oct 2026 20:02:27 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21002374/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cm4g18j81znqo#0",
         "title": "Engineer shortage blamed for new delay for Turkish-built CalMac ferry",
         "link": "https://www.bbc.co.uk/news/articles/cm4g18j81znqo?at_medium=RSS&at_campaign=rss",
@@ -3883,14 +3891,6 @@
         "description": "Take That star Howard Donald is set to perform a DJ set at a Glasgow charity event this December.",
         "published": "Thu, 29 Oct 2026 14:25:25 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21647024/?type=app&htype=0"
-      },
-      {
-        "id": "9349b9aad61edf3e1d38122ca11448b1",
-        "title": "Boy who lost four fingers in tragic firework blast issues powerful warning",
-        "link": "https://www.glasgowtimes.co.uk/news/26681668.paisley-boy-lost-four-fingers-firework-blast-warns-others/",
-        "description": "Paisley boy Riley Luke, 12, lost four fingers in a firework accident aged eight. Ahead of Bonfire Night, he and Scottish Fire and Rescue urge safety.",
-        "published": "Thu, 29 Oct 2026 14:05:55 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21646773/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
