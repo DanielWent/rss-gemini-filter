@@ -1,14 +1,5 @@
 {
   "strict": {
-    "1788180311788836": 1788180928.957262,
-    "https://www.bbc.co.uk/news/articles/cm2r73eg899o?at_medium=RSS&at_campaign=rss": 1788180928.957262,
-    "Scottish hospitals told corridor care 'unacceptable' in new NHS plan": 1788180928.957262,
-    "1788180311788835": 1788180928.957262,
-    "https://www.bbc.co.uk/sport/football/articles/cn5d7k4nkyvo?at_medium=RSS&at_campaign=rss": 1788180928.957262,
-    "Forest complete \u00a322m Munoz signing from Palace": 1788180928.957262,
-    "1788180311788834": 1788180928.957262,
-    "https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss": 1788180928.957262,
-    "Sir Mel Stride replaced as shadow chancellor as Conservatives reshuffle top team": 1788180928.957262,
     "1788181809748291": 1788182735.5372386,
     "https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o?at_medium=RSS&at_campaign=rss": 1788182735.5372386,
     "Barcola joins Liverpool from PSG in \u00a3123m move": 1788182735.5372386,
@@ -15092,7 +15083,16 @@
     "Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits": 1793363132.0096238,
     "1793362220734649": 1793363132.0096238,
     "https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo?at_medium=RSS&at_campaign=rss": 1793363132.0096238,
-    "What we know so far about the Binance hack": 1793363132.0096238
+    "What we know so far about the Binance hack": 1793363132.0096238,
+    "1793363716545814": 1793364938.7950113,
+    "https://www.bbc.co.uk/sport/football/articles/cq4g148z2xp2o?at_medium=RSS&at_campaign=rss": 1793364938.7950113,
+    "Forest Green launch legal action over Savage approach": 1793364938.7950113,
+    "1793363716545813": 1793364938.7950113,
+    "https://www.bbc.co.uk/sport/rugby-league/articles/c6ly0pnr19jzo?at_medium=RSS&at_campaign=rss": 1793364938.7950113,
+    "England thrash Wales to begin World Cup defence": 1793364938.7950113,
+    "1793363716545811": 1793364938.7950113,
+    "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss": 1793364938.7950113,
+    "Prominent Russian newspaper shuts down under pressure from authorities": 1793364938.7950113
   },
   "lenient": {
     "https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o#7": 1788182735.5372386,
@@ -24217,12 +24217,6 @@
     "A Staten Island Man Lost Nearly 200 Pounds, and on Sunday He Is Running the New York City Marathon on His Home Island": 1793357740.5812562
   },
   "glasgow_times": {
-    "173d622ae5aa1c386c6cba5ce77a6333": 1788180928.957262,
-    "https://www.glasgowtimes.co.uk/news/scottish-news/26509078.man-arrested-following-incident-glasgow-protest/": 1788180928.957262,
-    "Man arrested following 'incident' at Glasgow protest": 1788180928.957262,
-    "34f0cfa9b7413298ac5bd66328cf600d": 1788180928.957262,
-    "https://www.glasgowtimes.co.uk/news/scottish-news/26509029.hamilton-shop-worker-threatened-weapon-robbery/": 1788180928.957262,
-    "Police hunt for armed man after local shop keeper threatened with blade": 1788180928.957262,
     "d187a6f33039f6b154e34ba3d1f76aa7": 1788184533.5746863,
     "https://www.glasgowtimes.co.uk/news/26508791.grace-21-beat-cancer-leads-emotional-glasgow-night-walk/": 1788184533.5746863,
     "Grace, 21, who beat cancer, leads emotional Glasgow night walk": 1788184533.5746863,
@@ -30328,7 +30322,19 @@
     "Major East Dunbartonshire road set to temporarily close next weekend": 1793359539.1050525,
     "d40b2bdb5a508467be8b446bb2710c8a": 1793363132.0096238,
     "https://www.glasgowtimes.co.uk/news/scottish-news/26684342.scotlands-nursing-chief-praised-uws-widening-access/": 1793363132.0096238,
-    "Chief Nursing Officer praises UWS for widening access to nursing education": 1793363132.0096238
+    "Chief Nursing Officer praises UWS for widening access to nursing education": 1793363132.0096238,
+    "81a5716e80cc8ceaeef47e0e0d5b14fa": 1793364938.7950113,
+    "https://www.glasgowtimes.co.uk/news/scottish-news/26684255.inside-glasgows-halloween-night-iconic-barras-market-transformed/": 1793364938.7950113,
+    "Inside Glasgow's Halloween night as iconic Barras market transformed": 1793364938.7950113,
+    "1158c2e2e92bae7417ee333a53ecb86a": 1793364938.7950113,
+    "https://www.glasgowtimes.co.uk/news/scottish-news/26684641.five-men-jailed-16-years-organised-crime/": 1793364938.7950113,
+    "Five men jailed for 16 years after major probe into \u00a319m organised crime network": 1793364938.7950113,
+    "1a82df1e67072e6a0a24307635a5faa2": 1793364938.7950113,
+    "https://www.glasgowtimes.co.uk/news/26684693.foundation-donated-100-000-beatson-cancer-charity/": 1793364938.7950113,
+    "Foundation donates \u00a3100k to support cancer services across West of Scotland": 1793364938.7950113,
+    "bfaa4a0680b04720d498107891b902f7": 1793364938.7950113,
+    "https://www.glasgowtimes.co.uk/news/26684581.glasgow-theatre-director-awarded-honorary-doctorate/": 1793364938.7950113,
+    "Glasgow theatre director received honorary doctorate for 'outstanding contribution'": 1793364938.7950113
   },
   "runabc_scotland": {
     "https://runabc.co.uk/talk-to-thompsons-linlithgow-10k-celebrates-33rd-edition": 1788247532.9936352,
@@ -30387,18 +30393,6 @@
     "Babcock 10K Series 2027 Entries Open For Tenth Anniversary Celebrations": 1793348740.1211677
   },
   "newsletter_candidates": {
-    "173d622ae5aa1c386c6cba5ce77a6333": 1788180928.957262,
-    "https://www.glasgowtimes.co.uk/news/scottish-news/26509078.man-arrested-following-incident-glasgow-protest/": 1788180928.957262,
-    "Man arrested following 'incident' at Glasgow protest": 1788180928.957262,
-    "34f0cfa9b7413298ac5bd66328cf600d": 1788180928.957262,
-    "https://www.glasgowtimes.co.uk/news/scottish-news/26509029.hamilton-shop-worker-threatened-weapon-robbery/": 1788180928.957262,
-    "Police hunt for armed man after local shop keeper threatened with blade": 1788180928.957262,
-    "https://news.stv.tv/?p=527178": 1788180928.957262,
-    "https://news.stv.tv/west-central/no-further-police-action-after-reports-of-rape-at-woodland-in-oban": 1788180928.957262,
-    "\u2018No further police action\u2019 after reports of rape at woodland in Oban": 1788180928.957262,
-    "a821c838a21939faba8436bf3f99e555": 1788180928.957262,
-    "https://www.heraldscotland.com/news/26508864.cairngorms-2030-communities-fund-opens-1m-small-grants/": 1788180928.957262,
-    "\u00a31m fund opens with aim to help create Scotland's first net-zero national park": 1788180928.957262,
     "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-doctor-grateful-over-once-34545769": 1788182735.5372386,
     "Glasgow doctor \u2018grateful\u2019 over once-in-a-lifetime job as FIFA World Cup medic": 1788182735.5372386,
     "https://www.glasgowlive.co.uk/news/glasgow-news/man-found-dead-glasgow-police-34546048": 1788182735.5372386,
@@ -49023,16 +49017,27 @@
     "Celtic interest in summer transfer target remains 'very high' as January swoop not out of the question": 1793363132.0096238,
     "9317692": 1793363132.0096238,
     "https://www.glasgowworld.com/sport/football/rangers/from-sickbed-to-super-sub-how-rangers-loanees-crucial-introduction-sparked-late-st-mirren-rescue-act-vs-hibs-9317692": 1793363132.0096238,
-    "From sickbed to super-sub: How Rangers loanee's crucial introduction sparked late St Mirren rescue act vs Hibs": 1793363132.0096238
+    "From sickbed to super-sub: How Rangers loanee's crucial introduction sparked late St Mirren rescue act vs Hibs": 1793363132.0096238,
+    "81a5716e80cc8ceaeef47e0e0d5b14fa": 1793364938.7950113,
+    "https://www.glasgowtimes.co.uk/news/scottish-news/26684255.inside-glasgows-halloween-night-iconic-barras-market-transformed/": 1793364938.7950113,
+    "Inside Glasgow's Halloween night as iconic Barras market transformed": 1793364938.7950113,
+    "1158c2e2e92bae7417ee333a53ecb86a": 1793364938.7950113,
+    "https://www.glasgowtimes.co.uk/news/scottish-news/26684641.five-men-jailed-16-years-organised-crime/": 1793364938.7950113,
+    "Five men jailed for 16 years after major probe into \u00a319m organised crime network": 1793364938.7950113,
+    "1a82df1e67072e6a0a24307635a5faa2": 1793364938.7950113,
+    "https://www.glasgowtimes.co.uk/news/26684693.foundation-donated-100-000-beatson-cancer-charity/": 1793364938.7950113,
+    "Foundation donates \u00a3100k to support cancer services across West of Scotland": 1793364938.7950113,
+    "bfaa4a0680b04720d498107891b902f7": 1793364938.7950113,
+    "https://www.glasgowtimes.co.uk/news/26684581.glasgow-theatre-director-awarded-honorary-doctorate/": 1793364938.7950113,
+    "Glasgow theatre director received honorary doctorate for 'outstanding contribution'": 1793364938.7950113,
+    "https://www.glasgowlive.co.uk/news/glasgow-news/legendary-glasgow-chip-shop-customers-34839322": 1793364938.7950113,
+    "Legendary Glasgow chip shop customers say 'I'd eat that' as 'crazy' new food launched": 1793364938.7950113,
+    "9318459": 1793364938.7950113,
+    "https://www.glasgowworld.com/recommended/boots-beauty-christmas-crackers-boots-christmas-crackers-2026-boots-beauty-crackers-boots-christmas-gifts-2026-boots-beauty-gifts-boots-joy-cracker-boots-magic-cracker-boots-cheer-cracker-boots-ps25-beauty-crackers-9319606": 1793364938.7950113,
+    "Boots launches \u00a325 beauty Christmas crackers worth over \u00a370 \u2013 here's what's inside": 1793364938.7950113
   },
   "glasgow_live": {},
   "glasgow_world": {
-    "8940710": 1788180928.957262,
-    "https://www.glasgowworld.com/whats-on/music/king-tuts-wah-wah-hut-to-mark-legendary-performance-with-special-gig-8940710": 1788180928.957262,
-    "King Tut's Wah Wah Hut to mark legendary performance with special gig": 1788180928.957262,
-    "8948518": 1788180928.957262,
-    "https://www.glasgowworld.com/recommended/kids-changing-robe-regatta-sale-changing-robes-kids-swimwear-discount-8948960": 1788180928.957262,
-    "Colourful changing robes for kids slashed to \u00a323.80 in Regatta sale - with extra discount code": 1788180928.957262,
     "8951385": 1788184533.5746863,
     "https://www.glasgowworld.com/news/20mph-speed-limits-coming-to-almost-800-more-glasgow-streets-8951385": 1788184533.5746863,
     "20mph speed limits coming to almost 800 more Glasgow streets": 1788184533.5746863,
@@ -51891,6 +51896,9 @@
     "Celtic interest in summer transfer target remains 'very high' as January swoop not out of the question": 1793363132.0096238,
     "9317692": 1793363132.0096238,
     "https://www.glasgowworld.com/sport/football/rangers/from-sickbed-to-super-sub-how-rangers-loanees-crucial-introduction-sparked-late-st-mirren-rescue-act-vs-hibs-9317692": 1793363132.0096238,
-    "From sickbed to super-sub: How Rangers loanee's crucial introduction sparked late St Mirren rescue act vs Hibs": 1793363132.0096238
+    "From sickbed to super-sub: How Rangers loanee's crucial introduction sparked late St Mirren rescue act vs Hibs": 1793363132.0096238,
+    "9318459": 1793364938.7950113,
+    "https://www.glasgowworld.com/recommended/boots-beauty-christmas-crackers-boots-christmas-crackers-2026-boots-beauty-crackers-boots-christmas-gifts-2026-boots-beauty-gifts-boots-joy-cracker-boots-magic-cracker-boots-cheer-cracker-boots-ps25-beauty-crackers-9319606": 1793364938.7950113,
+    "Boots launches \u00a325 beauty Christmas crackers worth over \u00a370 \u2013 here's what's inside": 1793364938.7950113
   }
 }

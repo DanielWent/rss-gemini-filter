@@ -3077,6 +3077,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "81a5716e80cc8ceaeef47e0e0d5b14fa",
+        "title": "Inside Glasgow's Halloween night as iconic Barras market transformed",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26684255.inside-glasgows-halloween-night-iconic-barras-market-transformed/",
+        "description": "Glasgow\u2019s Barras Market was transformed into a Halloween wonderland for a night of spooky fun.",
+        "published": "Fri, 30 Oct 2026 12:43:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21650998/?type=app&htype=0"
+      },
+      {
+        "id": "1158c2e2e92bae7417ee333a53ecb86a",
+        "title": "Five men jailed for 16 years after major probe into \u00a319m organised crime network",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26684641.five-men-jailed-16-years-organised-crime/",
+        "description": "Five men have been jailed for more than 16 years for serious and organised crime offences following a major investigation in Scotland.",
+        "published": "Fri, 30 Oct 2026 12:39:34 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21651107/?type=app&htype=0"
+      },
+      {
+        "id": "bfaa4a0680b04720d498107891b902f7",
+        "title": "Glasgow theatre director received honorary doctorate for 'outstanding contribution'",
+        "link": "https://www.glasgowtimes.co.uk/news/26684581.glasgow-theatre-director-awarded-honorary-doctorate/",
+        "description": "A leading Glasgow theatre director has been awarded an honorary doctorate.",
+        "published": "Fri, 30 Oct 2026 12:26:46 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21650978/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-city-council-leader-asks-34838499",
         "title": "Glasgow City Council leader asks PM to 'pop in' for a cuppa and residents have plenty to say",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-city-council-leader-asks-34838499",
@@ -3851,30 +3875,6 @@
         "description": "Now, The Herald can reveal that an academic-led financial analysis claims that the ensuing reputational damage could cost the university millions of pounds.",
         "published": "Thu, 29 Oct 2026 06:00:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/20897648/?type=app&htype=0"
-      },
-      {
-        "id": "30dc578b827ad652af7addbee21cc7c4",
-        "title": "The Scottish college generating \u00a312 for every \u00a31 of public funding",
-        "link": "https://www.heraldscotland.com/news/26678825.report-shows-significant-impact-dumfries-galloway-college/",
-        "description": "Dumfries and Galloway College generated an estimated \u00a31420 million in annual economic and social benefits for Scotland last year.",
-        "published": "Thu, 29 Oct 2026 06:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21642925/?type=app&htype=0"
-      },
-      {
-        "id": "43fce7e225efc3bae8fa9159c5c80e13",
-        "title": "\u2018Our hands are tied\u2019 - Community fights to transform vacant Glasgow land",
-        "link": "https://www.glasgowtimes.co.uk/news/26677771.fight-transform-vacant-glasgow-land-eight-year-wait/",
-        "description": "A community council is calling for action after a decade-long push for council permission to transform vacant land into a community green space.",
-        "published": "Thu, 29 Oct 2026 06:00:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21643230/?type=app&htype=0"
-      },
-      {
-        "id": "41a7444f41c2845afe58cc5281dc5b65",
-        "title": "Much-loved Glasgow cycling hub to close after 14 years in the West End",
-        "link": "https://www.glasgowtimes.co.uk/news/26674724.glasgow-cycling-hub-close-14-years-finnieston/",
-        "description": "A much-loved Glasgow cycling hub is closing after 14 years in Finnieston, with Bike for Good downsizing and moving to Govanhill.",
-        "published": "Thu, 29 Oct 2026 06:00:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21642564/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
