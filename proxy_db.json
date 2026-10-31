@@ -3093,6 +3093,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "242556be9bb94f5726721a27078a19de",
+        "title": "Environmentalists stage Bute House demonstration over \u2018scary\u2019 fossil fuels",
+        "link": "https://www.heraldscotland.com/news/26687154.halloween-protest-targets-scottish-government-fossil-fuels/",
+        "description": "Environmental campaigners have staged a Halloween themed demonstration outside the Scottish First Minister\u2019s official residence over \u201cscary\u201d fossil fuels.",
+        "published": "Sat, 31 Oct 2026 13:23:33 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21654648/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-rushed-hospital-after-overnight-34843967",
         "title": "Man rushed to hospital after overnight one-vehicle crash on Glasgow M8",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-rushed-hospital-after-overnight-34843967",
@@ -3227,14 +3235,6 @@
         "description": "The facade of the building will be seen for the first time in two years, as\u00a0craftspeople and artisans continue to work to protect historic architectural features.",
         "published": "Sat, 31 Oct 2026 06:00:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/18566745/?type=app&htype=0"
-      },
-      {
-        "id": "a8608ac8f241bf4306340fabe41f1f3f",
-        "title": "'Summerhall is invaluable': Meet the artists who could be priced out of creative hub",
-        "link": "https://www.heraldscotland.com/news/26686168.many-faces-summerhall-fear-priced-hotel-plans/",
-        "description": "The fear that artists will be priced out of Summerhall once the bulldozers and jackhammers fall silent, is shared by many of the people I speak to.",
-        "published": "Sat, 31 Oct 2026 06:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21653338/?type=app&htype=0"
       },
       {
         "id": "fb67e79ba24020c7b4dea175c61d7715",
@@ -3515,14 +3515,6 @@
         "description": "SSE\u2019s Coire Glas pumped storage hydro project in the Highlands could create 3,000 UK jobs and deliver \u00a31.5bn in economic value, pending Ofgem approval.",
         "published": "Fri, 30 Oct 2026 13:43:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21651515/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-site-empty-1988-garden-34840148",
-        "title": "Glasgow site empty since 1988 Garden Festival could be developed into flats",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-site-empty-1988-garden-34840148",
-        "description": "MSP Paul Sweeney said the design was &quot;inappropriate.&quot;",
-        "published": "Fri, 30 Oct 2026 13:35:27 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34840127.ece/ALTERNATES/s98/0_pacificquayflats.png"
       },
       {
         "id": "af8bfd74ecf953252e900ef50bbe81dd",
@@ -3835,14 +3827,6 @@
         "description": "East Dunbartonshire Council has revealed why plans for a 60-bed care home at a former car dealership in Milngavie were refused.",
         "published": "Thu, 29 Oct 2026 16:34:40 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21630418/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/child-poverty-figures-deeply-worrying-34836222",
-        "title": "Child poverty figures 'deeply worrying' and 'number one priority' says Glasgow council leader",
-        "link": "https://www.glasgowlive.co.uk/news/child-poverty-figures-deeply-worrying-34836222",
-        "description": "During Thursday\u2019s full council meeting, leader Ricky Bell said many families are struggling with money as a result of low pay, income pressures and insecure work.",
-        "published": "Thu, 29 Oct 2026 16:33:40 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34735147.ece/ALTERNATES/s98/1_Children-in-poverty.jpg"
       },
       {
         "id": "5a509fba891fbb2a14e5e213682ebbb5",
