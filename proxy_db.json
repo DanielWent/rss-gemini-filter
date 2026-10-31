@@ -3093,6 +3093,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/hamilton-man-caught-sick-child-34841612",
+        "title": "Hamilton man caught with sick child abuse material in bedroom avoids jail",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/hamilton-man-caught-sick-child-34841612",
+        "description": "Kevin Taggart will be under social work supervision for two years and must do 200 hours of unpaid community work.",
+        "published": "Sat, 31 Oct 2026 11:32:55 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34649770.ece/ALTERNATES/s98/1_dmp_ham_090421court_004JPG.jpg"
+      },
+      {
+        "id": "12a71629e84491b830179b45e1b7ce44",
+        "title": "Andy Burnham pays surprise visit to Glasgow coffee spot on city visit",
+        "link": "https://www.glasgowtimes.co.uk/news/26687002.andy-burnham-pays-shock-visit-glasgow-coffee-cart/",
+        "description": "Prime Minister Andy Burnham grabs coffee at popular spot on Glasgow\u2019s Broomielaw.",
+        "published": "Sat, 31 Oct 2026 11:14:23 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21652305/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/shopping/walkers-snack-taken-shelves-possible-34843759",
         "title": "Walkers snack taken off shelves as possible 'health risk' - how to claim refund",
         "link": "https://www.glasgowlive.co.uk/whats-on/shopping/walkers-snack-taken-shelves-possible-34843759",
@@ -3875,22 +3891,6 @@
         "description": "A major road is set to close for resurfacing works.",
         "published": "Thu, 29 Oct 2026 15:42:55 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17882119/?type=app&htype=74"
-      },
-      {
-        "id": "efd0f96a3021348a1785d631e4123119",
-        "title": "Delays expected as emergency road works near Glasgow university to last a week",
-        "link": "https://www.glasgowtimes.co.uk/news/26682291.road-works-begin-near-glasgows-royal-conservatoire/",
-        "description": "Glasgow traffic delays expected on Cambridge Street near the Royal Conservatoire of Scotland as emergency utility repairs run from October 29 to November 5.",
-        "published": "Thu, 29 Oct 2026 15:42:19 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16783333/?type=app&htype=0"
-      },
-      {
-        "id": "aee71e51c5d3289e2d8f692a4ee720a2",
-        "title": "Stronger whisky fermentation 'could cut distillery emissions by up to 16 per cent'",
-        "link": "https://www.heraldscotland.com/news/26682280.stronger-whisky-fermentation-cut-distillery-emissions---study/",
-        "description": "Researchers at Heriot-Watt University have found that producing a stronger alcoholic liquid before distillation could make Scotch malt whisky production more efficient by cutting energy use, carbon emissions and volume of liquid residues.",
-        "published": "Thu, 29 Oct 2026 15:40:45 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21647841/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
