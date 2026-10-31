@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cq8rz38jr50go#2",
+        "title": "He left 28 years ago, now after 36,000 miles Karl Bushby is almost home",
+        "link": "https://www.bbc.co.uk/news/articles/cq8rz38jr50go?at_medium=RSS&at_campaign=rss",
+        "description": "Global walker Karl Bushby is almost within sight of his journey's end after 28 years away.",
+        "published": "Sat, 31 Oct 2026 00:04:06 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/840c/live/7d897fe0-d12e-11f1-a94e-6dd2aca774ac.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo#5",
         "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
         "link": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Bangor University researchers say the scale of damage is far greater than what is immediately visible.",
         "published": "Sun, 13 Sep 2026 08:12:26 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e504/live/f1f64000-af39-11f1-a540-61c3f7fc4e6c.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cvgy4w3mnpvo#3",
-        "title": "Five night sky events to look out for this autumn",
-        "link": "https://www.bbc.co.uk/news/articles/cvgy4w3mnpvo?at_medium=RSS&at_campaign=rss",
-        "description": "From meteor showers to a November supermoon, there are a number of impressive sights to behold in the autumn night sky.",
-        "published": "Sat, 12 Sep 2026 23:53:07 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aff8/live/ce59c3a0-ad0f-11f1-a035-c91dffce51bf.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
