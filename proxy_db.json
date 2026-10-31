@@ -3093,6 +3093,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=536035",
+        "title": "\u2018Keep windows and doors closed\u2019: Firefighters battling blaze at scrapyard",
+        "link": "https://news.stv.tv/west-central/keep-windows-and-doors-closed-firefighters-battling-blaze-at-scrapyard",
+        "description": "Fire crews sent three appliances around 4.53pm on Saturday to the fire at the yard on Kilmaurs Road in Knockentiber.",
+        "published": "Sat, 31 Oct 2026 17:44:07 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/02f9b3c950b05cfd3b6cf18ba585b6b5-1793468469-1200x720.jpeg"
+      },
+      {
         "id": "57911d0eb38d0317d349579b9036cf3a",
         "title": "90s music icon announces intimate Glasgow show as part of farewell gigs",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26687301.beth-gibbons-announces-glasgow-barrowland-farewell-show/",
@@ -3883,14 +3891,6 @@
         "description": "Glasgow Labour calls for a review of support and exam access for pupils with complex communication needs, ensuring disabled learners can show their abilities.",
         "published": "Thu, 29 Oct 2026 16:04:16 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20533385/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/cctv-four-men-released-cops-34835902",
-        "title": "CCTV of four men released as cops investigate Glasgow robbery in broad daylight",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/cctv-four-men-released-cops-34835902",
-        "description": "Officers wish to speak to the four pictured and say they \u2018may be able to assist with enquiries\u201d.",
-        "published": "Thu, 29 Oct 2026 16:03:44 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34836020.ece/ALTERNATES/s98/0_Screenshot-2026-10-29-at-155854.png"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
