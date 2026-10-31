@@ -3093,6 +3093,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-rushed-hospital-after-overnight-34843967",
+        "title": "Man rushed to hospital after overnight one-vehicle crash on Glasgow M8",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-rushed-hospital-after-overnight-34843967",
+        "description": "The 34-year-old man was taken to the Queen Elizabeth University Hospital.",
+        "published": "Sat, 31 Oct 2026 13:08:40 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34843987.ece/ALTERNATES/s98/3_M8.png"
+      },
+      {
         "id": "85fcd69f6e9743940a9fe932a9c36b15",
         "title": "Glasgow road works set to be finished in April pushed back AGAIN",
         "link": "https://www.glasgowtimes.co.uk/news/26687048.duke-street-roadworks-set-finish-april-delayed/",
@@ -3883,14 +3891,6 @@
         "description": "First Minister John Swinney repeatedly declined to say whether he supports the Rosebank oil field at FMQs, as rivals accused him of evasion and the OBR warned a refusal could upend its North Sea tax forecasts.",
         "published": "Thu, 29 Oct 2026 15:59:11 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21648068/?type=app&htype=0"
-      },
-      {
-        "id": "fd7279c61bda52363cc4254fbb9ff31e",
-        "title": "Edinburgh University provost blocked from tourist tax board over programme closures",
-        "link": "https://www.heraldscotland.com/news/26682193.edinburgh-university-provosts-tourist-tax-board-appointment-blocked/",
-        "description": "Labour, SNP and Green councillors voted against appointing Professor Kim Graham to the forum, which advises the council on the 5 per cent nightly tourist tax.",
-        "published": "Thu, 29 Oct 2026 15:43:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21614140/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
