@@ -3093,6 +3093,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "565c4f46734f483a485bc11e8053b178",
+        "title": "Taggart made Glasgow world famous, but it did the city no favours",
+        "link": "https://www.heraldscotland.com/opinion/26684570.taggart-made-glasgow-famous-city-no-favours/",
+        "description": "From Taggart\u2019s mean streets to Still Game and Mayflies, television has changed how it portrays Glasgow. Yet even now it can still get things wrong.",
+        "published": "Sat, 31 Oct 2026 06:15:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/17141344/?type=app&htype=0"
+      },
+      {
         "id": "8f365e574b3c8574be7b02decd387e95",
         "title": "Glasgow resident says city centre square funfairs are \u2018permanent in all but name\u2019",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26686047.glasgow-resident-brands-st-enoch-square-funfair-permanent/",
@@ -3123,6 +3131,22 @@
         "description": "A housing group\u2019s head office has become the first in Govan to receive official recognition for its commitment to accessibility.",
         "published": "Sat, 31 Oct 2026 06:00:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21636959/?type=app&htype=0"
+      },
+      {
+        "id": "5bd6fd73fe43ec0643c846357860e6ce",
+        "title": "Jenners Building facade to reemerge as major restoration work reaches milestone",
+        "link": "https://www.heraldscotland.com/news/26685611.jenners-building-facade-reemerge-scaffolding-will-removed/",
+        "description": "The facade of the building will be seen for the first time in two years, as\u00a0craftspeople and artisans continue to work to protect historic architectural features.",
+        "published": "Sat, 31 Oct 2026 06:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/18566745/?type=app&htype=0"
+      },
+      {
+        "id": "a8608ac8f241bf4306340fabe41f1f3f",
+        "title": "'Summerhall is invaluable': Meet the artists who could be priced out of creative hub",
+        "link": "https://www.heraldscotland.com/news/26686168.many-faces-summerhall-fear-priced-hotel-plans/",
+        "description": "The fear that artists will be priced out of Summerhall once the bulldozers and jackhammers fall silent, is shared by many of the people I speak to.",
+        "published": "Sat, 31 Oct 2026 06:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21653338/?type=app&htype=0"
       },
       {
         "id": "fb67e79ba24020c7b4dea175c61d7715",
@@ -3307,14 +3331,6 @@
         "description": "The gang were caught by detectives probing a major drug-trafficking gang with international links",
         "published": "Fri, 30 Oct 2026 16:12:36 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/690010d293684278db5bb16d9caa0e3d-1793365345-1120x720.jpeg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-city-council-leader-says-34840782",
-        "title": "Glasgow City Council leader says there's 'no more money' as unions ballot members on new pay scheme",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-city-council-leader-says-34840782",
-        "description": "It comes as thousands of workers vote on the roll-out of a new pay and grading structure to replace a 2006 scheme that discriminated against mainly women workers",
-        "published": "Fri, 30 Oct 2026 16:09:40 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/article34695837.ece/ALTERNATES/s98/0_GMB-members-gather-outside-Polmadie-Depot-ahead-of-further-pay-negotiations.jpg"
       },
       {
         "id": "fb61f963ce90667f688c3a3cb723120c",
