@@ -3093,6 +3093,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/shopping/walkers-snack-taken-shelves-possible-34843759",
+        "title": "Walkers snack taken off shelves as possible 'health risk' - how to claim refund",
+        "link": "https://www.glasgowlive.co.uk/whats-on/shopping/walkers-snack-taken-shelves-possible-34843759",
+        "description": "The Food Standards Agency has issued an alert over the box of snacks",
+        "published": "Sat, 31 Oct 2026 11:12:38 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/whats-on/shopping/article34843758.ece/ALTERNATES/s98/0_Empty-shelves-in-vegetable-aisle-of-supermarket.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/trio-arrested-after-115k-worth-34843525",
         "title": "Trio arrested after '\u00a3115K worth of cocaine' recovered in Bellshill raid",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/trio-arrested-after-115k-worth-34843525",
@@ -3883,14 +3891,6 @@
         "description": "Researchers at Heriot-Watt University have found that producing a stronger alcoholic liquid before distillation could make Scotch malt whisky production more efficient by cutting energy use, carbon emissions and volume of liquid residues.",
         "published": "Thu, 29 Oct 2026 15:40:45 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21647841/?type=app&htype=0"
-      },
-      {
-        "id": "c9d08fbc033f3b9a5a3ef9d1fd29e5ae",
-        "title": "Friday Night Dinner and Gavin & Stacey stars to bring classic comedy to Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/26682128.gavin-stacey-star-join-scottish-premiere-hit-play/",
-        "description": "Tom Rosenthal and Adrian Scarborough will star in the Scottish premiere of a play based on the works of P.G. Wodehouse.",
-        "published": "Thu, 29 Oct 2026 15:16:04 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21647644/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
