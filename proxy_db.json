@@ -3093,6 +3093,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/trio-arrested-after-115k-worth-34843525",
+        "title": "Trio arrested after '\u00a3115K worth of cocaine' recovered in Bellshill raid",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/trio-arrested-after-115k-worth-34843525",
+        "description": "Police have said the &quot;significant&quot; recovery on Friday &quot;sends a strong message&quot; to those selling drugs in Greater Glasgow.",
+        "published": "Sat, 31 Oct 2026 10:16:02 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34843546.ece/ALTERNATES/s98/2_Liberty-Road.png"
+      },
+      {
+        "id": "39f2f77d4674fed60a75e115a13da6e1",
+        "title": "Council leader says it has 'no more money' to give workers as pay dispute escalates",
+        "link": "https://www.glasgowtimes.co.uk/news/26686903.glasgow-city-council-has-no-money-pay-dispute/",
+        "description": "Glasgow City Council says it has no more money for its pay and grading deal as trade unions ballot workers, with some facing wage cuts of up to \u00a311,500.",
+        "published": "Sat, 31 Oct 2026 09:52:15 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21523094/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cmvgxzv0e952o#0",
         "title": "Historic bandstand restored two years after devastating fire",
         "link": "https://www.bbc.co.uk/news/articles/cmvgxzv0e952o?at_medium=RSS&at_campaign=rss",
@@ -3875,22 +3891,6 @@
         "description": "Two Glasgow men, Reece Brown and Daniel Curran, admit possessing five converted pistols, ammunition and homemade silencers after children alerted police on May 5, 2026.",
         "published": "Thu, 29 Oct 2026 14:48:12 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21647108/?type=app&htype=0"
-      },
-      {
-        "id": "34086b0b4a64aca66889cfb08113d73d",
-        "title": "Overweight offshore workers could lose job under new rules, industry body warns",
-        "link": "https://www.heraldscotland.com/news/26681860.overweight-offshore-workers-lose-job-new-rules/",
-        "description": "Hundreds of offshore workers could be at risk of losing their jobs when a new weight limit comes into effect next week, an industry body has warned.",
-        "published": "Thu, 29 Oct 2026 14:37:58 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21257538/?type=app&htype=0"
-      },
-      {
-        "id": "6ff5c0c6939c6c7faeb561ca04add17f",
-        "title": "Take That star to perform DJ set at Glasgow charity event this December",
-        "link": "https://www.glasgowtimes.co.uk/news/26681780.take-star-perform-dj-set-glasgow-charity-event/",
-        "description": "Take That star Howard Donald is set to perform a DJ set at a Glasgow charity event this December.",
-        "published": "Thu, 29 Oct 2026 14:25:25 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21647024/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
