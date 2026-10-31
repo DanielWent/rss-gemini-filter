@@ -3093,6 +3093,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "85fcd69f6e9743940a9fe932a9c36b15",
+        "title": "Glasgow road works set to be finished in April pushed back AGAIN",
+        "link": "https://www.glasgowtimes.co.uk/news/26687048.duke-street-roadworks-set-finish-april-delayed/",
+        "description": "Glasgow Duke Street roadworks delayed again, with works continuing until November 15. Lane restrictions, bus diversions and traffic delays remain in place.",
+        "published": "Sat, 31 Oct 2026 11:52:58 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18285908/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/hamilton-man-caught-sick-child-34841612",
         "title": "Hamilton man caught with sick child abuse material in bedroom avoids jail",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/hamilton-man-caught-sick-child-34841612",
@@ -3883,14 +3891,6 @@
         "description": "Labour, SNP and Green councillors voted against appointing Professor Kim Graham to the forum, which advises the council on the 5 per cent nightly tourist tax.",
         "published": "Thu, 29 Oct 2026 15:43:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21614140/?type=app&htype=0"
-      },
-      {
-        "id": "9d9ece5a09870cdf88ff64ec86e4e7e7",
-        "title": "Southside Glasgow road to close for nine days as Glasgow resurfacing works begin",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26682296.dumbreck-road-glasgow-close-resurfacing-works/",
-        "description": "A major road is set to close for resurfacing works.",
-        "published": "Thu, 29 Oct 2026 15:42:55 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17882119/?type=app&htype=74"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
