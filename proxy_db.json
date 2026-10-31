@@ -2186,6 +2186,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "12cb6b738b7b292f8bf3d3b2d3ddf1f5",
+        "title": "Glasgow woman's story about creating wildflower meadow wins national prize",
+        "link": "https://www.glasgowtimes.co.uk/news/26670385.glasgow-womans-story-won-national-writing-competition/",
+        "description": "Eleanor Stacey, from Glasgow, was named the English Adult winner in this year\u2019s Words of the Wild competition.",
+        "published": "Sat, 31 Oct 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21631518/?type=app&htype=0"
+      },
+      {
         "id": "a882c53b0223397b68131c240d93a1c9",
         "title": "Bearsden man took pictures of 16-year-old at Glasgow Central Station urinal",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26685291.man-took-pictures-16-year-old-glasgow-central-station-urinal/",
@@ -2312,14 +2320,6 @@
         "description": "Rangers striker Youssef Chermiti had a speeding allegation against him binned today.",
         "published": "Fri, 23 Oct 2026 14:53:33 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21624152/?type=app&htype=0"
-      },
-      {
-        "id": "63e79f61541078e6e53dadeb9b01d561",
-        "title": "Weather warning forces cancellation of flagship Scottish athletics event",
-        "link": "https://www.glasgowtimes.co.uk/news/weather/26665115.scottish-athletics-axes-xc-relays-high-winds-pose-safety-risk/",
-        "description": "A national sporting event has been cancelled due to safety concerns.",
-        "published": "Fri, 23 Oct 2026 14:26:37 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21623947/?type=app&htype=0"
       },
       {
         "id": "15197c554b691e40741fff66b0dccb1c",
@@ -3092,6 +3092,38 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "8f365e574b3c8574be7b02decd387e95",
+        "title": "Glasgow resident says city centre square funfairs are \u2018permanent in all but name\u2019",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26686047.glasgow-resident-brands-st-enoch-square-funfair-permanent/",
+        "description": "A Glasgow city centre resident has said funfairs on a busy square are \"permanent in all but name\".",
+        "published": "Sat, 31 Oct 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20231571/?type=app&htype=0"
+      },
+      {
+        "id": "ec48b00c2bd50f468e6bee431cf88ffc",
+        "title": "Why The Steamie still packs theatres 40 years on as it returns to Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26680576.steamie-returns-glasgow-cast-reveal-lasting-appeal/",
+        "description": "As The Steamie returns to Glasgow's King's Theatre, its cast explain why Tony Roper's beloved comedy about friendship, community and working-class women remains as popular as ever.",
+        "published": "Sat, 31 Oct 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21645290/?type=app&htype=0"
+      },
+      {
+        "id": "0a25af0782093ea9f990535af8363b3f",
+        "title": "Tales from the ghostly Glasgow theatre which houses a 'gateway to hell'",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26680780.meet-ghostly-spirits-haunt-glasgows-tron-theatre/",
+        "description": "Staff at Glasgow\u2019s historic Tron Theatre report alleged ghost sightings, including a CCTV shadow, Elizabeth and \u2018George\u2019, as plans for ghost tours emerge.",
+        "published": "Sat, 31 Oct 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21645440/?type=app&htype=0"
+      },
+      {
+        "id": "ffb28c14ef289b17cfbf42c9774f98bf",
+        "title": "Housing Group becomes first in Govan to earn Disability Friendly accreditation",
+        "link": "https://www.glasgowtimes.co.uk/news/26674276.govan-housing-group-earned-disability-friendly-accreditation/",
+        "description": "A housing group\u2019s head office has become the first in Govan to receive official recognition for its commitment to accessibility.",
+        "published": "Sat, 31 Oct 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21636959/?type=app&htype=0"
+      },
       {
         "id": "fb67e79ba24020c7b4dea175c61d7715",
         "title": "What Peter Jones inherited when he took control of American Golf",
