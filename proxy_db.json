@@ -3093,6 +3093,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "fb67e79ba24020c7b4dea175c61d7715",
+        "title": "What Peter Jones inherited when he took control of American Golf",
+        "link": "https://www.heraldscotland.com/news/26681728.american-golf-sales-rise-ahead-peter-jones-takeover/",
+        "description": "American Golf increased sales and underlying earnings before its takeover by Dragons\u2019 Den star Peter Jones, while remaining loss-making overall",
+        "published": "Sat, 31 Oct 2026 04:30:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21647651/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/ck5yn9n2v0g4o#0",
         "title": "Why does the legend of Sawney Bean and Scotland's cannibal clan persist?",
         "link": "https://www.bbc.co.uk/news/articles/ck5yn9n2v0g4o?at_medium=RSS&at_campaign=rss",
@@ -3203,14 +3211,6 @@
         "description": "M74 fire causes lane closure during Friday rush hour",
         "published": "Fri, 30 Oct 2026 16:57:35 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21653393/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cqr7yp8dngn8o#0",
-        "title": "'No nation left behind' says Burnham after meeting first ministers in Glasgow",
-        "link": "https://www.bbc.co.uk/news/articles/cqr7yp8dngn8o?at_medium=RSS&at_campaign=rss",
-        "description": "The meeting involved representatives from the UK's four nations to discuss devolving more powers to regions and cities.",
-        "published": "Fri, 30 Oct 2026 16:56:33 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03b4/live/763d0920-d45b-11f1-93e1-3b657b665bcf.jpg"
       },
       {
         "id": "1f322774a765d60cfe9178e483a9b1db",
