@@ -3093,12 +3093,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "f31afe23c941bccceb1e6fd89d7b5ef9",
+        "title": "Review: Scottish Chamber Orchestra brings Barber, Schulhoff and Weill to vivid life",
+        "link": "https://www.heraldscotland.com/life_style/26688060.review-scottish-chamber-orchestra-bancroft-city-halls-glasgow/",
+        "description": "Review: Ryan Bancroft leads the Scottish Chamber Orchestra in Barber, Schulhoff and Weill, with violinist Clara-Jumi Kang shining in Barber\u2019s concerto.",
+        "published": "Sun, 01 Nov 2026 14:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21656610/?type=app&htype=0"
+      },
+      {
+        "id": "1ee2671721ccfaa89dcc82f0f424ae86",
+        "title": "Plans for temporary Union Street fire site development close to fruition",
+        "link": "https://www.heraldscotland.com/news/26688134.major-update-future-glasgows-union-street-fire-site/",
+        "description": "Glasgow Union Street fire site plans are close to completion, with temporary shops, leisure and event space proposed. Designs are due in the coming weeks.",
+        "published": "Sun, 01 Nov 2026 13:55:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21652019/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/most-scots-doubt-nicola-sturgeon-34846769",
         "title": "Most Scots doubt Nicola Sturgeon denials over Peter Murrell embezzlement scandal",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/most-scots-doubt-nicola-sturgeon-34846769",
         "description": "The former first minister, who now lives in London, has repeatedly denied any knowledge of her estranged husband's crimes.",
         "published": "Sun, 1 Nov 2026 13:43:28 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34846787.ece/ALTERNATES/s98/0_To-Nicola-Love-Peter.jpg"
+      },
+      {
+        "id": "c958c7a85dd1aeace948e205cb5259a0",
+        "title": "What does it cost to keep a golf course alive?",
+        "link": "https://www.heraldscotland.com/news/26685744.rising-costs-put-squeeze-scottish-golf-clubs/",
+        "description": "As running costs rise, Scottish golf clubs face tough choices over membership fees, fundraising and how to keep their courses going",
+        "published": "Sun, 01 Nov 2026 13:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21652785/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/rapist-former-glasgow-cop-jailed-34846567",
