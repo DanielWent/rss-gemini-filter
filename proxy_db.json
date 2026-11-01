@@ -3093,6 +3093,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/out-control-glasgow-kids-ran-34846313",
+        "title": "'Out of control Glasgow kids ran wild with fireworks and it was terrifying'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/out-control-glasgow-kids-ran-34846313",
+        "description": "They lobbed fireworks at cars, children, houses and passers-by on Saturday evening.",
+        "published": "Sun, 1 Nov 2026 11:03:20 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34846402.ece/ALTERNATES/s98/0_PDP_SDR_010818_euros_030JPG.jpg"
+      },
+      {
+        "id": "26857a9a612f289bd17a4c6ec566ebc0",
+        "title": "Loganair strike called off as cabin crew secure major pay rise",
+        "link": "https://www.glasgowtimes.co.uk/news/26687907.loganair-cabin-crew-strike-called-off-16-pay-deal/",
+        "description": "Loganair has announced that its cabin crew, represented by Unite Company Council, have voted to accept a two-year pay agreement.",
+        "published": "Sun, 01 Nov 2026 10:42:31 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21121445/?type=app&htype=225"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c5y439r1k198o#0",
         "title": "Police tackle 144 Halloween fireworks incidents across Scotland",
         "link": "https://www.bbc.co.uk/news/articles/c5y439r1k198o?at_medium=RSS&at_campaign=rss",
