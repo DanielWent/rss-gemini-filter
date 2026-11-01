@@ -1,14 +1,5 @@
 {
   "strict": {
-    "1788380709758276": 1788380732.0148354,
-    "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o?at_medium=RSS&at_campaign=rss": 1788380732.0148354,
-    "Uber shuts operations in Nigeria and Uganda with immediate effect": 1788380732.0148354,
-    "1788380709758275": 1788380732.0148354,
-    "https://www.bbc.co.uk/news/articles/c0lr124rl8lo?at_medium=RSS&at_campaign=rss": 1788380732.0148354,
-    "Man arrested and charged over death in West Lothian village": 1788380732.0148354,
-    "1788380709758274": 1788380732.0148354,
-    "https://www.bbc.co.uk/news/articles/c5ye295pxgxo?at_medium=RSS&at_campaign=rss": 1788380732.0148354,
-    "Maltese tycoon acquitted of orchestrating murder of renowned journalist": 1788380732.0148354,
     "1788383130476406": 1788384329.5527341,
     "https://www.bbc.co.uk/sport/boxing/articles/cx2zg14qzryo?at_medium=RSS&at_campaign=rss": 1788384329.5527341,
     "Fury calls Joshua a 'coward' as wait for announcement continues": 1788384329.5527341,
@@ -14854,7 +14845,10 @@
     "Police probe video of officer hitting youth with handcuffs": 1793562941.6471195,
     "1793563507178551": 1793563592.015224,
     "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss": 1793563592.015224,
-    "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end within hours": 1793563592.015224
+    "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end within hours": 1793563592.015224,
+    "1793564714546241": 1793564741.9130976,
+    "https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo?at_medium=RSS&at_campaign=rss": 1793564741.9130976,
+    "Boy, 14, hands himself into police over Bradley Lowery video": 1793564741.9130976
   },
   "lenient": {
     "https://www.bbc.co.uk/sport/boxing/articles/cx2zg14qzryo#7": 1788382967.852933,
@@ -22793,7 +22787,10 @@
     "Giant curiosity Hibs finally liberated from the sucker punch": 1793561141.2172647,
     "https://www.bbc.co.uk/news/articles/c64g1y90p71eo#1": 1793563592.015224,
     "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss": 1793563592.015224,
-    "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end within hours": 1793563592.015224
+    "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end within hours": 1793563592.015224,
+    "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro#1": 1793564741.9130976,
+    "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss": 1793564741.9130976,
+    "Armed police start patrols in Sydney after Bondi Beach attack": 1793564741.9130976
   },
   "google": {
     "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/": 1788539133.2790878,
@@ -23806,9 +23803,6 @@
     "Andreas Almgren From Sweden Just Won the NYC Marathon in His Debut": 1793553933.0079362
   },
   "glasgow_times": {
-    "c2d0b3f46310bf155055133052b57f2a": 1788380732.0148354,
-    "https://www.glasgowtimes.co.uk/news/26517402.police-appeal-boy-knocked-castlemilk/": 1788380732.0148354,
-    "Police plead for witnesses after nine-year-old knocked down outside Glasgow school": 1788380732.0148354,
     "145f46a627a22f8942bdf2895d23f662": 1788418545.1887784,
     "https://www.glasgowtimes.co.uk/news/scottish-news/26517561.search-missing-glasgow-man-last-seen-walking-barefoot-edinburgh/": 1788418545.1887784,
     "Frantic search for missing man last seen walking barefoot continues": 1788418545.1887784,
@@ -29665,7 +29659,10 @@
     "One arrested after incident at Rangers v Aberdeen clash at Hampden": 1793555741.7335212,
     "42100a431c23f5bc43fe6e5b34199852": 1793562941.6471195,
     "https://www.glasgowtimes.co.uk/news/scottish-news/26688445.funeral-arrangements-announced-father-donal-walsh/": 1793562941.6471195,
-    "Funeral details announced for beloved Gorbals priest": 1793562941.6471195
+    "Funeral details announced for beloved Gorbals priest": 1793562941.6471195,
+    "e17ff5e1e91ec52d63d6673b36fa1ef4": 1793564741.9130976,
+    "https://www.glasgowtimes.co.uk/news/26687985.lawrence-robb-voted-off-strictly-historic-dance-off/": 1793564741.9130976,
+    "Scottish Strictly star loses out in show's first ever three-couple dance off": 1793564741.9130976
   },
   "runabc_scotland": {
     "https://runabc.co.uk/four-trail-challenges-await-at-chatelherault-country-park": 1788420341.7905474,
@@ -29720,9 +29717,6 @@
     "Babcock 10K Series 2027 Entries Open For Tenth Anniversary Celebrations": 1793348740.1211677
   },
   "newsletter_candidates": {
-    "c2d0b3f46310bf155055133052b57f2a": 1788380732.0148354,
-    "https://www.glasgowtimes.co.uk/news/26517402.police-appeal-boy-knocked-castlemilk/": 1788380732.0148354,
-    "Police plead for witnesses after nine-year-old knocked down outside Glasgow school": 1788380732.0148354,
     "https://www.glasgowlive.co.uk/news/glasgow-news/boy-9-hospitalised-after-being-34559257": 1788382537.6013048,
     "Boy, 9, hospitalised after being struck by minibus on Glasgow street": 1788382537.6013048,
     "54d269550a83be8ce32701f1f5e563b5": 1788382967.852933,
@@ -47551,7 +47545,10 @@
     "One arrested after incident at Rangers v Aberdeen clash at Hampden": 1793555741.7335212,
     "42100a431c23f5bc43fe6e5b34199852": 1793562941.6471195,
     "https://www.glasgowtimes.co.uk/news/scottish-news/26688445.funeral-arrangements-announced-father-donal-walsh/": 1793562941.6471195,
-    "Funeral details announced for beloved Gorbals priest": 1793562941.6471195
+    "Funeral details announced for beloved Gorbals priest": 1793562941.6471195,
+    "e17ff5e1e91ec52d63d6673b36fa1ef4": 1793564741.9130976,
+    "https://www.glasgowtimes.co.uk/news/26687985.lawrence-robb-voted-off-strictly-historic-dance-off/": 1793564741.9130976,
+    "Scottish Strictly star loses out in show's first ever three-couple dance off": 1793564741.9130976
   },
   "glasgow_live": {},
   "glasgow_world": {
