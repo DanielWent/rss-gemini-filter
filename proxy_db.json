@@ -3093,6 +3093,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c9kgj7l62xjmo#0",
+        "title": "Mummified remains could return to Egypt after removal from public view",
+        "link": "https://www.bbc.co.uk/news/articles/c9kgj7l62xjmo?at_medium=RSS&at_campaign=rss",
+        "description": "The Sunday Post newspaper reports \"Egyptian authorities\" have asked for the repatriation of the mummified corpse of the priest Nekht.",
+        "published": "Sun, 01 Nov 2026 12:22:15 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4952/live/af9a1460-cf06-11f1-b95c-310d5f3c558a.jpg"
+      },
+      {
+        "id": "9320221",
+        "title": "Derek McInnes won't let Rangers squad coast into Hampden final as gauntlet laid down after gritty Aberdeen win",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/derek-mcinnes-rangers-squad-coast-into-hampden-final-gauntlet-laid-down-gritty-aberdeen-win-9320221",
+        "description": "<p>Rangers boss demands relentless drive in weeks ahead to ensure Hampden line-up is primed for silverware</p>",
+        "published": "Sun, 01 Nov 2026 12:00:29 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/31/21/54/21836254.jpeg?width=1200&auto=webp&trim=0%2C278%2C0%2C277"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-stabbed-paisley-street-emergency-34846486",
+        "title": "Man stabbed on Paisley street as emergency services close off busy area",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-stabbed-paisley-street-emergency-34846486",
+        "description": "He has been taken to hospital following the serious attack.",
+        "published": "Sun, 1 Nov 2026 11:59:12 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34846509.ece/ALTERNATES/s98/0_Screenshot-2026-11-01-115259.png"
+      },
+      {
+        "id": "a1646e149f02153bf75a7d298b19ac15",
+        "title": "Veteran presenter slams BBC Radio Scotland output as listeners fall by 91,000",
+        "link": "https://www.heraldscotland.com/news/26687921.veteran-presenter-attacks-bbc-radio-scotland-output/",
+        "description": "Cameron McNeish attacks BBC Radio Scotland\u2019s programming amid schedule changes, as RAJAR figures show its weekly audience fell by 91,000 to 753,000 listeners.",
+        "published": "Sun, 01 Nov 2026 11:32:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21005494/?type=app&htype=0"
+      },
+      {
+        "id": "1074ed34f73c4cbfdd00c5ab07ed6806",
+        "title": "More pressure on John Swinney as Kate Forbes urges Government to back Rosebank",
+        "link": "https://www.heraldscotland.com/news/26687950.kate-forbes-urges-scottish-government-back-rosebank/",
+        "description": "Kate Forbes has broken publicly with John Swinney over Rosebank, calling approval 'the right decision'.",
+        "published": "Sun, 01 Nov 2026 11:13:25 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20309551/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/out-control-glasgow-kids-ran-34846313",
         "title": "'Out of control Glasgow kids ran wild with fireworks and it was terrifying'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/out-control-glasgow-kids-ran-34846313",
