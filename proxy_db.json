@@ -3093,6 +3093,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-halloween-nightmare-fireworks-thrown-34846135",
+        "title": "Glasgow Halloween nightmare as fireworks 'thrown at public' in scary scenes",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-halloween-nightmare-fireworks-thrown-34846135",
+        "description": "Officers are working to identify those responsible for the incidents on Saturday night.",
+        "published": "Sun, 1 Nov 2026 09:22:38 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34846147.ece/ALTERNATES/s98/0_Authorities-In-Scotland-Prepare-For-Bonfire-Night-Disorder.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c5y439r1k198o#0",
         "title": "Police tackle 144 Halloween fireworks incidents across Scotland",
         "link": "https://www.bbc.co.uk/news/articles/c5y439r1k198o?at_medium=RSS&at_campaign=rss",
@@ -3883,14 +3891,6 @@
         "description": "Grace has autism, and is among those - adults and children - who find the period around Bonfire Night to be highly distressing.",
         "published": "Thu, 29 Oct 2026 23:01:08 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e714/live/a5ff5b00-d3ab-11f1-93e1-3b657b665bcf.jpg"
-      },
-      {
-        "id": "4e1a7baa0f27ed94201573f7bd82df5c",
-        "title": "Texas announce second Glasgow show after huge demand for tickets",
-        "link": "https://www.glasgowtimes.co.uk/news/26683159.texas-add-second-glasgow-ovo-hydro-date-phenomenal-ticket-demand/",
-        "description": "Texas have announced a second Glasgow OVO Hydro show after huge demand, with Del Amitri supporting on their White On Blonde anniversary tour.",
-        "published": "Thu, 29 Oct 2026 20:40:46 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21610291/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
