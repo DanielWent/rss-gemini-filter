@@ -3093,6 +3093,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/labour-councillors-plea-tackle-hate-34841919",
+        "title": "Labour councillor's plea to tackle hate and discrimination in Glasgow schools and workplaces",
+        "link": "https://www.glasgowlive.co.uk/news/labour-councillors-plea-tackle-hate-34841919",
+        "description": "Glasgow schools continue to expand their anti-racism programme through pupil workshops, anti-racism conversation groups and city-wide showcase events.",
+        "published": "Sun, 1 Nov 2026 08:01:28 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33624872.ece/ALTERNATES/s98/0_Soryiajpeg.jpg"
+      },
+      {
         "id": "eaebb35c28612d905d0cf1f5864e146b",
         "title": "'Sat on their hands' : Anger as 14-year-old ScotGov ferry replace pledge is broken",
         "link": "https://www.heraldscotland.com/news/26685810.ferry-fiasco-11-vessels-still-operating-despite-replacement-pledge/",
@@ -3883,14 +3891,6 @@
         "description": "The state-owned Ferguson shipyard has now been asked to fit redesigned propellers to the ship prior to handover.",
         "published": "Thu, 29 Oct 2026 19:23:05 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b001/live/06335270-d3c9-11f1-a701-fddedf244c16.jpg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=535824",
-        "title": "Plans lodged for hotel at former C&A building on Glasgow\u2019s Sauchiehall Street",
-        "link": "https://news.stv.tv/west-central/plans-lodged-for-hotel-at-former-ca-building-on-glasgows-sauchiehall-street",
-        "description": "Glasgow City Council has received an application to convert the Art Deco property.",
-        "published": "Thu, 29 Oct 2026 19:16:47 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/086bbbd3476a1715b7325410ab0e040d-1793300319.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
