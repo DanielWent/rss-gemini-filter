@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cje36degrgv5o#3",
+        "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+        "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+        "description": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+        "published": "Sun, 01 Nov 2026 01:37:26 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f5/live/d2c08770-d493-11f1-93e1-3b657b665bcf.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cq8rz38jr50go#2",
         "title": "He left 28 years ago, now after 36,000 miles Karl Bushby is almost home",
         "link": "https://www.bbc.co.uk/news/articles/cq8rz38jr50go?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
         "published": "Sun, 13 Sep 2026 18:20:22 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b55d/live/2989a230-afa0-11f1-b88f-8308bd3510af.jpg"
-      },
-      {
-        "id": "1789308315881317",
-        "title": "Summer wildfires caused catastrophic hidden damage, scientists warn",
-        "link": "https://www.bbc.co.uk/news/articles/cn07rzrq244o?at_medium=RSS&at_campaign=rss",
-        "description": "Bangor University researchers say the scale of damage is far greater than what is immediately visible.",
-        "published": "Sun, 13 Sep 2026 08:12:26 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e504/live/f1f64000-af39-11f1-a540-61c3f7fc4e6c.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
