@@ -3093,6 +3093,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "3d1ab315380eee9f5aba226fbad713f6",
+        "title": "Where to meet Santa in Glasgow this Christmas with free visits and grottos",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26680595.meet-santa-glasgow-christmas-2026/",
+        "description": "Discover Glasgow's 2026 Santa events, from free appearances at Princes Square and Dobbies to grottos at Glasgow Green, Science Centre, John Lewis and Hampden Park.",
+        "published": "Sun, 01 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20231400/?type=app&htype=0"
+      },
+      {
+        "id": "c271a69940bf8b9932b7201229a3abe5",
+        "title": "Scottish Christmas Songbook returning to Glasgow with Eddi Reader and Karen Matheson",
+        "link": "https://www.glasgowtimes.co.uk/news/26681907.scottish-christmas-songbook-returns-glasgow-2026/",
+        "description": "A festive tradition is returning to Glasgow in 2026 as the Scottish Christmas Songbook lights up the season with song and cheer.",
+        "published": "Sun, 01 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21647163/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=536035",
         "title": "\u2018Keep windows and doors closed\u2019: Firefighters battling blaze at scrapyard",
         "link": "https://news.stv.tv/west-central/keep-windows-and-doors-closed-firefighters-battling-blaze-at-scrapyard",
@@ -3875,22 +3891,6 @@
         "description": "Why business rates reform matters for Scotland's hospitality industry following the launch of the Herald's Reset the Rates campaign.",
         "published": "Thu, 29 Oct 2026 16:30:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21608191/?type=app&htype=0"
-      },
-      {
-        "id": "5cbd6001f2f327abb7b20b448d14509f",
-        "title": "Championing members, driving growth: Royal College seeks new director",
-        "link": "https://www.heraldscotland.com/news/26675453.championing-members-driving-growth-royal-college-seeks-new-director/",
-        "description": "The Royal College of Physicians and Surgeons of Glasgow is recruiting a Director of Membership and Governance to help shape the future of healthcare professionals",
-        "published": "Thu, 29 Oct 2026 16:30:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21647453/?type=app&htype=16"
-      },
-      {
-        "id": "03f0defffa4ac71f4d650b923a320fd2",
-        "title": "Glasgow Labour calls for review of support for pupils with complex needs",
-        "link": "https://www.glasgowtimes.co.uk/news/26682415.glasgow-labour-calls-review-support-pupils/",
-        "description": "Glasgow Labour calls for a review of support and exam access for pupils with complex communication needs, ensuring disabled learners can show their abilities.",
-        "published": "Thu, 29 Oct 2026 16:04:16 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20533385/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
