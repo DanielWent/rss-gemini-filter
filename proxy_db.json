@@ -2186,6 +2186,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "3d1ab315380eee9f5aba226fbad713f6",
+        "title": "Where to meet Santa in Glasgow this Christmas with free visits and grottos",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26680595.meet-santa-glasgow-christmas-2026/",
+        "description": "Discover Glasgow's 2026 Santa events, from free appearances at Princes Square and Dobbies to grottos at Glasgow Green, Science Centre, John Lewis and Hampden Park.",
+        "published": "Sun, 01 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20231400/?type=app&htype=0"
+      },
+      {
         "id": "12cb6b738b7b292f8bf3d3b2d3ddf1f5",
         "title": "Glasgow woman's story about creating wildflower meadow wins national prize",
         "link": "https://www.glasgowtimes.co.uk/news/26670385.glasgow-womans-story-won-national-writing-competition/",
@@ -2976,14 +2984,6 @@
         "description": "Kirkintilloch\u2019s volunteer-run Addiction Recovery Centre secured \u00a316,800 National Lottery funding to provide free addiction support across East Dunbartonshire.",
         "published": "Mon, 24 Aug 2026 10:30:54 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21362076/?type=app&htype=0"
-      },
-      {
-        "id": "a73246940062ec23f116c7062d212f2a",
-        "title": "Glasgow suburbs dubbed 'commuter hotspots' see sharpest price rises in UK",
-        "link": "https://www.glasgowtimes.co.uk/news/26488606.glasgows-commuter-hotspots-see-13-percent-rise-price/",
-        "description": "Glasgow suburbs known as 'commuter hotspot' are experiencing some of the sharpest price rises in the UK as homeowners look for easy access to the city without living in it",
-        "published": "Mon, 24 Aug 2026 07:33:46 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21360958/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3107,6 +3107,46 @@
         "description": "A festive tradition is returning to Glasgow in 2026 as the Scottish Christmas Songbook lights up the season with song and cheer.",
         "published": "Sun, 01 Nov 2026 06:00:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21647163/?type=app&htype=0"
+      },
+      {
+        "id": "8c8943f360637342e7a2857f282cce92",
+        "title": "Fresh plan could transform empty Glasgow site beside Finnieston Lidl",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26680594.fresh-plan-transform-empty-glasgow-site-beside-finnieston-lidl/",
+        "description": "Fresh plans have been lodged to transform an empty Finnieston car park near Lidl with 140 flats, commercial space, a gym and co-working areas",
+        "published": "Sun, 01 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21643812/?type=app&htype=0"
+      },
+      {
+        "id": "64a307fd9651e6a47c21513e6dd70483",
+        "title": "New community shop launches In Castlemilk amid supermarket campaign",
+        "link": "https://www.glasgowtimes.co.uk/news/26684200.new-castlemilk-community-shop-offers-food-30-cheaper/",
+        "description": "A new community shop has opened its doors.",
+        "published": "Sun, 01 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21652148/?type=app&htype=0"
+      },
+      {
+        "id": "efda2d48548b47a2cf168fefe7d2fbe3",
+        "title": "Major update on future of Glasgow's Union Street fire site",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26685249.major-update-future-glasgows-union-street-fire-site/",
+        "description": "Plans for the temporary use of the Union Street fire site are \"close to completion\", Glasgow City Council has confirmed.",
+        "published": "Sun, 01 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21652010/?type=app&htype=0"
+      },
+      {
+        "id": "696ed5a38a704905f09ea5ec165fb8af",
+        "title": "Glasgow council steps in after huge Voi bike price hike",
+        "link": "https://www.glasgowtimes.co.uk/news/26685465.glasgow-council-urges-voi-offer-new-e-bike-hire-packages/",
+        "description": "Glasgow City Council bosses will urge Voi to offer more packages for their bike hires after a 'drastic' increase in prices",
+        "published": "Sun, 01 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20247831/?type=app&htype=0"
+      },
+      {
+        "id": "14d7e7744e5433cceea126c2562e6f1d",
+        "title": "Community aims to fight ultra-right narrative with anti-racism events",
+        "link": "https://www.glasgowtimes.co.uk/news/26681711.drumchapel-community-aims-fight-ultra-right-narrative/",
+        "description": "A community rallied together to spread a counter-narrative to recent \"ultra-right\" events by celebrating the nations which make up the local area",
+        "published": "Sun, 01 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21652106/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=536035",
@@ -3851,46 +3891,6 @@
         "description": "AFTER the high drama of last year\u2019s Autumn Statement when the Office for Budget Responsibility (OBR) stole then chancellor Rachel Reeves\u2019s thunder by releasing its economic and fiscal outlook before she stood up in the House of Commons, this week\u2019s Budget was relatively low-key and, some might say, dull.",
         "published": "Thu, 29 Oct 2026 16:48:16 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21648380/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-control-zone-short-term-34836277",
-        "title": "Glasgow control zone for short term lets suggested as '3000 listed on Airbnb without licenses'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-control-zone-short-term-34836277",
-        "description": "A meeting heard the council does not have the power to investigate unlicensed Airbnbs as responsibility sits with Police Scotland.",
-        "published": "Thu, 29 Oct 2026 16:44:27 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article33552175.ece/ALTERNATES/s98/0_The-Clyde-Arc-Sunrise-Clyde-River-Glasgow-Scotland.jpg"
-      },
-      {
-        "id": "bbfcbed23b35fef307a7b575841d596a",
-        "title": "SQA anticipated \u2018hostile\u2019 response to controversial exam grading, Covid inquiry hears",
-        "link": "https://www.heraldscotland.com/news/26682655.sqa-anticipated-hostile-response-controversial-exam-grading/",
-        "description": "The Scottish Qualifications Authority (SQA) expected a \u201chostile\u201d public response to its controversial means of grading pupils during 2020 when exams were cancelled, an inquiry has heard.",
-        "published": "Thu, 29 Oct 2026 16:38:11 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21647338/?type=app&htype=0"
-      },
-      {
-        "id": "135a37042d33a33ec38c06271bfc1de2",
-        "title": "Council reveals reason for 60-bed care home refusal near Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/26682628.council-reveals-milngavie-60-bed-care-home-plans-refused/",
-        "description": "East Dunbartonshire Council has revealed why plans for a 60-bed care home at a former car dealership in Milngavie were refused.",
-        "published": "Thu, 29 Oct 2026 16:34:40 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21630418/?type=app&htype=0"
-      },
-      {
-        "id": "5a509fba891fbb2a14e5e213682ebbb5",
-        "title": "Why one OBR chart from Healey's budget should alarm every Scottish voter",
-        "link": "https://www.heraldscotland.com/news/26682613.john-healey-budget-really-means-scotland/",
-        "description": "IPPR Scotland director Stephen Boyd argues John Healey's debut budget was cautious to a fault \u2014 leaving Scotland's \u00a34.7bn fiscal gap largely unaddressed, living standards flatlining, and a stagnation crisis quietly deepening.",
-        "published": "Thu, 29 Oct 2026 16:32:35 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21648501/?type=app&htype=0"
-      },
-      {
-        "id": "66dc564974f1540eaa22e7054f6ac393",
-        "title": "Forget Halloween, this is what\u2019s really frightening Scotland\u2019s hospitality industry",
-        "link": "https://www.heraldscotland.com/opinion/26680088.business-rates-reform-matters-scotlands-hospitality-industry/",
-        "description": "Why business rates reform matters for Scotland's hospitality industry following the launch of the Herald's Reset the Rates campaign.",
-        "published": "Thu, 29 Oct 2026 16:30:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21608191/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
