@@ -3093,6 +3093,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9323086",
+        "title": "'We want accountability': Bereaved parents demand inquiry into 406 baby deaths at NHS Glasgow",
+        "link": "https://www.glasgowworld.com/news/parents-demand-inquiry-into-406-baby-deaths-at-glasgow-hospitals-9323086",
+        "description": "<p>Bereaved parents and campaigners gathered on the Buchanan Street to call for an independent inquiry into 406 baby deaths</p>",
+        "published": "Sun, 01 Nov 2026 16:10:44 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/01/15/03/20261101_124112.jpeg?width=1200&auto=webp&trim=166%2C0%2C167%2C0"
+      },
+      {
+        "id": "681fb850465d53dfae82c5cb3a7a83e2",
+        "title": "Mummified remains removed from view in Scottish museum could be returned to Egypt",
+        "link": "https://www.heraldscotland.com/news/26688219.mummified-priest-returned-egypt-glasgow/",
+        "description": "Glasgow\u2019s Kelvingrove Museum removes Egyptian mummies over consent concerns as a repatriation request is made for priest Nekht\u2019s remains to Egypt",
+        "published": "Sun, 01 Nov 2026 15:07:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21627112/?type=app&htype=0"
+      },
+      {
         "id": "9322827",
         "title": "Celtic player ratings vs Falkirk as stats experts rank flops and saving graces from calamitous Bairns defeat",
         "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-player-ratings-vs-falkirk-stats-experts-premiership-9322827",
@@ -3107,6 +3123,14 @@
         "description": "Children under 12 must not be left unattended with exempt XL Bully dogs in Scottish homes under a new law unless there is separation between the dog and the child, meaning physical contact is not possible.",
         "published": "Sun, 01 Nov 2026 14:36:53 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17976331/?type=app&htype=0"
+      },
+      {
+        "id": "99cd14aaac4938a143ac40b739f0436e",
+        "title": "Tripadvisor removes Bernera dog dispute-linked review over 'hate speech'",
+        "link": "https://www.heraldscotland.com/news/26688163.tripadvisor-removes-review-tied-bernera-caf-dog-dispute/",
+        "description": "Tripadvisor removes Claire Kellerman\u2019s Blue Lobster Caf\u00e9 review as hate speech amid dog access dispute and \u00a310,000 legal action in the Western Isles, Scotland.",
+        "published": "Sun, 01 Nov 2026 14:35:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21656696/?type=app&htype=0"
       },
       {
         "id": "f31afe23c941bccceb1e6fd89d7b5ef9",
@@ -3147,14 +3171,6 @@
         "description": "&quot;Appealing just shows he has no remorse \u00adwhatsoever.&quot;",
         "published": "Sun, 1 Nov 2026 12:24:54 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34846566.ece/ALTERNATES/s98/0_Screenshot-2026-10-16-102821.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c9kgj7l62xjmo#0",
-        "title": "Mummified remains could return to Egypt after removal from public view",
-        "link": "https://www.bbc.co.uk/news/articles/c9kgj7l62xjmo?at_medium=RSS&at_campaign=rss",
-        "description": "The Sunday Post newspaper reports \"Egyptian authorities\" have asked for the repatriation of the mummified corpse of the priest Nekht.",
-        "published": "Sun, 01 Nov 2026 12:22:15 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4952/live/af9a1460-cf06-11f1-b95c-310d5f3c558a.jpg"
       },
       {
         "id": "9320221",
