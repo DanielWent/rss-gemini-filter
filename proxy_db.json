@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1793556309716481",
+        "title": "Tributes to 'inspirational' Olympian Ciara Mageean after death at 34",
+        "link": "https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo?at_medium=RSS&at_campaign=rss",
+        "description": "Sporting, political and media figures pay tribute to former European champion and Olympian Ciara Mageean following her death at 34.",
+        "published": "Sun, 01 Nov 2026 19:00:14 +0100",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2295/live/8c37c370-d5f3-11f1-a6a8-6dc45e4fc351.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/sport/athletics/articles/cn81px29032o#3",
         "title": "Irish Olympic runner Ciara Mageean dies aged 34",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/cn81px29032o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "A cross-party group of MPs and peers identifies human rights risks that existing laws appear not to cover.",
         "published": "Mon, 14 Sep 2026 05:23:54 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2540/live/91309a60-afe1-11f1-b2e5-69ed9cb5513c.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/crm9ezvwjpno#2",
-        "title": "The Himalayas are melting faster - and India's economy is 'at risk'",
-        "link": "https://www.bbc.co.uk/news/articles/crm9ezvwjpno?at_medium=RSS&at_campaign=rss",
-        "description": "A new report warns Himalayan glaciers are melting faster, threatening India\u2019s water, economy and communities.",
-        "published": "Sun, 13 Sep 2026 22:07:22 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03f1/live/7fae1aa0-adad-11f1-8ac2-99a6f36b284a.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
