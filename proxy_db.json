@@ -3093,6 +3093,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/rapist-former-glasgow-cop-jailed-34846567",
+        "title": "Rapist former Glasgow cop jailed for abusing two women launches legal bid to be freed from prison",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/rapist-former-glasgow-cop-jailed-34846567",
+        "description": "&quot;Appealing just shows he has no remorse \u00adwhatsoever.&quot;",
+        "published": "Sun, 1 Nov 2026 12:24:54 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34846566.ece/ALTERNATES/s98/0_Screenshot-2026-10-16-102821.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c9kgj7l62xjmo#0",
         "title": "Mummified remains could return to Egypt after removal from public view",
         "link": "https://www.bbc.co.uk/news/articles/c9kgj7l62xjmo?at_medium=RSS&at_campaign=rss",
@@ -3147,14 +3155,6 @@
         "description": "Loganair has announced that its cabin crew, represented by Unite Company Council, have voted to accept a two-year pay agreement.",
         "published": "Sun, 01 Nov 2026 10:42:31 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21121445/?type=app&htype=225"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c5y439r1k198o#0",
-        "title": "Police tackle 144 Halloween fireworks incidents across Scotland",
-        "link": "https://www.bbc.co.uk/news/articles/c5y439r1k198o?at_medium=RSS&at_campaign=rss",
-        "description": "Officers received 144 fireworks-related calls on Saturday night - down on 160 on 31 October last year.",
-        "published": "Sun, 01 Nov 2026 09:19:23 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e09/live/6b8b3650-d5d2-11f1-8629-7b9503d639be.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
