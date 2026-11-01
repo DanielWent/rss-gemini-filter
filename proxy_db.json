@@ -3093,6 +3093,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "eaebb35c28612d905d0cf1f5864e146b",
+        "title": "'Sat on their hands' : Anger as 14-year-old ScotGov ferry replace pledge is broken",
+        "link": "https://www.heraldscotland.com/news/26685810.ferry-fiasco-11-vessels-still-operating-despite-replacement-pledge/",
+        "description": "The Herald on Sunday reveals 11 of 12 CalMac ferries earmarked for replacement under the Scottish Government's 2012 plan remain in the fleet.",
+        "published": "Sun, 01 Nov 2026 06:31:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21653831/?type=app&htype=0"
+      },
+      {
+        "id": "66cc49537a1b7523d31a44008153977c",
+        "title": "Revealed: The 15 CalMac lifeline ferries sailing past 'sell by date'",
+        "link": "https://www.heraldscotland.com/news/26686111.revealed-15-calmac-ferries-sailing-beyond-expected-lifespan/",
+        "description": "The Herald on Sunday reveals 15 of CalMac's 33 permanent vessels have reached or passed the Scottish Government's 30-year working-life benchmark.",
+        "published": "Sun, 01 Nov 2026 06:30:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21653311/?type=app&htype=0"
+      },
+      {
         "id": "3d1ab315380eee9f5aba226fbad713f6",
         "title": "Where to meet Santa in Glasgow this Christmas with free visits and grottos",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26680595.meet-santa-glasgow-christmas-2026/",
@@ -3147,6 +3163,30 @@
         "description": "A community rallied together to spread a counter-narrative to recent \"ultra-right\" events by celebrating the nations which make up the local area",
         "published": "Sun, 01 Nov 2026 06:00:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21652106/?type=app&htype=0"
+      },
+      {
+        "id": "a0fcaff254e5c4e9bc362ce23818ebc7",
+        "title": "Scotland must embrace AI revolution or risk missing out, warns minister",
+        "link": "https://www.heraldscotland.com/news/26686936.snp-minister-compares-ai-sceptics-lightbulb-critics/",
+        "description": "SNP minister Alyn Smith urges Scotland to seize the AI moment, comparing sceptics to opponents of the lightbulb but environmentalists and campaigners fighting hyperscale data centres say their concerns are being dismissed.",
+        "published": "Sun, 01 Nov 2026 05:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20660415/?type=app&htype=0"
+      },
+      {
+        "id": "5f2294e52159eb5749438921457c462c",
+        "title": "My challenge is to make sure Scotland gets AI's benefits without the downsides",
+        "link": "https://www.heraldscotland.com/politics/holyrood/26686975.scotland-plans-regulate-benefit-ai/",
+        "description": "Alyn Smith, Scotland's Minister for AI, sets out why his government is aligning with EU regulation, investing in chip design, and working to ensure artificial intelligence delivers for Scottish communities, not just the tech sector.",
+        "published": "Sun, 01 Nov 2026 05:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21287887/?type=app&htype=0"
+      },
+      {
+        "id": "9b03e9f7561f269610464b06c93c9259",
+        "title": "MSPs launch AI and cyber group as expert warns Scotland lacks stolen data laws",
+        "link": "https://www.heraldscotland.com/news/26687036.msps-set-new-cross-party-ai-cyber-security-group/",
+        "description": "A new cross-party group on AI and cyber security has held its first meeting at Holyrood, as an expert warned there are currently no laws preventing criminals from selling stolen personal data on the dark web.",
+        "published": "Sun, 01 Nov 2026 05:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/16153516/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=536035",
@@ -3851,46 +3891,6 @@
         "description": "Glasgow City Council has received an application to convert the Art Deco property.",
         "published": "Thu, 29 Oct 2026 19:16:47 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/086bbbd3476a1715b7325410ab0e040d-1793300319.jpg"
-      },
-      {
-        "id": "4c07f3ee89f7bcb2f9f5986388ba41b8",
-        "title": "Scottish Government considers 'temporary modular accommodation' to house prisoners",
-        "link": "https://www.heraldscotland.com/news/26683037.ministers-moot-temporary-modular-accommodation-house-prisoners/",
-        "description": "The Scottish Government is considering using \u201ctemporary modular accommodation\u201d to house prisoners, after a warning the number of inmates in the country\u2019s jails could reach almost 9,500 next summer.",
-        "published": "Thu, 29 Oct 2026 18:24:31 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/20121108/?type=app&htype=0"
-      },
-      {
-        "id": "4f455dc045ba03c478d36f2675e690e8",
-        "title": "Acorn funding row branded 'spectacular shambles' as ministers contradict each other",
-        "link": "https://www.heraldscotland.com/news/26683003.acorn-carbon-capture-funding-changed-loans-equity/",
-        "description": "Business leaders have branded the UK Government's handling of the Acorn carbon capture project a \"spectacular shambles\" after ministers gave contradictory accounts of what the Budget means for the \u00a3200 million scheme.",
-        "published": "Thu, 29 Oct 2026 17:56:12 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21641346/?type=app&htype=0"
-      },
-      {
-        "id": "5545abc5d05af6c301bcd643b2a8e716",
-        "title": "Inside Edinburgh's Christmas ice rink collapse as \u00a31m cost is revealed",
-        "link": "https://www.heraldscotland.com/news/26682977.inside-collapse-edinburghs-1m-christmas-ice-rink/",
-        "description": "Poor profitability is blamed for the collapse of Edinburgh's 'unsustainable' \u00a31m Christmas ice rink.",
-        "published": "Thu, 29 Oct 2026 17:44:24 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21629905/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=535764",
-        "title": "Celtic and Rangers lose appeals against SFA stadium closure ruling after Old Firm disorder",
-        "link": "https://news.stv.tv/west-central/celtic-and-rangers-lose-appeals-against-sfa-stadium-closure-ruling-after-old-firm-disorder",
-        "description": "Fans clashed on the pitch and missiles were thrown following Celtic's penalty shoot-out victory at Ibrox in March",
-        "published": "Thu, 29 Oct 2026 16:58:51 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/03/83900d141eb9e46fed23de82ad9d423f-1772990960-1280x720.jpeg"
-      },
-      {
-        "id": "1db8afcd4c3bccebe3ba75e24e979713",
-        "title": "Low-key Budget with many positives and no major shocks",
-        "link": "https://www.heraldscotland.com/news/26682721.low-key-budget-many-positives-no-major-shocks/",
-        "description": "AFTER the high drama of last year\u2019s Autumn Statement when the Office for Budget Responsibility (OBR) stole then chancellor Rachel Reeves\u2019s thunder by releasing its economic and fiscal outlook before she stood up in the House of Commons, this week\u2019s Budget was relatively low-key and, some might say, dull.",
-        "published": "Thu, 29 Oct 2026 16:48:16 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21648380/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
