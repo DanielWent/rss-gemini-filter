@@ -3093,6 +3093,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "da8a3f06e1e706572750bcf14b9f3587",
+        "title": "Teenager rushed to hospital after serious assault in Glasgow city centre",
+        "link": "https://www.glasgowtimes.co.uk/news/26689796.man-19-hospital-serious-assault-glasgow-city-centre/",
+        "description": "A 19-year-old man was taken to hospital after a serious assault on Gordon Street, Glasgow, on November 1. Police Scotland enquiries continue.",
+        "published": "Mon, 02 Nov 2026 10:04:12 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20654058/?type=app&htype=0"
+      },
+      {
+        "id": "02b5e437c6cbc0d1e48d9de7dd97f434",
+        "title": "Why the UK government must act to protect trusted local journalism",
+        "link": "https://www.glasgowtimes.co.uk/news/26689644.journalism-matters-campaign-calls-uk-government-support/",
+        "description": "Journalism Matters highlights Andy Burnham\u2019s call to protect independent and local news, fair digital markets, and journalism\u2019s role in democracy.",
+        "published": "Mon, 02 Nov 2026 10:03:38 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21644965/?type=app&htype=0"
+      },
+      {
+        "id": "760714325f1ad58417013d988a9fdeaf",
+        "title": "Strathclyde awards honorary degree to alumnus behind \u00a350m university donation",
+        "link": "https://www.glasgowtimes.co.uk/news/26689222.university-strathclyde-alumnus-awarded-honorary-degree/",
+        "description": "Dr Charles Huang, an alumnus of the University of Strathclyde, was awarded an honorary degree.",
+        "published": "Mon, 02 Nov 2026 09:59:20 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21657972/?type=app&htype=0"
+      },
+      {
         "id": "d185202f6486a052ebdf1ff156c8837a",
         "title": "Glasgow schools to strengthen action against racism, hate and discrimination",
         "link": "https://www.glasgowtimes.co.uk/news/26689002.glasgow-councillor-calls-action-tackle-hate/",
@@ -3123,6 +3147,22 @@
         "description": "Country pop superstar Shania Twain is set to headline Glasgow Summer Sessions next year.",
         "published": "Mon, 02 Nov 2026 09:15:12 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21657707/?type=app&htype=0"
+      },
+      {
+        "id": "3759970c219c3e85f8a532ed713924ea",
+        "title": "Stars and creators of Outlander to get BAFTA Scotland's highest honour",
+        "link": "https://www.heraldscotland.com/news/26688511.bafta-scotland-honour-outlander-outstanding-contribution/",
+        "description": "The Scottish romantic series Outlander is to be honoured by BAFTA Scotland for making an 'outstanding contribution' to television.",
+        "published": "Mon, 02 Nov 2026 09:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/17073318/?type=app&htype=0"
+      },
+      {
+        "id": "573e1587d0171491a5196f8528cf31ad",
+        "title": "New weekly Greenock-Rotterdam shipping service to support whisky exports",
+        "link": "https://www.heraldscotland.com/news/26688752.greenock-rotterdam-shipping-service-support-whisky-exports/",
+        "description": "The first vessel operating on a new weekly shipping service from Greenock to Rotterdam has arrived in Scotland in a boost for the country\u2019s independent whisky industry.",
+        "published": "Mon, 02 Nov 2026 08:48:45 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21657613/?type=app&htype=0"
       },
       {
         "id": "4ad87bb147a861703921bb569209fe20",
