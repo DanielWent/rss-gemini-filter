@@ -3093,6 +3093,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "99bbdef237f71a8f662407bd339f566e",
+        "title": "Mystery remains over future of Glasgow city centre building as appeal lodged",
+        "link": "https://www.glasgowtimes.co.uk/news/26686278.future-glasgow-argyle-street-building-still-unclear/",
+        "description": "A large-scale scaffolding structure on a major shopping street in Glasgow will remain uncovered after city planners refused to grant more advertising over concerns of the length of the project",
+        "published": "Mon, 02 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18488557/?type=app&htype=0"
+      },
+      {
+        "id": "bb43d1329f6654dbde1c6804514c3c4c",
+        "title": "Former Glasgow TJ Hughes store blamed for anti-social behaviour spike",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26684246.former-tj-hughes-linked-anti-social-behaviour-glasgow/",
+        "description": "The former TJ Hughes store on Glasgow's Trongate is said to be the source of a spate of anti-social behaviour.",
+        "published": "Mon, 02 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21651021/?type=app&htype=0"
+      },
+      {
+        "id": "f62da4020238c7a8444d8095314c40a3",
+        "title": "Popular Glasgow retailer in planning row after carrying out work without permission",
+        "link": "https://www.glasgowtimes.co.uk/news/26685870.anthropologie-challenges-glasgow-council-planning-refusal/",
+        "description": "A popular retailer in Glasgow has landed itself in a dispute with Glasgow City Council after a \"miscommunication\" led them to carryout work they didn't have permission for",
+        "published": "Mon, 02 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18597177/?type=app&htype=0"
+      },
+      {
+        "id": "da8549317e4b62ace44b71af16c3a550",
+        "title": "Constance sparks NHS anger by ordering Glasgow and Lothian chiefs to oversee peers",
+        "link": "https://www.heraldscotland.com/news/26688427.secret-letter-rattled-scotlands-nhs-chiefs/",
+        "description": "Angela Constance has ordered the chief executives of NHS Lothian and NHS Greater Glasgow and Clyde to develop a framework holding peers to account for mounting long waits",
+        "published": "Mon, 02 Nov 2026 05:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/19569452/?type=app&htype=0"
+      },
+      {
         "id": "0feeee897aa1040ed0602bdad6c2d1ec",
         "title": "Budget spared retailers fresh pain, but now Scotland must act",
         "link": "https://www.heraldscotland.com/opinion/26684001.scottish-retailers-look-budget-business-rates-help/",
