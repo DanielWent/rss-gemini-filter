@@ -2178,6 +2178,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "a7a6eaf6879a00d046cf9c7ba0025388",
+        "title": "Private school sports facilities plans draw mixed response from community",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26690340.glasgow-academy-sports-plans-draw-mixed-response-locals/",
+        "description": "A planning application for upgraded sports facilities belonging to a Glasgow private school has received a mixed response from the local community.",
+        "published": "Mon, 02 Nov 2026 15:30:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21660985/?type=app&htype=0"
+      },
+      {
         "id": "70d67cabc086f78d83d49d1b8f3045fc",
         "title": "Ex-police officer who filmed himself raping sleeping woman JAILED",
         "link": "https://www.glasgowtimes.co.uk/news/26690826.ex-police-officer-filmed-raping-sleeping-woman-jailed/",
@@ -2968,14 +2976,6 @@
         "description": "A part of Glasgow city centre is said to look \u201cunrecognisable\u201d after the latest phase of a \u00a322.5m transformation project was completed.",
         "published": "Tue, 25 Aug 2026 15:36:09 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21370454/?type=app&htype=0"
-      },
-      {
-        "id": "394fd222bdbb680dbfcbf18e1c86a824",
-        "title": "Glasgow children's programme celebrates 50 years of learning through play",
-        "link": "https://www.glasgowtimes.co.uk/news/26493219.glasgow-childrens-programme-celebrates-50-years-pla/",
-        "description": "Gymboree Play &amp; Music celebrates 50 years of play-based learning in Glasgow, with families marking the milestone at Bearsden &amp; Milngavie and Glasgow South.",
-        "published": "Tue, 25 Aug 2026 11:56:58 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21368257/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3085,12 +3085,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9368413e0bdfa4f58ceb98b0408ccee5",
+        "title": "LIVE updates as cops tape off major Glasgow street amid incident",
+        "link": "https://www.glasgowtimes.co.uk/news/26691890.live-updates-incident-glasgows-shettleston-road/",
+        "description": "Emergency services are currently at the scene of an incident in Glasgow.",
+        "published": "Mon, 02 Nov 2026 15:39:09 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21660940/?type=app&htype=0"
+      },
+      {
+        "id": "a7a6eaf6879a00d046cf9c7ba0025388",
+        "title": "Private school sports facilities plans draw mixed response from community",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26690340.glasgow-academy-sports-plans-draw-mixed-response-locals/",
+        "description": "A planning application for upgraded sports facilities belonging to a Glasgow private school has received a mixed response from the local community.",
+        "published": "Mon, 02 Nov 2026 15:30:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21660985/?type=app&htype=0"
+      },
+      {
+        "id": "c85ff196f75f696b016659858bfefe84",
+        "title": "Firework strikes CHILD in pram after it was hurled towards family in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26691786.firework-strikes-child-pram-hurled-towards-family/",
+        "description": "A child in a pram was injured after a firework was thrown towards a woman and her children in a \u201ccompletely reckless\u201d attack in Glasgow.",
+        "published": "Mon, 02 Nov 2026 15:21:53 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21660783/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c674pg8jm4nmo#0",
         "title": "Rare Salvador Dali lithograph collection to go under the hammer",
         "link": "https://www.bbc.co.uk/news/articles/c674pg8jm4nmo?at_medium=RSS&at_campaign=rss",
         "description": "The artworks are being sold by a private collector who is moving abroad and are expected to fetch as much as \u00a3120,000.",
         "published": "Mon, 02 Nov 2026 14:59:09 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ed5/live/0d338900-d6b2-11f1-aacc-5b5f23abff4b.jpg"
+      },
+      {
+        "id": "f8780b70b15653b70634c5b5b62f1f81",
+        "title": "Scottish island campaign group launches bid for 'lawful removal' of 103 wind turbines",
+        "link": "https://www.heraldscotland.com/news/26691475.shetland-campaigners-seek-lawful-removal-103-wind-turbines/",
+        "description": "Shetland group TSNS launches investigation into Viking Energy wind farm, seeking lawful removal of 103 turbines, environmental restoration and legal scrutiny.",
+        "published": "Mon, 02 Nov 2026 14:54:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20883695/?type=app&htype=0"
       },
       {
         "id": "d4997413de12370924cc05a4a3d5a12e",
@@ -3109,6 +3141,14 @@
         "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOjFiYjc1YjQ3LTFkNzYtNDI2MS1hMmM4LTZmYmViZDcxN2Y3NDo3ODdkZjQzYS1iMDJiLTQ3YjYtOTUzNy1lMDRkZGQ0MmM0ZTM=.jpg?width=1200&auto=webp&crop=3%3A2"
       },
       {
+        "id": "b56395458278ce6858281656313a6d18",
+        "title": "Shetland pilot to test expansion of fish farming up to 12 nautical miles offshore",
+        "link": "https://www.heraldscotland.com/news/26691428.shetland-pilot-explores-fish-farming-offshore/",
+        "description": "Crown Estate Scotland launches a pilot to test finfish farming up to 12 nautical miles east of Shetland, supporting innovation and investment in Scotland.",
+        "published": "Mon, 02 Nov 2026 14:31:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21660160/?type=app&htype=0"
+      },
+      {
         "id": "a81cadde3091939077beb19f4a385faa",
         "title": "The Bonfire Night fireworks law that could land you a \u00a35000 fine",
         "link": "https://www.glasgowtimes.co.uk/news/26691400.bonfire-night-firework-laws-fines-want-avoid/",
@@ -3117,12 +3157,36 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21660151/?type=app&htype=0"
       },
       {
+        "id": "468ba912476e7551d3b271b3b58bfd34",
+        "title": "ScotRail draws up plan to make Sunday a contracted working day for drivers",
+        "link": "https://www.heraldscotland.com/news/26691371.scotrail-draws-sunday-working-proposals-drivers/",
+        "description": "ScotRail has drawn up a formal proposal to bring Sunday into drivers' contracted working week, Holyrood's Transport Committee has been told",
+        "published": "Mon, 02 Nov 2026 14:16:48 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/19077961/?type=app&htype=0"
+      },
+      {
+        "id": "8dce9216c0ba01384c619c37b94575a5",
+        "title": "Ministers urged to act after sea lice controls for Scottish salmon farms quashed",
+        "link": "https://www.heraldscotland.com/news/26691306.scottish-ministers-urged-act-sea-lice-rules-quashed/",
+        "description": "Campaigners urge Scottish ministers to act after sea lice licence rules for Scottish salmon farms were quashed, amid fears for endangered wild Atlantic salmon.",
+        "published": "Mon, 02 Nov 2026 14:11:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20865316/?type=app&htype=0"
+      },
+      {
         "id": "547596f8e76047f9a2e4f7a483945620",
         "title": "LIVE updates amid major emergency response in Glasgow residential area",
         "link": "https://www.glasgowtimes.co.uk/news/26691305.live-updates-amid-incident-lyoncross-road-pollok/",
         "description": "Emergency crews are currently attending an ongoing incident in a residential area of Glasgow.",
         "published": "Mon, 02 Nov 2026 14:04:45 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21659965/?type=app&htype=0"
+      },
+      {
+        "id": "9570571d60f1e38ae6becc157413206f",
+        "title": "Former GSK chief medical officer joins Glasgow biopharma company board",
+        "link": "https://www.heraldscotland.com/news/26691232.former-gsk-chief-medical-officer-joins-enterobiotix-board/",
+        "description": "Former GSK chief medical officer Dr Murray Stewart joins Glasgow biopharma EnteroBiotix board as it advances EBX-102-02 in Phase 2b IBS-C RISE study.",
+        "published": "Mon, 02 Nov 2026 14:04:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21659967/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/former-glasgow-cop-who-raped-34850463",
