@@ -3085,6 +3085,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-attacked-fireworks-glass-bottles-34852070",
+        "title": "Police attacked with fireworks and glass bottles as Hampden chaos sparks probe",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-attacked-fireworks-glass-bottles-34852070",
+        "description": "Enquiries are ongoing to trace those responsible.",
+        "published": "Mon, 2 Nov 2026 16:38:27 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34852405.ece/ALTERNATES/s98/0_Screenshot-2026-11-02-162652.png"
+      },
+      {
+        "id": "978c474250ee619728453c47fc274331",
+        "title": "Figures reveal street near Glasgow hit with over 200 fly-tipping service requests",
+        "link": "https://www.glasgowtimes.co.uk/news/26692180.cumbernauld-road-records-hundreds-fly-tipping-service-requests/",
+        "description": "New figures reveal hundreds of fly-tipping service requests were recorded on roads across Cumbernauld during 2025.",
+        "published": "Mon, 02 Nov 2026 16:20:42 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21661372/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-city-council-leader-questioned-34851886",
         "title": "Glasgow City Council leader questioned over steps taken to attract new productions to the city",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-city-council-leader-questioned-34851886",
