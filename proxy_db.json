@@ -2186,6 +2186,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "9f8db1e8d545c2818d731be449a56739",
+        "title": "Popular Italian cafe announces new location near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26688911.popular-italian-cafe-casa-open-new-site-near-glasgow/",
+        "description": "Casa Italian Kitchen is opening a restaurant in East Dunbartonshire, bringing the family-run business to Bearsden.",
+        "published": "Mon, 02 Nov 2026 09:31:14 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21657822/?type=app&htype=0"
+      },
+      {
         "id": "3d1ab315380eee9f5aba226fbad713f6",
         "title": "Where to meet Santa in Glasgow this Christmas with free visits and grottos",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26680595.meet-santa-glasgow-christmas-2026/",
@@ -2976,14 +2984,6 @@
         "description": "The AJ Bell Great Scottish Run is set to return on October 5, with more than 30,000 participants expected to travel from across the UK.",
         "published": "Mon, 24 Aug 2026 19:30:48 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21366188/?type=app&htype=0"
-      },
-      {
-        "id": "4ac63162d5154268613e04ac0cfbe863",
-        "title": "Addiction recovery centre secures over \u00a316k funding to provide free support services",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26489272.kirkintilloch-recovery-centre-secured-16-800-funding/",
-        "description": "Kirkintilloch\u2019s volunteer-run Addiction Recovery Centre secured \u00a316,800 National Lottery funding to provide free addiction support across East Dunbartonshire.",
-        "published": "Mon, 24 Aug 2026 10:30:54 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21362076/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3092,6 +3092,38 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "d185202f6486a052ebdf1ff156c8837a",
+        "title": "Glasgow schools to strengthen action against racism, hate and discrimination",
+        "link": "https://www.glasgowtimes.co.uk/news/26689002.glasgow-councillor-calls-action-tackle-hate/",
+        "description": "A fresh call for action to tackle hate and discrimination across Glasgow has been issued by a councillor.",
+        "published": "Mon, 02 Nov 2026 09:49:35 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20687567/?type=app&htype=0"
+      },
+      {
+        "id": "9f8db1e8d545c2818d731be449a56739",
+        "title": "Popular Italian cafe announces new location near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26688911.popular-italian-cafe-casa-open-new-site-near-glasgow/",
+        "description": "Casa Italian Kitchen is opening a restaurant in East Dunbartonshire, bringing the family-run business to Bearsden.",
+        "published": "Mon, 02 Nov 2026 09:31:14 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21657822/?type=app&htype=0"
+      },
+      {
+        "id": "395b2cddef66ea915923a03f414846de",
+        "title": "Rod Stewart announces FINAL Glasgow date on farewell tour",
+        "link": "https://www.glasgowtimes.co.uk/news/26688902.rod-stewart-announces-final-glasgow-ovo-hydro-farewell-tour-date/",
+        "description": "Sir Rod Stewart has announced a final Glasgow date at the OVO Hydro as part of his farewell tour following huge demand for tickets.",
+        "published": "Mon, 02 Nov 2026 09:29:29 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21507707/?type=app&htype=0"
+      },
+      {
+        "id": "6813935e8130fa0c8ab55a4432d8b0bf",
+        "title": "Shania Twain announces Glasgow date as part of major 2027 tour",
+        "link": "https://www.glasgowtimes.co.uk/news/26688831.shania-twain-headline-glasgow-summer-sessions-2027/",
+        "description": "Country pop superstar Shania Twain is set to headline Glasgow Summer Sessions next year.",
+        "published": "Mon, 02 Nov 2026 09:15:12 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21657707/?type=app&htype=0"
+      },
       {
         "id": "4ad87bb147a861703921bb569209fe20",
         "title": "Glasgow city centre street closes amid emergency incident",
