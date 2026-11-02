@@ -3093,6 +3093,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=536248",
+        "title": "Body found in search for man who disappeared ahead of storm in South Lanarkshire",
+        "link": "https://news.stv.tv/west-central/body-found-in-search-for-man-who-disappeared-ahead-of-storm-in-south-lanarkshire",
+        "description": "Tom Allan was reported missing from Westmain Farm on Friday, October 23, after being last seen at around 8.15am",
+        "published": "Mon, 02 Nov 2026 19:38:22 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/3d4b21936a716d5e5c72f5e94ff41b97-1793008913-1120x720.jpeg"
+      },
+      {
         "id": "3cb15330d09c1689ffbc567b91465bf1",
         "title": "Everything we know after crash sparks major emergency response on Shettleston Road",
         "link": "https://www.glasgowtimes.co.uk/news/26692715.shettleston-road-closed-crash-services-attend/",
@@ -3141,22 +3149,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/20938662/?type=app&htype=0"
       },
       {
-        "id": "a84241e593eea1c67841f43fbfff5c09",
-        "title": "Why we're pushing back on John Swinney's bid to axe our councils",
-        "link": "https://www.heraldscotland.com/politics/holyrood/26691220.scotlands-council-chiefs-oppose-swinneys-reforms/",
-        "description": "COSLA Vice-President Steven Heddle warns the First Minister's plan to replace Scotland's 32 councils with regional and community tiers lacks evidence, ignores agreed joint work, and risks destabilising public services ahead of the 2027 local elections.",
-        "published": "Mon, 02 Nov 2026 17:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21661030/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-attacked-fireworks-glass-bottles-34852070",
-        "title": "Police attacked with fireworks and glass bottles as Hampden chaos sparks probe",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-attacked-fireworks-glass-bottles-34852070",
-        "description": "Enquiries are ongoing to trace those responsible.",
-        "published": "Mon, 2 Nov 2026 16:38:27 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34852405.ece/ALTERNATES/s98/0_Screenshot-2026-11-02-162652.png"
-      },
-      {
         "id": "f8b9f894a246e74b39da7d37ba061177",
         "title": "Strathclyde awards honorary degree to philanthropist Dr Charles Huang",
         "link": "https://www.heraldscotland.com/news/26692238.charles-huang-receives-honorary-degree-strathclyde/",
@@ -3203,14 +3195,6 @@
         "description": "Councillor Ricky Bell said he has a meeting scheduled with the chief executive of STV to raise this issue and will continue to explore options to bring \u201cflagship productions\u201d to the city.",
         "published": "Mon, 2 Nov 2026 16:01:00 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33837041.ece/ALTERNATES/s98/1_RIVER-CITY-LAST-DAY-Stephen-Purdon-Photographer-Alan-Peebles-Copyright-BBC-Studios-Drama-2.jpg"
-      },
-      {
-        "id": "9abcb531b3a797348cb5496798a3148d",
-        "title": "Cops launch probe after officers targeted prior to Aberdeen vs Rangers clash",
-        "link": "https://www.glasgowtimes.co.uk/sport/26691935.cops-launch-probe-officers-targeted-prior-aberdeen-vs-rangers/",
-        "description": "An investigation has been launched after officers were targeted during disorder before the Premier Sports Cup clash between Aberdeen and Rangers.",
-        "published": "Mon, 02 Nov 2026 16:00:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21661088/?type=app&htype=0"
       },
       {
         "id": "d097defb3c46c933771aed82243503c1",
