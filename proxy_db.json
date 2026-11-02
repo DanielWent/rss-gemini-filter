@@ -3093,6 +3093,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "1630c109f141ad58379d5422fe5c3c28",
+        "title": "Safety fears raised outside new school as council reviews crossing",
+        "link": "https://www.glasgowtimes.co.uk/news/26690006.road-safety-concerns-raised-new-school-near-glasgow/",
+        "description": "Road safety concerns have been raised around a new community hub and primary school.",
+        "published": "Mon, 02 Nov 2026 10:38:56 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21658323/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=536095",
+        "title": "Woman left with brain damage in murder bid caught on CCTV sues Police Scotland",
+        "link": "https://news.stv.tv/west-central/woman-left-with-brain-damage-in-murder-bid-caught-on-cctv-sues-police-scotland",
+        "description": "Michael Harvey's victim is suing Police Scotland after the attacker 'talked his way out of handcuffs' before leaving her with a brain injury",
+        "published": "Mon, 02 Nov 2026 10:24:36 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/7cde365fa390befa2050f8db716c3e53-1793613523.jpeg"
+      },
+      {
         "id": "da8a3f06e1e706572750bcf14b9f3587",
         "title": "Teenager rushed to hospital after serious assault in Glasgow city centre",
         "link": "https://www.glasgowtimes.co.uk/news/26689796.man-19-hospital-serious-assault-glasgow-city-centre/",
@@ -3163,14 +3179,6 @@
         "description": "The first vessel operating on a new weekly shipping service from Greenock to Rotterdam has arrived in Scotland in a boost for the country\u2019s independent whisky industry.",
         "published": "Mon, 02 Nov 2026 08:48:45 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21657613/?type=app&htype=0"
-      },
-      {
-        "id": "4ad87bb147a861703921bb569209fe20",
-        "title": "Glasgow city centre street closes amid emergency incident",
-        "link": "https://www.glasgowtimes.co.uk/news/26688741.glasgows-gordon-street-closed-due-emergency-incident/",
-        "description": "Glasgow city centre\u2019s Gordon Street reopened to traffic after a police incident forced its closure between Union Street and West Nile Street overnight.",
-        "published": "Mon, 02 Nov 2026 08:44:50 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19544682/?type=app&htype=0"
       },
       {
         "id": "9323378",
