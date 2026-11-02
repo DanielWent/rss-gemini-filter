@@ -3093,6 +3093,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cq70pg4gzrk2o#0",
+        "title": "Barlinnie prison chaplain named next Church of Scotland moderator",
+        "link": "https://www.bbc.co.uk/news/articles/cq70pg4gzrk2o?at_medium=RSS&at_campaign=rss",
+        "description": "Rev Jill Clancy has spent the past nine years working in HMP Barlinnie.",
+        "published": "Mon, 02 Nov 2026 12:22:42 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c74b/live/60859610-d6b8-11f1-aacc-5b5f23abff4b.jpg"
+      },
+      {
         "id": "9324107",
         "title": "Glasgow for Sale: The incredible Park Circus property where thousands said 'I do' still on sale two years later",
         "link": "https://www.glasgowworld.com/lifestyle/homes-and-gardens/glasgow-la-casa-former-italian-consulate-for-sale-9324107",
@@ -3291,6 +3299,14 @@
         "description": "Scotland\u2019s wellbeing score remains above the UK average at 63, but Carnegie UK warns of persistent inequality, low trust and poor job opportunities in 2026.",
         "published": "Mon, 02 Nov 2026 00:01:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/19359878/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo#0",
+        "title": "Are Celtic club in regression amid run of six defeats in 10?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo?at_medium=RSS&at_campaign=rss",
+        "description": "Chris Sutton and Ian McCall weigh in on Celtic after a second league defeat of the season, but manager Martin O'Neill is defiant.",
+        "published": "Sun, 01 Nov 2026 17:34:12 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f85/live/92559140-d613-11f1-90fb-b3468681b3ba.jpg"
       },
       {
         "id": "9320237",
