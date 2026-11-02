@@ -21,14 +21,6 @@
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f32/live/542da830-d61d-11f1-905f-4bb31135b4e2.jpg"
       },
       {
-        "id": "1793556309716481",
-        "title": "Tributes to 'inspirational' Olympian Ciara Mageean after death at 34",
-        "link": "https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo?at_medium=RSS&at_campaign=rss",
-        "description": "Sporting, political and media figures pay tribute to former European champion and Olympian Ciara Mageean following her death at 34.",
-        "published": "Sun, 01 Nov 2026 19:00:14 +0100",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2295/live/8c37c370-d5f3-11f1-a6a8-6dc45e4fc351.jpg"
-      },
-      {
         "id": "https://www.bbc.co.uk/news/articles/cje36degrgv5o#3",
         "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
         "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
@@ -3092,6 +3084,14 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c674pg8jm4nmo#0",
+        "title": "Rare Salvador Dali lithograph collection to go under the hammer",
+        "link": "https://www.bbc.co.uk/news/articles/c674pg8jm4nmo?at_medium=RSS&at_campaign=rss",
+        "description": "The artworks are being sold by a private collector who is moving abroad and are expected to fetch as much as \u00a3120,000.",
+        "published": "Mon, 02 Nov 2026 14:59:09 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ed5/live/0d338900-d6b2-11f1-aacc-5b5f23abff4b.jpg"
+      },
       {
         "id": "d4997413de12370924cc05a4a3d5a12e",
         "title": "Newly restored bandstand to host Christmas celebration after devastating fire",
