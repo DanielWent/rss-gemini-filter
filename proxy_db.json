@@ -806,6 +806,14 @@
     "description": "AI Filtered Google Blog Updates.",
     "articles": [
       {
+        "id": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+        "title": "The latest AI news we announced in October 2026",
+        "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+        "description": "Animated carousel of images from AI posts in October",
+        "published": "Mon, 02 Nov 2026 17:45:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp"
+      },
+      {
         "id": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/",
         "title": "Google Fitbit Edge: On shelves now",
         "link": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/",
@@ -3109,6 +3117,22 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17882119/?type=app&htype=0"
       },
       {
+        "id": "bbc4fe19588d53a4d75b5cd56e0d3912",
+        "title": "Swinney 'jolted' talks, says COSLA chief as he calls for council shake-up slowdown",
+        "link": "https://www.heraldscotland.com/news/26691871.council-leaders-oppose-rushed-council-reorganisation/",
+        "description": "Council leaders have urged the Scottish Government not to \"hurry into a costly reorganisation that will throw up more questions than answers\".",
+        "published": "Mon, 02 Nov 2026 17:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20938662/?type=app&htype=0"
+      },
+      {
+        "id": "a84241e593eea1c67841f43fbfff5c09",
+        "title": "Why we're pushing back on John Swinney's bid to axe our councils",
+        "link": "https://www.heraldscotland.com/politics/holyrood/26691220.scotlands-council-chiefs-oppose-swinneys-reforms/",
+        "description": "COSLA Vice-President Steven Heddle warns the First Minister's plan to replace Scotland's 32 councils with regional and community tiers lacks evidence, ignores agreed joint work, and risks destabilising public services ahead of the 2027 local elections.",
+        "published": "Mon, 02 Nov 2026 17:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21661030/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-attacked-fireworks-glass-bottles-34852070",
         "title": "Police attacked with fireworks and glass bottles as Hampden chaos sparks probe",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-attacked-fireworks-glass-bottles-34852070",
@@ -3670,6 +3694,14 @@
     "icon_url": "https://www.glasgowworld.com/favicon.ico",
     "output_file": "Glasgow_World_AI_Filtered.xml",
     "articles": [
+      {
+        "id": "9325845",
+        "title": "Former Glasgow cop who subjected two women to 'horrific abuse' jailed for seven years",
+        "link": "https://www.glasgowworld.com/news/glasgow-cop-derek-mcnee-jailed-for-seven-years-over-horrific-abuse-9325845",
+        "description": "<p>A former Glasgow police officer was sentenced to seven years in jail for a series of violent and sexual offences</p>",
+        "published": "Mon, 02 Nov 2026 18:20:41 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/02/18/30/Untitled-design-2026-11-02T180632-064.png?width=1200&auto=webp&trim=42%2C0%2C42%2C0"
+      },
       {
         "id": "9317850",
         "title": "The Gorbals Vampire: How a children's crusade against a fanged monster gripped 1950s Glasgow",
