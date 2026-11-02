@@ -3085,6 +3085,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=536225",
+        "title": "Victim in hospital after being attacked by two men in Rutherglen underpass",
+        "link": "https://news.stv.tv/west-central/victim-in-hospital-after-being-attacked-by-two-men-in-rutherglen-underpass",
+        "description": "The two male suspects are described as white, in their twenties, and of slim build",
+        "published": "Mon, 02 Nov 2026 17:06:35 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/5928299de777049cae181b6f61d81124-1793638609-1280x720.jpeg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cm4g1kvgwx85o#0",
+        "title": "Glasgow 2026 generated \u00a3233m - is it a blueprint for future games?",
+        "link": "https://www.bbc.co.uk/news/articles/cm4g1kvgwx85o?at_medium=RSS&at_campaign=rss",
+        "description": "The Glasgow 2026 Commonwealth Games Impact Evaluation says the competition generated a \u00a3158.6m boost for Glasgow.",
+        "published": "Mon, 02 Nov 2026 17:05:31 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ed/live/51dd1880-d6cd-11f1-ac20-7783925c811f.jpg"
+      },
+      {
+        "id": "4f972f733ae3850ed33f51dd860e3570",
+        "title": "Major update issued on M8 motorway disruption this weekend",
+        "link": "https://www.glasgowtimes.co.uk/news/26692445.major-update-issued-m8-closure-roadworks-weekend/",
+        "description": "An update has been issued on M8 roadworks that were recently postponed.",
+        "published": "Mon, 02 Nov 2026 17:05:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17882119/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-hunt-two-attackers-after-34852519",
+        "title": "Police hunt two attackers after morning assault at Rutherglen underpass",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-hunt-two-attackers-after-34852519",
+        "description": "Detectives are looking for two male suspects, both described as white, in their twenties, and of slim build.",
+        "published": "Mon, 2 Nov 2026 17:01:51 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34852636.ece/ALTERNATES/s98/0_gettyimages-1425272033-170667a.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-attacked-fireworks-glass-bottles-34852070",
         "title": "Police attacked with fireworks and glass bottles as Hampden chaos sparks probe",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-attacked-fireworks-glass-bottles-34852070",
@@ -3093,12 +3125,44 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34852405.ece/ALTERNATES/s98/0_Screenshot-2026-11-02-162652.png"
       },
       {
+        "id": "f8b9f894a246e74b39da7d37ba061177",
+        "title": "Strathclyde awards honorary degree to philanthropist Dr Charles Huang",
+        "link": "https://www.heraldscotland.com/news/26692238.charles-huang-receives-honorary-degree-strathclyde/",
+        "description": "Dr Charles Huang receives an honorary degree from the University of Strathclyde in Glasgow, recognising his global business success and \u00a350m philanthropy.",
+        "published": "Mon, 02 Nov 2026 16:30:26 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21661436/?type=app&htype=0"
+      },
+      {
+        "id": "cd62dd73c2f3d65a8b3891b9d4a74e81",
+        "title": "These eight Scottish pubs have just been ranked among the 100 best in Britain",
+        "link": "https://www.heraldscotland.com/news/26691809.best-pubs-scotland-2026-named-good-food-guide/",
+        "description": "The Good Food Guide has revealed its list of the Top 100 Pubs in Britain, with eight Scottish venues earning places in the rankings.",
+        "published": "Mon, 02 Nov 2026 16:30:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/10280015/?type=app&htype=0"
+      },
+      {
+        "id": "a28230da2d6d0c430bd1ea0e2c2556d4",
+        "title": "Israeli embassy accuses Edinburgh MSP of \u2018provocation for for social media clout'",
+        "link": "https://www.heraldscotland.com/news/26692165.greens-hit-back-israeli-embassy-accuses-msp-provocation/",
+        "description": "Edinburgh and Lothians East MSP Kate Nevens was refused entry to the West Bank last Monday, alongside SNP MP for Arbroath and Broughty Ferry Lara Bird.",
+        "published": "Mon, 02 Nov 2026 16:29:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21358285/?type=app&htype=0"
+      },
+      {
         "id": "978c474250ee619728453c47fc274331",
         "title": "Figures reveal street near Glasgow hit with over 200 fly-tipping service requests",
         "link": "https://www.glasgowtimes.co.uk/news/26692180.cumbernauld-road-records-hundreds-fly-tipping-service-requests/",
         "description": "New figures reveal hundreds of fly-tipping service requests were recorded on roads across Cumbernauld during 2025.",
         "published": "Mon, 02 Nov 2026 16:20:42 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21661372/?type=app&htype=0"
+      },
+      {
+        "id": "d9b212943aa8adc4bb6c848df2d60458",
+        "title": "SNP accuses Labour of 'dancing to Farage's tune' over migrant settlement rules",
+        "link": "https://www.heraldscotland.com/politics/westminster/26692123.labour-immigration-u-turn-sparks-warning-scotlands-economy/",
+        "description": "The SNP has accused Labour of \"dancing to Nigel Farage's tune\" and warned that its immigration reforms could damage Scotland's economy, despite a major U-turn over plans to make migrant care workers wait longer for permanent settlement.",
+        "published": "Mon, 02 Nov 2026 16:12:32 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20429000/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-city-council-leader-questioned-34851886",
@@ -3115,6 +3179,22 @@
         "description": "An investigation has been launched after officers were targeted during disorder before the Premier Sports Cup clash between Aberdeen and Rangers.",
         "published": "Mon, 02 Nov 2026 16:00:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21661088/?type=app&htype=0"
+      },
+      {
+        "id": "d097defb3c46c933771aed82243503c1",
+        "title": "\u00a39 million EU funding backs Scotland's first mainland Small Hydrogen Valley",
+        "link": "https://www.heraldscotland.com/news/26691943.scotland-develop-hydrogen-valley-9m-eu-funding/",
+        "description": "Scotland\u2019s first mainland Small Hydrogen Valley, TH\u2082ISTLE, will be developed in the north-east with \u00a39m EU funding to advance green hydrogen and regional skills.",
+        "published": "Mon, 02 Nov 2026 15:57:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21406484/?type=app&htype=0"
+      },
+      {
+        "id": "8c7712c58979f9deb564fad1075981a3",
+        "title": "Scotland's first 30-year nature restoration scheme begins at Fife deer farm",
+        "link": "https://www.heraldscotland.com/news/26691815.30-year-nature-restoration-scheme-begins-fife-deer-farm/",
+        "description": "A 30-year nature restoration scheme at Fife\u2019s Reediehill Deer Farm will plant 12,000 native trees under a pioneering SSEN biodiversity project in Scotland.",
+        "published": "Mon, 02 Nov 2026 15:42:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21660926/?type=app&htype=0"
       },
       {
         "id": "9368413e0bdfa4f58ceb98b0408ccee5",
