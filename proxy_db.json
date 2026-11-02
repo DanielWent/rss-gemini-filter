@@ -3093,6 +3093,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/paisley-nhs-staff-run-ragged-34846848",
+        "title": "Paisley NHS staff 'run ragged' as whistleblowers warn of winter 'timebomb'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/paisley-nhs-staff-run-ragged-34846848",
+        "description": "Internal documents suggest a financial black hole has left patient safety compromised.",
+        "published": "Mon, 2 Nov 2026 07:20:27 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34846845.ece/ALTERNATES/s98/0_nurse1.jpg"
+      },
+      {
         "id": "99bbdef237f71a8f662407bd339f566e",
         "title": "Mystery remains over future of Glasgow city centre building as appeal lodged",
         "link": "https://www.glasgowtimes.co.uk/news/26686278.future-glasgow-argyle-street-building-still-unclear/",
