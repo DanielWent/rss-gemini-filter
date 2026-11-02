@@ -3093,12 +3093,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8d049ea10aa68675c4eed9c29a3966c7",
+        "title": "BT completes \u00a3350m SWAN upgrade connecting more than 5000 Scottish public sites",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26691070.bt-completed-major-upgrade-scotlands-infrastructure/",
+        "description": "BT has completed a major upgrade to Scotland\u2019s public sector infrastructure.",
+        "published": "Mon, 02 Nov 2026 13:21:36 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21659717/?type=app&htype=0"
+      },
+      {
         "id": "9324501",
         "title": "Bonfire Night 2026: 9 firework displays near Glasgow to celebrate this year's Bonfire Night",
         "link": "https://www.glasgowworld.com/whats-on/9-firework-displays-near-glasgow-to-celebrate-this-years-bonfire-night-9324501",
         "description": "<p>Glasgow residents can still enjoy Bonfire Night celebrations with nine firework displays taking place in nearby towns and villages this week.</p>",
         "published": "Mon, 02 Nov 2026 13:01:05 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/02/12/45/NPGZ-02-11-26-Fireworks.png?width=1200&auto=webp&trim=107%2C0%2C59%2C0"
+      },
+      {
+        "id": "d671e3ccfb03e270e669bc570b911fad",
+        "title": "Major stretch of Glasgow M8 to close this weekend for footbridge works",
+        "link": "https://www.glasgowtimes.co.uk/news/26690885.glasgow-m8-close-weekend-major-footbridge-works/",
+        "description": "Glasgow\u2019s M8 will close between Junctions 19 and 24 on November 7 to 8 and November 14 to 15 for footbridge works, with diversions and delays expected.",
+        "published": "Mon, 02 Nov 2026 12:44:10 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21462449/?type=app&htype=0"
       },
       {
         "id": "7fd347469d76cda46a8264233fd88f72",
@@ -3131,14 +3147,6 @@
         "description": "Concerns raised over \u00a3350m in Scottish hospital charity funds as FOI documents reveal a lack of documented planning ahead of major NHS reforms.",
         "published": "Mon, 02 Nov 2026 12:20:40 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/20652420/?type=app&htype=109"
-      },
-      {
-        "id": "c8458f59ffb97d542696f3ef1743d4c9",
-        "title": "Glasgow attack victim takes legal action after being 'left alone' with attacker",
-        "link": "https://www.glasgowtimes.co.uk/news/26690637.glasgow-murder-bid-victim-takes-legal-action-police-scotland/",
-        "description": "Brain-damaged Glasgow assault victim Carol O'Reilly sues Police Scotland, alleging officers failed to protect her from Michael Harvey before October 1 attack.",
-        "published": "Mon, 02 Nov 2026 12:07:17 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21659241/?type=app&htype=0"
       },
       {
         "id": "13a440800b18c3766348beb75f5cd992",
