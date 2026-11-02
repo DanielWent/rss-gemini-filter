@@ -3093,6 +3093,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "547596f8e76047f9a2e4f7a483945620",
+        "title": "LIVE updates amid major emergency response in Glasgow residential area",
+        "link": "https://www.glasgowtimes.co.uk/news/26691305.live-updates-amid-incident-lyoncross-road-pollok/",
+        "description": "Emergency crews are currently attending an ongoing incident in a residential area of Glasgow.",
+        "published": "Mon, 02 Nov 2026 14:04:45 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21659965/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/former-glasgow-cop-who-raped-34850463",
+        "title": "Former Glasgow cop who raped woman and abused another jailed",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/former-glasgow-cop-who-raped-34850463",
+        "description": "Derek McNee, 42, left Police Scotland in 2016 to become a dog groomer, running a busy pet salon in Paisley.",
+        "published": "Mon, 2 Nov 2026 14:01:34 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34850672.ece/ALTERNATES/s98/0_JS252191662.jpg"
+      },
+      {
+        "id": "aa89c1da0ad1eedb8c0921f42e4288dc",
+        "title": "Heritage body raises concerns over fire-damaged restaurant demolition near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26691211.bothwell-san-vincenzo-demolition-plans-raise-heritage-concerns/",
+        "description": "Heritage concerns have been raised over plans to demolish the fire-damaged former San Vincenzo restaurant in Bothwell.",
+        "published": "Mon, 02 Nov 2026 13:48:31 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21659882/?type=app&htype=0"
+      },
+      {
         "id": "8d049ea10aa68675c4eed9c29a3966c7",
         "title": "BT completes \u00a3350m SWAN upgrade connecting more than 5000 Scottish public sites",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26691070.bt-completed-major-upgrade-scotlands-infrastructure/",
@@ -3437,28 +3461,12 @@
         "image_url": "https://www.heraldscotland.com/resources/images/21652785/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/rapist-former-glasgow-cop-jailed-34846567",
-        "title": "Rapist former Glasgow cop jailed for abusing two women launches legal bid to be freed from prison",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/rapist-former-glasgow-cop-jailed-34846567",
-        "description": "&quot;Appealing just shows he has no remorse \u00adwhatsoever.&quot;",
-        "published": "Sun, 1 Nov 2026 12:24:54 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34846566.ece/ALTERNATES/s98/0_Screenshot-2026-10-16-102821.jpg"
-      },
-      {
         "id": "9320221",
         "title": "Derek McInnes won't let Rangers squad coast into Hampden final as gauntlet laid down after gritty Aberdeen win",
         "link": "https://www.glasgowworld.com/sport/football/rangers/derek-mcinnes-rangers-squad-coast-into-hampden-final-gauntlet-laid-down-gritty-aberdeen-win-9320221",
         "description": "<p>Rangers boss demands relentless drive in weeks ahead to ensure Hampden line-up is primed for silverware</p>",
         "published": "Sun, 01 Nov 2026 12:00:29 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/31/21/54/21836254.jpeg?width=1200&auto=webp&trim=0%2C278%2C0%2C277"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-stabbed-paisley-street-emergency-34846486",
-        "title": "Man stabbed on Paisley street as emergency services close off busy area",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-stabbed-paisley-street-emergency-34846486",
-        "description": "He has been taken to hospital following the serious attack.",
-        "published": "Sun, 1 Nov 2026 11:59:12 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34846509.ece/ALTERNATES/s98/0_Screenshot-2026-11-01-115259.png"
       },
       {
         "id": "a1646e149f02153bf75a7d298b19ac15",
