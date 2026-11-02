@@ -3085,6 +3085,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-city-council-leader-questioned-34851886",
+        "title": "Glasgow City Council leader questioned over steps taken to attract new productions to the city",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-city-council-leader-questioned-34851886",
+        "description": "Councillor Ricky Bell said he has a meeting scheduled with the chief executive of STV to raise this issue and will continue to explore options to bring \u201cflagship productions\u201d to the city.",
+        "published": "Mon, 2 Nov 2026 16:01:00 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33837041.ece/ALTERNATES/s98/1_RIVER-CITY-LAST-DAY-Stephen-Purdon-Photographer-Alan-Peebles-Copyright-BBC-Studios-Drama-2.jpg"
+      },
+      {
+        "id": "9abcb531b3a797348cb5496798a3148d",
+        "title": "Cops launch probe after officers targeted prior to Aberdeen vs Rangers clash",
+        "link": "https://www.glasgowtimes.co.uk/sport/26691935.cops-launch-probe-officers-targeted-prior-aberdeen-vs-rangers/",
+        "description": "An investigation has been launched after officers were targeted during disorder before the Premier Sports Cup clash between Aberdeen and Rangers.",
+        "published": "Mon, 02 Nov 2026 16:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21661088/?type=app&htype=0"
+      },
+      {
         "id": "9368413e0bdfa4f58ceb98b0408ccee5",
         "title": "LIVE updates as cops tape off major Glasgow street amid incident",
         "link": "https://www.glasgowtimes.co.uk/news/26691890.live-updates-incident-glasgows-shettleston-road/",
@@ -3563,14 +3579,6 @@
         "description": "Kate Forbes has broken publicly with John Swinney over Rosebank, calling approval 'the right decision'.",
         "published": "Sun, 01 Nov 2026 11:13:25 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/20309551/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/out-control-glasgow-kids-ran-34846313",
-        "title": "'Out of control Glasgow kids ran wild with fireworks and it was terrifying'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/out-control-glasgow-kids-ran-34846313",
-        "description": "They lobbed fireworks at cars, children, houses and passers-by on Saturday evening.",
-        "published": "Sun, 1 Nov 2026 11:03:20 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34846402.ece/ALTERNATES/s98/0_PDP_SDR_010818_euros_030JPG.jpg"
       },
       {
         "id": "26857a9a612f289bd17a4c6ec566ebc0",
