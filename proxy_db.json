@@ -3093,6 +3093,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "3cb15330d09c1689ffbc567b91465bf1",
+        "title": "Everything we know after crash sparks major emergency response on Shettleston Road",
+        "link": "https://www.glasgowtimes.co.uk/news/26692715.shettleston-road-closed-crash-services-attend/",
+        "description": "A major emergency response was launched after a crash forced the closure of a busy Glasgow road.",
+        "published": "Mon, 02 Nov 2026 18:28:32 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21661066/?type=app&htype=0"
+      },
+      {
+        "id": "fcaf5f8e2c591138996418bf1f8b4cda",
+        "title": "Police launch investigation after officers targeted before Aberdeen-Rangers match",
+        "link": "https://www.heraldscotland.com/news/26692484.police-investigate-disorder-aberdeen-rangers-match/",
+        "description": "An investigation into \u201cunacceptable\u201d football-related disorder where officers were targeted with fireworks and glass bottles has been launched by police.",
+        "published": "Mon, 02 Nov 2026 17:14:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21661088/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=536225",
         "title": "Victim in hospital after being attacked by two men in Rutherglen underpass",
         "link": "https://news.stv.tv/west-central/victim-in-hospital-after-being-attacked-by-two-men-in-rutherglen-underpass",
