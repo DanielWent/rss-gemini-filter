@@ -2186,6 +2186,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "70d67cabc086f78d83d49d1b8f3045fc",
+        "title": "Ex-police officer who filmed himself raping sleeping woman JAILED",
+        "link": "https://www.glasgowtimes.co.uk/news/26690826.ex-police-officer-filmed-raping-sleeping-woman-jailed/",
+        "description": "A former police officer who filmed himself raping a sleeping woman has been jailed for seven years.",
+        "published": "Mon, 02 Nov 2026 12:34:23 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/10043643/?type=app&htype=0"
+      },
+      {
         "id": "9f8db1e8d545c2818d731be449a56739",
         "title": "Popular Italian cafe announces new location near Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26688911.popular-italian-cafe-casa-open-new-site-near-glasgow/",
@@ -2976,14 +2984,6 @@
         "description": "Gymboree Play &amp; Music celebrates 50 years of play-based learning in Glasgow, with families marking the milestone at Bearsden &amp; Milngavie and Glasgow South.",
         "published": "Tue, 25 Aug 2026 11:56:58 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21368257/?type=app&htype=0"
-      },
-      {
-        "id": "3014a48b61d4873e4ad59396f9049236",
-        "title": "Over 70 Glasgow roads close for huge running event",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26491801.70-glasgow-roads-close-today-great-scottish-run/",
-        "description": "The AJ Bell Great Scottish Run is set to return on October 5, with more than 30,000 participants expected to travel from across the UK.",
-        "published": "Mon, 24 Aug 2026 19:30:48 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21366188/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3093,12 +3093,60 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9324501",
+        "title": "Bonfire Night 2026: 9 firework displays near Glasgow to celebrate this year's Bonfire Night",
+        "link": "https://www.glasgowworld.com/whats-on/9-firework-displays-near-glasgow-to-celebrate-this-years-bonfire-night-9324501",
+        "description": "<p>Glasgow residents can still enjoy Bonfire Night celebrations with nine firework displays taking place in nearby towns and villages this week.</p>",
+        "published": "Mon, 02 Nov 2026 13:01:05 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/02/12/45/NPGZ-02-11-26-Fireworks.png?width=1200&auto=webp&trim=107%2C0%2C59%2C0"
+      },
+      {
+        "id": "7fd347469d76cda46a8264233fd88f72",
+        "title": "Royal Navy intercepts Russian spy ship off coast of Scotland",
+        "link": "https://www.heraldscotland.com/news/26690836.royal-navy-intercepts-russian-spy-ship-outer-hebrides/",
+        "description": "The Russian ship was closely monitoring NATO warships taking part in Exercise Strike Warrior, a major, Royal Navy-led multinational NATO military exercise which involved more than 2,000 personnel, eight warships, and 19 aircraft from six NATO nations.",
+        "published": "Mon, 02 Nov 2026 12:36:04 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21659462/?type=app&htype=0"
+      },
+      {
+        "id": "70d67cabc086f78d83d49d1b8f3045fc",
+        "title": "Ex-police officer who filmed himself raping sleeping woman JAILED",
+        "link": "https://www.glasgowtimes.co.uk/news/26690826.ex-police-officer-filmed-raping-sleeping-woman-jailed/",
+        "description": "A former police officer who filmed himself raping a sleeping woman has been jailed for seven years.",
+        "published": "Mon, 02 Nov 2026 12:34:23 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/10043643/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cq70pg4gzrk2o#0",
         "title": "Barlinnie prison chaplain named next Church of Scotland moderator",
         "link": "https://www.bbc.co.uk/news/articles/cq70pg4gzrk2o?at_medium=RSS&at_campaign=rss",
         "description": "Rev Jill Clancy has spent the past nine years working in HMP Barlinnie.",
         "published": "Mon, 02 Nov 2026 12:22:42 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c74b/live/60859610-d6b8-11f1-aacc-5b5f23abff4b.jpg"
+      },
+      {
+        "id": "8c0bc844e9f0bd408e2baab9bedc9dbe",
+        "title": "Fears for \u00a3350m in hospital charity funds as Scotland plans major NHS shake-up",
+        "link": "https://www.heraldscotland.com/news/26690741.concerns-raised-350m-nhs-charity-funds-scotland-shake-up/",
+        "description": "Concerns raised over \u00a3350m in Scottish hospital charity funds as FOI documents reveal a lack of documented planning ahead of major NHS reforms.",
+        "published": "Mon, 02 Nov 2026 12:20:40 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20652420/?type=app&htype=109"
+      },
+      {
+        "id": "c8458f59ffb97d542696f3ef1743d4c9",
+        "title": "Glasgow attack victim takes legal action after being 'left alone' with attacker",
+        "link": "https://www.glasgowtimes.co.uk/news/26690637.glasgow-murder-bid-victim-takes-legal-action-police-scotland/",
+        "description": "Brain-damaged Glasgow assault victim Carol O'Reilly sues Police Scotland, alleging officers failed to protect her from Michael Harvey before October 1 attack.",
+        "published": "Mon, 02 Nov 2026 12:07:17 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21659241/?type=app&htype=0"
+      },
+      {
+        "id": "13a440800b18c3766348beb75f5cd992",
+        "title": "Specialist ship identifies two sites in search for missing fishing boat off Lewis",
+        "link": "https://www.heraldscotland.com/news/26690592.two-sites-identified-search-missing-boat-off-lewis/",
+        "description": "Two sites have been identified for further investigation, after a survey by a specialist boat during searches for the missing fishing vessel Kilda off the Isle of Lewis, police have said.",
+        "published": "Mon, 02 Nov 2026 12:01:09 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21586930/?type=app&htype=0"
       },
       {
         "id": "9324107",
