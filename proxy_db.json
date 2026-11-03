@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1793688617504104",
+        "title": "AI data centres could undermine UK's emissions goals",
+        "link": "https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o?at_medium=RSS&at_campaign=rss",
+        "description": "Four planned \"hyperscale\" data centres consider using gas-fired power for their electricity needs.",
+        "published": "Tue, 03 Nov 2026 07:27:17 +0100",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d46/live/2f770bd0-d6bd-11f1-aacc-5b5f23abff4b.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo#1",
         "title": "Scientists detect signals at the smallest scale ever explored",
         "link": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "It follows the Anthropic CEO 's calls for a slowdown in AI development, in a way that China doesn't pull ahead.",
         "published": "Mon, 14 Sep 2026 13:31:39 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f6/live/29acfbb0-b02f-11f1-a8a9-13be82d23441.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/athletics/articles/cqjkwl78plro#8",
-        "title": "How did the first Ultimate Championship go?",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/cqjkwl78plro?at_medium=RSS&at_campaign=rss",
-        "description": "As the inaugural Ultimate Championship concludes, athletics has taken its first strides in a new direction.",
-        "published": "Mon, 14 Sep 2026 06:51:13 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b09/live/a602bbe0-b008-11f1-9713-5de61387c384.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2194,6 +2194,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "6b0e611fd5c380b85e59a3a220dff0e0",
+        "title": "Hamilton man banned after driving four times the limit near hotel",
+        "link": "https://www.glasgowtimes.co.uk/news/26690316.hamilton-man-banned-driving-four-times-limit-bearsden/",
+        "description": "Hamilton man Stephen Connelly, caught driving in Bearsden with alcohol more than four times the legal limit and no insurance, is banned for 16 months.",
+        "published": "Tue, 03 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21658721/?type=app&htype=0"
+      },
+      {
         "id": "3d370698324c9f5e979502e51e04f8c9",
         "title": "Monster unmasked as disgraced ex-cop jailed for drugging and raping unconscious woman",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26692557.derek-mcnee-jailed-rape-harassment-two-women/",
@@ -2208,14 +2216,6 @@
         "description": "A planning application for upgraded sports facilities belonging to a Glasgow private school has received a mixed response from the local community.",
         "published": "Mon, 02 Nov 2026 15:30:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21660985/?type=app&htype=0"
-      },
-      {
-        "id": "70d67cabc086f78d83d49d1b8f3045fc",
-        "title": "Ex-police officer who filmed himself raping sleeping woman JAILED",
-        "link": "https://www.glasgowtimes.co.uk/news/26690826.ex-police-officer-filmed-raping-sleeping-woman-jailed/",
-        "description": "A former police officer who filmed himself raping a sleeping woman has been jailed for seven years.",
-        "published": "Mon, 02 Nov 2026 12:34:23 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/10043643/?type=app&htype=0"
       },
       {
         "id": "9f8db1e8d545c2818d731be449a56739",
@@ -2378,14 +2378,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21622682/?type=app&htype=0"
       },
       {
-        "id": "68434a137ba79ea4ba8ce6e97d57f29f",
-        "title": "Glasgow woman says 'SAD lamps' helped to stop her feeling 'crushed' by winter",
-        "link": "https://www.glasgowtimes.co.uk/news/26661219.wintering-well-box-helped-woman-not-feel-crushed-winter/",
-        "description": "A 76-year-old who was one of the first people to borrow a Wintering Well box said it has helped to stop her feeling \u201ccrushed\u201d by the winter",
-        "published": "Fri, 23 Oct 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21618397/?type=app&htype=0"
-      },
-      {
         "id": "7c33f47159c0cc2e508f6ce506a120cb",
         "title": "Glasgow estate agents could face action over \u2018For Sale\u2019 signs left behind",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26661151.calls-action-for-sale-signs-left-across-glasgow/",
@@ -2456,14 +2448,6 @@
         "description": "Remembrance Sunday events will take place across East Dunbartonshire on November 8, including services and parades in Bearsden, Milngavie, Torrance and Kirkintilloch.",
         "published": "Mon, 19 Oct 2026 12:35:21 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21551479/?type=app&htype=0"
-      },
-      {
-        "id": "9809ba1b82cc7511e8e3b1b4811889fd",
-        "title": "Drivers warned as busy road outside Glasgow to close for five nights",
-        "link": "https://www.glasgowtimes.co.uk/news/26648625.lennoxtown-main-street-close-overnight-resurfacing/",
-        "description": "Lennoxtown\u2019s Main Street will close overnight from October 19 to October 27 for resurfacing between Service Street and School Lane in East Dunbartonshire.",
-        "published": "Mon, 19 Oct 2026 10:51:47 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19036953/?type=app&htype=61"
       },
       {
         "id": "61959fb02e162d167c0789699f850e02",
@@ -3107,6 +3091,38 @@
         "description": "A stark issue has been issued to those intent on causing disorder on Bonfire Night as crews prepare for the busiest night of the year",
         "published": "Tue, 03 Nov 2026 06:00:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21661592/?type=app&htype=0"
+      },
+      {
+        "id": "f77d756b35b68d9ef3e1b304699dfe56",
+        "title": "'Kick in the teeth' as university hires for senior roles amid job cuts",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26692219.glasgow-university-hiring-staff-workers-face-redundancy/",
+        "description": "A senior lecturer has said it is a \"kick in the teeth\" that a Glasgow university is hiring for executive roles while other staff face redundancy.",
+        "published": "Tue, 03 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20999800/?type=app&htype=0"
+      },
+      {
+        "id": "6b0e611fd5c380b85e59a3a220dff0e0",
+        "title": "Hamilton man banned after driving four times the limit near hotel",
+        "link": "https://www.glasgowtimes.co.uk/news/26690316.hamilton-man-banned-driving-four-times-limit-bearsden/",
+        "description": "Hamilton man Stephen Connelly, caught driving in Bearsden with alcohol more than four times the legal limit and no insurance, is banned for 16 months.",
+        "published": "Tue, 03 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21658721/?type=app&htype=0"
+      },
+      {
+        "id": "9107097088e98219e522b9e92248f4e4",
+        "title": "Castlemilk lifeline hub to close as volunteers warn of growing community crisis",
+        "link": "https://www.glasgowtimes.co.uk/news/26688408.castlemilk-community-hub-close-amid-rising-demand-costs/",
+        "description": "The Love and Solidarity Hub in Castlemilk is closing its base after supporting dozens of families each week, with volunteers citing rising costs, growing demand and increasing social tensions.",
+        "published": "Tue, 03 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21657140/?type=app&htype=0"
+      },
+      {
+        "id": "eccd71591aed78916818d96cdc63f5a2",
+        "title": "Police call for greater powers to tackle anti-social behaviour linked to e-bikes",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26689920.scottish-police-seek-greater-powers-e-bike-misuse/",
+        "description": "The Scottish Police Federation has raised concerns about the growing misuse of e-bikes,",
+        "published": "Tue, 03 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20746675/?type=app&htype=0"
       },
       {
         "id": "4c9f9938891319cc317b015ff638b50a",
