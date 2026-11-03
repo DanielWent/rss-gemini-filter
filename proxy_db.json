@@ -3101,6 +3101,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/grieving-glasgow-widow-says-scotlands-34858401",
+        "title": "Grieving Glasgow widow says Scotland's new suicide statistics offers 'little comfort'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/grieving-glasgow-widow-says-scotlands-34858401",
+        "description": "Mum-of-three, Lisa Marshall, sadly lost her husband Alan to suicide in 2023.",
+        "published": "Tue, 3 Nov 2026 18:47:31 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33927905.ece/ALTERNATES/s98/4_Lisa.png"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cq70pgg0epypo#0",
         "title": "Parents Group leader faces \u00a342,000 bill for failed legal action against council",
         "link": "https://www.bbc.co.uk/news/articles/cq70pgg0epypo?at_medium=RSS&at_campaign=rss",
@@ -3891,14 +3899,6 @@
         "description": "Shetland group TSNS launches investigation into Viking Energy wind farm, seeking lawful removal of 103 turbines, environmental restoration and legal scrutiny.",
         "published": "Mon, 02 Nov 2026 14:54:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/20883695/?type=app&htype=0"
-      },
-      {
-        "id": "d4997413de12370924cc05a4a3d5a12e",
-        "title": "Newly restored bandstand to host Christmas celebration after devastating fire",
-        "link": "https://www.glasgowtimes.co.uk/news/26691502.rutherglen-overtoun-bandstand-host-christmas-celebration/",
-        "description": "Rutherglen\u2019s restored Overtoun Park bandstand is set to host a special Christmas celebration featuring live music, school performances and family fun.",
-        "published": "Mon, 02 Nov 2026 14:36:39 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21660288/?type=app&htype=105"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
