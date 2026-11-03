@@ -3085,6 +3085,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9327592",
+        "title": "Karen Dunbar cancels remaining tour dates after alleging she has been paid for only five of 40 dates",
+        "link": "https://www.glasgowworld.com/news/karen-dunbar-cancels-remaining-tour-dates-9327592",
+        "description": "<p>Comedian Karen Dunbar has cancelled her remaining tour dates after alleging she has been paid for only five of 40 scheduled performances.</p>",
+        "published": "Tue, 03 Nov 2026 14:21:45 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/01/12/14/42/p0mmjnxg.jpeg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "2142c363f1fb4a70ed1794233afc6b9f",
+        "title": "McGhee\u2019s Bakery named headline sponsor of 2027 Glasgow athletics event",
+        "link": "https://www.heraldscotland.com/news/26695141.mcghees-bakery-named-sponsor-2027-athletics-event/",
+        "description": "McGhee\u2019s Bakery named headline sponsor of the 2027 EAP Indoor International Glasgow at Glasgow International Arena on February 6; tickets from November 6.",
+        "published": "Tue, 03 Nov 2026 14:01:24 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20425630/?type=app&htype=0"
+      },
+      {
+        "id": "8fdf9e946b7c9a77cac8443a131b7c8c",
+        "title": "Ofcom says BBC has not shown how \u00a3500m cuts will affect audiences",
+        "link": "https://www.heraldscotland.com/news/26695097.ofcom-says-bbc-lacks-clear-picture-cost-cutting-impact/",
+        "description": "Ofcom says BBC has not shown how \u00a3500m cost cuts, job losses and planned channel closures by 2027 will affect services, content and audiences across the UK",
+        "published": "Tue, 03 Nov 2026 13:58:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/19531191/?type=app&htype=0"
+      },
+      {
+        "id": "cc0caec37e336ab09b9912e62ceaa431",
+        "title": "Number of residential drug rehab beds up by 8 per cent",
+        "link": "https://www.heraldscotland.com/news/26694967.number-residential-drug-rehab-beds-scotland-8-per-cent/",
+        "description": "More help is becoming available as Scotland\u2019s drug deaths crisis deepens",
+        "published": "Tue, 03 Nov 2026 13:28:20 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/7079126/?type=app&htype=0"
+      },
+      {
+        "id": "84d1114da21ca98e0d0fd6dabf6676ee",
+        "title": "Reservoir 52-hectare woodland restoration project earns conservationist applause",
+        "link": "https://www.heraldscotland.com/news/26694819.scottish-water-gets-nature30-recognition-glengavel-reservoir-woods/",
+        "description": "Scottish Water has secured its first Nature30 recognition for a large-scale woodland creation project in South Lanarkshire that is aimed at delivering long-term benefits for biodiversity and climate resilience.",
+        "published": "Tue, 03 Nov 2026 13:03:29 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21665023/?type=app&htype=0"
+      },
+      {
         "id": "9327388",
         "title": "'I remember packing in a hurry': The Ukrainian teen helping other displaced children settle in Coatbridge",
         "link": "https://www.glasgowworld.com/news/ukrainian-teen-maksym-vivchar-helps-younger-children-settle-in-coatbridge-9327388",
@@ -3843,30 +3883,6 @@
         "description": "<p>One Rangers star has been tipped as a possible January exit candidate.</p>",
         "published": "Mon, 02 Nov 2026 08:00:17 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/05/11/15/GettyImages-2296226631.jpg?width=1200&auto=webp&trim=14%2C0%2C14%2C0"
-      },
-      {
-        "id": "429f46515084c998b9ba77c562a8e005",
-        "title": "Ousted Skipinnish frontman in running for 'singer of the year' honour a year later",
-        "link": "https://www.heraldscotland.com/news/26686559.axed-skipinnish-frontman-running-singer-year-honour/",
-        "description": "Former Skipinnish singer Norrie MacIver is in the running for a major 'singer of the year' honour a year after being dropped from the trad band.",
-        "published": "Mon, 02 Nov 2026 08:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21155617/?type=app&htype=0"
-      },
-      {
-        "id": "018316060ceea8bc45e0d0ef48cda5d9",
-        "title": "Egypt requests return of 4,000-year-old priest\u2019s remains from Glasgow museum",
-        "link": "https://www.glasgowtimes.co.uk/news/26688642.egypt-requests-return-4-000-year-old-priest-glasgow/",
-        "description": "Egypt has asked for the return of a 4,000-year-old mummified priest after his remains were removed from display at Glasgow\u2019s Kelvingrove museum.",
-        "published": "Mon, 02 Nov 2026 07:56:12 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/11545956/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/paisley-nhs-staff-run-ragged-34846848",
-        "title": "Paisley NHS staff 'run ragged' as whistleblowers warn of winter 'timebomb'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/paisley-nhs-staff-run-ragged-34846848",
-        "description": "Internal documents suggest a financial black hole has left patient safety compromised.",
-        "published": "Mon, 2 Nov 2026 07:20:27 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34846845.ece/ALTERNATES/s98/0_nurse1.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
