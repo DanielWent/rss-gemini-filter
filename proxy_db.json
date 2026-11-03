@@ -3085,12 +3085,20 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
-        "id": "c8015d27f3d0a01bc545a4c564fcaecc",
-        "title": "Glasgow Council to discuss new flagship TV production with STV after River City loss",
-        "link": "https://www.glasgowtimes.co.uk/news/26694436.glasgow-council-seeks-new-tv-production-river-city/",
-        "description": "Questions over what Glasgow City Council is doing to attract a new \u201canchor production\u201d following the loss of River City has been raised by a local councillor.",
-        "published": "Tue, 03 Nov 2026 12:02:28 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21523715/?type=app&htype=0"
+        "id": "79e2f087ed80969253ae28449ad8a85b",
+        "title": "Glasgow council presses for powers to protect historic buildings from vape shops",
+        "link": "https://www.glasgowtimes.co.uk/news/26694686.glasgow-council-seeks-powers-protect-historic-buildings/",
+        "description": "Glasgow City Council will continue to press for greater regulatory powers in a bid to help protect the character and quality of historic buildings.",
+        "published": "Tue, 03 Nov 2026 12:41:16 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20090128/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c615j1dj5ylqo#0",
+        "title": "Glasgow's Citizens Theatre wins best in Britain award",
+        "link": "https://www.bbc.co.uk/news/articles/c615j1dj5ylqo?at_medium=RSS&at_campaign=rss",
+        "description": "Judges from the Great British Theatre Awards have named Glasgow's Citizen's Theatre as Britain's best",
+        "published": "Tue, 03 Nov 2026 12:29:08 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1a8/live/25a5ad00-d77b-11f1-9539-05485195b558.jpg"
       },
       {
         "id": "9326691",
@@ -3109,14 +3117,6 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/03/10/02/GettyImages-1242220832.jpeg?width=1200&auto=webp&trim=0%2C339%2C0%2C338"
       },
       {
-        "id": "950b1c1c861142c1ce806f9dd472ed61",
-        "title": "Teenager arrested after 'serious sexual assault' on busy Glasgow street",
-        "link": "https://www.glasgowtimes.co.uk/news/26694383.teen-arrested-serious-sexual-assault-glasgow/",
-        "description": "An 18-year-old man has been arrested after a serious sexual assault on Cathedral Street, Glasgow, on November 2. Police Scotland enquiries continue.",
-        "published": "Tue, 03 Nov 2026 11:55:05 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13376855/?type=app&htype=0"
-      },
-      {
         "id": "6c05a597c3d253a9aa9793e52a1667fd",
         "title": "New scheme aims to break down workplace barriers for autistic people",
         "link": "https://www.glasgowtimes.co.uk/news/26694360.new-college-lanarkshire-launches-autism-inclusion-courses/",
@@ -3133,12 +3133,28 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/03/11/03/c2fe2a60-4af1-4792-8e13-ca6d7e2ba185.jpeg?width=1200&auto=webp&trim=52%2C0%2C53%2C0"
       },
       {
-        "id": "66424b35191b1f0b3725bcb39a7ca5cd",
-        "title": "Glasgow Airport issues update on 'significant delays' amid M8 motorway roadworks",
-        "link": "https://www.glasgowtimes.co.uk/news/26694114.glasgow-airport-issues-update-amid-m8-motorway-roadworks/",
-        "description": "Passengers travelling to and from Glasgow Airport this month are being advised of extended weekend closures on the M8 motorway.",
-        "published": "Tue, 03 Nov 2026 11:21:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18326424/?type=app&htype=0"
+        "id": "87f8671a80cc93ea69c4dcbebd8eddf0",
+        "title": "Scotland records worst September A&E waits since SNP came to power",
+        "link": "https://www.heraldscotland.com/news/26694247.scotlands-e-crisis-deepens-worst-september-since-2007/",
+        "description": "Scotland has recorded its worst September A&amp;E performance since 2007, with just 64.1% of patients seen within four hours as pressure mounts on the NHS ahead of winter.",
+        "published": "Tue, 03 Nov 2026 11:35:37 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/16891310/?type=app&htype=0"
+      },
+      {
+        "id": "77ae4ec0eb5d59aa3869825208edf3b8",
+        "title": "Pedestrian, 75, dies after being struck by vehicle in Glasgow",
+        "link": "https://www.heraldscotland.com/news/26694167.man-dies-struck-vehicle-glasgow-road/",
+        "description": "A man has died after being struck by a vehicle in Glasgow. Around 2.15pm on Monday, November 2, police received a report of collision involving a male pedestrian and black Chevrolet Captiva on Shettleston Road.",
+        "published": "Tue, 03 Nov 2026 11:26:25 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/16301881/?type=app&htype=0"
+      },
+      {
+        "id": "12a8a62c7b61b57508254226b4d37672",
+        "title": "Glasgow Airport passengers warned of delays as M8 shuts for roadworks",
+        "link": "https://www.heraldscotland.com/news/26694116.glasgow-airport-passengers-warned-m8-weekend-closures/",
+        "description": "Passengers travelling to and from Glasgow Airport are being warned to allow extra time for their journeys due to extended weekend closures on the M8 motorway.",
+        "published": "Tue, 03 Nov 2026 11:21:09 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/19896819/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=536298",
@@ -3171,6 +3187,14 @@
         "description": "A new toolkit has been created to help Scotland\u2019s tenement owners work together to maintain and improve their buildings ahead of changes to tenement governance.",
         "published": "Tue, 03 Nov 2026 10:51:39 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/7666603/?type=app&htype=0"
+      },
+      {
+        "id": "7b99cc7223e7512c2628eb4eedbd0358",
+        "title": "Scottish Greens hit back as MSPs question law that allowed Q Manivannan to stand",
+        "link": "https://www.heraldscotland.com/news/26693876.msps-question-election-law-allowed-q-manivannan-stand/",
+        "description": "Scottish Greens defend Q Manivannan as MSPs call for a rethink of election laws allowing foreign nationals with limited leave to remain to stand.",
+        "published": "Tue, 03 Nov 2026 10:48:13 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20897179/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/rapist-who-hounded-janey-godley-34854355",
@@ -3227,14 +3251,6 @@
         "description": "His Majesty\u2019s Inspectorate of Prisons for Scotland (HMIPS) has published a report on a full inspection",
         "published": "Tue, 03 Nov 2026 08:44:46 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/7145722/?type=app&htype=0"
-      },
-      {
-        "id": "b5065f5c80434ec6eeda1200285233b4",
-        "title": "Man, 75, dies after being hit by car on Glasgow road",
-        "link": "https://www.glasgowtimes.co.uk/news/26693031.pedestrian-75-dies-struck-car-busy-glasgow-road/",
-        "description": "A 75-year-old man died after being hit by a black Chevrolet Captiva on Shettleston Road, Glasgow, on November 2. Police Scotland seeks witnesses.",
-        "published": "Tue, 03 Nov 2026 08:27:35 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21661066/?type=app&htype=0"
       },
       {
         "id": "9324617",
@@ -3387,14 +3403,6 @@
         "description": "Green sea turtle believed to be the first recorded live in Scottish waters rescued from a North Uist beach after cold stunning and given specialist care",
         "published": "Mon, 02 Nov 2026 20:58:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21662315/?type=app&htype=0"
-      },
-      {
-        "id": "4cb47613d1bd8b053eb9787c25a3a4dd",
-        "title": "Glasgow theatre named Great British Theatre 2026 after major redevelopment",
-        "link": "https://www.glasgowtimes.co.uk/news/26691325.glasgow-theatre-named-great-british-theatre-2026/",
-        "description": "A Glasgow theatre has been named Great British Theatre 2026.",
-        "published": "Mon, 02 Nov 2026 20:30:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21660064/?type=app&htype=0"
       },
       {
         "id": "9325623",
@@ -3875,14 +3883,6 @@
         "description": "Scotland\u2019s wellbeing score remains above the UK average at 63, but Carnegie UK warns of persistent inequality, low trust and poor job opportunities in 2026.",
         "published": "Mon, 02 Nov 2026 00:01:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/19359878/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo#0",
-        "title": "Are Celtic club in regression amid run of six defeats in 10?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cmvg7d1xl8epo?at_medium=RSS&at_campaign=rss",
-        "description": "Chris Sutton and Ian McCall weigh in on Celtic after a second league defeat of the season, but manager Martin O'Neill is defiant.",
-        "published": "Sun, 01 Nov 2026 17:34:12 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f85/live/92559140-d613-11f1-90fb-b3468681b3ba.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
