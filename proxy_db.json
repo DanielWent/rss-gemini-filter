@@ -3085,6 +3085,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "66424b35191b1f0b3725bcb39a7ca5cd",
+        "title": "Glasgow Airport issues update on 'significant delays' amid M8 motorway roadworks",
+        "link": "https://www.glasgowtimes.co.uk/news/26694114.glasgow-airport-issues-update-amid-m8-motorway-roadworks/",
+        "description": "Passengers travelling to and from Glasgow Airport this month are being advised of extended weekend closures on the M8 motorway.",
+        "published": "Tue, 03 Nov 2026 11:21:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18326424/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=536298",
+        "title": "Teen arrested after serious sexual assault near City of Glasgow College",
+        "link": "https://news.stv.tv/west-central/teen-arrested-after-serious-sexual-assault-near-city-of-glasgow-college",
+        "description": "The victim was assaulted on Cathedral Street on Monday night",
+        "published": "Tue, 03 Nov 2026 11:19:37 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/1a21238674b92cd1283e9d2eee7fa03c-1793704402-1120x720.jpeg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/rapist-who-hounded-janey-godley-34854355",
         "title": "Rapist who 'hounded Janey Godley' before death probed over threat to SNP MP",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/rapist-who-hounded-janey-godley-34854355",
@@ -3867,22 +3883,6 @@
         "description": "The former first minister, who now lives in London, has repeatedly denied any knowledge of her estranged husband's crimes.",
         "published": "Sun, 1 Nov 2026 13:43:28 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34846787.ece/ALTERNATES/s98/0_To-Nicola-Love-Peter.jpg"
-      },
-      {
-        "id": "c958c7a85dd1aeace948e205cb5259a0",
-        "title": "What does it cost to keep a golf course alive?",
-        "link": "https://www.heraldscotland.com/news/26685744.rising-costs-put-squeeze-scottish-golf-clubs/",
-        "description": "As running costs rise, Scottish golf clubs face tough choices over membership fees, fundraising and how to keep their courses going",
-        "published": "Sun, 01 Nov 2026 13:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21652785/?type=app&htype=0"
-      },
-      {
-        "id": "9320221",
-        "title": "Derek McInnes won't let Rangers squad coast into Hampden final as gauntlet laid down after gritty Aberdeen win",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/derek-mcinnes-rangers-squad-coast-into-hampden-final-gauntlet-laid-down-gritty-aberdeen-win-9320221",
-        "description": "<p>Rangers boss demands relentless drive in weeks ahead to ensure Hampden line-up is primed for silverware</p>",
-        "published": "Sun, 01 Nov 2026 12:00:29 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/31/21/54/21836254.jpeg?width=1200&auto=webp&trim=0%2C278%2C0%2C277"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
