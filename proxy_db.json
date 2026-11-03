@@ -3085,12 +3085,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "53d4806365b25980348fce9639f7aa47",
+        "title": "LIVE updates as sudden issue sees Glasgow trains cancelled",
+        "link": "https://www.glasgowtimes.co.uk/news/26695511.live-updates-hyndland-fault-sees-glasgow-trains-cancelled/",
+        "description": "A signalling fault has appeared at Hyndland Station, causing cancellations on multiple lines across Glasgow.",
+        "published": "Tue, 03 Nov 2026 15:01:36 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19077961/?type=app&htype=0"
+      },
+      {
+        "id": "596babf9b0fd077d00ccfaa033c05507",
+        "title": "Pinsent Masons appoints Glasgow lawyer Stacey Bairner to co-lead innovation strategy",
+        "link": "https://www.heraldscotland.com/news/26695409.glasgow-lawyer-takes-top-innovation-role-pinsent-masons/",
+        "description": "Glasgow-based Pinsent Masons partner Stacey Bairner has been appointed the firm's first co-head of innovation and transformation alongside Clare Francis.",
+        "published": "Tue, 03 Nov 2026 14:54:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21665853/?type=app&htype=0"
+      },
+      {
+        "id": "14ef1bcba221d5d0dfe3bc0140d3cd47",
+        "title": "Student flats plan kept alive as developer handed three-year extension near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26695443.hamilton-student-flats-plan-26-homes-gets-time/",
+        "description": "Plans to convert former student accommodation in Hamilton into 26 flats have been given a further three years to get underway.",
+        "published": "Tue, 03 Nov 2026 14:51:48 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21665908/?type=app&htype=0"
+      },
+      {
         "id": "a238e9e912eb46c294a169c6ca8da61a",
         "title": "Popular Australian band announce huge Glasgow show as they prepare for Hydro debut",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26695392.teskey-brothers-announce-hydro-debut-ocean-alley/",
         "description": "Australian soul band The Teskey Brothers will make their OVO Hydro debut in Glasgow on October 3, 2027, with Ocean Alley and Ticketmaster tickets.",
         "published": "Tue, 03 Nov 2026 14:43:03 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20834295/?type=app&htype=0"
+      },
+      {
+        "id": "58d5996ffccf1a7ffa48323d3fbebddd",
+        "title": "UK meat firms hit by cyber attacks as warnings issued over 'vulnerable technology'",
+        "link": "https://www.heraldscotland.com/news/26695177.uk-meat-processing-firms-hit-european-supermarket-freezer-hack/",
+        "description": "UK meat processors hit by cyber attacks after supermarket freezer hacks in Europe, as the NCSC says national impact is minimal and warns of AI threats",
+        "published": "Tue, 03 Nov 2026 14:43:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21116229/?type=app&htype=0"
       },
       {
         "id": "4b4f992eb4eacfd7bb61662faf9e6e17",
@@ -3107,6 +3139,14 @@
         "description": "<p>Comedian Karen Dunbar has cancelled her remaining tour dates after alleging she has been paid for only five of 40 scheduled performances.</p>",
         "published": "Tue, 03 Nov 2026 14:21:45 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/01/12/14/42/p0mmjnxg.jpeg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "53deb50f15072595ca5b7d1705cb5567",
+        "title": "Kemi Badenoch backs Sandie Peggie after \u2018disappointing\u2019 RCN tribunal defeat",
+        "link": "https://www.heraldscotland.com/news/26695249.kemi-badenoch-reacts-sandie-peggies-rcn-tribunal-defeat/",
+        "description": "Kemi Badenoch has backed Sandie Peggie after her tribunal defeat against the RCN, months after meeting the nurse in Edinburgh.",
+        "published": "Tue, 03 Nov 2026 14:21:08 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20294524/?type=app&htype=0"
       },
       {
         "id": "2142c363f1fb4a70ed1794233afc6b9f",
@@ -3139,14 +3179,6 @@
         "description": "An early-morning blaze linked to one of Glasgow's biggest Halloween attractions is now being treated as deliberate by police.",
         "published": "Tue, 03 Nov 2026 13:19:05 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21546440/?type=app&htype=0"
-      },
-      {
-        "id": "7d081e1f15f35c7ebc1f19db8d87af3b",
-        "title": "Chewin' The Fat star cancels entire tour amid ongoing dispute with promoter",
-        "link": "https://www.glasgowtimes.co.uk/news/26694908.karen-dunbar-cancels-tour-amid-ongoing-dispute-promoter/",
-        "description": "Glasgow comedian Karen Dunbar cancels tour shows after claiming she was paid for only five of 39 performances, with refunds available via the promoter.",
-        "published": "Tue, 03 Nov 2026 13:17:08 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20609633/?type=app&htype=0"
       },
       {
         "id": "84d1114da21ca98e0d0fd6dabf6676ee",
@@ -3851,38 +3883,6 @@
         "description": "A 19-year-old man was taken to hospital after a serious assault on Gordon Street, Glasgow, on November 1. Police Scotland enquiries continue.",
         "published": "Mon, 02 Nov 2026 10:04:12 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20654058/?type=app&htype=0"
-      },
-      {
-        "id": "02b5e437c6cbc0d1e48d9de7dd97f434",
-        "title": "Why the UK government must act to protect trusted local journalism",
-        "link": "https://www.glasgowtimes.co.uk/news/26689644.journalism-matters-campaign-calls-uk-government-support/",
-        "description": "Journalism Matters highlights Andy Burnham\u2019s call to protect independent and local news, fair digital markets, and journalism\u2019s role in democracy.",
-        "published": "Mon, 02 Nov 2026 10:03:38 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21644965/?type=app&htype=0"
-      },
-      {
-        "id": "d185202f6486a052ebdf1ff156c8837a",
-        "title": "Glasgow schools to strengthen action against racism, hate and discrimination",
-        "link": "https://www.glasgowtimes.co.uk/news/26689002.glasgow-councillor-calls-action-tackle-hate/",
-        "description": "A fresh call for action to tackle hate and discrimination across Glasgow has been issued by a councillor.",
-        "published": "Mon, 02 Nov 2026 09:49:35 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20687567/?type=app&htype=0"
-      },
-      {
-        "id": "9f8db1e8d545c2818d731be449a56739",
-        "title": "Popular Italian cafe announces new location near Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/26688911.popular-italian-cafe-casa-open-new-site-near-glasgow/",
-        "description": "Casa Italian Kitchen is opening a restaurant in East Dunbartonshire, bringing the family-run business to Bearsden.",
-        "published": "Mon, 02 Nov 2026 09:31:14 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21657822/?type=app&htype=0"
-      },
-      {
-        "id": "395b2cddef66ea915923a03f414846de",
-        "title": "Rod Stewart announces FINAL Glasgow date on farewell tour",
-        "link": "https://www.glasgowtimes.co.uk/news/26688902.rod-stewart-announces-final-glasgow-ovo-hydro-farewell-tour-date/",
-        "description": "Sir Rod Stewart has announced a final Glasgow date at the OVO Hydro as part of his farewell tour following huge demand for tickets.",
-        "published": "Mon, 02 Nov 2026 09:29:29 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21507707/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
