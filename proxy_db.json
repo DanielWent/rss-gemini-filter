@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1793727616411170",
+        "title": "Kerr's mile record up for World Athletics award",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cmy0rjzlkdreo?at_medium=RSS&at_campaign=rss",
+        "description": "Josh Kerr's mile world record and Sabastian Sawe breaking the two-hour barrier at the London Marathon are nominated for the moment of the year at the World Athletics Awards.",
+        "published": "Tue, 03 Nov 2026 18:17:21 +0100",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/704b/live/8d32d640-d7a9-11f1-a701-fddedf244c16.jpg"
+      },
+      {
         "id": "1793723117331345",
         "title": "Funeral takes place of 'talented and inspirational' Mageean",
         "link": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement.",
         "published": "Mon, 14 Sep 2026 18:54:16 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33f7/live/2a9699c0-b06e-11f1-b1d1-571ed4d7ff2c.jpg"
-      },
-      {
-        "id": "1789394729537340",
-        "title": "Two runners died during Great North Run",
-        "link": "https://www.bbc.co.uk/news/articles/crje8zz1kdldo?at_medium=RSS&at_campaign=rss",
-        "description": "The men, both aged 25, collapsed on the course on Sunday, the Great Run Company says.",
-        "published": "Mon, 14 Sep 2026 15:35:15 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba17/live/c0bc8530-b03d-11f1-9ae0-e316eeb4632d.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -3101,6 +3101,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cq70pgg0epypo#0",
+        "title": "Parents Group leader faces \u00a342,000 bill for failed legal action against council",
+        "link": "https://www.bbc.co.uk/news/articles/cq70pgg0epypo?at_medium=RSS&at_campaign=rss",
+        "description": "Leanne McGuire had called for a a judicial review of the council's budget over proposed cuts to teacher jobs.",
+        "published": "Tue, 03 Nov 2026 17:53:47 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f0f/live/d971b4d0-5a61-11ef-a56e-c5e93cba314a.jpg"
+      },
+      {
+        "id": "f75bc2edbd590428a1b28fdee0a36dcd",
+        "title": "Businesses create local alliance to rival town's BID and oppose its renewal",
+        "link": "https://www.glasgowtimes.co.uk/news/26696475.kirkintilloch-businesses-launch-alliance-rival-town-bid/",
+        "description": "Independent businesses in Kirkintilloch have launched a new alliance which plans to campaign against the renewal of the town's BID.",
+        "published": "Tue, 03 Nov 2026 17:32:10 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21667311/?type=app&htype=87"
+      },
+      {
+        "id": "78bf34b482db7bfeca81d0f77b99ae00",
+        "title": "Council to probe Renfrew flood defence after Storm Boelo damage and bridge closure",
+        "link": "https://www.heraldscotland.com/news/26696331.renfrew-flood-defence-review-launched-storm-boelo-damage/",
+        "description": "Renfrewshire Council to review SEPA flood warnings after Storm Boelo saw the River Clyde reach a record 4.49m, flooding 13 businesses and damaging Renfrew Bridge",
+        "published": "Tue, 03 Nov 2026 17:16:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20970228/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=536389",
         "title": "Citizens Theatre earns top honour at awards ceremony after \u00a330m refurbishment",
         "link": "https://news.stv.tv/west-central/citizens-theatre-earns-top-honour-at-awards-ceremony-after-30m-refurbishment",
@@ -3147,6 +3171,14 @@
         "description": "Police said that 20 officers will be based at ten fire stations across Glasgow, East Dunbartonshire and East Renfrewshire on Thursday",
         "published": "Tue, 03 Nov 2026 16:47:29 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/7407fafa749b1ca65492a796d5425400-1793716991-1280x720.jpeg"
+      },
+      {
+        "id": "e9ff41092bc3ae8b2a4c993b9b6cc779",
+        "title": "Karen Dunbar cancels tour after 'being paid for just five of 39 shows'",
+        "link": "https://www.heraldscotland.com/news/26696120.karen-dunbar-cancels-tour-amid-ongoing-dispute-promoter/",
+        "description": "Glasgow comedian Karen Dunbar cancels tour shows after claiming promoter paid her for only five of 39 performances; three dates go ahead",
+        "published": "Tue, 03 Nov 2026 16:31:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/16603820/?type=app&htype=0"
       },
       {
         "id": "b3c46785d7bd96c01b249bb0cf7d9d6d",
@@ -3867,30 +3899,6 @@
         "description": "Rutherglen\u2019s restored Overtoun Park bandstand is set to host a special Christmas celebration featuring live music, school performances and family fun.",
         "published": "Mon, 02 Nov 2026 14:36:39 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21660288/?type=app&htype=105"
-      },
-      {
-        "id": "9324861",
-        "title": "Glasgow man, 26, charged after \u00a39,200 worth of cocaine, cannabis and MDMA seized in police raid",
-        "link": "https://www.glasgowworld.com/news/crime/glasgow-man-charged-drugs-haul-9324861",
-        "description": "<p>The 26-year-old man is due to appear at Glasgow Sheriff Court on Tuesday, 3 November, after police recovered \u00a39,200 worth of cocaine, cannabis and MDMA in a raid on Ruby Street.</p>",
-        "published": "Mon, 02 Nov 2026 14:36:04 GMT",
-        "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOjFiYjc1YjQ3LTFkNzYtNDI2MS1hMmM4LTZmYmViZDcxN2Y3NDo3ODdkZjQzYS1iMDJiLTQ3YjYtOTUzNy1lMDRkZGQ0MmM0ZTM=.jpg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "b56395458278ce6858281656313a6d18",
-        "title": "Shetland pilot to test expansion of fish farming up to 12 nautical miles offshore",
-        "link": "https://www.heraldscotland.com/news/26691428.shetland-pilot-explores-fish-farming-offshore/",
-        "description": "Crown Estate Scotland launches a pilot to test finfish farming up to 12 nautical miles east of Shetland, supporting innovation and investment in Scotland.",
-        "published": "Mon, 02 Nov 2026 14:31:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21660160/?type=app&htype=0"
-      },
-      {
-        "id": "a81cadde3091939077beb19f4a385faa",
-        "title": "The Bonfire Night fireworks law that could land you a \u00a35000 fine",
-        "link": "https://www.glasgowtimes.co.uk/news/26691400.bonfire-night-firework-laws-fines-want-avoid/",
-        "description": "Bonfire Night fireworks law in Glasgow and Scotland: check sale, age and use times, \u00a35,000 fines and four Firework Control Zones from October 30.",
-        "published": "Mon, 02 Nov 2026 14:21:49 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21660151/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
