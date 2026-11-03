@@ -2194,6 +2194,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "28f8ab5eb0e167e5c3e4e55480e07ea0",
+        "title": "Provost urges families to join remembrance outside Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26696230.east-dunbartonshire-provost-urges-families-join-remembrance/",
+        "description": "Communities across East Dunbartonshire will gather for Remembrance Sunday, with services and wreath-laying events planned in 11 areas.",
+        "published": "Tue, 03 Nov 2026 16:48:33 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21666937/?type=app&htype=0"
+      },
+      {
         "id": "d9e08e128d4f3f5f50c13aefb9a766cd",
         "title": "\u2018Disgraceful\u2019 fly-tipping sees entire drum kit dumped near Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26695988.entire-drum-kit-dumped-east-dunbartonshire-fly-tipping/",
@@ -2984,14 +2992,6 @@
         "description": "John Swinney has announced plans for 40 walk-in GP clinics across Scotland despite criticism of the scheme.",
         "published": "Wed, 26 Aug 2026 14:11:21 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/18035814/?type=app&htype=0"
-      },
-      {
-        "id": "95f54fe8da126baa7130be78e0e35da9",
-        "title": "Primary school and nursery filled with 'wonder and curiosity' praised by inspectors",
-        "link": "https://www.glasgowtimes.co.uk/news/26491369.colquhoun-park-primary-bearsden-praised-hmie-inspection-report/",
-        "description": "Inspectors have praised the positive, nurturing ethos at Colquhoun Park Primary in Bearsden, highlighting strong pupil wellbeing, motivated learners and an impressive early years centre.",
-        "published": "Wed, 26 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21365507/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3101,12 +3101,60 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=536389",
+        "title": "Citizens Theatre earns top honour at awards ceremony after \u00a330m refurbishment",
+        "link": "https://news.stv.tv/west-central/citizens-theatre-earns-top-honour-at-awards-ceremony-after-30m-refurbishment",
+        "description": "The venue was named Great British Theatre 2026, with two other Scottish winners being honoured at the ceremony.",
+        "published": "Tue, 03 Nov 2026 16:55:33 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2025/08/bff7dc96ca80f35704fb2c55e32d9670-1755886618-1280x720.jpeg"
+      },
+      {
+        "id": "28f8ab5eb0e167e5c3e4e55480e07ea0",
+        "title": "Provost urges families to join remembrance outside Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26696230.east-dunbartonshire-provost-urges-families-join-remembrance/",
+        "description": "Communities across East Dunbartonshire will gather for Remembrance Sunday, with services and wreath-laying events planned in 11 areas.",
+        "published": "Tue, 03 Nov 2026 16:48:33 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21666937/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=536373",
+        "title": "Police officers to be based at fire stations in the west of Scotland ahead of Bonfire Night",
+        "link": "https://news.stv.tv/west-central/police-officers-to-be-based-at-fire-stations-in-the-west-of-scotland-ahead-of-bonfire-night",
+        "description": "Police said that 20 officers will be based at ten fire stations across Glasgow, East Dunbartonshire and East Renfrewshire on Thursday",
+        "published": "Tue, 03 Nov 2026 16:47:29 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/7407fafa749b1ca65492a796d5425400-1793716991-1280x720.jpeg"
+      },
+      {
+        "id": "b3c46785d7bd96c01b249bb0cf7d9d6d",
+        "title": "Child exploitation offender banned from contact with under-18s for years",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26696134.man-given-five-year-order-child-exploitation-offences/",
+        "description": "Gordon Shankland receives a five-year TEPO after child exploitation offences linked to organised retail crime and Operation Dynos in Glasgow.",
+        "published": "Tue, 03 Nov 2026 16:30:21 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17553090/?type=app&htype=0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=536386",
+        "title": "Former Rangers player Kyle Hutton accused of killing woman in road crash",
+        "link": "https://news.stv.tv/west-central/former-rangers-player-kyle-hutton-accused-of-killing-woman-in-road-crash",
+        "description": "Kyle Hutton is said to have been 'unfit to drive through alcohol or drugs' when he allegedly struck Victoria Cairns in Rutherglen",
+        "published": "Tue, 03 Nov 2026 16:28:43 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2024/11/cdc0f4c9d88647e3a1aa5da586decea0-1730986021.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-budget-gap-could-hit-34857712",
         "title": "Glasgow budget gap could hit \u00a3108m due to homelessness and new pay structure",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-budget-gap-could-hit-34857712",
         "description": "The local authority's budget shortfall for 2027/28 is currently expected to be between \u00a390m and \u00a3108m. A contribution to homelessness costs from the Scottish Government is expected.",
         "published": "Tue, 3 Nov 2026 16:24:56 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article32899655.ece/ALTERNATES/s98/0_City-Chambers.jpg"
+      },
+      {
+        "id": "cd51377f30948e235483c73f55649a3a",
+        "title": "Inside new \u00a328.7m leisure centre as work gets under way outside Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26696101.new-28-7m-larkhall-leisure-centre-work-begins/",
+        "description": "Work has started on Larkhall\u2019s new \u00a328.7m leisure centre, featuring a swimming pool, gym, sauna, steam rooms and sports hall.",
+        "published": "Tue, 03 Nov 2026 16:24:27 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21666814/?type=app&htype=0"
       },
       {
         "id": "0e86fac5f0af53a1d2c6d129724a31fc",
@@ -3125,12 +3173,28 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19112145/?type=app&htype=0"
       },
       {
+        "id": "5dec36f65ad68f8ca954f28bb3021968",
+        "title": "33 new affordable homes taking shape in Bellsmyre regeneration project",
+        "link": "https://www.heraldscotland.com/news/26695749.work-progresses-33-affordable-homes-bellsmyre/",
+        "description": "Construction begins on 33 affordable homes in Bellsmyre, West Dunbartonshire, as Caledonia Housing Association and CCG progress the major Phase 2 regeneration project.",
+        "published": "Tue, 03 Nov 2026 16:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21663394/?type=app&htype=0"
+      },
+      {
         "id": "261624d6e913fdc213ed3966aca10337",
         "title": "Glasgow Christmas Village to trigger three-day city centre road closure",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26695927.glasgow-city-centre-road-close-christmas-village/",
         "description": "A city centre road will close for three days to make way for a festive attraction.",
         "published": "Tue, 03 Nov 2026 15:59:52 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19045460/?type=app&htype=0"
+      },
+      {
+        "id": "4524acae8c16db35278d65a762adf4aa",
+        "title": "Scotland's youth Neet total has barely moved in ten years. So why the record high?",
+        "link": "https://www.heraldscotland.com/news/26695820.scotlands-new-neet-figures-really-tell-us/",
+        "description": "Scotland's youth participation rate has hit a record 93.6%, but analysis shows the improvement owes more to better data-tracking than to young people finding work. Nearly 8,730 Scots aged 16 to 19 remain without a job, education place or training.",
+        "published": "Tue, 03 Nov 2026 15:43:25 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21666369/?type=app&htype=0"
       },
       {
         "id": "f636539eac7b98fa5186d323e4d22059",
@@ -3147,6 +3211,14 @@
         "description": "A police investigation is under way after a prison officer's home and car were damaged in Glasgow.",
         "published": "Tue, 03 Nov 2026 15:29:29 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/13757694/?type=app&htype=0"
+      },
+      {
+        "id": "dad2eef7c6419aa5ad6d74760f4049f5",
+        "title": "Swinney rejects bereaved parents' calls for public inquiry into maternity deaths",
+        "link": "https://www.heraldscotland.com/news/26695628.john-swinney-rules-public-inquiry-maternity-deaths/",
+        "description": "John Swinney rules out a public inquiry into maternity deaths despite bereaved families demanding answers over hundreds of serious NHS incidents.",
+        "published": "Tue, 03 Nov 2026 15:16:44 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21603813/?type=app&htype=0"
       },
       {
         "id": "b21c3af28d575e6993996c48c2d442d5",
@@ -3171,6 +3243,14 @@
         "description": "Glasgow-based Pinsent Masons partner Stacey Bairner has been appointed the firm's first co-head of innovation and transformation alongside Clare Francis.",
         "published": "Tue, 03 Nov 2026 14:54:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21665853/?type=app&htype=0"
+      },
+      {
+        "id": "c4d2ebb2fd13c7d3b9a2a9a6c38d9a9a",
+        "title": "New research challenges narrative around Robert Burns and Jamaica",
+        "link": "https://www.heraldscotland.com/news/26695452.university-glasgow-study-reassesses-robert-burns-jamaica-link/",
+        "description": "A new University of Glasgow study provides the most detailed analysis to date of Robert Burns\u2019s connections with Jamaica and relationship to the Atlantic slavery system.",
+        "published": "Tue, 03 Nov 2026 14:53:04 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/9136292/?type=app&htype=0"
       },
       {
         "id": "14ef1bcba221d5d0dfe3bc0140d3cd47",
@@ -3819,86 +3899,6 @@
         "description": "Bonfire Night fireworks law in Glasgow and Scotland: check sale, age and use times, \u00a35,000 fines and four Firework Control Zones from October 30.",
         "published": "Mon, 02 Nov 2026 14:21:49 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21660151/?type=app&htype=0"
-      },
-      {
-        "id": "468ba912476e7551d3b271b3b58bfd34",
-        "title": "ScotRail draws up plan to make Sunday a contracted working day for drivers",
-        "link": "https://www.heraldscotland.com/news/26691371.scotrail-draws-sunday-working-proposals-drivers/",
-        "description": "ScotRail has drawn up a formal proposal to bring Sunday into drivers' contracted working week, Holyrood's Transport Committee has been told",
-        "published": "Mon, 02 Nov 2026 14:16:48 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/19077961/?type=app&htype=0"
-      },
-      {
-        "id": "8dce9216c0ba01384c619c37b94575a5",
-        "title": "Ministers urged to act after sea lice controls for Scottish salmon farms quashed",
-        "link": "https://www.heraldscotland.com/news/26691306.scottish-ministers-urged-act-sea-lice-rules-quashed/",
-        "description": "Campaigners urge Scottish ministers to act after sea lice licence rules for Scottish salmon farms were quashed, amid fears for endangered wild Atlantic salmon.",
-        "published": "Mon, 02 Nov 2026 14:11:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/20865316/?type=app&htype=0"
-      },
-      {
-        "id": "9570571d60f1e38ae6becc157413206f",
-        "title": "Former GSK chief medical officer joins Glasgow biopharma company board",
-        "link": "https://www.heraldscotland.com/news/26691232.former-gsk-chief-medical-officer-joins-enterobiotix-board/",
-        "description": "Former GSK chief medical officer Dr Murray Stewart joins Glasgow biopharma EnteroBiotix board as it advances EBX-102-02 in Phase 2b IBS-C RISE study.",
-        "published": "Mon, 02 Nov 2026 14:04:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21659967/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/former-glasgow-cop-who-raped-34850463",
-        "title": "Former Glasgow cop who raped woman and abused another jailed",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/former-glasgow-cop-who-raped-34850463",
-        "description": "Derek McNee, 42, left Police Scotland in 2016 to become a dog groomer, running a busy pet salon in Paisley.",
-        "published": "Mon, 2 Nov 2026 14:01:34 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34850672.ece/ALTERNATES/s98/0_JS252191662.jpg"
-      },
-      {
-        "id": "aa89c1da0ad1eedb8c0921f42e4288dc",
-        "title": "Heritage body raises concerns over fire-damaged restaurant demolition near Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/26691211.bothwell-san-vincenzo-demolition-plans-raise-heritage-concerns/",
-        "description": "Heritage concerns have been raised over plans to demolish the fire-damaged former San Vincenzo restaurant in Bothwell.",
-        "published": "Mon, 02 Nov 2026 13:48:31 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21659882/?type=app&htype=0"
-      },
-      {
-        "id": "8d049ea10aa68675c4eed9c29a3966c7",
-        "title": "BT completes \u00a3350m SWAN upgrade connecting more than 5000 Scottish public sites",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26691070.bt-completed-major-upgrade-scotlands-infrastructure/",
-        "description": "BT has completed a major upgrade to Scotland\u2019s public sector infrastructure.",
-        "published": "Mon, 02 Nov 2026 13:21:36 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21659717/?type=app&htype=0"
-      },
-      {
-        "id": "9324501",
-        "title": "Bonfire Night 2026: 9 firework displays near Glasgow to celebrate this year's Bonfire Night",
-        "link": "https://www.glasgowworld.com/whats-on/9-firework-displays-near-glasgow-to-celebrate-this-years-bonfire-night-9324501",
-        "description": "<p>Glasgow residents can still enjoy Bonfire Night celebrations with nine firework displays taking place in nearby towns and villages this week.</p>",
-        "published": "Mon, 02 Nov 2026 13:01:05 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/02/12/45/NPGZ-02-11-26-Fireworks.png?width=1200&auto=webp&trim=107%2C0%2C59%2C0"
-      },
-      {
-        "id": "d671e3ccfb03e270e669bc570b911fad",
-        "title": "Major stretch of Glasgow M8 to close this weekend for footbridge works",
-        "link": "https://www.glasgowtimes.co.uk/news/26690885.glasgow-m8-close-weekend-major-footbridge-works/",
-        "description": "Glasgow\u2019s M8 will close between Junctions 19 and 24 on November 7 to 8 and November 14 to 15 for footbridge works, with diversions and delays expected.",
-        "published": "Mon, 02 Nov 2026 12:44:10 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21462449/?type=app&htype=0"
-      },
-      {
-        "id": "7fd347469d76cda46a8264233fd88f72",
-        "title": "Royal Navy intercepts Russian spy ship off coast of Scotland",
-        "link": "https://www.heraldscotland.com/news/26690836.royal-navy-intercepts-russian-spy-ship-outer-hebrides/",
-        "description": "The Russian ship was closely monitoring NATO warships taking part in Exercise Strike Warrior, a major, Royal Navy-led multinational NATO military exercise which involved more than 2,000 personnel, eight warships, and 19 aircraft from six NATO nations.",
-        "published": "Mon, 02 Nov 2026 12:36:04 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21659462/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cq70pg4gzrk2o#0",
-        "title": "Barlinnie prison chaplain named next Church of Scotland moderator",
-        "link": "https://www.bbc.co.uk/news/articles/cq70pg4gzrk2o?at_medium=RSS&at_campaign=rss",
-        "description": "Rev Jill Clancy has spent the past nine years working in HMP Barlinnie.",
-        "published": "Mon, 02 Nov 2026 12:22:42 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c74b/live/60859610-d6b8-11f1-aacc-5b5f23abff4b.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
