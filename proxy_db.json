@@ -3101,6 +3101,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cr20w49x77e3o#0",
+        "title": "Council launch review after flood barriers not used during Storm Boelo",
+        "link": "https://www.bbc.co.uk/news/articles/cr20w49x77e3o?at_medium=RSS&at_campaign=rss",
+        "description": "A report to Renfrewshire Council confirmed forecasts before Storm Boelo 'significantly underestimated tidal levels on the R110iver Clyde'.",
+        "published": "Tue, 03 Nov 2026 19:16:47 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8124/live/e70c1ed0-d1d0-11f1-b441-2b33b063138f.png"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/grieving-glasgow-widow-says-scotlands-34858401",
         "title": "Grieving Glasgow widow says Scotland's new suicide statistics offers 'little comfort'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/grieving-glasgow-widow-says-scotlands-34858401",
@@ -3291,14 +3299,6 @@
         "description": "John Swinney rules out a public inquiry into maternity deaths despite bereaved families demanding answers over hundreds of serious NHS incidents.",
         "published": "Tue, 03 Nov 2026 15:16:44 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21603813/?type=app&htype=0"
-      },
-      {
-        "id": "b21c3af28d575e6993996c48c2d442d5",
-        "title": "New report shows 82 probable suicides recorded in Glasgow last year",
-        "link": "https://www.glasgowtimes.co.uk/news/26695612.suicide-records-show-82-probable-deaths-glasgow-2025/",
-        "description": "Scotland recorded 703 probable suicide deaths in 2025, including 82 in Glasgow, with rates 2.7 times the rate in the least deprived areas.",
-        "published": "Tue, 03 Nov 2026 15:14:45 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21666087/?type=app&htype=0"
       },
       {
         "id": "53d4806365b25980348fce9639f7aa47",
@@ -3709,14 +3709,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/20265582/?type=app&htype=0"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/crz987n14z0wo#0",
-        "title": "A thousand job applications, five interviews and still no job",
-        "link": "https://www.bbc.co.uk/news/articles/crz987n14z0wo?at_medium=RSS&at_campaign=rss",
-        "description": "Annual Scottish figures on young people not in education, employment or training are due later - one young woman shares her struggle.",
-        "published": "Mon, 02 Nov 2026 22:48:54 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b02b/live/2fac8d30-d6dd-11f1-b2be-0146bf989691.jpg"
-      },
-      {
         "id": "777414f38e142c01c8775a3ac1d71b97",
         "title": "Man found in same car as lamb during \u00a314,000 drugs bust avoids jail",
         "link": "https://www.heraldscotland.com/news/26692849.man-found-car-lamb-drugs-bust-avoids-jail/",
@@ -3739,14 +3731,6 @@
         "description": "<p>Defender believes Rangers can create even bigger Hampden celebrations by beating Hibs in next month\u2019s Premier Sports Cup final</p>",
         "published": "Mon, 02 Nov 2026 20:00:43 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/02/9/52/21836017.jpeg?width=1200&auto=webp&trim=0%2C89%2C0%2C89"
-      },
-      {
-        "id": "ccf4b6b779702223ac9ed8beed236cdb",
-        "title": "New Glasgow Airport coach service forced to change route after bridge closure",
-        "link": "https://www.glasgowtimes.co.uk/news/26692789.glasgow-airport-citylink-route-changes-renfrew-bridge-closure/",
-        "description": "Citylink has changed its 903 Glasgow Airport service due to the Renfrew Bridge closure, with Victoria Park, Scotstoun and Yoker no longer served.",
-        "published": "Mon, 02 Nov 2026 20:00:39 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21662268/?type=app&htype=0"
       },
       {
         "id": "9325124",
