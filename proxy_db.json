@@ -3085,6 +3085,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=536288",
+        "title": "Man attacked and robbed by masked gang at Dumbarton football pitch",
+        "link": "https://news.stv.tv/west-central/man-attacked-and-robbed-by-masked-gang-at-dumbarton-football-pitch",
+        "description": "The victim was attacked on Kyle Terrace in Dumbarton by three masked men on Monday",
+        "published": "Tue, 03 Nov 2026 09:59:48 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/7cdf9e2e6aa27ea3ba0d7a103ef82cff-1793698489.jpg"
+      },
+      {
         "id": "ae739f2db0cc4db672a103521412e960",
         "title": "LIVE update as major train route to and from Glasgow cancelled amid fault",
         "link": "https://www.glasgowtimes.co.uk/news/26693217.major-train-route-glasgow-cancelled-amid-fault/",
@@ -3299,14 +3307,6 @@
         "description": "Tom Allan was reported missing from Westmain Farm on Friday, October 23, after being last seen at around 8.15am",
         "published": "Mon, 02 Nov 2026 19:38:22 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/3d4b21936a716d5e5c72f5e94ff41b97-1793008913-1120x720.jpeg"
-      },
-      {
-        "id": "3cb15330d09c1689ffbc567b91465bf1",
-        "title": "Everything we know after crash sparks major emergency response on Shettleston Road",
-        "link": "https://www.glasgowtimes.co.uk/news/26692715.shettleston-road-closed-crash-services-attend/",
-        "description": "A major emergency response was launched after a crash forced the closure of a busy Glasgow road.",
-        "published": "Mon, 02 Nov 2026 18:28:32 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21661066/?type=app&htype=0"
       },
       {
         "id": "fcaf5f8e2c591138996418bf1f8b4cda",
