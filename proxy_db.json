@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo#1",
+        "title": "Scientists detect signals at the smallest scale ever explored",
+        "link": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss",
+        "description": "Researchers have detected signals from the smallest distances ever probed.",
+        "published": "Tue, 03 Nov 2026 06:01:23 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca0/live/1ab4cfb0-d2ef-11f1-b441-2b33b063138f.jpg"
+      },
+      {
         "id": "1793622940233521",
         "title": "Grit and glory - Mageean's career in pictures",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/cwly0xnr60zvo?at_medium=RSS&at_campaign=rss",
@@ -3092,6 +3100,38 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "6e567747683bdd5def39a90218ba2413",
+        "title": "Stark warning as firefighters gear up for Bonfire Night after weekend of disorder",
+        "link": "https://www.glasgowtimes.co.uk/news/26691719.stark-warning-glasgow-firefighters-gear-bonfire-night/",
+        "description": "A stark issue has been issued to those intent on causing disorder on Bonfire Night as crews prepare for the busiest night of the year",
+        "published": "Tue, 03 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21661592/?type=app&htype=0"
+      },
+      {
+        "id": "4c9f9938891319cc317b015ff638b50a",
+        "title": "Leaked government papers reveal NHS merger being rushed through without business case",
+        "link": "https://www.heraldscotland.com/news/26692730.scotland-nhs-merger-plan-no-business-case-papers-reveal/",
+        "description": "Internal Scottish Government papers reveal ministers approved a plan to merge 14 NHS boards into two mega-authorities before securing a business case, legal route, or cost estimate.",
+        "published": "Tue, 03 Nov 2026 05:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/8432472/?type=app&htype=0"
+      },
+      {
+        "id": "84bb27433cdbd5419e5da30eb0dac6be",
+        "title": "Scotland's unpaid carers miss vital NHS tests and surgery due to caring demands",
+        "link": "https://www.heraldscotland.com/news/26692621.unpaid-carers-scotland-forced-miss-vital-nhs-treatment/",
+        "description": "Scotland\u2019s unpaid carers are missing NHS tests, screenings and surgery due to a lack of replacement care, Carers Scotland\u2019s report finds.",
+        "published": "Tue, 03 Nov 2026 05:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20901509/?type=app&htype=0"
+      },
+      {
+        "id": "9b0e3784c729572fef282d4ce6bc319d",
+        "title": "Hundreds of aesthetics clinics could close as regulator struggles with new Botox law",
+        "link": "https://www.heraldscotland.com/news/26692158.scotland-botox-law-clinics-warning-closure-risk/",
+        "description": "Hundreds of women-led aesthetics clinics could close because the watchdog charged with approving them is not ready for the Scottish Government's crackdown on Botox and fillers, a union has warned.",
+        "published": "Tue, 03 Nov 2026 05:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/18080041/?type=app&htype=0"
+      },
       {
         "id": "6fc2f593f063dcf64fd64d6e1e889b23",
         "title": "Holyrood committee cannot confirm Scottish budget plans are affordable amid \u00a35bn gap",
