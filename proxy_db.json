@@ -3085,6 +3085,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9326982",
+        "title": "35-year-old Glasgow man jailed for five years and three months over firearms offences",
+        "link": "https://www.glasgowworld.com/news/glasgow-man-jason-britton-jailed-firearms-offences-9326982",
+        "description": "<p>Jason Britton, 35, was sentenced at the High Court in Glasgow on Tuesday, 3 November, after officers recovered a firearm and cash</p>",
+        "published": "Tue, 03 Nov 2026 11:36:54 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/03/11/03/c2fe2a60-4af1-4792-8e13-ca6d7e2ba185.jpeg?width=1200&auto=webp&trim=52%2C0%2C53%2C0"
+      },
+      {
         "id": "66424b35191b1f0b3725bcb39a7ca5cd",
         "title": "Glasgow Airport issues update on 'significant delays' amid M8 motorway roadworks",
         "link": "https://www.glasgowtimes.co.uk/news/26694114.glasgow-airport-issues-update-amid-m8-motorway-roadworks/",
@@ -3875,14 +3883,6 @@
         "description": "Tripadvisor removes Claire Kellerman\u2019s Blue Lobster Caf\u00e9 review as hate speech amid dog access dispute and \u00a310,000 legal action in the Western Isles, Scotland.",
         "published": "Sun, 01 Nov 2026 14:35:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21656696/?type=app&htype=0"
-      },
-      {
-        "id": "f31afe23c941bccceb1e6fd89d7b5ef9",
-        "title": "Review: Scottish Chamber Orchestra brings Barber, Schulhoff and Weill to vivid life",
-        "link": "https://www.heraldscotland.com/life_style/26688060.review-scottish-chamber-orchestra-bancroft-city-halls-glasgow/",
-        "description": "Review: Ryan Bancroft leads the Scottish Chamber Orchestra in Barber, Schulhoff and Weill, with violinist Clara-Jumi Kang shining in Barber\u2019s concerto.",
-        "published": "Sun, 01 Nov 2026 14:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21656610/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
