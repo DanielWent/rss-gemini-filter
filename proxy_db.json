@@ -2194,6 +2194,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "f636539eac7b98fa5186d323e4d22059",
+        "title": "Glasgow pharmacy plans major change allowing prescriptions to be collected 24/7",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26695811.plans-submitted-24-hour-prescription-machine-glasgow/",
+        "description": "Plans have been submitted to install a 24-hour prescription collection machine at a Glasgow pharmacy.",
+        "published": "Tue, 03 Nov 2026 15:41:45 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21666398/?type=app&htype=0"
+      },
+      {
         "id": "6b0e611fd5c380b85e59a3a220dff0e0",
         "title": "Hamilton man banned after driving four times the limit near hotel",
         "link": "https://www.glasgowtimes.co.uk/news/26690316.hamilton-man-banned-driving-four-times-limit-bearsden/",
@@ -3085,6 +3093,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "f636539eac7b98fa5186d323e4d22059",
+        "title": "Glasgow pharmacy plans major change allowing prescriptions to be collected 24/7",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26695811.plans-submitted-24-hour-prescription-machine-glasgow/",
+        "description": "Plans have been submitted to install a 24-hour prescription collection machine at a Glasgow pharmacy.",
+        "published": "Tue, 03 Nov 2026 15:41:45 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21666398/?type=app&htype=0"
+      },
+      {
+        "id": "405afd52390f70618ed1a3c42783e4c5",
+        "title": "Police launch probe after Glasgow prison officer's home and car targeted",
+        "link": "https://www.glasgowtimes.co.uk/news/26695723.police-investigate-damage-prison-officers-home-car/",
+        "description": "A police investigation is under way after a prison officer's home and car were damaged in Glasgow.",
+        "published": "Tue, 03 Nov 2026 15:29:29 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/13757694/?type=app&htype=0"
+      },
+      {
+        "id": "b21c3af28d575e6993996c48c2d442d5",
+        "title": "New report shows 82 probable suicides recorded in Glasgow last year",
+        "link": "https://www.glasgowtimes.co.uk/news/26695612.suicide-records-show-82-probable-deaths-glasgow-2025/",
+        "description": "Scotland recorded 703 probable suicide deaths in 2025, including 82 in Glasgow, with rates 2.7 times the rate in the least deprived areas.",
+        "published": "Tue, 03 Nov 2026 15:14:45 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21666087/?type=app&htype=0"
+      },
+      {
         "id": "53d4806365b25980348fce9639f7aa47",
         "title": "LIVE updates as sudden issue sees Glasgow trains cancelled",
         "link": "https://www.glasgowtimes.co.uk/news/26695511.live-updates-hyndland-fault-sees-glasgow-trains-cancelled/",
@@ -3859,30 +3891,6 @@
         "description": "A man was taken to hospital after a serious assault.",
         "published": "Mon, 02 Nov 2026 10:55:18 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/13757694/?type=app&htype=0"
-      },
-      {
-        "id": "1630c109f141ad58379d5422fe5c3c28",
-        "title": "Safety fears raised outside new school as council reviews crossing",
-        "link": "https://www.glasgowtimes.co.uk/news/26690006.road-safety-concerns-raised-new-school-near-glasgow/",
-        "description": "Road safety concerns have been raised around a new community hub and primary school.",
-        "published": "Mon, 02 Nov 2026 10:38:56 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21658323/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=536095",
-        "title": "Woman left with brain damage in murder bid caught on CCTV sues Police Scotland",
-        "link": "https://news.stv.tv/west-central/woman-left-with-brain-damage-in-murder-bid-caught-on-cctv-sues-police-scotland",
-        "description": "Michael Harvey's victim is suing Police Scotland after the attacker 'talked his way out of handcuffs' before leaving her with a brain injury",
-        "published": "Mon, 02 Nov 2026 10:24:36 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/7cde365fa390befa2050f8db716c3e53-1793613523.jpeg"
-      },
-      {
-        "id": "da8a3f06e1e706572750bcf14b9f3587",
-        "title": "Teenager rushed to hospital after serious assault in Glasgow city centre",
-        "link": "https://www.glasgowtimes.co.uk/news/26689796.man-19-hospital-serious-assault-glasgow-city-centre/",
-        "description": "A 19-year-old man was taken to hospital after a serious assault on Gordon Street, Glasgow, on November 1. Police Scotland enquiries continue.",
-        "published": "Mon, 02 Nov 2026 10:04:12 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20654058/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
