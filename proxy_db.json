@@ -3085,6 +3085,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/rapist-who-hounded-janey-godley-34854355",
+        "title": "Rapist who 'hounded Janey Godley' before death probed over threat to SNP MP",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/rapist-who-hounded-janey-godley-34854355",
+        "description": "Tory supporting Aaron Stewart was reported to parliamentary watchdogs after he tweeted about \u201cdisabling\u201d SNP MP Tommy Sheppard.",
+        "published": "Tue, 3 Nov 2026 10:38:12 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34854571.ece/ALTERNATES/s98/0_Screenshot-2026-11-03-102744.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/royal-mail-delivery-delays-glasgow-34854154",
+        "title": "Royal Mail delivery delays hit Glasgow postcodes \u2014 full list of areas",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/royal-mail-delivery-delays-glasgow-34854154",
+        "description": "The delivery firm has published a list of the areas most impacted by delays",
+        "published": "Tue, 3 Nov 2026 10:30:21 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34854150.ece/ALTERNATES/s98/0_Red-mailbox-and-Royal-Mail-van-UK.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/body-found-burnt-out-van-34854436",
+        "title": "Body found in burnt-out van as police investigate Renfrewshire village tragedy",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/body-found-burnt-out-van-34854436",
+        "description": "Their identity has not yet been confirmed.",
+        "published": "Tue, 3 Nov 2026 10:25:07 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34854507.ece/ALTERNATES/s98/0_Screenshot-2026-11-03-102153.png"
+      },
+      {
+        "id": "985e4c9546b0a9a674a8a5ed5f8da797",
+        "title": "\u2018Death by a thousand cuts\u2019 - Play centre owner\u2019s plea to make family days out cheaper",
+        "link": "https://www.glasgowtimes.co.uk/news/26693563.play-centre-near-glasgow-calls-vat-cut-help-families/",
+        "description": "A children\u2019s play centre has joined a growing campaign to make indoor play more affordable for families.",
+        "published": "Tue, 03 Nov 2026 10:11:28 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21663346/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=536288",
         "title": "Man attacked and robbed by masked gang at Dumbarton football pitch",
         "link": "https://news.stv.tv/west-central/man-attacked-and-robbed-by-masked-gang-at-dumbarton-football-pitch",
@@ -3851,30 +3883,6 @@
         "description": "<p>Rangers boss demands relentless drive in weeks ahead to ensure Hampden line-up is primed for silverware</p>",
         "published": "Sun, 01 Nov 2026 12:00:29 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/31/21/54/21836254.jpeg?width=1200&auto=webp&trim=0%2C278%2C0%2C277"
-      },
-      {
-        "id": "a1646e149f02153bf75a7d298b19ac15",
-        "title": "Veteran presenter slams BBC Radio Scotland output as listeners fall by 91,000",
-        "link": "https://www.heraldscotland.com/news/26687921.veteran-presenter-attacks-bbc-radio-scotland-output/",
-        "description": "Cameron McNeish attacks BBC Radio Scotland\u2019s programming amid schedule changes, as RAJAR figures show its weekly audience fell by 91,000 to 753,000 listeners.",
-        "published": "Sun, 01 Nov 2026 11:32:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21005494/?type=app&htype=0"
-      },
-      {
-        "id": "1074ed34f73c4cbfdd00c5ab07ed6806",
-        "title": "More pressure on John Swinney as Kate Forbes urges Government to back Rosebank",
-        "link": "https://www.heraldscotland.com/news/26687950.kate-forbes-urges-scottish-government-back-rosebank/",
-        "description": "Kate Forbes has broken publicly with John Swinney over Rosebank, calling approval 'the right decision'.",
-        "published": "Sun, 01 Nov 2026 11:13:25 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/20309551/?type=app&htype=0"
-      },
-      {
-        "id": "26857a9a612f289bd17a4c6ec566ebc0",
-        "title": "Loganair strike called off as cabin crew secure major pay rise",
-        "link": "https://www.glasgowtimes.co.uk/news/26687907.loganair-cabin-crew-strike-called-off-16-pay-deal/",
-        "description": "Loganair has announced that its cabin crew, represented by Unite Company Council, have voted to accept a two-year pay agreement.",
-        "published": "Sun, 01 Nov 2026 10:42:31 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21121445/?type=app&htype=225"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
