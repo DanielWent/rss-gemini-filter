@@ -3085,6 +3085,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "ae739f2db0cc4db672a103521412e960",
+        "title": "LIVE update as major train route to and from Glasgow cancelled amid fault",
+        "link": "https://www.glasgowtimes.co.uk/news/26693217.major-train-route-glasgow-cancelled-amid-fault/",
+        "description": "Trains between Glasgow and Alloa are currently disrupted due to faults on the line",
+        "published": "Tue, 03 Nov 2026 09:21:17 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21662779/?type=app&htype=0"
+      },
+      {
+        "id": "7f43d249f1833028341b07ef8f70e5de",
+        "title": "Scottish prison makes progress but could be more ambitious",
+        "link": "https://www.heraldscotland.com/news/26693069.shotts-prison-praised-progress-told-do-more/",
+        "description": "His Majesty\u2019s Inspectorate of Prisons for Scotland (HMIPS) has published a report on a full inspection",
+        "published": "Tue, 03 Nov 2026 08:44:46 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/7145722/?type=app&htype=0"
+      },
+      {
         "id": "b5065f5c80434ec6eeda1200285233b4",
         "title": "Man, 75, dies after being hit by car on Glasgow road",
         "link": "https://www.glasgowtimes.co.uk/news/26693031.pedestrian-75-dies-struck-car-busy-glasgow-road/",
