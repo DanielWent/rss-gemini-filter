@@ -3085,6 +3085,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "a238e9e912eb46c294a169c6ca8da61a",
+        "title": "Popular Australian band announce huge Glasgow show as they prepare for Hydro debut",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26695392.teskey-brothers-announce-hydro-debut-ocean-alley/",
+        "description": "Australian soul band The Teskey Brothers will make their OVO Hydro debut in Glasgow on October 3, 2027, with Ocean Alley and Ticketmaster tickets.",
+        "published": "Tue, 03 Nov 2026 14:43:03 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20834295/?type=app&htype=0"
+      },
+      {
+        "id": "4b4f992eb4eacfd7bb61662faf9e6e17",
+        "title": "Former Rangers star to stand trial accused of killing woman",
+        "link": "https://www.glasgowtimes.co.uk/sport/26695386.former-rangers-player-kyle-hutton-stand-trial-womans-death/",
+        "description": "Former Rangers player Kyle Hutton denies causing Victoria Cairns\u2019 death in a Rutherglen fatal road crash; trial at Glasgow High Court set for February 2028.",
+        "published": "Tue, 03 Nov 2026 14:42:45 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20578064/?type=app&htype=0"
+      },
+      {
         "id": "9327592",
         "title": "Karen Dunbar cancels remaining tour dates after alleging she has been paid for only five of 40 dates",
         "link": "https://www.glasgowworld.com/news/karen-dunbar-cancels-remaining-tour-dates-9327592",
@@ -3115,6 +3131,22 @@
         "description": "More help is becoming available as Scotland\u2019s drug deaths crisis deepens",
         "published": "Tue, 03 Nov 2026 13:28:20 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/7079126/?type=app&htype=0"
+      },
+      {
+        "id": "b7ebe2aa2d2cbee2cb3da69954b66d15",
+        "title": "Police launch probe after wilful fire at Glasgow's popular Halloween attraction",
+        "link": "https://www.glasgowtimes.co.uk/news/26694917.police-treat-glasgow-hgv-fire-linked-funfair-wilful/",
+        "description": "An early-morning blaze linked to one of Glasgow's biggest Halloween attractions is now being treated as deliberate by police.",
+        "published": "Tue, 03 Nov 2026 13:19:05 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21546440/?type=app&htype=0"
+      },
+      {
+        "id": "7d081e1f15f35c7ebc1f19db8d87af3b",
+        "title": "Chewin' The Fat star cancels entire tour amid ongoing dispute with promoter",
+        "link": "https://www.glasgowtimes.co.uk/news/26694908.karen-dunbar-cancels-tour-amid-ongoing-dispute-promoter/",
+        "description": "Glasgow comedian Karen Dunbar cancels tour shows after claiming she was paid for only five of 39 performances, with refunds available via the promoter.",
+        "published": "Tue, 03 Nov 2026 13:17:08 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20609633/?type=app&htype=0"
       },
       {
         "id": "84d1114da21ca98e0d0fd6dabf6676ee",
@@ -3851,38 +3883,6 @@
         "description": "Sir Rod Stewart has announced a final Glasgow date at the OVO Hydro as part of his farewell tour following huge demand for tickets.",
         "published": "Mon, 02 Nov 2026 09:29:29 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21507707/?type=app&htype=0"
-      },
-      {
-        "id": "6813935e8130fa0c8ab55a4432d8b0bf",
-        "title": "Shania Twain announces Glasgow date as part of major 2027 tour",
-        "link": "https://www.glasgowtimes.co.uk/news/26688831.shania-twain-headline-glasgow-summer-sessions-2027/",
-        "description": "Country pop superstar Shania Twain is set to headline Glasgow Summer Sessions next year.",
-        "published": "Mon, 02 Nov 2026 09:15:12 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21657707/?type=app&htype=0"
-      },
-      {
-        "id": "3759970c219c3e85f8a532ed713924ea",
-        "title": "Stars and creators of Outlander to get BAFTA Scotland's highest honour",
-        "link": "https://www.heraldscotland.com/news/26688511.bafta-scotland-honour-outlander-outstanding-contribution/",
-        "description": "The Scottish romantic series Outlander is to be honoured by BAFTA Scotland for making an 'outstanding contribution' to television.",
-        "published": "Mon, 02 Nov 2026 09:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/17073318/?type=app&htype=0"
-      },
-      {
-        "id": "573e1587d0171491a5196f8528cf31ad",
-        "title": "New weekly Greenock-Rotterdam shipping service to support whisky exports",
-        "link": "https://www.heraldscotland.com/news/26688752.greenock-rotterdam-shipping-service-support-whisky-exports/",
-        "description": "The first vessel operating on a new weekly shipping service from Greenock to Rotterdam has arrived in Scotland in a boost for the country\u2019s independent whisky industry.",
-        "published": "Mon, 02 Nov 2026 08:48:45 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21657613/?type=app&htype=0"
-      },
-      {
-        "id": "9323378",
-        "title": "Rangers ace set to leave in winter on one condition and enters 'frustration' stage of five-part transfer cycle",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-ace-set-to-leave-in-winter-one-condition-frustration-stage-transfer-cycle-9323378",
-        "description": "<p>One Rangers star has been tipped as a possible January exit candidate.</p>",
-        "published": "Mon, 02 Nov 2026 08:00:17 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/10/05/11/15/GettyImages-2296226631.jpg?width=1200&auto=webp&trim=14%2C0%2C14%2C0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
