@@ -3085,6 +3085,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "7024a94aa648d99c3182ee71e6d0b182",
+        "title": "Retirement timebomb as 1.6m Scots have no plan for life after work",
+        "link": "https://www.heraldscotland.com/news/26692183.scotland-pension-crisis---1-6m-scots-no-retirement-plan/",
+        "description": "More than 1.6m working-age Scots have no retirement plan, while 52% lack confidence in pension decisions, prompting warnings from Age Scotland.",
+        "published": "Tue, 03 Nov 2026 06:31:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21661437/?type=app&htype=0"
+      },
+      {
+        "id": "a4201ce0f253512d1cb9270c8fd35a13",
+        "title": "\u00a3500m economy hit sparks revolt over 4-year closure plan on Scotland\u2019s notorious road",
+        "link": "https://www.heraldscotland.com/news/26692372.a83-rest-thankful-500m-economy-hit-row-four-year-stoppage/",
+        "description": "A four-year convoy plan for one of Scotland\u2019s most notorious roads could cost the local economy \u00a3500million, campaigners have warned.",
+        "published": "Tue, 03 Nov 2026 06:31:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21483711/?type=app&htype=0"
+      },
+      {
         "id": "6e567747683bdd5def39a90218ba2413",
         "title": "Stark warning as firefighters gear up for Bonfire Night after weekend of disorder",
         "link": "https://www.glasgowtimes.co.uk/news/26691719.stark-warning-glasgow-firefighters-gear-bonfire-night/",
@@ -3123,6 +3139,22 @@
         "description": "The Scottish Police Federation has raised concerns about the growing misuse of e-bikes,",
         "published": "Tue, 03 Nov 2026 06:00:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20746675/?type=app&htype=0"
+      },
+      {
+        "id": "8ecec8012ec37bb4b07a86ec5a2e81ee",
+        "title": "Course closures raise questions about pipeline for 'vital real-world expertise'",
+        "link": "https://www.heraldscotland.com/news/26688592.staff-question-impact-outdoor-specialist-education-course-cuts/",
+        "description": "Closures to specialist and outdoor education have staff members questioning whether a university should be more concerned with public service.",
+        "published": "Tue, 03 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21657494/?type=app&htype=0"
+      },
+      {
+        "id": "83fa1085a960d2885d8c6f4ce2f6e8eb",
+        "title": "University leaders ignored 'oversight and regulation' to approve cuts, dossier claims",
+        "link": "https://www.heraldscotland.com/news/26691682.edinburgh-academics-accuse-managers-bypassing-oversight/",
+        "description": "A 24-page report accuses university leadership of preventing the institution\u2019s academic Senate from \u201cexercising its statutory powers of scrutiny, oversight, and regulation\u201d.",
+        "published": "Tue, 03 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/16267837/?type=app&htype=0"
       },
       {
         "id": "4c9f9938891319cc317b015ff638b50a",
