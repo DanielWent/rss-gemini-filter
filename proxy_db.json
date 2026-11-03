@@ -5,6 +5,22 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1793723117331345",
+        "title": "Funeral takes place of 'talented and inspirational' Mageean",
+        "link": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
+        "description": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer.",
+        "published": "Tue, 03 Nov 2026 18:07:28 +0100",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0120/live/ab031c10-d796-11f1-801d-cf196dc7232c.jpg"
+      },
+      {
+        "id": "1793724619724684",
+        "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
+        "link": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
+        "description": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer.",
+        "published": "Tue, 03 Nov 2026 17:20:59 +0100",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0120/live/ab031c10-d796-11f1-801d-cf196dc7232c.jpg"
+      },
+      {
         "id": "1793688617504104",
         "title": "AI data centres could undermine UK's emissions goals",
         "link": "https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o?at_medium=RSS&at_campaign=rss",
@@ -787,22 +803,6 @@
         "description": "The men, both aged 25, collapsed on the course on Sunday, the Great Run Company says.",
         "published": "Mon, 14 Sep 2026 15:35:15 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba17/live/c0bc8530-b03d-11f1-9ae0-e316eeb4632d.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/athletics/articles/cr2kw4p3yxy7o#8",
-        "title": "Brands v country - Kerr ramps up kit battle after latest victory",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/cr2kw4p3yxy7o?at_medium=RSS&at_campaign=rss",
-        "description": "Josh Kerr celebrated becoming Great Britain's first Ultimate Champion by making a clear point about funding in athletics - BBC Sport explains what the issue is.",
-        "published": "Mon, 14 Sep 2026 13:22:44 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c774/live/ea633370-b02e-11f1-a8a9-13be82d23441.jpg"
-      },
-      {
-        "id": "1789387517613853",
-        "title": "China criticises idea it is in 'malicious competition' over AI",
-        "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
-        "description": "It follows the Anthropic CEO 's calls for a slowdown in AI development, in a way that China doesn't pull ahead.",
-        "published": "Mon, 14 Sep 2026 13:31:39 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36f6/live/29acfbb0-b02f-11f1-a8a9-13be82d23441.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -3109,6 +3109,30 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2025/08/bff7dc96ca80f35704fb2c55e32d9670-1755886618-1280x720.jpeg"
       },
       {
+        "id": "b5b4a1fc0e7032aa441360b8041e9de7",
+        "title": "Glasgow Southside hot sauce and pickle festival to take place this weekend",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26696269.glasgow-festival-celebrates-hot-sauce-pickled-food/",
+        "description": "A festival celebrating hot sauce and pickled food is taking place in Glasgow's Southside this weekend.",
+        "published": "Tue, 03 Nov 2026 16:53:29 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21667032/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/water-vole-sanctuary-planned-easterhouse-34857667",
+        "title": "Water vole sanctuary planned for Easterhouse as \u00a345k land deal set for approval",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/water-vole-sanctuary-planned-easterhouse-34857667",
+        "description": "Glasgow City Council is expected to buy land from Wheatley Homes to provide a sanctuary.",
+        "published": "Tue, 3 Nov 2026 16:52:23 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article21277170.ece/ALTERNATES/s98/1_Water-voles-released-into-wild.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/teenager-arrested-after-serious-sexual-34857740",
+        "title": "Teenager arrested after 'serious sexual assault' on Glasgow city centre street",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/teenager-arrested-after-serious-sexual-34857740",
+        "description": "Police Scotland say enquiries remain ongoing.",
+        "published": "Tue, 3 Nov 2026 16:49:11 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34857858.ece/ALTERNATES/s98/0_Screenshot-2026-11-03-163414.png"
+      },
+      {
         "id": "28f8ab5eb0e167e5c3e4e55480e07ea0",
         "title": "Provost urges families to join remembrance outside Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26696230.east-dunbartonshire-provost-urges-families-join-remembrance/",
@@ -3187,6 +3211,14 @@
         "description": "A city centre road will close for three days to make way for a festive attraction.",
         "published": "Tue, 03 Nov 2026 15:59:52 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19045460/?type=app&htype=0"
+      },
+      {
+        "id": "5f7ebb085de10aef0cf6e0eb52e1c056",
+        "title": "Marie Curie palliative care service to be cut amid Glasgow-wide cost cutting effort",
+        "link": "https://www.glasgowtimes.co.uk/news/26695894.glasgow-marie-curie-palliative-care-service-cut/",
+        "description": "Glasgow\u2019s Marie Curie Fast Track palliative care service will be decommissioned from February 1, 2027, under HSCP cost cuts, with other support continuing.",
+        "published": "Tue, 03 Nov 2026 15:55:12 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17968761/?type=app&htype=0"
       },
       {
         "id": "4524acae8c16db35278d65a762adf4aa",
@@ -3275,22 +3307,6 @@
         "description": "UK meat processors hit by cyber attacks after supermarket freezer hacks in Europe, as the NCSC says national impact is minimal and warns of AI threats",
         "published": "Tue, 03 Nov 2026 14:43:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21116229/?type=app&htype=0"
-      },
-      {
-        "id": "4b4f992eb4eacfd7bb61662faf9e6e17",
-        "title": "Former Rangers star to stand trial accused of killing woman",
-        "link": "https://www.glasgowtimes.co.uk/sport/26695386.former-rangers-player-kyle-hutton-stand-trial-womans-death/",
-        "description": "Former Rangers player Kyle Hutton denies causing Victoria Cairns\u2019 death in a Rutherglen fatal road crash; trial at Glasgow High Court set for February 2028.",
-        "published": "Tue, 03 Nov 2026 14:42:45 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20578064/?type=app&htype=0"
-      },
-      {
-        "id": "9327592",
-        "title": "Karen Dunbar cancels remaining tour dates after alleging she has been paid for only five of 40 dates",
-        "link": "https://www.glasgowworld.com/news/karen-dunbar-cancels-remaining-tour-dates-9327592",
-        "description": "<p>Comedian Karen Dunbar has cancelled her remaining tour dates after alleging she has been paid for only five of 40 scheduled performances.</p>",
-        "published": "Tue, 03 Nov 2026 14:21:45 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/01/12/14/42/p0mmjnxg.jpeg?width=1200&auto=webp&crop=3%3A2"
       },
       {
         "id": "53deb50f15072595ca5b7d1705cb5567",
@@ -3389,14 +3405,6 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21664944/?type=app&htype=0"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/c615j1dj5ylqo#0",
-        "title": "Glasgow's Citizens Theatre wins best in Britain award",
-        "link": "https://www.bbc.co.uk/news/articles/c615j1dj5ylqo?at_medium=RSS&at_campaign=rss",
-        "description": "Judges from the Great British Theatre Awards have named Glasgow's Citizen's Theatre as Britain's best",
-        "published": "Tue, 03 Nov 2026 12:29:08 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1a8/live/25a5ad00-d77b-11f1-9539-05485195b558.jpg"
-      },
-      {
         "id": "85731a9dc3b2a7b7f2bd968766f75928",
         "title": "Claims east of Scotland has half the police cover of the rest of country",
         "link": "https://www.heraldscotland.com/news/26694530.call-review-police-cover-east-scotland/",
@@ -3445,28 +3453,12 @@
         "image_url": "https://www.heraldscotland.com/resources/images/16891310/?type=app&htype=0"
       },
       {
-        "id": "77ae4ec0eb5d59aa3869825208edf3b8",
-        "title": "Pedestrian, 75, dies after being struck by vehicle in Glasgow",
-        "link": "https://www.heraldscotland.com/news/26694167.man-dies-struck-vehicle-glasgow-road/",
-        "description": "A man has died after being struck by a vehicle in Glasgow. Around 2.15pm on Monday, November 2, police received a report of collision involving a male pedestrian and black Chevrolet Captiva on Shettleston Road.",
-        "published": "Tue, 03 Nov 2026 11:26:25 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/16301881/?type=app&htype=0"
-      },
-      {
         "id": "12a8a62c7b61b57508254226b4d37672",
         "title": "Glasgow Airport passengers warned of delays as M8 shuts for roadworks",
         "link": "https://www.heraldscotland.com/news/26694116.glasgow-airport-passengers-warned-m8-weekend-closures/",
         "description": "Passengers travelling to and from Glasgow Airport are being warned to allow extra time for their journeys due to extended weekend closures on the M8 motorway.",
         "published": "Tue, 03 Nov 2026 11:21:09 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/19896819/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=536298",
-        "title": "Teen arrested after serious sexual assault near City of Glasgow College",
-        "link": "https://news.stv.tv/west-central/teen-arrested-after-serious-sexual-assault-near-city-of-glasgow-college",
-        "description": "The victim was assaulted on Cathedral Street on Monday night",
-        "published": "Tue, 03 Nov 2026 11:19:37 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/1a21238674b92cd1283e9d2eee7fa03c-1793704402-1120x720.jpeg"
       },
       {
         "id": "5728d441cdf9c800e4649cead2c5a281",
