@@ -2194,6 +2194,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "84122b8bc2ebdebb91f6cbc909e7ed25",
+        "title": "Police raid Glasgow address after year-long investigation into string of offences",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26699705.man-charged-alleged-theft-fraud-across-glasgow-area/",
+        "description": "A 40-year-old man has been arrested and charged following a string of alleged theft and fraud offences across the west of Glasgow and parts of East Dunbartonshire.",
+        "published": "Wed, 04 Nov 2026 15:54:30 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21671362/?type=app&htype=0"
+      },
+      {
         "id": "cc8fad3efc7ec101f231b93894265467",
         "title": "East Dunbartonshire businesses offered new grants of up to \u00a35000",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26698166.east-dunbartonshire-offers-digital-green-grants-smes/",
@@ -2984,14 +2992,6 @@
         "description": "A quiet residential street in Glasgow has been turned into a \u201crat run\u201d as drivers try to avoid heavy traffic in the area, frustrated residents have claimed.",
         "published": "Fri, 28 Aug 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21381651/?type=app&htype=0"
-      },
-      {
-        "id": "3c60d7ae662cc964db701fe179efa547",
-        "title": "Beloved 'Glasgow canal cat' Ziggy honoured with shrine at favourite bench",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26499218.memorial-appears-glasgow-canal-cat-ziggy-death/",
-        "description": "Flowers, photographs and messages have been left beside the Forth and Clyde Canal in memory of Glasgow Canal Cat Ziggy.",
-        "published": "Thu, 27 Aug 2026 07:17:29 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21357685/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3108,6 +3108,22 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "84122b8bc2ebdebb91f6cbc909e7ed25",
+        "title": "Police raid Glasgow address after year-long investigation into string of offences",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26699705.man-charged-alleged-theft-fraud-across-glasgow-area/",
+        "description": "A 40-year-old man has been arrested and charged following a string of alleged theft and fraud offences across the west of Glasgow and parts of East Dunbartonshire.",
+        "published": "Wed, 04 Nov 2026 15:54:30 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21671362/?type=app&htype=0"
+      },
+      {
+        "id": "62188004a53dd0a77f17dac19774e816",
+        "title": "Road closed at busy Glasgow retail park near Costco as drivers warned of disruption",
+        "link": "https://www.glasgowtimes.co.uk/news/26699633.st-rollox-brae-closure-forces-retail-park-diversion/",
+        "description": "A key road has been shut, with delays expected for drivers and shoppers in the north of Glasgow.",
+        "published": "Wed, 04 Nov 2026 15:43:17 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17882119/?type=app&htype=0"
+      },
       {
         "id": "0bd9d179b851d32ffcbd2193d56ab927",
         "title": "Glasgow drivers face five days of delays as major junction works get underway",
