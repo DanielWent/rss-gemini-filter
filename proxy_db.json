@@ -3109,6 +3109,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=536538",
+        "title": "Care worker spat at Celtic fans and threw vape during Old Firm disorder",
+        "link": "https://news.stv.tv/west-central/care-worker-spat-at-celtic-fans-and-threw-vape-during-old-firm-disorder",
+        "description": "Lisa Gibson is the first woman to appear in court over disorder following the match on March 8, 2026",
+        "published": "Wed, 04 Nov 2026 13:05:50 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/03/83900d141eb9e46fed23de82ad9d423f-1772990960-1280x720.jpeg"
+      },
+      {
+        "id": "5b81e51e4adc07937219f25c8a707ef6",
+        "title": "Vacant Glasgow site to be transformed as plans for 33 new homes approved",
+        "link": "https://www.glasgowtimes.co.uk/news/26698492.vacant-glasgow-lot-transformed-33-new-homes/",
+        "description": "Planning approved for 33 energy-efficient homes on vacant Allander Street site in Possilpark, North Glasgow, with work due to begin in spring 2027.",
+        "published": "Wed, 04 Nov 2026 12:44:58 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21669775/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/traitors-fans-can-hire-private-34861484",
         "title": "The Traitors fans can hire private Scots hostel to act out show - with Claudia wig thrown in",
         "link": "https://www.glasgowlive.co.uk/whats-on/traitors-fans-can-hire-private-34861484",
@@ -3187,6 +3203,14 @@
         "description": "A North East England-founded accommodation business has made its first move into Scotland with the opening of a new design-led student property in the heart of Glasgow.",
         "published": "Wed, 04 Nov 2026 11:40:04 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21669292/?type=app&htype=0"
+      },
+      {
+        "id": "fe7c2e850e7fb3f599537e172cc1d7e5",
+        "title": "Glasgow Southside residents report Royal Mail delays of up to five weeks",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26698017.glasgow-residents-report-royal-mail-delays-five-weeks/",
+        "description": "Residents living in Glasgow's Southside have reported issues receiving their Royal Mail deliveries, with some reporting delays of four to five weeks.",
+        "published": "Wed, 04 Nov 2026 11:31:08 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17905470/?type=app&htype=0"
       },
       {
         "id": "81fbbb63417a9a931a1af659debebbae",
@@ -3883,30 +3907,6 @@
         "description": "The victim was attacked on Kyle Terrace in Dumbarton by three masked men on Monday",
         "published": "Tue, 03 Nov 2026 09:59:48 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/7cdf9e2e6aa27ea3ba0d7a103ef82cff-1793698489.jpg"
-      },
-      {
-        "id": "ae739f2db0cc4db672a103521412e960",
-        "title": "LIVE update as major train route to and from Glasgow cancelled amid fault",
-        "link": "https://www.glasgowtimes.co.uk/news/26693217.major-train-route-glasgow-cancelled-amid-fault/",
-        "description": "Trains between Glasgow and Alloa are currently disrupted due to faults on the line",
-        "published": "Tue, 03 Nov 2026 09:21:17 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21662779/?type=app&htype=0"
-      },
-      {
-        "id": "7f43d249f1833028341b07ef8f70e5de",
-        "title": "Scottish prison makes progress but could be more ambitious",
-        "link": "https://www.heraldscotland.com/news/26693069.shotts-prison-praised-progress-told-do-more/",
-        "description": "His Majesty\u2019s Inspectorate of Prisons for Scotland (HMIPS) has published a report on a full inspection",
-        "published": "Tue, 03 Nov 2026 08:44:46 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/7145722/?type=app&htype=0"
-      },
-      {
-        "id": "9324617",
-        "title": "The Celtic cast-off who delivered a masterclass in cruel footballing irony during historic Falkirk victory",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/the-celtic-cast-off-who-delivered-a-masterclass-in-cruel-footballing-irony-during-historic-falkirk-victory-9324617",
-        "description": "<p>Goalkeeper locks the door on former club as Celtic walk into a trap of their own making</p>",
-        "published": "Tue, 03 Nov 2026 08:00:19 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/04/15/13/39/21654896.jpg?width=1200&auto=webp&crop=3%3A2"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
