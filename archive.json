@@ -1,14 +1,5 @@
 {
   "strict": {
-    "1788600015899945": 1788600328.423581,
-    "https://www.bbc.co.uk/sport/football/articles/cwyzn1v34ddo?at_medium=RSS&at_campaign=rss": 1788600328.423581,
-    "Eyes on big prize as Swansea and Wrexham collide": 1788600328.423581,
-    "1788600015899949": 1788600328.423581,
-    "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss": 1788600328.423581,
-    "Trump signs order to remove endangered species protection for grey wolves": 1788600328.423581,
-    "1788600015899939": 1788600328.423581,
-    "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss": 1788600328.423581,
-    "Nepal rescuers try to reach dozens trapped in tunnel after two found alive": 1788600328.423581,
     "1788603017333118": 1788603934.0068736,
     "https://www.bbc.co.uk/sport/tennis/articles/cy4zvjk74ppo?at_medium=RSS&at_campaign=rss": 1788603934.0068736,
     "No Brits left in US Open singles - but are there reasons to be positive?": 1788603934.0068736,
@@ -14813,7 +14804,16 @@
     "Recovering Murray hopes to earn Dundee deal - gossip": 1793782540.5932143,
     "1793781625569953": 1793782540.5932143,
     "https://www.bbc.co.uk/sport/boxing/articles/c63el27nxnn8o?at_medium=RSS&at_campaign=rss": 1793782540.5932143,
-    "Hutchinson finding happiness after emotional turmoil": 1793782540.5932143
+    "Hutchinson finding happiness after emotional turmoil": 1793782540.5932143,
+    "1793783119776607": 1793784342.3499227,
+    "https://www.bbc.co.uk/sport/football/articles/cwp8g7gjy6mro?at_medium=RSS&at_campaign=rss": 1793784342.3499227,
+    "From Derby to Champions League - Brown's journey to face Reds": 1793784342.3499227,
+    "1793783119776606": 1793784342.3499227,
+    "https://www.bbc.co.uk/sport/articles/crly0jn058z1o?at_medium=RSS&at_campaign=rss": 1793784342.3499227,
+    "Paul will 'hang up gloves' if he loses to Doumbe": 1793784342.3499227,
+    "1793783119776605": 1793784342.3499227,
+    "https://www.bbc.co.uk/news/articles/cm62yk7l54kxo?at_medium=RSS&at_campaign=rss": 1793784342.3499227,
+    "Nurse Sandie Peggie to appeal after losing discrimination case against union": 1793784342.3499227
   },
   "lenient": {
     "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo#2": 1788602136.634831,
@@ -22742,7 +22742,10 @@
     "Canva announces major job cuts after 'our hardest year yet'": 1793782540.5932143,
     "https://www.bbc.co.uk/news/articles/cmq8n9y8ex55o#5": 1793782540.5932143,
     "https://www.bbc.co.uk/news/articles/cmq8n9y8ex55o?at_medium=RSS&at_campaign=rss": 1793782540.5932143,
-    "Runner walks final London Marathon mile six months on after cardiac arrest": 1793782540.5932143
+    "Runner walks final London Marathon mile six months on after cardiac arrest": 1793782540.5932143,
+    "https://www.bbc.co.uk/news/articles/c6073l9y15xxo#1": 1793784342.3499227,
+    "https://www.bbc.co.uk/news/articles/c6073l9y15xxo?at_medium=RSS&at_campaign=rss": 1793784342.3499227,
+    "Trump takes aim at Republicans but says Democrats did a 'good job'": 1793784342.3499227
   },
   "google": {
     "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/": 1789057535.0835385,
@@ -23787,9 +23790,6 @@
     "Rachel Apa, 24, Dies After Collapsing in Central Park Two Miles From 2026 NYC Marathon Finish": 1793706939.3606517
   },
   "glasgow_times": {
-    "f22c333c5eb86c59fa4559a3ac8c2821": 1788600328.423581,
-    "https://www.glasgowtimes.co.uk/news/national/uk-today/26524701.joe-lycett-admits-breaking-bbc-celebrity-traitors-rule/": 1788600328.423581,
-    "Celebrity Traitors star admits breaking BBC rules after signing up for series 2": 1788600328.423581,
     "4cfbec4b0d9e9a5484d2f093cdd79c76": 1788602136.634831,
     "https://www.glasgowtimes.co.uk/news/26524758.glasgow-city-council-called-act-historic-injustice/": 1788602136.634831,
     "Glasgow band launch campaign for officials to act on centuries old injustice": 1788602136.634831,
@@ -29740,11 +29740,6 @@
     "Glasgow Santa Dash 2026 Returns With Festive 5K For Beatson Cancer Charity": 1793780744.907006
   },
   "newsletter_candidates": {
-    "f22c333c5eb86c59fa4559a3ac8c2821": 1788600328.423581,
-    "https://www.glasgowtimes.co.uk/news/national/uk-today/26524701.joe-lycett-admits-breaking-bbc-celebrity-traitors-rule/": 1788600328.423581,
-    "Celebrity Traitors star admits breaking BBC rules after signing up for series 2": 1788600328.423581,
-    "https://www.glasgowlive.co.uk/news/tv/powerful-glasgow-drama-tear-jerking-34554083": 1788600328.423581,
-    "'Powerful' Glasgow drama with tear-jerking plot 'will leave you feeling uneasy'": 1788600328.423581,
     "4cfbec4b0d9e9a5484d2f093cdd79c76": 1788602136.634831,
     "https://www.glasgowtimes.co.uk/news/26524758.glasgow-city-council-called-act-historic-injustice/": 1788602136.634831,
     "Glasgow band launch campaign for officials to act on centuries old injustice": 1788602136.634831,
