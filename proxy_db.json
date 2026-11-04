@@ -3109,6 +3109,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cj93zv4dv9rro#0",
+        "title": "Police to escort fire crews in latest crackdown on Bonfire Night disorder",
+        "link": "https://www.bbc.co.uk/news/articles/cj93zv4dv9rro?at_medium=RSS&at_campaign=rss",
+        "description": "As many as 1,700 officers could be deployed in the biggest Police Scotland operation since last year's visit by President Trump.",
+        "published": "Wed, 04 Nov 2026 22:53:26 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cf9/live/b4ad07b0-d883-11f1-a364-a1fce50dd192.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cmz65z3w9v0zo#0",
+        "title": "Islanders fight for return of late night ferry sailing",
+        "link": "https://www.bbc.co.uk/news/articles/cmz65z3w9v0zo?at_medium=RSS&at_campaign=rss",
+        "description": "They told BBC Scotland News that Argyll and Bute Council removed its 21:30 service from Islay without warning.",
+        "published": "Wed, 04 Nov 2026 22:50:34 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e955/live/2a957c10-d8a1-11f1-b209-6de3e7b08491.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=536661",
         "title": "Dozens of police officers lock down Glasgow city centre street",
         "link": "https://news.stv.tv/west-central/dozens-of-police-officers-lock-down-glasgow-city-centre-street",
