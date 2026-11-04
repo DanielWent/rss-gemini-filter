@@ -3109,12 +3109,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "81375518ea381f6b610adb8b5708a064",
+        "title": "Hydro issues travel warning as Glasgow M8 closures threaten weekend disruption",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26700095.m8-closures-threaten-major-disruption-hydro-events/",
+        "description": "M8 closures in Glasgow on November 7-8 and November 14-15 could cause travel disruption near the OVO Hydro and SEC, with delays expected.",
+        "published": "Wed, 04 Nov 2026 16:55:50 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17187289/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-searching-erratic-land-rover-34863663",
         "title": "Police searching for 'erratic' Land Rover driver after Rutherglen hit-and-run",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-searching-erratic-land-rover-34863663",
         "description": "Enquiries are ongoing to trace the driver responsible.",
         "published": "Wed, 4 Nov 2026 16:40:43 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34863746.ece/ALTERNATES/s98/0_Screenshot-2026-11-04-162818.png"
+      },
+      {
+        "id": "2fea50a1bb301f4520d2539832cff7ef",
+        "title": "Why is everyone at Holyrood talking about the SNP's David Linden?",
+        "link": "https://www.heraldscotland.com/news/26699711.everyone-holyrood-talking-david-linden/",
+        "description": "Before I incur the wrath of David Linden I should make clear that the new SNP MSP for Baillieston and Shettleston is being spoken about in a positive way.",
+        "published": "Wed, 04 Nov 2026 15:54:55 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21671355/?type=app&htype=0"
       },
       {
         "id": "84122b8bc2ebdebb91f6cbc909e7ed25",
@@ -3131,6 +3147,14 @@
         "description": "A key road has been shut, with delays expected for drivers and shoppers in the north of Glasgow.",
         "published": "Wed, 04 Nov 2026 15:43:17 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17882119/?type=app&htype=0"
+      },
+      {
+        "id": "1d733fa9859d962ecd588f47b4299de1",
+        "title": "Bus fare cap in greater Glasgow could cost ScotRail \u00a320 million, MSPs told",
+        "link": "https://www.heraldscotland.com/news/26699615.bus-fare-cap-greater-glasgow-could-cost-scotrail-20-million/",
+        "description": "The \u00a32 bus fare cap in the greater Glasgow area could cost ScotRail as much as \u00a320 million, MSPs have been told, as passengers jump from train journeys.",
+        "published": "Wed, 04 Nov 2026 15:41:04 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20292211/?type=app&htype=0"
       },
       {
         "id": "0bd9d179b851d32ffcbd2193d56ab927",
