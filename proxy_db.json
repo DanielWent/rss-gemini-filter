@@ -3109,6 +3109,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "d06c42609f5a5ab8569f7d09ed729c23",
+        "title": "Glasgow pupils to get two extra days off school for curriculum changes",
+        "link": "https://www.glasgowtimes.co.uk/news/26698688.glasgow-schools-get-two-extra-days-off-summer/",
+        "description": "Glasgow pupils will get two extra school days off this academic year as teachers prepare for Scotland\u2019s updated curriculum.",
+        "published": "Wed, 04 Nov 2026 13:16:15 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21669983/?type=app&htype=0"
+      },
+      {
+        "id": "f84fab3e65b8500531ba0b9e54d7e08d",
+        "title": "FlixBus boosts Scottish services to 20 new daily departures to Aberdeen and Dundee",
+        "link": "https://www.heraldscotland.com/news/26698584.flixbus-increase-glasgow-services-aberdeen-dundee/",
+        "description": "FlixBus expands in Scotland from November 23, adding Glasgow services to Aberdeen and Dundee, plus new routes to Kirkcaldy, Glenrothes and Edinburgh.",
+        "published": "Wed, 04 Nov 2026 13:16:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21669918/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=536538",
         "title": "Care worker spat at Celtic fans and threw vape during Old Firm disorder",
         "link": "https://news.stv.tv/west-central/care-worker-spat-at-celtic-fans-and-threw-vape-during-old-firm-disorder",
@@ -3891,22 +3907,6 @@
         "description": "The delivery firm has published a list of the areas most impacted by delays",
         "published": "Tue, 3 Nov 2026 10:30:21 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34854150.ece/ALTERNATES/s98/0_Red-mailbox-and-Royal-Mail-van-UK.jpg"
-      },
-      {
-        "id": "985e4c9546b0a9a674a8a5ed5f8da797",
-        "title": "\u2018Death by a thousand cuts\u2019 - Play centre owner\u2019s plea to make family days out cheaper",
-        "link": "https://www.glasgowtimes.co.uk/news/26693563.play-centre-near-glasgow-calls-vat-cut-help-families/",
-        "description": "A children\u2019s play centre has joined a growing campaign to make indoor play more affordable for families.",
-        "published": "Tue, 03 Nov 2026 10:11:28 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21663346/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=536288",
-        "title": "Man attacked and robbed by masked gang at Dumbarton football pitch",
-        "link": "https://news.stv.tv/west-central/man-attacked-and-robbed-by-masked-gang-at-dumbarton-football-pitch",
-        "description": "The victim was attacked on Kyle Terrace in Dumbarton by three masked men on Monday",
-        "published": "Tue, 03 Nov 2026 09:59:48 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/7cdf9e2e6aa27ea3ba0d7a103ef82cff-1793698489.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
