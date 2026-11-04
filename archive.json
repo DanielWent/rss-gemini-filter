@@ -1,14 +1,5 @@
 {
   "strict": {
-    "1788638719516820": 1788640491.398332,
-    "https://www.bbc.co.uk/news/articles/cnvl1r1080go?at_medium=RSS&at_campaign=rss": 1788640491.398332,
-    "Major disruption as grass fire halts all trains to Heathrow Airport": 1788640491.398332,
-    "1788641717335156": 1788641730.3268585,
-    "https://www.bbc.co.uk/sport/football/articles/cdx0knz81p2o?at_medium=RSS&at_campaign=rss": 1788641730.3268585,
-    "Liverpool may make January move for Sarr - Sunday's gossip": 1788641730.3268585,
-    "1788641717335155": 1788641730.3268585,
-    "https://www.bbc.co.uk/sport/football/articles/czxzyyvk24po?at_medium=RSS&at_campaign=rss": 1788641730.3268585,
-    "Foxes pain and Burnley suffer hangover - Aaron McLean's EFL takeaways": 1788641730.3268585,
     "1788643223853990": 1788643535.2687716,
     "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss": 1788643535.2687716,
     "Prince William to attend King Harald's funeral in Norway": 1788643535.2687716,
@@ -14949,7 +14940,10 @@
     "Burrage receives support after online death threats": 1793820336.063449,
     "1793820619772141": 1793822142.9040537,
     "https://www.bbc.co.uk/sport/football/articles/ckx2qz97gz3no?at_medium=RSS&at_campaign=rss": 1793822142.9040537,
-    "An island in mourning: Tenerife processes death of De Miguel": 1793822142.9040537
+    "An island in mourning: Tenerife processes death of De Miguel": 1793822142.9040537,
+    "1793824812865107": 1793825739.881218,
+    "https://www.bbc.co.uk/sport/rugby-union/articles/c5x2vzplg43go?at_medium=RSS&at_campaign=rss": 1793825739.881218,
+    "GB sprint star Hunt visits England training camp": 1793825739.881218
   },
   "lenient": {
     "https://www.bbc.co.uk/news/articles/cp301rw6kvro#0": 1788643535.2687716,
@@ -30007,7 +30001,13 @@
     "Number of vacant commercial properties in region near Glasgow rises by 43 per cent": 1793816743.5760512,
     "7a355410ed75399b40f38cabbae4fb56": 1793818545.8533454,
     "https://www.glasgowtimes.co.uk/news/26700336.gary-meikle-cancels-hamilton-show-daughter-remains-hospital/": 1793818545.8533454,
-    "Glasgow comedian cancels show outside city as daughter remains in hospital": 1793818545.8533454
+    "Glasgow comedian cancels show outside city as daughter remains in hospital": 1793818545.8533454,
+    "48534cd71ddba2d9357a72596f4c8ea4": 1793825739.881218,
+    "https://www.glasgowtimes.co.uk/news/26700445.2-bus-fare-cap-cost-scotrail-20m-revenue/": 1793825739.881218,
+    "Thousands of Glasgow commuters could be affected by ScotRail's \u00a320m warning": 1793825739.881218,
+    "fa5e5a465cc07234039fceea8a4daf6f": 1793825739.881218,
+    "https://www.glasgowtimes.co.uk/news/26700438.giant-minion-scarecrow-becomes-celebrity-old-kilpatrick/": 1793825739.881218,
+    "Giant Minion scarecrow just outside Glasgow becomes unlikely local celebrity": 1793825739.881218
   },
   "runabc_scotland": {
     "https://runabc.co.uk/jedburgh-half-marathon-10k-celebrates-a-race-milestone": 1788852331.8052263,
@@ -48230,7 +48230,13 @@
     "Glasgow Pacific Quay flats with rooftop garden approved": 1793823311.1172338,
     "9329927": 1793823311.1172338,
     "https://www.glasgowworld.com/recommended/john-frieda-iconic-frizz-ease-range-household-name-9330024": 1793823311.1172338,
-    "John Frieda's iconic Frizz Ease range made him a household name - here's the product that started it all": 1793823311.1172338
+    "John Frieda's iconic Frizz Ease range made him a household name - here's the product that started it all": 1793823311.1172338,
+    "48534cd71ddba2d9357a72596f4c8ea4": 1793825739.881218,
+    "https://www.glasgowtimes.co.uk/news/26700445.2-bus-fare-cap-cost-scotrail-20m-revenue/": 1793825739.881218,
+    "Thousands of Glasgow commuters could be affected by ScotRail's \u00a320m warning": 1793825739.881218,
+    "fa5e5a465cc07234039fceea8a4daf6f": 1793825739.881218,
+    "https://www.glasgowtimes.co.uk/news/26700438.giant-minion-scarecrow-becomes-celebrity-old-kilpatrick/": 1793825739.881218,
+    "Giant Minion scarecrow just outside Glasgow becomes unlikely local celebrity": 1793825739.881218
   },
   "glasgow_live": {},
   "glasgow_world": {
