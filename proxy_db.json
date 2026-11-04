@@ -21,6 +21,14 @@
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/799a/live/4864f4f0-d6d5-11f1-a701-fddedf244c16.jpg"
       },
       {
+        "id": "https://www.bbc.co.uk/news/articles/c59vz44epvk9o#5",
+        "title": "Young NYC Marathon runner collapses and dies two miles from finish line",
+        "link": "https://www.bbc.co.uk/news/articles/c59vz44epvk9o?at_medium=RSS&at_campaign=rss",
+        "description": "The city medical examiner's office said it is still investigating Rachel Apa's cause of death.",
+        "published": "Tue, 03 Nov 2026 21:17:36 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7db5/live/2033de90-d7c7-11f1-a719-bf3dc3a3d5b5.jpg"
+      },
+      {
         "id": "1793727616411170",
         "title": "Kerr's mile record up for World Athletics award",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/cmy0rjzlkdreo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
         "published": "Tue, 15 Sep 2026 03:47:27 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5749/live/ee0b1740-b0a6-11f1-9c5d-0dd6cc52f198.png"
-      },
-      {
-        "id": "1789449914331146",
-        "title": "AI regulation faces political deadlock as calls grow for Congress to act",
-        "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
-        "description": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
-        "published": "Tue, 15 Sep 2026 04:50:36 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc0/live/aa535ba0-b0a8-11f1-bc1f-3f186ca4140c.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -1192,6 +1192,22 @@
     "link": "https://the5krunner.com",
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
+      {
+        "id": "https://the5krunner.com/?p=141768",
+        "title": "QUICK READ: Zwift 1.125 recovers rides lost to a crash",
+        "link": "https://the5krunner.com/2026/11/04/quick-read-zwift-1-125-recovers-rides-lost-to-a-crash/",
+        "description": "<p><img alt=\"QUICK READ: Zwift 1.125 recovers rides lost to a crash\" class=\"attachment-large size-large\" height=\"624\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/11/713088-zwift-plus_pr-cs_01-001274-large-17930452971.jpg/w=1110,h=624\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Zwift 1.125 shows a recovery prompt after a game crash and publishes the interrupted ride to Strava and other connected platforms. It also fixes Watopia rides that failed to upload.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/11/04/quick-read-zwift-1-125-recovers-rides-lost-to-a-crash/\">QUICK READ: Zwift 1.125 recovers rides lost to a crash</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Wed, 04 Nov 2026 01:17:12 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/11/713088-zwift-plus_pr-cs_01-001274-large-17930452971.jpg/w=1110,h=624"
+      },
+      {
+        "id": "https://the5krunner.com/?p=141828",
+        "title": "Garmin Descent X10 \u2013 a \u00a3299 dive computer for new divers",
+        "link": "https://the5krunner.com/2026/11/04/garmin-descent-x10/",
+        "description": "<p><img alt=\"Garmin Descent X10 &#8211; a \u00a3299 dive computer for new divers\" class=\"attachment-large size-large\" height=\"480\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/11/buy-garmindescentx10-product-v2.jpg/w=448,h=480\" style=\"height: auto;\" width=\"448\" /></p>\n<p>It reads clearly in murky water, handles nitrox and lasts 50 hours underwater on a charge. Rental mode suits schools, and it can back up a wrist-worn Mk3 or G2.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/11/04/garmin-descent-x10/\">Garmin Descent X10 &#8211; a \u00a3299 dive computer for new divers</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
+        "published": "Wed, 04 Nov 2026 01:01:09 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/11/buy-garmindescentx10-product-v2.jpg/w=448,h=480"
+      },
       {
         "id": "https://the5krunner.com/?p=141779",
         "title": "QUICK READ: Whoop patent explains its GPS-free VO2 max",
@@ -1975,22 +1991,6 @@
         "description": "<p><img alt=\"Garmin Prime Day Deals: Epix Pro 47% Off, Fenix 8 27% Off\" class=\"attachment-large size-large\" height=\"624\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/pbdd-2026-everything-to-know-hero-5-amazon-news-lt-0909261.jpg/w=1110,h=624\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Amazon's October Prime Day is live. The Garmin Epix Pro is 47% off and the Fenix 8 is 27% off in the USA, with more Garmin watch and Edge deals in the UK and Germany.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/06/garmin-prime-day-deals-october-2026/\">Garmin Prime Day Deals: Epix Pro 47% Off, Fenix 8 27% Off</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
         "published": "Mon, 05 Oct 2026 23:19:19 +0000",
         "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/pbdd-2026-everything-to-know-hero-5-amazon-news-lt-0909261.jpg/w=1110,h=624"
-      },
-      {
-        "id": "https://the5krunner.com/?p=133436",
-        "title": "#0 Trademark & Patent Filing: September 2026",
-        "link": "https://the5krunner.com/2026/10/02/0-trademark-patent-filing-september-2026/",
-        "description": "<p><img alt=\"#0 Trademark &#038; Patent Filing: September 2026\" class=\"attachment-large size-large\" height=\"699\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/trademark-patent-copyright-brand-logo.png/w=900,h=699\" style=\"height: auto;\" width=\"900\" /></p>\n<p>Whoop filed four trademarks in September 2026: WHOOP CONNECTED CARE in the medical services class, and WHOOP ONE, WHOOP PEAK and WHOOP LIFE for its membership tiers. Patents include a Whoop muscle oxygen sensor, an Oura ring with a removable battery and a Google cuffless blood pressure method.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/02/0-trademark-patent-filing-september-2026/\">#0 Trademark &#038; Patent Filing: September 2026</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
-        "published": "Fri, 02 Oct 2026 13:54:12 +0000",
-        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/trademark-patent-copyright-brand-logo.png/w=900,h=699"
-      },
-      {
-        "id": "https://the5krunner.com/?p=133404",
-        "title": "#0 Regulatory Filing: September 2026",
-        "link": "https://the5krunner.com/2026/10/02/0-regulatory-filing-september-2026/",
-        "description": "<p><img alt=\"#0 Regulatory Filing: September 2026\" class=\"attachment-large size-large\" height=\"500\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/fcc-seal-rgb-20201.jpg/w=500,h=500,fit=crop\" style=\"height: auto;\" width=\"500\" /></p>\n<p>The founding issue of Regulatory Filing covers September 2026. Suunto's OW265, reported to be the Race 3S, reached the FCC, Garmin filed several unnamed models, Polar's H12 heart rate monitor appeared in Brazil and Apple's five Apple Watch grants arrived with its autumn launch.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/02/0-regulatory-filing-september-2026/\">#0 Regulatory Filing: September 2026</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
-        "published": "Fri, 02 Oct 2026 13:53:05 +0000",
-        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/fcc-seal-rgb-20201.jpg/w=500,h=500,fit=crop"
       }
     ],
     "icon_url": "https://the5krunner.com/favicon.ico",
