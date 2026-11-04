@@ -3004,6 +3004,14 @@
     "icon_url": "https://runabc.co.uk/favicon.ico",
     "articles": [
       {
+        "id": "https://runabc.co.uk/glasgow-santa-dash-2026-returns-with-festive-5k-for-beatson-cancer-charity",
+        "title": "Glasgow Santa Dash 2026 Returns With Festive 5K For Beatson Cancer Charity",
+        "link": "https://runabc.co.uk/glasgow-santa-dash-2026-returns-with-festive-5k-for-beatson-cancer-charity",
+        "description": "<p><img alt=\"Glasgow Santa Dash 2026\" src=\"https://runabc.co.uk/images/2026/11/glasgow-santa-dash-2026.jpg\" /></p>\n\t\t\t\t<p>Glasgow Santa Dash returns on 6 December, with up to 6,000 festive participants expected for a 5K celebration supporting Beatson Cancer Charity...</p>",
+        "published": "Wed, 04 Nov 2026 07:55:00 +0000",
+        "image_url": "https://runabc.co.uk/images/2026/11/glasgow-santa-dash-2026.jpg"
+      },
+      {
         "id": "https://runabc.co.uk/babcock-10k-series-2027-entries-open-for-tenth-anniversary-celebrations",
         "title": "Babcock 10K Series 2027 Entries Open For Tenth Anniversary Celebrations",
         "link": "https://runabc.co.uk/babcock-10k-series-2027-entries-open-for-tenth-anniversary-celebrations",
@@ -3100,6 +3108,30 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "9327741",
+        "title": "How to watch Celtic v Besiktas: TV channel, live stream, team news, referee and VAR for Europa League must-win",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/how-to-watch-celtic-vs-besiktas-tv-channel-live-stream-team-news-referee-and-var-for-europa-league-clash-9327741",
+        "description": "<p>Everything you need to know about how to watch the Hoops in European action</p>",
+        "published": "Wed, 04 Nov 2026 08:00:23 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/03/15/40/GettyImages-2301524835.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "https://runabc.co.uk/glasgow-santa-dash-2026-returns-with-festive-5k-for-beatson-cancer-charity",
+        "title": "Glasgow Santa Dash 2026 Returns With Festive 5K For Beatson Cancer Charity",
+        "link": "https://runabc.co.uk/glasgow-santa-dash-2026-returns-with-festive-5k-for-beatson-cancer-charity",
+        "description": "<p><img alt=\"Glasgow Santa Dash 2026\" src=\"https://runabc.co.uk/images/2026/11/glasgow-santa-dash-2026.jpg\" /></p>\n\t\t\t\t<p>Glasgow Santa Dash returns on 6 December, with up to 6,000 festive participants expected for a 5K celebration supporting Beatson Cancer Charity...</p>",
+        "published": "Wed, 04 Nov 2026 07:55:00 +0000",
+        "image_url": "https://runabc.co.uk/images/2026/11/glasgow-santa-dash-2026.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/tragedy-girl-12-dies-after-34859344",
+        "title": "Tragedy as girl, 12, dies after being struck by bus in Kilwinning",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/tragedy-girl-12-dies-after-34859344",
+        "description": "The girl was sadly pronounced dead at the scene",
+        "published": "Wed, 4 Nov 2026 07:52:56 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34841457.ece/ALTERNATES/s98/1_gettyimages-1784447972-170667a-2.jpg"
+      },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-teachers-car-damaged-badly-34855977",
         "title": "Glasgow teacher's car damaged so badly while working council had to pay \u00a35k compensation",
@@ -3875,30 +3907,6 @@
         "description": "The two male suspects are described as white, in their twenties, and of slim build",
         "published": "Mon, 02 Nov 2026 17:06:35 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/5928299de777049cae181b6f61d81124-1793638609-1280x720.jpeg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cm4g1kvgwx85o#0",
-        "title": "Glasgow 2026 generated \u00a3233m - is it a blueprint for future games?",
-        "link": "https://www.bbc.co.uk/news/articles/cm4g1kvgwx85o?at_medium=RSS&at_campaign=rss",
-        "description": "The Glasgow 2026 Commonwealth Games Impact Evaluation says the competition generated a \u00a3158.6m boost for Glasgow.",
-        "published": "Mon, 02 Nov 2026 17:05:31 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ed/live/51dd1880-d6cd-11f1-ac20-7783925c811f.jpg"
-      },
-      {
-        "id": "bbc4fe19588d53a4d75b5cd56e0d3912",
-        "title": "Swinney 'jolted' talks, says COSLA chief as he calls for council shake-up slowdown",
-        "link": "https://www.heraldscotland.com/news/26691871.council-leaders-oppose-rushed-council-reorganisation/",
-        "description": "Council leaders have urged the Scottish Government not to \"hurry into a costly reorganisation that will throw up more questions than answers\".",
-        "published": "Mon, 02 Nov 2026 17:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/20938662/?type=app&htype=0"
-      },
-      {
-        "id": "f8b9f894a246e74b39da7d37ba061177",
-        "title": "Strathclyde awards honorary degree to philanthropist Dr Charles Huang",
-        "link": "https://www.heraldscotland.com/news/26692238.charles-huang-receives-honorary-degree-strathclyde/",
-        "description": "Dr Charles Huang receives an honorary degree from the University of Strathclyde in Glasgow, recognising his global business success and \u00a350m philanthropy.",
-        "published": "Mon, 02 Nov 2026 16:30:26 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21661436/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"

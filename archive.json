@@ -1,11 +1,5 @@
 {
   "strict": {
-    "1788595554096140": 1788596730.3140314,
-    "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss": 1788596730.3140314,
-    "Masked protesters block access at Port of Dover": 1788596730.3140314,
-    "1788595554096139": 1788596730.3140314,
-    "https://www.bbc.co.uk/news/articles/c3re8xylnvyo?at_medium=RSS&at_campaign=rss": 1788596730.3140314,
-    "How Yorkshire shaped the Brownlee era": 1788596730.3140314,
     "1788598513165714": 1788598529.8275805,
     "https://www.bbc.co.uk/sport/football/articles/c4gl3wx8g64o?at_medium=RSS&at_campaign=rss": 1788598529.8275805,
     "I've never spoken to Everton owner Friedkin - Moyes": 1788598529.8275805,
@@ -14822,9 +14816,6 @@
     "'Safety in numbers' as women join run group in winter": 1793777140.2002153
   },
   "lenient": {
-    "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo#0": 1788596730.3140314,
-    "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss": 1788596730.3140314,
-    "Masked protesters block access at Port of Dover": 1788596730.3140314,
     "https://www.bbc.co.uk/sport/football/articles/c4gl3wx8g64o#8": 1788598529.8275805,
     "https://www.bbc.co.uk/sport/football/articles/c4gl3wx8g64o?at_medium=RSS&at_campaign=rss": 1788598529.8275805,
     "I've never spoken to Everton owner Friedkin - Moyes": 1788598529.8275805,
@@ -22736,7 +22727,10 @@
     "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea": 1793777140.2002153,
     "https://www.bbc.co.uk/sport/boxing/articles/c6n047870jzeo#9": 1793777140.2002153,
     "https://www.bbc.co.uk/sport/boxing/articles/c6n047870jzeo?at_medium=RSS&at_campaign=rss": 1793777140.2002153,
-    "Retiring Serrano wants to end as a 'game-changer'": 1793777140.2002153
+    "Retiring Serrano wants to end as a 'game-changer'": 1793777140.2002153,
+    "https://www.bbc.co.uk/sport/formula1/articles/ck054q3g5jnpo#9": 1793780744.907006,
+    "https://www.bbc.co.uk/sport/formula1/articles/ck054q3g5jnpo?at_medium=RSS&at_campaign=rss": 1793780744.907006,
+    "Ocon dropped by Haas for rest of season after row": 1793780744.907006
   },
   "google": {
     "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/": 1789057535.0835385,
@@ -23781,9 +23775,6 @@
     "Rachel Apa, 24, Dies After Collapsing in Central Park Two Miles From 2026 NYC Marathon Finish": 1793706939.3606517
   },
   "glasgow_times": {
-    "b0ecb50e278d528f7c25a9f38513b935": 1788596730.3140314,
-    "https://www.glasgowtimes.co.uk/news/26524627.retro-irn-bru-adverts-return-glasgow-anniversary/": 1788596730.3140314,
-    "Nation's favourite Irn-Bru adverts return to over 400 spots across Glasgow": 1788596730.3140314,
     "f22c333c5eb86c59fa4559a3ac8c2821": 1788600328.423581,
     "https://www.glasgowtimes.co.uk/news/national/uk-today/26524701.joe-lycett-admits-breaking-bbc-celebrity-traitors-rule/": 1788600328.423581,
     "Celebrity Traitors star admits breaking BBC rules after signing up for series 2": 1788600328.423581,
@@ -29670,7 +29661,10 @@
     "Women to light up streets of Glasgow in mass cycle ride calling for safer routes": 1793775339.394331,
     "389787eef2120ba0bc7e0c665b731d02": 1793777140.2002153,
     "https://www.glasgowtimes.co.uk/news/26696828.12-year-old-girl-dead-kilwinning-bus-crash/": 1793777140.2002153,
-    "12-year-old girl dead after being knocked down by bus": 1793777140.2002153
+    "12-year-old girl dead after being knocked down by bus": 1793777140.2002153,
+    "72f546ec1aa3953abfcb975dd385bbed": 1793780744.907006,
+    "https://www.glasgowtimes.co.uk/news/26696859.glasgow-man-sheds-3st-breaking-gender-barrier/": 1793780744.907006,
+    "Man loses over 3st after putting aside one misconception": 1793780744.907006
   },
   "runabc_scotland": {
     "https://runabc.co.uk/jedburgh-half-marathon-10k-celebrates-a-race-milestone": 1788852331.8052263,
@@ -29720,27 +29714,11 @@
     "https://runabc.co.uk/babcock-10k-series-2027-entries-open-for-tenth-anniversary-celebrations": 1793348740.1211677,
     "Babcock 10K Series 2027 Entries Open For Tenth Anniversary Celebrations": 1793348740.1211677,
     "https://runabc.co.uk/hermitage-trail-runs-2026-bring-hill-running-and-festive-fun-to-edinburgh": 1793694340.2059307,
-    "Hermitage Trail Runs 2026 Bring Hill Running And Festive Fun To Edinburgh": 1793694340.2059307
+    "Hermitage Trail Runs 2026 Bring Hill Running And Festive Fun To Edinburgh": 1793694340.2059307,
+    "https://runabc.co.uk/glasgow-santa-dash-2026-returns-with-festive-5k-for-beatson-cancer-charity": 1793780744.907006,
+    "Glasgow Santa Dash 2026 Returns With Festive 5K For Beatson Cancer Charity": 1793780744.907006
   },
   "newsletter_candidates": {
-    "b0ecb50e278d528f7c25a9f38513b935": 1788596730.3140314,
-    "https://www.glasgowtimes.co.uk/news/26524627.retro-irn-bru-adverts-return-glasgow-anniversary/": 1788596730.3140314,
-    "Nation's favourite Irn-Bru adverts return to over 400 spots across Glasgow": 1788596730.3140314,
-    "dd17cce1b42fe1ac1430629f2ac6c4ec": 1788596730.3140314,
-    "https://www.heraldscotland.com/news/26524652.dundee-university-counselling-cut-latest-cost-saving-move/": 1788596730.3140314,
-    "Counselling removed for University of Dundee staff as part of cost-cutting drive": 1788596730.3140314,
-    "cdb01540e2d1e4f3dc5404b88fa698de": 1788596730.3140314,
-    "https://www.heraldscotland.com/life_style/26523150.behind-scenes-film-james-hutton-unsung-scottish-poet/": 1788596730.3140314,
-    "Deep time, mysticism and ecopoetics anchor this filmmaker's debut feature": 1788596730.3140314,
-    "7329fe637cae6fdaafeea51b5a5ed700": 1788596730.3140314,
-    "https://www.heraldscotland.com/politics/viewpoint/26523764.edinburgh-council-labour-snp-feud-deepens-by-election-losses/": 1788596730.3140314,
-    "Edinburgh Labour and SNP clash as by-election results reshape council politics": 1788596730.3140314,
-    "7e2ceaa8cd65bb34714db0277e54c39a": 1788596730.3140314,
-    "https://www.heraldscotland.com/politics/holyrood/26522917.scotlands-minimum-income-scheme-artists-long-overdue/": 1788596730.3140314,
-    "Rosemary Goring: Why Scotland should invest in a minimum income for artists": 1788596730.3140314,
-    "8959343": 1788596730.3140314,
-    "https://www.glasgowworld.com/recommended/paddington-books-paddington-suitcase-paddington-bear-books-childrens-books-book-gift-set-8961809": 1788596730.3140314,
-    "Paddington\u2019s Suitcase eight-book set is now \u00a311.99 on Amazon": 1788596730.3140314,
     "f22c333c5eb86c59fa4559a3ac8c2821": 1788600328.423581,
     "https://www.glasgowtimes.co.uk/news/national/uk-today/26524701.joe-lycett-admits-breaking-bbc-celebrity-traitors-rule/": 1788600328.423581,
     "Celebrity Traitors star admits breaking BBC rules after signing up for series 2": 1788600328.423581,
@@ -47621,19 +47599,23 @@
     "https://www.glasgowlive.co.uk/news/glasgow-news/fears-glasgow-parents-huge-42k-34857246": 1793778952.7116978,
     "Fears Glasgow parent's huge \u00a342k legal bill could dissuade volunteers from standing up to council": 1793778952.7116978,
     "https://www.glasgowlive.co.uk/news/glasgow-news/ukrainian-teen-who-fled-war-34857392": 1793778952.7116978,
-    "Ukrainian teen who fled war at age 12 now helps others rebuild lives in Scotland": 1793778952.7116978
+    "Ukrainian teen who fled war at age 12 now helps others rebuild lives in Scotland": 1793778952.7116978,
+    "72f546ec1aa3953abfcb975dd385bbed": 1793780744.907006,
+    "https://www.glasgowtimes.co.uk/news/26696859.glasgow-man-sheds-3st-breaking-gender-barrier/": 1793780744.907006,
+    "Man loses over 3st after putting aside one misconception": 1793780744.907006,
+    "https://www.glasgowlive.co.uk/news/glasgow-news/tragedy-girl-12-dies-after-34859344": 1793780744.907006,
+    "Tragedy as girl, 12, dies after being struck by bus in Kilwinning": 1793780744.907006,
+    "https://runabc.co.uk/glasgow-santa-dash-2026-returns-with-festive-5k-for-beatson-cancer-charity": 1793780744.907006,
+    "Glasgow Santa Dash 2026 Returns With Festive 5K For Beatson Cancer Charity": 1793780744.907006,
+    "9327462": 1793780744.907006,
+    "https://www.glasgowworld.com/sport/football/rangers/ex-rangers-player-to-bring-curtain-down-on-17-year-professional-career-after-300-plus-appearances-for-mls-club-9327462": 1793780744.907006,
+    "Ex Rangers player to bring curtain down on 17-year professional career after 300-plus appearances for MLS club": 1793780744.907006,
+    "9327741": 1793780744.907006,
+    "https://www.glasgowworld.com/sport/football/celtic/how-to-watch-celtic-vs-besiktas-tv-channel-live-stream-team-news-referee-and-var-for-europa-league-clash-9327741": 1793780744.907006,
+    "How to watch Celtic v Besiktas: TV channel, live stream, team news, referee and VAR for Europa League must-win": 1793780744.907006
   },
   "glasgow_live": {},
   "glasgow_world": {
-    "8959343": 1788596730.3140314,
-    "https://www.glasgowworld.com/recommended/paddington-books-paddington-suitcase-paddington-bear-books-childrens-books-book-gift-set-8961809": 1788596730.3140314,
-    "Paddington\u2019s Suitcase eight-book set is now \u00a311.99 on Amazon": 1788596730.3140314,
-    "6570152": 1788596730.3140314,
-    "https://www.glasgowworld.com/recommended/stacey-solomons-beauty-must-have-viral-online-back-on-sale-amazon-8961808": 1788596730.3140314,
-    "Stacey Solomon's beauty must-have, which has also gone viral online, is back on sale on Amazon": 1788596730.3140314,
-    "8958708": 1788596730.3140314,
-    "https://www.glasgowworld.com/recommended/switchbot-lock-smart-security-review-8958881": 1788596730.3140314,
-    "SwitchBot Lock Ultra Max review: The best smart lock I've tested gets even faster": 1788596730.3140314,
     "8961766": 1788607533.0486054,
     "https://www.glasgowworld.com/sport/football/celtic/ps45m-celtic-flop-fresh-start-parkhead-struggles-desperate-rediscover-joy-football-8961766": 1788607533.0486054,
     "Celtic flop relishing fresh start after Parkhead struggles left him desperate to rediscover joy of football": 1788607533.0486054,
@@ -50246,6 +50228,12 @@
     "The Champneys beauty advent calendar comes with a spa voucher for you to enjoy in the new year": 1793751940.4688666,
     "9326816": 1793777140.2002153,
     "https://www.glasgowworld.com/recommended/opi-nail-colours-christmas-9327563": 1793777140.2002153,
-    "OPI's must-have nail colours for Christmas 2026, from frosted silver to festive red": 1793777140.2002153
+    "OPI's must-have nail colours for Christmas 2026, from frosted silver to festive red": 1793777140.2002153,
+    "9327462": 1793780744.907006,
+    "https://www.glasgowworld.com/sport/football/rangers/ex-rangers-player-to-bring-curtain-down-on-17-year-professional-career-after-300-plus-appearances-for-mls-club-9327462": 1793780744.907006,
+    "Ex Rangers player to bring curtain down on 17-year professional career after 300-plus appearances for MLS club": 1793780744.907006,
+    "9327741": 1793780744.907006,
+    "https://www.glasgowworld.com/sport/football/celtic/how-to-watch-celtic-vs-besiktas-tv-channel-live-stream-team-news-referee-and-var-for-europa-league-clash-9327741": 1793780744.907006,
+    "How to watch Celtic v Besiktas: TV channel, live stream, team news, referee and VAR for Europa League must-win": 1793780744.907006
   }
 }
