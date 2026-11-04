@@ -3109,6 +3109,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-searching-erratic-land-rover-34863663",
+        "title": "Police searching for 'erratic' Land Rover driver after Rutherglen hit-and-run",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-searching-erratic-land-rover-34863663",
+        "description": "Enquiries are ongoing to trace the driver responsible.",
+        "published": "Wed, 4 Nov 2026 16:40:43 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34863746.ece/ALTERNATES/s98/0_Screenshot-2026-11-04-162818.png"
+      },
+      {
         "id": "84122b8bc2ebdebb91f6cbc909e7ed25",
         "title": "Police raid Glasgow address after year-long investigation into string of offences",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26699705.man-charged-alleged-theft-fraud-across-glasgow-area/",
