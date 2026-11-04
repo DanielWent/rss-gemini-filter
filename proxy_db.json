@@ -3109,6 +3109,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "3fb41a20f1a60a5ef05864bb33378c7b",
+        "title": "Glasgow renters and landlords come face to face for honest housing debate",
+        "link": "https://www.glasgowtimes.co.uk/news/26698296.renters-landlords-policymakers-came-together-glasgow/",
+        "description": "Renters, landlords and policymakers came together in Glasgow for a rare discussion about housing.",
+        "published": "Wed, 04 Nov 2026 12:12:27 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21669537/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-cops-seize-fireworks-worth-34861098",
+        "title": "Glasgow cops seize fireworks worth \u00a312k in 'one of Scotland's biggest recoveries'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-cops-seize-fireworks-worth-34861098",
+        "description": "More than a quarter of a ton of fireworks were seized in what's believed to be one of the largest recoveries in Scotland.",
+        "published": "Wed, 4 Nov 2026 12:05:52 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34794365.ece/ALTERNATES/s98/3_firework.jpg"
+      },
+      {
+        "id": "9329188",
+        "title": "Scandinavian insider knows how to get the best out of Celtic star as decoy tactic suggested",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/scandinavian-insider-explains-how-to-get-the-best-out-of-celtic-star-as-decoy-tactic-suggested-9329188",
+        "description": "<p>Ex Hoops star has some insider knowledge on struggling striker</p>",
+        "published": "Wed, 04 Nov 2026 12:00:07 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/04/10/18/GettyImages-1521768.jpeg?width=1200&auto=webp&trim=200%2C0%2C200%2C0"
+      },
+      {
         "id": "cc8fad3efc7ec101f231b93894265467",
         "title": "East Dunbartonshire businesses offered new grants of up to \u00a35000",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26698166.east-dunbartonshire-offers-digital-green-grants-smes/",
@@ -3139,14 +3163,6 @@
         "description": "More than 100 personal data breaches were confirmed at North Lanarkshire Council in the space of nine months, new figures have revealed.",
         "published": "Wed, 04 Nov 2026 11:27:16 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21669177/?type=app&htype=0"
-      },
-      {
-        "id": "3c6759dfe0ad2710ce7430fb3fe4ee77",
-        "title": "Alan Carr and Susie McCabe lead line-up announcement for Glasgow comedy festival",
-        "link": "https://www.heraldscotland.com/news/26697904.alan-carr-comedy-stars-confirmed-glasgow-festival/",
-        "description": "Glasgow International Comedy Festival returns March 10 to 28, 2027, with Alan Carr, Susie McCabe, Mike Wozniak and more across venues in Scotland.",
-        "published": "Wed, 04 Nov 2026 11:24:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21669087/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-schoolkids-could-two-extra-34860312",
@@ -3891,22 +3907,6 @@
         "description": "A stark issue has been issued to those intent on causing disorder on Bonfire Night as crews prepare for the busiest night of the year",
         "published": "Tue, 03 Nov 2026 06:00:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21661592/?type=app&htype=0"
-      },
-      {
-        "id": "f77d756b35b68d9ef3e1b304699dfe56",
-        "title": "'Kick in the teeth' as university hires for senior roles amid job cuts",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26692219.glasgow-university-hiring-staff-workers-face-redundancy/",
-        "description": "A senior lecturer has said it is a \"kick in the teeth\" that a Glasgow university is hiring for executive roles while other staff face redundancy.",
-        "published": "Tue, 03 Nov 2026 06:00:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20999800/?type=app&htype=0"
-      },
-      {
-        "id": "6b0e611fd5c380b85e59a3a220dff0e0",
-        "title": "Hamilton man banned after driving four times the limit near hotel",
-        "link": "https://www.glasgowtimes.co.uk/news/26690316.hamilton-man-banned-driving-four-times-limit-bearsden/",
-        "description": "Hamilton man Stephen Connelly, caught driving in Bearsden with alcohol more than four times the legal limit and no insurance, is banned for 16 months.",
-        "published": "Tue, 03 Nov 2026 06:00:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21658721/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
