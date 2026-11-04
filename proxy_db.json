@@ -3109,6 +3109,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/traitors-fans-can-hire-private-34861484",
+        "title": "The Traitors fans can hire private Scots hostel to act out show - with Claudia wig thrown in",
+        "link": "https://www.glasgowlive.co.uk/whats-on/traitors-fans-can-hire-private-34861484",
+        "description": "If you fancy having a go at being a faithful, or even a murderous traitor, then this just might be the ticket.",
+        "published": "Wed, 4 Nov 2026 12:44:00 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34861546.ece/ALTERNATES/s98/0_Hostelling-Scotland-launches-Traitors-style-hostel-takeovers.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-bound-train-derailment-could-34860297",
+        "title": "Glasgow-bound train derailment 'could have been avoided if drain built correctly'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-bound-train-derailment-could-34860297",
+        "description": "The Scotrail train derailed near Stonehaven, Aberdeenshire, on August 12, killing three people.",
+        "published": "Wed, 4 Nov 2026 12:30:00 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34860414.ece/ALTERNATES/s98/0_JS423369131.jpg"
+      },
+      {
         "id": "3fb41a20f1a60a5ef05864bb33378c7b",
         "title": "Glasgow renters and landlords come face to face for honest housing debate",
         "link": "https://www.glasgowtimes.co.uk/news/26698296.renters-landlords-policymakers-came-together-glasgow/",
@@ -3891,22 +3907,6 @@
         "description": "More than 1.6m working-age Scots have no retirement plan, while 52% lack confidence in pension decisions, prompting warnings from Age Scotland.",
         "published": "Tue, 03 Nov 2026 06:31:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21661437/?type=app&htype=0"
-      },
-      {
-        "id": "a4201ce0f253512d1cb9270c8fd35a13",
-        "title": "\u00a3500m economy hit sparks revolt over 4-year closure plan on Scotland\u2019s notorious road",
-        "link": "https://www.heraldscotland.com/news/26692372.a83-rest-thankful-500m-economy-hit-row-four-year-stoppage/",
-        "description": "A four-year convoy plan for one of Scotland\u2019s most notorious roads could cost the local economy \u00a3500million, campaigners have warned.",
-        "published": "Tue, 03 Nov 2026 06:31:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21483711/?type=app&htype=0"
-      },
-      {
-        "id": "6e567747683bdd5def39a90218ba2413",
-        "title": "Stark warning as firefighters gear up for Bonfire Night after weekend of disorder",
-        "link": "https://www.glasgowtimes.co.uk/news/26691719.stark-warning-glasgow-firefighters-gear-bonfire-night/",
-        "description": "A stark issue has been issued to those intent on causing disorder on Bonfire Night as crews prepare for the busiest night of the year",
-        "published": "Tue, 03 Nov 2026 06:00:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21661592/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
