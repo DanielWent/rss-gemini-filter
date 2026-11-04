@@ -3109,6 +3109,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "0bd9d179b851d32ffcbd2193d56ab927",
+        "title": "Glasgow drivers face five days of delays as major junction works get underway",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26699588.glasgow-junction-gets-temporary-lights-water-repairs/",
+        "description": "Glasgow drivers face delays at Shawfield Drive and Shawfield Road as Scottish Water repairs bring temporary traffic lights from November 9 to November 13.",
+        "published": "Wed, 04 Nov 2026 15:38:29 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20176549/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c699zd4g0z57o#0",
+        "title": "Police seize \u00a312,000 of fireworks set to be sold online before Bonfire Night",
+        "link": "https://www.bbc.co.uk/news/articles/c699zd4g0z57o?at_medium=RSS&at_campaign=rss",
+        "description": "Officers recovered the haul during a raid on a property in the Penilee area of Glasgow.",
+        "published": "Wed, 04 Nov 2026 15:28:02 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afaa/live/02db5800-d862-11f1-85ab-b3cc3b5498c6.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/green-light-30-new-glasgow-34863001",
         "title": "Green light for 30 new Glasgow homes to be built on empty land in Possilpark",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/green-light-30-new-glasgow-34863001",
@@ -3131,6 +3147,14 @@
         "description": "Care worker Lisa Gibson faces jail after pleading guilty to disorderly conduct and breach of the peace during Old Firm disorder at Ibrox on March 8, 2026.",
         "published": "Wed, 04 Nov 2026 14:34:27 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21670588/?type=app&htype=0"
+      },
+      {
+        "id": "f913c05b4020f29397cbb0eeba641e5b",
+        "title": "Glasgow business owner frightened by e-bikes speeding behind him",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26699090.glasgow-newsagent-owner-frightened-speeding-e-bikes/",
+        "description": "A Glasgow city centre business owner has said they are left frightened by e-bikes when walking.",
+        "published": "Wed, 04 Nov 2026 14:29:14 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21599976/?type=app&htype=0"
       },
       {
         "id": "ac1dced767cad2084983fb811cf705f3",
