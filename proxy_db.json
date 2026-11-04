@@ -3109,6 +3109,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=536661",
+        "title": "Dozens of police officers lock down Glasgow city centre street",
+        "link": "https://news.stv.tv/west-central/dozens-of-police-officers-lock-down-glasgow-city-centre-street",
+        "description": "A large emergency service presence has descended on Douglas Street",
+        "published": "Wed, 04 Nov 2026 22:09:29 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/75a115a9fdb61c9c84237323e3e9876e-1793829754.jpeg"
+      },
+      {
+        "id": "0b8b11f4bbfceca0c5c88bc4ccb874d1",
+        "title": "Emergency services launch major operation as CalMac ferry diverted to help",
+        "link": "https://www.heraldscotland.com/news/26700461.major-emergency-operation-underway-off-greenock-coast/",
+        "description": "Emergency services launch a major operation off Greenock, with police at Battery Park, MV Argyll assisting the Coastguard and CalMac sailings suspended",
+        "published": "Wed, 04 Nov 2026 21:15:56 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21672492/?type=app&htype=0"
+      },
+      {
+        "id": "fdbb09e352b14cb9c2033d7a1e61a07e",
+        "title": "HSE contacts council over backlog of inspections for 1,558 bridges and structures",
+        "link": "https://www.heraldscotland.com/news/26700446.hse-contacts-council-backlog-bridge-inspections/",
+        "description": "HSE contacts Dumfries and Galloway Council over bridge safety concerns, with inspection backlogs and staff shortages raising public safety fears across region",
+        "published": "Wed, 04 Nov 2026 20:43:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/19238432/?type=app&htype=0"
+      },
+      {
         "id": "1c5741d4c24b684b45cffd5107d30ec2",
         "title": "Scottish Government knew Dr Gray\u2019s maternity delay three months before announcement",
         "link": "https://www.heraldscotland.com/news/26700429.scottish-government-knew-maternity-services-delay-july/",
