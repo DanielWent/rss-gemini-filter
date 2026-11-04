@@ -21,6 +21,14 @@
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82f2/live/720655d0-d151-11f1-9eb5-811878e0f07d.jpg"
       },
       {
+        "id": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o#3",
+        "title": "Graduates are managing AI - but are they learning much else?",
+        "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+        "description": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+        "published": "Wed, 04 Nov 2026 00:04:35 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d9/live/cc0124d0-cd54-11f1-a64c-550be9e3c66b.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c69qz9jzq4jro#3",
         "title": "Code cracked for shipwreck padlock solving 400-year-old mystery",
         "link": "https://www.bbc.co.uk/news/articles/c69qz9jzq4jro?at_medium=RSS&at_campaign=rss",
@@ -67,14 +75,6 @@
         "description": "Researchers have detected signals from the smallest distances ever probed.",
         "published": "Tue, 03 Nov 2026 06:01:23 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca0/live/1ab4cfb0-d2ef-11f1-b441-2b33b063138f.jpg"
-      },
-      {
-        "id": "1793622940233521",
-        "title": "Grit and glory - Mageean's career in pictures",
-        "link": "https://www.bbc.co.uk/sport/athletics/articles/cwly0xnr60zvo?at_medium=RSS&at_campaign=rss",
-        "description": "After European champion and two-time Olympian Ciara Mageean passed away aged 34, BBC Sport looks back at her career in pictures.",
-        "published": "Mon, 02 Nov 2026 13:06:46 +0100",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9cd/live/8b3e0ad0-d69b-11f1-8052-913cc7942a17.jpg"
       },
       {
         "id": "1793557536694344",
@@ -3109,6 +3109,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-schoolkids-could-two-extra-34860312",
+        "title": "Glasgow schoolkids could have two extra days off amid 'significant curriculum changes'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-schoolkids-could-two-extra-34860312",
+        "description": "The additional days off will allow teachers to prepare for a &quot;substantial curriculum reform&quot;.",
+        "published": "Wed, 4 Nov 2026 11:23:06 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34860739.ece/ALTERNATES/s98/0_Scottish-Labour-to-force-vote-on-planned-teacher-cuts.jpg"
+      },
+      {
+        "id": "37140a6b06f367b15fa8857d4b22d41b",
+        "title": "1,000 people set to join pro-Palestine march through Glasgow next week",
+        "link": "https://www.glasgowtimes.co.uk/news/26697795.pro-palestine-march-set-bring-1-000-people-glasgow/",
+        "description": "A pro-Palestine march organised by the Gaza Genocide Emergency Committee will travel from Glasgow\u2019s West End to the city centre on November 14.",
+        "published": "Wed, 04 Nov 2026 11:01:16 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20541861/?type=app&htype=0"
+      },
+      {
         "id": "b82a34100043300302e8deb0fd7c0183",
         "title": "LIVE updates as trains to Glasgow CANCELLED amid incident at busy station",
         "link": "https://www.glasgowtimes.co.uk/news/26697565.live-updates-glasgow-trains-cancelled-amid-issue-partick/",
@@ -3123,6 +3139,14 @@
         "description": "Alan Carr headlines Glasgow International Comedy Festival 2027, with Mike Wozniak, Fascinating A\u00efda and Scottish comedy stars performing March 10-28.",
         "published": "Wed, 04 Nov 2026 10:05:42 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21668558/?type=app&htype=0"
+      },
+      {
+        "id": "4d0d2643fa0997c8e89e3a0fc060fb17",
+        "title": "Glasgow park named police \u2018hot spot\u2019 after 'major' Bonfire Night incident",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26697404.glasgow-newlands-park-named-police-bonfire-night-hot-spot/",
+        "description": "A Glasgow park has been highlighted as a \"hot spot\" for police on Bonfire Night following a \"major disruptive incident\" last year.",
+        "published": "Wed, 04 Nov 2026 10:04:09 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17374951/?type=app&htype=0"
       },
       {
         "id": "68c1702b3ac067a42a06458e4c1ff4e7",
@@ -3883,30 +3907,6 @@
         "description": "Internal Scottish Government papers reveal ministers approved a plan to merge 14 NHS boards into two mega-authorities before securing a business case, legal route, or cost estimate.",
         "published": "Tue, 03 Nov 2026 05:00:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/8432472/?type=app&htype=0"
-      },
-      {
-        "id": "84bb27433cdbd5419e5da30eb0dac6be",
-        "title": "Scotland's unpaid carers miss vital NHS tests and surgery due to caring demands",
-        "link": "https://www.heraldscotland.com/news/26692621.unpaid-carers-scotland-forced-miss-vital-nhs-treatment/",
-        "description": "Scotland\u2019s unpaid carers are missing NHS tests, screenings and surgery due to a lack of replacement care, Carers Scotland\u2019s report finds.",
-        "published": "Tue, 03 Nov 2026 05:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/20901509/?type=app&htype=0"
-      },
-      {
-        "id": "9b0e3784c729572fef282d4ce6bc319d",
-        "title": "Hundreds of aesthetics clinics could close as regulator struggles with new Botox law",
-        "link": "https://www.heraldscotland.com/news/26692158.scotland-botox-law-clinics-warning-closure-risk/",
-        "description": "Hundreds of women-led aesthetics clinics could close because the watchdog charged with approving them is not ready for the Scottish Government's crackdown on Botox and fillers, a union has warned.",
-        "published": "Tue, 03 Nov 2026 05:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/18080041/?type=app&htype=0"
-      },
-      {
-        "id": "6fc2f593f063dcf64fd64d6e1e889b23",
-        "title": "Holyrood committee cannot confirm Scottish budget plans are affordable amid \u00a35bn gap",
-        "link": "https://www.heraldscotland.com/news/26692058.holyrood-committee-says-budget-plans-lack-transparency/",
-        "description": "Holyrood committee says SNP ministers must improve transparency over Scotland\u2019s \u00a34.77bn fiscal gap, warning tax and spending plans face substantial risks.",
-        "published": "Tue, 03 Nov 2026 00:01:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21661309/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
