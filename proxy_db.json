@@ -3109,12 +3109,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "ba34019a7df07dd00f60c26ed782d42f",
+        "title": "Glasgow childcare report finds flexible provision could help tackle child poverty",
+        "link": "https://www.glasgowtimes.co.uk/news/26697257.glasgow-childcare-report-shared-scottish-government/",
+        "description": "Glasgow East End childcare research links flexible provision with employment and child poverty reduction, informing Scottish Government policy through Calton.",
+        "published": "Wed, 04 Nov 2026 09:41:05 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21668267/?type=app&htype=0"
+      },
+      {
+        "id": "431d889e60c9d8f482b1277e8c1b47d6",
+        "title": "Road near major Glasgow football stadium to close as emergency works begin",
+        "link": "https://www.glasgowtimes.co.uk/news/26697175.glasgow-traffic-slowed-paisley-road-west-works-begin/",
+        "description": "Paisley Road West in Glasgow will close westbound near Ibrox Stadium from November 5 for Scottish Water repairs, with diversions and delays for drivers.",
+        "published": "Wed, 04 Nov 2026 09:22:19 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19603668/?type=app&htype=0"
+      },
+      {
         "id": "c3abc3ee109eb34536cb2d78cfdb20fd",
         "title": "Rail passengers warned of delays and cancellations after incident near Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26696995.train-delays-cancellations-incident-cambuslang/",
         "description": "Rail passengers are facing disruption following an operational incident in the Cambuslang area.",
         "published": "Wed, 04 Nov 2026 08:46:52 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21667991/?type=app&htype=0"
+      },
+      {
+        "id": "cefacf894a2910d9daf973bcd9c1d351",
+        "title": "Ministers urged to set target to almost treble Scotland\u2019s onshore wind power",
+        "link": "https://www.heraldscotland.com/news/26696895.scotland-onshore-wind-target-generate-4-2bn-2040/",
+        "description": "Setting a new target to virtually treble Scotland\u2019s onshore wind capacity by 2040 could generate more than \u00a34 billion for the country\u2019s economy while supporting thousands of jobs, research has revealed.",
+        "published": "Wed, 04 Nov 2026 08:06:18 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21667895/?type=app&htype=0"
       },
       {
         "id": "9327741",
@@ -3883,30 +3907,6 @@
         "description": "<p>Defender believes Rangers can create even bigger Hampden celebrations by beating Hibs in next month\u2019s Premier Sports Cup final</p>",
         "published": "Mon, 02 Nov 2026 20:00:43 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/02/9/52/21836017.jpeg?width=1200&auto=webp&trim=0%2C89%2C0%2C89"
-      },
-      {
-        "id": "9325124",
-        "title": "Celtic fan group call on Dermot Desmond to make 20-year first as board accused of avoiding scrutiny",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-fan-group-call-on-dermot-desmond-to-make-20-year-first-as-board-accused-of-avoiding-scrutiny-9325124",
-        "description": "<p>Fan group released a statement ahead of an upcoming AGM meeting</p>",
-        "published": "Mon, 02 Nov 2026 20:00:18 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/02/16/39/GettyImages-1491735522-(1).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=536248",
-        "title": "Body found in search for man who disappeared ahead of storm in South Lanarkshire",
-        "link": "https://news.stv.tv/west-central/body-found-in-search-for-man-who-disappeared-ahead-of-storm-in-south-lanarkshire",
-        "description": "Tom Allan was reported missing from Westmain Farm on Friday, October 23, after being last seen at around 8.15am",
-        "published": "Mon, 02 Nov 2026 19:38:22 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/3d4b21936a716d5e5c72f5e94ff41b97-1793008913-1120x720.jpeg"
-      },
-      {
-        "id": "fcaf5f8e2c591138996418bf1f8b4cda",
-        "title": "Police launch investigation after officers targeted before Aberdeen-Rangers match",
-        "link": "https://www.heraldscotland.com/news/26692484.police-investigate-disorder-aberdeen-rangers-match/",
-        "description": "An investigation into \u201cunacceptable\u201d football-related disorder where officers were targeted with fireworks and glass bottles has been launched by police.",
-        "published": "Mon, 02 Nov 2026 17:14:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21661088/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
