@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1793835318628615",
+        "title": "Typhoons batter East Asia as El Ni\u00f1o makes Pacific 'burn with fever'",
+        "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+        "description": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
+        "published": "Thu, 05 Nov 2026 00:12:47 +0100",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ea/live/eaa602a0-d75b-11f1-8f6b-d71817972456.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cmq8n9y8ex55o#5",
         "title": "Runner walks final London Marathon mile six months on after cardiac arrest",
         "link": "https://www.bbc.co.uk/news/articles/cmq8n9y8ex55o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The ad regulator said it had \"zero-tolerance\" for ads promoting AI tools that could sexualise or objectify women.",
         "published": "Wed, 16 Sep 2026 01:27:17 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e86/live/e6499b60-b111-11f1-8907-39a652c5e20e.jpg"
-      },
-      {
-        "id": "1789511139595768",
-        "title": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
-        "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-        "description": "Jensen Huang's stance on AI safety contrasts with several current and former employees of AI-focused firm",
-        "published": "Wed, 16 Sep 2026 00:13:10 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6b4/live/8aa4e810-b14c-11f1-a383-57f33d64a166.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
