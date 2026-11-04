@@ -3109,12 +3109,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/green-light-30-new-glasgow-34863001",
+        "title": "Green light for 30 new Glasgow homes to be built on empty land in Possilpark",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/green-light-30-new-glasgow-34863001",
+        "description": "The housing association behind the scheme has said 'much needed' family homes will be provided on the site.",
+        "published": "Wed, 4 Nov 2026 15:16:28 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34863002.ece/ALTERNATES/s98/0_Allander_Street_design2_image_courtesy_MAST_Architects_2026_11_04_11_08_50.png"
+      },
+      {
+        "id": "b90f2e71c4a0a295caeaa7093082a310",
+        "title": "SNP council accused of 'marking its own homework' over Storm Boelo flooding review",
+        "link": "https://www.heraldscotland.com/news/26699116.renfrewshire-council-rejects-independent-review-storm-boelo-flood/",
+        "description": "Renfrewshire Council rejects an independent review of Storm Boelo flooding and Renfrew Bridge damage, prompting claims it is \u2018marking its own homework\u2019.",
+        "published": "Wed, 04 Nov 2026 15:10:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20900277/?type=app&htype=0"
+      },
+      {
         "id": "130e86abf75f49c14085f1a7ae18e394",
         "title": "Rangers fan faces jail after spitting at Celtic supporters in Ibrox chaos",
         "link": "https://www.glasgowtimes.co.uk/sport/26699124.care-worker-lisa-gibson-faces-jail-old-firm-match-disorder/",
         "description": "Care worker Lisa Gibson faces jail after pleading guilty to disorderly conduct and breach of the peace during Old Firm disorder at Ibrox on March 8, 2026.",
         "published": "Wed, 04 Nov 2026 14:34:27 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21670588/?type=app&htype=0"
+      },
+      {
+        "id": "ac1dced767cad2084983fb811cf705f3",
+        "title": "Scottish Financial Enterprise CEO Sandy Begbie to step down after nearly seven years",
+        "link": "https://www.heraldscotland.com/news/26698944.scottish-financial-enterprise-chief-executive-step/",
+        "description": "Sandy Begbie CBE is to step down as Scottish Financial Enterprise CEO after nearly seven years, following growth and major events at Scotland\u2019s financial services body.",
+        "published": "Wed, 04 Nov 2026 14:15:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/9380516/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-schoolkids-could-two-extra-34860312",

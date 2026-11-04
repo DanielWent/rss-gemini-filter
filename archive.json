@@ -1,8 +1,5 @@
 {
   "strict": {
-    "1788621018863633": 1788621944.2422655,
-    "https://www.bbc.co.uk/news/articles/c89jpyk8n80o?at_medium=RSS&at_campaign=rss": 1788621944.2422655,
-    "King and Queen join Highland games fans at Braemar Gathering": 1788621944.2422655,
     "1788622517552920": 1788623732.8149881,
     "https://www.bbc.co.uk/sport/formula1/articles/c8d31qrg2neo?at_medium=RSS&at_campaign=rss": 1788623732.8149881,
     "Alpine's Gasly beats Russell to stunning Monza pole": 1788623732.8149881,
@@ -14877,12 +14874,15 @@
     "Skye chef pledges health before wealth at 'pay what you can' cafe": 1793804150.56898,
     "1793802613726998": 1793804150.56898,
     "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss": 1793804150.56898,
-    "'This is a disaster': Angry Republicans blame Trump for midterms defeat": 1793804150.56898
+    "'This is a disaster': Angry Republicans blame Trump for midterms defeat": 1793804150.56898,
+    "1793805620510597": 1793805951.4070442,
+    "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss": 1793805951.4070442,
+    "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire": 1793805951.4070442,
+    "1793805620510595": 1793805951.4070442,
+    "https://www.bbc.co.uk/sport/formula1/articles/c59vz9gdllxlo?at_medium=RSS&at_campaign=rss": 1793805951.4070442,
+    "Ocon dropped - is it the end of his F1 career?": 1793805951.4070442
   },
   "lenient": {
-    "https://www.bbc.co.uk/sport/formula1/articles/c8d31qrg2neo#8": 1788621944.2422655,
-    "https://www.bbc.co.uk/sport/formula1/articles/c8d31qrg2neo?at_medium=RSS&at_campaign=rss": 1788621944.2422655,
-    "Alpine's Gasly beats Russell to stunning Monza pole": 1788621944.2422655,
     "https://www.bbc.co.uk/news/articles/cj4j5zn5n75o#2": 1788623732.8149881,
     "https://www.bbc.co.uk/news/articles/cj4j5zn5n75o?at_medium=RSS&at_campaign=rss": 1788623732.8149881,
     "Richard Hammond to 'find a way' to share mansion with bats after renovation plans paused": 1788623732.8149881,
@@ -22857,7 +22857,16 @@
     "Time to focus on cost of living, says PM after US election results": 1793804150.56898,
     "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego#5": 1793804150.56898,
     "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego?at_medium=RSS&at_campaign=rss": 1793804150.56898,
-    "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral": 1793804150.56898
+    "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral": 1793804150.56898,
+    "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o#1": 1793805951.4070442,
+    "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss": 1793805951.4070442,
+    "'This is a disaster': Angry Republicans blame Trump for midterms defeat": 1793805951.4070442,
+    "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no#5": 1793805951.4070442,
+    "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss": 1793805951.4070442,
+    "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire": 1793805951.4070442,
+    "https://www.bbc.co.uk/sport/formula1/articles/c59vz9gdllxlo#9": 1793805951.4070442,
+    "https://www.bbc.co.uk/sport/formula1/articles/c59vz9gdllxlo?at_medium=RSS&at_campaign=rss": 1793805951.4070442,
+    "Ocon dropped - is it the end of his F1 career?": 1793805951.4070442
   },
   "google": {
     "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/": 1789057535.0835385,
@@ -23905,9 +23914,6 @@
     "Rachel Apa, 24, Dies After Collapsing in Central Park Two Miles From 2026 NYC Marathon Finish": 1793706939.3606517
   },
   "glasgow_times": {
-    "003873717b04b8da90ff3d46071e5747": 1788621944.2422655,
-    "https://www.glasgowtimes.co.uk/news/26525191.two-men-taken-hospital-afterwhitecrook-street-disturbance/": 1788621944.2422655,
-    "Two men raced to hospital after huge incident as quiet street remains CLOSED": 1788621944.2422655,
     "600e5bd3f85591d6fc7683e0e5f31b29": 1788623732.8149881,
     "https://www.glasgowtimes.co.uk/news/scottish-news/26525215.port-glasgow-bin-fire-treated-deliberate-police-say/": 1788623732.8149881,
     "Fire near residential block treated as 'suspicious' as cops launch investigation": 1788623732.8149881,
@@ -29863,7 +29869,10 @@
     "The Steamie in Glasgow made me feel like I was back having a gab with my granny": 1793804150.56898,
     "adece9ae975e6433dd2027bcc2a8c64f": 1793804150.56898,
     "https://www.glasgowtimes.co.uk/news/26699098.balamory-star-helps-glasgow-charity-raise-20-000-kids/": 1793804150.56898,
-    "New Scottish charity raised \u00a320,000 to bring comfort to children facing chemotherapy": 1793804150.56898
+    "New Scottish charity raised \u00a320,000 to bring comfort to children facing chemotherapy": 1793804150.56898,
+    "f14c64e78fcdae44ae6d8e26fe230254": 1793805951.4070442,
+    "https://www.glasgowtimes.co.uk/news/26699258.cupp-give-away-100-free-drinks-new-glasgow-store/": 1793805951.4070442,
+    "Popular drinks brand to give away 100 free drinks at launch of new Glasgow store": 1793805951.4070442
   },
   "runabc_scotland": {
     "https://runabc.co.uk/jedburgh-half-marathon-10k-celebrates-a-race-milestone": 1788852331.8052263,
@@ -29918,18 +29927,6 @@
     "Glasgow Santa Dash 2026 Returns With Festive 5K For Beatson Cancer Charity": 1793780744.907006
   },
   "newsletter_candidates": {
-    "003873717b04b8da90ff3d46071e5747": 1788621944.2422655,
-    "https://www.glasgowtimes.co.uk/news/26525191.two-men-taken-hospital-afterwhitecrook-street-disturbance/": 1788621944.2422655,
-    "Two men raced to hospital after huge incident as quiet street remains CLOSED": 1788621944.2422655,
-    "https://news.stv.tv/?p=527963": 1788621944.2422655,
-    "https://news.stv.tv/west-central/two-in-hospital-after-disturbance-as-police-close-road": 1788621944.2422655,
-    "Two in hospital after \u2018disturbance\u2019 as police close road": 1788621944.2422655,
-    "https://www.glasgowlive.co.uk/whats-on/long-lost-shops-still-miss-34570118": 1788621944.2422655,
-    "The long-lost shops we still miss from Glasgow's high street": 1788621944.2422655,
-    "https://www.glasgowlive.co.uk/news/glasgow-news/biker-rushed-hospital-after-terrifying-34573391": 1788621944.2422655,
-    "Biker rushed to hospital after terrifying crash on Glasgow street": 1788621944.2422655,
-    "https://www.glasgowlive.co.uk/news/history/glasgow-beatles-escaped-george-sq-24335667": 1788621944.2422655,
-    "When 'Glasgow's Beatles' escaped George Square riot via secret City Chambers tunnel": 1788621944.2422655,
     "600e5bd3f85591d6fc7683e0e5f31b29": 1788623732.8149881,
     "https://www.glasgowtimes.co.uk/news/scottish-news/26525215.port-glasgow-bin-fire-treated-deliberate-police-say/": 1788623732.8149881,
     "Fire near residential block treated as 'suspicious' as cops launch investigation": 1788623732.8149881,
@@ -47980,7 +47977,23 @@
     "https://www.glasgowtimes.co.uk/news/26699098.balamory-star-helps-glasgow-charity-raise-20-000-kids/": 1793804150.56898,
     "New Scottish charity raised \u00a320,000 to bring comfort to children facing chemotherapy": 1793804150.56898,
     "https://www.glasgowlive.co.uk/news/glasgow-news/gallery/landmark-villa-near-glasgow-gym-34862015": 1793804150.56898,
-    "'Landmark villa' near Glasgow with gym and hot tub up for sale in 'rare opportunity'": 1793804150.56898
+    "'Landmark villa' near Glasgow with gym and hot tub up for sale in 'rare opportunity'": 1793804150.56898,
+    "f14c64e78fcdae44ae6d8e26fe230254": 1793805951.4070442,
+    "https://www.glasgowtimes.co.uk/news/26699258.cupp-give-away-100-free-drinks-new-glasgow-store/": 1793805951.4070442,
+    "Popular drinks brand to give away 100 free drinks at launch of new Glasgow store": 1793805951.4070442,
+    "b90f2e71c4a0a295caeaa7093082a310": 1793805951.4070442,
+    "https://www.heraldscotland.com/news/26699116.renfrewshire-council-rejects-independent-review-storm-boelo-flood/": 1793805951.4070442,
+    "SNP council accused of 'marking its own homework' over Storm Boelo flooding review": 1793805951.4070442,
+    "ae74f192f9c27c272f7d4d6a5dfa9904": 1793805951.4070442,
+    "https://www.heraldscotland.com/news/26698866.whisky-flown-across-atlantic-sells-auction-1-700/": 1793805951.4070442,
+    "Whisky flown across Atlantic in balloon sells for \u00a31,700 to support Gaelic college": 1793805951.4070442,
+    "ac1dced767cad2084983fb811cf705f3": 1793805951.4070442,
+    "https://www.heraldscotland.com/news/26698944.scottish-financial-enterprise-chief-executive-step/": 1793805951.4070442,
+    "Scottish Financial Enterprise CEO Sandy Begbie to step down after nearly seven years": 1793805951.4070442,
+    "https://www.glasgowlive.co.uk/news/glasgow-news/green-light-30-new-glasgow-34863001": 1793805951.4070442,
+    "Green light for 30 new Glasgow homes to be built on empty land in Possilpark": 1793805951.4070442,
+    "https://www.glasgowlive.co.uk/news/glasgow-news/heartless-glasgow-owner-sentenced-after-34862783": 1793805951.4070442,
+    "Heartless Glasgow owner sentenced after campaign of neglect left dog 'severely emaciated'": 1793805951.4070442
   },
   "glasgow_live": {},
   "glasgow_world": {
