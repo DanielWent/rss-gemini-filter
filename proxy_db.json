@@ -2194,6 +2194,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "cc8fad3efc7ec101f231b93894265467",
+        "title": "East Dunbartonshire businesses offered new grants of up to \u00a35000",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26698166.east-dunbartonshire-offers-digital-green-grants-smes/",
+        "description": "Grants are now available to help businesses reduce their environmental impact and improve their digital capabilities.",
+        "published": "Wed, 04 Nov 2026 11:53:09 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21669367/?type=app&htype=0"
+      },
+      {
         "id": "28f8ab5eb0e167e5c3e4e55480e07ea0",
         "title": "Provost urges families to join remembrance outside Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26696230.east-dunbartonshire-provost-urges-families-join-remembrance/",
@@ -2984,14 +2992,6 @@
         "description": "Flowers, photographs and messages have been left beside the Forth and Clyde Canal in memory of Glasgow Canal Cat Ziggy.",
         "published": "Thu, 27 Aug 2026 07:17:29 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21357685/?type=app&htype=0"
-      },
-      {
-        "id": "01e9d14712293761caed345a656f0376",
-        "title": "Swinney announces 40 walk-in GP centres while saying uptake 'will take time'",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26497630.john-swinney-confirms-plans-40-walk-in-gp-clinics-scotland/",
-        "description": "John Swinney has announced plans for 40 walk-in GP clinics across Scotland despite criticism of the scheme.",
-        "published": "Wed, 26 Aug 2026 14:11:21 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18035814/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3108,6 +3108,46 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "cc8fad3efc7ec101f231b93894265467",
+        "title": "East Dunbartonshire businesses offered new grants of up to \u00a35000",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26698166.east-dunbartonshire-offers-digital-green-grants-smes/",
+        "description": "Grants are now available to help businesses reduce their environmental impact and improve their digital capabilities.",
+        "published": "Wed, 04 Nov 2026 11:53:09 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21669367/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/20mph-coming-500-glasgow-southside-34860749",
+        "title": "20mph coming to 500 Glasgow southside streets as 'safer' speed limit rollout continues",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/20mph-coming-500-glasgow-southside-34860749",
+        "description": "Around 3,800 streets and street sections across Glasgow are changing from 30mph to 20mph in the citywide programme.",
+        "published": "Wed, 4 Nov 2026 11:47:07 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34860965.ece/ALTERNATES/s98/2_speed-limits.png"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/crp3gkykqz8eo#0",
+        "title": "Part of former private school could be demolished after fire and break-ins",
+        "link": "https://www.bbc.co.uk/news/articles/crp3gkykqz8eo?at_medium=RSS&at_campaign=rss",
+        "description": "Buildings surrounding the original historic school property at Fernhill School in Rutherglen would be removed.",
+        "published": "Wed, 04 Nov 2026 11:44:51 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a060/live/1f85ee10-d845-11f1-b870-55415e6a9944.png"
+      },
+      {
+        "id": "81fbbb63417a9a931a1af659debebbae",
+        "title": "More than 100 data breaches confirmed at council near Glasgow in just nine months",
+        "link": "https://www.glasgowtimes.co.uk/news/26697983.council-near-glasgow-confirms-100-data-breaches-year/",
+        "description": "More than 100 personal data breaches were confirmed at North Lanarkshire Council in the space of nine months, new figures have revealed.",
+        "published": "Wed, 04 Nov 2026 11:27:16 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21669177/?type=app&htype=0"
+      },
+      {
+        "id": "3c6759dfe0ad2710ce7430fb3fe4ee77",
+        "title": "Alan Carr and Susie McCabe lead line-up announcement for Glasgow comedy festival",
+        "link": "https://www.heraldscotland.com/news/26697904.alan-carr-comedy-stars-confirmed-glasgow-festival/",
+        "description": "Glasgow International Comedy Festival returns March 10 to 28, 2027, with Alan Carr, Susie McCabe, Mike Wozniak and more across venues in Scotland.",
+        "published": "Wed, 04 Nov 2026 11:24:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21669087/?type=app&htype=0"
+      },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-schoolkids-could-two-extra-34860312",
         "title": "Glasgow schoolkids could have two extra days off amid 'significant curriculum changes'",
@@ -3867,46 +3907,6 @@
         "description": "Hamilton man Stephen Connelly, caught driving in Bearsden with alcohol more than four times the legal limit and no insurance, is banned for 16 months.",
         "published": "Tue, 03 Nov 2026 06:00:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21658721/?type=app&htype=0"
-      },
-      {
-        "id": "9107097088e98219e522b9e92248f4e4",
-        "title": "Castlemilk lifeline hub to close as volunteers warn of growing community crisis",
-        "link": "https://www.glasgowtimes.co.uk/news/26688408.castlemilk-community-hub-close-amid-rising-demand-costs/",
-        "description": "The Love and Solidarity Hub in Castlemilk is closing its base after supporting dozens of families each week, with volunteers citing rising costs, growing demand and increasing social tensions.",
-        "published": "Tue, 03 Nov 2026 06:00:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21657140/?type=app&htype=0"
-      },
-      {
-        "id": "eccd71591aed78916818d96cdc63f5a2",
-        "title": "Police call for greater powers to tackle anti-social behaviour linked to e-bikes",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26689920.scottish-police-seek-greater-powers-e-bike-misuse/",
-        "description": "The Scottish Police Federation has raised concerns about the growing misuse of e-bikes,",
-        "published": "Tue, 03 Nov 2026 06:00:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20746675/?type=app&htype=0"
-      },
-      {
-        "id": "8ecec8012ec37bb4b07a86ec5a2e81ee",
-        "title": "Course closures raise questions about pipeline for 'vital real-world expertise'",
-        "link": "https://www.heraldscotland.com/news/26688592.staff-question-impact-outdoor-specialist-education-course-cuts/",
-        "description": "Closures to specialist and outdoor education have staff members questioning whether a university should be more concerned with public service.",
-        "published": "Tue, 03 Nov 2026 06:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21657494/?type=app&htype=0"
-      },
-      {
-        "id": "83fa1085a960d2885d8c6f4ce2f6e8eb",
-        "title": "University leaders ignored 'oversight and regulation' to approve cuts, dossier claims",
-        "link": "https://www.heraldscotland.com/news/26691682.edinburgh-academics-accuse-managers-bypassing-oversight/",
-        "description": "A 24-page report accuses university leadership of preventing the institution\u2019s academic Senate from \u201cexercising its statutory powers of scrutiny, oversight, and regulation\u201d.",
-        "published": "Tue, 03 Nov 2026 06:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/16267837/?type=app&htype=0"
-      },
-      {
-        "id": "4c9f9938891319cc317b015ff638b50a",
-        "title": "Leaked government papers reveal NHS merger being rushed through without business case",
-        "link": "https://www.heraldscotland.com/news/26692730.scotland-nhs-merger-plan-no-business-case-papers-reveal/",
-        "description": "Internal Scottish Government papers reveal ministers approved a plan to merge 14 NHS boards into two mega-authorities before securing a business case, legal route, or cost estimate.",
-        "published": "Tue, 03 Nov 2026 05:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/8432472/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
