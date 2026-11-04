@@ -3101,6 +3101,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-teachers-car-damaged-badly-34855977",
+        "title": "Glasgow teacher's car damaged so badly while working council had to pay \u00a35k compensation",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-teachers-car-damaged-badly-34855977",
+        "description": "Since the beginning of 2023, the council has received nearly \u00a312,000 worth of compensation claims due to damage to property.",
+        "published": "Wed, 4 Nov 2026 07:12:35 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34599856.ece/ALTERNATES/s98/4_Nursery.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/over-half-million-people-across-34856770",
+        "title": "Over half a million people across Scotland at risk of needing food bank over next year",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/over-half-million-people-across-34856770",
+        "description": "Work is not protecting people from hardship \u2013 almost 1 in 5 working people in Scotland ran out of food and couldn\u2019t afford to buy more.",
+        "published": "Wed, 4 Nov 2026 07:08:49 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34857193.ece/ALTERNATES/s98/0_gettyimages-1244381818-594x594.jpg"
+      },
+      {
+        "id": "1d383d4c00afb430aad9aa38a0e7f6cc",
+        "title": "Scots councillor considered quitting after freedom of speech row with ethics watchdog",
+        "link": "https://www.heraldscotland.com/news/26695654.andrew-wood-councillor-decides-fight-free-speech-row/",
+        "description": "Dumfries and Galloway councillor Andrew Wood says support from constituents persuaded him to stand again after a Standards Commission ruling over his criticism of a council chief executive.",
+        "published": "Wed, 04 Nov 2026 06:34:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21512549/?type=app&htype=0"
+      },
+      {
+        "id": "4d9c6492e8c3a4e43896c6ea8f36af10",
+        "title": "Lord Advocate\u2019s position questioned as High Court trial backlog trebles",
+        "link": "https://www.heraldscotland.com/news/26695971.lord-advocate-position-question-high-court-trial-backlog-trebles/",
+        "description": "Questions have been raised about the Lord Advocate's positions as High Court indictments are projected to exceed 2,000 as the trial backlog nearly trebles.",
+        "published": "Wed, 04 Nov 2026 06:29:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21667168/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cwly4elj2546o#0",
         "title": "Scottish colleges need \u00a32.5bn  investment boost by 2037, report warns",
         "link": "https://www.bbc.co.uk/news/articles/cwly4elj2546o?at_medium=RSS&at_campaign=rss",
@@ -3867,38 +3899,6 @@
         "description": "Dr Charles Huang receives an honorary degree from the University of Strathclyde in Glasgow, recognising his global business success and \u00a350m philanthropy.",
         "published": "Mon, 02 Nov 2026 16:30:26 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21661436/?type=app&htype=0"
-      },
-      {
-        "id": "cd62dd73c2f3d65a8b3891b9d4a74e81",
-        "title": "These eight Scottish pubs have just been ranked among the 100 best in Britain",
-        "link": "https://www.heraldscotland.com/news/26691809.best-pubs-scotland-2026-named-good-food-guide/",
-        "description": "The Good Food Guide has revealed its list of the Top 100 Pubs in Britain, with eight Scottish venues earning places in the rankings.",
-        "published": "Mon, 02 Nov 2026 16:30:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/10280015/?type=app&htype=0"
-      },
-      {
-        "id": "a28230da2d6d0c430bd1ea0e2c2556d4",
-        "title": "Israeli embassy accuses Edinburgh MSP of \u2018provocation for for social media clout'",
-        "link": "https://www.heraldscotland.com/news/26692165.greens-hit-back-israeli-embassy-accuses-msp-provocation/",
-        "description": "Edinburgh and Lothians East MSP Kate Nevens was refused entry to the West Bank last Monday, alongside SNP MP for Arbroath and Broughty Ferry Lara Bird.",
-        "published": "Mon, 02 Nov 2026 16:29:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21358285/?type=app&htype=0"
-      },
-      {
-        "id": "978c474250ee619728453c47fc274331",
-        "title": "Figures reveal street near Glasgow hit with over 200 fly-tipping service requests",
-        "link": "https://www.glasgowtimes.co.uk/news/26692180.cumbernauld-road-records-hundreds-fly-tipping-service-requests/",
-        "description": "New figures reveal hundreds of fly-tipping service requests were recorded on roads across Cumbernauld during 2025.",
-        "published": "Mon, 02 Nov 2026 16:20:42 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21661372/?type=app&htype=0"
-      },
-      {
-        "id": "d9b212943aa8adc4bb6c848df2d60458",
-        "title": "SNP accuses Labour of 'dancing to Farage's tune' over migrant settlement rules",
-        "link": "https://www.heraldscotland.com/politics/westminster/26692123.labour-immigration-u-turn-sparks-warning-scotlands-economy/",
-        "description": "The SNP has accused Labour of \"dancing to Nigel Farage's tune\" and warned that its immigration reforms could damage Scotland's economy, despite a major U-turn over plans to make migrant care workers wait longer for permanent settlement.",
-        "published": "Mon, 02 Nov 2026 16:12:32 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/20429000/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
