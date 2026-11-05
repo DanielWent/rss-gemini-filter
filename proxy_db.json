@@ -3109,6 +3109,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/paisley-mum-desperate-save-daughters-34865182",
+        "title": "Paisley mum desperate to save daughter's eye after brain tumour mistaken for squint",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/paisley-mum-desperate-save-daughters-34865182",
+        "description": "Three-year-old Amelia Morisson received the devastating diagnosis in August.",
+        "published": "Thu, 5 Nov 2026 08:32:56 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34865219.ece/ALTERNATES/s98/0_Screenshot-2026-11-05-082321.png"
+      },
+      {
         "id": "f22c739d3a1f4668efd6377344445b05",
         "title": "\u2018Do they care?\u2019 Rail safety issues unresolved six years on from Carmont disaster",
         "link": "https://www.heraldscotland.com/news/26699603.carmont-rail-disaster-four-safety-recommendations-still-open/",
