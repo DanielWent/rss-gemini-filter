@@ -2194,6 +2194,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "0cf9a019d162f1aa80ebfc4055dbca36",
+        "title": "East Dunbartonshire schools could close for two extra days under new plans",
+        "link": "https://www.glasgowtimes.co.uk/news/26702215.east-dunbartonshire-schools-get-two-extra-in-service-days/",
+        "description": "Schools in East Dunbartonshire could be given up to two additional in-service days as teachers prepare for major changes to Scotland\u2019s curriculum.",
+        "published": "Thu, 05 Nov 2026 12:50:17 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21674776/?type=app&htype=0"
+      },
+      {
         "id": "ec5de715cbb058efed686a253bb2c55e",
         "title": "Police launch investigation after reported theft from Glasgow property",
         "link": "https://www.glasgowtimes.co.uk/news/26700851.police-probe-reported-theft-property-glasgows-blairdardie/",
@@ -2984,14 +2992,6 @@
         "description": "A man whose car tyres were slashed during the early hours of the morning on a quiet street says the incident is \u201cone massive mystery\u201d.",
         "published": "Sat, 29 Aug 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21384793/?type=app&htype=0"
-      },
-      {
-        "id": "9edaad529901093719c137ffb6ad931b",
-        "title": "Popular toy banned from schools amid safety fears and chemical risk warning",
-        "link": "https://www.glasgowtimes.co.uk/news/26504227.popular-toy-banned-east-dunbartonshire-schools/",
-        "description": "East Dunbartonshire Council issued a letter highlighting concerns about the toys, which have been linked to chemical risks, choking hazards, and counterfeit products.",
-        "published": "Fri, 28 Aug 2026 12:38:14 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19461088/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3108,6 +3108,30 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "1700e07f7e8d95c3cc0c2bbea57ad3f8",
+        "title": "LIVE updates as repair crews rush to fix unusual issue on Glasgow motorway",
+        "link": "https://www.glasgowtimes.co.uk/news/26702318.live-updates-amid-maintenance-issue-glasgows-m8-motorway/",
+        "description": "Repair crews have rushed to fix an overhanging gantry panel on Glasgow's M8 motorway. While they carry out the fix, two lanes have been closed by police.",
+        "published": "Thu, 05 Nov 2026 13:10:26 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21674860/?type=app&htype=0"
+      },
+      {
+        "id": "bb1d672bc3326da8d9dccb2480ff9569",
+        "title": "Much-loved Glasgow community caf\u00e9 announces closure due to rising costs",
+        "link": "https://www.glasgowtimes.co.uk/news/26702240.glasgow-caf-toshies-close-running-costs-become-unsustainable/",
+        "description": "A much-loved Glasgow community caf\u00e9 has announced it will close its doors after running costs became unsustainable.",
+        "published": "Thu, 05 Nov 2026 12:53:59 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16193825/?type=app&htype=0"
+      },
+      {
+        "id": "0cf9a019d162f1aa80ebfc4055dbca36",
+        "title": "East Dunbartonshire schools could close for two extra days under new plans",
+        "link": "https://www.glasgowtimes.co.uk/news/26702215.east-dunbartonshire-schools-get-two-extra-in-service-days/",
+        "description": "Schools in East Dunbartonshire could be given up to two additional in-service days as teachers prepare for major changes to Scotland\u2019s curriculum.",
+        "published": "Thu, 05 Nov 2026 12:50:17 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21674776/?type=app&htype=0"
+      },
       {
         "id": "https://www.bbc.co.uk/news/articles/cmx2qzq48d7go#0",
         "title": "Glasgow City Council announces plans for up to 12,000 more homes",
