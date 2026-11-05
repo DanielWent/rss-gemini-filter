@@ -3109,6 +3109,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "713fe6019c6f70112fe409fe2704bb98",
+        "title": "Stephen Flynn to unveil plans to bring bus services back into public control",
+        "link": "https://www.glasgowtimes.co.uk/news/26700229.scotland-unveil-national-plan-transform-bus-services/",
+        "description": "A national vision for transforming bus services will be unveiled in the Scottish Parliament today.",
+        "published": "Thu, 05 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17492987/?type=app&htype=0"
+      },
+      {
+        "id": "0974b5882267a5c20f4bce6bdd17b722",
+        "title": "The long running saga of an East End community facility closed for seven years",
+        "link": "https://www.glasgowtimes.co.uk/news/26700093.legacy-hub-glasgows-east-end---will-open/",
+        "description": "Efforts to secure a much-needed community facility in Glasgow's East End, closed and vacant for seven years, appear to have stalled.",
+        "published": "Thu, 05 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21672005/?type=app&htype=0"
+      },
+      {
         "id": "3483ed51c05aab873fd978bb0e081519",
         "title": "Swinney spent just 75 minutes discussing council overhaul before announcement",
         "link": "https://www.heraldscotland.com/news/26699665.swinneys-75-minutes-meetings-council-shake-up/",
