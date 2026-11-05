@@ -3109,6 +3109,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "f6bddab1be8c0e9ae2d3b83d434fc071",
+        "title": "First look at Glasgow Christmas market as it takes shape ahead of Friday opening",
+        "link": "https://www.glasgowtimes.co.uk/news/26702880.glasgows-st-enoch-christmas-market-takes-shape-opening/",
+        "description": "A crane stands next to the wheel as preparations continue at St Enoch Square. (Image: Gordon Terris / Newsquest)",
+        "published": "Thu, 05 Nov 2026 14:49:52 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21675629/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/brits-struggling-pay-bills-offered-34868022",
         "title": "Brits struggling to pay bills offered \u00a35k to \u00a320k loans in pension scheme fiasco",
         "link": "https://www.glasgowlive.co.uk/news/brits-struggling-pay-bills-offered-34868022",
@@ -3131,6 +3139,14 @@
         "description": "<p>Major works will take place on the M8 for more than a month.</p>",
         "published": "Thu, 05 Nov 2026 14:32:00 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/05/14/31/Screenshot-2026-11-05-143002.png?width=1200&auto=webp&trim=0%2C123%2C0%2C122"
+      },
+      {
+        "id": "e0978d06c0c16e4c7bc5e4bb53567d58",
+        "title": "Bid to save oldest golf course in the world",
+        "link": "https://www.heraldscotland.com/news/26702740.future-oldest-golf-course-world-risk/",
+        "description": "The future of one of the world\u2019s oldest golf courses is at risk after investigators found its greens were being damaged by its own water system.",
+        "published": "Thu, 05 Nov 2026 14:29:34 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21675733/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/moment-football-fans-march-through-34868035",
