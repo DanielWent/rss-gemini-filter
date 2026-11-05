@@ -3109,6 +3109,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/brits-struggling-pay-bills-offered-34868022",
+        "title": "Brits struggling to pay bills offered \u00a35k to \u00a320k loans in pension scheme fiasco",
+        "link": "https://www.glasgowlive.co.uk/news/brits-struggling-pay-bills-offered-34868022",
+        "description": "The Cabinet Office has announced five measures to address financial hardship among those affected by the situation",
+        "published": "Thu, 5 Nov 2026 14:48:47 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34868202.ece/ALTERNATES/s98/0_jameson3.jpg"
+      },
+      {
+        "id": "12b768da5b83216d70eea531bababbf4",
+        "title": "Major film and television industry conference coming to Glasgow in 2027",
+        "link": "https://www.glasgowtimes.co.uk/news/26702848.glasgow-host-creative-cities-convention-may-2027/",
+        "description": "Creative Cities Convention comes to Glasgow on May 19 and 20, 2027, bringing screen industry leaders together",
+        "published": "Thu, 05 Nov 2026 14:44:03 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21675672/?type=app&htype=0"
+      },
+      {
+        "id": "9332697",
+        "title": "More than a month of overnight works to take place on M8 motorway in Glasgow",
+        "link": "https://www.glasgowworld.com/news/m8-junction-21-overnight-works-start-monday-9332697",
+        "description": "<p>Major works will take place on the M8 for more than a month.</p>",
+        "published": "Thu, 05 Nov 2026 14:32:00 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/05/14/31/Screenshot-2026-11-05-143002.png?width=1200&auto=webp&trim=0%2C123%2C0%2C122"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/moment-football-fans-march-through-34868035",
+        "title": "Moment football fans march through Glasgow after cops attacked in city centre",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/moment-football-fans-march-through-34868035",
+        "description": "Areas of the city centre including Douglas Street were locked down during the incident, which was believed to involve Besiktas supporters.",
+        "published": "Thu, 5 Nov 2026 14:28:52 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34868126.ece/ALTERNATES/s98/0_Screenshot-2026-11-05-141557.png"
+      },
+      {
+        "id": "9c3760bcbeb033e14b4110a710fc293e",
+        "title": "Data centre near Glasgow seeks further permission months after work began",
+        "link": "https://www.glasgowtimes.co.uk/news/26702663.chapelhall-data-centre-seeks-access-road-permission/",
+        "description": "A data centre is seeking permission for construction access months after work began.",
+        "published": "Thu, 05 Nov 2026 14:16:51 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21675325/?type=app&htype=0"
+      },
+      {
         "id": "0777eaf9dc3df145390aa156126528cc",
         "title": "Cumbernauld Christmas lights concerns prompt council response",
         "link": "https://www.glasgowtimes.co.uk/news/26702510.cumbernauld-christmas-lights---council-explains-funding/",
@@ -3651,14 +3691,6 @@
         "description": "Sandy Begbie CBE is to step down as Scottish Financial Enterprise CEO after nearly seven years, following growth and major events at Scotland\u2019s financial services body.",
         "published": "Wed, 04 Nov 2026 14:15:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/9380516/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-schoolkids-could-two-extra-34860312",
-        "title": "Glasgow schoolkids could have two extra days off amid 'significant curriculum changes'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-schoolkids-could-two-extra-34860312",
-        "description": "The additional days off will allow teachers to prepare for a &quot;substantial curriculum reform&quot;.",
-        "published": "Wed, 4 Nov 2026 11:23:06 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34860739.ece/ALTERNATES/s98/0_Scottish-Labour-to-force-vote-on-planned-teacher-cuts.jpg"
       },
       {
         "id": "8526e98398233d114d7c9fe06db02009",
