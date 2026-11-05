@@ -2194,6 +2194,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "ec5de715cbb058efed686a253bb2c55e",
+        "title": "Police launch investigation after reported theft from Glasgow property",
+        "link": "https://www.glasgowtimes.co.uk/news/26700851.police-probe-reported-theft-property-glasgows-blairdardie/",
+        "description": "Police Scotland investigate a reported theft on Sunnyside Drive, Glasgow, following a report received on November 4, 2026. Police probe continues.",
+        "published": "Thu, 05 Nov 2026 09:17:02 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21673384/?type=app&htype=0"
+      },
+      {
         "id": "84122b8bc2ebdebb91f6cbc909e7ed25",
         "title": "Police raid Glasgow address after year-long investigation into string of offences",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26699705.man-charged-alleged-theft-fraud-across-glasgow-area/",
@@ -2984,14 +2992,6 @@
         "description": "East Dunbartonshire Council issued a letter highlighting concerns about the toys, which have been linked to chemical risks, choking hazards, and counterfeit products.",
         "published": "Fri, 28 Aug 2026 12:38:14 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19461088/?type=app&htype=0"
-      },
-      {
-        "id": "bcc13c8831b2ab0d057ac5ec4801ee66",
-        "title": "Residents plea as quiet street turned into 'rat run' amid roadworks",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26501968.residents-concerned-traffic-glasgows-turret-road/",
-        "description": "A quiet residential street in Glasgow has been turned into a \u201crat run\u201d as drivers try to avoid heavy traffic in the area, frustrated residents have claimed.",
-        "published": "Fri, 28 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21381651/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3109,6 +3109,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "2e627bb786b1a651c147388ce688014c",
+        "title": "Barclays launches flagship Glasgow Innovation Hub to grow Scotland\u2019s tech sector",
+        "link": "https://www.glasgowtimes.co.uk/news/26701369.barclays-launched-glasgow-hub-support-business-growth/",
+        "description": "Barclays launches Glasgow Innovation Hub to support Scottish start-ups, AI and high-growth businesses.",
+        "published": "Thu, 05 Nov 2026 10:41:10 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21673511/?type=app&htype=0"
+      },
+      {
+        "id": "cc7a0b4f125f230aa0e4f3b1568c9d5c",
+        "title": "12-year-old girl who died in horror bus collision has been named",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26701324.girl-12-named-fatal-bus-collision-kilwinning/",
+        "description": "Sophia Aitken, 12, died after being hit by a bus in Kilwinning, North Ayrshire. Police Scotland enquiries continue after the November 3 crash.",
+        "published": "Thu, 05 Nov 2026 10:33:54 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21673467/?type=app&htype=0"
+      },
+      {
         "id": "726167bc840732473bf88f091d87f937",
         "title": "Glasgow Subway to shut for two days as passengers warned of disruption",
         "link": "https://www.glasgowtimes.co.uk/news/26701104.glasgow-subway-close-two-days-critical-system-testing/",
@@ -3147,6 +3163,14 @@
         "description": "Dr Brendan Sweeney is accused of going to work &quot;whilst under the influence of an excess of prescribed medication&quot;.",
         "published": "Thu, 5 Nov 2026 09:18:02 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34865467.ece/ALTERNATES/s98/1_Screenshot-2026-11-05-091546.png"
+      },
+      {
+        "id": "ec5de715cbb058efed686a253bb2c55e",
+        "title": "Police launch investigation after reported theft from Glasgow property",
+        "link": "https://www.glasgowtimes.co.uk/news/26700851.police-probe-reported-theft-property-glasgows-blairdardie/",
+        "description": "Police Scotland investigate a reported theft on Sunnyside Drive, Glasgow, following a report received on November 4, 2026. Police probe continues.",
+        "published": "Thu, 05 Nov 2026 09:17:02 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21673384/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/paisley-mum-desperate-save-daughters-34865182",
