@@ -3117,6 +3117,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cm0ldd8kyn36o#0",
+        "title": "Police car set alight in Glasgow amid Bonfire Night trouble",
+        "link": "https://www.bbc.co.uk/news/articles/cm0ldd8kyn36o?at_medium=RSS&at_campaign=rss",
+        "description": "The car was torched after officers answered reports of an injured man in the Provanmill area of Glasgow.",
+        "published": "Thu, 05 Nov 2026 21:47:07 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb5f/live/c3c42c10-d95f-11f1-a800-d9dce9e5aa21.jpg"
+      },
+      {
+        "id": "67666e8e39ebbd927b1733c1825c047e",
+        "title": "Fireworks launched at police during Bonfire Night disorder",
+        "link": "https://www.heraldscotland.com/news/26704178.fireworks-launched-police-edinburgh-disorder/",
+        "description": "Fireworks launched at police during Bonfire Night disorder in Oxgangs and Colinton Mains, south Edinburgh, as bins and fires caused disruption on November 5",
+        "published": "Thu, 05 Nov 2026 21:06:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21677636/?type=app&htype=0"
+      },
+      {
+        "id": "89d104ca13c0fbeb658b9aa66e382af2",
+        "title": "'Choose the incendiary music': Irvine Welsh rewrites Trainspotting poster for Kneecap",
+        "link": "https://www.heraldscotland.com/news/26704136.irvine-welsh-pens-new-trainspotting-poster-kneecap-gig/",
+        "description": "Irvine Welsh creates a new Trainspotting-inspired poster for Kneecap\u2019s Glasgow OVO Hydro gig on December 9, as 250 standing tickets are released",
+        "published": "Thu, 05 Nov 2026 20:16:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21266218/?type=app&htype=0"
+      },
+      {
         "id": "e1381add34c5b9d76a2d025b8d9d8425",
         "title": "Plans to build 12 flats near Glasgow withdrawn as council prepares revised proposal",
         "link": "https://www.glasgowtimes.co.uk/news/26704066.plans-12-flats-torrance-withdrawn-ahead-revision/",
@@ -3211,14 +3235,6 @@
         "description": "Glasgow Council approves a Daldowie bioresource treatment centre serving 40% of Scotland, plus 45 Easterhouse homes and a water vole sanctuary on November 5.",
         "published": "Thu, 05 Nov 2026 16:55:49 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21677149/?type=app&htype=0"
-      },
-      {
-        "id": "20c645b102a670e6cc72307f7ad73b57",
-        "title": "What use is a cheap Voi bike if you can never find one?",
-        "link": "https://www.heraldscotland.com/opinion/26703286.glasgows-voi-bike-scheme-needs-bikes/",
-        "description": "My dreamy Voi Girl Summer has faded into a dark No Bike November. Glasgow\u2019s Voi bikes won me over, but finding one when I need it is another matter. Record hires mean little without a service commuters can rely on.",
-        "published": "Thu, 05 Nov 2026 16:46:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/20195851/?type=app&htype=0"
       },
       {
         "id": "ae68194b44b79dab70957da377cbe1a1",
@@ -3899,22 +3915,6 @@
         "description": "The \u00a32 bus fare cap in the greater Glasgow area could cost ScotRail as much as \u00a320 million, MSPs have been told, as passengers jump from train journeys.",
         "published": "Wed, 04 Nov 2026 15:41:04 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/20292211/?type=app&htype=0"
-      },
-      {
-        "id": "0bd9d179b851d32ffcbd2193d56ab927",
-        "title": "Glasgow drivers face five days of delays as major junction works get underway",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26699588.glasgow-junction-gets-temporary-lights-water-repairs/",
-        "description": "Glasgow drivers face delays at Shawfield Drive and Shawfield Road as Scottish Water repairs bring temporary traffic lights from November 9 to November 13.",
-        "published": "Wed, 04 Nov 2026 15:38:29 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20176549/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c699zd4g0z57o#0",
-        "title": "Police seize \u00a312,000 of fireworks set to be sold online before Bonfire Night",
-        "link": "https://www.bbc.co.uk/news/articles/c699zd4g0z57o?at_medium=RSS&at_campaign=rss",
-        "description": "Officers recovered the haul during a raid on a property in the Penilee area of Glasgow.",
-        "published": "Wed, 04 Nov 2026 15:28:02 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afaa/live/02db5800-d862-11f1-85ab-b3cc3b5498c6.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
