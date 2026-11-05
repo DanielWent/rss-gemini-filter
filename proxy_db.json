@@ -3109,6 +3109,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "0599cd997d2c60af00aaf6a3f4a680e5",
+        "title": "Police officers attacked with bottles during Glasgow city centre disturbance",
+        "link": "https://www.glasgowtimes.co.uk/sport/26701579.two-police-officers-attacked-glasgow-city-centre-disturbance/",
+        "description": "Two police officers were attacked during a disturbance involving a large group of men in Glasgow city centre, with bottles thrown at officers.",
+        "published": "Thu, 05 Nov 2026 11:13:40 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21673773/?type=app&htype=0"
+      },
+      {
+        "id": "a6764b95780d45f29ec88d9d7f126342",
+        "title": "Flats near Glasgow left without gas after potential leak",
+        "link": "https://www.glasgowtimes.co.uk/news/26701549.cumbernauld-flats-without-gas-amid-suspected-leak/",
+        "description": "Reports of a suspected gas leak at flats in Oak Road, Abronhill, Cumbernauld, have been linked to work on a new electricity pole, according to social media posts.",
+        "published": "Thu, 05 Nov 2026 11:09:03 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21673694/?type=app&htype=0"
+      },
+      {
+        "id": "e60d671be8d4b04966626225c4922ee5",
+        "title": "Channel 4 AXES Married At First Sight UK after \u2018serious allegations\u2019 review",
+        "link": "https://www.glasgowtimes.co.uk/news/26701509.channel-4-cancels-married-first-sight-uk-11-years/",
+        "description": "Channel 4 has cancelled Married At First Sight UK after an external review - season six and a UK/Australia spin-off will not be aired.",
+        "published": "Thu, 05 Nov 2026 11:02:48 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21673523/?type=app&htype=58"
+      },
+      {
         "id": "2e627bb786b1a651c147388ce688014c",
         "title": "Barclays launches flagship Glasgow Innovation Hub to grow Scotland\u2019s tech sector",
         "link": "https://www.glasgowtimes.co.uk/news/26701369.barclays-launched-glasgow-hub-support-business-growth/",
@@ -3123,6 +3147,22 @@
         "description": "Sophia Aitken, 12, died after being hit by a bus in Kilwinning, North Ayrshire. Police Scotland enquiries continue after the November 3 crash.",
         "published": "Thu, 05 Nov 2026 10:33:54 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21673467/?type=app&htype=0"
+      },
+      {
+        "id": "518e80447f17ef5ab943c5094ed4202f",
+        "title": "How a 'traffic lights' system is keeping salmon alive in this Perthshire river",
+        "link": "https://www.heraldscotland.com/news/26701315.perthshire-traffic-lights-system-saving-endangered-salmon/",
+        "description": "An innovative Perthshire conservation project which uses \u2018traffic lights\u2019 to protect juvenile salmon is celebrating its second year without fish mortality.",
+        "published": "Thu, 05 Nov 2026 10:33:06 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20253630/?type=app&htype=0"
+      },
+      {
+        "id": "4110c85c4840573f97d0a928ab17b452",
+        "title": "Herald Business LIVE: Today's top stories - November 5",
+        "link": "https://www.heraldscotland.com/news/26701285.herald-business-live-todays-top-stories---november-5/",
+        "description": "Welcome to The Herald's Business live blog, where we\u2019ll be bringing you the latest developments from across Scotland\u2019s business industry.",
+        "published": "Thu, 05 Nov 2026 10:29:20 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21616153/?type=app&htype=0"
       },
       {
         "id": "726167bc840732473bf88f091d87f937",
