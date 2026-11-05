@@ -3117,6 +3117,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "e1381add34c5b9d76a2d025b8d9d8425",
+        "title": "Plans to build 12 flats near Glasgow withdrawn as council prepares revised proposal",
+        "link": "https://www.glasgowtimes.co.uk/news/26704066.plans-12-flats-torrance-withdrawn-ahead-revision/",
+        "description": "Plans for 12 flats in Torrance have been withdrawn as East Dunbartonshire Council prepares to submit a revised proposal.",
+        "published": "Thu, 05 Nov 2026 18:19:33 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21677413/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/viral-pancake-spot-opening-first-34868740",
         "title": "Viral pancake spot opening its first Scottish location in Glasgow",
         "link": "https://www.glasgowlive.co.uk/whats-on/viral-pancake-spot-opening-first-34868740",
@@ -3819,14 +3827,6 @@
         "description": "M8 closures in Glasgow on November 7-8 and November 14-15 could cause travel disruption near the OVO Hydro and SEC, with delays expected.",
         "published": "Wed, 04 Nov 2026 16:55:50 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17187289/?type=app&htype=0"
-      },
-      {
-        "id": "1bb718d590fafaa6383d869a92611f8e",
-        "title": "Rooftop garden flats approved for derelict Glasgow Garden Festival site",
-        "link": "https://www.heraldscotland.com/news/26700036.glasgow-pacific-quay-flats-rooftop-garden-approved/",
-        "description": "Glasgow councillors approve 49 new flats at Pacific Quay, Govan, featuring a rooftop garden, solar panels, shops and cycle spaces on a derelict site",
-        "published": "Wed, 04 Nov 2026 16:49:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/11540166/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-searching-erratic-land-rover-34863663",
