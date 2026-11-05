@@ -1,8 +1,5 @@
 {
   "strict": {
-    "1788686714835951": 1788686736.8775454,
-    "https://www.bbc.co.uk/news/articles/clyejyeq3pro?at_medium=RSS&at_campaign=rss": 1788686736.8775454,
-    "City plan change sought to protect Tower of London": 1788686736.8775454,
     "1788688223569273": 1788688530.407836,
     "https://www.bbc.co.uk/news/articles/crk3xnm34p4o?at_medium=RSS&at_campaign=rss": 1788688530.407836,
     "'We feel abandoned by police': A community's despair after months of crime": 1788688530.407836,
@@ -14966,12 +14963,15 @@
     "Italian chef fired after refusing to put pineapple on pizza": 1793867134.1229491,
     "1793866817958989": 1793867134.1229491,
     "https://www.bbc.co.uk/sport/boxing/articles/c6wyrmmpm0pzo?at_medium=RSS&at_campaign=rss": 1793867134.1229491,
-    "10 years in the making - Billam-Smith's revenge mission": 1793867134.1229491
+    "10 years in the making - Billam-Smith's revenge mission": 1793867134.1229491,
+    "1793869820382181": 1793870740.819569,
+    "https://www.bbc.co.uk/sport/rugby-union/articles/c9146d7g0reyo?at_medium=RSS&at_campaign=rss": 1793870740.819569,
+    "Wales opt for centre power pair against Japan": 1793870740.819569,
+    "1793869820382180": 1793870740.819569,
+    "https://www.bbc.co.uk/sport/basketball/articles/cw4g1m6rlvxpo?at_medium=RSS&at_campaign=rss": 1793870740.819569,
+    "Career-best Wembanyama display seals Spurs win": 1793870740.819569
   },
   "lenient": {
-    "https://www.bbc.co.uk/news/articles/clyejyeq3pro#2": 1788686736.8775454,
-    "https://www.bbc.co.uk/news/articles/clyejyeq3pro?at_medium=RSS&at_campaign=rss": 1788686736.8775454,
-    "City plan change sought to protect Tower of London": 1788686736.8775454,
     "https://www.bbc.co.uk/news/articles/crk3xnm34p4o#1": 1788688530.407836,
     "https://www.bbc.co.uk/news/articles/crk3xnm34p4o?at_medium=RSS&at_campaign=rss": 1788688530.407836,
     "'We feel abandoned by police': A community's despair after months of crime": 1788688530.407836,
@@ -23020,7 +23020,13 @@
     "England captain Kane signs new Bayern deal": 1793867134.1229491,
     "https://www.bbc.co.uk/sport/formula1/articles/cmd9345vdy8do#9": 1793867134.1229491,
     "https://www.bbc.co.uk/sport/formula1/articles/cmd9345vdy8do?at_medium=RSS&at_campaign=rss": 1793867134.1229491,
-    "Former F1 champion Jones dies aged 80": 1793867134.1229491
+    "Former F1 champion Jones dies aged 80": 1793867134.1229491,
+    "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o#5": 1793870740.819569,
+    "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss": 1793870740.819569,
+    "Second buyer makes rescue bid for Poundland as retailer faces collapse": 1793870740.819569,
+    "https://www.bbc.co.uk/sport/rugby-union/articles/c9146d7g0reyo#9": 1793870740.819569,
+    "https://www.bbc.co.uk/sport/rugby-union/articles/c9146d7g0reyo?at_medium=RSS&at_campaign=rss": 1793870740.819569,
+    "Wales opt for centre power pair against Japan": 1793870740.819569
   },
   "google": {
     "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/": 1789057535.0835385,
@@ -30119,14 +30125,6 @@
     "Sydney Marathon 2027 Ballot Results Open Door To Guaranteed Entry Packages": 1793867134.1229491
   },
   "newsletter_candidates": {
-    "65862db0c42526deb486f22e022692e7": 1788686736.8775454,
-    "https://www.heraldscotland.com/news/26519091.peter-howsons-noble-dosser-revealed-hero-glasgows-homeless/": 1788686736.8775454,
-    "The Glasgow \u2018dosser\u2019 who became the face of Peter Howson\u2019s iconic artwork": 1788686736.8775454,
-    "e61bbcae82125372daa4266cbefdb41f": 1788686736.8775454,
-    "https://www.heraldscotland.com/opinion/26524423.glasgow-cathedral-high-street-deserve-far-second-place/": 1788686736.8775454,
-    "Glasgow should be shouting about this. Instead, we're ignoring it": 1788686736.8775454,
-    "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-flag-plans-buchanan-street-34568229": 1788686736.8775454,
-    "Glasgow flag plans for Buchanan street shopping centre as huge numbers walk past": 1788686736.8775454,
     "2186378e3ea75d18305bd296af7dc60d": 1788688530.407836,
     "https://www.glasgowtimes.co.uk/news/scottish-news/26525792.povanmill-road-closed-council-cites-engineering-difficulties/": 1788688530.407836,
     "Major Glasgow road closed indefinitely as council hits engineering problems": 1788688530.407836,
@@ -48327,7 +48325,21 @@
     "https://www.glasgowtimes.co.uk/news/26700714.flat-owners-see-changes-repairs-scheme-launches/": 1793868942.1785893,
     "Flat owners could see changes to repairs and service charges as \u00a321m scheme launches": 1793868942.1785893,
     "https://www.glasgowlive.co.uk/news/glasgow-news/paisley-mum-desperate-save-daughters-34865182": 1793868942.1785893,
-    "Paisley mum desperate to save daughter's eye after brain tumour mistaken for squint": 1793868942.1785893
+    "Paisley mum desperate to save daughter's eye after brain tumour mistaken for squint": 1793868942.1785893,
+    "720ae86283f2f461d4f31a95a81fffc1": 1793870740.819569,
+    "https://www.heraldscotland.com/news/26690663.ross-mcmillan-named-chair-scottish-visitor-attractions/": 1793870740.819569,
+    "Ross McMillan appointed new chair of Scotland\u2019s visitor attractions body": 1793870740.819569,
+    "https://www.glasgowlive.co.uk/news/glasgow-news/cambuslang-doctor-who-attacked-cops-34865136": 1793870740.819569,
+    "Cambuslang doctor who attacked cops during drug binge faces watchdog for working 'under influence'": 1793870740.819569,
+    "9307537": 1793870740.819569,
+    "https://www.glasgowworld.com/recommended/hourglass-hourglass-makeup-hourglass-cosmetics-hourglass-ambient-lighting-edit-unlocked-hourglass-palette-hourglass-palette-2026-hourglass-hope-palette-9331448": 1793870740.819569,
+    "Hourglass's makeup palettes that would make a perfect Christmas gift are flying off shelves": 1793870740.819569,
+    "9303275": 1793870740.819569,
+    "https://www.glasgowworld.com/recommended/pour-moi-lingerie-review-pour-moi-autumn-lingerie-pour-moi-lingerie-2026-pour-moi-bras-pour-moi-atelier-lace-pour-moi-amour-pour-moi-underwear-review-9331446": 1793870740.819569,
+    "Pour Moi's new autumn lingerie proves pretty can be practical": 1793870740.819569,
+    "9305741": 1793870740.819569,
+    "https://www.glasgowworld.com/recommended/outside-in-outside-in-beauty-outside-in-review-hourglass-cosmetics-carisa-janes-outside-in-foundation-silk-serum-foundation-floral-reserve-face-oil-outside-in-makeup-luxury-beauty-9331443": 1793870740.819569,
+    "I've used the same foundation for years \u2013 but this \u00a361 luxury alternative has won me over": 1793870740.819569
   },
   "glasgow_live": {},
   "glasgow_world": {
@@ -50985,6 +50997,15 @@
     "Celtic predicted XI vs Besiktas: Four changes as Falkirk benchwarmers return to fold and Wolves loanee dropped": 1793867134.1229491,
     "9330124": 1793867134.1229491,
     "https://www.glasgowworld.com/sport/football/rangers/rangers-star-falls-below-strict-criteria-for-international-call-up-as-boss-explains-nations-league-axe-9330124": 1793867134.1229491,
-    "Rangers star falls below strict criteria for international call-up as boss explains Nations League axe": 1793867134.1229491
+    "Rangers star falls below strict criteria for international call-up as boss explains Nations League axe": 1793867134.1229491,
+    "9307537": 1793870740.819569,
+    "https://www.glasgowworld.com/recommended/hourglass-hourglass-makeup-hourglass-cosmetics-hourglass-ambient-lighting-edit-unlocked-hourglass-palette-hourglass-palette-2026-hourglass-hope-palette-9331448": 1793870740.819569,
+    "Hourglass's makeup palettes that would make a perfect Christmas gift are flying off shelves": 1793870740.819569,
+    "9303275": 1793870740.819569,
+    "https://www.glasgowworld.com/recommended/pour-moi-lingerie-review-pour-moi-autumn-lingerie-pour-moi-lingerie-2026-pour-moi-bras-pour-moi-atelier-lace-pour-moi-amour-pour-moi-underwear-review-9331446": 1793870740.819569,
+    "Pour Moi's new autumn lingerie proves pretty can be practical": 1793870740.819569,
+    "9305741": 1793870740.819569,
+    "https://www.glasgowworld.com/recommended/outside-in-outside-in-beauty-outside-in-review-hourglass-cosmetics-carisa-janes-outside-in-foundation-silk-serum-foundation-floral-reserve-face-oil-outside-in-makeup-luxury-beauty-9331443": 1793870740.819569,
+    "I've used the same foundation for years \u2013 but this \u00a361 luxury alternative has won me over": 1793870740.819569
   }
 }
