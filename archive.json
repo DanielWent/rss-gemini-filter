@@ -1,11 +1,5 @@
 {
   "strict": {
-    "1788721217660550": 1788722733.876877,
-    "https://www.bbc.co.uk/sport/football/articles/cj9x3wlg11po?at_medium=RSS&at_campaign=rss": 1788722733.876877,
-    "New contenders emerge on WSL return - but Man City start strong": 1788722733.876877,
-    "1788721217660549": 1788722733.876877,
-    "https://www.bbc.co.uk/sport/tennis/articles/c780729e703o?at_medium=RSS&at_campaign=rss": 1788722733.876877,
-    "Sabalenka overcomes tricky Townsend test at US Open": 1788722733.876877,
     "1788722720831820": 1788723141.4856138,
     "https://www.bbc.co.uk/news/articles/c62k8r60lw3o?at_medium=RSS&at_campaign=rss": 1788723141.4856138,
     "Two killed as car hits group of cyclists": 1788723141.4856138,
@@ -15103,12 +15097,15 @@
     "'I don't fear for my safety from online abuse - because we're so used to it'": 1793904950.2220976,
     "1793904316396969": 1793904950.2220976,
     "https://www.bbc.co.uk/sport/articles/cwp9ggrmk9pzo?at_medium=RSS&at_campaign=rss": 1793904950.2220976,
-    "Donegal great Murphy announces inter-county retirement": 1793904950.2220976
+    "Donegal great Murphy announces inter-county retirement": 1793904950.2220976,
+    "1793905819269440": 1793906741.6810262,
+    "https://www.bbc.co.uk/news/articles/cvrly1g1e85ro?at_medium=RSS&at_campaign=rss": 1793906741.6810262,
+    "School failed to deal with racist bullying, father claims": 1793906741.6810262,
+    "1793905819269439": 1793906741.6810262,
+    "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss": 1793906741.6810262,
+    "Manhunt in western Turkey after eight killed in series of shootings": 1793906741.6810262
   },
   "lenient": {
-    "https://www.bbc.co.uk/news/articles/c62k8r60lw3o#3": 1788722733.876877,
-    "https://www.bbc.co.uk/news/articles/c62k8r60lw3o?at_medium=RSS&at_campaign=rss": 1788722733.876877,
-    "Two killed as car hits group of cyclists": 1788722733.876877,
     "https://www.bbc.co.uk/sport/football/articles/clyegw2re82o#7": 1788724534.1106808,
     "https://www.bbc.co.uk/sport/football/articles/clyegw2re82o?at_medium=RSS&at_campaign=rss": 1788724534.1106808,
     "Two right-backs in midfield - are Chelsea short despite \u00a3349m spent?": 1788724534.1106808,
@@ -23210,7 +23207,10 @@
     "Hoax bomb threats target European airlines and airports for second time in a week": 1793904950.2220976,
     "https://www.bbc.co.uk/sport/tennis/articles/cmq8nn2q01wdo#9": 1793904950.2220976,
     "https://www.bbc.co.uk/sport/tennis/articles/cmq8nn2q01wdo?at_medium=RSS&at_campaign=rss": 1793904950.2220976,
-    "'I don't fear for my safety from online abuse - because we're so used to it'": 1793904950.2220976
+    "'I don't fear for my safety from online abuse - because we're so used to it'": 1793904950.2220976,
+    "https://www.bbc.co.uk/news/articles/c9p8g085mz07o#1": 1793906741.6810262,
+    "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss": 1793906741.6810262,
+    "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials": 1793906741.6810262
   },
   "google": {
     "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/": 1789057535.0835385,
@@ -24290,9 +24290,6 @@
     "Rachel Apa, 24, Dies After Collapsing in Central Park Two Miles From 2026 NYC Marathon Finish": 1793706939.3606517
   },
   "glasgow_times": {
-    "31ad5d9de6cfb94230e065b16cf17539": 1788722733.876877,
-    "https://www.glasgowtimes.co.uk/news/scottish-news/26526417.wilful-glasgow-tenement-fire-amid-disinformation/": 1788722733.876877,
-    "'Wilful' tenement fire burns community development site amid 'disinformation'": 1788722733.876877,
     "a5c4aaabc36bd90e041670cbdc9c22aa": 1788764131.9002395,
     "https://www.glasgowtimes.co.uk/news/26526563.fire-crews-spending-second-day-glasgow-tenement-blaze/": 1788764131.9002395,
     "Fire crews spending second day at Glasgow tenement blaze": 1788764131.9002395,
@@ -30380,7 +30377,10 @@
     "Tesco Christmas delivery slots now open for shoppers across the UK": 1793903150.5434132,
     "e1381add34c5b9d76a2d025b8d9d8425": 1793904950.2220976,
     "https://www.glasgowtimes.co.uk/news/26704066.plans-12-flats-torrance-withdrawn-ahead-revision/": 1793904950.2220976,
-    "Plans to build 12 flats near Glasgow withdrawn as council prepares revised proposal": 1793904950.2220976
+    "Plans to build 12 flats near Glasgow withdrawn as council prepares revised proposal": 1793904950.2220976,
+    "701721833da29abe44f7852fa416775f": 1793906741.6810262,
+    "https://www.glasgowtimes.co.uk/news/scottish-news/26704098.13-year-old-charged-alleged-shoplifting-glasgow/": 1793906741.6810262,
+    "Police charge 13-year-old after alleged shoplifting incident in Glasgow": 1793906741.6810262
   },
   "runabc_scotland": {
     "https://runabc.co.uk/jedburgh-half-marathon-10k-celebrates-a-race-milestone": 1788852331.8052263,
@@ -30437,9 +30437,6 @@
     "Sydney Marathon 2027 Ballot Results Open Door To Guaranteed Entry Packages": 1793867134.1229491
   },
   "newsletter_candidates": {
-    "31ad5d9de6cfb94230e065b16cf17539": 1788722733.876877,
-    "https://www.glasgowtimes.co.uk/news/scottish-news/26526417.wilful-glasgow-tenement-fire-amid-disinformation/": 1788722733.876877,
-    "'Wilful' tenement fire burns community development site amid 'disinformation'": 1788722733.876877,
     "https://www.glasgowlive.co.uk/news/tv/harrowing-true-crime-doc-comes-34559015": 1788726334.540949,
     "Harrowing true crime doc that comes with strong warning to 'singletons' streaming free": 1788726334.540949,
     "ba7e1b4b8e46a30f9f5971e04c7f7788": 1788729929.5546203,
@@ -48934,7 +48931,22 @@
     "\u2018Wonderful bucket-list trip\u2019 to see Santa Claus and Northern Lights in Lapland with last-minute deal": 1793903150.5434132,
     "e1381add34c5b9d76a2d025b8d9d8425": 1793904950.2220976,
     "https://www.glasgowtimes.co.uk/news/26704066.plans-12-flats-torrance-withdrawn-ahead-revision/": 1793904950.2220976,
-    "Plans to build 12 flats near Glasgow withdrawn as council prepares revised proposal": 1793904950.2220976
+    "Plans to build 12 flats near Glasgow withdrawn as council prepares revised proposal": 1793904950.2220976,
+    "701721833da29abe44f7852fa416775f": 1793906741.6810262,
+    "https://www.glasgowtimes.co.uk/news/scottish-news/26704098.13-year-old-charged-alleged-shoplifting-glasgow/": 1793906741.6810262,
+    "Police charge 13-year-old after alleged shoplifting incident in Glasgow": 1793906741.6810262,
+    "81ef40e0ef1058a34feade5cb307f4b1": 1793906741.6810262,
+    "https://www.heraldscotland.com/news/26704037.bonfire-night-police-scotland-calls-officers-england-wales/": 1793906741.6810262,
+    "'We are prepared': Police's biggest deployment since Trump visit for Bonfire Night": 1793906741.6810262,
+    "0dbac1c489989f4c13e9c436e2226ce4": 1793906741.6810262,
+    "https://www.heraldscotland.com/news/26703978.edinburgh-arts-groups-condemned-lobbying-councillors/": 1793906741.6810262,
+    "Arts organisations criticised for 'lobbying' Edinburgh councillors for more funding": 1793906741.6810262,
+    "5ca3fbdfe7f2c261142627cfd09a7383": 1793906741.6810262,
+    "https://www.heraldscotland.com/news/26703839.800-years-continuous-worship-ends-culross-abbey/": 1793906741.6810262,
+    "Service marks end of 800 years of continuous worship at Culross Abbey": 1793906741.6810262,
+    "fd5cb7664ffd1bae956ebc461528b19c": 1793906741.6810262,
+    "https://www.heraldscotland.com/life_style/26701060.luss-adorning-wistful-shortbread-tin/": 1793906741.6810262,
+    "Why there's more to modern-day Luss than 'adorning a wistful shortbread tin'": 1793906741.6810262
   },
   "glasgow_live": {},
   "glasgow_world": {
