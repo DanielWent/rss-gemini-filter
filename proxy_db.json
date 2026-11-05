@@ -814,6 +814,22 @@
     "description": "AI Filtered Google Blog Updates.",
     "articles": [
       {
+        "id": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+        "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+        "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+        "description": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
+        "published": "Thu, 05 Nov 2026 17:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp"
+      },
+      {
+        "id": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/",
+        "title": "Transform a quick drawing into a live app with Gemini.",
+        "link": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bring_your_paper_sketches_to_li.max-600x600.format-webp.webp\" />Turn your sketches into functional apps using Gemini. Upload your drawings to the Canvas tool to generate and refine code instantly. Try it now.",
+        "published": "Thu, 05 Nov 2026 17:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bring_your_paper_sketches_to_li.max-600x600.format-webp.webp"
+      },
+      {
         "id": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
         "title": "The latest AI news we announced in October 2026",
         "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
@@ -860,14 +876,6 @@
         "description": "A split-screen graphic showing a Google search interface connecting to Gemini to confirm a dinner reservation.",
         "published": "Wed, 28 Oct 2026 17:00:00 +0000",
         "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_ConnectedApps_1027_2.max-600x600.format-webp.webp"
-      },
-      {
-        "id": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-edge-design/",
-        "title": "Fitbit Edge: Premium design for an active life",
-        "link": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-edge-design/",
-        "description": "TBD",
-        "published": "Tue, 27 Oct 2026 13:00:00 +0000",
-        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FitEdge_Metal_Links_Matte_Black.max-600x600.format-webp.webp"
       },
       {
         "id": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/",
@@ -2194,6 +2202,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "25ed25d34eee180260e034bf3ea91cdc",
+        "title": "Council confirms delay to new controversial town centre parking charges near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26703889.east-dunbartonshire-parking-charges-delayed/",
+        "description": "New town centre parking charges have been delayed as East Dunbartonshire Council explains why the rollout has yet to begin.",
+        "published": "Thu, 05 Nov 2026 17:11:46 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21572863/?type=app&htype=167"
+      },
+      {
         "id": "bf50cb87aa30d4582b463ff7aecc95f2",
         "title": "Glasgow centre supporting 76,000 veterans joins major \u00a350m support network",
         "link": "https://www.glasgowtimes.co.uk/news/26703205.glasgow-veterans-centre-joins-50m-uk-support-network/",
@@ -2984,14 +3000,6 @@
         "description": "A gap site in Glasgow\u2019s west end could be used for homes under a new plan.",
         "published": "Sat, 29 Aug 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21385983/?type=app&htype=0"
-      },
-      {
-        "id": "67279de38644581c606fddf2b7773295",
-        "title": "East Dunbartonshire community groups offered project funding of up to \u00a34000",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26501484.east-dunbartonshire-community-groups-offered-grants-4000/",
-        "description": "Community groups in East Dunbartonshire\u00a0are being offered the chance to secure up to \u00a34000 in funding for new projects.",
-        "published": "Sat, 29 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21380338/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3109,6 +3117,54 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "25ed25d34eee180260e034bf3ea91cdc",
+        "title": "Council confirms delay to new controversial town centre parking charges near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26703889.east-dunbartonshire-parking-charges-delayed/",
+        "description": "New town centre parking charges have been delayed as East Dunbartonshire Council explains why the rollout has yet to begin.",
+        "published": "Thu, 05 Nov 2026 17:11:46 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21572863/?type=app&htype=167"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cq0me3m3j8vlo#0",
+        "title": "Glasgow Subway to shut on two Sundays for systems tests",
+        "link": "https://www.bbc.co.uk/news/articles/cq0me3m3j8vlo?at_medium=RSS&at_campaign=rss",
+        "description": "The first of the planned closures will coincide with the partial closure of the M8 motorway on Sunday 15 November.",
+        "published": "Thu, 05 Nov 2026 17:08:59 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae3c/live/da0092f0-d939-11f1-95ea-8df9a040b6bf.jpg"
+      },
+      {
+        "id": "13f2dd6319ee760ae60742bd52623614",
+        "title": "Iconic Britpop frontman announces free event coming to iconic Glasgow venue",
+        "link": "https://www.glasgowtimes.co.uk/news/26703838.charlatans-frontman-bring-music-market-glasgow/",
+        "description": "The Charlatans\u2019 Tim Burgess brings his free Merch Market to Glasgow\u2019s Barrowland Ballroom on February 2027.",
+        "published": "Thu, 05 Nov 2026 17:01:54 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21677063/?type=app&htype=0"
+      },
+      {
+        "id": "9332119",
+        "title": "Ibrox star attracts loan interest from 'several clubs' as Rangers face January transfer conundrum",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/ibrox-star-attracts-loan-interest-from-several-clubs-as-rangers-face-january-transfer-conundrum-9332119",
+        "description": "<p>Winger was farmed out last season during the winter</p>",
+        "published": "Thu, 05 Nov 2026 17:00:40 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/05/12/34/GettyImages-2223832779.jpeg?width=1200&auto=webp&trim=0%2C9%2C0%2C8"
+      },
+      {
+        "id": "9332554",
+        "title": "Celtic agree for star to run down his contract as summer exit suits 'all parties' unless one thing happens",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-agree-for-star-to-run-down-his-contract-as-summer-exit-suits-all-parties-unless-one-thing-happens-9332554",
+        "description": "<p>Fringe man has barely had a look in at Celtic Park this year</p>",
+        "published": "Thu, 05 Nov 2026 17:00:07 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/05/14/29/GettyImages-2272518753.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0"
+      },
+      {
+        "id": "deb810643c941cd7e62ae9b51100fa9c",
+        "title": "Plans approved for Glasgow waste treatment centre serving 40 per cent of Scotland",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26703805.glasgow-approves-bioresource-centre-plans-45-new-homes/",
+        "description": "Glasgow Council approves a Daldowie bioresource treatment centre serving 40% of Scotland, plus 45 Easterhouse homes and a water vole sanctuary on November 5.",
+        "published": "Thu, 05 Nov 2026 16:55:49 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21677149/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-peoples-palace-revamp-start-34869162",
         "title": "Glasgow People's Palace revamp to start in late 2027 as council 'hopeful' for more funding",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-peoples-palace-revamp-start-34869162",
@@ -3179,6 +3235,14 @@
         "description": "Glasgow veteran support centre joins VALOUR network as \u00a350m UK Government investment expands care, housing and employment services across Scotland.",
         "published": "Thu, 05 Nov 2026 15:35:15 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20748667/?type=app&htype=0"
+      },
+      {
+        "id": "64aa763ebe678bfee4a754c5f095897b",
+        "title": "Children's TV favourite announces brand new Glasgow live show",
+        "link": "https://www.glasgowtimes.co.uk/news/26703171.paw-patrol-live-heroes-unite-come-glasgow-2027/",
+        "description": "A new family-friendly stage show is set to entertain audiences with music, adventure, and interactive fun.",
+        "published": "Thu, 05 Nov 2026 15:29:17 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21641769/?type=app&htype=0"
       },
       {
         "id": "6f0415a0a631ada3677f904f36d46615",
