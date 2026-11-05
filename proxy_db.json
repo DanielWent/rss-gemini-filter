@@ -3117,6 +3117,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9333736",
+        "title": "Police and ambulance crews attacked in Bonfire Night disorder in Riddrie area of Glasgow",
+        "link": "https://www.glasgowworld.com/news/police-and-ambulance-crews-attacked-in-bonfire-night-disorder-in-riddrie-area-of-glasgow-9333736",
+        "description": "<p>Police and ambulance crews came under attack as they responded to a call in Riddrie</p>",
+        "published": "Thu, 05 Nov 2026 21:50:57 GMT",
+        "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOjY3ZjYzYTE2LTRiNTUtNGI4YS1iZmY5LTE2YjY3MTZkNGM2OTpmMDJhMGViMS0yYWZmLTRlYjEtYTQ1NC01NDRiOTdjMzRhMGI=.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cm0ldd8kyn36o#0",
         "title": "Police car set alight in Glasgow amid Bonfire Night trouble",
         "link": "https://www.bbc.co.uk/news/articles/cm0ldd8kyn36o?at_medium=RSS&at_campaign=rss",
@@ -3779,14 +3787,6 @@
         "description": "Lanarkshire-based Intelligent Water secures \u00a33.5m Beach Point Capital UK funding to expand Scotland\u2019s business water retail operations and target \u00a318m turnover.",
         "published": "Thu, 05 Nov 2026 00:01:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21671289/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cj93zv4dv9rro#0",
-        "title": "Police to escort fire crews in latest crackdown on Bonfire Night disorder",
-        "link": "https://www.bbc.co.uk/news/articles/cj93zv4dv9rro?at_medium=RSS&at_campaign=rss",
-        "description": "As many as 1,700 officers could be deployed in the biggest Police Scotland operation since last year's visit by President Trump.",
-        "published": "Wed, 04 Nov 2026 22:53:26 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cf9/live/b4ad07b0-d883-11f1-a364-a1fce50dd192.jpg"
       },
       {
         "id": "0b8b11f4bbfceca0c5c88bc4ccb874d1",
