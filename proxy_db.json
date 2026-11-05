@@ -3109,12 +3109,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-peoples-palace-revamp-start-34869162",
+        "title": "Glasgow People's Palace revamp to start in late 2027 as council 'hopeful' for more funding",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-peoples-palace-revamp-start-34869162",
+        "description": "The council is 'hopeful' that more funding to help deliver the \u00a350m project will be secured in the coming weeks.",
+        "published": "Thu, 5 Nov 2026 16:30:04 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33753410.ece/ALTERNATES/s98/4_GettyImages-123486503.jpg"
+      },
+      {
+        "id": "e076943506d3e7a870c2efeb107ab1bf",
+        "title": "Noah Kahan fans warned as key road to close just as Glasgow concert ends",
+        "link": "https://www.glasgowtimes.co.uk/news/26703539.key-glasgow-road-close-noah-kahans-hydro-gig-ends/",
+        "description": "Noah Kahan fans leaving Glasgow\u2019s OVO Hydro on November 5 face Clydeside Expressway M8 closure until November 6 for overnight safety barrier repairs.",
+        "published": "Thu, 05 Nov 2026 16:19:14 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21350844/?type=app&htype=0"
+      },
+      {
         "id": "6129dfff7b58043203585d62b1556165",
         "title": "High number of complaints to Glasgow City Council revealed in report",
         "link": "https://www.glasgowtimes.co.uk/news/26703417.many-reports-glasgow-city-council-get-last-year/",
         "description": "Glasgow City Council witnessed a jump in complaints last year to more than 10,000.",
         "published": "Thu, 05 Nov 2026 16:04:55 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20842255/?type=app&htype=0"
+      },
+      {
+        "id": "c2b17402065d4d0b5adcbc9ecaa92dfc",
+        "title": "SNP accused of ditching Falkirk bus plant furlough scheme day before election",
+        "link": "https://www.heraldscotland.com/news/26703238.labour-claims-alexander-dennis-furlough-ditched-holyrood-vote/",
+        "description": "Scottish Labour accuses John Swinney\u2019s Government of ditching \u00a34m furlough support for Alexander Dennis workers before May 7 election, amid job losses",
+        "published": "Thu, 05 Nov 2026 15:45:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/19624307/?type=app&htype=0"
       },
       {
         "id": "374a461e7b60c1d414603be5bc21942f",
@@ -3131,6 +3155,14 @@
         "description": "Spooktacular Glasgow\u2019s bonfire and fireworks display has been cancelled hours before it was due to take place.",
         "published": "Thu, 05 Nov 2026 15:41:46 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21660151/?type=app&htype=0"
+      },
+      {
+        "id": "06bdf62bd6c742e0125795173edb3b32",
+        "title": "What Scotland's new grooming gangs inquiry will investigate",
+        "link": "https://www.heraldscotland.com/news/26703173.scotlands-grooming-gangs-inquiry-begin-next-week/",
+        "description": "Scotland\u2019s grooming gangs inquiry, chaired by Professor Alexis Jay, begins November 11 to examine child sexual abuse, exploitation and state failings",
+        "published": "Thu, 05 Nov 2026 15:40:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20587423/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/new-winter-festival-coming-glasgow-34868038",
@@ -3163,6 +3195,14 @@
         "description": "The current owner of the Egyptian Halls has questioned the grant on more than half a million pounds to another developer to progress plans for the historic site.",
         "published": "Thu, 05 Nov 2026 15:12:53 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20488917/?type=app&htype=0"
+      },
+      {
+        "id": "f1076f484f847864c0cdcc522bf15b97",
+        "title": "New stone carvings discovered under Pictish stone after excavation",
+        "link": "https://www.heraldscotland.com/news/26703040.new-stone-carvings-discovered-pictish-stone/",
+        "description": "Archaeologists have revealed unexpected new stone carvings discovered during the excavation of a Pictish standing stone in Angus.",
+        "published": "Thu, 05 Nov 2026 15:12:41 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21675935/?type=app&htype=0"
       },
       {
         "id": "f6bddab1be8c0e9ae2d3b83d434fc071",
