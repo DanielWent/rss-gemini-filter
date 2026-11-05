@@ -3117,6 +3117,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/viral-pancake-spot-opening-first-34868740",
+        "title": "Viral pancake spot opening its first Scottish location in Glasgow",
+        "link": "https://www.glasgowlive.co.uk/whats-on/viral-pancake-spot-opening-first-34868740",
+        "description": "Fluffy Fluffy is one of three new food and drink arrivals at the Centre this winter.",
+        "published": "Thu, 5 Nov 2026 17:56:04 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34869721.ece/ALTERNATES/s98/0_Matcha-at-Fluffy-Fluffyjpeg.jpg"
+      },
+      {
         "id": "9333519",
         "title": "Glasgow Bonfire Night LIVE: Live updates as Bonfire Night kicks off in Glasgow",
         "link": "https://www.glasgowworld.com/news/glasgow-bonfire-night-live-updates-9333519",
@@ -3165,12 +3173,44 @@
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/05/14/29/GettyImages-2272518753.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0"
       },
       {
+        "id": "087be46b808d3c7d9ed2d356be96514f",
+        "title": "The numbers that show the challenge facing Archangels' new chairman",
+        "link": "https://www.heraldscotland.com/news/26701538.andrew-sealey-named-new-chairman-archangels-syndicate/",
+        "description": "Andrew Sealey takes the chair at Archangels as co-investment becomes increasingly important to the Edinburgh syndicate's funding of Scottish businesses",
+        "published": "Thu, 05 Nov 2026 17:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21673848/?type=app&htype=0"
+      },
+      {
         "id": "deb810643c941cd7e62ae9b51100fa9c",
         "title": "Plans approved for Glasgow waste treatment centre serving 40 per cent of Scotland",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26703805.glasgow-approves-bioresource-centre-plans-45-new-homes/",
         "description": "Glasgow Council approves a Daldowie bioresource treatment centre serving 40% of Scotland, plus 45 Easterhouse homes and a water vole sanctuary on November 5.",
         "published": "Thu, 05 Nov 2026 16:55:49 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21677149/?type=app&htype=0"
+      },
+      {
+        "id": "20c645b102a670e6cc72307f7ad73b57",
+        "title": "What use is a cheap Voi bike if you can never find one?",
+        "link": "https://www.heraldscotland.com/opinion/26703286.glasgows-voi-bike-scheme-needs-bikes/",
+        "description": "My dreamy Voi Girl Summer has faded into a dark No Bike November. Glasgow\u2019s Voi bikes won me over, but finding one when I need it is another matter. Record hires mean little without a service commuters can rely on.",
+        "published": "Thu, 05 Nov 2026 16:46:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20195851/?type=app&htype=0"
+      },
+      {
+        "id": "ae68194b44b79dab70957da377cbe1a1",
+        "title": "Swinney to instruct SNP MPs to vote against UK Government ban on new oil and gas",
+        "link": "https://www.heraldscotland.com/news/26703741.swinney-opposes-uk-plan-ban-new-north-sea-licences/",
+        "description": "John Swinney has put the Scottish Government on a collision course with Labour over its plan to ban new North Sea oil and gas licences with SNP MPs threatening to vote against the Energy Independence Bill unless the provisions are removed.",
+        "published": "Thu, 05 Nov 2026 16:45:52 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21676958/?type=app&htype=0"
+      },
+      {
+        "id": "96cbc8a5e9acd1c09779187df51c6e09",
+        "title": "University of Glasgow launches fund to help Scottish MedTech firms expand in Asia",
+        "link": "https://www.heraldscotland.com/news/26703668.glasgow-university-launches-fund-medtech-singapore/",
+        "description": "The University of Glasgow has launched a pilot fund to help Scottish medical technology innovators build partnerships, test products and explore opportunities in Singapore and the Asia-Pacific region.",
+        "published": "Thu, 05 Nov 2026 16:40:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21676807/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-peoples-palace-revamp-start-34869162",
@@ -3181,6 +3221,14 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33753410.ece/ALTERNATES/s98/4_GettyImages-123486503.jpg"
       },
       {
+        "id": "464e4c14c35b50bafd90282c791ff213",
+        "title": "Scottish committee chairs 'at heart' of Holyrood set for 20 per cent pay rise",
+        "link": "https://www.heraldscotland.com/news/26703530.holyrood-committee-conveners-receive-20-per-cent-pay-rise/",
+        "description": "Kenneth Gibson announces a 20% pay rise for Scottish Parliament committee conveners from April 1, 2027, lifting MSP pay from \u00a377,711 to over \u00a393,000",
+        "published": "Thu, 05 Nov 2026 16:28:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21026149/?type=app&htype=0"
+      },
+      {
         "id": "e076943506d3e7a870c2efeb107ab1bf",
         "title": "Noah Kahan fans warned as key road to close just as Glasgow concert ends",
         "link": "https://www.glasgowtimes.co.uk/news/26703539.key-glasgow-road-close-noah-kahans-hydro-gig-ends/",
@@ -3189,12 +3237,36 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21350844/?type=app&htype=0"
       },
       {
+        "id": "6095a3968a7c94a681a49365e65305a5",
+        "title": "Life raft belonging to missing fishing vessel recovered off coast of Shetland",
+        "link": "https://www.heraldscotland.com/news/26703424.life-raft-missing-fishing-vessel-found-off-shetland/",
+        "description": "A life raft belonging to a fishing vessel missing off the Isle of Lewis has been recovered off the coast of Shetland.",
+        "published": "Thu, 05 Nov 2026 16:05:58 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21586930/?type=app&htype=0"
+      },
+      {
         "id": "6129dfff7b58043203585d62b1556165",
         "title": "High number of complaints to Glasgow City Council revealed in report",
         "link": "https://www.glasgowtimes.co.uk/news/26703417.many-reports-glasgow-city-council-get-last-year/",
         "description": "Glasgow City Council witnessed a jump in complaints last year to more than 10,000.",
         "published": "Thu, 05 Nov 2026 16:04:55 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20842255/?type=app&htype=0"
+      },
+      {
+        "id": "5d0b18386b46a08bf1334b042a51f8c4",
+        "title": "\u2018NIMBYs and whingers\u2019 blamed as campaigners call for rethink of Granton tram plans",
+        "link": "https://www.heraldscotland.com/news/26702311.critics-roseburn-path-tram-plans-labelled-nimbys-whingers/",
+        "description": "Looking for Growth (LFG), a London-headquartered lobby group with branches in Edinburgh and Glasgow, has urged councillors to reverse the decision.",
+        "published": "Thu, 05 Nov 2026 16:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/19563860/?type=app&htype=0"
+      },
+      {
+        "id": "764498aa2cb2c1151b018dd50c7b377e",
+        "title": "Is losing smoky bacon crisps the price worth paying for a Brexit reset?",
+        "link": "https://www.heraldscotland.com/politics/westminster/26703379.smoky-bacon-crisps-trade-off-brexit-reset/",
+        "description": "A new EU regulation banning 31 meat terms from plant-based products has caught crisp makers in the crossfire.",
+        "published": "Thu, 05 Nov 2026 15:59:10 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21676332/?type=app&htype=0"
       },
       {
         "id": "c2b17402065d4d0b5adcbc9ecaa92dfc",
@@ -3843,30 +3915,6 @@
         "description": "Care worker Lisa Gibson faces jail after pleading guilty to disorderly conduct and breach of the peace during Old Firm disorder at Ibrox on March 8, 2026.",
         "published": "Wed, 04 Nov 2026 14:34:27 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21670588/?type=app&htype=0"
-      },
-      {
-        "id": "f913c05b4020f29397cbb0eeba641e5b",
-        "title": "Glasgow business owner frightened by e-bikes speeding behind him",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26699090.glasgow-newsagent-owner-frightened-speeding-e-bikes/",
-        "description": "A Glasgow city centre business owner has said they are left frightened by e-bikes when walking.",
-        "published": "Wed, 04 Nov 2026 14:29:14 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21599976/?type=app&htype=0"
-      },
-      {
-        "id": "ac1dced767cad2084983fb811cf705f3",
-        "title": "Scottish Financial Enterprise CEO Sandy Begbie to step down after nearly seven years",
-        "link": "https://www.heraldscotland.com/news/26698944.scottish-financial-enterprise-chief-executive-step/",
-        "description": "Sandy Begbie CBE is to step down as Scottish Financial Enterprise CEO after nearly seven years, following growth and major events at Scotland\u2019s financial services body.",
-        "published": "Wed, 04 Nov 2026 14:15:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/9380516/?type=app&htype=0"
-      },
-      {
-        "id": "8526e98398233d114d7c9fe06db02009",
-        "title": "The Steamie in Glasgow made me feel like I was back having a gab with my granny",
-        "link": "https://www.glasgowtimes.co.uk/news/26697748.tony-ropers-steamie-glasgow-kings-theatre--verict/",
-        "description": "The Steamie review: Tony Roper\u2019s Glasgow classic delivers laughter, tears and warmth at the King\u2019s Theatre, with a standout cast and standing ovation.",
-        "published": "Wed, 04 Nov 2026 10:54:01 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21668851/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
