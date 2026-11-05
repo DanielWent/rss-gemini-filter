@@ -3109,6 +3109,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "726167bc840732473bf88f091d87f937",
+        "title": "Glasgow Subway to shut for two days as passengers warned of disruption",
+        "link": "https://www.glasgowtimes.co.uk/news/26701104.glasgow-subway-close-two-days-critical-system-testing/",
+        "description": "Glasgow Subway will close on November 15 and November 22 for final signalling, communications and platform screen door tests; SPT urges passengers to plan ahead.",
+        "published": "Thu, 05 Nov 2026 09:58:07 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20327348/?type=app&htype=0"
+      },
+      {
+        "id": "0cd2a0ff1ea6964c684a1b902e61353f",
+        "title": "Glasgow Clean Team removes nearly 1000 bags of rubbish in just six months",
+        "link": "https://www.glasgowtimes.co.uk/news/26701087.glasgow-clean-team-removed-nearly-1000-bags-rubbish/",
+        "description": "A dedicated clean team has removed nearly 1,000 bags of rubbish in just six months.",
+        "published": "Thu, 05 Nov 2026 09:55:22 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21673189/?type=app&htype=0"
+      },
+      {
         "id": "a0b00a8bd87398209fde0fea629495a2",
         "title": "Maritime programme brings hands-on careers experience to Glasgow pupils",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26701013.maritime-programme-gives-glasgow-pupils-career-insight/",
