@@ -3109,6 +3109,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "6129dfff7b58043203585d62b1556165",
+        "title": "High number of complaints to Glasgow City Council revealed in report",
+        "link": "https://www.glasgowtimes.co.uk/news/26703417.many-reports-glasgow-city-council-get-last-year/",
+        "description": "Glasgow City Council witnessed a jump in complaints last year to more than 10,000.",
+        "published": "Thu, 05 Nov 2026 16:04:55 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20842255/?type=app&htype=0"
+      },
+      {
         "id": "374a461e7b60c1d414603be5bc21942f",
         "title": "Murder bid thugs shot Glasgow shopkeeper as he served mum and young daughter",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26703243.two-men-convicted-shooting-glasgow-shop-worker/",
@@ -3219,14 +3227,6 @@
         "description": "Concerns have been raised over the lack of council-funded Christmas lights on a Cumbernauld dual carriageway.",
         "published": "Thu, 05 Nov 2026 13:49:17 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21675105/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cwly3779klz5o#0",
-        "title": "Funding approved for Egyptian Halls redevelopment plans",
-        "link": "https://www.bbc.co.uk/news/articles/cwly3779klz5o?at_medium=RSS&at_campaign=rss",
-        "description": "Funding to progress a potential redevelopment of a derelict category A-listed building is approved.",
-        "published": "Thu, 05 Nov 2026 13:36:42 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e7/live/7c3744d0-d91a-11f1-ad94-e17fee4cd332.jpg"
       },
       {
         "id": "2c061fb1406b591c1e063469ecfdca04",
