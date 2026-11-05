@@ -3109,12 +3109,76 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cmx2qzq48d7go#0",
+        "title": "Glasgow City Council announces plans for up to 12,000 more homes",
+        "link": "https://www.bbc.co.uk/news/articles/cmx2qzq48d7go?at_medium=RSS&at_campaign=rss",
+        "description": "The city has been in a housing emergency since 2023, with heavy pressure on the city's homelessness services.",
+        "published": "Thu, 05 Nov 2026 12:47:52 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b6f/live/327333a0-d914-11f1-a81d-35e942472442.jpg"
+      },
+      {
+        "id": "3d2dc9c8ef6139d6daf8986068519f90",
+        "title": "World-first robotic surgery programme launched at Glasgow children's hospital",
+        "link": "https://www.glasgowtimes.co.uk/news/26702183.asgow-hospital-launches-world-first-robotic-surgery/",
+        "description": "Glasgow\u2019s Royal Hospital for Children launches the world\u2019s first dedicated paediatric Versius Plus robotic surgery programme after a \u00a31.5m donation.",
+        "published": "Thu, 05 Nov 2026 12:45:19 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21674681/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/clean-teams-introduced-each-glasgow-34866740",
+        "title": "\u2018Clean teams\u2019 introduced to each Glasgow area in \u00a37m council investment to tackle fly-tipping",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/clean-teams-introduced-each-glasgow-34866740",
+        "description": "Resident feedback in the council's annual household survey highlighted that the condition of Glasgow's streets and parks is a &quot;top priority&quot;.",
+        "published": "Thu, 5 Nov 2026 12:31:38 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33192867.ece/ALTERNATES/s98/0_flytippingjpeg.jpg"
+      },
+      {
+        "id": "fb88e91e4e38d92ef782be21b0cdaf34",
+        "title": "Bank of England raises interest rates to 4 per cent and warns further hikes possible",
+        "link": "https://www.heraldscotland.com/news/26701963.rates-rise-4-bank-warns-another-hike-may-follow/",
+        "description": "The Bank of England has raised interest rates to 4% for the first time in over three years, warning that Middle East tensions could force further hikes as inflation is forecast to peak at around 5% next year.",
+        "published": "Thu, 05 Nov 2026 12:10:16 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21674303/?type=app&htype=0"
+      },
+      {
+        "id": "cd88a191cf93db63fed4b6062f070108",
+        "title": "Group of veteran whisky entrepreneurs launch \u00a316 million Scottish spirits group",
+        "link": "https://www.heraldscotland.com/news/26701867.whisky-entrepreneurs-launch-new-scottish-spirits-group/",
+        "description": "A group of veteran whisky entrepreneurs have combined forces to launch MBH Holding, an independent Scottish spirits group operating across Scotch whisky, independent bottling, branded products, travel, cask ownership and rare spirits.",
+        "published": "Thu, 05 Nov 2026 11:56:31 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21674143/?type=app&htype=0"
+      },
+      {
+        "id": "cc4748c307b2db8ef3b2100d6ea9df98",
+        "title": "Greens call for fireworks sales ban on second anniversary of red panda's death",
+        "link": "https://www.heraldscotland.com/news/26701756.greens-call-fireworks-sales-ban-edinburgh-zoo-tragedy/",
+        "description": "Maggie Chapman said that the death of Roxie, who was found to have choked on her vomit as fireworks were set off near the zoo, was 'heart-breaking'.",
+        "published": "Thu, 05 Nov 2026 11:53:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/16768571/?type=app&htype=0"
+      },
+      {
         "id": "9332088",
         "title": "Glasgow council backs \u00a3600,000 grant for Egyptian Halls redevelopment",
         "link": "https://www.glasgowworld.com/news/glasgow-council-egyptian-halls-redevelopment-grant-9332088",
         "description": "<p>Glasgow\u2019s Egyptian Halls developers to receive up to \u00a3600,000 in council grant funding</p>",
         "published": "Thu, 05 Nov 2026 11:48:08 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/03/10/10/24/Screenshot-2026-03-10-104613.jpeg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
+        "id": "49bef2458cdc33271eae25e14e985325",
+        "title": "Ofgem opens investigation into Scottish Power",
+        "link": "https://www.heraldscotland.com/news/26701713.ofgem-opens-investigation-scottish-power-customer-care/",
+        "description": "Ofgem is examining Scottish Power\u2019s support for vulnerable customers",
+        "published": "Thu, 05 Nov 2026 11:33:14 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21339040/?type=app&htype=0"
+      },
+      {
+        "id": "1a929404a23d2899a85f2c0373234c17",
+        "title": "From St Andrews to AI: What happens when underlying business assumptions change?",
+        "link": "https://www.heraldscotland.com/news/26672103.scottish-businesses-adapting-economic-change/",
+        "description": "From the Old Course Hotel and business rates to car dealers, AI and Coul Links, Scottish businesses are being forced to respond to change",
+        "published": "Thu, 05 Nov 2026 11:30:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20483760/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=536687",
@@ -3147,6 +3211,22 @@
         "description": "Channel 4 has cancelled Married At First Sight UK after an external review - season six and a UK/Australia spin-off will not be aired.",
         "published": "Thu, 05 Nov 2026 11:02:48 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21673523/?type=app&htype=58"
+      },
+      {
+        "id": "e422d7a5cce1c28d10a0c26bf1c8a305",
+        "title": "Plans progress for 260 new homes in Orkney as architect appointed",
+        "link": "https://www.heraldscotland.com/news/26701496.plans-deliver-260-new-homes-orkney-take-step-forward/",
+        "description": "Plans to deliver around 260 new homes across two key development sites in Orkney have taken a major step forward, with Places for People (PfP) Scotland appointing an architect to help bring the schemes to life.",
+        "published": "Thu, 05 Nov 2026 11:01:05 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21474906/?type=app&htype=0"
+      },
+      {
+        "id": "1300f847a0d0351cc5eac63389ff918f",
+        "title": "What's next for the Isle of Skye now its only Michelin star has twinkled out?",
+        "link": "https://www.heraldscotland.com/opinion/26695857.isle-skye-doesnt-need-michelin-star-shine/",
+        "description": "On Saturday evening, one of only 15 Michelin stars in Scotland twinkled out as Loch Bay restaurant on the Isle of Skye hosted its final dinner service.",
+        "published": "Thu, 05 Nov 2026 11:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/6971837/?type=app&htype=0"
       },
       {
         "id": "2e627bb786b1a651c147388ce688014c",
