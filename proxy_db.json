@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c54g14v42ykgo#5",
+        "title": "Altar Stone mystery continues as Stonehenge theory overturned",
+        "link": "https://www.bbc.co.uk/news/articles/c54g14v42ykgo?at_medium=RSS&at_campaign=rss",
+        "description": "It was thought the Stonehenge artefact was from north east Scotland but a new study disputes that.",
+        "published": "Thu, 05 Nov 2026 06:37:54 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b74/live/598ae780-bd55-11ef-bef2-3bd03e619b16.jpg"
+      },
+      {
         "id": "1793835318628615",
         "title": "Typhoons batter East Asia as El Ni\u00f1o makes Pacific 'burn with fever'",
         "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The global AI race is being hit by very localised political and environmental concerns",
         "published": "Tue, 15 Sep 2026 23:39:55 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fda/live/b901c2a0-b101-11f1-a540-61c3f7fc4e6c.jpg"
-      },
-      {
-        "id": "1789515617792261",
-        "title": "AI app ads promoting 'objectification of women' banned by watchdog",
-        "link": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
-        "description": "The ad regulator said it had \"zero-tolerance\" for ads promoting AI tools that could sexualise or objectify women.",
-        "published": "Wed, 16 Sep 2026 01:27:17 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e86/live/e6499b60-b111-11f1-8907-39a652c5e20e.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -3123,6 +3123,14 @@
         "description": "Efforts to secure a much-needed community facility in Glasgow's East End, closed and vacant for seven years, appear to have stalled.",
         "published": "Thu, 05 Nov 2026 06:00:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21672005/?type=app&htype=0"
+      },
+      {
+        "id": "75cfe81dbdb05964af19415f8d046c49",
+        "title": "\u2018Alarmingly low\u2019: Police Scotland has one Taser for every three trained officers",
+        "link": "https://www.heraldscotland.com/news/26700145.police-scotland-641-tasers-thousands-officers/",
+        "description": "Police Scotland has 641 Tasers for thousands of specially trained officers.",
+        "published": "Thu, 05 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20873195/?type=app&htype=0"
       },
       {
         "id": "3483ed51c05aab873fd978bb0e081519",
