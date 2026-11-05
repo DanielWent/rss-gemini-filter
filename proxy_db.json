@@ -3117,6 +3117,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=536874",
+        "title": "Police car set alight and ambulance worker injured while attending injured man",
+        "link": "https://news.stv.tv/west-central/police-car-set-alight-and-ambulance-worker-injured-while-attending-injured-man",
+        "description": "One male has been arrested in connection with the incident in Glasgow",
+        "published": "Thu, 05 Nov 2026 22:04:53 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/f9a9f4e3d159918e1480691964954181-1793916131-1280x720.jpeg"
+      },
+      {
         "id": "9333736",
         "title": "Police and ambulance crews attacked in Bonfire Night disorder in Riddrie area of Glasgow",
         "link": "https://www.glasgowworld.com/news/police-and-ambulance-crews-attacked-in-bonfire-night-disorder-in-riddrie-area-of-glasgow-9333736",
@@ -3125,12 +3133,12 @@
         "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOjY3ZjYzYTE2LTRiNTUtNGI4YS1iZmY5LTE2YjY3MTZkNGM2OTpmMDJhMGViMS0yYWZmLTRlYjEtYTQ1NC01NDRiOTdjMzRhMGI=.jpg?width=1200&auto=webp&crop=3%3A2"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/cm0ldd8kyn36o#0",
-        "title": "Police car set alight in Glasgow amid Bonfire Night trouble",
-        "link": "https://www.bbc.co.uk/news/articles/cm0ldd8kyn36o?at_medium=RSS&at_campaign=rss",
-        "description": "The car was torched after officers answered reports of an injured man in the Provanmill area of Glasgow.",
-        "published": "Thu, 05 Nov 2026 21:47:07 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb5f/live/c3c42c10-d95f-11f1-a800-d9dce9e5aa21.jpg"
+        "id": "4b9ec4c99f6fcebbc724237795f4718c",
+        "title": "Vagrant Real Estate wins 2026 Scottish Album of the Year Award",
+        "link": "https://www.heraldscotland.com/news/26704163.vagrant-real-estate-wins-2026-scottish-album-year/",
+        "description": "Aberdeen producer and DJ Vagrant Real Estate wins the 2026 Scottish Album of the Year Award and \u00a320,000 for Neither Collar Nor Crown in Dundee, Scotland",
+        "published": "Thu, 05 Nov 2026 21:35:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21677626/?type=app&htype=0"
       },
       {
         "id": "67666e8e39ebbd927b1733c1825c047e",
@@ -3907,14 +3915,6 @@
         "description": "A key road has been shut, with delays expected for drivers and shoppers in the north of Glasgow.",
         "published": "Wed, 04 Nov 2026 15:43:17 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17882119/?type=app&htype=0"
-      },
-      {
-        "id": "1d733fa9859d962ecd588f47b4299de1",
-        "title": "Bus fare cap in greater Glasgow could cost ScotRail \u00a320 million, MSPs told",
-        "link": "https://www.heraldscotland.com/news/26699615.bus-fare-cap-greater-glasgow-could-cost-scotrail-20-million/",
-        "description": "The \u00a32 bus fare cap in the greater Glasgow area could cost ScotRail as much as \u00a320 million, MSPs have been told, as passengers jump from train journeys.",
-        "published": "Wed, 04 Nov 2026 15:41:04 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/20292211/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
