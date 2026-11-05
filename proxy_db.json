@@ -2194,6 +2194,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "bf50cb87aa30d4582b463ff7aecc95f2",
+        "title": "Glasgow centre supporting 76,000 veterans joins major \u00a350m support network",
+        "link": "https://www.glasgowtimes.co.uk/news/26703205.glasgow-veterans-centre-joins-50m-uk-support-network/",
+        "description": "Glasgow veteran support centre joins VALOUR network as \u00a350m UK Government investment expands care, housing and employment services across Scotland.",
+        "published": "Thu, 05 Nov 2026 15:35:15 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20748667/?type=app&htype=0"
+      },
+      {
         "id": "0cf9a019d162f1aa80ebfc4055dbca36",
         "title": "East Dunbartonshire schools could close for two extra days under new plans",
         "link": "https://www.glasgowtimes.co.uk/news/26702215.east-dunbartonshire-schools-get-two-extra-in-service-days/",
@@ -2984,14 +2992,6 @@
         "description": "Community groups in East Dunbartonshire\u00a0are being offered the chance to secure up to \u00a34000 in funding for new projects.",
         "published": "Sat, 29 Aug 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21380338/?type=app&htype=0"
-      },
-      {
-        "id": "b3e61543aeab8af64f9076cf90199094",
-        "title": "'Massive mystery' - Man's shock after 'hooded individual slashes car tyres'",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26504308.mans-shock-car-tyres-slashed-street-milngavie/",
-        "description": "A man whose car tyres were slashed during the early hours of the morning on a quiet street says the incident is \u201cone massive mystery\u201d.",
-        "published": "Sat, 29 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21384793/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3108,6 +3108,54 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "374a461e7b60c1d414603be5bc21942f",
+        "title": "Murder bid thugs shot Glasgow shopkeeper as he served mum and young daughter",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26703243.two-men-convicted-shooting-glasgow-shop-worker/",
+        "description": "Gary Rooney and Darren Beaton convicted of attempted murder after Glasgow shop worker Javid Akhtar was shot at Drumoyne Stores on October 25, 2024.",
+        "published": "Thu, 05 Nov 2026 15:41:51 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21676181/?type=app&htype=0"
+      },
+      {
+        "id": "9a7213f6cc23228409ede3fa06a6ed67",
+        "title": "Popular Glasgow fireworks display cancelled hours before Bonfire Night",
+        "link": "https://www.glasgowtimes.co.uk/news/26703241.spooktacular-glasgow-bonfire-fireworks-display-cancelled/",
+        "description": "Spooktacular Glasgow\u2019s bonfire and fireworks display has been cancelled hours before it was due to take place.",
+        "published": "Thu, 05 Nov 2026 15:41:46 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21660151/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/new-winter-festival-coming-glasgow-34868038",
+        "title": "New Winter Festival coming to Glasgow Finnieston with magical Spiegeltent line-up",
+        "link": "https://www.glasgowlive.co.uk/whats-on/new-winter-festival-coming-glasgow-34868038",
+        "description": "It's a new Christmas festival with &quot;affordability at its heart&quot; and will include performances from KPOP Trio, Susie McCabe and a special panto.",
+        "published": "Thu, 5 Nov 2026 15:37:40 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34868638.ece/ALTERNATES/s98/0_Spiegeltent.jpg"
+      },
+      {
+        "id": "bf50cb87aa30d4582b463ff7aecc95f2",
+        "title": "Glasgow centre supporting 76,000 veterans joins major \u00a350m support network",
+        "link": "https://www.glasgowtimes.co.uk/news/26703205.glasgow-veterans-centre-joins-50m-uk-support-network/",
+        "description": "Glasgow veteran support centre joins VALOUR network as \u00a350m UK Government investment expands care, housing and employment services across Scotland.",
+        "published": "Thu, 05 Nov 2026 15:35:15 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20748667/?type=app&htype=0"
+      },
+      {
+        "id": "6f0415a0a631ada3677f904f36d46615",
+        "title": "Primary school near Glasgow given green light for roof upgrade despite objection",
+        "link": "https://www.glasgowtimes.co.uk/news/26703123.kilsyth-primary-school-roof-upgrade-plans-approved/",
+        "description": "Plans to upgrade the roof at Kilsyth Primary School have been approved by North Lanarkshire Council despite concerns from a nearby resident.",
+        "published": "Thu, 05 Nov 2026 15:24:03 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21676022/?type=app&htype=0"
+      },
+      {
+        "id": "ab04edd5f857b0a392aee9ce87720abc",
+        "title": "Egyptian Halls owner questions Glasgow council\u2019s \u00a3600,000 grant to rival developer",
+        "link": "https://www.glasgowtimes.co.uk/news/26703043.egyptian-halls-owner-questions-600-000-council-grant/",
+        "description": "The current owner of the Egyptian Halls has questioned the grant on more than half a million pounds to another developer to progress plans for the historic site.",
+        "published": "Thu, 05 Nov 2026 15:12:53 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20488917/?type=app&htype=0"
+      },
       {
         "id": "f6bddab1be8c0e9ae2d3b83d434fc071",
         "title": "First look at Glasgow Christmas market as it takes shape ahead of Friday opening",
