@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/ckx2dd91vz51o#4",
+        "title": "Man investigated for leaving 17-year-old on Germany's highest mountain",
+        "link": "https://www.bbc.co.uk/news/articles/ckx2dd91vz51o?at_medium=RSS&at_campaign=rss",
+        "description": "The teenager was eventually rescued on Zugspitze and has since been discharged from hospital.",
+        "published": "Fri, 06 Nov 2026 12:31:34 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a16/live/dd2f48f0-d9ce-11f1-9e5a-c30c5e3d8c85.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c6x2w4ej245ko#4",
         "title": "AI teddy for three-year-olds makes unprompted 'I can't help with killing you' remark",
         "link": "https://www.bbc.co.uk/news/articles/c6x2w4ej245ko?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The US president has pushed the issue to the forefront of American politics - even at the risk of losing supporters.",
         "published": "Wed, 16 Sep 2026 08:41:44 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c0a/live/6439c3e0-b1aa-11f1-8b77-cd7827f05bee.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cw8r6mvjdvedo#1",
-        "title": "Japan to charge rescue fee on Mount Fuji during off season",
-        "link": "https://www.bbc.co.uk/news/articles/cw8r6mvjdvedo?at_medium=RSS&at_campaign=rss",
-        "description": "The fee is among a series of measures Yamanashi prefecture is introducing to deter reckless climbers.",
-        "published": "Wed, 16 Sep 2026 02:40:51 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eeee/live/ef4909e0-b174-11f1-b156-071943a3942c.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -3116,6 +3116,38 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "802d97112d6da8856019f0958e0c67cb",
+        "title": "Drivers warned of delays at one of Glasgow's busiest junctions amid emergency works",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26705977.glasgow-junction-reduced-one-lane-water-repairs/",
+        "description": "Drivers face delays at Glasgow\u2019s Anderston Cross as emergency Scottish Water repairs reduce North Street and Argyle Street approaches to one lane each.",
+        "published": "Fri, 06 Nov 2026 12:33:22 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20771357/?type=app&htype=0"
+      },
+      {
+        "id": "dc9b2b0e2ca4fd25afe15d8a0a5d7543",
+        "title": "New guide could help families uncover secrets of their Scottish ancestors",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26705942.scottish-ancestry-guide-updated-new-historic-records/",
+        "description": "The eighth edition of the best-selling book Tracing Your Scottish Ancestors has been released.",
+        "published": "Fri, 06 Nov 2026 12:26:57 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20468700/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/overcrowding-glasgow-flats-getting-worse-34872687",
+        "title": "Overcrowding in Glasgow flats getting worse as mum sleeping in living room",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/overcrowding-glasgow-flats-getting-worse-34872687",
+        "description": "Many flats are being allocated to homeless people.",
+        "published": "Fri, 6 Nov 2026 12:24:12 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34872801.ece/ALTERNATES/s98/0_Buildingfuturesjpeg.jpg"
+      },
+      {
+        "id": "2ba2e9339cba10cecc9c1a07a6b4ffc1",
+        "title": "Council deputy leader suspended after phone call left housing officer in tears",
+        "link": "https://www.glasgowtimes.co.uk/news/26705890.deputy-council-leader-near-glasgow-suspended-phone-call/",
+        "description": "South Lanarkshire Council depute leader Gerry Convery has been suspended after a phone call left a housing officer visibly upset and in tears.",
+        "published": "Fri, 06 Nov 2026 12:16:41 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21679466/?type=app&htype=0"
+      },
       {
         "id": "e3f321a3b5ad8f15000d780867d2abd1",
         "title": "Iconic Glasgow venue to showcase over 80 emerging Scottish artists in January",
