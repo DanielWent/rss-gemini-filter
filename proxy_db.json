@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo#3",
+        "title": "Could the US midterms burst the AI bubble?",
+        "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+        "description": "Fears of more AI regulation appear to have sparked fear among investors, but  concerns about the industry have been growing for some time.",
+        "published": "Fri, 06 Nov 2026 16:14:23 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f055/live/19529fe0-d9fb-11f1-93e1-3b657b665bcf.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/ckx2dd91vz51o#4",
         "title": "Man investigated for leaving 17-year-old on Germany's highest mountain",
         "link": "https://www.bbc.co.uk/news/articles/ckx2dd91vz51o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The growth of AI is happening at lightning pace, so what are the advantages and disadvantages of Scotland being at the forefront?",
         "published": "Wed, 16 Sep 2026 11:40:39 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/607a/live/4fe39fa0-b1c4-11f1-b1d1-571ed4d7ff2c.png"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c34gd48x5rlwo#3",
-        "title": "Why Trump is all-in on AI despite the warnings",
-        "link": "https://www.bbc.co.uk/news/articles/c34gd48x5rlwo?at_medium=RSS&at_campaign=rss",
-        "description": "The US president has pushed the issue to the forefront of American politics - even at the risk of losing supporters.",
-        "published": "Wed, 16 Sep 2026 08:41:44 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c0a/live/6439c3e0-b1aa-11f1-8b77-cd7827f05bee.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -3117,6 +3117,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "faa2934c2dd97dd2a3bdc283af8cba9d",
+        "title": "Billy Ocean announces his return to Glasgow as part of 2027 tour",
+        "link": "https://www.glasgowtimes.co.uk/news/26707292.billy-ocean-announces-glasgow-concert-part-2027-tour/",
+        "description": "Billy Ocean announces Glasgow SEC Armadillo concert on October 17, 2027, with Tony Hadley and Heather Small, celebrating 50 years of Red Light Spells Danger.",
+        "published": "Fri, 06 Nov 2026 16:00:01 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16005552/?type=app&htype=0"
+      },
+      {
         "id": "9335447",
         "title": "Six men convicted of \u00a36m Glasgow cryptocurrency operation",
         "link": "https://www.glasgowworld.com/news/six-men-convicted-glasgow-cryptocurrency-operation-9335447",
@@ -3133,12 +3141,36 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19153596/?type=app&htype=0"
       },
       {
+        "id": "def4af7f42dd5e4533e96d7c67d10750",
+        "title": "Prison operator and NHS board admit criminal charges over inmate's death from Covid",
+        "link": "https://www.heraldscotland.com/news/26706816.prison-operator-nhs-board-guilty-inmates-covid-death/",
+        "description": "A prisoner who died in his cell 12 days after testing positive for Covid-19 was treated \u201cworse than an animal\u201d, his family\u2019s lawyer has said.",
+        "published": "Fri, 06 Nov 2026 14:57:32 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21680819/?type=app&htype=0"
+      },
+      {
+        "id": "ff22fb50c600a806368bccc9e3b163a4",
+        "title": "Inverclyde ranks among Scotland's top five council areas for recycling",
+        "link": "https://www.heraldscotland.com/news/26706722.inverclyde-named-among-scotlands-top-five-recycling/",
+        "description": "Inverclyde has been named one of Scotland's top five council areas for recycling, with 53.1% of municipal waste reused or repurposed, according to SEPA figures.",
+        "published": "Fri, 06 Nov 2026 14:50:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21010422/?type=app&htype=0"
+      },
+      {
         "id": "007a9de16c8d0083d8bd57ec81e89784",
         "title": "Two Glasgow roads closed as crews investigates sudden loss of water supply",
         "link": "https://www.glasgowtimes.co.uk/news/26706638.two-glasgow-roads-closed-crews-investigate-water-loss/",
         "description": "Glasgow road closures affect the Broomielaw and McAlpine Street as Scottish Water investigates a loss of supply. Diversions are in place; reopening is unknown.",
         "published": "Fri, 06 Nov 2026 14:30:17 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17119543/?type=app&htype=9"
+      },
+      {
+        "id": "8f4642a8c185670c36910027cb0f2245",
+        "title": "MSPs demand answers from Scottish Government over new traditional music company",
+        "link": "https://www.heraldscotland.com/news/26706581.msps-demands-snp-answers-rationale-new-trad-music-company/",
+        "description": "Culture secretary is facing M\u00e0iri McAllan is facing demands from a Holyrood committee to explain the origins of a planned new company dedicated to Scottish traditional music.",
+        "published": "Fri, 06 Nov 2026 14:22:04 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20831626/?type=app&htype=0"
       },
       {
         "id": "a26f0f1d07eb4f1eb50b1c005695927d",
