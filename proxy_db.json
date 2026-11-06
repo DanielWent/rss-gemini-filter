@@ -3117,6 +3117,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cq98zzkl8982o#0",
+        "title": "Franz Ferdinand turning to art at Glasgow Print Studio",
+        "link": "https://www.bbc.co.uk/news/articles/cq98zzkl8982o?at_medium=RSS&at_campaign=rss",
+        "description": "Kirsty Wark and Sanjeev Kohli are also among those taking part in the Call and Response project.",
+        "published": "Fri, 06 Nov 2026 23:02:26 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fde/live/6be8c210-da24-11f1-a78c-49bd6dfbb9b5.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cm9qz9r8d9wlo#0",
+        "title": "From young offender to junior doctor: 'I wrote a plan and stuck to it'",
+        "link": "https://www.bbc.co.uk/news/articles/cm9qz9r8d9wlo?at_medium=RSS&at_campaign=rss",
+        "description": "Steven Beattie left Scotland's most violent prison 20 years ago vowing to turn his life around.",
+        "published": "Fri, 06 Nov 2026 23:01:04 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5a1/live/faecd800-d9e5-11f1-93e1-3b657b665bcf.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c3qjnn2yrj47o#0",
+        "title": "Delays expected as two weekends of M8 closures begin",
+        "link": "https://www.bbc.co.uk/news/articles/c3qjnn2yrj47o?at_medium=RSS&at_campaign=rss",
+        "description": "Scotland's busiest motorway will be closed in both directions as work takes place to replace two footbridges in Glasgow.",
+        "published": "Fri, 06 Nov 2026 23:00:04 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f025/live/2463b750-da11-11f1-bbd1-cf41b7fd4e9b.png"
+      },
+      {
         "id": "https://news.stv.tv/?p=537014",
         "title": "Derelict primary school set alight during Bonfire Night as police investigate",
         "link": "https://news.stv.tv/west-central/derelict-primary-school-set-alight-during-bonfire-night-as-police-investigate",
