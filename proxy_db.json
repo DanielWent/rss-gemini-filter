@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c6x2w4ej245ko#4",
+        "title": "AI teddy for three-year-olds makes unprompted 'I can't help with killing you' remark",
+        "link": "https://www.bbc.co.uk/news/articles/c6x2w4ej245ko?at_medium=RSS&at_campaign=rss",
+        "description": "MPs and peers have urged retailers to remove AI toys from sale ahead of Black Friday and Christmas.",
+        "published": "Fri, 06 Nov 2026 06:08:49 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d8a/live/8115c650-d9b2-11f1-bbc7-9574ed12e2df.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o#5",
         "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
         "link": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The fee is among a series of measures Yamanashi prefecture is introducing to deter reckless climbers.",
         "published": "Wed, 16 Sep 2026 02:40:51 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eeee/live/ef4909e0-b174-11f1-b156-071943a3942c.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o#1",
-        "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
-        "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-        "description": "As the world debates an AI slowdown, Sam Altman and several other tech leaders say they have incentives to self-police their AI advancements.",
-        "published": "Wed, 16 Sep 2026 00:13:09 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cc2/live/2332d760-b15f-11f1-a430-4d16ee157c41.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -3116,6 +3116,14 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "fb227173d99250776b76206cbce948f6",
+        "title": "Emergency response as van and car go up in flames near Glasgow on Bonfire Night",
+        "link": "https://www.glasgowtimes.co.uk/news/26704313.van-car-fire-coatbridge-bonfire-night/",
+        "description": "Firefighters rushed to Stewart Street in Coatbridge after a van and car went up in flames on Bonfire Night. No casualties were reported.",
+        "published": "Fri, 06 Nov 2026 07:18:26 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19721482/?type=app&htype=0"
+      },
       {
         "id": "9333804",
         "title": "In Pictures: Emergency services attacked and bonfires erupt during Bonfire Night 2026 in Glasgow",
