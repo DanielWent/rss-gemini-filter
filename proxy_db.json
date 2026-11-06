@@ -3117,12 +3117,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "a159ef1c5b9ef62bacf612ca17432d09",
+        "title": "Mum demands better NHS rare disease care as daughter travels abroad for drug trial",
+        "link": "https://www.heraldscotland.com/news/26701750.scottish-mum-calls-nhs-rare-disease-treatment-pilot/",
+        "description": "A Livingston mum whose daughter, 10, travels to Germany for a rare disease drug trial is urging Scotland to pilot faster access to NHS treatments.",
+        "published": "Fri, 06 Nov 2026 05:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21676351/?type=app&htype=0"
+      },
+      {
+        "id": "5f78e06870f928964a4231cca6b558f6",
+        "title": "Flynn told to \u2018get on top of\u2019 his department after dismissing Dalzell steel claims",
+        "link": "https://www.heraldscotland.com/news/26704059.flynn-gfg-group-allegations-matters-company/",
+        "description": "Economy Secretary Stephen Flynn has been accused of refusing to account for tens of millions in public money after dismissing whistleblower allegations about Sanjeev Gupta's Dalzell steelworks as matters for the company, not government.",
+        "published": "Fri, 06 Nov 2026 05:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20979281/?type=app&htype=0"
+      },
+      {
         "id": "9333804",
         "title": "In Pictures: Emergency services attacked and bonfires erupt during Bonfire Night 2026 in Glasgow",
         "link": "https://www.glasgowworld.com/news/emergency-services-attacked-and-bonfires-during-bonfire-night-2026-in-glasgow-9333804",
         "description": "<p>Emergency services were attacked and bonfires erupted during Bonfire Night 2026 in Glasgow, with footage showing the chaos and destruction.</p>",
         "published": "Fri, 06 Nov 2026 04:50:10 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/05/22/55/GettyImages-2303721736-(1)-fd81e9f7.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "b050826f29b8725dcf486a01fb10f0a0",
+        "title": "So what now for overseas travel and Scotland\u2019s airports?",
+        "link": "https://www.heraldscotland.com/opinion/26703464.ryanair-fares-warning-matters-scottish-airports/",
+        "description": "Ryanair's warning on fares was the kind of thing to make you sit up and take note. Here is why it matters.",
+        "published": "Fri, 06 Nov 2026 04:40:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21676742/?type=app&htype=0"
       },
       {
         "id": "9333449",
@@ -3891,30 +3915,6 @@
         "description": "SSE has opened a new Glasgow office at the Aurora building on Bothwell Street, bringing together around 640 staff as the energy group expands its investment across Scotland.",
         "published": "Wed, 04 Nov 2026 16:32:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21671690/?type=app&htype=0"
-      },
-      {
-        "id": "2fea50a1bb301f4520d2539832cff7ef",
-        "title": "Why is everyone at Holyrood talking about the SNP's David Linden?",
-        "link": "https://www.heraldscotland.com/news/26699711.everyone-holyrood-talking-david-linden/",
-        "description": "Before I incur the wrath of David Linden I should make clear that the new SNP MSP for Baillieston and Shettleston is being spoken about in a positive way.",
-        "published": "Wed, 04 Nov 2026 15:54:55 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21671355/?type=app&htype=0"
-      },
-      {
-        "id": "84122b8bc2ebdebb91f6cbc909e7ed25",
-        "title": "Police raid Glasgow address after year-long investigation into string of offences",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26699705.man-charged-alleged-theft-fraud-across-glasgow-area/",
-        "description": "A 40-year-old man has been arrested and charged following a string of alleged theft and fraud offences across the west of Glasgow and parts of East Dunbartonshire.",
-        "published": "Wed, 04 Nov 2026 15:54:30 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21671362/?type=app&htype=0"
-      },
-      {
-        "id": "62188004a53dd0a77f17dac19774e816",
-        "title": "Road closed at busy Glasgow retail park near Costco as drivers warned of disruption",
-        "link": "https://www.glasgowtimes.co.uk/news/26699633.st-rollox-brae-closure-forces-retail-park-diversion/",
-        "description": "A key road has been shut, with delays expected for drivers and shoppers in the north of Glasgow.",
-        "published": "Wed, 04 Nov 2026 15:43:17 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17882119/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
