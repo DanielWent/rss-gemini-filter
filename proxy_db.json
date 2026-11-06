@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o#5",
+        "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
+        "link": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
+        "description": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
+        "published": "Fri, 06 Nov 2026 01:22:39 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dca/live/cb01af10-d8ed-11f1-b7ca-cbaa67b24b8c.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c54g14v42ykgo#5",
         "title": "Altar Stone mystery continues as Stonehenge theory overturned",
         "link": "https://www.bbc.co.uk/news/articles/c54g14v42ykgo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "As the world debates an AI slowdown, Sam Altman and several other tech leaders say they have incentives to self-police their AI advancements.",
         "published": "Wed, 16 Sep 2026 00:13:09 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cc2/live/2332d760-b15f-11f1-a430-4d16ee157c41.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cv986j48l66ko#3",
-        "title": "Why doomsday warnings are not the only threat to the AI juggernaut",
-        "link": "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss",
-        "description": "The global AI race is being hit by very localised political and environmental concerns",
-        "published": "Tue, 15 Sep 2026 23:39:55 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fda/live/b901c2a0-b101-11f1-a540-61c3f7fc4e6c.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
