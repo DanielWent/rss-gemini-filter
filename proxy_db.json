@@ -3117,6 +3117,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=536976",
+        "title": "Hunt for suspect after man injured in Bonfire Night stabbing in Glasgow",
+        "link": "https://news.stv.tv/west-central/hunt-for-suspect-after-man-injured-in-bonfire-night-stabbing-in-glasgow",
+        "description": "A 53-year-old man was taken to hospital following the incident in the Greenfield area on Thursday",
+        "published": "Fri, 06 Nov 2026 13:51:46 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/21845ce850fd03f916a413cdaeaac4d6-1793898816-1280x720.jpeg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/full-list-scottish-bank-holidays-34873174",
         "title": "Full list of Scottish bank holidays 2027 as seven will move",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/full-list-scottish-bank-holidays-34873174",
@@ -3147,6 +3155,14 @@
         "description": "Police Scotland arrested a 71-year-old man, later released without charge, over the theft of Glasgow\u2019s Lipton Cup from Riverside Museum. Enquiries continue.",
         "published": "Fri, 06 Nov 2026 12:48:13 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20857287/?type=app&htype=0"
+      },
+      {
+        "id": "abc46f213edebb7614289757e7686c75",
+        "title": "Edinburgh council leader 'angry and disappointed' after Bonfire Night disorder",
+        "link": "https://www.heraldscotland.com/news/26705963.edinburgh-councillor-condemns-bonfire-night-fireworks-attacks/",
+        "description": "Councillor Meagher hit out at \u201cisolated incidents of disorder\u201d caused by troublemakers \u201cseemingly intent on causing fear and alarm in our\u00a0communities\".",
+        "published": "Fri, 06 Nov 2026 12:43:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21679625/?type=app&htype=0"
       },
       {
         "id": "802d97112d6da8856019f0958e0c67cb",
@@ -3251,6 +3267,14 @@
         "description": "Attacks on emergency services have been branded \"utterly reckless and disgraceful\" after police and ambulance staff in Glasgow were targeted with fireworks on Bonfire Night.",
         "published": "Fri, 06 Nov 2026 11:06:36 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21678961/?type=app&htype=0"
+      },
+      {
+        "id": "6162d2588e2a93ad690ba8d24cf7f2a9",
+        "title": "First look: New pub with 'rare' 9am licence opens in Glasgow",
+        "link": "https://www.heraldscotland.com/news/26705442.new-glasgow-pub-rare-9am-licence-opens-bonfire-night/",
+        "description": "A new pub with a 'rare old' 9 am licence opened its doors in Glasgow last night.",
+        "published": "Fri, 06 Nov 2026 11:05:10 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21679373/?type=app&htype=0"
       },
       {
         "id": "522c5caee4d8dad262f70ce514e89a83",
