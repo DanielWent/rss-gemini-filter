@@ -3117,12 +3117,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "e3f321a3b5ad8f15000d780867d2abd1",
+        "title": "Iconic Glasgow venue to showcase over 80 emerging Scottish artists in January",
+        "link": "https://www.glasgowtimes.co.uk/news/26705872.glasgows-king-tuts-host-new-years-revolution/",
+        "description": "King Tut\u2019s Wah Wah Hut in Glasgow will host its annual New Year\u2019s Revolution throughout January.",
+        "published": "Fri, 06 Nov 2026 12:14:30 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20538210/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=536935",
         "title": "A78 to partially reopen between Skelmorlie and Largs as Storm Boelo repairs continue",
         "link": "https://news.stv.tv/west-central/a78-to-partially-reopen-between-skelmorlie-and-largs-as-storm-boelo-repairs-continue",
         "description": "The A78 Shore Road has been closed since major damage was sustained during Storm Boelo.",
         "published": "Fri, 06 Nov 2026 11:54:21 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/abf96282a31b865e2bb660d25744dfcc-1793964533.jpeg"
+      },
+      {
+        "id": "df8aea392875e6470993bb1a9c5f4954",
+        "title": "Fire crews tackle blaze near homes in Lanarkshire on Bonfire Night",
+        "link": "https://www.glasgowtimes.co.uk/news/26705717.fire-crews-tackle-blaze-near-homes-rutherglen/",
+        "description": "Firefighters spent almost two hours tackling a blaze on Bute Road in Rutherglen after emergency services were alerted on Bonfire Night.",
+        "published": "Fri, 06 Nov 2026 11:52:36 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21679310/?type=app&htype=41"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-man-stabbed-evening-attack-34872222",
@@ -3147,6 +3163,14 @@
         "description": "A man has pleaded guilty to sexually assaulting a child under 10.",
         "published": "Fri, 06 Nov 2026 11:21:22 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21190813/?type=app&htype=0"
+      },
+      {
+        "id": "ed1c0be6af5cd925a064cc3d59a81c3d",
+        "title": "\u2018Enough is enough\u2019 after Glasgow emergency crews attacked with fireworks",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26705453.enough-enough-glasgow-bonfire-night-attacks/",
+        "description": "Attacks on emergency services have been branded \"utterly reckless and disgraceful\" after police and ambulance staff in Glasgow were targeted with fireworks on Bonfire Night.",
+        "published": "Fri, 06 Nov 2026 11:06:36 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21678961/?type=app&htype=0"
       },
       {
         "id": "522c5caee4d8dad262f70ce514e89a83",
