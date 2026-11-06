@@ -3117,6 +3117,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "95072c1bdfcbfd5d818ebf126c5d3c3b",
+        "title": "Commuters warned as road near Clyde Tunnel set to close for over two weeks",
+        "link": "https://www.glasgowtimes.co.uk/news/26707558.crow-road-closed-two-weeks-road-works-begin/",
+        "description": "Commuters who use the Clyde Tunnel could be set for extensive delays as works lasting over two weeks will begin on a nearby road next week.",
+        "published": "Fri, 06 Nov 2026 16:35:21 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17117078/?type=app&htype=0"
+      },
+      {
+        "id": "29c9bf35c1625e0eaf457be7f6f75e88",
+        "title": "Hundreds of dogs invited to festive Glasgow event with world record hopes",
+        "link": "https://www.glasgowtimes.co.uk/news/26707434.pup-cafe-christmas-tour-coming-glasgow-december/",
+        "description": "A festive dog event is coming to Glasgow this December with world record hopes.",
+        "published": "Fri, 06 Nov 2026 16:19:12 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21681793/?type=app&htype=0"
+      },
+      {
         "id": "faa2934c2dd97dd2a3bdc283af8cba9d",
         "title": "Billy Ocean announces his return to Glasgow as part of 2027 tour",
         "link": "https://www.glasgowtimes.co.uk/news/26707292.billy-ocean-announces-glasgow-concert-part-2027-tour/",
