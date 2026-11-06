@@ -3117,6 +3117,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "007a9de16c8d0083d8bd57ec81e89784",
+        "title": "Two Glasgow roads closed as crews investigates sudden loss of water supply",
+        "link": "https://www.glasgowtimes.co.uk/news/26706638.two-glasgow-roads-closed-crews-investigate-water-loss/",
+        "description": "Glasgow road closures affect the Broomielaw and McAlpine Street as Scottish Water investigates a loss of supply. Diversions are in place; reopening is unknown.",
+        "published": "Fri, 06 Nov 2026 14:30:17 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17119543/?type=app&htype=9"
+      },
+      {
         "id": "a26f0f1d07eb4f1eb50b1c005695927d",
         "title": "Glasgow\u2019s Citizens Theatre named Great British Theatre 2026 after seven-year closure",
         "link": "https://www.heraldscotland.com/news/26706518.glasgows-citizens-theatre-named-great-british-theatre-2026/",
@@ -3131,6 +3139,14 @@
         "description": "Staff at the Scottish Government and four of its agencies are being balloted on potential strike action in a row over a mandatory level of office working.",
         "published": "Fri, 06 Nov 2026 14:17:09 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/20555113/?type=app&htype=0"
+      },
+      {
+        "id": "87647e99c21285ac8736364999614573",
+        "title": "Councillor calls for organised fireworks display to be brought back to Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26706547.glasgow-councillor-calls-organised-fireworks-display/",
+        "description": "A Glasgow councillor is calling for an organised fireworks display to be brought back to the city after emergency service workers were attacked on Bonfire Night.",
+        "published": "Fri, 06 Nov 2026 14:16:07 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16081610/?type=app&htype=0"
       },
       {
         "id": "4633068caef2ab0c2fcdafadc450b4dd",
