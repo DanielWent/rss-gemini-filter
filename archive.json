@@ -1,8 +1,5 @@
 {
   "strict": {
-    "1788773735614812": 1788774931.0900562,
-    "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss": 1788774931.0900562,
-    "Jaguar Land Rover to cut 4,000 jobs": 1788774931.0900562,
     "1788775266473541": 1788776746.7973385,
     "https://www.bbc.co.uk/news/articles/cx2z0je34y1o?at_medium=RSS&at_campaign=rss": 1788776746.7973385,
     "New Inbetweeners film confirmed by Netflix as lead stars return": 1788776746.7973385,
@@ -15131,15 +15128,15 @@
     "Two boys charged over Halloween party stabbings": 1793957143.93436,
     "1793956818558347": 1793957143.93436,
     "https://www.bbc.co.uk/news/articles/cqzjxzrez12jo?at_medium=RSS&at_campaign=rss": 1793957143.93436,
-    "Police officers reunited with baby born in back of car": 1793957143.93436
+    "Police officers reunited with baby born in back of car": 1793957143.93436,
+    "1793958311549504": 1793958940.9363842,
+    "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss": 1793958940.9363842,
+    "Tanzanian opposition leader found guilty of incitement": 1793958940.9363842,
+    "1793958311549503": 1793958940.9363842,
+    "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss": 1793958940.9363842,
+    "'Several victims' after school bus crashes in France, officials say": 1793958940.9363842
   },
   "lenient": {
-    "https://www.bbc.co.uk/news/articles/c36lx560jjko#0": 1788774931.0900562,
-    "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss": 1788774931.0900562,
-    "Jaguar Land Rover to cut 4,000 jobs": 1788774931.0900562,
-    "https://www.bbc.co.uk/news/articles/cx2z0je34y1o#0": 1788774931.0900562,
-    "https://www.bbc.co.uk/news/articles/cx2z0je34y1o?at_medium=RSS&at_campaign=rss": 1788774931.0900562,
-    "New Inbetweeners film confirmed by Netflix as lead stars return": 1788774931.0900562,
     "https://www.bbc.co.uk/news/articles/cpd0113082eo#0": 1788776746.7973385,
     "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss": 1788776746.7973385,
     "Germany's far-right AfD says 'democracy demands' parties work with them after state election win": 1788776746.7973385,
@@ -23259,7 +23256,10 @@
     "Two boys charged over Halloween party stabbings": 1793957143.93436,
     "https://www.bbc.co.uk/news/articles/cqzjxzrez12jo#4": 1793957143.93436,
     "https://www.bbc.co.uk/news/articles/cqzjxzrez12jo?at_medium=RSS&at_campaign=rss": 1793957143.93436,
-    "Police officers reunite with baby they helped deliver in back of car": 1793957143.93436
+    "Police officers reunite with baby they helped deliver in back of car": 1793957143.93436,
+    "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo#4": 1793958940.9363842,
+    "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss": 1793958940.9363842,
+    "'Several victims' after bus crashes in France, officials say": 1793958940.9363842
   },
   "google": {
     "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/": 1789057535.0835385,
@@ -30441,7 +30441,13 @@
     "Scottish music star announces intimate Glasgow show with special chance to meet fans": 1793957143.93436,
     "3a950f2b995d2729fc49dc4e810061dd": 1793957143.93436,
     "https://www.glasgowtimes.co.uk/news/26704667.appeal-raise-150-000-memorial-world-war-ii-heroes/": 1793957143.93436,
-    "Memorial appeal for heroic World War II 'Ghost Patrol' soldiers": 1793957143.93436
+    "Memorial appeal for heroic World War II 'Ghost Patrol' soldiers": 1793957143.93436,
+    "f6e4c71dac5683f9ee74f3bf8d80edc7": 1793958940.9363842,
+    "https://www.glasgowtimes.co.uk/news/26704877.noah-kahan-highlights-glasgow-samaritans-ahead-hydro-show/": 1793958940.9363842,
+    "Noah Kahan shines spotlight on Glasgow charity during sold-out Hydro shows": 1793958940.9363842,
+    "a9dca985a3f6e1d96df2a52cb2f8da45": 1793958940.9363842,
+    "https://www.glasgowtimes.co.uk/news/26704810.mary-queen-scots-saved-glasgow-university-collapse/": 1793958940.9363842,
+    "How Mary Queen of Scots helped save historic University from 'brink of collapse'": 1793958940.9363842
   },
   "runabc_scotland": {
     "https://runabc.co.uk/jedburgh-half-marathon-10k-celebrates-a-race-milestone": 1788852331.8052263,
@@ -30500,17 +30506,6 @@
     "Santa & Elf Dash 2026 Brings Festive Trail Running To Edinburgh": 1793953534.6578832
   },
   "newsletter_candidates": {
-    "742c1bbc6db61d295cc23a535f1c6b84": 1788774931.0900562,
-    "https://www.heraldscotland.com/news/26526827.doctor-survived-brain-tumour-card-game-helped-return-work/": 1788774931.0900562,
-    "Doctor who survived brain tumour says card game helped her return to medicine": 1788774931.0900562,
-    "https://www.glasgowlive.co.uk/news/tv/scottish-teen-aggressive-cancer-breaks-34577949": 1788774931.0900562,
-    "Scottish teen with aggressive cancer breaks down on GMB after emotional update": 1788774931.0900562,
-    "8970735": 1788774931.0900562,
-    "https://www.glasgowworld.com/must-read/saudi-arabia-growing-tourism-offering-8970735": 1788774931.0900562,
-    "Saudi, Welcome to Arabia showcases Saudi's growing tourism offering": 1788774931.0900562,
-    "8970512": 1788774931.0900562,
-    "https://www.glasgowworld.com/must-read/community-amateur-sports-clubs-tax-returns-8970512": 1788774931.0900562,
-    "More than 8,000 UK sports clubs can now file their tax returns online": 1788774931.0900562,
     "b8054df010a526add779949c43554e1b": 1788776746.7973385,
     "https://www.glasgowtimes.co.uk/news/scottish-news/26527366.cameron-whitcomb-perform-o2-academy-glasgow/": 1788776746.7973385,
     "Popular singer-songwriter announces show at top Glasgow venue": 1788776746.7973385,
@@ -49011,16 +49006,19 @@
     "Memorial appeal for heroic World War II 'Ghost Patrol' soldiers": 1793957143.93436,
     "9332839": 1793957143.93436,
     "https://www.glasgowworld.com/must-read/inter-faith-week-2026-launches-with-nationwide-call-to-celebrate-unity-in-diversity-9332839": 1793957143.93436,
-    "Inter Faith Week 2026 launches with nationwide call to celebrate unity in diversity": 1793957143.93436
+    "Inter Faith Week 2026 launches with nationwide call to celebrate unity in diversity": 1793957143.93436,
+    "f6e4c71dac5683f9ee74f3bf8d80edc7": 1793958940.9363842,
+    "https://www.glasgowtimes.co.uk/news/26704877.noah-kahan-highlights-glasgow-samaritans-ahead-hydro-show/": 1793958940.9363842,
+    "Noah Kahan shines spotlight on Glasgow charity during sold-out Hydro shows": 1793958940.9363842,
+    "a9dca985a3f6e1d96df2a52cb2f8da45": 1793958940.9363842,
+    "https://www.glasgowtimes.co.uk/news/26704810.mary-queen-scots-saved-glasgow-university-collapse/": 1793958940.9363842,
+    "How Mary Queen of Scots helped save historic University from 'brink of collapse'": 1793958940.9363842,
+    "9333212": 1793958940.9363842,
+    "https://www.glasgowworld.com/recommended/shein-black-friday-deals-9333934": 1793958940.9363842,
+    "Shein Black Friday deals: my seven fashion picks, including winter knits, leopard print jeans and a \u00a313 bag": 1793958940.9363842
   },
   "glasgow_live": {},
   "glasgow_world": {
-    "8970735": 1788774931.0900562,
-    "https://www.glasgowworld.com/must-read/saudi-arabia-growing-tourism-offering-8970735": 1788774931.0900562,
-    "Saudi, Welcome to Arabia showcases Saudi's growing tourism offering": 1788774931.0900562,
-    "8970512": 1788774931.0900562,
-    "https://www.glasgowworld.com/must-read/community-amateur-sports-clubs-tax-returns-8970512": 1788774931.0900562,
-    "More than 8,000 UK sports clubs can now file their tax returns online": 1788774931.0900562,
     "8971042": 1788776746.7973385,
     "https://www.glasgowworld.com/must-read/collinson-group-secures-ps350-million-financing-to-accelerate-ps500-million-growth-strategy-8971042": 1788776746.7973385,
     "Collinson Group secures \u00a3350 million financing to accelerate \u00a3500 million growth strategy": 1788776746.7973385,
@@ -51702,6 +51700,9 @@
     "Martin O\u2019Neill hails Celtic\u2019s winning mentality as super-sub fires Hoops to priceless Europa League triumph": 1793953534.6578832,
     "9332839": 1793957143.93436,
     "https://www.glasgowworld.com/must-read/inter-faith-week-2026-launches-with-nationwide-call-to-celebrate-unity-in-diversity-9332839": 1793957143.93436,
-    "Inter Faith Week 2026 launches with nationwide call to celebrate unity in diversity": 1793957143.93436
+    "Inter Faith Week 2026 launches with nationwide call to celebrate unity in diversity": 1793957143.93436,
+    "9333212": 1793958940.9363842,
+    "https://www.glasgowworld.com/recommended/shein-black-friday-deals-9333934": 1793958940.9363842,
+    "Shein Black Friday deals: my seven fashion picks, including winter knits, leopard print jeans and a \u00a313 bag": 1793958940.9363842
   }
 }
