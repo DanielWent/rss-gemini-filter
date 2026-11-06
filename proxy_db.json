@@ -3117,6 +3117,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=537053",
+        "title": "Bonfire Night attacks \u2018unacceptable and have to stop\u2019",
+        "link": "https://news.stv.tv/west-central/bonfire-night-attacks-unacceptable-and-have-to-stop",
+        "description": "Seven arrests were made after officers and ambulance crews were targeted with fireworks and a police vehicle set alight",
+        "published": "Fri, 06 Nov 2026 19:02:30 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/9377c89683841d87ea1df1fa474b33ef-1793984289-1280x720.jpeg"
+      },
+      {
+        "id": "12fc2d59a05c1fd0038c29ccdb141c9f",
+        "title": "Councillor issues fresh plea to revive Rosyth ferry link to Europe",
+        "link": "https://www.heraldscotland.com/news/26707932.fresh-plea-revive-rosyth-ferry-link-europe/",
+        "description": "A Rosyth councillor has renewed his plea to Forth Ports to rethink their decision on a passenger ferry from West Fife.",
+        "published": "Fri, 06 Nov 2026 18:00:50 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/11399822/?type=app&htype=0"
+      },
+      {
         "id": "9335937",
         "title": "The Celtic v Kilmarnock scheduling curveball as Remembrance Sunday and roadworks dictate unusual kick-off time",
         "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-v-kilmarnock-scheduling-curveball-remembrance-sunday-roadworks-dictate-unusual-kick-off-time-9335937",
