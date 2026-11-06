@@ -3117,6 +3117,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9334199",
+        "title": "New bar and speakeasy opens on former Whistler on the Green site in Glasgow",
+        "link": "https://www.glasgowworld.com/news/new-bar-and-speakeasy-opens-on-former-whistler-on-the-green-site-in-glasgow-9334199",
+        "description": "<p>Former Whistler on the Green site transformed into daytime pub and late night speakeasy</p>",
+        "published": "Fri, 06 Nov 2026 10:15:40 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/06/10/35/McLennans-Projection-Peoples-Palace-14839b58.jpeg?width=1200&auto=webp&trim=1%2C0%2C1%2C0"
+      },
+      {
+        "id": "https://news.stv.tv/?p=536900",
+        "title": "Paisley man banned from keeping animals after dog suffers severe injuries in animal fights",
+        "link": "https://news.stv.tv/west-central/paisley-man-banned-from-keeping-animals-after-dog-suffers-severe-injuries-in-animal-fights",
+        "description": "Sean Alexander Mullen was found with animal fighting paraphernalia and training equipment at his home in Paisley.",
+        "published": "Fri, 06 Nov 2026 10:09:34 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/361db61bd980f0947528cfeb6b73cfc5-1793957315-898x720.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/fire-crews-called-more-250-34871254",
+        "title": "Fire crews called to more than 250 bonfires as chaotic scenes unfold across west of Scotland",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/fire-crews-called-more-250-34871254",
+        "description": "According to the Scottish Fire and Rescue Service, there were four reported attacks on crews in the region.",
+        "published": "Fri, 6 Nov 2026 09:56:27 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34871406.ece/ALTERNATES/s98/0_JS423505409-1.jpg"
+      },
+      {
+        "id": "b00a971193c37a80244238b422d2d427",
+        "title": "Free campaign launched to help Glasgow families discover urban wildlife",
+        "link": "https://www.glasgowtimes.co.uk/news/26704956.naturescot-launched-free-wildlife-activities-families/",
+        "description": "NatureScot has launched Wildly Close, a project designed to encourage children in Glasgow aged five to 11.",
+        "published": "Fri, 06 Nov 2026 09:55:45 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21678450/?type=app&htype=0"
+      },
+      {
         "id": "a9dca985a3f6e1d96df2a52cb2f8da45",
         "title": "How Mary Queen of Scots helped save historic University from 'brink of collapse'",
         "link": "https://www.glasgowtimes.co.uk/news/26704810.mary-queen-scots-saved-glasgow-university-collapse/",
