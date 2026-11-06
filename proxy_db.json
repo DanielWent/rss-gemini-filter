@@ -3117,6 +3117,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "a26f0f1d07eb4f1eb50b1c005695927d",
+        "title": "Glasgow\u2019s Citizens Theatre named Great British Theatre 2026 after seven-year closure",
+        "link": "https://www.heraldscotland.com/news/26706518.glasgows-citizens-theatre-named-great-british-theatre-2026/",
+        "description": "Glasgow\u2019s Citizens Theatre wins Great British Theatre 2026 and Great Renovation Award after reopening in August 2025 following a seven-year refurbishment.",
+        "published": "Fri, 06 Nov 2026 14:19:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21116926/?type=app&htype=0"
+      },
+      {
+        "id": "09a7e0d8836d7c3fb745e7be8ea20e13",
+        "title": "Scottish Government staff to vote on potential strike action over home working",
+        "link": "https://www.heraldscotland.com/news/26706551.scottish-government-staff-vote-strike-action-home-working/",
+        "description": "Staff at the Scottish Government and four of its agencies are being balloted on potential strike action in a row over a mandatory level of office working.",
+        "published": "Fri, 06 Nov 2026 14:17:09 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20555113/?type=app&htype=0"
+      },
+      {
+        "id": "4633068caef2ab0c2fcdafadc450b4dd",
+        "title": "Shamed Scots football referee JAILED for secretly filming naked teenage girl",
+        "link": "https://www.glasgowtimes.co.uk/news/26706455.shamed-scots-referee-jailed-secretly-filming-naked-teenage-girl/",
+        "description": "Former Scots assistant referee Ian Hart jailed for 2 years 9 months for voyeurism and filming a teenage neighbour in South Lanarkshire; SFA delists him.",
+        "published": "Fri, 06 Nov 2026 14:03:29 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21255284/?type=app&htype=0"
+      },
+      {
+        "id": "b8e00a91a72b68350244221844ddf8b7",
+        "title": "Call for fireworks sale ban after Glasgow street turned into 'war zone'",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26705386.calls-fireworks-sale-ban-glasgow-police-van-fire/",
+        "description": "Calls have been made for a UK-wide ban on the sale of fireworks after a Glasgow street was turned into a \"war zone\" on Bonfire Night.",
+        "published": "Fri, 06 Nov 2026 13:57:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21678902/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=536976",
         "title": "Hunt for suspect after man injured in Bonfire Night stabbing in Glasgow",
         "link": "https://news.stv.tv/west-central/hunt-for-suspect-after-man-injured-in-bonfire-night-stabbing-in-glasgow",
@@ -3235,14 +3267,6 @@
         "description": "Firefighters spent almost two hours tackling a blaze on Bute Road in Rutherglen after emergency services were alerted on Bonfire Night.",
         "published": "Fri, 06 Nov 2026 11:52:36 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21679310/?type=app&htype=41"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-man-stabbed-evening-attack-34872222",
-        "title": "Glasgow man stabbed in evening attack on east end street and rushed to hospital",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-man-stabbed-evening-attack-34872222",
-        "description": "Emergency services were called to the incident yesterday evening.",
-        "published": "Fri, 6 Nov 2026 11:33:08 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34546665.ece/ALTERNATES/s98/4_Generic-police-picture.jpg"
       },
       {
         "id": "fedf76a61a1d470cffa5edfaad9e2729",
