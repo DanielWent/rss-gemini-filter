@@ -3117,6 +3117,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cm62yyn2w251o#0",
+        "title": "The Ivy criticised for labelling AI content as made by in-house designers",
+        "link": "https://www.bbc.co.uk/news/articles/cm62yyn2w251o?at_medium=RSS&at_campaign=rss",
+        "description": "The restaurant in Glasgow was criticised online for its \"misleading\" use of AI generated images.",
+        "published": "Fri, 06 Nov 2026 17:52:46 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9f2/live/b193aee0-d9e5-11f1-bbe5-797ee05bee69.png"
+      },
+      {
+        "id": "64b4157ee101674b5266472d84174447",
+        "title": "Public have \u2018role to play\u2019 in keeping transport running this winter, Flynn says",
+        "link": "https://www.heraldscotland.com/news/26707885.scots-role-play-keeping-transport-running-winter/",
+        "description": "Stephen Flynn has said the public have \u201can important role to play\u201d in ensuring Scotland\u2019s transport network operates smoothly through the winter months.",
+        "published": "Fri, 06 Nov 2026 17:37:28 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20447947/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-found-guilty-murdering-much-34875848",
         "title": "Man found guilty of murdering much-loved dad in 'brutal' Uddingston attack",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-found-guilty-murdering-much-34875848",
@@ -3131,6 +3147,14 @@
         "description": "The proposed developer said the land is 'overgrown with weeds.'",
         "published": "Fri, 6 Nov 2026 17:02:35 +0000",
         "image_url": ""
+      },
+      {
+        "id": "988e4a683e850c77c88b2a64c9bcecd1",
+        "title": "Three charged under Terrorism Act after Palestine Action demo in Edinburgh",
+        "link": "https://www.heraldscotland.com/news/26707719.three-charged-terrorism-act-edinburgh-palestine-action-demo/",
+        "description": "Three people have been charged in connection with alleged offences under the Terrorism Act following a protest in support of Palestine Action in Edinburgh.",
+        "published": "Fri, 06 Nov 2026 16:59:53 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20245070/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-green-fireworks-could-return-34875720",
