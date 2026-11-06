@@ -2202,6 +2202,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "d1dd78dbf8b05eaaae8c9ac557ba3789",
+        "title": "Man admits sexually assaulting young child in Bearsden",
+        "link": "https://www.glasgowtimes.co.uk/news/26705538.man-admits-sexaully-assaulting-young-child-bearsden/",
+        "description": "A man has pleaded guilty to sexually assaulting a child under 10.",
+        "published": "Fri, 06 Nov 2026 11:21:22 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21190813/?type=app&htype=0"
+      },
+      {
         "id": "25ed25d34eee180260e034bf3ea91cdc",
         "title": "Council confirms delay to new controversial town centre parking charges near Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/26703889.east-dunbartonshire-parking-charges-delayed/",
@@ -2992,14 +3000,6 @@
         "description": "The heart-breaking testimony of Cameron Logan's girlfriend is set to shed new light over the tragedy",
         "published": "Sun, 30 Aug 2026 06:00:00 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/5855055/?type=app&htype=0"
-      },
-      {
-        "id": "8bf929355a159e5e8e0fe2320fd2a4cf",
-        "title": "Gap site in Glasgow's West End could make way for new homes",
-        "link": "https://www.glasgowtimes.co.uk/news/26505246.gap-site-glasgows-west-end-make-way-new-homes/",
-        "description": "A gap site in Glasgow\u2019s west end could be used for homes under a new plan.",
-        "published": "Sat, 29 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21385983/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3116,6 +3116,46 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://news.stv.tv/?p=536935",
+        "title": "A78 to partially reopen between Skelmorlie and Largs as Storm Boelo repairs continue",
+        "link": "https://news.stv.tv/west-central/a78-to-partially-reopen-between-skelmorlie-and-largs-as-storm-boelo-repairs-continue",
+        "description": "The A78 Shore Road has been closed since major damage was sustained during Storm Boelo.",
+        "published": "Fri, 06 Nov 2026 11:54:21 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/abf96282a31b865e2bb660d25744dfcc-1793964533.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-man-stabbed-evening-attack-34872222",
+        "title": "Glasgow man stabbed in evening attack on east end street and rushed to hospital",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-man-stabbed-evening-attack-34872222",
+        "description": "Emergency services were called to the incident yesterday evening.",
+        "published": "Fri, 6 Nov 2026 11:33:08 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34546665.ece/ALTERNATES/s98/4_Generic-police-picture.jpg"
+      },
+      {
+        "id": "fedf76a61a1d470cffa5edfaad9e2729",
+        "title": "Free Glasgow art exhibition explores family life through refugee stories",
+        "link": "https://www.glasgowtimes.co.uk/news/26705558.free-glasgow-exhibition-exploring-refugee-stories-now-open/",
+        "description": "Free Glasgow exhibition The Art of Family Life shares refugee stories of family, culture and mental health at Listen Gallery until November 18.",
+        "published": "Fri, 06 Nov 2026 11:26:02 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21679093/?type=app&htype=0"
+      },
+      {
+        "id": "d1dd78dbf8b05eaaae8c9ac557ba3789",
+        "title": "Man admits sexually assaulting young child in Bearsden",
+        "link": "https://www.glasgowtimes.co.uk/news/26705538.man-admits-sexaully-assaulting-young-child-bearsden/",
+        "description": "A man has pleaded guilty to sexually assaulting a child under 10.",
+        "published": "Fri, 06 Nov 2026 11:21:22 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21190813/?type=app&htype=0"
+      },
+      {
+        "id": "522c5caee4d8dad262f70ce514e89a83",
+        "title": "What a year around Scotland's golf courses taught us about the game",
+        "link": "https://www.heraldscotland.com/news/26682743.scotlands-golf-clubs-businesses-changing/",
+        "description": "From growing golf businesses to new technology and the evolution of clubs, Around the Greens explores the people and ideas shaping Scottish golf",
+        "published": "Fri, 06 Nov 2026 10:30:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21670069/?type=app&htype=0"
+      },
       {
         "id": "9334199",
         "title": "New bar and speakeasy opens on former Whistler on the Green site in Glasgow",
