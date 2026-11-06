@@ -3117,6 +3117,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/full-list-scottish-bank-holidays-34873174",
+        "title": "Full list of Scottish bank holidays 2027 as seven will move",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/full-list-scottish-bank-holidays-34873174",
+        "description": "Seven bank holidays will fall on different dates next year",
+        "published": "Fri, 6 Nov 2026 13:15:14 +0000",
+        "image_url": "https://i2-prod.liverpoolecho.co.uk/incoming/article34873289.ece/ALTERNATES/s98/0_GettyImages-2184334064.jpg"
+      },
+      {
+        "id": "5f9bca4dae896fd5a2b0a4aeb90b6db0",
+        "title": "Man arrested after fireworks 'aimed directly' at South Lanarkshire petrol station",
+        "link": "https://www.glasgowtimes.co.uk/news/26706141.man-arrested-fireworks-thrown-cambuslang-petrol-station/",
+        "description": "A 22-year-old man has been arrested and charged after police received reports of fireworks being thrown in Cambuslang on Bonfire Night.",
+        "published": "Fri, 06 Nov 2026 13:04:37 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20654058/?type=app&htype=0"
+      },
+      {
+        "id": "8610c3d7c5c0b6400fb6f450a819e8fa",
+        "title": "New homelessness prevention scheme aims to help Glasgow families before crisis",
+        "link": "https://www.glasgowtimes.co.uk/news/26706097.glasgow-homelessness-prevention-scheme-gets-funding-boost/",
+        "description": "The Ask and Act model was the focus of a major conference held in Glasgow.",
+        "published": "Fri, 06 Nov 2026 12:55:08 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21679765/?type=app&htype=0"
+      },
+      {
+        "id": "0347566657271e2c479e85e4ba76491b",
+        "title": "Pensioner arrested over theft of historic Glasgow trophy as hunt for it continues",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26706050.man-arrested-theft-lipton-cup-glasgow-museum/",
+        "description": "Police Scotland arrested a 71-year-old man, later released without charge, over the theft of Glasgow\u2019s Lipton Cup from Riverside Museum. Enquiries continue.",
+        "published": "Fri, 06 Nov 2026 12:48:13 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20857287/?type=app&htype=0"
+      },
+      {
         "id": "802d97112d6da8856019f0958e0c67cb",
         "title": "Drivers warned of delays at one of Glasgow's busiest junctions amid emergency works",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26705977.glasgow-junction-reduced-one-lane-water-repairs/",
@@ -3147,6 +3179,22 @@
         "description": "South Lanarkshire Council depute leader Gerry Convery has been suspended after a phone call left a housing officer visibly upset and in tears.",
         "published": "Fri, 06 Nov 2026 12:16:41 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21679466/?type=app&htype=0"
+      },
+      {
+        "id": "d6d3cde6bcb2ccb0d50ad54b5611ae8a",
+        "title": "Here's why 42 artists hiked the Cairngorm mountains with their portraits",
+        "link": "https://www.heraldscotland.com/news/26705882.cairngorms-creatives-join-global-photography-project/",
+        "description": "A striking celebration of Cairngorms creativity",
+        "published": "Fri, 06 Nov 2026 12:15:39 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21679414/?type=app&htype=0"
+      },
+      {
+        "id": "df6b82bec559bc5fb5c5c8ebb9c0daeb",
+        "title": "I tried a MasterChef finalist's new Indian restaurant - and got a sense of d\u00e9j\u00e0 vu",
+        "link": "https://www.heraldscotland.com/life_style/food_and_drink/restaurant_reviews/26697661.review-masterchef-finalists-new-glasgow-indian-restaurant/",
+        "description": "There's a double dose of d\u00e9j\u00e0 vu in Glasgow city centre this evening as we shuffle down a short set of steps on West Regent Street towards Kalinga.",
+        "published": "Fri, 06 Nov 2026 12:15:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21669484/?type=app&htype=0"
       },
       {
         "id": "e3f321a3b5ad8f15000d780867d2abd1",
