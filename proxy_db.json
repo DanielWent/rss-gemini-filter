@@ -3117,6 +3117,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "fcf153fd2e7787288ebd03fc4b9b067c",
+        "title": "Glasgow Community Champion Awards heat winners revealed ahead of grand final",
+        "link": "https://www.glasgowtimes.co.uk/news/26703450.glasgow-community-champion-awards-regional-winners-revealed/",
+        "description": "The regional winners of the 2026 Glasgow Community Champion Awards are revealed, with inspirational people and groups heading to the Grand Final.",
+        "published": "Fri, 06 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20726989/?type=app&htype=0"
+      },
+      {
+        "id": "c493f2f2e13390713bbeb75716f0ac2d",
+        "title": "Star-studded Glasgow event teases what's to come at 2027 return",
+        "link": "https://www.glasgowtimes.co.uk/news/26702659.glasgow-film-festival-teases-programme-2027-edition/",
+        "description": "Glasgow Film Festival 2027 runs February 24 to March 7, featuring Canadian cinema, free surveillance classics, premieres and a new industry pitch event.",
+        "published": "Fri, 06 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20633405/?type=app&htype=0"
+      },
+      {
+        "id": "2e5933b6d8046503f6cf991009b79904",
+        "title": "'Complete nightmare' - Workman recalls clinging to car bonnet after road rage attack",
+        "link": "https://www.glasgowtimes.co.uk/news/26700274.glasgow-joiner-tells-nightmare-ordeal-road-rage-incident/",
+        "description": "A workman has described the \"complete nightmare\" he endured after ending up on the bonnet of a moving car during a road rage incident that spiralled out of control",
+        "published": "Fri, 06 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21672283/?type=app&htype=0"
+      },
+      {
         "id": "a159ef1c5b9ef62bacf612ca17432d09",
         "title": "Mum demands better NHS rare disease care as daughter travels abroad for drug trial",
         "link": "https://www.heraldscotland.com/news/26701750.scottish-mum-calls-nhs-rare-disease-treatment-pilot/",
@@ -3891,30 +3915,6 @@
         "description": "Creative Scotland is overhaul its long-term funding programme to tackle the 'significant jeopardy' faced by applicants every three years.",
         "published": "Wed, 04 Nov 2026 16:55:56 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/20672371/?type=app&htype=0"
-      },
-      {
-        "id": "81375518ea381f6b610adb8b5708a064",
-        "title": "Hydro issues travel warning as Glasgow M8 closures threaten weekend disruption",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26700095.m8-closures-threaten-major-disruption-hydro-events/",
-        "description": "M8 closures in Glasgow on November 7-8 and November 14-15 could cause travel disruption near the OVO Hydro and SEC, with delays expected.",
-        "published": "Wed, 04 Nov 2026 16:55:50 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17187289/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-searching-erratic-land-rover-34863663",
-        "title": "Police searching for 'erratic' Land Rover driver after Rutherglen hit-and-run",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-searching-erratic-land-rover-34863663",
-        "description": "Enquiries are ongoing to trace the driver responsible.",
-        "published": "Wed, 4 Nov 2026 16:40:43 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34863746.ece/ALTERNATES/s98/0_Screenshot-2026-11-04-162818.png"
-      },
-      {
-        "id": "fa13f4e335ab98ad5a018133ef89f39e",
-        "title": "SSE opens Glasgow office for 640 staff as it expands Scotland energy investment",
-        "link": "https://www.heraldscotland.com/news/26699807.sse-expands-opens-new-glasgow-office-640-staff/",
-        "description": "SSE has opened a new Glasgow office at the Aurora building on Bothwell Street, bringing together around 640 staff as the energy group expands its investment across Scotland.",
-        "published": "Wed, 04 Nov 2026 16:32:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21671690/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
