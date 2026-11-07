@@ -3117,6 +3117,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "2a5a322a13289d4c770d51e73697ccaf",
+        "title": "Businesses keep showing resilience, but how much more can we ask of them?",
+        "link": "https://www.heraldscotland.com/news/26705766.bank-england-rate-rise-piles-pressure-business/",
+        "description": "Scottish businesses are still investing and expanding, but higher interest rates and renewed cost pressures threaten to make growth harder",
+        "published": "Sat, 07 Nov 2026 04:43:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21680550/?type=app&htype=0"
+      },
+      {
+        "id": "db1be6bd129c0b446946e194bead048c",
+        "title": "Landmark hotels up for sale and chief executive reflects on 'stress' of job",
+        "link": "https://www.heraldscotland.com/news/26672099.scottish-hotels-sale-baillie-gifford-chief-reflects-stress/",
+        "description": "Portfolio of landmark Scottish hotels up for sale as Baillie Gifford chief executive reflects on 'stress' of job",
+        "published": "Sat, 07 Nov 2026 04:40:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21612603/?type=app&htype=0"
+      },
+      {
+        "id": "661affbe530bfdc02917c09c40649c97",
+        "title": "House prices in Scotland go opposite way to UK as a whole",
+        "link": "https://www.heraldscotland.com/news/26707342.scottish-house-price-move-contrasts-uk-whole/",
+        "description": "The year-on-year move in Scottish house prices last month contrasted with the trend in the UK as a whole",
+        "published": "Sat, 07 Nov 2026 04:37:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/7810163/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cq98zzkl8982o#0",
         "title": "Franz Ferdinand turning to art at Glasgow Print Studio",
         "link": "https://www.bbc.co.uk/news/articles/cq98zzkl8982o?at_medium=RSS&at_campaign=rss",

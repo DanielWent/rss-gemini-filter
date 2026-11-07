@@ -1,14 +1,5 @@
 {
   "strict": {
-    "1788845711817536": 1788845761.375396,
-    "https://www.bbc.co.uk/news/articles/cx2zyj4lrn1o?at_medium=RSS&at_campaign=rss": 1788845761.375396,
-    "'I've had no hot water or heating for most of my pregnancy'": 1788845761.375396,
-    "1788845711817532": 1788845761.375396,
-    "https://www.bbc.co.uk/news/articles/c780nz2669do?at_medium=RSS&at_campaign=rss": 1788845761.375396,
-    "Barton to remain in custody before 2027 trial": 1788845761.375396,
-    "1788845711817540": 1788845761.375396,
-    "https://www.bbc.co.uk/news/articles/cwyze8ed774o?at_medium=RSS&at_campaign=rss": 1788845761.375396,
-    "Shetland spaceport project secures  \u00a330m of UK government investment": 1788845761.375396,
     "1788848712589837": 1788848737.0063226,
     "https://www.bbc.co.uk/sport/football/articles/cnvlmg4544po?at_medium=RSS&at_campaign=rss": 1788848737.0063226,
     "Shankland faces up to three months out - gossip": 1788848737.0063226,
@@ -15187,12 +15178,15 @@
     "Dutch launch shows smugglers are adapting, says MP": 1794021940.3224337,
     "1794027006869873": 1794027333.329993,
     "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss": 1794027333.329993,
-    "The young Somali woman changing how the world sees Mogadishu": 1794027333.329993
+    "The young Somali woman changing how the world sees Mogadishu": 1794027333.329993,
+    "1794030013959526": 1794030946.7485955,
+    "https://www.bbc.co.uk/news/articles/crx233lx94n7o?at_medium=RSS&at_campaign=rss": 1794030946.7485955,
+    "Relief, tears and sadness: Married at First Sight UK cast react to show being axed": 1794030946.7485955,
+    "1794030013959524": 1794030946.7485955,
+    "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss": 1794030946.7485955,
+    "Texas mayor instructs police to limit cooperation with ICE": 1794030946.7485955
   },
   "lenient": {
-    "https://www.bbc.co.uk/news/articles/cx2zyj4lrn1o#1": 1788845761.375396,
-    "https://www.bbc.co.uk/news/articles/cx2zyj4lrn1o?at_medium=RSS&at_campaign=rss": 1788845761.375396,
-    "'I've had no hot water or heating for most of my pregnancy'": 1788845761.375396,
     "https://www.bbc.co.uk/news/articles/c1wxp8r9wnwo#3": 1788848737.0063226,
     "https://www.bbc.co.uk/news/articles/c1wxp8r9wnwo?at_medium=RSS&at_campaign=rss": 1788848737.0063226,
     "World-first surgery for baby's rare skull condition": 1788848737.0063226,
@@ -23341,7 +23335,10 @@
     "Dutch launch shows smugglers are adapting, says MP": 1794020137.3682528,
     "https://www.bbc.co.uk/news/articles/crx233lx94n7o#1": 1794029143.6894784,
     "https://www.bbc.co.uk/news/articles/crx233lx94n7o?at_medium=RSS&at_campaign=rss": 1794029143.6894784,
-    "Relief, tears and sadness: Married at First Sight UK cast react to show being axed": 1794029143.6894784
+    "Relief, tears and sadness: Married at First Sight UK cast react to show being axed": 1794029143.6894784,
+    "https://www.bbc.co.uk/news/articles/c8dx33d22zkro#1": 1794030946.7485955,
+    "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss": 1794030946.7485955,
+    "Texas mayor instructs police to limit cooperation with ICE": 1794030946.7485955
   },
   "google": {
     "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/": 1789057535.0835385,
@@ -24424,18 +24421,6 @@
     "Best Gifts for Runners This Holiday Season, Picked by Runners": 1793976941.9431748
   },
   "glasgow_times": {
-    "f7f9a19e2949a8f365f810b982494b79": 1788846931.6051736,
-    "https://www.glasgowtimes.co.uk/news/26529997.a73-closed-police-advise-drivers-avoid-area/": 1788846931.6051736,
-    "'Avoid the area' warning as police rush to close off busy road": 1788846931.6051736,
-    "29e04225968bce7769a4aee2a281c546": 1788846931.6051736,
-    "https://www.glasgowtimes.co.uk/news/26528989.south-lanarkshire-council-blocks-east-kilbride-padel-courts/": 1788846931.6051736,
-    "Council makes decision on controversial padel tennis courts facility": 1788846931.6051736,
-    "8ee6348f9b6581bc7eb91fb7e8e44125": 1788846931.6051736,
-    "https://www.glasgowtimes.co.uk/news/scottish-news/26529339.four-glasgow-dads-raising-money-childrens-mental-health/": 1788846931.6051736,
-    "Why four dads are driving from Glasgow to Benidorm in a rainbow car": 1788846931.6051736,
-    "33ffbf8106fb83e4d634b1d39fbb686e": 1788846931.6051736,
-    "https://www.glasgowtimes.co.uk/news/26527319.glasgow-subway-inspired-new-world-ending-horror-video-game/": 1788846931.6051736,
-    "Glasgow Subway becomes setting for new horror game about end of the world": 1788846931.6051736,
     "0089f10acfe0e9df4100d17512039bba": 1788854134.4678562,
     "https://www.glasgowtimes.co.uk/news/26530140.live-updates-clydeside-expressway-standstill/": 1788854134.4678562,
     "LIVE updates as Glasgow road at a standstill amid police incident": 1788854134.4678562,
@@ -30591,18 +30576,6 @@
     "Santa & Elf Dash 2026 Brings Festive Trail Running To Edinburgh": 1793953534.6578832
   },
   "newsletter_candidates": {
-    "f7f9a19e2949a8f365f810b982494b79": 1788846931.6051736,
-    "https://www.glasgowtimes.co.uk/news/26529997.a73-closed-police-advise-drivers-avoid-area/": 1788846931.6051736,
-    "'Avoid the area' warning as police rush to close off busy road": 1788846931.6051736,
-    "29e04225968bce7769a4aee2a281c546": 1788846931.6051736,
-    "https://www.glasgowtimes.co.uk/news/26528989.south-lanarkshire-council-blocks-east-kilbride-padel-courts/": 1788846931.6051736,
-    "Council makes decision on controversial padel tennis courts facility": 1788846931.6051736,
-    "8ee6348f9b6581bc7eb91fb7e8e44125": 1788846931.6051736,
-    "https://www.glasgowtimes.co.uk/news/scottish-news/26529339.four-glasgow-dads-raising-money-childrens-mental-health/": 1788846931.6051736,
-    "Why four dads are driving from Glasgow to Benidorm in a rainbow car": 1788846931.6051736,
-    "33ffbf8106fb83e4d634b1d39fbb686e": 1788846931.6051736,
-    "https://www.glasgowtimes.co.uk/news/26527319.glasgow-subway-inspired-new-world-ending-horror-video-game/": 1788846931.6051736,
-    "Glasgow Subway becomes setting for new horror game about end of the world": 1788846931.6051736,
     "https://www.glasgowlive.co.uk/news/glasgow-news/survivor-glasgow-sex-predator-warns-34581862": 1788848737.0063226,
     "Survivor of Glasgow sex predator warns 'trust your instincts' after her abuser went on to kill": 1788848737.0063226,
     "8973869": 1788848737.0063226,
@@ -49097,7 +49070,16 @@
     "https://www.glasgowlive.co.uk/whats-on/shopping/charming-scottish-town-named-one-34875224": 1794029143.6894784,
     "Charming Scottish town named one of the UK's prettiest spots for Christmas shopping": 1794029143.6894784,
     "https://www.glasgowlive.co.uk/news/health/alzheimers-uk-says-nose-theory-34867005": 1794029143.6894784,
-    "Alzheimer's UK says nose theory is 'intriguing idea' and it could appear before memory loss": 1794029143.6894784
+    "Alzheimer's UK says nose theory is 'intriguing idea' and it could appear before memory loss": 1794029143.6894784,
+    "2a5a322a13289d4c770d51e73697ccaf": 1794030946.7485955,
+    "https://www.heraldscotland.com/news/26705766.bank-england-rate-rise-piles-pressure-business/": 1794030946.7485955,
+    "Businesses keep showing resilience, but how much more can we ask of them?": 1794030946.7485955,
+    "db1be6bd129c0b446946e194bead048c": 1794030946.7485955,
+    "https://www.heraldscotland.com/news/26672099.scottish-hotels-sale-baillie-gifford-chief-reflects-stress/": 1794030946.7485955,
+    "Landmark hotels up for sale and chief executive reflects on 'stress' of job": 1794030946.7485955,
+    "661affbe530bfdc02917c09c40649c97": 1794030946.7485955,
+    "https://www.heraldscotland.com/news/26707342.scottish-house-price-move-contrasts-uk-whole/": 1794030946.7485955,
+    "House prices in Scotland go opposite way to UK as a whole": 1794030946.7485955
   },
   "glasgow_live": {},
   "glasgow_world": {
