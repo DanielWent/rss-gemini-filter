@@ -2202,6 +2202,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "c5037984d9b8d4dbf71dc22ae1281419",
+        "title": "A803 speed limit slashed from 60mph to 40mph in major change for drivers",
+        "link": "https://www.glasgowtimes.co.uk/news/26707116.a803-kilsyth-road-speed-limit-cut-60-40mph/",
+        "description": "Speed limit on A803 Kilsyth Road near Auchenreoch will fall from 60mph to 40mph, with East Dunbartonshire Council citing consistent limits and improved road safety.",
+        "published": "Sat, 07 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21681207/?type=app&htype=0"
+      },
+      {
         "id": "d1dd78dbf8b05eaaae8c9ac557ba3789",
         "title": "Man admits sexually assaulting young child in Bearsden",
         "link": "https://www.glasgowtimes.co.uk/news/26705538.man-admits-sexaully-assaulting-young-child-bearsden/",
@@ -2992,14 +3000,6 @@
         "description": "Plans for a new function suite at The Grove Bar and Restaurant in Lenzie have been approved, paving the way for weddings, parties, race nights and special events.",
         "published": "Sun, 30 Aug 2026 09:36:30 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/18323452/?type=app&htype=0"
-      },
-      {
-        "id": "0577de21663788cbad5031a00ec59275",
-        "title": "Girlfriend's testimony sheds new light on tragic murder of man by his own brother",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26504705.new-light-shed-horrific-murder-case-cameron-logan/",
-        "description": "The heart-breaking testimony of Cameron Logan's girlfriend is set to shed new light over the tragedy",
-        "published": "Sun, 30 Aug 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/5855055/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3116,6 +3116,38 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "ad4a9675a338460db7125830ec2e0084",
+        "title": "Edinburgh University paid external consultants \u00a3435,000 to help develop cuts plan",
+        "link": "https://www.heraldscotland.com/news/26706662.edinburgh-university-paid-firm-435-000-help-cuts-bid/",
+        "description": "According to a Freedom of Information request, the university entered into a \u2018Workshop Facilitation\u2019 contract with PA Consulting on January 21, 2026.",
+        "published": "Sat, 07 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20949206/?type=app&htype=0"
+      },
+      {
+        "id": "1e5377be1817e00a84d21428bad10cbf",
+        "title": "SNP demand emergency cost of living plan from PM as energy bills and rates rise",
+        "link": "https://www.heraldscotland.com/news/26707841.snp-attacks-burnham-soaring-winter-energy-bills/",
+        "description": "The SNP has demanded an emergency winter plan from Prime Minister Andy Burnham as the Bank of England raised rates to 4%, forecast inflation nearing 5%, and energy bills look set to rise by almost 29% in January.",
+        "published": "Sat, 07 Nov 2026 05:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21682248/?type=app&htype=0"
+      },
+      {
+        "id": "13db37d73ea25ce84b457c45884e3fc6",
+        "title": "Scottish Government urged to devolve business rates to new regional authorities",
+        "link": "https://www.heraldscotland.com/news/26706613.msp-urges-scotland-devolve-business-rates-councils/",
+        "description": "An SNP MSP and renewables industry figures are urging the Scottish Government to let new regional councils keep business rates from onshore wind farms, with analysis suggesting the move could channel \u00a378 million a year to rural communities.",
+        "published": "Sat, 07 Nov 2026 05:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21094746/?type=app&htype=0"
+      },
+      {
+        "id": "5c955336bc599b6366e1dba6aa1c9deb",
+        "title": "Dalzell \u00a37m taxpayer loan repaid as FOI reveals ministers feared official receiver",
+        "link": "https://www.heraldscotland.com/news/26707631.sanjeev-gupta-repays-scottish-enterprise-dalzell-steel-loan/",
+        "description": "Scottish Enterprise has confirmed Sanjeev Gupta's Dalzell steelworks repaid a \u00a37m loan in full, but FOI documents reveal ministers feared the Motherwell plant faced the official receiver just weeks before.",
+        "published": "Sat, 07 Nov 2026 05:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/4364757/?type=app&htype=0"
+      },
       {
         "id": "2a5a322a13289d4c770d51e73697ccaf",
         "title": "Businesses keep showing resilience, but how much more can we ask of them?",
