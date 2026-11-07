@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo#5",
+        "title": "One of the year's most prolific meteor showers to light up the night sky this weekend",
+        "link": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
+        "description": "The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November.",
+        "published": "Sat, 07 Nov 2026 02:03:28 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/797d/live/89b36240-d903-11f1-9c68-d767468fa269.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo#3",
         "title": "Could the US midterms burst the AI bubble?",
         "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Mustafa Suleyman says he believes the AI giant is in effect teaching Claude it \"may be conscious\".",
         "published": "Wed, 16 Sep 2026 14:16:14 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf81/live/b2088f70-b1d2-11f1-8493-1910d79d53eb.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cqe9eyn5yry3o#2",
-        "title": "What lies behind Scotland's AI data centre boom",
-        "link": "https://www.bbc.co.uk/news/articles/cqe9eyn5yry3o?at_medium=RSS&at_campaign=rss",
-        "description": "The growth of AI is happening at lightning pace, so what are the advantages and disadvantages of Scotland being at the forefront?",
-        "published": "Wed, 16 Sep 2026 11:40:39 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/607a/live/4fe39fa0-b1c4-11f1-b1d1-571ed4d7ff2c.png"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
