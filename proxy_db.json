@@ -3117,6 +3117,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-drivers-warned-severe-m8-34878635",
+        "title": "Glasgow drivers warned of 'severe' M8 weekend disruption as all 16 lanes to shut",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-drivers-warned-severe-m8-34878635",
+        "description": "\"During similar closures in 2024, delays of up to one hour were experienced, and comparable delays are possible if traffic levels are not significantly reduced.\"",
+        "published": "Sat, 7 Nov 2026 15:53:47 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34812788.ece/ALTERNATES/s98/1_Traffic.png"
+      },
+      {
         "id": "38cd08a17b0061ba4e92aa33d8a0b033",
         "title": "Man hospitalised after shocking footage appears to show fall from Glasgow pub roof",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26708700.man-taken-hospital-apparent-fall-glasgow-pub-roof/",
