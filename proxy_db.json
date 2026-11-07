@@ -3117,6 +3117,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/households-warned-simple-mistake-could-34877739",
+        "title": "Households warned simple mistake 'could leave them paying double council tax'",
+        "link": "https://www.glasgowlive.co.uk/news/households-warned-simple-mistake-could-34877739",
+        "description": "People have been warned against making a mistake that could see them pay double the council tax",
+        "published": "Sat, 7 Nov 2026 11:09:37 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/article34877738.ece/ALTERNATES/s98/0_Council-Tax-Bill-UK.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=536184",
+        "title": "HRT shortages leave women fearing return of menopause symptoms",
+        "link": "https://news.stv.tv/west-central/hrt-shortages-leave-women-fearing-return-of-menopause-symptoms",
+        "description": "Women say they are distressed by worsening HRT shortages as pharmacists struggle to source supplies",
+        "published": "Sat, 07 Nov 2026 10:57:22 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/6c00d532e5ad2ee16fa7282895a32302-1793706459-1280x720.jpeg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-taxi-drivers-need-take-34875894",
         "title": "Glasgow taxi drivers may need to take card payments as strong support revealed",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-taxi-drivers-need-take-34875894",
