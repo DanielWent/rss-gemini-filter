@@ -3117,6 +3117,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "ce07656f0318def319c126b231f57a8a",
+        "title": "Destruction of iconic bar leaves massive gap in city centre as new plans take shape",
+        "link": "https://www.glasgowtimes.co.uk/news/26708858.destruction-admiral-bar-leaves-gap-glasgow-city-centre/",
+        "description": "Glasgow City Council approves plans for a 19-storey, 350-bed student block on the former Admiral Bar site, retaining the Distiller\u2019s Building facade.",
+        "published": "Sat, 07 Nov 2026 16:20:53 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21683664/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-drivers-warned-severe-m8-34878635",
         "title": "Glasgow drivers warned of 'severe' M8 weekend disruption as all 16 lanes to shut",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-drivers-warned-severe-m8-34878635",
