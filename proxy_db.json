@@ -3117,6 +3117,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-taxi-drivers-need-take-34875894",
+        "title": "Glasgow taxi drivers may need to take card payments as strong support revealed",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-taxi-drivers-need-take-34875894",
+        "description": "The majority of respondents to a public consultation were in favour of making it mandatory for taxis to accept card payments.",
+        "published": "Sat, 7 Nov 2026 10:32:37 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33058804.ece/ALTERNATES/s98/9_taxi-light.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/charity-volunteers-incredibly-upset-fly-34876086",
         "title": "Charity volunteers 'incredibly upset' as fly-tipping crisis worsens at Glasgow centre",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/charity-volunteers-incredibly-upset-fly-34876086",
