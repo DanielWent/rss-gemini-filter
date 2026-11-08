@@ -3117,12 +3117,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/manhunt-launched-two-months-after-34881611",
+        "title": "Manhunt launched two months after man hospitalised amid Glasgow street 'attack'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/manhunt-launched-two-months-after-34881611",
+        "description": "The suspect is described as around 5ft 10ins, of average build, with short, brown hair.",
+        "published": "Sun, 8 Nov 2026 15:58:41 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34881621.ece/ALTERNATES/s98/2_Gorbals-St.png"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/new-christmas-festival-coming-glasgow-34881340",
         "title": "New Christmas festival coming to Glasgow west end next month where most events are free",
         "link": "https://www.glasgowlive.co.uk/whats-on/new-christmas-festival-coming-glasgow-34881340",
         "description": "\"It\u2019s a time of year where many feel isolated and we want to provide opportunities for the community to come together.\"",
         "published": "Sun, 8 Nov 2026 15:31:50 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34881412.ece/ALTERNATES/s98/2_GMPhoto_WEF_TorchlightParade_301119-11.jpg"
+      },
+      {
+        "id": "da5c4a4069534d2da4e8b2eb23e64cf1",
+        "title": "Artists given three-month notice to stop spraying as council axes legal graffiti wall",
+        "link": "https://www.heraldscotland.com/news/26709725.glasgow-cowcaddens-legal-graffiti-wall-decommissioned/",
+        "description": "Glasgow\u2019s Cowcaddens legal graffiti wall is being decommissioned after a council review, with artists given until January 31, 2027, to stop painting there",
+        "published": "Sun, 08 Nov 2026 14:49:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20957051/?type=app&htype=0"
       },
       {
         "id": "c0cea3df58655f572afa6e24da6b486e",
@@ -3899,22 +3915,6 @@
         "description": "There's a double dose of d\u00e9j\u00e0 vu in Glasgow city centre this evening as we shuffle down a short set of steps on West Regent Street towards Kalinga.",
         "published": "Fri, 06 Nov 2026 12:15:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21669484/?type=app&htype=0"
-      },
-      {
-        "id": "e3f321a3b5ad8f15000d780867d2abd1",
-        "title": "Iconic Glasgow venue to showcase over 80 emerging Scottish artists in January",
-        "link": "https://www.glasgowtimes.co.uk/news/26705872.glasgows-king-tuts-host-new-years-revolution/",
-        "description": "King Tut\u2019s Wah Wah Hut in Glasgow will host its annual New Year\u2019s Revolution throughout January.",
-        "published": "Fri, 06 Nov 2026 12:14:30 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20538210/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=536935",
-        "title": "A78 to partially reopen between Skelmorlie and Largs as Storm Boelo repairs continue",
-        "link": "https://news.stv.tv/west-central/a78-to-partially-reopen-between-skelmorlie-and-largs-as-storm-boelo-repairs-continue",
-        "description": "The A78 Shore Road has been closed since major damage was sustained during Storm Boelo.",
-        "published": "Fri, 06 Nov 2026 11:54:21 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/abf96282a31b865e2bb660d25744dfcc-1793964533.jpeg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
