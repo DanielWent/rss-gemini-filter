@@ -2202,6 +2202,22 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "af88c822229323dd6e67662c48b45396",
+        "title": "Torrance drivers face new parking restrictions on Main Street after council vote",
+        "link": "https://www.glasgowtimes.co.uk/news/26707089.torrance-traffic-restrictions-approved-tackle-parking/",
+        "description": "East Dunbartonshire Council approves no-waiting and no-loading restrictions on Torrance roads to tackle indiscriminate parking and congestion at traffic lights.",
+        "published": "Sun, 08 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21063564/?type=app&htype=0"
+      },
+      {
+        "id": "7eb434b9b999b7d7864aaea884cca723",
+        "title": "Historic Lenzie hall to get new lease of life after \u00a31-a-year deal agreed",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26706873.lenzie-community-group-approved-take-public-hall/",
+        "description": "East Dunbartonshire Council approves Lenzie Public Hall community asset transfer to Lenzie Community Hall Ltd on a \u00a31-a-year, 49-year lease.",
+        "published": "Sun, 08 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21680942/?type=app&htype=0"
+      },
+      {
         "id": "c5037984d9b8d4dbf71dc22ae1281419",
         "title": "A803 speed limit slashed from 60mph to 40mph in major change for drivers",
         "link": "https://www.glasgowtimes.co.uk/news/26707116.a803-kilsyth-road-speed-limit-cut-60-40mph/",
@@ -2984,22 +3000,6 @@
         "description": "A free exhibition showcasing stunning astronomical images is set to open at Campsie Gallery in Mugdock Country Park in Glasgow.",
         "published": "Tue, 01 Sep 2026 16:04:11 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21397701/?type=app&htype=0"
-      },
-      {
-        "id": "24340ff8f7f8d801526f6a7719264b86",
-        "title": "38-year-old Glasgow group that helps hundreds with disabilities could close in months",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26509350.glasgow-riding-disabled-association-risk-closure/",
-        "description": "Glasgow Riding for the Disabled Association is at risk of closure, it has been announced.",
-        "published": "Tue, 01 Sep 2026 06:00:00 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21393164/?type=app&htype=0"
-      },
-      {
-        "id": "188f8f63e7d03da5825c9d0bf60be060",
-        "title": "Popular restaurant to open new function suite for weddings and events",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26507340.grove-bar-open-new-function-suite-weddings-events/",
-        "description": "Plans for a new function suite at The Grove Bar and Restaurant in Lenzie have been approved, paving the way for weddings, parties, race nights and special events.",
-        "published": "Sun, 30 Aug 2026 09:36:30 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18323452/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3117,6 +3117,70 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "c379be613c6f5599d2313d067d0850f8",
+        "title": "National scandal: 'Risk to life' in 22 Scots buildings as Grenfell repairs fail",
+        "link": "https://www.heraldscotland.com/news/26707417.grenfell-cladding-scandal-22-scottish-buildings-risk-life/",
+        "description": "Scottish Government analysis has revealed that 22 buildings require urgent safety measures, while cladding remediation work is under way at just two.",
+        "published": "Sun, 08 Nov 2026 06:32:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/17671595/?type=app&htype=0"
+      },
+      {
+        "id": "af88c822229323dd6e67662c48b45396",
+        "title": "Torrance drivers face new parking restrictions on Main Street after council vote",
+        "link": "https://www.glasgowtimes.co.uk/news/26707089.torrance-traffic-restrictions-approved-tackle-parking/",
+        "description": "East Dunbartonshire Council approves no-waiting and no-loading restrictions on Torrance roads to tackle indiscriminate parking and congestion at traffic lights.",
+        "published": "Sun, 08 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21063564/?type=app&htype=0"
+      },
+      {
+        "id": "1687a719f377e6c6b9f69412afe36a52",
+        "title": "Glasgow mum hit with \u00a342,000 bill after challenging council over teacher cuts",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26705506.glasgow-mum-billed-42-000-failed-council-court-bid/",
+        "description": "Glasgow mum faces a \u00a342,000 bill after a failed judicial review challenging teacher cuts, raising concerns over parent groups and council scrutiny.",
+        "published": "Sun, 08 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21679034/?type=app&htype=0"
+      },
+      {
+        "id": "7eb434b9b999b7d7864aaea884cca723",
+        "title": "Historic Lenzie hall to get new lease of life after \u00a31-a-year deal agreed",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26706873.lenzie-community-group-approved-take-public-hall/",
+        "description": "East Dunbartonshire Council approves Lenzie Public Hall community asset transfer to Lenzie Community Hall Ltd on a \u00a31-a-year, 49-year lease.",
+        "published": "Sun, 08 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21680942/?type=app&htype=0"
+      },
+      {
+        "id": "ad135ce3bf2bc21f7f9e78cf93177621",
+        "title": "Glasgow is only council area in Scotland without this as young people demand change",
+        "link": "https://www.glasgowtimes.co.uk/news/26698870.glasgow-north-west-youth-charter-launched-msyps/",
+        "description": "Glasgow Kelvin MSYP Matthew Gordon launches Glasgow North West Youth Charter after consulting 800 young people on transport, education, health and more.",
+        "published": "Sun, 08 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21670253/?type=app&htype=0"
+      },
+      {
+        "id": "d5180fe873b17fce6320e16e7d29d466",
+        "title": "Inside Glasgow's new Christmas market with rooftop bar and local food",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26703165.inside-glasgows-new-christmas-market-rooftop-bar-local-food/",
+        "description": "A new\u00a0Christmas market which promises to bring something different to Glasgow's festive celebrations is coming to George Square",
+        "published": "Sun, 08 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21676196/?type=app&htype=0"
+      },
+      {
+        "id": "1b03979f635240bba44d238287c6d8ae",
+        "title": "Ex-Muslim who called for niqab ban: I would never back Reform\u2019s plan",
+        "link": "https://www.heraldscotland.com/news/26706941.anti-burqa-campaigner-hits-reform-uks-niqab-ban-push/",
+        "description": "Maryam Namazie, the Iranian-born founder of the Council of Ex-Muslims of Britain, has long campaigned against the veil \u2014 but she says Reform UK, with its record on women and minorities, is the last party she would trust to champion that cause.",
+        "published": "Sun, 08 Nov 2026 05:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/17779569/?type=app&htype=0"
+      },
+      {
+        "id": "c8cd8cd850c2987e6f175e45488b5284",
+        "title": "Scotland's overcrowded prisons hit by backlog of serious maintenance defects",
+        "link": "https://www.heraldscotland.com/news/26707112.overcrowded-scottish-jails-hundreds-serious-defects/",
+        "description": "Scotland's overcrowded prisons have 1,525 outstanding maintenance defects as the jail population runs hundreds above design capacity.",
+        "published": "Sun, 08 Nov 2026 05:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/9378240/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/major-incident-outside-ovo-hydro-34879855",
         "title": "'Major incident' outside Ovo Hydro as fights break out with 'police everywhere'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/major-incident-outside-ovo-hydro-34879855",
@@ -3147,14 +3211,6 @@
         "description": "Man taken to hospital after footage appears to show a fall from The Laurieston Bar roof on Bridge Street, Glasgow, with Police Scotland referring matter to HSE.",
         "published": "Sat, 07 Nov 2026 14:10:32 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21683351/?type=app&htype=0"
-      },
-      {
-        "id": "1cf0a5eb58112170bdce406d68b0c125",
-        "title": "LIVE updates as major M8 closures cause HUGE delays with drivers urged to avoid area",
-        "link": "https://www.glasgowtimes.co.uk/news/26708616.live-updates-m8-closures-cause-major-delays-near-glasgow-airport/",
-        "description": "The A737 northbound is congested at St James\u2019 Interchange, with delays of around 26 minutes. The disruption comes as the A737 St James\u2019 Viaduct eastbound link to the M8 at Junction 28A is closed. Further disruption is expected when a section of the M8 closes in both directions from 6pm tonight.",
-        "published": "Sat, 07 Nov 2026 12:59:55 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21683259/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/gorgeous-castle-near-glasgow-launches-34856683",
