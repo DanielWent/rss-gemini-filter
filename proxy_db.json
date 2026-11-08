@@ -2202,6 +2202,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "3d508c70b9f669037fd46dd567462b05",
+        "title": "Moving scenes as Bearsden comes together for Remembrance Sunday",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26709806.residents-gather-remembrance-sunday-service-bearsden/",
+        "description": "Residents gathered to remember the fallen at a Remembrance Sunday service.",
+        "published": "Sun, 08 Nov 2026 15:28:10 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21685887/?type=app&htype=0"
+      },
+      {
         "id": "af88c822229323dd6e67662c48b45396",
         "title": "Torrance drivers face new parking restrictions on Main Street after council vote",
         "link": "https://www.glasgowtimes.co.uk/news/26707089.torrance-traffic-restrictions-approved-tackle-parking/",
@@ -2992,14 +3000,6 @@
         "description": "A husband-and-wife optician team are handing over the reins of their business after 18 years of service.",
         "published": "Wed, 02 Sep 2026 12:43:57 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21401368/?type=app&htype=0"
-      },
-      {
-        "id": "59ab243882cede9c934c0c2db427bc28",
-        "title": "Free astronomy exhibition set to open at Mugdock Country Park this month",
-        "link": "https://www.glasgowtimes.co.uk/news/26512845.free-astronomy-exhibition-open-mugdock-country-park/",
-        "description": "A free exhibition showcasing stunning astronomical images is set to open at Campsie Gallery in Mugdock Country Park in Glasgow.",
-        "published": "Tue, 01 Sep 2026 16:04:11 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21397701/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3117,6 +3117,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/new-christmas-festival-coming-glasgow-34881340",
+        "title": "New Christmas festival coming to Glasgow west end next month where most events are free",
+        "link": "https://www.glasgowlive.co.uk/whats-on/new-christmas-festival-coming-glasgow-34881340",
+        "description": "\"It\u2019s a time of year where many feel isolated and we want to provide opportunities for the community to come together.\"",
+        "published": "Sun, 8 Nov 2026 15:31:50 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34881412.ece/ALTERNATES/s98/2_GMPhoto_WEF_TorchlightParade_301119-11.jpg"
+      },
+      {
         "id": "c0cea3df58655f572afa6e24da6b486e",
         "title": "Glasgow falls silent as Remembrance Sunday returns to George Square",
         "link": "https://www.glasgowtimes.co.uk/news/26709752.glasgow-remembrance-sunday-service-returns-george-square/",
@@ -3139,14 +3147,6 @@
         "description": "We've rounded up the most significant crime stories from Glasgow and Lanarkshire courts this week.",
         "published": "Sun, 8 Nov 2026 14:01:16 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34840854.ece/ALTERNATES/s98/844670332_1129082532798541_261343696900504686_n.jpg"
-      },
-      {
-        "id": "60507b2edecca697230132630d5faf08",
-        "title": "Remembrance Sunday service held in Glasgow's 'transformed' George Square",
-        "link": "https://www.heraldscotland.com/news/26709625.glasgows-george-square-partially-reopens-remembrance-sunday/",
-        "description": "On November 8, Remembrance Sunday 2026 saw Glasgow\u2019s service return to George Square, with Jenny Gilruth laying a wreath for Scotland\u2019s fallen and veterans",
-        "published": "Sun, 08 Nov 2026 13:38:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21685067/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=537129",
