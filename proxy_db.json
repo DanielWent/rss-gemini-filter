@@ -3117,12 +3117,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/predator-who-assaulted-woman-glasgow-34880864",
+        "title": "Predator who assaulted woman in Glasgow taxi sentenced and five other criminals in court this week",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/predator-who-assaulted-woman-glasgow-34880864",
+        "description": "We've rounded up the most significant crime stories from Glasgow and Lanarkshire courts this week.",
+        "published": "Sun, 8 Nov 2026 14:01:16 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34840854.ece/ALTERNATES/s98/844670332_1129082532798541_261343696900504686_n.jpg"
+      },
+      {
+        "id": "60507b2edecca697230132630d5faf08",
+        "title": "Remembrance Sunday service held in Glasgow's 'transformed' George Square",
+        "link": "https://www.heraldscotland.com/news/26709625.glasgows-george-square-partially-reopens-remembrance-sunday/",
+        "description": "On November 8, Remembrance Sunday 2026 saw Glasgow\u2019s service return to George Square, with Jenny Gilruth laying a wreath for Scotland\u2019s fallen and veterans",
+        "published": "Sun, 08 Nov 2026 13:38:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21685067/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=537129",
         "title": "Fresh appeal to trace Stirling man missing for over a year",
         "link": "https://news.stv.tv/west-central/fresh-appeal-to-trace-stirling-man-missing-for-over-a-year",
         "description": "Yuxin Cao was last seen between the hours of 7pm and 9pm on Tuesday, September 2, 2025.",
         "published": "Sun, 08 Nov 2026 13:25:23 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/ceb1685a70697ee5b9904c9567f63737-1794144298-1280x720.jpeg"
+      },
+      {
+        "id": "62705694c41e59cdf23697c5963d4744",
+        "title": "Island golf resort sets out plans as staffing challenge comes into focus",
+        "link": "https://www.heraldscotland.com/news/26707061.machrie-highlights-staff-housing-challenge-islay/",
+        "description": "The Machrie on Islay has highlighted staff accommodation as a key recruitment issue as new accounts show improving revenues but continued losses",
+        "published": "Sun, 08 Nov 2026 13:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21681546/?type=app&htype=0"
       },
       {
         "id": "9337429",
@@ -3139,14 +3163,6 @@
         "description": "Two men have been arrested and charged after a disturbance in Glasgow.",
         "published": "Sun, 08 Nov 2026 12:51:24 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/15069573/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=537122",
-        "title": "Two men charged after bare-knuckle boxing event at Hydro in Glasgow",
-        "link": "https://news.stv.tv/west-central/two-men-charged-after-bare-knuckle-boxing-event-at-hydro-in-glasgow",
-        "description": "Another man was arrested and issued with a recorded police warning for threatening and abusive behaviour.",
-        "published": "Sun, 08 Nov 2026 12:12:51 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/04/143848d7eb4a690bd6c46927fe2cb64a-1776156707-891x720.jpeg"
       },
       {
         "id": "e7725286435554314fe9194ad8e10705",
@@ -3899,22 +3915,6 @@
         "description": "Free Glasgow exhibition The Art of Family Life shares refugee stories of family, culture and mental health at Listen Gallery until November 18.",
         "published": "Fri, 06 Nov 2026 11:26:02 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21679093/?type=app&htype=0"
-      },
-      {
-        "id": "d1dd78dbf8b05eaaae8c9ac557ba3789",
-        "title": "Man admits sexually assaulting young child in Bearsden",
-        "link": "https://www.glasgowtimes.co.uk/news/26705538.man-admits-sexaully-assaulting-young-child-bearsden/",
-        "description": "A man has pleaded guilty to sexually assaulting a child under 10.",
-        "published": "Fri, 06 Nov 2026 11:21:22 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21190813/?type=app&htype=0"
-      },
-      {
-        "id": "ed1c0be6af5cd925a064cc3d59a81c3d",
-        "title": "\u2018Enough is enough\u2019 after Glasgow emergency crews attacked with fireworks",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26705453.enough-enough-glasgow-bonfire-night-attacks/",
-        "description": "Attacks on emergency services have been branded \"utterly reckless and disgraceful\" after police and ambulance staff in Glasgow were targeted with fireworks on Bonfire Night.",
-        "published": "Fri, 06 Nov 2026 11:06:36 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21678961/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
