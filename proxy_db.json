@@ -3117,12 +3117,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9337429",
+        "title": "Celtic hero explains why Martin O'Neill receives 'flak with love' as minimum domestic requirement outlined",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-hero-explains-why-martin-oneill-receives-flak-with-love-as-minimum-domestic-requirement-outlined-9337429",
+        "description": "<p>Former Celtic and Manchester City knows what it\u2019s like to play at a club with high demands</p>",
+        "published": "Sun, 08 Nov 2026 12:51:57 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/08/12/53/GettyImages-2303696340.jpeg?width=1200&auto=webp&trim=0%2C30%2C0%2C30"
+      },
+      {
         "id": "https://news.stv.tv/?p=537122",
         "title": "Two men charged after bare-knuckle boxing event at Hydro in Glasgow",
         "link": "https://news.stv.tv/west-central/two-men-charged-after-bare-knuckle-boxing-event-at-hydro-in-glasgow",
         "description": "Another man was arrested and issued with a recorded police warning for threatening and abusive behaviour.",
         "published": "Sun, 08 Nov 2026 12:12:51 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/04/143848d7eb4a690bd6c46927fe2cb64a-1776156707-891x720.jpeg"
+      },
+      {
+        "id": "e7725286435554314fe9194ad8e10705",
+        "title": "Major American fashion brand appears set to open new Glasgow store",
+        "link": "https://www.glasgowtimes.co.uk/news/26709543.coach-expected-open-buchanan-street-store-spring-2027/",
+        "description": "A major American fashion brand is set to make its mark in Glasgow.",
+        "published": "Sun, 08 Nov 2026 11:48:04 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21684770/?type=app&htype=0"
       },
       {
         "id": "8698be44739093d03b5b45c2ae007c1c",
@@ -3187,14 +3203,6 @@
         "description": "Lene Lovich brings Lucky Number, Say When and Bird Song to Glasgow's Ivory Blacks, but technical problems dog the post-punk icon's live performance.",
         "published": "Sun, 08 Nov 2026 09:21:29 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21684411/?type=app&htype=0"
-      },
-      {
-        "id": "a0c3d51999803c6ba6b0cb3d5925ab64",
-        "title": "Videos show 'absolute chaos' outside Glasgow Hydro after packed fight night",
-        "link": "https://www.glasgowtimes.co.uk/news/26709373.crowd-trouble-breaks-outside-glasgows-ovo-hydro/",
-        "description": "Crowd trouble broke out outside the OVO Hydro following a Bare Knuckle Fighting Championship (BKFC) event.",
-        "published": "Sun, 08 Nov 2026 09:21:27 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21684520/?type=app&htype=0"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/cmeweejlk2lqo#0",
@@ -3907,14 +3915,6 @@
         "description": "From growing golf businesses to new technology and the evolution of clubs, Around the Greens explores the people and ideas shaping Scottish golf",
         "published": "Fri, 06 Nov 2026 10:30:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21670069/?type=app&htype=0"
-      },
-      {
-        "id": "9334199",
-        "title": "New bar and speakeasy opens on former Whistler on the Green site in Glasgow",
-        "link": "https://www.glasgowworld.com/news/new-bar-and-speakeasy-opens-on-former-whistler-on-the-green-site-in-glasgow-9334199",
-        "description": "<p>Former Whistler on the Green site transformed into daytime pub and late night speakeasy</p>",
-        "published": "Fri, 06 Nov 2026 10:15:40 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/06/10/35/McLennans-Projection-Peoples-Palace-14839b58.jpeg?width=1200&auto=webp&trim=1%2C0%2C1%2C0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
