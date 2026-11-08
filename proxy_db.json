@@ -3117,6 +3117,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=536940",
+        "title": "Former set builders save film and TV props from landfill",
+        "link": "https://news.stv.tv/west-central/former-set-builders-save-film-and-tv-props-from-landfill",
+        "description": "Props from films and TV series including Outlander are being given a second life by an enterprise aiming to reduce industry waste.",
+        "published": "Sun, 08 Nov 2026 10:15:00 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/2618e9b9c7b0116e9d372a220165d12b-1793969342-1280x720.jpeg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-bar-gets-licence-run-34875977",
         "title": "Glasgow bar gets licence to run as nightclub after winning planning battle",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-bar-gets-licence-run-34875977",
@@ -3469,14 +3477,6 @@
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5a1/live/faecd800-d9e5-11f1-93e1-3b657b665bcf.jpg"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/c3qjnn2yrj47o#0",
-        "title": "Delays expected as two weekends of M8 closures begin",
-        "link": "https://www.bbc.co.uk/news/articles/c3qjnn2yrj47o?at_medium=RSS&at_campaign=rss",
-        "description": "Scotland's busiest motorway will be closed in both directions as work takes place to replace two footbridges in Glasgow.",
-        "published": "Fri, 06 Nov 2026 23:00:04 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f025/live/2463b750-da11-11f1-bbd1-cf41b7fd4e9b.png"
-      },
-      {
         "id": "https://news.stv.tv/?p=537014",
         "title": "Derelict primary school set alight during Bonfire Night as police investigate",
         "link": "https://news.stv.tv/west-central/derelict-primary-school-set-alight-during-bonfire-night-as-police-investigate",
@@ -3715,14 +3715,6 @@
         "description": "A 53-year-old man was taken to hospital following the incident in the Greenfield area on Thursday",
         "published": "Fri, 06 Nov 2026 13:51:46 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/21845ce850fd03f916a413cdaeaac4d6-1793898816-1280x720.jpeg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/full-list-scottish-bank-holidays-34873174",
-        "title": "Full list of Scottish bank holidays 2027 as seven will move",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/full-list-scottish-bank-holidays-34873174",
-        "description": "Seven bank holidays will fall on different dates next year",
-        "published": "Fri, 6 Nov 2026 13:15:14 +0000",
-        "image_url": "https://i2-prod.liverpoolecho.co.uk/incoming/article34873289.ece/ALTERNATES/s98/0_GettyImages-2184334064.jpg"
       },
       {
         "id": "5f9bca4dae896fd5a2b0a4aeb90b6db0",
