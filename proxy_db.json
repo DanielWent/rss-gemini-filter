@@ -3117,6 +3117,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "c0cea3df58655f572afa6e24da6b486e",
+        "title": "Glasgow falls silent as Remembrance Sunday returns to George Square",
+        "link": "https://www.glasgowtimes.co.uk/news/26709752.glasgow-remembrance-sunday-service-returns-george-square/",
+        "description": "Crowds gathered in solemn tribute to honour the fallen.",
+        "published": "Sun, 08 Nov 2026 14:47:30 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21685067/?type=app&htype=0"
+      },
+      {
+        "id": "ca9c3a06c82c831bfff88c2de1630cad",
+        "title": "Glasgow celebrates triple triumph as city takes three top awards",
+        "link": "https://www.glasgowtimes.co.uk/news/26709734.glasgow-wins-three-qualifications-scotland-excellence-awards/",
+        "description": "Glasgow has scooped three of five top honours at the Qualifications Scotland Excellence Awards, with Glasgow Clyde College securing two awards.",
+        "published": "Sun, 08 Nov 2026 14:38:35 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21685639/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/predator-who-assaulted-woman-glasgow-34880864",
         "title": "Predator who assaulted woman in Glasgow taxi sentenced and five other criminals in court this week",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/predator-who-assaulted-woman-glasgow-34880864",
@@ -3899,22 +3915,6 @@
         "description": "The A78 Shore Road has been closed since major damage was sustained during Storm Boelo.",
         "published": "Fri, 06 Nov 2026 11:54:21 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/abf96282a31b865e2bb660d25744dfcc-1793964533.jpeg"
-      },
-      {
-        "id": "df8aea392875e6470993bb1a9c5f4954",
-        "title": "Fire crews tackle blaze near homes in Lanarkshire on Bonfire Night",
-        "link": "https://www.glasgowtimes.co.uk/news/26705717.fire-crews-tackle-blaze-near-homes-rutherglen/",
-        "description": "Firefighters spent almost two hours tackling a blaze on Bute Road in Rutherglen after emergency services were alerted on Bonfire Night.",
-        "published": "Fri, 06 Nov 2026 11:52:36 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21679310/?type=app&htype=41"
-      },
-      {
-        "id": "fedf76a61a1d470cffa5edfaad9e2729",
-        "title": "Free Glasgow art exhibition explores family life through refugee stories",
-        "link": "https://www.glasgowtimes.co.uk/news/26705558.free-glasgow-exhibition-exploring-refugee-stories-now-open/",
-        "description": "Free Glasgow exhibition The Art of Family Life shares refugee stories of family, culture and mental health at Listen Gallery until November 18.",
-        "published": "Fri, 06 Nov 2026 11:26:02 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21679093/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
