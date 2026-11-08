@@ -3117,6 +3117,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cmeweejlk2lqo#0",
+        "title": "The designers finding beauty in nature's darker side",
+        "link": "https://www.bbc.co.uk/news/articles/cmeweejlk2lqo?at_medium=RSS&at_campaign=rss",
+        "description": "The Glasgow-based designers behind Timorous Beasties have been telling stories in their subversive designs for decades.",
+        "published": "Sun, 08 Nov 2026 08:06:52 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9c9/live/35233790-da08-11f1-93e1-3b657b665bcf.jpg"
+      },
+      {
+        "id": "9337048",
+        "title": "Celtic injury alarm sounded after late Besiktas heroics as Martin O'Neill left with attacking puzzle to solve",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-injury-alarm-sounded-late-besiktas-heroics-martin-oneill-attacking-puzzle-to-solve-9337048",
+        "description": "<p>Celtic sweat over key defender\u2019s fitness as Martin O\u2019Neill reveals hamstring concern ahead of Kilmarnock clash</p>",
+        "published": "Sun, 08 Nov 2026 08:00:33 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/07/19/32/GettyImages-2303711030.jpeg?width=1200&auto=webp&trim=66%2C0%2C66%2C0"
+      },
+      {
+        "id": "f7fad28bce2ef3295e3c29035f7d925a",
+        "title": "Scotland's 13,000 forces children are fighting to be seen this Remembrance Day",
+        "link": "https://www.heraldscotland.com/life_style/26707124.scotlands-forces-children-taking-control-uncertain-future/",
+        "description": "Mr Sweeney is the chief executive of Forces Children Scotland, the national charity that advocates for and works with this sometimes \"invisible\" group of children and young people.",
+        "published": "Sun, 08 Nov 2026 08:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21681265/?type=app&htype=0"
+      },
+      {
         "id": "c379be613c6f5599d2313d067d0850f8",
         "title": "National scandal: 'Risk to life' in 22 Scots buildings as Grenfell repairs fail",
         "link": "https://www.heraldscotland.com/news/26707417.grenfell-cladding-scandal-22-scottish-buildings-risk-life/",
@@ -3891,30 +3915,6 @@
         "description": "<p>Manager hails Duran\u2019s decisive double and Celtic\u2019s fighting spirit as Europa League hopes reignited</p>",
         "published": "Fri, 06 Nov 2026 08:00:34 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/05/23/11/PA-86380779.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "43e33b0e3b09e9ad5e273136e34f7d6b",
-        "title": "'Accident waiting to happen' warning over parking chaos at popular Glasgow spot",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26704351.glasgow-barras-parking-deemed-accident-waiting-happen/",
-        "description": "Calton Community Council warns parking around Glasgow\u2019s Barras is an \u201caccident waiting to happen\u201d, citing blocked footways, cycle lanes and abuse of wardens.",
-        "published": "Fri, 06 Nov 2026 07:51:24 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19112070/?type=app&htype=0"
-      },
-      {
-        "id": "fb227173d99250776b76206cbce948f6",
-        "title": "Emergency response as van and car go up in flames near Glasgow on Bonfire Night",
-        "link": "https://www.glasgowtimes.co.uk/news/26704313.van-car-fire-coatbridge-bonfire-night/",
-        "description": "Firefighters rushed to Stewart Street in Coatbridge after a van and car went up in flames on Bonfire Night. No casualties were reported.",
-        "published": "Fri, 06 Nov 2026 07:18:26 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19721482/?type=app&htype=0"
-      },
-      {
-        "id": "deb810643c941cd7e62ae9b51100fa9c",
-        "title": "Plans approved for Glasgow waste treatment centre serving 40 per cent of Scotland",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26703805.glasgow-approves-bioresource-centre-plans-45-new-homes/",
-        "description": "Glasgow Council approves a Daldowie bioresource treatment centre serving 40% of Scotland, plus 45 Easterhouse homes and a water vole sanctuary on November 5.",
-        "published": "Thu, 05 Nov 2026 16:55:49 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21677149/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
