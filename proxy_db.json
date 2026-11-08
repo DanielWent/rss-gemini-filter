@@ -3117,6 +3117,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=537122",
+        "title": "Two men charged after bare-knuckle boxing event at Hydro in Glasgow",
+        "link": "https://news.stv.tv/west-central/two-men-charged-after-bare-knuckle-boxing-event-at-hydro-in-glasgow",
+        "description": "Another man was arrested and issued with a recorded police warning for threatening and abusive behaviour.",
+        "published": "Sun, 08 Nov 2026 12:12:51 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/04/143848d7eb4a690bd6c46927fe2cb64a-1776156707-891x720.jpeg"
+      },
+      {
         "id": "8698be44739093d03b5b45c2ae007c1c",
         "title": "Strictly Come Dancing star lands lead role in hit musical coming to Glasgow",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26709502.lauren-oakley-make-musical-theatre-debut-roxie-hart/",
@@ -3907,14 +3915,6 @@
         "description": "<p>Former Whistler on the Green site transformed into daytime pub and late night speakeasy</p>",
         "published": "Fri, 06 Nov 2026 10:15:40 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/06/10/35/McLennans-Projection-Peoples-Palace-14839b58.jpeg?width=1200&auto=webp&trim=1%2C0%2C1%2C0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=536900",
-        "title": "Paisley man banned from keeping animals after dog suffers severe injuries in animal fights",
-        "link": "https://news.stv.tv/west-central/paisley-man-banned-from-keeping-animals-after-dog-suffers-severe-injuries-in-animal-fights",
-        "description": "Sean Alexander Mullen was found with animal fighting paraphernalia and training equipment at his home in Paisley.",
-        "published": "Fri, 06 Nov 2026 10:09:34 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/361db61bd980f0947528cfeb6b73cfc5-1793957315-898x720.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
