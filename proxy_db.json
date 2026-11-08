@@ -3117,6 +3117,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "8698be44739093d03b5b45c2ae007c1c",
+        "title": "Strictly Come Dancing star lands lead role in hit musical coming to Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26709502.lauren-oakley-make-musical-theatre-debut-roxie-hart/",
+        "description": "Strictly Come Dancing star Lauren Oakley is set to make her musical theatre debut.",
+        "published": "Sun, 08 Nov 2026 11:12:23 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20483413/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=536540",
         "title": "Royal Hospital for Children launches world\u2019s first robotic surgery programme for children",
         "link": "https://news.stv.tv/west-central/royal-hospital-for-children-launches-worlds-first-robotic-surgery-programme-for-children",
@@ -3907,14 +3915,6 @@
         "description": "Sean Alexander Mullen was found with animal fighting paraphernalia and training equipment at his home in Paisley.",
         "published": "Fri, 06 Nov 2026 10:09:34 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/361db61bd980f0947528cfeb6b73cfc5-1793957315-898x720.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/fire-crews-called-more-250-34871254",
-        "title": "Fire crews called to more than 250 bonfires as chaotic scenes unfold across west of Scotland",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/fire-crews-called-more-250-34871254",
-        "description": "According to the Scottish Fire and Rescue Service, there were four reported attacks on crews in the region.",
-        "published": "Fri, 6 Nov 2026 09:56:27 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34871406.ece/ALTERNATES/s98/0_JS423505409-1.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
