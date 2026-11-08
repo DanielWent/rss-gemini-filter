@@ -3117,6 +3117,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=537129",
+        "title": "Fresh appeal to trace Stirling man missing for over a year",
+        "link": "https://news.stv.tv/west-central/fresh-appeal-to-trace-stirling-man-missing-for-over-a-year",
+        "description": "Yuxin Cao was last seen between the hours of 7pm and 9pm on Tuesday, September 2, 2025.",
+        "published": "Sun, 08 Nov 2026 13:25:23 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/ceb1685a70697ee5b9904c9567f63737-1794144298-1280x720.jpeg"
+      },
+      {
         "id": "9337429",
         "title": "Celtic hero explains why Martin O'Neill receives 'flak with love' as minimum domestic requirement outlined",
         "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-hero-explains-why-martin-oneill-receives-flak-with-love-as-minimum-domestic-requirement-outlined-9337429",
@@ -3907,14 +3915,6 @@
         "description": "Attacks on emergency services have been branded \"utterly reckless and disgraceful\" after police and ambulance staff in Glasgow were targeted with fireworks on Bonfire Night.",
         "published": "Fri, 06 Nov 2026 11:06:36 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21678961/?type=app&htype=0"
-      },
-      {
-        "id": "6162d2588e2a93ad690ba8d24cf7f2a9",
-        "title": "First look: New pub with 'rare' 9am licence opens in Glasgow",
-        "link": "https://www.heraldscotland.com/news/26705442.new-glasgow-pub-rare-9am-licence-opens-bonfire-night/",
-        "description": "A new pub with a 'rare old' 9 am licence opened its doors in Glasgow last night.",
-        "published": "Fri, 06 Nov 2026 11:05:10 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21679373/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
