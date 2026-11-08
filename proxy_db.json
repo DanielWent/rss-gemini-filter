@@ -3117,6 +3117,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "c8b76eab59d6ddd134f47beceec8270f",
+        "title": "Huge American rock band could be set for Glasgow return as Hydro drops tease",
+        "link": "https://www.glasgowtimes.co.uk/news/26710072.fall-boy-glasgow-return-teased-ovo-hydro/",
+        "description": "Fall Out Boy could be heading back to Glasgow after the OVO Hydro teased fans with a mysterious Twilight of the Punks display.",
+        "published": "Sun, 08 Nov 2026 19:42:11 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17187289/?type=app&htype=0"
+      },
+      {
         "id": "fcf58ac14e7fcdffc35ea47123d48131",
         "title": "Much-loved Christmas charity bus returning to Glasgow for 2026",
         "link": "https://www.glasgowtimes.co.uk/news/26710050.christmas-charity-bus-returning-clydebank-glasgow-2026/",
@@ -3907,14 +3915,6 @@
         "description": "Drivers face delays at Glasgow\u2019s Anderston Cross as emergency Scottish Water repairs reduce North Street and Argyle Street approaches to one lane each.",
         "published": "Fri, 06 Nov 2026 12:33:22 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20771357/?type=app&htype=0"
-      },
-      {
-        "id": "dc9b2b0e2ca4fd25afe15d8a0a5d7543",
-        "title": "New guide could help families uncover secrets of their Scottish ancestors",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26705942.scottish-ancestry-guide-updated-new-historic-records/",
-        "description": "The eighth edition of the best-selling book Tracing Your Scottish Ancestors has been released.",
-        "published": "Fri, 06 Nov 2026 12:26:57 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20468700/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
