@@ -2202,6 +2202,14 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "fcf58ac14e7fcdffc35ea47123d48131",
+        "title": "Much-loved Christmas charity bus returning to Glasgow for 2026",
+        "link": "https://www.glasgowtimes.co.uk/news/26710050.christmas-charity-bus-returning-clydebank-glasgow-2026/",
+        "description": "The St Margaret of Scotland Hospice Christmas bus is returning for 2026, with volunteers collecting donations across Clydebank, Glasgow and Dumbarton.",
+        "published": "Sun, 08 Nov 2026 19:02:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20339215/?type=app&htype=0"
+      },
+      {
         "id": "3d508c70b9f669037fd46dd567462b05",
         "title": "Moving scenes as Bearsden comes together for Remembrance Sunday",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26709806.residents-gather-remembrance-sunday-service-bearsden/",
@@ -2992,14 +3000,6 @@
         "description": "A care home has unveiled a new garden designed to promote wellbeing, connection, and time spent outdoors.",
         "published": "Wed, 02 Sep 2026 15:06:06 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21402617/?type=app&htype=0"
-      },
-      {
-        "id": "50c06e70c553faec94750866e55206b5",
-        "title": "Husband-and-wife team hand over reins of Milngavie opticians after nearly two decades",
-        "link": "https://www.glasgowtimes.co.uk/news/26515552.husband-and-wife-team-handing-reins-milngavie-specsavers/",
-        "description": "A husband-and-wife optician team are handing over the reins of their business after 18 years of service.",
-        "published": "Wed, 02 Sep 2026 12:43:57 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21401368/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3116,6 +3116,14 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "fcf58ac14e7fcdffc35ea47123d48131",
+        "title": "Much-loved Christmas charity bus returning to Glasgow for 2026",
+        "link": "https://www.glasgowtimes.co.uk/news/26710050.christmas-charity-bus-returning-clydebank-glasgow-2026/",
+        "description": "The St Margaret of Scotland Hospice Christmas bus is returning for 2026, with volunteers collecting donations across Clydebank, Glasgow and Dumbarton.",
+        "published": "Sun, 08 Nov 2026 19:02:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20339215/?type=app&htype=0"
+      },
       {
         "id": "9337665",
         "title": "Rangers brace for transfer offers in January for key star as summer fend off repeat predicted",
@@ -3907,14 +3915,6 @@
         "description": "The eighth edition of the best-selling book Tracing Your Scottish Ancestors has been released.",
         "published": "Fri, 06 Nov 2026 12:26:57 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20468700/?type=app&htype=0"
-      },
-      {
-        "id": "2ba2e9339cba10cecc9c1a07a6b4ffc1",
-        "title": "Council deputy leader suspended after phone call left housing officer in tears",
-        "link": "https://www.glasgowtimes.co.uk/news/26705890.deputy-council-leader-near-glasgow-suspended-phone-call/",
-        "description": "South Lanarkshire Council depute leader Gerry Convery has been suspended after a phone call left a housing officer visibly upset and in tears.",
-        "published": "Fri, 06 Nov 2026 12:16:41 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21679466/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
