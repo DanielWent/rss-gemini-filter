@@ -3117,6 +3117,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=537154",
+        "title": "Premier League club teams up with Glasgow firm on\u00a0blood test to warn athletes of injuries",
+        "link": "https://news.stv.tv/west-central/premier-league-club-teams-up-with-glasgow-firm-on-blood-test-to-warn-athletes-of-injuries",
+        "description": "Nottingham Forest is partnering with Glasgow-based biotechnology company Entourage on the 12-week study",
+        "published": "Mon, 09 Nov 2026 07:16:49 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/3f780b17a1be1f1ac19d538ade0fcf1f-1794208511-1200x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/ministers-urged-take-urgent-action-34880671",
+        "title": "Ministers urged to take 'urgent action' five years on from Glasgow climate summit",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/ministers-urged-take-urgent-action-34880671",
+        "description": "Campaigners at WWF have questioned the legacy from the event in Glasgow five years ago.",
+        "published": "Mon, 9 Nov 2026 06:55:22 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34880735.ece/ALTERNATES/s98/1_COP26.jpg"
+      },
+      {
         "id": "ab3fcbec8032c2131c833cbfbef990ab",
         "title": "Cops probe mystery meat from suspected 'underground market' amid Glasgow shop raid",
         "link": "https://www.glasgowtimes.co.uk/news/26705472.glasgow-police-probe-mystery-meat-found-shop/",
@@ -3899,22 +3915,6 @@
         "description": "A Glasgow councillor is calling for an organised fireworks display to be brought back to the city after emergency service workers were attacked on Bonfire Night.",
         "published": "Fri, 06 Nov 2026 14:16:07 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/16081610/?type=app&htype=0"
-      },
-      {
-        "id": "4633068caef2ab0c2fcdafadc450b4dd",
-        "title": "Shamed Scots football referee JAILED for secretly filming naked teenage girl",
-        "link": "https://www.glasgowtimes.co.uk/news/26706455.shamed-scots-referee-jailed-secretly-filming-naked-teenage-girl/",
-        "description": "Former Scots assistant referee Ian Hart jailed for 2 years 9 months for voyeurism and filming a teenage neighbour in South Lanarkshire; SFA delists him.",
-        "published": "Fri, 06 Nov 2026 14:03:29 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21255284/?type=app&htype=0"
-      },
-      {
-        "id": "b8e00a91a72b68350244221844ddf8b7",
-        "title": "Call for fireworks sale ban after Glasgow street turned into 'war zone'",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26705386.calls-fireworks-sale-ban-glasgow-police-van-fire/",
-        "description": "Calls have been made for a UK-wide ban on the sale of fireworks after a Glasgow street was turned into a \"war zone\" on Bonfire Night.",
-        "published": "Fri, 06 Nov 2026 13:57:00 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21678902/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
