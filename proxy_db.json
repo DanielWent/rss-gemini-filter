@@ -3125,6 +3125,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "38338e38857b07b20b7e71651a6c2e28",
+        "title": "Glasgow cinema comments investigated as possible antisemitic hate crime",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26712739.glasgow-antisemitic-comments-probed-possible-hate-crime/",
+        "description": "An investigation is underway into a \"possible hate crime\" following a \"horrendous\" incident at Glasgow Film Theatre.",
+        "published": "Mon, 09 Nov 2026 15:10:54 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20170280/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=537263",
         "title": "Avril Jones, who murdered vulnerable woman Margaret Fleming, dies in prison",
         "link": "https://news.stv.tv/west-central/avril-jones-who-murdered-vulnerable-woman-margaret-fleming-dies-in-prison",
@@ -3139,6 +3147,14 @@
         "description": "More than 500 newly registered nurses have joined NHS Greater Glasgow and Clyde this autumn.",
         "published": "Mon, 09 Nov 2026 15:05:48 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21691120/?type=app&htype=0"
+      },
+      {
+        "id": "5b3a9d9cc0bdb8f2a6d7b15f493adfac",
+        "title": "MPs seek Police Scotland talks over new Fayed abuse claims at Highland estate",
+        "link": "https://www.heraldscotland.com/news/26712590.mps-seek-police-scotland-meeting-fayed-abuse-allegations/",
+        "description": "MPs investigating the Fayed abuse scandal want to meet Police Scotland after fresh allegations involving a Highland estate, with findings set to inform a report.",
+        "published": "Mon, 09 Nov 2026 14:48:48 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/18588183/?type=app&htype=0"
       },
       {
         "id": "43881538598325d91621950d36580613",
@@ -3907,22 +3923,6 @@
         "description": "An SNP MSP and renewables industry figures are urging the Scottish Government to let new regional councils keep business rates from onshore wind farms, with analysis suggesting the move could channel \u00a378 million a year to rural communities.",
         "published": "Sat, 07 Nov 2026 05:00:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21094746/?type=app&htype=0"
-      },
-      {
-        "id": "5c955336bc599b6366e1dba6aa1c9deb",
-        "title": "Dalzell \u00a37m taxpayer loan repaid as FOI reveals ministers feared official receiver",
-        "link": "https://www.heraldscotland.com/news/26707631.sanjeev-gupta-repays-scottish-enterprise-dalzell-steel-loan/",
-        "description": "Scottish Enterprise has confirmed Sanjeev Gupta's Dalzell steelworks repaid a \u00a37m loan in full, but FOI documents reveal ministers feared the Motherwell plant faced the official receiver just weeks before.",
-        "published": "Sat, 07 Nov 2026 05:00:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/4364757/?type=app&htype=0"
-      },
-      {
-        "id": "2a5a322a13289d4c770d51e73697ccaf",
-        "title": "Businesses keep showing resilience, but how much more can we ask of them?",
-        "link": "https://www.heraldscotland.com/news/26705766.bank-england-rate-rise-piles-pressure-business/",
-        "description": "Scottish businesses are still investing and expanding, but higher interest rates and renewed cost pressures threaten to make growth harder",
-        "published": "Sat, 07 Nov 2026 04:43:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21680550/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
