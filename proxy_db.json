@@ -3125,6 +3125,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=537189",
+        "title": "Train services between Glasgow and Lanark disrupted after tractor strikes railway bridge",
+        "link": "https://news.stv.tv/west-central/train-services-between-glasgow-and-lanark-disrupted-after-tractor-strikes-railway-bridge",
+        "description": "Network Rail received reports of a vehicle striking a bridge in Wishaw on Monday morning.",
+        "published": "Mon, 09 Nov 2026 11:35:19 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2025/05/b10f6ef4d11c3fc2480d538606219b71-1746535464-1084x720.jpeg"
+      },
+      {
         "id": "https://news.stv.tv/?p=537172",
         "title": "Larkhall Leisure Centre evacuated after possible ordnance found nearby",
         "link": "https://news.stv.tv/west-central/larkhall-leisure-centre-evacuated-after-possible-ordnance-found-nearby",
@@ -3133,20 +3141,20 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/d6f2211c0101b74147a35301cc5b3d74-1794222039-1120x720.jpeg"
       },
       {
+        "id": "755b22c93f99d91248f4fac0ca64bed1",
+        "title": "What America\u2019s rejection of Trump could mean for politics in Scotland",
+        "link": "https://www.heraldscotland.com/politics/holyrood/26707865.trump-us-midterms-can-teach-scotland-economy/",
+        "description": "What can America\u2019s midterms teach Scotland? As voters reject Trump and economic inequality, the case for left populism and public ownership is growing says Roz Foyer",
+        "published": "Mon, 09 Nov 2026 11:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21682285/?type=app&htype=0"
+      },
+      {
         "id": "adc52252a00f0611154c6c2174486503",
         "title": "Glasgow teen felt 'ashamed' after doctor dismissed mental health struggles",
         "link": "https://www.glasgowtimes.co.uk/news/26711023.glasgow-teen-says-doctor-dismissed-mental-health-concerns/",
         "description": "Eva Drummond, 19, from the West End of Glasgow, first sought help at the age of 14 after struggling with low mood, exhaustion, and emotional numbness.",
         "published": "Mon, 09 Nov 2026 10:47:19 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21688381/?type=app&htype=0"
-      },
-      {
-        "id": "de631a52b416df05adb42a6fa6ad0d20",
-        "title": "LIVE updates as evacuations underway as suspected bomb found",
-        "link": "https://www.glasgowtimes.co.uk/news/26710881.live-updates-broomhill-drive-larkhall-evacuated-amid-bomb/",
-        "description": "Evacuations are underway, and roads have been closed after possible ordnance was discovered near a premises in Larkhall. Explosive Ordnance Disposal personnel are set to assess the item. Follow below for live updates.",
-        "published": "Mon, 09 Nov 2026 10:27:59 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19849199/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-users-dependent-illegal-drugs-34883558",
@@ -3379,14 +3387,6 @@
         "description": "Glasgow has scooped three of five top honours at the Qualifications Scotland Excellence Awards, with Glasgow Clyde College securing two awards.",
         "published": "Sun, 08 Nov 2026 14:38:35 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21685639/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/predator-who-assaulted-woman-glasgow-34880864",
-        "title": "Predator who assaulted woman in Glasgow taxi sentenced and five other criminals in court this week",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/predator-who-assaulted-woman-glasgow-34880864",
-        "description": "We've rounded up the most significant crime stories from Glasgow and Lanarkshire courts this week.",
-        "published": "Sun, 8 Nov 2026 14:01:16 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34840854.ece/ALTERNATES/s98/844670332_1129082532798541_261343696900504686_n.jpg"
       },
       {
         "id": "https://news.stv.tv/?p=537129",
