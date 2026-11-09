@@ -3117,6 +3117,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "a44671cccc12da62d815a0225370039d",
+        "title": "Conservatives call for SNP minister to correct comments about Israel and Gaza",
+        "link": "https://www.heraldscotland.com/news/26710363.tories-call-snp-minister-correct-comments-israel-gaza/",
+        "description": "A Holyrood row is growing over the minister\u2019s ICC comments",
+        "published": "Mon, 09 Nov 2026 09:00:47 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21096593/?type=app&htype=209"
+      },
+      {
         "id": "9338074",
         "title": "Celtic send injury update on key player after Kilmarnock clash as ace sent to treatment room",
         "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-send-injury-update-key-player-kilmarnock-clash-ace-sent-treatment-room-9338074",
@@ -3907,14 +3915,6 @@
         "description": "A prisoner who died in his cell 12 days after testing positive for Covid-19 was treated \u201cworse than an animal\u201d, his family\u2019s lawyer has said.",
         "published": "Fri, 06 Nov 2026 14:57:32 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21680819/?type=app&htype=0"
-      },
-      {
-        "id": "ff22fb50c600a806368bccc9e3b163a4",
-        "title": "Inverclyde ranks among Scotland's top five council areas for recycling",
-        "link": "https://www.heraldscotland.com/news/26706722.inverclyde-named-among-scotlands-top-five-recycling/",
-        "description": "Inverclyde has been named one of Scotland's top five council areas for recycling, with 53.1% of municipal waste reused or repurposed, according to SEPA figures.",
-        "published": "Fri, 06 Nov 2026 14:50:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21010422/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
