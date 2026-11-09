@@ -3117,6 +3117,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9338074",
+        "title": "Celtic send injury update on key player after Kilmarnock clash as ace sent to treatment room",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-send-injury-update-key-player-kilmarnock-clash-ace-sent-treatment-room-9338074",
+        "description": "<p>The Celtic manager has reacted after defeating Kilmarnock on home soil.</p>",
+        "published": "Mon, 09 Nov 2026 08:15:45 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/09/8/39/GettyImages-2304139724.jpg?width=1200&auto=webp&trim=0%2C1%2C0%2C1"
+      },
+      {
         "id": "https://news.stv.tv/?p=537156",
         "title": "Trident nuclear weapons could be disrupted by industrial action, union claims",
         "link": "https://news.stv.tv/west-central/trident-nuclear-weapons-could-be-disrupted-by-industrial-action-union-claims",
@@ -3907,14 +3915,6 @@
         "description": "Inverclyde has been named one of Scotland's top five council areas for recycling, with 53.1% of municipal waste reused or repurposed, according to SEPA figures.",
         "published": "Fri, 06 Nov 2026 14:50:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21010422/?type=app&htype=0"
-      },
-      {
-        "id": "007a9de16c8d0083d8bd57ec81e89784",
-        "title": "Two Glasgow roads closed as crews investigates sudden loss of water supply",
-        "link": "https://www.glasgowtimes.co.uk/news/26706638.two-glasgow-roads-closed-crews-investigate-water-loss/",
-        "description": "Glasgow road closures affect the Broomielaw and McAlpine Street as Scottish Water investigates a loss of supply. Diversions are in place; reopening is unknown.",
-        "published": "Fri, 06 Nov 2026 14:30:17 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17119543/?type=app&htype=9"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
