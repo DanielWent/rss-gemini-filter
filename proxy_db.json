@@ -3117,6 +3117,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "3e35b318cc6ffaf20ed1cf97bfa766ed",
+        "title": "'Driveway divide' leaves some Scots facing barriers to switching to electric cars",
+        "link": "https://www.heraldscotland.com/news/26709948.driveway-divide-creates-barriers-ev-uptake-scotland/",
+        "description": "Scotland faces a stark EV charging divide, with limited off-street parking hindering uptake in Glasgow and other communities as ministers review the ZEV mandate",
+        "published": "Mon, 09 Nov 2026 00:01:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21686205/?type=app&htype=0"
+      },
+      {
+        "id": "fa704db9b9dbf600432dc0880aaae580",
+        "title": "58 per cent of Scots want Holyrood to decide on North Sea oil licences",
+        "link": "https://www.heraldscotland.com/news/26709883.majority-scots-want-holyrood-decide-oil-gas-licences/",
+        "description": "Ipsos poll finds 58% of Scots want Holyrood to decide North Sea oil and gas licences, as Westminster considers Rosebank drilling approval and devolution",
+        "published": "Mon, 09 Nov 2026 00:01:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20615173/?type=app&htype=0"
+      },
+      {
         "id": "c8b76eab59d6ddd134f47beceec8270f",
         "title": "Huge American rock band could be set for Glasgow return as Hydro drops tease",
         "link": "https://www.glasgowtimes.co.uk/news/26710072.fall-boy-glasgow-return-teased-ovo-hydro/",
@@ -3899,22 +3915,6 @@
         "description": "Police Scotland arrested a 71-year-old man, later released without charge, over the theft of Glasgow\u2019s Lipton Cup from Riverside Museum. Enquiries continue.",
         "published": "Fri, 06 Nov 2026 12:48:13 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20857287/?type=app&htype=0"
-      },
-      {
-        "id": "abc46f213edebb7614289757e7686c75",
-        "title": "Edinburgh council leader 'angry and disappointed' after Bonfire Night disorder",
-        "link": "https://www.heraldscotland.com/news/26705963.edinburgh-councillor-condemns-bonfire-night-fireworks-attacks/",
-        "description": "Councillor Meagher hit out at \u201cisolated incidents of disorder\u201d caused by troublemakers \u201cseemingly intent on causing fear and alarm in our\u00a0communities\".",
-        "published": "Fri, 06 Nov 2026 12:43:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21679625/?type=app&htype=0"
-      },
-      {
-        "id": "802d97112d6da8856019f0958e0c67cb",
-        "title": "Drivers warned of delays at one of Glasgow's busiest junctions amid emergency works",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26705977.glasgow-junction-reduced-one-lane-water-repairs/",
-        "description": "Drivers face delays at Glasgow\u2019s Anderston Cross as emergency Scottish Water repairs reduce North Street and Argyle Street approaches to one lane each.",
-        "published": "Fri, 06 Nov 2026 12:33:22 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20771357/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
