@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo#1",
+        "title": "Scientists predict 2026 hottest year on record as climate talks begin",
+        "link": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
+        "description": "Scientists are predictng this could be the hottest year on record as the COP31 climate summit opens.",
+        "published": "Mon, 09 Nov 2026 07:30:12 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d7/live/1adcf6d0-db63-11f1-adda-c54f54e3ce6a.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo#5",
         "title": "One of the year's most prolific meteor showers to light up the night sky this weekend",
         "link": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Researchers at Stanford University genetically altered mice to be able to receive and function with human brain cells.",
         "published": "Wed, 16 Sep 2026 15:53:27 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de2b/live/f44bc7f0-b1da-11f1-a44b-aba96a7d56aa.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo#1",
-        "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
-        "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-        "description": "Mustafa Suleyman says he believes the AI giant is in effect teaching Claude it \"may be conscious\".",
-        "published": "Wed, 16 Sep 2026 14:16:14 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf81/live/b2088f70-b1d2-11f1-8493-1910d79d53eb.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -3117,12 +3117,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=537156",
+        "title": "Trident nuclear weapons could be disrupted by industrial action, union claims",
+        "link": "https://news.stv.tv/west-central/trident-nuclear-weapons-could-be-disrupted-by-industrial-action-union-claims",
+        "description": "Unite says that the specialist nature of the services means that even action short of a strike could bring Coulport operations to a standstill.",
+        "published": "Mon, 09 Nov 2026 07:24:58 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2025/02/13ad5ac690e735fa48cf982532174e79-1738565789-1280x720.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=537154",
         "title": "Premier League club teams up with Glasgow firm on\u00a0blood test to warn athletes of injuries",
         "link": "https://news.stv.tv/west-central/premier-league-club-teams-up-with-glasgow-firm-on-blood-test-to-warn-athletes-of-injuries",
         "description": "Nottingham Forest is partnering with Glasgow-based biotechnology company Entourage on the 12-week study",
         "published": "Mon, 09 Nov 2026 07:16:49 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/3f780b17a1be1f1ac19d538ade0fcf1f-1794208511-1200x720.jpeg"
+      },
+      {
+        "id": "d4d21682bbd6b64600d7854fb8d03cf1",
+        "title": "Major part of Lanarkshire shopping centre to close ahead of demolition",
+        "link": "https://www.glasgowtimes.co.uk/news/26710195.cumbernauld-town-centre-section-close-ahead-demolition/",
+        "description": "A major section of Cumbernauld town centre is set to close in early 2027 ahead of demolition beginning as part of redevelopment plans.",
+        "published": "Mon, 09 Nov 2026 07:09:37 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21686862/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/ministers-urged-take-urgent-action-34880671",
@@ -3155,6 +3171,22 @@
         "description": "A traditional Italian street food rarely seen in Scotland has found a home in Glasgow\u2019s Southside, with the woman behind it hoping to introduce more Scots to a tradition she first fell in love with more than 20 years ago.",
         "published": "Mon, 09 Nov 2026 06:00:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21676769/?type=app&htype=0"
+      },
+      {
+        "id": "50f588386b0f3e1403d3ca80d22d2a11",
+        "title": "Stricter civil service hybrid checks were not considered as self-reporting begins",
+        "link": "https://www.heraldscotland.com/news/26707604.stricter-hybrid-working-checks-not-considered-civil-servants/",
+        "description": "Scottish Government officials did not consider stricter hybrid working methods as the new hybrid working policy for civil servants begins.",
+        "published": "Mon, 09 Nov 2026 05:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/17717035/?type=app&htype=0"
+      },
+      {
+        "id": "a669f107b85924a3a958882791fe067e",
+        "title": "Consultants at Scotland's biggest A&E issue plea for help as 'conditions deteriorate'",
+        "link": "https://www.heraldscotland.com/news/26709560.scottish-government-told-qeuh-consultants-concerns/",
+        "description": "Every consultant in Glasgow's Queen Elizabeth University Hospital A&amp;E has written to Scotland's health watchdog warning that 24-hour waits, corridor care and patients moved from resuscitation areas have made harm a daily reality \u2014 yet the Scottish Government refuses to intervene.",
+        "published": "Mon, 09 Nov 2026 05:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/4317948/?type=app&htype=0"
       },
       {
         "id": "2fc67e9242d2a68e4fa1ecc47bb56cfe",
@@ -3883,38 +3915,6 @@
         "description": "Glasgow road closures affect the Broomielaw and McAlpine Street as Scottish Water investigates a loss of supply. Diversions are in place; reopening is unknown.",
         "published": "Fri, 06 Nov 2026 14:30:17 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/17119543/?type=app&htype=9"
-      },
-      {
-        "id": "8f4642a8c185670c36910027cb0f2245",
-        "title": "MSPs demand answers from Scottish Government over new traditional music company",
-        "link": "https://www.heraldscotland.com/news/26706581.msps-demands-snp-answers-rationale-new-trad-music-company/",
-        "description": "Culture secretary is facing M\u00e0iri McAllan is facing demands from a Holyrood committee to explain the origins of a planned new company dedicated to Scottish traditional music.",
-        "published": "Fri, 06 Nov 2026 14:22:04 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/20831626/?type=app&htype=0"
-      },
-      {
-        "id": "a26f0f1d07eb4f1eb50b1c005695927d",
-        "title": "Glasgow\u2019s Citizens Theatre named Great British Theatre 2026 after seven-year closure",
-        "link": "https://www.heraldscotland.com/news/26706518.glasgows-citizens-theatre-named-great-british-theatre-2026/",
-        "description": "Glasgow\u2019s Citizens Theatre wins Great British Theatre 2026 and Great Renovation Award after reopening in August 2025 following a seven-year refurbishment.",
-        "published": "Fri, 06 Nov 2026 14:19:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21116926/?type=app&htype=0"
-      },
-      {
-        "id": "09a7e0d8836d7c3fb745e7be8ea20e13",
-        "title": "Scottish Government staff to vote on potential strike action over home working",
-        "link": "https://www.heraldscotland.com/news/26706551.scottish-government-staff-vote-strike-action-home-working/",
-        "description": "Staff at the Scottish Government and four of its agencies are being balloted on potential strike action in a row over a mandatory level of office working.",
-        "published": "Fri, 06 Nov 2026 14:17:09 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/20555113/?type=app&htype=0"
-      },
-      {
-        "id": "87647e99c21285ac8736364999614573",
-        "title": "Councillor calls for organised fireworks display to be brought back to Glasgow",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26706547.glasgow-councillor-calls-organised-fireworks-display/",
-        "description": "A Glasgow councillor is calling for an organised fireworks display to be brought back to the city after emergency service workers were attacked on Bonfire Night.",
-        "published": "Fri, 06 Nov 2026 14:16:07 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/16081610/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
