@@ -3133,6 +3133,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=537312",
+        "title": "Woman caught on illegal fox hunt banned from owning dogs for ten years",
+        "link": "https://news.stv.tv/west-central/woman-caught-on-illegal-fox-hunt-banned-from-owning-dogs-for-ten-years",
+        "description": "Hunt master Claire Bellamy is the first person to be sentenced for carrying out an illegal fox hunt in Scotland",
+        "published": "Mon, 09 Nov 2026 17:53:37 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/230434095047d2ef8b694aff22f2f6d6-1794246478-1120x720.jpeg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=537300",
+        "title": "Bare-knuckle boxing \u2018highly unlikely\u2019 to return to Hydro as Swinney condemns violence",
+        "link": "https://news.stv.tv/west-central/bare-knuckle-boxing-highly-unlikely-to-return-to-hydro-as-swinney-condemns-violence",
+        "description": "There was scenes of violence outside the venue following the Bare Knuckle Fighting Championship event on Saturday",
+        "published": "Mon, 09 Nov 2026 17:37:10 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/30b7ac62cb2d2c3dfc458cef9ae93fcd-1794147584-1280x720.jpeg"
+      },
+      {
+        "id": "7becc2d2b5b60867e1b1f21e1d5e086e",
+        "title": "Councillor reassures residents after bomb scare in Larkhall",
+        "link": "https://www.glasgowtimes.co.uk/news/26713691.councillor-reassures-residents-larkhall-bomb-scare/",
+        "description": "A Larkhall councillor has reassured residents after a bomb scare prompted evacuations and road closures.",
+        "published": "Mon, 09 Nov 2026 17:30:16 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21692765/?type=app&htype=0"
+      },
+      {
         "id": "fc5e84ae341b145317aa24a5ce2fc39c",
         "title": "Margaret Fleming's evil killer Avril Jones dies in prison as her body remains missing",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26713359.margaret-fleming-killer-avril-jones-dies-prison/",
