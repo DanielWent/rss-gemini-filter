@@ -3117,6 +3117,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "2fc67e9242d2a68e4fa1ecc47bb56cfe",
+        "title": "Adam Smith gave us a test for prosperity. Britain is struggling to pass it",
+        "link": "https://www.heraldscotland.com/news/26703988.uk-living-standards-struggling-improve/",
+        "description": "Graeme Roy explains why Adam Smith\u2019s 250-year-old test of prosperity still matters",
+        "published": "Mon, 09 Nov 2026 04:30:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21677373/?type=app&htype=0"
+      },
+      {
         "id": "3e35b318cc6ffaf20ed1cf97bfa766ed",
         "title": "'Driveway divide' leaves some Scots facing barriers to switching to electric cars",
         "link": "https://www.heraldscotland.com/news/26709948.driveway-divide-creates-barriers-ev-uptake-scotland/",
@@ -3907,14 +3915,6 @@
         "description": "The Ask and Act model was the focus of a major conference held in Glasgow.",
         "published": "Fri, 06 Nov 2026 12:55:08 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21679765/?type=app&htype=0"
-      },
-      {
-        "id": "0347566657271e2c479e85e4ba76491b",
-        "title": "Pensioner arrested over theft of historic Glasgow trophy as hunt for it continues",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26706050.man-arrested-theft-lipton-cup-glasgow-museum/",
-        "description": "Police Scotland arrested a 71-year-old man, later released without charge, over the theft of Glasgow\u2019s Lipton Cup from Riverside Museum. Enquiries continue.",
-        "published": "Fri, 06 Nov 2026 12:48:13 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20857287/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
