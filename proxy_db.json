@@ -3125,6 +3125,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "43881538598325d91621950d36580613",
+        "title": "John Swinney condemns 'utterly unacceptable' violence outside Glasgow Hydro",
+        "link": "https://www.glasgowtimes.co.uk/news/26712444.john-swinney-condemns-violence-outside-glasgow-ovo-hydro/",
+        "description": "First Minister John Swinney has condemned the violence outside Glasgow's OVO Hydro following a packed bare-knuckle fighting event.",
+        "published": "Mon, 09 Nov 2026 14:29:11 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20293663/?type=app&htype=0"
+      },
+      {
+        "id": "46387240f228f03f95295bdc7b1601c1",
+        "title": "Angela Constance 'keeping open mind' on special measures after QEUH A&E warning",
+        "link": "https://www.heraldscotland.com/news/26712429.angela-constance-responds-qeuh-e-patient-harm-warning/",
+        "description": "Health Secretary Angela Constance says she is keeping an open mind on special measures after QEUH doctors warned patient harm is a daily reality.",
+        "published": "Mon, 09 Nov 2026 14:26:09 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20307281/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/young-man-hospital-after-gang-34885392",
         "title": "Young man in hospital after gang of youths launch attack at Airdrie bonfire event",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/young-man-hospital-after-gang-34885392",
@@ -3181,6 +3197,22 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21690441/?type=app&htype=17"
       },
       {
+        "id": "be2390fbb6b9e9456b3373587cc869a7",
+        "title": "New Kim Porter composition to receive world premiere at Glasgow Christmas concert",
+        "link": "https://www.heraldscotland.com/news/26712006.glasgow-choir-prepares-festive-world-premiere/",
+        "description": "The Glasgow School of Art Choir will give the world premiere of Stars, a new work by composer Kim Porter, at its Christmas concert in Glasgow on December 5.",
+        "published": "Mon, 09 Nov 2026 13:12:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21690040/?type=app&htype=0"
+      },
+      {
+        "id": "e9125f8bcf644bbf84e5a02b340f6c09",
+        "title": "Glasgow in crunch University Challenge match tonight. Here's how to watch",
+        "link": "https://www.heraldscotland.com/life_style/26711911.university-challenge-glasgow-crunch-match-tonight/",
+        "description": "Glasgow strolled through the first round, but now face scrappers Southampton in a battle for a place in the quarter finals.",
+        "published": "Mon, 09 Nov 2026 13:05:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21689821/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=537216",
         "title": "Man charged after police seize drugs worth \u00a3160,000 in Lanark raid",
         "link": "https://news.stv.tv/west-central/man-charged-after-police-seize-drugs-worth-160000-in-lanark-raid",
@@ -3195,14 +3227,6 @@
         "description": "Robert Pauley has been jailed for seven years after threatening to share intimate images of a 17-year-old before raping her in a Dumbarton car park.",
         "published": "Mon, 09 Nov 2026 12:25:55 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/18005688/?type=app&htype=0"
-      },
-      {
-        "id": "7f78da75f84b8374292fe263483a5231",
-        "title": "Dramatic footage shows Stagecoach bus mounted on Glasgow roundabout",
-        "link": "https://www.glasgowtimes.co.uk/news/26711736.bus-crashes-onto-glasgow-roundabout-car-collision/",
-        "description": "A bus veered off the road and mounted a roundabout in a late-night incident.",
-        "published": "Mon, 09 Nov 2026 12:17:45 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21689858/?type=app&htype=0"
       },
       {
         "id": "9338835",
@@ -3243,14 +3267,6 @@
         "description": "Cala Homes has started work on Blyth Gardens in Erskine, a 75-home development featuring 18 affordable apartments for older residents and 57 private homes.",
         "published": "Mon, 09 Nov 2026 11:22:58 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21688907/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=537172",
-        "title": "Larkhall Leisure Centre evacuated after possible ordnance found nearby",
-        "link": "https://news.stv.tv/west-central/larkhall-leisure-centre-evacuated-after-possible-ordnance-found-nearby",
-        "description": "Bomb disposal experts have been sent to the scene to assess the item",
-        "published": "Mon, 09 Nov 2026 11:03:39 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/d6f2211c0101b74147a35301cc5b3d74-1794222039-1120x720.jpeg"
       },
       {
         "id": "755b22c93f99d91248f4fac0ca64bed1",
@@ -3907,22 +3923,6 @@
         "description": "The year-on-year move in Scottish house prices last month contrasted with the trend in the UK as a whole",
         "published": "Sat, 07 Nov 2026 04:37:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/7810163/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cq98zzkl8982o#0",
-        "title": "Franz Ferdinand turning to art at Glasgow Print Studio",
-        "link": "https://www.bbc.co.uk/news/articles/cq98zzkl8982o?at_medium=RSS&at_campaign=rss",
-        "description": "Kirsty Wark and Sanjeev Kohli are also among those taking part in the Call and Response project.",
-        "published": "Fri, 06 Nov 2026 23:02:26 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fde/live/6be8c210-da24-11f1-a78c-49bd6dfbb9b5.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cm9qz9r8d9wlo#0",
-        "title": "From young offender to junior doctor: 'I wrote a plan and stuck to it'",
-        "link": "https://www.bbc.co.uk/news/articles/cm9qz9r8d9wlo?at_medium=RSS&at_campaign=rss",
-        "description": "Steven Beattie left Scotland's most violent prison 20 years ago vowing to turn his life around.",
-        "published": "Fri, 06 Nov 2026 23:01:04 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5a1/live/faecd800-d9e5-11f1-93e1-3b657b665bcf.jpg"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
