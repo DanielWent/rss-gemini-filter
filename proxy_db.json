@@ -3125,6 +3125,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=537172",
+        "title": "Larkhall Leisure Centre evacuated after possible ordnance found nearby",
+        "link": "https://news.stv.tv/west-central/larkhall-leisure-centre-evacuated-after-possible-ordnance-found-nearby",
+        "description": "Bomb disposal experts have been sent to the scene to assess the item",
+        "published": "Mon, 09 Nov 2026 11:03:39 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/d6f2211c0101b74147a35301cc5b3d74-1794222039-1120x720.jpeg"
+      },
+      {
+        "id": "adc52252a00f0611154c6c2174486503",
+        "title": "Glasgow teen felt 'ashamed' after doctor dismissed mental health struggles",
+        "link": "https://www.glasgowtimes.co.uk/news/26711023.glasgow-teen-says-doctor-dismissed-mental-health-concerns/",
+        "description": "Eva Drummond, 19, from the West End of Glasgow, first sought help at the age of 14 after struggling with low mood, exhaustion, and emotional numbness.",
+        "published": "Mon, 09 Nov 2026 10:47:19 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21688381/?type=app&htype=0"
+      },
+      {
         "id": "de631a52b416df05adb42a6fa6ad0d20",
         "title": "LIVE updates as evacuations underway as suspected bomb found",
         "link": "https://www.glasgowtimes.co.uk/news/26710881.live-updates-broomhill-drive-larkhall-evacuated-amid-bomb/",
@@ -3907,22 +3923,6 @@
         "description": "ESP Group CEO Ashley Meston wins Business Women Scotland Top 100 Manufacturing, Engineering and Product Design category award on October 28 in Glasgow.",
         "published": "Fri, 06 Nov 2026 16:40:00 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21681481/?type=app&htype=0"
-      },
-      {
-        "id": "95072c1bdfcbfd5d818ebf126c5d3c3b",
-        "title": "Commuters warned as road near Clyde Tunnel set to close for over two weeks",
-        "link": "https://www.glasgowtimes.co.uk/news/26707558.crow-road-closed-two-weeks-road-works-begin/",
-        "description": "Commuters who use the Clyde Tunnel could be set for extensive delays as works lasting over two weeks will begin on a nearby road next week.",
-        "published": "Fri, 06 Nov 2026 16:35:21 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17117078/?type=app&htype=0"
-      },
-      {
-        "id": "7b6ed571a1452dce2b23d9bfd50c034a",
-        "title": "Plans lodged for \u00a3480 million \u2018five-star\u2019 golf resort near Dundee",
-        "link": "https://www.heraldscotland.com/news/26707542.plans-lodged-480-million-hotel-golf-resort-angus/",
-        "description": "Plans were revealed earlier this year for the \u00a3480 million Brae of Angus development at Wellbank, near Forbes of Kingennie in Angus",
-        "published": "Fri, 06 Nov 2026 16:32:46 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/20761323/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
