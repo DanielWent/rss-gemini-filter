@@ -3125,6 +3125,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "de631a52b416df05adb42a6fa6ad0d20",
+        "title": "LIVE updates as evacuations underway as suspected bomb found",
+        "link": "https://www.glasgowtimes.co.uk/news/26710881.live-updates-broomhill-drive-larkhall-evacuated-amid-bomb/",
+        "description": "Evacuations are underway, and roads have been closed after possible ordnance was discovered near a premises in Larkhall. Explosive Ordnance Disposal personnel are set to assess the item. Follow below for live updates.",
+        "published": "Mon, 09 Nov 2026 10:27:59 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19849199/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-users-dependent-illegal-drugs-34883558",
+        "title": "Glasgow users dependent on illegal drugs can now submit samples for health advice",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-users-dependent-illegal-drugs-34883558",
+        "description": "People who are dependent on illegal drugs can submit samples for checking  and receive tailored harm-reduction advice based on the results, such as information on the substance, its strength or contaminants.",
+        "published": "Mon, 9 Nov 2026 10:27:51 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33720296.ece/ALTERNATES/s98/0_JS368157398.jpg"
+      },
+      {
         "id": "0ced204c1c374e15aac0ee0fa7fbe5e2",
         "title": "Rutherglen\u2019s 900-year history to be brought to life in concert with world premiere",
         "link": "https://www.glasgowtimes.co.uk/news/26710638.concert-celebrate-900-years-rutherglen-history/",
@@ -3907,22 +3923,6 @@
         "description": "Plans were revealed earlier this year for the \u00a3480 million Brae of Angus development at Wellbank, near Forbes of Kingennie in Angus",
         "published": "Fri, 06 Nov 2026 16:32:46 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/20761323/?type=app&htype=0"
-      },
-      {
-        "id": "5005f8094efcad43dd539077970b4dd1",
-        "title": "Buses to replace trains as major West Highland Line upgrades begin",
-        "link": "https://www.heraldscotland.com/news/26707271.west-highland-line-upgrades-begin-buses-replace-trains/",
-        "description": "West Highland Line upgrades begin, renewing 4km of track. Replacement buses run from November 9 to 17 between Crianlarich, Fort William and Mallaig.",
-        "published": "Fri, 06 Nov 2026 16:20:00 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21681435/?type=app&htype=0"
-      },
-      {
-        "id": "29c9bf35c1625e0eaf457be7f6f75e88",
-        "title": "Hundreds of dogs invited to festive Glasgow event with world record hopes",
-        "link": "https://www.glasgowtimes.co.uk/news/26707434.pup-cafe-christmas-tour-coming-glasgow-december/",
-        "description": "A festive dog event is coming to Glasgow this December with world record hopes.",
-        "published": "Fri, 06 Nov 2026 16:19:12 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21681793/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
