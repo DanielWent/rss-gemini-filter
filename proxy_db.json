@@ -3117,6 +3117,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "f7c05b493b4566d379e0a0693641cb06",
+        "title": "Glasgow welcomes 204,732 more overseas visitors after Commonwealth Games surge",
+        "link": "https://www.glasgowtimes.co.uk/news/26710594.glasgow-international-visits-soared-204-732-summer/",
+        "description": "Glasgow saw 204,732 more international visitors last summer, with the Commonwealth Games helping boost city-centre footfall.",
+        "published": "Mon, 09 Nov 2026 09:43:27 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19347166/?type=app&htype=0"
+      },
+      {
+        "id": "d66e7999d80e5ea0f3e58cbd19b5d38a",
+        "title": "Five men arrested after man seriously injured in major motorway disturbance",
+        "link": "https://www.glasgowtimes.co.uk/news/26710591.five-arrested-m74-disturbance-near-lesmahagow/",
+        "description": "Five men have been arrested in connection with a serious assault and disturbance on the M74 near Lesmahagow which left a 63-year-old man seriously injured.",
+        "published": "Mon, 09 Nov 2026 09:43:15 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/12288100/?type=app&htype=0"
+      },
+      {
+        "id": "fee6863e474cb79944dbdbdf7e6fca58",
+        "title": "Top athletes to compete at inclusive World Athletics event in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26710546.glasgow-host-2027-mcghees-eap-indoor-international/",
+        "description": "The 2027 McGhee\u2019s EAP Indoor International Glasgow will take place at Glasgow International Arena.",
+        "published": "Mon, 09 Nov 2026 09:36:17 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21623947/?type=app&htype=0"
+      },
+      {
         "id": "a44671cccc12da62d815a0225370039d",
         "title": "Conservatives call for SNP minister to correct comments about Israel and Gaza",
         "link": "https://www.heraldscotland.com/news/26710363.tories-call-snp-minister-correct-comments-israel-gaza/",
@@ -3557,14 +3581,6 @@
         "image_url": "https://www.heraldscotland.com/resources/images/12978788/?type=app&htype=0"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-taxi-drivers-need-take-34875894",
-        "title": "Glasgow taxi drivers may need to take card payments as strong support revealed",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-taxi-drivers-need-take-34875894",
-        "description": "The majority of respondents to a public consultation were in favour of making it mandatory for taxis to accept card payments.",
-        "published": "Sat, 7 Nov 2026 10:32:37 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33058804.ece/ALTERNATES/s98/9_taxi-light.jpg"
-      },
-      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/charity-volunteers-incredibly-upset-fly-34876086",
         "title": "Charity volunteers 'incredibly upset' as fly-tipping crisis worsens at Glasgow centre",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/charity-volunteers-incredibly-upset-fly-34876086",
@@ -3899,22 +3915,6 @@
         "description": "<p>The six men were found guilty at the High Court in Glasgow on Friday, 6 November, 2026, of laundering criminal property between 2015 and 2019.</p>",
         "published": "Fri, 06 Nov 2026 15:14:20 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/06/11/v2-image-production-0ea8f397fdff9e4194097ca46612f22aY29udGVudHNlYXJjaGFwaSwxNzk0MDQ5MTgy-2.43522199.jpg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "e369c3c15c9370db2ff0575c05220e4e",
-        "title": "Glasgow faces up to \u00a3108m budget shortfall as homelessness costs soar",
-        "link": "https://www.glasgowtimes.co.uk/news/26706835.glasgow-council-faces-108m-budget-shortfall/",
-        "description": "Glasgow City Council faces a \u00a390m-\u00a3108m 2027/28 budget shortfall as homelessness costs soar.",
-        "published": "Fri, 06 Nov 2026 14:59:09 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19153596/?type=app&htype=0"
-      },
-      {
-        "id": "def4af7f42dd5e4533e96d7c67d10750",
-        "title": "Prison operator and NHS board admit criminal charges over inmate's death from Covid",
-        "link": "https://www.heraldscotland.com/news/26706816.prison-operator-nhs-board-guilty-inmates-covid-death/",
-        "description": "A prisoner who died in his cell 12 days after testing positive for Covid-19 was treated \u201cworse than an animal\u201d, his family\u2019s lawyer has said.",
-        "published": "Fri, 06 Nov 2026 14:57:32 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21680819/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
