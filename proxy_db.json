@@ -3125,6 +3125,62 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/young-man-hospital-after-gang-34885392",
+        "title": "Young man in hospital after gang of youths launch attack at Airdrie bonfire event",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/young-man-hospital-after-gang-34885392",
+        "description": "The 25-year-old victim was rushed to Monklands Hospital.",
+        "published": "Mon, 9 Nov 2026 14:15:38 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34885585.ece/ALTERNATES/s98/0_gettyimages-2245210254-594x594.jpg"
+      },
+      {
+        "id": "73ed2035a1782dc2cacb2e7cafcb54a6",
+        "title": "Glasgow firm announces expansion with plans to create new jobs in city centre",
+        "link": "https://www.glasgowtimes.co.uk/news/26712329.citation-expands-glasgow-office-plans-new-jobs/",
+        "description": "Citation is expanding its Glasgow presence with a larger office and plans to create new sales roles.",
+        "published": "Mon, 09 Nov 2026 14:10:01 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21690538/?type=app&htype=0"
+      },
+      {
+        "id": "50d59e560d0c8725043960bdeb0786ca",
+        "title": "Major East End road closed in both directions for emergency gas works",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26712300.tollcross-road-glasgow-closed-emergency-gas-works/",
+        "description": "A busy road in Glasgow's East End has been closed in both directions due to emergency gas works.",
+        "published": "Mon, 09 Nov 2026 14:02:46 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18949457/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/bus-mounts-roundabout-robroyston-crash-34885122",
+        "title": "Bus mounts roundabout in Robroyston crash as man charged over late night collision",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/bus-mounts-roundabout-robroyston-crash-34885122",
+        "description": "Images shared with Glasgow Live show the aftermath of the crash.",
+        "published": "Mon, 9 Nov 2026 13:58:17 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34885376.ece/ALTERNATES/s98/0_IMG_8952.jpg"
+      },
+      {
+        "id": "04bedc2b55a3658a12d85d75ba3b5593",
+        "title": "ScotRail announces extra Glasgow trains for huge Scotland sporting weekend",
+        "link": "https://www.glasgowtimes.co.uk/news/26712243.scotrail-adds-extra-glasgow-trains-scotland-matches/",
+        "description": "ScotRail is adding extra trains and carriages from Glasgow for Scotland\u2019s football clash with North Macedonia and rugby match against Australia.",
+        "published": "Mon, 09 Nov 2026 13:51:49 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21173123/?type=app&htype=0"
+      },
+      {
+        "id": "2a4424847772285e7affd0d62db3d92e",
+        "title": "Major Glasgow road near Hampden closes for three days",
+        "link": "https://www.glasgowtimes.co.uk/news/26712217.prospecthill-road-glasgow-close-resurfacing/",
+        "description": "A key city road is set to close this week.",
+        "published": "Mon, 09 Nov 2026 13:47:44 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17882119/?type=app&htype=0"
+      },
+      {
+        "id": "96ef36385e04d48e4796b0edf4095383",
+        "title": "As it happened - Royal Navy called in after historic bomb found near high school",
+        "link": "https://www.glasgowtimes.co.uk/news/26712201.royal-navy-called-historic-bomb-found-near-school/",
+        "description": "Emergency services and the Royal Navy responded after historic ordnance was discovered, with roads closed and SGN attending as a precaution.",
+        "published": "Mon, 09 Nov 2026 13:43:39 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21690441/?type=app&htype=17"
+      },
+      {
         "id": "https://news.stv.tv/?p=537216",
         "title": "Man charged after police seize drugs worth \u00a3160,000 in Lanark raid",
         "link": "https://news.stv.tv/west-central/man-charged-after-police-seize-drugs-worth-160000-in-lanark-raid",
@@ -3187,14 +3243,6 @@
         "description": "Cala Homes has started work on Blyth Gardens in Erskine, a 75-home development featuring 18 affordable apartments for older residents and 57 private homes.",
         "published": "Mon, 09 Nov 2026 11:22:58 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21688907/?type=app&htype=0"
-      },
-      {
-        "id": "e73979631baa74364b6c5bec256c1cca",
-        "title": "Rails services into Glasgow disrupted after tractor hits bridge",
-        "link": "https://www.heraldscotland.com/news/26711257.glasgow-lanark-trains-disrupted-tractor-hits-bridge/",
-        "description": "Network rail engineers are at the scene",
-        "published": "Mon, 09 Nov 2026 11:16:20 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21682497/?type=app&htype=0"
       },
       {
         "id": "https://news.stv.tv/?p=537172",
@@ -3875,54 +3923,6 @@
         "description": "Steven Beattie left Scotland's most violent prison 20 years ago vowing to turn his life around.",
         "published": "Fri, 06 Nov 2026 23:01:04 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5a1/live/faecd800-d9e5-11f1-93e1-3b657b665bcf.jpg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=537014",
-        "title": "Derelict primary school set alight during Bonfire Night as police investigate",
-        "link": "https://news.stv.tv/west-central/derelict-primary-school-set-alight-during-bonfire-night-as-police-investigate",
-        "description": "Three fire appliances were called to the old Edinbarnet Primary School building on Faifley Road",
-        "published": "Fri, 06 Nov 2026 20:27:55 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/02f9b3c950b05cfd3b6cf18ba585b6b5-1793468469-1200x720.jpeg"
-      },
-      {
-        "id": "d6885f71d01a3ca24d2629cc746e7c17",
-        "title": "Christmas begins in Glasgow as St Enoch Square market lights up city centre",
-        "link": "https://www.glasgowtimes.co.uk/news/26708095.glasgow-christmas-market-opens-2027-st-enoch-square/",
-        "description": "Glasgow\u2019s St Enoch Square Christmas market returns from November 6 to December 27, with Winter Wonderland rides, festive food, drinks and free entertainment.",
-        "published": "Fri, 06 Nov 2026 20:21:08 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21682549/?type=app&htype=0"
-      },
-      {
-        "id": "c8fb56b1e1e228d5a460630131f44331",
-        "title": "Convicted killer guilty of murdering man in brutal machete attack",
-        "link": "https://www.heraldscotland.com/news/26708052.man-convicted-murder-david-graham-uddingston/",
-        "description": "A convicted killer has been found guilty of the murder of a father in a brutal machete attack.",
-        "published": "Fri, 06 Nov 2026 19:23:24 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/21682511/?type=app&htype=0"
-      },
-      {
-        "id": "eabbb1c13d7128cd30c1e05b2b862fa3",
-        "title": "'Avoid the area' warning issued as works to begin on Glasgow main road",
-        "link": "https://www.glasgowtimes.co.uk/news/26708051.avoid-area-warning-works-begin-balmore-road/",
-        "description": "Glasgow roadworks will close Balmore Road for resurfacing from 8am November 8 to 8pm November 11, with planned diversions for northbound and southbound traffic.",
-        "published": "Fri, 06 Nov 2026 19:22:54 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19045460/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=537053",
-        "title": "Bonfire Night attacks \u2018unacceptable and have to stop\u2019",
-        "link": "https://news.stv.tv/west-central/bonfire-night-attacks-unacceptable-and-have-to-stop",
-        "description": "Seven arrests were made after officers and ambulance crews were targeted with fireworks and a police vehicle set alight",
-        "published": "Fri, 06 Nov 2026 19:02:30 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/9377c89683841d87ea1df1fa474b33ef-1793984289-1280x720.jpeg"
-      },
-      {
-        "id": "12fc2d59a05c1fd0038c29ccdb141c9f",
-        "title": "Councillor issues fresh plea to revive Rosyth ferry link to Europe",
-        "link": "https://www.heraldscotland.com/news/26707932.fresh-plea-revive-rosyth-ferry-link-europe/",
-        "description": "A Rosyth councillor has renewed his plea to Forth Ports to rethink their decision on a passenger ferry from West Fife.",
-        "published": "Fri, 06 Nov 2026 18:00:50 +0000",
-        "image_url": "https://www.heraldscotland.com/resources/images/11399822/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
