@@ -3133,6 +3133,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=537340",
+        "title": "East Ayrshire Council faces \u00a3277,00 increase in waste facility upgrade costs",
+        "link": "https://news.stv.tv/west-central/east-ayrshire-council-faces-27700-increase-in-waste-facility-upgrade-costs",
+        "description": "The upgrades form part of East Ayrshire Council\u2019s wider waste services review and include new food waste facilities",
+        "published": "Mon, 09 Nov 2026 19:28:01 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/76a549f7a63371907e51b3d01130157a-1794252113-1280x720.jpeg"
+      },
+      {
+        "id": "0af1e547f3b0a3552ce3009db6a9e9a5",
+        "title": "Fall Out Boy announce huge Glasgow OVO Hydro show on biggest ever tour",
+        "link": "https://www.glasgowtimes.co.uk/news/26713868.fall-boy-announce-glasgow-ovo-hydro-show-2027-tour/",
+        "description": "Fall Out Boy will perform at Glasgow's OVO Hydro in May 2027 as part of their huge Twilight of the Punks global headline tour",
+        "published": "Mon, 09 Nov 2026 19:21:42 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21693122/?type=app&htype=0"
+      },
+      {
         "id": "https://news.stv.tv/?p=537278",
         "title": "\u2018There is no HR in comedy\u2019: Female comedians speak out after Russell Brand jailed",
         "link": "https://news.stv.tv/west-central/there-is-no-hr-in-comedy-female-comedians-speak-out-after-russell-brand-jailed",
