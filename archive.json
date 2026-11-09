@@ -1,11 +1,5 @@
 {
   "strict": {
-    "1789044915224094": 1789044934.269803,
-    "https://www.bbc.co.uk/sport/rugby-union/articles/c33kr4z8rkeo?at_medium=RSS&at_campaign=rss": 1789044934.269803,
-    "Aitchison to steer England in WXV opener": 1789044934.269803,
-    "1789043417260061": 1789044934.269803,
-    "https://www.bbc.co.uk/news/articles/cd792nll91eo?at_medium=RSS&at_campaign=rss": 1789044934.269803,
-    "Drug use may have begun 25,000 years ago in Indonesia, research finds": 1789044934.269803,
     "1789046417683944": 1789046738.1944208,
     "https://www.bbc.co.uk/news/articles/crer57nwlw4o?at_medium=RSS&at_campaign=rss": 1789046738.1944208,
     "Young Spider-Man fan with rare condition finally gets to meet his hero": 1789046738.1944208,
@@ -14892,12 +14886,15 @@
     "Alisson wants to sign new Liverpool contract": 1794227138.5989575,
     "1794226521333975": 1794227138.5989575,
     "https://www.bbc.co.uk/news/articles/cxvgdgpl281do?at_medium=RSS&at_campaign=rss": 1794227138.5989575,
-    "Nine Aberdeen break-ins being linked by detectives": 1794227138.5989575
+    "Nine Aberdeen break-ins being linked by detectives": 1794227138.5989575,
+    "1794228015644710": 1794228943.2848089,
+    "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss": 1794228943.2848089,
+    "Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine": 1794228943.2848089,
+    "1794228015644705": 1794228943.2848089,
+    "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss": 1794228943.2848089,
+    "Four killed in Gaza after sand embankment collapses onto tents, health ministry says": 1794228943.2848089
   },
   "lenient": {
-    "https://www.bbc.co.uk/news/articles/cd792nll91eo#4": 1789044934.269803,
-    "https://www.bbc.co.uk/news/articles/cd792nll91eo?at_medium=RSS&at_campaign=rss": 1789044934.269803,
-    "Drug use may have begun 25,000 years ago in Indonesia, research finds": 1789044934.269803,
     "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo#8": 1789046738.1944208,
     "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo?at_medium=RSS&at_campaign=rss": 1789046738.1944208,
     "France wants to transform Fifa after withdrawing Infantino support": 1789046738.1944208,
@@ -22874,7 +22871,10 @@
     "Alisson wants to sign new Liverpool contract": 1794227138.5989575,
     "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo#2": 1794227138.5989575,
     "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss": 1794227138.5989575,
-    "Find out who's in the running for this year's Booker Prize": 1794227138.5989575
+    "Find out who's in the running for this year's Booker Prize": 1794227138.5989575,
+    "https://www.bbc.co.uk/news/articles/c5n494x9kgp0o#1": 1794228943.2848089,
+    "https://www.bbc.co.uk/news/articles/c5n494x9kgp0o?at_medium=RSS&at_campaign=rss": 1794228943.2848089,
+    "Man jailed over racist Badenoch death threats": 1794228943.2848089
   },
   "google": {
     "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/": 1789057535.0835385,
@@ -23799,7 +23799,10 @@
     "QUICK READ: Connect+ AI will stay cautious, says Garmin": 1794174942.9676826,
     "https://the5krunner.com/?p=142704": 1794183936.1483285,
     "https://the5krunner.com/2026/11/09/urban-gps-50x-more-accurate/": 1794183936.1483285,
-    "50x more accurate urban GPS for cyclists \u2013 new method": 1794183936.1483285
+    "50x more accurate urban GPS for cyclists \u2013 new method": 1794183936.1483285,
+    "https://the5krunner.com/?p=142722": 1794228943.2848089,
+    "https://the5krunner.com/2026/11/09/garmin-microled-backplane-mistake/": 1794228943.2848089,
+    "Garmin\u2019s microLED mistake, and why the tech returns in 2028": 1794228943.2848089
   },
   "grassroots_running": {
     "1789118422149844": 1789118731.5544999,
@@ -23915,9 +23918,6 @@
     "Six Weeks After Running Berlin in Crocs, Iskander Yadgarov Just Ran a 2:28 Marathon in Jeans": 1794219945.0882373
   },
   "glasgow_times": {
-    "e3b4761f56d6be8c642a73b0533f9a0f": 1789044934.269803,
-    "https://www.glasgowtimes.co.uk/news/26539003.police-probe-woman-raped-blantyre-playpark/": 1789044934.269803,
-    "Woman raped in playpark as police launch investigation": 1789044934.269803,
     "55b3512be26e3ae3b9c773842f960e1b": 1789046738.1944208,
     "https://www.glasgowtimes.co.uk/news/scottish-news/26539280.cops-release-description-man-woman-raped-blantyre/": 1789046738.1944208,
     "Cops release description of man after woman raped while walking dog": 1789046738.1944208,
@@ -29897,7 +29897,19 @@
     "Major change could be coming for anyone taking a taxi in Glasgow": 1794227138.5989575,
     "6f4684198ca32a16c56059bae1dbd9e5": 1794227138.5989575,
     "https://www.glasgowtimes.co.uk/news/26711686.historical-crime-novel-dark-accords-launch-glasgow/": 1794227138.5989575,
-    "Historical thriller set during Scotland\u2019s witch trials to launch in Glasgow": 1794227138.5989575
+    "Historical thriller set during Scotland\u2019s witch trials to launch in Glasgow": 1794227138.5989575,
+    "60c1d4bee453c66de9ce13b94fba1c7c": 1794228943.2848089,
+    "https://www.glasgowtimes.co.uk/news/scottish-news/26711833.man-charged-160-000-drugs-found-lanark/": 1794228943.2848089,
+    "Man charged after \u00a3160k 'cocaine, heroin and cannabis' seized in police raid": 1794228943.2848089,
+    "ffa58bc7e410d7f1e4551b25aaeafa76": 1794228943.2848089,
+    "https://www.glasgowtimes.co.uk/news/scottish-news/26711790.robert-pauley-jailed-raping-teenager-dumbarton-car-park/": 1794228943.2848089,
+    "\u2018Wicked and evil\u2019 man jailed after threatening teen he raped with intimate images": 1794228943.2848089,
+    "7f78da75f84b8374292fe263483a5231": 1794228943.2848089,
+    "https://www.glasgowtimes.co.uk/news/26711736.bus-crashes-onto-glasgow-roundabout-car-collision/": 1794228943.2848089,
+    "Dramatic footage shows Stagecoach bus mounted on Glasgow roundabout": 1794228943.2848089,
+    "f04cf4be7d81cae079e182bb386c423d": 1794228943.2848089,
+    "https://www.glasgowtimes.co.uk/news/26711776.gsa-choir-premiere-new-work-christmas-concert/": 1794228943.2848089,
+    "Glasgow choir to premiere specially commissioned piece at upcoming Christmas concert": 1794228943.2848089
   },
   "runabc_scotland": {
     "https://runabc.co.uk/stirling-half-marathon-2027-priority-entries-open": 1789062947.8437016,
@@ -29950,17 +29962,6 @@
     "Santa & Elf Dash 2026 Brings Festive Trail Running To Edinburgh": 1793953534.6578832
   },
   "newsletter_candidates": {
-    "https://news.stv.tv/?p=528634": 1789044934.269803,
-    "https://news.stv.tv/west-central/glasgow-man-falsely-labelled-invader-meets-target-for-legal-action-against-tommy-robinson": 1789044934.269803,
-    "Glasgow man falsely labelled \u2018invader\u2019 meets target for legal action against Tommy Robinson": 1789044934.269803,
-    "https://news.stv.tv/?p=528628": 1789044934.269803,
-    "https://news.stv.tv/west-central/judge-asks-lawyers-to-agree-evidence-ahead-of-hardeep-singh-kohlis-rape-trial": 1789044934.269803,
-    "Judge asks lawyers to agree evidence ahead of Hardeep Singh Kohli\u2019s rape trial": 1789044934.269803,
-    "https://www.bbc.co.uk/news/articles/cj067r0g0g1o#0": 1789044934.269803,
-    "https://www.bbc.co.uk/news/articles/cj067r0g0g1o?at_medium=RSS&at_campaign=rss": 1789044934.269803,
-    "Plans for \u00a316m renewable energy research centre in Ayrshire scrapped": 1789044934.269803,
-    "https://www.glasgowlive.co.uk/news/last-minute-move-might-land-34596977": 1789044934.269803,
-    "Last minute move that might land Ryanair passengers 'better seat'": 1789044934.269803,
     "55b3512be26e3ae3b9c773842f960e1b": 1789046738.1944208,
     "https://www.glasgowtimes.co.uk/news/scottish-news/26539280.cops-release-description-man-woman-raped-blantyre/": 1789046738.1944208,
     "Cops release description of man after woman raped while walking dog": 1789046738.1944208,
@@ -47736,7 +47737,37 @@
     "Glasgow student left 'ashamed' by doctor who dismissed mental health struggle as 'hormone change'": 1794227138.5989575,
     "9338835": 1794227138.5989575,
     "https://www.glasgowworld.com/recommended/broadband-contract-price-rises-april-bills-9338845": 1794227138.5989575,
-    "What\u2019s the point of a broadband contract if the price can still go up?": 1794227138.5989575
+    "What\u2019s the point of a broadband contract if the price can still go up?": 1794227138.5989575,
+    "60c1d4bee453c66de9ce13b94fba1c7c": 1794228943.2848089,
+    "https://www.glasgowtimes.co.uk/news/scottish-news/26711833.man-charged-160-000-drugs-found-lanark/": 1794228943.2848089,
+    "Man charged after \u00a3160k 'cocaine, heroin and cannabis' seized in police raid": 1794228943.2848089,
+    "ffa58bc7e410d7f1e4551b25aaeafa76": 1794228943.2848089,
+    "https://www.glasgowtimes.co.uk/news/scottish-news/26711790.robert-pauley-jailed-raping-teenager-dumbarton-car-park/": 1794228943.2848089,
+    "\u2018Wicked and evil\u2019 man jailed after threatening teen he raped with intimate images": 1794228943.2848089,
+    "7f78da75f84b8374292fe263483a5231": 1794228943.2848089,
+    "https://www.glasgowtimes.co.uk/news/26711736.bus-crashes-onto-glasgow-roundabout-car-collision/": 1794228943.2848089,
+    "Dramatic footage shows Stagecoach bus mounted on Glasgow roundabout": 1794228943.2848089,
+    "f04cf4be7d81cae079e182bb386c423d": 1794228943.2848089,
+    "https://www.glasgowtimes.co.uk/news/26711776.gsa-choir-premiere-new-work-christmas-concert/": 1794228943.2848089,
+    "Glasgow choir to premiere specially commissioned piece at upcoming Christmas concert": 1794228943.2848089,
+    "https://news.stv.tv/?p=537216": 1794228943.2848089,
+    "https://news.stv.tv/west-central/man-charged-after-police-seize-drugs-worth-160000-in-lanark-raid": 1794228943.2848089,
+    "Man charged after police seize drugs worth \u00a3160,000 in Lanark raid": 1794228943.2848089,
+    "https://news.stv.tv/?p=537200": 1794228943.2848089,
+    "https://news.stv.tv/west-central/scotlands-first-drug-checking-service-opens-doors-in-glasgow": 1794228943.2848089,
+    "Scotland\u2019s first drug checking service opens doors in Glasgow": 1794228943.2848089,
+    "https://news.stv.tv/?p=537198": 1794228943.2848089,
+    "https://news.stv.tv/west-central/hunt-for-three-men-armed-with-blades-who-broke-into-home-in-north-lanarkshire": 1794228943.2848089,
+    "Hunt for three men armed with blades who broke into home in North Lanarkshire": 1794228943.2848089,
+    "9339183": 1794228943.2848089,
+    "https://www.glasgowworld.com/sport/football/rangers/rangers-open-to-cashing-in-on-star-after-transfer-interest-ibrox-stance-9339183": 1794228943.2848089,
+    "Rangers 'open to cashing in' on star after transfer interest as Ibrox selling stance appears": 1794228943.2848089,
+    "9338980": 1794228943.2848089,
+    "https://www.glasgowworld.com/recommended/ryanair-passengers-face-new-airport-rule-from-tomorrow-arriving-earlier-9339060": 1794228943.2848089,
+    "Ryanair passengers face new airport rule from tomorrow and it means arriving earlier": 1794228943.2848089,
+    "9339049": 1794228943.2848089,
+    "https://www.glasgowworld.com/sport/football/celtic/newcastle-united-could-rival-celtic-manager-boss-decisions-huge-compensation-9339049": 1794228943.2848089,
+    "Newcastle United could rival Celtic for manager if boss decisions made but 'huge compensation' hurdle emerges": 1794228943.2848089
   },
   "glasgow_live": {},
   "glasgow_world": {
@@ -50274,6 +50305,15 @@
     "Devolo BE6500 review: an affordable upgrade for struggling home WiFi": 1794225333.4718342,
     "9338835": 1794227138.5989575,
     "https://www.glasgowworld.com/recommended/broadband-contract-price-rises-april-bills-9338845": 1794227138.5989575,
-    "What\u2019s the point of a broadband contract if the price can still go up?": 1794227138.5989575
+    "What\u2019s the point of a broadband contract if the price can still go up?": 1794227138.5989575,
+    "9339183": 1794228943.2848089,
+    "https://www.glasgowworld.com/sport/football/rangers/rangers-open-to-cashing-in-on-star-after-transfer-interest-ibrox-stance-9339183": 1794228943.2848089,
+    "Rangers 'open to cashing in' on star after transfer interest as Ibrox selling stance appears": 1794228943.2848089,
+    "9338980": 1794228943.2848089,
+    "https://www.glasgowworld.com/recommended/ryanair-passengers-face-new-airport-rule-from-tomorrow-arriving-earlier-9339060": 1794228943.2848089,
+    "Ryanair passengers face new airport rule from tomorrow and it means arriving earlier": 1794228943.2848089,
+    "9339049": 1794228943.2848089,
+    "https://www.glasgowworld.com/sport/football/celtic/newcastle-united-could-rival-celtic-manager-boss-decisions-huge-compensation-9339049": 1794228943.2848089,
+    "Newcastle United could rival Celtic for manager if boss decisions made but 'huge compensation' hurdle emerges": 1794228943.2848089
   }
 }
