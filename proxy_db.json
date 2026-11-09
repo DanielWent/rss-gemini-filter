@@ -3117,6 +3117,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "ab3fcbec8032c2131c833cbfbef990ab",
+        "title": "Cops probe mystery meat from suspected 'underground market' amid Glasgow shop raid",
+        "link": "https://www.glasgowtimes.co.uk/news/26705472.glasgow-police-probe-mystery-meat-found-shop/",
+        "description": "The unusual discovery of a \"mystery meat\" within a Glasgow shop is being probed by police after they carried out a series of raids on illegal businesses in the city",
+        "published": "Mon, 09 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21680225/?type=app&htype=0"
+      },
+      {
+        "id": "6bb29649c9baee0a0fced7b041d93db3",
+        "title": "Glasgow investigates rise in neurodivergent pupils as school costs soar",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26705338.glasgow-council-research-rise-neurodivergence-school-pupils/",
+        "description": "Glasgow Council to commission university research into rising neurodivergence among school pupils as additional support for learning costs overshoot by \u00a34.5m.",
+        "published": "Mon, 09 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/11407194/?type=app&htype=0"
+      },
+      {
+        "id": "439ed4477444c61923966c69019a36e1",
+        "title": "Italian street food you won't get anywhere in Scotland finds home in Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26703549.glasgow-piadina-shop-brings-italian-street-food-scotland/",
+        "description": "A traditional Italian street food rarely seen in Scotland has found a home in Glasgow\u2019s Southside, with the woman behind it hoping to introduce more Scots to a tradition she first fell in love with more than 20 years ago.",
+        "published": "Mon, 09 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21676769/?type=app&htype=0"
+      },
+      {
         "id": "2fc67e9242d2a68e4fa1ecc47bb56cfe",
         "title": "Adam Smith gave us a test for prosperity. Britain is struggling to pass it",
         "link": "https://www.heraldscotland.com/news/26703988.uk-living-standards-struggling-improve/",
@@ -3891,30 +3915,6 @@
         "description": "Calls have been made for a UK-wide ban on the sale of fireworks after a Glasgow street was turned into a \"war zone\" on Bonfire Night.",
         "published": "Fri, 06 Nov 2026 13:57:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21678902/?type=app&htype=0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=536976",
-        "title": "Hunt for suspect after man injured in Bonfire Night stabbing in Glasgow",
-        "link": "https://news.stv.tv/west-central/hunt-for-suspect-after-man-injured-in-bonfire-night-stabbing-in-glasgow",
-        "description": "A 53-year-old man was taken to hospital following the incident in the Greenfield area on Thursday",
-        "published": "Fri, 06 Nov 2026 13:51:46 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/21845ce850fd03f916a413cdaeaac4d6-1793898816-1280x720.jpeg"
-      },
-      {
-        "id": "5f9bca4dae896fd5a2b0a4aeb90b6db0",
-        "title": "Man arrested after fireworks 'aimed directly' at South Lanarkshire petrol station",
-        "link": "https://www.glasgowtimes.co.uk/news/26706141.man-arrested-fireworks-thrown-cambuslang-petrol-station/",
-        "description": "A 22-year-old man has been arrested and charged after police received reports of fireworks being thrown in Cambuslang on Bonfire Night.",
-        "published": "Fri, 06 Nov 2026 13:04:37 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20654058/?type=app&htype=0"
-      },
-      {
-        "id": "8610c3d7c5c0b6400fb6f450a819e8fa",
-        "title": "New homelessness prevention scheme aims to help Glasgow families before crisis",
-        "link": "https://www.glasgowtimes.co.uk/news/26706097.glasgow-homelessness-prevention-scheme-gets-funding-boost/",
-        "description": "The Ask and Act model was the focus of a major conference held in Glasgow.",
-        "published": "Fri, 06 Nov 2026 12:55:08 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21679765/?type=app&htype=0"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
