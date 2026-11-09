@@ -3133,6 +3133,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c6ev3wvekeevo#0",
+        "title": "Motherwell feels like a 'failed project', say residents frustrated by closures",
+        "link": "https://www.bbc.co.uk/news/articles/c6ev3wvekeevo?at_medium=RSS&at_campaign=rss",
+        "description": "A council decision to demolish Motherwell Concert Hall is the latest in a long line of culture and leisure closures in the town.",
+        "published": "Mon, 09 Nov 2026 23:01:10 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b896/live/fa69c150-dc82-11f1-ba95-5f07efd49f42.jpg"
+      },
+      {
         "id": "4b30d92158440de1fd3b0a70b5d66496",
         "title": "Inside impressive new \u00a317.3m hub built for pupils and local community",
         "link": "https://www.glasgowtimes.co.uk/news/26713886.17-3m-community-hub-officially-opens-north-lanarkshire/",
