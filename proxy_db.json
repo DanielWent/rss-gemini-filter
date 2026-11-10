@@ -3133,12 +3133,52 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/disabled-glasgow-man-attacked-gang-34890024",
+        "title": "Disabled Glasgow man attacked by gang who burst into home like 'pack of wild animals'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/disabled-glasgow-man-attacked-gang-34890024",
+        "description": "The retired office administrator, who has hearing loss, aspergers and autism, was violently beaten by four thugs after he asked them to keep the noise down in a common close.",
+        "published": "Tue, 10 Nov 2026 12:48:37 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34890180.ece/ALTERNATES/s98/0_Screenshot-2026-11-10-123434.png"
+      },
+      {
+        "id": "cddcbb26b5b448174c3493c374568822",
+        "title": "Glasgow gangland boss loses appeal over plot to murder rival",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26715698.david-nisbet-loses-appeal-glasgow-gangland-murder-plot/",
+        "description": "Glasgow gangland boss David Nisbet and Declan McCuish have lost appeals against their jail terms for plotting to murder Ryan Carvil.",
+        "published": "Tue, 10 Nov 2026 12:45:28 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20630151/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/cumbernauld-premises-targeted-spate-break-34889919",
+        "title": "Cumbernauld premises targeted in 'spate of break-ins' at supermarkets and golf clubs across Scotland",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/cumbernauld-premises-targeted-spate-break-34889919",
+        "description": "Thousands of pounds of golf clubs and cigarettes were allegedly stolen from premises across the country.",
+        "published": "Tue, 10 Nov 2026 12:32:31 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34546665.ece/ALTERNATES/s98/6_Generic-police-picture.jpg"
+      },
+      {
+        "id": "dcd91d2ed0f44245c92681e1f1771150",
+        "title": "Part of shopping centre near Glasgow set for demolition under regeneration plans",
+        "link": "https://www.glasgowtimes.co.uk/news/26715601.regent-shopping-centre-hamilton-building-set-demolition/",
+        "description": "Plans have been lodged to demolish part of Hamilton\u2019s Regent Shopping Centre as wider regeneration of the town centre continues.",
+        "published": "Tue, 10 Nov 2026 12:30:30 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21695558/?type=app&htype=0"
+      },
+      {
         "id": "9a2169d47b5b1515704f58869ccf8977",
         "title": "Major Glasgow city centre street upgrade to spark road closures and diversions",
         "link": "https://www.glasgowtimes.co.uk/news/26715420.glasgow-road-close-four-days-amid-major-city-centre-works/",
         "description": "A Glasgow city centre road will close for four days with drivers sent on a signed diversion as work continues on a major streetscape upgrade.",
         "published": "Tue, 10 Nov 2026 12:02:36 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20731927/?type=app&htype=0"
+      },
+      {
+        "id": "84026f01cbea885f2cabef132ff2226a",
+        "title": "Urgent Scotland blood shortage triggers Amber Alert as donors urged to come forward",
+        "link": "https://www.glasgowtimes.co.uk/news/26715417.scotland-blood-shortage-triggers-amber-alert-o-stocks/",
+        "description": "A national blood shortage has triggered an Amber Alert across Scotland, with O blood stocks under particular pressure.",
+        "published": "Tue, 10 Nov 2026 12:02:20 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/18193370/?type=app&htype=0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/concerns-raised-swimming-lessons-wont-34889688",
@@ -3165,12 +3205,44 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21695091/?type=app&htype=0"
       },
       {
+        "id": "2b62855d91cf157b21fb0454eb5b4625",
+        "title": "Scottish Labour leader calls for UK to rejoin EU",
+        "link": "https://www.heraldscotland.com/politics/westminster/26715226.michael-marra-calls-uk-rejoin-european-union/",
+        "description": "Michael Marra used a University of Edinburgh speech to call for UK EU membership as a long-term goal, writing to PM Andy Burnham to demand action",
+        "published": "Tue, 10 Nov 2026 11:37:43 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21504266/?type=app&htype=0"
+      },
+      {
+        "id": "7f3f3ea146441f5d6f4bb325658e30a4",
+        "title": "Memo to Glasgow Council: our parks should not be up for grabs",
+        "link": "https://www.heraldscotland.com/opinion/26713716.memo-glasgow-council-parks-not-grabs/",
+        "description": "'Parks are not surplus property waiting for a better use'",
+        "published": "Tue, 10 Nov 2026 11:30:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21042127/?type=app&htype=0"
+      },
+      {
+        "id": "0018bea564844cd2b1fdee16a902db01",
+        "title": "National Library of Scotland exhibition uncovers centuries of literary deception",
+        "link": "https://www.heraldscotland.com/news/26715099.edinburgh-exhibition-explores-history-fakes-forgeries/",
+        "description": "The National Library of Scotland\u2019s free Fakes and Forgeries exhibition explores historic literary fraud, featuring forged works linked to Robert Burns, Lord Byron and Mary, Queen of Scots.",
+        "published": "Tue, 10 Nov 2026 11:30:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21694851/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c32l4lw12z7po#0",
         "title": "US military aircraft leaves English base and tracked to Prestwick Airport",
         "link": "https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss",
         "description": "The departures come weeks after the US withdrew bombers from RAF Fairford airbase over a suspected Iran-linked security incident.",
         "published": "Tue, 10 Nov 2026 11:13:19 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3e0/live/fee0ffe0-dcf6-11f1-b441-2b33b063138f.jpg"
+      },
+      {
+        "id": "3a0c21486b9d80b42544b0f8d354a063",
+        "title": "Student accommodation building set to become 26 flats after planning fix",
+        "link": "https://www.heraldscotland.com/news/26715045.hamilton-student-accommodation-come-flats/",
+        "description": "The former student accommodation could finally get a new lease of life",
+        "published": "Tue, 10 Nov 2026 11:10:10 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/13570313/?type=app&htype=0"
       },
       {
         "id": "7fbb2acb92c8993e9c01029c105d261d",
