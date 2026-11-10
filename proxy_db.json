@@ -1201,6 +1201,14 @@
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
       {
+        "id": "https://the5krunner.com/?p=142951",
+        "title": "Deep Dive Digest #31: Introducing Quick Reads, for the Time-Crunched Athlete",
+        "link": "https://the5krunner.com/2026/11/10/deep-dive-digest-31-introducing-quick-reads-for-the-time-crunched-athlete/",
+        "description": "<p><img alt=\"Deep Dive Digest #31: Introducing Quick Reads, for the Time-Crunched Athlete\" class=\"attachment-large size-large\" height=\"312\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/06/Deep-Dive-digest-Asset-6.png/w=581,h=312\" style=\"height: auto;\" width=\"581\" /></p>\n<p>A $20,000 HRV chair, a head sensor that claims to beat Apple Watch, and Fenix 8 at $233 under Fenix 9.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/11/10/deep-dive-digest-31-introducing-quick-reads-for-the-time-crunched-athlete/\">Deep Dive Digest #31: Introducing Quick Reads, for the Time-Crunched Athlete</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>\n<a href=\"https://the5krunner.com/rss-check-7h2k/\" rel=\"nofollow\"></a>",
+        "published": "Tue, 10 Nov 2026 09:27:30 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/06/Deep-Dive-digest-Asset-6.png/w=581,h=312"
+      },
+      {
         "id": "https://the5krunner.com/?p=142826",
         "title": "QUICK READ: Samsung patent estimates belly fat with radar",
         "link": "https://the5krunner.com/2026/11/09/quick-read-samsung-patent-estimates-belly-fat-with-radar/",
@@ -1991,14 +1999,6 @@
         "description": "<p><img alt=\"Connect IQ Developer Reports GPS Faults on Fenix 9 Pro\" class=\"attachment-large size-large\" height=\"620\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/Garmin-Fenix-9-Pro-loses-GPS-conenctions-regularly-on-Conenct-IQ-apps-trying-to-conenct-to-gnss.jpg/w=1110,h=620\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Some Connect IQ apps lose GPS on Fenix 9 Pro after about 14 seconds, according to a developer. Garmin's own sports profiles are unaffected. Garmin has also confirmed that Forerunner 170 hides its gyroscope from apps.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/08/fenix-9-pro-gps-problem/\">Connect IQ Developer Reports GPS Faults on Fenix 9 Pro</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
         "published": "Thu, 08 Oct 2026 14:06:05 +0000",
         "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/Garmin-Fenix-9-Pro-loses-GPS-conenctions-regularly-on-Conenct-IQ-apps-trying-to-conenct-to-gnss.jpg/w=1110,h=620"
-      },
-      {
-        "id": "https://the5krunner.com/?p=135513",
-        "title": "Last Day: Garmin Prime Day Deals End Tonight",
-        "link": "https://the5krunner.com/2026/10/07/garmin-prime-day-deals-last-day-october-2026/",
-        "description": "<p><img alt=\"Last Day: Garmin Prime Day Deals End Tonight\" class=\"attachment-large size-large\" height=\"624\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/Prime-Big-Deal-Days-4.jpg/w=1110,h=624\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Amazon's October Prime Day ends tonight. These are the Garmin deals still live on the Fenix, Epix, Forerunner, Instinct, Venu and Edge, with prices for the USA, UK and Germany.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/10/07/garmin-prime-day-deals-last-day-october-2026/\">Last Day: Garmin Prime Day Deals End Tonight</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>",
-        "published": "Wed, 07 Oct 2026 19:00:05 +0000",
-        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/10/Prime-Big-Deal-Days-4.jpg/w=1110,h=624"
       }
     ],
     "icon_url": "https://the5krunner.com/favicon.ico",
@@ -3133,12 +3133,44 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9341075",
+        "title": "New brass band piece inspired by Booker-winning novel to get Scottish premiere in Glasgow",
+        "link": "https://www.glasgowworld.com/news/new-brass-band-piece-inspired-by-booker-winning-novel-to-get-scottish-premiere-9341075",
+        "description": "<p>A new 15-minute brass band work, 'Orbital', based on Samantha Harvey's 2024 Booker Prize-winning novel, is set to have its Scottish premiere this month.</p>",
+        "published": "Tue, 10 Nov 2026 09:34:33 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/09/15/56/image0.jpeg?width=1200&auto=webp&trim=107%2C0%2C107%2C0"
+      },
+      {
+        "id": "d195248486d0de81eae4617bf1390565",
+        "title": "US aircraft moved to Prestwick airport after RAF base receives \u2018Iran threat\u2019",
+        "link": "https://www.glasgowtimes.co.uk/news/26714360.us-aircraft-moved-scottish-airport-iran-threat-raf-base/",
+        "description": "A US aircraft has been moved to a Scottish airport after an RAF base reportedly received an Iran-related threat",
+        "published": "Tue, 10 Nov 2026 09:24:15 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19746978/?type=app&htype=0"
+      },
+      {
+        "id": "405399f1b9bd9fea6a82c51b6f4a0824",
+        "title": "Experts urge faster rollout of Scotland\u2019s lung cancer screening programme",
+        "link": "https://www.heraldscotland.com/news/26714288.experts-urge-faster-rollout-scotland-lung-screening/",
+        "description": "Lung cancer remains Scotland\u2019s biggest cancer killer, with 3,651 deaths recorded in 2024",
+        "published": "Tue, 10 Nov 2026 09:13:22 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21489691/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-broadband-nightmare-multiple-homes-34888453",
         "title": "Lanarkshire broadband 'nightmare' as multiple homes left without internet",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-broadband-nightmare-multiple-homes-34888453",
         "description": "\"My husband works from home, we have no idea when it\u2019s likely to be fixed and we\u2019re just left in limbo really.\"",
         "published": "Tue, 10 Nov 2026 09:10:39 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34888531.ece/ALTERNATES/s98/0_Telecoms-bills.jpg"
+      },
+      {
+        "id": "06a33709af820b2426be98e9551413b4",
+        "title": "Police condemn \u2018shameful and cowardly\u2019 assaults on officers across Scotland",
+        "link": "https://www.heraldscotland.com/news/26714173.police-condemn-attacks-officers-weekend-violence/",
+        "description": "Police officers were injured in a spate of incidents across the country",
+        "published": "Tue, 10 Nov 2026 08:31:42 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21693555/?type=app&htype=0"
       },
       {
         "id": "9340225",
