@@ -3133,6 +3133,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9341807",
+        "title": "Celtic fan group issue nine-part jibe aimed at Dermot Desmond as AGM request remains unanswered",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-fan-group-issue-9-part-jibe-aimed-at-dermot-desmond-as-agm-request-remains-unanswered-9341807",
+        "description": "<p>Principal shareholder\u2019s presence has been requested at upcoming AGM</p>",
+        "published": "Tue, 10 Nov 2026 13:07:44 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/10/13/22/GettyImages-1491735522-(1).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "761bec0f4d5f36266fd5396003a45009",
+        "title": "Scotland A&E performance falls to second lowest level on record",
+        "link": "https://www.heraldscotland.com/news/26715749.scotland-e-sees-just-57-8-meet-four-hour-target/",
+        "description": "Scotland\u2019s accident and emergency departments are under \u201csignificant pressures\u201d going into winter",
+        "published": "Tue, 10 Nov 2026 12:55:16 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/16125045/?type=app&htype=0"
+      },
+      {
+        "id": "51b5c77fef5896e9c151582efbcead30",
+        "title": "Scottish Greens urge councillors to \u2018save Summerhall\u2019 amid redevelopment plans",
+        "link": "https://www.heraldscotland.com/news/26715748.greens-call-edinburgh-councillors-save-summerhall/",
+        "description": "Councillors will be asked to create a Place Brief, which would recognise the \u201ccultural, creative and community space\u201d at the heart of Summerhall.",
+        "published": "Tue, 10 Nov 2026 12:55:11 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/18584734/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/disabled-glasgow-man-attacked-gang-34890024",
         "title": "Disabled Glasgow man attacked by gang who burst into home like 'pack of wild animals'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/disabled-glasgow-man-attacked-gang-34890024",
@@ -3149,6 +3173,14 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/20630151/?type=app&htype=0"
       },
       {
+        "id": "72f44b488b59995d197f4f81e0366a57",
+        "title": "Breastfeeding boom as Scotland's poorest areas see biggest rise",
+        "link": "https://www.heraldscotland.com/news/26715655.breastfeeding-rates-scotland-hit-record-high/",
+        "description": "A milestone for new families across Scotland",
+        "published": "Tue, 10 Nov 2026 12:39:01 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/12422977/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/cumbernauld-premises-targeted-spate-break-34889919",
         "title": "Cumbernauld premises targeted in 'spate of break-ins' at supermarkets and golf clubs across Scotland",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/cumbernauld-premises-targeted-spate-break-34889919",
@@ -3163,6 +3195,22 @@
         "description": "Plans have been lodged to demolish part of Hamilton\u2019s Regent Shopping Centre as wider regeneration of the town centre continues.",
         "published": "Tue, 10 Nov 2026 12:30:30 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21695558/?type=app&htype=0"
+      },
+      {
+        "id": "782b91e4f6a9163136cfb637b6616a37",
+        "title": "How Hugh MacDiarmid's A Drunk Man changed Scottish literature forever",
+        "link": "https://www.heraldscotland.com/politics/26708008.hugh-macdiarmid-100-years-drunk-man-looks-thistle/",
+        "description": "Hugh MacDiarmid transformed Scottish literature and inspired generations of nationalists. A century on, what remains of the legacy of A Drunk Man Looks at the Thistle?",
+        "published": "Tue, 10 Nov 2026 12:30:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/19205797/?type=app&htype=0"
+      },
+      {
+        "id": "a63a93dc9fbd5bd34ea47eb078e2aac2",
+        "title": "Wigtown Festival Company wins award for 20 years of cultural impact",
+        "link": "https://www.heraldscotland.com/news/26715509.wigtown-festival-company-wins-award-20-years-impact/",
+        "description": "Wigtown Festival Company wins DG Life Award for 20 years of cultural impact, supporting literacy, tourism and economic regeneration in Dumfries and Galloway.",
+        "published": "Tue, 10 Nov 2026 12:30:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21695508/?type=app&htype=0"
       },
       {
         "id": "9a2169d47b5b1515704f58869ccf8977",
