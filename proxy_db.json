@@ -3133,6 +3133,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9340225",
+        "title": "Major WWE wrestling event coming to Glasgow as fans call shows 'best night ever'",
+        "link": "https://www.glasgowworld.com/recommended/major-wwe-wrestling-event-coming-to-glasgow-as-fans-call-shows-best-night-ever-9340863",
+        "description": "<p>WWE\u2019s Road to Royal Rumble European Tour is coming to Glasgow and promises an unforgettable experience though we found a cheaper alternative</p>",
+        "published": "Tue, 10 Nov 2026 08:30:34 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2024/11/04/10/14/GettyImages-2147421131.jpeg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
         "id": "858e9feabd3029064f012a99aeab2fdf",
         "title": "Police chief blasts \u2018cowardly\u2019 attacks after officers hospitalised in Glasgow chaos",
         "link": "https://www.glasgowtimes.co.uk/news/26714110.police-chief-blasts-cowardly-attacks-glasgow-event/",
@@ -3181,12 +3189,36 @@
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/19679258/?type=app&htype=0"
       },
       {
+        "id": "6e212f2981db7e5efdc9d964d1642a1c",
+        "title": "ScotGov bankruptcy shake-up sparks abuse fears as 92% of creditors get nothing back",
+        "link": "https://www.heraldscotland.com/news/26712790.scots-bankruptcy-shake-up-sparks-abuse-fears-92-get-nothing-back/",
+        "description": "Scottish Government bankruptcy shake-up sparks abuse fears as 92% of creditors receive nothing back. Ministers plan to double the debt limit to \u00a350,000.",
+        "published": "Tue, 10 Nov 2026 06:28:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21295638/?type=app&htype=0"
+      },
+      {
+        "id": "e12e76c62877798753ef03f2a3dbceaf",
+        "title": "Ferry safety muddle: Government regulator U-turn over five-year CalMac checks fail",
+        "link": "https://www.heraldscotland.com/news/26713427.calmac-ferry-muddle-mca-u-turn-five-year-checks-failure-claim/",
+        "description": "The Maritime and Coastguard Agency makes a U-turn over its CalMac checks failure claim following questions about ferry safety and the Loch Linnhe grounding.",
+        "published": "Tue, 10 Nov 2026 06:28:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21413737/?type=app&htype=0"
+      },
+      {
         "id": "402d0eba13df7b997bec5192e9165c83",
         "title": "Nearly 300 newly qualified paramedics to join Scottish Ambulance Service",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26713502.scottish-ambulance-service-welcoming-280-new-recruits/",
         "description": "The Scottish Ambulance Service (SAS) is welcoming up to 280 recently qualified recruits this year.",
         "published": "Tue, 10 Nov 2026 06:00:00 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21692404/?type=app&htype=0"
+      },
+      {
+        "id": "a08b05dbdc3dcc7e31e90117797b3ebd",
+        "title": "Glasgow pupils who fought to save their local library win prestigious award",
+        "link": "https://www.glasgowtimes.co.uk/news/26711255.cardonald-primary-wins-unicef-award-glasgow-library-campaign/",
+        "description": "Cardonald Primary pupils who campaigned to save their Glasgow library have won UNICEF UK's prestigious Gold Rights Respecting Award.",
+        "published": "Tue, 10 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21688937/?type=app&htype=0"
       },
       {
         "id": "09cfa9fc0de564920fe9cc24b955fe45",
