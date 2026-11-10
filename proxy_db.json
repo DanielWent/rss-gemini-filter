@@ -3133,6 +3133,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/army-needed-glasgow-streets-deter-34889608",
+        "title": "Army 'needed' on Glasgow streets to deter fly-tipping says union head",
+        "link": "https://www.glasgowlive.co.uk/news/army-needed-glasgow-streets-deter-34889608",
+        "description": "\u201cThis happened in the 1970s to deal with a similar situation.\u201d",
+        "published": "Tue, 10 Nov 2026 11:47:36 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/article34470197.ece/ALTERNATES/s98/1_Chris-Mitchell-GMB-Convenor-at-Sauchiehall-Lane.jpg"
+      },
+      {
+        "id": "fe4c3313cd9c6582ce046c1c960401dd",
+        "title": "Glasgow traffic wardens reveal shocking abuse as they demand end to lone patrols",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26715294.glasgow-traffic-wardens-demand-end-solo-patrols-amid-abuse/",
+        "description": "Glasgow traffic wardens say threats, assaults and verbal abuse are rising as their union calls for an end to lone patrols in the city centre.",
+        "published": "Tue, 10 Nov 2026 11:46:23 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21695091/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c32l4lw12z7po#0",
+        "title": "US military aircraft leaves English base and tracked to Prestwick Airport",
+        "link": "https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss",
+        "description": "The departures come weeks after the US withdrew bombers from RAF Fairford airbase over a suspected Iran-linked security incident.",
+        "published": "Tue, 10 Nov 2026 11:13:19 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3e0/live/fee0ffe0-dcf6-11f1-b441-2b33b063138f.jpg"
+      },
+      {
         "id": "7fbb2acb92c8993e9c01029c105d261d",
         "title": "MSP calls for Post Office to remain in town centre amid closure announcement",
         "link": "https://www.glasgowtimes.co.uk/news/26715033.msp-calls-kirkintilloch-post-office-town-centre-presence/",
