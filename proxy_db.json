@@ -3133,6 +3133,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "09cfa9fc0de564920fe9cc24b955fe45",
+        "title": "SNP consider increasing number of judges amid rise in 'serious criminal business'",
+        "link": "https://www.heraldscotland.com/news/26712289.snp-consider-increasing-judges-amid-rise-serious-crime/",
+        "description": "Scotland may need more judges as High Court cases surge, with Justice Secretary Neil Gray warned victims of serious crimes could wait up to four years for justice.",
+        "published": "Tue, 10 Nov 2026 05:01:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21692302/?type=app&htype=0"
+      },
+      {
+        "id": "60a90c19f6655ffe5b6bf8d4c21440ac",
+        "title": "Questions over NHS Lothian chief executive's 'inflation-busting' \u00a330,000 pay hike",
+        "link": "https://www.heraldscotland.com/news/26713727.questions-nhs-lothian-boss-awarded-30k-pay-hike/",
+        "description": "Audited accounts show NHS Lothian chief executive Caroline Hiscox earned between \u00a3225,000 and \u00a3230,000 in 2025/26. It is a 15% jump that exceeds the top of the national pay scale by thousands, with no explanation offered in the remuneration report.",
+        "published": "Tue, 10 Nov 2026 05:00:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/7142282/?type=app&htype=0"
+      },
+      {
         "id": "1f20dfddc7d05fca3cc0a68c46a91d48",
         "title": "\u00a365m fund aims to turn Scottish university research into high-growth firms",
         "link": "https://www.heraldscotland.com/news/26712808.new-65m-fund-back-scottish-university-spinouts/",
