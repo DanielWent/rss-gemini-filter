@@ -3133,6 +3133,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9a2169d47b5b1515704f58869ccf8977",
+        "title": "Major Glasgow city centre street upgrade to spark road closures and diversions",
+        "link": "https://www.glasgowtimes.co.uk/news/26715420.glasgow-road-close-four-days-amid-major-city-centre-works/",
+        "description": "A Glasgow city centre road will close for four days with drivers sent on a signed diversion as work continues on a major streetscape upgrade.",
+        "published": "Tue, 10 Nov 2026 12:02:36 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20731927/?type=app&htype=0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/concerns-raised-swimming-lessons-wont-34889688",
+        "title": "Concerns raised as swimming lessons won't resume at Glasgow pool until spring 2027",
+        "link": "https://www.glasgowlive.co.uk/news/concerns-raised-swimming-lessons-wont-34889688",
+        "description": "\"Our children should not be disadvantaged because of where they happen to grow up.\"",
+        "published": "Tue, 10 Nov 2026 11:51:17 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33323640.ece/ALTERNATES/s98/1_drumchapel-pool-ext.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/army-needed-glasgow-streets-deter-34889608",
         "title": "Army 'needed' on Glasgow streets to deter fly-tipping says union head",
         "link": "https://www.glasgowlive.co.uk/news/army-needed-glasgow-streets-deter-34889608",
@@ -3259,14 +3275,6 @@
         "description": "<p>A new 15-minute brass band work, 'Orbital', based on Samantha Harvey's 2024 Booker Prize-winning novel, is set to have its Scottish premiere this month.</p>",
         "published": "Tue, 10 Nov 2026 09:34:33 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/09/15/56/image0.jpeg?width=1200&auto=webp&trim=107%2C0%2C107%2C0"
-      },
-      {
-        "id": "d195248486d0de81eae4617bf1390565",
-        "title": "US aircraft moved to Prestwick airport after RAF base receives \u2018Iran threat\u2019",
-        "link": "https://www.glasgowtimes.co.uk/news/26714360.us-aircraft-moved-scottish-airport-iran-threat-raf-base/",
-        "description": "A US aircraft has been moved to a Scottish airport after an RAF base reportedly received an Iran-related threat",
-        "published": "Tue, 10 Nov 2026 09:24:15 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19746978/?type=app&htype=0"
       },
       {
         "id": "405399f1b9bd9fea6a82c51b6f4a0824",
