@@ -3149,6 +3149,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cmx2320d8xkdo#0",
+        "title": "Police seize 'unknown meat' from Glasgow business",
+        "link": "https://www.bbc.co.uk/news/articles/cmx2320d8xkdo?at_medium=RSS&at_campaign=rss",
+        "description": "The meat was found in a convenience store alongside rotten meat and has since been sent away for testing to determine what it is.",
+        "published": "Tue, 10 Nov 2026 17:42:08 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f420/live/f0d90fa0-dd2d-11f1-ab46-9fae224bbf6f.jpg"
+      },
+      {
         "id": "9343069",
         "title": "Car strikes 'a number of pedestrians' on Hyndland Road as emergency services descend on scene",
         "link": "https://www.glasgowworld.com/news/car-strikes-pedestrians-on-hyndland-road-9343069",
@@ -3165,22 +3173,6 @@
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7a2/live/769d7a80-dd20-11f1-b441-2b33b063138f.jpg"
       },
       {
-        "id": "https://news.stv.tv/?p=537500",
-        "title": "Hyndland Road closed after car crashes into \u2018a number of pedestrians\u2019",
-        "link": "https://news.stv.tv/west-central/hyndland-road-closed-after-car-crashes-into-a-number-of-pedestrians",
-        "description": "Hyndland Road has been closed by police and drivers are being urged to avoid the area",
-        "published": "Tue, 10 Nov 2026 16:44:45 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/62ff4283feb935b08f232f1b8f372600-1794328456.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/busy-road-glasgow-west-end-34892308",
-        "title": "Busy road in Glasgow west end closed after car ploughs into 'number of pedestrians'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/busy-road-glasgow-west-end-34892308",
-        "description": "The extent of injuries sustained in the crash are unknown as of yet.",
-        "published": "Tue, 10 Nov 2026 16:40:33 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34892356.ece/ALTERNATES/s98/2_Hyndland.png"
-      },
-      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/over-60-new-homes-built-34892196",
         "title": "Over 60 new homes to be built near Neilston after project approved",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/over-60-new-homes-built-34892196",
@@ -3195,14 +3187,6 @@
         "description": "The burnt-out vehicle was found on Brownsfield Road in Inchinnan Business Park",
         "published": "Tue, 10 Nov 2026 16:11:14 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/8f0183ef6533a19ba23fd20ac6901c56-1793717853-1280x720.jpeg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c6y9393vqj2do#0",
-        "title": "Council faces extra \u00a3277k bill for upgrading recycling centres",
-        "link": "https://www.bbc.co.uk/news/articles/c6y9393vqj2do?at_medium=RSS&at_campaign=rss",
-        "description": "The upgrades are part of East Ayrshire Council's wider waste services review and include new food waste facilities.",
-        "published": "Tue, 10 Nov 2026 16:10:32 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f3d/live/0f2f3c60-dd1d-11f1-8806-aded7f09be16.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-route-glasgow-airport-one-34891296",
@@ -3251,14 +3235,6 @@
         "description": "One masked youth speeds past the police officers and performs a dangerous wheelie stunt in front of the van.",
         "published": "Tue, 10 Nov 2026 13:53:06 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34890467.ece/ALTERNATES/s98/0_Screenshot-2026-11-10-131538.png"
-      },
-      {
-        "id": "9342177",
-        "title": "Glasgow Airport: New route launches connecting Glasgow to Nice from May 2027",
-        "link": "https://www.glasgowworld.com/news/ba-cityflyer-glasgow-nice-route-launch-9342177",
-        "description": "<p>The new route will operate weekly from 16 May 2027 to 3 October 2027, providing Scottish travellers with direct access to the French Riviera city.</p>",
-        "published": "Tue, 10 Nov 2026 13:47:41 GMT",
-        "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOjYzZjFmN2EwLTIyNjItNGFkYi1hZDdhLWI0MWExYmY1MjZmMTo3MmRjMjIwYS0xYzM5LTRiMWItYTI3Ni1lYjhkMjdmMTIwYmY=.jpg?width=1200&auto=webp&crop=3%3A2"
       },
       {
         "id": "359e7a7937d989391b2b6d19c1b59c77",
@@ -3315,14 +3291,6 @@
         "description": "The retired office administrator, who has hearing loss, aspergers and autism, was violently beaten by four thugs after he asked them to keep the noise down in a common close.",
         "published": "Tue, 10 Nov 2026 12:48:37 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34890180.ece/ALTERNATES/s98/0_Screenshot-2026-11-10-123434.png"
-      },
-      {
-        "id": "cddcbb26b5b448174c3493c374568822",
-        "title": "Glasgow gangland boss loses appeal over plot to murder rival",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26715698.david-nisbet-loses-appeal-glasgow-gangland-murder-plot/",
-        "description": "Glasgow gangland boss David Nisbet and Declan McCuish have lost appeals against their jail terms for plotting to murder Ryan Carvil.",
-        "published": "Tue, 10 Nov 2026 12:45:28 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/20630151/?type=app&htype=0"
       },
       {
         "id": "72f44b488b59995d197f4f81e0366a57",
