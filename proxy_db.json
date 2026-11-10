@@ -814,6 +814,22 @@
     "description": "AI Filtered Google Blog Updates.",
     "articles": [
       {
+        "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
+        "title": "Introducing the Multimodal Knowledge Agent benchmark",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
+        "description": "Text \"Visual Knowledge Work\" next to the Gemini 4 logo and an illustration of documents",
+        "published": "Tue, 10 Nov 2026 16:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/01_Hero_MKA_Benchmark_2784x1566.png"
+      },
+      {
+        "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+        "title": "Gemini 4 Carbon is now available",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+        "description": "an illustrated carbon with several number 4's around it",
+        "published": "Tue, 10 Nov 2026 16:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lo.max-600x600.format-webp.webp"
+      },
+      {
         "id": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
         "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
         "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
@@ -3132,6 +3148,38 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/over-60-new-homes-built-34892196",
+        "title": "Over 60 new homes to be built near Neilston after project approved",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/over-60-new-homes-built-34892196",
+        "description": "At least 18 of the homes will be provided as affordable housing, East Renfrewshire's planning committee heard.",
+        "published": "Tue, 10 Nov 2026 16:22:59 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34892181.ece/ALTERNATES/s98/0_neilstonhomes.png"
+      },
+      {
+        "id": "https://news.stv.tv/?p=537452",
+        "title": "Death of person found in burnt-out van at business park \u2018not suspicious\u2019",
+        "link": "https://news.stv.tv/west-central/death-of-person-found-in-burnt-out-van-at-business-park-not-suspicious",
+        "description": "The burnt-out vehicle was found on Brownsfield Road in Inchinnan Business Park",
+        "published": "Tue, 10 Nov 2026 16:11:14 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/8f0183ef6533a19ba23fd20ac6901c56-1793717853-1280x720.jpeg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c6y9393vqj2do#0",
+        "title": "Council faces extra \u00a3277k bill for upgrading recycling centres",
+        "link": "https://www.bbc.co.uk/news/articles/c6y9393vqj2do?at_medium=RSS&at_campaign=rss",
+        "description": "The upgrades are part of East Ayrshire Council's wider waste services review and include new food waste facilities.",
+        "published": "Tue, 10 Nov 2026 16:10:32 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f3d/live/0f2f3c60-dd1d-11f1-8806-aded7f09be16.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-route-glasgow-airport-one-34891296",
+        "title": "New route from Glasgow Airport to one of 'Europe's most iconic' destinations",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/new-route-glasgow-airport-one-34891296",
+        "description": "The new summer seasonal route will commence next May, providing easy direct access to one of the best destinations the French Riviera has to offer.",
+        "published": "Tue, 10 Nov 2026 15:55:31 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34891821.ece/ALTERNATES/s98/2_Nice.jpg"
+      },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/free-christmas-film-showing-glasgow-34891463",
         "title": "Free Christmas film showing at Glasgow Winter Wonderland - how to get tickets",
