@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/sport/articles/cm98z8w9kx02o#8",
+        "title": "Meet Stephanie Case - the first woman to run 100 miles in Antarctica",
+        "link": "https://www.bbc.co.uk/sport/articles/cm98z8w9kx02o?at_medium=RSS&at_campaign=rss",
+        "description": "Stephanie Case makes history by becoming the first woman to complete extreme 100-mile race in Antarctica.",
+        "published": "Tue, 10 Nov 2026 06:20:04 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0705/live/c4462280-dc6e-11f1-a36b-c52bf1cef2c5.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo#1",
         "title": "Scientists predict 2026 hottest year on record as climate talks begin",
         "link": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
         "published": "Mon, 05 Oct 2026 12:03:38 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a97/live/e8568220-c056-11f1-ba75-170165fdb734.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c60m3k28j81mo#1",
-        "title": "Part-human part-mouse brain developed in science breakthrough",
-        "link": "https://www.bbc.co.uk/news/articles/c60m3k28j81mo?at_medium=RSS&at_campaign=rss",
-        "description": "Researchers at Stanford University genetically altered mice to be able to receive and function with human brain cells.",
-        "published": "Wed, 16 Sep 2026 15:53:27 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de2b/live/f44bc7f0-b1da-11f1-a44b-aba96a7d56aa.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
