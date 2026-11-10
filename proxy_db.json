@@ -3133,6 +3133,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/weekend-glasgow-travel-chaos-ahead-34885319",
+        "title": "Weekend of Glasgow travel chaos ahead with 'severe delays' on M8, M77 and M74 and subway shut too",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/weekend-glasgow-travel-chaos-ahead-34885319",
+        "description": "Glaswegians are being warned to plan ahead as both motorways and and modes of public transport are closed in the same weekend.",
+        "published": "Tue, 10 Nov 2026 07:21:55 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34885659.ece/ALTERNATES/s98/0_GettyImages-1208076285.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-buildings-linked-mackintosh-19th-34886770",
+        "title": "Glasgow buildings linked to Mackintosh and 19th century murder set for office use",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-buildings-linked-mackintosh-19th-34886770",
+        "description": "Two historic B-listed buildings in Glasgow's Blythswood Square can be amalgamated to create a new office development.",
+        "published": "Tue, 10 Nov 2026 07:14:25 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34886781.ece/ALTERNATES/s98/0_blythswoodsquareoffices.png"
+      },
+      {
+        "id": "1bdfbc3f03d386d76c0d8ef435066df2",
+        "title": "Glasgow residential street blocked off as emergency crews rush to fight building fire",
+        "link": "https://www.glasgowtimes.co.uk/news/26714032.parkhouse-building-fire-sees-broadholm-street-blocked-off/",
+        "description": "Emergency crews tackled a reported building fire on Broadholm Street, Parkhouse, as three fire engines closed the road on October 9. No injuries confirmed.",
+        "published": "Tue, 10 Nov 2026 07:07:55 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/19679258/?type=app&htype=0"
+      },
+      {
         "id": "402d0eba13df7b997bec5192e9165c83",
         "title": "Nearly 300 newly qualified paramedics to join Scottish Ambulance Service",
         "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26713502.scottish-ambulance-service-welcoming-280-new-recruits/",
