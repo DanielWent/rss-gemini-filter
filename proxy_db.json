@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o#4",
+        "title": "Oxford museum returns ancestral  Naga skulls to India",
+        "link": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
+        "description": "The remains will be taken to Nagaland, where tribal leaders plan a joint memorial and burial.",
+        "published": "Tue, 10 Nov 2026 06:23:42 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c57/live/c6a27780-dcba-11f1-bc9a-d176db862bf0.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/sport/articles/cm98z8w9kx02o#8",
         "title": "Meet Stephanie Case - the first woman to run 100 miles in Antarctica",
         "link": "https://www.bbc.co.uk/sport/articles/cm98z8w9kx02o?at_medium=RSS&at_campaign=rss",
@@ -763,14 +771,6 @@
         "description": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
         "published": "Tue, 06 Oct 2026 10:23:59 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73fd/live/3d7299c0-c16e-11f1-a003-8be783290413.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo#1",
-        "title": "OpenAI admits response to Australian government hacks 'not good enough'",
-        "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
-        "description": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
-        "published": "Tue, 06 Oct 2026 06:53:17 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d74c/live/d3ce6cd0-c13e-11f1-a64c-550be9e3c66b.jpg"
       },
       {
         "id": "1791248107730788",
@@ -3133,6 +3133,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=537171",
+        "title": "\u2018I was intimidated into paying \u00a3500 locksmith charge\u2019",
+        "link": "https://news.stv.tv/west-central/i-was-intimidated-into-paying-500-locksmith-charge",
+        "description": "Aidan says the locksmith entered his home before demanding a fee five times the original quote",
+        "published": "Tue, 10 Nov 2026 07:32:40 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/ef1c4448cf58e954a8cc36d718e6ae20-1794221288-1280x720.jpeg"
+      },
+      {
+        "id": "a20a3b048b602d6b732d16e9c9a99297",
+        "title": "High street giant plans new kiosk at Tesco near Glasgow",
+        "link": "https://www.glasgowtimes.co.uk/news/26714046.timpson-plans-new-kiosk-tesco-rutherglen/",
+        "description": "High street giant Timpson has submitted plans for a new kiosk at a Tesco Extra near Glasgow offering a range of repair and retail services.",
+        "published": "Tue, 10 Nov 2026 07:23:30 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/15007635/?type=app&htype=0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/weekend-glasgow-travel-chaos-ahead-34885319",
         "title": "Weekend of Glasgow travel chaos ahead with 'severe delays' on M8, M77 and M74 and subway shut too",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/weekend-glasgow-travel-chaos-ahead-34885319",
@@ -3275,14 +3291,6 @@
         "description": "Margaret Fleming\u2019s killer Avril Jones has died in prison.",
         "published": "Mon, 09 Nov 2026 16:33:29 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21691318/?type=app&htype=0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-drivers-warned-severe-m8-34878635",
-        "title": "Glasgow drivers warned of 'severe' M8 weekend disruption as all 16 lanes to shut",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-drivers-warned-severe-m8-34878635",
-        "description": "\"During similar closures in 2024, delays of up to one hour were experienced, and comparable delays are possible if traffic levels are not significantly reduced.\"",
-        "published": "Sat, 7 Nov 2026 15:53:47 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34812788.ece/ALTERNATES/s98/1_Traffic.png"
       }
     ],
     "image_url": "https://www.heraldscotland.com/resources/images/sitelogoalt/?type=rsslogo"
