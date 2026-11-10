@@ -2218,6 +2218,22 @@
     "description": "AI Filtered Glasgow Times Local News, Running, Education, and Science.",
     "articles": [
       {
+        "id": "7fbb2acb92c8993e9c01029c105d261d",
+        "title": "MSP calls for Post Office to remain in town centre amid closure announcement",
+        "link": "https://www.glasgowtimes.co.uk/news/26715033.msp-calls-kirkintilloch-post-office-town-centre-presence/",
+        "description": "Adam Harley, MSP for Strathkelvin and Bearsden, has called for the Post Office to maintain a presence in Kirkintilloch town centre as the Cowgate branch prepares to close.",
+        "published": "Tue, 10 Nov 2026 11:08:33 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21629358/?type=app&htype=48"
+      },
+      {
+        "id": "4fd7026112d3e82a49a2f1ac7e82aa65",
+        "title": "Burst water main leaves residents close to Glasgow with supply issues",
+        "link": "https://www.glasgowtimes.co.uk/news/26714925.bearsden-burst-water-main-causes-supply-disruption/",
+        "description": "Scottish Water crews are repairing a burst water main on Baljaffray Road in Bearsden, with residents facing supply issues and traffic delays.",
+        "published": "Tue, 10 Nov 2026 10:53:37 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21108552/?type=app&htype=0"
+      },
+      {
         "id": "fcf58ac14e7fcdffc35ea47123d48131",
         "title": "Much-loved Christmas charity bus returning to Glasgow for 2026",
         "link": "https://www.glasgowtimes.co.uk/news/26710050.christmas-charity-bus-returning-clydebank-glasgow-2026/",
@@ -3000,22 +3016,6 @@
         "description": "Kirkintilloch Health and Care Centre and Woodhead Medical Practice forced to close after burst water main.",
         "published": "Thu, 03 Sep 2026 10:22:32 +0100",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21060534/?type=app&htype=0"
-      },
-      {
-        "id": "152b9951f60b0a7685f55538026d384d",
-        "title": "15 Glasgow businesses named for failing to pay minimum wage to staff",
-        "link": "https://www.glasgowtimes.co.uk/news/26518095.glasgow-firms-named-shamed-not-paying-minimum-wage/",
-        "description": "15 Glasgow employers have been named and shamed by the government for not paying the National Minimum Wage",
-        "published": "Thu, 03 Sep 2026 10:15:07 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/17595946/?type=app&htype=0"
-      },
-      {
-        "id": "26e188d18bbffb29415b7d4778c07558",
-        "title": "Care home unveils new sensory garden designed to bring residents together",
-        "link": "https://www.glasgowtimes.co.uk/news/26516370.bearsden-care-home-unveiled-new-sensory-garden-residents/",
-        "description": "A care home has unveiled a new garden designed to promote wellbeing, connection, and time spent outdoors.",
-        "published": "Wed, 02 Sep 2026 15:06:06 +0100",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21402617/?type=app&htype=0"
       }
     ],
     "icon_url": "https://www.glasgowtimes.co.uk/favicon.ico",
@@ -3133,6 +3133,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "7fbb2acb92c8993e9c01029c105d261d",
+        "title": "MSP calls for Post Office to remain in town centre amid closure announcement",
+        "link": "https://www.glasgowtimes.co.uk/news/26715033.msp-calls-kirkintilloch-post-office-town-centre-presence/",
+        "description": "Adam Harley, MSP for Strathkelvin and Bearsden, has called for the Post Office to maintain a presence in Kirkintilloch town centre as the Cowgate branch prepares to close.",
+        "published": "Tue, 10 Nov 2026 11:08:33 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21629358/?type=app&htype=48"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/five-court-murder-bid-charge-34889215",
+        "title": "Five in court on 'murder bid' charge as M74 'machete attack' targets Mad Dogs biker gang boss",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/five-court-murder-bid-charge-34889215",
+        "description": "The shocking disturbance is understood to have spilled onto the main carriageway of the busy motorway, leaving eyewitnesses \"shaken\".",
+        "published": "Tue, 10 Nov 2026 10:59:44 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34889305.ece/ALTERNATES/s98/0_Screenshot-2026-11-10-105114.png"
+      },
+      {
+        "id": "4fd7026112d3e82a49a2f1ac7e82aa65",
+        "title": "Burst water main leaves residents close to Glasgow with supply issues",
+        "link": "https://www.glasgowtimes.co.uk/news/26714925.bearsden-burst-water-main-causes-supply-disruption/",
+        "description": "Scottish Water crews are repairing a burst water main on Baljaffray Road in Bearsden, with residents facing supply issues and traffic delays.",
+        "published": "Tue, 10 Nov 2026 10:53:37 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21108552/?type=app&htype=0"
+      },
+      {
         "id": "aa5dab31d82e76ae307d0fa2bda54c86",
         "title": "50mph trial extended on Scottish Roads after crashes drop",
         "link": "https://www.heraldscotland.com/news/26714838.scottish-borders-50-mph-trial-extended-casualty-fall/",
@@ -3163,6 +3187,14 @@
         "description": "Glasgow Winter Wonderland will show Santa Claus 2 for free in December.",
         "published": "Tue, 10 Nov 2026 10:26:58 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21694401/?type=app&htype=0"
+      },
+      {
+        "id": "f6b540b1f913910ff5ffafd0351c39fd",
+        "title": "Glasgow Christmas programme unveiled after major Kelvingrove event scrapped",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26714695.westfest-announces-free-christmas-events-programme-glasgow/",
+        "description": "WestFest has announced a new programme of Christmas events.",
+        "published": "Tue, 10 Nov 2026 10:19:49 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21694590/?type=app&htype=0"
       },
       {
         "id": "9341089",
