@@ -3149,6 +3149,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c9dr8r8k7mv1o#0",
+        "title": "Gang members jailed for plotting to kill drugs boss lose appeal",
+        "link": "https://www.bbc.co.uk/news/articles/c9dr8r8k7mv1o?at_medium=RSS&at_campaign=rss",
+        "description": "Last year crime boss David Nisbet, 36, was jailed for 13 years and Declan McCuish for 11 years for conspiring to kill drug leader Ryan Carvill.",
+        "published": "Tue, 10 Nov 2026 16:54:49 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7a2/live/769d7a80-dd20-11f1-b441-2b33b063138f.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=537500",
+        "title": "Hyndland Road closed after car crashes into \u2018a number of pedestrians\u2019",
+        "link": "https://news.stv.tv/west-central/hyndland-road-closed-after-car-crashes-into-a-number-of-pedestrians",
+        "description": "Hyndland Road has been closed by police and drivers are being urged to avoid the area",
+        "published": "Tue, 10 Nov 2026 16:44:45 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/62ff4283feb935b08f232f1b8f372600-1794328456.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/busy-road-glasgow-west-end-34892308",
+        "title": "Busy road in Glasgow west end closed after car ploughs into 'number of pedestrians'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/busy-road-glasgow-west-end-34892308",
+        "description": "The extent of injuries sustained in the crash are unknown as of yet.",
+        "published": "Tue, 10 Nov 2026 16:40:33 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34892356.ece/ALTERNATES/s98/2_Hyndland.png"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/over-60-new-homes-built-34892196",
         "title": "Over 60 new homes to be built near Neilston after project approved",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/over-60-new-homes-built-34892196",
