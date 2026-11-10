@@ -13,6 +13,14 @@
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0705/live/c4462280-dc6e-11f1-a36b-c52bf1cef2c5.jpg"
       },
       {
+        "id": "1794289515456280",
+        "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+        "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+        "description": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
+        "published": "Tue, 10 Nov 2026 06:22:39 +0100",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c11d/live/472ca6e0-dcc6-11f1-a594-d13718d7f889.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo#1",
         "title": "Scientists predict 2026 hottest year on record as climate talks begin",
         "link": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
         "published": "Mon, 05 Oct 2026 13:04:37 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceaa/live/22381b10-c0b2-11f1-bc2e-018d645d8d21.jpg"
-      },
-      {
-        "id": "1791193234775175",
-        "title": "Trump chooses top spy boss to run new AI taskforce",
-        "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-        "description": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
-        "published": "Mon, 05 Oct 2026 12:03:38 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a97/live/e8568220-c056-11f1-ba75-170165fdb734.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -3133,6 +3133,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "402d0eba13df7b997bec5192e9165c83",
+        "title": "Nearly 300 newly qualified paramedics to join Scottish Ambulance Service",
+        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26713502.scottish-ambulance-service-welcoming-280-new-recruits/",
+        "description": "The Scottish Ambulance Service (SAS) is welcoming up to 280 recently qualified recruits this year.",
+        "published": "Tue, 10 Nov 2026 06:00:00 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21692404/?type=app&htype=0"
+      },
+      {
         "id": "09cfa9fc0de564920fe9cc24b955fe45",
         "title": "SNP consider increasing number of judges amid rise in 'serious criminal business'",
         "link": "https://www.heraldscotland.com/news/26712289.snp-consider-increasing-judges-amid-rise-serious-crime/",
@@ -3171,6 +3179,14 @@
         "description": "A council decision to demolish Motherwell Concert Hall is the latest in a long line of culture and leisure closures in the town.",
         "published": "Mon, 09 Nov 2026 23:01:10 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b896/live/fa69c150-dc82-11f1-ba95-5f07efd49f42.jpg"
+      },
+      {
+        "id": "b318a6d84f6b270708072b16e3d5b2b4",
+        "title": "Stagecoach responds after calls for it to be stripped of major bus service",
+        "link": "https://www.glasgowtimes.co.uk/news/26713927.stagecoach-responds-criticism-x74-bus-service/",
+        "description": "Stagecoach has responded to criticism after fewer than half of buses on a major route were reportedly found to be running on time.",
+        "published": "Mon, 09 Nov 2026 20:58:13 +0000",
+        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21693194/?type=app&htype=220"
       },
       {
         "id": "4b30d92158440de1fd3b0a70b5d66496",
