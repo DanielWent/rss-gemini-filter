@@ -3133,6 +3133,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "1f20dfddc7d05fca3cc0a68c46a91d48",
+        "title": "\u00a365m fund aims to turn Scottish university research into high-growth firms",
+        "link": "https://www.heraldscotland.com/news/26712808.new-65m-fund-back-scottish-university-spinouts/",
+        "description": "Scotland's state-owned investment bank is committing up to \u00a365m to a new fund aimed at helping university-backed businesses start, scale and remain in Scotland",
+        "published": "Tue, 10 Nov 2026 04:30:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/21691867/?type=app&htype=0"
+      },
+      {
+        "id": "5024ae1734041a5eabe5bf23397aed40",
+        "title": "The Nvidia spy drama raises a much bigger question for Scotland\u2019s AI ambitions",
+        "link": "https://www.heraldscotland.com/opinion/26710682.nvidia-crisis-raises-questions-scotlands-ai-boom/",
+        "description": "As Scotland attracts billions in data centre investment, who will reap the rewards and who should pay for the infrastructure required?",
+        "published": "Tue, 10 Nov 2026 04:30:00 +0000",
+        "image_url": "https://www.heraldscotland.com/resources/images/20036220/?type=app&htype=0"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c6ev3wvekeevo#0",
         "title": "Motherwell feels like a 'failed project', say residents frustrated by closures",
         "link": "https://www.bbc.co.uk/news/articles/c6ev3wvekeevo?at_medium=RSS&at_campaign=rss",
