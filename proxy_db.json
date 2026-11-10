@@ -3133,6 +3133,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/free-christmas-film-showing-glasgow-34891463",
+        "title": "Free Christmas film showing at Glasgow Winter Wonderland - how to get tickets",
+        "link": "https://www.glasgowlive.co.uk/whats-on/free-christmas-film-showing-glasgow-34891463",
+        "description": "Free tickets are available on a first come first served basis",
+        "published": "Tue, 10 Nov 2026 15:52:18 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34891675.ece/ALTERNATES/s98/0_GMPGlasgowsWinterWonderland-124.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=537475",
+        "title": "Three more charged with terrorism offences related to Palestine Action protest in Glasgow",
+        "link": "https://news.stv.tv/west-central/three-more-charged-with-terrorism-offences-related-to-palestine-action-protest-in-glasgow",
+        "description": "Seven people have now been charged in connection with the protest on Halloween outside the US Consulate",
+        "published": "Tue, 10 Nov 2026 15:42:47 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/03/6694c16f987691dc965a38dd6609abf1-1772544631-1280x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/four-gangsters-jailed-almost-20-34891344",
+        "title": "Four gangsters jailed for almost 20 years after organised crime conviction",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/four-gangsters-jailed-almost-20-34891344",
+        "description": "\"I hope these sentences send a clear message - those involved in serious and organised crime will not get away with it.\"",
+        "published": "Tue, 10 Nov 2026 15:30:14 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34891518.ece/ALTERNATES/s98/2_Men.png"
+      },
+      {
         "id": "21904d3478766e101ce659e1adc6639b",
         "title": "Butcher shop makes incredible comeback just 17 days after 'devastating' shop fire",
         "link": "https://www.glasgowtimes.co.uk/news/26716204.clydebank-butchers-amazing-comeback-devastating-fire/",
