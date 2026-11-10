@@ -3149,6 +3149,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=537533",
+        "title": "Council says its \u2018covered\u2019 for repairs to storm-hit Renfrew Bridge amid ongoing closure",
+        "link": "https://news.stv.tv/west-central/council-says-its-covered-for-repairs-to-storm-hit-renfrew-bridge-amid-ongoing-closure",
+        "description": "Renfrewshire Council has been receiving legal and insurance advice in the wake of damage caused by Storm Boelo",
+        "published": "Tue, 10 Nov 2026 19:13:54 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/13705d3e15e1c9e8454b70adc4ad33a0-1794337915.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=537530",
         "title": "Seven taken to hospital after crash involving car and pedestrians in Glasgow\u2019s West End",
         "link": "https://news.stv.tv/west-central/seven-taken-to-hospital-after-crash-involving-car-and-pedestrians-in-glasgows-west-end",
@@ -3163,14 +3171,6 @@
         "description": "The meat was found in a convenience store alongside rotten meat and has since been sent away for testing to determine what it is.",
         "published": "Tue, 10 Nov 2026 17:42:08 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f420/live/f0d90fa0-dd2d-11f1-ab46-9fae224bbf6f.jpg"
-      },
-      {
-        "id": "9343069",
-        "title": "Car strikes 'a number of pedestrians' on Hyndland Road as emergency services descend on scene",
-        "link": "https://www.glasgowworld.com/news/car-strikes-pedestrians-on-hyndland-road-9343069",
-        "description": "<p>Police Scotland have urged the public to avoid Hyndland Road in Glasgow after a car struck a number of pedestrians, with emergency services at the scene.</p>",
-        "published": "Tue, 10 Nov 2026 17:23:14 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/10/17/18/1000042314.jpeg?width=1200&auto=webp&trim=400%2C0%2C400%2C0"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/c9dr8r8k7mv1o#0",
