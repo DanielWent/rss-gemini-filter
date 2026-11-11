@@ -3165,6 +3165,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/pair-charged-over-high-value-34896996",
+        "title": "Pair charged over \u2018high value fraud\u2019 at Glasgow firm offering will and power of attorney services",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/pair-charged-over-high-value-34896996",
+        "description": "A 55-year-old and a 61-year-old man appeared at Glasgow Sheriff Court on Tuesday.",
+        "published": "Wed, 11 Nov 2026 14:31:10 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34325507.ece/ALTERNATES/s98/0_JS330634601-2.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cwnv4ymv9vrno#0",
         "title": "Hit-and-run driver jailed after killing man while 'full of drink and drugs'",
         "link": "https://www.bbc.co.uk/news/articles/cwnv4ymv9vrno?at_medium=RSS&at_campaign=rss",
@@ -3227,14 +3235,6 @@
         "description": "England and Wales currently offer a more accessible option to deter stalkers.",
         "published": "Wed, 11 Nov 2026 12:34:21 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34895411.ece/ALTERNATES/s98/0_Catjpeg.jpg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=537619",
-        "title": "Driver \u2018full of drink and drugs\u2019 who killed \u2018beloved\u2019 grandfather in hit-and-run jailed",
-        "link": "https://news.stv.tv/west-central/driver-full-of-drink-and-drugs-who-killed-beloved-grandfather-in-hit-and-run-jailed",
-        "description": "Gary Gallacher, 37, was also using his mobile phone moments before he struck James Craig in Hamilton",
-        "published": "Wed, 11 Nov 2026 12:07:24 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2024/11/35b6ac1afd3f1cbfdb161ee4a0e9eec4-1730749071-1120x720.jpeg"
       },
       {
         "id": "9343636",
