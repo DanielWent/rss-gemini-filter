@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1794425414774142",
+        "title": "GB and Wales' Griffiths banned after drug test",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/c8dx16rk2keyo?at_medium=RSS&at_campaign=rss",
+        "description": "Great Britain and Wales athlete Josh Griffiths was banned after returning a positive drugs test in May.",
+        "published": "Wed, 11 Nov 2026 20:03:02 +0100",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9760/live/e1a17690-ddf4-11f1-8445-15eb55286f71.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cw0k0klz2x37o#1",
         "title": "Students passing university assessments in minutes using AI, regulator warns",
         "link": "https://www.bbc.co.uk/news/articles/cw0k0klz2x37o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The tribute recognises Colin Pillinger who led the 2003 probe mission to Mars.",
         "published": "Mon, 05 Oct 2026 16:36:43 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0df6/live/910cc5b0-c0ab-11f1-b72b-c3e328aa18ed.jpg"
-      },
-      {
-        "id": "1791206136106460",
-        "title": "Runner dies after taking part in Cardiff Half Marathon",
-        "link": "https://www.bbc.co.uk/news/articles/ckly038w030wo?at_medium=RSS&at_campaign=rss",
-        "description": "Event organisers confirm a participant has died and thanked medical teams working during the race.",
-        "published": "Mon, 05 Oct 2026 14:37:13 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aef/live/6e37a4b0-c0b5-11f1-babe-4199b0e7ccea.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -3164,6 +3164,14 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://news.stv.tv/?p=537744",
+        "title": "Hyndland Road closed due to \u2018concern for person\u2019 one day after crash",
+        "link": "https://news.stv.tv/west-central/hyndland-road-closed-due-to-concern-for-person-just-one-day-after-crash",
+        "description": "It comes just one day after a crash prompted a major response with six people being taken to hospital",
+        "published": "Wed, 11 Nov 2026 19:49:35 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/21845ce850fd03f916a413cdaeaac4d6-1793898816-1280x720.jpeg"
+      },
       {
         "id": "https://news.stv.tv/?p=537728",
         "title": "Mandatory card payments to come into force for all Glasgow taxi drivers from next year",
