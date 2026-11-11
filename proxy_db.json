@@ -3044,6 +3044,14 @@
     "icon_url": "https://runabc.co.uk/favicon.ico",
     "articles": [
       {
+        "id": "https://runabc.co.uk/great-scottish-run-2027-entries-open-after-record-35000-runners-in-2026",
+        "title": "Great Scottish Run 2027 Entries Open After Record 35,000 Runners In 2026",
+        "link": "https://runabc.co.uk/great-scottish-run-2027-entries-open-after-record-35000-runners-in-2026",
+        "description": "<p><img alt=\"Great Scottish Run 2027\" src=\"https://runabc.co.uk/images/2026/11/great-scottish-run-2027.jpg\" /></p>\n\t\t\t\t<p>After a record 35,000 runners took part in 2026, the Great Scottish Run is preparing for another huge Glasgow weekend on 2-3 October 2027, with entries already open....</p>",
+        "published": "Wed, 11 Nov 2026 07:55:00 +0000",
+        "image_url": "https://runabc.co.uk/images/2026/11/great-scottish-run-2027.jpg"
+      },
+      {
         "id": "https://runabc.co.uk/glasgow-santa-dash-2026-returns-with-festive-5k-for-beatson-cancer-charity",
         "title": "Glasgow Santa Dash 2026 Returns With Festive 5K For Beatson Cancer Charity",
         "link": "https://runabc.co.uk/glasgow-santa-dash-2026-returns-with-festive-5k-for-beatson-cancer-charity",
@@ -3148,6 +3156,30 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://www.glasgowlive.co.uk/news/concerns-raised-over-glasgow-councils-34892191",
+        "title": "Concerns raised over Glasgow council's green targets as millions spent on fuel in five years",
+        "link": "https://www.glasgowlive.co.uk/news/concerns-raised-over-glasgow-councils-34892191",
+        "description": "Glasgow City Council currently owns or operates a total of 1,893 vehicles.",
+        "published": "Wed, 11 Nov 2026 08:05:08 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article29704019.ece/ALTERNATES/s98/0_JS259471510.jpg"
+      },
+      {
+        "id": "https://runabc.co.uk/great-scottish-run-2027-entries-open-after-record-35000-runners-in-2026",
+        "title": "Great Scottish Run 2027 Entries Open After Record 35,000 Runners In 2026",
+        "link": "https://runabc.co.uk/great-scottish-run-2027-entries-open-after-record-35000-runners-in-2026",
+        "description": "<p><img alt=\"Great Scottish Run 2027\" src=\"https://runabc.co.uk/images/2026/11/great-scottish-run-2027.jpg\" /></p>\n\t\t\t\t<p>After a record 35,000 runners took part in 2026, the Great Scottish Run is preparing for another huge Glasgow weekend on 2-3 October 2027, with entries already open....</p>",
+        "published": "Wed, 11 Nov 2026 07:55:00 +0000",
+        "image_url": "https://runabc.co.uk/images/2026/11/great-scottish-run-2027.jpg"
+      },
+      {
+        "id": "9343443",
+        "title": "Glasgow's Hyndland Road reopens after crash leaves eight people injured",
+        "link": "https://www.glasgowworld.com/news/glasgows-hyndland-road-reopens-after-crash-leaves-eight-people-injured-9343459",
+        "description": "<p>Seven people were taken to hospital after the collision in Glasgow\u2019s West End, while the driver was assessed by paramedics at the scene.</p>",
+        "published": "Wed, 11 Nov 2026 07:53:23 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/10/23/cs-0d281326-e35c-4b2d-aab2-8dc3cb91d55c.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/elderly-glasgow-woman-terrorised-home-34890389",
         "title": "Elderly Glasgow woman 'terrorised in own home' by youths ramming front door with e-scooters",
@@ -3307,14 +3339,6 @@
         "description": "Glenalmond College in Perthshire launches the world\u2019s first female-focused entrepreneurship programme with Oxford Sa\u00efd Business School for girls aged 14-17.",
         "published": "Tue, 10 Nov 2026 13:17:53 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21696043/?type=app&htype=0"
-      },
-      {
-        "id": "9341807",
-        "title": "Celtic fan group issue nine-part jibe aimed at Dermot Desmond as AGM request remains unanswered",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-fan-group-issue-9-part-jibe-aimed-at-dermot-desmond-as-agm-request-remains-unanswered-9341807",
-        "description": "<p>Principal shareholder\u2019s presence has been requested at upcoming AGM</p>",
-        "published": "Tue, 10 Nov 2026 13:07:44 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/10/13/22/GettyImages-1491735522-(1).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       },
       {
         "id": "761bec0f4d5f36266fd5396003a45009",
