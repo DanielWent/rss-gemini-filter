@@ -3165,6 +3165,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=537723",
+        "title": "Hyndland Road in Glasgow\u2019s West End closed due to \u2018concern for person\u2019",
+        "link": "https://news.stv.tv/west-central/hyndland-road-in-glasgows-west-end-closed-due-to-concern-for-person",
+        "description": "Hyndland Road in Glasgow is closed between Clarence Drive and Crown Road",
+        "published": "Wed, 11 Nov 2026 18:02:39 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/04/0590399aad5042e71f694d0a318ab448-1775114535-1081x720.jpeg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cr3wvwgq0dyno#0",
         "title": "Armand Van Helden and Faithless to play Ayr's Pavilion dance festival",
         "link": "https://www.bbc.co.uk/news/articles/cr3wvwgq0dyno?at_medium=RSS&at_campaign=rss",
