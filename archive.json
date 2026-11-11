@@ -1,11 +1,5 @@
 {
   "strict": {
-    "1789222809035152": 1789223131.219574,
-    "https://www.bbc.co.uk/news/articles/c7907q4253po?at_medium=RSS&at_campaign=rss": 1789223131.219574,
-    "Tributes to former Labour MSP Cathie Craigie who died after short illness": 1789223131.219574,
-    "1789222809035150": 1789223131.219574,
-    "https://www.bbc.co.uk/news/articles/c7v419e3r4jo?at_medium=RSS&at_campaign=rss": 1789223131.219574,
-    "Life after Eurovision for Look Mum No Computer": 1789223131.219574,
     "1789224315256554": 1789224932.4505622,
     "https://www.bbc.co.uk/news/articles/c783zmxe44ko?at_medium=RSS&at_campaign=rss": 1789224932.4505622,
     "Hundreds attend Glasgow Green anti-immigration and counter protests": 1789224932.4505622,
@@ -14921,12 +14915,18 @@
     "Four grizzly bears killed in Canada after fatal attack on mother and daughter": 1794405335.6961522,
     "1794404419429595": 1794405335.6961522,
     "https://www.bbc.co.uk/news/articles/c87470q4w21o?at_medium=RSS&at_campaign=rss": 1794405335.6961522,
-    "What are cold weather payments and who can get them?": 1794405335.6961522
+    "What are cold weather payments and who can get them?": 1794405335.6961522,
+    "1794405924484274": 1794407143.6409733,
+    "https://www.bbc.co.uk/news/articles/c699e0mk1m3vo?at_medium=RSS&at_campaign=rss": 1794407143.6409733,
+    "Man who posed as medical student at hospital sentenced to community service": 1794407143.6409733,
+    "1794405924484271": 1794407143.6409733,
+    "https://www.bbc.co.uk/news/articles/cmx28e95g2rzo?at_medium=RSS&at_campaign=rss": 1794407143.6409733,
+    "Scottish man confirmed as victim of Krakow shooting": 1794407143.6409733,
+    "1794405924484266": 1794407143.6409733,
+    "https://www.bbc.co.uk/news/articles/c6d91d7pk3djo?at_medium=RSS&at_campaign=rss": 1794407143.6409733,
+    "Man caught with \u00a32.6m of cocaine among Santa gift bags jailed": 1794407143.6409733
   },
   "lenient": {
-    "https://www.bbc.co.uk/news/articles/cvgydvrlep1o#3": 1789223131.219574,
-    "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss": 1789223131.219574,
-    "Record heatwaves in France set to make champagne stronger": 1789223131.219574,
     "https://www.bbc.co.uk/news/articles/cn450jwvw9do#3": 1789224932.4505622,
     "https://www.bbc.co.uk/news/articles/cn450jwvw9do?at_medium=RSS&at_campaign=rss": 1789224932.4505622,
     "Rival protests in Portsmouth as face masks banned": 1789224932.4505622,
@@ -22885,7 +22885,10 @@
     "Scottish man confirmed as victim of Krakow shooting": 1794405335.6961522,
     "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o#4": 1794405335.6961522,
     "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss": 1794405335.6961522,
-    "Hundreds of Italian schools hit by threats in suspected bomb hoax": 1794405335.6961522
+    "Hundreds of Italian schools hit by threats in suspected bomb hoax": 1794405335.6961522,
+    "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo#4": 1794407143.6409733,
+    "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss": 1794407143.6409733,
+    "Four grizzly bears killed in Canada after fatal attack on mother and daughter": 1794407143.6409733
   },
   "google": {
     "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/": 1789489533.9910789,
@@ -23877,7 +23880,10 @@
     "Pixel Watch 5 upgrade guide \u2013 most owners should stay": 1794396345.0755265,
     "https://the5krunner.com/?p=143357": 1794405335.6961522,
     "https://the5krunner.com/2026/11/11/kineon-move-discount-code/": 1794405335.6961522,
-    "Kineon MOVE+ Discount Code and Best Deal": 1794405335.6961522
+    "Kineon MOVE+ Discount Code and Best Deal": 1794405335.6961522,
+    "https://the5krunner.com/?p=142927": 1794407143.6409733,
+    "https://the5krunner.com/2026/11/11/fitbit-air-theres-only-one-independent-band-for-it-on-google-store/": 1794407143.6409733,
+    "Fitbit Air \u2013 only one third-party band is on Google Store": 1794407143.6409733
   },
   "grassroots_running": {
     "1789462505094399": 1789462534.413974,
@@ -23993,9 +23999,6 @@
     "Chow Yun-fat Is 71 and Runs 5K Every Morning, and His Half Marathon Times Keep Getting Faster": 1794399945.0553315
   },
   "glasgow_times": {
-    "4bb0096bccb116e5f91fa72877d7b9de": 1789223131.219574,
-    "https://www.glasgowtimes.co.uk/news/26545090.glasgow-city-council-spent-project-scrapped-within-year/": 1789223131.219574,
-    "Council spent \u00a377k on project only to scrap it within a year": 1789223131.219574,
     "e834811aaa20e5d00d7f282f600ef0ca": 1789228289.2091804,
     "https://www.glasgowtimes.co.uk/news/26545239.dundee-united-squad-spotted-dining-glasgow-restaurant/": 1789228289.2091804,
     "Glasgow restaurant welcomes Scottish Premiership team's entire squad": 1789228289.2091804,
@@ -29976,30 +29979,6 @@
     "Great Scottish Run 2027 Entries Open After Record 35,000 Runners In 2026": 1794385540.1456552
   },
   "newsletter_candidates": {
-    "4bb0096bccb116e5f91fa72877d7b9de": 1789223131.219574,
-    "https://www.glasgowtimes.co.uk/news/26545090.glasgow-city-council-spent-project-scrapped-within-year/": 1789223131.219574,
-    "Council spent \u00a377k on project only to scrap it within a year": 1789223131.219574,
-    "https://www.bbc.co.uk/news/articles/c7907q4253po#0": 1789223131.219574,
-    "https://www.bbc.co.uk/news/articles/c7907q4253po?at_medium=RSS&at_campaign=rss": 1789223131.219574,
-    "Tributes to former Labour MSP Cathie Craigie who died after short illness": 1789223131.219574,
-    "e5e82a95326d966376db6f90f78adaf4": 1789223131.219574,
-    "https://www.heraldscotland.com/news/26545118.emergency-services-attend-ongoing-incident-armadale/": 1789223131.219574,
-    "Emergency services attend ongoing incident in West Lothian town": 1789223131.219574,
-    "da1b271e592dc66cdf3661c5590f3c57": 1789223131.219574,
-    "https://www.heraldscotland.com/news/26545085.hundreds-gather-glasgow-green-protests/": 1789223131.219574,
-    "Hundreds gather in Glasgow for anti-immigration rally and counter protest": 1789223131.219574,
-    "e8eeacc84575a8ce8e3c0b85e28dc044": 1789223131.219574,
-    "https://www.heraldscotland.com/news/26545035.community-engagement-get-underway-orkney-world-heritage-site/": 1789223131.219574,
-    "Community engagement to get underway on future plans for world heritage site": 1789223131.219574,
-    "35af616cf1fc500c595ad1e560d07c77": 1789223131.219574,
-    "https://www.heraldscotland.com/news/26544965.glasgow-diy-music-festival-freakender-returns-10th-birthday/": 1789223131.219574,
-    "Glasgow DIY music festival Freakender returns for 10th birthday edition": 1789223131.219574,
-    "https://www.glasgowlive.co.uk/news/glasgow-news/hundreds-descend-pink-ladies-protest-34608347": 1789223131.219574,
-    "Hundreds descend for 'Pink Ladies protest' at Glasgow Green amid counter-demonstrations": 1789223131.219574,
-    "https://www.glasgowlive.co.uk/news/glasgow-news/vile-anti-islam-graffiti-sprayed-34605493": 1789223131.219574,
-    "Vile anti-Islam graffiti sprayed at Glasgow station as anti-hate group appeal to locals for help": 1789223131.219574,
-    "https://www.glasgowlive.co.uk/news/history/annackers-midden-old-glasgow-words-21792636": 1789223131.219574,
-    "Go-bi-the-waw and 50 more Glasgow words and phrases you rarely hear nowadays": 1789223131.219574,
     "https://news.stv.tv/?p=528912": 1789224932.4505622,
     "https://news.stv.tv/west-central/hundreds-gather-at-glasgow-green-protests": 1789224932.4505622,
     "Hundreds gather at Glasgow Green protests": 1789224932.4505622,
@@ -47678,7 +47657,19 @@
     "Scotland remembers the fallen on Armistice Day": 1794405335.6961522,
     "9344746": 1794405335.6961522,
     "https://www.glasgowworld.com/must-read/report-claims-more-than-80-per-cent-of-uk-councils-face-ev-charging-capacity-bottlenecks-9344746": 1794405335.6961522,
-    "Report claims more than 80 per cent of UK councils face EV charging capacity bottlenecks": 1794405335.6961522
+    "Report claims more than 80 per cent of UK councils face EV charging capacity bottlenecks": 1794405335.6961522,
+    "https://news.stv.tv/?p=537644": 1794407143.6409733,
+    "https://news.stv.tv/west-central/two-men-charged-with-fraud-offences-linked-to-glasgow-company": 1794407143.6409733,
+    "Two men charged with fraud offences linked to Glasgow company": 1794407143.6409733,
+    "https://www.bbc.co.uk/news/articles/cwnv4ymv9vrno#0": 1794407143.6409733,
+    "https://www.bbc.co.uk/news/articles/cwnv4ymv9vrno?at_medium=RSS&at_campaign=rss": 1794407143.6409733,
+    "Hit-and-run driver jailed after killing man while 'full of drink and drugs'": 1794407143.6409733,
+    "https://www.glasgowlive.co.uk/news/glasgow-news/ayrshire-mum-fighting-cancer-defies-34896765": 1794407143.6409733,
+    "Ayrshire mum fighting cancer defies odds and falls pregnant while studying to be a nurse": 1794407143.6409733,
+    "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-man-kicked-dragged-dog-34896844": 1794407143.6409733,
+    "Glasgow man kicked and dragged dog in 'heartbreaking' case of abuse": 1794407143.6409733,
+    "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-drug-dealers-who-flaunted-34896222": 1794407143.6409733,
+    "Glasgow drug dealers who 'flaunted' criminal wealth online jailed for almost 45 years": 1794407143.6409733
   },
   "glasgow_live": {},
   "glasgow_world": {
