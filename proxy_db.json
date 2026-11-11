@@ -3165,6 +3165,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=537728",
+        "title": "Mandatory card payments to come into force for all Glasgow taxi drivers from next year",
+        "link": "https://news.stv.tv/west-central/mandatory-card-payments-to-come-into-force-for-all-glasgow-taxi-drivers-from-next-year",
+        "description": "The change follows a consultation where over 83% of people asked supported introducing card payments",
+        "published": "Wed, 11 Nov 2026 18:34:58 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/c04fc73b936e54dfa3edc697e421eea9-1794421811-1280x720.jpeg"
+      },
+      {
         "id": "https://news.stv.tv/?p=537723",
         "title": "Hyndland Road in Glasgow\u2019s West End closed due to \u2018concern for person\u2019",
         "link": "https://news.stv.tv/west-central/hyndland-road-in-glasgows-west-end-closed-due-to-concern-for-person",
@@ -3203,14 +3211,6 @@
         "description": "A new 3G pitch and changing rooms are included in Knightswood Football Club's plan.",
         "published": "Wed, 11 Nov 2026 15:16:58 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34897593.ece/ALTERNATES/s98/0_yokerpitch.png"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-taxi-drivers-accept-card-34897455",
-        "title": "Glasgow taxi drivers have to accept card payments from February 2027",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-taxi-drivers-accept-card-34897455",
-        "description": "Any driver granted a new licence, or a renewal, from February 1 next year will need to carry a card reader.",
-        "published": "Wed, 11 Nov 2026 15:02:37 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33443077.ece/ALTERNATES/s98/0_GettyImages-1928129223.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/pair-charged-over-high-value-34896996",
