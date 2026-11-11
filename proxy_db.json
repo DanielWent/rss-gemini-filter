@@ -3149,6 +3149,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/elderly-glasgow-woman-terrorised-home-34890389",
+        "title": "Elderly Glasgow woman 'terrorised in own home' by youths ramming front door with e-scooters",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/elderly-glasgow-woman-terrorised-home-34890389",
+        "description": "The young teens left the woman, who is in her late 70s, \"inconsolable\" after they rammed her front door with e-scooters last week in an attack she feared was a break-in.",
+        "published": "Wed, 11 Nov 2026 07:16:49 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34890550.ece/ALTERNATES/s98/3_Youths.png"
+      },
+      {
+        "id": "https://news.stv.tv/?p=537550",
+        "title": "Podcaster James English to be sentenced for domestic abuse",
+        "link": "https://news.stv.tv/west-central/podcaster-james-english-to-be-sentenced-for-domestic-abuse",
+        "description": "He was convicted of several allegations on the single charge following a trial at Glasgow Sheriff Court.",
+        "published": "Wed, 11 Nov 2026 07:14:29 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/4d737acf276ead44af60bad69a5d6ed0-1794380886-1200x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-average-property-price-84k-34891039",
+        "title": "Glasgow average property price \u00a384K lower than cost of building new social house",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-average-property-price-84k-34891039",
+        "description": "Work is underway to try and reduce the costs of delivering new social homes.",
+        "published": "Wed, 11 Nov 2026 07:14:03 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34891114.ece/ALTERNATES/s98/0_socialhousingjpeg.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cmn8w8n5ynq2o#0",
         "title": "Bid to restore rare Atlantic rainforest secures \u00a36m lottery grant",
         "link": "https://www.bbc.co.uk/news/articles/cmn8w8n5ynq2o?at_medium=RSS&at_campaign=rss",
