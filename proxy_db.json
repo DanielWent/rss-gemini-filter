@@ -814,20 +814,20 @@
     "description": "AI Filtered Google Blog Updates.",
     "articles": [
       {
+        "id": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+        "title": "Talk it through with Gemini, now on Apple CarPlay",
+        "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+        "description": "an MP4 video of Gemini in Apple CarPlay",
+        "published": "Wed, 11 Nov 2026 17:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Carplay_hero_image.max-600x600.format-webp.webp"
+      },
+      {
         "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
         "title": "Introducing the Multimodal Knowledge Agent benchmark",
         "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/",
         "description": "Text \"Visual Knowledge Work\" next to the Gemini 4 logo and an illustration of documents",
         "published": "Tue, 10 Nov 2026 16:00:00 +0000",
         "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/01_Hero_MKA_Benchmark_2784x1566.png"
-      },
-      {
-        "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-        "title": "Gemini 4 Carbon is now available",
-        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-        "description": "an illustrated carbon with several number 4's around it",
-        "published": "Tue, 10 Nov 2026 16:00:00 +0000",
-        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lo.max-600x600.format-webp.webp"
       },
       {
         "id": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
@@ -3164,6 +3164,14 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cr3wvwgq0dyno#0",
+        "title": "Armand Van Helden and Faithless to play Ayr's Pavilion dance festival",
+        "link": "https://www.bbc.co.uk/news/articles/cr3wvwgq0dyno?at_medium=RSS&at_campaign=rss",
+        "description": "Festival co-founder Ewan McVicar will top the bill on Saturday 1 May, with Van Helden headlining the next night.",
+        "published": "Wed, 11 Nov 2026 17:19:36 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d5/live/22d2f1f0-ddf2-11f1-bb8c-51310f5678ed.jpg"
+      },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-admits-fatally-stabbing-mum-34897857",
         "title": "Man admits fatally stabbing mum Sandie Butler in Glasgow street disturbance",
