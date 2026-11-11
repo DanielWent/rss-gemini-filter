@@ -3165,6 +3165,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=537669",
+        "title": "Killer admits stabbing mum-of-three in Glasgow street attack",
+        "link": "https://news.stv.tv/west-central/killer-admits-stabbing-mum-of-three-in-glasgow-street-attack",
+        "description": "Sandie Butler was stabbed in the chest during an incident in Townhead on October 29, 2024.",
+        "published": "Wed, 11 Nov 2026 15:21:55 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2024/10/693d9b3cb4c2f986b73222a3ff22844d-1730316326-1120x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-football-pitch-redeveloped-after-34897569",
+        "title": "Glasgow football pitch to be redeveloped after club's plan gets green light",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-football-pitch-redeveloped-after-34897569",
+        "description": "A new 3G pitch and changing rooms are included in Knightswood Football Club's plan.",
+        "published": "Wed, 11 Nov 2026 15:16:58 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34897593.ece/ALTERNATES/s98/0_yokerpitch.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-taxi-drivers-accept-card-34897455",
+        "title": "Glasgow taxi drivers have to accept card payments from February 2027",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-taxi-drivers-accept-card-34897455",
+        "description": "Any driver granted a new licence, or a renewal, from February 1 next year will need to carry a card reader.",
+        "published": "Wed, 11 Nov 2026 15:02:37 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33443077.ece/ALTERNATES/s98/0_GettyImages-1928129223.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/pair-charged-over-high-value-34896996",
         "title": "Pair charged over \u2018high value fraud\u2019 at Glasgow firm offering will and power of attorney services",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/pair-charged-over-high-value-34896996",
@@ -3187,14 +3211,6 @@
         "description": "The gangsters boasted of their wealth from supplying drugs on social media, spending hundreds of thousands of pounds on supercars including a McLaren.",
         "published": "Wed, 11 Nov 2026 14:04:52 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34896598.ece/ALTERNATES/s98/0_Saad.jpg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=537644",
-        "title": "Two men charged with fraud offences linked to Glasgow company",
-        "link": "https://news.stv.tv/west-central/two-men-charged-with-fraud-offences-linked-to-glasgow-company",
-        "description": "Police received reports of fraudulent will and power of attorney services conducted over a six-year period",
-        "published": "Wed, 11 Nov 2026 14:03:01 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/21845ce850fd03f916a413cdaeaac4d6-1793898816-1280x720.jpeg"
       },
       {
         "id": "9344746",
@@ -3395,14 +3411,6 @@
         "description": "The new summer seasonal route will commence next May, providing easy direct access to one of the best destinations the French Riviera has to offer.",
         "published": "Tue, 10 Nov 2026 15:55:31 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34891821.ece/ALTERNATES/s98/2_Nice.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/free-christmas-film-showing-glasgow-34891463",
-        "title": "Free Christmas film showing at Glasgow Winter Wonderland - how to get tickets",
-        "link": "https://www.glasgowlive.co.uk/whats-on/free-christmas-film-showing-glasgow-34891463",
-        "description": "Free tickets are available on a first come first served basis",
-        "published": "Tue, 10 Nov 2026 15:52:18 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34891675.ece/ALTERNATES/s98/0_GMPGlasgowsWinterWonderland-124.jpg"
       },
       {
         "id": "https://news.stv.tv/?p=537475",
