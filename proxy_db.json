@@ -3165,20 +3165,20 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-admits-fatally-stabbing-mum-34897857",
+        "title": "Man admits fatally stabbing mum Sandie Butler in Glasgow street disturbance",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-admits-fatally-stabbing-mum-34897857",
+        "description": "Mum Sandie, 40, died following the incident in Glasgow's Townhead.",
+        "published": "Wed, 11 Nov 2026 15:59:44 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article30265825.ece/ALTERNATES/s98/1_sandie-butler.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=537643",
         "title": "Man caught kicking and dragging dog while already banned from owning animals",
         "link": "https://news.stv.tv/west-central/man-caught-kicking-and-dragging-dog-while-already-banned-from-owning-animals",
         "description": "Grzegorz Bieniek was reported to the Scottish SPCA after witnesses saw him being violent to  Kaiser out in public.",
         "published": "Wed, 11 Nov 2026 15:35:24 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/0aed52247bcbb2b3a273e4b63e94af66-1794410890-1120x720.jpeg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=537669",
-        "title": "Killer admits stabbing mum-of-three in Glasgow street attack",
-        "link": "https://news.stv.tv/west-central/killer-admits-stabbing-mum-of-three-in-glasgow-street-attack",
-        "description": "Sandie Butler was stabbed in the chest during an incident in Townhead on October 29, 2024.",
-        "published": "Wed, 11 Nov 2026 15:21:55 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2024/10/693d9b3cb4c2f986b73222a3ff22844d-1730316326-1120x720.jpeg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-football-pitch-redeveloped-after-34897569",
