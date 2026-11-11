@@ -3157,6 +3157,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/rare-opportunity-buy-lidl-store-34895316",
+        "title": "'Rare opportunity' to buy Lidl store in affluent area near Glasgow for \u00a37million",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/rare-opportunity-buy-lidl-store-34895316",
+        "description": "The prime standalone supermarket, with 77 parking spaces, is leased to Lidl until 2041.",
+        "published": "Wed, 11 Nov 2026 11:49:05 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34895473.ece/ALTERNATES/s98/1_Lidl-Giffnock-McAteer.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/schools-across-scotland-sent-bomb-34894777",
+        "title": "Schools across Scotland sent hoax 'bomb threats' as police advise not to evacuate",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/schools-across-scotland-sent-bomb-34894777",
+        "description": "Today's messages are being treated as a hoax.",
+        "published": "Wed, 11 Nov 2026 11:21:49 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34895136.ece/ALTERNATES/s98/0_gettyimages-1385496949-170667a.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=537609",
         "title": "Podcaster convicted of domestic abuse to be considered for behaviour programme",
         "link": "https://news.stv.tv/west-central/podcaster-convicted-of-domestic-abuse-to-be-considered-for-behaviour-programme",
@@ -3211,14 +3227,6 @@
         "description": "The young teens left the woman, who is in her late 70s, \"inconsolable\" after they rammed her front door with e-scooters last week in an attack she feared was a break-in.",
         "published": "Wed, 11 Nov 2026 07:16:49 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34890550.ece/ALTERNATES/s98/3_Youths.png"
-      },
-      {
-        "id": "https://news.stv.tv/?p=537550",
-        "title": "Podcaster James English to be sentenced for domestic abuse",
-        "link": "https://news.stv.tv/west-central/podcaster-james-english-to-be-sentenced-for-domestic-abuse",
-        "description": "He was convicted of several allegations on the single charge following a trial at Glasgow Sheriff Court.",
-        "published": "Wed, 11 Nov 2026 07:14:29 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/4d737acf276ead44af60bad69a5d6ed0-1794380886-1200x720.jpeg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-average-property-price-84k-34891039",
