@@ -3165,6 +3165,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/ayrshire-dj-shot-dead-krakow-34896082",
+        "title": "Ayrshire DJ shot dead in Krakow as Scot named as one of six people killed in attack",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/ayrshire-dj-shot-dead-krakow-34896082",
+        "description": "32-year-old James Thomas Campbell, from Prestwick, was one of six people shot dead on Saturday.",
+        "published": "Wed, 11 Nov 2026 12:49:53 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34896110.ece/ALTERNATES/s98/2_James.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-woman-calls-better-access-34895435",
+        "title": "Glasgow woman calls for better access to non-harassment orders to aid Scots stalking victims",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-woman-calls-better-access-34895435",
+        "description": "England and Wales currently offer a more accessible option to deter stalkers.",
+        "published": "Wed, 11 Nov 2026 12:34:21 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34895411.ece/ALTERNATES/s98/0_Catjpeg.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=537619",
         "title": "Driver \u2018full of drink and drugs\u2019 who killed \u2018beloved\u2019 grandfather in hit-and-run jailed",
         "link": "https://news.stv.tv/west-central/driver-full-of-drink-and-drugs-who-killed-beloved-grandfather-in-hit-and-run-jailed",
