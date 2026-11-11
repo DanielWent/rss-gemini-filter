@@ -3165,6 +3165,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=537743",
+        "title": "Concerns raised over \u00a32,500 support grant for Renfrewshire businesses flooded during Storm Boelo",
+        "link": "https://news.stv.tv/west-central/concerns-raised-over-2500-support-grant-for-renfrewshire-businesses-flooded-during-storm-boelo",
+        "description": "Estimated losses suffered by traders during Storm Boelo range in value from \u00a32,000 to \u00a3300,000",
+        "published": "Wed, 11 Nov 2026 20:08:15 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/e4bfe8ecafe38162e4d3c74a1d9fd0c7-1793046184-1280x720.jpeg"
+      },
+      {
         "id": "https://news.stv.tv/?p=537744",
         "title": "Hyndland Road closed due to \u2018concern for person\u2019 one day after crash",
         "link": "https://news.stv.tv/west-central/hyndland-road-closed-due-to-concern-for-person-just-one-day-after-crash",
@@ -3179,14 +3187,6 @@
         "description": "The change follows a consultation where over 83% of people asked supported introducing card payments",
         "published": "Wed, 11 Nov 2026 18:34:58 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/c04fc73b936e54dfa3edc697e421eea9-1794421811-1280x720.jpeg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=537723",
-        "title": "Hyndland Road in Glasgow\u2019s West End closed due to \u2018concern for person\u2019",
-        "link": "https://news.stv.tv/west-central/hyndland-road-in-glasgows-west-end-closed-due-to-concern-for-person",
-        "description": "Hyndland Road in Glasgow is closed between Clarence Drive and Crown Road",
-        "published": "Wed, 11 Nov 2026 18:02:39 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/04/0590399aad5042e71f694d0a318ab448-1775114535-1081x720.jpeg"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/cr3wvwgq0dyno#0",
