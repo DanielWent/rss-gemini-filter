@@ -3157,6 +3157,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=537609",
+        "title": "Podcaster convicted of domestic abuse to be considered for behaviour programme",
+        "link": "https://news.stv.tv/west-central/podcaster-convicted-of-domestic-abuse-to-be-considered-for-behaviour-programme",
+        "description": "Sentencing has been postponed until next month for a report",
+        "published": "Wed, 11 Nov 2026 11:16:23 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/9a99eeb7b4700ad6383c73bb06256ddc-1794395764-959x720.jpg"
+      },
+      {
+        "id": "9344090",
+        "title": "Police investigate as Glasgow schools targeted by 'hoax' school bomb threats",
+        "link": "https://www.glasgowworld.com/news/glasgow-schools-receive-hoax-threats-9344090",
+        "description": "<p>Police Scotland confirmed the latest school bomb emails sent to schools across the country have been confirmed as a hoax</p>",
+        "published": "Wed, 11 Nov 2026 11:13:16 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/10/18/cs-7f2029ff-f158-4380-b318-e3d2ce6bdbe7.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/musician-who-showed-support-rapist-34894582",
         "title": "Musician who showed support for rapist Russell Brand has Glasgow gig cancelled",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/musician-who-showed-support-rapist-34894582",
@@ -3173,14 +3189,6 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34893688.ece/ALTERNATES/s98/1_Screenshot-2026-11-11-083241.png"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/c3ly7wdll24go#0",
-        "title": "Four children and two adults in hospital after car mounts pavement",
-        "link": "https://www.bbc.co.uk/news/articles/c3ly7wdll24go?at_medium=RSS&at_campaign=rss",
-        "description": "The car, which was driven by a 29-year-old man, hit a bus stop and scaffolding on Hyndland Road, Glasgow, before coming to a halt.",
-        "published": "Wed, 11 Nov 2026 10:27:32 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf7e/live/2c567c40-dd9f-11f1-9300-17f869f4b225.jpg"
-      },
-      {
         "id": "https://www.glasgowlive.co.uk/news/concerns-raised-over-glasgow-councils-34892191",
         "title": "Concerns raised over Glasgow council's green targets as millions spent on fuel in five years",
         "link": "https://www.glasgowlive.co.uk/news/concerns-raised-over-glasgow-councils-34892191",
@@ -3195,14 +3203,6 @@
         "description": "<p><img alt=\"Great Scottish Run 2027\" src=\"https://runabc.co.uk/images/2026/11/great-scottish-run-2027.jpg\" /></p>\n\t\t\t\t<p>After a record 35,000 runners took part in 2026, the Great Scottish Run is preparing for another huge Glasgow weekend on 2-3 October 2027, with entries already open....</p>",
         "published": "Wed, 11 Nov 2026 07:55:00 +0000",
         "image_url": "https://runabc.co.uk/images/2026/11/great-scottish-run-2027.jpg"
-      },
-      {
-        "id": "9343443",
-        "title": "Glasgow's Hyndland Road reopens after crash leaves eight people injured",
-        "link": "https://www.glasgowworld.com/news/glasgows-hyndland-road-reopens-after-crash-leaves-eight-people-injured-9343459",
-        "description": "<p>Seven people were taken to hospital after the collision in Glasgow\u2019s West End, while the driver was assessed by paramedics at the scene.</p>",
-        "published": "Wed, 11 Nov 2026 07:53:23 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/10/23/cs-0d281326-e35c-4b2d-aab2-8dc3cb91d55c.jpg?width=1200&auto=webp&crop=3%3A2"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/elderly-glasgow-woman-terrorised-home-34890389",
@@ -3547,14 +3547,6 @@
         "description": "Welcome to The Herald's Business live blog, where we\u2019ll be bringing you the latest developments from across Scotland\u2019s business industry.",
         "published": "Tue, 10 Nov 2026 10:29:01 +0000",
         "image_url": "https://www.heraldscotland.com/resources/images/21616153/?type=app&htype=0"
-      },
-      {
-        "id": "e05b2d20a1d95feae582fd69c6cf6ba2",
-        "title": "Glasgow Christmas market to show festive film for free as wider programme announced",
-        "link": "https://www.glasgowtimes.co.uk/news/26714746.glasgow-green-christmas-market-screening-film-free/",
-        "description": "Glasgow Winter Wonderland will show Santa Claus 2 for free in December.",
-        "published": "Tue, 10 Nov 2026 10:26:58 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21694401/?type=app&htype=0"
       },
       {
         "id": "f6b540b1f913910ff5ffafd0351c39fd",
