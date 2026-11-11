@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cw0k0klz2x37o#1",
+        "title": "Students passing university assessments in minutes using AI, regulator warns",
+        "link": "https://www.bbc.co.uk/news/articles/cw0k0klz2x37o?at_medium=RSS&at_campaign=rss",
+        "description": "The Office for Students says students can frequently use AI \"in ways that cannot be reliably detected\".",
+        "published": "Wed, 11 Nov 2026 00:21:21 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d6f/live/4efd2060-dd2b-11f1-ab46-9fae224bbf6f.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o#4",
         "title": "Oxford museum returns ancestral  Naga skulls to India",
         "link": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Event organisers confirm a participant has died and thanked medical teams working during the race.",
         "published": "Mon, 05 Oct 2026 14:37:13 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7aef/live/6e37a4b0-c0b5-11f1-babe-4199b0e7ccea.jpg"
-      },
-      {
-        "id": "1791231623488944",
-        "title": "Nobel Prize awarded for revealing inner workings of the brain",
-        "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-        "description": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
-        "published": "Mon, 05 Oct 2026 13:04:37 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceaa/live/22381b10-c0b2-11f1-bc2e-018d645d8d21.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
