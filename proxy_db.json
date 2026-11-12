@@ -3173,6 +3173,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/marshals-guard-new-glasgow-night-34903333",
+        "title": "Marshals to guard new Glasgow night bus stops in bid to cut anti-social behaviour",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/marshals-guard-new-glasgow-night-34903333",
+        "description": "Currently bus passenger numbers are \"low\" at night.",
+        "published": "Thu, 12 Nov 2026 16:32:01 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34903370.ece/ALTERNATES/s98/0_bushubs.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/renfrew-bridge-reopening-timescales-raised-34903331",
         "title": "Renfrew Bridge reopening timescales raised as it remains out-of-use due to storm damage",
         "link": "https://www.glasgowlive.co.uk/news/renfrew-bridge-reopening-timescales-raised-34903331",
