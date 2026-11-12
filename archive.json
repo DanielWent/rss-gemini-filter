@@ -1,14 +1,5 @@
 {
   "strict": {
-    "1789318820219720": 1789319772.5925834,
-    "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss": 1789319772.5925834,
-    "Foden dismissed in derby - but did he deserve it?": 1789319772.5925834,
-    "1789318820219713": 1789319772.5925834,
-    "https://www.bbc.co.uk/sport/football/articles/c624d3g15e9o?at_medium=RSS&at_campaign=rss": 1789319772.5925834,
-    "Man Utd protest against ownership before derby": 1789319772.5925834,
-    "1789320312299800": 1789320332.833664,
-    "https://www.bbc.co.uk/sport/football/articles/c7v48v2729yo?at_medium=RSS&at_campaign=rss": 1789320332.833664,
-    "Did O'Neill get team selection wrong in Old Firm defeat?": 1789320332.833664,
     "1789321813610882": 1789322135.5500915,
     "https://www.bbc.co.uk/sport/football/articles/c2kwpk5zy23o?at_medium=RSS&at_campaign=rss": 1789322135.5500915,
     "Foden sees red as Mainoo impresses - Manchester derby ratings": 1789322135.5500915,
@@ -15047,7 +15038,16 @@
     "Eight killed in Colombian air strike targeting Gulf Clan gang": 1794502537.9905198,
     "1794501920219134": 1794502537.9905198,
     "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss": 1794502537.9905198,
-    "How AI visionary Jensen Huang was undone by his own bad decisions": 1794502537.9905198
+    "How AI visionary Jensen Huang was undone by his own bad decisions": 1794502537.9905198,
+    "1794503418209057": 1794504346.388607,
+    "https://www.bbc.co.uk/news/articles/c804wp9013kvo?at_medium=RSS&at_campaign=rss": 1794504346.388607,
+    "Fourteen dead after truck loses control in 23-vehicle crash in UAE": 1794504346.388607,
+    "1794503418209056": 1794504346.388607,
+    "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss": 1794504346.388607,
+    "Pentagon backs war memorial guard who reprimanded Hegseth's group": 1794504346.388607,
+    "1794503418209051": 1794504346.388607,
+    "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss": 1794504346.388607,
+    "Five new miniature frog species found in eastern Himalayas": 1794504346.388607
   },
   "lenient": {
     "https://www.bbc.co.uk/news/articles/c62ml4lp6jlo#1": 1789322135.5500915,
@@ -23038,7 +23038,13 @@
     "Eight killed in Colombian air strike targeting Gulf Clan gang": 1794502537.9905198,
     "https://www.bbc.co.uk/sport/football/articles/ckedq01zve04o#8": 1794502537.9905198,
     "https://www.bbc.co.uk/sport/football/articles/ckedq01zve04o?at_medium=RSS&at_campaign=rss": 1794502537.9905198,
-    "Owono undecided over future following De Miguel death": 1794502537.9905198
+    "Owono undecided over future following De Miguel death": 1794502537.9905198,
+    "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo#1": 1794504346.388607,
+    "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo?at_medium=RSS&at_campaign=rss": 1794504346.388607,
+    "Washington DC shooting leaves one dead, four injured as suspect dies after standoff": 1794504346.388607,
+    "https://www.bbc.co.uk/news/articles/c804wp9013kvo#4": 1794504346.388607,
+    "https://www.bbc.co.uk/news/articles/c804wp9013kvo?at_medium=RSS&at_campaign=rss": 1794504346.388607,
+    "Fourteen dead after truck loses control in 23-vehicle crash in UAE": 1794504346.388607
   },
   "google": {
     "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/": 1789489533.9910789,
@@ -23116,7 +23122,9 @@
     "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/": 1794417946.003852,
     "Talk it through with Gemini, now on Apple CarPlay": 1794417946.003852,
     "https://blog.google/innovation-and-ai/technology/safety-security/intelligent-eyewear-privacy-protections/": 1794493545.9227636,
-    "Designing for privacy on intelligent eyewear": 1794493545.9227636
+    "Designing for privacy on intelligent eyewear": 1794493545.9227636,
+    "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/": 1794504346.388607,
+    "Get quick answers from Gemini on any website.": 1794504346.388607
   },
   "google_sports": {
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/": 1789494938.2148917,
@@ -24063,7 +24071,10 @@
     "Runna on Apple Watch \u2013 its own app beats Apple Workouts": 1794488141.4436052,
     "https://the5krunner.com/?p=143675": 1794500740.4656289,
     "https://the5krunner.com/2026/11/12/suunto-finland/": 1794500740.4656289,
-    "Suunto quits Finland (mostly)": 1794500740.4656289
+    "Suunto quits Finland (mostly)": 1794500740.4656289,
+    "https://the5krunner.com/?p=143688": 1794504346.388607,
+    "https://the5krunner.com/2026/11/12/quick-read-runna-plan-updates/": 1794504346.388607,
+    "QUICK READ: Runna caps seven-day plans to cut injuries": 1794504346.388607
   },
   "grassroots_running": {
     "1789462505094399": 1789462534.413974,
@@ -30096,12 +30107,6 @@
     "Beecraigs Festive Handicap Celebrates 40 Years Of Boxing Day Running": 1794471942.2399642
   },
   "newsletter_candidates": {
-    "9022453": 1789319772.5925834,
-    "https://www.glasgowworld.com/recommended/lego-duplo-toddler-learning-skills-play-9022493": 1789319772.5925834,
-    "Your toddler may be learning these 6 things while they play with LEGO DUPLO": 1789319772.5925834,
-    "a51354f8c021081858a11ab5aacb5037": 1789320332.833664,
-    "https://www.heraldscotland.com/news/26546352.four-arrested-rangers-v-celtic-amid-sectarian-abuse/": 1789320332.833664,
-    "Four arrests at Rangers v Celtic amid 'officer assault' and 'sectarian abuse'": 1789320332.833664,
     "https://www.bbc.co.uk/sport/football/articles/cj06e0mg40qo#0": 1789322135.5500915,
     "https://www.bbc.co.uk/sport/football/articles/cj06e0mg40qo?at_medium=RSS&at_campaign=rss": 1789322135.5500915,
     "'McInnes delivers togetherness & intensity in Old Firm gobsmacker'": 1789322135.5500915,
@@ -47767,13 +47772,18 @@
     "Marshals to guard new Glasgow night bus stops in bid to cut anti-social behaviour": 1794502537.9905198,
     "9346851": 1794502537.9905198,
     "https://www.glasgowworld.com/sport/football/rangers/celtic-are-struggling-to-keep-the-wolves-away-as-pundit-sends-rangers-encouraging-title-race-message-9346851": 1794502537.9905198,
-    "Celtic are struggling to \u2018keep the wolves away\u2019 as pundit sends Rangers encouraging title race message": 1794502537.9905198
+    "Celtic are struggling to \u2018keep the wolves away\u2019 as pundit sends Rangers encouraging title race message": 1794502537.9905198,
+    "https://news.stv.tv/?p=537919": 1794504346.388607,
+    "https://news.stv.tv/west-central/fire-crews-leave-irvine-recycling-centre-as-blaze-extinguished-after-48-hours": 1794504346.388607,
+    "Fire crews leave Irvine recycling centre as blaze extinguished after 48 hours": 1794504346.388607,
+    "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-free-public-transport-trial-34904001": 1794504346.388607,
+    "Glasgow free public transport trial 'successful' but council can't afford to fund wider scheme": 1794504346.388607,
+    "9348207": 1794504346.388607,
+    "https://www.glasgowworld.com/culture/celebrity/kingfishr-announce-uk-and-european-spring-tour-9348207": 1794504346.388607,
+    "Kingfishr unveil huge UK and European spring tour": 1794504346.388607
   },
   "glasgow_live": {},
   "glasgow_world": {
-    "9022453": 1789319772.5925834,
-    "https://www.glasgowworld.com/recommended/lego-duplo-toddler-learning-skills-play-9022493": 1789319772.5925834,
-    "Your toddler may be learning these 6 things while they play with LEGO DUPLO": 1789319772.5925834,
     "9022348": 1789323934.7964206,
     "https://www.glasgowworld.com/recommended/tog24-tog24-outlet-tog24-womens-clothing-striped-long-sleeve-t-shirt-womens-striped-top-womens-tops-tog24-sale-9022732": 1789323934.7964206,
     "TOG24 shoppers can get this Breton striped long-sleeve top for just \u00a38 in the outlet clearance sale": 1789323934.7964206,
@@ -50425,6 +50435,9 @@
     "Things to do in Glasgow: Here\u2019s what\u2019s on in Glasgow this weekend from Christmas markets to heavy metal": 1794497136.906128,
     "9346851": 1794502537.9905198,
     "https://www.glasgowworld.com/sport/football/rangers/celtic-are-struggling-to-keep-the-wolves-away-as-pundit-sends-rangers-encouraging-title-race-message-9346851": 1794502537.9905198,
-    "Celtic are struggling to \u2018keep the wolves away\u2019 as pundit sends Rangers encouraging title race message": 1794502537.9905198
+    "Celtic are struggling to \u2018keep the wolves away\u2019 as pundit sends Rangers encouraging title race message": 1794502537.9905198,
+    "9348207": 1794504346.388607,
+    "https://www.glasgowworld.com/culture/celebrity/kingfishr-announce-uk-and-european-spring-tour-9348207": 1794504346.388607,
+    "Kingfishr unveil huge UK and European spring tour": 1794504346.388607
   }
 }

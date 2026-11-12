@@ -3173,6 +3173,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-free-public-transport-trial-34904001",
+        "title": "Glasgow free public transport trial 'successful' but council can't afford to fund wider scheme",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-free-public-transport-trial-34904001",
+        "description": "Nearly 1,000 participants were given free travel on buses, ScotRail trains and the Subway earlier this year.",
+        "published": "Thu, 12 Nov 2026 16:56:16 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34903997.ece/ALTERNATES/s98/0_transportrialreview.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/marshals-guard-new-glasgow-night-34903333",
         "title": "Marshals to guard new Glasgow night bus stops in bid to cut anti-social behaviour",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/marshals-guard-new-glasgow-night-34903333",
