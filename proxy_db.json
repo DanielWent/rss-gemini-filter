@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1794464415365667",
+        "title": "Giant statue of Roman emperor once stood in southern Scotland",
+        "link": "https://www.bbc.co.uk/news/articles/cx5y139gyqzmo?at_medium=RSS&at_campaign=rss",
+        "description": "Research suggests a bronze leg found near Hawick belonged to a sculpture of Antoninus Pius on horseback.",
+        "published": "Thu, 12 Nov 2026 07:02:16 +0100",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c981/live/9645c780-ddc4-11f1-93e1-3b657b665bcf.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cmp3g3e5q4zxo#2",
         "title": "Trying Tourette's device was the best day of my life",
         "link": "https://www.bbc.co.uk/news/articles/cmp3g3e5q4zxo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
         "published": "Tue, 06 Oct 2026 10:23:59 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73fd/live/3d7299c0-c16e-11f1-a003-8be783290413.jpg"
-      },
-      {
-        "id": "1791248107730788",
-        "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-        "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-        "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
-        "published": "Mon, 05 Oct 2026 18:13:21 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f48/live/d657a2a0-c0e4-11f1-bc2e-018d645d8d21.png"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -3165,6 +3165,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c804w9g3wygvo#0",
+        "title": "Class action bid to seek compensation after law firm's collapse",
+        "link": "https://www.bbc.co.uk/news/articles/c804w9g3wygvo?at_medium=RSS&at_campaign=rss",
+        "description": "Former clients of McClure Solicitors have paid thousands of pounds in fresh legal fees after the firm went bust.",
+        "published": "Thu, 12 Nov 2026 06:00:47 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a51/live/d53a1bf0-ddf4-11f1-bb8c-51310f5678ed.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=537743",
         "title": "Concerns raised over \u00a32,500 support grant for Renfrewshire businesses flooded during Storm Boelo",
         "link": "https://news.stv.tv/west-central/concerns-raised-over-2500-support-grant-for-renfrewshire-businesses-flooded-during-storm-boelo",
@@ -3339,14 +3347,6 @@
         "description": "Ian McNabb has caused outrage after claiming rapist Brand was \"stitched up for his outspoken views\".",
         "published": "Wed, 11 Nov 2026 10:46:26 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34894740.ece/ALTERNATES/s98/0_Russell-Brand-court-case.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/four-schoolchildren-among-six-people-34894351",
-        "title": "Four schoolchildren among six people hit by car on Glasgow's Hyndland Road",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/four-schoolchildren-among-six-people-34894351",
-        "description": "Police issued an updated statement today following the major incident on Tuesday afternoon.",
-        "published": "Wed, 11 Nov 2026 10:27:35 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34893688.ece/ALTERNATES/s98/1_Screenshot-2026-11-11-083241.png"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/concerns-raised-over-glasgow-councils-34892191",
