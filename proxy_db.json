@@ -3173,6 +3173,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=537856",
+        "title": "Man charged after six young women attacked in Glasgow city centre flat",
+        "link": "https://news.stv.tv/west-central/man-charged-after-six-young-women-attacked-in-glasgow-city-centre-flat",
+        "description": "Police received report of six women aged 17 to 22, being assaulted at a property in Glassford Court in Glasgow.",
+        "published": "Thu, 12 Nov 2026 13:55:06 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/983207da0c202431a649d0a3eefce11d-1794489585.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=537766",
         "title": "Fire crews remain at scene of Irvine recycling centre blaze two days on",
         "link": "https://news.stv.tv/west-central/fire-crews-remain-at-scene-of-irvine-recycling-centre-blaze-two-days-on",
