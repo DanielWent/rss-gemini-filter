@@ -3165,6 +3165,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-update-after-glasgow-hyndland-34900750",
+        "title": "Police update after Glasgow Hyndland Road incident just one day after huge crash",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-update-after-glasgow-hyndland-34900750",
+        "description": "Emergency services were again called to the area on Wednesday afternoon.",
+        "published": "Thu, 12 Nov 2026 11:32:17 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34892356.ece/ALTERNATES/s98/4_Hyndland.png"
+      },
+      {
         "id": "https://news.stv.tv/?p=537770",
         "title": "Police cordon off Glasgow street overnight after 17-year-old found injured",
         "link": "https://news.stv.tv/west-central/police-cordon-off-glasgow-street-overnight-after-17-year-old-found-injured",
