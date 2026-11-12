@@ -3165,6 +3165,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=537801",
+        "title": "Man taken to hospital after crash on same road where seven pedestrians were injured days before",
+        "link": "https://news.stv.tv/west-central/man-taken-to-hospital-after-crash-on-same-road-where-seven-pedestrians-were-injured-days-before",
+        "description": "A man, who was the sole occupant of the vehicle, was taken to hospital for treatment",
+        "published": "Thu, 12 Nov 2026 11:50:56 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/96f7fb73de0b1bb475e6c3d0e29d0126-1794483196.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-homes-former-glasgow-hospital-34900895",
+        "title": "New homes on former Glasgow hospital site given green light despite concerns over ancient woodland",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/new-homes-former-glasgow-hospital-34900895",
+        "description": "The planning application was previously refused but the developer won an appeal this week.",
+        "published": "Thu, 12 Nov 2026 11:48:49 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34900915.ece/ALTERNATES/s98/0_hospitaldev.png"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-update-after-glasgow-hyndland-34900750",
         "title": "Police update after Glasgow Hyndland Road incident just one day after huge crash",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-update-after-glasgow-hyndland-34900750",
