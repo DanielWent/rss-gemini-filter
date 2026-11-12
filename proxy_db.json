@@ -814,6 +814,14 @@
     "description": "AI Filtered Google Blog Updates.",
     "articles": [
       {
+        "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+        "title": "Introducing Gemini 4 Hydrogen",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+        "description": "an image of carbon with the number 4 around it",
+        "published": "Thu, 12 Nov 2026 18:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp"
+      },
+      {
         "id": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
         "title": "Talk it through with Gemini, now on Apple CarPlay",
         "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
@@ -3172,6 +3180,22 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/spine-tingling-paranormal-podcast-uncanny-34904258",
+        "title": "'Spine-tingling' paranormal podcast Uncanny coming to Glasgow Hydro in huge arena tour",
+        "link": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/spine-tingling-paranormal-podcast-uncanny-34904258",
+        "description": "Uncanny Live: The Haunted Arena Tour, will be coming to Glasgow next year, where \"never-before-heard\" supernatural cases will be unpacked for the first time.",
+        "published": "Thu, 12 Nov 2026 18:15:20 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34904298.ece/ALTERNATES/s98/1_Uncanny_2400x1350px_text-free.jpg"
+      },
+      {
+        "id": "9346876",
+        "title": "West Ham and Wolves monitor progress of Rangers star as transfer \u2018attention\u2019 emerges from Championship giants",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/west-ham-and-wolves-monitor-progress-of-rangers-star-as-transfer-attention-emerges-from-efl-championship-giants-9346876",
+        "description": "<p>Unnamed Bundesliga side are also interested</p>",
+        "published": "Thu, 12 Nov 2026 18:00:53 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/12/12/21/GettyImages-2296243461-(2).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
       {
         "id": "https://news.stv.tv/?p=537917",
         "title": "Teens who murdered Kayden Moy in beach stabbing given permission to appeal sentences",
