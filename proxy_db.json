@@ -3165,6 +3165,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-woman-who-stalked-man-34898027",
+        "title": "Glasgow woman who stalked man and shared his private details online avoids jail in 'bizarre' case",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-woman-who-stalked-man-34898027",
+        "description": "The Sheriff labelled Anisah Ali's actions \"an unusual course of conduct\", which \"spiralled out of control\".",
+        "published": "Thu, 12 Nov 2026 07:10:43 +0000",
+        "image_url": "https://i2-prod.manchestereveningnews.co.uk/news/uk-news/article34853371.ece/ALTERNATES/s98/0_HM-Inspectorate-of-Prosecution-in-Scotland-review.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-east-end-flat-plan-34896290",
+        "title": "Glasgow east end flat plan on empty land rejected as appeal fails",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-east-end-flat-plan-34896290",
+        "description": "The council said the plot is 'amenity greenspace' while the developer claimed it is an 'eyesore.'",
+        "published": "Thu, 12 Nov 2026 07:07:52 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34896306.ece/ALTERNATES/s98/0_siteshettleston.png"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c804w9g3wygvo#0",
         "title": "Class action bid to seek compensation after law firm's collapse",
         "link": "https://www.bbc.co.uk/news/articles/c804w9g3wygvo?at_medium=RSS&at_campaign=rss",
@@ -3947,14 +3963,6 @@
         "description": "A Larkhall councillor has reassured residents after a bomb scare prompted evacuations and road closures.",
         "published": "Mon, 09 Nov 2026 17:30:16 +0000",
         "image_url": "https://www.glasgowtimes.co.uk/resources/images/21692765/?type=app&htype=0"
-      },
-      {
-        "id": "fc5e84ae341b145317aa24a5ce2fc39c",
-        "title": "Margaret Fleming's evil killer Avril Jones dies in prison as her body remains missing",
-        "link": "https://www.glasgowtimes.co.uk/news/scottish-news/26713359.margaret-fleming-killer-avril-jones-dies-prison/",
-        "description": "Margaret Fleming\u2019s killer Avril Jones has died in prison.",
-        "published": "Mon, 09 Nov 2026 16:33:29 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21691318/?type=app&htype=0"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
