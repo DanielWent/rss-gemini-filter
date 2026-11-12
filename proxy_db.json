@@ -3165,6 +3165,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://runabc.co.uk/beecraigs-festive-handicap-celebrates-40-years-of-boxing-day-running",
+        "title": "Beecraigs Festive Handicap Celebrates 40 Years Of Boxing Day Running",
+        "link": "https://runabc.co.uk/beecraigs-festive-handicap-celebrates-40-years-of-boxing-day-running",
+        "description": "<p><img alt=\"Beecraigs Festive Handicap 2026\" src=\"https://runabc.co.uk/images/2026/11/beecraigs-festive-handicap-2026.jpg\" /></p>\n\t\t\t\t<p>Beecraigs Festive Handicap celebrates 40 years of Boxing Day running on 26 December 2026, with free races, challenging woodland trails and donations supporting West Lothian Foodbank...</p>",
+        "published": "Thu, 12 Nov 2026 07:55:00 +0000",
+        "image_url": "https://runabc.co.uk/images/2026/11/beecraigs-festive-handicap-2026.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-woman-who-stalked-man-34898027",
         "title": "Glasgow woman who stalked man and shared his private details online avoids jail in 'bizarre' case",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-woman-who-stalked-man-34898027",
@@ -3955,14 +3963,6 @@
         "description": "There was scenes of violence outside the venue following the Bare Knuckle Fighting Championship event on Saturday",
         "published": "Mon, 09 Nov 2026 17:37:10 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/30b7ac62cb2d2c3dfc458cef9ae93fcd-1794147584-1280x720.jpeg"
-      },
-      {
-        "id": "7becc2d2b5b60867e1b1f21e1d5e086e",
-        "title": "Councillor reassures residents after bomb scare in Larkhall",
-        "link": "https://www.glasgowtimes.co.uk/news/26713691.councillor-reassures-residents-larkhall-bomb-scare/",
-        "description": "A Larkhall councillor has reassured residents after a bomb scare prompted evacuations and road closures.",
-        "published": "Mon, 09 Nov 2026 17:30:16 +0000",
-        "image_url": "https://www.glasgowtimes.co.uk/resources/images/21692765/?type=app&htype=0"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
