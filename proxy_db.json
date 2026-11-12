@@ -3165,6 +3165,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9346263",
+        "title": "Cops seal off quiet street near Glasgow southside school as forensic teams spotted",
+        "link": "https://www.glasgowworld.com/news/police-seal-off-shawlands-street-near-glasgow-school-9346263",
+        "description": "<p>Police have taped off an area of Shawlands street near a local school, with forensics teams also spotted in the area, following an incident on Wednesday night.</p>",
+        "published": "Thu, 12 Nov 2026 09:40:27 GMT",
+        "image_url": "https://www.glasgowworld.com/webimg/b25lY21zOjYxNzhkYWIzLThkYmYtNGRiOC1iMzg3LWZmMjQ4OTI2MWFkODo1NTQ2MjkyYy1lOWNiLTQyNGQtOThiYi04MjYwNGFjY2UzY2E=.jpg?width=1200&auto=webp&crop=3%3A2"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-norham-street-taped-after-34899588",
         "title": "Glasgow Norham Street taped off after 'serious incident' as forensics spotted",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-norham-street-taped-after-34899588",
@@ -3955,14 +3963,6 @@
         "description": "As Russell Brand begins a ten and a half-year jail sentence, female comedians in Scotland say the industry here needs to do more to deal with abuse",
         "published": "Mon, 09 Nov 2026 18:58:39 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/f2853d3a41fe89e1b0d8e74dc141dc02-1794248165-1280x720.jpeg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=537312",
-        "title": "Woman caught on illegal fox hunt banned from owning dogs for ten years",
-        "link": "https://news.stv.tv/west-central/woman-caught-on-illegal-fox-hunt-banned-from-owning-dogs-for-ten-years",
-        "description": "Hunt master Claire Bellamy is the first person to be sentenced for carrying out an illegal fox hunt in Scotland",
-        "published": "Mon, 09 Nov 2026 17:53:37 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/230434095047d2ef8b694aff22f2f6d6-1794246478-1120x720.jpeg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
