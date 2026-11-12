@@ -3165,6 +3165,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-norham-street-taped-after-34899588",
+        "title": "Glasgow Norham Street taped off after 'serious incident' as forensics spotted",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-norham-street-taped-after-34899588",
+        "description": "\"This is usually a quiet area, and worrying that it\u2019s just streets away from a local school.\"",
+        "published": "Thu, 12 Nov 2026 08:52:14 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34899646.ece/ALTERNATES/s98/0_Screenshot-2026-11-12-084826.png"
+      },
+      {
         "id": "https://runabc.co.uk/beecraigs-festive-handicap-celebrates-40-years-of-boxing-day-running",
         "title": "Beecraigs Festive Handicap Celebrates 40 Years Of Boxing Day Running",
         "link": "https://runabc.co.uk/beecraigs-festive-handicap-celebrates-40-years-of-boxing-day-running",
@@ -3955,14 +3963,6 @@
         "description": "Hunt master Claire Bellamy is the first person to be sentenced for carrying out an illegal fox hunt in Scotland",
         "published": "Mon, 09 Nov 2026 17:53:37 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/230434095047d2ef8b694aff22f2f6d6-1794246478-1120x720.jpeg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=537300",
-        "title": "Bare-knuckle boxing \u2018highly unlikely\u2019 to return to Hydro as Swinney condemns violence",
-        "link": "https://news.stv.tv/west-central/bare-knuckle-boxing-highly-unlikely-to-return-to-hydro-as-swinney-condemns-violence",
-        "description": "There was scenes of violence outside the venue following the Bare Knuckle Fighting Championship event on Saturday",
-        "published": "Mon, 09 Nov 2026 17:37:10 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/30b7ac62cb2d2c3dfc458cef9ae93fcd-1794147584-1280x720.jpeg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
