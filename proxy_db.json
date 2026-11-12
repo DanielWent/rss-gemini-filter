@@ -3165,6 +3165,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=537766",
+        "title": "Fire crews remain at scene of Irvine recycling centre blaze two days on",
+        "link": "https://news.stv.tv/west-central/fire-crews-remain-at-scene-of-irvine-recycling-centre-blaze-two-days-on",
+        "description": "Emergency services were first called to the fire at Lowmac Alloys on Tuesday afternoon",
+        "published": "Thu, 12 Nov 2026 13:11:22 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/86e5bdb5fa1a050c1e405e13abbaaa65-1794487920-1120x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/gallery/first-look-bbc-line-duty-34900657",
+        "title": "First look at BBC Line of Duty S7 as Martin Compston returns to screen alongside Robert Carlyle",
+        "link": "https://www.glasgowlive.co.uk/whats-on/gallery/first-look-bbc-line-duty-34900657",
+        "description": "The new series is coming next year.",
+        "published": "Thu, 12 Nov 2026 13:07:15 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34901218.ece/ALTERNATES/s98/5_HNWHhQ.jpg"
+      },
+      {
         "id": "9346287",
         "title": "Celtic and Rangers stars used as examples by Sebastien Pocognoli as Scotland boss makes Old Firm request",
         "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-and-rangers-stars-used-as-examples-by-sebastian-pocognoli-as-scotland-boss-makes-old-firm-request-9346287",
