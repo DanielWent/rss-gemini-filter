@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cmp3g3e5q4zxo#2",
+        "title": "Trying Tourette's device was the best day of my life",
+        "link": "https://www.bbc.co.uk/news/articles/cmp3g3e5q4zxo?at_medium=RSS&at_campaign=rss",
+        "description": "Katie is one of many that say a device developed by researchers in Nottingham helped calm her symptoms.",
+        "published": "Thu, 12 Nov 2026 01:07:47 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c24/live/cdba35d0-ddc3-11f1-a50f-85eebf9e50e5.jpg"
+      },
+      {
         "id": "1794425414774142",
         "title": "GB and Wales' Griffiths banned after drug test",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/c8dx16rk2keyo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
         "published": "Mon, 05 Oct 2026 18:13:21 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f48/live/d657a2a0-c0e4-11f1-bc2e-018d645d8d21.png"
-      },
-      {
-        "id": "1791212120252292",
-        "title": "Plaque honours Mars mission scientist",
-        "link": "https://www.bbc.co.uk/news/articles/c617kl241z91o?at_medium=RSS&at_campaign=rss",
-        "description": "The tribute recognises Colin Pillinger who led the 2003 probe mission to Mars.",
-        "published": "Mon, 05 Oct 2026 16:36:43 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0df6/live/910cc5b0-c0ab-11f1-b72b-c3e328aa18ed.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
