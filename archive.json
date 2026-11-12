@@ -1,14 +1,5 @@
 {
   "strict": {
-    "1789324815485510": 1789325731.1371756,
-    "https://www.bbc.co.uk/sport/formula1/articles/clyjx57nqj9o?at_medium=RSS&at_campaign=rss": 1789325731.1371756,
-    "Antonelli impressive and one of Colapinto's best weekends - driver ratings": 1789325731.1371756,
-    "1789324815485509": 1789325731.1371756,
-    "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss": 1789325731.1371756,
-    "Questions mount over what an AI 'slowdown' would look like": 1789325731.1371756,
-    "1789324815485502": 1789325731.1371756,
-    "https://www.bbc.co.uk/news/articles/c1j4z27n8xyo?at_medium=RSS&at_campaign=rss": 1789325731.1371756,
-    "Zoo advertises tickets for 'child predator tour'": 1789325731.1371756,
     "1789326313835784": 1789327535.8413424,
     "https://www.bbc.co.uk/sport/cycling/articles/cwyzglxlr6vo?at_medium=RSS&at_campaign=rss": 1789327535.8413424,
     "Brennan misses record as Mas clinches Vuelta crown": 1789327535.8413424,
@@ -15056,15 +15047,18 @@
     "Plans to increase Windsor Park capacity to 23,750 part of Women's World Cup bid": 1794507948.0370195,
     "1794506422147903": 1794507948.0370195,
     "https://www.bbc.co.uk/sport/rugby-union/articles/cjn50zrl5de7o?at_medium=RSS&at_campaign=rss": 1794507948.0370195,
-    "Lawes recovering after hospital stay with infection": 1794507948.0370195
+    "Lawes recovering after hospital stay with infection": 1794507948.0370195,
+    "1794509420110558": 1794509752.4058385,
+    "https://www.bbc.co.uk/news/articles/cm4gn5qddqqxo?at_medium=RSS&at_campaign=rss": 1794509752.4058385,
+    "'How does a building just fall?': Neighbours grieve after deadly Brooklyn building collapse": 1794509752.4058385,
+    "1794509420110557": 1794509752.4058385,
+    "https://www.bbc.co.uk/news/articles/cqdr1jd5mpp5o?at_medium=RSS&at_campaign=rss": 1794509752.4058385,
+    "SFA in talks with Boston officials over biannual friendly match": 1794509752.4058385,
+    "1794509420110555": 1794509752.4058385,
+    "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss": 1794509752.4058385,
+    "Can Burnham avoid another Labour welfare rebellion?": 1794509752.4058385
   },
   "lenient": {
-    "https://www.bbc.co.uk/news/articles/cwyzp47py48o#2": 1789325731.1371756,
-    "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss": 1789325731.1371756,
-    "Questions mount over what an AI 'slowdown' would look like": 1789325731.1371756,
-    "https://www.bbc.co.uk/news/articles/c1j4z27n8xyo#4": 1789325731.1371756,
-    "https://www.bbc.co.uk/news/articles/c1j4z27n8xyo?at_medium=RSS&at_campaign=rss": 1789325731.1371756,
-    "Zoo advertises tickets for 'child predator tour'": 1789325731.1371756,
     "https://www.bbc.co.uk/sport/football/articles/c2kwpk5zy23o#8": 1789327535.8413424,
     "https://www.bbc.co.uk/sport/football/articles/c2kwpk5zy23o?at_medium=RSS&at_campaign=rss": 1789327535.8413424,
     "Foden sees red as Mainoo impresses - Manchester derby ratings": 1789327535.8413424,
@@ -23053,7 +23047,13 @@
     "Some childhood offenders may no longer have to reveal convictions to employers": 1794506143.5194638,
     "https://www.bbc.co.uk/news/articles/cq5y13819gpjo#1": 1794507948.0370195,
     "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss": 1794507948.0370195,
-    "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions": 1794507948.0370195
+    "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions": 1794507948.0370195,
+    "https://www.bbc.co.uk/news/articles/c95y100nrm41o#1": 1794509752.4058385,
+    "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss": 1794509752.4058385,
+    "Can Burnham avoid another Labour welfare rebellion?": 1794509752.4058385,
+    "https://www.bbc.co.uk/news/articles/cm4gn5qddqqxo#2": 1794509752.4058385,
+    "https://www.bbc.co.uk/news/articles/cm4gn5qddqqxo?at_medium=RSS&at_campaign=rss": 1794509752.4058385,
+    "'How does a building just fall?' Neighbours grieve after deadly Brooklyn building collapse": 1794509752.4058385
   },
   "google": {
     "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/": 1789489533.9910789,
@@ -23183,7 +23183,9 @@
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/": 1794329736.752368,
     "Introducing the Multimodal Knowledge Agent benchmark": 1794329736.752368,
     "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/": 1794419744.6423051,
-    "Talk it through with Gemini, now on Apple CarPlay": 1794419744.6423051
+    "Talk it through with Gemini, now on Apple CarPlay": 1794419744.6423051,
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/": 1794509752.4058385,
+    "Introducing Gemini 4 Hydrogen": 1794509752.4058385
   },
   "dcrainmaker": {
     "https://www.dcrainmaker.com/?p=170066": 1791273337.4190857,
@@ -24205,7 +24207,13 @@
     "At 75, He Ran the Athens Marathon Barefoot in Hoplite Armor and Closed the Race to an Ovation": 1794245146.0990946,
     "1794399918516185": 1794399945.0553315,
     "https://www.therunningweek.com/post/chow-yun-fat-is-71-and-runs-5k-every-morning-and-his-half-marathon-times-keep-getting-faster": 1794399945.0553315,
-    "Chow Yun-fat Is 71 and Runs 5K Every Morning, and His Half Marathon Times Keep Getting Faster": 1794399945.0553315
+    "Chow Yun-fat Is 71 and Runs 5K Every Morning, and His Half Marathon Times Keep Getting Faster": 1794399945.0553315,
+    "1794509420110560": 1794509752.4058385,
+    "https://www.therunningweek.com/post/jensen-huang-keeps-telling-graduates-to-run-don-t-walk-and-new-runners-should-listen": 1794509752.4058385,
+    "Jensen Huang Keeps Telling Graduates to \"Run, Don't Walk,\" and New Runners Should Listen": 1794509752.4058385,
+    "1794509420110559": 1794509752.4058385,
+    "https://www.therunningweek.com/post/jensen-huang-did-100-push-ups-every-night-at-age-nine-and-runners-should-steal-the-habit": 1794509752.4058385,
+    "Jensen Huang Did 100 Push-Ups Every Night at Age Nine, and Runners Should Steal the Habit": 1794509752.4058385
   },
   "glasgow_times": {
     "222cc91e07771ddb9675ca0425bbca37": 1789327535.8413424,
