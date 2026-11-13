@@ -3181,6 +3181,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-who-found-murdered-caroline-34906183",
+        "title": "Man who found murdered Caroline Glachan's body says it 'still haunts' him 30 years on",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-who-found-murdered-caroline-34906183",
+        "description": "Danny Mullin, who had been out cycling with friends that morning, found Caroline face down in the River Leven.",
+        "published": "Fri, 13 Nov 2026 11:00:57 +0000",
+        "image_url": "https://i2-prod.gazettelive.co.uk/news/uk-world-news/article34530468.ece/ALTERNATES/s98/0_Screenshot-2026-08-27-111700.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/microsoft-outage-fix-update-glasgow-34905920",
         "title": "Microsoft outage 'fix' update as Glasgow users among hundreds of thousands affected",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/microsoft-outage-fix-update-glasgow-34905920",
