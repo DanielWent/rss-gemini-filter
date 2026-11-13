@@ -1,11 +1,5 @@
 {
   "strict": {
-    "1789408216296030": 1789408540.8859282,
-    "https://www.bbc.co.uk/news/articles/cr50zqlmg7po?at_medium=RSS&at_campaign=rss": 1789408540.8859282,
-    "Luke Evans reveals his secret to surviving Hollywood": 1789408540.8859282,
-    "1789408216296025": 1789408540.8859282,
-    "https://www.bbc.co.uk/news/articles/cm9w47x890d2o?at_medium=RSS&at_campaign=rss": 1789408540.8859282,
-    "Chief coroner calls for inquiry into Manchester synagogue attack": 1789408540.8859282,
     "1789409718131584": 1789410335.689194,
     "https://www.bbc.co.uk/sport/rugby-union/articles/ck1e54qzjqljo?at_medium=RSS&at_campaign=rss": 1789410335.689194,
     "Pollock still 'open to new opportunities' as Northampton talks go on": 1789410335.689194,
@@ -15051,12 +15045,21 @@
     "Police investigating David Walliams over reports alleging serious sexual offences": 1794588947.3211446,
     "1794590412765297": 1794590749.8583655,
     "https://www.bbc.co.uk/sport/rugby-union/articles/cj7526lz35x9o?at_medium=RSS&at_campaign=rss": 1794590749.8583655,
-    "Vunipola exploring life after rugby with coaching role": 1794590749.8583655
+    "Vunipola exploring life after rugby with coaching role": 1794590749.8583655,
+    "1794591909256255": 1794592553.4271085,
+    "https://www.bbc.co.uk/news/articles/c84gn943kne1o?at_medium=RSS&at_campaign=rss": 1794592553.4271085,
+    "Driver who fled to Latvia after killing schoolboy jailed": 1794592553.4271085,
+    "1794591909256254": 1794592553.4271085,
+    "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cm3wgpl28yzgo?at_medium=RSS&at_campaign=rss": 1794592553.4271085,
+    "Eight sentenced to jail over Nurmagomedov-Dvalishvili brawl": 1794592553.4271085,
+    "1794591311672375": 1794592553.4271085,
+    "https://www.bbc.co.uk/news/articles/c6wy49x82jd2o?at_medium=RSS&at_campaign=rss": 1794592553.4271085,
+    "Man who killed woman after row over watch is jailed": 1794592553.4271085,
+    "1794591311672373": 1794592553.4271085,
+    "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss": 1794592553.4271085,
+    "Democratic Senate leader Schumer set to face leadership challenge": 1794592553.4271085
   },
   "lenient": {
-    "https://www.bbc.co.uk/news/articles/cm9w47x890d2o#4": 1789408540.8859282,
-    "https://www.bbc.co.uk/news/articles/cm9w47x890d2o?at_medium=RSS&at_campaign=rss": 1789408540.8859282,
-    "Chief coroner calls for inquiry into Manchester synagogue attack": 1789408540.8859282,
     "https://www.bbc.co.uk/sport/rugby-union/articles/ck1e54qzjqljo#8": 1789410335.689194,
     "https://www.bbc.co.uk/sport/rugby-union/articles/ck1e54qzjqljo?at_medium=RSS&at_campaign=rss": 1789410335.689194,
     "Pollock still 'open to new opportunities' as Northampton talks go on": 1789410335.689194,
@@ -23042,7 +23045,19 @@
     "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'": 1794590749.8583655,
     "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cm3wgpl28yzgo#9": 1794590749.8583655,
     "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cm3wgpl28yzgo?at_medium=RSS&at_campaign=rss": 1794590749.8583655,
-    "Eight sentenced to jail over Nurmagomedov-Dvalishvili brawl": 1794590749.8583655
+    "Eight sentenced to jail over Nurmagomedov-Dvalishvili brawl": 1794590749.8583655,
+    "https://www.bbc.co.uk/news/articles/ckqx5r3j2j4xo#1": 1794592553.4271085,
+    "https://www.bbc.co.uk/news/articles/ckqx5r3j2j4xo?at_medium=RSS&at_campaign=rss": 1794592553.4271085,
+    "Man jailed for grooming at least 70 girls online": 1794592553.4271085,
+    "https://www.bbc.co.uk/news/articles/c84gn943kne1o#5": 1794592553.4271085,
+    "https://www.bbc.co.uk/news/articles/c84gn943kne1o?at_medium=RSS&at_campaign=rss": 1794592553.4271085,
+    "Driver who fled to Latvia after killing schoolboy jailed": 1794592553.4271085,
+    "https://www.bbc.co.uk/news/articles/cxzd9171m51qo#1": 1794592553.4271085,
+    "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss": 1794592553.4271085,
+    "Microsoft outage 'stark reminder' of how much we rely on tech": 1794592553.4271085,
+    "https://www.bbc.co.uk/news/articles/c6jre3z03w4go#1": 1794592553.4271085,
+    "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss": 1794592553.4271085,
+    "German spies handed new powers to tackle 'hybrid threats' from abroad": 1794592553.4271085
   },
   "google": {
     "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/": 1789489533.9910789,
@@ -23176,7 +23191,9 @@
     "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/": 1794419744.6423051,
     "Talk it through with Gemini, now on Apple CarPlay": 1794419744.6423051,
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/": 1794509752.4058385,
-    "Introducing Gemini 4 Hydrogen": 1794509752.4058385
+    "Introducing Gemini 4 Hydrogen": 1794509752.4058385,
+    "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/": 1794592553.4271085,
+    "Connect Google Wallet to Gemini for personal finance insights": 1794592553.4271085
   },
   "dcrainmaker": {
     "https://www.dcrainmaker.com/?p=170066": 1791273337.4190857,
@@ -30018,9 +30035,6 @@
     "Loch Morlich Running Festival 2027 Returns For Ninth Edition In Cairngorms": 1794558362.837677
   },
   "newsletter_candidates": {
-    "9030262": 1789408540.8859282,
-    "https://www.glasgowworld.com/lifestyle/homes-and-gardens/glasgow-terraced-house-investmentway-purplebricks-9030262": 1789408540.8859282,
-    "Stunning three-bedroom Glasgow terraced house with modern kitchen and gardens (aff)": 1789408540.8859282,
     "9024175": 1789410335.689194,
     "https://www.glasgowworld.com/recommended/dyson-v10-dyson-vacuum-deal-dyson-cordless-vacuum-cordless-vacuum-cleaner-dyson-deals-9046111": 1789410335.689194,
     "Dyson V10 cordless vacuum gets a \u00a3150 price cut to \u00a3299": 1789410335.689194,
@@ -47437,7 +47451,16 @@
     "One person airlifted to hospital following collision which left two injured in East Ayrshire": 1794588947.3211446,
     "https://news.stv.tv/?p=538056": 1794590749.8583655,
     "https://news.stv.tv/west-central/glasgow-airport-model-crafted-by-father-and-son-goes-on-display-in-terminal": 1794590749.8583655,
-    "Glasgow Airport model crafted by father and son goes on display in terminal": 1794590749.8583655
+    "Glasgow Airport model crafted by father and son goes on display in terminal": 1794590749.8583655,
+    "https://news.stv.tv/?p=538145": 1794592553.4271085,
+    "https://news.stv.tv/west-central/glasgow-nightclub-pay-tribute-to-resident-dj-killed-in-krakow-shooting": 1794592553.4271085,
+    "Glasgow nightclub pay tribute to resident DJ killed in Krakow shooting": 1794592553.4271085,
+    "https://news.stv.tv/?p=538136": 1794592553.4271085,
+    "https://news.stv.tv/west-central/renfrew-care-home-at-risk-of-closure-after-significant-concerns-raised-by-inspectors": 1794592553.4271085,
+    "Renfrew care home at risk of closure after \u2018significant concerns\u2019 raised by inspectors": 1794592553.4271085,
+    "https://www.bbc.co.uk/news/articles/c6wy49x82jd2o#0": 1794592553.4271085,
+    "https://www.bbc.co.uk/news/articles/c6wy49x82jd2o?at_medium=RSS&at_campaign=rss": 1794592553.4271085,
+    "Man who killed woman after row over watch is jailed": 1794592553.4271085
   },
   "glasgow_live": {},
   "glasgow_world": {

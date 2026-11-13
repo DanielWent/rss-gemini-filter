@@ -3197,6 +3197,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=538145",
+        "title": "Glasgow nightclub pay tribute to resident DJ killed in Krakow shooting",
+        "link": "https://news.stv.tv/west-central/glasgow-nightclub-pay-tribute-to-resident-dj-killed-in-krakow-shooting",
+        "description": "James Campbell, a resident DJ at Glasgow club AXM, was one of six people killed in the November 7 shooting",
+        "published": "Fri, 13 Nov 2026 17:55:14 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/218a32d4bc009c33cfe38e9ac41034b2-1794586000-1120x720.jpeg"
+      },
+      {
         "id": "https://news.stv.tv/?p=538133",
         "title": "New Glasgow visitor levy could be used to address city centre safety concerns, says council leader",
         "link": "https://news.stv.tv/west-central/new-glasgow-visitor-levy-could-be-used-to-address-city-centre-safety-concerns-says-council-leader",
