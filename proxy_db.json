@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo#2",
+        "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+        "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+        "description": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+        "published": "Fri, 13 Nov 2026 00:13:35 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8436/live/9852bb70-d6a6-11f1-b441-2b33b063138f.png"
+      },
+      {
         "id": "1794464415365667",
         "title": "Giant statue of Roman emperor once stood in southern Scotland",
         "link": "https://www.bbc.co.uk/news/articles/cx5y139gyqzmo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Dubbed the Blyth Hoard, the artefacts dating from between 1150BC to 850BC were found seven miles from the Peebles Hoard.",
         "published": "Tue, 06 Oct 2026 23:55:10 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5284/live/09db2a70-c162-11f1-ae7b-cfc528a6c828.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo#1",
-        "title": "'Ghost particles' from space telescope wins physics Nobel",
-        "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-        "description": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
-        "published": "Tue, 06 Oct 2026 10:23:59 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73fd/live/3d7299c0-c16e-11f1-a003-8be783290413.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
