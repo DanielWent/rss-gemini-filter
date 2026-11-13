@@ -3181,6 +3181,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/kids-palestinian-refugee-living-glasgow-34901341",
+        "title": "Kids of Palestinian refugee living in Glasgow remain trapped in flooded Gaza tents",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/kids-palestinian-refugee-living-glasgow-34901341",
+        "description": "Zakaria Salem hit headlines after refusing to accept an award for returning a lost wallet with \u00a31,000 inside - all he wants is to be reunited with his wife and three sons left behind.",
+        "published": "Fri, 13 Nov 2026 07:51:38 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34901467.ece/ALTERNATES/s98/0_IMG_5937_1200_1600_sjpeg.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/thousands-glasgow-employees-see-salary-34902999",
+        "title": "Thousands of Glasgow employees see salary increase through Living Wage campaign",
+        "link": "https://www.glasgowlive.co.uk/news/thousands-glasgow-employees-see-salary-34902999",
+        "description": "Launched in November 2024, Glasgow City Region was the first city region in Scotland to launch a regional Living Wage campaign making the rate \u00a314.10 per hour.",
+        "published": "Fri, 13 Nov 2026 07:44:46 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/article34903033.ece/ALTERNATES/s98/0_Living-Wage-Accreditation.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cw3dgvepppn8o#0",
         "title": "Warning of major M8 delays as lanes close for bridge reinstallation",
         "link": "https://www.bbc.co.uk/news/articles/cw3dgvepppn8o?at_medium=RSS&at_campaign=rss",
