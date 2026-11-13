@@ -3197,6 +3197,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=538194",
+        "title": "Multiple casualties reported as firefighters battle four-storey building blaze in Glasgow",
+        "link": "https://news.stv.tv/west-central/multiple-casualties-reported-as-firefighters-battle-four-storey-building-blaze-in-glasgow",
+        "description": "Four fire appliances are on scene after a fire broke out on the ground floor of a building",
+        "published": "Fri, 13 Nov 2026 18:52:55 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/a7effef332b84161e7321e2232236a51-1794595798-1280x720.jpeg"
+      },
+      {
         "id": "https://news.stv.tv/?p=538145",
         "title": "Glasgow nightclub pay tribute to resident DJ killed in Krakow shooting",
         "link": "https://news.stv.tv/west-central/glasgow-nightclub-pay-tribute-to-resident-dj-killed-in-krakow-shooting",
