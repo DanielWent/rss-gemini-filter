@@ -3181,6 +3181,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/evil-teens-who-stabbed-kayden-34905486",
+        "title": "Evil teens who stabbed Kayden Moy to death given permission to appeal sentences",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/evil-teens-who-stabbed-kayden-34905486",
+        "description": "The three teenagers who stabbed 16-year-old Kayden Moy to death at Irvine beach last May are appealing their life sentences.",
+        "published": "Fri, 13 Nov 2026 09:46:33 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34489366.ece/ALTERNATES/s98/0_JS369634224-2.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/ice-hockey-glides-hydro-glasgow-34897629",
         "title": "Ice hockey glides into Hydro as Glasgow Clan look forward to even bigger stage and audience",
         "link": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/ice-hockey-glides-hydro-glasgow-34897629",
@@ -3219,14 +3227,6 @@
         "description": "More than 76,000 sewage spills were recorded at overflow sites previously unmonitored by Scottish Water, BBC Scotland News analysis has found.",
         "published": "Fri, 13 Nov 2026 06:31:51 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/375e/live/cc1f4930-df31-11f1-a701-fddedf244c16.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-offering-free-parking-council-34904014",
-        "title": "Glasgow offering free parking in council car parks in the run-up to Christmas",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-offering-free-parking-council-34904014",
-        "description": "Council leader Ricky Bell wants other car park providers in the city to match the offer this December.",
-        "published": "Fri, 13 Nov 2026 00:01:00 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article28728006.ece/ALTERNATES/s98/20240231_135142.jpg"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/c9m2j888j202o#0",
