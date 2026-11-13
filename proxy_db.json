@@ -3181,6 +3181,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-offering-free-parking-council-34904014",
+        "title": "Glasgow offering free parking in council car parks in the run-up to Christmas",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-offering-free-parking-council-34904014",
+        "description": "Council leader Ricky Bell wants other car park providers in the city to match the offer this December.",
+        "published": "Fri, 13 Nov 2026 00:01:00 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article28728006.ece/ALTERNATES/s98/20240231_135142.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c9m2j888j202o#0",
         "title": "Families of crime death teenagers call for knife crackdown and tougher sentences",
         "link": "https://www.bbc.co.uk/news/articles/c9m2j888j202o?at_medium=RSS&at_campaign=rss",

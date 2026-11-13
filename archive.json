@@ -1,11 +1,5 @@
 {
   "strict": {
-    "1789342811774273": 1789343731.132018,
-    "https://www.bbc.co.uk/news/articles/cd794dn05p1o?at_medium=RSS&at_campaign=rss": 1789343731.132018,
-    "The Papers: 'Compulsory lentils' and 'Boris flees Vlad drone blitz'": 1789343731.132018,
-    "1789342811774272": 1789343731.132018,
-    "https://www.bbc.co.uk/news/articles/clyqx0e175ko?at_medium=RSS&at_campaign=rss": 1789343731.132018,
-    "The Pitt is up for 25 Emmys - but the show's biggest fans are real-life doctors": 1789343731.132018,
     "1789344310027282": 1789345547.2976453,
     "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss": 1789345547.2976453,
     "How to protect your laptop, phone and bike from thieves at uni": 1789345547.2976453,
@@ -15062,24 +15056,15 @@
     "Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return": 1794525943.4710474,
     "1794524410705040": 1794525943.4710474,
     "https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss": 1794525943.4710474,
-    "How many sewage spills have happened in your part of Scotland?": 1794525943.4710474
+    "How many sewage spills have happened in your part of Scotland?": 1794525943.4710474,
+    "1794527415611366": 1794527736.2959113,
+    "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss": 1794527736.2959113,
+    "'Wrong' and 'nonsense' - Cummins on Khawaja sandpaper claims": 1794527736.2959113,
+    "1794527415611364": 1794527736.2959113,
+    "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss": 1794527736.2959113,
+    "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil": 1794527736.2959113
   },
   "lenient": {
-    "https://www.bbc.co.uk/news/articles/c2095wyqvx2o#1": 1789343731.132018,
-    "https://www.bbc.co.uk/news/articles/c2095wyqvx2o?at_medium=RSS&at_campaign=rss": 1789343731.132018,
-    "Buckingham Palace works uncover trove of everyday items dating back to 1800s": 1789343731.132018,
-    "https://www.bbc.co.uk/news/articles/clyqx0e175ko#1": 1789343731.132018,
-    "https://www.bbc.co.uk/news/articles/clyqx0e175ko?at_medium=RSS&at_campaign=rss": 1789343731.132018,
-    "The Pitt is up for 25 Emmys - but the show's biggest fans are real-life doctors": 1789343731.132018,
-    "https://www.bbc.co.uk/news/articles/cd794dn05p1o#2": 1789343731.132018,
-    "https://www.bbc.co.uk/news/articles/cd794dn05p1o?at_medium=RSS&at_campaign=rss": 1789343731.132018,
-    "The Papers: 'Compulsory lentils' and 'Boris flees Vlad drone blitz'": 1789343731.132018,
-    "https://www.bbc.co.uk/news/articles/czezwd6xw0zo#2": 1789343731.132018,
-    "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss": 1789343731.132018,
-    "How to protect your laptop, phone and bike from thieves at uni": 1789343731.132018,
-    "https://www.bbc.co.uk/news/articles/c80n3xl378ro#2": 1789343731.132018,
-    "https://www.bbc.co.uk/news/articles/c80n3xl378ro?at_medium=RSS&at_campaign=rss": 1789343731.132018,
-    "Emmy Awards: How to watch, who is nominated and why Heated Rivalry is missing": 1789343731.132018,
     "https://www.bbc.co.uk/weather/articles/cx2zyjw825go#1": 1789345547.2976453,
     "https://www.bbc.co.uk/weather/articles/cx2zyjw825go?at_medium=RSS&at_campaign=rss": 1789345547.2976453,
     "Warm start to week to make way for wetter and windier conditions": 1789345547.2976453,
@@ -23053,7 +23038,13 @@
     "Gauff battles through back injury to keep WTA Finals hopes alive": 1794524144.8759484,
     "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo#8": 1794525943.4710474,
     "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss": 1794525943.4710474,
-    "'A lie' & 'nonsense' - Palmer committed to England, says Rogers": 1794525943.4710474
+    "'A lie' & 'nonsense' - Palmer committed to England, says Rogers": 1794525943.4710474,
+    "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo#8": 1794527736.2959113,
+    "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss": 1794527736.2959113,
+    "'Wrong' and 'nonsense' - Cummins on Khawaja sandpaper claims": 1794527736.2959113,
+    "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o#1": 1794527736.2959113,
+    "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss": 1794527736.2959113,
+    "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil": 1794527736.2959113
   },
   "google": {
     "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/": 1789489533.9910789,
@@ -47816,7 +47807,9 @@
     "Ex Rangers academy graduate looks to revive career at SPFL club after sealing free transfer": 1794515147.2933135,
     "9347787": 1794515147.2933135,
     "https://www.glasgowworld.com/sport/football/celtic/moment-showboating-celtic-star-comeback-abrupt-halt-lifts-lid-injury-ordeal-9347787": 1794515147.2933135,
-    "How a moment of showboating brought Celtic star\u2019s comeback to an abrupt halt as he lifts lid on injury ordeal": 1794515147.2933135
+    "How a moment of showboating brought Celtic star\u2019s comeback to an abrupt halt as he lifts lid on injury ordeal": 1794515147.2933135,
+    "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-offering-free-parking-council-34904014": 1794527736.2959113,
+    "Glasgow offering free parking in council car parks in the run-up to Christmas": 1794527736.2959113
   },
   "glasgow_live": {},
   "glasgow_world": {
