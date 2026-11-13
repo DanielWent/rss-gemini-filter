@@ -3181,6 +3181,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cw3dgvepppn8o#0",
+        "title": "Warning of major M8 delays as lanes close for bridge reinstallation",
+        "link": "https://www.bbc.co.uk/news/articles/cw3dgvepppn8o?at_medium=RSS&at_campaign=rss",
+        "description": "The motorway closures will be in place from 18:00 on Saturday until 13:00 on Sunday, when diversions will be in place.",
+        "published": "Fri, 13 Nov 2026 07:00:40 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f025/live/2463b750-da11-11f1-bbd1-cf41b7fd4e9b.png"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-offering-free-parking-council-34904014",
         "title": "Glasgow offering free parking in council car parks in the run-up to Christmas",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-offering-free-parking-council-34904014",
@@ -3219,14 +3227,6 @@
         "description": "<p>Unnamed Bundesliga side are also interested</p>",
         "published": "Thu, 12 Nov 2026 18:00:53 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/12/12/21/GettyImages-2296243461-(2).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
-      },
-      {
-        "id": "https://news.stv.tv/?p=537917",
-        "title": "Teens who murdered Kayden Moy in beach stabbing given permission to appeal sentences",
-        "link": "https://news.stv.tv/west-central/teens-who-murdered-kayden-moy-in-beach-stabbing-given-permission-to-appeal-sentences",
-        "description": "Paul Moy and Michelle Stewart met with the Scottish justice minister on Thursday to demand changes to parole, bail and sentencing",
-        "published": "Thu, 12 Nov 2026 17:51:49 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/06/68b58101abda8f8edd99f3b4e308f835-1780670533-1120x720.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-free-public-transport-trial-34904001",
