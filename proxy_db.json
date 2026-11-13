@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1794601810887282",
+        "title": "SpaceX to attempt double catch of huge Starship rocket",
+        "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+        "description": "Elon Musk\u2019s company will try to grab both parts of the rocket for the first time.",
+        "published": "Fri, 13 Nov 2026 21:12:02 +0100",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53ad/live/14a168f0-de92-11f1-9afe-1f03bfe02283.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo#2",
         "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
         "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Lundy is in \"real jeopardy\" and could be evacuated if supplies run out, bosses say.",
         "published": "Wed, 07 Oct 2026 05:16:14 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a51c/live/32fcc330-c1a0-11f1-8fa2-19a1e9b6288f.jpg"
-      },
-      {
-        "id": "1791324630620357",
-        "title": "Metal detectorist finds second Bronze Age hoard in Scottish Borders",
-        "link": "https://www.bbc.co.uk/news/articles/cm62y4j5w149o?at_medium=RSS&at_campaign=rss",
-        "description": "Dubbed the Blyth Hoard, the artefacts dating from between 1150BC to 850BC were found seven miles from the Peebles Hoard.",
-        "published": "Tue, 06 Oct 2026 23:55:10 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5284/live/09db2a70-c162-11f1-ae7b-cfc528a6c828.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
