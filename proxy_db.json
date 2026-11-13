@@ -3181,6 +3181,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/microsoft-outage-fix-update-glasgow-34905920",
+        "title": "Microsoft outage 'fix' update as Glasgow users among hundreds of thousands affected",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/microsoft-outage-fix-update-glasgow-34905920",
+        "description": "Microsoft has confirmed it is working on a fix for a global outage affecting its products, including Microsoft 365, Outlook, Teams and Copilot",
+        "published": "Fri, 13 Nov 2026 10:19:40 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34905946.ece/ALTERNATES/s98/0_Screenshot-2026-11-13-101351.png"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/evil-teens-who-stabbed-kayden-34905486",
         "title": "Evil teens who stabbed Kayden Moy to death given permission to appeal sentences",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/evil-teens-who-stabbed-kayden-34905486",
