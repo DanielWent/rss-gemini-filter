@@ -3197,6 +3197,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cvx2xnkxwenko#0",
+        "title": "Bus driver critical after crash with bin lorry in village",
+        "link": "https://www.bbc.co.uk/news/articles/cvx2xnkxwenko?at_medium=RSS&at_campaign=rss",
+        "description": "Emergency services were alerted to the crash on the A70 Edinburgh Road in Carnwath village on Friday afternoon.",
+        "published": "Sat, 14 Nov 2026 10:28:13 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adff/live/3f4091c0-e014-11f1-b884-a9f52ca7a4b1.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=538223",
         "title": "Fifteen people taken to hospital following \u2018deliberate\u2019 blaze at Ibrox flat block in Glasgow",
         "link": "https://news.stv.tv/west-central/fifteen-people-taken-to-hospital-following-deliberate-blaze-at-ibrox-flat-block-in-glasgow",
@@ -3219,14 +3227,6 @@
         "description": "Dozens of separate landlords and businesses only have responsibility for very small parts of each lane.",
         "published": "Fri, 13 Nov 2026 22:58:55 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65ab/live/d1db8020-df7f-11f1-b441-2b33b063138f.png"
-      },
-      {
-        "id": "https://news.stv.tv/?p=538194",
-        "title": "Multiple casualties reported as firefighters battle four-storey building blaze in Glasgow",
-        "link": "https://news.stv.tv/west-central/multiple-casualties-reported-as-firefighters-battle-four-storey-building-blaze-in-glasgow",
-        "description": "Four fire appliances are on scene after a fire broke out on the ground floor of a building",
-        "published": "Fri, 13 Nov 2026 18:52:55 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/a7effef332b84161e7321e2232236a51-1794595798-1280x720.jpeg"
       },
       {
         "id": "https://news.stv.tv/?p=538145",
