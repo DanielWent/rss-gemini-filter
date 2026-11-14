@@ -3197,6 +3197,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/tesco-urgently-recalls-2-guinness-34912623",
+        "title": "Tesco urgently recalls 2 Guinness products after labelling error",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/tesco-urgently-recalls-2-guinness-34912623",
+        "description": "Tesco has issued an urgent warning after a labelling error meant the products could pose a risk to some customers",
+        "published": "Sat, 14 Nov 2026 16:17:13 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34912622.ece/ALTERNATES/s98/0_Tesco-Supermarket-Sign.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-launch-probe-after-four-34912726",
+        "title": "Police launch probe after four-month-old baby dies at north Glasgow home",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-launch-probe-after-four-34912726",
+        "description": "Police have confirmed they are investigating the baby's death.",
+        "published": "Sat, 14 Nov 2026 16:12:15 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34912731.ece/ALTERNATES/s98/1_unnamed-2.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-should-really-proud-celtic-34911652",
         "title": "Glasgow should be 'really proud' of Celtic and Rangers says council leader",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-should-really-proud-celtic-34911652",
