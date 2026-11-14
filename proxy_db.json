@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo#3",
+        "title": "Thousands turn out in Edinburgh to protest against AI data centres",
+        "link": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo?at_medium=RSS&at_campaign=rss",
+        "description": "Demonstrators armed with placards - and some dressed in costume - assembled at the top of the Royal Mile before marching towards the Scottish Parliament.",
+        "published": "Sat, 14 Nov 2026 17:20:33 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a19c/live/42893b00-e03e-11f1-88e1-eb4e155225b3.jpg"
+      },
+      {
         "id": "1794601810887282",
         "title": "SpaceX to attempt double catch of huge Starship rocket",
         "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
         "published": "Wed, 07 Oct 2026 10:09:57 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d6d/live/265d5440-c232-11f1-be2f-0fbd447d6e43.png"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c6jdv4vp3rl3o#4",
-        "title": "Puffin island on cusp of closure as it runs out of water",
-        "link": "https://www.bbc.co.uk/news/articles/c6jdv4vp3rl3o?at_medium=RSS&at_campaign=rss",
-        "description": "Lundy is in \"real jeopardy\" and could be evacuated if supplies run out, bosses say.",
-        "published": "Wed, 07 Oct 2026 05:16:14 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a51c/live/32fcc330-c1a0-11f1-8fa2-19a1e9b6288f.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
