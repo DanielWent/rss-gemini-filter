@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o#3",
+        "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+        "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+        "description": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+        "published": "Sun, 15 Nov 2026 13:37:45 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ab/live/d67148b0-e0ef-11f1-97b9-9110abfffc70.png"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo#3",
         "title": "Thousands turn out in Edinburgh to protest against AI data centres",
         "link": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The presenter is giving evidence to a court examining accusations against two former Edinburgh Academy teachers who are unfit to stand trial.",
         "published": "Wed, 07 Oct 2026 17:54:11 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a8/live/e59929c0-c26d-11f1-b278-615cdfb74f16.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o#1",
-        "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
-        "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
-        "description": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
-        "published": "Wed, 07 Oct 2026 10:09:57 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d6d/live/265d5440-c232-11f1-be2f-0fbd447d6e43.png"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
