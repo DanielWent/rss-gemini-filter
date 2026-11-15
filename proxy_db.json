@@ -3197,6 +3197,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c32l5ny1r7x9o#0",
+        "title": "Trident submarine returns home after record-breaking undersea patrol",
+        "link": "https://www.bbc.co.uk/news/articles/c32l5ny1r7x9o?at_medium=RSS&at_campaign=rss",
+        "description": "Defence Secretary Wes Streeting was at HM Naval Base Clyde to welcome the crew after the longest deployment at sea for a British vessel.",
+        "published": "Sun, 15 Nov 2026 17:00:50 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/901f/live/93c10f00-e112-11f1-be85-b30bb13e656e.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgows-dumbarton-road-closed-after-34915053",
         "title": "Glasgow's Dumbarton Road closed after two-vehicle crash as man rushed to hospital",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgows-dumbarton-road-closed-after-34915053",
