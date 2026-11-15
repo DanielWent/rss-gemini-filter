@@ -3197,6 +3197,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/teen-motorcycle-rider-critical-condition-34914017",
+        "title": "Teen motorcycle rider in critical condition after three-vehicle collision in Paisley",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/teen-motorcycle-rider-critical-condition-34914017",
+        "description": "Enquiries are ongoing to establish the full circumstances.",
+        "published": "Sun, 15 Nov 2026 10:47:26 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34914038.ece/ALTERNATES/s98/0_Screenshot-2026-11-15-103707.png"
+      },
+      {
+        "id": "https://news.stv.tv/?p=537798",
+        "title": "Scots grandad traces thousands of \u2018forgotten\u2019 First World War fallen",
+        "link": "https://news.stv.tv/west-central/scots-grandad-traces-thousands-of-forgotten-first-world-war-fallen",
+        "description": "John Houston spent 14 years uncovering the stories of Glasgow's forgotten war dead",
+        "published": "Sun, 15 Nov 2026 10:35:21 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/4d94d48d3270d53d63e71021097fe771-1794736319-1280x720.jpeg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/spending-glasgow-homeless-bbs-hit-34912838",
         "title": "Spending on Glasgow homeless B&Bs to hit \u00a384m as locals fear rise of 'dosshouse' culture",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/spending-glasgow-homeless-bbs-hit-34912838",
