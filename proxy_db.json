@@ -3197,6 +3197,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=538527",
+        "title": "Extensive police search under way for vulnerable teenager reported missing from Glasgow",
+        "link": "https://news.stv.tv/west-central/extensive-police-search-under-way-for-vulnerable-teenager-reported-missing-from-glasgow",
+        "description": "Haroon Ali, 16, was last seen in the Royston area of Glasgow at around 8.15am on Monday.",
+        "published": "Mon, 16 Nov 2026 18:12:22 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/27b53b8753140bd2ce7456548a1c593f-1794852262-1120x720.jpeg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/three-glasgow-play-parks-set-34920545",
         "title": "Three Glasgow play parks set for revamp with funding from housing developers",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/three-glasgow-play-parks-set-34920545",
