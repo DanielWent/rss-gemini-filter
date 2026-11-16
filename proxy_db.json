@@ -3197,6 +3197,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/48m-upgrade-glasgow-bellgrove-train-34917405",
+        "title": "\u00a34.8m upgrade of Glasgow Bellgrove train station will include new entrance and 'step-free' access",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/48m-upgrade-glasgow-bellgrove-train-34917405",
+        "description": "A new entrance will be created at the Sword Street side of the station, allowing easier access to the low level platform.",
+        "published": "Mon, 16 Nov 2026 11:26:56 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34917409.ece/ALTERNATES/s98/0_Bellgrove-AfA-Aerial-View.png"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/uks-newest-airline-with-gaming-34916915",
         "title": "UK\u2019s newest airline 'with gaming pods' that flew from Glasgow forced into liquidation",
         "link": "https://www.glasgowlive.co.uk/whats-on/uks-newest-airline-with-gaming-34916915",
@@ -3395,14 +3403,6 @@
         "description": "Four fire appliances battled the blaze at the four-storey property in Ibrox on Friday evening",
         "published": "Sat, 14 Nov 2026 10:11:47 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/a7effef332b84161e7321e2232236a51-1794595798-1280x720.jpeg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/council-under-fire-over-dumping-34908020",
-        "title": "Council under fire over 'dumping' George Square items at Glasgow park to save money",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/council-under-fire-over-dumping-34908020",
-        "description": "Glasgow City Council has stored heritage stonework recovered from works around the city in the local park but disgruntled residents say \"there's better places to store things\".",
-        "published": "Sat, 14 Nov 2026 09:43:55 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34908290.ece/ALTERNATES/s98/0_bffdfd46-c2e3-4b28-9510-9346289d6228.jpg"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/ckge3ydd2r3zo#0",
