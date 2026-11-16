@@ -3197,6 +3197,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/scotlands-waste-system-faces-catastrophe-34915132",
+        "title": "Scotland's waste system faces 'catastrophe' as bins could be overflowing at Christmas",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/scotlands-waste-system-faces-catastrophe-34915132",
+        "description": "An MSP has called on John Swinney to take action now or risk bins being left overflowing this Christmas.",
+        "published": "Mon, 16 Nov 2026 07:37:41 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34915174.ece/ALTERNATES/s98/0_Screenshot-2026-11-15-163710.png"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c34gn57nz2kdo#0",
         "title": "Pupils say school mobile phone ban 'stopped us messing about'",
         "link": "https://www.bbc.co.uk/news/articles/c34gn57nz2kdo?at_medium=RSS&at_campaign=rss",
@@ -3659,14 +3667,6 @@
         "description": "Emergency services were again called to the area on Wednesday afternoon.",
         "published": "Thu, 12 Nov 2026 11:32:17 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34892356.ece/ALTERNATES/s98/4_Hyndland.png"
-      },
-      {
-        "id": "https://news.stv.tv/?p=537770",
-        "title": "Police cordon off Glasgow street overnight after 17-year-old found injured",
-        "link": "https://news.stv.tv/west-central/police-cordon-off-glasgow-street-overnight-after-17-year-old-found-injured",
-        "description": "Emergency services were called to the Norham Street area of Glasgow on Wednesday evening",
-        "published": "Thu, 12 Nov 2026 10:35:08 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/dabd42296d068a71741816ad62fe96c3-1794479574-1280x720.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
