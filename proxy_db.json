@@ -3197,6 +3197,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/busy-m8-stretch-near-glasgow-34918083",
+        "title": "Busy M8 stretch near Glasgow to shut for two more days this week",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/busy-m8-stretch-near-glasgow-34918083",
+        "description": "It follows all 16 lanes of motorway closing to traffic at the weekend, with advice to avoid the busy route throughout.",
+        "published": "Mon, 16 Nov 2026 12:15:56 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34918082.ece/ALTERNATES/s98/0_RTP_SDR_160421_TravelScotland_008JPG.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=538386",
+        "title": "Report condemns years of \u2018systemic failures\u2019 in Dalmarnock housing village",
+        "link": "https://news.stv.tv/west-central/report-condemns-years-of-systemic-failures-in-dalmarnock-housing-village",
+        "description": "Residents living in Dalmarnock\u2019s Athletes\u2019 Village claim to have endured years of  flooding, sewage, damp and mould issues",
+        "published": "Mon, 16 Nov 2026 12:13:57 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/29b8f9a75f1e378a397eb8f0e176e1af-1794821791-1280x720.jpeg"
+      },
+      {
+        "id": "9352939",
+        "title": "Celtic\u2019s January transfer window \u2018stance\u2019 as club chances of \u2018cashing in\u2019 on key star handed verdict",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtics-january-transfer-window-stance-as-club-chances-cashing-in-key-star-verdict-9352939",
+        "description": "<p>Celtic could be set for action in the January transfer window.</p>",
+        "published": "Mon, 16 Nov 2026 12:00:37 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/16/10/00/GettyImages-2304330690.jpg?width=1200&auto=webp&trim=0%2C3%2C2%2C0"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/48m-upgrade-glasgow-bellgrove-train-34917405",
         "title": "\u00a34.8m upgrade of Glasgow Bellgrove train station will include new entrance and 'step-free' access",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/48m-upgrade-glasgow-bellgrove-train-34917405",
