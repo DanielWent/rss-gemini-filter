@@ -3197,6 +3197,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-e-bike-provider-voi-34918399",
+        "title": "Glasgow e-bike provider Voi to reduce prices after recent complaints",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-e-bike-provider-voi-34918399",
+        "description": "Council leader Ricky Bell announced the company is planning to reduce the cost of its 'higher volume bundles'",
+        "published": "Mon, 16 Nov 2026 13:07:54 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34049477.ece/ALTERNATES/s98/0_Screenshot-2026-06-02-at-100247.png"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/busy-m8-stretch-near-glasgow-34918083",
         "title": "Busy M8 stretch near Glasgow to shut for two more days this week",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/busy-m8-stretch-near-glasgow-34918083",
@@ -3571,14 +3579,6 @@
         "description": "Launched in November 2024, Glasgow City Region was the first city region in Scotland to launch a regional Living Wage campaign making the rate \u00a314.10 per hour.",
         "published": "Fri, 13 Nov 2026 07:44:46 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/article34903033.ece/ALTERNATES/s98/0_Living-Wage-Accreditation.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cw3dgvepppn8o#0",
-        "title": "Warning of major M8 delays as lanes close for bridge reinstallation",
-        "link": "https://www.bbc.co.uk/news/articles/cw3dgvepppn8o?at_medium=RSS&at_campaign=rss",
-        "description": "The motorway closures will be in place from 18:00 on Saturday until 13:00 on Sunday, when diversions will be in place.",
-        "published": "Fri, 13 Nov 2026 07:00:40 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f025/live/2463b750-da11-11f1-bbd1-cf41b7fd4e9b.png"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/c0re545l8jdo#0",
