@@ -814,6 +814,14 @@
     "description": "AI Filtered Google Blog Updates.",
     "articles": [
       {
+        "id": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
+        "title": "Regional voices are rolling out in the Gemini app.",
+        "link": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/super-g_1.max-600x600.format-webp.webp\" />Gemini now offers 66 regional voices on Android and iOS. Choose a natural, local dialect for your app interactions. Pick your favorite voice today.",
+        "published": "Mon, 16 Nov 2026 18:45:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/super-g_1.max-600x600.format-webp.webp"
+      },
+      {
         "id": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
         "title": "Connect Google Wallet to Gemini for personal finance insights",
         "link": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
