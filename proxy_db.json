@@ -3205,6 +3205,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=538542",
+        "title": "Josh Kerr crowned Scottish athlete of the year",
+        "link": "https://news.stv.tv/west-central/josh-kerr-crowned-scottish-athlete-of-the-year",
+        "description": "The Scot set a new world record over the mile in the summer before winning gold over the same distance at the Commonwealth Games in Glasgow",
+        "published": "Mon, 16 Nov 2026 19:22:06 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/33506584d6fba51fd284f4041e84fe7d-1794852879-1080x720.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=538527",
         "title": "Extensive police search under way for vulnerable teenager reported missing from Glasgow",
         "link": "https://news.stv.tv/west-central/extensive-police-search-under-way-for-vulnerable-teenager-reported-missing-from-glasgow",
