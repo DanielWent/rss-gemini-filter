@@ -3197,6 +3197,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/monday-stockpiling-warning-amid-blackouts-34916814",
+        "title": "Monday stockpiling warning amid blackouts and empty shop shelves concern",
+        "link": "https://www.glasgowlive.co.uk/news/monday-stockpiling-warning-amid-blackouts-34916814",
+        "description": "Limited stockpiles of food and medicine are leaving the country \"dangerously exposed\" to disruption in global supply chains, the Lords National Resilience Committee cautioned",
+        "published": "Mon, 16 Nov 2026 10:15:24 +0000",
+        "image_url": "https://i2-prod.birminghammail.co.uk/incoming/article34916844.ece/ALTERNATES/s98/0_Molesey-burst-water-main.jpg"
+      },
+      {
         "id": "9352714",
         "title": "Tottenham \u2018will consider\u2019 terminating transfer arrangement over Spurs star as Rangers move assessed",
         "link": "https://www.glasgowworld.com/sport/football/rangers/tottenham-will-consider-terminating-transfer-arrangement-spurs-star-rangers-move-assessed-9352714",
@@ -3355,14 +3363,6 @@
         "description": "Tesco has issued an urgent warning after a labelling error meant the products could pose a risk to some customers",
         "published": "Sat, 14 Nov 2026 16:17:13 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34912622.ece/ALTERNATES/s98/0_Tesco-Supermarket-Sign.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-launch-probe-after-four-34912726",
-        "title": "Police launch probe after four-month-old baby dies at north Glasgow home",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-launch-probe-after-four-34912726",
-        "description": "Police have confirmed they are investigating the baby's death.",
-        "published": "Sat, 14 Nov 2026 16:12:15 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34912731.ece/ALTERNATES/s98/1_unnamed-2.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-should-really-proud-celtic-34911652",
