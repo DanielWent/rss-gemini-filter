@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1794871518778978",
+        "title": "California sues OpenAI over Hugging Face attack",
+        "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
+        "description": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+        "published": "Tue, 17 Nov 2026 00:12:24 +0100",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o#3",
         "title": "South Korea's top scorer in tax accountancy exam admits cheating",
         "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The research found that important guardrails for teens using ChatGPT often failed.",
         "published": "Wed, 07 Oct 2026 22:34:17 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8459/live/4bc569a0-c27f-11f1-98ea-35e6bf307fc9.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cmvgx6lnpdwdo#4",
-        "title": "BBC's Nicky Campbell tells court teacher who attacked him 'completely lost it'",
-        "link": "https://www.bbc.co.uk/news/articles/cmvgx6lnpdwdo?at_medium=RSS&at_campaign=rss",
-        "description": "The presenter is giving evidence to a court examining accusations against two former Edinburgh Academy teachers who are unfit to stand trial.",
-        "published": "Wed, 07 Oct 2026 17:54:11 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7a8/live/e59929c0-c26d-11f1-b278-615cdfb74f16.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
