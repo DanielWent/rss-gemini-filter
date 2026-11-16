@@ -3197,6 +3197,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/three-glasgow-play-parks-set-34920545",
+        "title": "Three Glasgow play parks set for revamp with funding from housing developers",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/three-glasgow-play-parks-set-34920545",
+        "description": "Councillors will consider plans to fund three play areas at a meeting on Thursday.",
+        "published": "Mon, 16 Nov 2026 16:48:06 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article16118182.ece/ALTERNATES/s98/1_CS68165161.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=538468",
+        "title": "School conman Brian MacKinnon\u00a0hid weapons, drug and explicit DVDs on street before\u00a0extortion bid",
+        "link": "https://news.stv.tv/west-central/school-conman-brian-mackinnon-hid-weapons-drug-and-explicit-dvds-on-street-before-extortion-bid",
+        "description": "Brian MacKinnon, who posed as a 16-year-old schoolboy in the 1990s, ambushed his former professor at his home last year",
+        "published": "Mon, 16 Nov 2026 16:38:31 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/973f564e0354912e45ee8bb674776002-1794758104-1280x720.jpeg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c6j4r9ek0rnno#0",
         "title": "Nearly 80% of responses to council survey opposed to visitor levy",
         "link": "https://www.bbc.co.uk/news/articles/c6j4r9ek0rnno?at_medium=RSS&at_campaign=rss",
@@ -3211,14 +3227,6 @@
         "description": "Police have issued an updated statement on the Friday (November 13) incident.",
         "published": "Mon, 16 Nov 2026 15:51:33 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34911748.ece/ALTERNATES/s98/1_Copland-Roas.png"
-      },
-      {
-        "id": "https://news.stv.tv/?p=538475",
-        "title": "Glasgow flat block \u2018deliberately\u2019 set alight was \u2018housing asylum seekers\u2019",
-        "link": "https://news.stv.tv/west-central/glasgow-flat-block-deliberately-set-alight-was-housing-asylum-seekers",
-        "description": "Fifteen people were taken to hospital after the fire took hold on the ground floor of the four-storey building",
-        "published": "Mon, 16 Nov 2026 15:39:44 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/a7effef332b84161e7321e2232236a51-1794595798-1280x720.jpeg"
       },
       {
         "id": "9354235",
