@@ -3197,6 +3197,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c6j4r9ek0rnno#0",
+        "title": "Nearly 80% of responses to council survey opposed to visitor levy",
+        "link": "https://www.bbc.co.uk/news/articles/c6j4r9ek0rnno?at_medium=RSS&at_campaign=rss",
+        "description": "Council officials raised the possibility of a flat \u00a35 per room/area, per night rate.",
+        "published": "Mon, 16 Nov 2026 16:09:08 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8224/live/a1da8450-fd32-11f0-b218-01e47e5ce409.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-ibrox-fire-not-targeted-34920054",
+        "title": "Glasgow Ibrox fire \u2018not targeted\u2019 say police after deliberate blaze lands 15 people in hospital",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-ibrox-fire-not-targeted-34920054",
+        "description": "Police have issued an updated statement on the Friday (November 13) incident.",
+        "published": "Mon, 16 Nov 2026 15:51:33 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34911748.ece/ALTERNATES/s98/1_Copland-Roas.png"
+      },
+      {
         "id": "https://news.stv.tv/?p=538475",
         "title": "Glasgow flat block \u2018deliberately\u2019 set alight was \u2018housing asylum seekers\u2019",
         "link": "https://news.stv.tv/west-central/glasgow-flat-block-deliberately-set-alight-was-housing-asylum-seekers",
