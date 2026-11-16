@@ -3197,6 +3197,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9354235",
+        "title": "Glasgow in the Sixties: The life and times of Glaswegians in the 1960s in 60 pictures",
+        "link": "https://www.glasgowworld.com/retro/glasgow-in-the-sixties-the-life-and-times-of-glaswegians-in-the-1960s-in-60-pictures-9354235",
+        "description": "<p>The 1960s were a defining era for Glasgow, marked by rapid change and the introduction of high-rise living, as seen in these 60 pictures capturing the city's transformation.</p>",
+        "published": "Mon, 16 Nov 2026 15:11:19 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2025/05/27/16/35/GettyImages-3270958-(1).jpeg?width=1200&auto=webp&trim=0%2C237%2C0%2C237"
+      },
+      {
+        "id": "9354202",
+        "title": "Office space in iconic Glasgow Green building becomes available for rent for first time in a decade",
+        "link": "https://www.glasgowworld.com/news/glasgow-office-space-templeton-on-the-green-9354202",
+        "description": "<p>The historic building, modelled on Venice's Doge's Palace, is being marketed by joint agents Knight Frank and CBRE after its previous tenant moved out</p>",
+        "published": "Mon, 16 Nov 2026 15:03:56 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/16/14/41/Templeton4-McAteer-(1).jpeg?width=1200&auto=webp&trim=1757%2C15%2C753%2C0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/112k-designer-drug-haul-recovered-34919509",
+        "title": "\u00a3112k designer drug haul recovered after police raid Cambuslang and Larkhall homes",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/112k-designer-drug-haul-recovered-34919509",
+        "description": "Police found nearly 900 pills, almost half a kilogram of ADB-BUTINACA and bags of cocaine during intelligence-led raids.",
+        "published": "Mon, 16 Nov 2026 15:03:44 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34569320.ece/ALTERNATES/s98/1_dmp_ham_090421court_007JPG.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-flat-fire-branded-deliberate-34919065",
         "title": "Lanarkshire flat fire branded \u2018deliberate\u2019 as police launch probe",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/lanarkshire-flat-fire-branded-deliberate-34919065",
