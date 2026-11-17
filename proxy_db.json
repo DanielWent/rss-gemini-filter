@@ -3205,6 +3205,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-rushed-hospital-after-attack-34922621",
+        "title": "Man rushed to hospital after attack in Glasgow Trongate as police launch probe",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-rushed-hospital-after-attack-34922621",
+        "description": "The 32-year-old man was taken to hospital.",
+        "published": "Tue, 17 Nov 2026 10:22:11 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34922664.ece/ALTERNATES/s98/2_Trongate.png"
+      },
+      {
         "id": "https://news.stv.tv/?p=538610",
         "title": "Bellgrove station set for \u00a34.8m revamp with new entrance to accommodate football fans",
         "link": "https://news.stv.tv/west-central/bellgrove-station-set-for-4-8m-revamp-with-new-entrance-to-accommodate-football-fans",
