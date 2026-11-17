@@ -3205,6 +3205,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=538685",
+        "title": "People\u2019s Palace and Winter Gardens receives \u00a310m funding to support restoration",
+        "link": "https://news.stv.tv/west-central/peoples-palace-and-winter-gardens-receives-10m-funding-to-support-restoration",
+        "description": "The Glasgow landmark has been closed for two years for renovations, and was due to reopen in 2027 but was pushed back",
+        "published": "Tue, 17 Nov 2026 13:41:34 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/b752f51bf1a6ae7aaa18675deb60f24f-1794922151-1200x720.jpeg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-jailed-hammer-attack-injured-34923784",
         "title": "Man jailed for hammer attack that injured 15-year-old boy outside Lanarkshire tower block",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-jailed-hammer-attack-injured-34923784",
