@@ -3205,6 +3205,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/tv/milngavie-fire-survivor-speaks-out-34926215",
+        "title": "Milngavie fire survivor speaks out for first time in 'absolutely harrowing' doc",
+        "link": "https://www.glasgowlive.co.uk/news/tv/milngavie-fire-survivor-speaks-out-34926215",
+        "description": "Two episodes have been released today as one survivor is sharing her story for the first time but viewers have issued a warning",
+        "published": "Tue, 17 Nov 2026 16:52:58 +0000",
+        "image_url": "https://i2-prod.liverpoolecho.co.uk/incoming/article34926291.ece/ALTERNATES/s98/0_583052.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/woman-heard-screaming-before-gun-34926306",
+        "title": "Woman heard screaming before gun fired during Glasgow 'shooting'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/woman-heard-screaming-before-gun-34926306",
+        "description": "A 27-year-old was rushed to hospital after being found injured on Eynort Street.",
+        "published": "Tue, 17 Nov 2026 16:49:50 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34926370.ece/ALTERNATES/s98/0_JS424557823.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/forensic-officers-comb-glasgow-home-34925882",
         "title": "Forensic officers comb Glasgow home after baby's 'unexplained' death",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/forensic-officers-comb-glasgow-home-34925882",
