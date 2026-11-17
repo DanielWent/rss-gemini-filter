@@ -3205,6 +3205,46 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=538588",
+        "title": "Long delays expected after \u2018multi-vehicle\u2019 crash on M80 near Castlecary",
+        "link": "https://news.stv.tv/west-central/long-delays-expected-after-multi-vehicle-crash-on-m80-near-castlecary",
+        "description": "Traffic Scotland has confirmed vehicles are using the slip road to pass the incident",
+        "published": "Tue, 17 Nov 2026 07:48:05 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/e5aa7e0df37084788f2b61874a50dce0-1794901623-1280x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/struggling-glasgow-families-worried-cost-34918307",
+        "title": "Struggling Glasgow families worried about cost of Christmas urged to seek help now",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/struggling-glasgow-families-worried-cost-34918307",
+        "description": "Mum-of-two Amy* shares her story after struggling with postnatal depression, a damp flat and a monthly shortfall of \u00a3190.",
+        "published": "Tue, 17 Nov 2026 07:46:25 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34918357.ece/ALTERNATES/s98/0_GettyImages-1448597907.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-cricketer-crohns-makes-world-34919145",
+        "title": "Glasgow cricketer with Crohn's makes it to World Cup in India after stoma 'gave him his life back'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-cricketer-crohns-makes-world-34919145",
+        "description": "Hafeez Siddiq, 55, said his reluctant choice to undergo major abdominal surgery means he's now \"living the life I didn't have\" as a younger man.",
+        "published": "Tue, 17 Nov 2026 07:40:04 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34919610.ece/ALTERNATES/s98/1_Hafeez.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-political-parties-unite-against-34920582",
+        "title": "Glasgow political parties to unite against splitting up city in proposed council shake-up",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-political-parties-unite-against-34920582",
+        "description": "A motion to a council meeting this week argues there is a 'strong case' to not split Glasgow into smaller units.",
+        "published": "Tue, 17 Nov 2026 07:29:59 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article30914130.ece/ALTERNATES/s98/6_GettyImages-1238047663.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/two-vigilantes-trapped-same-lanarkshire-34919445",
+        "title": "Two vigilantes trapped same Lanarkshire man sending sexual messages to 'young girls'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/two-vigilantes-trapped-same-lanarkshire-34919445",
+        "description": "Stephen Simpson spent days chatting to the 'girls' about sex despite being told repeatedly that they were only 13 and 14.",
+        "published": "Tue, 17 Nov 2026 07:15:48 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34649770.ece/ALTERNATES/s98/1_dmp_ham_090421court_004JPG.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/whats-on/theatre-news/still-game-returns-glasgow-hydro-34920788",
         "title": "Still Game returns to Glasgow Hydro for Heaven Sent live show - and tickets are on sale this week",
         "link": "https://www.glasgowlive.co.uk/whats-on/theatre-news/still-game-returns-glasgow-hydro-34920788",
