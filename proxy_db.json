@@ -3205,6 +3205,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=538678",
+        "title": "Killer claimed he didn\u2019t know man he murdered in \u2018brutal attack\u2019 at his Wishaw home",
+        "link": "https://news.stv.tv/west-central/killer-claimed-he-didnt-know-man-he-murdered-in-brutal-attack-at-his-wishaw-home",
+        "description": "Scott Chambers repeatedly struck James McMaster on the head and body with a knife or similar weapon at his home in Wishaw",
+        "published": "Tue, 17 Nov 2026 14:24:49 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/8bc662a257a5ea8eab15416b99c7a0a8-1794921977-1120x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-braced-baltic-3c-temperatures-34924612",
+        "title": "Glasgow braced for baltic -3C temperatures and 'bursts' of rain as wintry weather takes over",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-braced-baltic-3c-temperatures-34924612",
+        "description": "Rain and sub-zero temperatures are predicted by the Met Office this week.",
+        "published": "Tue, 17 Nov 2026 14:12:24 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34844735.ece/ALTERNATES/s98/3_Frost.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/coolest-glasgow-neighbourhood-significant-environmental-34924640",
+        "title": "'Coolest' Glasgow neighbourhood has 'significant environmental' problems affecting lives of locals",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/coolest-glasgow-neighbourhood-significant-environmental-34924640",
+        "description": "Govanhill needs attention to deal with problems including rubbish management and pest control, say residents and key figures.",
+        "published": "Tue, 17 Nov 2026 14:10:15 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34924798.ece/ALTERNATES/s98/0_govanhilljpeg.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/future-whitehill-pool-left-limbo-34924690",
+        "title": "Future of Whitehill Pool 'left in limbo' as Glasgow facility remains closed to the public",
+        "link": "https://www.glasgowlive.co.uk/news/future-whitehill-pool-left-limbo-34924690",
+        "description": "Community group Save Whitehill Pool is still fighting for the facility and are currently working on a business case for refurb or rebuild.",
+        "published": "Tue, 17 Nov 2026 14:06:36 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33488834.ece/ALTERNATES/s98/0_Whitelhillpooljpeg.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=538685",
         "title": "People\u2019s Palace and Winter Gardens receives \u00a310m funding to support restoration",
         "link": "https://news.stv.tv/west-central/peoples-palace-and-winter-gardens-receives-10m-funding-to-support-restoration",
