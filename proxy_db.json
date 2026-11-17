@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cwzr53y51gk4o#5",
+        "title": "Mystery of 2,000-year-old bog body solved in 'first of its kind' investigation",
+        "link": "https://www.bbc.co.uk/news/articles/cwzr53y51gk4o?at_medium=RSS&at_campaign=rss",
+        "description": "The Ballymacombs More Woman was discovered near Bellaghy - and suffered a deliberate decapitation.",
+        "published": "Tue, 17 Nov 2026 06:02:09 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cd5/live/2a421d50-eed7-11ef-b7c5-c772dd3549de.png"
+      },
+      {
         "id": "1794871518778978",
         "title": "California sues OpenAI over Hugging Face attack",
         "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Pioneering computer scientist led the development of the software for Nasa's Apollo mission and was awarded the Presidential Medal of Freedom.",
         "published": "Thu, 08 Oct 2026 04:49:13 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4635/live/ee80f190-c2d0-11f1-9bbb-c9af641c55ad.jpg"
-      },
-      {
-        "id": "1791405313696624",
-        "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
-        "link": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
-        "description": "The research found that important guardrails for teens using ChatGPT often failed.",
-        "published": "Wed, 07 Oct 2026 22:34:17 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8459/live/4bc569a0-c27f-11f1-98ea-35e6bf307fc9.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -3204,6 +3204,14 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-jailed-hammer-attack-injured-34923784",
+        "title": "Man jailed for hammer attack that injured 15-year-old boy outside Lanarkshire tower block",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-jailed-hammer-attack-injured-34923784",
+        "description": "Taylor Rooney, 22 \u2013 described to the court as 'vulnerable' \u2013 was involved in a 'confrontation' which spilled outside.",
+        "published": "Tue, 17 Nov 2026 12:17:54 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34923902.ece/ALTERNATES/s98/1_image-17.jpg"
+      },
       {
         "id": "9355624",
         "title": "Rangers target winger who leads domestic goal contribution charts as Derek McInnes reunion \u2018considered\u2019",
