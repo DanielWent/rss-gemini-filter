@@ -2437,6 +2437,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=538846",
+        "title": "Buchanan Galleries revamp begins ahead of Christmas rush",
+        "link": "https://news.stv.tv/west-central/buchanan-galleries-revamp-begins-ahead-of-christmas-rush",
+        "description": "The centre will remain open throughout the works",
+        "published": "Wed, 18 Nov 2026 11:15:55 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/d18dc3a899842248fbd872c056c2307f-1794998326-1200x720.jpeg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cm0rkq7xp7e1o#0",
         "title": "Police confirm woman injured on Glasgow street was shot",
         "link": "https://www.bbc.co.uk/news/articles/cm0rkq7xp7e1o?at_medium=RSS&at_campaign=rss",
@@ -2493,14 +2501,6 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article31204254.ece/ALTERNATES/s98/2_JS241613909-2.jpg"
       },
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-woman-almost-died-after-34927614",
-        "title": "Glasgow woman almost died after Turkey op left her with cyst size of baby",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-woman-almost-died-after-34927614",
-        "description": "She flew to Turkey for a \u00a36,000 procedure to boost her confidence and was left seriously injured for seven months",
-        "published": "Wed, 18 Nov 2026 06:46:40 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34927618.ece/ALTERNATES/s98/2_Jam_Press_JMP933675.jpg"
-      },
-      {
         "id": "https://www.bbc.co.uk/news/articles/cq23jvxm3jldo#0",
         "title": "George thought his funeral was paid for \u2013 but now his wife will get nothing when he dies",
         "link": "https://www.bbc.co.uk/news/articles/cq23jvxm3jldo?at_medium=RSS&at_campaign=rss",
@@ -2531,14 +2531,6 @@
         "description": "Two episodes have been released today as one survivor is sharing her story for the first time but viewers have issued a warning",
         "published": "Tue, 17 Nov 2026 16:52:58 +0000",
         "image_url": "https://i2-prod.liverpoolecho.co.uk/incoming/article34926291.ece/ALTERNATES/s98/0_583052.jpg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/woman-heard-screaming-before-gun-34926306",
-        "title": "Woman heard screaming before gun fired during Glasgow 'shooting'",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/woman-heard-screaming-before-gun-34926306",
-        "description": "A 27-year-old was rushed to hospital after being found injured on Eynort Street.",
-        "published": "Tue, 17 Nov 2026 16:49:50 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34926370.ece/ALTERNATES/s98/0_JS424557823.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/forensic-officers-comb-glasgow-home-34925882",
