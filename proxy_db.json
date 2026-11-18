@@ -2454,6 +2454,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cr930ldw0z0do#0",
+        "title": "Ferries boss says Ferguson shipyard should not get new CalMac contracts",
+        "link": "https://www.bbc.co.uk/news/articles/cr930ldw0z0do?at_medium=RSS&at_campaign=rss",
+        "description": "CMAL chief executive says he is opposed to directly awarding new ship orders to the nationalised firm, despite it being Scottish government policy.",
+        "published": "Wed, 18 Nov 2026 17:31:33 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13c3/live/1cf1f190-d5cf-11f0-ae19-ef278771bbc7.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-raid-lanarkshire-addresses-after-34932236",
         "title": "Police raid Lanarkshire addresses after Edinburgh pub 'shooting' as three arrested",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-raid-lanarkshire-addresses-after-34932236",
@@ -2518,7 +2526,7 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34930566.ece/ALTERNATES/s98/1_JS424641523.jpg"
       }
     ],
-    "image_url": "https://runabc.co.uk/images/site/runabc-Scotland.png"
+    "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
   },
   "glasgow_live_ai_filtered": {
     "title": "Glasgow Live",
