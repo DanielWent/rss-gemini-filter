@@ -5,6 +5,30 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/sport/athletics/articles/cwe8506v754yo#7",
+        "title": "Josh Kerr: The making of the man behind the shades",
+        "link": "https://www.bbc.co.uk/sport/athletics/articles/cwe8506v754yo?at_medium=RSS&at_campaign=rss",
+        "description": "People know Josh Kerr the athlete. But are there two Josh Kerrs? The mile world record holder talks about disguising alcohol-free cider, entering races under a false name and his granny keeping him humble.",
+        "published": "Wed, 18 Nov 2026 07:18:18 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/260b/live/4dcbbf80-dddf-11f1-b465-b9821c2582d4.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c6x2ev38k4yno#3",
+        "title": "'Human' is Cambridge Dictionary Word of the Year",
+        "link": "https://www.bbc.co.uk/news/articles/c6x2ev38k4yno?at_medium=RSS&at_campaign=rss",
+        "description": "The growth of AI means we need to say when something is made by humans, says the book's editor.",
+        "published": "Wed, 18 Nov 2026 05:39:39 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9606/live/60cdf4b0-e274-11f1-99b6-a35a62fa4264.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo#0",
+        "title": "AI used to find security flaw in Java, world's third-largest programming language",
+        "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+        "description": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+        "published": "Wed, 18 Nov 2026 05:33:13 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2fd/live/c9c932d0-e324-11f1-99a1-253766e7ad8b.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cwzr53y51gk4o#5",
         "title": "Mystery of 2,000-year-old bog body solved in 'first of its kind' investigation",
         "link": "https://www.bbc.co.uk/news/articles/cwzr53y51gk4o?at_medium=RSS&at_campaign=rss",
@@ -779,30 +803,6 @@
         "description": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
         "published": "Fri, 09 Oct 2026 09:30:49 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e0e/live/a2f6be20-c3c1-11f1-9798-abffda1e61e7.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cr5ye4p86d21o#4",
-        "title": "'People use AI to avoid paying for school photos, but they don't realise the consequences'",
-        "link": "https://www.bbc.co.uk/news/articles/cr5ye4p86d21o?at_medium=RSS&at_campaign=rss",
-        "description": "Ian Gilbert says he's heard parents boasting about using AI to take the watermark off his photos.",
-        "published": "Fri, 09 Oct 2026 05:08:09 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97d4/live/fe6f7990-c240-11f1-bc2e-018d645d8d21.png"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo#1",
-        "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-        "link": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
-        "description": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
-        "published": "Thu, 08 Oct 2026 23:14:02 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b64/live/f290d3b0-c300-11f1-bc2e-018d645d8d21.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo#4",
-        "title": "Margaret Hamilton, whose software helped land Apollo 11 on the moon, dies at 90",
-        "link": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
-        "description": "Pioneering computer scientist led the development of the software for Nasa's Apollo mission and was awarded the Presidential Medal of Freedom.",
-        "published": "Thu, 08 Oct 2026 04:49:13 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4635/live/ee80f190-c2d0-11f1-9bbb-c9af641c55ad.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2428,6 +2428,22 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "9357676",
+        "title": "Rangers loanee set for winter Ibrox return as potential suitors both bow out two-horse transfer race",
+        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-loanee-set-for-winter-ibrox-return-as-potential-suitors-bow-out-two-horse-transfer-race-9357676",
+        "description": "<p>Winger set for January return upon end of South American loan spell</p>",
+        "published": "Wed, 18 Nov 2026 08:00:00 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/17/22/14/GettyImages-1258492975.jpeg?width=1200&auto=webp&trim=0%2C9%2C6%2C0"
+      },
+      {
+        "id": "https://runabc.co.uk/ayrodynamic-turkey-trot-2026-builds-on-ayr-seafront-racing-comeback",
+        "title": "Ayrodynamic Turkey Trot 2026 Builds On Ayr Seafront Racing Comeback",
+        "link": "https://runabc.co.uk/ayrodynamic-turkey-trot-2026-builds-on-ayr-seafront-racing-comeback",
+        "description": "<p><img alt=\"Ayrodynamic Turkey Trot 2026\" src=\"https://runabc.co.uk/images/2026/11/ayrodynamic-turkey-trot-2026-670483.jpg\" /></p>\n\t\t\t\t<p>Ayrodynamic Turkey Trot returns to Ayr on 27 December 2026, building on last year's comeback with a 10K road race along the seafront to Greenan Castle and back...</p>",
+        "published": "Wed, 18 Nov 2026 07:55:00 +0000",
+        "image_url": "https://runabc.co.uk/images/2026/11/ayrodynamic-turkey-trot-2026-670483.jpg"
+      },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/no-mayor-75bn-investment-glasgow-34926579",
         "title": "No mayor and \u00a37.5bn investment in Glasgow City Region\u2019s devolution 'proposition'",
