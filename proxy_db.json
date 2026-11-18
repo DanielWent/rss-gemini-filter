@@ -2437,6 +2437,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=538868",
+        "title": "Woman in critical condition after being shot in targeted attack at property\u00a0in Glasgow",
+        "link": "https://news.stv.tv/west-central/woman-in-critical-condition-after-being-shot-in-targeted-attack-at-property-in-glasgow",
+        "description": "The 27-year-old is in a critical condition in hospital after being shot on Eynort Street in Lambhill",
+        "published": "Wed, 18 Nov 2026 11:52:10 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/b4e8ef9c6355141e97f093fb3bb40c1a-1794917841-1280x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-primary-pupil-brings-knife-34928743",
+        "title": "Glasgow primary pupil brings knife to school as parents warned against misinformation",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-primary-pupil-brings-knife-34928743",
+        "description": "The council said the incident was dealt with \"swiftly\" and urged parents not to speculate and spread misinformation on the circumstances.",
+        "published": "Wed, 18 Nov 2026 11:27:02 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34928898.ece/ALTERNATES/s98/2_St-Marnocks.png"
+      },
+      {
         "id": "https://news.stv.tv/?p=538846",
         "title": "Buchanan Galleries revamp begins ahead of Christmas rush",
         "link": "https://news.stv.tv/west-central/buchanan-galleries-revamp-begins-ahead-of-christmas-rush",
