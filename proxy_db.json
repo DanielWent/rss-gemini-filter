@@ -2437,12 +2437,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-lambhill-shooting-branded-extremely-34929685",
-        "title": "Glasgow Lambhill shooting branded 'extremely reckless act' as police reassure shaken locals",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-lambhill-shooting-branded-extremely-34929685",
-        "description": "Officers say \u201csignificant resources\u201d have been deployed to find the gunman.",
-        "published": "Wed, 18 Nov 2026 12:27:17 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34929696.ece/ALTERNATES/s98/1_Screenshot-2026-11-18-at-122407.png"
+        "id": "https://www.bbc.co.uk/news/articles/cwx2e57l3g70o#0",
+        "title": "Glasgow's Hunterian Art Gallery becomes A-listed protected building",
+        "link": "https://www.bbc.co.uk/news/articles/cwx2e57l3g70o?at_medium=RSS&at_campaign=rss",
+        "description": "Historic Environment Scotland made the decision after a public consultation was held earlier this year.",
+        "published": "Wed, 18 Nov 2026 13:19:07 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d5b/live/78a26960-e34e-11f1-99aa-0f40b013ad11.jpg"
+      },
+      {
+        "id": "9358985",
+        "title": "Bearsden for Sale: You need to check out this Bearsden stone villa on the market for \u00a3760k",
+        "link": "https://www.glasgowworld.com/lifestyle/homes-and-gardens/bearsden-for-sale-you-need-to-check-out-this-bearsden-stone-villa-on-the-market-for-ps760k-9358985",
+        "description": "<p>This traditional stone villa in Bearsden has gone on the market for offers over \u00a3760,000, with the big-ticket jobs already done, including a new boiler and re-roofing in 2019.</p>",
+        "published": "Wed, 18 Nov 2026 13:13:29 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/18/13/21/7688e7b1ceaf4d1005acb938dc6e9974-6a357ae4.jpeg?width=1200&auto=webp&trim=0%2C3%2C0%2C0"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/plans-approved-more-80-new-34929908",
+        "title": "Plans approved for more than 80 new homes at former Glasgow primary school",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/plans-approved-more-80-new-34929908",
+        "description": "Works will begin on the \u00a322million development by the end of this year.",
+        "published": "Wed, 18 Nov 2026 13:08:06 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34929976.ece/ALTERNATES/s98/0_Abbotshall-1-Copy.png"
       },
       {
         "id": "9357950",
@@ -2862,6 +2878,14 @@
     "icon_url": "https://www.glasgowworld.com/favicon.ico",
     "output_file": "Glasgow_World_AI_Filtered.xml",
     "articles": [
+      {
+        "id": "9358985",
+        "title": "Bearsden for Sale: You need to check out this Bearsden stone villa on the market for \u00a3760k",
+        "link": "https://www.glasgowworld.com/lifestyle/homes-and-gardens/bearsden-for-sale-you-need-to-check-out-this-bearsden-stone-villa-on-the-market-for-ps760k-9358985",
+        "description": "<p>This traditional stone villa in Bearsden has gone on the market for offers over \u00a3760,000, with the big-ticket jobs already done, including a new boiler and re-roofing in 2019.</p>",
+        "published": "Wed, 18 Nov 2026 13:13:29 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/18/13/21/7688e7b1ceaf4d1005acb938dc6e9974-6a357ae4.jpeg?width=1200&auto=webp&trim=0%2C3%2C0%2C0"
+      },
       {
         "id": "9349740",
         "title": "\u2018Largest collection\u2019 of hand signed Salvador Dali lithographs to go up for auction in Glasgow",
