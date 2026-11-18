@@ -814,6 +814,14 @@
     "description": "AI Filtered Google Blog Updates.",
     "articles": [
       {
+        "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+        "title": "Introducing Gemini 4 Neon",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+        "description": "hero image for Gemini 4 Neon",
+        "published": "Wed, 18 Nov 2026 21:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.max-600x600.format-webp.webp"
+      },
+      {
         "id": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
         "title": "Genie 4 is now available",
         "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
