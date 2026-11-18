@@ -2446,12 +2446,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-man-jailed-serious-drug-34931812",
+        "title": "Glasgow man jailed for serious drug offences bids for private hire licence as firm offers him work",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-man-jailed-serious-drug-34931812",
+        "description": "His lawyer said he regrets his actions.",
+        "published": "Wed, 18 Nov 2026 16:17:26 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33320034.ece/ALTERNATES/s98/0_privatehirepicjpeg.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=538911",
         "title": "Driver feared she was going to die in \u2018freak\u2019 crash on A71 in Kilmarnock",
         "link": "https://news.stv.tv/west-central/driver-feared-she-was-going-to-die-in-freak-crash-on-a71-in-kilmarnock",
         "description": "Emergency services were called to the A71 in Kilmarnock after two cars were 'crushed' between lorries on the approach to a roundabout",
         "published": "Wed, 18 Nov 2026 16:03:55 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/b430c435c88328f68f1222025e0e9921-1795011703-1120x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/tv/vigil-creators-share-huge-update-34931709",
+        "title": "Vigil creators share huge update on new BBC Scottish detective drama",
+        "link": "https://www.glasgowlive.co.uk/news/tv/vigil-creators-share-huge-update-34931709",
+        "description": "The BBC has released a first look at Sutherland, an original new sci-fi thriller made by World Productions Scotland (part of ITV Studios), the team behind Vigil",
+        "published": "Wed, 18 Nov 2026 16:03:48 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/tv/article34931708.ece/ALTERNATES/s98/1_554402TITLEVigil.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-city-centre-student-flats-34931387",
