@@ -814,6 +814,14 @@
     "description": "AI Filtered Google Blog Updates.",
     "articles": [
       {
+        "id": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+        "title": "The Gemini app is now available on lower-memory Android devices.",
+        "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+        "description": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp\" />The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+        "published": "Wed, 18 Nov 2026 17:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp"
+      },
+      {
         "id": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
         "title": "Put Gemini to work for you",
         "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
@@ -2445,6 +2453,14 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-raid-lanarkshire-addresses-after-34932236",
+        "title": "Police raid Lanarkshire addresses after Edinburgh pub 'shooting' as three arrested",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-raid-lanarkshire-addresses-after-34932236",
+        "description": "Emergency services were alerted to the incident at The Robin's Nest pub last month.",
+        "published": "Wed, 18 Nov 2026 17:00:08 +0000",
+        "image_url": "https://i2-prod.edinburghlive.co.uk/incoming/article34811979.ece/ALTERNATES/s98/1_WhatsApp-Image-2026-10-24-at-120036-1jpeg.jpg"
+      },
       {
         "id": "https://www.glasgowlive.co.uk/whats-on/food-drink-news/two-glasgow-restaurants-added-michelin-34932008",
         "title": "Two Glasgow restaurants added to Michelin guide including newly opened Indian spot",
