@@ -1273,6 +1273,14 @@
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
       {
+        "id": "https://the5krunner.com/?p=144907",
+        "title": "Garmin Matrix Watchface \u2013 How I created my first watchface",
+        "link": "https://the5krunner.com/2026/11/18/garmin-matrix-watch-face/",
+        "description": "<p><img alt=\"Garmin Matrix Watchface &#8211; How I created my first watchface\" class=\"attachment-large size-large\" height=\"732\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/11/matrix-watch-face-on-garmin-forerunner-fenix.png/w=736,h=732\" style=\"height: auto;\" width=\"736\" /></p>\n<p>Green katakana now pours down my Forerunner 970 every time I raise my wrist. Claude wrote all the code, and I installed it by dragging one file over USB. The prompt I used is included.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/11/18/garmin-matrix-watch-face/\">Garmin Matrix Watchface &#8211; How I created my first watchface</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>\n<a href=\"https://the5krunner.com/rss-check-7h2k/\" rel=\"nofollow\"></a>",
+        "published": "Wed, 18 Nov 2026 15:44:48 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/11/matrix-watch-face-on-garmin-forerunner-fenix.png/w=736,h=732"
+      },
+      {
         "id": "https://the5krunner.com/?p=144814",
         "title": "Deep Dive Digest #32: Strava App Awards Exclusive, EightSleep Competitors & Garmin\u2019s microLED Mistake Clarified",
         "link": "https://the5krunner.com/2026/11/18/deep-dive-digest-32-strava-app-awards-exclusive-eightsleep-competitors-garmins-microled-mistake-clarified/",
@@ -2437,6 +2445,30 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://news.stv.tv/?p=538911",
+        "title": "Driver feared she was going to die in \u2018freak\u2019 crash on A71 in Kilmarnock",
+        "link": "https://news.stv.tv/west-central/driver-feared-she-was-going-to-die-in-freak-crash-on-a71-in-kilmarnock",
+        "description": "Emergency services were called to the A71 in Kilmarnock after two cars were 'crushed' between lorries on the approach to a roundabout",
+        "published": "Wed, 18 Nov 2026 16:03:55 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/b430c435c88328f68f1222025e0e9921-1795011703-1120x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-city-centre-student-flats-34931387",
+        "title": "Glasgow city centre student flats could be turned into new homes",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-city-centre-student-flats-34931387",
+        "description": "A new plan to change the use of the student accommodation block at the junction of St Vincent Street and Pitt Street has been revealed.",
+        "published": "Wed, 18 Nov 2026 15:31:40 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34931389.ece/ALTERNATES/s98/0_stvincentstudio.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/targeted-glasgow-shooting-everything-know-34930669",
+        "title": "'Targeted' Glasgow shooting - everything we know so far as victim, 27, fights for her life",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/targeted-glasgow-shooting-everything-know-34930669",
+        "description": "Emergency services raced to the incident on Monday, November 16.",
+        "published": "Wed, 18 Nov 2026 15:24:35 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34931405.ece/ALTERNATES/s98/1_Screenshot-2026-11-18-at-152139.png"
+      },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-arrested-glasgow-airport-accused-34930138",
         "title": "Man arrested at Glasgow Airport accused of plotting terror attack during Donald Trump visit",
