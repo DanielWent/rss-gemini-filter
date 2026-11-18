@@ -2437,6 +2437,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cm0rkq7xp7e1o#0",
+        "title": "Police confirm woman injured on Glasgow street was shot",
+        "link": "https://www.bbc.co.uk/news/articles/cm0rkq7xp7e1o?at_medium=RSS&at_campaign=rss",
+        "description": "The street remained closed off on Tuesday as police, including forensics officers, attended the scene.",
+        "published": "Wed, 18 Nov 2026 11:06:47 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f659/live/64b72040-e339-11f1-99a1-253766e7ad8b.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=538841",
         "title": "Former taxi driver sexually assaulted woman, 76, after barging into her home",
         "link": "https://news.stv.tv/west-central/former-taxi-driver-sexually-assaulted-woman-76-after-barging-into-her-home",
@@ -2627,14 +2635,6 @@
         "description": "The iconic props include an M41A pulse rifle, an original facehugger model, a control panel from the Nostromo, and Ripley's iconic spacesuit",
         "published": "Tue, 17 Nov 2026 11:04:48 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/75cd1d32ea467e6e8d564885adbf9838-1794913434-896x720.jpg"
-      },
-      {
-        "id": "9355706",
-        "title": "Luxury Scottish castle hotel close to Glasgow  to open \u2018tranquil\u2019 riverside cabins",
-        "link": "https://www.glasgowworld.com/travel/crossbasket-castle-hotel-to-open-luxury-riverside-cabins-9355742",
-        "description": "<p>A five star castle hotel located on a Scottish estate near Glasgow  is now home to riverside cabins, after a multimillion pound refurbishment. </p>",
-        "published": "Tue, 17 Nov 2026 10:45:26 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/17/10/58/Crossbasket-Castle-Riverside-Cabins-(3).jpeg?width=1200&auto=webp&trim=23%2C1%2C61%2C0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-rushed-hospital-after-attack-34922621",
