@@ -2550,6 +2550,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/fire-crews-race-coatbridge-blaze-34938963",
+        "title": "Fire crews race to Coatbridge blaze as locals urged to 'avoid the area'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/fire-crews-race-coatbridge-blaze-34938963",
+        "description": "Six appliances and two special appliances are on the scene.",
+        "published": "Thu, 19 Nov 2026 18:49:30 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article32131790.ece/ALTERNATES/s98/2_JS138065842-1.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cmglr029pn92o#0",
         "title": "Tarbert waterfront to undergo \u00a33.2m transformation",
         "link": "https://www.bbc.co.uk/news/articles/cmglr029pn92o?at_medium=RSS&at_campaign=rss",
