@@ -814,6 +814,14 @@
     "description": "AI Filtered Google Blog Updates.",
     "articles": [
       {
+        "id": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+        "title": "Let Gemini tackle repetitive chores on your Mac",
+        "link": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+        "description": "Prompting Gemini to take a kid's butterfly sketch, model it, and rig it in Blender",
+        "published": "Thu, 19 Nov 2026 17:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp"
+      },
+      {
         "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
         "title": "Introducing Gemini 4 Neon",
         "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
@@ -2525,6 +2533,14 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/still-game-live-glasgow-hydro-34938433",
+        "title": "Still Game live at the Glasgow Hydro - ticket sale time and everything you need to know",
+        "link": "https://www.glasgowlive.co.uk/whats-on/still-game-live-glasgow-hydro-34938433",
+        "description": "Here's everything you need to know.",
+        "published": "Thu, 19 Nov 2026 17:02:49 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34938615.ece/ALTERNATES/s98/0_JS100423041.jpg"
+      },
       {
         "id": "https://news.stv.tv/?p=539129",
         "title": "Glasgow Central named busiest train station in Scotland as 25 million entries and exits recorded",
