@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c39w95dnyrlvo#4",
+        "title": "Anglo Saxon 'sand body' among new Sutton Hoo finds",
+        "link": "https://www.bbc.co.uk/news/articles/c39w95dnyrlvo?at_medium=RSS&at_campaign=rss",
+        "description": "Time Team and The National Trust are revealing new discoveries in a four-part documentary series.",
+        "published": "Thu, 19 Nov 2026 06:01:25 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6dc/live/925e1e10-e34b-11f1-99aa-0f40b013ad11.png"
+      },
+      {
         "id": "https://www.bbc.co.uk/sport/athletics/articles/cwe8506v754yo#7",
         "title": "Josh Kerr: The making of the man behind the shades",
         "link": "https://www.bbc.co.uk/sport/athletics/articles/cwe8506v754yo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Vian, 16, has thalassemia and had to have monthly blood transfusions throughout her childhood.",
         "published": "Fri, 09 Oct 2026 11:23:27 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d29/live/4f05bc90-c2f8-11f1-b8c6-6d610e41a5d9.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo#4",
-        "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-        "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
-        "description": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
-        "published": "Fri, 09 Oct 2026 09:30:49 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e0e/live/a2f6be20-c3c1-11f1-9798-abffda1e61e7.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2494,6 +2494,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/over-32m-help-heat-glasgow-34932233",
+        "title": "Over \u00a332m to help heat Glasgow homes not used as 'challenges' reported",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/over-32m-help-heat-glasgow-34932233",
+        "description": "Glasgow council officials say it is difficult to deliver energy efficiency measures within the time allowed by the Scottish Government.",
+        "published": "Thu, 19 Nov 2026 08:57:58 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article25481342.ece/ALTERNATES/s98/0_GettyImages-1424000098.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/rude-glasgow-carer-who-restrained-34931411",
         "title": "'Rude' Glasgow carer who restrained resident by tying her in bed sheets struck off",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/rude-glasgow-carer-who-restrained-34931411",
@@ -2606,7 +2614,7 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34930566.ece/ALTERNATES/s98/1_JS424641523.jpg"
       }
     ],
-    "image_url": "https://runabc.co.uk/images/site/runabc-Scotland.png"
+    "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
   },
   "glasgow_live_ai_filtered": {
     "title": "Glasgow Live",
