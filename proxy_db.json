@@ -2372,6 +2372,14 @@
     "icon_url": "https://runabc.co.uk/favicon.ico",
     "articles": [
       {
+        "id": "https://runabc.co.uk/beith-harriers-new-year-road-races-2027-continues-historic-ayrshire-tradition",
+        "title": "A New Year Running Tradition With The Next Generation At Heart!",
+        "link": "https://runabc.co.uk/beith-harriers-new-year-road-races-2027-continues-historic-ayrshire-tradition",
+        "description": "<p><img alt=\"Beith Harriers New Year Road Races 2027\" src=\"https://runabc.co.uk/images/2026/11/beith-harriers-new-year-road-race.jpg\" /></p>\n\t\t\t\t<p>Beith Harriers New Year Road Races returns on 2 January 2027, combining a historic Ayrshire running tradition with free races for young athletes and a 10K challenge for adults...</p>",
+        "published": "Thu, 19 Nov 2026 07:55:00 +0000",
+        "image_url": "https://runabc.co.uk/images/2026/11/beith-harriers-new-year-road-race.jpg"
+      },
+      {
         "id": "https://runabc.co.uk/great-scottish-run-2027-entries-open-after-record-35000-runners-in-2026",
         "title": "Great Scottish Run 2027 Entries Open After Record 35,000 Runners In 2026",
         "link": "https://runabc.co.uk/great-scottish-run-2027-entries-open-after-record-35000-runners-in-2026",
@@ -2485,6 +2493,22 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "9359059",
+        "title": "Celtic transfer target \u2018available to sign\u2019 in January as price tag set for solution to problem position",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-transfer-target-available-to-sign-in-january-as-price-tag-set-for-solution-to-problem-position-9359059",
+        "description": "<p>Ligue 1 mainstay has been linked with a Hoops move in January</p>",
+        "published": "Thu, 19 Nov 2026 08:00:56 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/18/14/02/GettyImages-2243498331.jpeg?width=1200&auto=webp&trim=0%2C13%2C9%2C0"
+      },
+      {
+        "id": "https://runabc.co.uk/beith-harriers-new-year-road-races-2027-continues-historic-ayrshire-tradition",
+        "title": "A New Year Running Tradition With The Next Generation At Heart!",
+        "link": "https://runabc.co.uk/beith-harriers-new-year-road-races-2027-continues-historic-ayrshire-tradition",
+        "description": "<p><img alt=\"Beith Harriers New Year Road Races 2027\" src=\"https://runabc.co.uk/images/2026/11/beith-harriers-new-year-road-race.jpg\" /></p>\n\t\t\t\t<p>Beith Harriers New Year Road Races returns on 2 January 2027, combining a historic Ayrshire running tradition with free races for young athletes and a 10K challenge for adults...</p>",
+        "published": "Thu, 19 Nov 2026 07:55:00 +0000",
+        "image_url": "https://runabc.co.uk/images/2026/11/beith-harriers-new-year-road-race.jpg"
+      },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-launch-manhunt-after-incident-34933750",
         "title": "Police launch manhunt after 'incident' in Lanarkshire town as image released",
