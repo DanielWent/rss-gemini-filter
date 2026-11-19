@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o#1",
+        "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+        "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+        "description": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+        "published": "Thu, 19 Nov 2026 21:38:42 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o#4",
         "title": "Dutch watchdog tells people not to buy AI smart glasses",
         "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
@@ -387,14 +395,6 @@
         "description": "Renfrewshire Council said \"predicted tide levels\" for the storm did not meet the threshold needed to use the flood barriers.",
         "published": "Mon, 26 Oct 2026 18:58:20 +0100",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/947c/live/9f83a100-d162-11f1-87df-afb7a168a1f2.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o#2",
-        "title": "Surprising things we have learnt from Anthropic's blockbuster share listing",
-        "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
-        "description": "Anthropic\u2019s IPO prospectus is 355 pages and full of never before disclosed company information.",
-        "published": "Mon, 26 Oct 2026 17:20:54 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a4/live/4c5ea950-d15a-11f1-9f24-99bf1cc18b1d.jpg"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/cqkgl8rlmvn2o#4",
