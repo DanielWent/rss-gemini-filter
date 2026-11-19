@@ -2486,6 +2486,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/concern-over-glasgow-living-conditions-34931774",
+        "title": "Concern over Glasgow living conditions as damning Dalmarnock Village report reveals damp and mould",
+        "link": "https://www.glasgowlive.co.uk/news/concern-over-glasgow-living-conditions-34931774",
+        "description": "Residents say they have endured flooding, sewage ingress, collapsing ceilings, damp and mould, structural deterioration and repeated failed repairs.",
+        "published": "Thu, 19 Nov 2026 07:08:47 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article12419000.ece/ALTERNATES/s98/2_Screen-Shot-2017-01-06-at-195514.png"
+      },
+      {
+        "id": "https://news.stv.tv/?p=538925",
+        "title": "University of Glasgow launches free legal advice for survivors of sexual violence",
+        "link": "https://news.stv.tv/west-central/university-of-glasgow-launches-free-legal-advice-for-survivors-of-sexual-violence",
+        "description": "The project will provide specialist legal advice and support to survivors of sexual violence in High Court cases.",
+        "published": "Thu, 19 Nov 2026 07:00:57 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/f13b4c434c143b0f85ea8b15f0a99b38-1795014220-1280x720.jpeg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cr930ldw0z0do#0",
         "title": "Ferries boss says Ferguson shipyard should not get new CalMac contracts",
         "link": "https://www.bbc.co.uk/news/articles/cr930ldw0z0do?at_medium=RSS&at_campaign=rss",
