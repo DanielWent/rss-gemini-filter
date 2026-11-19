@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o#4",
+        "title": "Dutch watchdog tells people not to buy AI smart glasses",
+        "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
+        "description": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
+        "published": "Thu, 19 Nov 2026 16:33:17 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69d9/live/ba4e8a90-e41d-11f1-9e08-55a8a3b48445.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c39w95dnyrlvo#4",
         "title": "Anglo Saxon 'sand body' among new Sutton Hoo finds",
         "link": "https://www.bbc.co.uk/news/articles/c39w95dnyrlvo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
         "published": "Fri, 09 Oct 2026 12:34:27 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e673/live/aabc5740-c3db-11f1-95ba-dba767ffba7e.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c6n8dg8kgjgko#4",
-        "title": "Teen's life transformed by gene editing",
-        "link": "https://www.bbc.co.uk/news/articles/c6n8dg8kgjgko?at_medium=RSS&at_campaign=rss",
-        "description": "Vian, 16, has thalassemia and had to have monthly blood transfusions throughout her childhood.",
-        "published": "Fri, 09 Oct 2026 11:23:27 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d29/live/4f05bc90-c2f8-11f1-b8c6-6d610e41a5d9.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2526,6 +2526,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=539129",
+        "title": "Glasgow Central named busiest train station in Scotland as 25 million entries and exits recorded",
+        "link": "https://news.stv.tv/west-central/glasgow-central-named-busiest-train-station-in-scotland-as-25-million-entries-and-exits-recorded",
+        "description": "Figures from the Office of Rail and Road show how many entries and exits were recorded at stations between April 2025 and March 2026.",
+        "published": "Thu, 19 Nov 2026 16:47:46 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/c9fe99b9b26a69ece268aba6e41eda08-1795106538-1120x720.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/concerns-glasgow-street-being-turned-34938394",
+        "title": "Concerns Glasgow street is being turned into a 'student campus by stealth'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/concerns-glasgow-street-being-turned-34938394",
+        "description": "Residents objected to a flat being turned into a HMO.",
+        "published": "Thu, 19 Nov 2026 16:40:39 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34938347.ece/ALTERNATES/s98/0_kelvinhaughstreet.png"
+      },
+      {
         "id": "9362185",
         "title": "Glasgow Heritage: Hunterian Art Gallery and Mackintosh House listed as protected historic places",
         "link": "https://www.glasgowworld.com/news/hunterian-art-gallery-mackintosh-house-listed-scotland-protected-historic-places-9362185",
@@ -2548,14 +2564,6 @@
         "description": "Plans for a data centre at a former nuclear site at Chapelcross, near Annan, have resulted in more than 10,000 representations",
         "published": "Thu, 19 Nov 2026 14:50:28 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/2ab6586eba8cb64f80295570e46dfb11-1795097743-1200x720.jpeg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=539024",
-        "title": "Hunterian Art Gallery designated as category A-listed building",
-        "link": "https://news.stv.tv/west-central/hunterian-art-gallery-designated-as-category-a-listed-building",
-        "description": "The building, designed by Sir William Whitfield, is a rare example of a purpose-built art gallery for a university in the 1970s",
-        "published": "Thu, 19 Nov 2026 12:34:43 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/17987af96cedc42d2ad6331263ad58c4-1795084871-1280x720.jpeg"
       },
       {
         "id": "9360915",
