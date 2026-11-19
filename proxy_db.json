@@ -2486,6 +2486,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/police-launch-manhunt-after-incident-34933750",
+        "title": "Police launch manhunt after 'incident' in Lanarkshire town as image released",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/police-launch-manhunt-after-incident-34933750",
+        "description": "CCTV footage has been released of the man, and anyone who recognises him is urged to come forward.",
+        "published": "Thu, 19 Nov 2026 07:50:50 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34933752.ece/ALTERNATES/s98/3_lanark.png"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/concern-over-glasgow-living-conditions-34931774",
         "title": "Concern over Glasgow living conditions as damning Dalmarnock Village report reveals damp and mould",
         "link": "https://www.glasgowlive.co.uk/news/concern-over-glasgow-living-conditions-34931774",
