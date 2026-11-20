@@ -2606,6 +2606,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=539385",
+        "title": "Rail services disrupted as emergency services respond to incident at Bishopbriggs station",
+        "link": "https://news.stv.tv/west-central/rail-services-disrupted-as-emergency-services-respond-to-incident-at-bishopbriggs-station",
+        "description": "Disruption is expected to last until 9pm after crews were called to an incident at Bishopbriggs station.",
+        "published": "Fri, 20 Nov 2026 19:35:24 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2025/05/b10f6ef4d11c3fc2480d538606219b71-1746535464-1084x720.jpeg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cmp3eypxjn3do#0",
         "title": "Shooting victim was targeted as she lay in bed, say police",
         "link": "https://www.bbc.co.uk/news/articles/cmp3eypxjn3do?at_medium=RSS&at_campaign=rss",
@@ -2718,14 +2726,6 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34940452.ece/ALTERNATES/s98/2_kevin-prior.jpg"
       },
       {
-        "id": "9361746",
-        "title": "Celtic star draws the \u2018unconventional path\u2019 to Glasgow in transfer window as summer switch not regretted",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-star-draws-the-unconventional-path-to-glasgow-in-transfer-window-as-summer-switch-not-regretted-9361746",
-        "description": "<p>Midfielder left his homeland Germany for Scotland in August</p>",
-        "published": "Fri, 20 Nov 2026 08:00:55 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/19/15/56/GettyImages-2295801001.jpeg?width=1200&auto=webp&trim=0%2C1%2C57%2C0"
-      },
-      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-lanarkshire-food-banks-critically-34936914",
         "title": "Glasgow and Lanarkshire food banks 'critically low' ahead of winter - how you can help",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-lanarkshire-food-banks-critically-34936914",
@@ -2790,14 +2790,6 @@
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/032f/live/84df6250-e443-11f1-9192-3924a59e54c7.jpg"
       },
       {
-        "id": "9362167",
-        "title": "Rangers outline quiet January transfer plans and issue injury update as light made of international faux pas",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-outline-january-plans-and-issue-injury-update-on-duo-as-derek-mcinnes-makes-light-of-international-faux-pas-9362167",
-        "description": "<p>The Light Blues return to Premiership action this weekend against Motherwell in their first clash after the international break</p>",
-        "published": "Thu, 19 Nov 2026 18:00:03 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/19/16/21/GettyImages-2295057800.jpeg?width=1200&auto=webp&trim=106%2C1%2C63%2C0"
-      },
-      {
         "id": "https://news.stv.tv/?p=539129",
         "title": "Glasgow Central named busiest train station in Scotland as 25 million entries and exits recorded",
         "link": "https://news.stv.tv/west-central/glasgow-central-named-busiest-train-station-in-scotland-as-25-million-entries-and-exits-recorded",
@@ -2814,44 +2806,12 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34938347.ece/ALTERNATES/s98/0_kelvinhaughstreet.png"
       },
       {
-        "id": "9362185",
-        "title": "Glasgow Heritage: Hunterian Art Gallery and Mackintosh House listed as protected historic places",
-        "link": "https://www.glasgowworld.com/news/hunterian-art-gallery-mackintosh-house-listed-scotland-protected-historic-places-9362185",
-        "description": "<p>The Hunterian Art Gallery and Mackintosh House have been listed as a protected historic places at category A by Historic Environment Scotland</p>",
-        "published": "Thu, 19 Nov 2026 16:16:05 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2023/07/13/16/Hunterian%20%20via%20WikiCommons.jpg?width=1200&auto=webp&crop=3%3A2"
-      },
-      {
-        "id": "9362162",
-        "title": "Buchanan Galleries revamp: Everything we know as work begins on Glasgow shopping centre makeover",
-        "link": "https://www.glasgowworld.com/news/buchanan-galleries-revamp-everything-we-know-as-work-begins-on-glasgow-shopping-centre-makeover-9362162",
-        "description": "<p>The \u00a385m makeover of Glasgow's Buchanan Galleries shopping centre has begun, with work focused on the north of the centre and a new set of digital screens to be installed.</p>",
-        "published": "Thu, 19 Nov 2026 16:11:18 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/19/16/59/Buchanan-Galleries-North-Refurb.jpeg?width=1200&auto=webp&trim=351%2C5%2C69%2C0"
-      },
-      {
         "id": "https://news.stv.tv/?p=539110",
         "title": "Dumfries and Galloway Council receives record number of\u00a0representations over \u2018world\u2019s largest\u2019 data centre plans",
         "link": "https://news.stv.tv/west-central/dumfries-and-galloway-council-receives-record-number-of-submissions-over-worlds-largest-data-centre-plans",
         "description": "Plans for a data centre at a former nuclear site at Chapelcross, near Annan, have resulted in more than 10,000 representations",
         "published": "Thu, 19 Nov 2026 14:50:28 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/2ab6586eba8cb64f80295570e46dfb11-1795097743-1200x720.jpeg"
-      },
-      {
-        "id": "9360915",
-        "title": "Celtic legend explains why domestic dominance won\u2019t cut it anymore as fans told how to get their \u2018voice\u2019 heard",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-legend-explains-why-domestic-dominance-wont-cut-it-anymore-as-fans-told-how-to-get-their-voice-heard-9360915",
-        "description": "<p>Hoops hero pinpointed when frustrations against the board began</p>",
-        "published": "Thu, 19 Nov 2026 12:00:52 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/19/11/22/GettyImages-1150280666.jpeg?width=1200&auto=webp&trim=0%2C6%2C208%2C0"
-      },
-      {
-        "id": "9360581",
-        "title": "Rangers hero challenges squad to \u2018kick on\u2019 as one player singled out as key component for title race challenge",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-hero-challenges-squad-to-kick-on-as-one-player-singled-out-as-key-component-for-title-race-challenge-9360581",
-        "description": "<p>No-nonsense nine in a row icon is liking Rangers\u2019 new direct approach</p>",
-        "published": "Thu, 19 Nov 2026 12:00:17 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/19/10/03/GettyImages-2296243461-(3).jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/plans-turn-glasgow-west-end-34934953",
@@ -2884,14 +2844,6 @@
         "description": "Sonia Obotse was hauled in front of the Scottish Social Services Council over three allegations.",
         "published": "Thu, 19 Nov 2026 08:46:14 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article33806741.ece/ALTERNATES/s98/5_JS297676344-6.jpg"
-      },
-      {
-        "id": "9359059",
-        "title": "Celtic transfer target \u2018available to sign\u2019 in January as price tag set for solution to problem position",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-transfer-target-available-to-sign-in-january-as-price-tag-set-for-solution-to-problem-position-9359059",
-        "description": "<p>Ligue 1 mainstay has been linked with a Hoops move in January</p>",
-        "published": "Thu, 19 Nov 2026 08:00:56 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/18/14/02/GettyImages-2243498331.jpeg?width=1200&auto=webp&trim=0%2C13%2C9%2C0"
       },
       {
         "id": "https://runabc.co.uk/beith-harriers-new-year-road-races-2027-continues-historic-ayrshire-tradition",
