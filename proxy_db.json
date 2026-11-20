@@ -2606,6 +2606,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cv702en03nw4o#0",
+        "title": "TRNSMT: What's the future for Scotland's largest music festival?",
+        "link": "https://www.bbc.co.uk/news/articles/cv702en03nw4o?at_medium=RSS&at_campaign=rss",
+        "description": "No dates, ticket sales or acts have yet been announced by DF Concerts for the Glasgow Green festival.",
+        "published": "Fri, 20 Nov 2026 22:45:12 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/017e/live/20b4f390-e4fb-11f1-a8e4-b1e12a49db15.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cv62pxdwp4dxo#0",
+        "title": "The footballer who was the world's first cross-border signing",
+        "link": "https://www.bbc.co.uk/news/articles/cv62pxdwp4dxo?at_medium=RSS&at_campaign=rss",
+        "description": "James Lang moved from Glasgow to Sheffield in 1876 to play football for The Wednesday.",
+        "published": "Fri, 20 Nov 2026 22:44:51 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/634a/live/ab6ab3b0-e41c-11f1-9e08-55a8a3b48445.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=539377",
         "title": "Council land set to be sold as plans outlined for 90 affordable homes in Glasgow",
         "link": "https://news.stv.tv/west-central/council-land-set-to-be-sold-as-plans-outlined-for-90-affordable-homes-in-glasgow",
