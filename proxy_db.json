@@ -2606,6 +2606,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=539329",
+        "title": "Kirkintilloch play park suffers thousands of pounds in damage as new swing set alight",
+        "link": "https://news.stv.tv/west-central/kirkintilloch-play-park-suffers-thousands-of-pounds-in-damage-as-new-swing-set-alight",
+        "description": "The rope swing at Peel Park in Kirkintilloch had been replaced a few weeks before the blaze.",
+        "published": "Fri, 20 Nov 2026 16:22:04 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/4bb17007b31efdbc5094a1f07c5b709c-1795189504-971x720.jpg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=539335",
+        "title": "Woman shot \u2018while in bed\u2019 in targeted murder bid at her home in Glasgow",
+        "link": "https://news.stv.tv/west-central/woman-shot-while-in-bed-in-targeted-murder-bid-at-her-home-in-glasgow",
+        "description": "Police are looking to trace a silver or grey Mitsubishi Outlander seen in the area and later found on fire",
+        "published": "Fri, 20 Nov 2026 16:13:13 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/b4e8ef9c6355141e97f093fb3bb40c1a-1794917841-1280x720.jpeg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c6ly58g01ezeo#0",
         "title": "Rural pubs bear brunt of decline as numbers fall by a fifth in 15 years",
         "link": "https://www.bbc.co.uk/news/articles/c6ly58g01ezeo?at_medium=RSS&at_campaign=rss",
