@@ -2582,6 +2582,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=539233",
+        "title": "Drug dealer \u2018wrongly convicted\u2019 of raping girl, 14, as juror knew him",
+        "link": "https://news.stv.tv/west-central/drug-dealer-wrongly-convicted-of-raping-girl-14-as-juror-knew-him",
+        "description": "The Court of Criminal Appeal in Edinburgh heard the juror should have disclosed she lived 'six doors down' from Shaun Miller's family as a teenager",
+        "published": "Fri, 20 Nov 2026 10:04:48 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/98b28638aae8031322aee1388ba1ed80-1795168152-1080x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-winter-festival-glasgow-west-34938504",
+        "title": "New winter festival in Glasgow west end given green light despite local noise concerns",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/new-winter-festival-glasgow-west-34938504",
+        "description": "The festival will run for about a month with live music and food stalls.",
+        "published": "Fri, 20 Nov 2026 09:56:18 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article22110714.ece/ALTERNATES/s98/3_GettyImages-521735944.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-jailed-handed-football-ban-34940333",
+        "title": "Man jailed and handed football ban over Old Firm disorder after assaulting rival fan",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-jailed-handed-football-ban-34940333",
+        "description": "He was jailed for 12 months and given a ban of 40 months for the assault.",
+        "published": "Fri, 20 Nov 2026 09:55:42 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34940452.ece/ALTERNATES/s98/2_kevin-prior.jpg"
+      },
+      {
         "id": "9361746",
         "title": "Celtic star draws the \u2018unconventional path\u2019 to Glasgow in transfer window as summer switch not regretted",
         "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-star-draws-the-unconventional-path-to-glasgow-in-transfer-window-as-summer-switch-not-regretted-9361746",
