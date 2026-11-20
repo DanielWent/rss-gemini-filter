@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro#2",
+        "title": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
+        "link": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+        "description": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
+        "published": "Fri, 20 Nov 2026 05:59:56 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62f0/live/43fac6d0-e277-11f1-a094-5fdc692f3e33.png"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o#1",
         "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
         "link": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
         "published": "Fri, 09 Oct 2026 21:39:52 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ae5/live/091da400-c419-11f1-9a39-31b474234113.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo#1",
-        "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
-        "link": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
-        "description": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
-        "published": "Fri, 09 Oct 2026 15:32:30 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b04d/live/ba559970-c3f2-11f1-bc2e-018d645d8d21.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -1320,6 +1320,14 @@
     "link": "https://the5krunner.com",
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
+      {
+        "id": "https://the5krunner.com/?p=145310",
+        "title": "#25 The Deep Dive Fix Files: Week Ending 20 November 2026",
+        "link": "https://the5krunner.com/2026/11/20/25-the-deep-dive-fix-files-week-ending-20-november-2026/",
+        "description": "<p><img alt=\"#25 The Deep Dive Fix Files: Week Ending 20 November 2026\" class=\"attachment-large size-large\" height=\"583\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2010/06/Deep-dive-Fix-Files-Asset-2The-Deep-Dive-Fix-files.png/w=1110,h=583\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>This week's roundup covers Garmin Forerunner 970 quiet voice prompts and ghost touches, Fenix 8 Iron Grit rendering, Wi-Fi, scheduled workout and wrist heart rate faults, an Instinct 3 Solar ANT+ power dropout, and Garmin Connect problems with Pixel 11 pairing and MyFitnessPal calories. It also covers Edge 1050 Strava ride types, course sync, UniFi Wi-Fi and time zone faults, Suunto Race S treadmill distance, Smart Heart Rate Belt 2 battery life, app route elevation and GPX turn instructions, and Wahoo SYSTM freezing on Mac. Each entry gives the best fix or workaround the community has found.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/11/20/25-the-deep-dive-fix-files-week-ending-20-november-2026/\">#25 The Deep Dive Fix Files: Week Ending 20 November 2026</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>\n<a href=\"https://the5krunner.com/rss-check-7h2k/\" rel=\"nofollow\"></a>",
+        "published": "Fri, 20 Nov 2026 06:13:48 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2010/06/Deep-dive-Fix-Files-Asset-2The-Deep-Dive-Fix-files.png/w=1110,h=583"
+      },
       {
         "id": "https://the5krunner.com/?p=145276",
         "title": "Garmin, Apple Watch or Oura? HRV and VO2max Accuracy Winner",
@@ -2573,6 +2581,22 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cr5y198gg7dko#0",
+        "title": "Barlinnie prison has had 'significant' issues with water supply for six years",
+        "link": "https://www.bbc.co.uk/news/articles/cr5y198gg7dko?at_medium=RSS&at_campaign=rss",
+        "description": "New information obtained by BBC Scotland News reveals water issues in the Glasgow jail date back at least six years.",
+        "published": "Fri, 20 Nov 2026 06:02:44 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2698/live/f57e4850-d67f-11f0-b4a3-21322b24f057.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cmx27853p9e3o#0",
+        "title": "'Nobody knew Isla was dying, now she might change that for others'",
+        "link": "https://www.bbc.co.uk/news/articles/cmx27853p9e3o?at_medium=RSS&at_campaign=rss",
+        "description": "Isla Sneddon died age 17 and a new protocol has been launched in her name to protect other young people.",
+        "published": "Fri, 20 Nov 2026 06:01:30 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56f1/live/a8521310-0201-11f1-b311-a93d45a0b96f.jpg"
+      },
       {
         "id": "https://www.bbc.co.uk/news/articles/cw5y1r557j54o#0",
         "title": "Care home predator sexually assaulted my mum despite warnings",
