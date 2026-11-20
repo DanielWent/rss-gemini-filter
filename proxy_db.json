@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1795216224323082",
+        "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+        "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+        "description": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+        "published": "Sat, 21 Nov 2026 00:08:57 +0100",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko#1",
         "title": "Trump threatens ban on US firms building AI data centres overseas",
         "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Amid a surge in AI content, many are placing extra value on art that's obviously made by a human. But can that last, asks Ros Atkins",
         "published": "Sat, 10 Oct 2026 23:18:16 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fb8/live/8086eea0-c3cb-11f1-a64c-550be9e3c66b.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo#1",
-        "title": "Northern Lights stun UK down to England's south coast",
-        "link": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&at_campaign=rss",
-        "description": "The natural phenomenon, known as the Aurora Borealis, is the result of increased solar activity.",
-        "published": "Sat, 10 Oct 2026 20:57:29 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25d5/live/6d932560-c4e9-11f1-900e-31f5a5ac5102.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
