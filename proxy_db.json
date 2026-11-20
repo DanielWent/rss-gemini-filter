@@ -2606,6 +2606,38 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/fed-up-carers-want-glasgows-34942913",
+        "title": "Fed-up carers want Glasgow's long-running equal pay saga to end",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/fed-up-carers-want-glasgows-34942913",
+        "description": "GMB and Unite have voted to accept the council's new pay and grading structure, which would replace a discriminatory scheme. Unison has recommended reject, and its ballot closes on Monday.",
+        "published": "Fri, 20 Nov 2026 14:23:23 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34942917.ece/ALTERNATES/s98/20261120_111234.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-green-christmas-event-wins-34942844",
+        "title": "Glasgow Green Christmas event wins licence after meeting heard locals don't want it",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-green-christmas-event-wins-34942844",
+        "description": "The event features an ice rink among other attractions.",
+        "published": "Fri, 20 Nov 2026 14:18:34 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article32919322.ece/ALTERNATES/s98/4_IMG_3745JPG.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/predator-who-abducted-woman-held-34942829",
+        "title": "Predator who held woman against her will demanding sex avoids jail",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/predator-who-abducted-woman-held-34942829",
+        "description": "Chris Butterwick was slammed by a sheriff for his \"misogynistic\" behaviour",
+        "published": "Fri, 20 Nov 2026 14:01:13 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34649770.ece/ALTERNATES/s98/2_dmp_ham_090421court_004JPG.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/fresh-bid-turn-former-cardonald-34942418",
+        "title": "Fresh bid to turn former Cardonald bank into bookies submitted to City Council",
+        "link": "https://www.glasgowlive.co.uk/news/fresh-bid-turn-former-cardonald-34942418",
+        "description": "This Tuesday members of the planning local review committee will be asked to reconsider the application.",
+        "published": "Fri, 20 Nov 2026 13:45:07 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article32034883.ece/ALTERNATES/s98/0_tsbcardonaldPNG.png"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/beloved-glasgow-pub-closing-down-34941054",
         "title": "Beloved Glasgow pub 'closing down' this weekend after serving Celtic fans for 40 years",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/beloved-glasgow-pub-closing-down-34941054",
@@ -2636,14 +2668,6 @@
         "description": "The Court of Criminal Appeal in Edinburgh heard the juror should have disclosed she lived 'six doors down' from Shaun Miller's family as a teenager",
         "published": "Fri, 20 Nov 2026 10:04:48 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/98b28638aae8031322aee1388ba1ed80-1795168152-1080x720.jpeg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-winter-festival-glasgow-west-34938504",
-        "title": "New winter festival in Glasgow west end given green light despite local noise concerns",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/new-winter-festival-glasgow-west-34938504",
-        "description": "The festival will run for about a month with live music and food stalls.",
-        "published": "Fri, 20 Nov 2026 09:56:18 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article22110714.ece/ALTERNATES/s98/3_GettyImages-521735944.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-jailed-handed-football-ban-34940333",
@@ -2732,14 +2756,6 @@
         "description": "<p>The Light Blues return to Premiership action this weekend against Motherwell in their first clash after the international break</p>",
         "published": "Thu, 19 Nov 2026 18:00:03 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/19/16/21/GettyImages-2295057800.jpeg?width=1200&auto=webp&trim=106%2C1%2C63%2C0"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/whats-on/still-game-live-glasgow-hydro-34938433",
-        "title": "Still Game live at the Glasgow Hydro - ticket sale time and everything you need to know",
-        "link": "https://www.glasgowlive.co.uk/whats-on/still-game-live-glasgow-hydro-34938433",
-        "description": "Here's everything you need to know.",
-        "published": "Thu, 19 Nov 2026 17:02:49 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34938615.ece/ALTERNATES/s98/0_JS100423041.jpg"
       },
       {
         "id": "https://news.stv.tv/?p=539129",
