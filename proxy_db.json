@@ -2606,20 +2606,20 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cmp3eypxjn3do#0",
+        "title": "Shooting victim was targeted as she lay in bed, say police",
+        "link": "https://www.bbc.co.uk/news/articles/cmp3eypxjn3do?at_medium=RSS&at_campaign=rss",
+        "description": "Detectives described the incident in Glasgow's Lambhill as \"abhorrent\" and \"despicable\".",
+        "published": "Fri, 20 Nov 2026 16:43:28 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4162/live/35e50e20-e362-11f1-a898-e7da1c1ebbf0.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=539329",
         "title": "Kirkintilloch play park suffers thousands of pounds in damage as new swing set alight",
         "link": "https://news.stv.tv/west-central/kirkintilloch-play-park-suffers-thousands-of-pounds-in-damage-as-new-swing-set-alight",
         "description": "The rope swing at Peel Park in Kirkintilloch had been replaced a few weeks before the blaze.",
         "published": "Fri, 20 Nov 2026 16:22:04 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/4bb17007b31efdbc5094a1f07c5b709c-1795189504-971x720.jpg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=539335",
-        "title": "Woman shot \u2018while in bed\u2019 in targeted murder bid at her home in Glasgow",
-        "link": "https://news.stv.tv/west-central/woman-shot-while-in-bed-in-targeted-murder-bid-at-her-home-in-glasgow",
-        "description": "Police are looking to trace a silver or grey Mitsubishi Outlander seen in the area and later found on fire",
-        "published": "Fri, 20 Nov 2026 16:13:13 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/b4e8ef9c6355141e97f093fb3bb40c1a-1794917841-1280x720.jpeg"
       },
       {
         "id": "https://www.bbc.co.uk/news/articles/c6ly58g01ezeo#0",
@@ -2636,6 +2636,14 @@
         "description": "Here's everything you need to know about this year's IRN-BRU Carnival",
         "published": "Fri, 20 Nov 2026 14:49:37 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34495665.ece/ALTERNATES/s98/1_Carnval-2023-John-Clark-Photos-426.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/sport/football/articles/cvrlgx1l4lnlo#0",
+        "title": "Celtic's Baur out for 10 weeks, says O'Neill",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cvrlgx1l4lnlo?at_medium=RSS&at_campaign=rss",
+        "description": "Germany midfielder Mika Baur will be out for around 10 weeks with ankle ligament damage, Celtic manager Martin O'Neill says.",
+        "published": "Fri, 20 Nov 2026 14:47:54 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f456/live/ffbb6070-e4f0-11f1-8781-bf15c9202663.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/fed-up-carers-want-glasgows-34942913",
