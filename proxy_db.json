@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o#1",
+        "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+        "link": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
+        "description": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.",
+        "published": "Fri, 20 Nov 2026 00:08:22 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca3/live/9b3a4680-e445-11f1-9192-3924a59e54c7.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o#1",
         "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
         "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
         "published": "Fri, 09 Oct 2026 15:32:30 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b04d/live/ba559970-c3f2-11f1-bc2e-018d645d8d21.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo#1",
-        "title": "Anthropic bans users from being 'cruel' to its AI systems",
-        "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-        "description": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
-        "published": "Fri, 09 Oct 2026 12:34:27 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e673/live/aabc5740-c3db-11f1-95ba-dba767ffba7e.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -1320,6 +1320,14 @@
     "link": "https://the5krunner.com",
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
+      {
+        "id": "https://the5krunner.com/?p=145276",
+        "title": "Garmin, Apple Watch or Oura? HRV and VO2max Accuracy Winner",
+        "link": "https://the5krunner.com/2026/11/20/garmin-apple-watch-oura-hrv-vo2max-accuracy/",
+        "description": "<p><img alt=\"Garmin, Apple Watch or Oura? HRV and VO2max Accuracy Winner\" class=\"attachment-large size-large\" height=\"547\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2024/10/Apple-Watch-10-vitals-app-watchos-11.jpg/w=1024,h=547\" style=\"height: auto;\" width=\"1024\" /></p>\n<p>Oura Ring 4 came within 6% of an ECG strap for overnight HRV. Garmin missed VO2max by 10% in fit athletes and Apple Watch by 16%. Nine measurements from independent studies, with a winner where the data names one.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/11/20/garmin-apple-watch-oura-hrv-vo2max-accuracy/\">Garmin, Apple Watch or Oura? HRV and VO2max Accuracy Winner</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>\n<a href=\"https://the5krunner.com/rss-check-7h2k/\" rel=\"nofollow\"></a>",
+        "published": "Fri, 20 Nov 2026 00:11:33 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2024/10/Apple-Watch-10-vitals-app-watchos-11.jpg/w=1024,h=547"
+      },
       {
         "id": "https://the5krunner.com/?p=145209",
         "title": "Fenix 9 Pro vs Forerunner 970 \u2013 what \u00a3300 more buys you",
@@ -2806,7 +2814,7 @@
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34930566.ece/ALTERNATES/s98/1_JS424641523.jpg"
       }
     ],
-    "image_url": "https://runabc.co.uk/images/site/runabc-Scotland.png"
+    "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
   },
   "glasgow_live_ai_filtered": {
     "title": "Glasgow Live",
