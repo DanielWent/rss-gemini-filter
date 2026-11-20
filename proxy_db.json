@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo#1",
+        "title": "Anthropic shares fall a day after blockbuster opening",
+        "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+        "description": "Other tech companies have also taken a hit as share markets broadly slump.",
+        "published": "Fri, 20 Nov 2026 14:46:54 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo#4",
         "title": "South Korea catches 111 students with new measures against exam cheating",
         "link": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "The natural phenomenon, known as the Aurora Borealis, is the result of increased solar activity.",
         "published": "Sat, 10 Oct 2026 20:57:29 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25d5/live/6d932560-c4e9-11f1-900e-31f5a5ac5102.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo#1",
-        "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-        "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-        "description": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
-        "published": "Sat, 10 Oct 2026 10:06:23 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d64/live/61119c60-c483-11f1-9323-b15f40d5009a.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
@@ -2605,6 +2605,14 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/years-irn-bru-carnival-biggest-34940884",
+        "title": "This year's Irn-Bru Carnival to be the 'biggest-ever' with tickets on sale now",
+        "link": "https://www.glasgowlive.co.uk/whats-on/years-irn-bru-carnival-biggest-34940884",
+        "description": "Here's everything you need to know about this year's IRN-BRU Carnival",
+        "published": "Fri, 20 Nov 2026 14:49:37 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34495665.ece/ALTERNATES/s98/1_Carnval-2023-John-Clark-Photos-426.jpg"
+      },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/fed-up-carers-want-glasgows-34942913",
         "title": "Fed-up carers want Glasgow's long-running equal pay saga to end",
