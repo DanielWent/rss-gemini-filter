@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo#4",
+        "title": "South Korea catches 111 students with new measures against exam cheating",
+        "link": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
+        "description": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
+        "published": "Fri, 20 Nov 2026 10:16:19 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f32a/live/51464610-e4cb-11f1-8ebd-0fa6091698b5.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro#2",
         "title": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
         "link": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
         "published": "Sat, 10 Oct 2026 10:06:23 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d64/live/61119c60-c483-11f1-9323-b15f40d5009a.jpg"
-      },
-      {
-        "id": "1791575415609521",
-        "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-        "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-        "description": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
-        "published": "Fri, 09 Oct 2026 21:39:52 +0200",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ae5/live/091da400-c419-11f1-9a39-31b474234113.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
