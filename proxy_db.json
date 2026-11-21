@@ -2454,6 +2454,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=539413",
+        "title": "Masked man threatened and demanded money from staff at Glasgow supermarket",
+        "link": "https://news.stv.tv/west-central/masked-man-threatened-and-demanded-money-from-staff-at-glasgow-supermarket",
+        "description": "The man is described as 6ft slim build and spoke with a Scottish accent",
+        "published": "Sat, 21 Nov 2026 11:57:05 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/49c1058476b7570593561aa247ddb340-1795262180-1280x720.jpeg"
+      },
+      {
         "id": "https://news.stv.tv/?p=539403",
         "title": "Man taken to hospital following serious assault in Drumchapel",
         "link": "https://news.stv.tv/west-central/man-taken-to-hospital-following-serious-assault-in-drumchapel",
