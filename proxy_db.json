@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o#2",
+        "title": "Can AI really help spot Black Friday deals? We put it to the test",
+        "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+        "description": "We put four AI models to the test to see if they could save us money on a new TV.",
+        "published": "Sat, 21 Nov 2026 00:06:11 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbf/live/85d51550-e435-11f1-8346-933d3547e297.jpg"
+      },
+      {
         "id": "1795216224323082",
         "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
         "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
@@ -795,14 +803,6 @@
         "description": "Archaeologists hope to uncover more fragments of the medieval site in Perth.",
         "published": "Sun, 11 Oct 2026 10:05:38 +0200",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b37/live/ec2bb310-c3e5-11f1-badc-154546719036.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/c5vgjm3gk7rzo#2",
-        "title": "AI is creating a 'human premium' for art made by people. But will it hold?",
-        "link": "https://www.bbc.co.uk/news/articles/c5vgjm3gk7rzo?at_medium=RSS&at_campaign=rss",
-        "description": "Amid a surge in AI content, many are placing extra value on art that's obviously made by a human. But can that last, asks Ros Atkins",
-        "published": "Sat, 10 Oct 2026 23:18:16 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fb8/live/8086eea0-c3cb-11f1-a64c-550be9e3c66b.jpg"
       }
     ],
     "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif",
