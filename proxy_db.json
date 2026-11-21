@@ -2454,6 +2454,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=539403",
+        "title": "Man taken to hospital following serious assault in Drumchapel",
+        "link": "https://news.stv.tv/west-central/man-taken-to-hospital-following-serious-assault-in-drumchapel",
+        "description": "Police say enquiries are ongoing into the incident",
+        "published": "Sat, 21 Nov 2026 10:57:05 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/f10437ce008242c288863654d35325d5-1795258563-1280x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-west-end-coffee-shop-34944436",
+        "title": "New west end coffee shop gets permission beside Kelvingrove Park",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/new-west-end-coffee-shop-34944436",
+        "description": "There were a number of objections but one councillor said he couldn't fathom why anyone would have issues.",
+        "published": "Sat, 21 Nov 2026 10:54:55 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34944495.ece/ALTERNATES/s98/0_graystreet.png"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/fundraiser-rangers-thugs-jailed-attacking-34946883",
         "title": "Fundraiser for Rangers thugs jailed for attacking Celtic fans sparks outrage",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/fundraiser-rangers-thugs-jailed-attacking-34946883",
