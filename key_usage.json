@@ -179,7 +179,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 8,
+        "daily_requests": 9,
         "exhausted": false
       }
     },
