@@ -2454,6 +2454,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=539409",
+        "title": "Rescue dog who helps solve fires celebrated in new Riverside Museum exhibition",
+        "link": "https://news.stv.tv/west-central/rescue-dog-who-helps-solve-fires-celebrated-in-new-riverside-museum-exhibition",
+        "description": "The exhibition tells the story of Phoenix who has become a valuable asset for the Scottish Fire and Rescue Service",
+        "published": "Sat, 21 Nov 2026 13:10:09 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/3a872ccf54cfc98a7230ba84cdcc3343-1795260602-1280x720.jpeg"
+      },
+      {
         "id": "https://news.stv.tv/?p=539413",
         "title": "Masked man threatened and demanded money from staff at Glasgow supermarket",
         "link": "https://news.stv.tv/west-central/masked-man-threatened-and-demanded-money-from-staff-at-glasgow-supermarket",
@@ -2628,14 +2636,6 @@
         "description": "The Court of Criminal Appeal in Edinburgh heard the juror should have disclosed she lived 'six doors down' from Shaun Miller's family as a teenager",
         "published": "Fri, 20 Nov 2026 10:04:48 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/98b28638aae8031322aee1388ba1ed80-1795168152-1080x720.jpeg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-jailed-handed-football-ban-34940333",
-        "title": "Man jailed and handed football ban over Old Firm disorder after assaulting rival fan",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-jailed-handed-football-ban-34940333",
-        "description": "He was jailed for 12 months and given a ban of 40 months for the assault.",
-        "published": "Fri, 20 Nov 2026 09:55:42 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34940452.ece/ALTERNATES/s98/2_kevin-prior.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-lanarkshire-food-banks-critically-34936914",
