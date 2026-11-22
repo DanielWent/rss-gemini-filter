@@ -2502,6 +2502,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=539474",
+        "title": "Hunt for masked man with English accent after serious sexual assault in Kelvingrove Park",
+        "link": "https://news.stv.tv/west-central/hunt-for-masked-man-with-english-accent-after-serious-sexual-assault-in-kelvingrove-park",
+        "description": "A 22-year-old woman was walking through the park when she was approached by a man and attacked her",
+        "published": "Sun, 22 Nov 2026 11:29:25 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/08582e558995b58cf70a0f2a1e1909fd-1795346899-1280x720.jpeg"
+      },
+      {
         "id": "https://news.stv.tv/?p=539473",
         "title": "More than 5,000 serious patient safety incidents recorded across Scotland\u2019s NHS since 2020",
         "link": "https://news.stv.tv/west-central/more-than-5000-serious-patient-safety-incidents-recorded-across-scotlands-nhs-since-2020",
