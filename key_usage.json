@@ -147,7 +147,7 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 12,
+        "daily_requests": 13,
         "exhausted": false
       },
       "gemini-3.6-flash": {
@@ -169,11 +169,11 @@
         "exhausted": true
       },
       "gemini-3.5-flash-lite": {
-        "daily_requests": 12,
+        "daily_requests": 13,
         "exhausted": false
       },
       "gemini-3.6-flash": {
-        "daily_requests": 1,
+        "daily_requests": 2,
         "exhausted": false
       }
     },
