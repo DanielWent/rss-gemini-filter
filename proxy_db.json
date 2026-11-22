@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cm7527kp4qrpo#2",
+        "title": "The real people finding their work copied and stolen by AI characters",
+        "link": "https://www.bbc.co.uk/news/articles/cm7527kp4qrpo?at_medium=RSS&at_campaign=rss",
+        "description": "Musicians, comedians and dancers are among those finding their videos cloned with AI generated characters.",
+        "published": "Sun, 22 Nov 2026 05:00:38 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddf0/live/25e92f10-e4f7-11f1-99a1-253766e7ad8b.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o#2",
         "title": "Can AI really help spot Black Friday deals? We put it to the test",
         "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
