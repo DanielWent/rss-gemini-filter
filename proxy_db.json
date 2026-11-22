@@ -2502,6 +2502,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-empty-house-sparking-neighbour-34944555",
+        "title": "Glasgow empty house sparking neighbour complaints to undergo compulsory purchase",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-empty-house-sparking-neighbour-34944555",
+        "description": "The proposal will go in front of councillors next week.",
+        "published": "Sun, 22 Nov 2026 09:31:35 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34944714.ece/ALTERNATES/s98/0_tillycairnstreet.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-hits-out-nightmare-34947675",
+        "title": "Glasgow mum hits out at 'nightmare' home in former Athletes' Village",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-mum-hits-out-nightmare-34947675",
+        "description": "It comes after a report highlighted issues at the Dalmarnock properties.",
+        "published": "Sun, 22 Nov 2026 09:20:03 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34948195.ece/ALTERNATES/s98/0_235c841b-d55a-459a-9ceb-27f9171b1e67jfif.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-city-council-continues-aim-34944127",
         "title": "Glasgow City Council continues its aim to reduce flooding as a result of heavy rainfall",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-city-council-continues-aim-34944127",
