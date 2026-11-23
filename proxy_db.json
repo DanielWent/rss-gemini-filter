@@ -2518,6 +2518,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/child-among-three-rushed-hospital-34952855",
+        "title": "Child among three rushed to hospital after deliberate fire in Glasgow's east end",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/child-among-three-rushed-hospital-34952855",
+        "description": "A police investigation has since been launched.",
+        "published": "Mon, 23 Nov 2026 11:13:57 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34952903.ece/ALTERNATES/s98/1_Screenshot-2026-11-23-110153.png"
+      },
+      {
+        "id": "https://news.stv.tv/?p=539539",
+        "title": "Teen Celtic fan who invaded pitch during Old Firm and brandished pole avoids jail",
+        "link": "https://news.stv.tv/west-central/teen-celtic-fan-who-invaded-pitch-during-old-firm-and-brandished-pole-avoids-jail",
+        "description": "Kobe Martin, 18, rushed on to the field after the Scottish Cup clash on March 8 this year.",
+        "published": "Mon, 23 Nov 2026 11:04:24 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/03/093a6ac10a751f7110da28897f3f85a9-1772997000.jpeg"
+      },
+      {
         "id": "9367107",
         "title": "Ally McCoist slams Scottish football problem Rangers are perpetuating as stat vs Motherwell branded \u2018terrible\u2019",
         "link": "https://www.glasgowworld.com/sport/football/rangers/ally-mccoist-slams-scottish-football-problem-rangers-are-perpetuating-as-stat-vs-motherwell-branded-terrible-9367107",
@@ -2564,14 +2580,6 @@
         "description": "718 Category 1 incidents, meaning contributing to or resulting in permanent harm or death, were logged in 2026",
         "published": "Sun, 22 Nov 2026 11:12:56 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/04/51bcef27b715c0a4b6e89fbcd3e4e0a5-1776688453-1079x720.jpeg"
-      },
-      {
-        "id": "9366210",
-        "title": "Derek McInnes singles out \u2018big horse\u2019 star as Motherwell difference maker after Rangers win by a length",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/derek-mcinnes-singles-out-rangers-star-as-difference-maker-in-motherwell-triumph-as-niggling-doubt-expressed-9366210",
-        "description": "<p>Ibrox side extended winning run at Fir Park to keep pace with rivals Celtic</p>",
-        "published": "Sun, 22 Nov 2026 10:00:23 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/22/9/18/GettyImages-2304011991.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-empty-house-sparking-neighbour-34944555",
