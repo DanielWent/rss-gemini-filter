@@ -2526,6 +2526,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=539670",
+        "title": "Ten-person holiday let with hot tub approved despite neighbours\u2019 noise fears",
+        "link": "https://news.stv.tv/west-central/ten-person-holiday-let-with-hot-tub-approved-despite-neighbours-noise-fears",
+        "description": "The proposals also include outdoor entertainment facilities, with a hot tub on raised decking and a separate octagonal dining area in the garden.",
+        "published": "Mon, 23 Nov 2026 19:26:30 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/133fa631ac62068617afd06188321bec-1795460488-1200x720.jpeg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=539667",
+        "title": "Almost half of Glasgow\u2019s traffic lights need to be replaced",
+        "link": "https://news.stv.tv/west-central/almost-half-of-glasgows-traffic-lights-need-to-be-replaced",
+        "description": "The council was fined \u00a380,000 earlier this year after a man suffered life-changing injuries when he was struck by a falling lamppost in 2023.",
+        "published": "Mon, 23 Nov 2026 18:57:13 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2025/12/17889d6d5a213bafef9e540f2dc6034e-1765820573-1079x720.jpeg"
+      },
+      {
         "id": "https://news.stv.tv/?p=539654",
         "title": "Man arrested in connection with serious sexual assault in Kelvingrove Park",
         "link": "https://news.stv.tv/west-central/man-arrested-in-connection-with-serious-sexual-assault-in-kelvingrove-park",
@@ -2822,14 +2838,6 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2025/05/b10f6ef4d11c3fc2480d538606219b71-1746535464-1084x720.jpeg"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/cmp3eypxjn3do#0",
-        "title": "Shooting victim was targeted as she lay in bed, say police",
-        "link": "https://www.bbc.co.uk/news/articles/cmp3eypxjn3do?at_medium=RSS&at_campaign=rss",
-        "description": "Detectives described the incident in Glasgow's Lambhill as \"abhorrent\" and \"despicable\".",
-        "published": "Fri, 20 Nov 2026 16:43:28 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4162/live/35e50e20-e362-11f1-a898-e7da1c1ebbf0.jpg"
-      },
-      {
         "id": "https://news.stv.tv/?p=539329",
         "title": "Kirkintilloch play park suffers thousands of pounds in damage as new swing set alight",
         "link": "https://news.stv.tv/west-central/kirkintilloch-play-park-suffers-thousands-of-pounds-in-damage-as-new-swing-set-alight",
@@ -2940,14 +2948,6 @@
         "description": "Isla Sneddon died age 17 and a new protocol has been launched in her name to protect other young people.",
         "published": "Fri, 20 Nov 2026 06:01:30 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56f1/live/a8521310-0201-11f1-b311-a93d45a0b96f.jpg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/news/articles/cw5y1r557j54o#0",
-        "title": "Care home predator sexually assaulted my mum despite warnings",
-        "link": "https://www.bbc.co.uk/news/articles/cw5y1r557j54o?at_medium=RSS&at_campaign=rss",
-        "description": "John said the \"horrific\" sex attack took place despite concerns previously being raised by staff.",
-        "published": "Thu, 19 Nov 2026 22:49:21 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a43c/live/3a0de250-e449-11f1-9192-3924a59e54c7.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/fire-crews-race-coatbridge-blaze-34938963",
