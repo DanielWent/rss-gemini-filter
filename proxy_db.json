@@ -2518,6 +2518,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=539559",
+        "title": "Mews-style houses could be developed in Glasgow\u2019s Southside",
+        "link": "https://news.stv.tv/west-central/mews-style-houses-could-be-developed-in-glasgows-southside",
+        "description": "An application for the residential development on Agnew Lane, formerly known as Albert Road, has been submitted for approval",
+        "published": "Mon, 23 Nov 2026 11:39:15 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/21903aeaeff7899ff0739ae745c4cec3-1795433629-938x720.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/child-among-three-rushed-hospital-34952855",
         "title": "Child among three rushed to hospital after deliberate fire in Glasgow's east end",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/child-among-three-rushed-hospital-34952855",
