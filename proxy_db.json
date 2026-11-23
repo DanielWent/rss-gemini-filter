@@ -2518,6 +2518,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=539501",
+        "title": "Seven charged over online child sexual exploitation in police crackdown across Glasgow and the west",
+        "link": "https://news.stv.tv/west-central/seven-charged-over-online-child-sexual-exploitation-in-police-crackdown-across-glasgow-and-the-west",
+        "description": "Police executed 18 warrants in the west of Scotland as part of an intensification week to tackle online child sex abuse and exploitation",
+        "published": "Mon, 23 Nov 2026 07:11:27 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/a6ca670f3358a4e059132ab492192995-1795362488-1280x720.jpeg"
+      },
+      {
+        "id": "https://news.stv.tv/?p=539097",
+        "title": "Parents urged to be alert to online harms as police warn predators can contact children in just 30 seconds",
+        "link": "https://news.stv.tv/west-central/parents-urged-to-be-alert-to-online-harms-as-police-warn-predators-can-contact-children-in-just-30-seconds",
+        "description": "Police urge parents to keep an open dialogue with children about their online lives, warning it's never been easier for predators to make contact",
+        "published": "Mon, 23 Nov 2026 07:11:04 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/a9b2716a4881e4963fa6d08904b1601b-1795095818-1280x720.jpeg"
+      },
+      {
         "id": "https://news.stv.tv/?p=539474",
         "title": "Hunt for masked man with English accent after serious sexual assault in Kelvingrove Park",
         "link": "https://news.stv.tv/west-central/hunt-for-masked-man-with-english-accent-after-serious-sexual-assault-in-kelvingrove-park",
