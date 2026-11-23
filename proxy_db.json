@@ -2518,6 +2518,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/cruel-ayrshire-nursery-worker-convicted-34953644",
+        "title": "Cruel Ayrshire nursery worker convicted of assaulting five-year-old boy struck off",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/cruel-ayrshire-nursery-worker-convicted-34953644",
+        "description": "Following a hearing over several days, the Scottish Social Services Council found further allegations against Louise Kitchen proven.",
+        "published": "Mon, 23 Nov 2026 15:01:35 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34954794.ece/ALTERNATES/s98/0_Screenshot-2026-11-23-145118.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/workers-reject-glasgow-councils-pay-34954534",
+        "title": "Workers reject Glasgow council's pay offer as Unison demands better deal",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/workers-reject-glasgow-councils-pay-34954534",
+        "description": "Unison is the largest union at Glasgow City Council and had recommended its members rejected the new pay and grading structure.",
+        "published": "Mon, 23 Nov 2026 14:23:59 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34899545.ece/ALTERNATES/s98/0_Screenshot-2026-11-12-083034.png"
+      },
+      {
         "id": "9367299",
         "title": "Fontaines DC @ Glasgow OVO Hydro: 21 fabulous photo from the gig - and the full setlist",
         "link": "https://www.glasgowworld.com/whats-on/fontaines-dc-at-the-glasgow-ovo-hydro-here-are-21-amazing-pictures-from-the-gig-and-the-full-setlist-9368308",
@@ -2596,6 +2612,14 @@
         "description": "The BBC's Lorna Gordon finds out how data centres operate and hears arguments for and against them.",
         "published": "Mon, 23 Nov 2026 06:12:43 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d71e/live/cdce6b70-e716-11f1-a094-5fdc692f3e33.png"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cmewvge72prdo#0",
+        "title": "Seven charged with online child sexual exploitation after police raids",
+        "link": "https://www.bbc.co.uk/news/articles/cmewvge72prdo?at_medium=RSS&at_campaign=rss",
+        "description": "Police carried out raids in Greater Glasgow, Ayrshire, Renfrewshire, Dumfries and Galloway and Dunbartonshire.",
+        "published": "Mon, 23 Nov 2026 06:07:43 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d7c/live/e896e130-e68f-11f1-936e-1fd1d31671db.jpg"
       },
       {
         "id": "https://news.stv.tv/?p=539474",
