@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o#2",
+        "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+        "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+        "description": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+        "published": "Mon, 23 Nov 2026 00:08:00 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d7f/live/712502a0-e2cd-11f1-99ed-7de3e5932968.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cm7527kp4qrpo#2",
         "title": "The real people finding their work copied and stolen by AI characters",
         "link": "https://www.bbc.co.uk/news/articles/cm7527kp4qrpo?at_medium=RSS&at_campaign=rss",
