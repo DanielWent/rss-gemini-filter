@@ -2534,6 +2534,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cm5y1vp20rx1o#0",
+        "title": "Property firm told to repay customers thousands over 'unfair' sales tactics",
+        "link": "https://www.bbc.co.uk/news/articles/cm5y1vp20rx1o?at_medium=RSS&at_campaign=rss",
+        "description": "Let Property must make the \"unprecedented\" number of repayments after complaints were made to a watchdog.",
+        "published": "Mon, 23 Nov 2026 23:00:02 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1fc/live/74fab170-e75c-11f1-b407-33329b1ec67a.jpg"
+      },
+      {
         "id": "9368968",
         "title": "Rangers vs Aberdeen injury news: 8 out and 3 doubts as hosts return to familiar surroundings for game in hand",
         "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-aberdeen-injury-news-out-doubts-hosts-return-familiar-surroundings-game-in-hand-9368968",
@@ -2566,14 +2574,6 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2025/12/17889d6d5a213bafef9e540f2dc6034e-1765820573-1079x720.jpeg"
       },
       {
-        "id": "https://news.stv.tv/?p=539654",
-        "title": "Man arrested in connection with serious sexual assault in Kelvingrove Park",
-        "link": "https://news.stv.tv/west-central/man-arrested-in-connection-with-serious-sexual-assault-in-kelvingrove-park",
-        "description": "Police issued a public appeal following an incident in Glasgow's Kelvingrove Park.",
-        "published": "Mon, 23 Nov 2026 18:00:46 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/ce1562504c719fbd6ccb7bba30e4aca2-1795368771-1280x720.jpeg"
-      },
-      {
         "id": "9368174",
         "title": "Celtic hero draws transfer attention as free agent status nears with Wolves among \u2018interested\u2019 clubs circling",
         "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-hero-draws-transfer-attention-as-free-agent-status-nears-with-wolves-among-interested-clubs-circling-9368174",
@@ -2604,14 +2604,6 @@
         "description": "The family of James Clark, 86, raised concerns over his risk of wandering but were repeatedly reassured that appropriate measures were in place.",
         "published": "Mon, 23 Nov 2026 17:12:58 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/99098679b9e525e6bf344e224c4ef3fd-1795452275-1032x720.jpg"
-      },
-      {
-        "id": "https://news.stv.tv/?p=539628",
-        "title": "\u00a320,000 reward for information after woman shot as she lay in bed\u00a0in Lambhill",
-        "link": "https://news.stv.tv/west-central/20000-reward-for-information-after-woman-shot-as-she-lay-in-bed",
-        "description": "The 27-year-old woman was critically injured after being shot in a targeted murder bid on Eynort Street in Lambhill",
-        "published": "Mon, 23 Nov 2026 16:53:15 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/52c876fcacf04dd133a33ca618000c55-1795195217-1200x720.jpeg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/20k-reward-information-glasgow-shooting-34955400",
@@ -2652,14 +2644,6 @@
         "description": "Unison is the largest union at Glasgow City Council and had recommended its members rejected the new pay and grading structure.",
         "published": "Mon, 23 Nov 2026 14:23:59 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34899545.ece/ALTERNATES/s98/0_Screenshot-2026-11-12-083034.png"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/life-saving-defibrillator-installed-glasgows-34954176",
-        "title": "Life-saving defibrillator installed in Glasgow\u2019s George Square",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/life-saving-defibrillator-installed-glasgows-34954176",
-        "description": "Its installation comes as George Square welcomes the public back following a major \u00a320 million transformation.",
-        "published": "Mon, 23 Nov 2026 14:20:31 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34954283.ece/ALTERNATES/s98/0_St-John-Scotland-Defibrillator-George-Square.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-fight-night-march-planned-34953903",
