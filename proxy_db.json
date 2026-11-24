@@ -2582,6 +2582,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=539703",
+        "title": "Record number of women in their thirties having babies in Scotland",
+        "link": "https://news.stv.tv/west-central/record-number-of-women-in-their-thirties-having-babies-in-scotland",
+        "description": "Statistics from Public Health Scotland show that 62.7% of those who gave birth in 2025/26 were aged 30 or older.",
+        "published": "Tue, 24 Nov 2026 12:13:44 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/02/34633642bf5517198f2638634ae63bb1-1770285788-1280x720.jpeg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-wetherspoons-plans-bring-popular-34957930",
         "title": "Glasgow Wetherspoons plans to bring popular beer garden back to George Square",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-wetherspoons-plans-bring-popular-34957930",
