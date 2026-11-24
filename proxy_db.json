@@ -2598,12 +2598,36 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-workers-face-stress-34959986",
+        "title": "Glasgow council workers face 'stress and anxiety' if fire and rehire plans tabled, says union",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-workers-face-stress-34959986",
+        "description": "The union met council bosses on Tuesday to try to come to an agreement.",
+        "published": "Tue, 24 Nov 2026 16:21:22 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34960377.ece/ALTERNATES/s98/3_UNISON.png"
+      },
+      {
         "id": "https://news.stv.tv/?p=539710",
         "title": "Glasgow property firm ordered to pay back over \u00a3300,000 to investors",
         "link": "https://news.stv.tv/west-central/glasgow-property-firm-ordered-to-pay-back-over-300000-to-investors",
         "description": "Let Property, which describes itself as the 'UK's Leading Investment Property Marketplace', is based in Glasgow",
         "published": "Tue, 24 Nov 2026 15:49:22 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/f8f21539ead68991e6b1ba3d114558d6-1795533511-1079x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-trains-disrupted-amid-emergency-34960023",
+        "title": "Glasgow trains disrupted amid 'emergency incident' near Dumbarton",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-trains-disrupted-amid-emergency-34960023",
+        "description": "Services in the area are subject to alteration and cancellation.",
+        "published": "Tue, 24 Nov 2026 15:39:47 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34806745.ece/ALTERNATES/s98/1_JS267212967-4.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-charged-over-alleged-rape-34960024",
+        "title": "Man charged over alleged rape of young woman in Glasgow's Kelvingrove Park",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-charged-over-alleged-rape-34960024",
+        "description": "The man is due to appear at Glasgow Sheriff Court on Wednesday.",
+        "published": "Tue, 24 Nov 2026 15:38:25 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34949799.ece/ALTERNATES/s98/2_kelvingrove-police.jpg"
       },
       {
         "id": "https://news.stv.tv/?p=539752",
