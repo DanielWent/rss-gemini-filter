@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1795542319978577",
+        "title": "Record 5,200 heat-linked deaths estimated in England this year",
+        "link": "https://www.bbc.co.uk/news/articles/cq2e83egrez3o?at_medium=RSS&at_campaign=rss",
+        "description": "The UK Health Security Agency says this year's number of deaths is twice that of the previous record year.",
+        "published": "Tue, 24 Nov 2026 17:22:16 +0100",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7439/live/723aa2a0-e802-11f1-95bb-3f37d3e026b0.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o#1",
         "title": "Helpful but awkward: My week with Meta's AI agent Muse ahead of its UK launch",
         "link": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
@@ -661,6 +669,14 @@
     "link": "https://blog.google",
     "description": "AI Filtered Google Blog Updates.",
     "articles": [
+      {
+        "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-neon-builders/",
+        "title": "See what 5 builders are making with Gemini 4 Neon",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-neon-builders/",
+        "description": "Collage of creations using Gemini 4 Neon",
+        "published": "Tue, 24 Nov 2026 16:00:00 +0000",
+        "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5_Builders_Neon_herosocial.max-600x600.format-webp.webp"
+      },
       {
         "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-hydrogen-builders/",
         "title": "See what 6 builders are making with Gemini 4 Hydrogen",
