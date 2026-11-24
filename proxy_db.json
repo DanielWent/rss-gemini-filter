@@ -2550,6 +2550,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=539685",
+        "title": "Woman knocked down by car after exchange with driver in Cumbernauld",
+        "link": "https://news.stv.tv/west-central/woman-knocked-down-by-car-after-exchange-with-driver-in-cumbernauld",
+        "description": "The woman is in hospital with serious injuries after being struck in Cumbernauld's Baird Crescent",
+        "published": "Tue, 24 Nov 2026 08:46:11 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/b0e997140f2f1e9e435a6c3cc1059eb6-1795509007-1120x720.jpeg"
+      },
+      {
         "id": "9367934",
         "title": "Predicted Rangers XI vs Aberdeen: Two changes as McInnes looks to capitalise on game in hand",
         "link": "https://www.glasgowworld.com/sport/football/rangers/predicted-rangers-xi-aberdeen-changes-mcinnes-capitalise-on-game-in-hand-against-revitalised-dons-9367934",
@@ -2604,14 +2612,6 @@
         "description": "Let Property must make the \"unprecedented\" number of repayments after complaints were made to a watchdog.",
         "published": "Mon, 23 Nov 2026 23:00:02 GMT",
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1fc/live/74fab170-e75c-11f1-b407-33329b1ec67a.jpg"
-      },
-      {
-        "id": "9368968",
-        "title": "Rangers vs Aberdeen injury news: 8 out and 3 doubts as hosts return to familiar surroundings for game in hand",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-aberdeen-injury-news-out-doubts-hosts-return-familiar-surroundings-game-in-hand-9368968",
-        "description": "<p>Latest injury news from both camps ahead of Rangers clash against Aberdeen in the Scottish Premiership</p>",
-        "published": "Mon, 23 Nov 2026 20:00:49 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/23/10/44/21838012.jpeg?width=1200&auto=webp&trim=0%2C189%2C0%2C0"
       },
       {
         "id": "9368858",
