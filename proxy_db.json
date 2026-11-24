@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o#1",
+        "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+        "link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+        "description": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+        "published": "Tue, 24 Nov 2026 23:05:11 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73d1/live/fd148350-e825-11f1-99a1-253766e7ad8b.jpg"
+      },
+      {
         "id": "1795542319978577",
         "title": "Record 5,200 heat-linked deaths estimated in England this year",
         "link": "https://www.bbc.co.uk/news/articles/cq2e83egrez3o?at_medium=RSS&at_campaign=rss",
