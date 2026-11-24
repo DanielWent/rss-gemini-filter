@@ -2582,6 +2582,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-wetherspoons-plans-bring-popular-34957930",
+        "title": "Glasgow Wetherspoons plans to bring popular beer garden back to George Square",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-wetherspoons-plans-bring-popular-34957930",
+        "description": "Plans have been lodged to Glasgow City Council.",
+        "published": "Tue, 24 Nov 2026 11:52:27 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34957935.ece/ALTERNATES/s98/0_wetherspoon-pub-garden.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=539685",
         "title": "Woman knocked down by car after exchange with driver in Cumbernauld",
         "link": "https://news.stv.tv/west-central/woman-knocked-down-by-car-after-exchange-with-driver-in-cumbernauld",
