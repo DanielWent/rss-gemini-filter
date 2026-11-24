@@ -2598,6 +2598,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-rushed-glasgow-hospital-after-34960889",
+        "title": "Man rushed to Glasgow hospital after attack by group wielding weapons",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-rushed-glasgow-hospital-after-34960889",
+        "description": "Emergency services responded and the 44-year-old man was hospitalised.",
+        "published": "Tue, 24 Nov 2026 17:17:48 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34960924.ece/ALTERNATES/s98/2_linkwood.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/tragedy-after-person-dies-kilpatrick-34960397",
+        "title": "Tragedy as person dies at Kilpatrick Station after emergency services raced to scene",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/tragedy-after-person-dies-kilpatrick-34960397",
+        "description": "Emergency services rushed to the scene on Tuesday afternoon.",
+        "published": "Tue, 24 Nov 2026 16:25:09 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34527069.ece/ALTERNATES/s98/3_JS379497539-9.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-workers-face-stress-34959986",
         "title": "Glasgow council workers face 'stress and anxiety' if fire and rehire plans tabled, says union",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-council-workers-face-stress-34959986",
@@ -2628,6 +2644,14 @@
         "description": "The man is due to appear at Glasgow Sheriff Court on Wednesday.",
         "published": "Tue, 24 Nov 2026 15:38:25 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34949799.ece/ALTERNATES/s98/2_kelvingrove-police.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/woman-61-charged-over-violence-34959741",
+        "title": "Woman, 61, charged over 'violence against shop worker' in Glasgow's east end",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/woman-61-charged-over-violence-34959741",
+        "description": "She was one of four people arrested in a recent crackdown on retail crime in the area.",
+        "published": "Tue, 24 Nov 2026 15:12:42 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article24546515.ece/ALTERNATES/s98/6_JS183291711jpgpoljpgl.jpg"
       },
       {
         "id": "https://news.stv.tv/?p=539752",
