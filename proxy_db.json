@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o#1",
+        "title": "Helpful but awkward: My week with Meta's AI agent Muse ahead of its UK launch",
+        "link": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
+        "description": "Meta wants Muse to do for AI what WhatsApp did for messaging - here's what the BBC's technology editor found when she used it.",
+        "published": "Tue, 24 Nov 2026 09:33:00 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18ae/live/af1ca360-e7e6-11f1-8b26-c1adae33e7f2.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o#2",
         "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
         "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
@@ -1063,7 +1071,7 @@
         "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HealthGuardian_social.max-600x600.format-webp.webp"
       }
     ],
-    "image_url": "https://blog.google/static/blogv2/images/google-logo.png",
+    "image_url": "https://blog.google/products-and-platforms/devices/google-nest/static/blogv2/images/google.png",
     "icon_url": "https://blog.google/favicon.ico"
   },
   "dcrainmaker_ai_filtered": {
@@ -1176,6 +1184,30 @@
     "link": "https://the5krunner.com",
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
+      {
+        "id": "https://the5krunner.com/?p=146349",
+        "title": "Indie App Spotlight: Buena Vida sets your calories from tomorrow\u2019s run",
+        "link": "https://the5krunner.com/2026/11/24/buena-vida-running-nutrition-app/",
+        "description": "<p><img alt=\"Indie App Spotlight: Buena Vida sets your calories from tomorrow&#8217;s run\" class=\"attachment-large size-large\" height=\"740\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/11/buena-vida-apple-watch-runner.jpg/w=1110,h=740\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>One week of real numbers shows the target rising about 600 kcal on training days, mostly as carbohydrate, while protein stays fixed. Food, plan and workouts stay on the phone.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/11/24/buena-vida-running-nutrition-app/\">Indie App Spotlight: Buena Vida sets your calories from tomorrow&#8217;s run</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>\n<a href=\"https://the5krunner.com/rss-check-7h2k/\" rel=\"nofollow\"></a>",
+        "published": "Tue, 24 Nov 2026 10:26:35 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/11/buena-vida-apple-watch-runner.jpg/w=1110,h=740"
+      },
+      {
+        "id": "https://the5krunner.com/?p=146348",
+        "title": "Indie App Spotlight: Nomadic Max puts cockpit-style gauges on a Garmin",
+        "link": "https://the5krunner.com/2026/11/24/nomadic-max-garmin-watch-face/",
+        "description": "<p><img alt=\"Indie App Spotlight: Nomadic Max puts cockpit-style gauges on a Garmin\" class=\"attachment-large size-large\" height=\"1451\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/11/nomadic-max-v2-5-seven-gauge-lime-wrist-outdoors.jpg/w=1110,h=1451\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>Two readings on a busy day, seven at a trail stop, and a hidden page of sleep and step charts a hold away. A pilot built it from the instruments he flies with.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/11/24/nomadic-max-garmin-watch-face/\">Indie App Spotlight: Nomadic Max puts cockpit-style gauges on a Garmin</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>\n<a href=\"https://the5krunner.com/rss-check-7h2k/\" rel=\"nofollow\"></a>",
+        "published": "Tue, 24 Nov 2026 10:23:23 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/11/nomadic-max-v2-5-seven-gauge-lime-wrist-outdoors.jpg/w=1110,h=1451"
+      },
+      {
+        "id": "https://the5krunner.com/?p=146327",
+        "title": "Indie App Spotlight: Orbital Analog sets a Garmin watch face in orbit",
+        "link": "https://the5krunner.com/2026/11/24/orbital-analog-garmin-watch-face/",
+        "description": "<p><img alt=\"Indie App Spotlight: Orbital Analog sets a Garmin watch face in orbit\" class=\"attachment-large size-large\" height=\"624\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/11/orbital-analog-garmin-runner-wrist-hero.jpg/w=1110,h=624\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>The heart rate pointer takes your zone colour, the battery and weekday dials ride beside the minute hand, and the edge fills orange as steps build toward the goal.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/11/24/orbital-analog-garmin-watch-face/\">Indie App Spotlight: Orbital Analog sets a Garmin watch face in orbit</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>\n<a href=\"https://the5krunner.com/rss-check-7h2k/\" rel=\"nofollow\"></a>",
+        "published": "Tue, 24 Nov 2026 09:57:39 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2026/11/orbital-analog-garmin-runner-wrist-hero.jpg/w=1110,h=624"
+      },
       {
         "id": "https://the5krunner.com/?p=146302",
         "title": "#6 Legal Files: Week Ending 24 November 2026",
