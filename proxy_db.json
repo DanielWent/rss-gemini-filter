@@ -2646,6 +2646,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=539735",
+        "title": "Rape crisis centres want Holyrood Budget to end \u2018postcode lottery\u2019 for support",
+        "link": "https://news.stv.tv/west-central/rape-crisis-centres-want-holyrood-budget-to-end-postcode-lottery-for-support",
+        "description": "Chiefs say rape crisis centres in the west represent 41% of Scotland\u2019s population, but receive only 28% of available government funding",
+        "published": "Wed, 25 Nov 2026 07:11:29 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/fa4d17b9c66a9606a99b522a6d87d52e-1795108752-1080x720.jpeg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-rushed-glasgow-hospital-after-34960889",
         "title": "Man rushed to Glasgow hospital after attack by group wielding weapons",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-rushed-glasgow-hospital-after-34960889",
@@ -2676,14 +2684,6 @@
         "description": "Let Property, which describes itself as the 'UK's Leading Investment Property Marketplace', is based in Glasgow",
         "published": "Tue, 24 Nov 2026 15:49:22 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/f8f21539ead68991e6b1ba3d114558d6-1795533511-1079x720.jpeg"
-      },
-      {
-        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-trains-disrupted-amid-emergency-34960023",
-        "title": "Glasgow trains disrupted amid 'emergency incident' near Dumbarton",
-        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-trains-disrupted-amid-emergency-34960023",
-        "description": "Services in the area are subject to alteration and cancellation.",
-        "published": "Tue, 24 Nov 2026 15:39:47 +0000",
-        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34806745.ece/ALTERNATES/s98/1_JS267212967-4.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-charged-over-alleged-rape-34960024",
