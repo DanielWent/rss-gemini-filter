@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo#4",
+        "title": "Will there be a White Christmas this year?",
+        "link": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&at_campaign=rss",
+        "description": "It is just a month until the big day but what do the early signs say about the chances of a white Christmas in the UK?",
+        "published": "Wed, 25 Nov 2026 01:03:24 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed6d/live/7d7bb080-e764-11f1-b407-33329b1ec67a.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o#1",
         "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
         "link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
