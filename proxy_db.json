@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo#1",
+        "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+        "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+        "description": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+        "published": "Wed, 25 Nov 2026 06:00:36 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d025/live/0cb03100-e741-11f1-802a-678be58471bb.png"
+      },
+      {
         "id": "1795582809903369",
         "title": "China's Shenzhou-24 carries Pakistan's first astronaut into space",
         "link": "https://www.bbc.co.uk/news/articles/c6x2e0j3kx28o?at_medium=RSS&at_campaign=rss",
