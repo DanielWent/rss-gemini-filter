@@ -2726,6 +2726,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/ckvg6gyddx5vo#0",
+        "title": "Long waits 'a tragedy' as thousands seek ADHD and autism assessments",
+        "link": "https://www.bbc.co.uk/news/articles/ckvg6gyddx5vo?at_medium=RSS&at_campaign=rss",
+        "description": "A GP warns that long waits for ADHD and autism assessments mean those most in need are not being seen.",
+        "published": "Wed, 25 Nov 2026 23:01:45 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90b6/live/c066d7c0-e8eb-11f1-8808-1d4222955d7e.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c6kgr32kdv07o#0",
+        "title": "Union accuses ferries agency of sabotaging Ferguson shipyard",
+        "link": "https://www.bbc.co.uk/news/articles/c6kgr32kdv07o?at_medium=RSS&at_campaign=rss",
+        "description": "GMB Scotland say CMAL boss Kevin Hobbs \"intentionally undermined\" the yard's reputation in front of MSPs.",
+        "published": "Wed, 25 Nov 2026 23:00:04 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ff8/live/e1620ca0-e8b5-11f1-99a1-253766e7ad8b.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=539993",
         "title": "Scots mum who lost baby after brutal attack by ex fighting for law change",
         "link": "https://news.stv.tv/west-central/scots-mum-who-lost-baby-after-brutal-attack-by-ex-fighting-for-law-change",
