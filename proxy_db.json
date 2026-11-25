@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1795582809903369",
+        "title": "China's Shenzhou-24 carries Pakistan's first astronaut into space",
+        "link": "https://www.bbc.co.uk/news/articles/c6x2e0j3kx28o?at_medium=RSS&at_campaign=rss",
+        "description": "Muhammad Zeeshan Ali, a former fighter pilot, is the first foreigner to join a Chinese crewed space mission.",
+        "published": "Wed, 25 Nov 2026 05:46:23 +0100",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff8d/live/a3bd6350-e87d-11f1-98e2-c97dce6bef0d.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo#4",
         "title": "Will there be a White Christmas this year?",
         "link": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&at_campaign=rss",
