@@ -2686,6 +2686,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c62kl1p10xwxo#0",
+        "title": "Daughter of nuclear test veteran blames his radiation exposure for her fertility issues",
+        "link": "https://www.bbc.co.uk/news/articles/c62kl1p10xwxo?at_medium=RSS&at_campaign=rss",
+        "description": "underwent various tests but was never able to conceive while her sister also went through complications with two of her children dying.",
+        "published": "Wed, 25 Nov 2026 14:15:11 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf48/live/4b01abe0-e8c8-11f1-ac76-db9e97f93d67.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/c69q8xpnvg50o#0",
+        "title": "Police report reduced Bonfire Night disorder despite 30 arrests",
+        "link": "https://www.bbc.co.uk/news/articles/c69q8xpnvg50o?at_medium=RSS&at_campaign=rss",
+        "description": "Calls to police between Halloween and Bonfire night increased but the number of serious incidents was down.",
+        "published": "Wed, 25 Nov 2026 14:08:00 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2adf/live/d9dfbee0-d9c5-11f1-a00c-673f8daaffd9.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/decision-close-glasgow-day-centres-34964651",
         "title": "Decision to close Glasgow day centres 'makes no sense' as councillor claims demand is rising",
         "link": "https://www.glasgowlive.co.uk/news/decision-close-glasgow-day-centres-34964651",
@@ -2724,6 +2740,14 @@
         "description": "Female pupils at Knightswood Secondary School said they were made to wash kits while boys played football in sports leadership classes.",
         "published": "Wed, 25 Nov 2026 12:25:36 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/096563293c7759fc36fee6ffd50d0789-1795605751.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/ckj05meplq81o#0",
+        "title": "Council unable to confirm when storm-hit leisure centre will reopen",
+        "link": "https://www.bbc.co.uk/news/articles/ckj05meplq81o?at_medium=RSS&at_campaign=rss",
+        "description": "Helensburgh Leisure Centre has been closed since Storm Eowyn ripped off parts of the roof in January 2025.",
+        "published": "Wed, 25 Nov 2026 12:21:54 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e82e/live/973b6e70-e8c2-11f1-ac76-db9e97f93d67.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/health/new-guidance-slings-baby-carriers-34963768",
