@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cqpv9kjgy4jno#2",
+        "title": "Blade Runner 2099 not just about AI, say star Hunter Schafer and series creator",
+        "link": "https://www.bbc.co.uk/news/articles/cqpv9kjgy4jno?at_medium=RSS&at_campaign=rss",
+        "description": "Hunter Schafer and co-stars say the sci-fi TV show explores more than the idea of robotic consciousness.",
+        "published": "Wed, 25 Nov 2026 06:28:22 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa20/live/499a3970-e814-11f1-ab42-55d8d8278025.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cm0qjglj3ejlo#4",
         "title": "Festive market cancels bookings after AI backlash",
         "link": "https://www.bbc.co.uk/news/articles/cm0qjglj3ejlo?at_medium=RSS&at_campaign=rss",
@@ -2669,6 +2677,22 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://news.stv.tv/?p=539874",
+        "title": "A78 to reopen to all traffic as repairs to damage caused by Storm Boelo continues",
+        "link": "https://news.stv.tv/west-central/a78-to-reopen-to-all-traffic-as-repairs-to-damage-caused-by-storm-boelo-continues",
+        "description": "The road will reopen under temporary traffic lights",
+        "published": "Wed, 25 Nov 2026 10:47:33 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/abf96282a31b865e2bb660d25744dfcc-1793964533.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-clyde-bridge-light-up-34962884",
+        "title": "Glasgow Clyde bridge to light up tonight in stand against gender-based violence",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-clyde-bridge-light-up-34962884",
+        "description": "By lighting the Clyde Arc, Glasgow joins communities around the world in demonstrating solidarity with survivors and reaffirming its commitment to prevention, support and justice.",
+        "published": "Wed, 25 Nov 2026 10:29:46 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article24843305.ece/ALTERNATES/s98/0_GettyImages-91838232.jpg"
+      },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/evil-glaswegian-child-killer-could-34962084",
         "title": "Evil Glaswegian child killer could be released under new name in Scotland",
