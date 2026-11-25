@@ -2686,6 +2686,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/health/new-guidance-slings-baby-carriers-34963768",
+        "title": "New guidance on slings and baby carriers issued following death of six-week-old boy",
+        "link": "https://www.glasgowlive.co.uk/news/health/new-guidance-slings-baby-carriers-34963768",
+        "description": "Jimmy Alderman drifted off to sleep, but stopped breathing shortly afterwards while in his carrier",
+        "published": "Wed, 25 Nov 2026 11:59:33 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/health/article34963764.ece/ALTERNATES/s98/0_01M86FNGRKE25Q0YPW34N6RDQW.jpg"
+      },
+      {
+        "id": "9373016",
+        "title": "Celtic long-term injury frees up place in Europa League squad as Martin O\u2019Neill drafts in fan favourite",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/celtic-long-term-injury-frees-up-place-in-europa-league-squad-as-martin-oneill-drafts-in-fan-favourite-9373016",
+        "description": "<p>Hoops have confirmed there\u2019s a new face in their European squad</p>",
+        "published": "Wed, 25 Nov 2026 11:58:07 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/25/11/36/GettyImages-2304139726.jpeg?width=1200&auto=webp&trim=0%2C52%2C0%2C278"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/people-out-know-something-glasgow-34963562",
+        "title": "'People out there know something' about Glasgow shooting as \u00a320k reward offered for anonymous info",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/people-out-know-something-glasgow-34963562",
+        "description": "\u201cSomeone should be safe in their own bed, in their own home. Instead, a young woman is fighting for her recovery.\"",
+        "published": "Wed, 25 Nov 2026 11:55:17 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34963615.ece/ALTERNATES/s98/0_Screenshot-2026-11-25-113118.png"
+      },
+      {
         "id": "https://news.stv.tv/?p=539877",
         "title": "Hearing held into death of jailed paedophile ex-Celtic scout",
         "link": "https://news.stv.tv/west-central/hearing-held-into-death-of-jailed-paedophile-ex-celtic-scout",
