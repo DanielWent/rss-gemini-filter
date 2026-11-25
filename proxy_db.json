@@ -2694,6 +2694,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o#0",
+        "title": "Poundland collapses putting 11,000 jobs at risk",
+        "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+        "description": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
+        "published": "Wed, 25 Nov 2026 16:45:09 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b3b/live/67717ce0-e8ed-11f1-8808-1d4222955d7e.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/village-45-minutes-glasgow-named-34965725",
+        "title": "Village 45 minutes from Glasgow named \u2018cosiest for Christmas\u2019 with cobbled streets and prized pub",
+        "link": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/village-45-minutes-glasgow-named-34965725",
+        "description": "Those looking for a quieter day out this festive season are in luck, with this quaint spot under an hour's drive from Glasgow.",
+        "published": "Wed, 25 Nov 2026 16:39:09 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34966408.ece/ALTERNATES/s98/0_Culross.png"
+      },
+      {
         "id": "9373955",
         "title": "Phoebe Bridgers at Glasgow\u2019s OVO Hydro: Phone ban, stage times and crucial gig guide",
         "link": "https://www.glasgowworld.com/news/phoebe-bridgers-at-glasgows-ovo-hydro-phone-ban-stage-times-and-crucial-gig-guide-9373955",
@@ -2844,6 +2860,14 @@
         "description": "Chiefs say rape crisis centres in the west represent 41% of Scotland\u2019s population, but receive only 28% of available government funding",
         "published": "Wed, 25 Nov 2026 07:11:29 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/fa4d17b9c66a9606a99b522a6d87d52e-1795108752-1080x720.jpeg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/sport/football/articles/cw808pyyxgzjo#0",
+        "title": "Rangers 'dug it out' despite naivety & complacency - McInnes",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cw808pyyxgzjo?at_medium=RSS&at_campaign=rss",
+        "description": "Rangers manager Derek McInnes says his team's naivety and complacency made their task more difficult in their thrilling 3-2 win over Aberdeen, but hails their ability to get the job done.",
+        "published": "Wed, 25 Nov 2026 01:20:53 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/894a/live/51627690-e86e-11f1-bcda-1d03b8eb883f.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-rushed-glasgow-hospital-after-34960889",
