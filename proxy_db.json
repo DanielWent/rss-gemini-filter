@@ -2686,6 +2686,30 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9372963",
+        "title": "Glasgow charity offering help to families hit by energy price surge",
+        "link": "https://www.glasgowworld.com/news/glasgow-charity-to-help-families-facing-energy-price-surge-9372963",
+        "description": "<p>Children First bringing respite as price cap leaps</p>",
+        "published": "Wed, 25 Nov 2026 12:38:36 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/25/9/13/PA-86494485.jpeg?width=1200&auto=webp&trim=0%2C55%2C0%2C202"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/plan-69-new-glasgow-flats-34964272",
+        "title": "Plan for 69 new Glasgow flats and landscaped gardens to be built on former job centre site",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/plan-69-new-glasgow-flats-34964272",
+        "description": "The developer promises to \"provide high quality new homes while making a positive contribution to the local townscape and wider regeneration of the area\".",
+        "published": "Wed, 25 Nov 2026 12:36:04 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34964278.ece/ALTERNATES/s98/0_herschellstreet.png"
+      },
+      {
+        "id": "https://news.stv.tv/?p=539897",
+        "title": "Senior staff meet with pupils over claims of PE class \u2018sexism\u2019 at Glasgow school",
+        "link": "https://news.stv.tv/west-central/senior-staff-meet-with-pupils-over-claims-of-pe-class-sexism-at-glasgow-school",
+        "description": "Female pupils at Knightswood Secondary School said they were made to wash kits while boys played football in sports leadership classes.",
+        "published": "Wed, 25 Nov 2026 12:25:36 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/096563293c7759fc36fee6ffd50d0789-1795605751.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/health/new-guidance-slings-baby-carriers-34963768",
         "title": "New guidance on slings and baby carriers issued following death of six-week-old boy",
         "link": "https://www.glasgowlive.co.uk/news/health/new-guidance-slings-baby-carriers-34963768",
