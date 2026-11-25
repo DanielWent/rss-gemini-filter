@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cm0qjglj3ejlo#4",
+        "title": "Festive market cancels bookings after AI backlash",
+        "link": "https://www.bbc.co.uk/news/articles/cm0qjglj3ejlo?at_medium=RSS&at_campaign=rss",
+        "description": "Visitors and stallholders say the event did not match the promotional AI pictures.",
+        "published": "Wed, 25 Nov 2026 06:02:07 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f99/live/91fcead0-e8a7-11f1-99a1-253766e7ad8b.png"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo#1",
         "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
         "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
@@ -2524,6 +2532,14 @@
     "icon_url": "https://runabc.co.uk/favicon.ico",
     "articles": [
       {
+        "id": "https://runabc.co.uk/run-nl-christmas-cracker-2026-brings-festive-running-to-cumbernauld",
+        "title": "A Christmas Cracker Of A Day At Broadwood",
+        "link": "https://runabc.co.uk/run-nl-christmas-cracker-2026-brings-festive-running-to-cumbernauld",
+        "description": "<p><img alt=\"Run NL Christmas Cracker 2026\" src=\"https://runabc.co.uk/images/2026/11/run-nl-christmas-cracker-2026.jpg\" /></p>\n\t\t\t\t<p>Run NL Christmas Cracker brings festive running back to Broadwood Stadium on 13 December 2026, continuing the former Santa Dash tradition with races for all ages...</p>",
+        "published": "Wed, 25 Nov 2026 07:55:00 +0000",
+        "image_url": "https://runabc.co.uk/images/2026/11/run-nl-christmas-cracker-2026.jpg"
+      },
+      {
         "id": "https://runabc.co.uk/beith-harriers-new-year-road-races-2027-continues-historic-ayrshire-tradition",
         "title": "A New Year Running Tradition With The Next Generation At Heart!",
         "link": "https://runabc.co.uk/beith-harriers-new-year-road-races-2027-continues-historic-ayrshire-tradition",
@@ -2645,6 +2661,22 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "9371821",
+        "title": "How to watch Torreense vs Celtic: TV channel, live stream, team news, referee and VAR for Europa League battle",
+        "link": "https://www.glasgowworld.com/sport/football/celtic/how-to-watch-torreense-vs-celtic-tv-channel-live-stream-team-news-referee-and-var-for-europa-league-battle-9371821",
+        "description": "<p>Everything you need to know about how to watch Celtic in Europe</p>",
+        "published": "Wed, 25 Nov 2026 08:00:28 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/25/8/25/GettyImages-2303789571.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0"
+      },
+      {
+        "id": "https://runabc.co.uk/run-nl-christmas-cracker-2026-brings-festive-running-to-cumbernauld",
+        "title": "A Christmas Cracker Of A Day At Broadwood",
+        "link": "https://runabc.co.uk/run-nl-christmas-cracker-2026-brings-festive-running-to-cumbernauld",
+        "description": "<p><img alt=\"Run NL Christmas Cracker 2026\" src=\"https://runabc.co.uk/images/2026/11/run-nl-christmas-cracker-2026.jpg\" /></p>\n\t\t\t\t<p>Run NL Christmas Cracker brings festive running back to Broadwood Stadium on 13 December 2026, continuing the former Santa Dash tradition with races for all ages...</p>",
+        "published": "Wed, 25 Nov 2026 07:55:00 +0000",
+        "image_url": "https://runabc.co.uk/images/2026/11/run-nl-christmas-cracker-2026.jpg"
+      },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-gym-host-womens-self-34961260",
         "title": "Glasgow gym to host women\u2019s self-defence course amid 'national emergency' of violence",
