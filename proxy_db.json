@@ -2686,6 +2686,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/decision-close-glasgow-day-centres-34964651",
+        "title": "Decision to close Glasgow day centres 'makes no sense' as councillor claims demand is rising",
+        "link": "https://www.glasgowlive.co.uk/news/decision-close-glasgow-day-centres-34964651",
+        "description": "An FOI provided a list of day care centres across the city and the number of people who have used them over the last seven years.",
+        "published": "Wed, 25 Nov 2026 13:49:02 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article21681472.ece/ALTERNATES/s98/0_JS191536381.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/news/articles/cqwy0rx769nwo#0",
+        "title": "Serial rapist jailed for attacks in five countries over 16-year period",
+        "link": "https://www.bbc.co.uk/news/articles/cqwy0rx769nwo?at_medium=RSS&at_campaign=rss",
+        "description": "Aaron Stewart was found guilty of sexual offences which spanned a 16 year period.",
+        "published": "Wed, 25 Nov 2026 13:44:20 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6541/live/3d761100-e8d2-11f1-99b6-a35a62fa4264.jpg"
+      },
+      {
         "id": "9372963",
         "title": "Glasgow charity offering help to families hit by energy price surge",
         "link": "https://www.glasgowworld.com/news/glasgow-charity-to-help-families-facing-energy-price-surge-9372963",
@@ -2764,14 +2780,6 @@
         "description": "Adam Stein from Glasgow raped and strangled six-year-old Collette Gallacher in February 1986.",
         "published": "Wed, 25 Nov 2026 08:34:46 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34962134.ece/ALTERNATES/s98/0_Screenshot-2026-11-25-082746.png"
-      },
-      {
-        "id": "9371821",
-        "title": "How to watch Torreense vs Celtic: TV channel, live stream, team news, referee and VAR for Europa League battle",
-        "link": "https://www.glasgowworld.com/sport/football/celtic/how-to-watch-torreense-vs-celtic-tv-channel-live-stream-team-news-referee-and-var-for-europa-league-battle-9371821",
-        "description": "<p>Everything you need to know about how to watch Celtic in Europe</p>",
-        "published": "Wed, 25 Nov 2026 08:00:28 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/25/8/25/GettyImages-2303789571.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0"
       },
       {
         "id": "https://runabc.co.uk/run-nl-christmas-cracker-2026-brings-festive-running-to-cumbernauld",
