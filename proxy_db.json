@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cr742z9gx894o#5",
+        "title": "MP calls for action after her likeness used for AI porn deepfakes",
+        "link": "https://www.bbc.co.uk/news/articles/cr742z9gx894o?at_medium=RSS&at_campaign=rss",
+        "description": "Mims Davies urged people to report any incidents so that \u201cculprits can be held to account\u201d.",
+        "published": "Wed, 25 Nov 2026 19:01:59 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fda/live/e659f080-e8b3-11f1-9e64-bddd508b9881.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c65y10j841jpo#5",
         "title": "EA adds AI-generated John Motson to FC 27 video game",
         "link": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
