@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cmj4reknwv9eo#2",
+        "title": "UK papers: Six-day streak 'smashes' global temperature record and 'Gord speed'",
+        "link": "https://www.bbc.co.uk/news/articles/cmj4reknwv9eo?at_medium=RSS&at_campaign=rss",
+        "description": "The world has experienced six consecutive days of temperatures 2C warmer than pre-industrial levels, according to the Guardian.",
+        "published": "Thu, 26 Nov 2026 01:01:31 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdf9/live/612032a0-e933-11f1-9bc3-811961023815.png"
+      },
+      {
         "id": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o#1",
         "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
         "link": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
