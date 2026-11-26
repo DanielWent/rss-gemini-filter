@@ -2806,6 +2806,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-police-launch-new-strategy-34972538",
+        "title": "Glasgow police launch new strategy to tackle youth violence in city centre",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-police-launch-new-strategy-34972538",
+        "description": "\u201cTackling youth violence and other associated harm and criminality requires a collaborative approach, and no single agency can solve these issues alone.\"",
+        "published": "Thu, 26 Nov 2026 18:52:42 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34972547.ece/ALTERNATES/s98/1_police.jpg"
+      },
+      {
         "id": "9377190",
         "title": "Rangers and Celtic greats unite as Graeme Souness and Scott Brown launch special DEBRA fundraising nights",
         "link": "https://www.glasgowworld.com/news/rangers-and-celtic-greats-unite-as-graeme-souness-and-scott-brown-launch-special-debra-fundraising-nights-9377190",
@@ -3246,7 +3254,7 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/b0e997140f2f1e9e435a6c3cc1059eb6-1795509007-1120x720.jpeg"
       }
     ],
-    "image_url": "https://runabc.co.uk/images/site/runabc-Scotland.png"
+    "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
   },
   "glasgow_live_ai_filtered": {
     "title": "Glasgow Live",
