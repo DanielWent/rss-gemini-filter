@@ -2758,6 +2758,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://runabc.co.uk/christmas-cracker-edinburgh-2026-brings-festive-racing-to-the-meadows",
+        "title": "A Festive Finale At Edinburgh's Meadows",
+        "link": "https://runabc.co.uk/christmas-cracker-edinburgh-2026-brings-festive-racing-to-the-meadows",
+        "description": "<p><img alt=\"Christmas Cracker Edinburgh 2026\" src=\"https://runabc.co.uk/images/2026/10/kent-christmas-cracker-2026.jpg\" /></p>\n\t\t\t\t<p>Christmas Cracker Edinburgh takes place on 27 December 2026, with fast 5K and 10K courses around The Meadows and festive running opportunities for the whole family...</p>",
+        "published": "Thu, 26 Nov 2026 07:55:00 +0000",
+        "image_url": "https://runabc.co.uk/images/2026/10/kent-christmas-cracker-2026.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-hmo-granted-licence-despite-34966464",
+        "title": "Glasgow HMO granted licence despite fly tipping concerns from neighbours",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-hmo-granted-licence-despite-34966464",
+        "description": "There were seven objections to the planning bid.",
+        "published": "Thu, 26 Nov 2026 07:48:17 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34966449.ece/ALTERNATES/s98/0_coplandplace.png"
+      },
+      {
         "id": "https://news.stv.tv/?p=539946",
         "title": "John Lewis stakes Christmas hopes on \u00a323m Glasgow revamp as shoppers tighten belts",
         "link": "https://news.stv.tv/west-central/john-lewis-stakes-christmas-hopes-on-23m-glasgow-revamp-as-shoppers-tighten-belts",
