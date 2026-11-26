@@ -2758,6 +2758,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=540087",
+        "title": "Ex-Asda manager who took pictures of schoolboy at Glasgow Central station urinal avoids jail",
+        "link": "https://news.stv.tv/west-central/ex-asda-manager-who-took-pictures-of-schoolboy-at-glasgow-central-station-urinal-avoids-jail",
+        "description": "David Groves, 29, took covert images of the boy, aged 16, at Glasgow Central station on December 16 last year",
+        "published": "Thu, 26 Nov 2026 11:14:53 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2025/12/30cd331674ff1479e8eafbc617260740-1765186437-1080x720.jpeg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-nhs-patient-left-waiting-34968536",
+        "title": "Glasgow NHS patient left waiting two years for tooth removal as Scots left in 'agony'",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-nhs-patient-left-waiting-34968536",
+        "description": "The average wait for a tooth removal across Scotland's largest health board now stands at 71 weeks.",
+        "published": "Thu, 26 Nov 2026 11:01:15 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34968667.ece/ALTERNATES/s98/0_gettyimages-980075140-170667a.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-subway-running-later-sunday-34968514",
         "title": "Glasgow Subway running later Sunday trains as festive timetable confirmed",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-subway-running-later-sunday-34968514",
