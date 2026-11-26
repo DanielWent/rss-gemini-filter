@@ -2758,6 +2758,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-subway-running-later-sunday-34968514",
+        "title": "Glasgow Subway running later Sunday trains as festive timetable confirmed",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-subway-running-later-sunday-34968514",
+        "description": "Glasgow Subway will be extending its Sunday opening hours ahead of the big day.",
+        "published": "Thu, 26 Nov 2026 10:31:43 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article31681928.ece/ALTERNATES/s98/6_JS359545236jpgSubway-staff-last-called-strike-action-in-2022.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=540059",
         "title": "Hundreds of jobs to be created at Faslane through submarine maintenance deal",
         "link": "https://news.stv.tv/west-central/hundreds-of-jobs-to-be-created-at-faslane-through-submarine-maintenance-deal",
