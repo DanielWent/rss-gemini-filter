@@ -2766,6 +2766,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=540138",
+        "title": "More than 4,000 set to compete at European Masters Athletics Indoor Championships in Glasgow",
+        "link": "https://news.stv.tv/west-central/more-than-4000-set-to-compete-at-european-masters-athletics-indoor-championships-in-glasgow",
+        "description": "The European Masters Athletes Indoor Championships will see athletes aged 35 and over compete in five-year age brackets.",
+        "published": "Thu, 26 Nov 2026 14:22:10 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/23b5f235404516e3406ffab3150e3873-1795701271.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-pensioners-fear-misery-grotesque-34970303",
+        "title": "Glasgow pensioners fear misery of 'grotesque' energy bill hike coming in January",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-pensioners-fear-misery-grotesque-34970303",
+        "description": "The current price cap on energy bills will rise by \u00a3443 per year, or \u00a336.91 per month from January 1.",
+        "published": "Thu, 26 Nov 2026 14:15:58 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34970452.ece/ALTERNATES/s98/2_pensioners.png"
+      },
+      {
         "id": "https://news.stv.tv/?p=540125",
         "title": "Upgrades to seven leisure facilities costing \u00a32m set for approval by Renfrewshire Council",
         "link": "https://news.stv.tv/west-central/upgrades-to-seven-leisure-facilities-costing-2m-set-for-approval-by-renfrewshire-council",
@@ -3166,7 +3182,7 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/b0e997140f2f1e9e435a6c3cc1059eb6-1795509007-1120x720.jpeg"
       }
     ],
-    "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    "image_url": "https://runabc.co.uk/images/site/runabc-Scotland.png"
   },
   "glasgow_live_ai_filtered": {
     "title": "Glasgow Live",
