@@ -2798,6 +2798,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/first-look-glasgow-john-lewis-34971639",
+        "title": "First look at Glasgow John Lewis \u00a323m revamp with new 'elevated' departments",
+        "link": "https://www.glasgowlive.co.uk/whats-on/whats-on-news/first-look-glasgow-john-lewis-34971639",
+        "description": "The flagship's revamp is said to offer customers \"an elevated, fresh, and modernised shopping experience\" - with a new tech area and wellness department.",
+        "published": "Thu, 26 Nov 2026 16:31:27 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34971757.ece/ALTERNATES/s98/2_JL.png"
+      },
+      {
+        "id": "https://news.stv.tv/?p=540188",
+        "title": "Celtic fan pointed lit firework at police dealing with unconscious man at title party",
+        "link": "https://news.stv.tv/west-central/celtic-fan-pointed-lit-firework-at-police-dealing-with-unconscious-man-at-title-party",
+        "description": "Alan McTaggart, 21, aimed the pyrotechnic at public order officers forming a cordon after mass disruption broke out",
+        "published": "Thu, 26 Nov 2026 16:28:09 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/09/e0f5d376f6308b3d5547a693e41fec2c-1789460806-1280x720.jpeg"
+      },
+      {
         "id": "https://news.stv.tv/?p=540065",
         "title": "Glasgow souvenir shop workers awarded \u00a384,000 after unfair dismissal victory",
         "link": "https://news.stv.tv/west-central/glasgow-souvenir-shop-workers-awarded-84000-after-unfair-dismissal-victory",
@@ -3206,7 +3222,7 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/b0e997140f2f1e9e435a6c3cc1059eb6-1795509007-1120x720.jpeg"
       }
     ],
-    "image_url": "https://runabc.co.uk/images/site/runabc-Scotland.png"
+    "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
   },
   "glasgow_live_ai_filtered": {
     "title": "Glasgow Live",
