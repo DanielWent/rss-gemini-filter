@@ -2806,6 +2806,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cm7827z91xgjo#0",
+        "title": "The derelict bowling club at the heart of Scotland's urban green space debate",
+        "link": "https://www.bbc.co.uk/news/articles/cm7827z91xgjo?at_medium=RSS&at_campaign=rss",
+        "description": "Campaigners say what happens to a former Glasgow bowling club could have implications for other places.",
+        "published": "Thu, 26 Nov 2026 22:46:51 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f23f/live/a6a1cf00-e9c4-11f1-8d2a-f5d2aabc11cb.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/floating-islands-installed-glasgow-parks-34969764",
         "title": "'Floating islands' installed in Glasgow parks as part of Commonwealth Games legacy",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/floating-islands-installed-glasgow-parks-34969764",
