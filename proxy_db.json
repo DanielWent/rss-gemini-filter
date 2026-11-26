@@ -2806,6 +2806,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "9377190",
+        "title": "Rangers and Celtic greats unite as Graeme Souness and Scott Brown launch special DEBRA fundraising nights",
+        "link": "https://www.glasgowworld.com/news/rangers-and-celtic-greats-unite-as-graeme-souness-and-scott-brown-launch-special-debra-fundraising-nights-9377190",
+        "description": "<p>Souness and Brown invite fans to join team DEBRA with Celtic and Rangers legends</p>",
+        "published": "Thu, 26 Nov 2026 18:30:54 GMT",
+        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/26/18/50/Souness-Isla-Grist-Scott-(1).jpeg?width=1200&auto=webp&trim=409%2C0%2C395%2C6"
+      },
+      {
         "id": "https://news.stv.tv/?p=540223",
         "title": "Multi-agency initiative launched in bid to tackle violence in Glasgow city centre",
         "link": "https://news.stv.tv/west-central/multi-agency-initiative-launched-in-bid-to-tackle-violence-in-glasgow-city-centre",
@@ -3238,7 +3246,7 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/b0e997140f2f1e9e435a6c3cc1059eb6-1795509007-1120x720.jpeg"
       }
     ],
-    "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    "image_url": "https://runabc.co.uk/images/site/runabc-Scotland.png"
   },
   "glasgow_live_ai_filtered": {
     "title": "Glasgow Live",
