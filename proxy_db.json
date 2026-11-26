@@ -2766,6 +2766,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/intrusive-digital-billboard-plan-angers-34964528",
+        "title": "'Intrusive' digital billboard plan angers Glasgow locals who say they weren't consulted",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/intrusive-digital-billboard-plan-angers-34964528",
+        "description": "JCDecaux have started replacing its old billboard with a massive digital one in Ibrox.",
+        "published": "Thu, 26 Nov 2026 14:29:10 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34965428.ece/ALTERNATES/s98/0_Screenshot-2026-11-25-144947.png"
+      },
+      {
         "id": "https://news.stv.tv/?p=540138",
         "title": "More than 4,000 set to compete at European Masters Athletics Indoor Championships in Glasgow",
         "link": "https://news.stv.tv/west-central/more-than-4000-set-to-compete-at-european-masters-athletics-indoor-championships-in-glasgow",
@@ -3182,7 +3190,7 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/b0e997140f2f1e9e435a6c3cc1059eb6-1795509007-1120x720.jpeg"
       }
     ],
-    "image_url": "https://runabc.co.uk/images/site/runabc-Scotland.png"
+    "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
   },
   "glasgow_live_ai_filtered": {
     "title": "Glasgow Live",
