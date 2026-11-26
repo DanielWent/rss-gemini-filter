@@ -2806,6 +2806,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/floating-islands-installed-glasgow-parks-34969764",
+        "title": "'Floating islands' installed in Glasgow parks as part of Commonwealth Games legacy",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/floating-islands-installed-glasgow-parks-34969764",
+        "description": "Seven of the new floating islands have been installed in ponds around five Glasgow sites to support local biodiversity.",
+        "published": "Thu, 26 Nov 2026 21:00:00 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34969958.ece/ALTERNATES/s98/0_06-Glasgow2026-Victoria-Park.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-police-launch-new-strategy-34972538",
         "title": "Glasgow police launch new strategy to tackle youth violence in city centre",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-police-launch-new-strategy-34972538",
@@ -2820,14 +2828,6 @@
         "description": "<p>Souness and Brown invite fans to join team DEBRA with Celtic and Rangers legends</p>",
         "published": "Thu, 26 Nov 2026 18:30:54 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/26/18/50/Souness-Isla-Grist-Scott-(1).jpeg?width=1200&auto=webp&trim=409%2C0%2C395%2C6"
-      },
-      {
-        "id": "https://news.stv.tv/?p=540223",
-        "title": "Multi-agency initiative launched in bid to tackle violence in Glasgow city centre",
-        "link": "https://news.stv.tv/west-central/multi-agency-initiative-launched-in-bid-to-tackle-violence-in-glasgow-city-centre",
-        "description": "Police Scotland joined a range of partners to launch the Violence Prevention Partnership on Wednesday.",
-        "published": "Thu, 26 Nov 2026 18:14:43 +0000",
-        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/b034f555a5646a3443edc2ffbcfe0f6d-1795716115-1078x720.jpeg"
       },
       {
         "id": "https://news.stv.tv/?p=540219",
@@ -3254,7 +3254,7 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/b0e997140f2f1e9e435a6c3cc1059eb6-1795509007-1120x720.jpeg"
       }
     ],
-    "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    "image_url": "https://runabc.co.uk/images/site/runabc-Scotland.png"
   },
   "glasgow_live_ai_filtered": {
     "title": "Glasgow Live",
