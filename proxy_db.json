@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o#1",
+        "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
+        "link": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
+        "description": "Changing seasons are affecting wildlife and leading some farmers to grow different crops.",
+        "published": "Thu, 26 Nov 2026 00:08:07 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0a2/live/0f7bb370-e749-11f1-88dc-f746e0cde621.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cr742z9gx894o#5",
         "title": "MP calls for action after her likeness used for AI porn deepfakes",
         "link": "https://www.bbc.co.uk/news/articles/cr742z9gx894o?at_medium=RSS&at_campaign=rss",
