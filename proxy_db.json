@@ -2806,6 +2806,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=540223",
+        "title": "Multi-agency initiative launched in bid to tackle violence in Glasgow city centre",
+        "link": "https://news.stv.tv/west-central/multi-agency-initiative-launched-in-bid-to-tackle-violence-in-glasgow-city-centre",
+        "description": "Police Scotland joined a range of partners to launch the Violence Prevention Partnership on Wednesday.",
+        "published": "Thu, 26 Nov 2026 18:14:43 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/b034f555a5646a3443edc2ffbcfe0f6d-1795716115-1078x720.jpeg"
+      },
+      {
         "id": "https://news.stv.tv/?p=540219",
         "title": "Three weeks of overnight closures on M8 due to works which began in 2021",
         "link": "https://news.stv.tv/west-central/three-weeks-of-overnight-closures-on-m8-due-to-works-which-began-in-2021",
@@ -3230,7 +3238,7 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/b0e997140f2f1e9e435a6c3cc1059eb6-1795509007-1120x720.jpeg"
       }
     ],
-    "image_url": "https://runabc.co.uk/images/site/runabc-Scotland.png"
+    "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
   },
   "glasgow_live_ai_filtered": {
     "title": "Glasgow Live",
