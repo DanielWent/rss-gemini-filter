@@ -2822,6 +2822,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=540109",
+        "title": "Council urges public to respect George Square as Christmas Markets return",
+        "link": "https://news.stv.tv/west-central/council-urges-public-to-respect-george-square-as-christmas-markets-return",
+        "description": "The markets have returned to the city centre landmark for the first time in two years, though parts of the \u00a320m revamp are still to be completed",
+        "published": "Fri, 27 Nov 2026 07:04:33 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/fb4ea48b4df281c84d0745f7c889eb40-1795699399-1280x720.jpeg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cm7827z91xgjo#0",
         "title": "The derelict bowling club at the heart of Scotland's urban green space debate",
         "link": "https://www.bbc.co.uk/news/articles/cm7827z91xgjo?at_medium=RSS&at_campaign=rss",
@@ -3278,7 +3286,7 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/b0e997140f2f1e9e435a6c3cc1059eb6-1795509007-1120x720.jpeg"
       }
     ],
-    "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    "image_url": "https://runabc.co.uk/images/site/runabc-Scotland.png"
   },
   "glasgow_live_ai_filtered": {
     "title": "Glasgow Live",
