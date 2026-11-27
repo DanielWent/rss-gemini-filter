@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c32l50v7x2v1o#2",
+        "title": "The young hikers finding friendship and fresh air offline",
+        "link": "https://www.bbc.co.uk/news/articles/c32l50v7x2v1o?at_medium=RSS&at_campaign=rss",
+        "description": "From hiking in the Peak District hills to the city parks of Leicester - we talk to several young people who've embraced walking groups and feel better for it.",
+        "published": "Fri, 27 Nov 2026 00:52:34 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baec/live/bc60a6d0-e9b1-11f1-99a1-253766e7ad8b.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/cmj4reknwv9eo#2",
         "title": "UK papers: Six-day streak 'smashes' global temperature record and 'Gord speed'",
         "link": "https://www.bbc.co.uk/news/articles/cmj4reknwv9eo?at_medium=RSS&at_campaign=rss",
