@@ -653,14 +653,6 @@
         "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg"
       },
       {
-        "id": "https://www.bbc.co.uk/news/articles/c862yv953x04o#4",
-        "title": "Glasgow museums remove mummified remains from public view over ethical concerns",
-        "link": "https://www.bbc.co.uk/news/articles/c862yv953x04o?at_medium=RSS&at_campaign=rss",
-        "description": "Kelvingrove Museum and The Hunterian say they have removed human remains from display because of ethical concerns.",
-        "published": "Fri, 23 Oct 2026 14:36:49 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f392/live/b1ca2050-cef1-11f1-accf-3309656ad0bb.jpg"
-      },
-      {
         "id": "https://www.bbc.co.uk/sport/olympics/articles/cwz0vn1yk235o#8",
         "title": "World champion Jepchirchir fails drugs test",
         "link": "https://www.bbc.co.uk/sport/olympics/articles/cwz0vn1yk235o?at_medium=RSS&at_campaign=rss",
@@ -1312,6 +1304,14 @@
     "link": "https://the5krunner.com",
     "description": "AI Filtered The 5k Runner Sports Tech Updates.",
     "articles": [
+      {
+        "id": "https://the5krunner.com/?p=147686",
+        "title": "COROS Orizon is its inReach Competitor \u2013 maybe",
+        "link": "https://the5krunner.com/2026/11/27/coros-orizon-inreach/",
+        "description": "<p><img alt=\"COROS Orizon is its inReach Competitor &#8211; maybe\" class=\"attachment-large size-large\" height=\"636\" src=\"https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2017/11/strava-world.png/w=1110,h=636\" style=\"height: auto;\" width=\"1110\" /></p>\n<p>A satellite link needs a big aerial, so I expect a handheld that pairs with Vertix 4 and Dura 2. It makes sense today, but 6G should make separate satellite boxes pointless early in the next decade.</p>\n<p>Read the full post at <a href=\"https://the5krunner.com/2026/11/27/coros-orizon-inreach/\">COROS Orizon is its inReach Competitor &#8211; maybe</a>. <a href=\"https://the5krunner.com\">the5krunner</a> is an independent endurance sports technology publication by tfk, with in-depth reviews of GPS watches, fitness trackers and cycling computers since 2010.</p>\n<p>If you use the5krunner professionally or find it valuable, please <a href=\"https://the5krunner.com/subscribe/\">support the site</a> (removes ads).</p>\n<p><a href=\"https://the5krunner.com/login/\">Supporter Login</a></p>\n<a href=\"https://the5krunner.com/rss-check-7h2k/\" rel=\"nofollow\"></a>",
+        "published": "Fri, 27 Nov 2026 19:39:26 +0000",
+        "image_url": "https://imagedelivery.net/_jGo7Cp8DLHLbI9FzBn6-Q/the5krunner.com/2017/11/strava-world.png/w=1110,h=636"
+      },
       {
         "id": "https://the5krunner.com/?p=147564",
         "title": "New Garmin features Q4 2026 \u2013 does your watch miss out?",
@@ -2918,7 +2918,7 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/02f9b3c950b05cfd3b6cf18ba585b6b5-1793468469-1200x720.jpeg"
       }
     ],
-    "image_url": "https://runabc.co.uk/images/site/runabc-Scotland.png"
+    "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
   },
   "glasgow_live_ai_filtered": {
     "title": "Glasgow Live",
