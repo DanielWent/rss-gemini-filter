@@ -2822,6 +2822,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-flat-engulfed-flames-neighbours-34973494",
+        "title": "Glasgow flat engulfed in flames as neighbours rush to aid trapped resident",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-flat-engulfed-flames-neighbours-34973494",
+        "description": "The property was engulfed in intense, bright orange flames.",
+        "published": "Fri, 27 Nov 2026 08:59:50 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34973583.ece/ALTERNATES/s98/0_unnamed-15-hidden.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-bonfire-night-plagued-oversized-34971987",
         "title": "Glasgow bonfire night plagued by oversized blazes and 'limited' CCTV as firefighters suffer violence",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-bonfire-night-plagued-oversized-34971987",
