@@ -2854,6 +2854,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=540318",
+        "title": "Man taken to hospital after being found injured on Glasgow\u2019s Govan Road",
+        "link": "https://news.stv.tv/west-central/man-taken-to-hospital-after-being-found-injured-on-glasgows-govan-road",
+        "description": "Police say enquiries are ongoing to establish how the man came to be injured.",
+        "published": "Fri, 27 Nov 2026 14:15:17 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/483b701f9e7dc203d5725823ae293665-1795787214.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/plan-flags-outside-glasgows-princes-34975607",
         "title": "Plan for flags outside Glasgow's Princes Square to boost footfall recommended for refusal",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/plan-flags-outside-glasgows-princes-34975607",
