@@ -2846,6 +2846,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-film-telling-unknown-story-34974710",
+        "title": "New film telling unknown story of Celtic 'lost legend' to be funded by fans",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/new-film-telling-unknown-story-34974710",
+        "description": "Fans have wondered for decades what happened to George Connelly when he disappeared from the public eye more than 50 years ago.",
+        "published": "Fri, 27 Nov 2026 12:11:35 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34975090.ece/ALTERNATES/s98/1_george.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/vulnerable-man-missing-glasgow-hospital-34974749",
+        "title": "Vulnerable man missing from Glasgow hospital as family issue desperate appeal",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/vulnerable-man-missing-glasgow-hospital-34974749",
+        "description": "Police enquiries are ongoing to trace Ross Sadler.",
+        "published": "Fri, 27 Nov 2026 11:53:48 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34975040.ece/ALTERNATES/s98/0_74e28f5a-f72f-4ab1-9b23-833d19988c06jpeg.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-domestic-abuse-shirt-stall-34974178",
         "title": "Glasgow domestic abuse t-shirt stall tells men 'you wouldn't wear it, so why do it'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-domestic-abuse-shirt-stall-34974178",
