@@ -2862,6 +2862,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=540347",
+        "title": "Casualty in hospital after being rescued from tenement block fire in Glasgow",
+        "link": "https://news.stv.tv/west-central/casualty-in-hospital-after-being-rescued-from-tenement-block-fire-in-glasgow",
+        "description": "Emergency services were called to Stronvar Drive in the Scotstounhill area of the city",
+        "published": "Fri, 27 Nov 2026 16:24:08 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/02f9b3c950b05cfd3b6cf18ba585b6b5-1793468469-1200x720.jpeg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/new-glasgow-market-launches-weekend-34977340",
         "title": "New Glasgow market launches this weekend to celebrate 'creative talent'",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/new-glasgow-market-launches-weekend-34977340",
