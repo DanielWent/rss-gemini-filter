@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "1795806320051977",
+        "title": "New satellite data shows how fast some African cities are sinking",
+        "link": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
+        "description": "Cities including Lagos and Alexandria are sinking faster than previously thought, a new study shows.",
+        "published": "Fri, 27 Nov 2026 20:03:18 +0100",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3110/live/92589920-e988-11f1-9d1c-4dcc8fcde666.jpg"
+      },
+      {
         "id": "https://www.bbc.co.uk/news/articles/c32l50v7x2v1o#2",
         "title": "The young hikers finding friendship and fresh air offline",
         "link": "https://www.bbc.co.uk/news/articles/c32l50v7x2v1o?at_medium=RSS&at_campaign=rss",
@@ -2869,6 +2877,14 @@
     "icon_url": "https://lincoln149.alwaysdata.net/favicon.ico",
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
+      {
+        "id": "https://news.stv.tv/?p=540374",
+        "title": "More than 150 objections to plans to turn former church into bar and restaurant",
+        "link": "https://news.stv.tv/west-central/more-than-150-objections-to-plans-to-turn-former-church-into-bar-and-restaurant",
+        "description": "Council officials have recommended the plan to transform Hyndland Parish Church should be approved",
+        "published": "Fri, 27 Nov 2026 19:17:05 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/374d8a8b9aeffaa52e078422657880d8-1795807007-1200x720.jpeg"
+      },
       {
         "id": "9377801",
         "title": "Falkirk plan to spoil Rangers\u2019 table-topping party as Bairns seek milestone of their own amid 119-year first",
