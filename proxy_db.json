@@ -2854,6 +2854,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-womens-service-secures-funding-34975385",
+        "title": "Glasgow women\u2019s service secures funding after fears \u2018life-changing\u2019 group would close",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-womens-service-secures-funding-34975385",
+        "description": "Staff and service users at Murray's Initiative's Women's Service are \"delighted\" to be able to continue their crucial work.",
+        "published": "Fri, 27 Nov 2026 13:16:03 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34965476.ece/ALTERNATES/s98/2_PXL_20261124_101611766MP2.jpg"
+      },
+      {
         "id": "9377950",
         "title": "Rangers duo \u2018ahead of schedule\u2019 on injury recovery trail as Derek McInnes lands League Cup final boost",
         "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-duo-ahead-of-schedule-on-injury-recovery-trail-as-derek-mcinnes-lands-league-cup-final-boost-9377950",
@@ -3324,14 +3332,6 @@
         "description": "Chiefs say rape crisis centres in the west represent 41% of Scotland\u2019s population, but receive only 28% of available government funding",
         "published": "Wed, 25 Nov 2026 07:11:29 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/fa4d17b9c66a9606a99b522a6d87d52e-1795108752-1080x720.jpeg"
-      },
-      {
-        "id": "https://www.bbc.co.uk/sport/football/articles/cw808pyyxgzjo#0",
-        "title": "Rangers 'dug it out' despite naivety & complacency - McInnes",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cw808pyyxgzjo?at_medium=RSS&at_campaign=rss",
-        "description": "Rangers manager Derek McInnes says his team's naivety and complacency made their task more difficult in their thrilling 3-2 win over Aberdeen, but hails their ability to get the job done.",
-        "published": "Wed, 25 Nov 2026 01:20:53 GMT",
-        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/894a/live/51627690-e86e-11f1-bcda-1d03b8eb883f.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-rushed-glasgow-hospital-after-34960889",
