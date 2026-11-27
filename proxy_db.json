@@ -2822,6 +2822,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-secondary-school-three-new-34972119",
+        "title": "Glasgow secondary school to get three new classrooms to make space for pupils",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-secondary-school-three-new-34972119",
+        "description": "A new building will be added outside the existing school if plans are approved.",
+        "published": "Fri, 27 Nov 2026 09:49:42 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article30223896.ece/ALTERNATES/s98/0_smithcroft.png"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/man-appear-court-over-organised-34973661",
+        "title": "Man to appear in court over organised crime charge after Police Scotland and UAE operation",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/man-appear-court-over-organised-34973661",
+        "description": "The 46-year-old is alleged to have committed the crimes across Scotland during 2020.",
+        "published": "Fri, 27 Nov 2026 09:42:20 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34973792.ece/ALTERNATES/s98/0_gettyimages-1784447972-170667a-4.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-flat-engulfed-flames-neighbours-34973494",
         "title": "Glasgow flat engulfed in flames as neighbours rush to aid trapped resident",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-flat-engulfed-flames-neighbours-34973494",
@@ -2852,6 +2868,14 @@
         "description": "<p>Celtic boss believes his side have given themselves renewed hope of reaching the Europa League knockout stages</p>",
         "published": "Fri, 27 Nov 2026 08:00:22 GMT",
         "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/26/22/35/PA-86202441.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0"
+      },
+      {
+        "id": "https://runabc.co.uk/x-border-10k-2027-returns-for-16th-year-with-entries-open",
+        "title": "One Race, Two Countries And Sixteen Years Of Running",
+        "link": "https://runabc.co.uk/x-border-10k-2027-returns-for-16th-year-with-entries-open",
+        "description": "<p><img alt=\"X Border 10K Carlisle to Gretna 2027\" src=\"https://runabc.co.uk/images/2026/11/x-border-10k-carlisle-to-gretna-2027.jpg\" /></p>\n\t\t\t\t<p>X Border 10K returns on 31 January 2027 for its 16th year, offering runners another opportunity to race from Carlisle into Scotland after previous sell-out editions...</p>",
+        "published": "Fri, 27 Nov 2026 07:55:00 +0000",
+        "image_url": "https://runabc.co.uk/images/2026/11/x-border-10k-carlisle-to-gretna-2027.jpg"
       },
       {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/crackdown-shoplifting-scotland-millions-lost-34970333",
@@ -3326,7 +3350,7 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/b0e997140f2f1e9e435a6c3cc1059eb6-1795509007-1120x720.jpeg"
       }
     ],
-    "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    "image_url": "https://runabc.co.uk/images/site/runabc-Scotland.png"
   },
   "glasgow_live_ai_filtered": {
     "title": "Glasgow Live",
