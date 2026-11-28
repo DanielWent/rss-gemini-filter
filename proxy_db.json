@@ -2902,6 +2902,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/mum-who-lost-baby-after-34979987",
+        "title": "Mum who lost baby after ex's attack now fighting for tougher punishments",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/mum-who-lost-baby-after-34979987",
+        "description": "Jemma Marshall, from Kilmarnock, lost her daughter Layla at nineteen weeks in November 2022, less than a month after her former partner attacked her while she was taking out the bins.",
+        "published": "Sat, 28 Nov 2026 10:41:47 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34979986.ece/ALTERNATES/s98/0_7cad1756-5823-4bd8-9db1-77b163a86a26jpeg.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-dads-free-public-toilets-34965745",
+        "title": "Glasgow dad's free public toilets app aids users in need with helpful loo SatNav",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-dads-free-public-toilets-34965745",
+        "description": "Callum Buchanan hopes it will highlight the lack of facilities across the UK and perhaps even encourage more free public toilets.",
+        "published": "Sat, 28 Nov 2026 10:25:23 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/news/glasgow-news/article34966538.ece/ALTERNATES/s98/1_Callum-Family-Find-Nearby-App.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/mum-hails-lifesaver-glasgow-hospital-34975914",
         "title": "Mum hails 'lifesaver' Glasgow hospital service as son flown over 100 miles for emergency treatment",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/mum-hails-lifesaver-glasgow-hospital-34975914",
