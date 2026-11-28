@@ -2902,6 +2902,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-hit-heavy-rain-met-34980246",
+        "title": "Glasgow to be hit with heavy rain as Met Office yellow weather warning issued",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-hit-heavy-rain-met-34980246",
+        "description": "From 3am on Monday, November 30 until 12 on Tuesday, December 1, heavy rain will impact road and travel arrangements throughout the city",
+        "published": "Sat, 28 Nov 2026 12:09:35 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34541144.ece/ALTERNATES/s98/0_gettyimages-2195007511-594x594.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/whats-on/visited-north-pole-one-day-34978869",
+        "title": "I visited the North Pole in one day as immersive Christmas experience lands near Glasgow",
+        "link": "https://www.glasgowlive.co.uk/whats-on/visited-north-pole-one-day-34978869",
+        "description": "It's an immersive experience that literally had my one-year-old screaming \"wow\" at every corner she turned.",
+        "published": "Sat, 28 Nov 2026 11:54:11 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34979000.ece/ALTERNATES/s98/0_Screenshot-2026-11-27-184940.png"
+      },
+      {
         "id": "https://news.stv.tv/?p=540388",
         "title": "RAF apologises for low-flying over Lockerbie before 38th anniversary of bombing",
         "link": "https://news.stv.tv/west-central/raf-apologises-for-low-flying-over-lockerbie-before-38th-anniversary-of-bombing",
