@@ -2902,12 +2902,28 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/mum-hails-lifesaver-glasgow-hospital-34975914",
+        "title": "Mum hails 'lifesaver' Glasgow hospital service as son flown over 100 miles for emergency treatment",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/mum-hails-lifesaver-glasgow-hospital-34975914",
+        "description": "Emma Rogers had expected to travel normally from Tiree to Glasgow after three-year-old son Aspen needed hospital treatment when a chest infection exacerbated his Cystic Fibrosis.",
+        "published": "Sat, 28 Nov 2026 09:36:50 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34975941.ece/ALTERNATES/s98/1_Aspen-grab-1.png"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-police-operation-city-centre-34976073",
         "title": "Glasgow police operation in city centre hunts higher level drug dealers",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-police-operation-city-centre-34976073",
         "description": "The operation also involves the council and Crown Office.",
         "published": "Sat, 28 Nov 2026 09:20:21 +0000",
         "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34584892.ece/ALTERNATES/s98/1_RTP_SDR_121125_Police_Glasgow_City_006JPG.jpg"
+      },
+      {
+        "id": "https://www.bbc.co.uk/sport/football/articles/ck1ewjw1qqn7o#0",
+        "title": "Celtic defend head of security amid Green Brigade row",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ck1ewjw1qqn7o?at_medium=RSS&at_campaign=rss",
+        "description": "Celtic defend their head of security Mark Hargreaves and the action taken against the Green Brigade last season.",
+        "published": "Fri, 27 Nov 2026 21:50:01 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19ef/live/10726840-eaa6-11f1-9541-edfa153772c7.jpg"
       },
       {
         "id": "9378800",
@@ -2924,14 +2940,6 @@
         "description": "Council officials have recommended the plan to transform Hyndland Parish Church should be approved",
         "published": "Fri, 27 Nov 2026 19:17:05 +0000",
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/374d8a8b9aeffaa52e078422657880d8-1795807007-1200x720.jpeg"
-      },
-      {
-        "id": "9377801",
-        "title": "Falkirk plan to spoil Rangers\u2019 table-topping party as Bairns seek milestone of their own amid 119-year first",
-        "link": "https://www.glasgowworld.com/sport/football/rangers/falkirk-plan-to-spoil-rangers-premiership-table-topping-party-as-bairns-seek-milestone-of-their-own-amid-119-year-first-9377801",
-        "description": "<p>John McGlynn\u2019s side head to Ibrox off the back of six consecutive wins</p>",
-        "published": "Fri, 27 Nov 2026 18:00:57 GMT",
-        "image_url": "https://www.glasgowworld.com/jpim-static/image/2026/11/27/14/10/GettyImages-2249178422.jpeg?width=1200&auto=webp&trim=0%2C7%2C80%2C0"
       },
       {
         "id": "9377902",
