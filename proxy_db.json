@@ -2902,6 +2902,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/cqrkgj2zv1z1o#0",
+        "title": "Man seriously injured in Glasgow southside stabbing",
+        "link": "https://www.bbc.co.uk/news/articles/cqrkgj2zv1z1o?at_medium=RSS&at_campaign=rss",
+        "description": "The man was taken to hospital after the attack in the Priesthill area of the city.",
+        "published": "Sat, 28 Nov 2026 14:51:09 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d78b/live/a1895ac0-eb3a-11f1-b514-bbaea63b50f5.jpg"
+      },
+      {
         "id": "https://news.stv.tv/?p=540393",
         "title": "Man, 25, critical in hospital after dirt bike crash on footpath in Glasgow\u2019s East End",
         "link": "https://news.stv.tv/west-central/man-25-critical-in-hospital-after-dirt-bike-crash-on-footpath-in-glasgows-east-end",
@@ -3022,7 +3030,7 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/02f9b3c950b05cfd3b6cf18ba585b6b5-1793468469-1200x720.jpeg"
       }
     ],
-    "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    "image_url": "https://runabc.co.uk/images/site/runabc-Scotland.png"
   },
   "glasgow_live_ai_filtered": {
     "title": "Glasgow Live",
