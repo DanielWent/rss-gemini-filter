@@ -2902,6 +2902,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=540393",
+        "title": "Man, 25, critical in hospital after dirt bike crash on footpath in Glasgow\u2019s East End",
+        "link": "https://news.stv.tv/west-central/man-25-critical-in-hospital-after-dirt-bike-crash-on-footpath-in-glasgows-east-end",
+        "description": "The 25-year-old was seriously hurt on Edinburgh Road",
+        "published": "Sat, 28 Nov 2026 14:08:17 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/89e6221ce867410b4c25b1e37dfd1747-1795874743.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-hit-heavy-rain-met-34980246",
         "title": "Glasgow to be hit with heavy rain as Met Office yellow weather warning issued",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-hit-heavy-rain-met-34980246",
@@ -3014,7 +3022,7 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/02f9b3c950b05cfd3b6cf18ba585b6b5-1793468469-1200x720.jpeg"
       }
     ],
-    "image_url": "https://runabc.co.uk/images/site/runabc-Scotland.png"
+    "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
   },
   "glasgow_live_ai_filtered": {
     "title": "Glasgow Live",
