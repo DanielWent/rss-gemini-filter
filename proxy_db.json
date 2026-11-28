@@ -2902,6 +2902,22 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://news.stv.tv/?p=540388",
+        "title": "RAF apologises for low-flying over Lockerbie before 38th anniversary of bombing",
+        "link": "https://news.stv.tv/west-central/raf-apologises-for-low-flying-over-lockerbie-before-38th-anniversary-of-bombing",
+        "description": "The incidents are said to have happened on the 12th and 13th of November",
+        "published": "Sat, 28 Nov 2026 11:44:58 +0000",
+        "image_url": "https://news.stv.tv/wp-content/uploads/2026/11/64fe2bdebf30b08b4e365cdb8aac1725-1795866084-1280x720.jpg"
+      },
+      {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-parents-celebrate-after-council-34980066",
+        "title": "Glasgow parents celebrate after council commit to upgrading play park after being padlocked shut",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-parents-celebrate-after-council-34980066",
+        "description": "The campaign led by Living Rent tenants and community union members has seen Glasgow City Council commit a total of \u00a3170,000 in funding for the park to be reopened and upgraded",
+        "published": "Sat, 28 Nov 2026 11:44:48 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34980069.ece/ALTERNATES/s98/0_springburn-1.jpg"
+      },
+      {
         "id": "https://www.glasgowlive.co.uk/news/glasgow-news/mum-who-lost-baby-after-34979987",
         "title": "Mum who lost baby after ex's attack now fighting for tougher punishments",
         "link": "https://www.glasgowlive.co.uk/news/glasgow-news/mum-who-lost-baby-after-34979987",
@@ -2982,7 +2998,7 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/02f9b3c950b05cfd3b6cf18ba585b6b5-1793468469-1200x720.jpeg"
       }
     ],
-    "image_url": "https://runabc.co.uk/images/site/runabc-Scotland.png"
+    "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
   },
   "glasgow_live_ai_filtered": {
     "title": "Glasgow Live",
