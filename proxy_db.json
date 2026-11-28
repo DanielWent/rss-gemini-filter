@@ -2902,6 +2902,14 @@
     "output_file": "Glasgow_Newsletter_Candidates.xml",
     "articles": [
       {
+        "id": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-police-operation-city-centre-34976073",
+        "title": "Glasgow police operation in city centre hunts higher level drug dealers",
+        "link": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-police-operation-city-centre-34976073",
+        "description": "The operation also involves the council and Crown Office.",
+        "published": "Sat, 28 Nov 2026 09:20:21 +0000",
+        "image_url": "https://i2-prod.glasgowlive.co.uk/incoming/article34584892.ece/ALTERNATES/s98/1_RTP_SDR_121125_Police_Glasgow_City_006JPG.jpg"
+      },
+      {
         "id": "9378800",
         "title": "Rangers vs Falkirk injury news: 8 out and 5 doubts as title-chasing hosts prepare for in-form Bairns test",
         "link": "https://www.glasgowworld.com/sport/football/rangers/rangers-falkirk-injury-news-out-doubts-title-chasing-hosts-prepare-for-bairns-test-9378800",
