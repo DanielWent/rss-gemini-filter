@@ -5,6 +5,14 @@
     "description": "AI Filtered BBC News.",
     "articles": [
       {
+        "id": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo#2",
+        "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+        "link": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+        "description": "With an official PC version potentially still months away, fans are getting impatient.",
+        "published": "Sat, 28 Nov 2026 01:30:50 GMT",
+        "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98a4/live/a2c48d10-e97d-11f1-99a1-253766e7ad8b.jpg"
+      },
+      {
         "id": "1795806320051977",
         "title": "New satellite data shows how fast some African cities are sinking",
         "link": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
@@ -2926,7 +2934,7 @@
         "image_url": "https://news.stv.tv/wp-content/uploads/2026/10/02f9b3c950b05cfd3b6cf18ba585b6b5-1793468469-1200x720.jpeg"
       }
     ],
-    "image_url": "https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+    "image_url": "https://runabc.co.uk/images/site/runabc-Scotland.png"
   },
   "glasgow_live_ai_filtered": {
     "title": "Glasgow Live",
